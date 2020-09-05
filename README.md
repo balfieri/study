@@ -6,7 +6,7 @@ There are three text files provided for various topics of my interest:
 
 italian.txt<br>
 french.txt<br>
-aviation.txt - except for weather<br>
+aviation.txt<br>
 weather.txt - aviation weather symbols<br>
 
 To run, say, the italian questions, you type:
