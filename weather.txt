@@ -1,4 +1,4 @@
-# weather.txt - aviation weather
+# weather.txt - aviation weather symbols
 #
 UA
 routine
@@ -50,15 +50,6 @@ special report
 
 TWEB
 transcribed weather broadcast
-
-HIWAS
-hazardous inflight weather advisory service
-
-AWOS
-automatic weather observation system
-
-ATIS
-automatic terminal infrormation services
 
 NSW
 no signficant weather
@@ -386,3 +377,6 @@ out for maintenance
 
 LM
 little movement
+
+CIG
+ceiling
