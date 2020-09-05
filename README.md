@@ -4,10 +4,10 @@ It has a nice feature where it will re-test the questions that you missed.
 
 There are three text files provided for various topics of my interest:
 
-italian.txt 
-french.txt
-aviation.txt - except for weather
-weather.txt - aviation weather symbols
+italian.txt<br>
+french.txt<br>
+aviation.txt - except for weather<br>
+weather.txt - aviation weather symbols<br>
 
 To run, say, the italian questions, you type:
 
