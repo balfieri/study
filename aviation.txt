@@ -72,6 +72,9 @@ climb, circle, conserve, calculate, communicate
 runway incursion risks
 crossing runway/taxiway, takeoff/landing without clearance, failure to comply with ATC, lack of airport familiarity, failure to follow SOP
 
+SOP
+standard operation procedures
+
 flight controls
 ailerons, elevator, rudder, flaps, trim
 
