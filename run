@@ -1,0 +1,126 @@
+#!/usr/bin/perl
+#
+# run <subject>
+#
+use strict;
+use warnings FATAL => 'all';
+use diagnostics;
+
+#-----------------------------------------------------------------------
+# read in questions.txt file
+#-----------------------------------------------------------------------
+@ARGV == 1 or die "usage: run <subject>\n";
+my $filename = $ARGV[0] . ".txt";
+-f $filename or die "ERROR: could not find $filename\n";
+open( Q, $filename ) or die "ERROR: could not open $filename for reading\n";
+my @questions = ();
+my $line_num = 0;
+while( <Q> )
+{
+    chomp;
+    s/^\s+//;
+    s/\s+$//;
+    /^#/ and next;
+    /^$/ and next;
+
+    my $question = $_;
+    $line_num++;
+
+    $_ = <Q>;
+    chomp;
+    s/^\s+//;
+    s/\s+$//;
+    my $answer = $_;
+    /^$/ || /^#/ and die "ERROR: question '$question' on line $line_num not followed by non-blank answer on next line\n";
+    $line_num++;
+
+    #print "$question: $answer\n";
+    push @questions, $question, $answer;
+}
+close( Q );
+
+#-----------------------------------------------------------------------
+# keep trying to run a new test
+#-----------------------------------------------------------------------
+srand( time() );
+
+my $num_questions = @questions / 2;
+
+while( 1 ) 
+{
+    my $count = prompt( "\nNumber of questions", min( $num_questions, 20 ) );
+    $count > $num_questions and $count = $num_questions;
+
+    my @which = ();
+    my $asked = {};
+    for my $i ( 1 .. $count )
+    {
+        my $ii;
+        do {
+            $ii = rand_n( $num_questions );
+        } while( $asked->{$ii} );
+        $asked->{$ii} = 1;
+        push @which, $ii;
+    }
+
+    #-----------------------------------------------------------------------
+    # keep trying to test questions that haven't yet been answered correctly
+    #-----------------------------------------------------------------------
+    while( @which ) 
+    {
+        print "\n" x 100;
+        my $num_right = 0;
+        my $count = @which;
+        my @missed = ();
+        while( @which )
+        {
+            my $ii = shift @which;
+            my $q = $questions[$ii*2];
+            my $a = $questions[$ii*2+1];
+            my $a_lc = lc $a;
+
+            my $ua = lc prompt( "\n$q" );
+            if ( $ua eq $a_lc ) {
+                $num_right++;
+            } else {
+                print "Wrong!  $a\n";
+                push @missed, $ii;
+            }
+        }
+        my $pct = int( 100.0 * $num_right / $count + 0.5);
+        print "\nYou got $num_right out of $count questions correct (${pct}\%).\n";
+        if ( @missed != 0 && prompt( "\nRetry missed questions?", "y" ) eq "y" ) {
+            @which = @missed;
+        }
+    }
+    prompt( "\nPlay again?", "y" ) ne "y" and last;
+}
+exit 0;
+
+sub rand_n
+{
+    my $n = shift;
+
+    return int( rand( $n ) );
+}
+
+sub min
+{
+    my $a = shift;
+    my $b = shift;
+
+    return ($a < $b) ? $a : $b;
+}
+
+sub prompt
+{
+    my $s = shift;
+    my $default = shift;
+
+    my $def_str = defined( $default ) ? " [$default]" : "";
+    print "${s}${def_str}: ";
+    my $ans = <STDIN>;
+    chomp $ans;
+    $ans eq "" && defined( $default ) and $ans = $default;
+    return $ans;
+}

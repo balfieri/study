@@ -1,0 +1,1970 @@
+#
+# Italian 
+#
+# Put easy phases toward the top and harder stuff toward the bottom.
+# The program will be changed soon to bias toward one or the other.
+#
+to have
+avere
+
+I have
+io ho
+
+you have
+tu hai
+
+he has
+lui ha
+
+she has
+lei ha
+
+we have
+noi abbiamo
+
+you all have
+voi avete
+
+they have
+loro hanno
+
+to be (intrinsic)
+essere
+
+to be (feel); to stay
+stare
+
+I am
+io sono
+
+you are
+tu sei
+
+he is
+lui e`
+
+she is
+lei e`
+
+we are
+noi siamo
+
+you all are
+voi siete
+
+they are
+loro sono
+
+to go
+andare
+
+I go
+io vado
+
+you go
+tu vai
+
+he goes
+lui va
+
+we go
+noi andiamo
+
+you all go
+voi andate
+
+they go
+loro vanno
+
+to eat
+mangiare
+
+to speak
+parlare
+
+to drive (or ride)
+guidare
+
+to sing
+cantare
+
+I like it
+mi piace
+
+I like them
+mi piacciono
+
+I would like (it)
+mi piacerebbe
+
+horse
+il cavallo
+
+I like to ride horses
+mi piace guidare i cavalli
+
+I like to play the violin
+mi piace suonare il violino
+
+I like to play vollyball
+mi piace giocare al pallavolo
+
+I like my friends (who are girls)
+mi piacciono le mie amiche
+
+I like my friends (some are boys)
+mi piacciono i miei amici
+
+I hate my boyfriend
+odio il mio ragazzo
+
+I love my boyfriend
+amo il mio ragazzo
+
+I love my daddy
+voglio bene al mio babbo
+
+I adore my parents
+adoro i miei genitori
+
+my mother is nice
+mia madre e` gentile
+
+my father is calm
+mio padre e` calmo
+
+my dog is white
+il mio cane e` bianco
+
+hi (bye)
+ciao
+
+hello (good day)
+buon giorno
+
+good evening
+buona sera
+
+good night
+buona notte
+
+have a good day
+buona giornata
+
+good-bye
+arrivederci
+
+so long (for a long time)
+addio
+
+see ya
+ci vediamo
+
+see you tomorrow
+a domani
+
+see you soon
+ci vediamo al piu` presto
+
+best wishes
+tanti auguri
+
+thanks
+grazie
+
+thank you (formal)
+La ringrazio
+
+thank you (informal)
+ti ringrazio
+
+you're welcome (or how can I help you?)
+prego
+
+how old are you?
+quanti anni hai?
+
+I am ten years old
+ho dieci anni
+
+I'm ten
+ne ho dieci
+
+go away
+vai via
+
+come here (informal you)
+vieni qui
+
+come here (informal you all)
+venite qui
+
+I miss you
+mi manchi
+
+I miss them
+mi mancano
+
+do you miss me?
+ti manco?
+
+strawberries
+le fragole
+
+may I have (or get)?
+posso prendere?
+
+I would like
+vorrei
+
+nice to meet you (informal)
+piacere di conoscerti
+
+nice to meet you (formal)
+piacere di conoscerLa
+
+the pleasure was all mine
+il piacere e' stato tutto mio
+
+hazelnut
+la nocciola
+
+chocolate chip (ice cream)
+la stracciatella
+
+I am ready
+sono pronto
+
+soft
+morbido
+
+hard
+duro
+
+speed
+la velocita'
+
+street
+la strada
+
+way
+la via
+
+building
+l'edificio
+
+so much
+tanto
+
+so many
+tanti
+
+much 
+molto
+
+many
+molti
+
+talented; good at something
+bravo
+
+fast
+veloce
+
+slow
+lento
+
+light (weight)
+leggero
+
+heavy
+pesante
+
+fat
+grasso
+
+thin
+magro
+
+big
+grande
+
+small
+piccolo
+
+wide
+largo
+
+narrow
+stretto
+
+tall; high
+alto
+
+short
+corto
+
+low
+basso
+
+to play (a game or sport)
+giocare
+
+to play golf
+giocare a golf
+
+to play (an instrument)
+suonare
+
+to play the violin
+suonare il violino
+
+to speak loudly
+parlare ad alta voce
+
+to speak softly
+parlare a bassa voce
+
+voice
+la voce
+
+eyes
+gli occhi
+
+hand
+il mano
+
+hands
+le mani
+
+arm
+il braccio
+
+arms
+le braccia
+
+leg
+la gamba
+
+stomach
+lo stomaco
+
+gut
+la pancia
+
+finger
+il dito
+
+fingers
+le dita
+
+blue
+azzuro
+
+green
+verde
+
+orange
+arrancio
+
+yello
+giallo
+
+violet
+violeta
+
+black
+nero
+
+white
+bianco
+
+true
+vero
+
+false
+falso
+
+good
+buono
+
+bad
+cattivo
+
+well
+bene
+
+badly
+male
+
+to wash
+lavare
+
+teeth
+i denti
+
+to brush teeth
+lavarsi i denti
+
+hair
+i capelli
+
+hat
+il cappello
+
+to wear something (transitive)
+indossare
+
+to get dressed
+vestirsi
+
+to carry; to bring
+portare
+
+to get up
+alzarsi
+
+to wake up
+svegliarsi
+
+alarm
+la sveglia
+
+highway
+l'autostrada
+
+service area
+l'area servizio
+
+to turn right
+girare a destra
+
+to keep right
+tenere a destra
+
+to keep left
+tenere a sinistra
+
+to turn left
+girare a sinistra
+
+straight ahead
+sempre diritto
+
+to stop oneself
+fermarsi
+
+to stop doing something
+smettere di
+
+church
+la chiesa
+
+bus
+l'autobus
+
+tip
+la mancia
+
+bill
+il conto
+
+table
+il tavolo
+
+spoon
+il cucchiaio
+
+fork
+la forchetta
+
+knife
+il coltello
+
+weird
+strano
+
+scoop (of ice cream)
+il gusto
+
+traffic light
+il semaforo
+
+ramp (highway)
+la rampa
+
+to follow
+proseguire
+
+toward
+verso
+
+in front
+davanti
+
+behind
+indietro
+
+directions
+le indicazioni
+
+instructions
+le istruzioni
+
+educational
+istrutivo
+
+well-behaved
+educato
+
+badly-behaved
+maleducato
+
+fun
+divertente
+
+to have fun; to enjoy oneself; to have a good time
+divertirsi
+
+funny
+buffo
+
+witty
+spiritoso
+
+sense of humor
+il senso d'umore
+
+marvelous
+meraviglioso
+
+television
+la televisione
+
+station (radio, tv)
+il canale
+
+station (bus, train)
+la stazione
+
+unfortunately
+purtroppo
+
+above all
+sopratutto
+
+while (doing something)
+mentre
+
+ok (starts with v)
+va bene
+
+how goes it?
+come va?
+
+plane (air)
+l'aero
+
+flight
+il volo
+
+to fly
+volare
+
+to land
+atterare
+
+entrance
+l'ingresso
+
+exit
+l'uscita
+
+to exit
+uscire
+
+to enter
+entrare
+
+to jump
+saltare
+
+to run
+correre
+
+to walk
+camminare
+
+to take a trip
+fare un giro
+
+to pull one's leg
+prendersi in giro
+
+tour
+la gira
+
+hotel (starts with a)
+l'albergo
+
+the net
+la rete
+
+point or dot
+il punto
+
+car rental
+l'auto noleggio
+
+gasoline
+la benzina
+
+to reserve (a room, car)
+prenotare
+
+reservation (room, car)
+la prenotazione
+
+plate, dish
+il piatto
+
+agreement
+il patto
+
+agreed
+d'accordo
+
+this
+questo
+
+these
+questi
+
+that
+quello
+
+those
+quelli
+
+which
+quale
+
+gas station
+il benzinaio
+
+supermarket
+il supermercato
+
+food
+il cibo
+
+cuisine, cooking, kitchen
+la cucina
+
+cooking, deli
+la gastronomia
+
+central market
+il mercato centrale
+
+leather (starts with c)
+il cuoio
+
+leather (starts with p)
+la pella
+
+glass
+il bicchiere
+
+bottle
+la bottiglia
+
+bag (starts with b)
+la busta
+
+bag (starts with s)
+il sachetto
+
+handbag
+la borsetta
+
+choice
+la scelta
+
+to choose
+scegliere
+
+to share (a meal)
+dividere
+
+to share (feelings, thoughts)
+condividere
+
+to reach
+raggiungere
+
+to join
+giungere
+
+salted
+salato
+
+cooked
+cotto
+
+round-about
+la rotunda
+
+to take the second exit
+prendere la seconda uscita
+
+first
+primo
+
+second
+secondo
+
+third
+terzo
+
+fourth
+quarto
+
+fifth
+quinto
+
+room
+la camera
+
+camera
+la macchina fotografica
+
+car (starts with m)
+la macchina
+
+automobile
+l'automobile
+
+cup
+la coppa
+
+regular Coke
+la Coca normale
+
+Diet Coke
+la Coca Light
+
+fizzy water
+l'acqua frizzata
+
+to drink
+bere
+
+something
+qualcosa
+
+something to drink
+qualcosa da bere
+
+something to eat
+qualcosa da mangiare
+
+drink (starts with be)
+la bevanda
+
+drink (starts with bi)
+la bibbita
+
+to call 
+chiamare
+
+to telephone
+telefonare
+
+to chew
+masticare
+
+what to say when you answer the phone
+pronto
+
+to get out of (a car)
+scendere da
+
+to get into (a car)
+salire
+
+to turn on (a light)
+accendere
+
+to turn off (a light)
+spegnere
+
+to push
+spingere
+
+to pull
+tirare
+
+discount
+lo sconto
+
+sale
+la salda
+
+on vacation
+in ferie
+
+retired
+in pensione
+
+open
+aperto
+
+closed
+chiuso
+
+cover charge
+il coperto
+
+outside
+fuori
+
+flowers
+i fiori
+
+inside
+dentro
+
+on; up (prep)
+su
+
+over (prep)
+sopra
+
+under
+sotto
+
+down
+giu'
+
+down below; downstairs
+di giu'
+
+up above; upstairs
+di sopra
+
+inn (for eating, starts with t)
+la trattoria
+
+inn (for eating, starts with o)
+l'osteria
+
+store
+il negozio
+
+rocket
+il razzo
+
+to launch
+lanciare
+
+to hit
+battere
+
+to fish
+pescare
+
+fishing (noun)
+la pesca
+
+peach
+la pesca
+
+pear
+la pera
+
+to look for
+cercare
+
+to find
+trovare
+
+fog
+la nebbia
+
+cloudy
+nebuloso
+
+snow
+la neve
+
+rain
+la pioggia
+
+to cry
+piovere
+
+to laugh
+ridere
+
+to smile
+sorridere
+
+mamma's boy
+il mammone
+
+job
+il lavoro
+
+to work
+lavorare
+
+too much
+troppo
+
+too many
+troppi
+
+show (tv)
+lo spettacolo
+
+to show (something)
+mostrare
+
+to send (starts with m)
+mandare
+
+to send (starts with s)
+spedire
+
+to speak fluently
+parlare speditamente
+
+calm (starts with t)
+tranquillo
+
+sauce
+il sugo
+
+meat sauce
+il ragu'
+
+cream
+la panna
+
+whipped cream
+la panna montata
+
+beef
+il manzo
+
+pork
+il maiale
+
+boar
+il cinghiale
+
+truffle
+il tartufo
+
+basil
+il basilico
+
+pepper
+il pepe
+
+salt
+il sale
+
+oregano
+l'origano
+
+garlic
+l'aglio
+
+olive oil
+l'olio d'oliva
+
+vinegar
+l'aceto
+
+tire (for car)
+il pneumatico
+
+rubber
+la gomma
+
+steel
+l'acaio
+
+pan
+la padella
+
+unleaded
+senza piomba
+
+without
+senza
+
+with
+con
+
+palace
+il palazzo
+
+dome
+il duomo
+
+museum
+il museo
+
+river
+il fiume
+
+sea
+il mare
+
+lake
+il lago
+
+organic
+biologico
+
+artisanal
+artiginale
+
+police
+la polizia
+
+force
+la forza
+
+effort
+la sforza
+
+to avoid
+evitare
+
+except (starts with t)
+tranne
+
+except (starts with e)
+eccetto
+
+beach
+la spiaggia
+
+sand
+la sabbia
+
+swimming pool
+la piscina
+
+living room
+il salone
+
+bed
+il letto
+
+to go to bed
+andare al letto
+
+to go to sleep
+andare a dormire
+
+to clean
+pulire
+
+clean
+pulito
+
+dirty
+sporco
+
+dark
+scuro
+
+bright
+brillante
+
+star
+la stella
+
+moon
+la luna
+
+sun
+il sole
+
+light (noun)
+la luce
+
+key
+la chiave
+
+to lock
+mettere sotto chiave
+
+sure; safe
+sicuro
+
+almost
+quasi
+
+cookie
+il biscotto
+
+to touch
+toccare
+
+fruit
+la frutta
+
+seafood
+la frutta di mare
+
+fish
+il pesce
+
+boat
+la barca
+
+sailboat
+la barca a velo
+
+wind
+il vento
+
+to exchange
+scambiare
+
+to sit
+sedere
+
+to sit down
+sedersi
+
+seat
+il sede
+
+sofa
+il divano
+
+chair
+la sedia
+
+line; tail; queue
+la coda
+
+to get in line
+farsi la coda
+
+dangerous
+pericoloso
+
+to check
+controllare
+
+healthy; sane
+sano
+
+unhealthy
+insano
+
+crazy
+pazzo
+
+brain
+il cervello
+
+clown
+il buffone
+
+seriously
+sul serio
+
+serious
+serio
+
+face
+la faccia
+
+cheeks
+le grance
+
+body
+il corpo
+
+blood
+il sangue
+
+Jesus
+Gesu'
+
+sister
+la sorella
+
+brother
+il fratello
+
+parent
+il genitoro
+
+grandfather
+il nonno
+
+nephew
+il nipote
+
+uncle
+lo zio
+
+inlaw
+il suocero
+
+spouse
+lo sposo
+
+wife
+la moglie
+
+husband
+il marito
+
+son
+il figlio
+
+daughter
+la figlia
+
+relative
+il parente
+
+bread
+il pane
+
+butter
+il burro
+
+jelly; jam
+la marmelata
+
+credit card
+la carta di credito
+
+paper; card
+la carta
+
+sheet
+la sfoglia
+
+to cut
+tagliare
+
+cut (n)
+la taglia
+
+piece
+il pezzo
+
+gift
+il regalo
+
+price
+il prezzo
+
+window
+la finestra
+
+door
+la porta
+
+ceiling
+il soffito
+
+roof
+il tetto
+
+floor
+il piano
+
+pavement
+il pavimento
+
+sidewalk
+la marciapiedi
+
+stairs
+le scale
+
+toy
+il gioccatolo
+
+game
+il giocco
+
+elevator
+l'ascensore
+
+escalator
+le scale mobili
+
+fridge
+il frigo
+
+refrigerator
+il frigorifero
+
+dryer
+l'asciugatrice
+
+oven
+il forno
+
+to bake
+fornare
+
+bathroom
+il bagno
+
+toilet
+la toilette
+
+trash can
+la spazzatura
+
+garbage
+i rifiuti
+
+shower
+la doccia
+
+take a shower
+fare la doccia
+
+to bathe
+bagnare
+
+toothbrush
+il spazzolino
+
+to get married
+sposarsi
+
+married
+sposato
+
+to wait for; to await (transitive)
+aspettare
+
+to expect
+aspettarsi
+
+to drive
+guidare
+
+maybe; if only I could
+magari
+
+perhaps
+forse
+
+to taste
+assaggiare
+
+tomorrow
+domani
+
+day after tomorrow
+dopo domani
+
+yesterday
+ieri
+
+day before yesterday
+l'altro ieri
+
+breast (of chicken)
+il petto
+
+breakfast
+la colazione
+
+lunch
+il pranzo
+
+dinner
+la cena
+
+snack
+lo spuntino
+
+to watch tv
+guardare la ti vu
+
+the letter w
+doppia vu
+
+to take a walk
+fare un passeggiato
+
+north
+il nord
+
+south
+il sud
+
+west
+l'ovest
+
+east
+l'est
+
+tree
+l'albero
+
+vegetable
+la verdura
+
+arugola
+la rucola
+
+apple
+il mele
+
+apricot
+l'albicocca
+
+pineapple
+l'ananas
+
+plum
+la prugna
+
+prune
+la prugna secca
+
+dry
+secco
+
+wet
+bagnato
+
+blind
+cecco
+
+ear
+l'orecchio
+
+ears
+le orecchie
+
+nose
+il naso
+
+mouth
+la bocca
+
+hole
+il buco
+
+penis
+il pene
+
+belt
+la cintura
+
+ticket
+il biglietto
+
+parking lot
+il parcheggio
+
+to park
+parcheggiare
+
+to start the car
+accendere la macchina
+
+shoes
+le scarpe
+
+sweater
+il maglione
+
+sweatshirt
+la felpa
+
+money
+i soldi
+
+to shriek
+strillare
+
+to scream
+urlare
+
+to shout
+gridare
+
+neighborhood
+quartiere
+
+all set; settled
+a posto
+
+boarding pass
+la carta d'imbarco
+
+check-in
+il check-in
+
+race
+la gara
+
+competition
+la concorrenza
+
+parachute
+la paracadute
+
+lane
+la corsia
+
+fine
+la multa
+
+cable
+il cavo
+
+reliable
+affidabile
+
+seatbelt
+la cintura di sicurezza
+
+lighthouse
+il faro
+
+shark
+lo squalo
+
+hurricane
+l'uragano
+
+nap
+il pisolino
+
+festival
+la sagra
+
+satellite
+il satellite
+
+syrup
+lo sciroppo
+
+baking soda
+il bicarbonato di sodio
+
+baking powder
+il lievito in polvere
+
+engaged; busy
+impegnato
+
+coward (starts with v)
+il vigliacco
+
+coward (starts with c)
+il codardo
+
+arrow
+la freccia
+
+uppercase
+maiuscolo
+
+lowercase
+minuscolo
+
+towel
+l'asciugamano
+
+beach towel
+il telo mare
+
+knoll
+il poggio
+
+dishwasher
+la lavastoviglie
+
+in cash
+in contanti
+
+attention to detail
+l'attenzione ai dettagli
+
+shenanigans
+gli imbrogli
+
+closet
+il ripostiglio
+
+wig
+la parrucca
+
+hairdresser
+la parrucchiera
+
+theft; rip-off
+il furto
+
+mild
+mite
+
+helmet
+il casco
+
+to comb
+pettinare
+
+to install
+installare
+
+napkin
+il tovagliolo
+
+chain
+la catena
+
+wallet
+il portafoglio
+
+change (n)
+il cambiamento
+
+vents
+la sfoga
+
+slice
+la fetta
+
+to bite
+mordare
+
+bite (n)
+il mordo
+
+crowded
+affollato
+
+nurse
+l'infermiera
+
+mess
+il pasticcio
+
+poppy
+il papavero
+
+cherries
+i ciliegini
+
+blueberries
+i mirtilli
+
+citrus
+gli agrumi
+
+flatbread
+la piadina
+
+scissors
+i forbici
+
+stale
+stantio
+
+rusty
+arrugginito
+
+cone
+il cono
+
+cozy
+accogliente
+
+including
+comprese
+
+beef
+il manzo
+
+picky
+esigente
+
+pork
+carne di maiale
+
+to shoot
+sparare
+
+to look good
+gardarsi bene
+
+to look like
+sembrare
+
+graphics
+la grafica
+
+meal
+il pasto
+
+toy
+il giocattolo
+
+to recommend
+raccomdendare
+
+to advise
+consigliare
+
+tunnel
+la galleria
+
+clock
+l'orologio
+
+now
+ora
+
+the time
+l'ora
+
+I can't wait
+non vedo l'ora
+
+tonight
+stasera
+
+today
+oggi
+
+have a good day
+buona giornata
+
+have a good evening
+buona serata
+
+afternoon
+il pomeriggio
+
+morning
+la mattina
+
+tomato
+il pomodoro
+
+almond
+la mandorla
+
+good night
+buona notte
+
+it's enough
+basta
+
+to happen (starts with c)
+capitare
+
+to happen (starts with s)
+succedere
+
+it takes; it requires
+ci vuole
+
+more or less
+piu' o meno
+
+it's not a big deal
+non e' un gran che
+
+to rent (an apartment)
+affitarsi
+
+to worry
+preoccuparsi
+
+boring
+noiso
+
+bored
+annoiso
+
+glad
+contento
+
+happy
+felice
+
+sad
+triste
+
+angry
+arrabiato
+
+anger
+la rabbia
+
+beauty
+la bellezza
+
+ugly
+brutto
+
+sadness
+la tristezza
+
+tower
+il torre
+
+chapel
+la capella
+
+city
+la citta'
+
+common (adj)
+comune
+
+community
+il comune
+
+careful!
+attenzione!
+
+warning
+l'avviso
+
+to be able to; to be allowed to
+potere
+
+to be able to do something (i.e., to be able to succeed at it)
+riuscire a
+
+I can't do it (I'm unable to succeed at it)
+non ci riesco
+
+I may not do it
+non posso farlo
+
+to want
+volere
+
+will (n)
+la voglia
+
+volleyball (starts with p)
+il pallavolo
+
+volleyball (starts with v)
+il volley
+
+to kick
+calciare
+
+soccer
+il calcio
+
+english (adj)
+inglese
+
+England
+l'Inghilterra
+
+United States
+gli Stati Uniti
+
+France
+la Francia
+
+french (adj)
+francese
+
+Germany
+la Germania
+
+german (adj)
+tedesco
+
+Spain
+la Spagna
+
+spanish (adj)
+spangolo
+
+portuguese (adj)
+portoghese
+
+Ireland
+la Ghirlanda
+
+irish (adj)
+ghirlandese
+
+canadian
+canadese
+
+jewish
+ebreo
+
+London
+Londra
+
+Paris
+Parigi
+
+Berlin
+Berlino
+
+Russia
+la Russia
+
+russian (adj)
+russo
+
+sensitive
+sensibile
+
+sensible
+sensitivo
+
+to behave
+comportarsi
+
+to spend (time)
+trascorrere
+
+to spend (money)
+spendere
+
+lens
+il lente
+
+in the meantime (starts with i)
+intanto
+
+meanwhile (starts with n)
+nel frattempo
+
+trickster
+l'imbroglione
+
+fraud
+la truffa
+
+mosquito
+la zanzara
