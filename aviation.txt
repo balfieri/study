@@ -1,0 +1,82 @@
+# aviation.txt - everything but weather
+#
+PLSTART
+pitch for best glide speed, landing site, seat belt, troubleshoot, approach, radio, turn off
+
+MCPRAWN
+military operations, controlled firing, prohibited, restricted, alert, warning, national security
+
+ANDS
+accelerate north, decelerate south
+
+UNOS
+undershoot north, overshoot south
+
+PEARL
+performance data, environment, alternate airports, required fuel, landing and takeoff distances / runway lengths
+
+IMSAFE
+illness, medications, stress, alcohol, fatigue, energy/emotion
+
+PAVE
+pilot, aircraft, environment, external pressures
+
+DECIDE
+detect, estimate, choose, identify, do, evaluation
+
+PPP
+perceive, process, perform
+
+ARROW
+airworthiness certificate, registration, radio certificate, owner's manual, weight/balance sheet
+
+AV1ATESRS50
+annual, VOR, 100-hour, ADs, transponder, ELT, registration, static source/altimeter, preventative maintenance
+
+ATOMATO
+altimeter, tachometer, oil pressure, manifold pressure, airspeed indicator, temperature gauge, oil temperature gauge
+
+FLAMES
+fuel gauge, landing gear position indicator, anticollision lights, magnetic compass, emergency equipment, seatbelts
+
+FLAPS
+fuses, landing light (if for hire), anti-collision light, position lights, source of electricity
+
+SUA
+special use airspace
+
+LAHSO
+land and hold short operations
+
+ADM
+aeronautical decision making
+
+SRM
+single pilot resource management
+
+PPPP
+plan, plane, pilot, passengers, programming
+
+MRLIDD
+mandatory instruction, runway distance remaining, location, information, destination, direction
+
+PARE
+power to idle, ailerons to neutral, rudder full opposite, elevator pitch down
+
+Left-Turning Tendencies
+torque, spiral slipstream, p-factor, gyroscopic precession
+
+CCCCC
+climb, circle, conserve, calculate, communicate
+
+runway incursion risks
+crossing runway/taxiway, takeoff/landing without clearance, failure to comply with ATC, lack of airport familiarity, failure to follow SOP
+
+flight controls
+ailerons, elevator, rudder, flaps, trim
+
+dangerous attitudes
+macho, anti-authority, impulsivity, invulnerability, resignation
+
+
+
