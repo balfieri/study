@@ -73,7 +73,7 @@ runway incursion risks
 crossing runway/taxiway, takeoff/landing without clearance, failure to comply with ATC, lack of airport familiarity, failure to follow SOP
 
 SOP
-standard operation procedures
+standard operation procedure
 
 flight controls
 ailerons, elevator, rudder, flaps, trim
