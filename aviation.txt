@@ -28,7 +28,7 @@ what must private pilot carry
 private pilot certificate, government-issued photo id, medical certificate
 
 ARROW
-airworthiness certificate, registration, radio certificate, owner's manual, weight/balance sheet
+airworthiness certificate, registration, radio license, operating limitations, weight/balance data
 
 AV1ATESRS50
 annual, VOR, 100-hour, ADs, transponder, ELT, registration, static source/altimeter, preventative maintenance
@@ -285,7 +285,7 @@ FAA website
 SFP
 special ferry permit
 
-requirements to fly tailwheel or complex aircraft
+requirements to fly tailwheel or complex aircraft or high-altitude aircraft
 training, endorsement
 
 MEL
@@ -371,3 +371,36 @@ vapor lock
 
 172SP electrical system (system volts, battery volts, alternator amperage, min voltage before warning light)
 28, 24, 60, 24.5
+
+eligibility requirements for private pilot certificate
+17 years old, read/speak/write/understand English, at least 3rd class medical, training, endorsements, 70% on written
+
+privileges and limitations, of private pilot certificate
+passengers, pay at least pro rata share, business if incidental, charitable event, search and rescue, demonstrate aircraft to buyer if 200+ hours, towing a glider, test flight in light-sport aircraft
+
+which flights must you log in your logbook?
+required training and aeronautical experience
+
+types of airworthiness certificates
+standard, special, experimental
+
+does an airworthiness certificate have an expiration date
+no
+
+conditions for airworthiness
+comform to type design, in condition for safe operation
+
+what to check that aircraft has conformed to all inspections and ADs
+aircraft and engine logbooks
+
+who is responsible for ensuring that aircraft is mainted in an airworthy condition?
+owner or operator
+
+TCDS
+type certificate data sheet
+
+STC
+supplemental type certificate
+
+how long is an aircraft registration certficate valid?
+3 years
