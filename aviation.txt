@@ -284,3 +284,81 @@ minimum equipment list
 
 purpose of MEL
 list of equipment that can be broken
+
+reasons for replacing ELT battery
+less than 50% life, used continuously for more than one hour
+
+Vso (meaning, 172SP)
+stall speed in landing configuration, 40
+
+Vs (meaning, 172SP)
+stall speed in clean configuration, 48
+
+Vr (meaning, 172SP)
+rotation speed, 55
+
+Vx (meaning, 172SP)
+best angle-of-climb speed, 62
+
+Vy (meaning, 172SP)
+best rate-of-climb speed, 74
+
+Vfe (meaning, 172SP 10-deg, 172SP > 10-deg)
+maxiumum flap-extended speed, 110, 85
+
+Va (meaning, 172SP max weight, 172SP 2200 lb, 172SP 1900 lb)
+maneuvering speed, 105, 98, 90
+
+Vno (meaning, 172SP)
+maximum structural cruising speed, 129
+
+Vne (meaning, 172SP)
+never exceed speed, 163
+
+172SP maximum ramp weight (normal)
+2558
+
+172SP maximum takeoff and landing weights (normal)
+2550
+
+172SP maximum weight baggage area 1
+120
+
+172SP maximum weight baggage area 2
+50
+
+172SP maximum weight baggage area 1+2
+120
+
+172SP limit load factor normal in g's (flaps up, flaps down)
+3.8, 3.0
+
+172SP engine type
+Lycoming IO-360-L2A
+
+172SP engine power (HP, RPM)
+180, 2700
+
+172SP aviation engine oil type
+ashless dispersant
+
+172SP oil level range (minimum, maximum)
+5, 8
+
+172SP approved fuels
+100LL (blue), 100 (green)
+
+172SP fuel gal (total, usuable, unusable, usable per wing tank)
+56, 53, 3, 17.5
+
+advantages of fuel injection
+no carb ice, better fuel flow, faster throttle response, precise mixture control, easier cold start
+
+disadvantage of fuel injection
+vapor lock
+
+172SP max flap degrees for takeoff
+10
+
+172SP electrical system (system volts, battery volts, alternator amperage, min voltage before warning light)
+28, 24, 60, 24.5
