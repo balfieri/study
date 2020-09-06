@@ -339,10 +339,10 @@ Lycoming IO-360-L2A
 172SP engine power (HP, RPM)
 180, 2700
 
-172SP aviation engine oil type
+172SP aviation engine oil type (past break-in period)
 ashless dispersant
 
-172SP oil level range (minimum, maximum)
+172SP oil required level in quarts (minimum, maximum)
 5, 8
 
 172SP approved fuels
@@ -354,7 +354,7 @@ ashless dispersant
 advantages of fuel injection
 no carb ice, better fuel flow, faster throttle response, precise mixture control, easier cold start
 
-disadvantage of fuel injection
+main disadvantage of fuel injection
 vapor lock
 
 172SP max flap degrees for takeoff
