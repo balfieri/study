@@ -254,3 +254,33 @@ aviate, navigate, communicate
 
 factors contributing to CFIT accidents
 lack of pilot currency, loss of situational awareness, pilot distractions, failure to comply with minimum safe altitudes, breakdown in effect ADM, insufficient planning
+
+complex aircraft features
+landing gear, constant-speed propeller, adjustable flaps
+
+high-performance aircraft features
+>= 200 HP
+
+KOEL
+kinds of operations equipment list
+
+TAA
+technologically advanced aircraft
+
+TAA features
+AP, glass panel or GPS
+
+where to find ADs
+FAA website
+
+SFP
+special ferry permit
+
+requirements to fly tailwheel or complex aircraft
+training, endorsement
+
+MEL
+minimum equipment list
+
+purpose of MEL
+list of equipment that can be broken
