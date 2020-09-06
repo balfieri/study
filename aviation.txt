@@ -30,8 +30,8 @@ private pilot certificate, government-issued photo id, medical certificate
 ARROW
 airworthiness certificate, registration, radio license, operating limitations, weight/balance data
 
-AV1ATESRS50
-annual, VOR, 100-hour, ADs, transponder, ELT, registration, static source/altimeter, preventative maintenance
+AAV1ATESRS50
+annual, ADs, VOR, 100-hour, altimeter, transponder, ELT, registration, static source/altimeter, preventative maintenance
 
 ATOMATOE
 altimeter, tachometer, oil pressure, manifold pressure, airspeed indicator, temperature gauge, oil temperature gauge, ELT
@@ -283,7 +283,7 @@ where to find ADs
 FAA website
 
 SFP
-special ferry permit
+special flight permit
 
 requirements to fly tailwheel or complex aircraft or high-altitude aircraft
 training, endorsement
@@ -404,3 +404,24 @@ supplemental type certificate
 
 how long is an aircraft registration certficate valid?
 3 years
+
+frequency of VOR inspections
+30 days
+
+frequency of transponder inspections
+24 months
+
+frequency of ELT inspections
+12 months
+
+FSDO
+flight standards district office
+
+how pilot should determine if aircraft is airworthy if broken binstrument is part of:
+MEL, VFR requirements, KOEL, ADs
+
+flow of air in and around low pressure system
+inward, upward, counterclockwise
+
+flow of air in and around high pressure system
+outwward, downward, clockwise
