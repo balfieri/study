@@ -42,6 +42,9 @@ fuel gauge, landing gear position indicator, anticollision lights, magnetic comp
 FLAPS
 fuses, landing light, anti-collision light, position lights, source of electricity
 
+when do you NOT need an ELT?
+when staying within 50 miles of origin
+
 SUA
 special use airspace
 
@@ -68,6 +71,9 @@ torque, spiral slipstream, p-factor, gyroscopic precession
 
 CCCCC
 climb, circle, conserve, calculate, communicate
+
+runway incursions
+incorrect entry or presence on runway protected area, incorrect runway crossing, incorrect spacing between aircraft, takeoff or landing without ATC clearance
 
 runway incursion risks
 crossing runway/taxiway, takeoff/landing without clearance, failure to comply with ATC, lack of airport familiarity, failure to follow SOP
@@ -156,10 +162,10 @@ aircraft in distress, balloon, glider, towing or refueling, airship, powered par
 speed limits (below 10,000 ft, below 2500 ft class C/D, underlying class B)
 250, 200, 200
 
-< 40-year-old medical review (1st, 2nd, 3rd) in months
+< 40-year-old medical review in months by class (1st, 2nd, 3rd)
 12, 12, 60
 
-40+-year-old medical review (1st, 2nd, 3rd) in months
+40+-year-old medical review in months by class (1st, 2nd, 3rd) 
 6, 12, 24
 
 deviation from ATC
@@ -168,7 +174,7 @@ amended clearance, emergency, response to TACAS
 TACAS
 traffic alert and collision avoidance system
 
-how soon must notify FAA of change in address (within days)
+how soon must pilot notify FAA of change in address in days
 30
 
 FIS-B (meaning, MHZ)
@@ -256,10 +262,13 @@ factors contributing to CFIT accidents
 lack of pilot currency, loss of situational awareness, pilot distractions, failure to comply with minimum safe altitudes, breakdown in effect ADM, insufficient planning
 
 complex aircraft features
-landing gear, constant-speed propeller, adjustable flaps
+retractable landing gear, controllable pitch propeller, flaps
 
 high-performance aircraft features
->= 200 HP
+more than 200 HP
+
+is a Mooney M20J-201 a high-performance aircraft?
+no
 
 KOEL
 kinds of operations equipment list
