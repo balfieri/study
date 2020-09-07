@@ -6,11 +6,11 @@ pitch for best glide speed, landing site, seat belt, troubleshoot, approach, rad
 MCPRAWN
 military operations, controlled firing, prohibited, restricted, alert, warning, national security
 
-ANDS
+ANDS (maximum east-west)
 accelerate north, decelerate south
 
-UNOS
-undershoot north, overshoot south
+UNOS 
+undershoot from north, overshoot from south
 
 IMSAFE
 illness, medications, stress, alcohol, fatigue, emotions
@@ -63,7 +63,7 @@ plan, plane, pilot, passengers, programming
 MRLIDD
 mandatory instruction, runway distance remaining, location, information, destination, direction
 
-PARE
+PARE spin recover
 power to idle, ailerons to neutral, rudder full opposite, elevator pitch down
 
 Left-Turning Tendencies
@@ -223,7 +223,10 @@ RCO
 remote communications outlet
 
 NWKRAFT
-NOTAMs, weather, known ATC delays, runway lengths, alternative airports, fuel requirements, takeoff and landing distances
+NOTAMs, weather, ATC delays, runway lengths, alternative airports, fuel requirements, takeoff/landing distance data
+
+RAWFAT
+runway lengths, alternates, weather, fuel requirements, ATC delays, takeoff/landing distance data
 
 ELT
 emergency locator transmitter
@@ -286,7 +289,7 @@ SFP
 special flight permit
 
 requirements to fly tailwheel or complex aircraft or high-altitude aircraft
-training, endorsement
+training, logbook endorsement
 
 MEL
 minimum equipment list
@@ -297,10 +300,10 @@ list of equipment that can be broken
 reasons for replacing ELT battery
 less than 50% life, used continuously for more than one hour
 
-Vso (meaning, 172SP)
+Vs0 (meaning, 172SP)
 stall speed in landing configuration, 40
 
-Vs (meaning, 172SP)
+Vs1 (meaning, 172SP)
 stall speed in clean configuration, 48
 
 Vr (meaning, 172SP)
@@ -315,8 +318,11 @@ best rate-of-climb speed, 74
 Vfe (meaning, 172SP 10-deg, 172SP > 10-deg)
 maxiumum flap-extended speed, 110, 85
 
-Va (meaning, 172SP max weight, 172SP 2200 lb, 172SP 1900 lb)
+Va (meaning, 172SP 2550 lb, 172SP 2200 lb, 172SP 1900 lb)
 maneuvering speed, 105, 98, 90
+
+Vg (meaning, 172SP)
+best glide speed, 68
 
 Vno (meaning, 172SP)
 maximum structural cruising speed, 129
@@ -373,13 +379,13 @@ vapor lock
 28, 24, 60, 24.5
 
 eligibility requirements for private pilot certificate
-17 years old, read/speak/write/understand English, at least 3rd class medical, training, endorsements, 70% on written
+17 years old, read/speak/write/understand English, at least 3rd class medical, training, logbook endorsements, 70% on written
 
 privileges and limitations, of private pilot certificate
-passengers, pay at least pro rata share, business if incidental, charitable event, search and rescue, demonstrate aircraft to buyer if 200+ hours, towing a glider, test flight in light-sport aircraft
+passengers, pay at least pro rata share, business if incidental, charitable event, search and rescue, demonstrate aircraft to buyer if 200+ hours, tow a glider, test flight in light-sport aircraft
 
 which flights must you log in your logbook?
-required training and aeronautical experience
+required training, aeronautical experience
 
 types of airworthiness certificates
 standard, special, experimental
@@ -453,10 +459,7 @@ brakes
 172SP hydraulic fluid color
 red
 
-172SP Vg
-68
-
-172SP heating ststem
+172SP heating system
 shroud around the exhaust muffler
 
 172SP type of turn coordinator
@@ -467,3 +470,75 @@ electric
 
 purposes of engine oil
 coolant, lubricant, corrosion inhibitor, sealant, cleaner
+
+grace periods (annual, 100-hour, ADs)
+none, 10 hours, none
+
+Which of the required documents on board an aircraft has to be in view?
+annual inspection, registration
+
+What is in a flight review with a CFI?
+1 hour ground, 1 hour flight
+
+Feet above pattern altitude for midfield crossover
+500
+
+When would you want fly slower than Va?
+descent, climb, extreme turbulence, feel like it
+
+types of ADs
+emergency, one-time, recurring
+
+grace period (annual, 100-hour)
+none, 10 hours
+
+What invalidates an airworthiness certificate?
+failure to comply with ADs, modifications to the airplane outside the design, failure to do required maintenance, accident
+
+Effects of high density altitude on aircraft performance
+reduces lift, decreases propeller efficiency, decreases engine efficiency, increases takeoff/landing distances
+
+Things that increase density altitude besides elevation
+lower atmospheric pressure, higher temperature, higher humidity
+
+Have you ever had carb ice?
+no, the 172SP has no carburator
+
+How to detect carb ice?
+reduction in RPM for a given throttle setting
+
+Under what circumstances may you intentionally spin a 172SP?
+weight and balance must be in utility category
+
+When would you use pitot heat?
+anticipate icing conditions
+
+172SP ice protection
+pitot heat, alternate static source, defrost via cabin heat
+
+172SP service ceiling in feet
+14000
+
+Which way to turn if approaching another aircraft head on?
+right
+
+Can a student pilot into class B airspace?
+not without proper training and logbook endorsement
+
+What to do if you get lost?
+CCCC, use GPS, look for landmarks, use VORs
+
+What is an isogonic line?
+connects points of equal magnetic variation
+
+How do we use isogonic lines?
+during flight planning to calculate magnetic heading
+
+What do we need to compute compass heading?
+magnetic heading, magnetic deviation
+
+What if you are landing just as a large aircraft is taking off?
+ask to be resequenced or land well short of the plane's takeoff point
+
+Explain the hemispheric rule
+eastbound odd-thousands + 500, westbound even-thousands + 500
