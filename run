@@ -1,126 +1,102 @@
-#!/usr/bin/env perl
+#!/usr/bin/env python3
 #
 # run <subject>
 #
-use strict;
-use warnings FATAL => 'all';
-use diagnostics;
+import sys
+import time
+import random
+import string
+import re
+
+def die( msg, prefix='ERROR: ' ):
+    print( prefix + msg )
+    sys.exit( 1 )
+
+def rand_n( n ):
+    return int( random.random() * n )
+
+def min( a, b ):
+    return a if a < b else b
+
+def prompt( s, default='' ):
+    def_str = '' if default == '' else (' [' + default + ']')
+    ans = input( s + def_str + ': ' )
+    ans = re.sub( r'^\s+', '', ans )
+    ans = re.sub( r'\s+$', '', ans )
+    if ans == '': ans = default 
+    return ans
 
 #-----------------------------------------------------------------------
-# read in questions.txt file
+# read in <subject>.txt file
 #-----------------------------------------------------------------------
-@ARGV == 1 or die "usage: run <subject>\n";
-my $filename = $ARGV[0] . ".txt";
--f $filename or die "ERROR: could not find $filename\n";
-open( Q, $filename ) or die "ERROR: could not open $filename for reading\n";
-my @questions = ();
-my $line_num = 0;
-while( <Q> )
-{
-    chomp;
-    s/^\s+//;
-    s/\s+$//;
-    /^#/ and next;
-    /^$/ and next;
+if len( sys.argv ) != 2: die( 'usage: run <subject>', '' )
+filename = sys.argv[1] + '.txt'
+Q = open( filename, 'r' )
+questions = []
+line_num = 0
+while True:
+    question = Q.readline()
+    if question == '': break
+    line_num += 1
+    question = re.sub( '^\s+', '', question )
+    question = re.sub( '\s+$', '', question )
+    if len(question) == 0 or question[0] == '#': continue
 
-    my $question = $_;
-    $line_num++;
+    answer = Q.readline()
+    answer = re.sub( r'^\s+', '', answer )
+    answer = re.sub( r'\s+$', '', answer )
+    if answer == '': die( 'question on line ' + line_num + ' not followed by non-blank onswer on next line' )
+    line_num += 1
 
-    $_ = <Q>;
-    chomp;
-    s/^\s+//;
-    s/\s+$//;
-    my $answer = $_;
-    /^$/ || /^#/ and die "ERROR: question '$question' on line $line_num not followed by non-blank answer on next line\n";
-    $line_num++;
-
-    #print "$question: $answer\n";
-    push @questions, $question, $answer;
-}
-close( Q );
+    questions.append( question )
+    questions.append( answer )
+Q.close()
 
 #-----------------------------------------------------------------------
 # keep trying to run a new test
 #-----------------------------------------------------------------------
-srand( time() );
+random.seed( time.time() )
 
-my $num_questions = @questions / 2;
+question_cnt = len( questions ) >> 1
+if question_cnt == 0: die( 'no questions found in ' + filename )
 
-while( 1 ) 
-{
-    my $count = prompt( "\nNumber of questions", min( $num_questions, 20 ) );
-    $count > $num_questions and $count = $num_questions;
+while True:
+    count = int( prompt( '\nNumber of questions', str(min( question_cnt, 20 )) ) )
+    count = min( count, question_cnt )
 
-    my @which = ();
-    my $asked = {};
-    for my $i ( 1 .. $count )
-    {
-        my $ii;
-        do {
-            $ii = rand_n( $num_questions );
-        } while( $asked->{$ii} );
-        $asked->{$ii} = 1;
-        push @which, $ii;
-    }
+    which = []
+    asked = {}
+    for i in range( 1, count+1 ):
+        while True:
+            ii = rand_n( question_cnt )
+            if ii not in asked: break
+        asked[ii] = True
+        which.append( ii )
 
     #-----------------------------------------------------------------------
     # keep trying to test questions that haven't yet been answered correctly
     #-----------------------------------------------------------------------
-    while( @which ) 
-    {
-        print "\n" x 100;
-        my $num_right = 0;
-        my $count = @which;
-        my @missed = ();
-        while( @which )
-        {
-            my $ii = shift @which;
-            my $q = $questions[$ii*2];
-            my $a = $questions[$ii*2+1];
-            my $a_lc = lc $a;
+    while len( which ) != 0:
+        for i in range( 100 ): print()
+        correct_cnt = 0
+        count = len( which )
+        missed = []
+        while len( which ) != 0:
+            ii = which.pop( 0 )
+            q = questions[ii*2]
+            a = questions[ii*2+1]
+            a_lc = a.lower()
 
-            my $ua = lc prompt( "\n$q" );
-            if ( $ua eq $a_lc ) {
-                $num_right++;
-            } else {
-                print "Wrong!  $a\n";
-                push @missed, $ii;
-            }
-        }
-        my $pct = int( 100.0 * $num_right / $count + 0.5);
-        print "\nYou got $num_right out of $count questions correct (${pct}\%).\n";
-        if ( @missed != 0 && prompt( "\nRetry missed questions?", "y" ) eq "y" ) {
-            @which = @missed;
-        }
-    }
-    prompt( "\nPlay again?", "y" ) ne "y" and last;
-}
-exit 0;
+            ua = prompt( '\n' + q ).lower()
+            if ua == a_lc: 
+                correct_cnt += 1
+            else:
+                print( 'Wrong!  ' + a )
+                missed.append( ii )
+        pct = int( 100.0 * correct_cnt / count + 0.5 )
+        print( '\nYou got ' + str(correct_cnt) + ' out of ' + str(count) + ' questions correct (' + str(pct) + '%)' ) 
+        if len( missed ) != 0 and prompt( '\nRetry missed questions?', 'y' ) == 'y': 
+            which = missed
+    if prompt( '\nPlay again?', 'y' ) != 'y': break 
 
-sub rand_n
-{
-    my $n = shift;
-
-    return int( rand( $n ) );
-}
-
-sub min
-{
-    my $a = shift;
-    my $b = shift;
-
-    return ($a < $b) ? $a : $b;
-}
-
-sub prompt
-{
-    my $s = shift;
-    my $default = shift;
-
-    my $def_str = defined( $default ) ? " [$default]" : "";
-    print "${s}${def_str}: ";
-    my $ans = <STDIN>;
-    chomp $ans;
-    $ans eq "" && defined( $default ) and $ans = $default;
-    return $ans;
-}
+sys.exit( 0 )
