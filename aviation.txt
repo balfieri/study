@@ -425,3 +425,45 @@ inward, upward, counterclockwise
 
 flow of air in and around high pressure system
 outwward, downward, clockwise
+
+which seatbelts can be broken?
+those in unoccupied seats
+
+Equation for pressure altitude
+PA = elevation + 1000 * (29.92 - altimeter)
+
+Equation for density altitude
+DA = PA + 118.8*(OAT-15+elevation/500)
+
+can you fly a drunk passenger?
+no
+
+can you fly an injured passenger?
+yes
+
+What would you do if the alternator belt slipped off its wheel?
+pull ALT FLD circuit breaker, turn off nonessential electrical equipment, land as soon as practical
+
+How to enter S-turns?
+do clearing turns, descend to 800 ft AGL, enter downwind perpendicular to line
+
+172SP Hydraulic systems
+brakes
+
+172SP hydraulic fluid color
+red
+
+172SP Vg
+68
+
+172SP heating ststem
+shroud around the exhaust muffler
+
+172SP type of turn coordinator
+electric
+
+172SP number if vacuum pumps
+2
+
+purposes of engine oil
+coolant, lubricant, corrosion inhibitor, sealant, cleaner
