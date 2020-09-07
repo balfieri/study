@@ -61,12 +61,15 @@ question_cnt = len( questions ) >> 1
 if question_cnt == 0: die( 'no questions found in ' + filename )
 
 while True:
+    #-----------------------------------------------------------------------
+    # choose <count> random questions
+    #-----------------------------------------------------------------------
     count = int( prompt( '\nNumber of questions', str(min( question_cnt, 20 )) ) )
     count = min( count, question_cnt )
 
     which = []
     asked = {}
-    for i in range( 1, count+1 ):
+    for i in range( count ):
         while True:
             ii = rand_n( question_cnt )
             if ii not in asked: break
