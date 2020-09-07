@@ -380,3 +380,24 @@ little movement
 
 CIG
 ceiling
+
+A02
+with precipitation sensor
+
+PNO
+precipitation sensor not working
+
+PK WND
+peak wind
+
+$ (in METAR)
+station has put in a call for maintenance
+
+T01500078 (in METAR)
+temperature 15.0C, dew point 7.8C
+
+6////
+no rainfall in past 6 hours
+
+7////
+no rainfall in past 24 hours
