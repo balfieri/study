@@ -52,7 +52,7 @@ TWEB
 transcribed weather broadcast
 
 NSW
-no signficant weather
+no significant weather
 
 SKC
 sky clear condition
