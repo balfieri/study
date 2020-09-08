@@ -156,8 +156,8 @@ altimeter, airspeed indicator, vertical speed indicator
 instruments in vaccum system
 attitude indicator, heading indicator
 
-right of way
-aircraft in distress, balloon, glider, towing or refueling, airship, powered parachute, airplane, rotocraft
+EBGAAR right-of-way rules
+emergency, balloon, glider, aircraft towing/refueling, airship, rotocraft/airplane
 
 speed limits (below 10,000 ft, below 2500 ft class C/D, underlying class B)
 250, 200, 200
@@ -423,7 +423,7 @@ frequency of ELT inspections
 FSDO
 flight standards district office
 
-how pilot should determine if aircraft is airworthy if broken binstrument is part of:
+pilot should determine if aircraft is airworthy be seeing if broken instrument is part of:
 MEL, VFR requirements, KOEL, ADs
 
 flow of air in and around low pressure system
@@ -464,6 +464,9 @@ shroud around the exhaust muffler
 
 172SP type of turn coordinator
 electric
+
+Why is the turn coordinator electric?
+redundancy in case vacuum pump is broken
 
 172SP number if vacuum pumps
 2
@@ -538,7 +541,79 @@ What do we need to compute compass heading?
 magnetic heading, magnetic deviation
 
 What if you are landing just as a large aircraft is taking off?
-ask to be resequenced or land well short of the plane's takeoff point
+land short of takeoff point
 
 Explain the hemispheric rule
 eastbound odd-thousands + 500, westbound even-thousands + 500
+
+Types of hypoxia
+hypoxic (lungs), hypemic (blood), stagnant (pooling), hystotoxic (cells)
+
+Can you fly into icing that is forecast (under part 91)?
+no
+
+How would you identify an electrical failure?
+low voltage annunciator, negative ammeter reading
+
+Could you fly the airplane if a piece of non-required equipment was not operational?
+yes, if disabled and placarded
+
+Symptoms of hypoxia
+change in skin color, confusion, euforia
+
+Symptoms of hyperventilation
+same as hypoxia, rapid breathing, rapid heart rate
+
+Where can you do daytime pattern work with 1SM visibility and low clouds?
+class G airport if clouds above pattern altitude
+
+If we don't have an airport map or feel uncomfortable at the airport, what can we do?
+request progressive taxi instructions
+
+What is an isobar?
+curve that connects equal points of pressure
+
+What do closely spaced isobars mean?
+strong pressure gradient, strong winds￼
+
+Ridge
+extended area of high pressure, descending air
+
+Trough
+extended area of low pressure, rising air
+
+Standard lapse rate
+-2C per 1000 ft
+
+What is unstable atmosphere?
+ambient lapse rate is greater than standard lapse rate
+
+How do you know if atmosphere has a lot of moisture?
+narrow dewpoint spread
+
+Types of lifting actions
+surface heats warm air, upslope wind, cold front
+
+AGL or MSL (METAR, TAF, FA, PIREP)
+AGL, AGL, MSL, MSL
+
+Minimum Safe Altitude is one that:
+allows for an emergency landing without undue hazard to persons or property on the ground
+
+When can night landings be logged?
+1 hour past sundown to 1 hour before sunrise
+
+camber
+curvature of wings
+
+can we change camber?
+yes, using flaps
+
+angle of incidence
+angle between the wing chord line and the fuselage
+
+can angle of incidence be changed?
+no
+
+172SP max demonstrated crosswind component knots
+15
