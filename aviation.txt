@@ -30,8 +30,8 @@ private pilot certificate, government-issued photo id, medical certificate
 ARROW
 airworthiness certificate, registration, radio license, operating limitations, AFM weight/balance data
 
-AAV1ATESRS50
-annual, ADs, VOR, 100-hour, altimeter, transponder, ELT, registration, static source/altimeter, preventative maintenance
+AAV1ATES
+annual, ADs, VOR, 100-hour, altimeter, transponder, ELT, registration, static source/altimeter
 
 ATOMATOE
 altimeter, tachometer, oil pressure, manifold pressure, airspeed indicator, temperature gauge, oil temperature gauge, ELT
@@ -63,11 +63,11 @@ plan, plane, pilot, passengers, programming
 MRLIDD
 mandatory instruction, runway distance remaining, location, information, destination, direction
 
-PARE spin recover
+PARE spin recovery
 power to idle, ailerons to neutral, rudder full opposite, elevator pitch down
 
 CCCCC
-climb, circle, conserve, calculate, communicate
+confess, climb, circle, conserve, communicate
 
 runway incursions
 incorrect entry or presence on runway protected area, incorrect runway crossing, incorrect spacing between aircraft, takeoff or landing without ATC clearance
@@ -195,7 +195,7 @@ geographical forecast for aviation
 CWA
 central weather advisory
 
-in-flight source of weather information
+in-flight sources of weather information
 FSS, ATIS, HIWAS, FIS-B, ATC, Foreflight
 
 in-flight weather advisories
@@ -221,6 +221,9 @@ remote communications outlet
 
 NWKRAFT
 NOTAMs, weather, known ATC delays, runway lengths, alternate airports, fuel requirements, takeoff/landing distance data
+
+what are reserve fuel requirements in minutes past destination (day, night)
+30, 45
 
 ELT
 emergency locator transmitter
@@ -348,8 +351,11 @@ never exceed speed, 163
 172SP limit load factor normal in g's (flaps up, flaps down)
 3.8, 3.0
 
-172SP engine type
-Lycoming IO-360-L2A
+172SP engine and characteristics
+Lycoming IO-360-L2A, normally aspirated, 4-cylinder horizontally opposed
+
+normally aspirated
+air enters intake manifold, no turbocharger
 
 172SP engine power (HP, RPM)
 180, 2700
@@ -582,8 +588,11 @@ change in skin color, confusion, dizziness, euforia
 Symptoms of hyperventilation
 same as hypoxia, rapid breathing, rapid heart rate
 
+how to relieve hyperventilation
+breath into bag, talk outloud
+
 Where can you do daytime pattern work with 1SM visibility and low clouds?
-class G airport if clouds above pattern altitude
+class G airport if cloud ceiling is at least 1000 ft
 
 If we don't have an airport map or feel uncomfortable at the airport, what can we do?
 request progressive taxi instructions
@@ -655,7 +664,7 @@ How does the ELT work?
 activated when a certain force threshold is detected by its accelerometers, transmits signal on 406 MHz
 
 Explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving. How to avoid problem in flight?
-decompression sickness, wait 12 hours up to 8000 ft, 24 hours if over 8000 ft
+decompression sickness, wait 12 hours for uncontrolled ascent up to 8000 ft, 24 hours if controlled ascent or over 8000 ft
 
 How to get windshear reports?
 ATIS, PIREPs, ATC
@@ -830,3 +839,24 @@ combustion that occurs before the intended spark
 
 what causes pre-ignition?
 hot spots from detonation, improper heat range spark plugs, glowing carbon deposits from lean mixtures
+
+magnetic variation
+difference between true north and magnetic north
+
+magnetic deviation
+per-aircraft compass correction for errors due to fields created by other instruments
+
+cloud ceiling
+height above ground of broken or overcast cloud layer
+
+limitations of VORs
+range is limited, line of sight
+
+how often is the chart supplement updated?
+every 56 days
+
+what kinds of incidents must be reported to the NTSB?
+flight control system malfunction or failure, inability of required crew member to perform duties due to injury or illness, inflight fire, inflight collision, damage to property other than the airplane that exceeds $25,000
+
+what is a congested area?
+not well defined, could be anywhere where there is a group of people
