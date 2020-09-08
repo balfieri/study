@@ -666,9 +666,6 @@ contact FSS radio frequency
 What if you contact UNICOM/CTAF and no one answers?
 check that you are transmitting on proper comm channel, check frequency, check that you pressed hard enough, contact ATC approach
 
-You're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900' ceilings. You're a non-instrument rated private pilot. Can you land there?
-yes, but you can't fly at pattern altitude
-
 Night currency requirements to carry passengers at night
 3 full-stop landings from 1 hour past sundown to 1 hour before sunrise
 
@@ -792,14 +789,14 @@ low speed, high power, high angle of attack
 what type of oil do we use?
 aviation 15W-50
 
-You're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900' ceilings. You're a non-instrument rated private pilot. Can you land there?
-no, IFR, 3-152 means 400 ft AGL, also way below pattern altitude
+You're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900 ft ceilings. You're a non-instrument rated private pilot. Can you land there?
+no, airport is IFR when ceiling is below 1000 ft, also 3-152 and 500 ft minimum above ground
 
 When we exit the runway, if they tell us to taxi across runway 4 do we have to stop and wait for them to tell us to cross or can we just cross?
 no, but stop and look both ways
 
 How do I know if the 172SP nose strut has the right amount of air?
-at least 3-4 fingers of silver part
+at least 3-4 fingers of silver part showing
 
 PGF
 pressure gradient force
@@ -808,7 +805,7 @@ direction of Coriolis force in northern hemisphere
 right
 
 when can something be dropped from an airplane?
-anytime it doesn't cause harm to persons or passengers on the ground
+when precautions have been taken to ensure that it doesn't cause harm to persons or passengers on the ground
 
 why does maneuvering speed decrease with less weight?
 aerodynamic forces have more effect on a lighter plane
@@ -823,4 +820,13 @@ what causes adverse yaw?
 drag from the downward aileron is greater than the upward aileron
 
 detonation
-uncontrolled firing of fuel/air mixture caused by excess temperature or using lower grade of fuel
+uncontrolled firing of fuel/air mixture after the intended spark
+
+what causes detonation?
+excess temperature, low-octane fuel
+
+pre-ignition
+combustion that occurs before the intended spark
+
+what causes pre-ignition?
+hot spots from detonation, improper heat range spark plugs, glowing carbon deposits from lean mixtures
