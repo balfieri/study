@@ -583,7 +583,7 @@ What is an isobar?
 curve that connects equal points of pressure
 
 What do closely spaced isobars mean?
-strong pressure gradient, strong winds￼
+high pressure gradient force, strong winds￼
 
 Ridge
 extended area of high pressure, descending air
@@ -785,3 +785,9 @@ no, but stop and look both ways
 
 How do I know if the 172SP nose strut has the right amount of air?
 at least 3-4 fingers of silver part
+
+PGF
+pressure gradient force
+
+direction of Coriolis force in northern hemisphere
+right
