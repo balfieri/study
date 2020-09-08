@@ -220,10 +220,7 @@ RCO
 remote communications outlet
 
 NWKRAFT
-NOTAMs, weather, ATC delays, runway lengths, alternative airports, fuel requirements, takeoff/landing distance data
-
-RAWFAT
-runway lengths, alternates, weather, fuel requirements, ATC delays, takeoff/landing distance data
+NOTAMs, weather, known ATC delays, runway lengths, alternate airports, fuel requirements, takeoff/landing distance data
 
 ELT
 emergency locator transmitter
@@ -268,7 +265,7 @@ high-performance aircraft features
 more than 200 HP
 
 is a Mooney M20J-201 a high-performance aircraft?
-no
+no, right at 200 HP
 
 KOEL
 kinds of operations equipment list
@@ -393,11 +390,11 @@ required training, required aeronautical experience
 types of airworthiness certificates
 standard, special, experimental
 
-does an airworthiness certificate have an expiration date
+does an airworthiness certificate have an expiration date?
 no
 
 conditions for airworthiness
-comform to type design, in condition for safe operation
+comform to master type design, in condition for safe operation
 
 what to check that aircraft has conformed to all inspections and ADs
 airframe and engine logbooks
@@ -429,10 +426,10 @@ flight standards district office
 pilot should determine if aircraft is airworthy by seeing if broken instrument is part of:
 MEL, VFR requirements, KOEL, ADs
 
-flow of air in and around low pressure system
+flow of air in and around low pressure system in northern hemisphere
 inward, upward, counterclockwise
 
-flow of air in and around high pressure system
+flow of air in and around high pressure system in norhern hemisphere
 outwward, downward, clockwise
 
 which seatbelts can be broken?
@@ -441,7 +438,7 @@ those in unoccupied seats
 meaning of pressure altitude
 vertical distance above the standard datum plane
 
-Equation for pressure altitude
+equation for pressure altitude
 PA = elevation + 1000 * (29.92 - altimeter)
 
 meaning of density altitude
@@ -531,14 +528,14 @@ pitot heat, alternate static source, defrost via cabin heat
 172SP service ceiling in feet
 14000
 
-Which way to turn if approaching another aircraft head on?
+which way to turn if approaching another aircraft head on?
 right
 
 Can a student pilot fly into class B airspace?
 yes, with proper training and logbook endorsement
 
 What to do if you get lost?
-CCCC, use GPS, look for landmarks, use VORs
+CCCCC, use GPS, look for landmarks, use VORs
 
 What is an isogonic line?
 connects points of equal magnetic variation
@@ -550,13 +547,25 @@ What do we need to compute compass heading?
 magnetic heading, magnetic deviation
 
 What if you are landing just as a large aircraft is taking off?
-land short of takeoff point
+land well short of takeoff point
 
 Explain the hemispheric rule
 eastbound odd-thousands + 500, westbound even-thousands + 500
 
 Types of hypoxia
 hypoxic (lungs), hypemic (blood), stagnant (pooling), hystotoxic (cells)
+
+what can cause hypoxic hypoxia?
+high altitude, lung illness
+
+what can cause hypemic hypoxia?
+carbon monoxide poising, anemia
+
+what can cause stagnant hypoxia?
+weak heart, pulling G's
+
+what can cause hystotoxic hypoxia?
+drugs or alcohol, cellular diseases
 
 Can you fly into icing that is forecast (under part 91)?
 no
