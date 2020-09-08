@@ -57,7 +57,7 @@ aeronautical decision making
 SRM
 single pilot resource management
 
-PPPP
+PPPPP
 plan, plane, pilot, passengers, programming
 
 MRLIDD
@@ -65,9 +65,6 @@ mandatory instruction, runway distance remaining, location, information, destina
 
 PARE spin recover
 power to idle, ailerons to neutral, rudder full opposite, elevator pitch down
-
-Left-Turning Tendencies
-torque, spiral slipstream, p-factor, gyroscopic precession
 
 CCCCC
 climb, circle, conserve, calculate, communicate
@@ -388,10 +385,10 @@ eligibility requirements for private pilot certificate
 17 years old, read/speak/write/understand English, at least 3rd class medical, training, logbook endorsements, 70% on written
 
 privileges and limitations, of private pilot certificate
-passengers, pay at least pro rata share, business if incidental, non-profit event, search and rescue, demonstrate aircraft to buyer if 200+ hours, tow a glider, test flight in light-sport aircraft
+carry passengers, pay at least pro rata share, business if incidental, non-profit event, search and rescue, demonstrate aircraft to buyer if 200+ hours, tow a glider, test flight in light-sport aircraft
 
 which flights must you log in your logbook?
-required training, aeronautical experience
+required training, required aeronautical experience
 
 types of airworthiness certificates
 standard, special, experimental
@@ -403,9 +400,9 @@ conditions for airworthiness
 comform to type design, in condition for safe operation
 
 what to check that aircraft has conformed to all inspections and ADs
-aircraft and engine logbooks
+airframe and engine logbooks
 
-who is responsible for ensuring that aircraft is mainted in an airworthy condition?
+who is responsible for ensuring that aircraft is maintained in an airworthy condition?
 owner or operator
 
 TCDS
@@ -429,7 +426,7 @@ frequency of ELT inspections
 FSDO
 flight standards district office
 
-pilot should determine if aircraft is airworthy be seeing if broken instrument is part of:
+pilot should determine if aircraft is airworthy by seeing if broken instrument is part of:
 MEL, VFR requirements, KOEL, ADs
 
 flow of air in and around low pressure system
@@ -465,7 +462,7 @@ pull ALT FLD circuit breaker, turn off nonessential electrical equipment, land a
 How to enter S-turns?
 do clearing turns, descend to 800 ft AGL, enter downwind perpendicular to line
 
-172SP Hydraulic systems
+172SP hydraulic systems
 brakes
 
 172SP hydraulic fluid color
@@ -477,7 +474,7 @@ shroud around the exhaust muffler
 172SP type of turn coordinator
 electric
 
-Why is the turn coordinator electric?
+why is the turn coordinator electric?
 redundancy in case vacuum pump is broken
 
 172SP number if vacuum pumps
@@ -658,7 +655,7 @@ How do you acivate your VFR flight plan once airborne?
 contact FSS radio frequency
 
 What if you contact UNICOM/CTAF and no one answers?
-check that you are transmitting on proper comm channel, check frequency, check that you pressed hard enough
+check that you are transmitting on proper comm channel, check frequency, check that you pressed hard enough, contact ATC approach
 
 You're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900' ceilings. You're a non-instrument rated private pilot. Can you land there?
 yes, but you can't fly at pattern altitude
