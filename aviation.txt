@@ -4,7 +4,7 @@ PLSTART
 pitch for best glide speed, landing site, seat belt, troubleshoot, approach, radio, turn off
 
 MCPRAWN
-military operations, controlled firing, prohibited, restricted, alert, warning, national security
+military operations, controlled firing, prohibited, restricted, alert, warning, national security TFR
 
 ANDS (maximum east-west)
 accelerate north, decelerate south
@@ -675,14 +675,17 @@ yes, but you should not due to painful pressure build-up
 Can you fly with benadryl, aspirin, ibuprofin?
 no, yes, yes
 
-What would you do if you started getting dizzy at high altitude?
-open window, descend, use canned oxygen
+What would you do if you started getting dizzy at altitude?
+open window, descend, use aviation oxygen
+
+Why don't we use medical oxygen?
+it goes through a humidification process which could freeze at altitude
 
 Why would you not descend at 1000 fpm or 1500 fpm?
 could exceed Vno/Vne, uncomforable for passengers
 
 What if all radios die, inluding handheld?
-squawk 7600, go to uncontrolled airport, call approach on phone
+squawk 7600, go to uncontrolled airport, circle above, call approach on phone, enter traffic pattern, watch for light gun signals
 
 Should you take your inexperienced passenger on your preflight?
 no, distracting
@@ -719,6 +722,9 @@ must take special class, file special DC FRZ flight plan
 
 172SP tire inflation PSI (mains, nose)
 38, 45
+
+At what speed can the main tires hydroplane?
+9*sqrt(PSI)
 
 which instruments use the pitot tube?
 airspeed indicator
@@ -791,3 +797,21 @@ pressure gradient force
 
 direction of Coriolis force in northern hemisphere
 right
+
+when can something be dropped from an airplane?
+anytime it doesn't cause harm to persons or passengers on the ground
+
+why does maneuvering speed decrease with less weight?
+aerodynamic forces have more effect on a lighter plane
+
+why does a heavier aircraft have a higher stall speed?
+a heavier aircraft must fly at a higher angle of attack
+
+adverse yaw
+nose of aircraft tends to turn away from the intended direction of the turn
+
+what causes adverse yaw?
+drag from the downward aileron is greater than the upward aileron
+
+detonation
+uncontrolled firing of fuel/air mixture caused by excess temperature or using lower grade of fuel
