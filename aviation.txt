@@ -776,3 +776,12 @@ low speed, high power, high angle of attack
 
 what type of oil do we use?
 aviation 15W-50
+
+You're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900' ceilings. You're a non-instrument rated private pilot. Can you land there?
+no, IFR, 3-152 means 400 ft AGL, also way below pattern altitude
+
+When we exit the runway, if they tell us to taxi across runway 4 do we have to stop and wait for them to tell us to cross or can we just cross?
+no, but stop and look both ways
+
+How do I know if the 172SP nose strut has the right amount of air?
+at least 3-4 fingers of silver part
