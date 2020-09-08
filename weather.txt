@@ -401,3 +401,6 @@ no rainfall in past 6 hours
 
 7////
 no rainfall in past 24 hours
+
+9900 winds aloft
+winds light and variable

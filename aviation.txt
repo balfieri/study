@@ -18,7 +18,7 @@ illness, medications, stress, alcohol, fatigue, emotions
 PAVE
 pilot, aircraft, environment, external pressures
 
-DECIDE
+DECIDE in-flight risk assessment
 detect, estimate, choose, identify, do, evaluation
 
 PPP
@@ -28,7 +28,7 @@ what must private pilot carry
 private pilot certificate, government-issued photo id, medical certificate
 
 ARROW
-airworthiness certificate, registration, radio license, operating limitations, weight/balance data
+airworthiness certificate, registration, radio license, operating limitations, AFM weight/balance data
 
 AAV1ATESRS50
 annual, ADs, VOR, 100-hour, altimeter, transponder, ELT, registration, static source/altimeter, preventative maintenance
@@ -40,10 +40,10 @@ FLAMES
 fuel gauge, landing gear position indicator, anticollision lights, magnetic compass, emergency equipment, seatbelts
 
 FLAPS
-fuses, landing light, anti-collision light, position lights, source of electricity
+fuses, landing light (for hire), anti-collision light, position lights, source of electricity
 
 when do you NOT need an ELT?
-when staying within 50 miles of origin
+when training within 50 miles of origin
 
 SUA
 special use airspace
@@ -297,8 +297,14 @@ minimum equipment list
 purpose of MEL
 list of equipment that can be broken
 
-reasons for replacing ELT battery
-less than 50% life, used continuously for more than one hour
+does our 172SP have a MEL?
+no, we adhere to 91.205
+
+can an aircraft owner change a MEL?
+only after approval by the FAA
+
+conditions that require ELT inspection
+12 months elapsed, less than 50% battery life, battery used continuously for more than one hour, accident
 
 Vs0 (meaning, 172SP)
 stall speed in landing configuration, 40
@@ -363,8 +369,8 @@ ashless dispersant
 172SP approved fuels
 100LL (blue), 100 (green)
 
-172SP fuel gal (total, usuable, unusable, usable per wing tank)
-56, 53, 3, 17.5
+172SP fuel gal (total, usuable, unusable, usable per wing tank, usuable per wing tank up to tabs)
+56, 53, 3, 26.5, 17.5
 
 advantages of fuel injection
 no carb ice, better fuel flow, faster throttle response, precise mixture control, easier cold start
@@ -382,7 +388,7 @@ eligibility requirements for private pilot certificate
 17 years old, read/speak/write/understand English, at least 3rd class medical, training, logbook endorsements, 70% on written
 
 privileges and limitations, of private pilot certificate
-passengers, pay at least pro rata share, business if incidental, charitable event, search and rescue, demonstrate aircraft to buyer if 200+ hours, tow a glider, test flight in light-sport aircraft
+passengers, pay at least pro rata share, business if incidental, non-profit event, search and rescue, demonstrate aircraft to buyer if 200+ hours, tow a glider, test flight in light-sport aircraft
 
 which flights must you log in your logbook?
 required training, aeronautical experience
@@ -435,8 +441,14 @@ outwward, downward, clockwise
 which seatbelts can be broken?
 those in unoccupied seats
 
+meaning of pressure altitude
+vertical distance above the standard datum plane
+
 Equation for pressure altitude
 PA = elevation + 1000 * (29.92 - altimeter)
+
+meaning of density altitude
+pressure altitude corrected for non-standard temperature
 
 Equation for density altitude
 DA = PA + 118.8*(OAT-15+elevation/500)
@@ -555,8 +567,8 @@ no
 How would you identify an electrical failure?
 low voltage annunciator, negative ammeter reading
 
-Could you fly the airplane if a piece of non-required equipment was not operational?
-yes, if disabled and placarded
+Could you fly the airplane if a piece of non-required equipment is not operational?
+yes, if deactivated and placarded
 
 Symptoms of hypoxia
 change in skin color, confusion, euforia
@@ -617,3 +629,153 @@ no
 
 172SP max demonstrated crosswind component knots
 15
+
+when is supplemental oxygen required for crewmembers?
+more than 30 minutes between 12500 and 14000 ft, above 14000
+
+when must supplemental oxygen be provided to passengers?
+above 15000 ft
+
+172SP fuel tank venting
+air vent is located on the left wing, both tanks are interconnected by a vent line, both fuel caps are also vented
+
+what would you do if you smell exhaust fumes in the cockpit?
+open windows, close heat/vents, land as soon as practical
+
+Why do you have to avoid alcohol and certain over-the-counter drugs with respect to flying, when you are allowed to drive with, for example, immediately after having a few drinks?
+less source oxygen avilable at higher altitudes
+
+How does ELT work?
+activated when a certain force threshold is detected by accelerometers, transmits signal on 406 MHz
+
+Explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving. How to avoid problem in flight?
+decompression sickness, wait 12 hours up to 8000 ft, 24 hours if over 8000 ft
+
+How to get windshear reports?
+ATIS, PIREPs, ATC
+
+How do you acivate your VFR flight plan once airborne?
+contact FSS radio frequency
+
+What if you contact UNICOM/CTAF and no one answers?
+check that you are transmitting on proper comm channel, check frequency, check that you pressed hard enough
+
+You're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900' ceilings. You're a non-instrument rated private pilot. Can you land there?
+yes, but you can't fly at pattern altitude
+
+Night currency requirements to carry passengers at night
+3 full-stop landings from 1 hour past sundown to 1 hour before sunrise
+
+What happens to maneuvering speed as airplane gets heavier?
+increases
+
+When do you need to use position lights (nav lights)?
+taxiing or flying at night
+
+Can you fly with a head cold?
+yes, but you should not due to painful pressure build-up
+
+Can you fly with benadryl, aspirin, ibuprofin?
+no, yes, yes
+
+What would you do if you started getting dizzy at high altitude?
+open window, descend, consume canned oxygen
+
+Why would you not descend at 1000 fpm or 1500 fpm?
+might exceed Vno/Vne, uncomforable for passengers
+
+What if all radios die, inluding handheld?
+squawk 7600, go to uncontrolled airport, call approach on phone
+
+Should you take your green passenger on your preflight?
+no, distracting
+
+172SP vacuum suction normal range Hg: min, max
+4.5, 5.5
+
+characteristics of forward CG
+higher angle of attack, lower cruise speed, more control authority
+
+characteristics of aft CG
+lower angle of attack, high cruise speed, less control authority
+
+how long is a VFR flight kept open?
+until you explicitly close it
+
+whom do we tell if our VFR flight plan is running late?
+FSS
+
+what if FSS is not responding on 122.2 or whatever?
+look on the sectional chart above nearest VOR for radio frequency, listen on VOR
+
+if you hear ATIS on VOR, is VOR working?
+no, could be overlap
+
+how to tell if VOR is working?
+listen to Morse code
+
+FRZ
+DC flight restricted zone
+
+How to fly VFR within FRZ?
+must take class, file special DC FRZ flight plan
+
+172SP tire inflation PSI (mains, nose)
+38, 45
+
+which instruments use the pitot tube?
+airspeed indicator
+
+port, starboard
+left, right
+
+minimum surface visibility in SM (day, night) 
+3, 5
+
+when does a PPL expire?
+never
+
+Does the POH meet the requirement for an AFM?
+yes, for most small aircraft built after 1975
+
+who is responsible for ensuring an aircraft is maintained in an airworthy condition?
+owner/operator
+
+must a pilot adhere to the operating limitations specified in the POH/AFM?
+yes
+
+four forces of flight
+lift, weight, thurst, drag
+
+types of drag
+parasite, induced
+
+types of parasite drag?
+form, skin friction, interference
+
+how does parasite drag change with speed?
+increases
+
+how does induced drag change with speed?
+decreases
+
+what causes wing-tip vortices?
+higher-pressure air below the wing spills above the wing
+
+a wing will stall anytime...
+the critical angle of attack is exceeded
+
+types of airspeeds
+IAS, CAS, TAS, GS
+
+types of altitudes
+indicated, pressure, density, absolute
+
+left-turning tendencies
+p-factor, gyroscopic precession (tailwheel), asymmetric thrust, spiraling slipstream
+
+when are left-turning tendencies most pronounced
+low speed, high power, high angle of attack
+
+what type of oil do we use?
+aviation 15W-50
