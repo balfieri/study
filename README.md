@@ -11,9 +11,9 @@ weather.txt - aviation weather symbols<br>
 
 Example of running the italian questions:
 
-./run italian
+    ./run italian
 
 This is all open-source.  Refer to the LICENSE.md for licensing details.  
 
-Bob Alfieri
+Bob Alfieri<br>
 Chapel Hill, NC
