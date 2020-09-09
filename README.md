@@ -1,4 +1,4 @@
-This repository contains a Python3 script called "run" that will test you based on questions from a text file of your creation. It will randomly select questions and you must type the answers exactly. 
+This repository contains a Python3 script called "run" that will test you based on questions from a text file of your creation. It will randomly select questions and you must type the answers exactly (but upper/lower case is ignored). 
 
 It will re-test the questions that you missed.
 
