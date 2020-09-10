@@ -1,4 +1,4 @@
-# aviation.txt - everything but weather
+# aviation.txt - everything but weather symbols
 #
 PLSTART
 pitch for best glide speed, landing site, seat belt, troubleshoot, approach, radio, turn off
@@ -28,10 +28,10 @@ what must private pilot carry
 private pilot certificate, government-issued photo id, medical certificate
 
 ARROW
-airworthiness certificate, registration, radio license, operating limitations, AFM weight/balance data
+airworthiness certificate, registration, radio license, operator's handbook, weight/balance data for plane
 
 AAV1ATES
-annual, ADs, VOR, 100-hour, altimeter, transponder, ELT, registration, static source/altimeter
+annual, ADs, VOR, 100-hour, altimeter, transponder, ELT, static source/altimeter
 
 ATOMATOE
 altimeter, tachometer, oil pressure, manifold pressure, airspeed indicator, temperature gauge, oil temperature gauge, ELT
@@ -41,6 +41,9 @@ fuel gauge, landing gear position indicator, anticollision lights, magnetic comp
 
 FLAPS
 fuses, landing light (for hire), anti-collision light, position lights, source of electricity
+
+SAFETY
+seatbelts, air conditioning, fire extinguisher, exits, talking, your questions
 
 when do you NOT need an ELT?
 when training within 50 miles of origin
@@ -555,6 +558,9 @@ magnetic heading, magnetic deviation
 What if you are landing just as a large aircraft is taking off?
 land well short of takeoff point
 
+What if you are taking off just as large aircraft landed?
+take off well past the touch-down point
+
 Explain the hemispheric rule
 eastbound odd-thousands + 500, westbound even-thousands + 500
 
@@ -860,3 +866,12 @@ flight control system malfunction or failure, inability of required crew member 
 
 what is a congested area?
 not well defined, could be anywhere where there is a group of people
+
+when may I fly out of a TFR zone?
+file a flight plan, in contact with ATC, working transponder, adhere to any restrictions in the TFR
+
+VFR for Washington DC?
+must take class, normal TFR rules, must file flight plans in and out
+
+permanent TFRs
+DC, Disneyworld, Disneyland
