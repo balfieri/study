@@ -45,7 +45,7 @@ while True:
     answer = Q.readline()
     answer = re.sub( r'^\s+', '', answer )
     answer = re.sub( r'\s+$', '', answer )
-    if answer == '': die( 'question on line ' + line_num + ' not followed by non-blank onswer on next line' )
+    if answer == '': die( 'question on line ' + line_num + ' is not followed by a non-blank answer on the next line' )
     line_num += 1
 
     questions.append( question )
@@ -62,7 +62,7 @@ if question_cnt == 0: die( 'no questions found in ' + filename )
 
 while True:
     #-----------------------------------------------------------------------
-    # choose <count> random questions
+    # choose questions
     #-----------------------------------------------------------------------
     count = int( prompt( '\nNumber of questions', str(min( question_cnt, 20 )) ) )
     count = min( count, question_cnt )
@@ -77,7 +77,7 @@ while True:
         which.append( ii )
 
     #-----------------------------------------------------------------------
-    # keep trying to test questions that haven't yet been answered correctly
+    # keep trying to test questions that haven't been answered correctly
     #-----------------------------------------------------------------------
     while len( which ) != 0:
         for i in range( 100 ): print()
@@ -102,4 +102,5 @@ while True:
             which = missed
     if prompt( '\nPlay again?', 'y' ) != 'y': break 
 
+print( '\nGoodbye!\n' )
 sys.exit( 0 )
