@@ -432,7 +432,7 @@ frequency of ELT inspections
 FSDO
 flight standards district office
 
-pilot should determine if aircraft is airworthy by seeing if broken instrument is part of:
+pilot should determine if aircraft is airworthy by seeing if broken instrument is part of
 MEL, VFR requirements, KOEL, ADs
 
 flow of air in and around low pressure system in northern hemisphere
@@ -633,7 +633,7 @@ surface heats warm air, upslope wind, cold front
 AGL or MSL (METAR, TAF, FA, PIREP)
 AGL, AGL, MSL, MSL
 
-Minimum Safe Altitude is one that:
+Minimum Safe Altitude is one that
 allows for an emergency landing without undue hazard to persons or property on the ground
 
 When can night landings be logged? Same as FAA definition of nighttime
@@ -792,7 +792,7 @@ decreases
 what causes wing-tip vortices?
 higher-pressure air below the wing spills over the wing
 
-a wing will stall when:
+a wing will stall when
 the critical angle of attack is exceeded
 
 types of airspeeds
