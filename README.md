@@ -1,4 +1,4 @@
-This repository contains a Python3 script called "run" that will test you based on questions from a text file of your creation. It will randomly select questions and you must type the answers exactly (but upper/lower case is ignored). 
+This repository contains a Python3 script called run.py that will test you based on questions from a text file of your creation. It will randomly select questions and you must type the answers exactly (but upper/lower case is ignored). 
 
 It will re-test the questions that you missed.
 
@@ -11,7 +11,7 @@ weather.txt - aviation weather symbols<br>
 
 Example of running the italian questions:
 
-    ./run italian
+    ./run.py italian
 
 This is all open-source.  Refer to the LICENSE.md for licensing details.  
 

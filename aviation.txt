@@ -187,7 +187,7 @@ AWOS
 automatic weather observation system
 
 ATIS
-automatic terminal infrormation services
+automatic terminal information services
 
 FSS (meaning, typical MHz)
 flight service station, 122.2
