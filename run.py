@@ -38,8 +38,8 @@ while True:
     question = Q.readline()
     if question == '': break
     line_num += 1
-    question = re.sub( '^\s+', '', question )
-    question = re.sub( '\s+$', '', question )
+    question = re.sub( r'^\s+', '', question )
+    question = re.sub( r'\s+$', '', question )
     if len(question) == 0 or question[0] == '#': continue
 
     answer = Q.readline()
