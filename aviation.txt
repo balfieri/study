@@ -255,7 +255,7 @@ from sunset to sunrise
 REIL
 runway end identification light
 
-beacons (land, hospital, water, hiliport, military)
+beacons (land, hospital, seaport, heliport, military)
 white/green, white/green/red, white/yellow, white/green/yellow, white/white/green
 
 how to prioritize when overloaded
@@ -543,6 +543,9 @@ right
 Can a student pilot fly into class B airspace?
 yes, with proper training and logbook endorsement
 
+Equipment needed to enter class B airspace?
+mode-C transponder, ADS-B, radio
+
 What to do if you get lost?
 CCCCC, use GPS, look for landmarks, use VORs
 
@@ -672,8 +675,11 @@ activated when a certain force threshold is detected by its accelerometers, tran
 Explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving. How to avoid problem in flight?
 decompression sickness, wait 12 hours for uncontrolled ascent up to 8000 ft, 24 hours if controlled ascent or over 8000 ft
 
-How to get windshear reports?
-ATIS, PIREPs, ATC
+How to get wind shear reports?
+PIREPs, ATC, ATIS (if working)
+
+causes of wind shear
+thunderstorms, high temperature inversion, fast winds aloft
 
 How do you acivate your VFR flight plan once airborne?
 contact FSS radio frequency
@@ -875,3 +881,45 @@ must take class, normal TFR rules, must file flight plans in and out
 
 permanent TFRs
 DC, Disneyworld, Disneyland
+
+types of turbulence
+mechanical, clear air, wake, wind shear, thermal
+
+time to wait to take off behind in minutes (light, medium, heavy, super)
+2, 4, 6, 8
+
+how to know if a paved-runway airport is private?
+"(pvt)" is in the name
+
+symbol on sectional chart to indicate a seaport?
+anchor
+
+dangerous thunderstorms we may see along cold front
+squal line
+
+direction of wind for cyclone, anti-cyclone (CCW or CW)?
+CCW, CW
+
+convective SIGMET
+embedded thunderstorms, a line of thunderstorms, thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3000 square miles, surface winds of 50 knots or more, hail at the surface greater than or equal to 3/4 inches in diameter, tornadoes
+
+types of SIGMETs
+convective, severe icing, IMC due to dust/sand/volcanic ash
+
+types of AIRMETs
+moderate turbulence, moderate icing, sustained surface winds of 30 knots or more, widespread restricted visibility
+
+three types of AIRMETs
+sierra, tango, zulu
+
+AIRMET sierra (S)
+mountain obscuration or IFR
+
+AIRMET tango (T)
+turbulence
+
+AIRMET zulu (Z)
+icing
+
+solid thin black line on sectional chart that is not railroad tracks
+power lines
