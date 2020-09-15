@@ -153,8 +153,17 @@ clear, rime, mixed
 fronts
 cold, warm, occluded, stationary
 
+what is an occluded front?
+fast-moving cold front that catches up with a slower-moving cold or warm front
+
 types of fog
 radiation, advection, upslope, steam, valley, precipitation
+
+valley fog
+when cold winter sun cannot burn off radition fog in a valley
+
+precipitation fog
+when falling rain is warmer than surrounding air
 
 spatial disorientations
 the leans, graveyard spin, graveyard spiral, somatogravic illusion, head-down illusion, coriolis illusion, inversion illusion, elevator illusion
@@ -586,7 +595,7 @@ what can cause hypoxic hypoxia?
 high altitude, lung illness
 
 what can cause hypemic hypoxia?
-carbon monoxide poising, anemia
+carbon monoxide poisoning, anemia
 
 what can cause stagnant hypoxia?
 weak heart, pulling G's
@@ -787,7 +796,7 @@ must a pilot adhere to the operating limitations specified in the POH/AFM?
 yes
 
 four forces of flight
-lift, weight, thurst, drag
+lift, weight, thrust, drag
 
 types of drag
 parasite, induced
@@ -933,6 +942,9 @@ turbulence
 AIRMET zulu (Z)
 icing
 
+types of icing
+structural, induction system, instrument
+
 solid thin black line on sectional chart that is not railroad tracks
 power lines
 
@@ -947,3 +959,90 @@ class E transition area (ft AGL start, ft AGL end, border on sectional)
 
 class E extension (ft AGL start, ft AGL end, border on sectional)
 1200, 13999, shaded cyan
+
+equation for lift
+L = AoA * V^2 * constant
+
+Why must a heavier aircraft fly with a larger angle of attack?
+to generate more lift at the same speed
+
+VFR conditions
+>5SM and >3000 ft
+
+MVFR conditions
+3-5SM or 1000-3000 ft
+
+IFR conditions
+1-3SM or 500-1000 ft
+
+LIFR conditions
+<1SM or <500 ft
+
+minimum VFR surface visility in SM (day, night)
+3, 5
+
+must all fuel gauges work prior to takeoff?
+yes
+
+GAMA
+general aviation manufacturers' association
+
+changes to POH after 1977 by GAMA
+standardized on POH format to include AFM information in a certain order
+
+short name for ARTCC
+center
+
+what kind of course/heading do hemispheric rules apply to?
+magnetic course
+
+the leans
+illusion that you are flying level when you are actually in a gradual bank
+
+graveyard spin
+illusion that your are spinning in the opposite direction than reality
+
+graveyard spiral
+illusion that you are in an opposite bank after correcting a bank when in fact your are flying level
+
+somatogravic or head-up illusion
+illusion that you are nose up during acceleration
+
+head-down illusion
+illusion that you are nose up during deceleration
+
+Coriolis illusion
+after a sudden head movement, illusion that you are rolling, pitching and yawing
+
+inversion illusion
+when transitioning from climb to level flight, illusion that you are tumbling backward, potentially causing you to push the nose down
+
+elevator illusion
+an illusion that you are climbing after a sudden updraft, or descending after a sudden downdraft
+
+autokinesis
+at night, pilot fixates on a light and it seems to be moving
+
+false horizon
+at night, pilot inadvertently orients the aircraft with a false horizon
+
+linear perspective illusions
+when pilot's sight-picture during landing is different from what he/she is used to
+
+precipitation illusions
+caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer.  fog and haze may cause objects to appear farther away.
+
+black-hole approach
+when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descend to quickly.
+
+white-out
+when flying over snow-covered terrain there is no obvious distinction between sky and terrain
+
+empty field myopia
+when your eyes have nothing to focus on, they may focus only 10-20 ft ahead and you have no idea how close you are to the underlying terrain
+
+confirmation bias
+seeing/hearing what you want to see/hear when reality is different
+
+sensory exclusion
+when you are overly focused on one of your senses that you ignore the others
