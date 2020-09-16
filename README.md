@@ -7,7 +7,6 @@ There are a few text files provided for various topics of my interest. Feel free
 italian.txt<br>
 french.txt<br>
 aviation.txt<br>
-weather.txt - aviation weather symbols<br>
 
 Example of running the italian questions:
 
