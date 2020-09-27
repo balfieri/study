@@ -42,17 +42,17 @@ private pilot certificate, government-issued photo id, medical certificate
 ARROW
 airworthiness certificate, registration, radio license, operator's handbook, weight/balance data for plane
 
-AAV1ATES
-annual, ADs, VOR, 100-hour, altimeter, transponder, ELT, static source/altimeter
+AVIATES
+ADs, VOR, inspections, altimeter, transponder, ELT, seatbelts
 
-ATOMATOE
-altimeter, tachometer, oil pressure, manifold pressure, airspeed indicator, temperature gauge, oil temperature gauge, ELT
+ATOMATO
+altimeter, tachometer, oil pressure, manifold pressure, airspeed indicator, temperature gauge, oil temperature gauge
 
 FLAMES
-fuel gauge, landing gear position indicator, anticollision lights, magnetic compass, emergency equipment, seatbelts
+fuel gauge, landing gear position indicator, anticollision lights, magnetic compass, ELT, seatbelts
 
 FLAPS
-fuses, landing light (for hire), anti-collision light, position lights, source of electricity
+fuses, landing light (for hire), anti-collision light, position lights (nav lights), source of electricity
 
 SAFETY
 seatbelts, air conditioning, fire extinguisher, exits, talking, your questions
@@ -174,7 +174,7 @@ autokinesis, false horizon, linear perceptive illusions, precipitation illusions
 instruments in pitotstatic system
 altimeter, airspeed indicator, vertical speed indicator
 
-instruments in vaccum system
+instruments in vacuum system
 attitude indicator, heading indicator
 
 EBGAAR right-of-way rules
@@ -504,7 +504,7 @@ electric
 why is the turn coordinator electric?
 redundancy in case vacuum pump is broken
 
-172SP number if vacuum pumps
+172SP number of vacuum pumps
 2
 
 purposes of engine oil
@@ -829,7 +829,7 @@ when are left-turning tendencies most pronounced
 low speed, high power, high angle of attack
 
 what type of oil do we use?
-aviation 15W-50
+aviation 20W-50 or 15W-50
 
 You're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900 ft ceilings. You're a non-instrument rated private pilot. Can you land there?
 no, airport is IFR when ceiling is below 1000 ft, also 3-152 and 500 ft minimum above ground
@@ -847,7 +847,7 @@ direction of Coriolis force in northern hemisphere
 right
 
 when can something be dropped from an airplane?
-when precautions have been taken to ensure that it doesn't cause harm to persons or passengers on the ground
+when precautions have been taken to ensure that it doesn't cause harm to persons or property on the ground
 
 why does maneuvering speed decrease with less weight?
 aerodynamic forces have more effect on a lighter plane
@@ -987,7 +987,7 @@ yes
 GAMA
 general aviation manufacturers' association
 
-changes to POH after 1977 by GAMA
+changes to POH after 1975 by GAMA
 standardized on POH format to include AFM information in a certain order
 
 short name for ARTCC
@@ -1451,3 +1451,102 @@ no rainfall in past 24 hours
 
 9900 winds aloft
 winds light and variable
+
+why no circle around some airports on sectional chart?
+runway > 8069 feet
+
+dotted purple on sectional chart
+air defense identification zone
+
+purpose of little flag on sectional chart
+visual reference point when talking to ATC
+
+VR VFR route
+military training route
+
+VR 1-3 numbers AGL ft, 4 numbers AGL ft
+>1500, < 1500
+
+what is a VOR bearing shown on the sectional chart, e.g., V453
+victor airway
+
+what is number in rectangular box under V435?
+nm from VOR to next VOR
+
+what is HS1, etc. on an airport diagram?
+airport hotspot, known point of confusion or other problems
+
+what do areas with dotted line on airport diagram?
+areas under construction
+
+how is blast pad delineated on airport diagram
+yellow arrows
+
+EMAS, purpose
+engineered material arresting system, slow down aircraft that goes off the end of the runway
+
+strange crossing arrow across a runway on an airport diagram
+wire arresting system used for fighter jets who are practicing at that airport
+
+what do lens shapes on each side of runway on airport diagram denote?
+displaced threshold
+
+what does little round circle on runway on airport diagram denote?
+highest point of elevation for entire airport
+
+on sectional chart, what does little circle inside majenta/blue circle denote?
+radio navaid on the field
+
+on sectional chart, what does circle with lots of dots denote?
+NDB
+
+for minimum safe altitude within square on sectional chart, is that AGL or MSL?
+MSL
+
+what are lightening bolts sticking out of tower on sectional chart?
+lights
+
+what do 3 tabs sticking out of airport on sectional chart denote?
+airport has services
+
+what does L on sectional chart denote?
+lighted runway
+
+what does L* on sectional chart denote?
+lighted runway that can be controlled by pilot
+
+what does 3/4 circle within magenta/blue airport circle denote?
+military unpaved runway
+
+on sectional chart what does compass looking symbol denote?
+VFR GPS point of reference
+
+what do crisscrossed lines on sectional chart denote?
+drainage ditch
+
+for 100-hour inspection, is that 100 hours of Hobbs or tach?
+tach
+
+what is the FAA's definition of night time, in general?
+30 minutes after sunset to 30 minutes before sunrise
+
+when can you fly close to another aircraft?
+when you have cooperation among all pilots involved
+
+how much oxygen must be on board to handle sudden depressurization?
+10 minutes
+
+what is the main job of ATC?
+maintain traffic separation and spacing for IFR flights
+
+can night landings substitute for day landings with regard to currency?
+yes
+
+what will a CFI cover in a flight review?
+part 91, part 61, any checkride maneuvers
+
+does FAA require that a flight review be done in the same type as you plan to fly?
+no, but you should do it in the same type
+
+how long is the written exam good for?
+2 years
