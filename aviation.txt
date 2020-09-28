@@ -1553,3 +1553,6 @@ how long is the written exam good for?
 
 which airspaces require ADS-B out?
 A, B, B veil, C, E above 10000 ft
+
+ICAO
+International Civil Aviation Organization
