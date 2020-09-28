@@ -147,7 +147,7 @@ moist air, unstable lapse rate, initial lifting force
 stages of thunderstorm
 cumulus, mature, dissipative
 
-types of ice
+types of structural ice
 clear, rime, mixed
 
 fronts
@@ -1210,7 +1210,7 @@ TCU
 towering cumulus
 
 CB
-cumulus nimbus
+cumulonimbus
 
 VV
 vertical visibility
@@ -1556,3 +1556,138 @@ A, B, B veil, C, E above 10000 ft
 
 ICAO
 International Civil Aviation Organization
+
+what to expect when cold front passes
+towering cumulus or cumuloninimbus, thunderstorms, heavy rain, thunder, hail, tornadoes, poor visibility, variable and gusty winds, temperature drop
+
+what to expect when warm front passes
+stratiform clouds, drizzle, low ceilings, poor visibility, low ceilings, variable winds, higher temperature
+
+trough
+low pressure, rising air, conducive to clouds and precipitation, bad weather
+
+ridge
+high pressure, falling air, conducive to dissipation of cloudiness, good weather
+
+what causes winds aloft to flow parallel to isobars?
+Coriolis force
+
+why do surface winds generally flow across isobars at an angle?
+surface friction
+
+rate of atmospheric pressure decrease with increase in altitude
+1" Hg per 1000 ft
+
+what factor mostly determines type and vertical extent of clouds?
+stability of the atmosphere
+
+meaning of stable atmosphere
+atmosphere is able to resist vertical motion
+
+characteristics of stable atmosphere
+calm air, stratiform clouds, stable precipitation, good visility
+
+characteristics of unstable atmosphere
+turbulent air, cumuliform clouds, showery precipitation, poor visibility 
+
+during significant precipitation, typical thickness of clouds
+at least 4000 ft
+
+types of info should you be aware of for icing?
+location of fronts, cloud layers, freezing levels, air temperature and pressure
+
+definition of freezing level
+lowest altitude at which air temperature reaches 0C
+
+conditions for structural icing
+visible moister below freezing temps at point moisture strikes aircraft
+
+what to do when you encounter icing
+leave area: descend below cloud base, climb above cloud tops, turn to a different heading
+
+why is frost hazardous?
+roughness spoils smooth flow of air, resulting in loss of lift
+
+temperature inversion
+increase in temperature with height
+
+two basic ways fog can form
+cool air to dew point, add moisture to air near the ground
+
+quantitative definition of wind shear
+rate of change of wind velocity per unit distance
+
+three places where wind shear occurs
+low-level temperature inversion, front zone or thunderstorm, clear air turbulence at high altitudes with a jet stream or strong circulation
+
+sources of information to help determine extent of wind shear
+TAF, METAR, SIGMET, LLWAS, PIREP
+
+other sources of weather info besides FSS
+TIBS, private industry sources, DUATS, TWEB in Alaska
+
+do third party weather sources qualify as legitimate?
+no
+
+limitations of in-flight FIS-B information
+not realtime, can be up to 15 min old, better to use FIS
+
+where to find PIREPs
+FSS, ADDS web page
+
+aviation area forecast (FA)
+6 areas within the 48 states for which area weather information is availble; valid for 18 hours
+
+information provided by area forecast
+synopsys, clouds and outlook, 12 to 18 hour categorical outlook
+
+four types of in-flight weather advisories
+SIGMET (WS), convective SIGMET (WST), AIRMET (WA), center weather advisory (CWA)
+
+frequency of winds aloft forecasts, every:
+4 hours
+
+valuable information from winds aloft forecasts (FB)
+most favorable altitude, areas of possible icing, temperature inversions, turbulence
+
+purpose of CWA
+aviation warning to help avoid adverse weather conditions
+
+how long are CWAs valid?
+2 hours
+
+types of weather charts,
+surface analysis, weather depiction, short-range surface prognostic, significant weather prognostic, convection outlook, constant pressure analysis
+
+surface analysis chart
+sea level pressure, positions of highs, lows, ridges, troughs, location of fronts, drylines, outflow boundaries
+
+how often is surface analysis chart updated
+every 3 hours
+
+weather depiction chart
+plot of weather conditions at selected METAR stations
+
+how often is weather depiction chart updated
+every 3 hours
+
+short-range surface prognostic chart
+surface pressure systems, fronts and precipitation for 2.5 day period, five forecast periods (12, 18, 24, 48, 60 hours)
+
+how often is short-range surface prognostic chart updated
+every 6 hours
+
+low-level significant weather prognostic chart (SIGWX)
+10000 to FL450, hazardous elements
+
+how often is low-level significant weather prognostic chart updated
+every 6 hours
+
+convective outlook chart
+severe and non-serveral convective threats during the next 3 days
+
+constant pressure analysis chart
+upper air weather map arranged along particular pressure levels: 200, 300, 500, 700, 850 mb
+
+how often is constant pressure analysis chart updated
+every 12 hours
