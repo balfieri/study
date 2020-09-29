@@ -1832,3 +1832,6 @@ red, green, blue, colorless
 
 things powered by electrical system on 172SP
 radio, turn coordinator, fuel gauges, pitot heat, lights, flaps, stall warning system, oil temperature gauge, auxiliary fuel pump
+
+on sectional chart, what is a blue airport with no airspace boundary markers
+controlled class G airport that is in the process of becoming a class D airport, treat it as class D during landings
