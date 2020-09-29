@@ -705,6 +705,9 @@ thunderstorms, high temperature inversion, fast winds aloft
 How do you acivate your VFR flight plan once airborne?
 contact FSS radio frequency
 
+Best place to find FSS radio frequency
+sectional chart
+
 What if you contact UNICOM/CTAF and no one answers?
 check that you are transmitting on proper comm channel, check frequency, check that you pressed hard enough, contact ATC approach
 
@@ -1763,3 +1766,6 @@ standard weights for crew/passengers, gasoline, oil, water in pounds
 
 main elements of aircraft performance
 takeoff and landing distance, rate of climb, ceiling, payload, range, speed, fuel economy, maneuverability, stability
+
+ACS tolerance for Vy
++10/-5
