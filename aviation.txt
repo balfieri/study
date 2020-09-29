@@ -742,10 +742,10 @@ no, distracting
 4.5, 5.5
 
 characteristics of forward CG
-higher angle of attack, lower cruise speed, more control authority
+higher angle of attack, higher stall speed, lower cruise speed, more control authority, greater back elevator pressure required
 
 characteristics of aft CG
-lower angle of attack, high cruise speed, less control authority
+lower angle of attack, lower stall speed, high cruise speed, less control authority
 
 how long is a VFR flight kept open?
 until you explicitly close it
@@ -1691,3 +1691,75 @@ upper air weather map arranged along particular pressure levels: 200, 300, 500, 
 
 how often is constant pressure analysis chart updated
 every 12 hours
+
+examples of airfoils
+wings, horizontal tail surfaces, vertical tail surfaces, propellers
+
+relative wind
+direction of airflow with respect to the leaving edge of the wing; always opposite of direction of flight
+
+Bernoulli's Principle
+pressure of fluid decreases at points where speed of the fluid increases
+
+factors that affect both lift and drag
+wing area, shape of airfoil, angle of attack, velocity of air, air density
+
+effect of torque reaction (left turning tendency) in flight
+makes airplane roll
+
+effect of torque reaction (left turning tendency) on the ground
+more weight on left wheel causing more friction and thus turn to left
+
+why is gyro precesion effect more pronounced on taildraggers?
+tail is raised during takeoff
+
+situations that can max load factor to be exceeded?
+>45-deg turns, turbulence, speed above Va
+
+effect of increasing load factor on stall speed?
+higher stall speed because higher angle of attack during higher load factor
+
+definition of maneuvering speed Va
+maximum speed at which the limit load factor can be imposed (via gusts or full deflection of the control surfaces) without causing structural damage
+
+in which case can operating below Va not prevent structural damage?
+multiple full control inputs in one axis or full control inputs in multiple axes at the same time
+
+loss of control in-flight (LOC-I)
+significant deviation of aircraft from intended flight path
+
+situations that increase changes of LOC-I
+uncoordinated flight, equipment malfunction, pilot complacency, distraction, turbulence, poor risk management
+
+primary cause of spins
+exceeding angle of attack while applying incorrect rudder and, to a lesser extent, aileron
+
+when are spins most likely to occur
+engine failure on takeoff during climbout, cross-control turn fro base to final, engine failure on approach to landing, go-around with full nose-up trim, go-around with improper flap retraction
+
+how to recover from an inadvertent spin
+throttle idle, ailerons neutral, full opposite rudder, neutral elevator, neutralize rudder, gradually apply aft aileron pressure to return to level flight
+
+problems that can be caused by ground effect
+floating during landing, illusion that plane can climb during takeoff when it can't if too heavy etc.
+
+empty weight includes
+airframe, engines, permanently installed equipment, unusable fuel
+
+gross weight
+maximum allowable weight of both airplane and contents
+
+useful load includes
+pilot, copilot, passengers, baggage, usuable fuel, drainable oil
+
+datum
+imaginary vertical plane or line from which all measurements of arm are taken, established by manufacturer
+
+overloaded aircraft will cause
+higher takeoff speed, longer takeoff run, reduced rate and angle of climb, lower maximum altitude, shorter range, reduced cruising speed, reduced maneuverability, higher stalling speed, higher landing speed, longer landing roll, excessive weight on nosewheel
+
+standard weights for crew/passengers, gasoline, oil, water in pounds
+190, 6, 7.5, 8.35
+
+main elements of aircraft performance
+takeoff and landing distance, rate of climb, ceiling, payload, range, speed, fuel economy, maneuverability, stability
