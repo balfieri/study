@@ -468,6 +468,9 @@ those in unoccupied seats
 meaning of pressure altitude
 vertical distance above the standard datum plane
 
+practial meaning of pressure altitude
+indicated altitude when altimeter is set to 29.92
+
 equation for pressure altitude
 PA = elevation + 1000 * (29.92 - altimeter)
 
@@ -1769,3 +1772,63 @@ takeoff and landing distance, rate of climb, ceiling, payload, range, speed, fue
 
 ACS tolerance for Vy
 +10/-5
+
+factors that affect performance during takeoffs and landings
+air density, surface wind, runway surface, runway slope, weight
+
+effect of weight on takeoff and landing performance
+higher liftoff speed, greater mass to accelerate, increasing retarding force, longer takeoff distance
+
+effect of density altitude on takeoff and landing performance
+increased takeoff distance, reduced rate of climb, increased true airspeed on approach and landing, increased landing roll distance
+
+air density has a direct effect on:
+lift, power output of engine, propeller efficiency, drag forces
+
+useful aircraft performance charts
+takeoff distance, fuel/time/distance-to-climb, cruise/range, crosswind/headwind component, landing distance, stall speed
+
+172SP maximum oil temperature in C
+118
+
+172SP minimum, maximum oil pressure in PSI
+20, 115
+
+purposes of flaps
+lower airspeed, allow steeper descent, shorten takeoff distance
+
+172SP landing gear system
+tricycle-type, tubular psring steel main struts provide shock absorbtion, nose wheel uses air+oil shock strut
+
+172SP brakes
+each main landing gear wheel has single-disc, hydraulically actuated brake, each brake is connected to master cylinder on each rudder pedal
+
+four strokes of engine
+intake, compression, power, exhaust
+
+purpose of carburator (not on 172SP):
+mixes fuel and air in correct proportion to form a combustible mixture
+
+what happens when carb heat is applied
+richens the mixture
+
+purpose of throttle control
+controls amount of fuel/air charge entering the cylinders
+
+purpose of mixture control
+regulates fuel-to-air ratio
+
+describe fuel injection system on 172SP
+engine-driven fuel pump, fuel/air control unit, fuel manifold valve feeds discharge nozzles, auxilary fuel pump, fuel pressure/flow indicators
+
+two main advantages of dual ignition system
+increased safety, more complete and even combustion of fuel/air mixture
+
+type of fuel system on 172SP
+gravity fed, vented between tanks, fuel injection
+
+colors of 80, 100, 100LL, Jet A fuels
+red, green, blue, colorless
+
+things powered by electrical system on 172SP
+radio, turn coordinator, fuel gauges, pitot heat, lights, flaps, stall warning system, oil temperature gauge, auxiliary fuel pump
