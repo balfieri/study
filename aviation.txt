@@ -171,7 +171,7 @@ the leans, graveyard spin, graveyard spiral, somatogravic illusion, head-down il
 visual and optical illusions
 autokinesis, false horizon, linear perceptive illusions, precipitation illusions, black-hole approach, white-out, empty field myopia, confirmation bias and sensory exclusion
 
-instruments in pitotstatic system
+instruments in p~/IDrive/__NVidia/rt/simplert) vi stochastic.hitotstatic system
 altimeter, airspeed indicator, vertical speed indicator
 
 instruments in vacuum system
@@ -871,13 +871,18 @@ detonation
 uncontrolled firing of fuel/air mixture after the intended spark
 
 what causes detonation?
-excess temperature, low-octane fuel
+excess temperature, low-octane fuel, extremely high manifold presssures with low RPM, excessively lean mixture with high RPM, extended ground operations or steep climbs where cylinder cooling is reduced
 
+what action should be taken to deal with detonation?
+ensure proper fuel, keep cowl flaps open while on the ground, enrich the mixture, avoid extended high-RPM steep climbs, monitor engine instruments more closely
 pre-ignition
 combustion that occurs before the intended spark
 
 what causes pre-ignition?
 hot spots from detonation, improper heat range spark plugs, glowing carbon deposits from lean mixtures
+
+what action should be taken to deal with pre-ignition?
+reduce power, reduce climb rate, enrich the mixture, open cowl flaps while on the ground
 
 magnetic variation
 difference between true north and magnetic north
@@ -1835,3 +1840,93 @@ radio, turn coordinator, fuel gauges, pitot heat, lights, flaps, stall warning s
 
 on sectional chart, what is a blue airport with no airspace boundary markers
 controlled class G airport that is in the process of becoming a class D airport, treat it as class D during landings
+
+cause of carburator icing
+vaporization of fuel combined with expansion of air causes a sudden cooling of the mixture, water is squeezed out and could freeze
+
+how to know if carburator icing has been eliminated
+when heat is first applied, there will be a drop in RPM, then rise, and then engine should run more smoothly
+
+conditions favorable to carburator icing
+temperatures below 70F, at least 80% humidity
+
+anti-icing equipment
+prevents ice from forming on certain protected surfaces, such as pitot tube and staic port, carburator, fuel vents, prop blades, windshields
+
+deicing equipment
+removes ice that has already been formed, such as inflatable boots on the wing and tail leading edges
+
+can planes with anti-icing and deicing equipment be flown in icing conditions?
+not necssarily, consult POH
+
+during runup, you switch to RIGHT magneto and see no RPM drop, what happened?
+left P-lead is not grounding OR left magneto has been dead for a while
+
+what action should be taken if oil pressure is low but oil temperature is normal?
+could have insufficient oil, clogged pressure gauge, or leak; terminate flight as soon as possible
+
+what action should be taken when encountering a partial loss of power?
+check carburator heat (if applicable), check fuel in each tank, check fuel selector valve, check mixture control and fuel flow, check magnetos switch setting
+
+what action should be taken when engine fire on the ground if the engine starts
+increase RPM for a few moments, then power down and inspect
+
+what action should be taken when engine fire on the ground if the engine does not start
+throttle full, mixture idle cutoff, continue start to suck in flames
+
+what action should be taken when engine fire on the ground continues after other attempts
+ignition off, master switch off, fuel shutoff OFF, evacuate and obtain fire extinguisher
+
+how does altimeter work
+aneroid wafers expand and contract in response to pressure changes, wafers are linked to needle
+
+limitations of pressure altimeter
+on warm day pressure level is higher than on standard day; if surface pressure is higher than standard day then altimeter indicates lower than actual
+
+how does airspeed indicator work
+differential pressure gauge that compares ram air pressure from the pitot tube with static pressure
+
+limitation of airspeed indicator
+subject to proper flow of air through the pitot/static system
+
+errors of airspeed indicator
+position error caused by static ports sensing wrong static pressure, density error caused by temperature and altitude not compensated for by the instrument, compressibility error caused by packing of air into the pitot tube at high airspeeds resulting in higher than normal indications
+
+how does the vertical speed indicator work
+VSI case has slowly changing pressure, this is differentially compared to the static pressure
+
+limitations of vertical speed indicator
+not accurate until aircraft is control-stabilized in non-turbulent air
+
+which instruments contain gyroscopes
+turn coordinator, heading indicator, attitude indicator
+
+two fundamental properties of a gyroscope
+rigidity in space (fixed position in plane in which it is spinning), precession (tilting or turning of gyro in response to deflection forces)
+
+power sources for gyros
+vacuum, pressure, electric
+
+how does attitude indicator work
+gyro mounted on horizontal plane and relies on rigitity in space, horizon bar is attached to gyro
+
+errors in attitude indicator
+may be slight nose up during acceleration, also may be bank/pitch angle error after 180-degree turn
+
+how does the heading indicator work
+rotor turns in the vertical plane and relies on rigidity in space, compass card fixed to the rotor
+
+errors in heading indicator
+precession caused by friction, needs to be checked every 15 min
+
+how does turn coordinator work
+uses precession, gyro reacts to movement during a turn
+
+what does turn coordinator show
+roll and yaw of aircraft around the vertical and longitudinal axes, standard rate turn of 3-deg per second
+
+what will turn coordinator show during slip
+ball on inside of the turn, not enough rate of turn for bank
+
+what will turn coordinator show during skid
+ball on outside of the turn, too much rate of turn for the bank
