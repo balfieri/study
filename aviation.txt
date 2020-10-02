@@ -1930,3 +1930,45 @@ ball on inside of the turn, not enough rate of turn for bank
 
 what will turn coordinator show during skid
 ball on outside of the turn, too much rate of turn for the bank
+
+how does magnetic compass work
+magnetized needles attached to a float assembly in bowl of acid-free white kerosine
+
+limitations of magnetic compass
+erratic behavior when tiled more than 18-deg bank
+
+compass errors
+oscillation error (turbulence, rough control technique), deviation error, variation error, dip error (ANDS, UNOS)
+
+AHRS
+attitude and heading reference system
+
+ADC
+air data computer
+
+PFD
+primary flight display
+
+MFD
+multi-function display
+
+FD
+flight director
+
+FMS
+flight management system
+
+INS 
+inertial navigation system
+
+which backup instruments are normally provided in an advanced avionics aircraft
+altimeter, attitude indicator, airspeed indicator
+
+if a display fails, what other instruments can it affect
+radio, navigation, GPS
+
+what do you lose when ADC fails
+airspeed indiator, vertical speed indicator, altitude
+
+what do you lose when magnetometer fails
+heading indicator
