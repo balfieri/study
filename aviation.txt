@@ -894,7 +894,7 @@ cloud ceiling
 height above ground of broken or overcast cloud layer
 
 limitations of VORs
-range is limited, line of sight
+range proportionally to altitude of receiving equipment, line of sight
 
 how often is the chart supplement updated?
 every 56 days
@@ -2019,4 +2019,82 @@ power to 1800-2000 RPM for two minutes, return to 1200 RPM, lean for idle, apply
 75
 
 172SP oil system
-oil draw from 8-quart sump through oil suction strainer screen into engine-driven oil pump, then pumped to bypass valve if cold
+oil drawn from 8-quart sump through oil suction strainer screen into engine-driven oil pump, then pumped to bypass valve if cold
+
+types of VFR aeronautical charts
+sectional chart, VFR terminal area chart (TAC), VFR flyway planning chart (reverse side of TAC)
+
+what does a VFR terminal area chart (TAC) depict
+class B airspace
+
+what does a VFR flyway planning chart depict
+flight paths and altitudes recommended for use to bypass high traffic areas
+
+are EFBs approved for use a replacement for paper reference materials?
+yes
+
+latitudinal range of USA: min, max
+25N, 49N
+
+longitudinal range of USA: min, max
+67W, 125W
+
+types of navaids
+VOR, VORTAC, DME, RNAV
+
+RNAV
+area navigation, includes INS VOR/DME-referenced, GPS
+
+what does VORTAC provide that VOR doesn't?
+distance information for use by DMEs
+
+DME
+distance measuring equipment
+
+frequency range of VORs in MHz: min, max
+108, 117.95
+
+VOR radial
+line of magnetic bearing extending from a VOR; an aircraft on the 360-degree radial will always be located north of the station
+
+how are VOR NAVAIDs classified?
+terminal, low, high
+
+reception distances of terminal, low, high VORs in miles
+25, 40, 100-130
+
+methods of checking VOR accuracy
+VOT check (+/- 4-deg), ground checkpoint (+/- 4-deg), airborne checkpoint (+/- 6-deg), dual VOR check (4-deg between each other), selected radial over a known ground point (+/- 6-deg)
+
+DME frequency range MHZ: min, max
+960, 1215
+
+three functional elements of GPS
+space element (30 satellites), control element (network of ground-based GPS monitoring and control stations), user element (antennas and processsors onboard aircraft)
+
+types of GPS receivers
+fully integrated VFR/IFR, handheld
+
+purpose of RAIM, receiver autonomous integrity monitoring
+self-monitoring function performed by GPS receiver to ensure that adequate GPS signals are being received from satellites at all times
+
+can you continue to use GPS if RAIM capability is lost in flight
+no assurance of accuracy of GPS position
+
+preflight checks for GPS
+verify that it is properly installed and certified for planned operation, verify that databases have not expired, review GPS NOTAM/RAIM information, review operational status of ground-based NAVAIDs, verify that GPS receiver operation manual is on-board (may be part of POH appendix)
+
+will an FSS briefer mention GPS NOTAMs?
+no, you must explicitly ask for them
+
+what do you get with 3 GPS satellites?
+2D position
+
+what do you get with 4 GPS satellites?
+3D position
+
+what do you get with 5 GPS satellites?
+3D position, RAIM
+
+what do you get with 6 GPS satellites?
+3D position, RAIM with corrupt signal isolation
