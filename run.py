@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# run <subject>
+# run <subject> [question_cnt]
 #
 import sys
 import time
@@ -29,8 +29,9 @@ def prompt( s, default='' ):
 #-----------------------------------------------------------------------
 # read in <subject>.txt file
 #-----------------------------------------------------------------------
-if len( sys.argv ) != 2: die( 'usage: run <subject>', '' )
+if len( sys.argv ) < 2: die( 'usage: run <subject> [question_cnt]', '' )
 filename = sys.argv[1] + '.txt'
+question_cnt = int(sys.argv[2]) if len( sys.argv ) >= 3 else 20
 Q = open( filename, 'r' )
 questions = []
 line_num = 0
@@ -57,21 +58,20 @@ Q.close()
 #-----------------------------------------------------------------------
 random.seed( time.time() )
 
-question_cnt = len( questions ) >> 1
-if question_cnt == 0: die( 'no questions found in ' + filename )
+max_question_cnt = len( questions ) >> 1
+if max_question_cnt == 0: die( 'no questions found in ' + filename )
+question_cnt = min( question_cnt, max_question_cnt )
 
 while True:
     #-----------------------------------------------------------------------
     # choose questions
     #-----------------------------------------------------------------------
-    count = int( prompt( '\nNumber of questions', str(min( question_cnt, 20 )) ) )
-    count = min( count, question_cnt )
-
+    count = question_cnt;
     which = []
     asked = {}
     for i in range( count ):
         while True:
-            ii = rand_n( question_cnt )
+            ii = rand_n( max_question_cnt )
             if ii not in asked: break
         asked[ii] = True
         which.append( ii )
