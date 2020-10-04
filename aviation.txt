@@ -46,13 +46,13 @@ AVIATES
 ADs, VOR, inspections, altimeter, transponder, ELT, seatbelts
 
 ATOMATO
-altimeter, tachometer, oil pressure, manifold pressure, airspeed indicator, temperature gauge, oil temperature gauge
+altimeter, tachometer, oil pressure, manifold pressure (constant-speed propeller), airspeed indicator, temperature gauge (liquid-cooled engine), oil temperature gauge
 
 FLAMES
-fuel gauge, landing gear position indicator, anticollision lights, magnetic compass, ELT, seatbelts
+fuel gauge, landing gear position indicator, anticollision lights (after March 11, 1996), magnetic compass, ELT, seatbelts
 
 FLAPS
-fuses, landing light (for hire), anti-collision light, position lights (nav lights), source of electricity
+fuses, landing lights (for hire), anti-collision lights, position lights (nav lights), source of electricity
 
 SAFETY
 seatbelts, air conditioning, fire extinguisher, exits, talking, your questions
@@ -2272,3 +2272,9 @@ more stability
 
 what happens to CG as you deplete fuel
 more foreward
+
+use 75% EGT method of leaning the mixture when you want to maximize:
+fuel economy
+
+use RPM method of leaning the mixture when you want to maximize:
+power and speed to get there faster
