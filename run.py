@@ -61,6 +61,7 @@ random.seed( time.time() )
 all_question_cnt = len( all_questions ) >> 1
 if all_question_cnt == 0: die( 'no questions found in ' + filename )
 question_cnt = min( question_cnt, all_question_cnt )
+question_cnt = min( 1, question_cnt )
 
 while True:
     #-----------------------------------------------------------------------
@@ -78,7 +79,7 @@ while True:
     #-----------------------------------------------------------------------
     # keep trying to ask questions that haven't been answered correctly
     #-----------------------------------------------------------------------
-    while len( curr_questions ) != 0:
+    while True:
         for i in range( 100 ): print()
         curr_question_cnt = len( curr_questions )
         correct_cnt = 0
@@ -98,8 +99,8 @@ while True:
                 missed_questions.append( ii )
         pct = int( 100.0 * correct_cnt / curr_question_cnt + 0.5 )
         print( '\nYou got ' + str(correct_cnt) + ' out of ' + str(curr_question_cnt) + ' questions correct (' + str(pct) + '%)' ) 
-        if len( missed_questions ) != 0 and prompt( '\nRetry missed questions?', 'y' ) == 'y': 
-            curr_questions = missed_questions
+        if len( missed_questions ) == 0 or prompt( '\nRetry missed questions?', 'y' ) != 'y': break
+        curr_questions = missed_questions
     if prompt( '\nPlay again?', 'y' ) != 'y': break 
 
 print( '\nGoodbye!\n' )
