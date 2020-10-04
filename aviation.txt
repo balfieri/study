@@ -58,7 +58,7 @@ SAFETY
 seatbelts, air conditioning, fire extinguisher, exits, talking, your questions
 
 when do you NOT need an ELT?
-when training within 50 miles of origin
+when engaged with training within 50 nm of origin, when engaged in design and testing, when engaged in manufactor/preparation/delivery, when engaged in agricultural operations
 
 SUA
 special use airspace
@@ -1554,7 +1554,7 @@ what is the FAA's definition of night time, in general?
 30 minutes after sunset to 30 minutes before sunrise
 
 when can you fly close to another aircraft?
-when you have cooperation among all pilots involved
+when you have an arrangement among all pilots involved, when it does not create a collision hazard, and while not carrying passengers for hire
 
 how much oxygen must be on board to handle sudden depressurization?
 10 minutes
@@ -2170,3 +2170,69 @@ indicates that a transcribed weather broadcast (TWEB) is available
 
 TWEB transcribed weather broadcast (Alaska only)
 continuous recording of weather information that is broadcast on L/MF and VOR for pilots
+
+each PIC who deviates from a part 91 rule in an emergency situation shall
+upon request, send a written report to the Administrator
+
+with regard to alcohol and drugs a pilot may not fly
+within 8 hours of consuming any alcoholic beverage, while under influence, while using any drug that affects safety, with an alcohol concentration level of at least 0.04%
+
+may a pilot carry a person who is under the influence of drugs or alcohol?
+no, except in an emergency
+
+situations where no-portable-electronic devices rule applies
+under IFR, aircraft operated by a holder of an air carrier operating certificate
+
+in which phases of flight may a crewmember remove his/her shoulder harness
+enroute
+
+right-of-way rules for landing
+aircraft on final approach, aircraft with lower altitude
+
+minimum safe altitude above a congested area
+1000 ft above highest obstacle within horizontal radius of 2000 ft
+
+minimum safe altitude over open water or sparsely populated areas
+500 ft from any person, vessel, vehicle or structure
+
+minimum safe altitude over a U.S. wildlife refuge, park, or Forest Service Area
+2000 ft above the surface
+
+when operating below 18000 MSL, what is proper procedure for setting altimeter
+if pressure is 31.00 Hg or less, use altimeter of station that is within 100 nm of aircraft; above 31.00 Hg, consult the AIM
+
+what to do if altimeter setting is not available before flight
+set altimeter to match ground elevation
+
+actions pilot must take when deviating from an ATC instruction and priority is given
+notify ATC of deviation as soon as possible, submit a detailed report of emergency within 48 hour to manager of ATC facility if requested by ATC
+
+if radio fails in flight, what conditions must be met before landing at a controlled airport
+weather conditions must be at least basic VFR minimums, visual contact with tower is maintained, clearance to land is received
+
+at uncontrolled airport in class G or E, make left traffic unless:
+airport displays approved light signals or visual markings that indicate right traffic
+
+what altitude range do hemispheric rules apply: min, max
+3000 ft AGL, 18000 ft MSL
+
+when must ELT batteries be replaced
+transmitter in use for more than one cummulative hour, 50% of useful life has expired
+
+where is aerobatic flight not permitted
+over congested areas, over open-air assembly of persons, within lateral boundaries of class B/C/D/E for an airport, within 4 nm of center line of a federal airway, below 1500 AGL, when visibility is less than 3 miles
+
+aerobatic flight
+intentional maneuver involving abrupt change in aircraft's attitude, an abnormal altitude, or abnormal acceleration, not necessary for normal flight
+
+when are parachutes required
+exceeding bank angle of 60-deg, nose-up/nose-down of 30-deg, except when related to flight tests for pilot certification
+
+horizontal extent of class A airspace
+within 12 nm of coast of 48 states and Alaska, designated international airspace beyond 12 nm
+
+minimum equipment for class A airspace
+two-way radio, mode C transponder, IFR-capable
+
+typical vertical extent of class B airspace: min, max
+surface, 10000 ft MSL
