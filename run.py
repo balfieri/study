@@ -93,7 +93,7 @@ while True:
             if ua == a_lc: 
                 correct_cnt += 1
             else:
-                if question_cnt <= 100:
+                if ua != '':
                     print( 'Wrong!  ' + a )
                 else:
                     print( a )

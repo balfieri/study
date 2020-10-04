@@ -171,7 +171,7 @@ the leans, graveyard spin, graveyard spiral, somatogravic illusion, head-down il
 visual and optical illusions
 autokinesis, false horizon, linear perceptive illusions, precipitation illusions, black-hole approach, white-out, empty field myopia, confirmation bias and sensory exclusion
 
-instruments in p~/IDrive/__NVidia/rt/simplert) vi stochastic.hitotstatic system
+instruments in pitotstatic system
 altimeter, airspeed indicator, vertical speed indicator
 
 instruments in vacuum system
@@ -1041,10 +1041,10 @@ linear perspective illusions
 when pilot's sight-picture during landing is different from what he/she is used to
 
 precipitation illusions
-caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer.  fog and haze may cause objects to appear farther away.
+caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer.  fog and haze may cause objects to appear farther away
 
 black-hole approach
-when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descend to quickly.
+when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descend too quickly
 
 white-out
 when flying over snow-covered terrain there is no obvious distinction between sky and terrain
@@ -1596,10 +1596,10 @@ meaning of stable atmosphere
 atmosphere is able to resist vertical motion
 
 characteristics of stable atmosphere
-calm air, stratiform clouds, stable precipitation, good visility
+calm air, stratiform clouds, stable precipitation, low visibility
 
 characteristics of unstable atmosphere
-turbulent air, cumuliform clouds, showery precipitation, poor visibility 
+turbulent air, cumuliform clouds, showery precipitation, good visibility 
 
 during significant precipitation, typical thickness of clouds
 at least 4000 ft
@@ -1655,7 +1655,7 @@ synopsys, clouds and outlook, 12 to 18 hour categorical outlook
 four types of in-flight weather advisories
 SIGMET (WS), convective SIGMET (WST), AIRMET (WA), center weather advisory (CWA)
 
-frequency of winds aloft forecasts, every:
+frequency of winds aloft forecasts, every
 4 hours
 
 valuable information from winds aloft forecasts (FB)
@@ -1746,7 +1746,7 @@ primary cause of spins
 exceeding angle of attack while applying incorrect rudder and, to a lesser extent, aileron
 
 when are spins most likely to occur
-engine failure on takeoff during climbout, cross-control turn fro base to final, engine failure on approach to landing, go-around with full nose-up trim, go-around with improper flap retraction
+engine failure on takeoff during climbout, cross-control turn from base to final, engine failure on approach to landing, go-around with full nose-up trim, go-around with improper flap retraction
 
 how to recover from an inadvertent spin
 throttle idle, ailerons neutral, full opposite rudder, neutral elevator, neutralize rudder, gradually apply aft aileron pressure to return to level flight
@@ -1787,7 +1787,7 @@ higher liftoff speed, greater mass to accelerate, increasing retarding force, lo
 effect of density altitude on takeoff and landing performance
 increased takeoff distance, reduced rate of climb, increased true airspeed on approach and landing, increased landing roll distance
 
-air density has a direct effect on:
+air density has a direct effect on
 lift, power output of engine, propeller efficiency, drag forces
 
 useful aircraft performance charts
@@ -1811,7 +1811,7 @@ each main landing gear wheel has single-disc, hydraulically actuated brake, each
 four strokes of engine
 intake, compression, power, exhaust
 
-purpose of carburator (not on 172SP):
+purpose of carburator (not on 172SP)
 mixes fuel and air in correct proportion to form a combustible mixture
 
 what happens when carb heat is applied
@@ -1935,7 +1935,7 @@ how does magnetic compass work
 magnetized needles attached to a float assembly in bowl of acid-free white kerosine
 
 limitations of magnetic compass
-erratic behavior when tiled more than 18-deg bank
+erratic behavior when tilted more than 18-deg bank
 
 compass errors
 oscillation error (turbulence, rough control technique), deviation error, variation error, dip error (ANDS, UNOS)
