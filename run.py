@@ -58,9 +58,9 @@ Q.close()
 #-----------------------------------------------------------------------
 random.seed( time.time() )
 
-max_question_cnt = len( questions ) >> 1
-if max_question_cnt == 0: die( 'no questions found in ' + filename )
-question_cnt = min( question_cnt, max_question_cnt )
+avail_question_cnt = len( questions ) >> 1
+if avail_question_cnt == 0: die( 'no questions found in ' + filename )
+question_cnt = min( question_cnt, avail_question_cnt )
 
 while True:
     #-----------------------------------------------------------------------
@@ -71,7 +71,7 @@ while True:
     asked = {}
     for i in range( count ):
         while True:
-            ii = rand_n( max_question_cnt )
+            ii = rand_n( avail_question_cnt )
             if ii not in asked: break
         asked[ii] = True
         curr_questions.append( ii )
