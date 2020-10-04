@@ -18,6 +18,9 @@ def rand_n( n ):
 def min( a, b ):
     return a if a < b else b
 
+def max( a, b ):
+    return a if a > b else b
+
 def prompt( s, default='' ):
     def_str = '' if default == '' else (' [' + default + ']')
     ans = input( s + def_str + ': ' )
@@ -61,7 +64,7 @@ random.seed( time.time() )
 all_question_cnt = len( all_questions ) >> 1
 if all_question_cnt == 0: die( 'no questions found in ' + filename )
 question_cnt = min( question_cnt, all_question_cnt )
-question_cnt = min( 1, question_cnt )
+question_cnt = max( 1, question_cnt )
 
 while True:
     #-----------------------------------------------------------------------

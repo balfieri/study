@@ -81,7 +81,7 @@ mandatory instruction, runway distance remaining, location, information, destina
 PARE spin recovery
 power to idle, ailerons to neutral, rudder full opposite, elevator pitch down
 
-CCCCC
+CCCCC actions if you cannot establish your current position
 confess, climb, circle, conserve, communicate
 
 runway incursions
@@ -236,6 +236,18 @@ wide area augmentation system is a ground and satellite integrated nav error cor
 
 CTAF
 common traffic advisory frequency
+
+CTAF vs. UNICOM
+CTAF may be UNICOM, MULTICOM, FSS, or TOWER frequency
+
+UNICOM
+non-government communication facility
+
+typical UNICOM frequencies at uncontrolled airports
+122.7, 122.725, 122.8, 122.975, 123.0, 123.050, 123.075
+
+typical UNICOM frequencies at controlled airports
+122.95
 
 VHF emergency frequency (MHz)
 121.5
@@ -2107,3 +2119,54 @@ begin with letters "VP", reporting points around class B and C airspace and spec
 
 what happens to VFR flight plan that you are unable to activate in-flight
 canceled one hour after the proposed departure time
+
+first actions to take when lost and you have plenty of fuel in good weather
+fly heading you believe is correct, use multiple VORs to triangulate, use elapsed time from prior position and true heading to determine current position, use pilotage
+
+first actions to take when lost and low on fuel or weather is deteriorating
+get on the ground ASAP
+
+how to navigate to an alternate airport assuming no GPS or DME capability
+approximate magnetic course using straight edge and compass rose from a nearby VOR, if time permits start diversion over a prominent ground feature, use winds aloft to calculate heading and GS, give priority to flying aircraft
+
+VHF comm frequency range: min, max
+118.0, 136.975
+
+typical ground frequency range: min, max
+121.6, 121.9
+
+what to do when there is no tower, FSS, or UNICOM station at the airport
+use MULTICOM 122.9
+
+RCO
+recmote communications outlet
+
+purpose of RCO
+unmanned communications factility remotely controlled by ATC for purposes of communicating with pilots at satellite airports
+
+ways to determining frequency to use for activating flight plan
+ask FSS briefer, consult chart supplement
+
+purpose of heavy-lined blue box around navaid frequency
+indicates FSS standard frequencies 121.5, 122.2, 243.0, and 255.4 are available
+
+why would a frequency be printed on top of a heavy-lined blue box?
+indicates the frequency is available in addition to FSS standard frequencies
+
+purpose of thin-lined blue box around navaid frquency
+indicates no FSS standard frequencies available
+
+why would a frequency be printed on top of a thin-lined blue box?
+indicate best frequencies to use in the immediate vacinity of the navaid
+
+what if an FSS frequency is followed by the letter "R"?
+indicates that FSS can only receive on that frequency, pilot should listen over the navaid frequency
+
+how to determine the availability of HIWAS on the sectional chart
+navaid has "H" in upper right corner of box
+
+meaning of letter "T" in solid blue circle in upper-right corner of navaid box?
+indicates that a transcribed weather broadcast (TWEB) is available 
+
+TWEB transcribed weather broadcast (Alaska only)
+continuous recording of weather information that is broadcast on L/MF and VOR for pilots
