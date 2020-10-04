@@ -2278,3 +2278,6 @@ fuel economy
 
 use RPM method of leaning the mixture when you want to maximize:
 power and speed to get there faster
+
+how to make sure you are never out of trim
+do not pull or push on the yoke when you are supposed to be in stabilized flight
