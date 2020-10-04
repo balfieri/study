@@ -76,7 +76,7 @@ while True:
         curr_questions.append( ii )
 
     #-----------------------------------------------------------------------
-    # keep trying to test questions that haven't been answered correctly
+    # keep trying to ask questions that haven't been answered correctly
     #-----------------------------------------------------------------------
     while len( curr_questions ) != 0:
         for i in range( 100 ): print()
