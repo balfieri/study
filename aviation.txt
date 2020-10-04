@@ -232,7 +232,7 @@ RAIM
 receiver autonomous integrity monitoring
 
 WAAS
-wide area augmentation system
+wide area augmentation system is a ground and satellite integrated nav error correction system that provides accuracy enhancements to GPS, if aircraft has GPS/WAAS-enabled equipment
 
 CTAF
 common traffic advisory frequency
@@ -2098,3 +2098,12 @@ what do you get with 5 GPS satellites?
 
 what do you get with 6 GPS satellites?
 3D position, RAIM with corrupt signal isolation
+
+limitations of panel-mount or handheld VFR GPS system
+no RAIM, database out of date, poor antenna location
+
+VFR waypoint
+begin with letters "VP", reporting points around class B and C airspace and special-use airspace
+
+what happens to VFR flight plan that you are unable to activate in-flight
+canceled one hour after the proposed departure time
