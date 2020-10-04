@@ -93,7 +93,10 @@ while True:
             if ua == a_lc: 
                 correct_cnt += 1
             else:
-                print( 'Wrong!  ' + a )
+                if question_cnt <= 100:
+                    print( 'Wrong!  ' + a )
+                else:
+                    print( a )
                 missed_questions.append( ii )
         pct = int( 100.0 * correct_cnt / curr_question_cnt + 0.5 )
         print( '\nYou got ' + str(correct_cnt) + ' out of ' + str(curr_question_cnt) + ' questions correct (' + str(pct) + '%)' ) 
