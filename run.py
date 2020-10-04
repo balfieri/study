@@ -33,7 +33,7 @@ if len( sys.argv ) < 2: die( 'usage: run <subject> [question_cnt]', '' )
 filename = sys.argv[1] + '.txt'
 question_cnt = int(sys.argv[2]) if len( sys.argv ) >= 3 else 20
 Q = open( filename, 'r' )
-questions = []
+all_questions = []
 line_num = 0
 while True:
     question = Q.readline()
@@ -49,8 +49,8 @@ while True:
     if answer == '': die( 'question on line ' + line_num + ' is not followed by a non-blank answer on the next line' )
     line_num += 1
 
-    questions.append( question )
-    questions.append( answer )
+    all_questions.append( question )
+    all_questions.append( answer )
 Q.close()
 
 #-----------------------------------------------------------------------
@@ -58,20 +58,19 @@ Q.close()
 #-----------------------------------------------------------------------
 random.seed( time.time() )
 
-avail_question_cnt = len( questions ) >> 1
-if avail_question_cnt == 0: die( 'no questions found in ' + filename )
-question_cnt = min( question_cnt, avail_question_cnt )
+all_question_cnt = len( all_questions ) >> 1
+if all_question_cnt == 0: die( 'no questions found in ' + filename )
+question_cnt = min( question_cnt, all_question_cnt )
 
 while True:
     #-----------------------------------------------------------------------
     # choose questions
     #-----------------------------------------------------------------------
-    count = question_cnt;
     curr_questions = []
     asked = {}
-    for i in range( count ):
+    for i in range( question_cnt ):
         while True:
-            ii = rand_n( avail_question_cnt )
+            ii = rand_n( all_question_cnt )
             if ii not in asked: break
         asked[ii] = True
         curr_questions.append( ii )
@@ -81,13 +80,13 @@ while True:
     #-----------------------------------------------------------------------
     while len( curr_questions ) != 0:
         for i in range( 100 ): print()
+        curr_question_cnt = len( curr_questions )
         correct_cnt = 0
-        count = len( curr_questions )
         missed_questions = []
         while len( curr_questions ) != 0:
             ii = curr_questions.pop( 0 )
-            q = questions[ii*2]
-            a = questions[ii*2+1]
+            q = all_questions[ii*2]
+            a = all_questions[ii*2+1]
             a_lc = a.lower()
 
             ua = prompt( '\n' + q ).lower()
@@ -96,8 +95,8 @@ while True:
             else:
                 print( 'Wrong!  ' + a )
                 missed_questions.append( ii )
-        pct = int( 100.0 * correct_cnt / count + 0.5 )
-        print( '\nYou got ' + str(correct_cnt) + ' out of ' + str(count) + ' questions correct (' + str(pct) + '%)' ) 
+        pct = int( 100.0 * correct_cnt / curr_question_cnt + 0.5 )
+        print( '\nYou got ' + str(correct_cnt) + ' out of ' + str(curr_question_cnt) + ' questions correct (' + str(pct) + '%)' ) 
         if len( missed_questions ) != 0 and prompt( '\nRetry missed questions?', 'y' ) == 'y': 
             curr_questions = missed_questions
     if prompt( '\nPlay again?', 'y' ) != 'y': break 
