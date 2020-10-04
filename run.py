@@ -89,14 +89,12 @@ while True:
             a = all_questions[ii*2+1]
             a_lc = a.lower()
 
-            ua = prompt( '\n' + q ).lower()
-            if ua == a_lc: 
+            ua_lc = prompt( '\n' + q ).lower()
+            if ua_lc == a_lc: 
                 correct_cnt += 1
             else:
-                if ua != '':
-                    print( 'Wrong!  ' + a )
-                else:
-                    print( a )
+                prefix = 'Wrong!  ' if ua_lc != '' else ''
+                print( prefix + a )
                 missed_questions.append( ii )
         pct = int( 100.0 * correct_cnt / curr_question_cnt + 0.5 )
         print( '\nYou got ' + str(correct_cnt) + ' out of ' + str(curr_question_cnt) + ' questions correct (' + str(pct) + '%)' ) 
