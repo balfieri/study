@@ -348,11 +348,11 @@ stall speed in clean configuration, 48
 Vr (meaning, 172SP)
 rotation speed, 55
 
-Vx (meaning, 172SP)
-enroute best angle-of-climb speed, 62
+Vx (meaning, 172SP flaps 0-deg, 10-deg)
+enroute best angle-of-climb speed, 62, 56
 
 Vy (meaning, 172SP)
-enroute best rate-of-climb speed, 74
+takeoff best rate-of-climb speed, 74
 
 Vfe (meaning, 172SP 10-deg, 172SP > 10-deg)
 maxiumum flap-extended speed, 110, 85
@@ -384,8 +384,11 @@ never exceed speed, 163
 172SP maximum weight baggage area 1+2
 120
 
-172SP limit load factor normal in g's (flaps up, flaps down)
-3.8, 3.0
+172SP limit load factor normal in g's (flaps up, flaps down, flaps up negative)
+3.8, 3.0, -1.52
+
+172SP limit load factor utility in g's (flaps up, flaps down, flaps up negative)
+4.4, 3.0, -1.76
 
 172SP engine and characteristics
 Lycoming IO-360-L2A, normally aspirated, 4-cylinder horizontally opposed
@@ -1608,7 +1611,7 @@ meaning of stable atmosphere
 atmosphere is able to resist vertical motion
 
 characteristics of stable atmosphere
-calm air, stratiform clouds, stable precipitation, low visibility
+calm air, stratiform clouds, continuous precipitation, low visibility
 
 characteristics of unstable atmosphere
 turbulent air, cumuliform clouds, showery precipitation, good visibility 
@@ -2236,3 +2239,36 @@ two-way radio, mode C transponder, IFR-capable
 
 typical vertical extent of class B airspace: min, max
 surface, 10000 ft MSL
+
+cyclone pressure system
+low
+
+squal line is dangerous because
+fast-moving thunderstorms that stay on the cold front
+
+hurricane
+any tropical storm with sustained winds over 75 MPH
+
+main hazards of hurricane
+high winds, lightning, extreme turbulence, heavy downpour
+
+Below Cat1 IFR
+below 200 ft
+
+SVFR weather minimums
+1 SM, clear of clouds
+
+advantages of fixed-pitch propeller
+easier to learn, easier to maintain, better for shorter-distance flights (e.g., training)
+
+why is negative g factor less than positive g limit
+aircraft designed for positive g
+
+when is aft CG better than forward CG
+takeoff, climb, cruise
+
+foreward CG is better for landing because
+more stability
+
+what happens to CG as you deplete fuel
+more foreward
