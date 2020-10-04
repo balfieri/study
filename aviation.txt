@@ -2001,7 +2001,7 @@ tubular steel
 air/oil nose gear
 
 does 172SP parking brake work if brake pedals don't?
-very likely not
+no
 
 how to start engine using external power
 besides obvious, must also have master switch on
@@ -2281,3 +2281,6 @@ power and speed to get there faster
 
 how to make sure you are never out of trim
 do not pull or push on the yoke when you are supposed to be in stabilized flight
+
+how do we know cables are connected correctly?
+look at cable ties where we can, else move control surfaces during preflight and runup
