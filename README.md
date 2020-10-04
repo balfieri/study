@@ -1,4 +1,4 @@
-This repository contains a Python3 script called run.py that will test you based on questions from a text file of your creation. It will randomly select questions and you must type the answers exactly (but upper/lower case is ignored). 
+This repository contains a Python3 script called run.py that will test you based on questions from a text file of your creation. It will randomly select questions and you must type the answers exactly (but upper/lower case is ignored). By default, it will give you 20 questions at a time.
 
 It will re-test the questions that you missed.
 
@@ -11,6 +11,7 @@ aviation.txt<br>
 Example of running the italian questions:
 
     ./run.py italian
+    ./run.py italian 100                -- same, but 100 questions instead of default of 20
 
 This is all open-source.  Refer to the LICENSE.md for licensing details.  
 
