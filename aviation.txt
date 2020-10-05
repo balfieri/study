@@ -909,7 +909,7 @@ cloud ceiling
 height above ground of broken or overcast cloud layer
 
 limitations of VORs
-range proportionally to altitude of receiving equipment, line of sight
+range proportional to altitude of receiving equipment, line of sight
 
 how often is the chart supplement updated?
 every 56 days
@@ -1682,7 +1682,7 @@ aviation warning to help avoid adverse weather conditions
 how long are CWAs valid?
 2 hours
 
-types of weather charts,
+types of weather charts
 surface analysis, weather depiction, short-range surface prognostic, significant weather prognostic, convection outlook, constant pressure analysis
 
 surface analysis chart
@@ -1736,10 +1736,10 @@ makes airplane roll
 effect of torque reaction (left turning tendency) on the ground
 more weight on left wheel causing more friction and thus turn to left
 
-why is gyro precesion effect more pronounced on taildraggers?
+why is gyro precession effect more pronounced on taildraggers?
 tail is raised during takeoff
 
-situations that can max load factor to be exceeded?
+situations that can cause max load factor to be exceeded?
 >45-deg turns, turbulence, speed above Va
 
 effect of increasing load factor on stall speed?
@@ -1818,7 +1818,7 @@ purposes of flaps
 lower airspeed, allow steeper descent, shorten takeoff distance
 
 172SP landing gear system
-tricycle-type, tubular psring steel main struts provide shock absorbtion, nose wheel uses air+oil shock strut
+tricycle-type, tubular spring steel main struts provide shock absorbtion, nose wheel uses air+oil shock strut
 
 172SP brakes
 each main landing gear wheel has single-disc, hydraulically actuated brake, each brake is connected to master cylinder on each rudder pedal
@@ -2277,7 +2277,7 @@ use 75% EGT method of leaning the mixture when you want to maximize:
 fuel economy
 
 use RPM method of leaning the mixture when you want to maximize:
-power and speed to get there faster
+power and speed
 
 how to make sure you are never out of trim
 do not pull or push on the yoke when you are supposed to be in stabilized flight
