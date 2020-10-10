@@ -35,6 +35,8 @@ def prompt( s, default='' ):
 if len( sys.argv ) < 2: die( 'usage: run <subject> [question_cnt]', '' )
 filename = sys.argv[1] + '.txt'
 question_cnt = int(sys.argv[2]) if len( sys.argv ) >= 3 else 20
+skip_prompts = len(sys.argv) >= 4
+skip_pause_sec = int(sys.argv[3]) if skip_prompts else 0
 Q = open( filename, 'r' )
 all_questions = []
 line_num = 0
@@ -63,8 +65,11 @@ random.seed( time.time() )
 
 all_question_cnt = len( all_questions ) >> 1
 if all_question_cnt == 0: die( 'no questions found in ' + filename )
-question_cnt = min( question_cnt, all_question_cnt )
-question_cnt = max( 1, question_cnt )
+if question_cnt == 0: 
+    question_cnt = all_question_cnt
+else:
+    question_cnt = min( question_cnt, all_question_cnt )
+    question_cnt = max( 1, question_cnt )
 
 while True:
     #-----------------------------------------------------------------------
@@ -93,18 +98,26 @@ while True:
             a = all_questions[ii*2+1]
             a_lc = a.lower()
 
-            ua_lc = prompt( '\n' + q ).lower()
-            if ua_lc == a_lc: 
-                correct_cnt += 1
+            if skip_prompts:
+                print( q )
+                time.sleep( skip_pause_sec )
+                print( a )
+                print()
+                time.sleep( skip_pause_sec )
             else:
-                prefix = 'Wrong!  ' if ua_lc != '' else ''
-                print( prefix + a )
-                missed_questions.append( ii )
+                ua_lc = prompt( '\n' + q ).lower()
+                if ua_lc == a_lc: 
+                    correct_cnt += 1
+                else:
+                    prefix = 'Wrong!  ' if ua_lc != '' else ''
+                    print( prefix + a )
+                    missed_questions.append( ii )
+        if skip_prompts: break
         pct = int( 100.0 * correct_cnt / curr_question_cnt + 0.5 )
         print( '\nYou got ' + str(correct_cnt) + ' out of ' + str(curr_question_cnt) + ' questions correct (' + str(pct) + '%)' ) 
         if len( missed_questions ) == 0 or prompt( '\nRetry missed questions?', 'y' ) != 'y': break
         curr_questions = missed_questions
-    if prompt( '\nPlay again?', 'y' ) != 'y': break 
+    if skip_prompts or prompt( '\nPlay again?', 'y' ) != 'y': break 
 
 print( '\nGoodbye!\n' )
 sys.exit( 0 )
