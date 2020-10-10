@@ -583,7 +583,7 @@ Can a student pilot fly into class B airspace?
 yes, with proper training and logbook endorsement
 
 Equipment needed to enter class B airspace?
-mode-C transponder, ADS-B, radio
+mode-C transponder, ADS-B, radio, VOR/TACAN/RNAV for IFR
 
 What to do if you get lost?
 CCCCC, use GPS, look for landmarks, use VORs
@@ -2284,3 +2284,78 @@ do not pull or push on the yoke when you are supposed to be in stabilized flight
 
 how do we know cables are connected correctly?
 look at cable ties where we can, else move control surfaces during preflight and runup
+
+how is class B depicted on sectional chart?
+solid shaded blue line for lateral limits, numbers indicate top and base (e.g., 100/25)
+
+what ATC services are provided in class B for VFR pilots?
+sequencing and separation
+
+who is responsible for avoiding wake turbulence in class B airspace?
+PIC
+
+typical dimensions of class C airspace
+5nm core SFC to 4000 ft, 10nm shelf from 1200 ft to 4000 ft above airport elevation, outer radius of 20nm
+
+minimum equipment for class C
+radio, mode-C transponder
+
+requirements for departing satellite airport within class C airspace
+establish two-way radio communication with ATC as soon as practical after departing
+
+how is class C depicted on the sectional chart?
+solid magenta line
+
+ATC services provided within class C
+sequencing to primary airport, within airspace and outer area, basic radar outside the outer area on a load-permitting basis
+
+types of terminal radar services for VFR aircraft
+basic radar service (safety, alerts, traffic advisories, limited radar vectoring, sequencing), TRSA (radar), class C service (basic radar, separation between IFR and VFR, sequencing of VFR arrivals to primary airport), class B services (similar to class C services)
+
+where is mode C transponder required
+>= 10000 ft MSL over 48 contig stats or DC excluding airspace below 2500 AGL, within 30 miles of class B primary airport, within and above all class C airspace up to 10000 ft MSL, within 10 miles of certain designated airports excluding outside class D surface area and below 1200 AGL, ADIZs
+
+maximum airspeed within class C airspace
+200 knots <= 2500 ft above surface within 4 nm of primary airport
+
+required eqipment for class D
+radio
+
+requirements for departing from satellite airport within class D
+must establish two-way radio communication with ATC as soon as practical after departing
+
+is ATC clearance required for VFR flight through class E surface area arrival extension?
+no
+
+how is class D depicted?
+blue dashed lines
+
+what type of ATC services are provided in class D airspace?
+no separation for VFR, controller might provide advisories if workload permits
+
+maximum speed within class D
+200 knots <= 2500 above surface within 4 nm of primary airport
+
+what happens when class D control tower is closed?
+either: 1) class E surface area rules, or 2) class E rules down to 700 AGL and class G rules to surface.  Consult chart supplements.
+
+will all airports with an operating control tower always have class D airpspace around them?
+no, some airports do not have the required weather reporting for surface based controlled airspace
+
+equipment required in class E
+none specific
+
+purpose of class E transition area (from 700 ft AGL - magenta, from 1200 ft AGL - blue)
+IFR, help separate IFR and VFR traffic
+
+are you required to establish communication with a tower operating within class E?
+yes
+
+how are class E surface extensions depicted?
+magenta dashed line
+
+are you required to establish communication with a tower located in class G?
+yes
+
+vertical limits of class G
+surface up to overlying class E, not to exceed 14,500 ft MSL
