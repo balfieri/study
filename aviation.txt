@@ -2255,7 +2255,7 @@ high winds, lightning, extreme turbulence, heavy downpour
 Below Cat1 IFR
 below 200 ft
 
-SVFR weather minimums
+SVFR weather minimums into class B/C/D/E
 1 SM, clear of clouds
 
 advantages of fixed-pitch propeller
@@ -2359,3 +2359,19 @@ yes
 
 vertical limits of class G
 surface up to overlying class E, not to exceed 14,500 ft MSL
+
+cloud clearance and visibility requirements for class G at night when in the pattern below 1200 ft AGL
+1-3 SM, must be within 1/2 mile from runway
+
+main difference of class G from class A/B/C/D/E?
+flight visibility and cloud clearance requirements
+
+basic VFR weather minimums
+1000 ft ceiling and 3 mile visibility
+
+how to obtain SVFR clearances 
+VFR must requested to the tower and be granted, workload permitting and are less likely in B and C than D and E due to volume of IFR traffic
+
+examples of SFRAs
+DC, Grand Canyon; see chart legend and part 93, check NOTAMs
+
