@@ -915,7 +915,7 @@ how often is the chart supplement updated?
 every 56 days
 
 what kinds of incidents must be reported to the NTSB?
-flight control system malfunction or failure, inability of required crew member to perform duties due to injury or illness, inflight fire, inflight collision, damage to property other than the airplane that exceeds $25,000
+flight control system malfunction or failure, inability of required crew member to perform duties due to injury or illness, inflight fire, inflight collision, damage to property other than the airplane that exceeds $25,000, overdue aircraft (believed to be an accident), release of at least a portion of propeller blade from aircraft, complete loss of informatoin from more than 50% of an aircraft's EFIS (electronic flight instrument system) cockpit displays
 
 what is a congested area?
 not well defined, could be anywhere where there is a group of people
@@ -2370,8 +2370,58 @@ basic VFR weather minimums
 1000 ft ceiling and 3 mile visibility
 
 how to obtain SVFR clearances 
-VFR must requested to the tower and be granted, workload permitting and are less likely in B and C than D and E due to volume of IFR traffic
+VFR must be requested to the tower and be granted, workload permitting, and less likely in B and C than D and E due to volume of IFR traffic
 
 examples of SFRAs
 DC, Grand Canyon; see chart legend and part 93, check NOTAMs
 
+where to find info on special use airspaces
+on chart, https://sua.faa.gov
+
+where to find info on VFR flyways, VFR corridors, and class B transition routes
+normally on reverse side of VFR terminal area chart (aka class B airspace chart)
+
+military training routes altitude ranges
+<= 1500 ft AGL are VFR (4-digit ids, e.g., VR 1008), > 1500 ft AGL are usually IFR (3-digit ids, eg., IR 003, VR 004)
+
+ADIZ locations
+domestic (along U.S. border), coastal, distant early warning identification zone (DEWIZ) over coastal waters of Alaska, land-based ADIZ over U.S. metro areas (activated via NOTAMs)
+
+requirements for operation within an ADIZ
+filed flight plan, two-way radio, radar beacon transponder (as opposed to a mode-C), position reports, aircraft position tolerances (+/- 5 minutes), follow land-based NOTAMs
+
+incident
+an occurrence associated with an aircraft other than an accident which affects or could affect the safety of operations
+
+accident
+an occurrence associated with an aircraft which takes place between the time any person boards the aircraft with the intention of flight and all such persons have disembarked, and in which any person suffers death or serious injury, or in which which the aircraft receives substantial damage
+
+serious injuries
+requires hospitalization for more than 48 hours commencing within 7 days from date the injury was received, causes fraction of any bone (other than fingers, toes, nose), causes severe hemorrhages or nerve/muscle/tendon damage, involves any internal organs, involves 2nd or 3rd degree burns affecting more than 5% of the body surface
+
+substantial damage
+adversely affects the structural strength, performance, or flight characteristics of the aircraft and which would normally require major repair or replacement
+
+damages NOT considered substantial 
+limited to only one engine of multiple, bent fairings or cowling, dented skin, small punctured holes in skin, ground damage to rotor or propeller blades, landing gear, wheels, tires, flaps, engine accessories, brakes, wing tips
+
+is immediate notification of accident to NTSB required if no one got hurt?
+yes
+
+where are accident/incident reports filed?
+local NTSB field office
+
+deadlines for filing an NTSB report
+within 10 days after accident, when overdue aircraft is missing after 7 days, upon request for an incident
+
+can FAA use reports submitted to NASA for enforcement purposes?
+no, except for accidents and criminal offenses that are wholly excluded from the program
+
+what does rotating beacon during daylight hours indicate for class B/C/D/E-surface?
+ground visibility is less than 3 miles and/or the ceiling is less than 1000 ft and that ATC clearance is required for landing, takeoff, and flight in traffic patterns
+
+types of airport signs
+mandatory instruction sign (red bg, white fg) for runway entrance, location sign (black bg, yellow fg, yellow border), direction sign (yellow bg, black fg) identifies the designation of the intersecting taxiway(s) leading out of an intersection, destination sign (yellow bg, black fg, arrows) provides info on locating runways/terminals/cargo-areas/civil-aviation-areas, information sign (yellow bg, black fg) provides information for things that can't be seen from the control tower, runway distane remaining sign (black bg, white fg) in thousands of feet
+
+color for runway, taxiway markings
+white, yellow
