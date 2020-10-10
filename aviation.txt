@@ -31,7 +31,7 @@ PAVE
 pilot, aircraft, environment, external pressures
 
 DECIDE in-flight risk assessment
-detect, estimate, choose, identify, do, evaluation
+detect, estimate, choose, identify, do, evaluate
 
 PPP
 perceive, process, perform
@@ -148,7 +148,13 @@ stages of thunderstorm
 cumulus, mature, dissipative
 
 types of structural ice
-clear, rime, mixed
+clear, rime, mixed (both)
+
+at which temperatures do clear, mixed, and rime form
+2 to -10C, -10C to -15C, -15 to -20C
+
+why is clear ice more dangeous?
+rime only forms on leading edge, clear is on entire wing, harder to notice, more mass
 
 fronts
 cold, warm, occluded, stationary
@@ -481,7 +487,7 @@ which seatbelts can be broken?
 those in unoccupied seats
 
 meaning of pressure altitude
-vertical distance above the standard datum plane
+vertical distance above the standard datum plane, or pressure corrected for standard pressure
 
 practial meaning of pressure altitude
 indicated altitude when altimeter is set to 29.92
@@ -1506,7 +1512,7 @@ what do areas with dotted line on airport diagram?
 areas under construction
 
 how is blast pad delineated on airport diagram
-yellow arrows
+big yellow arrow tops
 
 EMAS, purpose
 engineered material arresting system, slow down aircraft that goes off the end of the runway
@@ -1722,7 +1728,7 @@ examples of airfoils
 wings, horizontal tail surfaces, vertical tail surfaces, propellers
 
 relative wind
-direction of airflow with respect to the leaving edge of the wing; always opposite of direction of flight
+direction of airflow with respect to the leading edge of the wing; always opposite of direction of flight
 
 Bernoulli's Principle
 pressure of fluid decreases at points where speed of the fluid increases
@@ -1866,7 +1872,7 @@ conditions favorable to carburator icing
 temperatures below 70F, at least 80% humidity
 
 anti-icing equipment
-prevents ice from forming on certain protected surfaces, such as pitot tube and staic port, carburator, fuel vents, prop blades, windshields
+prevents ice from forming on certain protected surfaces, such as pitot tube and static port, carburator, fuel vents, prop blades, windshields
 
 deicing equipment
 removes ice that has already been formed, such as inflatable boots on the wing and tail leading edges
@@ -2425,3 +2431,72 @@ mandatory instruction sign (red bg, white fg) for runway entrance, location sign
 
 color for runway, taxiway markings
 white, yellow
+
+how to prevent hydroplaning when landing?
+land more firmly (less smoothly like short-field)
+
+what anti-icing equipment does 172SP have?
+pitot heat
+
+what deicing equipment does 172SP have?
+none, but airport may have fluids you can buy
+
+how to get skin temperature
+OAT-5C (can get icing 5C above freezing temperature)
+
+does snow cause icing?
+generally no, too light, will go over or under wing
+
+at which temperature does ice stop forming?
+-20C
+
+how to get rid of ice in the air
+turn around, go lower, go higher into the sun, go faster to avoid stalling, talk to ATC
+
+what to do if you encounter ice before flying?
+get rid of it, turn aircraft into the sun, use credit card to scrape it, use deicing fluids, don't use hot water (to protect against metal fatigue)
+
+enhanced taxiway centerline
+150 ft before hold short line
+
+purpose of blast pad 
+off-limit area before takeoff over which thrust may go to avoid environmental damage
+
+do runway edge lights change color?
+to amber toward last 1/2 or 2000 ft of runway, whichever is less
+
+color of threshold lights
+green (red on the other side)
+
+thick lines toward beginning of runway on each side of centerline depict
+touchdown zone
+
+displaced threshold side light color
+red
+
+white zipper sign at airport
+restricted area for vehicles 
+
+dashed taxiway centerline
+taxiway hold short line
+
+solid+dashed taxiway centerline
+taxiway non-movement-area / movement-area separation line
+
+red wrong-way sign 
+do not enter for aircrafts
+
+yellow X sign
+closed off taxiway or runway
+
+color of runway, taxiway edge lights
+white, blue
+
+use of ILS hold-short-line
+when IFR aircraft is landing, but ignore if not in IMC
+
+black airport sign with white number
+runway feet remaining in 1000's
+
+how is EMAS denoted on the chart supplement?
+white rectangle
