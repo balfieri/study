@@ -103,7 +103,8 @@ while True:
                 time.sleep( skip_pause_sec )
                 print( a )
                 print()
-                time.sleep( skip_pause_sec )
+                a_pause_sec = skip_pause_sec if len(a) <= 40 else int(skip_pause_sec * len(a) / 40)   # more time for long answers
+                time.sleep( a_pause_sec )
             else:
                 ua_lc = prompt( '\n' + q ).lower()
                 if ua_lc == a_lc: 
