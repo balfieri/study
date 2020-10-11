@@ -2264,8 +2264,8 @@ SVFR weather minimums into class B/C/D/E
 advantages of fixed-pitch propeller
 easier to learn, easier to maintain, better for shorter-distance flights (e.g., training)
 
-reason negative g factor has less magnitude than positive g limit
-aircraft designed for positive g
+reason negative g limit has less magnitude than positive g limit
+aircraft are designed for positive g
 
 when is aft CG better than forward CG
 takeoff, climb, cruise
