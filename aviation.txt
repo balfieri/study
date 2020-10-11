@@ -1529,7 +1529,7 @@ radio navaid on the field
 on sectional chart, circle with lots of dots
 NDB
 
-for minimum safe altitude within square on sectional chart (AGL or MSL)
+minimum safe altitude within square on sectional chart (AGL/MSL)
 MSL
 
 lightening bolts sticking out of tower on sectional chart
