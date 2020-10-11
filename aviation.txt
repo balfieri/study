@@ -963,13 +963,13 @@ three types of AIRMETs
 sierra, tango, zulu
 
 AIRMET sierra (S)
-mountain obscuration or IFR
+IFR or mountain obscuration
 
 AIRMET tango (T)
-turbulence
+moderate turbulence, sustained surface winds >= 30 knots, or non-convective low-level wind shear
 
 AIRMET zulu (Z)
-icing
+moderate icing (AIREMT provides freezing level heights)
 
 types of icing
 structural, induction system, instrument
