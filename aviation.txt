@@ -2148,7 +2148,7 @@ RCO
 recmote communications outlet
 
 purpose of RCO
-unmanned communications factility remotely controlled by ATC for purposes of communicating with pilots at satellite airports
+unmanned communications facility remotely controlled by ATC for purposes of communicating with pilots at satellite airports
 
 ways to determining frequency to use for activating flight plan
 ask FSS briefer, consult chart supplement
