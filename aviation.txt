@@ -1856,7 +1856,7 @@ red, green, blue, colorless
 things powered by electrical system on 172SP
 radio, turn coordinator, fuel gauges, pitot heat, lights, flaps, stall warning system, oil temperature gauge, auxiliary fuel pump
 
-on sectional chart, what is a blue airport with no airspace boundary markers
+on sectional chart, blue airport with no airspace boundary markers
 controlled class G airport that is in the process of becoming a class D airport, treat it as class D during landings
 
 cause of carburator icing
@@ -2204,7 +2204,7 @@ minimum safe altitude over open water or sparsely populated areas
 minimum safe altitude over a U.S. wildlife refuge, park, or Forest Service Area
 2000 ft above the surface
 
-when operating below 18000 MSL, what is proper procedure for setting altimeter
+when operating below 18000 MSL, proper procedure for setting altimeter
 if pressure is 31.00 Hg or less, use altimeter of station that is within 100 nm of aircraft; above 31.00 Hg, consult the AIM
 
 actions to take if altimeter setting is not available before flight
@@ -2264,7 +2264,7 @@ SVFR weather minimums into class B/C/D/E
 advantages of fixed-pitch propeller
 easier to learn, easier to maintain, better for shorter-distance flights (e.g., training)
 
-why is negative g factor less than positive g limit
+reason negative g factor has less magnitude than positive g limit
 aircraft designed for positive g
 
 when is aft CG better than forward CG
