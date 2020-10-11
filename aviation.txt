@@ -2499,4 +2499,4 @@ how EMAS is denoted on the chart supplement
 white rectangle
 
 difference between tach time and Hobbs time
-tach time runs at half speed when idling and base speed at cruise, Hobbs time records how long the engine has been running
+tach time scales by RPMs, Hobbs time records how long the engine has been running at all
