@@ -54,7 +54,7 @@ fuses, landing lights (for hire), anti-collision lights, position lights (nav li
 SAFETY
 seatbelts, air conditioning, fire extinguisher, exits, talking, your questions
 
-when do you NOT need an ELT?
+when you do NOT need an ELT
 when engaged with training within 50 nm of origin, when engaged in design and testing, when engaged in manufactor/preparation/delivery, when engaged in agricultural operations
 
 SUA
@@ -150,7 +150,7 @@ clear, rime, mixed (both)
 at which temperatures do clear, mixed, and rime form
 2 to -10C, -10C to -15C, -15 to -20C
 
-why is clear ice more dangeous?
+reasons clear ice more dangeous
 rime only forms on leading edge, clear is on entire wing, harder to notice, more mass
 
 fronts
@@ -306,7 +306,7 @@ retractable landing gear, controllable pitch propeller, flaps
 high-performance aircraft features
 more than 200 HP
 
-is a Mooney M20J-201 a high-performance aircraft?
+Mooney M20J-201 a high-performance aircraft (yes/no)
 no, right at 200 HP
 
 KOEL
@@ -333,10 +333,10 @@ minimum equipment list
 purpose of MEL
 list of equipment that can be broken
 
-does our 172SP have a MEL?
+172SP has a MEL (yes/no)
 no, we adhere to 91.205
 
-can an aircraft owner change a MEL?
+when an aircraft owner can change a MEL
 only after approval by the FAA
 
 conditions that require ELT inspection
@@ -432,13 +432,13 @@ eligibility requirements for private pilot certificate
 privileges and limitations, of private pilot certificate
 carry passengers, pay at least pro rata share, business if incidental, non-profit event, search and rescue, demonstrate aircraft to buyer if 200+ hours, tow a glider, test flight in light-sport aircraft
 
-which flights must you log in your logbook?
+flights you must log in your logbook
 required training, required aeronautical experience
 
 types of airworthiness certificates
 standard, special, experimental
 
-does an airworthiness certificate have an expiration date?
+airworthiness certificate has an expiration date (yes/no)
 no
 
 conditions for airworthiness
@@ -456,7 +456,7 @@ type certificate data sheet
 STC
 supplemental type certificate
 
-how long is an aircraft registration certficate valid?
+how long aircraft registration certficate is valid
 3 years
 
 frequency of VOR inspections
@@ -480,7 +480,7 @@ inward, upward, counterclockwise
 flow of air in and around high pressure system in norhern hemisphere
 outwward, downward, clockwise
 
-which seatbelts can be broken?
+seatbelts that can be broken
 those in unoccupied seats
 
 meaning of pressure altitude
@@ -498,16 +498,16 @@ pressure altitude corrected for non-standard temperature
 Equation for density altitude
 DA = PA + 118.8*(OAT-15+elevation/500)
 
-can you fly a drunk passenger?
+you can fly a drunk passenger (yes/no)
 no
 
-can you fly an injured passenger?
+you can fly an injured passenger (yes/no)
 yes
 
 actions to take if the alternator belt slipped off its wheel
 pull ALT FLD circuit breaker, turn off nonessential electrical equipment, land as soon as practical
 
-How to enter S-turns?
+how to enter S-turns
 do clearing turns, descend to 800 ft AGL, enter downwind perpendicular to line
 
 172SP hydraulic systems
@@ -522,7 +522,7 @@ shroud around the exhaust muffler
 172SP type of turn coordinator
 electric
 
-why is the turn coordinator electric?
+why turn coordinator is electric
 redundancy in case vacuum pump is broken
 
 172SP number of vacuum pumps
@@ -534,7 +534,7 @@ coolant, lubricant, corrosion inhibitor, sealant, cleaner
 grace periods (annual, 100-hour, ADs)
 none, 10 hours, none
 
-Which of the required documents on board an aircraft has to be in view?
+required documents on board an aircraft that must be in view
 annual inspection, registration
 
 time spent in flight review with a CFI
@@ -543,7 +543,7 @@ time spent in flight review with a CFI
 Feet above pattern altitude for midfield crossover
 500
 
-When would you want fly slower than Va?
+when you would want to fly slower than Va
 descent, climb, extreme turbulence, feel like it
 
 types of ADs
@@ -561,16 +561,16 @@ reduces lift, decreases propeller efficiency, decreases engine efficiency, incre
 Things that increase density altitude besides elevation
 lower atmospheric pressure, higher temperature, higher humidity
 
-Have you ever had carb ice?
+172SP can have carb ice (yes/no)
 no, the 172SP has no carburator
 
-How to detect carb ice?
+signs of carb ice
 reduction in RPM for a given throttle setting
 
-Under what circumstances may you intentionally spin a 172SP?
+circumstances in which you may intentionally spin a 172SP
 weight and balance must be in utility category
 
-When would you use pitot heat?
+when to use pitot heat
 anticipate icing conditions
 
 172SP ice protection
@@ -579,13 +579,13 @@ pitot heat, alternate static source, defrost via cabin heat
 172SP service ceiling in feet
 14000
 
-which way to turn if approaching another aircraft head on?
+direction to turn if approaching another aircraft head on
 right
 
-Can a student pilot fly into class B airspace?
+a student pilot fly into class B airspace (yes/no)
 yes, with proper training and logbook endorsement
 
-Equipment needed to enter class B airspace?
+equipment needed to enter class B airspace
 mode-C transponder, ADS-B, radio, VOR/TACAN/RNAV for IFR
 
 actions to take if you get lost
@@ -594,7 +594,7 @@ CCCCC, use GPS, look for landmarks, use VORs
 isogonic line
 connects points of equal magnetic variation
 
-How do we use isogonic lines?
+how to use isogonic lines
 during flight planning to calculate magnetic heading
 
 required to compute compass heading
@@ -624,28 +624,28 @@ weak heart, pulling G's
 causes of hystotoxic hypoxia
 drugs or alcohol, cellular diseases
 
-Can you fly into icing that is forecast (under part 91)?
+you fly into icing that is forecast under part 91 (yes/no)
 no
 
-How would you identify an electrical failure?
+how to identify an electrical failure
 low voltage annunciator, negative ammeter reading
 
-Could you fly the airplane if a piece of non-required equipment is not operational?
+you may fly the airplane if a piece of non-required equipment is not operational (yes/no)
 yes, if deactivated and placarded
 
-Symptoms of hypoxia
+symptoms of hypoxia
 change in skin color, confusion, dizziness, euforia
 
-Symptoms of hyperventilation
+symptoms of hyperventilation
 same as hypoxia, rapid breathing, rapid heart rate
 
 how to relieve hyperventilation
 breath into bag, talk outloud
 
-Where can you do daytime pattern work with 1SM visibility and low clouds?
+where can you do daytime pattern work with 1SM visibility and low clouds
 class G airport if cloud ceiling is at least 1000 ft
 
-If we don't have an airport map or feel uncomfortable at the airport, what can we do?
+actions to take if we don't have an airport map or feel uncomfortable at the airport
 request progressive taxi instructions
 
 isobar
@@ -666,7 +666,7 @@ standard lapse rate
 unstable atmosphere
 ambient lapse rate is greater than standard lapse rate
 
-how do you know if atmosphere has a lot of moisture?
+how to determine if atmosphere has a lot of moisture
 narrow dewpoint spread
 
 types of lifting actions
@@ -684,23 +684,23 @@ When can night landings be logged? Same as FAA definition of nighttime
 camber
 curvature of wings
 
-can we change camber?
+wing camber can be changed (yes/no)
 yes, using flaps
 
 angle of incidence
 angle between the wing chord line and the fuselage
 
-can angle of incidence be changed?
+angle of incidence can be changed (yes/no)
 no
 
 172SP max demonstrated crosswind component knots
 15
 
-when is supplemental oxygen required for crewmembers?
+when supplemental oxygen required for crewmembers
 more than 30 minutes between 12500 and 14000 ft, above 14000
 
-when must supplemental oxygen be provided to passengers? must they use it?
-above 15000 ft, no
+when supplemental oxygen must be provided to passengers
+above 15000 ft, but not required to use it
 
 172SP fuel tank venting
 air vent is located on the left wing, both tanks are interconnected by a vent line, both fuel caps are also vented
@@ -708,22 +708,22 @@ air vent is located on the left wing, both tanks are interconnected by a vent li
 actions to take if you smell exhaust fumes in the cockpit
 open windows, close heat/vents, land as soon as practical
 
-Why do you have to avoid alcohol and certain over-the-counter drugs with respect to flying, when you are allowed to drive with, for example, immediately after having a few drinks?
+why you have to avoid alcohol and certain over-the-counter drugs with respect to flying, when you are allowed to drive with, for example, immediately after having a few drinks
 less source oxygen avilable at higher altitudes
 
-How does the ELT work?
+how ELT works
 activated when a certain force threshold is detected by its accelerometers, transmits signal on 406 MHz
 
-Explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving. How to avoid problem in flight?
+explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving and how to avoid it
 decompression sickness, wait 12 hours for uncontrolled ascent up to 8000 ft, 24 hours if controlled ascent or over 8000 ft
 
-How to get wind shear reports?
+how to get wind shear reports
 PIREPs, ATC, ATIS (if working)
 
 causes of wind shear
 thunderstorms, high temperature inversion, fast winds aloft
 
-How do you acivate your VFR flight plan once airborne?
+how to acivate your VFR flight plan once airborne
 contact FSS radio frequency
 
 Best place to find FSS radio frequency
@@ -741,25 +741,25 @@ increases
 phases when you need to use position lights (nav lights)
 taxiing or flying at night
 
-Can you fly with a head cold?
+you can fly with a head cold (yes/no)
 yes, but you should not due to painful pressure build-up
 
-Can you fly with benadryl, aspirin, ibuprofin?
+you can fly with benadryl, aspirin, ibuprofin (yes/no for each)
 no, yes, yes
 
 actions to take if you start getting dizzy at altitude
 open window, descend, use aviation oxygen
 
-Why don't we use medical oxygen?
+reason we don't we use medical oxygen
 it goes through a humidification process which could freeze at altitude
 
-Why would you not descend at 1000 fpm or 1500 fpm?
+reasons you would not descend at 1000 fpm or 1500 fpm
 could exceed Vno/Vne, uncomforable for passengers
 
 actions to take if all radios die, inluding handhel
 squawk 7600, go to uncontrolled airport, circle above, call approach on phone, enter traffic pattern, watch for light gun signals
 
-Should you take your inexperienced passenger on your preflight?
+you should take your inexperienced passenger on your preflight (yes/no)
 no, distracting
 
 172SP vacuum suction normal range Hg: min, max
@@ -771,7 +771,7 @@ higher angle of attack, higher stall speed, lower cruise speed, more control aut
 characteristics of aft CG
 lower angle of attack, lower stall speed, high cruise speed, less control authority
 
-how long is a VFR flight kept open?
+how long is a VFR flight kept open
 until you explicitly close it
 
 whom we tell if our VFR flight plan is running late
@@ -780,25 +780,25 @@ FSS
 actions to take if FSS is not responding on 122.2 or whatever
 look on the sectional chart above nearest VOR for radio frequency, listen on VOR
 
-if you hear ATIS on VOR, is VOR working?
+you hear ATIS on VOR, so VOR working (yes/no)
 no, could be overlap
 
-how to tell if VOR is working?
+how to tell if VOR is working
 listen for Morse code
 
 FRZ
 DC flight restricted zone
 
-How to fly VFR within FRZ?
+how to fly VFR within FRZ
 must take special class, file special DC FRZ flight plan
 
 172SP tire inflation PSI (mains, nose)
 38, 45
 
-At what speed can the main tires hydroplane?
+speed at which you the main tires hydroplane
 9*sqrt(PSI)
 
-which instruments use the pitot tube?
+instruments that use the pitot tube
 airspeed indicator
 
 port, starboard
@@ -807,16 +807,16 @@ left, right
 minimum surface visibility in SM (day, night) 
 3, 5
 
-when does a PPL expire?
+when PPL expires
 never
 
-Does the POH meet the requirement for an AFM?
+POH meets the requirement for an AFM (yes/no)
 yes, for most small aircraft built after 1975
 
 person responsible for ensuring an aircraft is maintained in an airworthy condition
 owner/operator
 
-must a pilot adhere to the operating limitations specified in the POH/AFM?
+a pilot must adhere to the operating limitations specified in the POH/AFM (yes/no)
 yes
 
 four forces of flight
@@ -825,13 +825,13 @@ lift, weight, thrust, drag
 types of drag
 parasite, induced
 
-types of parasite drag?
+types of parasite drag
 form, skin friction, interference
 
-how does parasite drag change with speed?
+how parasite drag changes with speed
 increases
 
-how does induced drag change with speed?
+how induced drag changes with speed
 decreases
 
 cause of wing-tip vortices
@@ -855,13 +855,13 @@ low speed, high power, high angle of attack
 type of oil we use
 aviation 20W-50 or 15W-50
 
-You're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900 ft ceilings. You're a non-instrument rated private pilot. Can you land there?
+You're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900 ft ceilings. You're a non-instrument rated private pilot. You can land there (yes/no)
 no, airport is IFR when ceiling is below 1000 ft, also 3-152 and 500 ft minimum above ground
 
-When we exit the runway, if they tell us to taxi across runway 4 do we have to stop and wait for them to tell us to cross or can we just cross?
+When we exit the runway, if they tell us to taxi across runway 4, we must stop and wait for them to tell us to cross or can we just cross (yes/no)
 no, but stop and look both ways
 
-How do I know if the 172SP nose strut has the right amount of air?
+how to determine if 172SP nose strut has the right amount of air
 at least 3-4 fingers of silver part showing
 
 PGF
@@ -870,13 +870,13 @@ pressure gradient force
 direction of Coriolis force in northern hemisphere
 right
 
-when can something be dropped from an airplane?
+when something can be dropped from an airplane
 when precautions have been taken to ensure that it doesn't cause harm to persons or property on the ground
 
-why does maneuvering speed decrease with less weight?
+why maneuvering speed decreases with less weight
 aerodynamic forces have more effect on a lighter plane
 
-why does a heavier aircraft have a higher stall speed?
+why a heavier aircraft has a higher stall speed
 a heavier aircraft must fly at a higher angle of attack
 
 adverse yaw
@@ -899,7 +899,7 @@ combustion that occurs before the intended spark
 causes of pre-ignition
 hot spots from detonation, improper heat range spark plugs, glowing carbon deposits from lean mixtures
 
-actions to take take when dealing with pre-ignition?
+actions to take take when dealing with pre-ignition
 reduce power, reduce climb rate, enrich the mixture, open cowl flaps while on the ground
 
 magnetic variation
@@ -914,7 +914,7 @@ height above ground of broken or overcast cloud layer
 limitations of VORs
 range proportional to altitude of receiving equipment, line of sight
 
-how often is the chart supplement updated?
+how often the chart supplement is updated
 every 56 days
 
 kinds of incidents must be reported to the NTSB
@@ -923,10 +923,10 @@ flight control system malfunction or failure, inability of required crew member 
 congested area
 not well defined, could be anywhere where there is a group of people
 
-when may I fly out of a TFR zone?
+when you may fly out of a TFR zone
 file a flight plan, in contact with ATC, working transponder, adhere to any restrictions in the TFR
 
-VFR for Washington DC?
+when you may fly VFR over Washington DC
 must take class, normal TFR rules, must file flight plans in and out
 
 permanent TFRs
@@ -938,16 +938,16 @@ mechanical, clear air, wake, wind shear, thermal
 time to wait to take off behind in minutes (light, medium, heavy, super)
 2, 4, 6, 8
 
-how to know if a paved-runway airport is private?
-"(pvt)" is in the name
+how to know if a paved-runway airport is private
+"(pvt)" is in the name on sectional chart
 
-symbol on sectional chart to indicate a seaport?
+symbol on sectional chart to indicate a seaport
 anchor
 
 dangerous thunderstorms we may see along cold front
 squal line
 
-direction of wind for cyclone, anti-cyclone (CCW or CW)?
+direction of wind for cyclone, anti-cyclone (CCW or CW)
 CCW, CW
 
 convective SIGMET
@@ -992,7 +992,7 @@ class E extension (ft AGL start, ft AGL end, border on sectional)
 equation for lift
 L = AoA * V^2 * constant
 
-Why must a heavier aircraft fly with a larger angle of attack?
+reason a heavier aircraft fly with a larger angle of attack
 to generate more lift at the same speed
 
 VFR conditions
@@ -1010,7 +1010,7 @@ LIFR conditions
 minimum VFR surface visility in SM (day, night)
 3, 5
 
-must all fuel gauges work prior to takeoff?
+all fuel gauges work prior to takeoff (yes/no)
 yes
 
 GAMA
@@ -1481,7 +1481,7 @@ no rainfall in past 24 hours
 9900 winds aloft
 winds light and variable
 
-why no circle around some airports on sectional chart?
+reason there is no circle around some airports on sectional chart
 runway > 8069 feet
 
 dotted purple on sectional chart
@@ -1523,13 +1523,13 @@ displaced threshold
 little round circle on runway on airport diagram
 highest point of elevation for entire airport
 
-on sectional chart, what does little circle inside majenta/blue circle denote?
+on sectional chart, little circle inside majenta/blue circle
 radio navaid on the field
 
-on sectional chart, what does circle with lots of dots denote?
+on sectional chart, circle with lots of dots
 NDB
 
-for minimum safe altitude within square on sectional chart, is that AGL or MSL?
+for minimum safe altitude within square on sectional chart (AGL or MSL)
 MSL
 
 lightening bolts sticking out of tower on sectional chart
@@ -1547,40 +1547,40 @@ lighted runway that can be controlled by pilot
 3/4 circle within magenta/blue airport circle
 military unpaved runway
 
-on sectional chart what does compass looking symbol denote?
+on sectional chart, compass-looking symbol
 VFR GPS point of reference
 
 crisscrossed lines on sectional chart
 drainage ditch
 
-for 100-hour inspection, is that 100 hours of Hobbs or tach?
+100-hour inspection, time measurement (Hobbs/tach)
 tach
 
 FAA's definition of night time, in general
 30 minutes after sunset to 30 minutes before sunrise
 
-when can you fly close to another aircraft?
+when you can fly close to another aircraft
 when you have an arrangement among all pilots involved, when it does not create a collision hazard, and while not carrying passengers for hire
 
-how much oxygen must be on board to handle sudden depressurization?
+amount of oxygen that must be on board to handle sudden depressurization
 10 minutes
 
 main job of ATC
 maintain traffic separation and spacing for IFR flights
 
-can night landings substitute for day landings with regard to currency?
+night landings may substitute for day landings with regard to currency (yes/no)
 yes
 
 things CFI cover in a flight review
 part 91, part 61, any checkride maneuvers
 
-does FAA require that a flight review be done in the same type as you plan to fly?
+FAA requires that a flight review be done in the same type as you plan to fly (yes/no)
 no, but you should do it in the same type
 
-how long is the written exam good for?
+written exam is good for...
 2 years
 
-which airspaces require ADS-B out?
+airspaces that require ADS-B out
 A, B, B veil, C, E above 10000 ft
 
 ICAO
@@ -1601,7 +1601,7 @@ high pressure, falling air, conducive to dissipation of cloudiness, good weather
 cause of winds aloft to flow parallel to isobars
 Coriolis force
 
-why do surface winds generally flow across isobars at an angle?
+reason surface winds generally flow across isobars at an angle
 surface friction
 
 rate of atmospheric pressure decrease with increase in altitude
@@ -1622,7 +1622,7 @@ turbulent air, cumuliform clouds, showery precipitation, good visibility
 during significant precipitation, typical thickness of clouds
 at least 4000 ft
 
-types of info should you be aware of for icing?
+types of info should you be aware of for icing
 location of fronts, cloud layers, freezing levels, air temperature and pressure
 
 definition of freezing level
@@ -1634,7 +1634,7 @@ visible moister below freezing temps at point moisture strikes aircraft
 what to do when you encounter icing
 leave area: descend below cloud base, climb above cloud tops, turn to a different heading
 
-why is frost hazardous?
+why frost is hazardous
 roughness spoils smooth flow of air, resulting in loss of lift
 
 temperature inversion
@@ -1655,7 +1655,7 @@ TAF, METAR, SIGMET, LLWAS, PIREP
 other sources of weather info besides FSS
 TIBS, private industry sources, DUATS, TWEB in Alaska
 
-do third party weather sources qualify as legitimate?
+third party weather sources qualify as legitimate (yes/no)
 no
 
 limitations of in-flight FIS-B information
@@ -1682,7 +1682,7 @@ most favorable altitude, areas of possible icing, temperature inversions, turbul
 purpose of CWA
 aviation warning to help avoid adverse weather conditions
 
-how long are CWAs valid?
+period CWAs are valid
 2 hours
 
 types of weather charts
@@ -1739,19 +1739,19 @@ makes airplane roll
 effect of torque reaction (left turning tendency) on the ground
 more weight on left wheel causing more friction and thus turn to left
 
-why is gyro precession effect more pronounced on taildraggers?
+reason gyro precession effect more pronounced on taildraggers
 tail is raised during takeoff
 
-situations that can cause max load factor to be exceeded?
+situations that can cause max load factor to be exceeded
 >45-deg turns, turbulence, speed above Va
 
-effect of increasing load factor on stall speed?
+effect of increasing load factor on stall speed
 higher stall speed because higher angle of attack during higher load factor
 
 definition of maneuvering speed Va
 maximum speed at which the limit load factor can be imposed (via gusts or full deflection of the control surfaces) without causing structural damage
 
-in which case can operating below Va not prevent structural damage?
+cases operating below Va may not prevent structural damage
 multiple full control inputs in one axis or full control inputs in multiple axes at the same time
 
 loss of control in-flight (LOC-I)
@@ -1874,10 +1874,10 @@ prevents ice from forming on certain protected surfaces, such as pitot tube and 
 deicing equipment
 removes ice that has already been formed, such as inflatable boots on the wing and tail leading edges
 
-can planes with anti-icing and deicing equipment be flown in icing conditions?
+planes with anti-icing and deicing equipment can be flown in icing conditions (yes/no)
 not necssarily, consult POH
 
-during runup, you switch to RIGHT magneto and see no RPM drop, what happened?
+during runup, you switch to RIGHT magneto and see no RPM drop because...
 left P-lead is not grounding OR left magneto has been dead for a while
 
 actions to take if oil pressure is low but oil temperature is normal
@@ -2003,7 +2003,7 @@ tubular steel
 172SP nose wheel shock
 air/oil nose gear
 
-does 172SP parking brake work if brake pedals don't?
+172SP parking brake works if brake pedals don't (yes/no)
 no
 
 how to start engine using external power
@@ -2033,7 +2033,7 @@ above 80F, idle speeds
 actions to take when you suspect vapor formation
 power to 1800-2000 RPM for two minutes, return to 1200 RPM, lean for idle, apply full throttle for 10 sec at start of takeoff
 
-172SP can lean using EGT method only when operating no more than what percent power?
+172SP can lean using EGT method only when operating no more than what percent power
 75
 
 172SP oil system
@@ -2048,7 +2048,7 @@ class B airspace
 VFR flyway planning chart depicts...
 flight paths and altitudes recommended for use to bypass high traffic areas
 
-are EFBs approved for use a replacement for paper reference materials?
+EFBs are approved for use a replacement for paper reference materials (yes/no)
 yes
 
 latitudinal range of USA: min, max
@@ -2075,7 +2075,7 @@ frequency range of VORs in MHz: min, max
 VOR radial
 line of magnetic bearing extending from a VOR; an aircraft on the 360-degree radial will always be located north of the station
 
-how are VOR NAVAIDs classified?
+classifications of VOR NAVAIDs
 terminal, low, high
 
 reception distances of terminal, low, high VORs in miles
@@ -2102,7 +2102,7 @@ no assurance of accuracy of GPS position
 preflight checks for GPS
 verify that it is properly installed and certified for planned operation, verify that databases have not expired, review GPS NOTAM/RAIM information, review operational status of ground-based NAVAIDs, verify that GPS receiver operation manual is on-board (may be part of POH appendix)
 
-will an FSS briefer mention GPS NOTAMs?
+an FSS briefer will mention GPS NOTAMs (yes/no)
 no, you must explicitly ask for them
 
 what you get with 3 GPS satellites
@@ -2156,13 +2156,13 @@ ask FSS briefer, consult chart supplement
 purpose of heavy-lined blue box around navaid frequency
 indicates FSS standard frequencies 121.5, 122.2, 243.0, and 255.4 are available
 
-why would a frequency be printed on top of a heavy-lined blue box?
+reason a frequency is printed on top of a heavy-lined blue box
 indicates the frequency is available in addition to FSS standard frequencies
 
 purpose of thin-lined blue box around navaid frquency
 indicates no FSS standard frequencies available
 
-why would a frequency be printed on top of a thin-lined blue box?
+reason a frequency is printed on top of a thin-lined blue box
 indicate best frequencies to use in the immediate vacinity of the navaid
 
 FSS frequency is followed by the letter "R" indicates...
@@ -2171,7 +2171,7 @@ FSS can only receive on that frequency, pilot should listen over the navaid freq
 how to determine the availability of HIWAS on the sectional chart
 navaid has "H" in upper right corner of box
 
-meaning of letter "T" in solid blue circle in upper-right corner of navaid box?
+meaning of letter "T" in solid blue circle in upper-right corner of navaid box
 indicates that a transcribed weather broadcast (TWEB) is available 
 
 TWEB transcribed weather broadcast (Alaska only)
@@ -2183,7 +2183,7 @@ upon request, send a written report to the Administrator
 with regard to alcohol and drugs a pilot may not fly
 within 8 hours of consuming any alcoholic beverage, while under influence, while using any drug that affects safety, with an alcohol concentration level of at least 0.04%
 
-may a pilot carry a person who is under the influence of drugs or alcohol?
+a pilot carry a person who is under the influence of drugs or alcohol (yes/no)
 no, except in an emergency
 
 situations where no-portable-electronic devices rule applies
@@ -2285,10 +2285,10 @@ power and speed
 how to make sure you are never out of trim
 do not pull or push on the yoke when you are supposed to be in stabilized flight
 
-how do we know cables are connected correctly?
+how we know cables are connected correctly
 look at cable ties where we can, else move control surfaces during preflight and runup
 
-how is class B depicted on sectional chart?
+how class B depicted on sectional chart
 solid shaded blue line for lateral limits, numbers indicate top and base (e.g., 100/25)
 
 ATC services provided in class B for VFR pilots
@@ -2306,7 +2306,7 @@ radio, mode-C transponder
 requirements for departing satellite airport within class C airspace
 establish two-way radio communication with ATC as soon as practical after departing
 
-how is class C depicted on the sectional chart?
+how class C depicted on the sectional chart
 solid magenta line
 
 ATC services provided within class C
@@ -2327,10 +2327,10 @@ radio
 requirements for departing from satellite airport within class D
 must establish two-way radio communication with ATC as soon as practical after departing
 
-is ATC clearance required for VFR flight through class E surface area arrival extension?
+ATC clearance is required for VFR flight through class E surface area arrival extension (yes/no)
 no
 
-how is class D depicted?
+class D is depicted using...
 blue dashed lines
 
 types of ATC services provided in class D airspace
@@ -2342,7 +2342,7 @@ maximum speed within class D
 what happens when class D control tower is closed
 either: 1) class E surface area rules, or 2) class E rules down to 700 AGL and class G rules to surface.  Consult chart supplements.
 
-will all airports with an operating control tower always have class D airpspace around them?
+all airports with an operating control tower always have class D airpspace around them (yes/no)
 no, some airports do not have the required weather reporting for surface based controlled airspace
 
 equipment required in class E
@@ -2351,13 +2351,13 @@ none specific
 purpose of class E transition area (from 700 ft AGL - magenta, from 1200 ft AGL - blue)
 IFR, help separate IFR and VFR traffic
 
-are you required to establish communication with a tower operating within class E?
+you are required to establish communication with a tower operating within class E (yes/no)
 yes
 
-how are class E surface extensions depicted?
+class E surface extensions are depicted using...
 magenta dashed line
 
-are you required to establish communication with a tower located in class G?
+you are required to establish communication with a tower located in class G (yes/no)
 yes
 
 vertical limits of class G
@@ -2366,7 +2366,7 @@ surface up to overlying class E, not to exceed 14,500 ft MSL
 cloud clearance and visibility requirements for class G at night when in the pattern below 1200 ft AGL
 1-3 SM, must be within 1/2 mile from runway
 
-main difference of class G from class A/B/C/D/E?
+main difference of class G from class A/B/C/D/E
 flight visibility and cloud clearance requirements
 
 basic VFR weather minimums
@@ -2408,16 +2408,16 @@ adversely affects the structural strength, performance, or flight characteristic
 damages NOT considered substantial 
 limited to only one engine of multiple, bent fairings or cowling, dented skin, small punctured holes in skin, ground damage to rotor or propeller blades, landing gear, wheels, tires, flaps, engine accessories, brakes, wing tips
 
-is immediate notification of accident to NTSB required if no one got hurt?
+immediate notification of accident to NTSB is required even if no one got hurt (yes/no)
 yes
 
-where are accident/incident reports filed?
+where are accident/incident reports filed
 local NTSB field office
 
 deadlines for filing an NTSB report
 within 10 days after accident, when overdue aircraft is missing after 7 days, upon request for an incident
 
-can FAA use reports submitted to NASA for enforcement purposes?
+FAA can use reports submitted to NASA for enforcement purposes (yes/no)
 no, except for accidents and criminal offenses that are wholly excluded from the program
 
 meaning of rotating beacon during daylight hours for class B/C/D/E-surface
@@ -2429,7 +2429,7 @@ mandatory instruction sign (red bg, white fg) for runway entrance, location sign
 color for runway, taxiway markings
 white, yellow
 
-how to prevent hydroplaning when landing?
+how to prevent hydroplaning when landing
 land more firmly (less smoothly like short-field)
 
 anti-icing equipment on 172SP
@@ -2441,10 +2441,10 @@ none, but airport may have fluids you can buy
 how to get skin temperature
 OAT-5C (can get icing 5C above freezing temperature)
 
-does snow cause icing?
+snow causes icing (yes/no)
 generally no, too light, will go over or under wing
 
-at which temperature does ice stop forming?
+temperature at which ice stops forming
 -20C
 
 how to get rid of ice in the air
@@ -2459,7 +2459,7 @@ enhanced taxiway centerline
 purpose of blast pad 
 off-limit area before takeoff over which thrust may go to avoid environmental damage
 
-do runway edge lights change color?
+when runway edge lights change color
 to amber toward last 1/2 or 2000 ft of runway, whichever is less
 
 color of threshold lights
@@ -2495,7 +2495,7 @@ when IFR aircraft is landing, but ignore if not in IMC
 black airport sign with white number
 runway feet remaining in 1000's
 
-how is EMAS denoted on the chart supplement?
+how EMAS is denoted on the chart supplement
 white rectangle
 
 difference between tach time and Hobbs time
