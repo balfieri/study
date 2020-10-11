@@ -42,16 +42,13 @@ private pilot certificate, government-issued photo id, medical certificate
 ARROW
 airworthiness certificate, registration, radio license, operator's handbook, weight/balance data for plane
 
-AVIATES
-ADs, VOR, inspections, altimeter, transponder, ELT, seatbelts
+AV1ATES (required inspections)
+annual and ADs, VOR (30 days), 100-hour (for hire), altimeter (24 months), transponder (24 months), ELT (12 months), static system (24 months)
 
-ATOMATO
-altimeter, tachometer, oil pressure, manifold pressure (constant-speed propeller), airspeed indicator, temperature gauge (liquid-cooled engine), oil temperature gauge
+ATOMATO FLAMES (required equipment for VFR)
+altimeter, tachometer, oil pressure, manifold pressure (constant-speed propeller), airspeed indicator, temperature gauge (liquid-cooled engine), oil temperature gauge, fuel gauge, landing gear position indicator, anticollision lights (after March 11, 1996), magnetic compass, ELT, seatbelts
 
-FLAMES
-fuel gauge, landing gear position indicator, anticollision lights (after March 11, 1996), magnetic compass, ELT, seatbelts
-
-FLAPS
+FLAPS (required equipment for VFR night flight)
 fuses, landing lights (for hire), anti-collision lights, position lights (nav lights), source of electricity
 
 SAFETY
@@ -1032,10 +1029,10 @@ the leans
 illusion that you are flying level when you are actually in a gradual bank
 
 graveyard spin
-illusion that your are spinning in the opposite direction than reality
+illusion that you are spinning in the opposite direction than reality
 
 graveyard spiral
-illusion that you are in an opposite bank after correcting a bank when in fact your are flying level
+illusion that you are in an opposite bank after correcting a bank when in fact you are flying level
 
 somatogravic or head-up illusion
 illusion that you are nose up during acceleration
@@ -1065,7 +1062,7 @@ precipitation illusions
 caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer.  fog and haze may cause objects to appear farther away
 
 black-hole approach
-when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descend too quickly
+when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descends too quickly
 
 white-out
 when flying over snow-covered terrain there is no obvious distinction between sky and terrain
@@ -1217,7 +1214,7 @@ showers
 TS
 thunderstorms
 
-R
+R (visual)
 runway visual range
 
 A
@@ -1427,7 +1424,7 @@ wind speed
 WXNIL
 no significant weather
 
-R
+R (weather-related)
 rain
 
 RW
@@ -1662,7 +1659,7 @@ do third party weather sources qualify as legitimate?
 no
 
 limitations of in-flight FIS-B information
-not realtime, can be up to 15 min old, better to use FIS
+not realtime, can be up to 15 min old, better to use FSS
 
 where to find PIREPs
 FSS, ADDS web page
@@ -1716,7 +1713,7 @@ how often is low-level significant weather prognostic chart updated
 every 6 hours
 
 convective outlook chart
-severe and non-serveral convective threats during the next 3 days
+severe and non-severe convective threats during the next 3 days
 
 constant pressure analysis chart
 upper air weather map arranged along particular pressure levels: 200, 300, 500, 700, 850 mb
@@ -1760,7 +1757,7 @@ multiple full control inputs in one axis or full control inputs in multiple axes
 loss of control in-flight (LOC-I)
 significant deviation of aircraft from intended flight path
 
-situations that increase changes of LOC-I
+situations that increase chances of LOC-I
 uncoordinated flight, equipment malfunction, pilot complacency, distraction, turbulence, poor risk management
 
 primary cause of spins
@@ -1782,7 +1779,7 @@ gross weight
 maximum allowable weight of both airplane and contents
 
 useful load includes
-pilot, copilot, passengers, baggage, usuable fuel, drainable oil
+pilot, copilot, passengers, baggage, usable fuel, drainable oil
 
 datum
 imaginary vertical plane or line from which all measurements of arm are taken, established by manufacturer
@@ -2219,7 +2216,7 @@ notify ATC of deviation as soon as possible, submit a detailed report of emergen
 if radio fails in flight, what conditions must be met before landing at a controlled airport
 weather conditions must be at least basic VFR minimums, visual contact with tower is maintained, clearance to land is received
 
-at uncontrolled airport in class G or E, make left traffic unless:
+at uncontrolled airport in class G or E, make left traffic unless
 airport displays approved light signals or visual markings that indicate right traffic
 
 what altitude range do hemispheric rules apply: min, max
@@ -2279,10 +2276,10 @@ more stability
 what happens to CG as you deplete fuel
 more foreward
 
-use 75% EGT method of leaning the mixture when you want to maximize:
+use 75% EGT method of leaning the mixture when you want to maximize
 fuel economy
 
-use RPM method of leaning the mixture when you want to maximize:
+use RPM method of leaning the mixture when you want to maximize
 power and speed
 
 how to make sure you are never out of trim
@@ -2324,7 +2321,7 @@ where is mode C transponder required
 maximum airspeed within class C airspace
 200 knots <= 2500 ft above surface within 4 nm of primary airport
 
-required eqipment for class D
+required equipment for class D
 radio
 
 requirements for departing from satellite airport within class D
@@ -2388,7 +2385,7 @@ where to find info on VFR flyways, VFR corridors, and class B transition routes
 normally on reverse side of VFR terminal area chart (aka class B airspace chart)
 
 military training routes altitude ranges
-<= 1500 ft AGL are VFR (4-digit ids, e.g., VR 1008), > 1500 ft AGL are usually IFR (3-digit ids, eg., IR 003, VR 004)
+< 1500 ft AGL are VFR (4-digit ids, e.g., VR 1008), >= 1500 ft AGL are usually IFR (3-digit ids, eg., IR 003, VR 004)
 
 ADIZ locations
 domestic (along U.S. border), coastal, distant early warning identification zone (DEWIZ) over coastal waters of Alaska, land-based ADIZ over U.S. metro areas (activated via NOTAMs)
@@ -2427,7 +2424,7 @@ what does rotating beacon during daylight hours indicate for class B/C/D/E-surfa
 ground visibility is less than 3 miles and/or the ceiling is less than 1000 ft and that ATC clearance is required for landing, takeoff, and flight in traffic patterns
 
 types of airport signs
-mandatory instruction sign (red bg, white fg) for runway entrance, location sign (black bg, yellow fg, yellow border), direction sign (yellow bg, black fg) identifies the designation of the intersecting taxiway(s) leading out of an intersection, destination sign (yellow bg, black fg, arrows) provides info on locating runways/terminals/cargo-areas/civil-aviation-areas, information sign (yellow bg, black fg) provides information for things that can't be seen from the control tower, runway distane remaining sign (black bg, white fg) in thousands of feet
+mandatory instruction sign (red bg, white fg) for runway entrance, location sign (black bg, yellow fg, yellow border), direction sign (yellow bg, black fg) identifies the designation of the intersecting taxiway(s) leading out of an intersection, destination sign (yellow bg, black fg, arrows) provides info on locating runways/terminals/cargo-areas/civil-aviation-areas, information sign (yellow bg, black fg) provides information for things that can't be seen from the control tower, runway distance remaining sign (black bg, white fg) in thousands of feet
 
 color for runway, taxiway markings
 white, yellow
@@ -2500,3 +2497,6 @@ runway feet remaining in 1000's
 
 how is EMAS denoted on the chart supplement?
 white rectangle
+
+difference between tach time and Hobbs time
+tach time runs at half speed when idling and base speed at cruise, Hobbs time records how long the engine has been running
