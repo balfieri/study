@@ -963,7 +963,7 @@ three types of AIRMETs
 sierra, tango, zulu
 
 AIRMET sierra (S)
-IFR or mountain obscuration
+extensive mountain obscuration or IFR (less than 1000 feet and/or visibility less than 3 miles affecting over 50% of the area at one time)
 
 AIRMET tango (T)
 moderate turbulence, sustained surface winds >= 30 knots, or non-convective low-level wind shear
