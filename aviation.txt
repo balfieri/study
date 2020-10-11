@@ -2454,7 +2454,7 @@ actions to take if you encounter ice before flying
 get rid of it, turn aircraft into the sun, use credit card to scrape it, use deicing fluids, don't use hot water (to protect against metal fatigue)
 
 enhanced taxiway centerline
-150 ft before hold short line
+150 ft before runway hold-short line
 
 purpose of blast pad 
 off-limit area before takeoff over which thrust may go to avoid environmental damage
@@ -2475,7 +2475,7 @@ white zipper sign at airport
 restricted area for vehicles 
 
 dashed taxiway centerline
-taxiway hold short line
+taxiway hold-short line
 
 solid+dashed taxiway centerline
 taxiway non-movement-area / movement-area separation line
