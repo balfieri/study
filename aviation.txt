@@ -228,8 +228,8 @@ FSS, ATIS, HIWAS, FIS-B, ATC, Foreflight
 in-flight weather advisories
 AIRMET, SIGMET, convective SIGMET, CWA
 
-3 ways to navigate
-pilotage, dead reckoning, radio
+4 ways to navigate
+pilotage, dead reckoning, VOR, GPS
 
 RAIM
 receiver autonomous integrity monitoring
