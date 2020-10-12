@@ -2500,3 +2500,87 @@ white rectangle
 
 difference between tach time and Hobbs time
 tach time scales by RPMs, Hobbs time records how long the engine has been running at all
+
+runway hold position markings
+two solid yellow lines, two dashed yellow lines
+
+temporily closed runway or taxiway markings
+yellow crosses at each end of the runway, barricades or yellow cross at entrance to taxiway
+
+permanently closed runway or taxiway marking
+lighting disconnected, normal lines obliterated, yellow crosses placed along runway at 1000-ft intervals
+
+methods for determining proper runway and traffic pattern at airport without an operating control tower
+UNICOM/AWOS will provide wind direction, segmented circle markings with windsock
+
+procedures for departing pattern at uncontrolled airport
+straight out or exit with a 45-degree turn beyond the departure end of the runway after reaching pattern altitude
+
+publication that can clarify traffic pattern altitude for a particular airport
+chart supplement
+
+where to obtain ARTCC frequencies
+FSS or chart supplement
+
+distance from airport when making initial radio call
+15 miles
+
+it is necessary to request permission to leave ATC tower frequency once outside of class B/C/D surface area (yes/no)
+no
+
+order of radio facility usage when departing a controlled airport within class B/C/D airspace
+ATIS, clearance delivery, ground control, control tower, departure control
+
+order of radio facility usage when arriving at controlled airport within class B/C/D airspace
+ATIS, approach control, control tower, ground control
+
+website containing NOTAMs
+https://pilotweb.nas.faa.gov/PilotWeb/
+
+five categories of NOTAMs
+(D), FDC, pointer, SAA, military
+
+(D) NOTAM
+info that requires wide dissemination pertaining to nav aids, civic public-use airports, facilities, services, and procedures
+
+FDC NOTAM
+flight info that is regulatory in nature, including changes to IFR charts, procedures, and airspace usage
+
+POINTER NOTAM
+issued by an FSS to point to another NOTAM
+
+SAA NOTAM
+issued when special advisory airspace will be active outside published schedule times
+
+MILITARY NOTAM
+pertain to U.S. armed forces nav aids/airports that are part of the NAS
+
+(D) NOTAM keywords
+RWY, TWY, RAMP, APRON, AD, OBST, NAV, COM, SVC, AIRSPACE, (U) unverified, (O) other
+
+places to find NOTAM information
+FSS, FIS-B< NTAP (printed NOTAMs), DUATs vendors, https://www.faa.gov/pilots/flt_plan/notams/
+
+conditions where VFR flight plan must be filed
+when penetrating an ADIZ or DEWIZ, but still recommended for extended cross-country flights
+
+DVFR flight plan
+defense VFR flight into a coastal or domestic ADIZ/DEWIZ, and must be filed prior to departure
+
+a tower will automatically close your VFR flight plan when you land (yes/no)
+no
+
+time from ETA that FSS allows before beginning search-and-rescue efforts for your overdue flight
+30 minutes
+
+wake turbulence includes...
+vortices, thrust stream turbulence, jet blast, jet wash, prop wash, rotor wash - both on the ground and in the air
+
+greatest wing vortex strength occurs when the generating aircraft is
+heavy, clean, and slow
+
+runway width illusion
+narrower than usual runway creates illusion that aircraft is higher than it really is
+
+runway and terrain slope illusion
+upsloping will make aircraft appear higher than it really is
