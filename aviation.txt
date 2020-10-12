@@ -2584,3 +2584,57 @@ narrower than usual runway creates illusion that aircraft is higher than it real
 
 runway and terrain slope illusion
 upsloping will make aircraft appear higher than it really is
+
+cases where pilots should decline LAHSO
+compromises safety, weather is below basic VFR (3SM and 1000 ft ceilings)
+
+where to find available landing distance (ALD) data
+special noties section of the chart supplement, terminal procedures publications, ATC upon request
+
+collision avoidance procedures during climbs and descents
+execute gentle banks at frequency that allows continuous visual scanning
+
+drone restrictions
+< 400 ft AGL, daylight, clear of clouds
+
+things that contribute to runway incursions
+misunderstanding a clearance, failure to commnicate effectively, failure to navigate the airport correctly, unable to interpret airport signage, failure to maintain situational awareness
+
+information that should be consultated when planning taxi operations
+review airport signage/markings/lighting, review airport diagram, identify hot spots, review airfield NOTAMs and ATIS, conduct pre-taxi/pre-landing briefing, plan for critical times on route, plan to complete checklist items prior to taxi
+
+when issued taxi instructions, you may cross any runway that intersects your route (yes, no)
+no
+
+when receiving taxi instructions from ATC, a pilot should read back
+runway assignment, any clearance to enter a specific runway, any hold-short instruction, any line-up-and-wait instruction
+
+ways to maintain situational awareness while taxiing
+have airport diagram readily available, monitor ATC instructions to other aircraft, focus outside the cockpit, use all available resource to keep the aircraft on the assigned route, check for traffic before crossing any hold-short line, when in doubt ask ATC
+
+aircraft lights that should be illuminated when crossing a runway
+all
+
+aircraft lights that should be illuminated when entering a departure runway for takeoff
+all except landing lights
+
+aircraft lights that should be illuminated when cleared for takeoff
+all including landing lights
+
+hazards at airports with calm wind conditions
+aircraft landing and taking off on multiple runways, IFR flights may be using instrument approaches on runways other than intended for VFR flight
+
+if you land and miss your assigned taxiway for exiting the runway, you may turn around and return to the exit taxiway at a tower-controlled airport (yes/no)
+no
+
+ATC tells you to line up and wait, but does not tell you to take off, time you should wait before contacting ATC
+90 seconds max
+
+ways to enhance aircraft security
+lock aircraft, do not leave keys in unattended aircraft, use secondary locks (e.g., locking tie down), lock hanger when unattended
+
+procedures that you should review regularly
+limitations on ramp access, standards for securing aircraft to ramp, securing access to keys at all times, use of secondary locks, after-hours or weekend access procedures
+
+ways to report suspicious activity
+alert airport/FBO management, contact local law enforcement if immediate threat, contact 866-GA-SECURE hotline
