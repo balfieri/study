@@ -603,7 +603,7 @@ magnetic heading, magnetic deviation
 action to take if you are landing just as a large aircraft is taking off
 land well short of takeoff point
 
-action to take you are taking off just as large aircraft landed
+action to take if you are taking off just as large aircraft landed
 take off well past the touch-down point
 
 Explain the hemispheric rule
@@ -795,7 +795,7 @@ must take special class, file special DC FRZ flight plan
 172SP tire inflation PSI (mains, nose)
 38, 45
 
-speed at which you the main tires hydroplane
+speed at which the main tires hydroplane
 9*sqrt(PSI)
 
 instruments that use the pitot tube
@@ -2183,7 +2183,7 @@ upon request, send a written report to the Administrator
 with regard to alcohol and drugs a pilot may not fly
 within 8 hours of consuming any alcoholic beverage, while under influence, while using any drug that affects safety, with an alcohol concentration level of at least 0.04%
 
-a pilot carry a person who is under the influence of drugs or alcohol (yes/no)
+pilot may carry a person who is under the influence of drugs or alcohol (yes/no)
 no, except in an emergency
 
 situations where no-portable-electronic devices rule applies
