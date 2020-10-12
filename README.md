@@ -13,7 +13,8 @@ Example of running the italian questions:
     ./run.py italian
     ./run.py italian 100                -- same, but 100 questions instead of default of 20
     ./run.py italian 0                  -- same, but ALL questions instead of default of 20
-    ./run.py italian 0 3                -- same, but ALL questions and just print the question and answer with 3-second delays
+    ./run.py italian 0 3                -- same, but ALL questions and just print the question 
+                                           and answer with 3-second delays
 
 This is all open-source.  Refer to the LICENSE.md for licensing details.  
 
