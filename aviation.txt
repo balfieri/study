@@ -52,7 +52,7 @@ FLAPS (required equipment for VFR night flight)
 fuses, landing lights (for hire), anti-collision lights, position lights (nav lights), source of electricity
 
 SAFETY
-seatbelts, air conditioning, fire extinguisher, exits, talking, your questions
+seatbelts, air vents, fire extinguisher, exit doors and windows, talking and traffic scanning, your questions
 
 when you do NOT need an ELT
 when engaged with training within 50 nm of origin, when engaged in design and testing, when engaged in manufactor/preparation/delivery, when engaged in agricultural operations
