@@ -18,7 +18,7 @@ Example of running the italian questions:
 
 This is all open-source.  Refer to the LICENSE.md for licensing details.  
 
-By the way, there is a roundabout way to run this on iOS. Use an app called Working Copy to clone this git repo, then use another app called PyTo to run the Python interpreter on iOS. You will need to enable Working Copy to be a Files "location" in order for PyTo to see the repo on your phone.  Once it's set up, you just need to "git pull" the repo occasionally. It's a pain to type answers on iOS, so this is a perfect place where you'll likely want it to just print the question and answer rather than prompting you.
+By the way, there is a roundabout way to run this on iOS. Use an app called Working Copy to clone this git repo, then use another app called PyTo to run the Python interpreter on iOS. You will need to enable Working Copy to be a Files "location" in order for PyTo to see the repo on your phone.  Once it's set up, you just need to "git pull" the repo occasionally. It's a pain to type answers on iOS, so this is a perfect place where you'll likely want it to just print the questions and answers with delays.
 
 Bob Alfieri<br>
 Chapel Hill, NC
