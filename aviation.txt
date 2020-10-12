@@ -2638,3 +2638,72 @@ limitations on ramp access, standards for securing aircraft to ramp, securing ac
 
 ways to report suspicious activity
 alert airport/FBO management, contact local law enforcement if immediate threat, contact 866-GA-SECURE hotline
+
+function of cones
+located in back of the eye, detect color/detail/faraway-objects, less sensitive to light
+
+function of rods
+peripheral vision, not good at detecting color/detail, more light sensitive than rods
+
+average time for rods and cones to become adapted to darkness
+cones take 5 to 10 minutes, rods take 30 minutes
+
+actions pilots should take to accommodate low light conditions
+allow enough time for eyes to adapt to low light levels, avoid exposure to bright light
+
+illusion that pilot should be on the lookout for when approaching a well-lit runway surrounded by dark features
+featureless terrain illusion
+
+ways pilots can maintain good eyesight
+avoid fatigue, colds, vitamin deficiency, alcohol, stimulants, smoking, or medications
+
+ways pilots can improve effectiveness of night vision
+adapt lights to darkness (30 minutes), use supplemental oxygen over 5000 ft, close one eye when exposed to bright light, do not wear sunglasses, move eyes more slowly, blink eyes if blurry, concentrate on seeing objects, force eyes to view off-center, maintaing good physical condition, avoid smoking/drinking/harmful-drugs
+
+equipment pilots should have for night flight
+2 flashlights with both white and red light, spare set of batteries, aeronautical charts
+
+arrangement of position lights
+red on left wingtip, green on right wingtip, white on tail
+
+a PIC may turn off anti-collision lights in the interest of safety (yes/no)
+yes
+
+runway edge light system
+red at end, green at threshold, yellow toward end, white along edge
+
+runway centerline lighting system
+white until last 3000 ft of runway, then alternating red and white for 2000 ft, then 1000 ft of red only
+
+taxiway centerline light color
+green
+
+taxiway clearance bar light color
+yellow
+
+taxiway runway guiard light color
+flashing yellow
+
+taxiway stop bar lights
+red
+
+types of obstruction lighting
+aviation red obstruction lights during nighttime, medium and high intensity white obstruction lights during daytime, dual lighting, combination of previous two, catenary flashing white markers for high voltage transmission lines and support structures
+
+minutes pilot-controled lights stay on once keyed
+15
+
+extra precautions during startup/taxi/run-up phases during night flight
+clearing the prop, taxi slowly
+
+guidelines during takeoff and departure during night flight
+use runway edge lights to align, maintain positive rate of climb using altimeter, do not initiate turns until reaching safe maneuvering altitude, turn off landing lights after climb
+
+guidelines to maintain proper orientation and navigation during night flight
+avoid flying into clouds, acquire competency in recovery from unusual attitudes, practice with all cockpit lights off, continutally monitor position/time/fuel 
+
+best places for night time emergency landing
+interstate highway, roads, parking lots
+
+extra procedures during nighttime approach and landing
+fly toward beacon until lights are activated, avoid use of excessive speed
