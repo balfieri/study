@@ -4,9 +4,9 @@ There's another mode where you can tell it to simply print the question, pause, 
 
 There are a few text files provided for various topics of my interest. Feel free to use them or add your own:
 
-italian.txt<br>
-french.txt<br>
-aviation.txt - private pilot checkride oral exam<br>
+    italian.txt
+    french.txt
+    aviation.txt                        -- private pilot checkride oral exam
 
 Example of running the italian questions:
 
