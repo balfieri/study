@@ -2030,7 +2030,7 @@ try different power setting, richen mixture
 most susceptible to vapor formation when
 above 80F, idle speeds
 
-actions to take when you suspect vapor formation
+actions to take when you suspect vapor formation while still on the ground
 power to 1800-2000 RPM for two minutes, return to 1200 RPM, lean for idle, apply full throttle for 10 sec at start of takeoff
 
 172SP can lean using EGT method only when operating no more than what percent power
