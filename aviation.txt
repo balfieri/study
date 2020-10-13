@@ -2778,7 +2778,7 @@ risk
 future impact of a hazard that is not controlled or eliminated
 
 use of PAVE to assess risk
-PIC (IMSAFE, proficiency, currency), aircraft (airworthiness, equipment, perf capability), environment (weather, terrain, airport's/runways, conditions), external pressures (hurry, desire to impress)
+PIC (IMSAFE, proficiency, currency), aircraft (airworthiness, equipment, perf capability), environment (weather, terrain, airports/runways, conditions), external pressures (hurry, desire to impress)
 
 how to use 3P model of risk management
 perceive current hazards, process impact and solutions, perform best course if action
@@ -2828,7 +2828,7 @@ alternator circuit breaker pops out
 problem selecting fuel tank less than 1/4 full
 during a prolonged bank, furl can get pushed out to the tip and cause transient furl starvation
 
-things fuel strainer filters out
+things that fuel strainer filters out
 water, sedinent
 
 another name for anti-collision light
