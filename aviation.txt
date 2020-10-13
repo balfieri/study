@@ -484,7 +484,7 @@ seatbelts that can be broken
 those in unoccupied seats
 
 meaning of pressure altitude
-vertical distance above the standard datum plane, or pressure corrected for standard pressure
+pressure altitude is the height above a standard datum plane (SDP), which is a theoretical level where the weight of the atmosphere is 29.92 inches of mercury
 
 practial meaning of pressure altitude
 indicated altitude when altimeter is set to 29.92
