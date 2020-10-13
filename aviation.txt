@@ -886,7 +886,7 @@ cause of adverse yaw
 drag from the downward aileron is greater than the upward aileron
 
 detonation
-uncontrolled firing of fuel/air mixture after the intended spark
+uncontrolled firing of fuel/air mixture after the intended spark, mixture violently explodes rather than burning smoothly
 
 causes of detonation
 excess temperature, low-octane fuel, extremely high manifold presssures with low RPM, excessively lean mixture with high RPM, extended ground operations or steep climbs where cylinder cooling is reduced
@@ -2801,5 +2801,44 @@ callouts, verification checks, verify flight plan entered correctly, verify wayp
 operational procedures to avoid CFIT
 maintain SA, sterile cockpit, familiarize yourself with surrounding terrain and obstacles, adhere to published routes and minimum altitudes, don't become complacent
 
-most important things to be aware if with AP
-know which modes are engaged and armed, ensure proper power to maintain level altitilude
+most important things to be aware of with AP
+know which modes are engaged and armed, ensure proper power to maintain level altitude
+
+reason to avionics master switch off before powering on/off engine
+voltage surges can damage sensitive com/nav electronics
+
+typical condition for vapor lock
+hot engine
+
+how to test pitot heat
+look for deflection in ammeter, see if tube gets warm
+
+parts if fuel system
+fuel tanks, fuel lines, strainer, engine/aux fuel pumps, fuel/air control unit
+
+purpose if turbocharger
+increase pressure of induction air (using exhaust driven turbine) at high altitudes in particular
+
+BAT vs ALT switches
+BAT enables electrical power to flow from alternator or battery, ALT turns on alternator
+
+what happens after transient over-voltage condition
+alternator circuit breaker pops out
+
+problem selecting fuel tank less than 1/4 full
+during a prolonged bank, furl can get pushed out to the tip and cause transient furl starvation
+
+things fuel strainer filters out
+water, sedinent
+
+another name for anti-collision light
+beacon
+
+another name for position lights
+nav lights
+
+placement of ammeter
+between alternator and battery
+
+purposes of fuel vents
+prevent negative pressure build-up, allow for fuel overflow due to environmental heating
