@@ -2718,16 +2718,16 @@ cause of morion sickness
 continued stimulation of the inner ear
 
 actions to deal with motion sickness
-open vents, loosen clothing, use oxygen, ficus on a point outside, avoid quick turns, keep head still, terminate flight as soon as practical
+open vents, loosen clothing, use oxygen, focus on a point outside, avoid quick turns, keep head still, terminate flight as soon as practical
 
 ear block
-when Eustachian tube won't ooen during descent due to a cold or other respiratory illness, creates pain due to pressure build- up
+when Eustachian tube won't open during descent due to a cold or other respiratory illness, creates pain due to pressure build- up
 
 pilots must self-ground when
-they have any condition or are taking medication that would make them ineligible for a medical certificate
+they have any condition (or are taking medication) that would make them ineligible for a medical certificate
 
 rule of thumb with medication
-take no medication while fly, unless approved by your AME
+take no medication while flying unless approved by your AME
 
 single-pilot resource management (SRM)
 art and science of managing all available resources on the ground and in flight to ensure the successful outcome of the flight
@@ -2736,7 +2736,7 @@ SRM skills
 ADM, risk management (RM), task management (TM), automation management (AM), CFIT awareness, situational awareness
 
 explain 5 P's for SRM
-plan (weither, route, publications, ATC reroutes/delays, fuel), plane (mechanical status, automation status, database currency, backup systems), pilot (IMSAFE), passengers (helpfulness, nervousness, queasiness), programming (AP, GPS, MFD/PFD, preload where possible, continual verification)
+plan (weather, route, publications, ATC reroutes/delays, fuel), plane (mechanical status, automation status, database currency, backup systems), pilot (IMSAFE), passengers (helpfulness, nervousness, queasiness), programming (AP, GPS, MFD/PFD, preload where possible, continual verification)
 
 when pilot should use 5 P's
 preflight, pre-takeoff, hourly or midpoint, pre-descent, just prior to entering traffic pattern, emergency situation
