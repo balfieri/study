@@ -2316,7 +2316,7 @@ types of terminal radar services for VFR aircraft
 basic radar service (safety, alerts, traffic advisories, limited radar vectoring, sequencing), TRSA (radar), class C service (basic radar, separation between IFR and VFR, sequencing of VFR arrivals to primary airport), class B services (similar to class C services)
 
 where is mode C transponder required
->= 10000 ft MSL over 48 contig stats or DC excluding airspace below 2500 AGL, within 30 miles of class B primary airport, within and above all class C airspace up to 10000 ft MSL, within 10 miles of certain designated airports excluding outside class D surface area and below 1200 AGL, ADIZs
+>= 10000 ft MSL over 48 config stats or DC excluding airspace below 2500 AGL, within 30 miles of class B primary airport, within and above all class C airspace up to 10000 ft MSL, within 10 miles of certain designated airports excluding outside class D surface area and below 1200 AGL, ADIZs
 
 maximum airspeed within class C airspace
 200 knots <= 2500 ft above surface within 4 nm of primary airport
