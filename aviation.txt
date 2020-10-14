@@ -31,7 +31,7 @@ PAVE
 pilot, aircraft, environment, external pressures
 
 DECIDE in-flight risk assessment
-detect, estimate, choose, identify, do, evaluate
+detect, estimate, choose most desirable outcome, identify actions to effect outcome, do, evaluate
 
 PPP
 perceive, process, perform
@@ -2714,14 +2714,17 @@ above 5000 ft at night, above 10000 ft during the day
 importance if CO2 in the blood
 regulates the breathing process
 
-cause of morion sickness
+cause of motion sickness
 continued stimulation of the inner ear
 
+symptoms of motion sickness
+vomiting, having a sick look on your face, person feeling queasy, nausea, discomfort, paleness, dizzy, sweating
+
 actions to deal with motion sickness
-open vents, loosen clothing, use oxygen, focus on a point outside, avoid quick turns, keep head still, terminate flight as soon as practical
+open vents, loosen clothing, use oxygen, focus on a point outside, avoid quick turns, keep head still, terminate flight as soon as practical, let passengers know to tell you if they feel motion sickness
 
 ear block
-when Eustachian tube won't open during descent due to a cold or other respiratory illness, creates pain due to pressure build- up
+when Eustachian tube won't open during descent due to a cold or other respiratory illness, creates pain due to pressure build-up
 
 pilots must self-ground when
 they have any condition (or are taking medication) that would make them ineligible for a medical certificate
@@ -2750,6 +2753,9 @@ define problem, choose course of action, implement decision, evaluate outcome
 PPP vs. DECIDE models of ADM
 PPP runs in a continuous loop, DECIDE is for particular problems
 
+macho antidote
+taking chances is foolish
+
 anti-authority antidote
 follow the rules - they are usually right
 
@@ -2760,13 +2766,13 @@ invulnerability antidote
 it could happen to me
 
 resignation antidote
-i can make a difference, i am not helpless
+I can make a difference, i am not helpless (and maybe ask for help)
 
 first step in neutralizing a hazardous attitude
 recognition of hazardous thoughts
 
 risk management
-logical process of weighing potential risks against the potential benefits of not controlling those risks
+logical process of weighing potential risks against the potential benefits of not controlling those risks, severity * probability
 
 hazard
 present condition that could lead to an undesired event such as an accident
@@ -2799,7 +2805,7 @@ how to ensure that TAA enhances situational awareness
 callouts, verification checks, verify flight plan entered correctly, verify waypoints, use VOR to back up GPS, stay within personal limitations
 
 operational procedures to avoid CFIT
-maintain SA, sterile cockpit, familiarize yourself with surrounding terrain and obstacles, adhere to published routes and minimum altitudes, don't become complacent
+always maintain situation awareness, good flight plan, maintain SA, sterile cockpit, familiarize yourself with surrounding terrain and obstacles, don't become complacent, flight following, fly stabilized approach, monitoring instruments regulars, understand minimum safe altitudes
 
 most important things to be aware of with AP
 know which modes are engaged and armed, ensure proper power to maintain level altitude
@@ -2905,3 +2911,30 @@ yes, turn off and placard transponder, stay out of class B/C, obtain SFP from th
 
 you can still fly during the day without landing lights (yes/no)
 yes, but must placard inoperative switch
+
+all the ways to kill altitude without flaps 
+cut power and pitch up
+
+currency requirements for towing a glider
+three simulated or actual tows within 12 calendar months, 24 months for additional ratings
+
+limitations of using airplane for charity
+no more 25 SM from airport, use of public airport, still limited by pro rata share
+
+difference in aircraft in PAVE vs. 5 P's
+PAVE requires aircraft that is perf capable
+
+reasons for using checklists
+remember items, remember items in proper order
+
+issues with checklists
+easy to skip items, heads-down problem, wrong checklist, not readily accessible, not saying things out loud, do-verify easy to miss something
+
+situational awareness
+observe entire surroundings, be aware of what everyone is doing, observe birds, keep fake map and putting everything on the map, practice at uncontrolled field
+
+better to land on an interstate against traffic rather than with traffic (yes/no)
+yes
+
+better to land up a hill rather than down (yes/no)
+yes
