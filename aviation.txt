@@ -2826,7 +2826,7 @@ what happens after transient over-voltage condition
 alternator circuit breaker pops out
 
 problem selecting fuel tank less than 1/4 full
-during a prolonged bank, furl can get pushed out to the tip and cause transient furl starvation
+during a prolonged bank, fuel can get pushed out to the tip and cause transient fuel starvation
 
 things that fuel strainer filters out
 water, sedinent
