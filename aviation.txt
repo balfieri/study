@@ -2842,3 +2842,66 @@ between alternator and battery
 
 purposes of fuel vents
 prevent negative pressure build-up, allow for fuel overflow due to environmental heating
+
+requirements to act as safety pilot
+hold PPL and be current, endorsed to act as PIC in type in question
+
+FAA pilot proficiency program (WINGS)
+on-going flight training throughout the year, www.faasafety.gov, webinars and practical training, meets recency requirements as prescribed in 61.56(e)
+
+considerations for choosing true course
+terrain, easily identifiable checkpoints, com/nav radio reception, airspaces, weather avoidance
+
+considerations for choosing cruise altitude
+terrain clearances, cloud clearances, hemispheric rules, airspaces, favorable winds, allows use of visual checkpoints, best for aircraft performance (true airspeed vs economical fuel burn vs time in flight), personal minimums
+
+precise fuel calculations include
+start, runup, taxi, takeoff and climb, cruise, descent and landing, taxi to ramp, 30 minutes reserve
+
+reasons for nav log
+part of "all available information," mental rehearsal for all phases of flight, ensures adequate fuel; in-flight monitoring of ground speed, fuel consumption, planning ahead, preventing getting lost, remembering of routine tasks, assisting in diversion to an alternate
+
+considerations for picking an airport for a fuel stop
+familiar airspace, runway lengths and orientation to wind, size not too big or small, amenities, price of fuel and parking
+
+recommended runway length minimum safety margin
+50%
+
+ways to obtain weather before flight
+night before look at charts on aviationweather.gov and call FSS to obtain outlook briefing, get standard briefing two hours before flight to complete nav log, call FSS shortly before flight to get abbreviated briefing
+
+how to use weather charts
+print off surface analysis chart, weather depiction chart, and significant weather prognostic chart and understand what you see on them
+
+types of weather forecasts to obtain
+area forecast, TAF, winds and temperature aloft
+
+ways to obtain updated weather information in-flight
+ADS-B / FIS-B radios, ATIS/AWOS/ASOS, HIWAS, contact FSS for questions and latest PIREPs, ask ATC
+
+what to do if class D ATIS says 2SM visibility
+fly and land in class G airspace where 1SM and clear is available, fly in class G and request SVFR clearance at class D airport
+
+information needed and sources for on-the-fly diversion airport
+airspace, runway length and elevation, com frequencies;  GPS database, sectional chart, chart supplement
+
+problems you may encounter with a dead battery
+no flaps (some planes), fuel gauges will not work, no lights at night, no turn coordinator, no com/nav radio unless we have a portable backup
+
+ensuring collision avoidance
+clean windshield, organize cockpit to avoid head-down time, keep head look out during maneuvers, on ground stop to copy down info, scan for traffic, do jot practice maneuvers over places where traffic converges, enter traffic pattern at proper place and altitude, listen to traffic on frequencies, use anti-collision lights, request flight following, use landing light at night
+
+PAVE vs 5P
+PAVE encourages pilot to react to unacceptable risk elements, 5P encourages pilot to be proactive
+
+anticipating pilots who might get motion sickness
+keep then in the front seat
+
+things to avoid for very long flights
+hypoxia, dehydration, fatigue
+
+you can still fly if the transponder and annual inspection are out of date (yes/no and why)
+yes, turn off and placard transponder, stay out of class B/C, obtain SFP from the FSDO
+
+you can still fly during the day without landing lights (yes/no)
+yes, but must placard inoperative switch
