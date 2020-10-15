@@ -37,6 +37,12 @@ filename = sys.argv[1] + '.txt'
 question_cnt = int(sys.argv[2]) if len( sys.argv ) >= 3 else 20
 skip_prompts = len(sys.argv) >= 4
 skip_pause_sec = int(sys.argv[3]) if skip_prompts else 0
+file_start_pct = int(sys.argv[4]) if len(sys.argv) >= 5 else 0
+file_end_pct   = int(sys.argv[5]) if len(sys.argv) >= 6 else 100
+if file_start_pct < 0 or file_end_pct < 0: die( 'file_start_pct and file_end_pct must be >= 0' )
+if file_end_pct > 100: die( 'file_end_pct must be <= 100' )
+if file_start_pct >= file_end_pct: die( 'file_start_pct must be < file_end_pct' )
+
 Q = open( filename, 'r' )
 all_questions = []
 line_num = 0
@@ -65,12 +71,16 @@ random.seed( time.time() )
 
 all_question_cnt = len( all_questions ) >> 1
 if all_question_cnt == 0: die( 'no questions found in ' + filename )
+all_question_first = int(file_start_pct*all_question_cnt/100.0)
+all_question_last  = min(int(file_end_pct*all_question_cnt/100.0), all_question_cnt-1)
+all_question_used_cnt = all_question_last - all_question_first + 1
+
 if question_cnt == 0: 
-    question_cnt = all_question_cnt
+    question_cnt = all_question_used_cnt
 else:
-    question_cnt = min( question_cnt, all_question_cnt )
+    question_cnt = min( question_cnt, all_question_used_cnt )
     question_cnt = max( 1, question_cnt )
-print( f'Number of questions in the file is {all_question_cnt}, using {question_cnt}\n' )        
+print( f'Number of questions in the file is {all_question_cnt}, using questions {all_question_first}..{all_question_last}, asking {question_cnt} questions\n' )        
 
 while True:
     #-----------------------------------------------------------------------
@@ -80,7 +90,7 @@ while True:
     asked = {}
     for i in range( question_cnt ):
         while True:
-            ii = rand_n( all_question_cnt )
+            ii = all_question_first + rand_n( all_question_used_cnt )
             if ii not in asked: break
         asked[ii] = True
         curr_questions.append( ii )
