@@ -969,7 +969,7 @@ AIRMET tango (T)
 moderate turbulence, sustained surface winds >= 30 knots, or non-convective low-level wind shear
 
 AIRMET zulu (Z)
-moderate icing (AIREMT provides freezing level heights)
+moderate icing (AIRMET provides freezing level heights)
 
 types of icing
 structural, induction system, instrument
