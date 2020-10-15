@@ -2895,7 +2895,7 @@ problems you may encounter with a dead battery
 no flaps (some planes), fuel gauges will not work, no lights at night, no turn coordinator, no com/nav radio unless we have a portable backup
 
 ensuring collision avoidance
-clean windshield, organize cockpit to avoid head-down time, keep head look out during maneuvers, on ground stop to copy down info, scan for traffic, do jot practice maneuvers over places where traffic converges, enter traffic pattern at proper place and altitude, listen to traffic on frequencies, use anti-collision lights, request flight following, use landing light at night
+clean windshield, organize cockpit to avoid head-down time, keep head looking out during maneuvers, on ground stop to copy down info, scan for traffic, do jot practice maneuvers over places where traffic converges, enter traffic pattern at proper place and altitude, listen to traffic on frequencies, use anti-collision lights, request flight following, use landing light at night
 
 PAVE vs 5P
 PAVE encourages pilot to react to unacceptable risk elements, 5P encourages pilot to be proactive
