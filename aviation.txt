@@ -2504,7 +2504,7 @@ tach time scales by RPMs, Hobbs time records how long the engine has been runnin
 runway hold position markings
 two solid yellow lines, two dashed yellow lines
 
-temporily closed runway or taxiway markings
+temporarily closed runway or taxiway markings
 yellow crosses at each end of the runway, barricades or yellow cross at entrance to taxiway
 
 permanently closed runway or taxiway marking
