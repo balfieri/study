@@ -2805,7 +2805,7 @@ how to ensure that TAA enhances situational awareness
 callouts, verification checks, verify flight plan entered correctly, verify waypoints, use VOR to back up GPS, stay within personal limitations
 
 operational procedures to avoid CFIT
-always maintain situation awareness, good flight plan, maintain SA, sterile cockpit, familiarize yourself with surrounding terrain and obstacles, don't become complacent, flight following, fly stabilized approach, monitoring instruments regulars, understand minimum safe altitudes
+always maintain situation awareness, good flight plan, sterile cockpit, familiarize yourself with surrounding terrain and obstacles, don't become complacent, use flight following, fly stabilized approach, monitor instruments regularly, understand minimum safe altitudes
 
 most important things to be aware of with AP
 know which modes are engaged and armed, ensure proper power to maintain level altitude
