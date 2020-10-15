@@ -2589,7 +2589,7 @@ cases where pilots should decline LAHSO
 compromises safety, weather is below basic VFR (3SM and 1000 ft ceilings)
 
 where to find available landing distance (ALD) data
-special noties section of the chart supplement, terminal procedures publications, ATC upon request
+special notes section of the chart supplement, terminal procedures publications, ATC upon request
 
 collision avoidance procedures during climbs and descents
 execute gentle banks at frequency that allows continuous visual scanning
