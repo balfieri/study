@@ -2819,10 +2819,10 @@ hot engine
 how to test pitot heat
 look for deflection in ammeter, see if tube gets warm
 
-parts if fuel system
+parts of fuel system
 fuel tanks, fuel lines, strainer, engine/aux fuel pumps, fuel/air control unit
 
-purpose if turbocharger
+purpose of turbocharger
 increase pressure of induction air (using exhaust driven turbine) at high altitudes in particular
 
 BAT vs ALT switches
