@@ -1622,6 +1622,12 @@ turbulent air, cumuliform clouds, showery precipitation, good visibility
 during significant precipitation, typical thickness of clouds
 at least 4000 ft
 
+vertical extent of class D airspace
+usually 2500 ft AGL, and look on chart in dashed box for MSL
+
+horizontal radius of class D airspace
+usually 5 nm
+
 types of info should you be aware of for icing
 location of fronts, cloud layers, freezing levels, air temperature and pressure
 
