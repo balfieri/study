@@ -642,7 +642,7 @@ same as hypoxia, rapid breathing, rapid heart rate
 how to relieve hyperventilation
 breath into bag, talk outloud
 
-where can you do daytime pattern work with 1SM visibility and low clouds
+where you can do daytime pattern work with 1SM visibility and low clouds
 class G airport if cloud ceiling is at least 1000 ft
 
 actions to take if we don't have an airport map or feel uncomfortable at the airport
@@ -756,7 +756,7 @@ it goes through a humidification process which could freeze at altitude
 reasons you would not descend at 1000 fpm or 1500 fpm
 could exceed Vno/Vne, uncomforable for passengers
 
-actions to take if all radios die, inluding handhel
+actions to take if all radios die, inluding handheld
 squawk 7600, go to uncontrolled airport, circle above, call approach on phone, enter traffic pattern, watch for light gun signals
 
 you should take your inexperienced passenger on your preflight (yes/no)
@@ -2231,7 +2231,7 @@ altitude range for which hemispheric rules apply: min, max
 when must ELT batteries be replaced
 transmitter in use for more than one cummulative hour, 50% of useful life has expired
 
-where is aerobatic flight not permitted
+where aerobatic flight is not permitted
 over congested areas, over open-air assembly of persons, within lateral boundaries of class B/C/D/E for an airport, within 4 nm of center line of a federal airway, below 1500 AGL, when visibility is less than 3 miles
 
 aerobatic flight
@@ -2321,7 +2321,7 @@ sequencing to primary airport, within airspace and outer area, basic radar outsi
 types of terminal radar services for VFR aircraft
 basic radar service (safety, alerts, traffic advisories, limited radar vectoring, sequencing), TRSA (radar), class C service (basic radar, separation between IFR and VFR, sequencing of VFR arrivals to primary airport), class B services (similar to class C services)
 
-where is mode C transponder required
+where mode C transponder is required
 >= 10000 ft MSL over 48 config stats or DC excluding airspace below 2500 AGL, within 30 miles of class B primary airport, within and above all class C airspace up to 10000 ft MSL, within 10 miles of certain designated airports excluding outside class D surface area and below 1200 AGL, ADIZs
 
 maximum airspeed within class C airspace
@@ -2417,7 +2417,7 @@ limited to only one engine of multiple, bent fairings or cowling, dented skin, s
 immediate notification of accident to NTSB is required even if no one got hurt (yes/no)
 yes
 
-where are accident/incident reports filed
+where accident/incident reports are filed
 local NTSB field office
 
 deadlines for filing an NTSB report
@@ -2565,7 +2565,7 @@ pertain to U.S. armed forces nav aids/airports that are part of the NAS
 RWY, TWY, RAMP, APRON, AD, OBST, NAV, COM, SVC, AIRSPACE, (U) unverified, (O) other
 
 places to find NOTAM information
-FSS, FIS-B< NTAP (printed NOTAMs), DUATs vendors, https://www.faa.gov/pilots/flt_plan/notams/
+FSS, FIS-B, NTAP (printed NOTAMs), DUATs vendors, https://www.faa.gov/pilots/flt_plan/notams/
 
 conditions where VFR flight plan must be filed
 when penetrating an ADIZ or DEWIZ, but still recommended for extended cross-country flights
@@ -2706,7 +2706,7 @@ guidelines during takeoff and departure during night flight
 use runway edge lights to align, maintain positive rate of climb using altimeter, do not initiate turns until reaching safe maneuvering altitude, turn off landing lights after climb
 
 guidelines to maintain proper orientation and navigation during night flight
-avoid flying into clouds, acquire competency in recovery from unusual attitudes, practice with all cockpit lights off, continutally monitor position/time/fuel 
+avoid flying into clouds, acquire competency in recovery from unusual attitudes, practice with all cockpit lights off, continually monitor position/time/fuel 
 
 best places for night time emergency landing
 interstate highway, roads, parking lots
@@ -2793,7 +2793,7 @@ use of PAVE to assess risk
 PIC (IMSAFE, proficiency, currency), aircraft (airworthiness, equipment, perf capability), environment (weather, terrain, airports/runways, conditions), external pressures (hurry, desire to impress)
 
 how to use 3P model of risk management
-perceive current hazards, process impact and solutions, perform best course if action
+perceive current hazards, process impact and solutions, perform best course of action
 
 factors that can decrease pilot's ability to manage workload
 environmental conditions, physiological stress, psychological stress
@@ -2901,7 +2901,7 @@ problems you may encounter with a dead battery
 no flaps (some planes), fuel gauges will not work, no lights at night, no turn coordinator, no com/nav radio unless we have a portable backup
 
 ensuring collision avoidance
-clean windshield, organize cockpit to avoid head-down time, keep head looking out during maneuvers, on ground stop to copy down info, scan for traffic, do jot practice maneuvers over places where traffic converges, enter traffic pattern at proper place and altitude, listen to traffic on frequencies, use anti-collision lights, request flight following, use landing light at night
+clean windshield, organize cockpit to avoid head-down time, keep head looking out during maneuvers, on ground stop to copy down info, scan for traffic, do not practice maneuvers over places where traffic converges, enter traffic pattern at proper place and altitude, listen to traffic on frequencies, use anti-collision lights, request flight following, use landing light at night
 
 PAVE vs 5P
 PAVE encourages pilot to react to unacceptable risk elements, 5P encourages pilot to be proactive
