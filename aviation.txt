@@ -2944,3 +2944,6 @@ yes
 
 better to land up a hill rather than down (yes/no)
 yes
+
+difference between VOR-DME and VORTAC
+VOR-DME is VOR+DME, VORTAC is a VOR+TACAN, TACAN includes DME, so to civilians the two are the same
