@@ -2947,3 +2947,6 @@ yes
 
 difference between VOR-DME and VORTAC
 VOR-DME is VOR+DME, VORTAC is a VOR+TACAN, TACAN includes DME, so to civilians the two are the same
+
+what to do if a fighter jet pulls up alongside you on the pilot side
+rock wings, flash nav lights at night, tune to 121.5, squawk 7700 unless otherwise requested, follow jet if it makes a slow turn
