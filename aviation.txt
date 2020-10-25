@@ -1820,9 +1820,6 @@ takeoff distance, fuel/time/distance-to-climb, cruise/range, crosswind/headwind 
 172SP maximum oil temperature in C
 118
 
-172SP minimum, maximum oil pressure in PSI
-20, 115
-
 purposes of flaps
 lower airspeed, allow steeper descent, shorten takeoff distance
 
@@ -2963,5 +2960,38 @@ ask briefer if radius intersects route of flight, and possible view TFR details 
 normal height above runway threshold if on glide slope
 50 feet
 
-C172SP nose wheel turns in flight when rudder pedal pressed (yes/no)
+172SP nose wheel turns in flight when rudder pedal pressed (yes/no)
 yes
+
+172SP white arc min,max KIAS
+40, 85
+
+172SP green arc min,max KIAS
+48, 129
+
+172SP yellow arc min,max/redline KIAS
+129, 163
+
+172SP max window open speed KIAS
+163
+
+172SP propeller manufacturer, model, min diameter(in), max diameter(in)
+McCauley Propeller Systems, 1A170E/JHA7660, 75, 76
+
+172SP tach sea level range min,max
+2100, 2500
+
+172SP tach 5000 ft level range min,max
+2100, 2600
+
+172SP tach 10000 ft level range min,max/redline
+2100, 2700
+
+172SP oil temperature min,max (F)
+100, 245
+
+172SP oil pressure min-redline,green min,green max,max-redline
+20, 50, 90, 115
+
+172SP fuel flow min,max GPU
+0, 12
