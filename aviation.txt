@@ -2950,3 +2950,18 @@ VOR-DME is VOR+DME, VORTAC is a VOR+TACAN, TACAN includes DME, so to civilians t
 
 what to do if a fighter jet pulls up alongside you on the pilot side
 rock wings, flash nav lights at night, tune to 121.5, squawk 7700 unless otherwise requested, follow jet if it makes a slow turn
+
+ACS
+Airmen Certification Standards
+
+what the ACS covers
+Subjects and maneuvers that are covered in the checkride, including tolerances
+
+how to respond to TFRs
+ask briefer if radius intersects route of flight, and possible view TFR details on tfr.faa.gov
+
+normal height above runway threshold if on glide slope
+50 feet
+
+C172SP nose wheel turns in flight when rudder pedal pressed (yes/no)
+yes
