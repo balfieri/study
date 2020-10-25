@@ -2981,9 +2981,6 @@ ask briefer if radius intersects route of flight, and possible view TFR details 
 normal height above runway threshold if on glide slope
 50 feet
 
-172SP nose wheel turns in flight when rudder pedal pressed (yes/no)
-yes
-
 172SP white arc min,max KIAS
 40, 85
 
