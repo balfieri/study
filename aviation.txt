@@ -3043,3 +3043,12 @@ temperatures, altimeter
 
 172SP nosewheel in flight turns when you press the rudder pedals (yes/no)
 no, nose wheel locked straight while in flight, bungee cords work only on the ground and only a little
+
+decode 2447-29 winds/temp
+240 @ 47 kt, -29C
+
+decode 990023 winds/temp
+light and variable, 23C
+
+decode 750247
+250 @ 102 kt, -47C
