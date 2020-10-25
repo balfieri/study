@@ -3040,3 +3040,6 @@ TAF radius in miles
 
 things in METAR not in TAF
 temperatures, altimeter
+
+172SP nosewheel in flight turns when you press the rudder pedals (yes/no)
+no, nose wheel locked straight while in flight, bungee cords work only on the ground and only a little
