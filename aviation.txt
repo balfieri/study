@@ -1193,6 +1193,9 @@ drizzle
 +DZ
 heavy drizzle
 
+RADZ
+rain and drizzle
+
 SN
 snow
 
