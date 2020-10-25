@@ -205,7 +205,7 @@ FIS-B (meaning, MHZ)
 flight information service - broadcast, 978
 
 HIWAS (meaning, MHz)
-hazardous inflight weather advisory service, all except emergency
+hazardous inflight weather advisory service, designated VOR frequencies (HIWAS no longer exists, FIS-B)
 
 AWOS
 automatic weather observation system
@@ -1178,8 +1178,20 @@ volcanic ash
 RA
 rain
 
+-RA
+light rain
+
++RA
+heavy rain
+
 DZ
 drizzle
+
+-DZ
+drizzle
+
++DZ
+heavy drizzle
 
 SN
 snow
@@ -2074,6 +2086,12 @@ distance measuring equipment
 
 frequency range of VORs in MHz: min, max
 108, 117.95
+
+TIS-B
+traffic information broadcast part of ADS-B
+
+TIS-B frequency MHz
+1090
 
 VOR radial
 line of magnetic bearing extending from a VOR; an aircraft on the 360-degree radial will always be located north of the station
@@ -2995,3 +3013,30 @@ McCauley Propeller Systems, 1A170E/JHA7660, 75, 76
 
 172SP fuel flow min,max GPU
 0, 12
+
+METAR wind direction (true/magnetic)
+true
+
+RVR
+runway visual range
+
+visibility at which mist is reported in METAR
+< 7 SM
+
+visibility at which mist changes to fog in METAR
+< 5/8 SM
+
+visibility at which haze (dry particles) is reported in METAR
+no cutoff
+
+AWOS vs. ASOS
+ASOS can pick up more data for forecasts for TAF, converts winds to magnetic
+
+ATIS vs. AWOS/ASOS
+includes airport information, has human intervention (usually, so no AUTO), always ASOS as base mechanism
+
+TAF radius in miles
+5
+
+things in METAR not in TAF
+temperatures, altimeter
