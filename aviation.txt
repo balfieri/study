@@ -1185,7 +1185,7 @@ DZ
 drizzle
 
 -DZ
-drizzle
+light drizzle
 
 +DZ
 heavy drizzle
