@@ -2702,7 +2702,7 @@ green
 taxiway clearance bar light color
 yellow
 
-taxiway runway guiard light color
+taxiway runway guard light color
 flashing yellow
 
 taxiway stop bar lights
