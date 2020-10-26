@@ -642,9 +642,6 @@ same as hypoxia, rapid breathing, rapid heart rate
 how to relieve hyperventilation
 breath into bag, talk outloud
 
-where you can do daytime pattern work with 1SM visibility and low clouds
-class G airport if cloud ceiling is at least 1000 ft
-
 actions to take if we don't have an airport map or feel uncomfortable at the airport
 request progressive taxi instructions
 
@@ -3052,3 +3049,30 @@ light and variable, 23C
 
 decode 750247
 250 @ 102 kt, -47C
+
+class G visibility and cloud clearance up to 1200 ft AGL during the day
+1 SM, clear of clouds
+
+class G visibility and cloud clearance above 1200 ft AGL during the day
+1 SM, 1-5-2
+
+class G visibility and cloud clearance up to 1200 ft AGL at night
+3 SM, 1-5-2
+
+class G visibility and cloud clearance above 1200 ft AGL at night
+3 SM, 1-5-2
+
+class B visibility and cloud clearance, day or night
+3 SM, clear of clouds
+
+class C,D visibility and cloud clearance, day or night
+3 SM, 1-5-2
+
+class E visibility and cloud clearance < 10000 MSL, day or night
+3 SM, 1-5-2
+
+class E visibility and cloud clearance >= 10000 MSL, day or night
+5 SM, 1-1-1SM
+
+where you can do daytime pattern work with 1SM visibility and low clouds
+lass G airport if cloud ceiling is at least 1000 ft, otherwise just need to stay clear of clouds so just below them
