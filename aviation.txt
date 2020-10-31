@@ -652,10 +652,10 @@ meaning of closely spaced isobars
 high pressure gradient force, strong winds￼
 
 ridge
-extended area of high pressure, descending air
+elongated area of high pressure, descending air
 
 trough
-extended area of low pressure, rising air
+elongated area of low pressure, rising air
 
 standard lapse rate
 -2C per 1000 ft
@@ -1722,7 +1722,7 @@ how often is surface analysis chart updated
 every 3 hours
 
 weather depiction chart
-plot of weather conditions at selected METAR stations
+plot of weather conditions at selected METAR stations, usually shared by VFR, MVFR, IFR
 
 how often is weather depiction chart updated
 every 3 hours
@@ -3160,3 +3160,75 @@ areas of intense downdrafts near the ground that are associated with thunderstor
 
 hazards of microbursts
 downdrafts during takeoff/landing, wind shear
+
+average height of tropopause in mid-latitude regions of Earth
+37,000 ft
+
+layer below tropopause
+troposhere
+
+layer above tropopause
+stratosphere
+
+techniques pilots use to avoid convective weather in flight
+visual avoidance, lightning detection devices such as a Stormscope(R), NEXRAD radar via satellite downlink or ADS-B, aircraft radar, radio communication with FSS, ATC assistance if they are able
+
+TAF update interval, valid period
+6 hours, 24 or 30 hours
+
+adverse aerodynamic effects of frost or structural icing
+decreased lift, increased drag, increased stall speed, unexpected control problems, blocked or restricted movement of  control surfaces, tail-plane or horizontal stabilizer stall
+
+front represented by string of blue triangles, string of red semicircles, purple triangles+semicircles, read semicircles and blue trangles on alternating sides
+cold front, warm front, occluded front, stationary front
+
+determines amount of water air can hold
+temperature of air, warm can hold more than cold
+
+conditions associated with wind shear
+thunderstorms, low-level temperature inversions, frontal passsage, microbursts, jet stream
+
+occluded front occurs when
+warm air mass is trapped between two colder air masses and is forced aloft to higher levels
+
+weather associated with an occluded front
+combination of weather associated with warm front and cold front
+
+center weather advisory (CWA)
+unscheduled weather advisory disseminated by ATC to alert pilots of existing or anticipated adverse conditions with the next two hours; may modify or redefine an existing SIGMET
+
+Coriolis force
+rotational force from Earth's rotation, responsible for deflecting winds to the right in the northern hemisphere, so winds aloft will flow parallel to rather than across isobars
+
+likely to occur when less than 4-degree difference between temperature and dew point
+fog or low clouds
+
+moist air is more unstable than dry air (yes/no, why)
+yes, moist air cools at a slower rate than dry air so it will rise to a higher altitude 
+
+missing values in FD data occur when
+the MSL altitude is less than 1500 ft AGL
+
+flight hazards associated with thunderstorms
+severe turbulence, hail, lightening, icing
+
+lightning is always associated with
+thunderstorms
+
+general wind direction of the jet stream
+westerly to easterly
+
+seasonal changes to jet stream
+weaker and further north in the summer, opposite in winter
+
+low-level wind shear alert system (LLWAS)
+installed at some large airports, measures wind velocity and speed at various points at the airport, raises alarm when there are significant differences, ATC relays alert to pilots
+
+cause of freezing rain
+air temperature is higher than freezing at a higher altitude
+
+significance of freezing rain for aircraft
+rapid accumulation of structural icing
+
+ground evidence of freezing rain
+ice pellets on the ground
