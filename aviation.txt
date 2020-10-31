@@ -3232,3 +3232,33 @@ rapid accumulation of structural icing
 
 ground evidence of freezing rain
 ice pellets on the ground
+
+difference in markings between blast pad and displaced threshold
+wide column of arrows, narrow arrows
+
+signficant wake turbulence is not produced on takeoff before rotation (yes/no)
+yes
+
+standard traffic pattern altitude for prop-driven aircraft vs. large/turbine aircraft AGL (ft, ft)
+1000, 1500
+
+recommended traffic pattern entry for uncontrolled airport
+pattern altitude on downwind leg abeam the midpoint, 45-deg entry
+
+airport rotating beacon will be turned on in the daytime if the airport is IFR (yes/no)
+often, but it is not required
+
+red signs with white letters
+mandatory sign, denotes entry or intersection to runway
+
+three types of runway status lights (RWSL) at larger airports
+runway entrance lights (REL) are red when aircraft on final, takeoff hold lights (THL) double row on either side red when unsafe, runway intersection lights (TIL) red when unsafe to cross intersecting runway
+
+tri-color VASI shows
+red when below, green when on, amber when above
+
+how to determine wind direction at uncontrolled airport if radio broken
+overfly airport at higher altitude and observe wind sock
+
+2-bar vs. 3-bar VASI
+2-bar is for most aircraft, 3-bar has 2nd glide path for aircraft with high cockpits
