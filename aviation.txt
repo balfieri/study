@@ -3262,3 +3262,21 @@ overfly airport at higher altitude and observe wind sock
 
 2-bar vs. 3-bar VASI
 2-bar is for most aircraft, 3-bar has 2nd glide path for aircraft with high cockpits
+
+significance of PAPI lights flashing on and off
+aircraft and vehicles are on the runway
+
+runway numbers assigned (magnetic/true north)
+magnetic
+
+limitations of VASI for obstruction clearance
+only within 4nm of runway and 10 degrees of the extended centerline
+
+normal descent angle in degrees
+3
+
+basic wingtip vortices movement
+down and spread laterally apart
+
+weathr conditions that keep wingtip vortices near or over the runway
+light quartering crosswind
