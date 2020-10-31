@@ -661,7 +661,7 @@ standard lapse rate
 -2C per 1000 ft
 
 unstable atmosphere
-ambient lapse rate is greater than standard lapse rate
+ambient (actual) lapse rate is greater than standard lapse rate
 
 how to determine if atmosphere has a lot of moisture
 narrow dewpoint spread
@@ -3088,3 +3088,75 @@ lass G airport if cloud ceiling is at least 1000 ft, otherwise just need to stay
 
 TEMPO (in TAF)
 temporary conditions expected to last less than an hour
+
+weather prognostic charts
+show the expected general weather conditions in the future
+
+weather prog chart inside solid red line denotes
+expected IFR conditions
+
+weather prog chart inside scalloped blue line denotes
+expected MVFR conditions
+
+weather prog chart inside dashed orange line denotes
+moderate or greater turbulence
+
+weather prog chart inside dashed cyan line denotes
+altitude of the freezing level
+
+FD, update interval, valid period
+winds aloft forecast, 6 hours, 24 hours in future
+
+FA, update interval, valid period
+area forecast, 8 hours, 12 hours + 6 hours categorical outlook
+
+standing lenticular cloud indicates
+presence of a mountain wave, which is area of extreme turbulence on downwind side of a mountain ridge
+
+limitation of using NEXRAD radar via satellite downlink or via ADS-B
+delay of several minutes or even longer, so use only for strategic planning, not tactically
+
+when wind direction is reported in reference to true north
+METAR, TAF, FD
+
+when wind direction is reported in reference to magnetic north
+ATIS, AWOS, ASOS, ATC verbally
+
+air pressure decrease with altitude
+1 inch Hg per 1000 ft 
+
+aircraft experiences on windward (source) side of mountain vs. other side
+updrafts, downdrafts and possibly turbulence
+
+features used to assess severity of thunderstorms
+vertical height, severity of precipitation, speed of cell movement, association with squall line or front
+
+found in air below temperature inversion
+stable warm air, fog and low clouds
+
+weather condition conducive to forming a temperature inversion
+terrestrial radiation on a clear cool night with light wind
+
+three weather conditions for which PIREPs are particularly valuable
+turbulence, icing, cloud tops
+
+air mass vs. front
+large body of air having uniform temperature + moisture, zone of transition between two different air masses
+
+limitations of relying on ATC for weather avoidance
+their primary function is to provide safe separation between aircraft, so must not distract from those activities
+
+causes of tail-plane stall
+icing on horizontal stabilizer, raises nose; loss of negative lift from icing such as when flaps are deployed
+
+wind shear
+abrupt change in wind direction and/or speed
+
+how frost forms
+a collecting surface is at or below the dew point and the dew point is below freezing
+
+microburst
+areas of intense downdrafts near the ground that are associated with thunderstorms
+
+hazards of microbursts
+downdrafts during takeoff/landing, wind shear
