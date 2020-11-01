@@ -1886,6 +1886,9 @@ controlled class G airport that is in the process of becoming a class D airport,
 cause of carburator icing
 vaporization of fuel combined with expansion of air causes a sudden cooling of the mixture, water is squeezed out and could freeze
 
+indications of carburator icing
+gradual drop in RPM in fixed-propeller engine or gradual drop in manifold pressure in constant-speed propeller engine
+
 how to know if carburator icing has been eliminated
 when heat is first applied, there will be a drop in RPM, then rise, and then engine should run more smoothly
 
@@ -3278,5 +3281,80 @@ normal descent angle in degrees
 basic wingtip vortices movement
 down and spread laterally apart
 
-weathr conditions that keep wingtip vortices near or over the runway
+weather conditions that keep wingtip vortices near or over the runway
 light quartering crosswind
+
+common instruments that measure engine temperatures
+cylinder heat temperature (CHT), exhaust gas temperature (EGT), oil temperature, turbine inlet temperature (TIT)
+
+control that should be adjusted first with constant-speed propeller when power is increased
+increase RPM with propeller control, then increase manifold pressure with throttle (opposite order when power is decreased)
+
+how to adjust power setting for constant-speed propeller for cruise flight
+adjust throttle to cruise manifold pressure, and adjust propeller to a cruise RPM setting according to the POH
+
+what manifold pressure gauge actually measures
+pressure in the engine manifold and is controlled by throttle
+
+what manifold pressure guage measures when engine not running
+external air pressure
+
+four places to find FAA specified limitations for a specific airplane
+POH, attachments to airworthiness certificate, instrument markings, cockpit placards
+
+difference between an economy/lean mixture setting and a maximum power mixture setting with regard to EGT
+economy is usuallly at or just slightly rich of peak EGT, usually approximately 100F rich of peak EGT
+
+lean-of-peak mixture setting
+sometimes used in cruise; normally requires a fuel-injected aircraft with balanced injectors and enhanced engine instrumentation; results in maximum fuel economy with lower temperatures at the expense of a small reduction in power output
+
+effects of engine air intake area being obstructed due to icing
+many engines have alternate intake sources inside the cowling that are normally closed using a spring-loaded door that opens automatically if the main intake is blocked
+
+purpose of cowl flaps
+common in high-performance aircraft to increase airflow during ground operations, takeoff, and climb; opened slightly during descent and landing; normally closed or slightly open during cruise to optimize aerodynamic efficiency
+
+APU
+auxilliary power unit
+
+things that can be done to increase cooling of an aircraft engine
+lower nose, open cowl flaps, enrich mixture, decrease power setting
+
+most common voltages used in general aviation airplanes
+14V and 28V DC
+
+how to adjust fuel mixture for cruise flight in a basic airplane without an EGT gauge
+gradually lean until rough, then enrich until engine runs smoothly
+
+how to adjust fuel mixture for cruise flight in a basic airplane with an EGT gauge
+lean until peak EGT, then enrich according to POH for maximum power or economy
+
+purpose of static wicks
+bleed of static electricity (known as P-static) that can accumulate when flying through precipitation, smoke, ash, or near thunderstorm electrical fields
+
+what can happen if airplane does not have static wicks
+static buildup can cause radio interference, erroneous compaass readings, or the phenomenom of St. Elmo's fire (luminous plasma)
+
+early indications of alternator failure in flight
+strong negative deflection of ammeter, low-voltage warning annunciator, avionics might fail
+
+late indications of alternator failure in flight
+dimming of aircraft lights, failure of aircraft instruments that are run on electricity, failure of remaining avionics
+
+purpose of BAT switch
+main electrical power switch to cut off power that flows out from battery
+
+which general aviation aircraft have engine-driven fuel pump
+low-wing aircraft
+
+another name for conventional landing gear
+tail dragger configuration, harder to control than tricycle landing gear
+
+common stall warning systems in general aviation airplanes
+whistle through opening on leading edge of wing, metal vane switch has small metal tab on leading edge of wing
+
+secondary purpose of fuel vent lines
+allow for fuel overflow if a fuel tank of fuel expands with environmental heating
+
+another name for fuel strainer
+sump
