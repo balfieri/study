@@ -3358,3 +3358,33 @@ allow for fuel overflow if a fuel tank of fuel expands with environmental heatin
 
 another name for fuel strainer
 sump
+
+service ceiling 
+altitude at which an airplane's maximum climb rate decreases to less than 100 fpm when climbing at Vy and max gross weight
+
+absolute ceiling
+altitude at which an airplane's maximum climb rate decreases to 0; note that Vx and Vy are equal at this altitude
+
+things to consider when attempting to take off in high density altitude
+review performance charts in POH, follow POH recommendations including possibly leaning mixture, consider short-field takeoff, consider leaving earlier in the day when air is cooler, consider decreasing weight of the aircraft
+
+indicated approach speed at high density altitude vs. sea level
+the same, but ground speed is higher
+
+reference datum
+arbitrary reference point along the longitudinal axis of an aircraft that is used for weight and balance calculations
+
+effect of higher altitude on Vx and Vy
+Vx increases and Vy decreases
+
+disadvantages of Vx over Vy
+less margin above stall speed, less visibility, decreased engine cooling airflow
+
+location of weight and balance for a specific aircraft
+attached to and part of POH
+
+moment-index
+moment divided by 100 or 1000 or 10000
+
+issue with forward CG during landing
+nose heaviness can cause difficultly in flaring
