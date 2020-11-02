@@ -3387,4 +3387,4 @@ moment-index
 moment divided by 100 or 1000 or 10000
 
 issue with forward CG during landing
-nose heaviness can cause difficultly in flaring
+nose heaviness can cause difficultly in flaring, which can cause nose wheel to hit too early
