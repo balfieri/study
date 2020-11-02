@@ -2117,6 +2117,9 @@ reception distances of terminal, low, high VORs in miles
 methods of checking VOR accuracy
 VOT check (+/- 4-deg), ground checkpoint (+/- 4-deg), airborne checkpoint (+/- 6-deg), dual VOR check (4-deg between each other), selected radial over a known ground point (+/- 6-deg)
 
+VOT
+radio transmitter used for testing the accuracy of aircraft VOR receivers, they are typically located at large airports
+
 DME frequency range MHZ: min, max
 960, 1215
 
@@ -3433,3 +3436,57 @@ special use airspace similar to a restricted area, but is located offshort where
 
 main requirements for operation with class A airspace
 must be conducted under IFR, DME or an IFR GPS is required above FL 240
+
+capabilities of ADS-B in
+provides weather, terrain, and traffic
+
+when ADS-B in is required
+never
+
+primary radar return vs. secondary radar return
+soley due to energy reflected from an aircraft's metallic structure, stronger return due to transponder replying to a ground interrogation signal and includes the transponder code
+
+VOR zone of confusion
+area immediately surrounding the VOR where the CDI becomes momentarily erratic
+
+common error made with OBS selector when using VOR
+setting OBS to the radial (rather than the reciprocal) when flying inbound to the station, can avoid by verifying heading is close to the OBS selector
+
+chart supplement vs. airport/facility directory
+AFD was name of prior publication and is now incorporated into the chart supplement as the front section of that publication
+
+additions to fuel estimates besides basic cruise
+engine start, taxi, run-up, higher burn during takeoff and climb, errors due to unexpected weather and winds aloft
+
+simplex vs. duplex radio communication
+simplex is TX and RX on same frequency, duplex is TX on on frequency and RX on a different frequency
+
+ADS-B
+automatic dependent surveillance-broadcast
+
+how ADS-B works
+each aircraft determines its position and altitude via WAAS GPS, then position+altitude+speed are broacast out by the ADS-B OUT and can be received directly by other aircraft and traffic control stations
+
+recommendations for heading when lost in cross-country flight
+maintain heading and look for landmarks, more turns can make things more confusing
+
+purpose IDENT button on transponder
+momentarily intensifies secondary return on controller's radar scope, to be used only when requested by a controller
+
+steps to set up and use a VOR radio receiver for navigation
+enter frequency of VOR station and ensure active on the radio, listen to and verify Morse code, turn OBS to appropriate course, verify the TO/FROM indicator
+
+reason for reply light flickering on transponder
+indicates transponder is transmitting a pulse in reply to a ground or airborne interrogation
+
+easy way to determine magnetic course for diversion using just the sectional chart
+find nearest VOR station and its compass rose, mentally or with straight edge move intended course line over the rose, the degrees on the compass rose are magnetic already
+
+meaning of mode C of transponder
+encodes pressure altitude with transponder's secondary return
+
+mode C transponder is still required if the aircraft has an ADS-B OUT (yes/no)
+yes, for certain airspace
+
+UTC
+coordinated universal time, same as Zulu time
