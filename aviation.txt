@@ -3556,3 +3556,42 @@ oil temperature gauge, if high there is a high chance of imminent engine failure
 
 common causes of engine failure
 fuel starvation, fuel exhaustion, fuel contamination, carburator icing, mechanical failure is less common
+
+on sectional chart upside-down V vs. tower-looking obstruction
+tower-looking obstruction is greater than or equal to 1000 ft AGL
+
+compass rose of VOR station is referenced to true north or magnetic north
+magnetic
+
+when navaid box says "115.3 Ch 100", meaning of 100
+military channel
+
+how to obtain altitude limits, time of use, and controlling agency for an alert/prohibited/warning/restricted/MOA area
+look in the table along the margins of the sectional chart
+
+minimum, maximum runway length in feet for blue circle runway on sectional chart
+1500, 8069 
+
+how warning/prohibited/restricted area is depicted on the sectional chart
+solid blue line border with fine hash marks
+
+significance of dashed magenta line around airport on sectional chart
+class E surface extension, surface to 700 ft, typically up to 17999 ft if there's no other airspace above it
+
+meaning of star after control tower frequency on sectional chart
+control tower operation is part-time, reverse text "C" indicates tower frequency is used for CTAF
+
+thin gray line with IR-149 etc. on sectional chart
+military training route
+
+meaning of light blow line with V68 etc. on sectional chart
+centerline of a low altitude federal airway, aka Victor airway, which is used for IFR routes
+
+on sectional chart, meaning of following letters inside a magenta diamond with an airplane under it: G, U, H, UA
+glider, ultralight, hang glider, unmanned aircraft
+
+class A airspace is shown on the sectional chart (yes/no)
+no
+
+meaning of RP 14 on a sectional chart
+right traffic pattern for runway 14
