@@ -3388,3 +3388,33 @@ moment divided by 100 or 1000 or 10000
 
 issue with forward CG during landing
 nose heaviness can cause difficultly in flaring, which can cause nose wheel to hit too early
+
+characteristics of airports that have class E to the surface
+they have an instrument approach, but not operating control tower
+
+alert area
+special use airspace with a high volume of pilot training or an usual type of aerial activity, does not require clearance to enter
+
+MTR
+military training route
+
+airspaces that require ADS-B out
+A, B, C, E at or above 10000 ft MSL except below 2500 ft AGL, within 30 nm of a class B airport, class E over Gulf of Mexico within 12 nm of the U.S. coast and above 3000 ft MSL
+
+altitude range of DC SFRA and FRZ
+surface to 18000 ft MSL
+
+controlled firing area
+special use airspace where there are activities such as artillery firing that may be hazardous, not depicted on sectional chart :-)
+
+restricted area
+special use airspace where there are operations such as artillery firing or aerial gunnery that can be hazardous, requires clearance to enter from the controlling authority mentioned on the sectional chart
+
+for VFR aircraft, ATC responsibility with basic radar service, within class C, within class B
+traffic advisories only, separation of VFR from IFR + traffic advisories, separation of all aircraft
+
+military operation area (MOA)
+special use airspace where military sometimes conducts training activities such as high speed aerobatic maneuvers, does not require clearance but not recommended for VFR to enter
+
+prohibited area
+special use airspace where aircraft flight is prohibited due to security or other reasons associated with national interest
