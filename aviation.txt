@@ -3418,3 +3418,18 @@ special use airspace where military sometimes conducts training activities such 
 
 prohibited area
 special use airspace where aircraft flight is prohibited due to security or other reasons associated with national interest
+
+how an intercepting fighter jet visually provides a signal for you to land at a designated airport
+it may circle the airport, overfly a runway in the required landing direction, or turn on landing lights at night
+
+common purposes of a TFR
+space operations, protection of the President or other VIPs, national disasters or incidents, and other temporary hazards
+
+national security area
+airspace where there is increased security and safety of ground facilities, aircraft may be temporarily prohibited by NOTAM
+
+warning area
+special use airspace similar to a restricted area, but is located offshort where the USA does not have sole jurisdiction or control, operations within a warning area can be hazardous
+
+main requirements for operation with class A airspace
+must be conducted under IFR, DME or an IFR GPS is required above FL 240
