@@ -3153,7 +3153,7 @@ limitations of relying on ATC for weather avoidance
 their primary function is to provide safe separation between aircraft, so must not distract from those activities
 
 causes of tail-plane stall
-icing on horizontal stabilizer, raises nose; loss of negative lift from icing such as when flaps are deployed
+icing on horizontal stabilizer, raises nose; loss of negative lift from icing such as when flaps are deployed; when flaps are not deployed loss of negative lift will cause sudden and uncontrollable nose-down
 
 wind shear
 abrupt change in wind direction and/or speed
@@ -3183,7 +3183,7 @@ TAF update interval, valid period
 6 hours, 24 or 30 hours
 
 adverse aerodynamic effects of frost or structural icing
-decreased lift, increased drag, increased stall speed, unexpected control problems, blocked or restricted movement of  control surfaces, tail-plane or horizontal stabilizer stall
+decreased lift, increased drag, increased stall speed, unexpected control problems, blocked or restricted movement of control surfaces, tail-plane or horizontal stabilizer stall, blockage of pitot tue and static ports, blockage of engine induction air
 
 front represented by string of blue triangles, string of red semicircles, purple triangles+semicircles, read semicircles and blue trangles on alternating sides
 cold front, warm front, occluded front, stationary front
@@ -3490,3 +3490,69 @@ yes, for certain airspace
 
 UTC
 coordinated universal time, same as Zulu time
+
+meaning of full positive scale deflection of ammeter
+malfunction of voltage regulator, so shut down alternator using ALT switch, turn off unnecessary electrical equipment, and land at the nearest airport
+
+actions to take if engine is rough in flight
+apply carburator heat if not fuel injected, switch to a different fuel tank, enrich the mixture, try only left or only right magneto, turn on the auxilliary fuel pump
+
+actions to take if moderate or severe turbulence is encountered
+slow to Va, maintain level flight using smooth control inputs, disengage autopilot, contact ATC for advice
+
+most dangerous thing about door or window opening in flight
+distraction of the pilot, aircraft will continue to fly 
+
+two types of flap malfunctions
+both flaps become stuck, one flap continues to work while other is stuck which can cause a hazardous rolling motion
+
+how to decrease the risk associated with asymmetric flap deployment (intentional or not)
+do not change flaps while in a banked turn
+
+situation that can be confused with a spin
+spiral dive
+
+how to distiguish a spiral dive from a spin
+sprial dive will have high airspeed with a high G-force, for spin speed will be low with normal G-force
+
+actions to take when there's visible moisture and outside air temperature is close to freezing
+turn on anti-icing or de-icing equipment, notify ATC, check for structural icing, change altitude or toue to escape icing conditions, divert to and land at a nearby airport
+
+things to consider when landing an airplane with significant structural icing
+use higher approach speed to avoid stalling, leave wing flaps retracted to reduce risk of tail-plane stall
+
+actions to take when unexpectedly encountering a thunderstorm
+reduce to Va, maintain level flight, turn on anti-icing and de-icing equipment, at night turn up cockpit lighting to high, weigh risks of turning around slowly vs. continuing straight ahead
+
+things to consider when ditching in an ocean other large body of water
+if wind is strong land into the wind, if heavy swells are present land parallel to swells
+
+significance of burning insulation odor in flight
+may indicate electrical fire, should go through emergency checklist for an electrical fire
+
+actions to take if there's an engine failure shortly after takeoff
+lower nose to maintain airspeed, if less than 1000 ft AGL landing straight ahead will usually have less risk than attempting the impossible turn
+
+actions to recover from a spiral dive
+throttle to idle, level wings with coordinated flight, raise nose to level
+
+for engine failure, common actions for attempting a restart
+select a different fuel tank, mixture rich, prop control full high, auxilliary full pump on, verify ignition switch on
+
+common POH actions for engine fire in flight
+fuel selector valve off, mixture idle cutoff, throttle idle, ignition switch off, fuel pumps off, cabin heat and air off, master switch off if battery close to engine
+
+common actions for wing fire in flight
+turn off all electrical equipment to wing such as pitot heat, nav lights, strobe lights, landing lights; slip airplane to keep flames away from fuel tank
+
+dangers of a bird strike on the windshield
+significant opening in windshield can cause substantial loss of performance due to drag, possible pilot incapacitation
+
+instrument that can help if pilot is disoriented during a spin
+turn coordinator, apply full rudder in opposite direction of rotation
+
+when low oil pressure is observed, other instrument to check and why
+oil temperature gauge, if high there is a high chance of imminent engine failure, otherwise might be low on oil or gauge is stuck
+
+common causes of engine failure
+fuel starvation, fuel exhaustion, fuel contamination, carburator icing, mechanical failure is less common
