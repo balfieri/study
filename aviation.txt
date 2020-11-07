@@ -358,7 +358,7 @@ Vy (meaning, 172SP)
 takeoff best rate-of-climb speed, 74
 
 Vfe (meaning, 172SP 10-deg, 172SP > 10-deg)
-maxiumum flap-extended speed, 110, 85
+maxiumum flap-extended speed, 110, 40-85
 
 Va (meaning, 172SP 2550 lb, 172SP 2200 lb, 172SP 1900 lb)
 maneuvering speed, 105, 98, 90
