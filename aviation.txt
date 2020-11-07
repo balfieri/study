@@ -3664,3 +3664,66 @@ over 12500 lbs gross weight, turbojet-powered
 
 requirements if pilot gets a DUI or DWI, ramifications
 notify FAA within 60 days, certificate may be suspended or revoked if two within three year period
+
+what happens if pitot tube is blocked before takeoff
+airspeed will be stuck at zero
+
+what happens if pitot tube becomes blocked by ice in flight
+airspeed will be stuck at same altitude, higher if we climb, lower if we descend
+
+maximum permissible altimeter error in feet
+75
+
+two situations where indicated altitude is higher than true altitude
+temperature less than 15C, fly from high pressure to low pressure without adjusting altimeter setting
+
+when difference between IAS and CAS is largest, and why
+at slow speeds, higher angle of attack against pitot tube so IAS has more error
+
+meaning of red square on right side of turn coordinator
+internal gyro is not turning fast enough for proper operation, such as from an electrical failure
+
+primary measurement of turn coordinator
+rate of change of yaw
+
+turn coordinator measures bank angle and pitch angle (yes/no)
+no
+
+how PFD acquires data
+ADC, AHRS, GPS
+
+order of 6-pack left to right, top to bottom
+airspeed, attitude, altimeter, turn coordinator, heading indicator VSI
+
+typical errors that can occur when selecting alternate static source in unpressurized aircraft
+IAS will be higher, altitude will be higher, VSI will be momentarily positive
+
+why there are errors when selecting alternate static source in unpressurized aircraft, how to handle
+static pressure inside cockpit is lower than outside due to Venturi effect, consult POH tables
+
+purpose of knob on lower left corner of airspeed indicator
+calibrate to match OAT with PA at 12 o'clock position, then can read TAS in lower left window
+
+when pressure altitude equals true altitude
+standard atmospheric conditions (15C and 29.92)
+
+what happens if all static ports are iced over
+altimeter would be frozen, VSI frozen at 0, airspeed would be inaccurate particularly if altitude changes
+
+two situations to force altimeter at 29.92
+when calculating PA for DA and TAS, when operating above 18000 ft MSL
+
+how altitude reading changes when altimeter setting changed from 30.13 to 30.23
+goes up 100 ft
+
+how inclinometer ball works
+ball in curved glass tube filled with liquid, indicates sum of gravitational and centrifugal forces
+
+purpose of Kollsman window
+scale on an altimeter that allows pilot to enter the altimeter setting
+
+revisionary mode of PFD and MFD
+provides redundancy for critical information if either display dies in form of split screen
+
+arc locations for Vso, Vs, Vfe, Vno, Vne
+bottom of white, bottom of green, top of white, top of green / bottom of yellow, top of yellow / red line
