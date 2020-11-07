@@ -915,7 +915,7 @@ how often the chart supplement is updated
 every 56 days
 
 kinds of incidents must be reported to the NTSB
-flight control system malfunction or failure, inability of required crew member to perform duties due to injury or illness, inflight fire, inflight collision, damage to property other than the airplane that exceeds $25,000, overdue aircraft (believed to be an accident), release of at least a portion of propeller blade from aircraft, complete loss of informatoin from more than 50% of an aircraft's EFIS (electronic flight instrument system) cockpit displays
+flight control system malfunction or failure, inability of required crew member to perform duties due to injury or illness, inflight fire, inflight collision, damage to property other than the airplane that exceeds $25,000, overdue aircraft (believed to be an accident), release of at least a portion of propeller blade from aircraft, complete loss of informationn from more than 50% of an aircraft's EFIS (electronic flight instrument system) cockpit displays
 
 congested area
 not well defined, could be anywhere where there is a group of people
@@ -2223,7 +2223,7 @@ pilot may carry a person who is under the influence of drugs or alcohol (yes/no)
 no, except in an emergency
 
 situations where no-portable-electronic devices rule applies
-under IFR, aircraft operated by a holder of an air carrier operating certificate
+under IFR unless pilot decides it will not cause a hazard, aircraft operated by a holder of an air carrier operating certificate
 
 in which phases of flight may a crewmember remove his/her shoulder harness
 enroute
@@ -3595,3 +3595,72 @@ no
 
 meaning of RP 14 on a sectional chart
 right traffic pattern for runway 14
+
+advisory circulars
+FAA publications that cover regulations and safety issues
+
+duration of student pilot certificate
+indefinite if after April 2016
+
+aircraft that can be flown under BasicMed
+Max takeoff weight of 6000 lbs, max 6 people
+
+operational limitations of BasicMed
+no higher than 18000 MSL, no faster than 250 knots, not for compensation or hire
+
+POH vs. information manual
+POH is official FAA doc for a specific airplane and kept up to date, copy of a generic POH for a make+model and not kept up to date
+
+FAR parts for airman,medical,flight
+61, 67, 91
+
+exceptions here private pilot may carry passengers for hire
+charity, community, non-profit event
+
+requirements for carrying passengers for charitable/community/non-profit event
+pre-approved by local FSBO, at least 500 hours flying time, dat VFR, no aerobatics within 25 mi of departing airport
+
+different aircraft category ratings on pilot certificate
+airplane, rotocraft, glider, lighter-than-air, powered lift
+
+different airplane class ratings on pilot certificate
+single-engine land, single-engine sea, multi-engine land, multi-engine sea
+
+requirements for BasicMed
+must have had a valid medical certificate that was not revoked, suspended, or withdrawn; no new serious medical conditions since; valid state-issued driver's license
+
+documents to carry under BasicMed
+valid state-issued driver's license
+
+documents that must be available upon request for BasicMed
+Comprehensive Medical Examination Checklist, Basic Medical Education Course    certificate
+
+requirements for maintaining BasicMed privileges
+physician exam every four years and have physician fill out the checklist, take course every two years
+
+additional equipment required when aircraft operating over water when beyond power-off gliding distance to shore
+floatation gear per occupant, pyrotechnic signaling device
+
+aerobatic weather requirements
+3 miles visibility
+
+a flight review can be failed (yes/no)
+no
+
+ways to avoid a flight review
+pass checkride for a new certificate, passing a phase of an FAA-sponsored proficiency program
+
+requirements for SVFR at night
+instrument rating, IFR-equipped aircraft
+
+types of aircraft that require logbook endorsements
+complex airplanes, high performance airplanes, tailwheel airplanes, aircraft pressurized and certified to fly above 25000 ft MSL
+
+solo cross country requirements
+5 hours total, 150 nm xc with 3 full-stop landings and one segment at least 50 nm, 3 full-stop takeoffs/landings at towered airport
+
+aircraft that require a type rating
+over 12500 lbs gross weight, turbojet-powered
+
+requirements if pilot gets a DUI or DWI, ramifications
+notify FAA within 60 days, certificate may be suspended or revoked if two within three year period
