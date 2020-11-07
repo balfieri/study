@@ -3727,3 +3727,42 @@ provides redundancy for critical information if either display dies in form of s
 
 arc locations for Vso, Vs, Vfe, Vno, Vne
 bottom of white, bottom of green, top of white, top of green / bottom of yellow, top of yellow / red line
+
+techniques to improve nighttime visual accuity
+allow 30 min for eyes to adapt, dim cockpit lights to minimum level, use red lights, avoid looking directly at bright lights
+
+Coriolis illusion related to (body part)
+two semicircular canals in inner ear
+
+somatogravic illusion related to (body part)
+movement of inner ear fluid during acceleration
+
+reason why pilot aggravates a graveyard spiral
+pilot thinks airplane is diving but not banked
+
+illusions that can cause aircraft to appear higher than it actually is
+narrow runway, upsloping runway, absence of surrounding features, haze/fog/rain
+
+spatial disorientation illusion
+sensation that aircraft is turning or banked but it is actually level
+
+time it takes for dark adaptation to occur
+20-30 min
+
+what can impair dark adaptation
+exposure to bright lights, altitudes above 5000 ft MSL, CO from smoking, vitamin A deficiency
+
+hypoxia symptoms above 12000 ft MSL
+impaired judgment, memory, alertness
+
+hypoxia symptoms about 15000 ft MSL
+tunnel vision, fingernails and lips turn blue, loss of consciousness
+
+techniques to minimize dangerously low altitudes on approach
+use all available glide slope aids, be aware of illusions, cross reference visual with with altimeter
+
+effects of stress and fatigue on pilot
+impair performance and judgment
+
+techniques to prevent spatial disorientation
+maintain proficiency with instrument flight, avoid sudden head movement
