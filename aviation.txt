@@ -3766,3 +3766,51 @@ impair performance and judgment
 
 techniques to prevent spatial disorientation
 maintain proficiency with instrument flight, avoid sudden head movement
+
+load factor
+total load on wings divided by weight of aircraft
+
+factors that increase load factors
+turns, abrupt back pressure, turbulent air
+
+reason aircraft pitches down when power is reduced
+less prop wash that strikes top of horizontal stabilizer
+
+reason airplane has positive stability on lateral axis
+aircraft resists being displaced around lateral axis of pitch because center of gravity is forward of center of lift while downward pressure on tail acts as balancing force
+
+reason airplane has positive stability on longitudinal axis
+wing dihedral which is slight upward slope of wing from wing root to wing tip
+
+how airplane maintains pitch stability when nose is pointed down
+increase in speed increases downward force on top of horizontal stabilizer
+
+cause of loss in longitudinal stability
+when bank angle exceeds medium bank, creating an over-banking tendency as outside wing travels faster, causing steeper roll
+
+purposes of flaps
+lower stall speed, increase drag
+
+why pilot must increase pitch during a bank
+to increase total lift in order to increase vertical lift component so as to maintain level flight
+
+region of reverse command
+occurs at speeds below minimum, as speed decreases further, drag increases exponentially
+
+with constant bank angle, effect of decrease in speed on rate and radius of turn
+rate increases, radius decreases
+
+effect of trimming nose up
+trim tab deflected downward, elevator pushed upward, tail pushed downward
+
+purposes of rudder in single-engine airplane
+counteract adverse yaw, counteract left-turning tendencies, coordinate flight, taxi turning, spin recovery
+
+load factor as function of bank angle
+1/cos(angle)
+
+reason for airplane to have positive stability on its vertical axis
+resists displacement because of vertical stabilizer
+
+technique for controlling altitude during slow flight
+power adjustments
