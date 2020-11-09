@@ -3869,7 +3869,7 @@ children under 2 who are lap held
 required placards are required for legal flight (yes/no)
 yes
 
-you must show your logbook when requested to
+you must show your logbook when requested by
 FAA official, NTSB authorized representative, federal/state/local law enforcement officer
 
 it is generally a good idea to load up an aircraft to smooth out turbulence (yes/no)
@@ -3894,7 +3894,7 @@ airplane design features that minimize adverse yaw
 Frise ailerons, differential airlerons, spoilers, cross-coupled controls
 
 two primary factors that cause airplane to stall at higher than normal speed
-higher gross weight, load factor increases
+higher gross weight, load factor increases (e.g., from steep bank)
 
 height above ground at which ground effect is noticeable
 less than half the wingspan
