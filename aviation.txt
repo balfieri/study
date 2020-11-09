@@ -3814,3 +3814,63 @@ resists displacement because of vertical stabilizer
 
 technique for controlling altitude during slow flight
 power adjustments
+
+inspection and repack cycle for parachutes
+180 days for synthetic, 60 for natural fibers (rare)
+
+pilot who holds a valid 3rd class medical and develops a new serious heart condition may no longer fly (yes/no)
+no
+
+life vest requirement for large aircraft (does not apply to small)
+50 nm or more from shore; 30 min or more from shore
+
+items that must be inspected every 24 months
+altimeter, pitot-static system, transponder
+
+maximum valid time for temporary replacement for airman medical certificate
+60 days
+
+an aircraft with a missing data plate may be flown (yes/no)
+no
+
+exceptions where someone under the influence of alcohol may be taken as a passenger
+emergency or under proper medical care
+
+inspections required every 12 months
+annual, ELT
+
+aircraft flown 123 hours since last 100-hour and 10 hours and 18 days since last annual - it is legal to fly (yes/no)
+yes, annual takes place of 100-hour
+
+you nay log actual instrument tome as PIC time if you are sole manipulator and you are with a CFII if in instrument conditions (yes/no)
+yes
+
+night flight requirements may occur in an authorized simulator set up for night flight (yes/no)
+yes
+
+you rent an airplane from an FBO and landing light is out - it is still airworthy (yes/no)
+no, it is being operated for hire (even if you are doing the hiring)
+
+when an airplane is not be airworthy during the  day if NAV lights are not operative
+if plane has MEL that disallows it, if you forget to placard, if PIC decides it is not safe without it
+
+most important thing to remember about being PIC
+you are final authority regarding flight's operation and FAA holds you responsible for its outcome
+
+minimum number of takeoffs/landings to satisfy both day and night requirements
+3
+
+persons who are not required to wear a seatbelt
+children under 2 who are lap held
+
+required placards are required for legal flight (yes/no)
+yes
+
+you must show your logbook when requested to
+FAA official, NTSB authorized representative, federal/state/local law enforcement officer
+
+it is generally a good idea to load up an aircraft to smooth out turbulence (yes/no)
+no, extra load factor can cause gusts to put an extra strain on the wings
+
+reasons for flying coordinated
+fuel efficiency, instrument reliability, passenger comfort, lower stall speed than in uncoordinated
