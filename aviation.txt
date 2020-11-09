@@ -831,6 +831,9 @@ increases
 how induced drag changes with speed
 decreases
 
+how induced drag changes with angle of attack
+increases
+
 cause of wing-tip vortices
 higher-pressure air below the wing spills over the wing
 
@@ -3725,7 +3728,7 @@ scale on an altimeter that allows pilot to enter the altimeter setting
 revisionary mode of PFD and MFD
 provides redundancy for critical information if either display dies in form of split screen
 
-arc locations for Vso, Vs, Vfe, Vno, Vne
+arc locations for Vs0, Vs, Vfe, Vno, Vne
 bottom of white, bottom of green, top of white, top of green / bottom of yellow, top of yellow / red line
 
 techniques to improve nighttime visual accuity
@@ -3874,3 +3877,27 @@ no, extra load factor can cause gusts to put an extra strain on the wings
 
 reasons for flying coordinated
 fuel efficiency, instrument reliability, passenger comfort, lower stall speed than in uncoordinated
+
+reasons it may be possible to fly an aircraft below Vs0
+not at max gross weight, not at standard atmospheric conditions, flying straight and level
+
+wing aspect ratio
+wing span divided by mean chord
+
+if you bank aircraft 60 degrees left, increase in load factor, increase in stall speed
+2, 1.4
+
+total drag
+sum of parasite drag and induced drag
+
+airplane design features that minimize adverse yaw
+Frise ailerons, differential airlerons, spoilers, cross-coupled controls
+
+two primary factors that cause airplane to stall at higher than normal speed
+higher gross weight, load factor increases
+
+height above ground at which ground effect is noticeable
+less than half the wingspan
+
+spiraling slipstream effect becomes more pronounced with higher airspeed (yes/no)
+no, because airflow spiral becomes elongated
