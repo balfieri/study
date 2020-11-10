@@ -3901,3 +3901,57 @@ less than half the wingspan
 
 spiraling slipstream effect becomes more pronounced with higher airspeed (yes/no)
 no, because airflow spiral becomes elongated
+
+side slip
+technique used during a crosswind landing that involves turning ailerons into the wind while applying opposite rudder to maintain ground track and alignment with the runway
+
+what pilot should do during a skidding turn
+apply rudder in the direction of the outside of the turn to recenter the turn coordinator
+
+camber
+curvature of airfoil
+
+opposite of dihedral
+anhedral, upside-down V wing span
+
+induced drag is proportional to
+angle of attack
+
+factors that determine amount of lift of an airfoil
+cross-sectional shape, AoA, area, air density, airspeed, condition of wing
+
+region of normal command
+region where power must be added to increase speed, occurs at speeds past the minimum drag point primarily as a result of parasite drag
+
+region of reversed command
+region where power must be increased to maintain slower speed, occurs at speeds before the minimum drag point primarily due to  induced drag
+
+situations in which inadvertent stalls can occur
+distractions, go-arounds with aircraft out-of-trim, forced landings trying to stretch a glide
+
+banking changes total lift of wings (yes/no)
+no
+
+example where stall can occur with AoA below the horizon
+pulling up during a steep dive
+
+chord line
+line from leading edge of wing to trailing edge
+
+how indicated stall speed varies with altitude
+no change
+
+relationship between airspeed vs. turn radius and turn rate in constant bank level turn
+slower airspeed results in smaller turn radius and higher turn rate
+
+purpose of twist or "wash out" in aircraft wings
+stall progressively outward from the wing roots
+
+signs of power-off stall
+high AoA, buffeting, stall horn, loss of lift
+
+direction
+perpendicular to the relative wind the longitudinal axis
+
+another name for cumulonimbus clouds
+thunderstorms
