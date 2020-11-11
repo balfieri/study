@@ -3958,3 +3958,39 @@ thunderstorms
 
 172SP defined minimum maneuvering speed (DMMS) KIAS
 67
+
+DMMS formula
+1.404 * Vs1
+
+two types of temperature inversion
+ground inversion, inversion aloft
+
+wind shear
+phenomenon that occurs when wind from different directions meet, can occur at any altitude,  can be horizontal or vertical
+
+weather condition causing greatest accumulation of structural ice
+freezing rain
+
+four families of clouds
+high clouds, middle clouds, low clouds and vertically advanced clouds
+
+kind of pressure system you are flying toward in the Northern Hemisphere that would push you left
+high
+
+cirrus clouds
+composed almost entirely of ice crystals, display a wispy and feathery appearance, base altitudes typically range from about 16,500 to 45,000 feet
+
+trough line is an area associated with
+maximum cyclonic (anti-clockwise) curvature of the wind flow
+
+nimbostratus clouds also known as 
+rain clouds
+
+precipitation
+different kinds of moisture that falls from the sky: drizzle, rain, snow, ice pellets, hail and ice crystals
+
+"nimbo" refers to
+rain
+
+mixed ice
+formed when supercooled water droplets are of various sizes or are intermingled with snow or ice particles; after initial impact, the remaining portion freezes rapidly and forms a mushroom shape on the leading edges of a wing; Ice particles are imbedded in clear ice and form a hard and rough-edged mass
