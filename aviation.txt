@@ -3534,7 +3534,7 @@ significance of burning insulation odor in flight
 may indicate electrical fire, should go through emergency checklist for an electrical fire
 
 actions to take if there's an engine failure shortly after takeoff
-lower nose to maintain airspeed, if less than 1000 ft AGL landing straight ahead will usually have less risk than attempting the impossible turn
+lower nose IMMEDIATELY to maintain airspeed to avoid stalling, if less than 1000 ft AGL landing straight ahead will usually have less risk than attempting the impossible turn
 
 actions to recover from a spiral dive
 throttle to idle, level wings with coordinated flight, raise nose to level
@@ -3955,3 +3955,6 @@ perpendicular to the relative wind the longitudinal axis
 
 another name for cumulonimbus clouds
 thunderstorms
+
+172SP defined minimum maneuvering speed (DMMS) KIAS
+67
