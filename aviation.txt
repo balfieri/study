@@ -3477,7 +3477,7 @@ purpose IDENT button on transponder
 momentarily intensifies secondary return on controller's radar scope, to be used only when requested by a controller
 
 steps to set up and use a VOR radio receiver for navigation
-enter frequency of VOR station and ensure active on the radio, listen to and verify Morse code, turn OBS to appropriate course, verify the TO/FROM indicator
+check VOR frequency with that on sectional chart, enter frequency of VOR station and ensure active on the radio, listen to and verify Morse code, turn OBS to appropriate course, verify the TO/FROM indicator
 
 reason for reply light flickering on transponder
 indicates transponder is transmitting a pulse in reply to a ground or airborne interrogation
