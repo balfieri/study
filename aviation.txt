@@ -1556,7 +1556,7 @@ NDB
 minimum safe altitude within square on sectional chart (AGL/MSL)
 MSL
 
-lightening bolts sticking out of tower on sectional chart
+lightning bolts sticking out of tower on sectional chart
 lights
 
 3 tabs sticking out of airport on sectional chart
@@ -2991,7 +2991,7 @@ what the ACS covers
 Subjects and maneuvers that are covered in the checkride, including tolerances
 
 how to respond to TFRs
-ask briefer if radius intersects route of flight, and possible view TFR details on tfr.faa.gov
+ask briefer if radius intersects route of flight, and possibly view TFR details on tfr.faa.gov
 
 normal height above runway threshold if on glide slope
 50 feet
@@ -3093,7 +3093,7 @@ class E visibility and cloud clearance >= 10000 MSL, day or night
 5 SM, 1-1-1SM
 
 where you can do daytime pattern work with 1SM visibility and low clouds
-lass G airport if cloud ceiling is at least 1000 ft, otherwise just need to stay clear of clouds so just below them
+class G airport if cloud ceiling is at least 1000 ft, otherwise just need to stay clear of clouds so just below them
 
 TEMPO (in TAF)
 temporary conditions expected to last less than an hour
@@ -3186,7 +3186,7 @@ TAF update interval, valid period
 6 hours, 24 or 30 hours
 
 adverse aerodynamic effects of frost or structural icing
-decreased lift, increased drag, increased stall speed, unexpected control problems, blocked or restricted movement of control surfaces, tail-plane or horizontal stabilizer stall, blockage of pitot tue and static ports, blockage of engine induction air
+decreased lift, increased drag, increased stall speed, unexpected control problems, blocked or restricted movement of control surfaces, tail-plane or horizontal stabilizer stall, blockage of pitot tube and static ports, blockage of engine induction air
 
 front represented by string of blue triangles, string of red semicircles, purple triangles+semicircles, read semicircles and blue trangles on alternating sides
 cold front, warm front, occluded front, stationary front
@@ -3219,7 +3219,7 @@ missing values in FD data occur when
 the MSL altitude is less than 1500 ft AGL
 
 flight hazards associated with thunderstorms
-severe turbulence, hail, lightening, icing
+severe turbulence, hail, lightning, icing
 
 lightning is always associated with
 thunderstorms
@@ -3587,7 +3587,7 @@ control tower operation is part-time, reverse text "C" indicates tower frequency
 thin gray line with IR-149 etc. on sectional chart
 military training route
 
-meaning of light blow line with V68 etc. on sectional chart
+meaning of light blue line with V68 etc. on sectional chart
 centerline of a low altitude federal airway, aka Victor airway, which is used for IFR routes
 
 on sectional chart, meaning of following letters inside a magenta diamond with an airplane under it: G, U, H, UA
@@ -3821,7 +3821,7 @@ power adjustments
 inspection and repack cycle for parachutes
 180 days for synthetic, 60 for natural fibers (rare)
 
-pilot who holds a valid 3rd class medical and develops a new serious heart condition may no longer fly (yes/no)
+pilot who holds a valid 3rd class medical and develops a new serious heart condition may fly (yes/no)
 no
 
 life vest requirement for large aircraft (does not apply to small)
@@ -3891,7 +3891,7 @@ total drag
 sum of parasite drag and induced drag
 
 airplane design features that minimize adverse yaw
-Frise ailerons, differential airlerons, spoilers, cross-coupled controls
+Frise ailerons, differential ailerons, spoilers, cross-coupled controls
 
 two primary factors that cause airplane to stall at higher than normal speed
 higher gross weight, load factor increases (e.g., from steep bank)
@@ -4035,7 +4035,7 @@ MIFG
 shallow fog
 
 OCNL LTGICCG NE
-occasional lightening in cloud, cloud-to-ground northwest
+occasional lightning in cloud, cloud-to-ground northwest
 
 PRESRR
 pressure rising rapidly
@@ -4049,7 +4049,7 @@ request outlook briefing when flight more than (hours away)
 DMSHG
 diminishing
 
-COG 002V006
+CIG 002V006
 ceiling variable 200 to 600 ft
 
 PROB30 1200/1204
