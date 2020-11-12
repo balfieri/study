@@ -3994,3 +3994,135 @@ rain
 
 mixed ice
 formed when supercooled water droplets are of various sizes or are intermingled with snow or ice particles; after initial impact, the remaining portion freezes rapidly and forms a mushroom shape on the leading edges of a wing; Ice particles are imbedded in clear ice and form a hard and rough-edged mass
+
+BLSN
+blowing snow
+
+290V360
+wind direction variable between 290 and 360
+
+TCU
+towering cumulus
+
++TSRA SQ
+thunderstorms with heavy rain and squalls
+
+TS OVD MOV E
+thunderstorm overhead moving east
+
+TBS24
+thunderstorm began at 24 min past the hour
+
+M20/
+temperature -20C, dew point not available
+
+BYD
+beyond
+
+ground visibility miles (statute/nautical)
+statute
+
+FAA definition of ceiling
+lowest cloud level that is BKN, OVC, or obscuration, vertical visibility (VV)
+
+international SIGMET is issued for
+12 hours of volcanic ash  events, 6 hours of hurricanes and tropical storms, 4 hours for other events
+
+VCTS
+thunderstorms in the vacinity
+
+MIFG
+shallow fog
+
+OCNL LTGICCG NE
+occasional lightening in cloud, cloud-to-ground northwest
+
+PRESRR
+pressure rising rapidly
+
+WS020
+wind shear 2000 feet
+
+request outlook briefing when flight more than (hours away)
+6
+
+DMSHG
+diminishing
+
+COG 002V006
+ceiling variable 200 to 600 ft
+
+PROB30 1200/1204
+30% probability from 12th day of month at 0000Z through 12th at 0400Z
+
+VCSH
+showers in the vacinity
+
+00000KT
+wind calm
+
+TSRA in TAF
+thunderstorms of rain
+
+turbulence vs. chop
+chop is more rhythmic and predictable
+
+only cloud types in a TAF
+cumulonimbus
+
+TB LGT-MDT
+light to moderate turbulence
+
+WE:ANDS
+WEST EAST: accelerate NORTH, decelerate SOUTH
+
+at cruise, static ports become blocked, if we descend the airspeed will indicate
+too high
+
+which single six-pack instrument on Wright Brothers Flyer
+airspeed indicator, only thing that can't be inferred by looking outside
+
+VFR night flight is allowed even if VOR os out of inspection (yes/no)
+yes, VOR is required only for IFR
+
+range of scale on most altimeters in Hg (min, max)
+28.00, 31.00
+
+pressure levels are further apart when OAT > 15C (yes/no)
+yes
+
+effect of pitot tube blockage o. the VSI
+none
+
+compass acceleration error is a form of
+dip error
+
+effect of blocked pitot tube during takeoff roll
+airspeed indicator will read zero
+
+instruments powered by electrical system
+turn coordinator, navigation indicators, engine indicators
+
+magnetic compass check prior to takeoff
+bowl full of liquid, card free to move, indicated heading matches known runway heading
+
+in Northern Hemisphere, turning west from south, compass will initially
+overshoot
+
+effect of total static ports blockage on VSI
+read 0
+
+a vertical compass may replace a whiskey compass (yes/no)
+yes
+
+difference between VSI on newer panel vs glass panel
+reads instantaneously
+
+why pitot-static instruments are mot reliable in uncoordinated flight
+uneven air distribution over the fuselage
+
+lubber line
+drawn or inscribed line indicating heading on a magnetic compass
+
+red V's on an EFD
+high pitch attitude
