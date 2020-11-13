@@ -3924,7 +3924,7 @@ region of normal command
 region where power must be added to increase speed, occurs at speeds past the minimum drag point primarily as a result of parasite drag
 
 region of reversed command
-region where power must be increased to maintain slower speed, occurs at speeds before the minimum drag point primarily due to  induced drag
+region where power must be increased to maintain slower speed, occurs at speeds before the minimum drag point primarily due to induced drag
 
 situations in which inadvertent stalls can occur
 distractions, go-arounds with aircraft out-of-trim, forced landings trying to stretch a glide
