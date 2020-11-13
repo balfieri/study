@@ -4126,3 +4126,111 @@ drawn or inscribed line indicating heading on a magnetic compass
 
 red V's on an EFD
 high pitch attitude
+
+172SP flaps
+hybrid Fowler (move back and down for first 10 deg), mostly down for remainder, electric motor in right wing
+
+when ELT can be tested
+first 5 min of each hour and only for a few seconds at a time
+
+4 types of flaps
+plain, slotted, split, Fowler
+
+typical length of 172SP
+27' 2"
+
+wing span of 172SP
+36' 1"
+
+aircraft engines controlled by FADEC have magnetos (yes/no)
+no, full authority digital engine control eliminates the need for magnetos, carburetor heat, mixture controls, and priming
+
+slotted flap
+has gap between wing and leading edge of flap, helps energize low-pressure flow over the top
+
+172SP stall horn goes off how man knots above stall
+5-10
+
+height of 172SP
+8' 11"
+
+wing loading in lbs/sq-ft for 172SP
+14.7
+
+power loading of 172SP in lbs/HP
+14.2
+
+horizontal stabilizer and elevator act as an upside-down wing (yes/no)
+yes
+
+maximum permitted left/right magneto drop difference on 172SP
+50
+
+maximum permitted magneto drop on 172SP
+150
+
+useful load for 172SP in lbs
+932 (approx)
+
+altitude at which we transition to enroute climb speed
+1000 AGL
+
+purpose if suction gauge
+determine proper operation of vacuum system
+
+normal rate of fuel burn for 172SP min,max GPH
+6.9, 11.1
+
+stall strip
+v-shaped piece of metal on leading edge of wing on some aircraft to cause buffeting at high angles of attack as a warning
+
+pilot can adjust altimeter encoding sent by transponder by changing the altimeter setting (yes, no)
+no, it is referenced from 29.92" Hg
+
+purpose of AUTO button on audio panel
+to automatically listen on the radio on which you are talking
+
+advantage of solid-state AHRS
+fewer moving parts than vacuum system, more precise and accurate, faster response, no friction and precession
+
+purpose of RMT setting on DME
+to slave the DME to the NAV source
+
+purpose of FREQ setting on DME
+frequency select mode so pilot can explicitly set the frequency used
+
+magnetic bearing on fixed-card ADF
+cannot be determined, but can
+
+distance measured by DME
+diagonal distance from aircraft to station
+
+reason not to rely on GPS altitude
+GPS altitude is height above GPS oblate spheroid, nit AGL or MSL, GPS vertical accuracy is 1/6 of horizontal accuracy
+
+how to interpret groundspeed/time on DME
+accurate only if tge aircraft is heading directly to the station
+
+magnetic heading is 210, fixed card ADF reads 75, so relative bearing TO is
+285
+
+pilot should be careful when changing squawk code to
+not select, 7500, 7600, or 7700
+
+ADS-R
+ADS-B re-broadcast facility fir ADS-B systems operating in lower UAT 978 vs upper 1090ES
+
+MKR section of audio panel
+used by IFR pilots for marker beacon reception
+
+ADS-B vs RADAR
+ADS-B is more accurate because continuously broadcasting position, cheaper
+
+how often ADS-B data is transmitted
+at least once per second
+
+when 1099ES ADS-B is used
+above FL180
+
+when 978 UAT is used
+below FL180
