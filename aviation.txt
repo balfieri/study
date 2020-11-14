@@ -1955,14 +1955,14 @@ rigidity in space (fixed position in plane in which it is spinning), precession 
 power sources for gyros
 vacuum, pressure, electric
 
-how does attitude indicator work
-gyro mounted on horizontal plane and relies on rigitity in space, horizon bar is attached to gyro
+how attitude indicator works
+rotates in the horizontal plane and operates off of the principle of rigidity in space, aircraft pitches and rolls around the erect gyroscope, effects of precession are not felt because pendulous vanes attached to the base of the gyro duct high pressure air from the vacuum through small doors that open and close by the force of gravity to keep the gyro in its original position
 
 errors in attitude indicator
 may be slight nose up during acceleration, also may be bank/pitch angle error after 180-degree turn
 
-how does the heading indicator work
-rotor turns in the vertical plane and relies on rigidity in space, compass card fixed to the rotor
+how the heading indicator works
+rotates in the vertical plane and operates off of rigidity in space, as the aircraft yaws around the gyro, a gear inside of the instrument case rotates the compass card to show the magnetic direction, precession caused from aircraft movement and friction causes error that must be corrected by resetting the heading indicator to the magnetic compass approximately every 15 minutes
 
 errors in heading indicator
 precession caused by friction, needs to be checked every 15 min
@@ -4182,7 +4182,7 @@ normal rate of fuel burn for 172SP min,max GPH
 6.9, 11.1
 
 stall strip
-v-shaped piece of metal on leading edge of wing on some aircraft to cause buffeting at high angles of attack as a warning
+v-shaped piece of metal on leading edge of wing on some aircraft to induce a stall toward the wing root so that pilot still has directional control with the ailerons
 
 pilot can adjust altimeter encoding sent by transponder by changing the altimeter setting (yes, no)
 no, it is referenced from 29.92" Hg
@@ -4234,3 +4234,72 @@ above FL180
 
 when 978 UAT is used
 below FL180
+
+lateral stability
+resistance to roll, mainly provided by wing dihedral, during side slip wing has great AoA which helps return it to equillibrium, keeping fuel balanced also important to stability
+
+longitudinal stability
+resistance to pitch, mainly provided by keeping CG within its limits
+
+vertical stability
+resistance to yaw, mainly provided a large enough vertical stabilizer that is placed well aft of the CG
+
+positive stability
+tendency to return to equillibrium
+
+neutral stability
+tendency to stay in a new position
+
+negative stability
+tendancy to continue to move away from equillibrium
+
+static stability
+initial tendency
+
+dynamic stability
+response over time
+
+how altimeter works
+measures difference between static pressure inside of the instrument case and standard pressure (29.92) sealed inside of an aneroid wafer
+
+VSI
+measures the difference between static pressure and static pressure that is subject to a calibrated leak approximately every 6-9 seconds
+
+gyro rigidity in space
+while spinning, a gyroscope will tend to stay fixed in its plane of rotation, like a bicycle wheel, with enough momentum you are able to stay naturally balanced
+
+gyro precession
+when a force is applied to a gyroscope, the resultant force is felt 90° ahead in the direction of the rotation
+
+how turn coordinator works
+electrically powered gyro rotates in the vertical plane and it uses precession to measure rate of turn and rate of roll, when the aircraft yaws, the gyro precesses and the airplane on the face of the instrument indicates the direction and rate of the turn. Notice in the diagram of the instrument that it is slightly canted upwards (this is so rate of roll can be indicated as well), when the aircraft begins a bank the aircraft will also indicate the direction of the bank, if it is a rapid roll the airplane will respond by banking more steeply, once the turn is established it will properly indicate the rate of the turn
+
+what cools the engine
+air intakes at the front of the engine cowling allow outside air to cool the cylinders, fins on the filters allow a greater surface area to be exposed and thus cooled by the air, engine oil is crucial in internal engine cooling
+
+meaning of four-stroke engine
+intake valve opens as downward moving piston pulls fuel/air mixture into cylinder, intake valve opens as downward moving piston pulls fuel/air mixture into cylinder, while this piston is in its upmost position the spark plugs ignite the mixture and force the piston back down, as the piston rises, the exhaust valve opens and expels the exhaust gas from the cylinder
+
+problems with excessive fuel/air mixture as altitude increases
+can result in carbon build up in the cylinders which can foul the spark plugs and reduce engine power
+
+resulting color if different aviation fuel types are mixed
+clear
+
+what types of aviation fuel are naturally clear
+Jet A
+
+how a vacuum system works
+engine driven vacuum pump creates suction, air is pulled through a filter and then directed to the instrument case, rotor vanes on the gyros catch the air like a water wheel and cause it to rotate at a high speed, in some aircraft there is also an electrical vacuum pump to be used as a backup
+
+weather minimums in class A airspace
+none
+
+radius of inner,outer core of class C in nm
+5, 10
+
+inner core of class C from,to ft AGL
+surface, 4000
+
+outer core of class C from,to ft AGL
+1200, 4000
