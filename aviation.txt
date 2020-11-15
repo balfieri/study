@@ -4421,3 +4421,30 @@ air inside of the middle ear is normally equalized through the Eustachian tube: 
 
 how to mitigate middle ear pain
 first step in avoiding this pain is to not fly with head colds or ear/sinus infections, in flight equalization can be helped along by swallowing, yawning, tensing the throat muscles, or by executing the Valsalva maneuver, accomplished by pinching the nostrils, closing the mouth, and attempting to exhale, oral decongestions do not provide adequate relief and may have adverse side effects
+
+how to determine if another aircraft is at the same altitude
+use the horizon as a refernce
+
+where to find weight and balance for a specific aircraft
+usually attached to the Flight Manual or Pilot's Operating Handbook
+
+what to expect if you have to make a no-flaps landing
+landing with the flaps up requires about 10 knot faster approach, you can expect to come in "shallower," the landing roll will be longer due to the higher speed and due to the lack of aerodynamic braking effect from the extended flaps
+
+where to find FAA specified aircraft limitations
+POH, attachments to the Airworthiness Certificate, markings on instruments, or instrument panel placards
+
+how much ice is permissible to accumulate on the wings of an airplane without being a significant safety factor
+even a very thin layer of ice can severely adversely affect the lift-generating capabilities of the wings.
+
+when landing in a crosswind, which main wheel should touch the ground first
+the upwind wheel to avoid being blown off the runway or being flipped over
+
+correct response when moderate or severe turbulence is encountered
+Slow to maneuvering speed (Va) and try to maintain a level flight attitude, don't try to maintain an altitude or airspeed
+
+name two things that you can do before the flight (on the ground) to help minimize the chance of a mid-air collision while in the air
+cockpit organization, clean windshield
+
+practical aerodynamic effects of operating with a center of gravity at the forwardmost legal position
+as the CoG position moves toward the forward limit the aircraft becomes more longitudinally stable, the elevator controls will feel heavier, requiring more muscle power to move them, pitch response will also become sluggish increasing the likelihood of accidents such as landing on the nose wheel, a more stable aircraft will be easier to trim for steady flight
