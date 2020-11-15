@@ -165,8 +165,17 @@ radiation, advection, upslope, steam, valley, precipitation
 valley fog
 when cold winter sun cannot burn off radition fog in a valley
 
-precipitation fog
-when falling rain is warmer than surrounding air
+advection fog
+moist warm air moves over colder land or water via a wind
+
+radiation fog
+forms on clear nights with little or no wind and only over land
+
+precipitation induced fog
+warm rain falls through cool air, evaporation from the rain saturates the cool air and fog forms
+
+upslope fog
+moist unstable air is cooled as wind pushes it up a slope
 
 spatial disorientations
 the leans, graveyard spin, graveyard spiral, somatogravic illusion, head-down illusion, coriolis illusion, inversion illusion, elevator illusion
@@ -923,7 +932,7 @@ flight control system malfunction or failure, inability of required crew member 
 congested area
 not well defined, could be anywhere where there is a group of people
 
-when you may fly out of a TFR zone
+how to fly out of a TFR zone
 file a flight plan, in contact with ATC, working transponder, adhere to any restrictions in the TFR
 
 when you may fly VFR over Washington DC
@@ -973,6 +982,15 @@ moderate icing (AIRMET provides freezing level heights)
 
 types of icing
 structural, induction system, instrument
+
+induction system icing
+attributed to the incomplete vaporization of fuel in combination with the pressure decrease inside of the venturi, even on a day as warm as 70°F, carburetor ice can began to form with adequate moisture in the air
+
+instrument icing
+icing of the pitot tube or static ports can cause the instruments to give inaccurate readings or to fail completely
+
+structural icing
+ice that forms on the surface of the aircraft, since airfoils create lift by decreasing the pressure and thus the temperature of the air around them, icing on the propeller, horizontal and vertical tail surfaces, and wings can form at ambient temperatures that are above the freezing level
 
 solid thin black line on sectional chart that is not railroad tracks
 power lines
@@ -1520,6 +1538,9 @@ military training route
 VR 1-3 numbers AGL ft, 4 numbers AGL ft
 >1500, < 1500
 
+visibility requirements for VR routes
+>= 5 SM and 3000 ft AGL ceilings
+
 VOR bearing shown on the sectional chart, e.g., V453
 victor airway
 
@@ -1625,7 +1646,7 @@ high pressure, falling air, conducive to dissipation of cloudiness, good weather
 cause of winds aloft to flow parallel to isobars
 Coriolis force
 
-reason surface winds generally flow across isobars at an angle
+reason surface winds generally flow across isobars at an angle close to the surface
 surface friction
 
 rate of atmospheric pressure decrease with increase in altitude
@@ -2784,7 +2805,7 @@ when pilot should use 5 P's
 preflight, pre-takeoff, hourly or midpoint, pre-descent, just prior to entering traffic pattern, emergency situation
 
 aeronautical decision making (ADM)
-systematic approach to determining the best course of action to a given set of circumstances
+systematic approach to determining the best course of action to a given set of circumstances, a systematic approach to risk assessment and stress management, the two defining elements of ADM are hazard and risk
 
 basic steps of ADM
 define problem, choose course of action, implement decision, evaluate outcome
@@ -4303,3 +4324,57 @@ surface, 4000
 
 outer core of class C from,to ft AGL
 1200, 4000
+
+rationale for controlled firing areas not being depicted on the sectional chart
+they stop firing when a spotter notices an aircraft, national security
+
+local airport advisory
+other airspace that is operated within 10 SM or airport with FSS but no operating control tower
+
+parachute jump zone
+special airspace for parachuters, see chart supplements for details
+
+examples of published VFR routes
+Coastal Route, Mini Route, Special Flight Rule, Hollywood Park Route, Colliseum Route
+
+winds aloft normally flow parallel to isobars (yes/no)
+yes, due to Coriolis force, more of an angle at the surface due to friction
+
+cumulus stage of a thunderstorm
+the building stage of a thunderstorm characterized by updrafts only, all thunderstorms begin as cumulus clouds but not all cumulus clouds become thunderstorms
+
+mature stage of a thunderstorm
+updrafts and downdrafts both occur at this point, violent turbulence can be experienced if flight is attempted beneath a cumulonimbus cloud because of this shear zone, the mature stage can be recognized by the beginning of rainfall
+
+dissipating stage of a thunderstorm
+at this point the cloud is only giving off downdrafts and the thunderstorm is dissipating, during this stage large cumulonimbus clouds may have a recognizable “anvil top” that is a portion of the cloud that has been sheared off by the jet stream, the direction in which the anvil top is facing also shows the direction in which the storm is moving
+
+Flight Watch (EFAS)
+Enroute Flight Advisory Service – provides up to date weather advisories for pilots while enroute 
+
+frequency on which you can contact EFAS
+122.0, but no longer in use as of 2015
+
+3 types of TAFs
+routine (TAF), amended (TAF AMD), corrected (TAF COR)
+
+TAF FROM vs. BECMG
+rapid change occuring with one hour, gradual change to take place over the course of an hour
+
+four sections of an area forecast
+header, synopsis (valid for 18 hours), VFR clouds and weather (valid for 12 hours), outlook (valid for 6 hours), 
+
+what can cause cloud ceilings to be AGL rather than default MSL
+preceded by AGL or CIG (ceiling)
+
+when to use auxilliary fuel pump
+starting engine, high altitudes, engine failure, rough engine
+
+ways to mitigate risk
+IMSAFE, PAVE, PPPPP
+
+notice to airmen (NOTAM)
+time critical information that is not known in advance enough to be published on an aeronautical chart
+
+where to find runway lengths
+chart supplement (previously known as the A/FD)
