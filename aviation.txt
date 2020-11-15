@@ -4448,9 +4448,9 @@ correct response when moderate or severe turbulence is encountered
 Slow to maneuvering speed (Va) and try to maintain a level flight attitude, don't try to maintain an altitude or airspeed
 
 name two things that you can do before the flight (on the ground) to help minimize the chance of a mid-air collision while in the air
-cockpit organization, clean windshield
+clean the windshield, organize the cockpit and information as far as possible
 
-practical aerodynamic effects of operating with a center of gravity at the forwardmost legal position
+practical aerodynamic effects of operating with a center of gravity at the forward-most legal position
 as the CoG position moves toward the forward limit the aircraft becomes more longitudinally stable, the elevator controls will feel heavier, requiring more muscle power to move them, pitch response will also become sluggish increasing the likelihood of accidents such as landing on the nose wheel, a more stable aircraft will be easier to trim for steady flight
 
 maximum power mixture setting
