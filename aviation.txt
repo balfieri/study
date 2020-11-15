@@ -435,6 +435,9 @@ vapor lock
 172SP electrical system (system volts, battery volts, alternator amperage, min voltage before warning light)
 28, 24, 60, 24.5
 
+172SP location of battery
+left forward portion of firewall, makes it susceptible to exploding if engine is on fire 
+
 eligibility requirements for private pilot certificate
 17 years old, read/speak/write/understand English, at least 3rd class medical, training, logbook endorsements, 70% on written
 
@@ -899,13 +902,14 @@ cause of adverse yaw
 drag from the downward aileron is greater than the upward aileron
 
 detonation
-uncontrolled firing of fuel/air mixture after the intended spark, mixture violently explodes rather than burning smoothly
+uncontrolled firing of fuel/air mixture after the intended spark, mixture violently explodes rather than burning smoothly, causes excessive temperatures and pressures which can quickly lead to failure of a piston/cylinder/valve or (less severely) overheating/roughness/loss-of-power
 
 causes of detonation
 excess temperature, low-octane fuel, extremely high manifold presssures with low RPM, excessively lean mixture with high RPM, extended ground operations or steep climbs where cylinder cooling is reduced
 
 actions to take when dealing with detonation
 ensure proper fuel, keep cowl flaps open while on the ground, enrich the mixture, avoid extended high-RPM steep climbs, monitor engine instruments more closely
+
 pre-ignition
 combustion that occurs before the intended spark
 
@@ -4448,3 +4452,51 @@ cockpit organization, clean windshield
 
 practical aerodynamic effects of operating with a center of gravity at the forwardmost legal position
 as the CoG position moves toward the forward limit the aircraft becomes more longitudinally stable, the elevator controls will feel heavier, requiring more muscle power to move them, pitch response will also become sluggish increasing the likelihood of accidents such as landing on the nose wheel, a more stable aircraft will be easier to trim for steady flight
+
+maximum power mixture setting
+slightly richer than maximum economy setting, it is approximately +50F to the rich side of EGT
+
+what to notice when removing the fuel cap
+if there is a sudden rush of air when the cap is being cracked open, there could be a serious blockage in the vent system
+
+the oil pressure gauge changes more quickly than the oil temperature gauge (yes/no)
+yes, oil takes more time to heat up or cool down
+
+what sits between crankshaft and piston
+connecting rod
+
+172SP fuel system
+2 tanks, fuel flows from each wing by gravity to selector valve (which should be one BOTH for takeoff and landing and normally), fuel goes through electrically powered auxilliary fuel pump bypassing the shutoff valve, then flows through the fuel strainer and the engine driven fuel pump into the fuel/air control unit, the fuel/air mixture (ratio governed by mixture control, air governed by throttle) then flows through the fuel distribution valve into the cylinders
+
+exhaust gas temperature gauge (EGT)
+measurement of internal combustion temperature of the engine, indirectly related to the quality of the fuel/air mixture entering the engine
+
+five positions of light aircraft ignition switch
+off, right, left, both, start
+
+maximum economy or lean mixture setting
+usually at about maximum EGT (consult POH)
+
+engine baffles
+thin and lightweight pieces of metal or other material whose job it is to route intake air over fins attached to the engine cylinders
+
+full rich setting
+maximum amount of fuel possible is entering the engine, provides cooling and rapid throttle response, could cause roughness at high altitudes
+
+wet sump vs. dry sump oil system
+in wet sump (most common in light aircraft) oil is located in a sump and is an integral part of the engine (pump circulates oil between sump and engine), in dry sump oil is contained in a separate tank and circulated through the engine via pumps (allows for higher volume of oil to be pumped in and out of the engine for very large reciprocating engines)
+
+what would happen to a reciprocating engine designed for 100LL fuel if Jet A fuel were used
+it may start and run, but will fail from detonation
+
+best way to prevent water from condensing your aircraft's fuel tanks
+completely fill tanks with proper grade after each flight or at least after the last flight of the day
+
+when permissible to use automotive fuel as a substitute
+only if a supplemental type certificate (STC) has been issued to allow its use
+
+what happens if pilot forgets to enrichen mixture prior to descent
+mixture would become too lean and engine would begin to run rough and could stall if pilot attempts a go-around
+
+significance of numbers on the ends of circuit breakers
+amperage rating - maximum number of of amperes that the corresponding electrical load may use and not trigger the breaker
