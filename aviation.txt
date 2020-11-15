@@ -3978,8 +3978,8 @@ stall progressively outward from the wing roots
 signs of power-off stall
 high AoA, buffeting, stall horn, loss of lift
 
-direction
-perpendicular to the relative wind the longitudinal axis
+lift direction
+perpendicular to the relative wind and wingspan
 
 another name for cumulonimbus clouds
 thunderstorms
