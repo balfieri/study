@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# run <subject> [question_cnt]
+# run.py <subject> [options]
 #
 import sys
 import time
@@ -32,7 +32,7 @@ def prompt( s, default='' ):
 #-----------------------------------------------------------------------
 # read in <subject>.txt file
 #-----------------------------------------------------------------------
-if len( sys.argv ) < 2: die( 'usage: run <subject> [question_cnt]', '' )
+if len( sys.argv ) < 2: die( 'usage: run.py <subject> [options]', '' )
 filename = sys.argv[1] + '.txt'
 question_cnt = int(sys.argv[2]) if len( sys.argv ) >= 3 else 20
 skip_prompts = len(sys.argv) >= 4
