@@ -618,17 +618,17 @@ take off well past the touch-down point
 Explain the hemispheric rule
 eastbound odd-thousands + 500, westbound even-thousands + 500
 
-Types of hypoxia
+types of hypoxia
 hypoxic (lungs), hypemic (blood), stagnant (pooling), hystotoxic (cells)
 
 causes of hypoxic hypoxia
 high altitude, lung illness
 
 causes of hypemic hypoxia
-carbon monoxide poisoning, anemia
+carbon monoxide poisoning, smoking cigarettes (a way to inhale carbon monoxide) anemia, donating blood
 
 causes of stagnant hypoxia
-weak heart, pulling G's
+generally poor circulation, weak heart, pulling G's
 
 causes of hystotoxic hypoxia
 drugs or alcohol, cellular diseases
@@ -643,10 +643,14 @@ you may fly the airplane if a piece of non-required equipment is not operational
 yes, if deactivated and placarded
 
 symptoms of hypoxia
-change in skin color, confusion, dizziness, euforia
+poor judgement, confusion, memory, alertness, visual acuity and coordination, sensation of euphoria or sometimes even belligerence can occur (a macho attitude), dizziness, headache, drowsiness, cyanosis (blue coloration of lips and fingernails)
+
+hyperventilation
+abnormal increase in the breathing rate that leads to a deficiency of carbon dioxide, usually brought on by stress or fear while flying and often begins subconsciously, 
+
 
 symptoms of hyperventilation
-same as hypoxia, rapid breathing, rapid heart rate
+generally same as hypoxia, rapid breathing, rapid heart rate, lightheadedness, dizziness, drowsiness, tingling in the extremities and feeling of suffocation that may ultimately lead to unconsciousness
 
 how to relieve hyperventilation
 breath into bag, talk outloud
@@ -3081,13 +3085,16 @@ temperatures, altimeter
 no, nose wheel locked straight while in flight, bungee cords work only on the ground and only a little
 
 decode 2447-29 winds/temp
-240 @ 47 kt, -29C
+240 @ 47 kts, -29C
 
 decode 990023 winds/temp
 light and variable, 23C
 
-decode 750247
-250 @ 102 kt, -47C
+decode 750247 above FL030
+250 @ 102 kts, -47C
+
+decode 710556 above FL030
+210 @ 105 kts, -56C
 
 class G visibility and cloud clearance up to 1200 ft AGL during the day
 1 SM, clear of clouds
@@ -4378,3 +4385,39 @@ time critical information that is not known in advance enough to be published on
 
 where to find runway lengths
 chart supplement (previously known as the A/FD)
+
+ICEFLAGS in-flight illusions
+inversion, Coriolis, elevator, false horizon, leans, autokinesis, graveyard spiral, somatogravic
+
+winds,temperatures will not be forecast within this many feet of station elevation on an FD
+1500, 2500
+
+surface analysis chart
+shows position of pressure systems, fronts, local weather, wind speed and directions, visual obstructions, issued 8 times daily, valid for 3 hours
+
+weather depiction chart
+graphical depiction of METAR information see overall surface conditions across the U.S., issued 8 times daily, valid for 8 hours
+
+significant weather prognostic chart
+forecast of aviation weather hazards such as icing, freezing levels, and turbulence, issued 4 times a day, 12 hour forecast and a 24 hour forecast
+
+radar summary chart
+displays areas of precipitation and indicates the height of the radar echo tops in hundreds of feet MSL, movement of cells is indicated by an arrow that points in the direction of the movement with the speed in knots beside it, does not show clouds or fog, only precipitation, issued 35 minutes past every hour, valid for 1 hour
+
+body systems used to ascertain our orientation and movement in space
+vestibular, somatosensory, visual
+
+vestibular system
+the inner ear system is composed of 3 semicircular hollow but fluid filled canals arranged in the pitch, roll, and yaw axes, this endolymph fluid inside the canals moves when the head or body moves and displaces tiny hair cells that stimulate nerve impulses, these signals are then sent to the brain and interpreted as motion
+
+somatosensory system
+the nerves in our skin cells, this is basically “flying by the seat of your pants” or the sensations of motion that we feel in our bodies from acceleration or turning
+
+visual system
+our eyes, light from the sun is constantly being reflected by everything on Earth, this light enters the eyeball through the cornea, travels through the lens and falls on the photoreceptors of the retina, the two kinds of photoreceptors are rods and cones, rods are used for night and peripheral vision, cones are used to sense color
+
+cause of middle ear pain in flight
+air inside of the middle ear is normally equalized through the Eustachian tube: a tube that travels from the ear to the back of the throat on each side, if there is any kind of congestion or blockage it makes this equalization difficult or impossible, in a climb, the air outside becomes less dense and the trapped higher pressure air in the middle ear tends to expand, in a descent, the trapped air is of lower pressure than the outside air and feeling of compression is experienced, this is typically more painful and more difficult to resolve, sinus congestions cause pain from similar circumstances and can be very painful, 
+
+how to mitigate middle ear pain
+first step in avoiding this pain is to not fly with head colds or ear/sinus infections, in flight equalization can be helped along by swallowing, yawning, tensing the throat muscles, or by executing the Valsalva maneuver, accomplished by pinching the nostrils, closing the mouth, and attempting to exhale, oral decongestions do not provide adequate relief and may have adverse side effects
