@@ -4274,7 +4274,7 @@ longitudinal stability
 resistance to pitch, mainly provided by keeping CG within its limits
 
 vertical stability
-resistance to yaw, mainly provided a large enough vertical stabilizer that is placed well aft of the CG
+resistance to yaw, mainly provided by a large enough vertical stabilizer that is placed well aft of the CG
 
 positive stability
 tendency to return to equillibrium
