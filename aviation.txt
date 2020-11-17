@@ -4500,3 +4500,39 @@ mixture would become too lean and engine would begin to run rough and could stal
 
 significance of numbers on the ends of circuit breakers
 amperage rating - maximum number of of amperes that the corresponding electrical load may use and not trigger the breaker
+
+true altitude when going from hot to cold
+decreases
+
+3 parts of an airplane adversely affected by density altitude
+engine, wings, propeller
+
+service ceiling for single engine is when can climb at lesst this many fpm
+50
+
+design maneuvering speed (Va)
+the speed below which you can move a single flight control, one time, to its full deflection, for one axis of airplane rotation only (pitch, roll or yaw), in smooth air, without risk of damage to the airplane
+
+flying from a high pressure area to a low pressure area without adjusting the altimeter while maintaining a constant indicated altitude would result in a
+loss of true altitude
+
+low density air vs. efficiency
+Increases efficiency because, as the aircraft flies, there are fewer air molecules "in its way" and thus there is less drag created and the aircraft does not have to work as hard to go a given distance
+
+when an aircraft is flying where it is colder than standard temperature, the altimeter indicates
+higher than true altitude
+
+a pilot flies at a constant indicated altitude from an area of low pressure and high temperature to an area of high pressure and low temperature, which means true altitude will be
+indeterminant
+
+effects of temperature changes on aircraft performance
+in hot weather, with high density altitude, the airplane will be more efficient and move through the air faster, but will have reduced performance characteristics (lower climb rate for example)
+
+standard empty weight
+consists of the airframe, engines, and all items of operating equipment that have fixed locations and are permanently installed in the aircraft, including fixed ballast, hydraulic fluid, unusable fuel, and full engine oil
+
+basic empty weight
+standard empty weight plus the weight of optional and special equipment that have been installed
+
+reasons you might be restricted to a gross (operational) weight less than the published max gross weight
+high density altitude, high-drag or high-friction conditions caused by wet grass or water on the runway
