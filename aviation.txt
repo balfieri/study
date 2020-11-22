@@ -4536,3 +4536,6 @@ standard empty weight plus the weight of optional and special equipment that hav
 
 reasons you might be restricted to a gross (operational) weight less than the published max gross weight
 high density altitude, high-drag or high-friction conditions caused by wet grass or water on the runway
+
+square box around VOR symbol vs. 3 thick edges
+VOR-DME vs. VORTAC
