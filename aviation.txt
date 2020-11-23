@@ -4737,3 +4737,69 @@ A, B
 
 it is legal to fly at 8500 ft above class B that extends to 8000 ft if you are flying above a cloud (yes/no)
 no, you are in class E airspace and must be 1000 ft above the clouds
+
+why pilots should periodically monitor 121.5 MHz while in-flight
+to assist in identifying possible emergency ELT transmissions
+
+fuel-related things to check in an aircraft after a loss of power
+position of fuel tank selector, quantity of fuel in selected tank, fuel pressure gauge, position of fuel mixture, position of magneto switch, use of carburator heat
+
+meaning of "minimum fuel" declaration to ATC
+aircraft can accept little or no delay at its destination, not an emergency situation yet
+
+you land safely in the wilderness, but there's no cell phone coverage, actions that you should take
+manually activate your ALT, consider carrying a SAT-based GPS locator in the future
+
+distress situation vs. urgency situation
+emergency can be either, but pilots typically do not hesitate to declare an emergency when in a distress situation, but not necessarily in an urgency situation
+
+what to do if ATC advises you to squawk MAYDAY
+set transponder code to 7700
+
+when a pilot may deviate from an FAA regulation
+in an emergency situation requiring immediate action
+
+if you have an emergency and are already on a CTAF frequency, you should first try to alert those on CTAF rather than immediately switching to 121.5 (yes/no)
+no, switch to 121.5 where there is a higher chance of getting an emergency response
+
+first steps when inadvertently entering IMC
+recognition of seriousness (a leading cause of fatal accidents), maintain control of the aircraft, obtain proper assistance to get the aircraft on the ground
+
+if you have an emergency and are already talking to a class D tower, you should switch to 121.5 to declare the emergency (yes/no)
+no, stay with ATC
+
+typical steps in responding to an electrical fire
+remove power from all electrical systems, close air ducts from engine, open overhead vents, consider not turning on electrical equipment, land as soon as possible
+
+during emergency, pilot is given priority by ATC, describe conditions under which pilot should submit a written report
+upon request by ATC, submit written report to the ATC manager
+
+pilot deviates from an ATC clearance in order to deal with an emergency, describe steps to take to notify ATC
+notify ATC as soon as possible and obtain an amended clearance
+
+what to do if strong headwinds decrease your ground speed much more than anticipated, increasing the likelihood of running out of fuel
+turn back to the nearest airport with fuel, headwinds will become tailwinds
+
+magnetic course vs. magnetic heading
+magnetic course does not account for wind
+
+VFR altitudes are based on magnetic course, not true heading or magnetic heading (yes/no)
+yes
+
+a class C airspace extended to 4100 ft, a transponder is never required above this airspace (yes/no)
+no, it is required above 10000 ft
+
+you plan to fly over level terrain at 2800 ft MSL in class E, TC is 188 deg, MV is 12 deg east, BLK070, determine highest you may legally fly
+clouds are at 9800 ft, so you must be at least 500 ft below clouds, so 9300 ft MSL, mag course is 176 deg, so 7500 ft MSL is highest odd+500ft altitude
+
+how to file a flight plan when a stopover is anticipated
+file a separate flight plan for each leg when the stop is expected to be more than 1 hour in duration
+
+pseudo airport abbreviation for Homey Airport / "Groom Lake" / Area 51 that you should avoid under all condtions
+KXTA
+
+at what altitudes VFR cruising altitudes apply (aka hemispheric rules)
+above 3000 ft AGL
+
+radial you are on if you are due magnetic west of a VOR and are flying due magnetic east
+270 radial
