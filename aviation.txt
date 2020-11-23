@@ -76,7 +76,7 @@ MRLIDD
 mandatory instruction, runway distance remaining, location, information, destination, direction
 
 PARE spin recovery
-power to idle, ailerons to neutral, rudder full opposite, elevator pitch down
+power to idle, ailerons to neutral, rudder full opposite, elevator pitch down, and then neutralize main controls
 
 CCCCC actions if you cannot establish your current position
 confess, climb, circle, conserve, communicate
@@ -4906,3 +4906,50 @@ simultaneous touchdown of main wheels and nose wheel, with excessive speed, foll
 when is ground effect most significant
 when airplane (especially low-wing) is maintaining constant attitude at low airspeed during takeoff/landing
 
+most likely negative outcome when pilot tries to control porpoising by controlling pitch and power to try to land
+they won't be able to time them with the oscillations and will only make the situation worse
+
+why braking should be avoided during soft-field landings
+may cause the nosewheel to dig in
+
+common errors in performance of short-field landings
+misjudgement of wind, incorrect speed, unstabilized approach, poor roundout to flare, insufficient flaps, power power management, failure to idle the engine, hard touchdown, inadequate transfer of weight to main wheels during touchdown, too much application of brakes at too fast a ground speed
+
+two reasons for taking off into the wind
+shorter ground roll to reach Vr, less wear and tear on the landing gear at lower ground speed
+
+common errors in performance of S-turns
+failure to clear the area, poor coordination, gaining or losing altitude, inability to visualize the half-circle ground track, poor timing in beginning and recovery of turns, faulty correction for drift, inadequate visual lookout for other aircraft
+
+things to consider when choosing an area for ground reference maneuvers
+obstructions, type of reference (road or point), emergency landing areas, noise-sensitive areas
+
+reasons turning final into a left quatering head/cross wind is dangerous
+too late of a turn, pilot tightens turn, applies excessive rudder into the turn, pitches up while turning - all of this could lead to an accelerated stall
+
+describe angle of attack during slow flight
+high
+
+effect of abruptly raising flaps during slow flight
+sudden loss of lift, causing altitude loss and possibly a stall
+
+considerations when doing the turn-around-a-point maneuver
+pick point away from buildings or towers, perform clearing turns, enter maneuver downwind at 800 ft AGL, try to tell examiner when bank angle is steepest, roll out on entry heading
+
+learning steep turns develops
+smoothness, coordination, orientation, division of attention, and control techniques for executing maximum performance turns when the airplane is near its performance limits
+
+why ballooning is particular dangerous during crosswind conditions
+with lower airspeed, crosswind with affect airplane more, wing will have to be lowered even more
+
+reason tricycle gear airplane bounces when it touches down with an excessively high rate of sink or improper landing attitude
+rebounds into the air because the wing's angle of attack is abruptly increased, producing sudden addition to lift
+
+common errors in performance of turn-around-a-point
+failure to clear the area, failure to establish proper bank on entry, failure to recognize wind drift, excessive bank on downwind side, inadequate bank angle on upwind side, skidding turns when turning downwind to upwind, slipping turns when turning upwind to downwind, gaining or losing altitude, inadequate visual lookout for other aircraft, inability to direct attention outside the aircraft
+
+how to groundloop a nosewheel type aircraft
+wheelbarrowing
+
+most important aspect of soft-field landing
+touchdown at lowest possible airspeed while holding back pressure on elevator
