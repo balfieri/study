@@ -4581,3 +4581,45 @@ lighting limitations exist (i.e., not on continously), see chart supplements, of
 
 there are radio requirements when flying strictly above a class B airspace (yes/no)
 no
+
+in-pavement stop bar illuminated red, but you were given ATC clearance to cross beforehand, it is ok to cross (yes/no)
+no, you should check with ATC to make sure
+
+alternate (zipper-like) lines on taxiway
+vehicle roadway markings, you may taxi across them but not between them
+
+hand signal with both hands pointing down
+slow down
+
+hand signal with hands up but elbows bent
+stop
+
+hand signal with hands straight up
+emergency stop
+
+generally speaking, maximum speed of taxi in a small aircraft
+no faster than a brisk walk
+
+meaning of red 4-APCH sign
+you are about to cross a runway approach or departure path
+
+FICON (in NOTAM)
+field conditions
+
+how long pilot-controlled lighting will stay on usually
+15 min
+
+meaning of flashing white light from conttrol tower when you are in the air
+no defined meaning
+
+width of runway with 4, 6, 8, 12, 16 threshold stripes
+60, 75, 100, 150, 200
+
+VOR equipment is required to fly in class B airspace (yes/no)
+no
+
+when you are officially clear the runway
+when every part of aircraft is past the hold-short line
+
+most common runway/airport safety issues for pilots
+not following ATC instructions, losing orientation during taxiing, communication errors
