@@ -1820,7 +1820,7 @@ situations that increase chances of LOC-I
 uncoordinated flight, equipment malfunction, pilot complacency, distraction, turbulence, poor risk management
 
 primary cause of spins
-exceeding angle of attack while applying incorrect rudder and, to a lesser extent, aileron
+exceeding angle of attack while applying incorrect rudder and, to a lesser extent, aileron, essentially an element of yaw due to uncoordinated flight going into the stall
 
 when are spins most likely to occur
 engine failure on takeoff during climbout, cross-control turn from base to final, engine failure on approach to landing, go-around with full nose-up trim, go-around with improper flap retraction
@@ -4803,3 +4803,106 @@ above 3000 ft AGL
 
 radial you are on if you are due magnetic west of a VOR and are flying due magnetic east
 270 radial
+
+common errors when practicing power-off accuracy landings
+failure to lower landing gear (when applicable), attempting to stretch a glide, premature flap extension, premature landing gear extension, use of throttle to increase glide instead of merely clearing the engine (briefly advancing throttle to normal cruise), forcing airplane onto the runway to avoid overshoot
+
+stabilized approach
+approach in which pilot maintains a constant angle glidepath toward a predetermined point on the runway
+
+when bank is steepest in S-turns across a road
+when beginning the turn on the downwind side of the road
+
+reason flaps are generally recommended during soft-field landing
+aid in touching down at minimum speed
+
+reason why one would not want to use flaps during a soft-field landing
+in low-wing airplanes, the flaps may suffer damage from mud, stones, or slush being thrown up by the wheels
+
+three phases of a spin 
+incipient spin, fully-developed spin, spin recovery
+
+two dangers of operating an engine in-flight at idle speed for a prolonged time, recommended action
+excessive engine cooling and spark plug fouling, clear the engine by briefly advancing the throttle to normal cruise power
+
+action pilot should take if strong ballooing occurs upon landing
+execute an immediate go-around before the plane stalls
+
+accelerated stall
+any stall that occurs higher than the expected Vso
+
+causes of accelerated stalls
+airplane is heavier than max gross weight, airplane is flying uncoordinates, less flaps out than published with Vso, atmosphere less dense than published for Vso, load factor greater than speed for which the speed was published
+
+what to do if you encounter unexpected traffic in the middle of steep turns
+immediately stop doing the maneuver and ensure safe separation from the traffic (duh!)
+
+special considerations for planning an approach and landing in turbulent conditions
+fly slightly faster than normal speeds (e.g., +5 kts)
+
+why aircrafts don't always stall when you are below the bottom of the white arc
+below max gross weight, air is more dense
+
+common errors while performing power-off and power-on stalls
+failure to clear the area, inability to recognize stall using feel, premature recovery, over-reliance on airspeed indicator, inadequate scanning resulting in wing-low condition, excessive back-elevator pressure, inadequate rudder control, secondary stall during recovery, failure to maintain constant bank angle during turning stalls, excessive forward-elevator pressure during recovery resulting in negative load on wings, excessive airspeed buildup during recovery, failure to take timely action to prevent a full stall during the conduct of imminent stalls
+
+common errors while perfoming slow flight
+failure to clear the area, inadequate back-elevator pressure resulting in altitude loss, excessive back-elevator pressure resulting in climb, inadequate compensation for adverse yaw during turns, fixation on airspeed indicator, failure to anticipate changes in lift as flaps are extended, inadequate power management, inability to divide time between aircraft control and orientation
+
+secondary stall occurs when
+there is incomplete recovery from an initial stall, such as not lowering the nose enough
+
+action pilot should take if slight ballooning occurs during landing
+maintain attitude, possibly add a little throttle to help cushion the landing
+
+speed instability as it pertains the slow flight
+airspeed will decrease if the airplane is disturbed by even the slightest turbulence, drag will then increase resulting in further loss of speed, and this decay will continue until the aircraft stalls
+
+action if speed instability occurs due to turbulence
+increase power
+
+common errors during a go-around
+failure to recognize the need to do a go-around, indecision, delay, failure to apply max power in a timely manner, abrupt power application, improper pitch attitude, failure to reconfigure the aircraft (e.g., for takeoff trim, flaps), attempting to climb out of ground effect prematurely, failure to apply right rudder to compensate for torque/p-factor
+
+corrective action if airplane bounces back into the air upon landing
+same as for ballooning, depends on severity (go-around or slight increase in power)
+
+problem with touching down while in a crab or drift
+extreme sideways load on landing gear, increasing chances of structural failure
+
+steps to recover from a spiral dive
+throttle idle, wings level, gradually raise nose to level flight altitude
+
+common errors in performance of rectangular course maneuver
+failure to clear the area, failure to establish proper altitude prior to entry, failure to apply appropriate wind correction angle, gaining of losing altitude, poor coordination, abrupt control usage, inability to divide attention between control and maintaining ground track, improper timing in beginning and recovery from turns, inadequate checking for other aircraft
+
+how to position controls if wing starts to rise during a landing roll
+apply more aileron pressure toward the high wing
+
+minimum slow flight climb allowed by regulations
+none
+
+common errors in the performance of steep turns
+failure to clear the area, excessive pitch during entry or recovery, attempts to start recovery prematurely, failure to stop the turn on proper heading, excessive rudder during recovery resulting in skidding, inadequate power management, inadequate airspeed control, poor coordination, losing altitude in left turns, gaining altitude in right turns, failure to maintain constant bank angle, disorientation, attempting to perform the maneuver by instrument reference rather than visual reference, failure to scan for other traffic during the maneuver
+
+where to turn more than 90 degrees on a rectangular course
+crosswind to downwind, downwind to base
+
+where to turn less than 90 degrees on a rectangular course
+base to upwind (final), upwind to crosswind
+
+how to estimate wind direction and speed while perform9ing a power-off emergency landing
+look at windsock
+
+common errors in the performance of crosswind landings
+crosswinds that exceed the maximum demonstrated crosswind component reported in the POH, inadequate compensation for wind drift when turning base to final, inadequate compensation for wind drift when on final approach, unstabilized approach, faiulre to compensate for increased drag during side slip resulting in faster descent, touchdown while drifting, touchdown while crabbed, excessive airspeed on touchdown, failure to apply appropriate control inputs during rollout, failure to maintain direction control on rollout, excessive braking
+
+wheelbarrowing
+condition that occurs when pilot allows airplane weight to become concentrated about the nosewheel, resulting in less control with main wheels particularly during crosswind conditions
+
+main cause of wheelbarrowing
+simultaneous touchdown of main wheels and nose wheel, with excessive speed, followed by forward pressure on the elevator control
+
+when is ground effect most significant
+when airplane (especially low-wing) is maintaining constant attitude at low airspeed during takeoff/landing
+
