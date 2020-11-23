@@ -4539,3 +4539,45 @@ high density altitude, high-drag or high-friction conditions caused by wet grass
 
 square box around VOR symbol vs. 3 thick edges
 VOR-DME vs. VORTAC
+
+width of victor airway
+4 nm
+
+why do shaded magenta areas around class G airports for class E transition areas sometimes have funny shapes
+to protect instrument approaches that may be in use at the airport
+
+how class E down the surface is depicted on the sectional chart
+segmented magenta line
+
+contour line
+line connecting points on Earch of equal elevation
+
+distance between tick marks along lines of longitude, lines of latitude
+1 nm, varies (not useful for measurement)
+
+yellow areas on sectional chart
+areas that appear lit up at night (not necessarily the same as built up areas)
+
+underlined black name text on sectional chart
+name of a visual reference point which will have a magenta flag on it
+
+NDB frequencies (KHz/MHz)
+KHz
+
+legally, electronic charts can replace printed charts if up-to-date (yes/no)
+yes
+
+significance of airport name in box on sectional chart
+FAR 93 special air traffic rules and air traffic patterns are in effect
+
+on sectional chart magenta letter U with circle around it
+unverified airport
+
+"FSS" above airport data block on sectional chart means that
+a flight service station is located on the field
+
+*L on sectional chart
+lighting limitations exist (i.e., not on continously), see chart supplements, often pilot-controlled via CTAF clicks
+
+there are radio requirements when flying strictly above a class B airspace (yes/no)
+no
