@@ -588,7 +588,7 @@ anticipate icing conditions
 172SP ice protection
 pitot heat, alternate static source, defrost via cabin heat
 
-172SP service ceiling in feet
+172SP service ceiling in ft
 14000
 
 direction to turn if approaching another aircraft head on
@@ -980,7 +980,7 @@ three types of AIRMETs
 sierra, tango, zulu
 
 AIRMET sierra (S)
-extensive mountain obscuration or IFR (less than 1000 feet and/or visibility less than 3 miles affecting over 50% of the area at one time)
+extensive mountain obscuration or IFR (less than 1000 ft and/or visibility less than 3 miles affecting over 50% of the area at one time)
 
 AIRMET tango (T)
 moderate turbulence, sustained surface winds >= 30 knots, or non-convective low-level wind shear
@@ -1532,7 +1532,7 @@ no rainfall in past 24 hours
 winds light and variable
 
 reason there is no circle around some airports on sectional chart
-runway > 8069 feet
+runway > 8069 ft
 
 dotted purple on sectional chart
 air defense identification zone
@@ -2053,7 +2053,7 @@ heading indicator
 how 172SP nosewheel is connected to rudder pedals
 via a spring-loaded steering bungee
 
-172SP minimum steering radius in feet
+172SP minimum steering radius in ft
 27
 
 172SP main wheel shock
@@ -2492,7 +2492,7 @@ meaning of rotating beacon during daylight hours for class B/C/D/E-surface
 ground visibility is less than 3 miles and/or the ceiling is less than 1000 ft and that ATC clearance is required for landing, takeoff, and flight in traffic patterns
 
 types of airport signs
-mandatory instruction sign (red bg, white fg) for runway entrance, location sign (black bg, yellow fg, yellow border), direction sign (yellow bg, black fg) identifies the designation of the intersecting taxiway(s) leading out of an intersection, destination sign (yellow bg, black fg, arrows) provides info on locating runways/terminals/cargo-areas/civil-aviation-areas, information sign (yellow bg, black fg) provides information for things that can't be seen from the control tower, runway distance remaining sign (black bg, white fg) in thousands of feet
+mandatory instruction sign (red bg, white fg) for runway entrance, location sign (black bg, yellow fg, yellow border), direction sign (yellow bg, black fg) identifies the designation of the intersecting taxiway(s) leading out of an intersection, destination sign (yellow bg, black fg, arrows) provides info on locating runways/terminals/cargo-areas/civil-aviation-areas, information sign (yellow bg, black fg) provides information for things that can't be seen from the control tower, runway distance remaining sign (black bg, white fg) in thousands of ft
 
 color for runway, taxiway markings
 white, yellow
@@ -2561,7 +2561,7 @@ use of ILS hold-short-line
 when IFR aircraft is landing, but ignore if not in IMC
 
 black airport sign with white number
-runway feet remaining in 1000's
+runway ft remaining in 1000's
 
 how EMAS is denoted on the chart supplement
 white rectangle
@@ -3023,7 +3023,7 @@ how to respond to TFRs
 ask briefer if radius intersects route of flight, and possibly view TFR details on tfr.faa.gov
 
 normal height above runway threshold if on glide slope
-50 feet
+50 ft
 
 172SP white arc min,max KIAS
 40, 85
@@ -3461,7 +3461,7 @@ how an intercepting fighter jet visually provides a signal for you to land at a 
 it may circle the airport, overfly a runway in the required landing direction, or turn on landing lights at night
 
 common purposes of a TFR
-space operations, protection of the President or other VIPs, national disasters or incidents, and other temporary hazards
+space operations, protection of the President or other VIPs, national disasters or incidents, superbowl
 
 national security area
 airspace where there is increased security and safety of ground facilities, aircraft may be temporarily prohibited by NOTAM
@@ -3604,7 +3604,7 @@ military channel
 how to obtain altitude limits, time of use, and controlling agency for an alert/prohibited/warning/restricted/MOA area
 look in the table along the margins of the sectional chart
 
-minimum, maximum runway length in feet for blue circle runway on sectional chart
+minimum, maximum runway length in ft for blue circle runway on sectional chart
 1500, 8069 
 
 how warning/prohibited/restricted area is depicted on the sectional chart
@@ -3706,7 +3706,7 @@ airspeed will be stuck at zero
 what happens if pitot tube becomes blocked by ice in flight
 airspeed will be stuck at same altitude, higher if we climb, lower if we descend
 
-maximum permissible altimeter error in feet
+maximum permissible altimeter error in ft
 75
 
 two situations where indicated altitude is higher than true altitude
@@ -4010,7 +4010,7 @@ kind of pressure system you are flying toward in the Northern Hemisphere that wo
 high
 
 cirrus clouds
-composed almost entirely of ice crystals, display a wispy and feathery appearance, base altitudes typically range from about 16,500 to 45,000 feet
+composed almost entirely of ice crystals, display a wispy and feathery appearance, base altitudes typically range from about 16,500 to 45,000 ft
 
 trough line is an area associated with
 maximum cyclonic (anti-clockwise) curvature of the wind flow
@@ -4073,7 +4073,7 @@ PRESRR
 pressure rising rapidly
 
 WS020
-wind shear 2000 feet
+wind shear 2000 ft
 
 request outlook briefing when flight more than (hours away)
 6
@@ -4393,7 +4393,7 @@ chart supplement (previously known as the A/FD)
 ICEFLAGS in-flight illusions
 inversion, Coriolis, elevator, false horizon, leans, autokinesis, graveyard spiral, somatogravic
 
-winds,temperatures will not be forecast within this many feet of station elevation on an FD
+winds,temperatures will not be forecast within this many ft of station elevation on an FD
 1500, 2500
 
 surface analysis chart
@@ -4406,7 +4406,7 @@ significant weather prognostic chart
 forecast of aviation weather hazards such as icing, freezing levels, and turbulence, issued 4 times a day, 12 hour forecast and a 24 hour forecast
 
 radar summary chart
-displays areas of precipitation and indicates the height of the radar echo tops in hundreds of feet MSL, movement of cells is indicated by an arrow that points in the direction of the movement with the speed in knots beside it, does not show clouds or fog, only precipitation, issued 35 minutes past every hour, valid for 1 hour
+displays areas of precipitation and indicates the height of the radar echo tops in hundreds of ft MSL, movement of cells is indicated by an arrow that points in the direction of the movement with the speed in knots beside it, does not show clouds or fog, only precipitation, issued 35 minutes past every hour, valid for 1 hour
 
 body systems used to ascertain our orientation and movement in space
 vestibular, somatosensory, visual
@@ -4692,3 +4692,48 @@ no, haze creates an illusion of being too at a greater distance from the runway,
 
 if a commercial airliner has a pressurized cabin at 5000 ft but is flying at 3000 ft, the SCUBA rules say to wait 12 hours (yes/no)
 no, the wait rules apply to flight altitude not cabin pressure altitude, so wait 24 hours
+
+reasons class E is considered a controlled airspace
+ATC provides separation services to participating IFR aircraft and to VFR aircraft with flight following
+
+reasons some airports do not allow SVFR
+volume of IFR traffic
+
+you may proceed into class C airspace if ATC says "<tailnumber>, standby" (yes/no)
+yes, radio communications have been established
+
+you may proceed into class C airspace if ATC says "standby" (yes/no)
+no, radio communications are established only if ATC mentions your tail number
+
+what to do when ATC gives you a heading that looks as if it will lead into storm clouds
+say "unable to comply" and suggest an alternative
+
+a class B ATC gives you squawk code and then says radar contact established, you may now enter class B airspace (yes/no)
+no, you must receive explicit clearance to enter
+
+it is possible to fly under SVFR in class G airspace (yes/no)
+no, SVFR requires an ATC clearance which is not available in class G
+
+class B controller has you fly a heading at night that gets you within 2000 ft of clouds, you should...
+continue to fly the heading because you need only be clear of clouds
+
+at or below 10000 ft, VFR weather minimums for class E are the same as for class C and D (yes/no)
+yes
+
+radius of typical outer area of class C airspace
+20 nm (the outer area is not he same as the outer core or shelf area)
+
+speical exception for aircraft operating at night within pattern for class G
+1-3 SM visibility, within 1/2 mile of runway, clear of clouds
+
+if a pilot has VFR flight following and is crosses an airway, ATC has primary responsibility for collision avoidance (yes/no)
+no, the pilot in command has primary responsibility whenever in VMC
+
+if flying over a class E airport at 2000 ft AGL with an operating control tower (rare), it is necessary to contact the control tower (yes/no)
+yes, must establish radio communcation if within 4 nm of the tower and below 2500 ft AGL
+
+which airspacd classes require explicit clearance from AT to enter
+A, B
+
+it is legal to fly at 8500 ft above class B that extends to 8000 ft if you are flying above a cloud (yes/no)
+no, you are in class E airspace and must be 1000 ft above the clouds
