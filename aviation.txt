@@ -25,7 +25,7 @@ UNOS
 undershoot from north, overshoot from south
 
 IMSAFE
-illness, medications, stress, alcohol, fatigue, emotions
+illness, medications, stress, alcohol, fatigue, emotions/eating
 
 PAVE
 pilot, aircraft, environment, external pressures
@@ -653,7 +653,7 @@ abnormal increase in the breathing rate that leads to a deficiency of carbon dio
 
 
 symptoms of hyperventilation
-generally same as hypoxia, rapid breathing, rapid heart rate, lightheadedness, dizziness, drowsiness, tingling in the extremities and feeling of suffocation that may ultimately lead to unconsciousness
+generally same as hypoxia, rapid breathing, rapid heart rate, lightheadedness, dizziness, drowsiness, tingling in the extremities, hot and cold sensations, muscle spasms, feeling of suffocation that may ultimately lead to unconsciousness
 
 how to relieve hyperventilation
 breath into bag, talk outloud
@@ -4623,3 +4623,72 @@ when every part of aircraft is past the hold-short line
 
 most common runway/airport safety issues for pilots
 not following ATC instructions, losing orientation during taxiing, communication errors
+
+special consideration to be given when either hypoxia or hyperventilation is suspected in an aircraft that supplies supplemental oxygen
+change regulator to deliver 100% oxygen, then check the system
+
+action to take if pilot is forced to use white light in the cockpit while flying at night
+keep the other eye closed so as to retain its night vision adaptedness
+
+how to learn about your hypoxia symtoms
+attend the Physiological Training Program at the Air Aeromedical Institude in Oklahoma City
+
+spatial orientation
+natural ability to maintain body orientation and/or posture in relation to the surrounding environment at rest and during motion
+
+things that can cause false horizon illusion
+sloping cloud formation, obscured horizon, aurora borealis, dark scene spread with ground lights and stars, certain geometric patterns of ground lights
+
+why pilots should be particularly concerned about hypoxia at night
+even as low as 5000 ft a pilot can begin to lose night vision (effectiveness of rods) due to altitude or hypoxia
+
+actions to take if passenger is airsick
+talk to passenger, make sickness bag available, provide ventilation, allow passenger to place hands on the controls to help feel what aircraft is doing next, make more gradual control changes, perhaps land somewhere to take a break
+
+reasons why new safety features and technology don't seem to be lowering the accident rate much in general aviation
+pilots tend use new safety equipment to increase/embolden their levels of tolerable risk (risk homeostatis)
+
+part of body to which most cases or disorientation are traced
+inner ear, which is similar to a three-axis gyro, it reacts only to rate of change not sustained change
+
+reasons ADM is superior to conventional decision making
+increases awareness of importance of attitude, teaches ability to search for and establish relevance of information, increases motivation to choose and execute actions that ensure safety in the situational timeframe
+
+sinus block occurs most frequently during descent (yes/no)
+yes
+
+signs that could alert a pilot to CO poisoning if the aircraft does not have a working CO detector
+odor of exhaust fumes (most likely culprit), headache, dizziness, drowsiness
+
+illusions that can lead to landing errors
+runway width illusion, runway and terrain slopes illusion, featureless terrain illusion, atmosphere illusions (haze/fog), ground lighting illusions (can be mistaken for runway lights)
+
+factors that can impair dark adaptation (night vision)
+exposure to cabin pressure altitudes above 5000 ft, CO inhaled from smoking and exhaust fumes, vitamin A deficiency, prolonged exposure to bright sunlight, viewing bright light
+
+time of useful consciousness
+maximum time a pilot has to make rational, life-saving decisions and carry them out at a given altitude without supplemental oxygen (e.g., only 3-6 minutes at 25000 ft)
+
+vertigo
+inner ear sends incorrect spatial information to the brain and their is a corresponding loss of balance or situational awareness
+
+conditions in which pilots are particularly susceptible to vertigo
+IMC, dark night flying conditions
+
+ear block is more dangerous to a pilot than a sinus infection (yes/no)
+yes, sinus infection will become painful during assent (can lower altitude) while ear block manifests itself during descent
+
+how to tell if a person has hyperventilation vs. hypoxia by looking at them
+turning red vs. turning blue
+
+symptoms of hypoxia particularly above 15000 ft
+periphery of visual field grays out (tunnel vision), blue coloration of fingernails and lips
+
+why pilots should focus on small areas of the sky during scans
+fovea (sharpest part of retina) has very narrow field of view
+
+in haze, pilot will tend to be too high on final approach to landing (yes/no)
+no, haze creates an illusion of being too at a greater distance from the runway, so the pilot will believe that the aircraft is higher than it is
+
+if a commercial airliner has a pressurized cabin at 5000 ft but is flying at 3000 ft, the SCUBA rules say to wait 12 hours (yes/no)
+no, the wait rules apply to flight altitude not cabin pressure altitude, so wait 24 hours
