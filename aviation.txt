@@ -1969,9 +1969,6 @@ subject to proper flow of air through the pitot/static system
 errors of airspeed indicator
 position error caused by static ports sensing wrong static pressure, density error caused by temperature and altitude not compensated for by the instrument, compressibility error caused by packing of air into the pitot tube at high airspeeds resulting in higher than normal indications
 
-how does the vertical speed indicator work
-VSI case has slowly changing pressure, this is differentially compared to the static pressure
-
 limitations of vertical speed indicator
 not accurate until aircraft is control-stabilized in non-turbulent air
 
@@ -4294,7 +4291,7 @@ response over time
 how altimeter works
 measures difference between static pressure inside of the instrument case and standard pressure (29.92) sealed inside of an aneroid wafer
 
-VSI
+how does the vertical speed indicator work
 measures the difference between static pressure and static pressure that is subject to a calibrated leak approximately every 6-9 seconds
 
 gyro rigidity in space
@@ -4451,7 +4448,7 @@ name two things that you can do before the flight (on the ground) to help minimi
 clean the windshield, organize the cockpit and information as far as possible
 
 practical aerodynamic effects of operating with a center of gravity at the forward-most legal position
-as the CoG position moves toward the forward limit the aircraft becomes more longitudinally stable, the elevator controls will feel heavier, requiring more muscle power to move them, pitch response will also become sluggish increasing the likelihood of accidents such as landing on the nose wheel, a more stable aircraft will be easier to trim for steady flight
+as the CG position moves toward the forward limit the aircraft becomes more longitudinally stable, the elevator controls will feel heavier, requiring more muscle power to move them, pitch response will also become sluggish increasing the likelihood of accidents such as landing on the nose wheel, a more stable aircraft will be easier to trim for steady flight
 
 maximum power mixture setting
 slightly richer than maximum economy setting, it is approximately +50F to the rich side of EGT
@@ -4732,7 +4729,7 @@ no, the pilot in command has primary responsibility whenever in VMC
 if flying over a class E airport at 2000 ft AGL with an operating control tower (rare), it is necessary to contact the control tower (yes/no)
 yes, must establish radio communcation if within 4 nm of the tower and below 2500 ft AGL
 
-which airspacd classes require explicit clearance from AT to enter
+which airspace classes require explicit clearance from ATC to enter
 A, B
 
 it is legal to fly at 8500 ft above class B that extends to 8000 ft if you are flying above a cloud (yes/no)
