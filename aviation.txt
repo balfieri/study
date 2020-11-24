@@ -4996,6 +4996,86 @@ yes
 cost of issuing a pilot certificate
 none, but they do charge for replacements
 
+how to scan the sky
+systematically focus on small segments of the sky looking for relative movement
 
+what topics should be covered when briefing passengers about seatbelts
+how to fasten and unfasten seatbelts and harnessses, that they must be worn during taxi, takeoff, and landing
 
+significance of red balls along power lines
+none in particular
 
+considerations before accepting LAHSO clearance
+pilots should be familiar with all available information about LAHSO at destination airport - slopes, landing distances, etc.
+
+how to reduce runway incursions
+confirm taxi clearance, visually clear final approach path before crossing runway, make use of airport diagram, use maximum external lighting allowed
+
+how to avoid information workload in relation to CRM
+complete as many tasks as early as possible
+
+required ceiling and visibility requirements for LAHSO operations
+1000 ft, 3 SM
+
+who should not participate in LAHSO operations
+student pilots and pilots not familiar with LAHSO
+
+incipient spin
+from stall until full spin develops (about 4-6 seconds)
+
+meaning of sterile cockpit
+cockpit conversation is restricted to operationally pertinent topics only
+
+most commomn cause of a stall/spin accident
+pilot's attention was diverted from the primary task of flying the aircraft
+
+considerations for situational awareness while conducting a LAHSO operation
+having current airport information that is accessible, effective radio communication with ATC, thorough understanding of airport markings/signage/lighting
+
+three types of spins
+incipient spin, fully-developed steady-state spin, flat spin
+
+fully-developed spin occurs when
+aircraft angular rotation rate, airspeed, and vertical speed are stabilized from turn-to-turn in a flight path that is close to vertical
+
+torquoise boundary line on sectional chart with thick hash marks
+area where special federal airspace regulation (SFAR) exists
+
+examples of SFARs
+Grand Canyon, DC SFRA
+
+a LAHSO clearance precludes a rejected landing (yes/no)
+no
+
+flat spin
+near level pitch and roll attitude with the spin axis near the CG of the airplane, recovery from a flat spin is extremly difficult and sometimes impossible
+
+when, where, and under what weather conditions do most midair collisions occur
+good VMC conditions, daylight hours, within 5 miles of an airport or navigation aids
+
+white area on a sectional chart
+core is a prohibited area, white part is TFR extension of the prohibited area
+
+six steps of ADM process process that lead to good decision making
+identify personal attitudes that are hazardous, learn behavioral modification techniques, learn how to cope with stress, develop risk assessment skills, use all resources, evalute the effective of one's ADM skills
+
+where are LAHSO operations conducted
+controlled airports with (almost always) intersecting runways
+
+primary causes of runway incursions
+errors in pilot/ground_vehicle/controller communications, lack of airport familiarity, loss of situational awareness
+
+crew resource management is mainly concerned with
+cognitive and interpersonal skills needed to manage flight within an organized aviation system
+
+two predominant classes of CRM errors
+failure to effectively divide workload, failures of communication
+
+key factor in collision avoidance
+systematically scanning the sky for other aircraft
+
+risks of continuing flight into degrading weather conditions as applied to CFIT
+loss of aircraft control, loss of situational awareness, reduced reaction time, inability of pilot to operate aircraft at minimum controllable speed, getting lost, reduce reaction time in event of maintenance problem, breakdown of good ADM, failure to comply with regulations, failure to comply with minimum safe altitudes, increased risk of hitting cell phone towers and other types of tranmissions, failure to turn around and avoid deteriorating condtions when first able
+
+CFIT
+accident or incident in which the airplane, under the flight crew's control, is inadvertently flown into terrain, obstacles, or water without either sufficient or timely flight crew awareness to prevent the event
