@@ -27,14 +27,29 @@ undershoot from north, overshoot from south
 IMSAFE
 illness, medications, stress, alcohol, fatigue, emotions/eating
 
-PAVE
-pilot, aircraft, environment, external pressures
-
-DECIDE in-flight risk assessment
+DECIDE
 detect, estimate, choose most desirable outcome, identify actions to effect outcome, do, evaluate
 
 PPP
 perceive, process, perform
+
+relationship of PAVE to PPP
+PAVE can be used for the preceive step of PPP
+
+relationship of CARE to PPP
+CARE can be used for the process step of PPP
+
+relationship of TEAM to PPP
+TEAM can be used for the perform step of PPP
+
+PAVE
+pilot, aircraft, environment, external pressures
+
+CARE
+consequences, alternatives, reality, external factors
+
+TEAM
+transfer (task to somebody else), eliminate (risk possible?), accept (risk), mitigate
 
 private pilot must carry...
 private pilot certificate, government-issued photo id, medical certificate
@@ -71,6 +86,9 @@ single pilot resource management
 
 PPPPP
 plan, plane, pilot, passengers, programming
+
+purpose of PPPPP
+practical way of implementating SRM 
 
 MRLIDD
 mandatory instruction, runway distance remaining, location, information, destination, direction
@@ -2815,8 +2833,14 @@ systematic approach to determining the best course of action to a given set of c
 basic steps of ADM
 define problem, choose course of action, implement decision, evaluate outcome
 
+purpose of PPP
+provides a simple and systematic approach to ADM that can be used during all phases of flight
+
 PPP vs. DECIDE models of ADM
 PPP runs in a continuous loop, DECIDE is for particular problems
+
+purpose of DECIDE
+a continuous loop process (like PPP) that provides a pilot with a logical way of making decisions
 
 macho antidote
 taking chances is foolish
@@ -2970,6 +2994,9 @@ clean windshield, organize cockpit to avoid head-down time, keep head looking ou
 
 PAVE vs 5P
 PAVE encourages pilot to react to unacceptable risk elements, 5P encourages pilot to be proactive
+
+purpose of PAVE checklist
+way to mitigate risks by grouping perceived hazards into four categories: Pilot, Aircraft, enVironment, External pressures
 
 anticipating pilots who might get motion sickness
 keep then in the front seat
