@@ -4427,7 +4427,7 @@ how to determine if another aircraft is at the same altitude
 use the horizon as a refernce
 
 where to find weight and balance for a specific aircraft
-usually attached to the Flight Manual or Pilot's Operating Handbook
+usually attached to the Flight Manual or POH
 
 what to expect if you have to make a no-flaps landing
 landing with the flaps up requires about 10 knot faster approach, you can expect to come in "shallower," the landing roll will be longer due to the higher speed and due to the lack of aerodynamic braking effect from the extended flaps
