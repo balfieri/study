@@ -1085,7 +1085,7 @@ linear perspective illusions
 when pilot's sight-picture during landing is different from what he/she is used to
 
 precipitation illusions
-caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer.  fog and haze may cause objects to appear farther away
+caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer, fog and haze may cause objects to appear farther away
 
 black-hole approach
 when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descends too quickly
@@ -2405,7 +2405,7 @@ maximum speed within class D
 200 knots <= 2500 above surface within 4 nm of primary airport
 
 what happens when class D control tower is closed
-either: 1) class E surface area rules, or 2) class E rules down to 700 AGL and class G rules to surface.  Consult chart supplements.
+either: 1) class E surface area rules, or 2) class E rules down to 700 AGL and class G rules to surface; consult chart supplements
 
 all airports with an operating control tower always have class D airpspace around them (yes/no)
 no, some airports do not have the required weather reporting for surface based controlled airspace
@@ -2960,7 +2960,7 @@ what to do if class D ATIS says 2SM visibility
 fly and land in class G airspace where 1SM and clear is available, fly in class G and request SVFR clearance at class D airport
 
 information needed and sources for on-the-fly diversion airport
-airspace, runway length and elevation, com frequencies;  GPS database, sectional chart, chart supplement
+airspace, runway length and elevation, com frequencies; GPS database, sectional chart, chart supplement
 
 problems you may encounter with a dead battery
 no flaps (some planes), fuel gauges will not work, no lights at night, no turn coordinator, no com/nav radio unless we have a portable backup
@@ -3671,7 +3671,7 @@ documents to carry under BasicMed
 valid state-issued driver's license
 
 documents that must be available upon request for BasicMed
-Comprehensive Medical Examination Checklist, Basic Medical Education Course    certificate
+Comprehensive Medical Examination Checklist, Basic Medical Education Course certificate
 
 requirements for maintaining BasicMed privileges
 physician exam every four years and have physician fill out the checklist, take course every two years
@@ -3887,9 +3887,9 @@ night flight requirements may occur in an authorized simulator set up for night 
 yes
 
 you rent an airplane from an FBO and landing light is out - it is still airworthy (yes/no)
-no, it is being operated for hire (even if you are doing the hiring)
+no, it is being operated for hire even though you are the one doing the hiring
 
-when an airplane is not be airworthy during the  day if NAV lights are not operative
+when an airplane is not be airworthy during the day if NAV lights are not operative
 if plane has MEL that disallows it, if you forget to placard, if PIC decides it is not safe without it
 
 most important thing to remember about being PIC
@@ -4001,7 +4001,7 @@ two types of temperature inversion
 ground inversion, inversion aloft
 
 wind shear
-phenomenon that occurs when wind from different directions meet, can occur at any altitude,  can be horizontal or vertical
+phenomenon that occurs when wind from different directions meet, can occur at any altitude, can be horizontal or vertical
 
 weather condition causing greatest accumulation of structural ice
 freezing rain
@@ -4061,7 +4061,7 @@ FAA definition of ceiling
 lowest cloud level that is BKN, OVC, or obscuration, vertical visibility (VV)
 
 international SIGMET is issued for
-12 hours of volcanic ash  events, 6 hours of hurricanes and tropical storms, 4 hours for other events
+12 hours of volcanic ash events, 6 hours of hurricanes and tropical storms, 4 hours for other events
 
 VCTS
 thunderstorms in the vacinity
@@ -4442,7 +4442,7 @@ where to find FAA specified aircraft limitations
 POH, attachments to the Airworthiness Certificate, markings on instruments, or instrument panel placards
 
 how much ice is permissible to accumulate on the wings of an airplane without being a significant safety factor
-even a very thin layer of ice can severely adversely affect the lift-generating capabilities of the wings.
+even a very thin layer of ice can severely adversely affect the lift-generating capabilities of the wings
 
 when landing in a crosswind, which main wheel should touch the ground first
 the upwind wheel to avoid being blown off the runway or being flipped over
