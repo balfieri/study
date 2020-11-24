@@ -498,7 +498,7 @@ those in unoccupied seats
 meaning of pressure altitude
 pressure altitude is the height above a standard datum plane (SDP), which is a theoretical level where the weight of the atmosphere is 29.92 inches of mercury
 
-practial meaning of pressure altitude
+practical meaning of pressure altitude
 indicated altitude when altimeter is set to 29.92
 
 equation for pressure altitude
@@ -2381,7 +2381,7 @@ types of terminal radar services for VFR aircraft
 basic radar service (safety, alerts, traffic advisories, limited radar vectoring, sequencing), TRSA (radar), class C service (basic radar, separation between IFR and VFR, sequencing of VFR arrivals to primary airport), class B services (similar to class C services)
 
 where mode C transponder is required
->= 10000 ft MSL over 48 config stats or DC excluding airspace below 2500 AGL, within 30 miles of class B primary airport, within and above all class C airspace up to 10000 ft MSL, within 10 miles of certain designated airports excluding outside class D surface area and below 1200 AGL, ADIZs
+>= 10000 ft MSL over 48 contiguous states or DC excluding airspace below 2500 AGL, within 30 miles of class B primary airport, within and above all class C airspace up to 10000 ft MSL, within 10 miles of certain designated airports excluding outside class D surface area and below 1200 AGL, ADIZs
 
 maximum airspeed within class C airspace
 200 knots <= 2500 ft above surface within 4 nm of primary airport
@@ -2840,13 +2840,19 @@ risk management
 logical process of weighing potential risks against the potential benefits of not controlling those risks, severity * probability
 
 hazard
-present condition that could lead to an undesired event such as an accident
+existing or potential condition that can lead to injury, illness, or death to people; damage to or loss of a system, equipment, or property; or damage to the environment
 
 examples of aviation hazards
 prop blade nick, improper fueling of aircraft, fatigue, use of unapproved hardware, weather
 
+classifications of hazards
+physical (mountains, obstacles), human behaviors, political, environmental (weather), legal, technological
+
 risk
-future impact of a hazard that is not controlled or eliminated
+future impact of a hazard that is not controlled or eliminated, what may happen should a hazard manifest itself, chance or probability that harm may occur
+
+hazard vs. as pertains to a mountain
+a mountain is a hazard, running into the mountain with an aircraft is the risk
 
 use of PAVE to assess risk
 PIC (IMSAFE, proficiency, currency), aircraft (airworthiness, equipment, perf capability), environment (weather, terrain, airports/runways, conditions), external pressures (hurry, desire to impress)
@@ -3331,7 +3337,7 @@ adjust throttle to cruise manifold pressure, and adjust propeller to a cruise RP
 what manifold pressure gauge actually measures
 pressure in the engine manifold and is controlled by throttle
 
-what manifold pressure guage measures when engine not running
+what manifold pressure gauge measures when engine not running
 external air pressure
 
 four places to find FAA specified limitations for a specific airplane
@@ -4244,7 +4250,7 @@ magnetic heading is 210, fixed card ADF reads 75, so relative bearing TO is
 285
 
 pilot should be careful when changing squawk code to
-not select, 7500, 7600, or 7700
+not select 7500, 7600, or 7700
 
 ADS-R
 ADS-B re-broadcast facility fir ADS-B systems operating in lower UAT 978 vs upper 1090ES
