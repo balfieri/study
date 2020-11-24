@@ -148,7 +148,7 @@ types of structural ice
 clear, rime, mixed (both)
 
 at which temperatures do clear, mixed, and rime form
-2 to -10C, -10C to -15C, -15 to -20C
+2 to -10C, -10C to -15C, -15C to -20C
 
 reasons clear ice more dangeous
 rime only forms on leading edge, clear is on entire wing, harder to notice, more mass
@@ -636,7 +636,7 @@ generally poor circulation, weak heart, pulling G's
 causes of hystotoxic hypoxia
 drugs or alcohol, cellular diseases
 
-you fly into icing that is forecast under part 91 (yes/no)
+you may fly into icing that is forecast under part 91 (yes/no)
 no
 
 how to identify an electrical failure
@@ -2215,7 +2215,7 @@ recmote communications outlet
 purpose of RCO
 unmanned communications facility remotely controlled by ATC for purposes of communicating with pilots at satellite airports
 
-ways to determining frequency to use for activating flight plan
+ways to determine frequency to use for activating flight plan
 ask FSS briefer, consult chart supplement
 
 purpose of heavy-lined blue box around navaid frequency
@@ -3464,9 +3464,9 @@ national security area
 airspace where there is increased security and safety of ground facilities, aircraft may be temporarily prohibited by NOTAM
 
 warning area
-special use airspace similar to a restricted area, but is located offshort where the USA does not have sole jurisdiction or control, operations within a warning area can be hazardous
+special use airspace similar to a restricted area, but is located offshore where the USA does not have sole jurisdiction or control, operations within a warning area can be hazardous
 
-main requirements for operation with class A airspace
+main requirements for operation within class A airspace
 must be conducted under IFR, DME or an IFR GPS is required above FL 240
 
 capabilities of ADS-B in
@@ -3497,7 +3497,7 @@ ADS-B
 automatic dependent surveillance-broadcast
 
 how ADS-B works
-each aircraft determines its position and altitude via WAAS GPS, then position+altitude+speed are broacast out by the ADS-B OUT and can be received directly by other aircraft and traffic control stations
+each aircraft determines its position and altitude via WAAS GPS, then position+altitude+speed are broadcast out by the ADS-B OUT and can be received directly by other aircraft and traffic control stations
 
 recommendations for heading when lost in cross-country flight
 maintain heading and look for landmarks, more turns can make things more confusing
@@ -3646,7 +3646,7 @@ POH is official FAA doc for a specific airplane and kept up to date, copy of a g
 FAR parts for airman,medical,flight
 61, 67, 91
 
-exceptions here private pilot may carry passengers for hire
+exceptions where private pilot may carry passengers for hire
 charity, community, non-profit event
 
 requirements for carrying passengers for charitable/community/non-profit event
@@ -4120,7 +4120,7 @@ range of scale on most altimeters in Hg (min, max)
 pressure levels are further apart when OAT > 15C (yes/no)
 yes
 
-effect of pitot tube blockage o. the VSI
+effect of pitot tube blockage on the VSI
 none
 
 compass acceleration error is a form of
@@ -4238,7 +4238,7 @@ reason not to rely on GPS altitude
 GPS altitude is height above GPS oblate spheroid, nit AGL or MSL, GPS vertical accuracy is 1/6 of horizontal accuracy
 
 how to interpret groundspeed/time on DME
-accurate only if tge aircraft is heading directly to the station
+accurate only if the aircraft is heading directly to the station
 
 magnetic heading is 210, fixed card ADF reads 75, so relative bearing TO is
 285
@@ -4307,7 +4307,7 @@ what cools the engine
 air intakes at the front of the engine cowling allow outside air to cool the cylinders, fins on the filters allow a greater surface area to be exposed and thus cooled by the air, engine oil is crucial in internal engine cooling
 
 meaning of four-stroke engine
-intake valve opens as downward moving piston pulls fuel/air mixture into cylinder, intake valve opens as downward moving piston pulls fuel/air mixture into cylinder, while this piston is in its upmost position the spark plugs ignite the mixture and force the piston back down, as the piston rises, the exhaust valve opens and expels the exhaust gas from the cylinder
+intake valve opens as downward moving piston pulls fuel/air mixture into cylinder, while this piston is in its upmost position the spark plugs ignite the mixture and force the piston back down, as the piston rises, the exhaust valve opens and expels the exhaust gas from the cylinder
 
 problems with excessive fuel/air mixture as altitude increases
 can result in carbon build up in the cylinders which can foul the spark plugs and reduce engine power
@@ -4486,7 +4486,7 @@ in wet sump (most common in light aircraft) oil is located in a sump and is an i
 what would happen to a reciprocating engine designed for 100LL fuel if Jet A fuel were used
 it may start and run, but will fail from detonation
 
-best way to prevent water from condensing your aircraft's fuel tanks
+best way to prevent water from condensing in your aircraft's fuel tanks
 completely fill tanks with proper grade after each flight or at least after the last flight of the day
 
 when permissible to use automotive fuel as a substitute
@@ -4504,7 +4504,7 @@ decreases
 3 parts of an airplane adversely affected by density altitude
 engine, wings, propeller
 
-service ceiling for single engine is when can climb at lesst this many fpm
+service ceiling for single engine is when can climb at least this many fpm
 50
 
 design maneuvering speed (Va)
@@ -4667,7 +4667,7 @@ time of useful consciousness
 maximum time a pilot has to make rational, life-saving decisions and carry them out at a given altitude without supplemental oxygen (e.g., only 3-6 minutes at 25000 ft)
 
 vertigo
-inner ear sends incorrect spatial information to the brain and their is a corresponding loss of balance or situational awareness
+inner ear sends incorrect spatial information to the brain and there is a corresponding loss of balance or situational awareness
 
 conditions in which pilots are particularly susceptible to vertigo
 IMC, dark night flying conditions
@@ -4720,7 +4720,7 @@ yes
 radius of typical outer area of class C airspace
 20 nm (the outer area is not he same as the outer core or shelf area)
 
-speical exception for aircraft operating at night within pattern for class G
+special exception for aircraft operating at night within pattern for class G
 1-3 SM visibility, within 1/2 mile of runway, clear of clouds
 
 if a pilot has VFR flight following and is crosses an airway, ATC has primary responsibility for collision avoidance (yes/no)
@@ -4871,7 +4871,7 @@ steps to recover from a spiral dive
 throttle idle, wings level, gradually raise nose to level flight altitude
 
 common errors in performance of rectangular course maneuver
-failure to clear the area, failure to establish proper altitude prior to entry, failure to apply appropriate wind correction angle, gaining of losing altitude, poor coordination, abrupt control usage, inability to divide attention between control and maintaining ground track, improper timing in beginning and recovery from turns, inadequate checking for other aircraft
+failure to clear the area, failure to establish proper altitude prior to entry, failure to apply appropriate wind correction angle, gaining or losing altitude, poor coordination, abrupt control usage, inability to divide attention between control and maintaining ground track, improper timing in beginning and recovery from turns, inadequate checking for other aircraft
 
 how to position controls if wing starts to rise during a landing roll
 apply more aileron pressure toward the high wing
@@ -4937,7 +4937,7 @@ learning steep turns develops
 smoothness, coordination, orientation, division of attention, and control techniques for executing maximum performance turns when the airplane is near its performance limits
 
 why ballooning is particular dangerous during crosswind conditions
-with lower airspeed, crosswind with affect airplane more, wing will have to be lowered even more
+with lower airspeed, crosswind will affect airplane more, wing will have to be lowered even more
 
 reason tricycle gear airplane bounces when it touches down with an excessively high rate of sink or improper landing attitude
 rebounds into the air because the wing's angle of attack is abruptly increased, producing sudden addition to lift
