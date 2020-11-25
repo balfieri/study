@@ -4531,7 +4531,10 @@ mixture would become too lean and engine would begin to run rough and could stal
 significance of numbers on the ends of circuit breakers
 amperage rating - maximum number of of amperes that the corresponding electrical load may use and not trigger the breaker
 
-true altitude when going from hot to cold
+true altitude when going from hot to cold if indicated altitude stays the same
+decreases
+
+true altitude when going from higher pressure area to lower pressure area if indicated altitude stays the same
 decreases
 
 3 parts of an airplane adversely affected by density altitude
@@ -5109,3 +5112,12 @@ loss of aircraft control, loss of situational awareness, reduced reaction time, 
 
 CFIT
 accident or incident in which the airplane, under the flight crew's control, is inadvertently flown into terrain, obstacles, or water without either sufficient or timely flight crew awareness to prevent the event
+
+three things that affect air pressure
+temperature, humidity, altitude
+
+at temperatures above 15C, indicated altitude will be reported as lower than actual (yes/no)
+yes
+
+at temperatures below 15C, indicated altitude will be reported as higher than actual (yes/no)
+yes
