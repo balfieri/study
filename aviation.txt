@@ -1054,7 +1054,7 @@ LIFR conditions
 minimum VFR surface visility in SM (day, night)
 3, 5
 
-all fuel gauges work prior to takeoff (yes/no)
+all fuel gauges must work prior to takeoff (yes/no)
 yes
 
 GAMA
@@ -1724,7 +1724,7 @@ quantitative definition of wind shear
 rate of change of wind velocity per unit distance
 
 three places where wind shear occurs
-low-level temperature inversion, front zone or thunderstorm, clear air turbulence at high altitudes with a jet stream or strong circulation
+low-level temperature inversion, front zone of thunderstorm, clear air turbulence at high altitudes with a jet stream or strong circulation
 
 sources of information to help determine extent of wind shear
 TAF, METAR, SIGMET, LLWAS, PIREP
@@ -2086,7 +2086,7 @@ besides obvious, must also have master switch on
 signs of magneto malfunction
 roughness, misfiring
 
-first things to do when you suspect magneto malfunction before turning of magneto
+first things to do when you suspect magneto malfunction before turning off magneto
 try different power setting, richen mixture
 
 172SP normal climbout after takeoff, KIAS
@@ -2681,7 +2681,7 @@ drone restrictions
 < 400 ft AGL, daylight, clear of clouds
 
 things that contribute to runway incursions
-misunderstanding a clearance, failure to commnicate effectively, failure to navigate the airport correctly, unable to interpret airport signage, failure to maintain situational awareness
+misunderstanding a clearance, failure to communicate effectively, failure to navigate the airport correctly, unable to interpret airport signage, failure to maintain situational awareness
 
 information that should be consultated when planning taxi operations
 review airport signage/markings/lighting, review airport diagram, identify hot spots, review airfield NOTAMs and ATIS, conduct pre-taxi/pre-landing briefing, plan for critical times on route, plan to complete checklist items prior to taxi
@@ -2905,7 +2905,7 @@ always maintain situation awareness, good flight plan, sterile cockpit, familiar
 most important things to be aware of with AP
 know which modes are engaged and armed, ensure proper power to maintain level altitude
 
-reason to avionics master switch off before powering on/off engine
+reason to turn off avionics master switch before powering on/off engine
 voltage surges can damage sensitive com/nav electronics
 
 typical condition for vapor lock
@@ -3539,7 +3539,7 @@ purpose IDENT button on transponder
 momentarily intensifies secondary return on controller's radar scope, to be used only when requested by a controller
 
 steps to set up and use a VOR radio receiver for navigation
-check VOR frequency with that on sectional chart, enter frequency of VOR station and ensure active on the radio, listen to and verify Morse code, turn OBS to appropriate course, verify the TO/FROM indicator
+check VOR frequency with that on sectional chart, enter frequency of VOR station and ensure active on the radio (i.e., toggle it!), listen to and verify Morse code, turn OBS to appropriate course, verify the TO/FROM indicator
 
 reason for reply light flickering on transponder
 indicates transponder is transmitting a pulse in reply to a ground or airborne interrogation
@@ -3916,7 +3916,7 @@ yes
 you rent an airplane from an FBO and landing light is out - it is still airworthy (yes/no)
 no, it is being operated for hire even though you are the one doing the hiring
 
-when an airplane is not be airworthy during the day if NAV lights are not operative
+when an airplane is not airworthy during the day if NAV lights are not operative
 if plane has MEL that disallows it, if you forget to placard, if PIC decides it is not safe without it
 
 most important thing to remember about being PIC
@@ -4180,7 +4180,7 @@ yes
 difference between VSI on newer panel vs glass panel
 reads instantaneously
 
-why pitot-static instruments are mot reliable in uncoordinated flight
+why pitot-static instruments are not reliable in uncoordinated flight
 uneven air distribution over the fuselage
 
 lubber line
@@ -4718,7 +4718,7 @@ why pilots should focus on small areas of the sky during scans
 fovea (sharpest part of retina) has very narrow field of view
 
 in haze, pilot will tend to be too high on final approach to landing (yes/no)
-no, haze creates an illusion of being too at a greater distance from the runway, so the pilot will believe that the aircraft is higher than it is
+no, haze creates an illusion of being at a greater distance from the runway, so the pilot will believe that the aircraft is higher than it is
 
 if a commercial airliner has a pressurized cabin at 5000 ft but is flying at 3000 ft, the SCUBA rules say to wait 12 hours (yes/no)
 no, the wait rules apply to flight altitude not cabin pressure altitude, so wait 24 hours
@@ -4862,7 +4862,7 @@ accelerated stall
 any stall that occurs higher than the expected Vso
 
 causes of accelerated stalls
-airplane is heavier than max gross weight, airplane is flying uncoordinates, less flaps out than published with Vso, atmosphere less dense than published for Vso, load factor greater than speed for which the speed was published
+airplane is heavier than max gross weight, airplane is flying uncoordinated, less flaps out than published with Vso, atmosphere less dense than published for Vso, load factor greater than speed for which the speed was published
 
 what to do if you encounter unexpected traffic in the middle of steep turns
 immediately stop doing the maneuver and ensure safe separation from the traffic (duh!)
