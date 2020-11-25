@@ -34,7 +34,7 @@ PPP
 perceive, process, perform
 
 relationship of PAVE to PPP
-PAVE can be used for the preceive step of PPP
+PAVE can be used for the perceive step of PPP
 
 relationship of CARE to PPP
 CARE can be used for the process step of PPP
