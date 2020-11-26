@@ -21,6 +21,7 @@ Example of running the aviation questions:
                                            last 20% of the file
     ./run.py aviation 0 3 0 100 1       -- questions that are acronyms (includes upper case letters, numbers, or spaces)
     ./run.py aviation 0 3 0 100 6       -- same as previous but acronyms must be at least 6 characters long
+    ./run.py aviation 0 -1 0 100 6      -- same as previous but prompt for answers
 
 This is all open-source.  Refer to the LICENSE.md for licensing details.  
 
