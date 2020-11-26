@@ -36,7 +36,7 @@ if len( sys.argv ) < 2: die( 'usage: run.py <subject> [options]', '' )
 filename = sys.argv[1] + '.txt'
 question_cnt = int(sys.argv[2]) if len( sys.argv ) >= 3 else 20
 skip_prompts = len(sys.argv) >= 4
-skip_pause_sec = int(sys.argv[3]) if skip_prompts else 0
+skip_pause_sec = int(sys.argv[3]) if skip_prompts else 1
 file_start_pct = int(sys.argv[4]) if len(sys.argv) >= 5 else 0
 file_end_pct   = int(sys.argv[5]) if len(sys.argv) >= 6 else 100
 if file_start_pct < 0 or file_end_pct < 0: die( 'file_start_pct and file_end_pct must be >= 0' )
@@ -115,7 +115,7 @@ while True:
                     s = q if i == 0 else a
                     print( s + (':' if i == 0 else '\n') )
                     pause_sec = skip_pause_sec if len(s) <= 40 else int(skip_pause_sec * len(s) / 40)   # more time for long strings
-                    time.sleep( pause_sec )
+                    if skip_pause_sec > 0: time.sleep( pause_sec )
             else:
                 ua_lc = prompt( '\n' + q ).lower()
                 if ua_lc == a_lc: 

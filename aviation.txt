@@ -18,7 +18,7 @@ magenta line
 TRSA border on sectional
 thick gray line
 
-ANDS (maximum east-west)
+ANDS
 accelerate north, decelerate south
 
 UNOS 
@@ -57,13 +57,13 @@ private pilot certificate, government-issued photo id, medical certificate
 ARROW
 airworthiness certificate, registration, radio license, operator's handbook, weight/balance data for plane
 
-AV1ATES (required inspections)
+AV1ATES
 annual and ADs, VOR (30 days), 100-hour (for hire), altimeter (24 months), transponder (24 months), ELT (12 months), static system (24 months)
 
-ATOMATO FLAMES (required equipment for VFR)
+ATOMATO FLAMES
 altimeter, tachometer, oil pressure, manifold pressure (constant-speed propeller), airspeed indicator, temperature gauge (liquid-cooled engine), oil temperature gauge, fuel gauge, landing gear position indicator, anticollision lights (after March 11, 1996), magnetic compass, ELT, seatbelts
 
-FLAPS (required equipment for VFR night flight)
+FLAPS
 fuses, landing lights (for hire), anti-collision lights, position lights (nav lights), source of electricity
 
 SAFETY
@@ -228,10 +228,10 @@ traffic alert and collision avoidance system
 how soon must pilot notify FAA of change in address in days
 30
 
-FIS-B (meaning, MHZ)
+FIS-B
 flight information service - broadcast, 978
 
-HIWAS (meaning, MHz)
+HIWAS
 hazardous inflight weather advisory service, designated VOR frequencies (HIWAS no longer exists, FIS-B)
 
 AWOS
@@ -240,7 +240,7 @@ automatic weather observation system
 ATIS
 automatic terminal information services
 
-FSS (meaning, typical MHz)
+FSS
 flight service station, 122.2
 
 GFA
@@ -2228,7 +2228,7 @@ actions to take when there is no tower, FSS, or UNICOM station at the airport
 use MULTICOM 122.9
 
 RCO
-recmote communications outlet
+remote communications outlet
 
 purpose of RCO
 unmanned communications facility remotely controlled by ATC for purposes of communicating with pilots at satellite airports
@@ -3157,7 +3157,7 @@ class E visibility and cloud clearance >= 10000 MSL, day or night
 where you can do daytime pattern work with 1SM visibility and low clouds
 class G airport if cloud ceiling is at least 1000 ft, otherwise just need to stay clear of clouds so just below them
 
-TEMPO (in TAF)
+TEMPO
 temporary conditions expected to last less than an hour
 
 weather prognostic charts
@@ -4636,7 +4636,7 @@ no faster than a brisk walk
 meaning of red 4-APCH sign
 you are about to cross a runway approach or departure path
 
-FICON (in NOTAM)
+FICON
 field conditions
 
 how long pilot-controlled lighting will stay on usually
