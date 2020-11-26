@@ -67,7 +67,7 @@ FLAPS
 fuses, landing lights (for hire), anti-collision lights, position lights (nav lights), source of electricity
 
 SAFETY
-seatbelts, air vents, fire extinguisher, exit doors and windows, talking and traffic scanning, your questions
+seatbelts, air and heat vents, fire extinguisher, exit doors and windows, talking (sterile cockpit) and traffic scanning, your questions
 
 when you do NOT need an ELT
 when engaged with training within 50 nm of origin, when engaged in design and testing, when engaged in manufactor/preparation/delivery, when engaged in agricultural operations
