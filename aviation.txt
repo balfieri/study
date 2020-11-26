@@ -781,7 +781,7 @@ no, yes, yes
 actions to take if you start getting dizzy at altitude
 open window, descend, use aviation oxygen
 
-reason we don't we use medical oxygen
+reason we don't use medical oxygen
 it goes through a humidification process which could freeze at altitude
 
 reasons you would not descend at 1000 fpm or 1500 fpm
@@ -2875,7 +2875,7 @@ physical (mountains, obstacles), human behaviors, political, environmental (weat
 risk
 future impact of a hazard that is not controlled or eliminated, what may happen should a hazard manifest itself, chance or probability that harm may occur
 
-hazard vs. as pertains to a mountain
+hazard as pertains to a mountain
 a mountain is a hazard, running into the mountain with an aircraft is the risk
 
 use of PAVE to assess risk
@@ -4055,7 +4055,7 @@ different kinds of moisture that falls from the sky: drizzle, rain, snow, ice pe
 rain
 
 mixed ice
-formed when supercooled water droplets are of various sizes or are intermingled with snow or ice particles; after initial impact, the remaining portion freezes rapidly and forms a mushroom shape on the leading edges of a wing; Ice particles are imbedded in clear ice and form a hard and rough-edged mass
+formed when supercooled water droplets are of various sizes or are intermingled with snow or ice particles; after initial impact, the remaining portion freezes rapidly and forms a mushroom shape on the leading edges of a wing; ice particles are imbedded in clear ice and form a hard and rough-edged mass
 
 BLSN
 blowing snow
@@ -4280,7 +4280,7 @@ pilot should be careful when changing squawk code to
 not select 7500, 7600, or 7700
 
 ADS-R
-ADS-B re-broadcast facility fir ADS-B systems operating in lower UAT 978 vs upper 1090ES
+ADS-B re-broadcast facility for ADS-B systems operating in lower UAT 978 vs upper 1090ES
 
 MKR section of audio panel
 used by IFR pilots for marker beacon reception
