@@ -472,7 +472,7 @@ airworthiness certificate has an expiration date (yes/no)
 no
 
 conditions for airworthiness
-comform to master type design, in condition for safe operation
+conform to master type design, in condition for safe operation
 
 what to check that aircraft has conformed to all inspections and ADs
 airframe and engine logbooks
@@ -2272,7 +2272,7 @@ no, except in an emergency
 situations where no-portable-electronic devices rule applies
 under IFR unless pilot decides it will not cause a hazard, aircraft operated by a holder of an air carrier operating certificate
 
-in which phases of flight may a crewmember remove his/her shoulder harness
+phases of flight in which a crewmember may remove his/her shoulder harness
 enroute
 
 right-of-way rules for landing
