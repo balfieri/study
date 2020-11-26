@@ -36,7 +36,8 @@ if len( sys.argv ) < 2: die( 'usage: run.py <subject> [options]', '' )
 filename = sys.argv[1] + '.txt'
 question_cnt = int(sys.argv[2]) if len( sys.argv ) >= 3 else 20
 skip_prompts = len(sys.argv) >= 4
-skip_pause_sec = int(sys.argv[3]) if skip_prompts else 1
+skip_pause_sec = int(sys.argv[3]) if skip_prompts else -1
+skip_prompts = skip_prompts and skip_pause_sec >= 0
 file_start_pct = int(sys.argv[4]) if len(sys.argv) >= 5 else 0
 file_end_pct   = int(sys.argv[5]) if len(sys.argv) >= 6 else 100
 if file_start_pct < 0 or file_end_pct < 0: die( 'file_start_pct and file_end_pct must be >= 0' )
