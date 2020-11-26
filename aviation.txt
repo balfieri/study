@@ -5121,3 +5121,6 @@ yes
 
 at temperatures below 15C, indicated altitude will be reported as higher than actual (yes/no)
 yes
+
+slopes of warm vs. cold fronts
+warm fronts are characterized by having a gentle slope, promoting layered or stratiform cloudiness and precipitation along and ahead of the front if the warm rising air is stable; cold fronts have a steep slope, and the warm air is forced upward abruptly, often leading to a narrow band of showers and thunderstorms along or just ahead of the front if the warm rising air is unstable
