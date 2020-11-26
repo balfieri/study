@@ -10,15 +10,17 @@ There are a few text files provided for various topics of my interest. Feel free
     french.txt
     aviation.txt                        -- private pilot checkride oral exam
 
-Example of running the italian questions:
+Example of running the aviation questions:
 
-    ./run.py italian
-    ./run.py italian 100                -- same, but 100 questions instead of default of 20
-    ./run.py italian 0                  -- same, but ALL questions instead of default of 20
-    ./run.py italian 0 3                -- same, but ALL questions and just print the question 
+    ./run.py aviation
+    ./run.py aviation 100               -- same, but 100 questions instead of default of 20
+    ./run.py aviation 0                 -- same, but ALL questions instead of default of 20
+    ./run.py aviation 0 3               -- same, but ALL questions and just print the question 
                                            and answer with 3-second delays
-    ./run.py italian 0 3 80 100         -- same as previous but only ask questions from the 
+    ./run.py aviation 0 3 80 100        -- same as previous but only ask questions from the 
                                            last 20% of the file
+    ./run.py aviation 0 3 0 100 1       -- questions that are acronyms (includes upper case letters, numbers, or spaces)
+    ./run.py aviation 0 3 0 100 6       -- same as previous but acronyms must be at least 6 characters long
 
 This is all open-source.  Refer to the LICENSE.md for licensing details.  
 

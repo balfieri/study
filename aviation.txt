@@ -2629,13 +2629,13 @@ info that requires wide dissemination pertaining to nav aids, civic public-use a
 FDC NOTAM
 flight info that is regulatory in nature, including changes to IFR charts, procedures, and airspace usage
 
-POINTER NOTAM
+Pointer NOTAM
 issued by an FSS to point to another NOTAM
 
 SAA NOTAM
 issued when special advisory airspace will be active outside published schedule times
 
-MILITARY NOTAM
+Military NOTAM
 pertain to U.S. armed forces nav aids/airports that are part of the NAS
 
 (D) NOTAM keywords

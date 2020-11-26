@@ -42,6 +42,7 @@ file_end_pct   = int(sys.argv[5]) if len(sys.argv) >= 6 else 100
 if file_start_pct < 0 or file_end_pct < 0: die( 'file_start_pct and file_end_pct must be >= 0' )
 if file_end_pct > 100: die( 'file_end_pct must be <= 100' )
 if file_start_pct >= file_end_pct: die( 'file_start_pct must be < file_end_pct' )
+acronyms_only  = int(sys.argv[6]) if len(sys.argv) >= 7 else 0
 
 Q = open( filename, 'r' )
 all_questions = []
@@ -60,8 +61,9 @@ while True:
     if answer == '': die( 'question on line ' + line_num + ' is not followed by a non-blank answer on the next line' )
     line_num += 1
 
-    all_questions.append( question )
-    all_questions.append( answer )
+    if acronyms_only == 0 or (re.match( r'^[A-Z0-9\s]+$', question ) and len(question) >= acronyms_only):
+        all_questions.append( question )
+        all_questions.append( answer )
 Q.close()
 
 #-----------------------------------------------------------------------
