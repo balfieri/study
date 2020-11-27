@@ -4143,7 +4143,7 @@ too high
 which single six-pack instrument on Wright Brothers Flyer
 airspeed indicator, only thing that can't be inferred by looking outside
 
-VFR night flight is allowed even if VOR os out of inspection (yes/no)
+VFR night flight is allowed even if VOR is out of inspection (yes/no)
 yes, VOR is required only for IFR
 
 range of scale on most altimeters in Hg (min, max)
@@ -4927,7 +4927,7 @@ how to estimate wind direction and speed while perform9ing a power-off emergency
 look at windsock
 
 common errors in the performance of crosswind landings
-crosswinds that exceed the maximum demonstrated crosswind component reported in the POH, inadequate compensation for wind drift when turning base to final, inadequate compensation for wind drift when on final approach, unstabilized approach, faiulre to compensate for increased drag during side slip resulting in faster descent, touchdown while drifting, touchdown while crabbed, excessive airspeed on touchdown, failure to apply appropriate control inputs during rollout, failure to maintain direction control on rollout, excessive braking
+crosswinds that exceed the maximum demonstrated crosswind component reported in the POH, inadequate compensation for wind drift when turning base to final, inadequate compensation for wind drift when on final approach, unstabilized approach, failure to compensate for increased drag during side slip resulting in faster descent, touchdown while drifting, touchdown while crabbed, excessive airspeed on touchdown, failure to apply appropriate control inputs during rollout, failure to maintain direction control on rollout, excessive braking
 
 wheelbarrowing
 condition that occurs when pilot allows airplane weight to become concentrated about the nosewheel, resulting in less control with main wheels particularly during crosswind conditions
@@ -5126,3 +5126,30 @@ warm fronts are characterized by having a gentle slope, promoting layered or str
 
 combination of IMC and turbulence are conducive to...
 the development of spatial disorientation
+
+how occluded front appears on prog charts
+purple alternating triangles and semicircles
+
+weather prog chart purple line of alternating triangles and semicircles
+occluded front
+
+weather prog chart orange segmented line 
+trough
+
+weather prog chart red line with pairs of red dots
+squall line
+
+weather prog chart solid orange line with scalloped semicircles
+dry line
+
+dry line
+boundary separating moist and dry air masses
+
+weather prog chart solid orange line
+tropical wave
+
+tropical wave
+trough or cyclonic curvature maximum in the trade wind easterlies
+
+CAS
+clearing turns, altitude that is appropriate for maneuver, safe area
