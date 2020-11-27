@@ -3906,7 +3906,7 @@ annual, ELT
 aircraft flown 123 hours since last 100-hour and 10 hours and 18 days since last annual - it is legal to fly (yes/no)
 yes, annual takes place of 100-hour
 
-you nay log actual instrument tome as PIC time if you are sole manipulator and you are with a CFII if in instrument conditions (yes/no)
+you nay log actual instrument time as PIC time if you are sole manipulator and you are with a CFII if in instrument conditions (yes/no)
 yes
 
 night flight requirements may occur in an authorized simulator set up for night flight (yes/no)
