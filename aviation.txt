@@ -4641,7 +4641,7 @@ field conditions
 how long pilot-controlled lighting will stay on usually
 15 min
 
-meaning of flashing white light from conttrol tower when you are in the air
+meaning of flashing white light from control tower when you are in the air
 no defined meaning
 
 width of runway with 4, 6, 8, 12, 16 threshold stripes
@@ -5153,3 +5153,6 @@ trough or cyclonic curvature maximum in the trade wind easterlies
 
 CAS
 clearing turns, altitude that is appropriate for maneuver, safe area
+
+GUMPS final checklist
+Gas both tanks, Undercarriage (gear down), Mixture rich, Propeller RPMs high, Switches/Silence
