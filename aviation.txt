@@ -784,7 +784,7 @@ reason we don't use medical oxygen
 it goes through a humidification process which could freeze at altitude
 
 reasons you would not descend at 1000 fpm or 1500 fpm
-could exceed Vno/Vne, uncomforable for passengers
+could exceed Vno/Vne, uncomfortable for passengers
 
 actions to take if all radios die, inluding handheld
 squawk 7600, go to uncontrolled airport, circle above, call approach on phone, enter traffic pattern, watch for light gun signals
@@ -2352,11 +2352,11 @@ aircraft are designed for positive g
 when is aft CG better than forward CG
 takeoff, climb, cruise
 
-foreward CG is better for landing because
+forward CG is better for landing because
 more stability
 
 what happens to CG as you deplete fuel
-moves foreward
+moves forward
 
 use 75% EGT method of leaning the mixture when you want to maximize
 fuel economy
