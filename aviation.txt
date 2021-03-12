@@ -4261,13 +4261,13 @@ purpose of FREQ setting on DME
 frequency select mode so pilot can explicitly set the frequency used
 
 magnetic bearing on fixed-card ADF
-cannot be determined, but can
+cannot be determined, but can use MB=MH+RB
 
 distance measured by DME
 diagonal distance from aircraft to station
 
 reason not to rely on GPS altitude
-GPS altitude is height above GPS oblate spheroid, nit AGL or MSL, GPS vertical accuracy is 1/6 of horizontal accuracy
+GPS altitude is height above GPS oblate spheroid, not AGL or MSL, GPS vertical accuracy is 1/6 of horizontal accuracy
 
 how to interpret groundspeed/time on DME
 accurate only if the aircraft is heading directly to the station
@@ -4722,7 +4722,7 @@ fovea (sharpest part of retina) has very narrow field of view
 in haze, pilot will tend to be too high on final approach to landing (yes/no)
 no, haze creates an illusion of being at a greater distance from the runway, so the pilot will believe that the aircraft is higher than it is
 
-if a commercial airliner has a pressurized cabin at 5000 ft but is flying at 3000 ft, the SCUBA rules say to wait 12 hours (yes/no)
+if a commercial airliner has a pressurized cabin at 5000 ft but is flying at 30000 ft, the SCUBA rules say to wait 12 hours (yes/no)
 no, the wait rules apply to flight altitude not cabin pressure altitude, so wait 24 hours
 
 reasons class E is considered a controlled airspace
@@ -5156,3 +5156,6 @@ clearing turns, altitude that is appropriate for maneuver, safe area
 
 GUMPS final checklist
 Gas both tanks, Undercarriage (gear down), Mixture rich, Propeller RPMs high, Switches/Silence
+
+*RP
+right pattern, but see chart supplement for exceptions
