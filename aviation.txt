@@ -5159,3 +5159,6 @@ Gas both tanks, Undercarriage (gear down), Mixture rich, Propeller RPMs high, Sw
 
 *RP
 right pattern, but see chart supplement for exceptions
+
+HS on airport diagram
+hot spot, typically an intersection where there is a lot of congestion
