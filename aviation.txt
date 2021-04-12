@@ -4758,7 +4758,7 @@ radius of typical outer area of class C airspace
 special exception for aircraft operating at night within pattern for class G
 1-3 SM visibility, within 1/2 mile of runway, clear of clouds
 
-if a pilot has VFR flight following and is crosses an airway, ATC has primary responsibility for collision avoidance (yes/no)
+if a pilot has VFR flight following and crosses an airway, ATC has primary responsibility for collision avoidance (yes/no)
 no, the pilot in command has primary responsibility whenever in VMC
 
 if flying over a class E airport at 2000 ft AGL with an operating control tower (rare), it is necessary to contact the control tower (yes/no)
@@ -5162,3 +5162,21 @@ right pattern, but see chart supplement for exceptions
 
 HS on airport diagram
 hot spot, typically an intersection where there is a lot of congestion
+
+172SP minimum static RPM during takeoff
+2300-2400
+
+runway length on sectional chart is available for landing
+not necessarily, must subtract any displaced threshold; also, there could be multiple runways; consult the chart supplement
+
+how to deal with hydroplaning
+slow down, use longer runway, touch down firmer
+
+cause of carrier-only signal being transmitted from radio
+mic is not fully plugged in
+
+how to know if ELT has been used for one cummulative hour
+do not know
+
+fatigue vs. stress
+fatigue is physical exhaustion while stress is mental exhaustion
