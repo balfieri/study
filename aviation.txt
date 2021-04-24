@@ -637,7 +637,7 @@ action to take if you are taking off just as large aircraft landed
 take off well past the touch-down point
 
 Explain the hemispheric rule
-eastbound odd-thousands + 500, westbound even-thousands + 500
+applies to VFR 3000 ft AGL to 17999 ft MSL, eastbound odd-thousands + 500, westbound even-thousands + 500
 
 types of hypoxia
 hypoxic (lungs), hypemic (blood), stagnant (pooling), hystotoxic (cells)
@@ -4404,9 +4404,6 @@ rapid change occuring with one hour, gradual change to take place over the cours
 four sections of an area forecast
 header, synopsis (valid for 18 hours), VFR clouds and weather (valid for 12 hours), outlook (valid for 6 hours), 
 
-what can cause cloud ceilings to be AGL rather than default MSL
-preceded by AGL or CIG (ceiling)
-
 when to use auxilliary fuel pump
 starting engine, high altitudes, engine failure, rough engine
 
@@ -5186,3 +5183,12 @@ rapid yawing of fixed-wing aircraft while on the ground
 
 airplanes that are most susciptable to ground loops
 those with conventional landing gear (tailwheel)
+
+are cloud ceilings reported by METARs and TAFs in AGL or MSL?
+AGL, so must add field elevation to get MSL which is what altimeter is in
+
+are area forecasts in AGL or MSL?
+MSL, because they cover large areas with different field elevations
+
+what do you do if you have a total electrical failure at night?
+divert to a towered airport and fly by the tower and watch for light signals; clear to land is solid green
