@@ -325,7 +325,7 @@ how to prioritize when overloaded
 aviate, navigate, communicate
 
 factors contributing to CFIT accidents
-lack of pilot currency, loss of situational awareness, pilot distractions, failure to comply with minimum safe altitudes, breakdown in effect ADM, insufficient planning
+lack of pilot currency, loss of situational awareness, pilot distractions, failure to comply with minimum safe altitudes, breakdown in effective ADM, insufficient planning
 
 complex aircraft features
 retractable landing gear, controllable pitch propeller, flaps
@@ -4582,7 +4582,7 @@ how class E down the surface is depicted on the sectional chart
 segmented magenta line
 
 contour line
-line connecting points on Earch of equal elevation
+line connecting points on Earth of equal elevation
 
 distance between tick marks along lines of longitude, lines of latitude
 1 nm, varies (not useful for measurement)
