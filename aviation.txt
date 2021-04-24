@@ -5180,3 +5180,9 @@ do not know
 
 fatigue vs. stress
 fatigue is physical exhaustion while stress is mental exhaustion
+
+ground loop
+rapid yawing of fixed-wing aircraft while on the ground
+
+airplanes that are most susciptable to ground loops
+those with conventional landing gear (tailwheel)
