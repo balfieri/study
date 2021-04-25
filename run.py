@@ -59,7 +59,7 @@ while True:
     answer = Q.readline()
     answer = re.sub( r'^\s+', '', answer )
     answer = re.sub( r'\s+$', '', answer )
-    if answer == '': die( 'question on line ' + line_num + ' is not followed by a non-blank answer on the next line' )
+    if answer == '': die( f'question on line {line_num} is not followed by a non-blank answer on the next line' )
     line_num += 1
 
     if acronyms_only == 0 or (re.match( r'^[A-Z0-9\s]+$', question ) and len(question) >= acronyms_only):

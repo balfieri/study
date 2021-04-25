@@ -1,2133 +1,2133 @@
 # aviation.txt - private pilot checkride questions
 #
-PLSTART
+{sop} PLSTART
 pitch for best glide speed, landing site, seat belt, troubleshoot, approach, radio, turn off
 
-MCPRAWN
+{chart} MCPRAWN
 military operations, controlled firing, prohibited, restricted, alert, warning, national security TFR
 
-MCPRAWN borders on sectional
+{chart} MCPRAWN borders on sectional
 magenta hashed lines, none, blue hashed lines, blue hashed lines, magenta hashed lines, blue hashed lines, thick magenta hashed line
 
-ADIZ border on sectional
+{chart} ADIZ border on sectional
 magenta line and dots
 
-Mode C veil on sectional
+{chart} Mode C veil on sectional
 magenta line
 
-TRSA border on sectional
+{chart} TRSA border on sectional
 thick gray line
 
-ANDS
+{sys} ANDS
 accelerate north, decelerate south
 
-UNOS 
+{sys} UNOS 
 undershoot from north, overshoot from south
 
-IMSAFE
+{adm} IMSAFE
 illness, medications, stress, alcohol, fatigue, emotions/eating
 
-DECIDE
+{adm} DECIDE
 detect, estimate, choose most desirable outcome, identify actions to effect outcome, do, evaluate
 
-PPP
+{adm} PPP
 perceive, process, perform
 
-relationship of PAVE to PPP
+{adm} relationship of PAVE to PPP
 PAVE can be used for the perceive step of PPP
 
-relationship of CARE to PPP
+{adm} relationship of CARE to PPP
 CARE can be used for the process step of PPP
 
-relationship of TEAM to PPP
+{adm} relationship of TEAM to PPP
 TEAM can be used for the perform step of PPP
 
-PAVE
+{adm} PAVE
 pilot, aircraft, environment, external pressures
 
-CARE
+{adm} CARE
 consequences, alternatives, reality, external factors
 
-TEAM
+{adm} TEAM
 transfer (task to somebody else), eliminate (risk possible?), accept (risk), mitigate
 
-private pilot must carry...
+{reg} private pilot must carry...
 private pilot certificate, government-issued photo id, medical certificate
 
-ARROW
+{reg} ARROW
 airworthiness certificate, registration, radio license, operator's handbook, weight/balance data for plane
 
-AV1ATES
+{reg} AV1ATES
 annual and ADs, VOR (30 days), 100-hour (for hire), altimeter (24 months), transponder (24 months), ELT (12 months), static system (24 months)
 
-ATOMATO FLAMES
+{reg} ATOMATO FLAMES
 altimeter, tachometer, oil pressure, manifold pressure (constant-speed propeller), airspeed indicator, temperature gauge (liquid-cooled engine), oil temperature gauge, fuel gauge, landing gear position indicator, anticollision lights (after March 11, 1996), magnetic compass, ELT, seatbelts
 
-FLAPS
+{reg} FLAPS
 fuses, landing lights (for hire), anti-collision lights, position lights (nav lights), source of electricity
 
-SAFETY
+{sop} SAFETY
 seatbelts, air and heat vents, fire extinguisher, exit doors and windows, talking (sterile cockpit) and traffic scanning, your questions
 
-when you do NOT need an ELT
+{reg} when you do NOT need an ELT
 when engaged with training within 50 nm of origin, when engaged in design and testing, when engaged in manufactor/preparation/delivery, when engaged in agricultural operations
 
-SUA
+{chart} SUA
 special use airspace
 
-LAHSO
+{sop} LAHSO
 land and hold short operations
 
-ADM
+{adm} ADM
 aeronautical decision making
 
-SRM
+{adm} SRM
 single pilot resource management
 
-PPPPP
+{adm} PPPPP
 plan, plane, pilot, passengers, programming
 
-purpose of PPPPP
+{adm} purpose of PPPPP
 practical way of implementating SRM 
 
-MRLIDD
+{adm} MRLIDD
 mandatory instruction, runway distance remaining, location, information, destination, direction
 
-PARE spin recovery
+{sop} PARE spin recovery
 power to idle, ailerons to neutral, rudder full opposite, elevator pitch down, and then neutralize main controls
 
-CCCCC actions if you cannot establish your current position
+{sop} CCCCC actions if you cannot establish your current position
 confess, climb, circle, conserve, communicate
 
-runway incursions
+{adm} runway incursions
 incorrect entry or presence on runway protected area, incorrect runway crossing, incorrect spacing between aircraft, takeoff or landing without ATC clearance
 
-runway incursion risks
+{adm} runway incursion risks
 crossing runway/taxiway, takeoff/landing without clearance, failure to comply with ATC, lack of airport familiarity, failure to follow SOP
 
-SOP
+{sop} SOP
 standard operation procedure
 
-flight controls
+{sys} flight controls
 ailerons, elevator, rudder, flaps, trim
 
-dangerous attitudes
+{adm} dangerous attitudes
 macho, anti-authority, impulsivity, invulnerability, resignation
 
-VASI
+{sys} VASI
 visual approach slope indicator
 
-PAPI
+{sys} PAPI
 precision approach path indicator
 
-flashing green (air, ground)
+{sop} flashing green (air, ground)
 return to land, clear to taxi
 
-steady green (air, ground)
+{sop} steady green (air, ground)
 clear to land, clear to takeoff
 
-flashing red (air, ground)
+{sop} flashing red (air, ground)
 do not land, clear the runway
 
-steady red (air, ground)
+{sop} steady red (air, ground)
 give way to traffic, stop
 
-alternating red and green (air or ground)
+{sop} alternating red and green (air or ground)
 exercise extreme caution
 
-flashing white (ground only)
+{sop} flashing white (ground only)
 return to start point
 
-accident cause factors
+{adm} accident cause factors
 inadequate planning, failure to maintain speed, failure to maintain directional control, improper level-off, failure to avoid obstructions, mismanagement of fuel, improper inflight decisions, misjudging distance or speed, selection of unsuitable terrain, improper operation of flight controls
 
-flight review (how often, ground, training)
+{reg} flight review (how often, ground, training)
 2 years, 1 hour, 1 hour
 
-maneuvers to lose altitude
+{sop} maneuvers to lose altitude
 360-degree turns, s-turns, forward slip
 
-EFB
+{sys} EFB
 electronic flight bag
 
-frequency of METAR, radar, PIREP, TAF, winds aloft, GFA, AIRMET, SIGMET, convective SIGMET (hours)
+{weather} frequency of METAR, radar, PIREP, TAF, winds aloft, GFA, AIRMET, SIGMET, convective SIGMET (hours)
 1, 1, when occurs, 6, 12, 1, 6, when occurs, 1
 
-valid period of METAR, radar, PIREP, TAF, winds aloft, GFA, AIRMET, SIGMET, convective SIGMET (hours)
+{weather} valid period of METAR, radar, PIREP, TAF, winds aloft, GFA, AIRMET, SIGMET, convective SIGMET (hours)
 observed, observed, observed, 24, on report, 1, 6, 4, 2
 
-requirements for thunderstorms
+{weather} requirements for thunderstorms
 moist air, unstable lapse rate, initial lifting force
 
-stages of thunderstorm
+{weather} stages of thunderstorm
 cumulus, mature, dissipative
 
-types of structural ice
+{weather} types of structural ice
 clear, rime, mixed (both)
 
-at which temperatures do clear, mixed, and rime form
+{weather} at which temperatures do clear, mixed, and rime form
 2 to -10C, -10C to -15C, -15C to -20C
 
-reasons clear ice more dangeous
+{weather} reasons clear ice more dangeous
 rime only forms on leading edge, clear is on entire wing, harder to notice, more mass
 
-fronts
+{weather} fronts
 cold, warm, occluded, stationary
 
-occluded front
+{weather} occluded front
 fast-moving cold front that catches up with a slower-moving cold or warm front
 
-types of fog
+{weather} types of fog
 radiation, advection, upslope, steam, valley, precipitation
 
-valley fog
+{weather} valley fog
 when cold winter sun cannot burn off radition fog in a valley
 
-advection fog
+{weather} advection fog
 moist warm air moves over colder land or water via a wind
 
-radiation fog
+{weather} radiation fog
 forms on clear nights with little or no wind and only over land
 
-precipitation induced fog
+{weather} precipitation induced fog
 warm rain falls through cool air, evaporation from the rain saturates the cool air and fog forms
 
-upslope fog
+{weather} upslope fog
 moist unstable air is cooled as wind pushes it up a slope
 
-spatial disorientations
+{adm} spatial disorientations
 the leans, graveyard spin, graveyard spiral, somatogravic illusion, head-down illusion, coriolis illusion, inversion illusion, elevator illusion
 
-visual and optical illusions
+{adm} visual and optical illusions
 autokinesis, false horizon, linear perceptive illusions, precipitation illusions, black-hole approach, white-out, empty field myopia, confirmation bias and sensory exclusion
 
-instruments in pitotstatic system
+{sys} instruments in pitotstatic system
 altimeter, airspeed indicator, vertical speed indicator
 
-instruments in vacuum system
+{sys} instruments in vacuum system
 attitude indicator, heading indicator
 
-EBGAAR right-of-way rules
+{reg} EBGAAR right-of-way rules
 emergency, balloon, glider, aircraft towing/refueling, airship, rotocraft/airplane
 
-speed limits (below 10,000 ft, below 2500 ft class C/D, underlying class B)
+{reg} speed limits (below 10,000 ft, below 2500 ft class C/D, underlying class B)
 250, 200, 200
 
-< 40-year-old medical review in months by class (1st, 2nd, 3rd)
+{reg} < 40-year-old medical review in months by class (1st, 2nd, 3rd)
 12, 12, 60
 
-40+-year-old medical review in months by class (1st, 2nd, 3rd) 
+{reg} 40+-year-old medical review in months by class (1st, 2nd, 3rd) 
 6, 12, 24
 
-deviation from ATC
+{sop} deviation from ATC
 amended clearance, emergency, response to TACAS
 
-TACAS
+{sop} TACAS
 traffic alert and collision avoidance system
 
-how soon must pilot notify FAA of change in address in days
+{reg} how soon must pilot notify FAA of change in address in days
 30
 
-FIS-B
+{sop} FIS-B
 flight information service - broadcast, 978
 
-HIWAS
+{weather} HIWAS
 hazardous inflight weather advisory service, designated VOR frequencies (HIWAS no longer exists, FIS-B)
 
-AWOS
+{weather} AWOS
 automatic weather observation system
 
-ATIS
+{weather} ATIS
 automatic terminal information services
 
-FSS
+{weather} FSS
 flight service station, 122.2
 
-GFA
+{weather} GFA
 geographical forecast for aviation
 
-CWA
+{weather} CWA
 central weather advisory
 
-in-flight sources of weather information
+{weather} in-flight sources of weather information
 FSS, ATIS, HIWAS, FIS-B, ATC, Foreflight
 
-in-flight weather advisories
+{weather} in-flight weather advisories
 AIRMET, SIGMET, convective SIGMET, CWA
 
-4 ways to navigate
+{sop} 4 ways to navigate
 pilotage, dead reckoning, VOR, GPS
 
-RAIM
+{sys} RAIM
 receiver autonomous integrity monitoring
 
-WAAS
+{sys} WAAS
 wide area augmentation system is a ground and satellite integrated nav error correction system that provides accuracy enhancements to GPS, if aircraft has GPS/WAAS-enabled equipment
 
-CTAF
+{sys} CTAF
 common traffic advisory frequency
 
-CTAF vs. UNICOM
+{chart} CTAF vs. UNICOM
 CTAF may be UNICOM, MULTICOM, FSS, or TOWER frequency
 
-UNICOM
+{chart} UNICOM
 non-government communication facility
 
-typical UNICOM frequencies at uncontrolled airports
+{chart} typical UNICOM frequencies at uncontrolled airports
 122.7, 122.725, 122.8, 122.975, 123.0, 123.050, 123.075
 
-typical UNICOM frequencies at controlled airports
+{chart} typical UNICOM frequencies at controlled airports
 122.95
 
-VHF emergency frequency (MHz)
+{chart} VHF emergency frequency (MHz)
 121.5
 
-RCO
+{chart} RCO
 remote communications outlet
 
-NWKRAFT
+{adm} NWKRAFT
 NOTAMs, weather, known ATC delays, runway lengths, alternate airports, fuel requirements, takeoff/landing distance data
 
-reserve fuel requirements in minutes past destination (day, night)
+{reg} reserve fuel requirements in minutes past destination (day, night)
 30, 45
 
-ELT
+{sys} ELT
 emergency locator transmitter
 
-SFRA
+{chart} SFRA
 special flight rules area
 
-TRSA
+{chart} TRSA
 terminal radar service area
 
-ADIZ
+{chart} ADIZ
 air defense identifiction zone
 
-ARTCC
+{chart} ARTCC
 air route traffic control center
 
-UAS
+{chart} UAS
 unmanned aircraft system
 
-position lights (left, right, tail)
+{sys} position lights (left, right, tail)
 red, green, white
 
-position lights must be turned on when
+{reg} position lights must be turned on when
 from sunset to sunrise
 
-REIL
+{chart} REIL
 runway end identification light
 
-beacons (land, hospital, seaport, heliport, military)
+{chart} beacons (land, hospital, seaport, heliport, military)
 white/green, white/green/red, white/yellow, white/green/yellow, white/white/green
 
-how to prioritize when overloaded
+{adm} how to prioritize when overloaded
 aviate, navigate, communicate
 
-factors contributing to CFIT accidents
+{adm} factors contributing to CFIT accidents
 lack of pilot currency, loss of situational awareness, pilot distractions, failure to comply with minimum safe altitudes, breakdown in effective ADM, insufficient planning
 
-complex aircraft features
+{sys} complex aircraft features
 retractable landing gear, controllable pitch propeller, flaps
 
-high-performance aircraft features
+{sys} high-performance aircraft features
 more than 200 HP
 
-Mooney M20J-201 a high-performance aircraft (yes/no)
+{sys} Mooney M20J-201 a high-performance aircraft (yes/no)
 no, right at 200 HP
 
-KOEL
+{reg} KOEL
 kinds of operations equipment list
 
-TAA
+{sys} TAA
 technologically advanced aircraft
 
-TAA features
+{sys} TAA features
 AP, glass panel or GPS
 
-where to find ADs
+{sys} where to find ADs
 FAA website
 
-SFP
+{reg} SFP
 special flight permit
 
-requirements to fly tailwheel or complex aircraft or high-altitude aircraft
+{reg} requirements to fly tailwheel or complex aircraft or high-altitude aircraft
 training, logbook endorsement
 
-MEL
+{reg} MEL
 minimum equipment list
 
-purpose of MEL
+{reg} purpose of MEL
 list of equipment that can be broken
 
-172SP has a MEL (yes/no)
+{reg} 172SP has a MEL (yes/no)
 no, we adhere to 91.205
 
-when an aircraft owner can change a MEL
+{reg} when an aircraft owner can change a MEL
 only after approval by the FAA
 
-conditions that require ELT inspection
+{reg} conditions that require ELT inspection
 12 months elapsed, less than 50% battery life, battery used continuously for more than one hour, accident
 
-Vs0 (meaning, 172SP)
+{sys} Vs0 (meaning, 172SP)
 stall speed in landing configuration, 40
 
-Vs1 (meaning, 172SP)
+{sys} Vs1 (meaning, 172SP)
 stall speed in clean configuration, 48
 
-Vr (meaning, 172SP)
+{sys} Vr (meaning, 172SP)
 rotation speed, 55
 
-Vx (meaning, 172SP flaps 0-deg, 10-deg)
+{sys} Vx (meaning, 172SP flaps 0-deg, 10-deg)
 enroute best angle-of-climb speed, 62, 56
 
-Vy (meaning, 172SP)
+{sys} Vy (meaning, 172SP)
 takeoff best rate-of-climb speed, 74
 
-Vfe (meaning, 172SP 10-deg, 172SP > 10-deg)
+{sys} Vfe (meaning, 172SP 10-deg, 172SP > 10-deg)
 maxiumum flap-extended speed, 110, 40-85
 
-Va (meaning, 172SP 2550 lb, 172SP 2200 lb, 172SP 1900 lb)
+{sys} Va (meaning, 172SP 2550 lb, 172SP 2200 lb, 172SP 1900 lb)
 maneuvering speed, 105, 98, 90
 
-Vg (meaning, 172SP)
+{sys} Vg (meaning, 172SP)
 best glide speed, 68
 
-Vno (meaning, 172SP)
+{sys} Vno (meaning, 172SP)
 maximum structural cruising speed, 129
 
-Vne (meaning, 172SP)
+{sys} Vne (meaning, 172SP)
 never exceed speed, 163
 
-172SP maximum ramp weight (normal)
+{sys} 172SP maximum ramp weight (normal)
 2558
 
-172SP maximum takeoff and landing weights (normal)
+{sys} 172SP maximum takeoff and landing weights (normal)
 2550
 
-172SP maximum weight baggage area 1
+{sys} 172SP maximum weight baggage area 1
 120
 
-172SP maximum weight baggage area 2
+{sys} 172SP maximum weight baggage area 2
 50
 
-172SP maximum weight baggage area 1+2
+{sys} 172SP maximum weight baggage area 1+2
 120
 
-172SP limit load factor normal in g's (flaps up, flaps down, flaps up negative)
+{sys} 172SP limit load factor normal in g's (flaps up, flaps down, flaps up negative)
 3.8, 3.0, -1.52
 
-172SP limit load factor utility in g's (flaps up, flaps down, flaps up negative)
+{sys} 172SP limit load factor utility in g's (flaps up, flaps down, flaps up negative)
 4.4, 3.0, -1.76
 
-172SP engine and characteristics
+{sys} 172SP engine and characteristics
 Lycoming IO-360-L2A, normally aspirated, 4-cylinder horizontally opposed
 
-normally aspirated
+{sys} normally aspirated
 air enters intake manifold, no turbocharger
 
-172SP engine power (HP, RPM)
+{sys} 172SP engine power (HP, RPM)
 180, 2700
 
-172SP aviation engine oil type (past break-in period)
+{sys} 172SP aviation engine oil type (past break-in period)
 ashless dispersant
 
-172SP oil required level in quarts (minimum, maximum)
+{sys} 172SP oil required level in quarts (minimum, maximum)
 5, 8
 
-172SP approved fuels
+{sys} 172SP approved fuels
 100LL (blue), 100 (green)
 
-172SP fuel gal (total, usuable, unusable, usable per wing tank, usuable per wing tank up to tabs)
+{sys} 172SP fuel gal (total, usuable, unusable, usable per wing tank, usuable per wing tank up to tabs)
 56, 53, 3, 26.5, 17.5
 
-advantages of fuel injection
+{sys} advantages of fuel injection
 no carb ice, better fuel flow, faster throttle response, precise mixture control, easier cold start
 
-main disadvantage of fuel injection
+{sys} main disadvantage of fuel injection
 vapor lock
 
-172SP max flap degrees for takeoff
+{sys} 172SP max flap degrees for takeoff
 10
 
-172SP electrical system (system volts, battery volts, alternator amperage, min voltage before warning light)
+{sys} 172SP electrical system (system volts, battery volts, alternator amperage, min voltage before warning light)
 28, 24, 60, 24.5
 
-172SP location of battery
+{sys} 172SP location of battery
 left forward portion of firewall, makes it susceptible to exploding if engine is on fire 
 
-eligibility requirements for private pilot certificate
+{reg} eligibility requirements for private pilot certificate
 17 years old, read/speak/write/understand English, at least 3rd class medical, training, logbook endorsements, 70% on written
 
-privileges and limitations, of private pilot certificate
+{reg} privileges and limitations, of private pilot certificate
 carry passengers, pay at least pro rata share, business if incidental, non-profit event, search and rescue, demonstrate aircraft to buyer if 200+ hours, tow a glider, test flight in light-sport aircraft
 
-flights you must log in your logbook
+{reg} flights you must log in your logbook
 required training, required aeronautical experience
 
-types of airworthiness certificates
+{reg} types of airworthiness certificates
 standard, special, experimental
 
-airworthiness certificate has an expiration date (yes/no)
+{reg} airworthiness certificate has an expiration date (yes/no)
 no
 
-conditions for airworthiness
+{reg} conditions for airworthiness
 conform to master type design, in condition for safe operation
 
-what to check that aircraft has conformed to all inspections and ADs
+{reg} what to check that aircraft has conformed to all inspections and ADs
 airframe and engine logbooks
 
-person responsible for ensuring that aircraft is maintained in an airworthy condition
+{reg} person responsible for ensuring that aircraft is maintained in an airworthy condition
 owner or operator
 
-TCDS
+{reg} TCDS
 type certificate data sheet
 
-STC
+{reg} STC
 supplemental type certificate
 
-how long aircraft registration certficate is valid
+{reg} how long aircraft registration certficate is valid
 3 years
 
-frequency of VOR inspections
+{reg} frequency of VOR inspections
 30 days
 
-frequency of transponder inspections
+{reg} frequency of transponder inspections
 24 months
 
-frequency of ELT inspections
+{reg} frequency of ELT inspections
 12 months
 
-FSDO
+{reg} FSDO
 flight standards district office
 
-pilot should determine if aircraft is airworthy by seeing if broken instrument is part of
+{reg} pilot should determine if aircraft is airworthy by seeing if broken instrument is part of
 MEL, VFR requirements, KOEL, ADs
 
-flow of air in and around low pressure system in northern hemisphere
+{weather} flow of air in and around low pressure system in northern hemisphere
 inward, upward, counterclockwise
 
-flow of air in and around high pressure system in norhern hemisphere
+{weather} flow of air in and around high pressure system in norhern hemisphere
 outwward, downward, clockwise
 
-seatbelts that can be broken
+{reg} seatbelts that can be broken
 those in unoccupied seats
 
-meaning of pressure altitude
+{perf} meaning of pressure altitude
 pressure altitude is the height above a standard datum plane (SDP), which is a theoretical level where the weight of the atmosphere is 29.92 inches of mercury
 
-practical meaning of pressure altitude
+{perf} practical meaning of pressure altitude
 indicated altitude when altimeter is set to 29.92
 
-equation for pressure altitude
+{perf} equation for pressure altitude
 PA = elevation + 1000 * (29.92 - altimeter)
 
-meaning of density altitude
+{perf] meaning of density altitude
 pressure altitude corrected for non-standard temperature
 
-Equation for density altitude
+{perf} equation for density altitude
 DA = PA + 118.8*(OAT-15+elevation/500)
 
-you can fly a drunk passenger (yes/no)
+{reg} you can fly a drunk passenger (yes/no)
 no
 
-you can fly an injured passenger (yes/no)
+{reg} you can fly an injured passenger (yes/no)
 yes
 
-actions to take if the alternator belt slipped off its wheel
+{sys} actions to take if the alternator belt slipped off its wheel
 pull ALT FLD circuit breaker, turn off nonessential electrical equipment, land as soon as practical
 
-how to enter S-turns
+{sop} how to enter S-turns
 do clearing turns, descend to 800 ft AGL, enter downwind perpendicular to line
 
-172SP hydraulic systems
+{sys} 172SP hydraulic systems
 brakes
 
-172SP hydraulic fluid color
+{sys} 172SP hydraulic fluid color
 red
 
-172SP heating system
+{sys} 172SP heating system
 shroud around the exhaust muffler
 
-172SP type of turn coordinator
+{sys} 172SP type of turn coordinator
 electric
 
-why turn coordinator is electric
+{sys} why turn coordinator is electric
 redundancy in case vacuum pump is broken
 
-172SP number of vacuum pumps
+{sys} 172SP number of vacuum pumps
 2
 
-purposes of engine oil
+{sys} purposes of engine oil
 coolant, lubricant, corrosion inhibitor, sealant, cleaner
 
-grace periods (annual, 100-hour, ADs)
+{reg} grace periods (annual, 100-hour, ADs)
 none, 10 hours, none
 
-required documents on board an aircraft that must be in view
+{reg} required documents on board an aircraft that must be in view
 annual inspection, registration
 
-time spent in flight review with a CFI
+{reg} time spent in flight review with a CFI
 1 hour ground, 1 hour flight
 
-Feet above pattern altitude for midfield crossover
+{sop} Feet above pattern altitude for midfield crossover
 500
 
-when you would want to fly slower than Va
+{perf} when you would want to fly slower than Va
 descent, climb, extreme turbulence, feel like it
 
-types of ADs
+{reg} types of ADs
 emergency, one-time, recurring
 
-grace period (annual, 100-hour)
+{reg} grace period (annual, 100-hour)
 none, 10 hours
 
-what invalidates an airworthiness certificate
+{reg} what invalidates an airworthiness certificate
 failure to comply with ADs, modifications to the airplane outside the design, failure to do required maintenance
 
-Effects of high density altitude on aircraft performance
+{perf} effects of high density altitude on aircraft performance
 reduces lift, decreases propeller efficiency, decreases engine efficiency, increases takeoff/landing distances
 
-Things that increase density altitude besides elevation
+{perf} things that increase density altitude besides elevation
 lower atmospheric pressure, higher temperature, higher humidity
 
-172SP can have carb ice (yes/no)
+{sys} 172SP can have carb ice (yes/no)
 no, the 172SP has no carburator
 
-signs of carb ice
+{sys} signs of carb ice
 reduction in RPM for a given throttle setting
 
-circumstances in which you may intentionally spin a 172SP
+{sys} circumstances in which you may intentionally spin a 172SP
 weight and balance must be in utility category
 
-when to use pitot heat
+{sys} when to use pitot heat
 anticipate icing conditions
 
-172SP ice protection
+{sys} 172SP ice protection
 pitot heat, alternate static source, defrost via cabin heat
 
-172SP service ceiling in ft
+{sys} 172SP service ceiling in ft
 14000
 
-direction to turn if approaching another aircraft head on
+{sop} direction to turn if approaching another aircraft head on
 right
 
-a student pilot fly into class B airspace (yes/no)
+{chart} a student pilot fly into class B airspace (yes/no)
 yes, with proper training and logbook endorsement
 
-equipment needed to enter class B airspace
+{chart} equipment needed to enter class B airspace
 mode-C transponder, ADS-B, radio, VOR/TACAN/RNAV for IFR
 
-actions to take if you get lost
+{sop} actions to take if you get lost
 CCCCC, use GPS, look for landmarks, use VORs
 
-isogonic line
+{chart} isogonic line
 connects points of equal magnetic variation
 
-how to use isogonic lines
+{chart} how to use isogonic lines
 during flight planning to calculate magnetic heading
 
-required to compute compass heading
+{perf} required to compute compass heading
 magnetic heading, magnetic deviation
 
-action to take if you are landing just as a large aircraft is taking off
+{sop} action to take if you are landing just as a large aircraft is taking off
 land well short of takeoff point
 
-action to take if you are taking off just as large aircraft landed
+{sop} action to take if you are taking off just as large aircraft landed
 take off well past the touch-down point
 
-Explain the hemispheric rule
+{chart} explain the hemispheric rule
 applies to VFR 3000 ft AGL to 17999 ft MSL, eastbound odd-thousands + 500, westbound even-thousands + 500
 
-types of hypoxia
+{adm} types of hypoxia
 hypoxic (lungs), hypemic (blood), stagnant (pooling), hystotoxic (cells)
 
-causes of hypoxic hypoxia
+{adm} causes of hypoxic hypoxia
 high altitude, lung illness
 
-causes of hypemic hypoxia
+{adm} causes of hypemic hypoxia
 carbon monoxide poisoning, smoking cigarettes (a way to inhale carbon monoxide) anemia, donating blood
 
-causes of stagnant hypoxia
+{adm} causes of stagnant hypoxia
 generally poor circulation, weak heart, pulling G's
 
-causes of hystotoxic hypoxia
+{adm} causes of hystotoxic hypoxia
 drugs or alcohol, cellular diseases
 
-you may fly into icing that is forecast under part 91 (yes/no)
+{reg} you may fly into icing that is forecast under part 91 (yes/no)
 no
 
-how to identify an electrical failure
+{sys} how to identify an electrical failure
 low voltage annunciator, negative ammeter reading
 
-you may fly the airplane if a piece of non-required equipment is not operational (yes/no)
+{reg} you may fly the airplane if a piece of non-required equipment is not operational (yes/no)
 yes, if deactivated and placarded
 
-symptoms of hypoxia
+{adm} symptoms of hypoxia
 poor judgement, confusion, memory, alertness, visual acuity and coordination, sensation of euphoria or sometimes even belligerence can occur (a macho attitude), dizziness, headache, drowsiness, cyanosis (blue coloration of lips and fingernails)
 
-hyperventilation
+{adm} hyperventilation
 abnormal increase in the breathing rate that leads to a deficiency of carbon dioxide, usually brought on by stress or fear while flying and often begins subconsciously
 
-symptoms of hyperventilation
+{adm} symptoms of hyperventilation
 generally same as hypoxia, rapid breathing, rapid heart rate, lightheadedness, dizziness, drowsiness, tingling in the extremities, hot and cold sensations, muscle spasms, feeling of suffocation that may ultimately lead to unconsciousness
 
-how to relieve hyperventilation
+{adm} how to relieve hyperventilation
 breath into bag, talk outloud
 
-actions to take if we don't have an airport map or feel uncomfortable at the airport
+{sop} actions to take if we don't have an airport map or feel uncomfortable at the airport
 request progressive taxi instructions
 
-isobar
+{weather} isobar
 curve that connects equal points of pressure
 
-meaning of closely spaced isobars
+{weather} meaning of closely spaced isobars
 high pressure gradient force, strong winds￼
 
-ridge
+{weather} ridge
 elongated area of high pressure, descending air
 
-trough
+{weather} trough
 elongated area of low pressure, rising air
 
-standard lapse rate
+{weather} standard lapse rate
 -2C per 1000 ft
 
-unstable atmosphere
+{weather} unstable atmosphere
 ambient (actual) lapse rate is greater than standard lapse rate
 
-how to determine if atmosphere has a lot of moisture
+{weather} how to determine if atmosphere has a lot of moisture
 narrow dewpoint spread
 
-types of lifting actions
+{weather} types of lifting actions
 surface heats warm air, upslope wind, cold front
 
-AGL or MSL (METAR, TAF, FA, PIREP)
+{chart} AGL or MSL (METAR, TAF, FA, PIREP)
 AGL, AGL, MSL, MSL
 
-Minimum Safe Altitude is one that
+{sop} minimum safe altitude is one that
 allows for an emergency landing without undue hazard to persons or property on the ground
 
-When can night landings be logged? Same as FAA definition of nighttime
+{reg} when can night landings be logged? Same as FAA definition of nighttime
 1 hour past sundown to 1 hour before sunrise
 
-camber
+{sys} camber
 curvature of wings
 
-wing camber can be changed (yes/no)
+{sys} wing camber can be changed (yes/no)
 yes, using flaps
 
-angle of incidence
+{sys} angle of incidence
 angle between the wing chord line and the fuselage
 
-angle of incidence can be changed (yes/no)
+{sys} angle of incidence can be changed (yes/no)
 no
 
-172SP max demonstrated crosswind component knots
+{sys} 172SP max demonstrated crosswind component knots
 15
 
-when supplemental oxygen required for crewmembers
+{reg} when supplemental oxygen required for crewmembers
 more than 30 minutes between 12500 and 14000 ft, above 14000
 
-when supplemental oxygen must be provided to passengers
+{reg} when supplemental oxygen must be provided to passengers
 above 15000 ft, but not required to use it
 
-172SP fuel tank venting
+{sys} 172SP fuel tank venting
 air vent is located on the left wing, both tanks are interconnected by a vent line, both fuel caps are also vented
 
-actions to take if you smell exhaust fumes in the cockpit
+{adm} actions to take if you smell exhaust fumes in the cockpit
 open windows, close heat/vents, land as soon as practical
 
-why you have to avoid alcohol and certain over-the-counter drugs with respect to flying, when you are allowed to drive with, for example, immediately after having a few drinks
+{reg} why you have to avoid alcohol and certain over-the-counter drugs with respect to flying, when you are allowed to drive with, for example, immediately after having a few drinks
 less source oxygen avilable at higher altitudes
 
-how ELT works
+{sys} how ELT works
 activated when a certain force threshold is detected by its accelerometers, transmits signal on 406 MHz
 
-explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving and how to avoid it
+{adm} explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving and how to avoid it
 decompression sickness, wait 12 hours for uncontrolled ascent up to 8000 ft, 24 hours if controlled ascent or over 8000 ft
 
-how to get wind shear reports
+{weather} how to get wind shear reports
 PIREPs, ATC, ATIS (if working)
 
-causes of wind shear
+{weather} causes of wind shear
 thunderstorms, high temperature inversion, fast winds aloft
 
-how to acivate your VFR flight plan once airborne
+{sop} how to acivate your VFR flight plan once airborne
 contact FSS radio frequency
 
-Best place to find FSS radio frequency
+{chart} best place to find FSS radio frequency
 sectional chart
 
-actions to take if you contact UNICOM/CTAF and no one answers
+{sop} actions to take if you contact UNICOM/CTAF and no one answers
 check that you are transmitting on proper comm channel, check frequency, check that you pressed hard enough, contact ATC approach
 
-Night currency requirements to carry passengers at night
+{reg} night currency requirements to carry passengers at night
 3 full-stop landings from 1 hour past sundown to 1 hour before sunrise
 
-as airplane gets heavier, maneuvering speed...
+{perf} as airplane gets heavier, maneuvering speed...
 increases
 
-phases when you need to use position lights (nav lights)
+{reg} phases when you need to use position lights (nav lights)
 taxiing or flying at night
 
-you can fly with a head cold (yes/no)
+{reg} you can fly with a head cold (yes/no)
 yes, but you should not due to painful pressure build-up
 
-you can fly with benadryl, aspirin, ibuprofin (yes/no for each)
+{reg} you can fly with benadryl, aspirin, ibuprofin (yes/no for each)
 no, yes, yes
 
-actions to take if you start getting dizzy at altitude
+{adm} actions to take if you start getting dizzy at altitude
 open window, descend, use aviation oxygen
 
-reason we don't use medical oxygen
+{adm} reason we don't use medical oxygen
 it goes through a humidification process which could freeze at altitude
 
-reasons you would not descend at 1000 fpm or 1500 fpm
+{sys} reasons you would not descend at 1000 fpm or 1500 fpm
 could exceed Vno/Vne, uncomfortable for passengers
 
-actions to take if all radios die, inluding handheld
+{sop} actions to take if all radios die, inluding handheld
 squawk 7600, go to uncontrolled airport, circle above, call approach on phone, enter traffic pattern, watch for light gun signals
 
-you should take your inexperienced passenger on your preflight (yes/no)
+{adm} you should take your inexperienced passenger on your preflight (yes/no)
 no, distracting
 
-172SP vacuum suction normal range Hg: min, max
+{sys} 172SP vacuum suction normal range Hg: min, max
 4.5, 5.5
 
-characteristics of forward CG
+{perf} characteristics of forward CG
 higher angle of attack, higher stall speed, lower cruise speed, more control authority, greater back elevator pressure required
 
-characteristics of aft CG
+{perf} characteristics of aft CG
 lower angle of attack, lower stall speed, high cruise speed, less control authority
 
-how long is a VFR flight kept open
+{reg} how long is a VFR flight kept open
 until you explicitly close it
 
-whom we tell if our VFR flight plan is running late
+{reg} whom we tell if our VFR flight plan is running late
 FSS
 
-actions to take if FSS is not responding on 122.2 or whatever
+{chart} actions to take if FSS is not responding on 122.2 or whatever
 look on the sectional chart above nearest VOR for radio frequency, listen on VOR
 
-you hear ATIS on VOR, so VOR working (yes/no)
+{chart} you hear ATIS on VOR, so VOR working (yes/no)
 no, could be overlap
 
-how to tell if VOR is working
+{chart} how to tell if VOR is working
 listen for Morse code
 
-FRZ
+{chart} FRZ
 DC flight restricted zone
 
-how to fly VFR within FRZ
+{chart} how to fly VFR within FRZ
 must take special class, file special DC FRZ flight plan
 
-172SP tire inflation PSI (mains, nose)
+{sys} 172SP tire inflation PSI (mains, nose)
 38, 45
 
-speed at which the main tires hydroplane
+{sys} speed at which the main tires hydroplane
 9*sqrt(PSI)
 
-instruments that use the pitot tube
+{sys} instruments that use the pitot tube
 airspeed indicator
 
-port, starboard
+{sys} port, starboard
 left, right
 
-minimum surface visibility in SM (day, night) 
+{chart} minimum surface visibility in SM (day, night) 
 3, 5
 
-when PPL expires
+{reg} when PPL expires
 never
 
-POH meets the requirement for an AFM (yes/no)
+{reg} POH meets the requirement for an AFM (yes/no)
 yes, for most small aircraft built after 1975
 
-person responsible for ensuring an aircraft is maintained in an airworthy condition
+{reg} person responsible for ensuring an aircraft is maintained in an airworthy condition
 owner/operator
 
-a pilot must adhere to the operating limitations specified in the POH/AFM (yes/no)
+{reg} a pilot must adhere to the operating limitations specified in the POH/AFM (yes/no)
 yes
 
-four forces of flight
+{perf} four forces of flight
 lift, weight, thrust, drag
 
-types of drag
+{perf} types of drag
 parasite, induced
 
-types of parasite drag
+{perf} types of parasite drag
 form, skin friction, interference
 
-how parasite drag changes with speed
+{perf} how parasite drag changes with speed
 increases
 
-how induced drag changes with speed
+{perf} how induced drag changes with speed
 decreases
 
-how induced drag changes with angle of attack
+{perf} how induced drag changes with angle of attack
 increases
 
-cause of wing-tip vortices
+{perf} cause of wing-tip vortices
 higher-pressure air below the wing spills over the wing
 
-a wing will stall when
+{perf} a wing will stall when
 the critical angle of attack is exceeded
 
-types of airspeeds
+{perf} types of airspeeds
 IAS, CAS, TAS, GS
 
-types of altitudes
+{perf} types of altitudes
 indicated, pressure, density, absolute
 
-left-turning tendencies
+{sys} left-turning tendencies
 p-factor, gyroscopic precession (tailwheel), asymmetric thrust, spiraling slipstream
 
-when are left-turning tendencies most pronounced
+{sys} when are left-turning tendencies most pronounced
 low speed, high power, high angle of attack
 
-type of oil we use
+{sys} type of oil we use
 aviation 20W-50 or 15W-50
 
-You're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900 ft ceilings. You're a non-instrument rated private pilot. You can land there (yes/no)
+{chart} you're flying into a Class D airport and the ceilings are coming down quickly. You pick up ATIS, and the weather is 7SM and 900 ft ceilings. You're a non-instrument rated private pilot. You can land there (yes/no)
 no, airport is IFR when ceiling is below 1000 ft, also 3-152 and 500 ft minimum above ground
 
-When we exit the runway, if they tell us to taxi across runway 4, we must stop and wait for them to tell us to cross or can we just cross (yes/no)
+{sop} when we exit the runway, if they tell us to taxi across runway 4, we must stop and wait for them to tell us to cross or can we just cross (yes/no)
 no, but stop and look both ways
 
-how to determine if 172SP nose strut has the right amount of air
+{sys} how to determine if 172SP nose strut has the right amount of air
 at least 3-4 fingers of silver part showing
 
-PGF
+{weather} PGF
 pressure gradient force
 
-direction of Coriolis force in northern hemisphere
+{weather} direction of Coriolis force in northern hemisphere
 right
 
-when something can be dropped from an airplane
+{reg} when something can be dropped from an airplane
 when precautions have been taken to ensure that it doesn't cause harm to persons or property on the ground
 
-why maneuvering speed decreases with less weight
+{perf} why maneuvering speed decreases with less weight
 aerodynamic forces have more effect on a lighter plane
 
-why a heavier aircraft has a higher stall speed
+{perf} why a heavier aircraft has a higher stall speed
 a heavier aircraft must fly at a higher angle of attack
 
-adverse yaw
+{perf} adverse yaw
 nose of aircraft tends to turn away from the intended direction of the turn
 
-cause of adverse yaw
+{perf} cause of adverse yaw
 drag from the downward aileron is greater than the upward aileron
 
-detonation
+{sys} detonation
 uncontrolled firing of fuel/air mixture after the intended spark, mixture violently explodes rather than burning smoothly, causes excessive temperatures and pressures which can quickly lead to failure of a piston/cylinder/valve or (less severely) overheating/roughness/loss-of-power
 
-causes of detonation
+{sys} causes of detonation
 excess temperature, low-octane fuel, extremely high manifold presssures with low RPM, excessively lean mixture with high RPM, extended ground operations or steep climbs where cylinder cooling is reduced
 
-actions to take when dealing with detonation
+{sys} actions to take when dealing with detonation
 ensure proper fuel, keep cowl flaps open while on the ground, enrich the mixture, avoid extended high-RPM steep climbs, monitor engine instruments more closely
 
-pre-ignition
+{sys} pre-ignition
 combustion that occurs before the intended spark
 
-causes of pre-ignition
+{sys} causes of pre-ignition
 hot spots from detonation, improper heat range spark plugs, glowing carbon deposits from lean mixtures
 
-actions to take take when dealing with pre-ignition
+{sys} actions to take take when dealing with pre-ignition
 reduce power, reduce climb rate, enrich the mixture, open cowl flaps while on the ground
 
-magnetic variation
+{chart} magnetic variation
 difference between true north and magnetic north
 
-magnetic deviation
+{sys} magnetic deviation
 per-aircraft compass correction for errors due to fields created by other instruments
 
-cloud ceiling
+{weather} cloud ceiling
 height above ground of broken or overcast cloud layer
 
-limitations of VORs
+{sys} limitations of VORs
 range proportional to altitude of receiving equipment, line of sight
 
-how often the chart supplement is updated
+{chart} how often the chart supplement is updated
 every 56 days
 
-kinds of incidents must be reported to the NTSB
+{reg} kinds of incidents must be reported to the NTSB
 flight control system malfunction or failure, inability of required crew member to perform duties due to injury or illness, inflight fire, inflight collision, damage to property other than the airplane that exceeds $25,000, overdue aircraft (believed to be an accident), release of at least a portion of propeller blade from aircraft, complete loss of informationn from more than 50% of an aircraft's EFIS (electronic flight instrument system) cockpit displays
 
-congested area
+{reg} congested area
 not well defined, could be anywhere where there is a group of people
 
-how to fly out of a TFR zone
+{chart} how to fly out of a TFR zone
 file a flight plan, in contact with ATC, working transponder, adhere to any restrictions in the TFR
 
-when you may fly VFR over Washington DC
+{chart} when you may fly VFR over Washington DC
 must take class, normal TFR rules, must file flight plans in and out
 
-permanent TFRs
+{chart} permanent TFRs
 DC, Disneyworld, Disneyland
 
-types of turbulence
+{weather} types of turbulence
 mechanical, clear air, wake, wind shear, thermal
 
-time to wait to take off behind in minutes (light, medium, heavy, super)
+{sop} time to wait to take off behind in minutes (light, medium, heavy, super)
 2, 4, 6, 8
 
-how to know if a paved-runway airport is private
+{chart} how to know if a paved-runway airport is private
 "(pvt)" is in the name on sectional chart
 
-symbol on sectional chart to indicate a seaport
+{chart} symbol on sectional chart to indicate a seaport
 anchor
 
-dangerous thunderstorms we may see along cold front
+{weather} dangerous thunderstorms we may see along cold front
 squal line
 
-direction of wind for cyclone, anti-cyclone (CCW or CW)
+{weather} direction of wind for cyclone, anti-cyclone (CCW or CW)
 CCW, CW
 
-convective SIGMET
+{weather} convective SIGMET
 embedded thunderstorms, a line of thunderstorms, thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3000 square miles, surface winds of 50 knots or more, hail at the surface greater than or equal to 3/4 inches in diameter, tornadoes
 
-types of SIGMETs
+{weather} types of SIGMETs
 convective, severe icing, IMC due to dust/sand/volcanic ash
 
-types of AIRMETs
+{weather} types of AIRMETs
 moderate turbulence, moderate icing, sustained surface winds of 30 knots or more, widespread restricted visibility
 
-three types of AIRMETs
+{weather} three types of AIRMETs
 sierra, tango, zulu
 
-AIRMET sierra (S)
+{weather} AIRMET sierra (S)
 extensive mountain obscuration or IFR (less than 1000 ft and/or visibility less than 3 miles affecting over 50% of the area at one time)
 
-AIRMET tango (T)
+{weather} AIRMET tango (T)
 moderate turbulence, sustained surface winds >= 30 knots, or non-convective low-level wind shear
 
-AIRMET zulu (Z)
+{weather} AIRMET zulu (Z)
 moderate icing (AIRMET provides freezing level heights)
 
-types of icing
+{sys} types of icing
 structural, induction system, instrument
 
-induction system icing
+{sys} induction system icing
 attributed to the incomplete vaporization of fuel in combination with the pressure decrease inside of the venturi, even on a day as warm as 70°F, carburetor ice can began to form with adequate moisture in the air
 
-instrument icing
+{sys} instrument icing
 icing of the pitot tube or static ports can cause the instruments to give inaccurate readings or to fail completely
 
-structural icing
+{sys} structural icing
 ice that forms on the surface of the aircraft, since airfoils create lift by decreasing the pressure and thus the temperature of the air around them, icing on the propeller, horizontal and vertical tail surfaces, and wings can form at ambient temperatures that are above the freezing level
 
-solid thin black line on sectional chart that is not railroad tracks
+{chart} solid thin black line on sectional chart that is not railroad tracks
 power lines
 
-SETVODA types of class E airspace
+{chart} SETVODA types of class E airspace
 surface extension, extension, transition, victor airways, offshore, domestic en route, FL600
 
-class E surface extension (ft AGL start, ft AGL end, border on sectional)
+{chart} class E surface extension (ft AGL start, ft AGL end, border on sectional)
 0, 699, dashed magenta line
 
-class E transition area (ft AGL start, ft AGL end, border on sectional)
+{chart} class E transition area (ft AGL start, ft AGL end, border on sectional)
 700, 1200, shaded magenta line
 
-class E extension (ft AGL start, ft AGL end, border on sectional)
+{chart} class E extension (ft AGL start, ft AGL end, border on sectional)
 1200, 13999, shaded cyan
 
-equation for lift
+{perf} equation for lift
 L = AoA * V^2 * constant
 
-reason a heavier aircraft fly with a larger angle of attack
+{perf} reason a heavier aircraft fly with a larger angle of attack
 to generate more lift at the same speed
 
-VFR conditions
+{chart} VFR conditions
 >5SM and >3000 ft
 
-MVFR conditions
+{chart} MVFR conditions
 3-5SM or 1000-3000 ft
 
-IFR conditions
+{chart} IFR conditions
 1-3SM or 500-1000 ft
 
-LIFR conditions
+{chart} LIFR conditions
 <1SM or <500 ft
 
-minimum VFR surface visility in SM (day, night)
+{chart} minimum VFR surface visility in SM (day, night)
 3, 5
 
-all fuel gauges must work prior to takeoff (yes/no)
+{reg} all fuel gauges must work prior to takeoff (yes/no)
 yes
 
-GAMA
+{reg} GAMA
 general aviation manufacturers' association
 
-changes to POH after 1975 by GAMA
+{reg} changes to POH after 1975 by GAMA
 standardized on POH format to include AFM information in a certain order
 
-short name for ARTCC
+{reg} short name for ARTCC
 center
 
-kind of course/heading for which hemispheric rules apply
+{chart} kind of course/heading for which hemispheric rules apply
 magnetic course
 
-the leans
+{adm} the leans
 illusion that you are flying level when you are actually in a gradual bank
 
-graveyard spin
+{adm} graveyard spin
 illusion that you are spinning in the opposite direction than reality
 
-graveyard spiral
+{adm} graveyard spiral
 illusion that you are in an opposite bank after correcting a bank when in fact you are flying level
 
-somatogravic or head-up illusion
+{adm} somatogravic or head-up illusion
 illusion that you are nose up during acceleration
 
-head-down illusion
+{adm} head-down illusion
 illusion that you are nose up during deceleration
 
-Coriolis illusion
+{adm} Coriolis illusion
 after a sudden head movement, illusion that you are rolling, pitching and yawing
 
-inversion illusion
+{adm} inversion illusion
 when transitioning from climb to level flight, illusion that you are tumbling backward, potentially causing you to push the nose down
 
-elevator illusion
+{adm} elevator illusion
 an illusion that you are climbing after a sudden updraft, or descending after a sudden downdraft
 
-autokinesis
+{adm} autokinesis
 at night, pilot fixates on a light and it seems to be moving
 
-false horizon
+{adm} false horizon
 at night, pilot inadvertently orients the aircraft with a false horizon
 
-linear perspective illusions
+{adm} linear perspective illusions
 when pilot's sight-picture during landing is different from what he/she is used to
 
-precipitation illusions
+{adm} precipitation illusions
 caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer, fog and haze may cause objects to appear farther away
 
-black-hole approach
+{adm} black-hole approach
 when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descends too quickly
 
-white-out
+{adm} white-out
 when flying over snow-covered terrain there is no obvious distinction between sky and terrain
 
-empty field myopia
+{adm} empty field myopia
 when your eyes have nothing to focus on, they may focus only 10-20 ft ahead and you have no idea how close you are to the underlying terrain
 
-confirmation bias
+{adm} confirmation bias
 seeing/hearing what you want to see/hear when reality is different
 
-sensory exclusion
+{adm} sensory exclusion
 when you are overly focused on one of your senses that you ignore the others
 
-UA
+{weather} UA
 routine
 
-UUA
+{weather} UUA
 urgent
 
-TM
+{weather} TM
 time
 
-FL
+{weather} FL
 altitude
 
-TP
+{weather} TP
 type
 
-SK
+{weather} SK
 sky condition
 
-WX
+{weather} WX
 weather
 
-TA
+{weather} TA
 temperature
 
-WV
+{weather} WV
 wind
 
-TB
+{weather} TB
 turbulence
 
-IC
+{weather} IC
 icing
 
-RM
+{weather} RM
 remarks
 
-ASOS
+{weather} ASOS
 automatic surface observing system
 
-ISA
+{weather} ISA
 international standard atmosphere
 
-DUATS
+{weather} DUATS
 direct user access terminal services
 
-SPECI
+{weather} SPECI
 special report
 
-TWEB
+{weather} TWEB
 transcribed weather broadcast
 
-NSW
+{weather} NSW
 no significant weather
 
-SKC
+{weather} SKC
 sky clear condition
 
-SHRA
+{weather} SHRA
 showers of rain
 
-TSRA
+{weather} TSRA
 thunderstorms and rain
 
-AMD
+{weather} AMD
 amended
 
-COR
+{weather} COR
 corrected
 
-RTD
+{weather} RTD
 delayed
 
-SLP
+{weather} SLP
 sea level pressure
 
-FG
+{weather} FG
 fog
 
-BR
+{weather} BR
 mist
 
-FU
+{weather} FU
 smoke
 
-HZ
+{weather} HZ
 haze
 
-PY
+{weather} PY
 spray
 
-SA
+{weather} SA
 sand
 
-DU
+{weather} DU
 dust
 
-VA
+{weather} VA
 volcanic ash
 
-RA
+{weather} RA
 rain
 
--RA
+{weather} -RA
 light rain
 
-+RA
+{weather} +RA
 heavy rain
 
-DZ
+{weather} DZ
 drizzle
 
--DZ
+{weather} -DZ
 light drizzle
 
-+DZ
+{weather} +DZ
 heavy drizzle
 
-RADZ
+{weather} RADZ
 rain and drizzle
 
-SN
+{weather} SN
 snow
 
-SG
+{weather} SG
 snow grains
 
-GR
+{weather} GR
 hail
 
-GS
+{weather} GS
 small hail
 
-IC
+{weather} IC
 ice crystals
 
--
+{weather} -
 light
 
-+
+{weather} +
 heavy
 
-BC
+{weather} BC
 patches
 
-FZ
+{weather} FZ
 freezing
 
-SH
+{weather} SH
 showers
 
-TS
+{weather} TS
 thunderstorms
 
-PR
+{weather} PR
 partial
 
-IC
+{weather} IC
 ice crystals
 
-R (visual)
+{weather} R (visual)
 runway visual range
 
-A
+{weather} A
 altimeter
 
-M
+{weather} M
 less than
 
-P
+{weather} P
 greater than
 
-V
+{weather} V
 variable
 
-SKT
+{weather} SKT
 sky condition scattered
 
-OVC
+{weather} OVC
 overcast
 
-TCU
+{weather} TCU
 towering cumulus
 
-CB
+{weather} CB
 cumulonimbus
 
-VV
+{weather} VV
 vertical visibility
 
-VV ///
+{weather} VV ///
 vertical visibility undetermined
 
-AUTO
+{weather} AUTO
 automatic weather source
 
-G
+{weather} G
 gusts
 
-KT
+{weather} KT
 knots
 
-VRB
+{weather} VRB
 variable
 
-VC
+{weather} VC
 vicinity
 
-PO
+{weather} PO
 well-developed dust/sand swirls
 
-SQ
+{weather} SQ
 squals
 
-FC
+{weather} FC
 funnel cloud
 
-+FC
+{weather} +FC
 well-developed funnel cloud, tornado or waterspout
 
-SS
+{weather} SS
 sandstorm
 
-DS
+{weather} DS
 duststorm
 
-PRESFR
+{weather} PRESFR
 pressure falling rapidly
 
-UP
+{weather} UP
 unknown precipitation
 
-PL
+{weather} PL
 ice pellets
 
-PE
+{weather} PE
 ice pellets
 
-PR
+{weather} PR
 partial
 
-BL
+{weather} BL
 blowing
 
-DR
+{weather} DR
 low drifting
 
-MI
+{weather} MI
 shallow
 
-ABV
+{weather} ABV
 above
 
-AGL
+{weather} AGL
 above ground level
 
-AMSL
+{weather} AMSL
 above MSL
 
-AT
+{weather} AT
 at
 
-BLW
+{weather} BLW
 below
 
-BTN
+{weather} BTN
 between
 
-CLD
+{weather} CLD
 cloud
 
-DEG
+{weather} DEG
 degree
 
-EXC
+{weather} EXC
 except
 
-FIR
+{weather} FIR
 flight information region
 
-FRQ
+{weather} FRQ
 frequent
 
-FZLVL
+{weather} FZLVL
 freezing level
 
-ICE
+{weather} ICE
 icing
 
-INTSF
+{weather} INTSF
 intensifying
 
-ISOL
+{weather} ISOL
 isolated
 
-LAN
+{weather} LAN
 inland
 
-NC
+{weather} NC
 no change
 
-NIL
+{weather} NIL
 not existent
 
-MNM
+{weather} MNM
 minimum
 
-MOD
+{weather} MOD
 moderate
 
-MOV
+{weather} MOV
 moving
 
-MS
+{weather} MS
 minus
 
-MSL
+{weather} MSL
 mean sea level
 
-MT OBSC
+{weather} MT OBSC
 mountain obscuration
 
-MTW
+{weather} MTW
 mountain waves
 
-OCNL
+{weather} OCNL
 occasional
 
-PO
+{weather} PO
 dust/sand whirls
 
-PS
+{weather} PS
 plus
 
-PSYS
+{weather} PSYS
 pressure system
 
-SECN
+{weather} SECN
 section
 
-SFC
+{weather} SFC
 surface
 
-SIG
+{weather} SIG
 significant
 
-WX
+{weather} WX
 weather
 
-STNR
+{weather} STNR
 stationary
 
-T
+{weather} T
 turbulence
 
-TOP
+{weather} TOP
 tops
 
-TURB
+{weather} TURB
 turbulence
 
-VIS
+{weather} VIS
 visability
 
-WKN
+{weather} WKN
 weakening
 
-WSPD
+{weather} WSPD
 wind speed
 
-WXNIL
+{weather} WXNIL
 no significant weather
 
-R (weather-related)
+{weather} R (weather-related)
 rain
 
-RW
+{weather} RW
 rain shower
 
-S
+{weather} S
 snow
 
-SW
+{weather} SW
 snow shower
 
-WS
+{weather} WS
 severe weather watch - thunderstorm
 
-WT
+{weather} WT
 severe weather watch - tornado
 
-NA
+{weather} NA
 not available
 
-NE
+{weather} NE
 no echo
 
-OM
+{weather} OM
 out for maintenance
 
-LM
+{weather} LM
 little movement
 
-CIG
+{weather} CIG
 ceiling
 
-A02
+{weather} A02
 with precipitation sensor
 
-PNO
+{weather} PNO
 precipitation sensor not working
 
-PK WND
+{weather} PK WND
 peak wind
 
-$ (in METAR)
+{weather} $ (in METAR)
 station has put in a call for maintenance
 
-T01500078 (in METAR)
+{weather} T01500078 (in METAR)
 temperature 15.0C, dew point 7.8C
 
-6////
+{weather} 6////
 no rainfall in past 6 hours
 
-7////
+{weather} 7////
 no rainfall in past 24 hours
 
-9900 winds aloft
+{weather} 9900 winds aloft
 winds light and variable
 
-reason there is no circle around some airports on sectional chart
+{chart} reason there is no circle around some airports on sectional chart
 runway > 8069 ft
 
-dotted purple on sectional chart
+{chart} dotted purple on sectional chart
 air defense identification zone
 
-purpose of little flag on sectional chart
+{chart} purpose of little flag on sectional chart
 visual reference point when talking to ATC
 
-VR VFR route
+{chart} VR VFR route
 military training route
 
-VR 1-3 numbers AGL ft, 4 numbers AGL ft
+{chart} VR 1-3 numbers AGL ft, 4 numbers AGL ft
 >1500, < 1500
 
-visibility requirements for VR routes
+{chart} visibility requirements for VR routes
 >= 5 SM and 3000 ft AGL ceilings
 
-VOR bearing shown on the sectional chart, e.g., V453
+{chart} VOR bearing shown on the sectional chart, e.g., V453
 victor airway
 
-number in rectangular box under V435
+{chart} number in rectangular box under V435
 nm from VOR to next VOR
 
-HS1, etc. on an airport diagram
+{chart} HS1, etc. on an airport diagram
 airport hotspot, known point of confusion or other problems
 
-areas with dotted line on airport diagram
+{chart} areas with dotted line on airport diagram
 areas under construction
 
-how is blast pad delineated on airport diagram
+{chart} how is blast pad delineated on airport diagram
 big yellow arrow tops
 
-EMAS, purpose
+{chart} EMAS, purpose
 engineered material arresting system, slow down aircraft that goes off the end of the runway
 
-strange crossing arrow across a runway on an airport diagram
+{chart} strange crossing arrow across a runway on an airport diagram
 wire arresting system used for fighter jets who are practicing at that airport
 
-lens shapes on each side of runway on airport diagram denote
+{chart} lens shapes on each side of runway on airport diagram denote
 displaced threshold
 
-little round circle on runway on airport diagram
+{chart} little round circle on runway on airport diagram
 highest point of elevation for entire airport
 
-on sectional chart, little circle inside majenta/blue circle
+{chart} on sectional chart, little circle inside majenta/blue circle
 radio navaid on the field
 
-on sectional chart, circle with lots of dots
+{chart} on sectional chart, circle with lots of dots
 NDB
 
-minimum safe altitude within square on sectional chart (AGL/MSL)
+{chart} minimum safe altitude within square on sectional chart (AGL/MSL)
 MSL
 
-lightning bolts sticking out of tower on sectional chart
+{chart} lightning bolts sticking out of tower on sectional chart
 lights
 
-3 tabs sticking out of airport on sectional chart
+{chart} 3 tabs sticking out of airport on sectional chart
 airport has services
 
-L on sectional chart
+{chart} L on sectional chart
 lighted runway
 
-L* on sectional chart
+{chart} L* on sectional chart
 lighted runway that can be controlled by pilot
 
-3/4 circle within magenta/blue airport circle
+{chart} 3/4 circle within magenta/blue airport circle
 military unpaved runway
 
-on sectional chart, compass-looking symbol
+{chart} on sectional chart, compass-looking symbol
 VFR GPS point of reference
 
-crisscrossed lines on sectional chart
+{chart} crisscrossed lines on sectional chart
 drainage ditch
 
-100-hour inspection, time measurement (Hobbs/tach)
+{reg} 100-hour inspection, time measurement (Hobbs/tach)
 tach
 
-FAA's definition of night time, in general
+{reg} FAA's definition of night time, in general
 30 minutes after sunset to 30 minutes before sunrise
 
-when you can fly close to another aircraft
+{reg} when you can fly close to another aircraft
 when you have an arrangement among all pilots involved, when it does not create a collision hazard, and while not carrying passengers for hire
 
-amount of oxygen that must be on board to handle sudden depressurization
+{reg} amount of oxygen that must be on board to handle sudden depressurization
 10 minutes
 
-main job of ATC
+{sop} main job of ATC
 maintain traffic separation and spacing for IFR flights
 
-night landings may substitute for day landings with regard to currency (yes/no)
+{reg} night landings may substitute for day landings with regard to currency (yes/no)
 yes
 
-things CFI cover in a flight review
+{reg} things CFI cover in a flight review
 part 91, part 61, any checkride maneuvers
 
-FAA requires that a flight review be done in the same type as you plan to fly (yes/no)
+{reg} FAA requires that a flight review be done in the same type as you plan to fly (yes/no)
 no, but you should do it in the same type
 
-written exam is good for...
+{reg} written exam is good for...
 2 years
 
-airspaces that require ADS-B out
+{chart} airspaces that require ADS-B out
 A, B, B veil, C, E above 10000 ft
 
-ICAO
+{reg} ICAO
 International Civil Aviation Organization
 
-what to expect when cold front passes
+{weather} what to expect when cold front passes
 towering cumulus or cumuloninimbus, thunderstorms, heavy rain, thunder, hail, tornadoes, poor visibility, variable and gusty winds, temperature drop
 
-what to expect when warm front passes
+{weather} what to expect when warm front passes
 stratiform clouds, drizzle, low ceilings, poor visibility, low ceilings, variable winds, higher temperature
 
-trough
+{weather} trough
 low pressure, rising air, conducive to clouds and precipitation, bad weather
 
-ridge
+{weather} ridge
 high pressure, falling air, conducive to dissipation of cloudiness, good weather
 
-cause of winds aloft to flow parallel to isobars
+{weather} cause of winds aloft to flow parallel to isobars
 Coriolis force
 
-reason surface winds generally flow across isobars at an angle close to the surface
+{weather} reason surface winds generally flow across isobars at an angle close to the surface
 surface friction
 
-rate of atmospheric pressure decrease with increase in altitude
+{weather} rate of atmospheric pressure decrease with increase in altitude
 1" Hg per 1000 ft
 
-factor that mostly determines type and vertical extent of clouds
+{weather} factor that mostly determines type and vertical extent of clouds
 stability of the atmosphere
 
-meaning of stable atmosphere
+{weather} meaning of stable atmosphere
 atmosphere is able to resist vertical motion
 
-characteristics of stable atmosphere
+{weather} characteristics of stable atmosphere
 calm air, stratiform clouds, continuous precipitation, low visibility
 
-characteristics of unstable atmosphere
+{weather} characteristics of unstable atmosphere
 turbulent air, cumuliform clouds, showery precipitation, good visibility 
 
-during significant precipitation, typical thickness of clouds
+{weather} during significant precipitation, typical thickness of clouds
 at least 4000 ft
 
-vertical extent of class D airspace
+{chart} vertical extent of class D airspace
 usually 2500 ft AGL, and look on chart in dashed box for MSL
 
-horizontal radius of class D airspace
+{chart} horizontal radius of class D airspace
 usually 5 nm
 
-types of info should you be aware of for icing
+{sop} types of info should you be aware of for icing
 location of fronts, cloud layers, freezing levels, air temperature and pressure
 
-definition of freezing level
+{weather} definition of freezing level
 lowest altitude at which air temperature reaches 0C
 
-conditions for structural icing
+{weather} conditions for structural icing
 visible moister below freezing temps at point moisture strikes aircraft
 
-what to do when you encounter icing
+{sop} what to do when you encounter icing
 leave area: descend below cloud base, climb above cloud tops, turn to a different heading
 
-why frost is hazardous
+{perf} why frost is hazardous
 roughness spoils smooth flow of air, resulting in loss of lift
 
-temperature inversion
+{weather} temperature inversion
 increase in temperature with height
 
-two basic ways fog can form
+{weather} two basic ways fog can form
 cool air to dew point, add moisture to air near the ground
 
-quantitative definition of wind shear
+{weather} quantitative definition of wind shear
 rate of change of wind velocity per unit distance
 
-three places where wind shear occurs
+{weather} three places where wind shear occurs
 low-level temperature inversion, front zone of thunderstorm, clear air turbulence at high altitudes with a jet stream or strong circulation
 
-sources of information to help determine extent of wind shear
+{weather} sources of information to help determine extent of wind shear
 TAF, METAR, SIGMET, LLWAS, PIREP
 
-other sources of weather info besides FSS
+{weather} other sources of weather info besides FSS
 TIBS, private industry sources, DUATS, TWEB in Alaska
 
-third party weather sources qualify as legitimate (yes/no)
+{weather} third party weather sources qualify as legitimate (yes/no)
 no
 
-limitations of in-flight FIS-B information
+{weather} limitations of in-flight FIS-B information
 not realtime, can be up to 15 min old, better to use FSS
 
-where to find PIREPs
+{weather} where to find PIREPs
 FSS, ADDS web page
 
-aviation area forecast (FA)
+{weather} aviation area forecast (FA)
 6 areas within the 48 states for which area weather information is availble; valid for 18 hours
 
-information provided by area forecast
+{weather} information provided by area forecast
 synopsys, clouds and outlook, 12 to 18 hour categorical outlook
 
-four types of in-flight weather advisories
+{weather} four types of in-flight weather advisories
 SIGMET (WS), convective SIGMET (WST), AIRMET (WA), center weather advisory (CWA)
 
-frequency of winds aloft forecasts, every
+{weather} frequency of winds aloft forecasts, every
 4 hours
 
-valuable information from winds aloft forecasts (FB)
+{weather} valuable information from winds aloft forecasts (FB)
 most favorable altitude, areas of possible icing, temperature inversions, turbulence
 
-purpose of CWA
+{weather} purpose of CWA
 aviation warning to help avoid adverse weather conditions
 
-period CWAs are valid
+{weather} period CWAs are valid
 2 hours
 
-types of weather charts
+{weather} types of weather charts
 surface analysis, weather depiction, short-range surface prognostic, significant weather prognostic, convection outlook, constant pressure analysis
 
-surface analysis chart
+{weahter} surface analysis chart
 sea level pressure, positions of highs, lows, ridges, troughs, location of fronts, drylines, outflow boundaries
 
-how often is surface analysis chart updated
+{weather} how often is surface analysis chart updated
 every 3 hours
 
-weather depiction chart
+{weather} weather depiction chart
 plot of weather conditions at selected METAR stations, usually shared by VFR, MVFR, IFR
 
-how often is weather depiction chart updated
+{weather} how often is weather depiction chart updated
 every 3 hours
 
-short-range surface prognostic chart
+{weather} short-range surface prognostic chart
 surface pressure systems, fronts and precipitation for 2.5 day period, five forecast periods (12, 18, 24, 48, 60 hours)
 
-how often is short-range surface prognostic chart updated
+{weather} how often is short-range surface prognostic chart updated
 every 6 hours
 
-low-level significant weather prognostic chart (SIGWX)
+{weather} low-level significant weather prognostic chart (SIGWX)
 10000 to FL450, hazardous elements
 
-how often is low-level significant weather prognostic chart updated
+{weather} how often is low-level significant weather prognostic chart updated
 every 6 hours
 
-convective outlook chart
+{weather} convective outlook chart
 severe and non-severe convective threats during the next 3 days
 
-constant pressure analysis chart
+{weather} constant pressure analysis chart
 upper air weather map arranged along particular pressure levels: 200, 300, 500, 700, 850 mb
 
-how often is constant pressure analysis chart updated
+{weather} how often is constant pressure analysis chart updated
 every 12 hours
 
-examples of airfoils
+{sys} examples of airfoils
 wings, horizontal tail surfaces, vertical tail surfaces, propellers
 
-relative wind
+{perf} relative wind
 direction of airflow with respect to the leading edge of the wing; always opposite of direction of flight
 
-Bernoulli's Principle
+{perf} Bernoulli's Principle
 pressure of fluid decreases at points where speed of the fluid increases
 
-factors that affect both lift and drag
+{perf} factors that affect both lift and drag
 wing area, shape of airfoil, angle of attack, velocity of air, air density
 
-effect of torque reaction (left turning tendency) in flight
+{perf} effect of torque reaction (left turning tendency) in flight
 makes airplane roll
 
-effect of torque reaction (left turning tendency) on the ground
+{perf} effect of torque reaction (left turning tendency) on the ground
 more weight on left wheel causing more friction and thus turn to left
 
-reason gyro precession effect more pronounced on taildraggers
+{perf} reason gyro precession effect more pronounced on taildraggers
 tail is raised during takeoff
 
-situations that can cause max load factor to be exceeded
+{perf} situations that can cause max load factor to be exceeded
 >45-deg turns, turbulence, speed above Va
 
-effect of increasing load factor on stall speed
+{perf} effect of increasing load factor on stall speed
 higher stall speed because higher angle of attack during higher load factor
 
-definition of maneuvering speed Va
+{perf} definition of maneuvering speed Va
 maximum speed at which the limit load factor can be imposed (via gusts or full deflection of the control surfaces) without causing structural damage
 
-cases operating below Va may not prevent structural damage
+{perf} cases operating below Va may not prevent structural damage
 multiple full control inputs in one axis or full control inputs in multiple axes at the same time
 
-loss of control in-flight (LOC-I)
+{adm} loss of control in-flight (LOC-I)
 significant deviation of aircraft from intended flight path
 
-situations that increase chances of LOC-I
+{adm} situations that increase chances of LOC-I
 uncoordinated flight, equipment malfunction, pilot complacency, distraction, turbulence, poor risk management
 
-primary cause of spins
+{perf} primary cause of spins
 exceeding angle of attack while applying incorrect rudder and, to a lesser extent, aileron, essentially an element of yaw due to uncoordinated flight going into the stall
 
-when are spins most likely to occur
+{perf} when are spins most likely to occur
 engine failure on takeoff during climbout, cross-control turn from base to final, engine failure on approach to landing, go-around with full nose-up trim, go-around with improper flap retraction
 
-how to recover from an inadvertent spin
+{sop} how to recover from an inadvertent spin
 throttle idle, ailerons neutral, full opposite rudder, neutral elevator, neutralize rudder, gradually apply aft aileron pressure to return to level flight
 
-problems that can be caused by ground effect
+{sop} problems that can be caused by ground effect
 floating during landing, illusion that plane can climb during takeoff when it can't if too heavy etc.
 
-empty weight includes
+{sys} empty weight includes
 airframe, engines, permanently installed equipment, unusable fuel
 
-gross weight
+{sys} gross weight
 maximum allowable weight of both airplane and contents
 
-useful load includes
+{sys} useful load includes
 pilot, copilot, passengers, baggage, usable fuel, drainable oil
 
-datum
+{sys} datum
 imaginary vertical plane or line from which all measurements of arm are taken, established by manufacturer
 
-overloaded aircraft will cause
+{perf} overloaded aircraft will cause
 higher takeoff speed, longer takeoff run, reduced rate and angle of climb, lower maximum altitude, shorter range, reduced cruising speed, reduced maneuverability, higher stalling speed, higher landing speed, longer landing roll, excessive weight on nosewheel
 
-standard weights for crew/passengers, gasoline, oil, water in pounds
+{sys} standard weights for crew/passengers, gasoline, oil, water in pounds
 190, 6, 7.5, 8.35
 
-main elements of aircraft performance
+{perf} main elements of aircraft performance
 takeoff and landing distance, rate of climb, ceiling, payload, range, speed, fuel economy, maneuverability, stability
 
-ACS tolerance for Vy
+{reg} ACS tolerance for Vy
 +10/-5
 
-factors that affect performance during takeoffs and landings
+{perf} factors that affect performance during takeoffs and landings
 air density, surface wind, runway surface, runway slope, weight
 
-effect of weight on takeoff and landing performance
+{perf} effect of weight on takeoff and landing performance
 higher liftoff speed, greater mass to accelerate, increasing retarding force, longer takeoff distance
 
-effect of density altitude on takeoff and landing performance
+{perf} effect of density altitude on takeoff and landing performance
 increased takeoff distance, reduced rate of climb, increased true airspeed on approach and landing, increased landing roll distance
 
-air density has a direct effect on
+{perf} air density has a direct effect on
 lift, power output of engine, propeller efficiency, drag forces
 
-useful aircraft performance charts
+{perf} useful aircraft performance charts
 takeoff distance, fuel/time/distance-to-climb, cruise/range, crosswind/headwind component, landing distance, stall speed
 
-172SP maximum oil temperature in C
+{sys} 172SP maximum oil temperature in C
 118
 
-purposes of flaps
+{sys} purposes of flaps
 lower airspeed, allow steeper descent, shorten takeoff distance
 
-172SP landing gear system
+{sys} 172SP landing gear system
 tricycle-type, tubular spring steel main struts provide shock absorbtion, nose wheel uses air+oil shock strut
 
-172SP brakes
+{sys} 172SP brakes
 each main landing gear wheel has single-disc, hydraulically actuated brake, each brake is connected to master cylinder on each rudder pedal
 
-four strokes of engine
+{sys} four strokes of engine
 intake, compression, power, exhaust
 
-purpose of carburator (not on 172SP)
+{sys} purpose of carburator (not on 172SP)
 mixes fuel and air in correct proportion to form a combustible mixture
 
-what happens when carb heat is applied
+{sys} what happens when carb heat is applied
 richens the mixture
 
-purpose of throttle control
+{sys} purpose of throttle control
 controls amount of fuel/air charge entering the cylinders
 
-purpose of mixture control
+{sys} purpose of mixture control
 regulates fuel-to-air ratio
 
-describe fuel injection system on 172SP
+{sys} describe fuel injection system on 172SP
 engine-driven fuel pump, fuel/air control unit, fuel manifold valve feeds discharge nozzles, auxilary fuel pump, fuel pressure/flow indicators
 
-two main advantages of dual ignition system
+{sys} two main advantages of dual ignition system
 increased safety, more complete and even combustion of fuel/air mixture
 
-type of fuel system on 172SP
+{sys} type of fuel system on 172SP
 gravity fed, vented between tanks, fuel injection
 
-colors of 80, 100, 100LL, Jet A fuels
+{sys} colors of 80, 100, 100LL, Jet A fuels
 red, green, blue, colorless
 
-things powered by electrical system on 172SP
+{sys} things powered by electrical system on 172SP
 radio, turn coordinator, fuel gauges, pitot heat, lights, flaps, stall warning system, oil temperature gauge, auxiliary fuel pump
 
-on sectional chart, blue airport with no airspace boundary markers
+{chart} on sectional chart, blue airport with no airspace boundary markers
 controlled class G airport that is in the process of becoming a class D airport, treat it as class D during landings
 
-cause of carburator icing
+{sys} cause of carburator icing
 vaporization of fuel combined with expansion of air causes a sudden cooling of the mixture, water is squeezed out and could freeze
 
-indications of carburator icing
+{sys} indications of carburator icing
 gradual drop in RPM in fixed-propeller engine or gradual drop in manifold pressure in constant-speed propeller engine
 
-how to know if carburator icing has been eliminated
+{sys} how to know if carburator icing has been eliminated
 when heat is first applied, there will be a drop in RPM, then rise, and then engine should run more smoothly
 
-conditions favorable to carburator icing
+{sys} conditions favorable to carburator icing
 temperatures below 70F, at least 80% humidity
 
-anti-icing equipment
+{sys} anti-icing equipment
 prevents ice from forming on certain protected surfaces, such as pitot tube and static port, carburator, fuel vents, prop blades, windshields
 
-deicing equipment
+{sys} deicing equipment
 removes ice that has already been formed, such as inflatable boots on the wing and tail leading edges
 
-planes with anti-icing and deicing equipment can be flown in icing conditions (yes/no)
+{sys} planes with anti-icing and deicing equipment can be flown in icing conditions (yes/no)
 not necssarily, consult POH
 
-during runup, you switch to RIGHT magneto and see no RPM drop because...
+{sys} during runup, you switch to RIGHT magneto and see no RPM drop because...
 left P-lead is not grounding OR left magneto has been dead for a while
 
-actions to take if oil pressure is low but oil temperature is normal
+{sys} actions to take if oil pressure is low but oil temperature is normal
 could have insufficient oil, clogged pressure gauge, or leak; terminate flight as soon as possible
 
-actions to take when encountering a partial loss of power
+{sop} actions to take when encountering a partial loss of power
 check carburator heat (if applicable), check fuel in each tank, check fuel selector valve, check mixture control and fuel flow, check magnetos switch setting
 
-actions to take when engine fire on the ground if the engine starts
+{sop} actions to take when engine fire on the ground if the engine starts
 increase RPM for a few moments, then power down and inspect
 
-actions to take when engine fire on the ground if the engine does not start
+{sop} actions to take when engine fire on the ground if the engine does not start
 throttle full, mixture idle cutoff, continue start to suck in flames
 
-actions to take when engine fire on the ground continues after other attempts
+{sop} actions to take when engine fire on the ground continues after other attempts
 ignition off, master switch off, fuel shutoff OFF, evacuate and obtain fire extinguisher
 
-how does altimeter work
+{sys} how does altimeter work
 aneroid wafers expand and contract in response to pressure changes, wafers are linked to needle
 
-limitations of pressure altimeter
+{sys} limitations of pressure altimeter
 on warm day pressure level is higher than on standard day; if surface pressure is higher than standard day then altimeter indicates lower than actual
 
-how does airspeed indicator work
+{sys} how does airspeed indicator work
 differential pressure gauge that compares ram air pressure from the pitot tube with static pressure
 
-limitation of airspeed indicator
+{sys} limitation of airspeed indicator
 subject to proper flow of air through the pitot/static system
 
-errors of airspeed indicator
+{sys} errors of airspeed indicator
 position error caused by static ports sensing wrong static pressure, density error caused by temperature and altitude not compensated for by the instrument, compressibility error caused by packing of air into the pitot tube at high airspeeds resulting in higher than normal indications
 
-limitations of vertical speed indicator
+{sys} limitations of vertical speed indicator
 not accurate until aircraft is control-stabilized in non-turbulent air
 
-which instruments contain gyroscopes
+{sys} which instruments contain gyroscopes
 turn coordinator, heading indicator, attitude indicator
 
-two fundamental properties of a gyroscope
+{sys} two fundamental properties of a gyroscope
 rigidity in space (fixed position in plane in which it is spinning), precession (tilting or turning of gyro in response to deflection forces)
 
-power sources for gyros
+{sys} power sources for gyros
 vacuum, pressure, electric
 
-how attitude indicator works
+{sys} how attitude indicator works
 rotates in the horizontal plane and operates off of the principle of rigidity in space, aircraft pitches and rolls around the erect gyroscope, effects of precession are not felt because pendulous vanes attached to the base of the gyro duct high pressure air from the vacuum through small doors that open and close by the force of gravity to keep the gyro in its original position
 
-errors in attitude indicator
+{sys} errors in attitude indicator
 may be slight nose up during acceleration, also may be bank/pitch angle error after 180-degree turn
 
-how the heading indicator works
+{sys} how the heading indicator works
 rotates in the vertical plane and operates off of rigidity in space, as the aircraft yaws around the gyro, a gear inside of the instrument case rotates the compass card to show the magnetic direction, precession caused from aircraft movement and friction causes error that must be corrected by resetting the heading indicator to the magnetic compass approximately every 15 minutes
 
-errors in heading indicator
+{sys} errors in heading indicator
 precession caused by friction, needs to be checked every 15 min
 
-how turn coordinator works
+{sys} how turn coordinator works
 uses precession, gyro reacts to movement during a turn
 
-turn coordinator shows...
+{sys} turn coordinator shows...
 roll and yaw of aircraft around the vertical and longitudinal axes, standard rate turn of 3-deg per second
 
-what turn coordinator shows during slip
+{sys} what turn coordinator shows during slip
 ball on inside of the turn, not enough rate of turn for bank
 
-what turn coordinator shows during skid
+{sys} what turn coordinator shows during skid
 ball on outside of the turn, too much rate of turn for the bank
 
-how does magnetic compass work
+{sys} how does magnetic compass work
 magnetized needles attached to a float assembly in bowl of acid-free white kerosine
 
-limitations of magnetic compass
+{sys} limitations of magnetic compass
 erratic behavior when tilted more than 18-deg bank
 
-compass errors
+{sys} compass errors
 oscillation error (turbulence, rough control technique), deviation error, variation error, dip error (ANDS, UNOS)
 
-AHRS
+{sys} AHRS
 attitude and heading reference system
 
-ADC
+{sys} ADC
 air data computer
 
-PFD
+{sys} PFD
 primary flight display
 
-MFD
+{sys} MFD
 multi-function display
 
-FD
+{sys} FD
 flight director
 
-FMS
+{sys} FMS
 flight management system
 
-INS 
+{sys} INS 
 inertial navigation system
 
-which backup instruments are normally provided in an advanced avionics aircraft
+{sys} which backup instruments are normally provided in an advanced avionics aircraft
 altimeter, attitude indicator, airspeed indicator
 
-if a display fails, what other instruments can it affect
+{sys} if a display fails, what other instruments can it affect
 radio, navigation, GPS
 
-what you lose when ADC fails
+{sys} what you lose when ADC fails
 airspeed indiator, vertical speed indicator, altitude
 
-what you lose when magnetometer fails
+{sys} what you lose when magnetometer fails
 heading indicator
 
-how 172SP nosewheel is connected to rudder pedals
+{sys} how 172SP nosewheel is connected to rudder pedals
 via a spring-loaded steering bungee
 
-172SP minimum steering radius in ft
+{sys} 172SP minimum steering radius in ft
 27
 
-172SP main wheel shock
+{sys} 172SP main wheel shock
 tubular steel
 
-172SP nose wheel shock
+{sys} 172SP nose wheel shock
 air/oil nose gear
 
-172SP parking brake works if brake pedals don't (yes/no)
+{sys} 172SP parking brake works if brake pedals don't (yes/no)
 no
 
-how to start engine using external power
+{sys} how to start engine using external power
 besides obvious, must also have master switch on
 
-signs of magneto malfunction
+{sys} signs of magneto malfunction
 roughness, misfiring
 
-first things to do when you suspect magneto malfunction before turning off magneto
+{sys} first things to do when you suspect magneto malfunction before turning off magneto
 try different power setting, richen mixture
 
-172SP normal climbout after takeoff, KIAS
+{sys} 172SP normal climbout after takeoff, KIAS
 75-85
 
-172SP short-field climbout after takeoff, KIAS
+{sys} 172SP short-field climbout after takeoff, KIAS
 56
 
-172SP normal enroute climbout, KIAS
+{sys} 172SP normal enroute climbout, KIAS
 75-85
 
-172SP starter duty cycle seconds on, seconds off
+{sys} 172SP starter duty cycle seconds on, seconds off
 10, 20
 
-most susceptible to vapor formation when
+{sys} most susceptible to vapor formation when
 above 80F, idle speeds
 
-actions to take when you suspect vapor formation while still on the ground
+{sys} actions to take when you suspect vapor formation while still on the ground
 power to 1800-2000 RPM for two minutes, return to 1200 RPM, lean for idle, apply full throttle for 10 sec at start of takeoff
 
-172SP can lean using EGT method only when operating no more than what percent power
+{sys} 172SP can lean using EGT method only when operating no more than what percent power
 75
 
-172SP oil system
+{sys} 172SP oil system
 oil drawn from 8-quart sump through oil suction strainer screen into engine-driven oil pump, then pumped to bypass valve if cold
 
-types of VFR aeronautical charts
+{chart} types of VFR aeronautical charts
 sectional chart, VFR terminal area chart (TAC), VFR flyway planning chart (reverse side of TAC)
 
-VFR terminal area chart (TAC) depicts...
+{chart} VFR terminal area chart (TAC) depicts...
 class B airspace
 
-VFR flyway planning chart depicts...
+{chart} VFR flyway planning chart depicts...
 flight paths and altitudes recommended for use to bypass high traffic areas
 
-EFBs are approved for use a replacement for paper reference materials (yes/no)
+{reg} EFBs are approved for use a replacement for paper reference materials (yes/no)
 yes
 
-latitudinal range of USA: min, max
+{chart} latitudinal range of USA: min, max
 25N, 49N
 
-longitudinal range of USA: min, max
+{chart} longitudinal range of USA: min, max
 67W, 125W
 
 types of navaids
@@ -3054,37 +3054,37 @@ ask briefer if radius intersects route of flight, and possibly view TFR details 
 normal height above runway threshold if on glide slope
 50 ft
 
-172SP white arc min,max KIAS
+{sys} 172SP white arc min,max KIAS
 40, 85
 
-172SP green arc min,max KIAS
+{sys} 172SP green arc min,max KIAS
 48, 129
 
-172SP yellow arc min,max/redline KIAS
+{sys} 172SP yellow arc min,max/redline KIAS
 129, 163
 
-172SP max window open speed KIAS
+{sys} 172SP max window open speed KIAS
 163
 
-172SP propeller manufacturer, model, min diameter(in), max diameter(in)
+{sys} 172SP propeller manufacturer, model, min diameter(in), max diameter(in)
 McCauley Propeller Systems, 1A170E/JHA7660, 75, 76
 
-172SP tach sea level range min,max
+{sys} 172SP tach sea level range min,max
 2100, 2500
 
-172SP tach 5000 ft level range min,max
+{sys} 172SP tach 5000 ft level range min,max
 2100, 2600
 
-172SP tach 10000 ft level range min,max/redline
+{sys} 172SP tach 10000 ft level range min,max/redline
 2100, 2700
 
-172SP oil temperature min,max (F)
+{sys} 172SP oil temperature min,max (F)
 100, 245
 
-172SP oil pressure min-redline,green min,green max,max-redline
+{sys} 172SP oil pressure min-redline,green min,green max,max-redline
 20, 50, 90, 115
 
-172SP fuel flow min,max GPU
+{sys} 172SP fuel flow min,max GPU
 0, 12
 
 METAR wind direction (true/magnetic)
@@ -3114,7 +3114,7 @@ TAF radius in miles
 things in METAR not in TAF
 temperatures, altimeter
 
-172SP nosewheel in flight turns when you press the rudder pedals (yes/no)
+{sys} 172SP nosewheel in flight turns when you press the rudder pedals (yes/no)
 no, nose wheel locked straight while in flight, bungee cords work only on the ground and only a little
 
 decode 2447-29 winds/temp
@@ -4017,7 +4017,7 @@ perpendicular to the relative wind and wingspan
 another name for cumulonimbus clouds
 thunderstorms
 
-172SP defined minimum maneuvering speed (DMMS) KIAS
+{sys} 172SP defined minimum maneuvering speed (DMMS) KIAS
 67
 
 DMMS formula
@@ -4188,7 +4188,7 @@ drawn or inscribed line indicating heading on a magnetic compass
 red V's on an EFD
 high pitch attitude
 
-172SP flaps
+{sys} 172SP flaps
 hybrid Fowler (move back and down for first 10 deg), mostly down for remainder, electric motor in right wing
 
 when ELT can be tested
@@ -4209,7 +4209,7 @@ no, full authority digital engine control eliminates the need for magnetos, carb
 slotted flap
 has gap between wing and leading edge of flap, helps energize low-pressure flow over the top
 
-172SP stall horn goes off how man knots above stall
+{sys} 172SP stall horn goes off how man knots above stall
 5-10
 
 height of 172SP
@@ -4491,7 +4491,7 @@ yes, oil takes more time to heat up or cool down
 what sits between crankshaft and piston
 connecting rod
 
-172SP fuel system
+{sys} 172SP fuel system
 2 tanks, fuel flows from each wing by gravity to selector valve (which should be one BOTH for takeoff and landing and normally), fuel goes through electrically powered auxilliary fuel pump bypassing the shutoff valve, then flows through the fuel strainer and the engine driven fuel pump into the fuel/air control unit, the fuel/air mixture (ratio governed by mixture control, air governed by throttle) then flows through the fuel distribution valve into the cylinders
 
 exhaust gas temperature gauge (EGT)
@@ -5160,7 +5160,7 @@ right pattern, but see chart supplement for exceptions
 HS on airport diagram
 hot spot, typically an intersection where there is a lot of congestion
 
-172SP minimum static RPM during takeoff
+{sys} 172SP minimum static RPM during takeoff
 2300-2400
 
 runway length on sectional chart is available for landing
