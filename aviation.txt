@@ -3691,10 +3691,10 @@ airplane, rotocraft, glider, lighter-than-air, powered lift
 single-engine land, single-engine sea, multi-engine land, multi-engine sea
 
 {reg} requirements for BasicMed
-must have had a valid medical certificate that was not revoked, suspended, or withdrawn; no new serious medical conditions since; valid state-issued driver's license
+must have had a valid medical certificate that was not revoked, suspended, or withdrawn; no new serious medical conditions since; valid unexpired state-issued driver's license
 
 {reg} documents to carry under BasicMed
-valid state-issued driver's license
+valid unexpired state-issued driver's license
 
 {reg} documents that must be available upon request for BasicMed
 Comprehensive Medical Examination Checklist, Basic Medical Education Course certificate
