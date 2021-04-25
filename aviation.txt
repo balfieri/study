@@ -2130,928 +2130,928 @@ yes
 {chart} longitudinal range of USA: min, max
 67W, 125W
 
-types of navaids
+{sys} types of navaids
 VOR, VORTAC, DME, RNAV
 
-RNAV
+{sys} RNAV
 area navigation, includes INS VOR/DME-referenced, GPS
 
-what VORTAC provides that VOR doesn't
+{sys} what VORTAC provides that VOR doesn't
 distance information for use by DMEs
 
-DME
+{sys} DME
 distance measuring equipment
 
-frequency range of VORs in MHz: min, max
+{sys} frequency range of VORs in MHz: min, max
 108, 117.95
 
-TIS-B
+{sys} TIS-B
 traffic information broadcast part of ADS-B
 
-TIS-B frequency MHz
+{sys} TIS-B frequency MHz
 1090
 
-VOR radial
+{chart} VOR radial
 line of magnetic bearing extending from a VOR; an aircraft on the 360-degree radial will always be located north of the station
 
-classifications of VOR NAVAIDs
+{chart} classifications of VOR NAVAIDs
 terminal, low, high
 
-reception distances of terminal, low, high VORs in miles
+{chart} reception distances of terminal, low, high VORs in miles
 25, 40, 100-130
 
-methods of checking VOR accuracy
+{sys} methods of checking VOR accuracy
 VOT check (+/- 4-deg), ground checkpoint (+/- 4-deg), airborne checkpoint (+/- 6-deg), dual VOR check (4-deg between each other), selected radial over a known ground point (+/- 6-deg)
 
-VOT
+{sys} VOT
 radio transmitter used for testing the accuracy of aircraft VOR receivers, they are typically located at large airports
 
-DME frequency range MHZ: min, max
+{sys} DME frequency range MHZ: min, max
 960, 1215
 
-three functional elements of GPS
+{sys} three functional elements of GPS
 space element (30 satellites), control element (network of ground-based GPS monitoring and control stations), user element (antennas and processsors onboard aircraft)
 
-types of GPS receivers
+{sys} types of GPS receivers
 fully integrated VFR/IFR, handheld
 
-purpose of RAIM, receiver autonomous integrity monitoring
+{sys} purpose of RAIM, receiver autonomous integrity monitoring
 self-monitoring function performed by GPS receiver to ensure that adequate GPS signals are being received from satellites at all times
 
-can you continue to use GPS if RAIM capability is lost in flight
+{sys} can you continue to use GPS if RAIM capability is lost in flight
 no assurance of accuracy of GPS position
 
-preflight checks for GPS
+{sys} preflight checks for GPS
 verify that it is properly installed and certified for planned operation, verify that databases have not expired, review GPS NOTAM/RAIM information, review operational status of ground-based NAVAIDs, verify that GPS receiver operation manual is on-board (may be part of POH appendix)
 
-an FSS briefer will mention GPS NOTAMs (yes/no)
+{weather} an FSS briefer will mention GPS NOTAMs (yes/no)
 no, you must explicitly ask for them
 
-what you get with 3 GPS satellites
+{sys} what you get with 3 GPS satellites
 2D position
 
-what you get with 4 GPS satellites
+{sys} what you get with 4 GPS satellites
 3D position
 
-what you get with 5 GPS satellites
+{sys} what you get with 5 GPS satellites
 3D position, RAIM
 
-what you get with 6 GPS satellites
+{sys} what you get with 6 GPS satellites
 3D position, RAIM with corrupt signal isolation
 
-limitations of panel-mount or handheld VFR GPS system
+{sys} limitations of panel-mount or handheld VFR GPS system
 no RAIM, database out of date, poor antenna location
 
-VFR waypoint
+{chart} VFR waypoint
 begin with letters "VP", reporting points around class B and C airspace and special-use airspace
 
-what happens to VFR flight plan that you are unable to activate in-flight
+{reg} what happens to VFR flight plan that you are unable to activate in-flight
 canceled one hour after the proposed departure time
 
-first actions to take when lost and you have plenty of fuel in good weather
+{sop} first actions to take when lost and you have plenty of fuel in good weather
 fly heading you believe is correct, use multiple VORs to triangulate, use elapsed time from prior position and true heading to determine current position, use pilotage
 
-first actions to take when lost and low on fuel or weather is deteriorating
+{sop} first actions to take when lost and low on fuel or weather is deteriorating
 get on the ground ASAP
 
-how to navigate to an alternate airport assuming no GPS or DME capability
+{sop} how to navigate to an alternate airport assuming no GPS or DME capability
 approximate magnetic course using straight edge and compass rose from a nearby VOR, if time permits start diversion over a prominent ground feature, use winds aloft to calculate heading and GS, give priority to flying aircraft
 
-VHF comm frequency range: min, max
+{sys} VHF comm frequency range: min, max
 118.0, 136.975
 
-typical ground frequency range: min, max
+{sys} typical ground frequency range: min, max
 121.6, 121.9
 
-actions to take when there is no tower, FSS, or UNICOM station at the airport
+{sop} actions to take when there is no tower, FSS, or UNICOM station at the airport
 use MULTICOM 122.9
 
-RCO
+{chart} RCO
 remote communications outlet
 
-purpose of RCO
+{chart} purpose of RCO
 unmanned communications facility remotely controlled by ATC for purposes of communicating with pilots at satellite airports
 
-ways to determine frequency to use for activating flight plan
+{chart} ways to determine frequency to use for activating flight plan
 ask FSS briefer, consult chart supplement
 
-purpose of heavy-lined blue box around navaid frequency
+{chart} purpose of heavy-lined blue box around navaid frequency
 indicates FSS standard frequencies 121.5, 122.2, 243.0, and 255.4 are available
 
-reason a frequency is printed on top of a heavy-lined blue box
+{chart} reason a frequency is printed on top of a heavy-lined blue box
 indicates the frequency is available in addition to FSS standard frequencies
 
-purpose of thin-lined blue box around navaid frquency
+{chart} purpose of thin-lined blue box around navaid frquency
 indicates no FSS standard frequencies available
 
-reason a frequency is printed on top of a thin-lined blue box
+{chart} reason a frequency is printed on top of a thin-lined blue box
 indicate best frequencies to use in the immediate vacinity of the navaid
 
-FSS frequency is followed by the letter "R" indicates...
+{chart} FSS frequency is followed by the letter "R" indicates...
 FSS can only receive on that frequency, pilot should listen over the navaid frequency
 
-how to determine the availability of HIWAS on the sectional chart
+{chart} how to determine the availability of HIWAS on the sectional chart
 navaid has "H" in upper right corner of box
 
-meaning of letter "T" in solid blue circle in upper-right corner of navaid box
+{chart} meaning of letter "T" in solid blue circle in upper-right corner of navaid box
 indicates that a transcribed weather broadcast (TWEB) is available 
 
-TWEB transcribed weather broadcast (Alaska only)
+{weather} TWEB transcribed weather broadcast (Alaska only)
 continuous recording of weather information that is broadcast on L/MF and VOR for pilots
 
-each PIC who deviates from a part 91 rule in an emergency situation shall
+{reg} each PIC who deviates from a part 91 rule in an emergency situation shall
 upon request, send a written report to the Administrator
 
-with regard to alcohol and drugs a pilot may not fly
+{reg} with regard to alcohol and drugs a pilot may not fly
 within 8 hours of consuming any alcoholic beverage, while under influence, while using any drug that affects safety, with an alcohol concentration level of at least 0.04%
 
-pilot may carry a person who is under the influence of drugs or alcohol (yes/no)
+{reg} pilot may carry a person who is under the influence of drugs or alcohol (yes/no)
 no, except in an emergency
 
-situations where no-portable-electronic devices rule applies
+{reg} situations where no-portable-electronic devices rule applies
 under IFR unless pilot decides it will not cause a hazard, aircraft operated by a holder of an air carrier operating certificate
 
-phases of flight in which a crewmember may remove his/her shoulder harness
+{reg} phases of flight in which a crewmember may remove his/her shoulder harness
 enroute
 
-right-of-way rules for landing
+{reg} right-of-way rules for landing
 aircraft on final approach, aircraft with lower altitude
 
-minimum safe altitude above a congested area
+{chart} minimum safe altitude above a congested area
 1000 ft above highest obstacle within horizontal radius of 2000 ft
 
-minimum safe altitude over open water or sparsely populated areas
+{chart} minimum safe altitude over open water or sparsely populated areas
 500 ft from any person, vessel, vehicle or structure
 
-minimum safe altitude over a U.S. wildlife refuge, park, or Forest Service Area
+{chart} minimum safe altitude over a U.S. wildlife refuge, park, or Forest Service Area
 2000 ft above the surface
 
-when operating below 18000 MSL, proper procedure for setting altimeter
+{sop} when operating below 18000 MSL, proper procedure for setting altimeter
 if pressure is 31.00 Hg or less, use altimeter of station that is within 100 nm of aircraft; above 31.00 Hg, consult the AIM
 
-actions to take if altimeter setting is not available before flight
+{sop} actions to take if altimeter setting is not available before flight
 set altimeter to match ground elevation
 
-actions pilot must take when deviating from an ATC instruction and priority is given
+{sop} actions pilot must take when deviating from an ATC instruction and priority is given
 notify ATC of deviation as soon as possible, submit a detailed report of emergency within 48 hour to manager of ATC facility if requested by ATC
 
-if radio fails in flight, what conditions must be met before landing at a controlled airport
+{sop} if radio fails in flight, what conditions must be met before landing at a controlled airport
 weather conditions must be at least basic VFR minimums, visual contact with tower is maintained, clearance to land is received
 
-at uncontrolled airport in class G or E, make left traffic unless
+{chart} at uncontrolled airport in class G or E, make left traffic unless
 airport displays approved light signals or visual markings that indicate right traffic
 
-altitude range for which hemispheric rules apply: min, max
+{chart} altitude range for which hemispheric rules apply: min, max
 3000 ft AGL, 18000 ft MSL
 
-when must ELT batteries be replaced
+{sys} when must ELT batteries be replaced
 transmitter in use for more than one cummulative hour, 50% of useful life has expired
 
-where aerobatic flight is not permitted
+{reg} where aerobatic flight is not permitted
 over congested areas, over open-air assembly of persons, within lateral boundaries of class B/C/D/E for an airport, within 4 nm of center line of a federal airway, below 1500 AGL, when visibility is less than 3 miles
 
-aerobatic flight
+{reg} aerobatic flight
 intentional maneuver involving abrupt change in aircraft's attitude, an abnormal altitude, or abnormal acceleration, not necessary for normal flight
 
-when are parachutes required
+{reg} when are parachutes required
 exceeding bank angle of 60-deg, nose-up/nose-down of 30-deg, except when related to flight tests for pilot certification
 
-horizontal extent of class A airspace
+{chart} horizontal extent of class A airspace
 within 12 nm of coast of 48 states and Alaska, designated international airspace beyond 12 nm
 
-minimum equipment for class A airspace
+{chart} minimum equipment for class A airspace
 two-way radio, mode C transponder, IFR-capable
 
-typical vertical extent of class B airspace: min, max
+{chart} typical vertical extent of class B airspace: min, max
 surface, 10000 ft MSL
 
-cyclone pressure system
+{weather} cyclone pressure system
 low
 
-squal line is dangerous because
+{weather} squal line is dangerous because
 fast-moving thunderstorms that stay on the cold front
 
-hurricane
+{weather} hurricane
 any tropical storm with sustained winds over 75 MPH
 
-main hazards of hurricane
+{weather} main hazards of hurricane
 high winds, lightning, extreme turbulence, heavy downpour
 
-Below Cat1 IFR
+{chart} Below Cat1 IFR
 below 200 ft
 
-SVFR weather minimums into class B/C/D/E
+{chart} SVFR weather minimums into class B/C/D/E
 1 SM, clear of clouds
 
-advantages of fixed-pitch propeller
+{sys} advantages of fixed-pitch propeller
 easier to learn, easier to maintain, better for shorter-distance flights (e.g., training)
 
-reason negative g limit has less magnitude than positive g limit
+{sys} reason negative g limit has less magnitude than positive g limit
 aircraft are designed for positive g
 
-when is aft CG better than forward CG
+{perf} when is aft CG better than forward CG
 takeoff, climb, cruise
 
-forward CG is better for landing because
+{perf} forward CG is better for landing because
 more stability
 
-what happens to CG as you deplete fuel
+{perf} what happens to CG as you deplete fuel
 moves forward
 
-use 75% EGT method of leaning the mixture when you want to maximize
+{perf} use 75% EGT method of leaning the mixture when you want to maximize
 fuel economy
 
-use RPM method of leaning the mixture when you want to maximize
+{perf} use RPM method of leaning the mixture when you want to maximize
 power and speed
 
-how to make sure you are never out of trim
+{perf} how to make sure you are never out of trim
 do not pull or push on the yoke when you are supposed to be in stabilized flight
 
-how we know cables are connected correctly
+{sys} how we know cables are connected correctly
 look at cable ties where we can, else move control surfaces during preflight and runup
 
-how class B depicted on sectional chart
+{chart} how class B depicted on sectional chart
 solid shaded blue line for lateral limits, numbers indicate top and base (e.g., 100/25)
 
-ATC services provided in class B for VFR pilots
+{chart} ATC services provided in class B for VFR pilots
 sequencing and separation
 
-person responsible for avoiding wake turbulence in class B airspace
+{adm} person responsible for avoiding wake turbulence in class B airspace
 PIC
 
-typical dimensions of class C airspace
+{chart} typical dimensions of class C airspace
 5nm core SFC to 4000 ft, 10nm shelf from 1200 ft to 4000 ft above airport elevation, outer radius of 20nm
 
-minimum equipment for class C
+{chart} minimum equipment for class C
 radio, mode-C transponder
 
-requirements for departing satellite airport within class C airspace
+{chart} requirements for departing satellite airport within class C airspace
 establish two-way radio communication with ATC as soon as practical after departing
 
-how class C depicted on the sectional chart
+{chart} how class C depicted on the sectional chart
 solid magenta line
 
-ATC services provided within class C
+{chart} ATC services provided within class C
 sequencing to primary airport, within airspace and outer area, basic radar outside the outer area on a load-permitting basis
 
-types of terminal radar services for VFR aircraft
+{chart} types of terminal radar services for VFR aircraft
 basic radar service (safety, alerts, traffic advisories, limited radar vectoring, sequencing), TRSA (radar), class C service (basic radar, separation between IFR and VFR, sequencing of VFR arrivals to primary airport), class B services (similar to class C services)
 
-where mode C transponder is required
+{chart} where mode C transponder is required
 >= 10000 ft MSL over 48 contiguous states or DC excluding airspace below 2500 AGL, within 30 miles of class B primary airport, within and above all class C airspace up to 10000 ft MSL, within 10 miles of certain designated airports excluding outside class D surface area and below 1200 AGL, ADIZs
 
-maximum airspeed within class C airspace
+{chart} maximum airspeed within class C airspace
 200 knots <= 2500 ft above surface within 4 nm of primary airport
 
-required equipment for class D
+{chart} required equipment for class D
 radio
 
-requirements for departing from satellite airport within class D
+{chart} requirements for departing from satellite airport within class D
 must establish two-way radio communication with ATC as soon as practical after departing
 
-ATC clearance is required for VFR flight through class E surface area arrival extension (yes/no)
+{chart} ATC clearance is required for VFR flight through class E surface area arrival extension (yes/no)
 no
 
-class D is depicted using...
+{chart} class D is depicted using...
 blue dashed lines
 
-types of ATC services provided in class D airspace
+{chart} types of ATC services provided in class D airspace
 no separation for VFR, controller might provide advisories if workload permits
 
-maximum speed within class D
+{chart} maximum speed within class D
 200 knots <= 2500 above surface within 4 nm of primary airport
 
-what happens when class D control tower is closed
+{chart} what happens when class D control tower is closed
 either: 1) class E surface area rules, or 2) class E rules down to 700 AGL and class G rules to surface; consult chart supplements
 
-all airports with an operating control tower always have class D airpspace around them (yes/no)
+{chart} all airports with an operating control tower always have class D airpspace around them (yes/no)
 no, some airports do not have the required weather reporting for surface based controlled airspace
 
-equipment required in class E
+{chart} equipment required in class E
 none specific
 
-purpose of class E transition area (from 700 ft AGL - magenta, from 1200 ft AGL - blue)
+{chart} purpose of class E transition area (from 700 ft AGL - magenta, from 1200 ft AGL - blue)
 IFR, help separate IFR and VFR traffic
 
-you are required to establish communication with a tower operating within class E (yes/no)
+{chart} you are required to establish communication with a tower operating within class E (yes/no)
 yes
 
-class E surface extensions are depicted using...
+{chart} class E surface extensions are depicted using...
 magenta dashed line
 
-you are required to establish communication with a tower located in class G (yes/no)
+{chart} you are required to establish communication with a tower located in class G (yes/no)
 yes
 
-vertical limits of class G
+{chart} vertical limits of class G
 surface up to overlying class E, not to exceed 14,500 ft MSL
 
-cloud clearance and visibility requirements for class G at night when in the pattern below 1200 ft AGL
+{chart} cloud clearance and visibility requirements for class G at night when in the pattern below 1200 ft AGL
 1-3 SM, must be within 1/2 mile from runway
 
-main difference of class G from class A/B/C/D/E
+{chart} main difference of class G from class A/B/C/D/E
 flight visibility and cloud clearance requirements
 
-basic VFR weather minimums
+{chart} basic VFR weather minimums
 1000 ft ceiling and 3 mile visibility
 
-how to obtain SVFR clearances 
+{chart} how to obtain SVFR clearances 
 VFR must be requested to the tower and be granted, workload permitting, and less likely in B and C than D and E due to volume of IFR traffic
 
-examples of SFRAs
+{chart} examples of SFRAs
 DC, Grand Canyon; see chart legend and part 93, check NOTAMs
 
-where to find info on special use airspaces
+{chart} where to find info on special use airspaces
 on chart, https://sua.faa.gov
 
-where to find info on VFR flyways, VFR corridors, and class B transition routes
+{chart} where to find info on VFR flyways, VFR corridors, and class B transition routes
 normally on reverse side of VFR terminal area chart (aka class B airspace chart)
 
-military training routes altitude ranges
+{chart} military training routes altitude ranges
 < 1500 ft AGL are VFR (4-digit ids, e.g., VR 1008), >= 1500 ft AGL are usually IFR (3-digit ids, eg., IR 003, VR 004)
 
-ADIZ locations
+{chart} ADIZ locations
 domestic (along U.S. border), coastal, distant early warning identification zone (DEWIZ) over coastal waters of Alaska, land-based ADIZ over U.S. metro areas (activated via NOTAMs)
 
-requirements for operation within an ADIZ
+{chart} requirements for operation within an ADIZ
 filed flight plan, two-way radio, radar beacon transponder (as opposed to a mode-C), position reports, aircraft position tolerances (+/- 5 minutes), follow land-based NOTAMs
 
-incident
+{reg} incident
 an occurrence associated with an aircraft other than an accident which affects or could affect the safety of operations
 
-accident
+{reg} accident
 an occurrence associated with an aircraft which takes place between the time any person boards the aircraft with the intention of flight and all such persons have disembarked, and in which any person suffers death or serious injury, or in which which the aircraft receives substantial damage
 
-serious injuries
+{reg} serious injuries
 requires hospitalization for more than 48 hours commencing within 7 days from date the injury was received, causes fraction of any bone (other than fingers, toes, nose), causes severe hemorrhages or nerve/muscle/tendon damage, involves any internal organs, involves 2nd or 3rd degree burns affecting more than 5% of the body surface
 
-substantial damage
+{reg} substantial damage
 adversely affects the structural strength, performance, or flight characteristics of the aircraft and which would normally require major repair or replacement
 
-damages NOT considered substantial 
+{reg} damages NOT considered substantial 
 limited to only one engine of multiple, bent fairings or cowling, dented skin, small punctured holes in skin, ground damage to rotor or propeller blades, landing gear, wheels, tires, flaps, engine accessories, brakes, wing tips
 
-immediate notification of accident to NTSB is required even if no one got hurt (yes/no)
+{reg} immediate notification of accident to NTSB is required even if no one got hurt (yes/no)
 yes
 
-where accident/incident reports are filed
+{reg} where accident/incident reports are filed
 local NTSB field office
 
-deadlines for filing an NTSB report
+{reg} deadlines for filing an NTSB report
 within 10 days after accident, when overdue aircraft is missing after 7 days, upon request for an incident
 
-FAA can use reports submitted to NASA for enforcement purposes (yes/no)
+{reg} FAA can use reports submitted to NASA for enforcement purposes (yes/no)
 no, except for accidents and criminal offenses that are wholly excluded from the program
 
-meaning of rotating beacon during daylight hours for class B/C/D/E-surface
+{chart} meaning of rotating beacon during daylight hours for class B/C/D/E-surface
 ground visibility is less than 3 miles and/or the ceiling is less than 1000 ft and that ATC clearance is required for landing, takeoff, and flight in traffic patterns
 
-types of airport signs
+{chart} types of airport signs
 mandatory instruction sign (red bg, white fg) for runway entrance, location sign (black bg, yellow fg, yellow border), direction sign (yellow bg, black fg) identifies the designation of the intersecting taxiway(s) leading out of an intersection, destination sign (yellow bg, black fg, arrows) provides info on locating runways/terminals/cargo-areas/civil-aviation-areas, information sign (yellow bg, black fg) provides information for things that can't be seen from the control tower, runway distance remaining sign (black bg, white fg) in thousands of ft
 
-color for runway, taxiway markings
+{chart} color for runway, taxiway markings
 white, yellow
 
-how to prevent hydroplaning when landing
+{sop} how to prevent hydroplaning when landing
 land more firmly (less smoothly like short-field)
 
-anti-icing equipment on 172SP
+{sys} anti-icing equipment on 172SP
 pitot heat
 
-deicing equipment on 172SP
+{sys} deicing equipment on 172SP
 none, but airport may have fluids you can buy
 
-how to get skin temperature
+{sys} how to get skin temperature
 OAT-5C (can get icing 5C above freezing temperature)
 
-snow causes icing (yes/no)
+{weather} snow causes icing (yes/no)
 generally no, too light, will go over or under wing
 
-temperature at which ice stops forming
+{weather} temperature at which ice stops forming
 -20C
 
-how to get rid of ice in the air
+{sop} how to get rid of ice in the air
 turn around, go lower, go higher into the sun, go faster to avoid stalling, talk to ATC
 
-actions to take if you encounter ice before flying
+{sop} actions to take if you encounter ice before flying
 get rid of it, turn aircraft into the sun, use credit card to scrape it, use deicing fluids, don't use hot water (to protect against metal fatigue)
 
-enhanced taxiway centerline
+{chart} enhanced taxiway centerline
 150 ft before runway hold-short line
 
-purpose of blast pad 
+{chart} purpose of blast pad 
 off-limit area before takeoff over which thrust may go to avoid environmental damage
 
-when runway edge lights change color
+{chart} when runway edge lights change color
 to amber toward last 1/2 or 2000 ft of runway, whichever is less
 
-color of threshold lights
+{chart} color of threshold lights
 green (red on the other side)
 
-thick lines toward beginning of runway on each side of centerline depict
+{chart} thick lines toward beginning of runway on each side of centerline depict
 touchdown zone
 
-displaced threshold side light color
+{chart} displaced threshold side light color
 red
 
-white zipper sign at airport
+{chart} white zipper sign at airport
 restricted area for vehicles 
 
-dashed taxiway centerline
+{chart} dashed taxiway centerline
 taxiway hold-short line
 
-solid+dashed taxiway centerline
+{chart} solid+dashed taxiway centerline
 taxiway non-movement-area / movement-area separation line
 
-red wrong-way sign 
+{chart} red wrong-way sign 
 do not enter for aircrafts
 
-yellow X sign
+{chart} yellow X sign
 closed off taxiway or runway
 
-color of runway, taxiway edge lights
+{chart} color of runway, taxiway edge lights
 white, blue
 
-use of ILS hold-short-line
+{chart} use of ILS hold-short-line
 when IFR aircraft is landing, but ignore if not in IMC
 
-black airport sign with white number
+{chart} black airport sign with white number
 runway ft remaining in 1000's
 
-how EMAS is denoted on the chart supplement
+{chart} how EMAS is denoted on the chart supplement
 white rectangle
 
-difference between tach time and Hobbs time
+{sys} difference between tach time and Hobbs time
 tach time scales by RPMs, Hobbs time records how long the engine has been running at all
 
-runway hold position markings
+{chart} runway hold position markings
 two solid yellow lines, two dashed yellow lines
 
-temporarily closed runway or taxiway markings
+{chart} temporarily closed runway or taxiway markings
 yellow crosses at each end of the runway, barricades or yellow cross at entrance to taxiway
 
-permanently closed runway or taxiway marking
+{chart} permanently closed runway or taxiway marking
 lighting disconnected, normal lines obliterated, yellow crosses placed along runway at 1000-ft intervals
 
-methods for determining proper runway and traffic pattern at airport without an operating control tower
+{sop} methods for determining proper runway and traffic pattern at airport without an operating control tower
 UNICOM/AWOS will provide wind direction, segmented circle markings with windsock
 
-procedures for departing pattern at uncontrolled airport
+{sop} procedures for departing pattern at uncontrolled airport
 straight out or exit with a 45-degree turn beyond the departure end of the runway after reaching pattern altitude
 
-publication that can clarify traffic pattern altitude for a particular airport
+{chart} publication that can clarify traffic pattern altitude for a particular airport
 chart supplement
 
-where to obtain ARTCC frequencies
+{chart} where to obtain ARTCC frequencies
 FSS or chart supplement
 
-distance from airport when making initial radio call
+{sop} distance from airport when making initial radio call
 15 miles
 
-it is necessary to request permission to leave ATC tower frequency once outside of class B/C/D surface area (yes/no)
+{chart} it is necessary to request permission to leave ATC tower frequency once outside of class B/C/D surface area (yes/no)
 no
 
-order of radio facility usage when departing a controlled airport within class B/C/D airspace
+{sop} order of radio facility usage when departing a controlled airport within class B/C/D airspace
 ATIS, clearance delivery, ground control, control tower, departure control
 
-order of radio facility usage when arriving at controlled airport within class B/C/D airspace
+{sop} order of radio facility usage when arriving at controlled airport within class B/C/D airspace
 ATIS, approach control, control tower, ground control
 
-website containing NOTAMs
+{weather} website containing NOTAMs
 https://pilotweb.nas.faa.gov/PilotWeb/
 
-five categories of NOTAMs
+{weather} five categories of NOTAMs
 (D), FDC, pointer, SAA, military
 
-(D) NOTAM
+{weather} (D) NOTAM
 info that requires wide dissemination pertaining to nav aids, civic public-use airports, facilities, services, and procedures
 
-FDC NOTAM
+{weather} FDC NOTAM
 flight info that is regulatory in nature, including changes to IFR charts, procedures, and airspace usage
 
-Pointer NOTAM
+{weather} pointer NOTAM
 issued by an FSS to point to another NOTAM
 
-SAA NOTAM
+{weather} SAA NOTAM
 issued when special advisory airspace will be active outside published schedule times
 
-Military NOTAM
+{weather} military NOTAM
 pertain to U.S. armed forces nav aids/airports that are part of the NAS
 
-(D) NOTAM keywords
+{weather} (D) NOTAM keywords
 RWY, TWY, RAMP, APRON, AD, OBST, NAV, COM, SVC, AIRSPACE, (U) unverified, (O) other
 
-places to find NOTAM information
+{weather} places to find NOTAM information
 FSS, FIS-B, NTAP (printed NOTAMs), DUATs vendors, https://www.faa.gov/pilots/flt_plan/notams/
 
-conditions where VFR flight plan must be filed
+{reg} conditions where VFR flight plan must be filed
 when penetrating an ADIZ or DEWIZ, but still recommended for extended cross-country flights
 
-DVFR flight plan
+{sop} DVFR flight plan
 defense VFR flight into a coastal or domestic ADIZ/DEWIZ, and must be filed prior to departure
 
-a tower will automatically close your VFR flight plan when you land (yes/no)
+{reg} a tower will automatically close your VFR flight plan when you land (yes/no)
 no
 
-time from ETA that FSS allows before beginning search-and-rescue efforts for your overdue flight
+{reg} time from ETA that FSS allows before beginning search-and-rescue efforts for your overdue flight
 30 minutes
 
-wake turbulence includes...
+{weather} wake turbulence includes...
 vortices, thrust stream turbulence, jet blast, jet wash, prop wash, rotor wash - both on the ground and in the air
 
-greatest wing vortex strength occurs when the generating aircraft is
+{perf} greatest wing vortex strength occurs when the generating aircraft is
 heavy, clean, and slow
 
-runway width illusion
+{adm} runway width illusion
 narrower than usual runway creates illusion that aircraft is higher than it really is
 
-runway and terrain slope illusion
+{adm} runway and terrain slope illusion
 upsloping will make aircraft appear higher than it really is
 
-cases where pilots should decline LAHSO
+{sop} cases where pilots should decline LAHSO
 compromises safety, weather is below basic VFR (3SM and 1000 ft ceilings)
 
-where to find available landing distance (ALD) data
+{chart} where to find available landing distance (ALD) data
 special notes section of the chart supplement, terminal procedures publications, ATC upon request
 
-collision avoidance procedures during climbs and descents
+{sop} collision avoidance procedures during climbs and descents
 execute gentle banks at frequency that allows continuous visual scanning
 
-drone restrictions
+{chart} drone restrictions
 < 400 ft AGL, daylight, clear of clouds
 
-things that contribute to runway incursions
+{adm} things that contribute to runway incursions
 misunderstanding a clearance, failure to communicate effectively, failure to navigate the airport correctly, unable to interpret airport signage, failure to maintain situational awareness
 
-information that should be consultated when planning taxi operations
+{adm} information that should be consultated when planning taxi operations
 review airport signage/markings/lighting, review airport diagram, identify hot spots, review airfield NOTAMs and ATIS, conduct pre-taxi/pre-landing briefing, plan for critical times on route, plan to complete checklist items prior to taxi
 
-when issued taxi instructions, you may cross any runway that intersects your route (yes, no)
+{sop} when issued taxi instructions, you may cross any runway that intersects your route (yes, no)
 no
 
-when receiving taxi instructions from ATC, a pilot should read back
+{sop} when receiving taxi instructions from ATC, a pilot should read back
 runway assignment, any clearance to enter a specific runway, any hold-short instruction, any line-up-and-wait instruction
 
-ways to maintain situational awareness while taxiing
+{adm} ways to maintain situational awareness while taxiing
 have airport diagram readily available, monitor ATC instructions to other aircraft, focus outside the cockpit, use all available resource to keep the aircraft on the assigned route, check for traffic before crossing any hold-short line, when in doubt ask ATC
 
-aircraft lights that should be illuminated when crossing a runway
+{chart} aircraft lights that should be illuminated when crossing a runway
 all
 
-aircraft lights that should be illuminated when entering a departure runway for takeoff
+{chart} aircraft lights that should be illuminated when entering a departure runway for takeoff
 all except landing lights
 
-aircraft lights that should be illuminated when cleared for takeoff
+{chart} aircraft lights that should be illuminated when cleared for takeoff
 all including landing lights
 
-hazards at airports with calm wind conditions
+{adm} hazards at airports with calm wind conditions
 aircraft landing and taking off on multiple runways, IFR flights may be using instrument approaches on runways other than intended for VFR flight
 
-if you land and miss your assigned taxiway for exiting the runway, you may turn around and return to the exit taxiway at a tower-controlled airport (yes/no)
+{sop} if you land and miss your assigned taxiway for exiting the runway, you may turn around and return to the exit taxiway at a tower-controlled airport (yes/no)
 no
 
-ATC tells you to line up and wait, but does not tell you to take off, time you should wait before contacting ATC
+{sop} ATC tells you to line up and wait, but does not tell you to take off, time you should wait before contacting ATC
 90 seconds max
 
-ways to enhance aircraft security
+{adm} ways to enhance aircraft security
 lock aircraft, do not leave keys in unattended aircraft, use secondary locks (e.g., locking tie down), lock hanger when unattended
 
-procedures that you should review regularly
+{adm} procedures that you should review regularly
 limitations on ramp access, standards for securing aircraft to ramp, securing access to keys at all times, use of secondary locks, after-hours or weekend access procedures
 
-ways to report suspicious activity
+{reg} ways to report suspicious activity
 alert airport/FBO management, contact local law enforcement if immediate threat, contact 866-GA-SECURE hotline
 
-function of cones
+{adm} function of cones
 located in back of the eye, detect color/detail/faraway-objects, less sensitive to light
 
-function of rods
+{adm} function of rods
 peripheral vision, not good at detecting color/detail, more light sensitive than rods
 
-average time for rods and cones to become adapted to darkness
+{adm} average time for rods and cones to become adapted to darkness
 cones take 5 to 10 minutes, rods take 30 minutes
 
-actions pilots should take to accommodate low light conditions
+{adm} actions pilots should take to accommodate low light conditions
 allow enough time for eyes to adapt to low light levels, avoid exposure to bright light
 
-illusion that pilot should be on the lookout for when approaching a well-lit runway surrounded by dark features
+{adm} illusion that pilot should be on the lookout for when approaching a well-lit runway surrounded by dark features
 featureless terrain illusion
 
-ways pilots can maintain good eyesight
+{adm} ways pilots can maintain good eyesight
 avoid fatigue, colds, vitamin deficiency, alcohol, stimulants, smoking, or medications
 
-ways pilots can improve effectiveness of night vision
+{adm} ways pilots can improve effectiveness of night vision
 adapt lights to darkness (30 minutes), use supplemental oxygen over 5000 ft, close one eye when exposed to bright light, do not wear sunglasses, move eyes more slowly, blink eyes if blurry, concentrate on seeing objects, force eyes to view off-center, maintaing good physical condition, avoid smoking/drinking/harmful-drugs
 
-equipment pilots should have for night flight
+{adm} equipment pilots should have for night flight
 2 flashlights with both white and red light, spare set of batteries, aeronautical charts
 
-arrangement of position lights
+{sys} arrangement of position lights
 red on left wingtip, green on right wingtip, white on tail
 
-a PIC may turn off anti-collision lights in the interest of safety (yes/no)
+{reg} a PIC may turn off anti-collision lights in the interest of safety (yes/no)
 yes
 
-runway edge light system
+{chart} runway edge light system
 red at end, green at threshold, yellow toward end, white along edge
 
-runway centerline lighting system
+{chart} runway centerline lighting system
 white until last 3000 ft of runway, then alternating red and white for 2000 ft, then 1000 ft of red only
 
-taxiway centerline light color
+{chart} taxiway centerline light color
 green
 
-taxiway clearance bar light color
+{chart} taxiway clearance bar light color
 yellow
 
-taxiway runway guard light color
+{chart} taxiway runway guard light color
 flashing yellow
 
-taxiway stop bar lights
+{chart} taxiway stop bar lights
 red
 
-types of obstruction lighting
+{chart} types of obstruction lighting
 aviation red obstruction lights during nighttime, medium and high intensity white obstruction lights during daytime, dual lighting, combination of previous two, catenary flashing white markers for high voltage transmission lines and support structures
 
-minutes pilot-controled lights stay on once keyed
+{sop} minutes pilot-controled lights stay on once keyed
 15
 
-extra precautions during startup/taxi/run-up phases during night flight
+{sop} extra precautions during startup/taxi/run-up phases during night flight
 clearing the prop, taxi slowly
 
-guidelines during takeoff and departure during night flight
+{sop} guidelines during takeoff and departure during night flight
 use runway edge lights to align, maintain positive rate of climb using altimeter, do not initiate turns until reaching safe maneuvering altitude, turn off landing lights after climb
 
-guidelines to maintain proper orientation and navigation during night flight
+{sop} guidelines to maintain proper orientation and navigation during night flight
 avoid flying into clouds, acquire competency in recovery from unusual attitudes, practice with all cockpit lights off, continually monitor position/time/fuel 
 
-best places for night time emergency landing
+{sop} best places for night time emergency landing
 interstate highway, roads, parking lots
 
-extra procedures during nighttime approach and landing
+{sop} extra procedures during nighttime approach and landing
 fly toward beacon until lights are activated, avoid use of excessive speed
 
-recommendations for supplemental oxygen
+{adm} recommendations for supplemental oxygen
 above 5000 ft at night, above 10000 ft during the day
 
-importance if CO2 in the blood
+{adm} importance if CO2 in the blood
 regulates the breathing process
 
-cause of motion sickness
+{adm} cause of motion sickness
 continued stimulation of the inner ear
 
-symptoms of motion sickness
+{adm} symptoms of motion sickness
 vomiting, having a sick look on your face, person feeling queasy, nausea, discomfort, paleness, dizzy, sweating
 
-actions to deal with motion sickness
+{adm} actions to deal with motion sickness
 open vents, loosen clothing, use oxygen, focus on a point outside, avoid quick turns, keep head still, terminate flight as soon as practical, let passengers know to tell you if they feel motion sickness
 
-ear block
+{adm} ear block
 when Eustachian tube won't open during descent due to a cold or other respiratory illness, creates pain due to pressure build-up
 
-pilots must self-ground when
+{adm} pilots must self-ground when
 they have any condition (or are taking medication) that would make them ineligible for a medical certificate
 
-rule of thumb with medication
+{adm} rule of thumb with medication
 take no medication while flying unless approved by your AME
 
-single-pilot resource management (SRM)
+{adm} single-pilot resource management (SRM)
 art and science of managing all available resources on the ground and in flight to ensure the successful outcome of the flight
 
-SRM skills
+{adm} SRM skills
 ADM, risk management (RM), task management (TM), automation management (AM), CFIT awareness, situational awareness
 
-explain 5 P's for SRM
+{adm} explain 5 P's for SRM
 plan (weather, route, publications, ATC reroutes/delays, fuel), plane (mechanical status, automation status, database currency, backup systems), pilot (IMSAFE), passengers (helpfulness, nervousness, queasiness), programming (AP, GPS, MFD/PFD, preload where possible, continual verification)
 
-when pilot should use 5 P's
+{adm} when pilot should use 5 P's
 preflight, pre-takeoff, hourly or midpoint, pre-descent, just prior to entering traffic pattern, emergency situation
 
-aeronautical decision making (ADM)
+{adm} aeronautical decision making (ADM)
 systematic approach to determining the best course of action to a given set of circumstances, a systematic approach to risk assessment and stress management, the two defining elements of ADM are hazard and risk
 
-basic steps of ADM
+{adm} basic steps of ADM
 define problem, choose course of action, implement decision, evaluate outcome
 
-purpose of PPP
+{adm} purpose of PPP
 provides a simple and systematic approach to ADM that can be used during all phases of flight
 
-PPP vs. DECIDE models of ADM
+{adm} PPP vs. DECIDE models of ADM
 PPP runs in a continuous loop, DECIDE is for particular problems
 
-purpose of DECIDE
+{adm} purpose of DECIDE
 a continuous loop process (like PPP) that provides a pilot with a logical way of making decisions
 
-macho antidote
+{adm} macho antidote
 taking chances is foolish
 
-anti-authority antidote
+{adm} anti-authority antidote
 follow the rules - they are usually right
 
-impulsivity antidote
+{adm} impulsivity antidote
 think first - not so fast
 
-invulnerability antidote
+{adm} invulnerability antidote
 it could happen to me
 
-resignation antidote
+{adm} resignation antidote
 I can make a difference, i am not helpless (and maybe ask for help)
 
-first step in neutralizing a hazardous attitude
+{adm} first step in neutralizing a hazardous attitude
 recognition of hazardous thoughts
 
-risk management
+{adm} risk management
 logical process of weighing potential risks against the potential benefits of not controlling those risks, severity * probability
 
-hazard
+{adm} hazard
 existing or potential condition that can lead to injury, illness, or death to people; damage to or loss of a system, equipment, or property; or damage to the environment
 
-examples of aviation hazards
+{adm} examples of aviation hazards
 prop blade nick, improper fueling of aircraft, fatigue, use of unapproved hardware, weather
 
-classifications of hazards
+{adm} classifications of hazards
 physical (mountains, obstacles), human behaviors, political, environmental (weather), legal, technological
 
-risk
+{adm} risk
 future impact of a hazard that is not controlled or eliminated, what may happen should a hazard manifest itself, chance or probability that harm may occur
 
-hazard as pertains to a mountain
+{adm} hazard as pertains to a mountain
 a mountain is a hazard, running into the mountain with an aircraft is the risk
 
-use of PAVE to assess risk
+{adm} use of PAVE to assess risk
 PIC (IMSAFE, proficiency, currency), aircraft (airworthiness, equipment, perf capability), environment (weather, terrain, airports/runways, conditions), external pressures (hurry, desire to impress)
 
-how to use 3P model of risk management
+{adm} how to use 3P model of risk management
 perceive current hazards, process impact and solutions, perform best course of action
 
-factors that can decrease pilot's ability to manage workload
+{adm} factors that can decrease pilot's ability to manage workload
 environmental conditions, physiological stress, psychological stress
 
-actions to deal with overloading
+{adm} actions to deal with overloading
 stop, think, slow down, prioritize - aviate, navigate, communicate
 
-two common methods for checklist usage
+{adm} two common methods for checklist usage
 do-verify (out of order), challenge-do-verify
 
-elements pilot must consider to maintain situational awareness
+{adm} elements pilot must consider to maintain situational awareness
 aircraft systems, pilot, passengers, location of aircraft relative to terrain/traffic/weather/airspace
 
-how to ensure that TAA enhances situational awareness
+{adm} how to ensure that TAA enhances situational awareness
 callouts, verification checks, verify flight plan entered correctly, verify waypoints, use VOR to back up GPS, stay within personal limitations
 
-operational procedures to avoid CFIT
+{adm} operational procedures to avoid CFIT
 always maintain situation awareness, good flight plan, sterile cockpit, familiarize yourself with surrounding terrain and obstacles, don't become complacent, use flight following, fly stabilized approach, monitor instruments regularly, understand minimum safe altitudes
 
-most important things to be aware of with AP
+{sys} most important things to be aware of with AP
 know which modes are engaged and armed, ensure proper power to maintain level altitude
 
-reason to turn off avionics master switch before powering on/off engine
+{sys} reason to turn off avionics master switch before powering on/off engine
 voltage surges can damage sensitive com/nav electronics
 
-typical condition for vapor lock
+{sys} typical condition for vapor lock
 hot engine
 
-how to test pitot heat
+{sys} how to test pitot heat
 look for deflection in ammeter, see if tube gets warm
 
-parts of fuel system
+{sys} parts of fuel system
 fuel tanks, fuel lines, strainer, engine/aux fuel pumps, fuel/air control unit
 
-purpose of turbocharger
+{sys} purpose of turbocharger
 increase pressure of induction air (using exhaust driven turbine) at high altitudes in particular
 
-BAT vs ALT switches
+{sys} BAT vs ALT switches
 BAT enables electrical power to flow from alternator or battery, ALT turns on alternator
 
-what happens after transient over-voltage condition
+{sys} what happens after transient over-voltage condition
 alternator circuit breaker pops out
 
-problem selecting fuel tank less than 1/4 full
+{sys} problem selecting fuel tank less than 1/4 full
 during a prolonged bank, fuel can get pushed out to the tip and cause transient fuel starvation
 
-things that fuel strainer filters out
+{sys} things that fuel strainer filters out
 water, sediment
 
-another name for anti-collision light
+{sys} another name for anti-collision light
 beacon
 
-another name for position lights
+{sys} another name for position lights
 nav lights
 
-placement of ammeter
+{sys} placement of ammeter
 between alternator and battery
 
-purposes of fuel vents
+{sys} purposes of fuel vents
 prevent negative pressure build-up, allow for fuel overflow due to environmental heating
 
-requirements to act as safety pilot
+{reg} requirements to act as safety pilot
 hold PPL and be current, endorsed to act as PIC in type in question
 
-FAA pilot proficiency program (WINGS)
+{adm} FAA pilot proficiency program (WINGS)
 on-going flight training throughout the year, www.faasafety.gov, webinars and practical training, meets recency requirements as prescribed in 61.56(e)
 
-considerations for choosing true course
+{sop} considerations for choosing true course
 terrain, easily identifiable checkpoints, com/nav radio reception, airspaces, weather avoidance
 
-considerations for choosing cruise altitude
+{sop} considerations for choosing cruise altitude
 terrain clearances, cloud clearances, hemispheric rules, airspaces, favorable winds, allows use of visual checkpoints, best for aircraft performance (true airspeed vs economical fuel burn vs time in flight), personal minimums
 
-precise fuel calculations include
+{sop} precise fuel calculations include
 start, runup, taxi, takeoff and climb, cruise, descent and landing, taxi to ramp, 30 minutes reserve
 
-reasons for nav log
+{sop} reasons for nav log
 part of "all available information," mental rehearsal for all phases of flight, ensures adequate fuel; in-flight monitoring of ground speed, fuel consumption, planning ahead, preventing getting lost, remembering of routine tasks, assisting in diversion to an alternate
 
-considerations for picking an airport for a fuel stop
+{sop} considerations for picking an airport for a fuel stop
 familiar airspace, runway lengths and orientation to wind, size not too big or small, amenities, price of fuel and parking
 
-recommended runway length minimum safety margin
+{sop} recommended runway length minimum safety margin
 50%
 
-ways to obtain weather before flight
+{weather} ways to obtain weather before flight
 night before look at charts on aviationweather.gov and call FSS to obtain outlook briefing, get standard briefing two hours before flight to complete nav log, call FSS shortly before flight to get abbreviated briefing
 
-how to use weather charts
+{weather} how to use weather charts
 print off surface analysis chart, weather depiction chart, and significant weather prognostic chart and understand what you see on them
 
-types of weather forecasts to obtain
+{weather} types of weather forecasts to obtain
 area forecast, TAF, winds and temperature aloft
 
-ways to obtain updated weather information in-flight
+{weather} ways to obtain updated weather information in-flight
 ADS-B / FIS-B radios, ATIS/AWOS/ASOS, HIWAS, contact FSS for questions and latest PIREPs, ask ATC
 
-what to do if class D ATIS says 2SM visibility
+{chart} what to do if class D ATIS says 2SM visibility
 fly and land in class G airspace where 1SM and clear is available, fly in class G and request SVFR clearance at class D airport
 
-information needed and sources for on-the-fly diversion airport
+{sop} information needed and sources for on-the-fly diversion airport
 airspace, runway length and elevation, com frequencies; GPS database, sectional chart, chart supplement
 
-problems you may encounter with a dead battery
+{sys} problems you may encounter with a dead battery
 no flaps (some planes), fuel gauges will not work, no lights at night, no turn coordinator, no com/nav radio unless we have a portable backup
 
-ensuring collision avoidance
+{adm} ensuring collision avoidance
 clean windshield, organize cockpit to avoid head-down time, keep head looking out during maneuvers, on ground stop to copy down info, scan for traffic, do not practice maneuvers over places where traffic converges, enter traffic pattern at proper place and altitude, listen to traffic on frequencies, use anti-collision lights, request flight following, use landing light at night
 
-PAVE vs 5P
+{adm} PAVE vs 5P
 PAVE encourages pilot to react to unacceptable risk elements, 5P encourages pilot to be proactive
 
-purpose of PAVE checklist
+{adm} purpose of PAVE checklist
 way to mitigate risks by grouping perceived hazards into four categories: Pilot, Aircraft, enVironment, External pressures
 
-anticipating pilots who might get motion sickness
+{adm} anticipating pilots who might get motion sickness
 keep then in the front seat
 
-things to avoid for very long flights
+{adm} things to avoid for very long flights
 hypoxia, dehydration, fatigue
 
-you can still fly if the transponder and annual inspection are out of date (yes/no and why)
+{reg} you can still fly if the transponder and annual inspection are out of date (yes/no and why)
 yes, turn off and placard transponder, stay out of class B/C, obtain SFP from the FSDO
 
-you can still fly during the day without landing lights (yes/no)
+{reg} you can still fly during the day without landing lights (yes/no)
 yes, but must placard inoperative switch
 
-all the ways to kill altitude without flaps 
+{sop} all the ways to kill altitude without flaps 
 cut power and pitch up
 
-currency requirements for towing a glider
+{reg} currency requirements for towing a glider
 three simulated or actual tows within 12 calendar months, 24 months for additional ratings
 
-limitations of using airplane for charity
+{reg} limitations of using airplane for charity
 no more 25 SM from airport, use of public airport, still limited by pro rata share
 
-difference in aircraft in PAVE vs. 5 P's
+{adm} difference in aircraft in PAVE vs. 5 P's
 PAVE requires aircraft that is perf capable
 
-reasons for using checklists
+{adm} reasons for using checklists
 remember items, remember items in proper order
 
-issues with checklists
+{adm} issues with checklists
 easy to skip items, heads-down problem, wrong checklist, not readily accessible, not saying things out loud, do-verify easy to miss something
 
-situational awareness
+{adm} situational awareness
 observe entire surroundings, be aware of what everyone is doing, observe birds, keep fake map and putting everything on the map, practice at uncontrolled field
 
-better to land on an interstate against traffic rather than with traffic (yes/no)
+{sop} better to land on an interstate against traffic rather than with traffic (yes/no)
 yes
 
-better to land up a hill rather than down (yes/no)
+{sop} better to land up a hill rather than down (yes/no)
 yes
 
-difference between VOR-DME and VORTAC
+{sys} difference between VOR-DME and VORTAC
 VOR-DME is VOR+DME, VORTAC is a VOR+TACAN, TACAN includes DME, so to civilians the two are the same
 
-what to do if a fighter jet pulls up alongside you on the pilot side
+{sop} what to do if a fighter jet pulls up alongside you on the pilot side
 rock wings, flash nav lights at night, tune to 121.5, squawk 7700 unless otherwise requested, follow jet if it makes a slow turn
 
-ACS
+{reg} ACS
 Airmen Certification Standards
 
-what the ACS covers
+{reg} what the ACS covers
 Subjects and maneuvers that are covered in the checkride, including tolerances
 
-how to respond to TFRs
+{sop} how to respond to TFRs
 ask briefer if radius intersects route of flight, and possibly view TFR details on tfr.faa.gov
 
-normal height above runway threshold if on glide slope
+{perf} normal height above runway threshold if on glide slope
 50 ft
 
 {sys} 172SP white arc min,max KIAS
@@ -3087,73 +3087,73 @@ McCauley Propeller Systems, 1A170E/JHA7660, 75, 76
 {sys} 172SP fuel flow min,max GPU
 0, 12
 
-METAR wind direction (true/magnetic)
+{weather} METAR wind direction (true/magnetic)
 true
 
-RVR
+{chart} RVR
 runway visual range
 
-visibility at which mist is reported in METAR
+{weather} visibility at which mist is reported in METAR
 < 7 SM
 
-visibility at which mist changes to fog in METAR
+{weather} visibility at which mist changes to fog in METAR
 < 5/8 SM
 
-visibility at which haze (dry particles) is reported in METAR
+{weather} visibility at which haze (dry particles) is reported in METAR
 no cutoff
 
-AWOS vs. ASOS
+{weather} AWOS vs. ASOS
 ASOS can pick up more data for forecasts for TAF, converts winds to magnetic
 
-ATIS vs. AWOS/ASOS
+{weather} ATIS vs. AWOS/ASOS
 includes airport information, has human intervention (usually, so no AUTO), always ASOS as base mechanism
 
-TAF radius in miles
+{weather} TAF radius in miles
 5
 
-things in METAR not in TAF
+{weather} things in METAR not in TAF
 temperatures, altimeter
 
 {sys} 172SP nosewheel in flight turns when you press the rudder pedals (yes/no)
 no, nose wheel locked straight while in flight, bungee cords work only on the ground and only a little
 
-decode 2447-29 winds/temp
+{weather} decode 2447-29 winds/temp
 240 @ 47 kts, -29C
 
-decode 990023 winds/temp
+{weather} decode 990023 winds/temp
 light and variable, 23C
 
-decode 750247 above FL030
+{weather} decode 750247 above FL030
 250 @ 102 kts, -47C
 
-decode 710556 above FL030
+{weather} decode 710556 above FL030
 210 @ 105 kts, -56C
 
-class G visibility and cloud clearance up to 1200 ft AGL during the day
+{weather} class G visibility and cloud clearance up to 1200 ft AGL during the day
 1 SM, clear of clouds
 
-class G visibility and cloud clearance above 1200 ft AGL during the day
+{weather} class G visibility and cloud clearance above 1200 ft AGL during the day
 1 SM, 1-5-2
 
-class G visibility and cloud clearance up to 1200 ft AGL at night
+{weather} class G visibility and cloud clearance up to 1200 ft AGL at night
 3 SM, 1-5-2
 
-class G visibility and cloud clearance above 1200 ft AGL at night
+{weather} class G visibility and cloud clearance above 1200 ft AGL at night
 3 SM, 1-5-2
 
-class B visibility and cloud clearance, day or night
+{weather} class B visibility and cloud clearance, day or night
 3 SM, clear of clouds
 
-class C,D visibility and cloud clearance, day or night
+{weather} class C,D visibility and cloud clearance, day or night
 3 SM, 1-5-2
 
-class E visibility and cloud clearance < 10000 MSL, day or night
+{weather} class E visibility and cloud clearance < 10000 MSL, day or night
 3 SM, 1-5-2
 
-class E visibility and cloud clearance >= 10000 MSL, day or night
+{weather} class E visibility and cloud clearance >= 10000 MSL, day or night
 5 SM, 1-1-1SM
 
-where you can do daytime pattern work with 1SM visibility and low clouds
+{chart} where you can do daytime pattern work with 1SM visibility and low clouds
 class G airport if cloud ceiling is at least 1000 ft, otherwise just need to stay clear of clouds so just below them
 
 TEMPO
