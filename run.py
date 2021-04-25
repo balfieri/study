@@ -45,8 +45,9 @@ if file_end_pct > 100: die( 'file_end_pct must be <= 100' )
 if file_start_pct >= file_end_pct: die( 'file_start_pct must be < file_end_pct' )
 acronyms_only  = int(sys.argv[6]) if len(sys.argv) >= 7 else 0
 
-category = prompt( '\nCategory (leave blank for all)' )
 print()
+categories_s = prompt( 'Categories (separated by spaces, leave blank for all)' )
+categories = categories_s.split( ' ' )
 
 Q = open( filename, 'r' )
 all_questions = []
@@ -67,10 +68,16 @@ while True:
 
     if re.match( r'^\{', question ):
         m = re.match( r'^\{(\w+)\}\s+(.*)', question )
-        if not m: die( f'ill-formed category on line {line_num}: {question}' )
-        cat = m.group( 1 )
+        if not m: die( f'ill-formed categories on line {line_num}: {question}' )
+        cats_s = m.group( 1 )
         question = m.group( 2 )
-        if category != '' and cat != category: continue
+        if len(categories) > 0:
+            cats = cats_s.split( ' ' )
+            found_one = False
+            for category in categories:
+                for cat in cats:
+                    if cat == category: found_one = True
+            if not found_one: continue
 
     if acronyms_only == 0 or (re.match( r'^[A-Z0-9\s]+$', question ) and len(question) >= acronyms_only):
         all_questions.append( question )
@@ -93,6 +100,7 @@ if question_cnt == 0:
 else:
     question_cnt = min( question_cnt, all_question_used_cnt )
     question_cnt = max( 1, question_cnt )
+print()
 print( f'Number of questions in the file matching the category is {all_question_cnt}, using questions {all_question_first}..{all_question_last}, asking {question_cnt} questions\n' )        
 
 while True:
