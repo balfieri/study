@@ -3342,7 +3342,7 @@ magnetic
 {chart} limitations of VASI for obstruction clearance
 only within 4nm of runway and 10 degrees of the extended centerline
 
-{chart} normal descent angle in degrees
+{sop} normal descent angle in degrees
 3
 
 {perf} basic wingtip vortices movement
