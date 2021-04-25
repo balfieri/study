@@ -2286,7 +2286,7 @@ aircraft on final approach, aircraft with lower altitude
 {chart} minimum safe altitude over a U.S. wildlife refuge, park, or Forest Service Area
 2000 ft above the surface
 
-{sop} when operating below 18000 MSL, proper procedure for setting altimeter
+{sop} when operating <= 18000 MSL, proper procedure for setting altimeter
 if pressure is 31.00 Hg or less, use altimeter of station that is within 100 nm of aircraft; above 31.00 Hg, consult the AIM
 
 {sop} actions to take if altimeter setting is not available before flight
@@ -2302,7 +2302,7 @@ weather conditions must be at least basic VFR minimums, visual contact with towe
 airport displays approved light signals or visual markings that indicate right traffic
 
 {chart} altitude range for which hemispheric rules apply: min, max
-3000 ft AGL, 18000 ft MSL
+3000 ft AGL, 17999 ft MSL
 
 {sys} when must ELT batteries be replaced
 transmitter in use for more than one cummulative hour, 50% of useful life has expired
@@ -3469,7 +3469,7 @@ military training route
 A, B, C, E at or above 10000 ft MSL except below 2500 ft AGL, within 30 nm of a class B airport, class E over Gulf of Mexico within 12 nm of the U.S. coast and above 3000 ft MSL
 
 {chart} altitude range of DC SFRA and FRZ
-surface to 18000 ft MSL
+surface to 17999 ft MSL
 
 {chart} controlled firing area
 special use airspace where there are activities such as artillery firing that may be hazardous, not depicted on sectional chart :-)
