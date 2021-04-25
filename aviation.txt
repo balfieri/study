@@ -522,7 +522,7 @@ indicated altitude when altimeter is set to 29.92
 {perf} equation for pressure altitude
 PA = elevation + 1000 * (29.92 - altimeter)
 
-{perf] meaning of density altitude
+{perf} meaning of density altitude
 pressure altitude corrected for non-standard temperature
 
 {perf} equation for density altitude
@@ -3246,7 +3246,7 @@ visual avoidance, lightning detection devices such as a Stormscope(R), NEXRAD ra
 {weather} TAF update interval, valid period
 6 hours, 24 or 30 hours
 
-{perf{ adverse aerodynamic effects of frost or structural icing
+{perf} adverse aerodynamic effects of frost or structural icing
 decreased lift, increased drag, increased stall speed, unexpected control problems, blocked or restricted movement of control surfaces, tail-plane or horizontal stabilizer stall, blockage of pitot tube and static ports, blockage of engine induction air
 
 {weather} front represented by string of blue triangles, string of red semicircles, purple triangles+semicircles, read semicircles and blue trangles on alternating sides

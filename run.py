@@ -45,7 +45,8 @@ if file_end_pct > 100: die( 'file_end_pct must be <= 100' )
 if file_start_pct >= file_end_pct: die( 'file_start_pct must be < file_end_pct' )
 acronyms_only  = int(sys.argv[6]) if len(sys.argv) >= 7 else 0
 
-category = prompt( 'Category (leave blank for all)' )
+category = prompt( '\nCategory (leave blank for all)' )
+print()
 
 Q = open( filename, 'r' )
 all_questions = []
@@ -61,11 +62,12 @@ while True:
     answer = Q.readline()
     answer = re.sub( r'^\s+', '', answer )
     answer = re.sub( r'\s+$', '', answer )
-    if answer == '': die( f'question on line {line_num} is not followed by a non-blank answer on the next line' )
+    if answer == '': die( f'question on line {line_num} is not followed by a non-blank answer on the next line: {question}' )
     line_num += 1
 
-    m = re.match( r'^\{(\w+)\}\s+(.*)', question )
-    if m:
+    if re.match( r'^\{', question ):
+        m = re.match( r'^\{(\w+)\}\s+(.*)', question )
+        if not m: die( f'ill-formed category on line {line_num}: {question}' )
         cat = m.group( 1 )
         question = m.group( 2 )
         if category != '' and cat != category: continue
