@@ -45,6 +45,8 @@ if file_end_pct > 100: die( 'file_end_pct must be <= 100' )
 if file_start_pct >= file_end_pct: die( 'file_start_pct must be < file_end_pct' )
 acronyms_only  = int(sys.argv[6]) if len(sys.argv) >= 7 else 0
 
+category = prompt( 'Category (leave blank for all)' )
+
 Q = open( filename, 'r' )
 all_questions = []
 line_num = 0
@@ -61,6 +63,12 @@ while True:
     answer = re.sub( r'\s+$', '', answer )
     if answer == '': die( f'question on line {line_num} is not followed by a non-blank answer on the next line' )
     line_num += 1
+
+    m = re.match( r'^\{(\w+)\}\s+(.*)', question )
+    if m:
+        cat = m.group( 1 )
+        question = m.group( 2 )
+        if category != '' and cat != category: continue
 
     if acronyms_only == 0 or (re.match( r'^[A-Z0-9\s]+$', question ) and len(question) >= acronyms_only):
         all_questions.append( question )
@@ -83,7 +91,7 @@ if question_cnt == 0:
 else:
     question_cnt = min( question_cnt, all_question_used_cnt )
     question_cnt = max( 1, question_cnt )
-print( f'Number of questions in the file is {all_question_cnt}, using questions {all_question_first}..{all_question_last}, asking {question_cnt} questions\n' )        
+print( f'Number of questions in the file matching the category is {all_question_cnt}, using questions {all_question_first}..{all_question_last}, asking {question_cnt} questions\n' )        
 
 while True:
     #-----------------------------------------------------------------------
