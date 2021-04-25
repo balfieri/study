@@ -24,31 +24,31 @@ accelerate north, decelerate south
 {sys} UNOS 
 undershoot from north, overshoot from south
 
-{adm} IMSAFE
+{pilot} IMSAFE
 illness, medications, stress, alcohol, fatigue, emotions/eating
 
-{adm} DECIDE
+{pilot} DECIDE
 detect, estimate, choose most desirable outcome, identify actions to effect outcome, do, evaluate
 
-{adm} PPP
+{pilot} PPP
 perceive, process, perform
 
-{adm} relationship of PAVE to PPP
+{pilot} relationship of PAVE to PPP
 PAVE can be used for the perceive step of PPP
 
-{adm} relationship of CARE to PPP
+{pilot} relationship of CARE to PPP
 CARE can be used for the process step of PPP
 
-{adm} relationship of TEAM to PPP
+{pilot} relationship of TEAM to PPP
 TEAM can be used for the perform step of PPP
 
-{adm} PAVE
+{pilot} PAVE
 pilot, aircraft, environment, external pressures
 
-{adm} CARE
+{pilot} CARE
 consequences, alternatives, reality, external factors
 
-{adm} TEAM
+{pilot} TEAM
 transfer (task to somebody else), eliminate (risk possible?), accept (risk), mitigate
 
 {reg} private pilot must carry...
@@ -78,19 +78,19 @@ special use airspace
 {sop} LAHSO
 land and hold short operations
 
-{adm} ADM
+{pilot} ADM
 aeronautical decision making
 
-{adm} SRM
+{pilot} SRM
 single pilot resource management
 
-{adm} PPPPP
+{pilot} PPPPP
 plan, plane, pilot, passengers, programming
 
-{adm} purpose of PPPPP
+{pilot} purpose of PPPPP
 practical way of implementating SRM 
 
-{adm} MRLIDD
+{pilot} MRLIDD
 mandatory instruction, runway distance remaining, location, information, destination, direction
 
 {sop} PARE spin recovery
@@ -99,10 +99,10 @@ power to idle, ailerons to neutral, rudder full opposite, elevator pitch down, a
 {sop} CCCCC actions if you cannot establish your current position
 confess, climb, circle, conserve, communicate
 
-{adm} runway incursions
+{pilot} runway incursions
 incorrect entry or presence on runway protected area, incorrect runway crossing, incorrect spacing between aircraft, takeoff or landing without ATC clearance
 
-{adm} runway incursion risks
+{pilot} runway incursion risks
 crossing runway/taxiway, takeoff/landing without clearance, failure to comply with ATC, lack of airport familiarity, failure to follow SOP
 
 {sop} SOP
@@ -111,7 +111,7 @@ standard operation procedure
 {sys} flight controls
 ailerons, elevator, rudder, flaps, trim
 
-{adm} dangerous attitudes
+{pilot} dangerous attitudes
 macho, anti-authority, impulsivity, invulnerability, resignation
 
 {sys} VASI
@@ -138,7 +138,7 @@ exercise extreme caution
 {sop} flashing white (ground only)
 return to start point
 
-{adm} accident cause factors
+{pilot} accident cause factors
 inadequate planning, failure to maintain speed, failure to maintain directional control, improper level-off, failure to avoid obstructions, mismanagement of fuel, improper inflight decisions, misjudging distance or speed, selection of unsuitable terrain, improper operation of flight controls
 
 {reg} flight review (how often, ground, training)
@@ -195,10 +195,10 @@ warm rain falls through cool air, evaporation from the rain saturates the cool a
 {weather} upslope fog
 moist unstable air is cooled as wind pushes it up a slope
 
-{adm} spatial disorientations
+{pilot} spatial disorientations
 the leans, graveyard spin, graveyard spiral, somatogravic illusion, head-down illusion, coriolis illusion, inversion illusion, elevator illusion
 
-{adm} visual and optical illusions
+{pilot} visual and optical illusions
 autokinesis, false horizon, linear perceptive illusions, precipitation illusions, black-hole approach, white-out, empty field myopia, confirmation bias and sensory exclusion
 
 {sys} instruments in pitotstatic system
@@ -285,7 +285,7 @@ non-government communication facility
 {chart} RCO
 remote communications outlet
 
-{adm} NWKRAFT
+{pilot} NWKRAFT
 NOTAMs, weather, known ATC delays, runway lengths, alternate airports, fuel requirements, takeoff/landing distance data
 
 {reg} reserve fuel requirements in minutes past destination (day, night)
@@ -321,10 +321,10 @@ runway end identification light
 {chart} beacons (land, hospital, seaport, heliport, military)
 white/green, white/green/red, white/yellow, white/green/yellow, white/white/green
 
-{adm} how to prioritize when overloaded
+{pilot} how to prioritize when overloaded
 aviate, navigate, communicate
 
-{adm} factors contributing to CFIT accidents
+{pilot} factors contributing to CFIT accidents
 lack of pilot currency, loss of situational awareness, pilot distractions, failure to comply with minimum safe altitudes, breakdown in effective ADM, insufficient planning
 
 {sys} complex aircraft features
@@ -639,19 +639,19 @@ take off well past the touch-down point
 {chart} explain the hemispheric rule
 applies to VFR 3000 ft AGL to 17999 ft MSL, eastbound odd-thousands + 500, westbound even-thousands + 500
 
-{adm} types of hypoxia
+{pilot} types of hypoxia
 hypoxic (lungs), hypemic (blood), stagnant (pooling), hystotoxic (cells)
 
-{adm} causes of hypoxic hypoxia
+{pilot} causes of hypoxic hypoxia
 high altitude, lung illness
 
-{adm} causes of hypemic hypoxia
+{pilot} causes of hypemic hypoxia
 carbon monoxide poisoning, smoking cigarettes (a way to inhale carbon monoxide) anemia, donating blood
 
-{adm} causes of stagnant hypoxia
+{pilot} causes of stagnant hypoxia
 generally poor circulation, weak heart, pulling G's
 
-{adm} causes of hystotoxic hypoxia
+{pilot} causes of hystotoxic hypoxia
 drugs or alcohol, cellular diseases
 
 {reg} you may fly into icing that is forecast under part 91 (yes/no)
@@ -663,16 +663,16 @@ low voltage annunciator, negative ammeter reading
 {reg} you may fly the airplane if a piece of non-required equipment is not operational (yes/no)
 yes, if deactivated and placarded
 
-{adm} symptoms of hypoxia
+{pilot} symptoms of hypoxia
 poor judgement, confusion, memory, alertness, visual acuity and coordination, sensation of euphoria or sometimes even belligerence can occur (a macho attitude), dizziness, headache, drowsiness, cyanosis (blue coloration of lips and fingernails)
 
-{adm} hyperventilation
+{pilot} hyperventilation
 abnormal increase in the breathing rate that leads to a deficiency of carbon dioxide, usually brought on by stress or fear while flying and often begins subconsciously
 
-{adm} symptoms of hyperventilation
+{pilot} symptoms of hyperventilation
 generally same as hypoxia, rapid breathing, rapid heart rate, lightheadedness, dizziness, drowsiness, tingling in the extremities, hot and cold sensations, muscle spasms, feeling of suffocation that may ultimately lead to unconsciousness
 
-{adm} how to relieve hyperventilation
+{pilot} how to relieve hyperventilation
 breath into bag, talk outloud
 
 {sop} actions to take if we don't have an airport map or feel uncomfortable at the airport
@@ -735,7 +735,7 @@ above 15000 ft, but not required to use it
 {sys} 172SP fuel tank venting
 air vent is located on the left wing, both tanks are interconnected by a vent line, both fuel caps are also vented
 
-{adm} actions to take if you smell exhaust fumes in the cockpit
+{pilot} actions to take if you smell exhaust fumes in the cockpit
 open windows, close heat/vents, land as soon as practical
 
 {reg} why you have to avoid alcohol and certain over-the-counter drugs with respect to flying, when you are allowed to drive with, for example, immediately after having a few drinks
@@ -744,7 +744,7 @@ less source oxygen avilable at higher altitudes
 {sys} how ELT works
 activated when a certain force threshold is detected by its accelerometers, transmits signal on 406 MHz
 
-{adm} explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving and how to avoid it
+{pilot} explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving and how to avoid it
 decompression sickness, wait 12 hours for uncontrolled ascent up to 8000 ft, 24 hours if controlled ascent or over 8000 ft
 
 {weather} how to get wind shear reports
@@ -777,10 +777,10 @@ yes, but you should not due to painful pressure build-up
 {reg} you can fly with benadryl, aspirin, ibuprofin (yes/no for each)
 no, yes, yes
 
-{adm} actions to take if you start getting dizzy at altitude
+{pilot} actions to take if you start getting dizzy at altitude
 open window, descend, use aviation oxygen
 
-{adm} reason we don't use medical oxygen
+{pilot} reason we don't use medical oxygen
 it goes through a humidification process which could freeze at altitude
 
 {sys} reasons you would not descend at 1000 fpm or 1500 fpm
@@ -789,7 +789,7 @@ could exceed Vno/Vne, uncomfortable for passengers
 {sop} actions to take if all radios die, inluding handheld
 squawk 7600, go to uncontrolled airport, circle above, call approach on phone, enter traffic pattern, watch for light gun signals
 
-{adm} you should take your inexperienced passenger on your preflight (yes/no)
+{pilot} you should take your inexperienced passenger on your preflight (yes/no)
 no, distracting
 
 {sys} 172SP vacuum suction normal range Hg: min, max
@@ -1068,55 +1068,55 @@ center
 {chart} kind of course/heading for which hemispheric rules apply
 magnetic course
 
-{adm} the leans
+{pilot} the leans
 illusion that you are flying level when you are actually in a gradual bank
 
-{adm} graveyard spin
+{pilot} graveyard spin
 illusion that you are spinning in the opposite direction than reality
 
-{adm} graveyard spiral
+{pilot} graveyard spiral
 illusion that you are in an opposite bank after correcting a bank when in fact you are flying level
 
-{adm} somatogravic or head-up illusion
+{pilot} somatogravic or head-up illusion
 illusion that you are nose up during acceleration
 
-{adm} head-down illusion
+{pilot} head-down illusion
 illusion that you are nose up during deceleration
 
-{adm} Coriolis illusion
+{pilot} Coriolis illusion
 after a sudden head movement, illusion that you are rolling, pitching and yawing
 
-{adm} inversion illusion
+{pilot} inversion illusion
 when transitioning from climb to level flight, illusion that you are tumbling backward, potentially causing you to push the nose down
 
-{adm} elevator illusion
+{pilot} elevator illusion
 an illusion that you are climbing after a sudden updraft, or descending after a sudden downdraft
 
-{adm} autokinesis
+{pilot} autokinesis
 at night, pilot fixates on a light and it seems to be moving
 
-{adm} false horizon
+{pilot} false horizon
 at night, pilot inadvertently orients the aircraft with a false horizon
 
-{adm} linear perspective illusions
+{pilot} linear perspective illusions
 when pilot's sight-picture during landing is different from what he/she is used to
 
-{adm} precipitation illusions
+{pilot} precipitation illusions
 caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer, fog and haze may cause objects to appear farther away
 
-{adm} black-hole approach
+{pilot} black-hole approach
 when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descends too quickly
 
-{adm} white-out
+{pilot} white-out
 when flying over snow-covered terrain there is no obvious distinction between sky and terrain
 
-{adm} empty field myopia
+{pilot} empty field myopia
 when your eyes have nothing to focus on, they may focus only 10-20 ft ahead and you have no idea how close you are to the underlying terrain
 
-{adm} confirmation bias
+{pilot} confirmation bias
 seeing/hearing what you want to see/hear when reality is different
 
-{adm} sensory exclusion
+{pilot} sensory exclusion
 when you are overly focused on one of your senses that you ignore the others
 
 {weather} UA
@@ -1830,10 +1830,10 @@ maximum speed at which the limit load factor can be imposed (via gusts or full d
 {perf} cases operating below Va may not prevent structural damage
 multiple full control inputs in one axis or full control inputs in multiple axes at the same time
 
-{adm} loss of control in-flight (LOC-I)
+{pilot} loss of control in-flight (LOC-I)
 significant deviation of aircraft from intended flight path
 
-{adm} situations that increase chances of LOC-I
+{pilot} situations that increase chances of LOC-I
 uncoordinated flight, equipment malfunction, pilot complacency, distraction, turbulence, poor risk management
 
 {perf} primary cause of spins
@@ -2376,7 +2376,7 @@ solid shaded blue line for lateral limits, numbers indicate top and base (e.g., 
 {chart} ATC services provided in class B for VFR pilots
 sequencing and separation
 
-{adm} person responsible for avoiding wake turbulence in class B airspace
+{pilot} person responsible for avoiding wake turbulence in class B airspace
 PIC
 
 {chart} typical dimensions of class C airspace
@@ -2661,10 +2661,10 @@ vortices, thrust stream turbulence, jet blast, jet wash, prop wash, rotor wash -
 {perf} greatest wing vortex strength occurs when the generating aircraft is
 heavy, clean, and slow
 
-{adm} runway width illusion
+{pilot} runway width illusion
 narrower than usual runway creates illusion that aircraft is higher than it really is
 
-{adm} runway and terrain slope illusion
+{pilot} runway and terrain slope illusion
 upsloping will make aircraft appear higher than it really is
 
 {sop} cases where pilots should decline LAHSO
@@ -2679,10 +2679,10 @@ execute gentle banks at frequency that allows continuous visual scanning
 {chart} drone restrictions
 < 400 ft AGL, daylight, clear of clouds
 
-{adm} things that contribute to runway incursions
+{pilot} things that contribute to runway incursions
 misunderstanding a clearance, failure to communicate effectively, failure to navigate the airport correctly, unable to interpret airport signage, failure to maintain situational awareness
 
-{adm} information that should be consultated when planning taxi operations
+{pilot} information that should be consultated when planning taxi operations
 review airport signage/markings/lighting, review airport diagram, identify hot spots, review airfield NOTAMs and ATIS, conduct pre-taxi/pre-landing briefing, plan for critical times on route, plan to complete checklist items prior to taxi
 
 {sop} when issued taxi instructions, you may cross any runway that intersects your route (yes, no)
@@ -2691,7 +2691,7 @@ no
 {sop} when receiving taxi instructions from ATC, a pilot should read back
 runway assignment, any clearance to enter a specific runway, any hold-short instruction, any line-up-and-wait instruction
 
-{adm} ways to maintain situational awareness while taxiing
+{pilot} ways to maintain situational awareness while taxiing
 have airport diagram readily available, monitor ATC instructions to other aircraft, focus outside the cockpit, use all available resource to keep the aircraft on the assigned route, check for traffic before crossing any hold-short line, when in doubt ask ATC
 
 {chart} aircraft lights that should be illuminated when crossing a runway
@@ -2703,7 +2703,7 @@ all except landing lights
 {chart} aircraft lights that should be illuminated when cleared for takeoff
 all including landing lights
 
-{adm} hazards at airports with calm wind conditions
+{pilot} hazards at airports with calm wind conditions
 aircraft landing and taking off on multiple runways, IFR flights may be using instrument approaches on runways other than intended for VFR flight
 
 {sop} if you land and miss your assigned taxiway for exiting the runway, you may turn around and return to the exit taxiway at a tower-controlled airport (yes/no)
@@ -2712,37 +2712,37 @@ no
 {sop} ATC tells you to line up and wait, but does not tell you to take off, time you should wait before contacting ATC
 90 seconds max
 
-{adm} ways to enhance aircraft security
+{pilot} ways to enhance aircraft security
 lock aircraft, do not leave keys in unattended aircraft, use secondary locks (e.g., locking tie down), lock hanger when unattended
 
-{adm} procedures that you should review regularly
+{pilot} procedures that you should review regularly
 limitations on ramp access, standards for securing aircraft to ramp, securing access to keys at all times, use of secondary locks, after-hours or weekend access procedures
 
 {reg} ways to report suspicious activity
 alert airport/FBO management, contact local law enforcement if immediate threat, contact 866-GA-SECURE hotline
 
-{adm} function of cones
+{pilot} function of cones
 located in back of the eye, detect color/detail/faraway-objects, less sensitive to light
 
-{adm} function of rods
+{pilot} function of rods
 peripheral vision, not good at detecting color/detail, more light sensitive than rods
 
-{adm} average time for rods and cones to become adapted to darkness
+{pilot} average time for rods and cones to become adapted to darkness
 cones take 5 to 10 minutes, rods take 30 minutes
 
-{adm} actions pilots should take to accommodate low light conditions
+{pilot} actions pilots should take to accommodate low light conditions
 allow enough time for eyes to adapt to low light levels, avoid exposure to bright light
 
-{adm} illusion that pilot should be on the lookout for when approaching a well-lit runway surrounded by dark features
+{pilot} illusion that pilot should be on the lookout for when approaching a well-lit runway surrounded by dark features
 featureless terrain illusion
 
-{adm} ways pilots can maintain good eyesight
+{pilot} ways pilots can maintain good eyesight
 avoid fatigue, colds, vitamin deficiency, alcohol, stimulants, smoking, or medications
 
-{adm} ways pilots can improve effectiveness of night vision
+{pilot} ways pilots can improve effectiveness of night vision
 adapt lights to darkness (30 minutes), use supplemental oxygen over 5000 ft, close one eye when exposed to bright light, do not wear sunglasses, move eyes more slowly, blink eyes if blurry, concentrate on seeing objects, force eyes to view off-center, maintaing good physical condition, avoid smoking/drinking/harmful-drugs
 
-{adm} equipment pilots should have for night flight
+{pilot} equipment pilots should have for night flight
 2 flashlights with both white and red light, spare set of batteries, aeronautical charts
 
 {sys} arrangement of position lights
@@ -2790,115 +2790,115 @@ interstate highway, roads, parking lots
 {sop} extra procedures during nighttime approach and landing
 fly toward beacon until lights are activated, avoid use of excessive speed
 
-{adm} recommendations for supplemental oxygen
+{pilot} recommendations for supplemental oxygen
 above 5000 ft at night, above 10000 ft during the day
 
-{adm} importance if CO2 in the blood
+{pilot} importance if CO2 in the blood
 regulates the breathing process
 
-{adm} cause of motion sickness
+{pilot} cause of motion sickness
 continued stimulation of the inner ear
 
-{adm} symptoms of motion sickness
+{pilot} symptoms of motion sickness
 vomiting, having a sick look on your face, person feeling queasy, nausea, discomfort, paleness, dizzy, sweating
 
-{adm} actions to deal with motion sickness
+{pilot} actions to deal with motion sickness
 open vents, loosen clothing, use oxygen, focus on a point outside, avoid quick turns, keep head still, terminate flight as soon as practical, let passengers know to tell you if they feel motion sickness
 
-{adm} ear block
+{pilot} ear block
 when Eustachian tube won't open during descent due to a cold or other respiratory illness, creates pain due to pressure build-up
 
-{adm} pilots must self-ground when
+{pilot} pilots must self-ground when
 they have any condition (or are taking medication) that would make them ineligible for a medical certificate
 
-{adm} rule of thumb with medication
+{pilot} rule of thumb with medication
 take no medication while flying unless approved by your AME
 
-{adm} single-pilot resource management (SRM)
+{pilot} single-pilot resource management (SRM)
 art and science of managing all available resources on the ground and in flight to ensure the successful outcome of the flight
 
-{adm} SRM skills
+{pilot} SRM skills
 ADM, risk management (RM), task management (TM), automation management (AM), CFIT awareness, situational awareness
 
-{adm} explain 5 P's for SRM
+{pilot} explain 5 P's for SRM
 plan (weather, route, publications, ATC reroutes/delays, fuel), plane (mechanical status, automation status, database currency, backup systems), pilot (IMSAFE), passengers (helpfulness, nervousness, queasiness), programming (AP, GPS, MFD/PFD, preload where possible, continual verification)
 
-{adm} when pilot should use 5 P's
+{pilot} when pilot should use 5 P's
 preflight, pre-takeoff, hourly or midpoint, pre-descent, just prior to entering traffic pattern, emergency situation
 
-{adm} aeronautical decision making (ADM)
+{pilot} aeronautical decision making (ADM)
 systematic approach to determining the best course of action to a given set of circumstances, a systematic approach to risk assessment and stress management, the two defining elements of ADM are hazard and risk
 
-{adm} basic steps of ADM
+{pilot} basic steps of ADM
 define problem, choose course of action, implement decision, evaluate outcome
 
-{adm} purpose of PPP
+{pilot} purpose of PPP
 provides a simple and systematic approach to ADM that can be used during all phases of flight
 
-{adm} PPP vs. DECIDE models of ADM
+{pilot} PPP vs. DECIDE models of ADM
 PPP runs in a continuous loop, DECIDE is for particular problems
 
-{adm} purpose of DECIDE
+{pilot} purpose of DECIDE
 a continuous loop process (like PPP) that provides a pilot with a logical way of making decisions
 
-{adm} macho antidote
+{pilot} macho antidote
 taking chances is foolish
 
-{adm} anti-authority antidote
+{pilot} anti-authority antidote
 follow the rules - they are usually right
 
-{adm} impulsivity antidote
+{pilot} impulsivity antidote
 think first - not so fast
 
-{adm} invulnerability antidote
+{pilot} invulnerability antidote
 it could happen to me
 
-{adm} resignation antidote
+{pilot} resignation antidote
 I can make a difference, i am not helpless (and maybe ask for help)
 
-{adm} first step in neutralizing a hazardous attitude
+{pilot} first step in neutralizing a hazardous attitude
 recognition of hazardous thoughts
 
-{adm} risk management
+{pilot} risk management
 logical process of weighing potential risks against the potential benefits of not controlling those risks, severity * probability
 
-{adm} hazard
+{pilot} hazard
 existing or potential condition that can lead to injury, illness, or death to people; damage to or loss of a system, equipment, or property; or damage to the environment
 
-{adm} examples of aviation hazards
+{pilot} examples of aviation hazards
 prop blade nick, improper fueling of aircraft, fatigue, use of unapproved hardware, weather
 
-{adm} classifications of hazards
+{pilot} classifications of hazards
 physical (mountains, obstacles), human behaviors, political, environmental (weather), legal, technological
 
-{adm} risk
+{pilot} risk
 future impact of a hazard that is not controlled or eliminated, what may happen should a hazard manifest itself, chance or probability that harm may occur
 
-{adm} hazard as pertains to a mountain
+{pilot} hazard as pertains to a mountain
 a mountain is a hazard, running into the mountain with an aircraft is the risk
 
-{adm} use of PAVE to assess risk
+{pilot} use of PAVE to assess risk
 PIC (IMSAFE, proficiency, currency), aircraft (airworthiness, equipment, perf capability), environment (weather, terrain, airports/runways, conditions), external pressures (hurry, desire to impress)
 
-{adm} how to use 3P model of risk management
+{pilot} how to use 3P model of risk management
 perceive current hazards, process impact and solutions, perform best course of action
 
-{adm} factors that can decrease pilot's ability to manage workload
+{pilot} factors that can decrease pilot's ability to manage workload
 environmental conditions, physiological stress, psychological stress
 
-{adm} actions to deal with overloading
+{pilot} actions to deal with overloading
 stop, think, slow down, prioritize - aviate, navigate, communicate
 
-{adm} two common methods for checklist usage
+{pilot} two common methods for checklist usage
 do-verify (out of order), challenge-do-verify
 
-{adm} elements pilot must consider to maintain situational awareness
+{pilot} elements pilot must consider to maintain situational awareness
 aircraft systems, pilot, passengers, location of aircraft relative to terrain/traffic/weather/airspace
 
-{adm} how to ensure that TAA enhances situational awareness
+{pilot} how to ensure that TAA enhances situational awareness
 callouts, verification checks, verify flight plan entered correctly, verify waypoints, use VOR to back up GPS, stay within personal limitations
 
-{adm} operational procedures to avoid CFIT
+{pilot} operational procedures to avoid CFIT
 always maintain situation awareness, good flight plan, sterile cockpit, familiarize yourself with surrounding terrain and obstacles, don't become complacent, use flight following, fly stabilized approach, monitor instruments regularly, understand minimum safe altitudes
 
 {sys} most important things to be aware of with AP
@@ -2946,7 +2946,7 @@ prevent negative pressure build-up, allow for fuel overflow due to environmental
 {reg} requirements to act as safety pilot
 hold PPL and be current, endorsed to act as PIC in type in question
 
-{adm} FAA pilot proficiency program (WINGS)
+{pilot} FAA pilot proficiency program (WINGS)
 on-going flight training throughout the year, www.faasafety.gov, webinars and practical training, meets recency requirements as prescribed in 61.56(e)
 
 {sop} considerations for choosing true course
@@ -2988,19 +2988,19 @@ airspace, runway length and elevation, com frequencies; GPS database, sectional 
 {sys} problems you may encounter with a dead battery
 no flaps (some planes), fuel gauges will not work, no lights at night, no turn coordinator, no com/nav radio unless we have a portable backup
 
-{adm} ensuring collision avoidance
+{pilot} ensuring collision avoidance
 clean windshield, organize cockpit to avoid head-down time, keep head looking out during maneuvers, on ground stop to copy down info, scan for traffic, do not practice maneuvers over places where traffic converges, enter traffic pattern at proper place and altitude, listen to traffic on frequencies, use anti-collision lights, request flight following, use landing light at night
 
-{adm} PAVE vs 5P
+{pilot} PAVE vs 5P
 PAVE encourages pilot to react to unacceptable risk elements, 5P encourages pilot to be proactive
 
-{adm} purpose of PAVE checklist
+{pilot} purpose of PAVE checklist
 way to mitigate risks by grouping perceived hazards into four categories: Pilot, Aircraft, enVironment, External pressures
 
-{adm} anticipating pilots who might get motion sickness
+{pilot} anticipating pilots who might get motion sickness
 keep then in the front seat
 
-{adm} things to avoid for very long flights
+{pilot} things to avoid for very long flights
 hypoxia, dehydration, fatigue
 
 {reg} you can still fly if the transponder and annual inspection are out of date (yes/no and why)
@@ -3018,16 +3018,16 @@ three simulated or actual tows within 12 calendar months, 24 months for addition
 {reg} limitations of using airplane for charity
 no more 25 SM from airport, use of public airport, still limited by pro rata share
 
-{adm} difference in aircraft in PAVE vs. 5 P's
+{pilot} difference in aircraft in PAVE vs. 5 P's
 PAVE requires aircraft that is perf capable
 
-{adm} reasons for using checklists
+{pilot} reasons for using checklists
 remember items, remember items in proper order
 
-{adm} issues with checklists
+{pilot} issues with checklists
 easy to skip items, heads-down problem, wrong checklist, not readily accessible, not saying things out loud, do-verify easy to miss something
 
-{adm} situational awareness
+{pilot} situational awareness
 observe entire surroundings, be aware of what everyone is doing, observe birds, keep fake map and putting everything on the map, practice at uncontrolled field
 
 {sop} better to land on an interstate against traffic rather than with traffic (yes/no)
@@ -3564,7 +3564,7 @@ apply carburator heat if not fuel injected, switch to a different fuel tank, enr
 {sop} actions to take if moderate or severe turbulence is encountered
 slow to Va, maintain level flight using smooth control inputs, disengage autopilot, contact ATC for advice
 
-{adm} most dangerous thing about door or window opening in flight
+{pilot} most dangerous thing about door or window opening in flight
 distraction of the pilot, aircraft will continue to fly 
 
 {sys} two types of flap malfunctions
@@ -3792,43 +3792,43 @@ provides redundancy for critical information if either display dies in form of s
 {sys} arc locations for Vs0, Vs, Vfe, Vno, Vne
 bottom of white, bottom of green, top of white, top of green / bottom of yellow, top of yellow / red line
 
-{adm} techniques to improve nighttime visual accuity
+{pilot} techniques to improve nighttime visual accuity
 allow 30 min for eyes to adapt, dim cockpit lights to minimum level, use red lights, avoid looking directly at bright lights
 
-{adm} Coriolis illusion related to (body part)
+{pilot} Coriolis illusion related to (body part)
 two semicircular canals in inner ear
 
-{adm} somatogravic illusion related to (body part)
+{pilot} somatogravic illusion related to (body part)
 movement of inner ear fluid during acceleration
 
-{adm} reason why pilot aggravates a graveyard spiral
+{pilot} reason why pilot aggravates a graveyard spiral
 pilot thinks airplane is diving but not banked
 
-{adm} illusions that can cause aircraft to appear higher than it actually is
+{pilot} illusions that can cause aircraft to appear higher than it actually is
 narrow runway, upsloping runway, absence of surrounding features, haze/fog/rain
 
-{adm} spatial disorientation illusion
+{pilot} spatial disorientation illusion
 sensation that aircraft is turning or banked but it is actually level
 
-{adm} time it takes for dark adaptation to occur
+{pilot} time it takes for dark adaptation to occur
 20-30 min
 
-{adm} what can impair dark adaptation
+{pilot} what can impair dark adaptation
 exposure to bright lights, altitudes above 5000 ft MSL, CO from smoking, vitamin A deficiency
 
-{adm} hypoxia symptoms above 12000 ft MSL
+{pilot} hypoxia symptoms above 12000 ft MSL
 impaired judgment, memory, alertness
 
-{adm} hypoxia symptoms about 15000 ft MSL
+{pilot} hypoxia symptoms about 15000 ft MSL
 tunnel vision, fingernails and lips turn blue, loss of consciousness
 
-{adm} techniques to minimize dangerously low altitudes on approach
+{pilot} techniques to minimize dangerously low altitudes on approach
 use all available glide slope aids, be aware of illusions, cross reference visuals with altimeter
 
-{adm} effects of stress and fatigue on pilot
+{pilot} effects of stress and fatigue on pilot
 impair performance and judgment
 
-{adm} techniques to prevent spatial disorientation
+{pilot} techniques to prevent spatial disorientation
 maintain proficiency with instrument flight, avoid sudden head movement
 
 {perf} load factor
@@ -4407,7 +4407,7 @@ header, synopsis (valid for 18 hours), VFR clouds and weather (valid for 12 hour
 {sop} when to use auxilliary fuel pump
 starting engine, high altitudes, engine failure, rough engine
 
-{adm} ways to mitigate risk
+{pilot} ways to mitigate risk
 IMSAFE, PAVE, PPPPP
 
 {weather} notice to airmen (NOTAM)
@@ -4416,7 +4416,7 @@ time critical information that is not known in advance enough to be published on
 {chart} where to find runway lengths
 chart supplement (previously known as the A/FD)
 
-{adm} ICEFLAGS in-flight illusions
+{pilot} ICEFLAGS in-flight illusions
 inversion, Coriolis, elevator, false horizon, leans, autokinesis, graveyard spiral, somatogravic
 
 {weather} winds,temperatures will not be forecast within this many ft of station elevation on an FD
@@ -4434,22 +4434,22 @@ forecast of aviation weather hazards such as icing, freezing levels, and turbule
 {weather} radar summary chart
 displays areas of precipitation and indicates the height of the radar echo tops in hundreds of ft MSL, movement of cells is indicated by an arrow that points in the direction of the movement with the speed in knots beside it, does not show clouds or fog, only precipitation, issued 35 minutes past every hour, valid for 1 hour
 
-{adm} body systems used to ascertain our orientation and movement in space
+{pilot} body systems used to ascertain our orientation and movement in space
 vestibular, somatosensory, visual
 
-{adm} vestibular system
+{pilot} vestibular system
 the inner ear system is composed of 3 semicircular hollow but fluid filled canals arranged in the pitch, roll, and yaw axes, this endolymph fluid inside the canals moves when the head or body moves and displaces tiny hair cells that stimulate nerve impulses, these signals are then sent to the brain and interpreted as motion
 
-{adm} somatosensory system
+{pilot} somatosensory system
 the nerves in our skin cells, this is basically “flying by the seat of your pants” or the sensations of motion that we feel in our bodies from acceleration or turning
 
-{adm} visual system
+{pilot} visual system
 our eyes, light from the sun is constantly being reflected by everything on Earth, this light enters the eyeball through the cornea, travels through the lens and falls on the photoreceptors of the retina, the two kinds of photoreceptors are rods and cones, rods are used for night and peripheral vision, cones are used to sense color
 
-{adm} cause of middle ear pain in flight
+{pilot} cause of middle ear pain in flight
 air inside of the middle ear is normally equalized through the Eustachian tube: a tube that travels from the ear to the back of the throat on each side, if there is any kind of congestion or blockage it makes this equalization difficult or impossible, in a climb, the air outside becomes less dense and the trapped higher pressure air in the middle ear tends to expand, in a descent, the trapped air is of lower pressure than the outside air and feeling of compression is experienced, this is typically more painful and more difficult to resolve, sinus congestions cause pain from similar circumstances and can be very painful, 
 
-{adm} how to mitigate middle ear pain
+{pilot} how to mitigate middle ear pain
 first step in avoiding this pain is to not fly with head colds or ear/sinus infections, in flight equalization can be helped along by swallowing, yawning, tensing the throat muscles, or by executing the Valsalva maneuver, accomplished by pinching the nostrils, closing the mouth, and attempting to exhale, oral decongestions do not provide adequate relief and may have adverse side effects
 
 {sop} how to determine if another aircraft is at the same altitude
@@ -4473,7 +4473,7 @@ the upwind wheel to avoid being blown off the runway or being flipped over
 {sop} correct response when moderate or severe turbulence is encountered
 Slow to maneuvering speed (Va) and try to maintain a level flight attitude, don't try to maintain an altitude or airspeed
 
-{adm} name two things that you can do before the flight (on the ground) to help minimize the chance of a mid-air collision while in the air
+{pilot} name two things that you can do before the flight (on the ground) to help minimize the chance of a mid-air collision while in the air
 clean the windshield, organize the cockpit and information as far as possible
 
 {perf} practical aerodynamic effects of operating with a center of gravity at the forward-most legal position
@@ -4650,73 +4650,73 @@ no
 {sop} when you are officially clear the runway
 when every part of aircraft is past the hold-short line
 
-{adm} most common runway/airport safety issues for pilots
+{pilot} most common runway/airport safety issues for pilots
 not following ATC instructions, losing orientation during taxiing, communication errors
 
-{adm} special consideration to be given when either hypoxia or hyperventilation is suspected in an aircraft that supplies supplemental oxygen
+{pilot} special consideration to be given when either hypoxia or hyperventilation is suspected in an aircraft that supplies supplemental oxygen
 change regulator to deliver 100% oxygen, then check the system
 
-{adm} action to take if pilot is forced to use white light in the cockpit while flying at night
+{pilot} action to take if pilot is forced to use white light in the cockpit while flying at night
 keep the other eye closed so as to retain its night vision adaptedness
 
-{adm} how to learn about your hypoxia symtoms
+{pilot} how to learn about your hypoxia symtoms
 attend the Physiological Training Program at the Air Aeromedical Institude in Oklahoma City
 
-{adm} spatial orientation
+{pilot} spatial orientation
 natural ability to maintain body orientation and/or posture in relation to the surrounding environment at rest and during motion
 
-{adm} things that can cause false horizon illusion
+{pilot} things that can cause false horizon illusion
 sloping cloud formation, obscured horizon, aurora borealis, dark scene spread with ground lights and stars, certain geometric patterns of ground lights
 
-{adm} why pilots should be particularly concerned about hypoxia at night
+{pilot} why pilots should be particularly concerned about hypoxia at night
 even as low as 5000 ft a pilot can begin to lose night vision (effectiveness of rods) due to altitude or hypoxia
 
-{adm} actions to take if passenger is airsick
+{pilot} actions to take if passenger is airsick
 talk to passenger, make sickness bag available, provide ventilation, allow passenger to place hands on the controls to help feel what aircraft is doing next, make more gradual control changes, perhaps land somewhere to take a break
 
-{adm} reasons why new safety features and technology don't seem to be lowering the accident rate much in general aviation
+{pilot} reasons why new safety features and technology don't seem to be lowering the accident rate much in general aviation
 pilots tend use new safety equipment to increase/embolden their levels of tolerable risk (risk homeostatis)
 
-{adm} part of body to which most cases or disorientation are traced
+{pilot} part of body to which most cases or disorientation are traced
 inner ear, which is similar to a three-axis gyro, it reacts only to rate of change not sustained change
 
-{adm} reasons ADM is superior to conventional decision making
+{pilot} reasons ADM is superior to conventional decision making
 increases awareness of importance of attitude, teaches ability to search for and establish relevance of information, increases motivation to choose and execute actions that ensure safety in the situational timeframe
 
-{adm} sinus block occurs most frequently during descent (yes/no)
+{pilot} sinus block occurs most frequently during descent (yes/no)
 yes
 
-{adm} signs that could alert a pilot to CO poisoning if the aircraft does not have a working CO detector
+{pilot} signs that could alert a pilot to CO poisoning if the aircraft does not have a working CO detector
 odor of exhaust fumes (most likely culprit), headache, dizziness, drowsiness
 
-{adm} illusions that can lead to landing errors
+{pilot} illusions that can lead to landing errors
 runway width illusion, runway and terrain slopes illusion, featureless terrain illusion, atmosphere illusions (haze/fog), ground lighting illusions (can be mistaken for runway lights)
 
-{adm} factors that can impair dark adaptation (night vision)
+{pilot} factors that can impair dark adaptation (night vision)
 exposure to cabin pressure altitudes above 5000 ft, CO inhaled from smoking and exhaust fumes, vitamin A deficiency, prolonged exposure to bright sunlight, viewing bright light
 
-{adm} time of useful consciousness
+{pilot} time of useful consciousness
 maximum time a pilot has to make rational, life-saving decisions and carry them out at a given altitude without supplemental oxygen (e.g., only 3-6 minutes at 25000 ft)
 
-{adm} vertigo
+{pilot} vertigo
 inner ear sends incorrect spatial information to the brain and there is a corresponding loss of balance or situational awareness
 
-{adm} conditions in which pilots are particularly susceptible to vertigo
+{pilot} conditions in which pilots are particularly susceptible to vertigo
 IMC, dark night flying conditions
 
-{adm} ear block is more dangerous to a pilot than a sinus infection (yes/no)
+{pilot} ear block is more dangerous to a pilot than a sinus infection (yes/no)
 yes, sinus infection will become painful during assent (can lower altitude) while ear block manifests itself during descent
 
-{adm} how to tell if a person has hyperventilation vs. hypoxia by looking at them
+{pilot} how to tell if a person has hyperventilation vs. hypoxia by looking at them
 turning red vs. turning blue
 
-{adm} symptoms of hypoxia particularly above 15000 ft
+{pilot} symptoms of hypoxia particularly above 15000 ft
 periphery of visual field grays out (tunnel vision), blue coloration of fingernails and lips
 
-{adm} why pilots should focus on small areas of the sky during scans
+{pilot} why pilots should focus on small areas of the sky during scans
 fovea (sharpest part of retina) has very narrow field of view
 
-{adm} in haze, pilot will tend to be too high on final approach to landing (yes/no)
+{pilot} in haze, pilot will tend to be too high on final approach to landing (yes/no)
 no, haze creates an illusion of being at a greater distance from the runway, so the pilot will believe that the aircraft is higher than it is
 
 {reg} if a commercial airliner has a pressurized cabin at 5000 ft but is flying at 30000 ft, the SCUBA rules say to wait 12 hours (yes/no)
@@ -5022,10 +5022,10 @@ yes
 {reg} cost of issuing a pilot certificate
 none, but they do charge for replacements
 
-{adm} how to scan the sky
+{pilot} how to scan the sky
 systematically focus on small segments of the sky looking for relative movement
 
-{adm} what topics should be covered when briefing passengers about seatbelts
+{pilot} what topics should be covered when briefing passengers about seatbelts
 how to fasten and unfasten seatbelts and harnessses, that they must be worn during taxi, takeoff, and landing
 
 {chart} significance of red balls along power lines
@@ -5037,7 +5037,7 @@ pilots should be familiar with all available information about LAHSO at destinat
 {sop} how to reduce runway incursions
 confirm taxi clearance, visually clear final approach path before crossing runway, make use of airport diagram, use maximum external lighting allowed
 
-{adm} how to avoid information workload in relation to CRM
+{pilot} how to avoid information workload in relation to CRM
 complete as many tasks as early as possible
 
 {chart} required ceiling and visibility requirements for LAHSO operations
@@ -5049,13 +5049,13 @@ student pilots and pilots not familiar with LAHSO
 {sop} incipient spin
 from stall until full spin develops (about 4-6 seconds)
 
-{adm} meaning of sterile cockpit
+{pilot} meaning of sterile cockpit
 cockpit conversation is restricted to operationally pertinent topics only
 
 {sop} most commomn cause of a stall/spin accident
 pilot's attention was diverted from the primary task of flying the aircraft
 
-{adm} considerations for situational awareness while conducting a LAHSO operation
+{pilot} considerations for situational awareness while conducting a LAHSO operation
 having current airport information that is accessible, effective radio communication with ATC, thorough understanding of airport markings/signage/lighting
 
 {sop} three types of spins
@@ -5076,13 +5076,13 @@ no
 {sop} flat spin
 near level pitch and roll attitude with the spin axis near the CG of the airplane, recovery from a flat spin is extremly difficult and sometimes impossible
 
-{adm} when, where, and under what weather conditions do most midair collisions occur
+{pilot} when, where, and under what weather conditions do most midair collisions occur
 good VMC conditions, daylight hours, within 5 miles of an airport or navigation aids
 
 {chart} white area on a sectional chart
 core is a prohibited area, white part is TFR extension of the prohibited area
 
-{adm} six steps of ADM process process that lead to good decision making
+{pilot} six steps of ADM process process that lead to good decision making
 identify personal attitudes that are hazardous, learn behavioral modification techniques, learn how to cope with stress, develop risk assessment skills, use all resources, evalute the effective of one's ADM skills
 
 {sop} where are LAHSO operations conducted
@@ -5091,19 +5091,19 @@ controlled airports with (almost always) intersecting runways
 {sop} primary causes of runway incursions
 errors in pilot/ground_vehicle/controller communications, lack of airport familiarity, loss of situational awareness
 
-{adm} crew resource management is mainly concerned with
+{pilot} crew resource management is mainly concerned with
 cognitive and interpersonal skills needed to manage flight within an organized aviation system
 
-{adm} two predominant classes of CRM errors
+{pilot} two predominant classes of CRM errors
 failure to effectively divide workload, failures of communication
 
-{adm} key factor in collision avoidance
+{pilot} key factor in collision avoidance
 systematically scanning the sky for other aircraft
 
-{adm} risks of continuing flight into degrading weather conditions as applied to CFIT
+{pilot} risks of continuing flight into degrading weather conditions as applied to CFIT
 loss of aircraft control, loss of situational awareness, reduced reaction time, inability of pilot to operate aircraft at minimum controllable speed, getting lost, reduce reaction time in event of maintenance problem, breakdown of good ADM, failure to comply with regulations, failure to comply with minimum safe altitudes, increased risk of hitting cell phone towers and other types of tranmissions, failure to turn around and avoid deteriorating condtions when first able
 
-{adm} CFIT
+{pilot} CFIT
 accident or incident in which the airplane, under the flight crew's control, is inadvertently flown into terrain, obstacles, or water without either sufficient or timely flight crew awareness to prevent the event
 
 {perf} three things that affect air pressure
@@ -5118,7 +5118,7 @@ yes
 {weather} slopes of warm vs. cold fronts
 warm fronts are characterized by having a gentle slope, promoting layered or stratiform cloudiness and precipitation along and ahead of the front if the warm rising air is stable; cold fronts have a steep slope, and the warm air is forced upward abruptly, often leading to a narrow band of showers and thunderstorms along or just ahead of the front if the warm rising air is unstable
 
-{adm} combination of IMC and turbulence are conducive to...
+{pilot} combination of IMC and turbulence are conducive to...
 the development of spatial disorientation
 
 {weather} how occluded front appears on prog charts
@@ -5172,7 +5172,7 @@ mic is not fully plugged in
 {sys} how to know if ELT has been used for one cummulative hour
 do not know
 
-{adm} fatigue vs. stress
+{pilot} fatigue vs. stress
 fatigue is physical exhaustion while stress is mental exhaustion
 
 {sop} ground loop
