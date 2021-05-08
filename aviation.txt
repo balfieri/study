@@ -3342,7 +3342,7 @@ magnetic
 {chart} limitations of VASI for obstruction clearance
 only within 4nm of runway and 10 degrees of the extended centerline
 
-{chart} normal descent angle in degrees
+{sop} normal descent angle in degrees
 3
 
 {perf} basic wingtip vortices movement
@@ -3691,10 +3691,10 @@ airplane, rotocraft, glider, lighter-than-air, powered lift
 single-engine land, single-engine sea, multi-engine land, multi-engine sea
 
 {reg} requirements for BasicMed
-must have had a valid medical certificate that was not revoked, suspended, or withdrawn; no new serious medical conditions since; valid state-issued driver's license
+must have had a valid medical certificate that was not revoked, suspended, or withdrawn; no new serious medical conditions since; valid unexpired state-issued driver's license
 
 {reg} documents to carry under BasicMed
-valid state-issued driver's license
+valid unexpired state-issued driver's license
 
 {reg} documents that must be available upon request for BasicMed
 Comprehensive Medical Examination Checklist, Basic Medical Education Course certificate
@@ -4818,8 +4818,8 @@ yes
 {chart} a class C airspace extended to 4100 ft, a transponder is never required above this airspace (yes/no)
 no, it is required above 10000 ft
 
-{chart} you plan to fly over level terrain at 2800 ft MSL in class E, TC is 188 deg, MV is 12 deg east, BLK070, determine highest you may legally fly
-clouds are at 9800 ft, so you must be at least 500 ft below clouds, so 9300 ft MSL, mag course is 176 deg, so 7500 ft MSL is highest odd+500ft altitude
+{chart} you plan to fly over level terrain at 2800 ft MSL in class E, TC is 188 deg, MV is 12 deg east, BKN070, determine highest you may legally fly
+clouds are at 9800 (2800+7000) ft, so you must be at least 500 ft below clouds, so 9300 ft MSL, mag course is 176 deg, so 7500 ft MSL is highest odd+500ft altitude
 
 {sop} how to file a flight plan when a stopover is anticipated
 file a separate flight plan for each leg when the stop is expected to be more than 1 hour in duration
