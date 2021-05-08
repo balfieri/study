@@ -48,6 +48,7 @@ acronyms_only  = int(sys.argv[6]) if len(sys.argv) >= 7 else 0
 print()
 categories_s = prompt( 'Categories (separated by spaces, leave blank for all)' )
 categories = categories_s.split( ' ' )
+if len(categories) == 1 and categories[0] == '': categories = []
 
 Q = open( filename, 'r' )
 all_questions = []
