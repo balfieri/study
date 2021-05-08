@@ -4777,7 +4777,7 @@ position of fuel tank selector, quantity of fuel in selected tank, fuel pressure
 aircraft can accept little or no delay at its destination, not an emergency situation yet
 
 {sop} you land safely in the wilderness, but there's no cell phone coverage, actions that you should take
-manually activate your ALT, consider carrying a SAT-based GPS locator in the future
+manually activate your ELT, consider carrying a SAT-based GPS locator in the future
 
 {sop} distress situation vs. urgency situation
 emergency can be either, but pilots typically do not hesitate to declare an emergency when in a distress situation, but not necessarily in an urgency situation
