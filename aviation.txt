@@ -49,7 +49,7 @@ pilot, aircraft, environment, external pressures
 consequences, alternatives, reality, external factors
 
 {pilot} TEAM
-transfer (task to somebody else), eliminate (risk possible?), accept (risk), mitigate
+transfer (task to somebody else), eliminate (risk possible), accept (risk), mitigate
 
 {reg} private pilot must carry...
 private pilot certificate, government-issued photo id, medical certificate
@@ -708,7 +708,7 @@ AGL, AGL, MSL, MSL
 {sop} minimum safe altitude is one that
 allows for an emergency landing without undue hazard to persons or property on the ground
 
-{reg} when can night landings be logged? Same as FAA definition of nighttime
+{reg} when can night landings be logged (same as FAA definition of nighttime)
 1 hour past sundown to 1 hour before sunrise
 
 {sys} camber
@@ -5181,173 +5181,172 @@ rapid yawing of fixed-wing aircraft while on the ground
 {sys} airplanes that are most susciptable to ground loops
 those with conventional landing gear (tailwheel)
 
-{weather} are cloud ceilings reported by METARs and TAFs in AGL or MSL?
+{weather} cloud ceilings are reported by METARs and TAFs in AGL or MSL
 AGL, so must add field elevation to get MSL which is what altimeter is in
 
-{weather} are area forecasts in AGL or MSL?
+{weather} area forecasts are in AGL or MSL
 MSL, because they cover large areas with different field elevations
 
-{sop} what do you do if you have a total electrical failure at night?
+{sop} what to do if you have a total electrical failure at night
 divert to a towered airport and fly by the tower and watch for light signals; clear to land is solid green
 
-{sys} 172SP low fuel light comes on when level of that tank goes below?
+{sys} 172SP low fuel light comes on when level of that tank goes below
 5 gal
 
-{weather} difference between weather depiction chart and radar summary?
+{weather} difference between weather depiction chart and radar summary
 former shows areas of VFR, MVFR, IFR, and LIFR conditions; latter shows precipitation
 
-{weather} is weather depiction chart forcast or history?
+{weather} weather depiction chart is forcast or history
 history
 
-{sop} what if you had windshear reported and had to land?
+{sop} what to do if you have windshear reported and have to land
 land at a higher speed
 
-{sop} what changes to make in flight controls with higher altitude?
+{sop} what changes to make in flight controls with higher altitude
 lean engine
 
-{sop} how to use of flaps at higher elevation? 
+{sop} how to use of flaps at higher elevation
 if runway were short, you’d want them; if runway were long, they hurt climb performance, so not needed
 
-{sys} does stall horn have anything to do with airspeed indicator? 
+{sys} stall horn has anything to do with airspeed indicator (yes/no)
 no, only with angle of attack 
 
-{sys} yellow arc caution range applies only to?? 
+{sys} yellow arc caution range applies only to
 smooth air
 
-{sys} how to get TAS on airspeed indicator? 
+{sys} how to get TAS on airspeed indicator
 put OAT over pressure altitude
 
-{sys} 172SP oil pressure is electrical?
+{sys} 172SP oil pressure is electrical (yes/no)
 no
 
-{sys} 172SP fuel gauge is electrical?
+{sys} 172SP fuel gauge is electrical (yes/no)
 yes
 
-{sys} 172SP temperature gauge is electrical?
+{sys} 172SP temperature gauge is electrical (yes/no)
 yes
 
-{sys} low voltage light is on and ammeter discharges, what is going on?
+{sys} low voltage light is on and ammeter discharges means
 most likely an alternator gone bad: turn off alt only, then turn back on; if doesn’t work, running on battery, expect 15-30 min before they fail; shut down unnecessary electrical equipment such as unnecessary lights, 2nd radio
 
-{sys} problems if battery dies? 
+{sys} problems if battery dies
 can’t transmit, lights go off, can’t extend flaps (on some planes); engine continues to run
 
-{perf} what can cause the altimeter to change overnight? 
+{perf} what can cause the altimeter to change overnight
 low pressure system came; listen to ATIS/AWOS
 
-{perf} errors in altimeter caused by temperature? 
+{perf} errors in altimeter caused by temperature
 when flying in colder than standard, will be lower than actual; further away from ground, larger the error
 
-{sys} radios associated with line of sight?
+{sys} radios associated with line of sight
 VOR radios; ADF is not
 
-{chart} who monitors 121.5? 
+{chart} who monitors 121.5
 FSS and towers
 
-{sop} meaning of "squawk altitude"? 
+{sop} meaning of "squawk altitude"
 check that transponder is on mode-C (ALT)
 
-{sop} when to turn on and off transponder?
+{sop} when to turn on and off transponder
 on before departure; off after after-landing checklist
 
-{sys} what if the engine is too lean?
+{sys} if the engine is too lean
 runs hot and rough
 
-{sys} what can happen if engine gets to hot?
+{sys} can happen if engine gets too hot
 cracked cylinders, detonation
 
-{sys} what happens if engine is too rich? 
+{sys} what happens if engine is too rich 
 higher fuel burn, might be too cool, runs rough at higher altitude, clogged spark plugs
 
-{sys} what happens if there is carburator ice with constant-speed propeller? 
+{sys} what happens if there is carburator ice with constant-speed propeller
 manifold pressure will go down, prop will auto-adjust to keep RPM until it can no longer adjust
 
-{sys} danger of over-priming carburator engine? 
+{sys} danger of over-priming carburator engine
 carburator fire
 
-{sys} technique for starting flooded engine? 
+{sys} technique for starting flooded engine
 mixture idle, throttle all in, start, mixture richen, throttle back
 
-{sys} disadvantage of priming engine with throttle? 
+{sys} disadvantage of priming engine with throttle
 carb fire
 
-{sys} danger of hot magneto? 
+{sys} danger of hot magneto
 someone turning the prop could accidently start the engine
 
-{sys} concerns of using cabin heat?
+{sys} concerns of using cabin heat
 CO poisoning
 
-{sys} how to determine if there’s carb ice? 
+{sys} how to determine if there’s carb ice
 add carb heat, should see manifold pressure increase at some point
 
-{sop} recommended supplemental oxygen altitudes in ft (day, night)? 
+{sop} recommended supplemental oxygen altitudes in ft (day, night)
 10000, 5000
 
-{chart} part of runway not allowed for takeoffs either? 
+{chart} part of runway not allowed for takeoffs either
 blast pad
 
-{sys} ELT transmission frequency? 
+{sys} ELT transmission frequency
 121.5 MHz, VHF
 
-{sys} emergency equipment on aircraft? 
+{sys} emergency equipment on aircraft
 fire extinguisher, ELT
 
-{sys} how to deactivate second radio? 
+{sys} how to deactivate second radio
 placard; pull circuit breaker if it exists
 
-{chart} can we fly at 3500 ft if ground elevation is 600 ft? 
+{chart} we can fly at 3500 ft if ground elevation is 600 ft (yes/no)
 yes, less than 3000 ft. AGL; direction doesn’t matter
 
-{chart} altitude selection is based on?
+{chart} altitude selection is based on
 magnetic course, not true course
 
-{chart} TRSA voluntary or mandatory radio participation? 
+{chart} TRSA voluntary or mandatory radio participation
 voluntary, but still a good idea to call
 
-{chart} how to continue in class E at < 3SM visibility? 
+{chart} how to continue in class E at < 3SM visibility
 descend to 1200 AGL
 
-{chart} how maintain SVFR? 
+{chart} how maintain SVFR
 1 SM, clear of clouds
 
-{chart} restrictions on SVFR? 
+{chart} restrictions on SVFR
 IFR pilot and airplane required at night
 
-{sop} if you’re lost: FSS can help by...? 
+{sop} if you’re lost: FSS can help by
 having you TX and they can pinpoint your location using special equipment; just need a comm radio, not a transponder
 
-{reg} can we take off with frost or snow? 
+{reg} we can take off with frost or snow (yes/no)
 yes, but don't do it
 
-{sys} radio to use for NDB? 
+{sys} radio to use for NDB
 ADF
 
-{sys} radio to use for DME? 
+{sys} radio to use for DME
 VOR
 
-{chart} victor airways begin at which altitude?
+{chart} victor airways begin at altitude
 1200 AGL
 
-{reg} can you fly without your wallet? 
+{reg} you can fly without your wallet (yes/no)
 no, need your medical, PPL, unexpired government-issued ID
 
-{sop} how to know if you are 500 ft under the cloud? 
+{sop} how to know if you are 500 ft under the cloud 
 check weather report; if it says 3500, must be at 3000
 
-{sop} why is VFR above the clouds unsafe even if there’s an exit point? 
+{sop} why VFR above the clouds is unsafe even if there’s an exit point
 no visual reference points below, will need to go through the clouds if you have an engine failure
 
-{reg} can you carry passengers when you get a SFP? 
+{reg} you can carry passengers when you get a SFP (yes/no)
 no, only required crew members are allowed which is one for a single-prop plane
 
-{sys} what is affected by total electrical failure? 
+{sys} what is affected by total electrical failure 
 lights, flaps, radios, nav, turn coordinator, fuel gauges
 
-{pilot} what can you ask an inexperienced passenger to do? 
+{pilot} what you can ask an inexperienced passenger to do
 read checklists, hold maps, stay quiet and still
 
-{pilot} what if a passenger feels sick? 
+{pilot} if a passenger feels sick
 close heat, open windows and overhead vents, land as soon as possible; carry CO detector 
 
-{pilot} if you get CO in your system, can you get it out quickly?
-no
+{pilot} if you get CO in your system, you can get it out quickly (yes/no)
