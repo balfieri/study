@@ -4236,7 +4236,7 @@ yes
 {sop} altitude at which we transition to enroute climb speed
 1000 AGL
 
-{sys} purpose if suction gauge
+{sys} purpose of suction gauge
 determine proper operation of vacuum system
 
 {sys} normal rate of fuel burn for 172SP min,max GPH
