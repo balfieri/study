@@ -5350,3 +5350,4 @@ read checklists, hold maps, stay quiet and still
 close heat, open windows and overhead vents, land as soon as possible; carry CO detector 
 
 {pilot} if you get CO in your system, you can get it out quickly (yes/no)
+no
