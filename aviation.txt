@@ -4939,7 +4939,7 @@ they won't be able to time them with the oscillations and will only make the sit
 may cause the nosewheel to dig in
 
 {sop} common errors in performance of short-field landings
-misjudgement of wind, incorrect speed, unstabilized approach, poor roundout to flare, insufficient flaps, power power management, failure to idle the engine, hard touchdown, inadequate transfer of weight to main wheels during touchdown, too much application of brakes at too fast a ground speed
+misjudgement of wind, incorrect speed, unstabilized approach, poor roundout to flare, insufficient flaps, power management, failure to idle the engine, hard touchdown, inadequate transfer of weight to main wheels during touchdown, too much application of brakes at too fast a ground speed
 
 {sop} two reasons for taking off into the wind
 shorter ground roll to reach Vr, less wear and tear on the landing gear at lower ground speed
