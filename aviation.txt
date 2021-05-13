@@ -1119,430 +1119,430 @@ seeing/hearing what you want to see/hear when reality is different
 {pilot} sensory exclusion
 when you are overly focused on one of your senses that you ignore the others
 
-{weather} UA
+{weathersymbol} UA
 routine
 
-{weather} UUA
+{weathersymbol} UUA
 urgent
 
-{weather} TM
+{weathersymbol} TM
 time
 
-{weather} FL
+{weathersymbol} FL
 altitude
 
-{weather} TP
+{weathersymbol} TP
 type
 
-{weather} SK
+{weathersymbol} SK
 sky condition
 
-{weather} WX
+{weathersymbol} WX
 weather
 
-{weather} TA
+{weathersymbol} TA
 temperature
 
-{weather} WV
+{weathersymbol} WV
 wind
 
-{weather} TB
+{weathersymbol} TB
 turbulence
 
-{weather} IC
+{weathersymbol} IC
 icing
 
-{weather} RM
+{weathersymbol} RM
 remarks
 
-{weather} ASOS
+{weathersymbol} ASOS
 automatic surface observing system
 
-{weather} ISA
+{weathersymbol} ISA
 international standard atmosphere
 
-{weather} DUATS
+{weathersymbol} DUATS
 direct user access terminal services
 
-{weather} SPECI
+{weathersymbol} SPECI
 special report
 
-{weather} TWEB
+{weathersymbol} TWEB
 transcribed weather broadcast
 
-{weather} NSW
+{weathersymbol} NSW
 no significant weather
 
-{weather} SKC
+{weathersymbol} SKC
 sky clear condition
 
-{weather} SHRA
+{weathersymbol} SHRA
 showers of rain
 
-{weather} TSRA
+{weathersymbol} TSRA
 thunderstorms and rain
 
-{weather} AMD
+{weathersymbol} AMD
 amended
 
-{weather} COR
+{weathersymbol} COR
 corrected
 
-{weather} RTD
+{weathersymbol} RTD
 delayed
 
-{weather} SLP
+{weathersymbol} SLP
 sea level pressure
 
-{weather} FG
+{weathersymbol} FG
 fog
 
-{weather} BR
+{weathersymbol} BR
 mist
 
-{weather} FU
+{weathersymbol} FU
 smoke
 
-{weather} HZ
+{weathersymbol} HZ
 haze
 
-{weather} PY
+{weathersymbol} PY
 spray
 
-{weather} SA
+{weathersymbol} SA
 sand
 
-{weather} DU
+{weathersymbol} DU
 dust
 
-{weather} VA
+{weathersymbol} VA
 volcanic ash
 
-{weather} RA
+{weathersymbol} RA
 rain
 
-{weather} -RA
+{weathersymbol} -RA
 light rain
 
-{weather} +RA
+{weathersymbol} +RA
 heavy rain
 
-{weather} DZ
+{weathersymbol} DZ
 drizzle
 
-{weather} -DZ
+{weathersymbol} -DZ
 light drizzle
 
-{weather} +DZ
+{weathersymbol} +DZ
 heavy drizzle
 
-{weather} RADZ
+{weathersymbol} RADZ
 rain and drizzle
 
-{weather} SN
+{weathersymbol} SN
 snow
 
-{weather} SG
+{weathersymbol} SG
 snow grains
 
-{weather} GR
+{weathersymbol} GR
 hail
 
-{weather} GS
+{weathersymbol} GS
 small hail
 
-{weather} IC
+{weathersymbol} IC
 ice crystals
 
-{weather} -
+{weathersymbol} -
 light
 
-{weather} +
+{weathersymbol} +
 heavy
 
-{weather} BC
+{weathersymbol} BC
 patches
 
-{weather} FZ
+{weathersymbol} FZ
 freezing
 
-{weather} SH
+{weathersymbol} SH
 showers
 
-{weather} TS
+{weathersymbol} TS
 thunderstorms
 
-{weather} PR
+{weathersymbol} PR
 partial
 
-{weather} IC
+{weathersymbol} IC
 ice crystals
 
-{weather} R (visual)
+{weathersymbol} R (visual)
 runway visual range
 
-{weather} A
+{weathersymbol} A
 altimeter
 
-{weather} M
+{weathersymbol} M
 less than
 
-{weather} P
+{weathersymbol} P
 greater than
 
-{weather} V
+{weathersymbol} V
 variable
 
-{weather} SKT
+{weathersymbol} SKT
 sky condition scattered
 
-{weather} OVC
+{weathersymbol} OVC
 overcast
 
-{weather} TCU
+{weathersymbol} TCU
 towering cumulus
 
-{weather} CB
+{weathersymbol} CB
 cumulonimbus
 
-{weather} VV
+{weathersymbol} VV
 vertical visibility
 
-{weather} VV ///
+{weathersymbol} VV ///
 vertical visibility undetermined
 
-{weather} AUTO
+{weathersymbol} AUTO
 automatic weather source
 
-{weather} G
+{weathersymbol} G
 gusts
 
-{weather} KT
+{weathersymbol} KT
 knots
 
-{weather} VRB
+{weathersymbol} VRB
 variable
 
-{weather} VC
+{weathersymbol} VC
 vicinity
 
-{weather} PO
+{weathersymbol} PO
 well-developed dust/sand swirls
 
-{weather} SQ
+{weathersymbol} SQ
 squals
 
-{weather} FC
+{weathersymbol} FC
 funnel cloud
 
-{weather} +FC
+{weathersymbol} +FC
 well-developed funnel cloud, tornado or waterspout
 
-{weather} SS
+{weathersymbol} SS
 sandstorm
 
-{weather} DS
+{weathersymbol} DS
 duststorm
 
-{weather} PRESFR
+{weathersymbol} PRESFR
 pressure falling rapidly
 
-{weather} UP
+{weathersymbol} UP
 unknown precipitation
 
-{weather} PL
+{weathersymbol} PL
 ice pellets
 
-{weather} PE
+{weathersymbol} PE
 ice pellets
 
-{weather} PR
+{weathersymbol} PR
 partial
 
-{weather} BL
+{weathersymbol} BL
 blowing
 
-{weather} DR
+{weathersymbol} DR
 low drifting
 
-{weather} MI
+{weathersymbol} MI
 shallow
 
-{weather} ABV
+{weathersymbol} ABV
 above
 
-{weather} AGL
+{weathersymbol} AGL
 above ground level
 
-{weather} AMSL
+{weathersymbol} AMSL
 above MSL
 
-{weather} AT
+{weathersymbol} AT
 at
 
-{weather} BLW
+{weathersymbol} BLW
 below
 
-{weather} BTN
+{weathersymbol} BTN
 between
 
-{weather} CLD
+{weathersymbol} CLD
 cloud
 
-{weather} DEG
+{weathersymbol} DEG
 degree
 
-{weather} EXC
+{weathersymbol} EXC
 except
 
-{weather} FIR
+{weathersymbol} FIR
 flight information region
 
-{weather} FRQ
+{weathersymbol} FRQ
 frequent
 
-{weather} FZLVL
+{weathersymbol} FZLVL
 freezing level
 
-{weather} ICE
+{weathersymbol} ICE
 icing
 
-{weather} INTSF
+{weathersymbol} INTSF
 intensifying
 
-{weather} ISOL
+{weathersymbol} ISOL
 isolated
 
-{weather} LAN
+{weathersymbol} LAN
 inland
 
-{weather} NC
+{weathersymbol} NC
 no change
 
-{weather} NIL
+{weathersymbol} NIL
 not existent
 
-{weather} MNM
+{weathersymbol} MNM
 minimum
 
-{weather} MOD
+{weathersymbol} MOD
 moderate
 
-{weather} MOV
+{weathersymbol} MOV
 moving
 
-{weather} MS
+{weathersymbol} MS
 minus
 
-{weather} MSL
+{weathersymbol} MSL
 mean sea level
 
-{weather} MT OBSC
+{weathersymbol} MT OBSC
 mountain obscuration
 
-{weather} MTW
+{weathersymbol} MTW
 mountain waves
 
-{weather} OCNL
+{weathersymbol} OCNL
 occasional
 
-{weather} PO
+{weathersymbol} PO
 dust/sand whirls
 
-{weather} PS
+{weathersymbol} PS
 plus
 
-{weather} PSYS
+{weathersymbol} PSYS
 pressure system
 
-{weather} SECN
+{weathersymbol} SECN
 section
 
-{weather} SFC
+{weathersymbol} SFC
 surface
 
-{weather} SIG
+{weathersymbol} SIG
 significant
 
-{weather} WX
+{weathersymbol} WX
 weather
 
-{weather} STNR
+{weathersymbol} STNR
 stationary
 
-{weather} T
+{weathersymbol} T
 turbulence
 
-{weather} TOP
+{weathersymbol} TOP
 tops
 
-{weather} TURB
+{weathersymbol} TURB
 turbulence
 
-{weather} VIS
+{weathersymbol} VIS
 visability
 
-{weather} WKN
+{weathersymbol} WKN
 weakening
 
-{weather} WSPD
+{weathersymbol} WSPD
 wind speed
 
-{weather} WXNIL
+{weathersymbol} WXNIL
 no significant weather
 
-{weather} R (weather-related)
+{weathersymbol} R (weather-related)
 rain
 
-{weather} RW
+{weathersymbol} RW
 rain shower
 
-{weather} S
+{weathersymbol} S
 snow
 
-{weather} SW
+{weathersymbol} SW
 snow shower
 
-{weather} WS
+{weathersymbol} WS
 severe weather watch - thunderstorm
 
-{weather} WT
+{weathersymbol} WT
 severe weather watch - tornado
 
-{weather} NA
+{weathersymbol} NA
 not available
 
-{weather} NE
+{weathersymbol} NE
 no echo
 
-{weather} OM
+{weathersymbol} OM
 out for maintenance
 
-{weather} LM
+{weathersymbol} LM
 little movement
 
-{weather} CIG
+{weathersymbol} CIG
 ceiling
 
-{weather} A02
+{weathersymbol} A02
 with precipitation sensor
 
-{weather} PNO
+{weathersymbol} PNO
 precipitation sensor not working
 
-{weather} PK WND
+{weathersymbol} PK WND
 peak wind
 
-{weather} $ (in METAR)
+{weathersymbol} $ (in METAR)
 station has put in a call for maintenance
 
-{weather} T01500078 (in METAR)
+{weathersymbol} T01500078 (in METAR)
 temperature 15.0C, dew point 7.8C
 
-{weather} 6////
+{weathersymbol} 6////
 no rainfall in past 6 hours
 
-{weather} 7////
+{weathersymbol} 7////
 no rainfall in past 24 hours
 
 {weather} 9900 winds aloft
