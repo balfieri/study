@@ -5351,3 +5351,9 @@ close heat, open windows and overhead vents, land as soon as possible; carry CO 
 
 {pilot} if you get CO in your system, you can get it out quickly (yes/no)
 no
+
+{perf} what causes induced drag
+horizontal component of the moment produced by the wing’s production of lift is induced drag, and is highest when the plane is producing the most lift (or when the pressure differential and vortices are at their greatest) i.e. slow, clean, and heavy 
+
+{perf} what induced drag produces
+wingtip vortices
