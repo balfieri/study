@@ -5357,3 +5357,9 @@ horizontal component of the moment produced by the wing’s production of lift i
 
 {perf} what induced drag produces
 wingtip vortices
+
+{sop} places in turn-about-a-point where bank is the steepest and why
+downwind in order to maintain constant turning radius
+
+{sop} places in rectangular course where turns are steepest, shallowest
+downwind-to-base, upwind-to-crosswind (other two points are same bank)
