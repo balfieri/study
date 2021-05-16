@@ -5363,3 +5363,9 @@ downwind in order to maintain constant turning radius
 
 {sop} places in rectangular course where turns are steepest, shallowest
 downwind-to-base, upwind-to-crosswind (other two points are same bank)
+
+{sop} what to remember during engine-out emergency
+speed, field, restart, declare, execute checklist
+
+{sop} what to remember during engine fire
+power idle, 30-45 degree bank, top of green, then follow engine-out emergency
