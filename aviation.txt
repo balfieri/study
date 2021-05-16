@@ -5370,5 +5370,5 @@ speed, field, restart, declare, execute checklist
 {sop} what to remember during engine fire
 power idle, 30-45 degree bank, top of green, then follow engine-out emergency
 
-{weather} MVFR
+{chart} MVFR
 marginal visual flight rules, 3-5SM or 1000-3000 ft
