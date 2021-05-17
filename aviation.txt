@@ -3510,6 +3510,15 @@ never
 {sys} primary radar return vs. secondary radar return
 soley due to energy reflected from an aircraft's metallic structure, stronger return due to transponder replying to a ground interrogation signal and includes the transponder code
 
+{sys} CDI
+course deviation indicator, an instrument that shows your deviation from a VOR selected by the OBS
+
+{sys} OBS
+omnibearing selector
+
+{sys} HSI
+horizontal situation indictor, an instrument (e.g., G5) that combines a CDI and a heading indicator, does not suffer from confusion caused by reverse sensing
+
 {sys} VOR zone of confusion
 area immediately surrounding the VOR where the CDI becomes momentarily erratic
 
