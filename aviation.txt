@@ -5517,11 +5517,8 @@ fuel flow interruption when the tank in use is not full
 {sys} 172SP cruise RPM min, max
 2100, 2600
 
-{sys} 172SP cruise lean
-50 rich of peak
+{sys} 172SP run-up, max-drop RPM
+1800, 150
 
-{sys} 172SP run-up RPM
-1800
-
-{sys} PA-28-161 run-up RPM
-2000
+{sys} PA-28-161 run-up, max-drop RPM
+2000, 175
