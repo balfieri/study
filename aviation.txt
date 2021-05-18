@@ -2115,6 +2115,12 @@ power to 1800-2000 RPM for two minutes, return to 1200 RPM, lean for idle, apply
 {sys} 172SP can lean using EGT method only when operating no more than what percent power
 75
 
+{sys} 172SP normal cruise power range (percentages)
+45%, 75%
+
+{sys} 172SP recommended cruise rich of peak EGT (when operating <= 75% power)
+50F 
+
 {sys} 172SP oil system
 oil drawn from 8-quart sump through oil suction strainer screen into engine-driven oil pump, then pumped to bypass valve if cold
 
