@@ -4071,28 +4071,28 @@ rain
 {weather} mixed ice
 formed when supercooled water droplets are of various sizes or are intermingled with snow or ice particles; after initial impact, the remaining portion freezes rapidly and forms a mushroom shape on the leading edges of a wing; ice particles are imbedded in clear ice and form a hard and rough-edged mass
 
-{weather} BLSN
+{weathersym} BLSN
 blowing snow
 
-{weather} 290V360
+{weathersym} 290V360
 wind direction variable between 290 and 360
 
-{weather} TCU
+{weathersym} TCU
 towering cumulus
 
-{weather} +TSRA SQ
+{weathersym} +TSRA SQ
 thunderstorms with heavy rain and squalls
 
-{weather} TS OVD MOV E
+{weathersym} TS OVD MOV E
 thunderstorm overhead moving east
 
-{weather} TBS24
+{weathersym} TBS24
 thunderstorm began at 24 min past the hour
 
-{weather} M20/
+{weathersym} M20/
 temperature -20C, dew point not available
 
-{weather} BYD
+{weathersym} BYD
 beyond
 
 {weather} ground visibility miles (statute/nautical)
@@ -4104,40 +4104,40 @@ lowest cloud level that is BKN, OVC, or obscuration, vertical visibility (VV)
 {weather} international SIGMET is issued for
 12 hours of volcanic ash events, 6 hours of hurricanes and tropical storms, 4 hours for other events
 
-{weather} VCTS
+{weathersym} VCTS
 thunderstorms in the vacinity
 
-{weather} MIFG
+{weathersym} MIFG
 shallow fog
 
-{weather} OCNL LTGICCG NE
+{weathersym} OCNL LTGICCG NE
 occasional lightning in cloud, cloud-to-ground northwest
 
-{weather} PRESRR
+{weathersym} PRESRR
 pressure rising rapidly
 
-{weather} WS020
+{weathersym} WS020
 wind shear 2000 ft
 
 {weather} request outlook briefing when flight more than (hours away)
 6
 
-{weather} DMSHG
+{weathersym} DMSHG
 diminishing
 
-{weather} CIG 002V006
+{weathersym} CIG 002V006
 ceiling variable 200 to 600 ft
 
-{weather} PROB30 1200/1204
+{weathersym} PROB30 1200/1204
 30% probability from 12th day of month at 0000Z through 12th at 0400Z
 
-{weather} VCSH
+{weathersym} VCSH
 showers in the vacinity
 
-{weather} 00000KT
+{weathersym} 00000KT
 wind calm
 
-{weather} TSRA in TAF
+{weathersym} TSRA (in TAF)
 thunderstorms of rain
 
 {weather} turbulence vs. chop
