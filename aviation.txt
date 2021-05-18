@@ -384,6 +384,12 @@ enroute best angle-of-climb speed, 62, 56
 {sys} Vy (meaning, 172SP)
 takeoff best rate-of-climb speed, 74
 
+{sys} 172SP normal initial climb (KIAS)
+80
+
+{sys} 172SP cruise climb (KIAS)
+90
+
 {sys} Vfe (meaning, 172SP 10-deg, 172SP > 10-deg)
 maxiumum flap-extended speed, 110, 40-85
 
@@ -5381,3 +5387,136 @@ power idle, 30-45 degree bank, top of green, then follow engine-out emergency
 
 {chart} MVFR
 marginal visual flight rules, 3-5SM or 1000-3000 ft
+
+{sys} PA-28-161 engine
+Lycoming O-320
+
+{sys} PA-28-161 rated engine horsepower
+160
+
+{sys} PA-28-161 engine oil min,max allowed
+6, 8
+
+{sys} PA-28-161 engine oil kind
+aviation grade ashless dispersant (AD) of appropriate viscosity
+
+{sys} PA-28-161 fuel type
+100LL or 100/130
+
+{sys} PA-28-161 usuable fuel (top, tabs)
+48, 34
+
+{sys} PA-28-161 75% leaned cruise GPH
+8.5
+
+{sys} PA-28-161 max demonstrated crosswind component in kts
+17
+
+{sys} PA-28-161 max gross takeoff weight in lbs
+2440
+
+{sys} PA-28-161 Vfe (KIAS)
+103
+
+{sys} PA-28-161 Vy (KIAS)
+79
+
+{sys} PA-28-161 Vx at max gross weight (0-deg, 25-deg KIAS)
+63, 57
+
+{sys} PA-28-161 Va at 2000 lbs (approx KIAS)
+100
+
+{sys} PA-28-161 Vne (KIAS)
+160
+
+{sys} PA-28-161 Vno (KIAS)
+126
+
+{sys} PA-28-161 short-field flap takeoff setting
+25 deg (2nd notch)
+
+{sys} PA-28-161 Vs1 (KIAS)
+50
+
+{sys} PA-28-161 Vg (KIAS)
+73
+
+{sys} PA-28-161 electrical system
+12V, 14V 60A alternator
+
+{sys} ammeter indicates
+total ampere draw of all electrical equipment including the charging rate of the battery
+
+{sys} PA-28-161 if you observe rapid altimeter fluctuations and erratic oscillations in the vertical speed indicator
+suspect water in the static line and attempt to drain the water through the drain valves located on the lower left fuselage wall (interior)
+
+{sys} PA-28-161 recommends against using the strobe lights when
+taxiing in the vicinity of other aircraft
+
+{sys} PA-28-161 flaps must be placed in the up or retracted position
+before they will lock or support weight
+
+{sys} PA-28-161 flow of heat between front and rear seats can be regulated by
+the heat diversion controls located on either side of the console atop the heat ducts
+
+{sys} PA-28-161 gyroscopic instruments may be damaged by
+vacuum levels in excess of 6" of mercury
+
+{sys} PA-28-161 if the primer is not locked
+excessive fuel may flow to one or more cylinders, resulting in rough running at low speeds
+
+{sys} PA-28-161 if over priming has flooded the engine
+throttle full, mixture idle cutoff, fuel pump off, crank starter, then once it fires advance mixture and retard throttle
+
+{sys} PA-28-161 restart procedure when engine is hot
+throttle 1/2", fuel pump on, mixture rich, crank, move throttle to desired setting
+
+{sys} PA-28-161 if you discover pink fuel in the tanks
+do not fly until the fuel has been drained and replaced
+
+{sys} PA-28-161 prolongued slips and skids may cause
+fuel flow interruption when the tank in use is not full
+
+{sys} PA-28-161 Vs0 (KIAS)
+44
+
+{sys} PA-28-161 Vr (0-deg, 25-deg KIAS)
+55, 52
+
+{sys} PA-28-161 enroute climb speed (KIAS)
+87
+
+{sys} PA-28-161 maximum speed at which to close the door if it opens (KIAS)
+89
+
+{sys} PA-28-161 white arc min, max (KIAS)
+44, 103
+
+{sys} PA-28-161 green arc min, max (KIAS)
+50, 126
+
+{sys} PA-28-161 yellow arc min, max (KIAS)
+126, 160
+
+{sys} PA-28-161 short-field takeoff obstacle clearance Vr, Vx, Vy (KIAS)
+52, 52 (POH says 44-57), 79
+
+{sys} PA-28-161 normal landing downwind, 10-deg, 25-deg, 40-deg (KIAS)
+80-90, 75, 70, 63
+
+{sys} PA-28-161 cruise RPM min, max 
+2300, 2500
+
+{sys} 172SP cruise RPM min, max
+2100, 2600
+
+{sys} 172SP cruise lean
+50 rich of peak
+
+{sys} 172SP run-up RPM
+1800
+
+{sys} PA-28-161 run-up RPM
+2000
+
