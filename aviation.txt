@@ -5519,4 +5519,3 @@ fuel flow interruption when the tank in use is not full
 
 {sys} PA-28-161 run-up RPM
 2000
-
