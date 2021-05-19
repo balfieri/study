@@ -5522,3 +5522,9 @@ fuel flow interruption when the tank in use is not full
 
 {sys} PA-28-161 run-up, max-drop RPM
 2000, 175
+
+{sop} recovery from unusual nose-up attitude
+throttle full, nose down, level wings using coordinated aileron and rudder, return to original altitude and heading
+
+{sop} recovery from unusual nose-down attitude
+throttle idle, level wings using coordinated ailoron and rudder, nose up, return to original altitude and heading
