@@ -5528,3 +5528,18 @@ throttle full, nose down, level wings using coordinated aileron and rudder, retu
 
 {sop} recovery from unusual nose-down attitude
 throttle idle, level wings using coordinated ailoron and rudder, nose up, return to original altitude and heading
+
+{sop} how much fuel to carry if flying near a large weather system
+2x
+
+{perf} GPS altitude
+height above sea level, not true altitude
+
+{sys} anti-collision lights
+beacon and strobes - must be working if present
+
+{chart} class G visibility and cloud clearance requirements
+<= 1200 ft AGL (regardless of MSL): 1 SM and clear of clouds; > 1200 ft AGL and < 10000 ft MSL: 1-152; > 1200 ft AGL and >= 10000 ft MSL: 5-1-1-1SM
+
+{sop} purpose of compass rose
+to see how far off your compass is
