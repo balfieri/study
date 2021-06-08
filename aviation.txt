@@ -5572,7 +5572,7 @@ most can plot the course on a chart, calculate a heading and time and then won't
 not establishing best glide airspeed; not selecting a suitable landing area; many applicants fail to utilize pitch trim to assist in maintaining this speed and reduce their workload; when choosing a suitable landing site, a common error is disregarding hazards such as power lines or a tree line in the way; every effort should be made to land into the wind; always be aware of the surface winds below you; by landing into the wind, our groundspeed will be greatly reduced increasing our chances for a successful outcome; most people end up way too high on the final approach; they also try to impress me by reading the checklist; I would rather see you do the things needed, worry about a checklist when you have time. remember you are single-pilot; don't forget we will go-around at no less than 500 feet AGL if there isn't a runway in front of us.
 
 {sop} common checkride mistakes with short-field landings 
-you calculated the distance over the obstacle; I usually use the end of the runway for the placement of the 50ft obstacle, that usually keeps us on the VASI; tou are expected to land in the distance that you calculated; you will need to know how to use the brakes properly; if you cross the threshold below 50ft after I said there is an obstacle at the end, you just demonstrated you can't judge height, most VASI's are adjusted for 50ft; many applicants begin with a close in turn to base resulting in being high on final or a shorter final segment allowing little time to get the aircraft configured and stable; the most common outcome that is unsatisfactory is overshooting the intended touchdown spot; this overshoot is usually a result of excessive speed or trying to make a soft landing with a last second flare causing the aircraft to float beyond the allowed distance (within 200’); volatile approach which results in oscillation between level-off and descent; excess deceleration on rollout which can lock up the wheels; planting the nosewheel down hard, rather than controlling its descent
+you calculated the distance over the obstacle; I usually use the end of the runway for the placement of the 50ft obstacle, that usually keeps us on the VASI; tou are expected to land in the distance that you calculated; you will need to know how to use the brakes properly; if you cross the threshold below 50ft after I said there is an obstacle at the end, you just demonstrated you can't judge height, most VASI's are adjusted for 50ft; many applicants begin with a close in turn to base resulting in being high on final or a shorter final segment allowing little time to get the aircraft configured and stable; the most common outcome that is unsatisfactory is overshooting the intended touchdown spot; this overshoot is usually a result of excessive speed or trying to make a soft landing with a last second flare causing the aircraft to float beyond the allowed distance (within 200’); volatile approach which results in oscillation between level-off and descent; excess deceleration on rollout which can lock up the wheels; planting the nosewheel down hard, rather than controlling its descent; forgetting to apply brakes after all 3 wheels touch down
 
 {sop} common checkride mistake with being a PIC
 above all the applicant must NEVER decide to do the flight portion in conditions or situations that is beyond his personal limits
@@ -5591,3 +5591,15 @@ after completing the required air work (or maneuvers), the applicant has to retu
 
 {reg} private pilot minimum practical experience in hours
 dual: 20 hours (3 night with 100 XC and 10 full stops, 3 XC day, 3 reference maneuvers, 3 instrument, 3 practice within 2 months of checkride); solo: 10 hours (5 total XC > 50nm, one 150 nm with full stop 3 points, 3 controlled takeoffs/landings); total: 40
+
+{sop} ways to reduce altitude during emergency landings
+full flaps, S-turns, slips
+
+{sop} common mistakes during power-on stall recovery
+too much right rudder going into the stall, using ailerons, not letting nose come down before applying opposite rudder, too much opposite rudder 
+
+{sop} common mistakes trying to navigate to a VOR
+not toggling radio freq selector, not listening on nav1 (switch not on), not having nav volume up, not verifying Morse code audibly or using radio nav database confirmation, not centering the needle
+
+{sop} common mistakes during soft-field landings
+too steep of a descent; not applying a little power toward the end to stay in ground effect longer; not holding the nose up after touch-down; applying any brakes 
