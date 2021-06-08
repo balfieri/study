@@ -711,7 +711,7 @@ surface heats warm air, upslope wind, cold front
 {chart} AGL or MSL (METAR, TAF, FA, PIREP)
 AGL, AGL, MSL, MSL
 
-{sop} minimum safe altitude is one that
+{reg} minimum safe altitude is one that
 allows for an emergency landing without undue hazard to persons or property on the ground
 
 {reg} when can night landings be logged (same as FAA definition of nighttime)
@@ -5603,3 +5603,6 @@ not toggling radio freq selector, not listening on nav1 (switch not on), not hav
 
 {sop} common mistakes during soft-field landings
 too steep of a descent; not applying a little power toward the end to stay in ground effect longer; not holding the nose up after touch-down; applying any brakes 
+
+{sys} 172SP vacuum system
+redundant mechanical pumps (no electrical backup pump)
