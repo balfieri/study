@@ -5588,3 +5588,6 @@ relax back pressure until the stall horn is gone or there is no buffeting and on
 
 {sop} common checkride mistake with traffic pattern procedures
 after completing the required air work (or maneuvers), the applicant has to return to the airport of departure or in some cases a nearby airport to complete the takeoff and landings; many times, the pilot loses situational awareness while returning, and most commonly enters the pattern for the wrong runway
+
+{reg} private pilot minimum practical experience in hours
+dual: 20 hours (3 night with 100 XC and 10 full stops, 3 XC day, 3 reference maneuvers, 3 instrument, 3 practice within 2 months of checkride); solo: 10 hours (5 total XC > 50nm, one 150 nm with full stop 3 points, 3 controlled takeoffs/landings); total: 40
