@@ -5606,3 +5606,33 @@ too steep of a descent; not applying a little power toward the end to stay in gr
 
 {sys} 172SP vacuum system
 redundant mechanical pumps (no electrical backup pump)
+
+[sop] call to Charlotte Clearance delivery: C172 N12345 wants to go to Atlanta at 5500 ft, has ATIS info J
+Charlotte Clearance, Skyhawk N12345, VFR to Atlanta, request 4500, with Juliet
+
+[sop] call to Charlotte Ground: C172 N12345 at D-3, has ATIS info J
+Charlotte Ground, Skyhawk N12345, at Delta-3, ready for taxi with Juliet
+
+[sop] call to Charlotte Tower: C172 N12345 ready for takeoff on runway 5
+Charlotte Tower, Skyhawk N12345, holding short runway 5, ready for takeoff
+
+[sop] call to Charlotte Departure: C172 N12345, at 1500 ft and climbing to 5500
+Charlotte Departure, Skyhawk N12345, 1500 climbing 5500
+
+[sop] call to Atlanta Center: C172 N12345 at 5500 ft
+Atlanta Center, Skyhawk N12345, at 5500
+
+[sop] call to Atlanta Approach: C172 N12345, at 1500 ft, has ATIS info W
+Atlanta Approach, Skyhawk N12345, at 1500 ft with Whiskey
+
+[sop] call to Raleigh Departure: C172 N12345 just left class G airport Raleigh Exec and 4 mi NW at 2500 ft and trying to get to 4500 ft destined to Charlotte
+Raleigh Departure, Skyhawk N12345, 4 miles NW of Raleigh Exec at 2500 climbing 4500, request VFR flight following to Charlotte
+
+[sop] call to Charlotte Approach: C172 N12345, at 4500 ft, has ATIS info K
+Charlotte Approach, Skyhawk N12345, at 4500 with Kilo
+
+[sop] call to Charlotte Tower: C172 N12345, on right base runway 5, plans to taxi to Wilson Air
+Charlotte Tower, Skyhawk N12345, on right base for runway 5, and will be taxiing to Wilson Air ramp
+
+[sop] call to Charlotte Ground: C172 N12345, just got off runway 5 at F-5, want to go to Wilson Air ramp
+Charlotte Ground, Skyhawk N12345, off runway 5 at Foxtrot-5, taxi to Wilson Air ramp
