@@ -5636,3 +5636,6 @@ Charlotte Tower, Skyhawk N12345, on right base for runway 5, runway in sight, an
 
 {sop} call to Charlotte Ground: C172 N12345, just got off runway 5 at F-5, want to go to Wilson Air ramp
 Charlotte Ground, Skyhawk N12345, off runway 5 at Foxtrot-5, taxi to Wilson Air ramp
+
+{sop} best times to do GUMPS checklist for VFR
+for patterns, entry to downwind and final; for long final, at 1.5nm and 500 ft AGL
