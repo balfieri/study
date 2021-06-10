@@ -1074,13 +1074,13 @@ center
 {chart} kind of course/heading for which hemispheric rules apply
 magnetic course
 
-{pilot} the leans
-illusion that you are flying level when you are actually in a gradual bank
+{pilot} leans illusion
+illusion that you are flying level when you are actually in a gradual bank; occurs when relying on physical sensations rather than instrumentation
 
-{pilot} graveyard spin
-illusion that you are spinning in the opposite direction than reality
+{pilot} graveyard spin illusion
+illusion that you are spinning in the opposite direction than reality; can happen when a pilot recovers from a spin but senses they are in a new spin in the opposite direciton, so re-enters the original spin
 
-{pilot} graveyard spiral
+{pilot} graveyard spiral illusion
 illusion that you are in an opposite bank after correcting a bank when in fact you are flying level
 
 {pilot} somatogravic or head-up illusion
@@ -1098,11 +1098,11 @@ when transitioning from climb to level flight, illusion that you are tumbling ba
 {pilot} elevator illusion
 an illusion that you are climbing after a sudden updraft, or descending after a sudden downdraft
 
-{pilot} autokinesis
+{pilot} autokinesis illusion
 at night, pilot fixates on a light and it seems to be moving
 
-{pilot} false horizon
-at night, pilot inadvertently orients the aircraft with a false horizon
+{pilot} false horizon illusion
+at night, pilot inadvertently orients the aircraft with a false horizon (e.g., sloping clouds, terrain, etc.)
 
 {pilot} linear perspective illusions
 when pilot's sight-picture during landing is different from what he/she is used to
@@ -2355,6 +2355,9 @@ below 200 ft
 {chart} SVFR weather minimums into class B/C/D/E
 1 SM, clear of clouds
 
+{chart} SVFR definitinon of night
+sunset to sunrise
+
 {sys} advantages of fixed-pitch propeller
 easier to learn, easier to maintain, better for shorter-distance flights (e.g., training)
 
@@ -2467,7 +2470,7 @@ flight visibility and cloud clearance requirements
 1000 ft ceiling and 3 mile visibility
 
 {chart} how to obtain SVFR clearances 
-VFR must be requested to the tower and be granted, workload permitting, and less likely in B and C than D and E due to volume of IFR traffic
+VFR must be requested to the tower and be granted, workload permitting, and much less likely in B and C than D and E due to volume of IFR traffic
 
 {chart} examples of SFRAs
 DC, Grand Canyon; see chart legend and part 93, check NOTAMs
@@ -5639,3 +5642,9 @@ Charlotte Ground, Skyhawk N12345, off runway 5 at Foxtrot-5, taxi to Wilson Air 
 
 {sop} best times to do GUMPS checklist for VFR
 for patterns, entry to downwind and final; for long final, at 1.5nm and 500 ft AGL
+
+{chart} only time it makes sense to request SVFR
+when you know the weather is significantly better away from the airport; only consider it when you are flying from or to an area of excellent weather; even then, it's a bad idea
+
+{chart} what to do if you are flying SVFR and visibility drops below 1 mile
+Get an IFR clearance if you are IFR rated in an IFR aircraft, otherwise you must declare an emergency
