@@ -5651,3 +5651,6 @@ get an IFR clearance if you are IFR rated in an IFR aircraft, otherwise you must
 
 {chart} rationale for class E 5-1-1-1SM >= 10000 ft MSL
 give VFR aircraft more time to react to fast planes popping in and out of the clouds
+
+{chart} meaning of mean sea level (MSL)
+average height of oceans around the world
