@@ -5647,4 +5647,7 @@ for patterns, entry to downwind and final; for long final, at 1.5nm and 500 ft A
 when you know the weather is significantly better away from the airport; only consider it when you are flying from or to an area of excellent weather; even then, it's a bad idea
 
 {chart} what to do if you are flying SVFR and visibility drops below 1 mile
-Get an IFR clearance if you are IFR rated in an IFR aircraft, otherwise you must declare an emergency
+get an IFR clearance if you are IFR rated in an IFR aircraft, otherwise you must declare an emergency
+
+{chart} rationale for class E 5-1-1-1SM >= 10000 ft MSL
+give VFR aircraft more time to react to fast planes popping in and out of the clouds
