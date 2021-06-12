@@ -5654,3 +5654,9 @@ give VFR aircraft more time to react to fast planes popping in and out of the cl
 
 {chart} meaning of mean sea level (MSL)
 average height of oceans around the world
+
+{sys} high-altitude aircraft feature
+flies at > 25000 ft MSL
+
+{sop} recommended phraseology for "staying in the pattern" (UNICOM, ATC)
+"remaining in the pattern," "closed traffic"
