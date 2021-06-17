@@ -28,7 +28,7 @@ undershoot from north, overshoot from south
 Illness; Medications; Stress; Alcohol; Fatigue; Emotions/Eating
 
 {pilot,critical} DECIDE
-Detect a chnage needing attention; Estimate the need to counter or react to change; Choose the most desirable outcome for the flight; Identify actions to successfully control the change; Do something to adapt to the change; Evaluate the effect of the action countering the change
+Detect a change needing attention; Estimate the need to counter or react to change; Choose the most desirable outcome for the flight; Identify actions to successfully control the change; Do something to adapt to the change; Evaluate the effect of the action countering the change
 
 {pilot} PPP
 perceive, process, perform
