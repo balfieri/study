@@ -3,8 +3,8 @@
 {sop} PLSTART
 pitch for best glide speed, landing site, seat belt, troubleshoot, approach, radio, turn off
 
-{chart} MCPRAWN
-military operations, controlled firing, prohibited, restricted, alert, warning, national security TFR
+{chart,critical} MCPRAWN
+Military operations areas; Controlled firing; Prohibited; Restricted; Alert areas; Warning areas; National security areas
 
 {chart} MCPRAWN borders on sectional
 magenta hashed lines, none, blue hashed lines, blue hashed lines, magenta hashed lines, blue hashed lines, thick magenta hashed line
@@ -24,11 +24,11 @@ accelerate north, decelerate south
 {sys} UNOS 
 undershoot from north, overshoot from south
 
-{pilot} IMSAFE
-illness, medications, stress, alcohol, fatigue, emotions/eating
+{pilot,critical} IMSAFE
+Illness; Medications; Stress; Alcohol; Fatigue; Emotions/Eating
 
-{pilot} DECIDE
-detect, estimate, choose most desirable outcome, identify actions to effect outcome, do, evaluate
+{pilot,critical} DECIDE
+Detect a chnage needing attention; Estimate the need to counter or react to change; Choose the most desirable outcome for the flight; Identify actions to successfully control the change; Do something to adapt to the change; Evaluate the effect of the action countering the change
 
 {pilot} PPP
 perceive, process, perform
@@ -42,7 +42,7 @@ CARE can be used for the process step of PPP
 {pilot} relationship of TEAM to PPP
 TEAM can be used for the perform step of PPP
 
-{pilot} PAVE
+{pilot,critical} PAVE
 pilot, aircraft, environment, external pressures
 
 {pilot} CARE
@@ -54,20 +54,20 @@ transfer (task to somebody else), eliminate (risk possible), accept (risk), miti
 {reg} private pilot must carry...
 private pilot certificate, government-issued photo id, medical certificate
 
-{reg} ARROW
-airworthiness certificate, registration, radio license, operator's handbook, weight/balance data for plane
+{reg,critical} ARROW
+Airworthiness certificate; Registration; Radio license (when operating outside the U.S.); Operator's handbook; Weight and balance (use the version updated by the mechanic)
 
-{reg} AV1ATES
-annual and ADs, VOR (30 days), 100-hour (for hire), altimeter (24 months), transponder (24 months), ELT (12 months), static system (24 months)
+{reg,critical} AV1ATES
+Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (24 months, IFR only); Transponder (24 months); ELT (12 months or 1/2 Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
 
-{reg} ATOMATO FLAMES
-altimeter, tachometer, oil pressure, manifold pressure (constant-speed propeller), airspeed indicator, temperature gauge (liquid-cooled engine), oil temperature gauge, fuel gauge, landing gear position indicator, anticollision lights (after March 11, 1996), magnetic compass, ELT, seatbelts
+{reg,critical} ATOMATO FLAMES
+Altimeter; Tachometer; Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT; Safety Belts
 
-{reg} FLAPS
-fuses, landing lights (for hire), anti-collision lights, position lights (nav lights), source of electricity
+{reg,critical} FLAPS
+Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only if aircraft is for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
 
-{sop} SAFETY
-seatbelts, air and heat vents, fire extinguisher, exit doors and windows, talking (sterile cockpit) and traffic scanning, your questions
+{sop,critical} SAFETY
+Seatbelts; Air and heat vents; Fire extinguisher; Emergency procedure; Traffic scanning and talking (sterile cockpit); Your questions
 
 {reg} when you do NOT need an ELT
 when engaged with training within 50 nm of origin, when engaged in design and testing, when engaged in manufactor/preparation/delivery, when engaged in agricultural operations
@@ -96,8 +96,8 @@ mandatory instruction, runway distance remaining, location, information, destina
 {sop} PARE spin recovery
 power to idle, ailerons to neutral, rudder full opposite, elevator pitch down, and then neutralize main controls
 
-{sop} CCCCC actions if you cannot establish your current position
-confess, climb, circle, conserve, communicate
+{sop,critical} CCCCC actions if you cannot establish your current position
+Confess; Climb; Circle; Conserve; Communicate
 
 {pilot} runway incursions
 incorrect entry or presence on runway protected area, incorrect runway crossing, incorrect spacing between aircraft, takeoff or landing without ATC clearance
@@ -285,8 +285,8 @@ non-government communication facility
 {chart} RCO
 remote communications outlet
 
-{pilot} NWKRAFT
-NOTAMs, weather, known ATC delays, runway lengths, alternate airports, fuel requirements, takeoff/landing distance data
+{pilot,critical} NWKRAFT
+NOTAMs; Weather; Known ATC delays; Runway lengths; Alternate airports; Fuel requirements; Takeoff/landing distance data
 
 {reg} reserve fuel requirements in minutes past destination (day, night)
 30, 45
@@ -5660,3 +5660,15 @@ flies at > 25000 ft MSL
 
 {sop} recommended phraseology for "staying in the pattern" (UNICOM, ATC)
 "remaining in the pattern," "closed traffic"
+
+{reg} In the event of failure of any light of the anticollision light system...
+operations with the aircraft may be continued to a stop where repairs or replacement can be made.
+
+{chart,critical} visibility and cloud clearance summary
+default: 3-152; A: IFR only; B: 3-CC; E,G >= 10000 MSL: 3-1111SM; G > 1200 AGL, < 10000 MSL, day: 1-152; G <= 1200 AGL, day: 1-CC
+
+{chart,critical} where ADS-B (and Mode C transponder) is required
+class A, B, B within Mode C veil SFC to 10000 MSL, C, above C to 10000 MSL, or E above 10000 feet
+
+{pilot,critical} IMAIR hazardous attitudes and antedotes
+Involunerability - it could happen to me; Macho - taking chances is foolish; Antiauthority - follow the rules, they are usually right; Impulsivity - think first, not so fast; Resignation - I can make a difference, I am not helpless

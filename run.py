@@ -68,12 +68,12 @@ while True:
     line_num += 1
 
     if re.match( r'^\{', question ):
-        m = re.match( r'^\{(\w+)\}\s+(.*)', question )
+        m = re.match( r'^\{(\S+)\}\s+(.*)', question )
         if not m: die( f'ill-formed categories on line {line_num}: {question}' )
         cats_s = m.group( 1 )
         question = m.group( 2 )
         if len(categories) > 0:
-            cats = cats_s.split( ' ' )
+            cats = cats_s.split( ',' )
             found_one = False
             for category in categories:
                 for cat in cats:
@@ -133,7 +133,13 @@ while True:
             if skip_prompts:
                 for i in range(2):
                     s = q if i == 0 else a
-                    print( s + (':' if i == 0 else '\n') )
+                    if i == 0:
+                        print( s + ':' )
+                    else:
+                        ss = s.split( '; ' )
+                        for s in ss:
+                            print( s )
+                        print()
                     pause_sec = skip_pause_sec if len(s) <= 40 else int(skip_pause_sec * len(s) / 40)   # more time for long strings
                     if skip_pause_sec > 0: time.sleep( pause_sec )
             else:
