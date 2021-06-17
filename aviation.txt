@@ -5671,4 +5671,4 @@ default: 3-152; A: IFR only; B: 3-CC; E,G >= 10000 MSL: 3-1111SM; G > 1200 AGL, 
 class A, B, B within Mode C veil SFC to 10000 MSL, C, above C to 10000 MSL, or E above 10000 feet
 
 {pilot,critical} IMAIR hazardous attitudes and antedotes
-Involunerability - it could happen to me; Macho - taking chances is foolish; Antiauthority - follow the rules, they are usually right; Impulsivity - think first, not so fast; Resignation - I can make a difference, I am not helpless
+Invulnerability - it could happen to me; Macho - taking chances is foolish; Antiauthority - follow the rules, they are usually right; Impulsivity - think first, not so fast; Resignation - I can make a difference, I am not helpless
