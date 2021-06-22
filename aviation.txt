@@ -5672,3 +5672,12 @@ class A, B, B within Mode C veil SFC to 10000 MSL, C, above C to 10000 MSL, or E
 
 {pilot,critical} IMAIR hazardous attitudes and antedotes
 Invulnerability - it could happen to me; Macho - taking chances is foolish; Antiauthority - follow the rules, they are usually right; Impulsivity - think first, not so fast; Resignation - I can make a difference, I am not helpless
+
+{weather} dew point increases with
+higher barometric pressure, higher relative humidity
+
+{weather} approximation for dew point given observed temperature T (Celsius) and relative humidity RH 
+Td = T - (100-RH)/5 = T-20 + RH/5
+
+{weather} relative humidity
+(actual vapor density) / (saturation vapor density) * 100%
