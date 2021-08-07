@@ -4,13 +4,10 @@
 pitch for best glide speed, landing site, seat belt, troubleshoot, approach, radio, turn off
 
 {chart,critical} MCPRAWN
-Military operations areas; Controlled firing; Prohibited; Restricted; Alert areas; Warning areas; National security areas
-
-{chart} MCPRAWN borders on sectional
-magenta hashed lines, none, blue hashed lines, blue hashed lines, magenta hashed lines, blue hashed lines, thick magenta hashed line
+Military operations areas - magenta hashed line; Controlled firing - not depicted; Prohibited - cyan hashed line; Restricted - cyan hashed line; Alert - magenta hashed line; Warning areas - magenta hashed line; National security areas - thick magenta hashed line
 
 {chart} ADIZ border on sectional
-magenta line and dots
+magenta line with dots
 
 {chart} Mode C veil on sectional
 magenta line
@@ -5681,3 +5678,66 @@ Td = T - (100-RH)/5 = T-20 + RH/5
 
 {weather} relative humidity
 (actual vapor density) / (saturation vapor density) * 100%
+
+{chart} magenta circle with F 
+ultralight flight park
+
+{chart} crosshatch over frequency 
+shutdown status
+
+{chart} solid cyan area within class D 
+exclusion area < 1500’ MSL
+
+{chart} cyan jagged edge 
+high energy radiation area
+
+{chart} small obstruction height
+> 200’ && < 1000’ AGL
+
+{chart} large obstruction height
+>= 1000’ AGL
+
+{chart} single vs. double railroad tracks
+note the difference
+
+{chart} number in parens for obstruction 
+height of it AGL
+
+{weather} warm air
+filled with highly-energized water molecules, often contains more water molecules than cooler air, which is filled with water molecules that more easily condense and become water
+
+{chart} Class E transition areas 
+extend upward from either 700 feet AGL (shown as magenta vignette on sectional charts) or 1,200 feet AGL (cyan vignette) and are designated for airports with an approved instrument procedure
+
+{chart} upper Class E airspace 
+from 14,500 feet MSL to, but not including, 18,000 feet MSL, excluding the airspace below 1,500 feet above the surface of the earth unless specifically designated lower (for example, in mountainous terrain higher than 13,000 feet MSL); begins again at 60,000' MSL and continues up to unlimited
+
+{chart} Class E requires Mode C transponder over Gulf of Mexico
+>= 3000 MSL out to 12nm from shore
+
+{chart} Class F airspace 
+not used in the United States; in Canada, equivalent of U.S. special use airspace including restricted and alert areas, while ICAO defines it as a "hybrid" of Class E and Class G, in which ATC separation guidance is available but not required for IFR operation
+
+{chart} requirements for communication with class G tower
+pilot must establish communications with the tower beyond 4nm from the airport, up to and including 2,500ft AGL
+
+{perf} true airspeed 
+the airspeed of an aircraft relative to undisturbed air at standard pressure and temperature
+
+{sop,critical} GIFT post-takeoff checklist
+Gear Up; Indicated airspeed; Flaps Up; Transponder on, Throttles set for climb
+
+{sop} BUM-FFF-ICHH pre-landing checklist
+Brakes – parking brakes should be off, and toes clear of the toe brakes; Undercarriage – should be down (we’d have a big problem if it wasn’t in our fixed-gear Piper Warrior!); Mixture – should be rich; Flaps – as required. Normally up in downwind.; Fuel pump – on; Fuel – on fullest tank, is the contents sufficient for a go-around?; Instruments – is suction within limits, are engine t’s and p’s green? Is QFE/QNH set? Are the compass and DI aligned?; Carb heat – turn on for at least 10 secs, turn off, check rpm drop within limits Hatches – closed and secured?; Harnesses – on and tight?
+
+{chart} warning area depiction
+magenta dashed line starting at 3nm from shore and extending outward
+
+{chart} FRZ depiction on sectional chart
+cyan line with hash marks along it
+
+{chart} ADIZ depiction on sectional chart
+solid magental line with double dots along it
+
+{chart} group obstacle symbol
+2 dots on bottom
