@@ -5735,3 +5735,6 @@ solid magental line with double dots along it
 
 {chart} group obstacle symbol
 2 dots on bottom
+
+{chart} star right next to runway on sectional chart
+indicates that airport has a rotating beacon
