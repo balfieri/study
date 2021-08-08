@@ -55,7 +55,7 @@ private pilot certificate, government-issued photo id, medical certificate
 Airworthiness certificate; Registration; Radio license (when operating outside the U.S.); Operator's handbook; Weight and balance (use the version updated by the mechanic)
 
 {reg,critical} AV1ATES
-Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (24 months, IFR only); Transponder (24 months); ELT (12 months or 1/2 Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
+Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (sensitive, 24 months, IFR only); Transponder (24 months); ELT (12 months or 1/2 Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
 
 {reg,critical} ATOMATO FLAMES
 Altimeter; Tachometer; Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT; Safety Belts
