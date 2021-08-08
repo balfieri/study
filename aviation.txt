@@ -81,8 +81,8 @@ aeronautical decision making
 {pilot} SRM
 single pilot resource management
 
-{pilot,critical} 5P way of implementing SRM
-Plan (weather, route, publications, ATC reroutes/delays, fuel); Plane (mechanical status, automation status, database currency, backup systems); Pilot (IMSAFE); Passengers (helpfulness, nervousness, queasiness); Programming (AP, GPS, MFD/PFD, preload where possible, continual verification)
+{pilot,critical} 5P way of SRM flight preparation
+Plan (NWKRAFT); Plane (mechanical status, automation status, database currency, backup systems); Pilot (IMSAFE); Passengers (SAFETY, helpfulness, nervousness, queasiness); Programming (AP, GPS, MFD/PFD, preload where possible, continual verification)
 
 {pilot} MRLIDD
 mandatory instruction, runway distance remaining, location, information, destination, direction
