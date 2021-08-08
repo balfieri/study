@@ -4,7 +4,7 @@
 pitch for best glide speed, landing site, seat belt, troubleshoot, approach, radio, turn off
 
 {chart,critical} MCPRAWN
-Military operations areas - magenta hashed line; Controlled firing - not depicted; Prohibited - cyan hashed line; Restricted - cyan hashed line; Alert - magenta hashed line; Warning areas - magenta hashed line; National security areas - thick magenta hashed line
+Military operations areas - magenta hashed line; Controlled firing - not depicted; Prohibited - blue hashed line; Restricted - blue hashed line; Alert - magenta hashed line; Warning areas - magenta hashed line; National security areas - thick magenta hashed line
 
 {chart} ADIZ border on sectional
 magenta line with dots
@@ -1030,7 +1030,7 @@ surface extension, extension, transition, victor airways, offshore, domestic en 
 700, 1200, shaded magenta line
 
 {chart} class E extension (ft AGL start, ft AGL end, border on sectional)
-1200, 13999, shaded cyan
+1200, 13999, shaded blue
 
 {perf} equation for lift
 L = AoA * V^2 * constant
@@ -3177,7 +3177,7 @@ expected MVFR conditions
 {weather} weather prog chart inside dashed orange line denotes
 moderate or greater turbulence
 
-{weather} weather prog chart inside dashed cyan line denotes
+{weather} weather prog chart inside dashed blue line denotes
 altitude of the freezing level
 
 {weather} FD, update interval, valid period
@@ -5679,10 +5679,10 @@ ultralight flight park
 {chart} crosshatch over frequency 
 shutdown status
 
-{chart} solid cyan area within class D 
+{chart} solid blue area within class D 
 exclusion area < 1500’ MSL
 
-{chart} cyan jagged edge 
+{chart} blue jagged edge 
 high energy radiation area
 
 {chart} small obstruction height
@@ -5701,7 +5701,7 @@ height of it AGL
 filled with highly-energized water molecules, often contains more water molecules than cooler air, which is filled with water molecules that more easily condense and become water
 
 {chart} Class E transition areas 
-extend upward from either 700 feet AGL (shown as magenta vignette on sectional charts) or 1,200 feet AGL (cyan vignette) and are designated for airports with an approved instrument procedure
+extend upward from either 700 feet AGL (shown as magenta vignette on sectional charts) or 1,200 feet AGL (blue vignette) and are designated for airports with an approved instrument procedure
 
 {chart} upper Class E airspace 
 from 14,500 feet MSL to, but not including, 18,000 feet MSL, excluding the airspace below 1,500 feet above the surface of the earth unless specifically designated lower (for example, in mountainous terrain higher than 13,000 feet MSL); begins again at 60,000' MSL and continues up to unlimited
@@ -5728,7 +5728,7 @@ Brakes – parking brakes should be off, and toes clear of the toe brakes; Under
 magenta dashed line starting at 3nm from shore and extending outward
 
 {chart} FRZ depiction on sectional chart
-cyan line with hash marks along it
+blue line with hash marks along it
 
 {chart} ADIZ depiction on sectional chart
 solid magental line with double dots along it
