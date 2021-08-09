@@ -172,7 +172,7 @@ cold; warm; occluded - fast-moving cold front that catches up with a slower-movi
 fast-moving cold front that catches up with a slower-moving cold or warm front
 
 {weather,critical} fogs
-radiation - forms on clear nights with little or no wind and only over land; advection - moist warm air moves over colder land or water via a wind; upslope - moist unstable air is cooled as wind pushes it up a slope; steam - when water vapor is added to air that is much colder than the vapor's source; most commonly, when very cold air drifts across relatively warm water; valley - when cold winter sun cannot burn off radition fog in a valley; precipitation - warm rain falls through cool air, evaporation from the rain saturates the cool air and fog forms
+radiation - forms on clear nights with little or no wind and only over land; advection - moist warm air moves over colder land or water via a wind; upslope - moist unstable air is cooled as wind pushes it up a slope; steam - when water vapor is added to air that is much colder than the vapor's source, most commonly, when very cold air drifts across relatively warm water; valley - when cold winter sun cannot burn off radition fog in a valley; precipitation - warm rain falls through cool air, evaporation from the rain saturates the cool air and fog forms
 
 {weather} valley fog
 when cold winter sun cannot burn off radition fog in a valley
