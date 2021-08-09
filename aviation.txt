@@ -171,7 +171,7 @@ cold; warm; occluded - fast-moving cold front that catches up with a slower-movi
 {weather} occluded front
 fast-moving cold front that catches up with a slower-moving cold or warm front
 
-{weather,critical} types of fog
+{weather,critical} fogs
 radiation - forms on clear nights with little or no wind and only over land; advection - moist warm air moves over colder land or water via a wind; upslope - moist unstable air is cooled as wind pushes it up a slope; steam - when water vapor is added to air that is much colder than the vapor's source; most commonly, when very cold air drifts across relatively warm water; valley - when cold winter sun cannot burn off radition fog in a valley; precipitation - warm rain falls through cool air, evaporation from the rain saturates the cool air and fog forms
 
 {weather} valley fog
@@ -462,11 +462,11 @@ vapor lock
 {sys} 172SP location of battery
 left forward portion of firewall, makes it susceptible to exploding if engine is on fire 
 
-{reg} eligibility requirements for private pilot certificate
-17 years old, read/speak/write/understand English, at least 3rd class medical, training, logbook endorsements, 70% on written
+{reg,critical} eligibility requirements for private pilot certificate
+17 years old; read/speak/write/understand English; at least 3rd class medical; training; logbook endorsements; 70% on written
 
-{reg} privileges and limitations, of private pilot certificate
-carry passengers, pay at least pro rata share, business if incidental, non-profit event, search and rescue, demonstrate aircraft to buyer if 200+ hours, tow a glider, test flight in light-sport aircraft
+{reg,crtical} privileges and limitations, of private pilot certificate
+carry passengers but they must pay at least pro rata share; business if incidental; non-profit event; search and rescue; demonstrate aircraft to buyer if 200+ hours; tow a glider with proper endorsements; test flight in light-sport aircraft
 
 {reg} flights you must log in your logbook
 required training, required aeronautical experience
@@ -645,7 +645,7 @@ take off well past the touch-down point
 {chart} explain the hemispheric rule
 applies to VFR 3000 ft AGL to 17999 ft MSL, eastbound odd-thousands + 500, westbound even-thousands + 500
 
-{pilot,critical} types of hypoxia
+{pilot,critical} hypoxias
 hypoxic (lungs); hypemic (blood); stagnant (pooling); hystotoxic (cells)
 
 {pilot} causes of hypoxic hypoxia
@@ -990,17 +990,14 @@ squal line
 {weather} direction of wind for cyclone, anti-cyclone (CCW or CW)
 CCW, CW
 
-{weather,critical} types of SIGMETs
+{weather,critical} SIGMETs
 convective; severe icing; IMC due to dust/sand/volcanic ash
 
 {weather} convective SIGMET
 embedded thunderstorms, a line of thunderstorms, thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3000 square miles, surface winds of 50 knots or more, hail at the surface greater than or equal to 3/4 inches in diameter, tornadoes
 
-{weather,critical} types of AIRMETs
+{weather,critical} AIRMETs
 sierra(S) - extensive mountain obscuration or IFR (less than 1000 ft and/or visibility less than 3 miles affecting over 50% of the area at one time); tango(T) - moderate turbulence or sustained surface winds of 30 kts or more; zulu(Z) - moderate icing
-
-{weather,critical} three types of AIRMETs
-sierra, tango, zulu
 
 {weather} AIRMET sierra (S)
 extensive mountain obscuration or IFR (less than 1000 ft and/or visibility less than 3 miles affecting over 50% of the area at one time)
@@ -1026,7 +1023,7 @@ ice that forms on the surface of the aircraft, since airfoils create lift by dec
 {chart} solid thin black line on sectional chart that is not railroad tracks
 power lines
 
-{chart,critical} SETVODA types of class E airspace
+{chart,critical} SETVODA (class E airspaces)
 surface extension; extension; transition; victor airways; offshore; domestic en route; FL600
 
 {chart} class E surface extension (ft AGL start, ft AGL end, border on sectional)
