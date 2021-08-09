@@ -171,11 +171,14 @@ cold, warm, occluded, stationary
 {weather} occluded front
 fast-moving cold front that catches up with a slower-moving cold or warm front
 
-{weather} types of fog
-radiation, advection, upslope, steam, valley, precipitation
+{weather,critical} types of fog
+radiation - forms on clear nights with little or no wind and only over land; advection - moist warm air moves over colder land or water via a wind; upslope - moist unstable air is cooled as wind pushes it up a slope; steam - when water vapor is added to air that is much colder than the vapor's source; most commonly, when very cold air drifts across relatively warm water; valley - when cold winter sun cannot burn off radition fog in a valley; precipitation - warm rain falls through cool air, evaporation from the rain saturates the cool air and fog forms
 
 {weather} valley fog
 when cold winter sun cannot burn off radition fog in a valley
+
+{weather} steam fog
+when water vapor is added to air that is much colder than the vapor's source; most commonly, when very cold air drifts across relatively warm water
 
 {weather} advection fog
 moist warm air moves over colder land or water via a wind
@@ -639,8 +642,8 @@ take off well past the touch-down point
 {chart} explain the hemispheric rule
 applies to VFR 3000 ft AGL to 17999 ft MSL, eastbound odd-thousands + 500, westbound even-thousands + 500
 
-{pilot} types of hypoxia
-hypoxic (lungs), hypemic (blood), stagnant (pooling), hystotoxic (cells)
+{pilot,critical} types of hypoxia
+hypoxic (lungs); hypemic (blood); stagnant (pooling); hystotoxic (cells)
 
 {pilot} causes of hypoxic hypoxia
 high altitude, lung illness
@@ -984,16 +987,16 @@ squal line
 {weather} direction of wind for cyclone, anti-cyclone (CCW or CW)
 CCW, CW
 
+{weather,critical} types of SIGMETs
+convective; severe icing; IMC due to dust/sand/volcanic ash
+
 {weather} convective SIGMET
 embedded thunderstorms, a line of thunderstorms, thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3000 square miles, surface winds of 50 knots or more, hail at the surface greater than or equal to 3/4 inches in diameter, tornadoes
 
-{weather} types of SIGMETs
-convective, severe icing, IMC due to dust/sand/volcanic ash
+{weather,critical} types of AIRMETs
+sierra(S) - extensive mountain obscuration or IFR (less than 1000 ft and/or visibility less than 3 miles affecting over 50% of the area at one time); tango(T) - moderate turbulence or sustained surface winds of 30 kts or more; zulu(Z) - moderate icing
 
-{weather} types of AIRMETs
-moderate turbulence, moderate icing, sustained surface winds of 30 knots or more, widespread restricted visibility
-
-{weather} three types of AIRMETs
+{weather,critical} three types of AIRMETs
 sierra, tango, zulu
 
 {weather} AIRMET sierra (S)
