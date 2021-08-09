@@ -87,8 +87,8 @@ Plan (NWKRAFT); Plane (mechanical status, automation status, database currency, 
 {pilot} MRLIDD
 mandatory instruction, runway distance remaining, location, information, destination, direction
 
-{sop} PARE spin recovery
-power to idle, ailerons to neutral, rudder full opposite, elevator pitch down, and then neutralize main controls
+{sop,critical} PARE spin recovery
+power to idle; ailerons to neutral; rudder full opposite; elevator pitch down; and then neutralize main controls
 
 {sop,critical} CCCCC actions if you cannot establish your current position
 Confess; Climb; Circle; Conserve; Communicate
@@ -1026,8 +1026,8 @@ ice that forms on the surface of the aircraft, since airfoils create lift by dec
 {chart} solid thin black line on sectional chart that is not railroad tracks
 power lines
 
-{chart} SETVODA types of class E airspace
-surface extension, extension, transition, victor airways, offshore, domestic en route, FL600
+{chart,critical} SETVODA types of class E airspace
+surface extension; extension; transition; victor airways; offshore; domestic en route; FL600
 
 {chart} class E surface extension (ft AGL start, ft AGL end, border on sectional)
 0, 699, dashed magenta line
