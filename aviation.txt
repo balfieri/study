@@ -165,8 +165,8 @@ clear, rime, mixed (both)
 {weather} reasons clear ice more dangeous
 rime only forms on leading edge, clear is on entire wing, harder to notice, more mass
 
-{weather} fronts
-cold, warm, occluded, stationary
+{weather,critical} fronts
+cold; warm; occluded - fast-moving cold front that catches up with a slower-moving cold or warm front; stationary
 
 {weather} occluded front
 fast-moving cold front that catches up with a slower-moving cold or warm front
@@ -210,10 +210,10 @@ emergency, balloon, glider, aircraft towing/refueling, airship, rotocraft/airpla
 {reg} speed limits (below 10,000 ft, below 2500 ft class C/D, underlying class B)
 250, 200, 200
 
-{reg} < 40-year-old medical review in months by class (1st, 2nd, 3rd)
+{reg,critical} < 40-year-old medical review in months by class (1st, 2nd, 3rd)
 12, 12, 60
 
-{reg} 40+-year-old medical review in months by class (1st, 2nd, 3rd) 
+{reg,critical} 40+-year-old medical review in months by class (1st, 2nd, 3rd) 
 6, 12, 24
 
 {sop} deviation from ATC
@@ -365,6 +365,9 @@ only after approval by the FAA
 
 {reg} conditions that require ELT inspection
 12 months elapsed, less than 50% battery life, battery used continuously for more than one hour, accident
+
+{sys,critical} V-speeds (172SP)
+Vs0 - stall speed in landing config (40); Vs1 - stall speed in clean config (48); Vr - rotation speed (55); Vx - enroute best angle-of-climb speed (62, 56); Vy - takeoff best rate-of-climb speed (74); normal initial climb (80); cruise climb (90); Vfe - maximum flap-extended speed (110, 40-85); Va - maneuvering speed (105 for 2550 lb, 98 for 2200, 90 for 1900); Vg - best glide speed (68); Vno - maximum structural cruising speed (129); Vne - never exceed speed (163)
 
 {sys} Vs0 (meaning, 172SP)
 stall speed in landing configuration, 40
@@ -1071,6 +1074,9 @@ center
 {chart} kind of course/heading for which hemispheric rules apply
 magnetic course
 
+{pilot,critical} illusions
+the leans - illusion that you are flying level when you are actually in a gradual bank; graveyard spin - illusion that you are spinning in the opposite direction than reality; graveyard spiral - illusion that you are in an opposite bank after correcting a bank when in fact you are flying level; somatogravic illusion - illusion that you are nose up during acceleration; head-down illusion - illusion that you are nose down during deceleration; Coriolis illusion - after a sudden head movement, illusion that you are rolling, pitching and yawing; inversion illusion - when transitioning from climb to level flight, illusion that you are tumbling backward, potentially causing you to push the nose down; elevator illusion - an illusion that you are climbing after a sudden updraft, or descending after a sudden downdraft; autokinesis - at night, pilot fixates on a light and it seems to be moving; false horizon - at night, pilot inadvertently orients the aircraft with a false horizon (e.g., sloping clouds, terrain, etc.); linear perceptive illusions - when pilot's sight-picture during landing is different from what he/she is used to; precipitation illusions - caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer, fog and haze may cause objects to appear farther away; black-hole approach - when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descends too quickly; white-out - when flying over snow-covered terrain there is no obvious distinction between sky and terrain; empty field myopia - when your eyes have nothing to focus on, they may focus only 10-20 ft ahead and you have no idea how close you are to the underlying terrain; confirmation bias - seeing/hearing what you want to see/hear when reality is different; sensory exclusion - when you are overly focused on one of your senses that you ignore the others
+
 {pilot} leans illusion
 illusion that you are flying level when you are actually in a gradual bank; occurs when relying on physical sensations rather than instrumentation
 
@@ -1084,7 +1090,7 @@ illusion that you are in an opposite bank after correcting a bank when in fact y
 illusion that you are nose up during acceleration
 
 {pilot} head-down illusion
-illusion that you are nose up during deceleration
+illusion that you are nose down during deceleration
 
 {pilot} Coriolis illusion
 after a sudden head movement, illusion that you are rolling, pitching and yawing
