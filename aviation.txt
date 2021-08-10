@@ -5662,7 +5662,7 @@ flies at > 25000 ft MSL
 operations with the aircraft may be continued to a stop where repairs or replacement can be made.
 
 {chart,critical} visibility and cloud clearance summary
-default: 3-152; A: IFR only; B: 3-CC; E,G >= 10000 MSL: 3-1111SM; G > 1200 AGL, < 10000 MSL, day: 1-152; G <= 1200 AGL, day: 1-CC
+default: 3-152; A: IFR only; B: 3-CC; E,G >= 10000 MSL: 3-111SM; G > 1200 AGL, < 10000 MSL, day: 1-152; G <= 1200 AGL, day: 1-CC
 
 {chart,critical} where ADS-B (and Mode C transponder) is required
 class A, B, B within Mode C veil SFC to 10000 MSL, C, above C to 10000 MSL, or E above 10000 feet
