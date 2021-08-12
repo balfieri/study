@@ -132,6 +132,9 @@ exercise extreme caution
 {sop} flashing white (ground only)
 return to start point
 
+{sop,critical} light gun signals
+flashing green - return to land, clear to taxi; steady green - clear to land, clear to takeoff; flashing red - do not land, clear the runway; steady red - give way to traffic, stop; alternating red and green - exercise extreme caution; flashing white - return to start point (ground only)
+
 {pilot} accident cause factors
 inadequate planning, failure to maintain speed, failure to maintain directional control, improper level-off, failure to avoid obstructions, mismanagement of fuel, improper inflight decisions, misjudging distance or speed, selection of unsuitable terrain, improper operation of flight controls
 
@@ -204,7 +207,7 @@ altimeter, airspeed indicator, vertical speed indicator
 {sys} instruments in vacuum system
 attitude indicator, heading indicator
 
-{reg} EBGAAR right-of-way rules
+{reg,critical} EBGAAR right-of-way rules
 emergency, balloon, glider, aircraft towing/refueling, airship, rotocraft/airplane
 
 {reg} speed limits (below 10,000 ft, below 2500 ft class C/D, underlying class B)
@@ -315,8 +318,8 @@ from sunset to sunrise
 {chart} REIL
 runway end identification light
 
-{chart} beacons (land, hospital, seaport, heliport, military)
-white/green, white/green/red, white/yellow, white/green/yellow, white/white/green
+{chart,critical} beacons
+land - white/green; hospital - white/green/red; seaport - white/yellow; heliport - white/green/yellow; military - white/white/green
 
 {pilot} how to prioritize when overloaded
 aviate, navigate, communicate
@@ -466,7 +469,7 @@ left forward portion of firewall, makes it susceptible to exploding if engine is
 17 years old; read/speak/write/understand English; at least 3rd class medical; training; logbook endorsements; 70% on written
 
 {reg,critical} privileges and limitations of private pilot certificate
-carry passengers but they must pay at least pro rata share; business if incidental; non-profit event; search and rescue; demonstrate aircraft to buyer if 200+ hours; tow a glider with proper endorsements; test flight in light-sport aircraft
+carry passengers but pilot must pay at least pro rata share; business if incidental; non-profit event; search and rescue; demonstrate aircraft to buyer if 200+ hours; tow a glider with proper endorsements; test flight in light-sport aircraft
 
 {reg} flights you must log in your logbook
 required training, required aeronautical experience
@@ -533,6 +536,9 @@ pressure altitude corrected for non-standard temperature
 
 {perf} equation for density altitude
 DA = PA + 118.8*(OAT-15+elevation/500)
+
+{perf,critical} altitudes
+indicated altitude - what the altimeter reads when set correctly; pressure altitude - height above a standard datum plane (SDP), which is a theoretical level where the weight of the atmosphere is 29.92 inches of mercury, indicated altitude when altimeter set to 29.92, PA = elevation + 1000*(29.92 - altimeter); density altitude - pressure altitude corrected for non-standard temperature, DA = PA + 118.8*(OAT-15+elevation/500); true altitude - actual altitude above sea level; absolute altitude - actual altitude above the ground
 
 {reg} you can fly a drunk passenger (yes/no)
 no
@@ -1770,7 +1776,10 @@ aviation warning to help avoid adverse weather conditions
 {weather} types of weather charts
 surface analysis, weather depiction, short-range surface prognostic, significant weather prognostic, convection outlook, constant pressure analysis
 
-{weahter} surface analysis chart
+{weather,critical} weather charts
+surface analysis chart (3 hours) - sea level pressure, positions of highs, lows, ridges, troughs, location of fronts, drylines, outflow boundaries; weather depiction chart (3 hours) - plot of weather conditions at selected METAR stations, usually shared by VFR, MVFR, IFR; short-range surface prognostic chart (6 hours) - surface pressure systems, fronts and precipitation for 2.5 day period, five forecast periods (12, 18, 24, 48, 60 hours); low-level significant weather prognostic chart (6 hours) - surface pressure systems, fronts and precipitation for 2.5 day period, five forecast periods (12, 18, 24, 48, 60 hours); convective outlook chart - severe and non-severe convective threats during the next 3 days; constant pressure analysis chart (12 hours) - upper air weather map arranged along particular pressure levels: 200, 300, 500, 700, 850 mb
+
+{weather} surface analysis chart
 sea level pressure, positions of highs, lows, ridges, troughs, location of fronts, drylines, outflow boundaries
 
 {weather} how often is surface analysis chart updated
@@ -1854,14 +1863,23 @@ throttle idle, ailerons neutral, full opposite rudder, neutral elevator, neutral
 {sop} problems that can be caused by ground effect
 floating during landing, illusion that plane can climb during takeoff when it can't if too heavy etc.
 
-{sys} empty weight includes
+{sys} standard empty weight includes
 airframe, engines, permanently installed equipment, unusable fuel
+
+{perf} standard empty weight
+consists of the airframe, engines, and all items of operating equipment that have fixed locations and are permanently installed in the aircraft, including fixed ballast, hydraulic fluid, unusable fuel, and full engine oil
+
+{perf} basic empty weight
+standard empty weight plus the weight of optional and special equipment that have been installed
 
 {sys} gross weight
 maximum allowable weight of both airplane and contents
 
 {sys} useful load includes
 pilot, copilot, passengers, baggage, usable fuel, drainable oil
+
+{sys,critical} weights
+standard empty weight - consists of the airframe, engines, and all items of operating equipment that have fixed locations and are permanently installed in the aircraft, including fixed ballast, hydraulic fluid, unusable fuel, and full engine oil; basic empty weight - standard empty weight plus the weight of optional and special equipment that have been installed; gross weight - maximum allowable weight of both airplane and contents; useful load - pilot, copilot, passengers, baggage, usable fuel, drainable oil
 
 {sys} datum
 imaginary vertical plane or line from which all measurements of arm are taken, established by manufacturer
@@ -2496,10 +2514,10 @@ an occurrence associated with an aircraft other than an accident which affects o
 {reg} accident
 an occurrence associated with an aircraft which takes place between the time any person boards the aircraft with the intention of flight and all such persons have disembarked, and in which any person suffers death or serious injury, or in which which the aircraft receives substantial damage
 
-{reg} serious injuries
-requires hospitalization for more than 48 hours commencing within 7 days from date the injury was received, causes fraction of any bone (other than fingers, toes, nose), causes severe hemorrhages or nerve/muscle/tendon damage, involves any internal organs, involves 2nd or 3rd degree burns affecting more than 5% of the body surface
+{reg,criticl} serious injuries
+requires hospitalization for more than 48 hours commencing within 7 days from date the injury was received; causes fraction of any bone (other than fingers, toes, nose); causes severe hemorrhages or nerve/muscle/tendon damage; involves any internal organs; involves 2nd or 3rd degree burns affecting more than 5% of the body surface
 
-{reg} substantial damage
+{reg,critical} substantial damage
 adversely affects the structural strength, performance, or flight characteristics of the aircraft and which would normally require major repair or replacement
 
 {reg} damages NOT considered substantial 
@@ -2520,8 +2538,8 @@ no, except for accidents and criminal offenses that are wholly excluded from the
 {chart} meaning of rotating beacon during daylight hours for class B/C/D/E-surface
 ground visibility is less than 3 miles and/or the ceiling is less than 1000 ft and that ATC clearance is required for landing, takeoff, and flight in traffic patterns
 
-{chart} types of airport signs
-mandatory instruction sign (red bg, white fg) for runway entrance, location sign (black bg, yellow fg, yellow border), direction sign (yellow bg, black fg) identifies the designation of the intersecting taxiway(s) leading out of an intersection, destination sign (yellow bg, black fg, arrows) provides info on locating runways/terminals/cargo-areas/civil-aviation-areas, information sign (yellow bg, black fg) provides information for things that can't be seen from the control tower, runway distance remaining sign (black bg, white fg) in thousands of ft
+{chart,critical} types of airport signs
+mandatory instruction sign (red bg, white fg) for runway entrance; location sign (black bg, yellow fg, yellow border); direction sign (yellow bg, black fg) identifies the designation of the intersecting taxiway(s) leading out of an intersection; destination sign (yellow bg, black fg, arrows) provides info on locating runways/terminals/cargo-areas/civil-aviation-areas; information sign (yellow bg, black fg) provides information for things that can't be seen from the control tower; runway distance remaining sign (black bg, white fg) in thousands of ft
 
 {chart} color for runway, taxiway markings
 white, yellow
@@ -3810,8 +3828,8 @@ scale on an altimeter that allows pilot to enter the altimeter setting
 {sys} revisionary mode of PFD and MFD
 provides redundancy for critical information if either display dies in form of split screen
 
-{sys} arc locations for Vs0, Vs, Vfe, Vno, Vne
-bottom of white, bottom of green, top of white, top of green / bottom of yellow, top of yellow / red line
+{sys,critical} arc locations
+Vs0 - bottom of white; Vs1 - bottom of green; Vfe - top of white; Vno - top of green / bottom of yellow; Vne - top of yellow / red line
 
 {pilot} techniques to improve nighttime visual accuity
 allow 30 min for eyes to adapt, dim cockpit lights to minimum level, use red lights, avoid looking directly at bright lights
@@ -4578,12 +4596,6 @@ indeterminant
 {perf} effects of temperature changes on aircraft performance
 in hot weather, with high density altitude, the airplane will be more efficient and move through the air faster, but will have reduced performance characteristics (lower climb rate for example)
 
-{perf} standard empty weight
-consists of the airframe, engines, and all items of operating equipment that have fixed locations and are permanently installed in the aircraft, including fixed ballast, hydraulic fluid, unusable fuel, and full engine oil
-
-{perf} basic empty weight
-standard empty weight plus the weight of optional and special equipment that have been installed
-
 {perf} reasons you might be restricted to a gross (operational) weight less than the published max gross weight
 high density altitude, high-drag or high-friction conditions caused by wet grass or water on the runway
 
@@ -4832,6 +4844,9 @@ turn back to the nearest airport with fuel, headwinds will become tailwinds
 
 {perf} magnetic course vs. magnetic heading
 magnetic course does not account for wind
+
+{perf,critical} headings
+true course (TC) - intended course on the sectional chart; true heading (TH) - true course corrected for wind effects; magnetic variation (MV) - difference between true north and magnetic north (west is +, east is -); magnetic course (MC) - TC + MV; magnetic heading (MH) - TH + MV; magnetic deviation (DEV) - per-aircraft compasss correction; compass heading (CH) - MH + DEV
 
 {perf} VFR altitudes are based on magnetic course, not true heading or magnetic heading (yes/no)
 yes
@@ -5724,6 +5739,9 @@ pilot must establish communications with the tower beyond 4nm from the airport, 
 {perf} true airspeed 
 the airspeed of an aircraft relative to undisturbed air at standard pressure and temperature
 
+{perf,critical} general airspeeds
+indicated airspeed (IAS) - what you see on the airspeed indicator; calibrated airspeed (CAS) - IAS corrected for instrument error; true airspeed (TAS) - speed relative to undisturbed air at standard pressure and temperature; ground speed (GS) - speed relative to the ground
+
 {sop,critical} GIFT post-takeoff checklist
 Gear Up; Indicated airspeed; Flaps Up; Transponder on, Throttles set for climb
 
@@ -5744,3 +5762,6 @@ solid magental line with double dots along it
 
 {chart} star right next to runway on sectional chart
 indicates that airport has a rotating beacon
+
+{sop} how to know min height AGL at which you can do impossible turn
+once you determine how much altitude your particular aircraft loses during a 180-degree turn, increase this figure by at least 50 percent to determine the minimum turnaround altitude
