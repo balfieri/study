@@ -4,7 +4,7 @@
 pitch for best glide speed, landing site, seat belt, troubleshoot, approach, radio, turn off
 
 {chart,critical} MCPRAWN
-Military operations areas - magenta hashed line; Controlled firing - not depicted; Prohibited - blue hashed line; Restricted - blue hashed line; Alert - magenta hashed line; Warning areas - magenta hashed line; National security areas - thick magenta hashed line
+Military operations areas - magenta hashed line; Controlled firing - not depicted; Prohibited - blue hashed line; Restricted - blue hashed line; Alert - magenta hashed line; Warning areas - magenta hashed line; National security areas - thick magenta dashed line
 
 {chart} ADIZ border on sectional
 magenta line with dots
@@ -816,6 +816,9 @@ higher angle of attack, higher stall speed, lower cruise speed, more control aut
 {perf} characteristics of aft CG
 lower angle of attack, lower stall speed, high cruise speed, less control authority
 
+{perf} forward vs. aft CG
+forward CG - higher angle of attack, higher stall speed, lower cruise speed, more control authority, greater back elevator pressure required; aft CG - lower angle of attack, lower stall speed, higher cruise speed, less control authority
+
 {reg} how long is a VFR flight kept open
 until you explicitly close it
 
@@ -982,7 +985,7 @@ must take class, normal TFR rules, must file flight plans in and out
 DC, Disneyworld, Disneyland
 
 {weather,critical} types of turbulence
-mechanical, clear air, wake, wind shear, thermal
+mechanical, clear-air (jet stream), wake, wind shear, thermal
 
 {sop} time to wait to take off behind in minutes (light, medium, heavy, super)
 2, 4, 6, 8
@@ -5768,3 +5771,6 @@ indicates that airport has a rotating beacon
 
 {sop} how to know min height AGL at which you can do impossible turn
 once you determine how much altitude your particular aircraft loses during a 180-degree turn, increase this figure by at least 50 percent to determine the minimum turnaround altitude
+
+{sop} when ATC says "cleared for the option"
+means you can land, do a stop and go, do a touch and go, or low approach
