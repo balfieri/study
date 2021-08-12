@@ -208,7 +208,7 @@ altimeter, airspeed indicator, vertical speed indicator
 attitude indicator, heading indicator
 
 {reg,critical} EBGAAR right-of-way rules
-emergency, balloon, glider, aircraft towing/refueling, airship, rotocraft/airplane
+emergency; balloon; glider; aircraft towing/refueling; airship; rotocraft/airplane
 
 {reg} speed limits (below 10,000 ft, below 2500 ft class C/D, underlying class B)
 250, 200, 200
