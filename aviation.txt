@@ -762,11 +762,14 @@ decompression sickness, wait 12 hours for uncontrolled ascent up to 8000 ft, 24 
 {weather} how to get wind shear reports
 PIREPs, ATC, ATIS (if working)
 
-{weather} causes of wind shear
-thunderstorms, high temperature inversion, fast winds aloft
+{weather,critical} causes of wind shear
+thunderstorms; high temperature inversion; fast winds aloft
 
-{sop} how to acivate your VFR flight plan once airborne
+{sop} how to activate your VFR flight plan once airborne
 contact FSS radio frequency
+
+{sop} when VFR flight plan is required
+when crossing an international border (file D-VFR flight plan); when entering certain SFRAs such as the DC SFRA
 
 {chart} best place to find FSS radio frequency
 sectional chart
@@ -978,7 +981,7 @@ must take class, normal TFR rules, must file flight plans in and out
 {chart} permanent TFRs
 DC, Disneyworld, Disneyland
 
-{weather} types of turbulence
+{weather,critical} types of turbulence
 mechanical, clear air, wake, wind shear, thermal
 
 {sop} time to wait to take off behind in minutes (light, medium, heavy, super)
