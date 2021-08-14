@@ -16,7 +16,7 @@ magenta line
 thick gray line
 
 {sys,critical} ANDS
-accelerate north, decelerate south
+WEST-EAST: accelerate north, decelerate south
 
 {sys,critical} UNOS 
 undershoot from north, overshoot from south
@@ -994,9 +994,9 @@ squal line
 CCW, CW
 
 {weather,critical} SIGMETs
-convective; severe icing; IMC due to dust/sand/volcanic ash
+convective; severe icing; severe turbulence; IMC due to dust/sand/volcanic ash
 
-{weather} convective SIGMET
+{weather,critical} convective SIGMET
 embedded thunderstorms, a line of thunderstorms, thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3000 square miles, surface winds of 50 knots or more, hail at the surface greater than or equal to 3/4 inches in diameter, tornadoes
 
 {weather,critical} AIRMETs
@@ -5668,7 +5668,7 @@ flies at > 25000 ft MSL
 operations with the aircraft may be continued to a stop where repairs or replacement can be made.
 
 {chart,critical} visibility and cloud clearance summary
-default: 3-152; A: IFR only; B: 3-CC; E,G >= 10000 MSL: 5-111SM; G > 1200 AGL, < 10000 MSL, day: 1-152; G <= 1200 AGL, day: 1-CC
+default: 3-152; A: IFR only; B: 3-CC; E,G >= 10000 MSL: 5-111SM; G > 1200 AGL, < 10000 MSL, day: 1-152; G <= 1200 AGL, day: 1-CC; G in pattern at night <= 1200 AGL: 1-3 SM, within 1/2 mile of runway
 
 {chart,critical} where ADS-B (and Mode C transponder) is required
 class A, B, B within Mode C veil SFC to 10000 MSL, C, above C to 10000 MSL, or E above 10000 feet
