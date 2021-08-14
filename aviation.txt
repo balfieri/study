@@ -763,7 +763,7 @@ less source oxygen avilable at higher altitudes
 activated when a certain force threshold is detected by its accelerometers, transmits signal on 406 MHz
 
 {pilot,critical} explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving and how to avoid it
-decompression sickness; wait 12 hours for uncontrolled ascent up to 8000 ft; wait 24 hours if controlled ascent or over 8000 ft
+decompression sickness; wait 12 hours for uncontrolled (non-decompression) ascent up to 8000 ft MSL; wait 24 hours if controlled (decompression) ascent OR over 8000 ft MSL
 
 {weather} how to get wind shear reports
 PIREPs, ATC, ATIS (if working)
