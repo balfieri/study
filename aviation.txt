@@ -58,7 +58,7 @@ Airworthiness certificate; Registration; Radio license (when operating outside t
 Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (sensitive, 24 months, IFR only); Transponder (24 months); ELT (12 months or 1/2 Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
 
 {reg,critical} ATOMATO FLAMES
-Altimeter; Tachometer; Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT; Safety Belts
+Altimeter; Tachometer; Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Safety Belts
 
 {reg,critical} FLAPS
 Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only if aircraft is for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
@@ -159,14 +159,17 @@ moist air, unstable lapse rate, initial lifting force
 {weather} stages of thunderstorm
 cumulus, mature, dissipative
 
-{weather} types of structural ice
+{weather,critical} types of structural ice
 clear, rime, mixed (both)
 
-{weather} at which temperatures do clear, mixed, and rime form
+{weather,critical} at which temperatures do clear, mixed, and rime form
 2 to -10C, -10C to -15C, -15C to -20C
 
-{weather} reasons clear ice more dangeous
-rime only forms on leading edge, clear is on entire wing, harder to notice, more mass
+{weather,critical} reasons clear ice more dangeous than rime ice
+rime only forms on leading edge (anti-icing equipment often covers just this); clear is on entire wing; clear is harder to notice; clear has more mass
+
+{weather,critical} types of precipitation that cause the worst icing
+freeziing rain (ice+water); sleet
 
 {weather,critical} fronts
 cold; warm; occluded - fast-moving cold front that catches up with a slower-moving cold or warm front; stationary
@@ -218,6 +221,9 @@ emergency; balloon; glider; aircraft towing/refueling; airship; rotocraft/airpla
 
 {reg,critical} 40+-year-old medical review in months by class (1st, 2nd, 3rd) 
 6, 12, 24
+
+{reg,critical} FAR parts that apply to medicals by class (1st, 2nd, 3rd)
+121 (air carrier), 135 (charter), 91 (private)
 
 {sop} deviation from ATC
 amended clearance, emergency, response to TACAS
@@ -360,8 +366,11 @@ minimum equipment list
 {reg} purpose of MEL
 list of equipment that can be broken
 
-{reg} 172SP has a MEL (yes/no)
+{reg} 172SP has a MEL or KOEL (yes/no)
 no, we adhere to 91.205
+
+{reg,critical} MEL vs. KOEL
+MEL - minimum equipment list (can be broken); KOEL - kinds of equipment list (full list of equipment required for each type of flight operation, IFR day, VFR night, etc.)
 
 {reg} when an aircraft owner can change a MEL
 only after approval by the FAA
@@ -750,8 +759,8 @@ less source oxygen avilable at higher altitudes
 {sys} how ELT works
 activated when a certain force threshold is detected by its accelerometers, transmits signal on 406 MHz
 
-{pilot} explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving and how to avoid it
-decompression sickness, wait 12 hours for uncontrolled ascent up to 8000 ft, 24 hours if controlled ascent or over 8000 ft
+{pilot,critical} explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving and how to avoid it
+decompression sickness; wait 12 hours for uncontrolled ascent up to 8000 ft; wait 24 hours if controlled ascent or over 8000 ft
 
 {weather} how to get wind shear reports
 PIREPs, ATC, ATIS (if working)
@@ -810,8 +819,8 @@ higher angle of attack, higher stall speed, lower cruise speed, more control aut
 {perf} characteristics of aft CG
 lower angle of attack, lower stall speed, high cruise speed, less control authority
 
-{perf} forward vs. aft CG
-forward CG - higher angle of attack, higher stall speed, lower cruise speed, more control authority, greater back elevator pressure required; aft CG - lower angle of attack, lower stall speed, higher cruise speed, less control authority
+{perf,critical} forward vs. aft CG
+forward CG - higher angle of attack, higher stall speed, lower cruise speed, more control authority, greater back elevator pressure required, easier to get out of a stall; aft CG - lower angle of attack, lower stall speed, higher cruise speed, less control authority, harder to get out of a stall
 
 {reg} how long is a VFR flight kept open
 until you explicitly close it
@@ -1074,8 +1083,11 @@ center
 {chart} kind of course/heading for which hemispheric rules apply
 magnetic course
 
-{pilot,critical} illusions
-the leans - illusion that you are flying level when you are actually in a gradual bank; graveyard spin - illusion that you are spinning in the opposite direction than reality; graveyard spiral - illusion that you are in an opposite bank after correcting a bank when in fact you are flying level; somatogravic illusion - illusion that you are nose up during acceleration; head-down illusion - illusion that you are nose down during deceleration; Coriolis illusion - after a sudden head movement, illusion that you are rolling, pitching and yawing; inversion illusion - when transitioning from climb to level flight, illusion that you are tumbling backward, potentially causing you to push the nose down; elevator illusion - an illusion that you are climbing after a sudden updraft, or descending after a sudden downdraft; autokinesis - at night, pilot fixates on a light and it seems to be moving; false horizon - at night, pilot inadvertently orients the aircraft with a false horizon (e.g., sloping clouds, terrain, etc.); linear perceptive illusions - when pilot's sight-picture during landing is different from what he/she is used to; precipitation illusions - caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer, fog and haze may cause objects to appear farther away; black-hole approach - when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descends too quickly; white-out - when flying over snow-covered terrain there is no obvious distinction between sky and terrain; empty field myopia - when your eyes have nothing to focus on, they may focus only 10-20 ft ahead and you have no idea how close you are to the underlying terrain; confirmation bias - seeing/hearing what you want to see/hear when reality is different; sensory exclusion - when you are overly focused on one of your senses that you ignore the others; runway width illusion - makes you think you are higher; runway slope illusion - positive slope makes you think you are higher
+{pilot,critical} spatial disorientations
+the leans - illusion that you are flying level when you are actually in a gradual bank; graveyard spin - illusion that you are spinning in the opposite direction than reality; graveyard spiral - illusion that you are in an opposite bank after correcting a bank when in fact you are flying level; somatogravic illusion - illusion that you are nose up during acceleration; head-down illusion - illusion that you are nose down during deceleration; Coriolis illusion - after a sudden head movement, illusion that you are rolling, pitching and yawing; inversion illusion - when transitioning from climb to level flight, illusion that you are tumbling backward, potentially causing you to push the nose down; elevator illusion - an illusion that you are climbing after a sudden updraft, or descending after a sudden downdraft
+
+{pilot,critical} optical illusions
+autokinesis - at night, pilot fixates on a light and it seems to be moving; false horizon - at night, pilot inadvertently orients the aircraft with a false horizon (e.g., sloping clouds, terrain, etc.); linear perceptive illusions - when pilot's sight-picture during landing is different from what he/she is used to; precipitation illusions - caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer, fog and haze may cause objects to appear farther away; black-hole approach - when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descends too quickly; white-out - when flying over snow-covered terrain there is no obvious distinction between sky and terrain; empty field myopia - when your eyes have nothing to focus on, they may focus only 10-20 ft ahead and you have no idea how close you are to the underlying terrain; confirmation bias - seeing/hearing what you want to see/hear when reality is different; sensory exclusion - when you are overly focused on one of your senses that you ignore the others; runway width illusion - makes you think you are higher; runway slope illusion - positive slope makes you think you are higher
 
 {pilot} leans illusion
 illusion that you are flying level when you are actually in a gradual bank; occurs when relying on physical sensations rather than instrumentation
@@ -1557,17 +1569,14 @@ no rainfall in past 24 hours
 {weather} 9900 winds aloft
 winds light and variable
 
-{chart} reason there is no circle around some airports on sectional chart
-runway > 8069 ft
+{chart,critical} reasons there is no circle around some airports on sectional chart
+runway > 8069 ft; abutted runways > 8069 ft
 
 {chart} dotted purple on sectional chart
 air defense identification zone
 
 {chart} purpose of little flag on sectional chart
 visual reference point when talking to ATC
-
-{chart} VR VFR route
-military training route
 
 {chart} VR 1-3 numbers AGL ft, 4 numbers AGL ft
 >1500, < 1500
@@ -1599,8 +1608,8 @@ wire arresting system used for fighter jets who are practicing at that airport
 {chart} lens shapes on each side of runway on airport diagram denote
 displaced threshold
 
-{chart} little round circle on runway on airport diagram
-highest point of elevation for entire airport
+{chart,critical} little round circle on runway on airport diagram
+highest point of runway elevation for entire airport
 
 {chart} on sectional chart, little circle inside majenta/blue circle
 radio navaid on the field
@@ -1626,10 +1635,16 @@ lighted runway that can be controlled by pilot
 {chart} 3/4 circle within magenta/blue airport circle
 military unpaved runway
 
+{chart,critical} magenta/blue circle with no runway on sectionl
+unpaved runway
+
+{chart,critical} magenta vs. blue runway circle on sectional chart
+untowered vs. towered
+
 {chart} on sectional chart, compass-looking symbol
 VFR GPS point of reference
 
-{chart} crisscrossed lines on sectional chart
+{chart,critical} crisscrossed lines on sectional chart
 drainage ditch
 
 {reg} 100-hour inspection, time measurement (Hobbs/tach)
@@ -2493,8 +2508,8 @@ on chart, https://sua.faa.gov
 {chart} where to find info on VFR flyways, VFR corridors, and class B transition routes
 normally on reverse side of VFR terminal area chart (aka class B airspace chart)
 
-{chart} military training routes altitude ranges
-< 1500 ft AGL are VFR (4-digit ids, e.g., VR 1008), >= 1500 ft AGL are usually IFR (3-digit ids, eg., IR 003, VR 004)
+{chart,critical} military training routes altitude ranges
+< 1500 ft AGL are VFR (4-digit ids, e.g., VR-1008); >= 1500 ft AGL are usually IFR (3-digit ids, eg., IR-3, IR-83, VR-425); we should not use for navigation due to fighter jets
 
 {chart} ADIZ locations
 domestic (along U.S. border), coastal, distant early warning identification zone (DEWIZ) over coastal waters of Alaska, land-based ADIZ over U.S. metro areas (activated via NOTAMs)
@@ -3303,8 +3318,8 @@ yes, moist air cools at a slower rate than dry air so it will rise to a higher a
 {weather} missing values in FD data occur when
 the MSL altitude is less than 1500 ft AGL
 
-{weather} flight hazards associated with thunderstorms
-severe turbulence, hail, lightning, icing
+{weather,critical} flight hazards associated with thunderstorms
+severe turbulence; wind shear; microbursts; hail (can be thrown up to 20-40 miles away); lightning; icing
 
 {weather} lightning is always associated with
 thunderstorms
@@ -3685,7 +3700,7 @@ military training route
 centerline of a low altitude federal airway, aka Victor airway, which is used for IFR routes
 
 {chart,critical} how Victor vs. military routes are depicted on sectional chart
-light blue line with V68 etc.; thin gray line with IR-149 etc.
+light blue line; thin gray line
 
 {chart} on sectional chart, meaning of following letters inside a magenta diamond with an airplane under it: G, U, H, UA
 glider, ultralight, hang glider, unmanned aircraft
@@ -3703,7 +3718,7 @@ FAA publications that cover regulations and safety issues
 indefinite if after April 2016
 
 {reg,critical} limitations of BasicMed
-max takeoff weight of 6000 lbs, max 6 people; no higher than 18000 MSL, no faster than 250 knots, not for compensation or hire
+max takeoff weight of 6000 lbs, max 6 seats; no higher than 18000 MSL, no faster than 250 knots, not for compensation or hire; no international flights
 
 {reg} POH vs. information manual
 POH is official FAA doc for a specific airplane and kept up to date, copy of a generic POH for a make+model and not kept up to date
@@ -3749,6 +3764,9 @@ pass checkride for a new certificate, passing a phase of an FAA-sponsored profic
 
 {reg} requirements for SVFR at night
 instrument rating, IFR-equipped aircraft
+
+{reg,critical} 3 definitions of nighttime
+FLAPS and currency for passengers - sunset+0 .. sunrise-0; logging flight time - sunset-30 .. sunrise+30; takeoffs/landings for currency - sunset+60 .. sunrise-60
 
 {reg} types of aircraft that require logbook endorsements
 complex airplanes, high performance airplanes, tailwheel airplanes, aircraft pressurized and certified to fly above 25000 ft MSL
@@ -4080,8 +4098,8 @@ maximum cyclonic (anti-clockwise) curvature of the wind flow
 {weather} nimbostratus clouds also known as 
 rain clouds
 
-{weather} precipitation
-different kinds of moisture that falls from the sky: drizzle, rain, snow, ice pellets, hail and ice crystals
+{weather,critical} types of precipitation
+drizzle; rain; snow; ice pellets; hail; ice crystals
 
 {weather} "nimbo" refers to
 rain
@@ -4482,7 +4500,7 @@ our eyes, light from the sun is constantly being reflected by everything on Eart
 {pilot} cause of middle ear pain in flight
 air inside of the middle ear is normally equalized through the Eustachian tube: a tube that travels from the ear to the back of the throat on each side, if there is any kind of congestion or blockage it makes this equalization difficult or impossible, in a climb, the air outside becomes less dense and the trapped higher pressure air in the middle ear tends to expand, in a descent, the trapped air is of lower pressure than the outside air and feeling of compression is experienced, this is typically more painful and more difficult to resolve, sinus congestions cause pain from similar circumstances and can be very painful, 
 
-{pilot} how to mitigate middle ear pain
+{pilot,critical} how to mitigate middle ear pain
 first step in avoiding this pain is to not fly with head colds or ear/sinus infections, in flight equalization can be helped along by swallowing, yawning, tensing the throat muscles, or by executing the Valsalva maneuver, accomplished by pinching the nostrils, closing the mouth, and attempting to exhale, oral decongestions do not provide adequate relief and may have adverse side effects
 
 {sop} how to determine if another aircraft is at the same altitude
@@ -5184,8 +5202,8 @@ Gas both tanks (172SP), Undercarriage (gear down), Mixture rich, Propeller RPMs 
 {chart} *RP
 right pattern, but see chart supplement for exceptions
 
-{chart} HS on airport diagram
-hot spot, typically an intersection where there is a lot of congestion
+{chart,critical} HS on airport diagram
+hot spot, typically an intersection where there is a lot of congestion OR confusion
 
 {sys} 172SP minimum static RPM during takeoff
 2300-2400
@@ -5759,3 +5777,18 @@ once you determine how much altitude your particular aircraft loses during a 180
 
 {sop} when ATC says "cleared for the option"
 means you can land, do a stop and go, do a touch and go, or low approach
+
+{reg,critical} when you can fly with a broken piece of required eqipment
+must get a SFP from the the local FSDO; must placard/disable equipment
+
+{weather,critical} characteristics of NEXRAD/ADS-B vs. dedicated on-board radar for weather
+NEXRAD/ADS-B - 6 minutes old, inaccuracies, but covers large area; dedicated - 10 sec old, more accurate, covers small area, needs to be pointed
+
+{chart,critical} on airport diagram, dotted border denotes
+area under construction
+
+{sop,critical} reasons not to fly aircraft outside its limitations even if density altitude allows it
+have no perf data; no idea what speeds should be to avoid stalling, overstressing aircraft, etc.
+
+{sys,critical} 172SP trim tabs
+anti-servo trim on rudder (helps with left-turning tendencies); elevator trim (adjustable)
