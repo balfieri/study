@@ -997,7 +997,7 @@ CCW, CW
 convective; severe icing; severe turbulence; IMC due to dust/sand/volcanic ash
 
 {weather,critical} convective SIGMET
-embedded thunderstorms, a line of thunderstorms, thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3000 square miles, surface winds of 50 knots or more, hail at the surface greater than or equal to 3/4 inches in diameter, tornadoes
+embedded thunderstorms; a line of thunderstorms; thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3000 square miles; surface winds of 50 knots or more; hail at the surface greater than or equal to 3/4 inches in diameter; tornadoes
 
 {weather,critical} AIRMETs
 sierra(S) - extensive mountain obscuration or IFR (less than 1000 ft and/or visibility less than 3 miles affecting over 50% of the area at one time); tango(T) - moderate turbulence or sustained surface winds of 30 kts or more; zulu(Z) - moderate icing
@@ -3592,7 +3592,7 @@ coordinated universal time, same as Zulu time
 malfunction of voltage regulator, so shut down alternator using ALT switch, turn off unnecessary electrical equipment, and land at the nearest airport
 
 {sop,critical} actions to take if engine is rough in flight
-apply carburator heat if not fuel injected, switch to a different fuel tank, enrich the mixture, try only left or only right magneto, turn on the auxilliary fuel pump
+apply carburator heat if not fuel injected; switch to a different fuel tank; enrich the mixture; try only left or only right magneto; turn on the auxilliary fuel pump
 
 {sop} actions to take if moderate or severe turbulence is encountered
 slow to Va, maintain level flight using smooth control inputs, disengage autopilot, contact ATC for advice
