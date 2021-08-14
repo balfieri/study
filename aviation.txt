@@ -747,6 +747,9 @@ more than 30 minutes between 12500 and 14000 ft, above 14000
 {reg} when supplemental oxygen must be provided to passengers
 above 15000 ft, but not required to use it
 
+{reg,critical} summary of oxygen rules
+required for crew - spending >30 minutes between 12500 and 14000 ft, OR above 14000 ft; must be provided to passengers - above 15000 ft
+
 {sys} 172SP fuel tank venting
 air vent is located on the left wing, both tanks are interconnected by a vent line, both fuel caps are also vented
 
