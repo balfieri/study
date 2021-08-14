@@ -5792,3 +5792,6 @@ have no perf data; no idea what speeds should be to avoid stalling, overstressin
 
 {sys,critical} 172SP trim tabs
 anti-servo trim on rudder (helps with left-turning tendencies); elevator trim (adjustable)
+
+{chart,critical} on airport diagram, empty rectangle beyond the end of the runway
+blast pad
