@@ -568,7 +568,7 @@ redundancy in case vacuum pump is broken
 2
 
 {sys,critical} purposes of engine oil
-coolant, lubricant, corrosion inhibitor, sealant, cleaner
+cool; lubricate; inhibit corrosion; seal; clean
 
 {reg} grace periods (annual, 100-hour, ADs)
 none, 10 hours, none
@@ -3274,7 +3274,7 @@ visual avoidance, lightning detection devices such as a Stormscope(R), NEXRAD ra
 decreased lift, increased drag, increased stall speed, unexpected control problems, blocked or restricted movement of control surfaces, tail-plane or horizontal stabilizer stall, blockage of pitot tube and static ports, blockage of engine induction air
 
 {weather,critical} front represented by string of blue triangles, string of red semicircles, purple triangles+semicircles, read semicircles and blue trangles on alternating sides
-cold front, warm front, occluded front, stationary front
+cold front; warm front; occluded front; stationary front
 
 {weather} determines amount of water air can hold
 temperature of air, warm can hold more than cold
