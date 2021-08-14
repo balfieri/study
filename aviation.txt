@@ -15,10 +15,10 @@ magenta line
 {chart} TRSA border on sectional
 thick gray line
 
-{sys} ANDS
+{sys,critical} ANDS
 accelerate north, decelerate south
 
-{sys} UNOS 
+{sys,critical} UNOS 
 undershoot from north, overshoot from south
 
 {pilot,critical} IMSAFE
@@ -153,7 +153,7 @@ electronic flight bag
 {weather} valid period of METAR, radar, PIREP, TAF, winds aloft, GFA, AIRMET, SIGMET, convective SIGMET (hours)
 observed, observed, observed, 24, on report, 1, 6, 4, 2
 
-{weather} requirements for thunderstorms
+{weather,critical} requirements for thunderstorms
 moist air, unstable lapse rate, initial lifting force
 
 {weather} stages of thunderstorm
@@ -513,11 +513,8 @@ flight standards district office
 {reg} pilot should determine if aircraft is airworthy by seeing if broken instrument is part of
 MEL, VFR requirements, KOEL, ADs
 
-{weather} flow of air in and around low pressure system in northern hemisphere
-inward, upward, counterclockwise
-
-{weather} flow of air in and around high pressure system in norhern hemisphere
-outwward, downward, clockwise
+{weather,critical} flow of air in and around low vs. high pressure system in northern hemisphere
+inward, upward, counterclockwise; outwward, downward, clockwise
 
 {reg} seatbelts that can be broken
 those in unoccupied seats
@@ -570,7 +567,7 @@ redundancy in case vacuum pump is broken
 {sys} 172SP number of vacuum pumps
 2
 
-{sys} purposes of engine oil
+{sys,critical} purposes of engine oil
 coolant, lubricant, corrosion inhibitor, sealant, cleaner
 
 {reg} grace periods (annual, 100-hour, ADs)
@@ -696,11 +693,8 @@ curve that connects equal points of pressure
 {weather} meaning of closely spaced isobars
 high pressure gradient force, strong winds￼
 
-{weather} ridge
-elongated area of high pressure, descending air
-
-{weather} trough
-elongated area of low pressure, rising air
+{weather,critcal} ridge vs. trough
+ridge - elongated area of high pressure, descending air; trough - elongated area of low pressure, rising air
 
 {weather} standard lapse rate
 -2C per 1000 ft
@@ -897,11 +891,8 @@ IAS, CAS, TAS, GS
 {perf} types of altitudes
 indicated, pressure, density, absolute
 
-{sys} left-turning tendencies
-p-factor, gyroscopic precession (tailwheel), asymmetric thrust, spiraling slipstream
-
-{sys} when are left-turning tendencies most pronounced
-low speed, high power, high angle of attack
+{sys,critical} left-turning tendencies
+p-factor, gyroscopic precession (tailwheel), asymmetric thrust, spiraling slipstream; greatest when: low speed, high power, high angle of attack
 
 {sys} type of oil we use
 aviation 20W-50 or 15W-50
@@ -1084,7 +1075,7 @@ center
 magnetic course
 
 {pilot,critical} illusions
-the leans - illusion that you are flying level when you are actually in a gradual bank; graveyard spin - illusion that you are spinning in the opposite direction than reality; graveyard spiral - illusion that you are in an opposite bank after correcting a bank when in fact you are flying level; somatogravic illusion - illusion that you are nose up during acceleration; head-down illusion - illusion that you are nose down during deceleration; Coriolis illusion - after a sudden head movement, illusion that you are rolling, pitching and yawing; inversion illusion - when transitioning from climb to level flight, illusion that you are tumbling backward, potentially causing you to push the nose down; elevator illusion - an illusion that you are climbing after a sudden updraft, or descending after a sudden downdraft; autokinesis - at night, pilot fixates on a light and it seems to be moving; false horizon - at night, pilot inadvertently orients the aircraft with a false horizon (e.g., sloping clouds, terrain, etc.); linear perceptive illusions - when pilot's sight-picture during landing is different from what he/she is used to; precipitation illusions - caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer, fog and haze may cause objects to appear farther away; black-hole approach - when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descends too quickly; white-out - when flying over snow-covered terrain there is no obvious distinction between sky and terrain; empty field myopia - when your eyes have nothing to focus on, they may focus only 10-20 ft ahead and you have no idea how close you are to the underlying terrain; confirmation bias - seeing/hearing what you want to see/hear when reality is different; sensory exclusion - when you are overly focused on one of your senses that you ignore the others
+the leans - illusion that you are flying level when you are actually in a gradual bank; graveyard spin - illusion that you are spinning in the opposite direction than reality; graveyard spiral - illusion that you are in an opposite bank after correcting a bank when in fact you are flying level; somatogravic illusion - illusion that you are nose up during acceleration; head-down illusion - illusion that you are nose down during deceleration; Coriolis illusion - after a sudden head movement, illusion that you are rolling, pitching and yawing; inversion illusion - when transitioning from climb to level flight, illusion that you are tumbling backward, potentially causing you to push the nose down; elevator illusion - an illusion that you are climbing after a sudden updraft, or descending after a sudden downdraft; autokinesis - at night, pilot fixates on a light and it seems to be moving; false horizon - at night, pilot inadvertently orients the aircraft with a false horizon (e.g., sloping clouds, terrain, etc.); linear perceptive illusions - when pilot's sight-picture during landing is different from what he/she is used to; precipitation illusions - caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer, fog and haze may cause objects to appear farther away; black-hole approach - when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descends too quickly; white-out - when flying over snow-covered terrain there is no obvious distinction between sky and terrain; empty field myopia - when your eyes have nothing to focus on, they may focus only 10-20 ft ahead and you have no idea how close you are to the underlying terrain; confirmation bias - seeing/hearing what you want to see/hear when reality is different; sensory exclusion - when you are overly focused on one of your senses that you ignore the others; runway width illusion - makes you think you are higher; runway slope illusion - positive slope makes you think you are higher
 
 {pilot} leans illusion
 illusion that you are flying level when you are actually in a gradual bank; occurs when relying on physical sensations rather than instrumentation
@@ -1674,11 +1665,8 @@ A, B, B veil, C, E above 10000 ft
 {reg} ICAO
 International Civil Aviation Organization
 
-{weather} what to expect when cold front passes
-towering cumulus or cumuloninimbus, thunderstorms, heavy rain, thunder, hail, tornadoes, poor visibility, variable and gusty winds, temperature drop
-
-{weather} what to expect when warm front passes
-stratiform clouds, drizzle, low ceilings, poor visibility, low ceilings, variable winds, higher temperature
+{weather} what to expect when cold vs. warm front passes
+cold front - towering cumulus or cumuloninimbus, thunderstorms, heavy rain, thunder, hail, tornadoes, poor visibility, variable and gusty winds, temperature drop; warm front - stratiform clouds, drizzle, low ceilings, poor visibility, low ceilings, variable winds, higher temperature
 
 {weather} trough
 low pressure, rising air, conducive to clouds and precipitation, bad weather
@@ -3285,7 +3273,7 @@ visual avoidance, lightning detection devices such as a Stormscope(R), NEXRAD ra
 {perf} adverse aerodynamic effects of frost or structural icing
 decreased lift, increased drag, increased stall speed, unexpected control problems, blocked or restricted movement of control surfaces, tail-plane or horizontal stabilizer stall, blockage of pitot tube and static ports, blockage of engine induction air
 
-{weather} front represented by string of blue triangles, string of red semicircles, purple triangles+semicircles, read semicircles and blue trangles on alternating sides
+{weather,critical} front represented by string of blue triangles, string of red semicircles, purple triangles+semicircles, read semicircles and blue trangles on alternating sides
 cold front, warm front, occluded front, stationary front
 
 {weather} determines amount of water air can hold
@@ -3603,7 +3591,7 @@ coordinated universal time, same as Zulu time
 {sys} meaning of full positive scale deflection of ammeter
 malfunction of voltage regulator, so shut down alternator using ALT switch, turn off unnecessary electrical equipment, and land at the nearest airport
 
-{sop} actions to take if engine is rough in flight
+{sop,critical} actions to take if engine is rough in flight
 apply carburator heat if not fuel injected, switch to a different fuel tank, enrich the mixture, try only left or only right magneto, turn on the auxilliary fuel pump
 
 {sop} actions to take if moderate or severe turbulence is encountered
@@ -3696,6 +3684,9 @@ military training route
 {chart} meaning of light blue line with V68 etc. on sectional chart
 centerline of a low altitude federal airway, aka Victor airway, which is used for IFR routes
 
+{chart,critical} how Victor vs. military routes are depicted on sectional chart
+light blue line with V68 etc.; thin gray line with IR-149 etc.
+
 {chart} on sectional chart, meaning of following letters inside a magenta diamond with an airplane under it: G, U, H, UA
 glider, ultralight, hang glider, unmanned aircraft
 
@@ -3711,16 +3702,13 @@ FAA publications that cover regulations and safety issues
 {reg} duration of student pilot certificate
 indefinite if after April 2016
 
-{reg} aircraft that can be flown under BasicMed
-Max takeoff weight of 6000 lbs, max 6 people
-
-{reg} operational limitations of BasicMed
-no higher than 18000 MSL, no faster than 250 knots, not for compensation or hire
+{reg,critical} limitations of BasicMed
+max takeoff weight of 6000 lbs, max 6 people; no higher than 18000 MSL, no faster than 250 knots, not for compensation or hire
 
 {reg} POH vs. information manual
 POH is official FAA doc for a specific airplane and kept up to date, copy of a generic POH for a make+model and not kept up to date
 
-{reg} FAR parts for airman,medical,flight
+{reg,critical} FAR parts for airman,medical,flight
 61, 67, 91
 
 {reg} exceptions where private pilot may carry passengers for hire
@@ -5295,11 +5283,8 @@ on before departure; off after after-landing checklist
 {sys} if the engine is too lean
 runs hot and rough
 
-{sys} can happen if engine gets too hot
-cracked cylinders, detonation
-
-{sys} what happens if engine is too rich 
-higher fuel burn, might be too cool, runs rough at higher altitude, clogged spark plugs
+{sys} can happen if engine gets too hot vs. too rich
+cracked cylinders, detonation; higher fuel burn, might be too cool, runs rough at higher altitude, clogged spark plugs leading to pre-ignition
 
 {sys} what happens if there is carburator ice with constant-speed propeller
 manifold pressure will go down, prop will auto-adjust to keep RPM until it can no longer adjust
@@ -5403,7 +5388,7 @@ wingtip vortices
 {sop} places in turn-about-a-point where bank is the steepest and why
 downwind in order to maintain constant turning radius
 
-{sop} places in rectangular course where turns are steepest, shallowest
+{sop,critical} places in rectangular course where turns are steepest, shallowest
 downwind-to-base, upwind-to-crosswind (other two points are same bank)
 
 {sop} what to remember during engine-out emergency
