@@ -5798,3 +5798,6 @@ anti-servo trim on rudder (helps with left-turning tendencies); elevator trim (a
 
 {chart,critical} on airport diagram, empty rectangle beyond the end of the runway
 blast pad
+
+{sop} TAWS
+terrain awareness warning system
