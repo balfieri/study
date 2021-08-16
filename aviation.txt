@@ -654,8 +654,8 @@ land well short of takeoff point
 {sop} action to take if you are taking off just as large aircraft landed
 take off well past the touch-down point
 
-{chart} explain the hemispheric rule
-applies to VFR 3000 ft AGL to 17999 ft MSL, eastbound odd-thousands + 500, westbound even-thousands + 500
+{chart,critical} explain the hemispheric rule
+applies to VFR 3000 ft AGL to 17999 ft MSL; eastbound odd-thousands + 500; westbound even-thousands + 500; magnetic course (TC+MV)
 
 {pilot,critical} hypoxias
 hypoxic (lungs); hypemic (blood); stagnant (pooling); hystotoxic (cells)
