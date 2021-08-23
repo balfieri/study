@@ -3721,7 +3721,7 @@ FAA publications that cover regulations and safety issues
 indefinite if after April 2016
 
 {reg,critical} limitations of BasicMed
-max takeoff weight of 6000 lbs, max 6 seats; no higher than 18000 MSL, no faster than 250 knots, not for compensation or hire; no international flights
+max takeoff weight of 6000 lbs; max 6 seats; no higher than 18000 MSL; no faster than 250 knots; not for compensation or hire; no international flights
 
 {reg} POH vs. information manual
 POH is official FAA doc for a specific airplane and kept up to date, copy of a generic POH for a make+model and not kept up to date
