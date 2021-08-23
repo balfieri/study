@@ -4861,7 +4861,7 @@ turn back to the nearest airport with fuel, headwinds will become tailwinds
 magnetic course does not account for wind
 
 {perf,critical} headings
-true course (TC) - intended course on the sectional chart; true heading (TH) - true course corrected for wind effects; magnetic variation (MV) - difference between true north and magnetic north (west is +, east is -); magnetic course (MC) - TC + MV; magnetic heading (MH) - TH + MV; magnetic deviation (DEV) - per-aircraft compasss correction; compass heading (CH) - MH + DEV
+true course (TC) - intended course on the sectional chart; true heading (TH) - true course corrected by crosswind component; magnetic variation (MV) - difference between true north and magnetic north (west is +, east is -); magnetic course (MC) - TC + MV; magnetic heading (MH) - TH + MV; magnetic deviation (DEV) - per-aircraft compasss correction; compass heading (CH) - MH + DEV
 
 {perf} VFR altitudes are based on magnetic course, not true heading or magnetic heading (yes/no)
 yes
