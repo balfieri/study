@@ -211,7 +211,7 @@ altimeter, airspeed indicator, vertical speed indicator
 attitude indicator, heading indicator
 
 {reg,critical} EBGAAR right-of-way rules
-emergency; balloon; glider; aircraft towing/refueling; airship; rotocraft/airplane
+emergency; balloon; glider; aircraft towing/refueling; airship; rotocraft/airplane; overtaken aircraft; aircraft at lower altitude on landing
 
 {reg} speed limits (below 10,000 ft, below 2500 ft class C/D, underlying class B)
 250, 200, 200
@@ -879,7 +879,7 @@ lift, weight, thrust, drag
 {perf} types of drag
 parasite, induced
 
-{perf} types of parasite drag
+{perf,critical} types of parasite drag
 form, skin friction, interference
 
 {perf} how parasite drag changes with speed
@@ -5801,3 +5801,9 @@ blast pad
 
 {sop} TAWS
 terrain awareness warning system
+
+{pilot} general formula for how long to wait after a medication
+5 times the dosing interval
+
+{perf} effect of ground effect
+lowers induced drag
