@@ -880,7 +880,7 @@ lift, weight, thrust, drag
 parasite, induced
 
 {perf,critical} types of parasite drag
-form, skin friction, interference
+form - due to its shape and airflow around it; interference - airflow intersects and interacts with another airflow; skin friction - due to irregularities in surface of wing in particular
 
 {perf} how parasite drag changes with speed
 increases
