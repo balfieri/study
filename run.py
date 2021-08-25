@@ -137,8 +137,7 @@ while True:
                         print( s + ':' )
                     else:
                         ss = s.split( '; ' )
-                        for s in ss:
-                            print( s )
+                        for s in ss: print( s )
                         print()
                     pause_sec = skip_pause_sec if len(s) <= 40 else int(skip_pause_sec * len(s) / 40)   # more time for long strings
                     if skip_pause_sec > 0: time.sleep( pause_sec )
@@ -147,8 +146,8 @@ while True:
                 if ua_lc == a_lc: 
                     correct_cnt += 1
                 else:
-                    prefix = 'Wrong!  ' if ua_lc != '' else ''
-                    print( prefix + a )
+                    ss = a.split( '; ' )
+                    for s in ss: print( s )
                     missed_questions.append( ii )
         if skip_prompts: break
         pct = int( 100.0 * correct_cnt / curr_question_cnt + 0.5 )
