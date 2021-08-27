@@ -334,7 +334,7 @@ aviate, navigate, communicate
 lack of pilot currency, loss of situational awareness, pilot distractions, failure to comply with minimum safe altitudes, breakdown in effective ADM, insufficient planning
 
 {sys} complex aircraft features
-retractable landing gear, controllable pitch propeller, flaps
+retractable landing gear, controllable pitch propeller, movable or adjustable flaps
 
 {sys} high-performance aircraft features
 more than 200 HP
