@@ -943,7 +943,7 @@ drag from the downward aileron is greater than the upward aileron
 uncontrolled firing of fuel/air mixture after the intended spark, mixture violently explodes rather than burning smoothly, causes excessive temperatures and pressures which can quickly lead to failure of a piston/cylinder/valve or (less severely) overheating/roughness/loss-of-power
 
 {sys} causes of detonation
-excess temperature, low-octane fuel, extremely high manifold presssures with low RPM, excessively lean mixture with high RPM, extended ground operations or steep climbs where cylinder cooling is reduced
+excess temperature, low-octane fuel, extremely high manifold pressures with low RPM, excessively lean mixture with high RPM, extended ground operations or steep climbs where cylinder cooling is reduced
 
 {sys} actions to take when dealing with detonation
 ensure proper fuel, keep cowl flaps open while on the ground, enrich the mixture, avoid extended high-RPM steep climbs, monitor engine instruments more closely
@@ -2212,7 +2212,7 @@ radio transmitter used for testing the accuracy of aircraft VOR receivers, they 
 960, 1215
 
 {sys} three functional elements of GPS
-space element (30 satellites), control element (network of ground-based GPS monitoring and control stations), user element (antennas and processsors onboard aircraft)
+space element (30 satellites), control element (network of ground-based GPS monitoring and control stations), user element (antennas and processors onboard aircraft)
 
 {sys} types of GPS receivers
 fully integrated VFR/IFR, handheld
@@ -3298,7 +3298,7 @@ cold front; warm front; occluded front; stationary front
 temperature of air, warm can hold more than cold
 
 {weather} conditions associated with wind shear
-thunderstorms, low-level temperature inversions, frontal passsage, microbursts, jet stream
+thunderstorms, low-level temperature inversions, frontal passage, microbursts, jet stream
 
 {weather} occluded front occurs when
 warm air mass is trapped between two colder air masses and is forced aloft to higher levels
@@ -4861,7 +4861,7 @@ turn back to the nearest airport with fuel, headwinds will become tailwinds
 magnetic course does not account for wind
 
 {perf,critical} headings
-true course (TC) - intended course on the sectional chart; true heading (TH) - true course corrected by crosswind component; magnetic variation (MV) - difference between true north and magnetic north (west is +, east is -); magnetic course (MC) - TC + MV; magnetic heading (MH) - TH + MV; magnetic deviation (DEV) - per-aircraft compasss correction; compass heading (CH) - MH + DEV
+true course (TC) - intended course on the sectional chart; true heading (TH) - true course corrected by crosswind component; magnetic variation (MV) - difference between true north and magnetic north (west is +, east is -); magnetic course (MC) - TC + MV; magnetic heading (MH) - TH + MV; magnetic deviation (DEV) - per-aircraft compass correction; compass heading (CH) - MH + DEV
 
 {perf} VFR altitudes are based on magnetic course, not true heading or magnetic heading (yes/no)
 yes
@@ -5077,7 +5077,7 @@ none, but they do charge for replacements
 systematically focus on small segments of the sky looking for relative movement
 
 {pilot} what topics should be covered when briefing passengers about seatbelts
-how to fasten and unfasten seatbelts and harnessses, that they must be worn during taxi, takeoff, and landing
+how to fasten and unfasten seatbelts and harnesses, that they must be worn during taxi, takeoff, and landing
 
 {chart} significance of red balls along power lines
 none in particular
