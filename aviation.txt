@@ -1573,7 +1573,7 @@ no rainfall in past 24 hours
 winds light and variable
 
 {chart,critical} reasons there is no circle around some airports on sectional chart
-runway > 8069 ft; abutted runways > 8069 ft
+runway > 8069 ft; abutted runways > 8069 ft; 8069 ft has to do with the scale at which the sectional is drawn
 
 {chart} dotted purple on sectional chart
 air defense identification zone
