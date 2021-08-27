@@ -4,9 +4,9 @@ However, in test files like aviation.txt, the answers are too long, so one norma
 
 Further, there's another mode where you can tell it to simply print the question, pause, print the answer, pause, and then move on.  You don't have to click any buttons or type anything. Just say the answer in your head. Extra long answers will have additional delay added.  When it gets to the end of the questions, it currently just stops.  I am working on a way to have it speak the question and answer so you can quiz yourself while not looking at the screen (e.g., while driving). 
 
-Each question in the file can be associated with one or more categories in {} separated by commas. In aviation.txt, the most important questions are also part of the "critical" category. Otherwise, categories include: reg, sys, perf, pilot, sop, weather, chart, etc. The program will prompt for the category you want to test - if you hit enter, it will use all categories.
+Each question in the file can be associated with one or more categories in {} separated by commas. In aviation.txt, the most important questions are also part of the "critical" category. Otherwise, categories include: reg, sys, perf, pilot, sop, weather, weathersymbol, chart. The program will prompt for the category you want to test - if you hit enter, it will use all categories. [I will soon allow the category on the command line.]
 
-Answers in the file will be split along semicolons onto separate lines. The answer must be all on one line in the file, so this allows a more pleasant output.
+Answers in the file will be split along semicolons onto separate lines. The answer must currently be all on one line in the file, so this allows a more pleasant output. [I might change that to just allow multi-line answers in the file as there is already a blank line between questions.]
 
 There are a few text files provided for various topics of my interest. Feel free to use them or add your own:
 
