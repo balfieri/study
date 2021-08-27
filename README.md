@@ -26,7 +26,7 @@ This is all open-source. Refer to the LICENSE.md for licensing details.
 
 By the way, there is a roundabout way to run this on iOS. Use an app called Working Copy to clone this git repo, then use another app called PyTo to run the Python interpreter on iOS. You will need to enable Working Copy to be a Files "location" in order for PyTo to see the repo on your phone.  Once it's set up, you just need to "git pull" the repo occasionally. It's a pain to type answers on iOS, so this is a perfect place where you'll likely want it to just print the questions and answers with delays.
 
-For aviation.txt, I need to add a way to narrow down the aircraft type for which questions can be asked. Currently, I include questions about both 172SP and PA28.
+For aviation.txt, I need to add a way to narrow down the aircraft type for which questions can be asked. Currently, I include questions about both 172SP and PA-28-161, which are the two planes I currently fly.
 
 Bob Alfieri<br>
 Chapel Hill, NC
