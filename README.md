@@ -4,6 +4,8 @@ There's another mode where you can tell it to simply print the question, pause, 
 
 Each question in the file can be associated with one or more categories in {} separated by commas. In aviation.txt, the most important questions are also part of the "critical" category. Otherwise, categories include: reg, sys, perf, pilot, sop, weather, charts, etc. The program will prompt for the category you want to test.
 
+Answers in the file will be split by semicolons onto separate lines (the answer must be all on one line in the file, so this allows a more pleasant output).
+
 There are a few text files provided for various topics of my interest. Feel free to use them or add your own:
 
     italian.txt
