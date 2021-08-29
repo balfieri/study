@@ -2806,7 +2806,7 @@ flashing yellow
 red
 
 {chart,critical} taxiway lights
-edge - blue; centerline - green; lead on/off - alternating green and yellow; clearance bar - yellow; runway guard - flashing yellow; stop bar - red
+edge - blue; centerline - green; clearance bar - yellow; runway guard - flashing yellow; runway stop bar (for hold before crossing clearance from ATC) - red; runway lead on/off (after red lights cleared by ATC) - alternating green and yellow
 
 {chart} types of obstruction lighting
 aviation red obstruction lights during nighttime, medium and high intensity white obstruction lights during daytime, dual lighting, combination of previous two, catenary flashing white markers for high voltage transmission lines and support structures
