@@ -576,8 +576,8 @@ redundancy in case vacuum pump is broken
 {sys} 172SP number of vacuum pumps
 2
 
-{sys,critical} purposes of engine oil
-cool; lubricate; inhibit corrosion; seal; clean
+{sys,critical} purposes of engine oil (CLICS)
+cool; lubricate; inhibit corrosion; clean; seal
 
 {reg} grace periods (annual, 100-hour, ADs)
 none, 10 hours, none
