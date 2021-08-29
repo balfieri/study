@@ -765,8 +765,8 @@ activated when a certain force threshold is detected by its accelerometers, tran
 {pilot,critical} explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving and how to avoid it
 decompression sickness; wait 12 hours for uncontrolled (non-decompression) ascent when flying up to 8000 ft MSL; wait 24 hours if controlled (decompression) ascent OR when flying over 8000 ft MSL
 
-{weather} how to get wind shear reports
-PIREPs, ATC, ATIS (if working)
+{weather,critical} how to get wind shear reports
+PIREPs, ATC, ATIS (if working), LLWAS, visual observation, on-board weather radar, on-board predictive wind shear system
 
 {weather,critical} causes of wind shear
 thunderstorms; high temperature inversion; fast winds aloft
