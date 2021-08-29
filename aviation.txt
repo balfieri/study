@@ -138,8 +138,8 @@ flashing green - return to land, clear to taxi; steady green - clear to land, cl
 {pilot} accident cause factors
 inadequate planning, failure to maintain speed, failure to maintain directional control, improper level-off, failure to avoid obstructions, mismanagement of fuel, improper inflight decisions, misjudging distance or speed, selection of unsuitable terrain, improper operation of flight controls
 
-{reg} flight review (how often, ground, training)
-2 years, 1 hour, 1 hour
+{reg,critical} flight review (how often, ground time, air time)
+every 24 months regardless; 1 hour ground; 1 hour training
 
 {sop} maneuvers to lose altitude
 360-degree turns, s-turns, forward slip
@@ -213,8 +213,8 @@ attitude indicator, heading indicator
 {reg,critical} EBGAAR right-of-way rules
 emergency; balloon; glider; aircraft towing/refueling; airship; rotocraft/airplane; overtaken aircraft; aircraft at lower altitude on landing
 
-{reg} speed limits (below 10,000 ft, below 2500 ft class C/D, underlying class B)
-250, 200, 200
+{reg,critical} VFR speed limits
+below 10000 ft - 250; below 2500 ft class C/D - 200; underlying class B - 200
 
 {reg,critical} < 40-year-old medical review in months by class (1st, 2nd, 3rd)
 12, 12, 60
@@ -273,8 +273,8 @@ wide area augmentation system is a ground and satellite integrated nav error cor
 {sys} CTAF
 common traffic advisory frequency
 
-{chart} CTAF vs. UNICOM
-CTAF may be UNICOM, MULTICOM, FSS, or TOWER frequency
+{chart,critical} CTAF may be one of
+UNICOM, MULTICOM, FSS, or TOWER frequency; can clarify using chart supplement
 
 {chart} UNICOM
 non-government communication facility
@@ -325,7 +325,7 @@ from sunset to sunrise
 runway end identification light
 
 {chart,critical} beacons
-land - white/green; hospital - white/green/red; seaport - white/yellow; heliport - white/green/yellow; military - white/white/green
+land - white/green; hospital - white/green/red; seaplane base - white/yellow; heliport - white/green/yellow; military - white/white/green
 
 {pilot} how to prioritize when overloaded
 aviate, navigate, communicate
@@ -615,7 +615,7 @@ no, the 172SP has no carburator
 {sys} signs of carb ice
 reduction in RPM for a given throttle setting
 
-{sys} circumstances in which you may intentionally spin a 172SP
+{sys,critical} circumstances in which you may intentionally spin a 172SP
 weight and balance must be in utility category
 
 {sys} when to use pitot heat
@@ -684,13 +684,13 @@ yes, if deactivated and placarded
 {pilot} symptoms of hypoxia
 poor judgement, confusion, memory, alertness, visual acuity and coordination, sensation of euphoria or sometimes even belligerence can occur (a macho attitude), dizziness, headache, drowsiness, cyanosis (blue coloration of lips and fingernails)
 
-{pilot} hyperventilation
+{pilot,critical} hyperventilation
 abnormal increase in the breathing rate that leads to a deficiency of carbon dioxide, usually brought on by stress or fear while flying and often begins subconsciously
 
-{pilot} symptoms of hyperventilation
+{pilot,critical} symptoms of hyperventilation
 generally same as hypoxia, rapid breathing, rapid heart rate, lightheadedness, dizziness, drowsiness, tingling in the extremities, hot and cold sensations, muscle spasms, feeling of suffocation that may ultimately lead to unconsciousness
 
-{pilot} how to relieve hyperventilation
+{pilot,critical} how to relieve hyperventilation
 breath into bag, talk outloud
 
 {sop} actions to take if we don't have an airport map or feel uncomfortable at the airport
@@ -996,7 +996,7 @@ mechanical, clear-air (jet stream), wake, wind shear, thermal
 {chart} how to know if a paved-runway airport is private
 "(pvt)" is in the name on sectional chart
 
-{chart} symbol on sectional chart to indicate a seaport
+{chart} symbol on sectional chart to indicate a seaplane base
 anchor
 
 {weather} dangerous thunderstorms we may see along cold front
@@ -1734,8 +1734,11 @@ visible moister below freezing temps at point moisture strikes aircraft
 {sop} what to do when you encounter icing
 leave area: descend below cloud base, climb above cloud tops, turn to a different heading
 
-{perf} why frost is hazardous
-roughness spoils smooth flow of air, resulting in loss of lift
+{perf} adverse aerodynamic effects of frost or structural icing
+decreased lift, increased drag, increased stall speed, unexpected control problems, blocked or restricted movement of control surfaces, tail-plane or horizontal stabilizer stall, blockage of pitot tube and static ports, blockage of engine induction air
+
+{perf,crtical} why frost is hazardous
+roughness spoils smooth flow of air, reducing lift by up to 30%; increased drag by up to 40%; can cause assymetric stalls, reduces critical angle of attack by up to several degrees; all these have resulted in accidents
 
 {weather} temperature inversion
 increase in temperature with height
@@ -2244,7 +2247,7 @@ no, you must explicitly ask for them
 {sys} limitations of panel-mount or handheld VFR GPS system
 no RAIM, database out of date, poor antenna location
 
-{chart} VFR waypoint
+{chart,critical} VFR waypoint
 begin with letters "VP", reporting points around class B and C airspace and special-use airspace
 
 {reg} what happens to VFR flight plan that you are unable to activate in-flight
@@ -2512,7 +2515,7 @@ on chart, https://sua.faa.gov
 normally on reverse side of VFR terminal area chart (aka class B airspace chart)
 
 {chart,critical} military training routes altitude ranges
-< 1500 ft AGL are VFR (4-digit ids, e.g., VR-1008); >= 1500 ft AGL are usually IFR (3-digit ids, eg., IR-3, IR-83, VR-425); we should not use for navigation due to fighter jets
+< 1500 ft AGL are VFR (4-digit ids, e.g., VR-1008); >= 1500 ft AGL are usually IFR (3-digit ids, eg., IR-3, IR-83, VR-425); we should not use for navigation due to fighter jets (i.e., > 250 kts); pilots can contact FSSs within 100 NM of a particular MTR to obtain current information or route usage in their vicinity
 
 {chart} ADIZ locations
 domestic (along U.S. border), coastal, distant early warning identification zone (DEWIZ) over coastal waters of Alaska, land-based ADIZ over U.S. metro areas (activated via NOTAMs)
@@ -2667,20 +2670,8 @@ https://pilotweb.nas.faa.gov/PilotWeb/
 {weather} five categories of NOTAMs
 (D), FDC, pointer, SAA, military
 
-{weather} (D) NOTAM
-info that requires wide dissemination pertaining to nav aids, civic public-use airports, facilities, services, and procedures
-
-{weather} FDC NOTAM
-flight info that is regulatory in nature, including changes to IFR charts, procedures, and airspace usage
-
-{weather} pointer NOTAM
-issued by an FSS to point to another NOTAM
-
-{weather} SAA NOTAM
-issued when special advisory airspace will be active outside published schedule times
-
-{weather} military NOTAM
-pertain to U.S. armed forces nav aids/airports that are part of the NAS
+{weather,critical} kinds of NOTAMs
+(D) - info that requires wide dissemination pertaining to nav aids, civic public-use airports, facilities, services, and procedures; FDC - flight info that is regulatory in nature, including changes to IFR charts, procedures, and airspace usage; pointer - issued by an FSS to point to another NOTAM; SAA - issued when special advisory airspace will be active outside published schedule times; military - pertain to U.S. armed forces nav aids/airports that are part of the NAS
 
 {weather} (D) NOTAM keywords
 RWY, TWY, RAMP, APRON, AD, OBST, NAV, COM, SVC, AIRSPACE, (U) unverified, (O) other
@@ -2813,6 +2804,9 @@ flashing yellow
 
 {chart} taxiway stop bar lights
 red
+
+{chart,critical} taxiway lights
+edge - blue; centerline - green; lead on/off - alternating green and yellow; clearance bar - yellow; runway guard - flashing yellow; stop bar - red
 
 {chart} types of obstruction lighting
 aviation red obstruction lights during nighttime, medium and high intensity white obstruction lights during daytime, dual lighting, combination of previous two, catenary flashing white markers for high voltage transmission lines and support structures
@@ -3264,7 +3258,7 @@ icing on horizontal stabilizer, raises nose; loss of negative lift from icing su
 {weather} wind shear
 abrupt change in wind direction and/or speed
 
-{weather} how frost forms
+{weather,critical} how frost forms
 a collecting surface is at or below the dew point and the dew point is below freezing
 
 {weather} microburst
@@ -3287,9 +3281,6 @@ visual avoidance, lightning detection devices such as a Stormscope(R), NEXRAD ra
 
 {weather} TAF update interval, valid period
 6 hours, 24 or 30 hours
-
-{perf} adverse aerodynamic effects of frost or structural icing
-decreased lift, increased drag, increased stall speed, unexpected control problems, blocked or restricted movement of control surfaces, tail-plane or horizontal stabilizer stall, blockage of pitot tube and static ports, blockage of engine induction air
 
 {weather,critical} front represented by string of blue triangles, string of red semicircles, purple triangles+semicircles, read semicircles and blue trangles on alternating sides
 cold front; warm front; occluded front; stationary front
@@ -4545,8 +4536,8 @@ yes, oil takes more time to heat up or cool down
 {sys} what sits between crankshaft and piston
 connecting rod
 
-{sys} 172SP fuel system
-2 tanks, fuel flows from each wing by gravity to selector valve (which should be one BOTH for takeoff and landing and normally), fuel goes through electrically powered auxilliary fuel pump bypassing the shutoff valve, then flows through the fuel strainer and the engine driven fuel pump into the fuel/air control unit, the fuel/air mixture (ratio governed by mixture control, air governed by throttle) then flows through the fuel distribution valve into the cylinders
+{sys,critical} 172SP fuel system
+2 tanks; fuel flows from each wing by gravity to selector valve (which should be one BOTH for takeoff and landing and normally); fuel goes through electrically powered auxilliary fuel pump bypassing the shutoff valve; then flows through the fuel strainer and the engine driven fuel pump into the fuel/air control unit; the fuel/air mixture (ratio governed by mixture control, air governed by throttle) then flows through the fuel distribution valve into the cylinders
 
 {sys} exhaust gas temperature gauge (EGT)
 measurement of internal combustion temperature of the engine, indirectly related to the quality of the fuel/air mixture entering the engine
@@ -4719,7 +4710,7 @@ sloping cloud formation, obscured horizon, aurora borealis, dark scene spread wi
 {pilot} why pilots should be particularly concerned about hypoxia at night
 even as low as 5000 ft a pilot can begin to lose night vision (effectiveness of rods) due to altitude or hypoxia
 
-{pilot} actions to take if passenger is airsick
+{pilot,critical} actions to take if passenger is airsick
 talk to passenger, make sickness bag available, provide ventilation, allow passenger to place hands on the controls to help feel what aircraft is doing next, make more gradual control changes, perhaps land somewhere to take a break
 
 {pilot} reasons why new safety features and technology don't seem to be lowering the accident rate much in general aviation
@@ -4734,8 +4725,8 @@ increases awareness of importance of attitude, teaches ability to search for and
 {pilot} sinus block occurs most frequently during descent (yes/no)
 yes
 
-{pilot} signs that could alert a pilot to CO poisoning if the aircraft does not have a working CO detector
-odor of exhaust fumes (most likely culprit), headache, dizziness, drowsiness
+{pilot,critical} signs that could alert a pilot to CO poisoning if the aircraft does not have a working CO detector
+odor of exhaust fumes (most likely culprit), headache, dizziness, drowsiness, nausea, shortness of breath, confusion, blurred vision, loss of consciousness
 
 {pilot} illusions that can lead to landing errors
 runway width illusion, runway and terrain slopes illusion, featureless terrain illusion, atmosphere illusions (haze/fog), ground lighting illusions (can be mistaken for runway lights)
@@ -4755,10 +4746,10 @@ IMC, dark night flying conditions
 {pilot} ear block is more dangerous to a pilot than a sinus infection (yes/no)
 yes, sinus infection will become painful during assent (can lower altitude) while ear block manifests itself during descent
 
-{pilot} how to tell if a person has hyperventilation vs. hypoxia by looking at them
+{pilot,critical} how to tell if a person has hyperventilation vs. hypoxia by looking at them
 turning red vs. turning blue
 
-{pilot} symptoms of hypoxia particularly above 15000 ft
+{pilot,critical} symptoms of hypoxia particularly above 15000 ft
 periphery of visual field grays out (tunnel vision), blue coloration of fingernails and lips
 
 {pilot} why pilots should focus on small areas of the sky during scans
@@ -5807,3 +5798,48 @@ terrain awareness warning system
 
 {perf} effect of ground effect
 lowers induced drag
+
+{chart,critical} UNICOM vs. CTAF 
+if UNICOM is designated as the CTAF frequency, say "UNICOM" when addressing the FBO for ground services, "TRAFFIC" when announcing position and intentions; if UNICOM isn't designated as the CTAF frequency, use 122.9 MULTICOM for announcing position and intentions (unless CT frequency has C next to it)
+
+{sop,critical} flight service station (FSS) provide 
+a variety of services including pilot briefings, weather observations, pilot reports, flight plan processing, search and rescue services, assistance to lost aircraft and aircraft in emergencies.
+
+{sop,critical} number in box next to Vnnnn airways
+distance in nm between VORs
+
+{chart,critical} white box around a class B airspace
+boundary of terminal area chart (TAC)
+
+{sop,critical} when must you use nav/pos lights
+between sunset and sunrise; in AK, if you can't see an object 3 SM away or sun is > 6 deg below horizon; NY SFRA Hudson River corridor
+
+{sys,critical} flaps provide
+same lift at lower speed, or more left at same speed
+
+{perf,critical} why engine, prop, and wings prefer cold air to warm air
+more air molecules to grab onto in the same volume
+
+{perf,critical} cause of huge jump in airspeed while landing and what to do about it
+wind shear headwind; reduce power
+
+{chart,critical} rules for crossing MOA, alert area, restricted area, wildlife preserve
+MOA. alert - may do so but not wise; restricted area - must contact controlling authority; wildlife preserve - must fly at least 2000 ft AGL
+
+{reg,critical} high-performance vs. complex vs. technologically-advanced aircraft
+high-perf - more than 200 HP; complex - retractable landing gear, controllable pitch propeller, movable or adjustable flaps; TAA - AP, glass panel or GPS
+
+{sys,critical} what the master switch controls
+flow of electricity from alternator+battery
+
+{sop,critical} purpose of airport beacon
+indicate the location of a lighted airport; rotating beacon is an integral part of an airfield lighting system
+
+{chart,critical} what does it mean when there is a * next to a CT frequency on sectional chart
+control tower operation is part-time; consult the chart supplement for more details
+
+{sop,critical} how to recover from wind shear
+climb away from the ground at Vy; for headwind wind shear, reduce power, but get be ready for following tailwind wind shear; for tailwind wind shear, full power and pitch up and fly on the edge of stall speed
+
+{sop,critical} how to land behind a jet
+stay above the jet's glide path and land well beyond its touchdown point
