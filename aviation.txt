@@ -5846,3 +5846,6 @@ stay above the jet's glide path and land well beyond its touchdown point
 
 {sop} flying the NY SFRA Hudson River Corridor
 self-announce on 123.05: "Hudson River Traffic: Skyhawk, VZ, northbound, 1300"; fly along east shoreline when northbound; go just under 1000 ft when circling Statue of Liberty; report points (northbound): VZ, Statue of Liberty or Governor's Island, CLOCK, Intrepid, GWB, Alpine Tower
+
+{sop} how to fly into DC FRZ, Hyde Field (W32) from the south
+get IFR flight plan filed with DC (call (703) 771‐3476) using gate GRUBY (W32) which keeps us east of DCA: “I’d like to file an FRZ flight plan to Hyde Field (W32). I am familiar with the Washington DC special flight rules and procedures.”; ask for flight following all the way to W32; when they hand you off to Potomic, 5-10nm outside SFRA: "Potomac Approach, N12345, 2800 ft over <waypoint>, FRZ flight on file to Hyde Field
