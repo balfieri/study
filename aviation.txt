@@ -5843,3 +5843,6 @@ climb away from the ground at Vy; for headwind wind shear, reduce power, but get
 
 {sop,critical} how to land behind a jet
 stay above the jet's glide path and land well beyond its touchdown point
+
+{sop} flying the NY SFRA Hudson River Corridor
+self-announce on 123.05: "Hudson River Traffic: Skyhawk, VZ, northbound, 1300"; fly along east shoreline when northbound; go just under 1000 ft when circling Statue of Liberty; report points (northbound): VZ, Statue of Liberty or Governor's Island, CLOCK, Intrepid, GWB, Alpine Tower
