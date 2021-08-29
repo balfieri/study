@@ -5197,7 +5197,7 @@ clearing turns, altitude that is appropriate for maneuver, safe area
 Gas both tanks (172SP), Undercarriage (gear down), Mixture rich, Propeller RPMs high, Switches/Silence
 
 {chart,critical} *RP
-right pattern, but see chart supplement for exceptions
+right pattern, but see chart supplement (e.g., might apply only to helicopters as at W32)
 
 {chart,critical} HS on airport diagram
 hot spot, typically an intersection where there is a lot of congestion OR confusion
