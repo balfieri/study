@@ -1090,7 +1090,7 @@ magnetic course
 the leans - illusion that you are flying level when you are actually in a gradual bank; graveyard spin - illusion that you are spinning in the opposite direction than reality; graveyard spiral - illusion that you are in an opposite bank after correcting a bank when in fact you are flying level; somatogravic illusion - illusion that you are nose up during acceleration; head-down illusion - illusion that you are nose down during deceleration; Coriolis illusion - after a sudden head movement, illusion that you are rolling, pitching and yawing; inversion illusion - when transitioning from climb to level flight, illusion that you are tumbling backward, potentially causing you to push the nose down; elevator illusion - an illusion that you are climbing after a sudden updraft, or descending after a sudden downdraft
 
 {pilot,critical} optical illusions
-autokinesis - at night, pilot fixates on a light and it seems to be moving; false horizon - at night, pilot inadvertently orients the aircraft with a false horizon (e.g., sloping clouds, terrain, etc.); linear perceptive illusions - when pilot's sight-picture during landing is different from what he/she is used to; precipitation illusions - caused by rain, fog, or haze. rain may cause runway lights at night to appear brighter and thus appear closer, fog and haze may cause objects to appear farther away; black-hole approach - when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descends too quickly; white-out - when flying over snow-covered terrain there is no obvious distinction between sky and terrain; empty field myopia - when your eyes have nothing to focus on, they may focus only 10-20 ft ahead and you have no idea how close you are to the underlying terrain; confirmation bias - seeing/hearing what you want to see/hear when reality is different; sensory exclusion - when you are overly focused on one of your senses that you ignore the others; runway width illusion - makes you think you are higher; runway slope illusion - positive slope makes you think you are higher
+autokinesis - at night, pilot fixates on a light and it seems to be moving; false horizon - at night, pilot inadvertently orients the aircraft with a false horizon (e.g., sloping clouds, terrain, etc.); linear perceptive illusions - when pilot's sight-picture during landing is different from what he/she is used to; precipitation illusions - caused by rain, fog, or haze. rain may cause rlead on/off - alternating green and yellowunway lights at night to appear brighter and thus appear closer, fog and haze may cause objects to appear farther away; black-hole approach - when landing at night with a final approach over water or unlit terrain, pilot overestimates the glide path and descends too quickly; white-out - when flying over snow-covered terrain there is no obvious distinction between sky and terrain; empty field myopia - when your eyes have nothing to focus on, they may focus only 10-20 ft ahead and you have no idea how close you are to the underlying terrain; confirmation bias - seeing/hearing what you want to see/hear when reality is different; sensory exclusion - when you are overly focused on one of your senses that you ignore the others; runway width illusion - makes you think you are higher; runway slope illusion - positive slope makes you think you are higher
 
 {pilot} leans illusion
 illusion that you are flying level when you are actually in a gradual bank; occurs when relying on physical sensations rather than instrumentation
@@ -2589,8 +2589,11 @@ get rid of it, turn aircraft into the sun, use credit card to scrape it, use dei
 {chart} purpose of blast pad 
 off-limit area before takeoff over which thrust may go to avoid environmental damage
 
-{chart} when runway edge lights change color
+{chart,critical} when runway edge lights change color
 to amber toward last 1/2 or 2000 ft of runway, whichever is less
+
+{chart,critical} when runway center lighs change color
+to alternating white and read at 2000 ft remaining, then red for last 1000 ft
 
 {chart} color of threshold lights
 green (red on the other side)
