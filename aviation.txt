@@ -156,9 +156,6 @@ observed, observed, observed, 24, on report, 1, 6, 4, 2
 {weather,critical} requirements for thunderstorms
 moist air, unstable lapse rate, initial lifting force
 
-{weather} stages of thunderstorm
-cumulus, mature, dissipative
-
 {weather,critical} types of structural ice
 clear, rime, mixed (both)
 
@@ -4428,14 +4425,8 @@ Coastal Route, Mini Route, Special Flight Rule, Hollywood Park Route, Colliseum 
 {weather} winds aloft normally flow parallel to isobars (yes/no)
 yes, due to Coriolis force, more of an angle at the surface due to friction
 
-{weather} cumulus stage of a thunderstorm
-the building stage of a thunderstorm characterized by updrafts only, all thunderstorms begin as cumulus clouds but not all cumulus clouds become thunderstorms
-
-{weather} mature stage of a thunderstorm
-updrafts and downdrafts both occur at this point, violent turbulence can be experienced if flight is attempted beneath a cumulonimbus cloud because of this shear zone, the mature stage can be recognized by the beginning of rainfall
-
-{weather} dissipating stage of a thunderstorm
-at this point the cloud is only giving off downdrafts and the thunderstorm is dissipating, during this stage large cumulonimbus clouds may have a recognizable “anvil top” that is a portion of the cloud that has been sheared off by the jet stream, the direction in which the anvil top is facing also shows the direction in which the storm is moving
+{weather,critical} stages of thunderstorm
+cumulus - the building stage of a thunderstorm characterized by updrafts only, all thunderstorms begin as cumulus clouds but not all cumulus clouds become thunderstorms; mature - updrafts and downdrafts both occur at this point, violent turbulence can be experienced if flight is attempted beneath a cumulonimbus cloud because of this shear zone, the mature stage can be recognized by the beginning of rainfall; dissipating - at this point the cloud is only giving off downdrafts and the thunderstorm is dissipating, during this stage large cumulonimbus clouds may have a recognizable “anvil top” that is a portion of the cloud that has been sheared off by the jet stream, the direction in which the anvil top is facing also shows the direction in which the storm is moving
 
 {weather} Flight Watch (EFAS)
 Enroute Flight Advisory Service – provides up to date weather advisories for pilots while enroute 
