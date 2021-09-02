@@ -4638,8 +4638,8 @@ unverified airport
 {chart} "FSS" above airport data block on sectional chart means that
 a flight service station is located on the field
 
-{chart} *L on sectional chart
-lighting limitations exist (i.e., not on continously), see chart supplements, often pilot-controlled via CTAF clicks
+{chart,critical} *L on sectional chart
+lighting limitations exist (i.e., not on continously); see chart supplements; often means pilot-controlled via CTAF clicks
 
 {chart} there are radio requirements when flying strictly above a class B airspace (yes/no)
 no
