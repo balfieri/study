@@ -3696,8 +3696,11 @@ centerline of a low altitude federal airway, aka Victor airway, which is used fo
 {chart,critical} how Victor vs. military routes are depicted on sectional chart
 light blue line; thin gray line
 
-{chart} on sectional chart, meaning of following letters inside a magenta diamond with an airplane under it: G, U, H, UA
-glider, ultralight, hang glider, unmanned aircraft
+{chart,critical} on sectional chart, meaning of following letters inside a magenta diamond with an airplane under it: G, U, H, UA
+G - glider activity; U - ultralight activity; H - hang glider active; UA - unmanned aircraft activity
+
+{chart,critical} on sectional chart, meaning of F, U, H, R, X with a circle around it
+F - ultralight flight park; U - unverified airport; H - heliport; R - private airport; X - abandoned airport
 
 {chart} class A airspace is shown on the sectional chart (yes/no)
 no
