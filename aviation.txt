@@ -4534,7 +4534,7 @@ yes, oil takes more time to heat up or cool down
 connecting rod
 
 {sys,critical} 172SP fuel system
-2 tanks; fuel flows from each wing by gravity to selector valve (which should be one BOTH for takeoff and landing and normally); fuel goes through electrically powered auxilliary fuel pump bypassing the shutoff valve; then flows through the fuel strainer and the engine driven fuel pump into the fuel/air control unit; the fuel/air mixture (ratio governed by mixture control, air governed by throttle) then flows through the fuel distribution valve into the cylinders
+2 cross-vented tanks in the wings; fuel flows from each wing through strainers by gravity to the selector valve (which should be one BOTH for takeoff and landing and normally) into a fuel reservoir; through an electrically powered auxilliary fuel pump; through the shutoff valve; through the fuel strainer; through the engine driven fuel pump; into the fuel/air control unit (ratio governed by mixture control, air and thus total governed by throttle); through the fuel distribution valve into the cylinders
 
 {sys} exhaust gas temperature gauge (EGT)
 measurement of internal combustion temperature of the engine, indirectly related to the quality of the fuel/air mixture entering the engine
