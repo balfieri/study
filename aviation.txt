@@ -472,7 +472,7 @@ vapor lock
 left forward portion of firewall, makes it susceptible to exploding if engine is on fire 
 
 {reg,critical} eligibility requirements for private pilot certificate
-17 years old; read/speak/write/understand English; at least 3rd class medical; training; logbook endorsements; 70% on written
+17 years old; read/write/understand/speak English; at least 3rd class medical; training; logbook endorsements; 70% on written
 
 {reg,critical} privileges and limitations of private pilot certificate
 carry passengers but pilot must pay at least pro rata share; business if incidental; non-profit event; search and rescue; demonstrate aircraft to buyer if 200+ hours; tow a glider with proper endorsements; test flight in light-sport aircraft
