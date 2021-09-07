@@ -5812,7 +5812,7 @@ boundary of terminal area chart (TAC)
 between sunset and sunrise; in AK, if you can't see an object 3 SM away or sun is > 6 deg below horizon; NY SFRA Hudson River corridor
 
 {sys,critical} flaps provide
-same lift at lower speed, or more left at same speed
+same lift at lower speed, or more lift at same speed
 
 {perf,critical} why engine, prop, and wings prefer cold air to warm air
 more air molecules to grab onto in the same volume
