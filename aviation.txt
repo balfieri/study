@@ -2589,7 +2589,7 @@ off-limit area before takeoff over which thrust may go to avoid environmental da
 {chart,critical} when runway edge lights change color
 to amber toward last 1/2 or 2000 ft of runway, whichever is less
 
-{chart,critical} when runway center lighs change color
+{chart,critical} when runway center lights change color
 to alternating white and read at 2000 ft remaining, then red for last 1000 ft
 
 {chart} color of threshold lights
