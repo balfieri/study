@@ -5866,4 +5866,4 @@ turns a GPS way point into a virtual VOR by activating the CDI
 allows pilot to achieve 360 degree turn in 2 minutes
 
 {sys} 172SP utility category limitations
-max takeoff weight - 2200 lbs; baggage compartment must be empty; rear seat must not be occupied
+max takeoff weight - 2200 lbs; baggage compartment must be empty; rear seat must not be occupied; spins allowed with slow deceleration; abrupt use of controls prohibited above 98 kts
