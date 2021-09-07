@@ -520,7 +520,7 @@ flight standards district office
 MEL, VFR requirements, KOEL, ADs
 
 {weather,critical} flow of air in and around low vs. high pressure system in northern hemisphere
-inward, upward, counterclockwise; outwward, downward, clockwise
+inward, upward, counterclockwise; outward, downward, clockwise
 
 {reg} seatbelts that can be broken
 those in unoccupied seats
