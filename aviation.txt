@@ -901,7 +901,7 @@ IAS, CAS, TAS, GS
 indicated, pressure, density, absolute
 
 {sys,critical} left-turning tendencies
-torque, gyroscopic precession (tailwheel), p-factor asymmetric thrust (more down thrust on right side), spiraling slipstream (hits tail from the left); greatest when: low speed, high power, high angle of attack
+torque; gyroscopic precession (tailwheel); p-factor asymmetric thrust (more down thrust on right side); spiraling slipstream (hits tail from the left); greatest when: low speed, high power, high angle of attack
 
 {sys} type of oil we use
 aviation 20W-50 or 15W-50
