@@ -166,7 +166,7 @@ clear, rime, mixed (both)
 rime only forms on leading edge (anti-icing equipment often covers just this); clear is on entire wing; clear is harder to notice; clear has more mass
 
 {weather,critical} types of precipitation that cause the worst icing
-freeziing rain (ice+water); sleet
+freezing rain (ice+water); sleet
 
 {weather,critical} fronts
 cold; warm; occluded - fast-moving cold front that catches up with a slower-moving cold or warm front; stationary
