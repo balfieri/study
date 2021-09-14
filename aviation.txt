@@ -4747,7 +4747,7 @@ IMC, dark night flying conditions
 yes, sinus infection will become painful during assent (can lower altitude) while ear block manifests itself during descent
 
 {pilot,critical} how to tell if a person has hyperventilation vs. hypoxia by looking at them
-turning red vs. turning blue
+turning red vs. turning blue; breathing fast vs. slowly
 
 {pilot,critical} symptoms of hypoxia particularly above 15000 ft
 periphery of visual field grays out (tunnel vision), blue coloration of fingernails and lips
