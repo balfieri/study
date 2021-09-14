@@ -1635,7 +1635,7 @@ lighted runway that can be controlled by pilot
 {chart} 3/4 circle within magenta/blue airport circle
 military unpaved runway
 
-{chart,critical} magenta/blue circle with no runway on sectionl
+{chart,critical} magenta/blue circle with no runway on sectional
 unpaved runway
 
 {chart,critical} magenta vs. blue runway circle on sectional chart
