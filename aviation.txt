@@ -219,7 +219,7 @@ below 10000 ft - 250; below 2500 ft class C/D - 200; underlying class B - 200
 {reg,critical} 40+-year-old medical review in months by class (1st, 2nd, 3rd) 
 6, 12, 24
 
-{reg,critical} FAR parts that apply to medicals by class (1st, 2nd, 3rd)
+{reg} FAR parts that apply to medicals by class (1st, 2nd, 3rd)
 121 (air carrier), 135 (charter), 91 (private)
 
 {sop} deviation from ATC
