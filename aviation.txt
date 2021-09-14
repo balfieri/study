@@ -2382,6 +2382,12 @@ high winds, lightning, extreme turbulence, heavy downpour
 {chart} Below Cat1 IFR
 below 200 ft
 
+{chart,critical} SVFR summary
+class B/C/D/E only - 1 SM, clear of clouds; must be requested to the tower and be granted (less likely in B and C)
+
+{chart} how to obtain SVFR clearances 
+SVFR must be requested to the tower and be granted, workload permitting, and much less likely in B and C than D and E due to volume of IFR traffic
+
 {chart} SVFR weather minimums into class B/C/D/E
 1 SM, clear of clouds
 
@@ -2498,9 +2504,6 @@ flight visibility and cloud clearance requirements
 
 {chart} basic VFR weather minimums
 1000 ft ceiling and 3 mile visibility
-
-{chart} how to obtain SVFR clearances 
-VFR must be requested to the tower and be granted, workload permitting, and much less likely in B and C than D and E due to volume of IFR traffic
 
 {chart} examples of SFRAs
 DC, Grand Canyon; see chart legend and part 93, check NOTAMs
@@ -4425,7 +4428,7 @@ special airspace for parachuters, see chart supplements for details
 {chart} examples of published VFR routes
 Coastal Route, Mini Route, Special Flight Rule, Hollywood Park Route, Colliseum Route
 
-{weather} winds aloft normally flow parallel to isobars (yes/no)
+{weather,critical} winds aloft normally flow parallel to isobars (yes/no)
 yes, due to Coriolis force, more of an angle at the surface due to friction
 
 {weather,critical} stages of thunderstorm
@@ -4569,10 +4572,10 @@ mixture would become too lean and engine would begin to run rough and could stal
 {sys} significance of numbers on the ends of circuit breakers
 amperage rating - maximum number of of amperes that the corresponding electrical load may use and not trigger the breaker
 
-{perf} true altitude when going from hot to cold if indicated altitude stays the same
+{perf,critical} true altitude when going from hot to cold if indicated altitude stays the same
 decreases
 
-{perf} true altitude when going from higher pressure area to lower pressure area if indicated altitude stays the same
+{perf,critical} true altitude when going from higher pressure area to lower pressure area if indicated altitude stays the same
 decreases
 
 {perf} 3 parts of an airplane adversely affected by density altitude
@@ -4775,9 +4778,6 @@ say "unable to comply" and suggest an alternative
 
 {chart} a class B ATC gives you squawk code and then says radar contact established, you may now enter class B airspace (yes/no)
 no, you must receive explicit clearance to enter
-
-{chart} it is possible to fly under SVFR in class G airspace (yes/no)
-no, SVFR requires an ATC clearance which is not available in class G
 
 {chart} class B controller has you fly a heading at night that gets you within 2000 ft of clouds, you should...
 continue to fly the heading because you need only be clear of clouds
@@ -4989,7 +4989,7 @@ failure to clear the area, poor coordination, gaining or losing altitude, inabil
 {sop} things to consider when choosing an area for ground reference maneuvers
 obstructions, type of reference (road or point), emergency landing areas, noise-sensitive areas
 
-{sop} reasons turning final into a left quatering head/cross wind is dangerous
+{sop} reasons turning final into a left quartering head/cross wind is dangerous
 too late of a turn, pilot tightens turn, applies excessive rudder into the turn, pitches up while turning - all of this could lead to an accelerated stall
 
 {perf} describe angle of attack during slow flight
@@ -5004,7 +5004,7 @@ pick point away from buildings or towers, perform clearing turns, enter maneuver
 {sop} learning steep turns develops
 smoothness, coordination, orientation, division of attention, and control techniques for executing maximum performance turns when the airplane is near its performance limits
 
-{sop} why ballooning is particular dangerous during crosswind conditions
+{sop} why ballooning is particularly dangerous during crosswind conditions
 with lower airspeed, crosswind will affect airplane more, wing will have to be lowered even more
 
 {sop} reason tricycle gear airplane bounces when it touches down with an excessively high rate of sink or improper landing attitude
@@ -5122,7 +5122,7 @@ good VMC conditions, daylight hours, within 5 miles of an airport or navigation 
 core is a prohibited area, white part is TFR extension of the prohibited area
 
 {pilot} six steps of ADM process process that lead to good decision making
-identify personal attitudes that are hazardous, learn behavioral modification techniques, learn how to cope with stress, develop risk assessment skills, use all resources, evalute the effective of one's ADM skills
+identify personal attitudes that are hazardous, learn behavioral modification techniques, learn how to cope with stress, develop risk assessment skills, use all resources, evaluate the effective of one's ADM skills
 
 {sop} where are LAHSO operations conducted
 controlled airports with (almost always) intersecting runways
@@ -5292,7 +5292,7 @@ on before departure; off after after-landing checklist
 {sys} if the engine is too lean
 runs hot and rough
 
-{sys} can happen if engine gets too hot vs. too rich
+{sys,critical} can happen if engine gets too hot vs. too rich
 cracked cylinders, detonation; higher fuel burn, might be too cool, runs rough at higher altitude, clogged spark plugs leading to pre-ignition
 
 {sys} what happens if there is carburator ice with constant-speed propeller
@@ -5342,6 +5342,9 @@ voluntary, but still a good idea to call
 
 {chart} how to continue in class E at < 3SM visibility
 descend to 1200 AGL
+
+{chart} it is possible to fly under SVFR in class G airspace (yes/no)
+no, SVFR requires an ATC clearance which is not available in class G
 
 {chart} how maintain SVFR
 1 SM, clear of clouds
@@ -5542,7 +5545,7 @@ fuel flow interruption when the tank in use is not full
 throttle full, nose down, level wings using coordinated aileron and rudder, return to original altitude and heading
 
 {sop} recovery from unusual nose-down attitude
-throttle idle, level wings using coordinated ailoron and rudder, nose up, return to original altitude and heading
+throttle idle, level wings using coordinated aileron and rudder, nose up, return to original altitude and heading
 
 {sop} how much fuel to carry if flying near a large weather system
 2x
@@ -5867,3 +5870,6 @@ allows pilot to achieve 360 degree turn in 2 minutes
 
 {sys} 172SP utility category limitations
 max takeoff weight - 2200 lbs; baggage compartment must be empty; rear seat must not be occupied; spins allowed with slow deceleration; abrupt use of controls prohibited above 98 kts
+
+{weather} MOS
+Mobile Output Statistics - derived from output of weather prediction models from NOAA
