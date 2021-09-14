@@ -5293,7 +5293,7 @@ on before departure; off after after-landing checklist
 runs hot and rough
 
 {sys,critical} can happen if engine gets too hot vs. too rich
-cracked cylinders, detonation; higher fuel burn, might be too cool, runs rough at higher altitude, clogged spark plugs leading to pre-ignition
+cracked cylinders, detonation (uncontrolled firing of mixture after spark); higher fuel burn, might be too cool, runs rough at higher altitude, clogged spark plugs leading to pre-ignition (combustion before intended spark)
 
 {sys} what happens if there is carburator ice with constant-speed propeller
 manifold pressure will go down, prop will auto-adjust to keep RPM until it can no longer adjust
