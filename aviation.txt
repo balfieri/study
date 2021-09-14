@@ -5821,7 +5821,7 @@ same lift at lower speed, or more lift at same speed
 more air molecules to grab onto in the same volume
 
 {perf,critical} cause of huge jump in airspeed while landing and what to do about it
-wind shear headwind; reduce power
+wind shear headwind; reduce power (however, might want to let it go up and fly somewhere else to avoid tailwind shear)
 
 {chart,critical} rules for crossing MOA, alert area, restricted area, wildlife preserve
 MOA. alert - may do so but not wise; restricted area - must contact controlling authority; wildlife preserve - must fly at least 2000 ft AGL
