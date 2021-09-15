@@ -5855,3 +5855,6 @@ max takeoff weight - 2200 lbs; baggage compartment must be empty; rear seat must
 
 {weather} MOS
 Mobile Output Statistics - derived from output of weather prediction models from NOAA
+
+{chart,critical} width of federal airway
+8 nm
