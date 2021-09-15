@@ -475,7 +475,7 @@ left forward portion of firewall, makes it susceptible to exploding if engine is
 17 years old; read/write/understand/speak English; at least 3rd class medical; training; logbook endorsements; 70% on written
 
 {reg,critical} privileges and limitations of private pilot certificate
-carry passengers but pilot must pay at least pro rata share; business if incidental; non-profit event; search and rescue; demonstrate aircraft to buyer if 200+ hours; tow a glider with proper endorsements; test flight in light-sport aircraft
+carry passengers but pilot must pay at least pro rata share; can't be for hire; business if incidental; non-profit event; search and rescue; demonstrate aircraft to buyer if 200+ hours; tow a glider with proper endorsements; test flight in light-sport aircraft
 
 {reg} flights you must log in your logbook
 required training, required aeronautical experience
@@ -2764,7 +2764,7 @@ featureless terrain illusion
 avoid fatigue, colds, vitamin deficiency, alcohol, stimulants, smoking, or medications
 
 {pilot,critical} ways pilots can improve effectiveness of night vision
-adapt lights to darkness (30 minutes), use supplemental oxygen over 5000 ft, close one eye when exposed to bright light, do not wear sunglasses, move eyes more slowly, blink eyes if blurry, concentrate on seeing objects, force eyes to view off-center, maintaing good physical condition, avoid smoking/drinking/harmful-drugs
+adapt eyes to darkness (30 minutes), use supplemental oxygen over 5000 ft, close one eye when exposed to bright light, do not wear sunglasses, move eyes more slowly, blink eyes if blurry, concentrate on seeing objects, force eyes to view off-center, maintaing good physical condition, avoid smoking/drinking/harmful-drugs
 
 {pilot} equipment pilots should have for night flight
 2 flashlights with both white and red light, spare set of batteries, aeronautical charts
@@ -3748,7 +3748,7 @@ pass checkride for a new certificate, passing a phase of an FAA-sponsored profic
 instrument rating, IFR-equipped aircraft
 
 {reg,critical} 3 definitions of nighttime
-FLAPS and currency for passengers - sunset+0 .. sunrise-0; logging flight time - sunset-30 .. sunrise+30; takeoffs/landings for currency - sunset+60 .. sunrise-60
+FLAPS and currency for passengers - sunset+0 .. sunrise-0; logging flight time - sunset+30 .. sunrise-30; takeoffs/landings for currency - sunset+60 .. sunrise-60
 
 {reg} types of aircraft that require logbook endorsements
 complex airplanes, high performance airplanes, tailwheel airplanes, aircraft pressurized and certified to fly above 25000 ft MSL
@@ -3823,7 +3823,7 @@ scale on an altimeter that allows pilot to enter the altimeter setting
 provides redundancy for critical information if either display dies in form of split screen
 
 {sys,critical} arc locations
-Vs0 - bottom of white (stall speed in landing confi); Vs1 - bottom of green (stall speed in clean config); Vfe - top of white (max flap-extended speed); Vno - top of green / bottom of yellow (max structural cruising speed); Vne - top of yellow / red line (never exceed speed)
+Vs0 - bottom of white (stall speed in landing config); Vs1 - bottom of green (stall speed in clean config); Vfe - top of white (max flap-extended speed); Vno - top of green / bottom of yellow (max structural cruising speed); Vne - top of yellow / red line (never exceed speed)
 
 {pilot} techniques to improve nighttime visual accuity
 allow 30 min for eyes to adapt, dim cockpit lights to minimum level, use red lights, avoid looking directly at bright lights
