@@ -700,7 +700,7 @@ curve that connects equal points of pressure
 high pressure gradient force, strong winds￼
 
 {weather,critcal} ridge vs. trough
-ridge - elongated area of high pressure, descending air; trough - elongated area of low pressure, rising air
+ridge - elongated area of high pressure, descending air; trough - elongated area of low pressure, rising air (orange segmented line on prog chart)
 
 {weather} standard lapse rate
 -2C per 1000 ft
@@ -3705,7 +3705,7 @@ max takeoff weight of 6000 lbs; max 6 seats; no higher than 18000 MSL; no faster
 {reg} POH vs. information manual
 POH is official FAA doc for a specific airplane and kept up to date, copy of a generic POH for a make+model and not kept up to date
 
-{reg,critical} FAR parts for airman,medical,flight
+{reg} FAR parts for airman,medical,flight
 61, 67, 91
 
 {reg} exceptions where private pilot may carry passengers for hire
