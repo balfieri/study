@@ -291,7 +291,7 @@ remote communications outlet
 {pilot,critical} NWKRAFT
 NOTAMs; Weather; Known ATC delays; Runway lengths; Alternate airports; Fuel requirements; Takeoff/landing distance data
 
-{reg} reserve fuel requirements in minutes past destination (day, night)
+{reg,critical} reserve fuel requirements in minutes past destination (day, night)
 30, 45
 
 {sys} ELT
@@ -588,22 +588,22 @@ annual inspection, registration
 {sop} Feet above pattern altitude for midfield crossover
 500
 
-{perf} when you would want to fly slower than Va
+{perf,critical} when you would want to fly slower than Va
 descent, climb, extreme turbulence, feel like it
 
 {reg} types of ADs
 emergency, one-time, recurring
 
-{reg} grace period (annual, 100-hour)
+{reg,critical} grace period (annual, 100-hour)
 none, 10 hours
 
 {reg} what invalidates an airworthiness certificate
 failure to comply with ADs, modifications to the airplane outside the design, failure to do required maintenance
 
-{perf} effects of high density altitude on aircraft performance
+{perf,critical} effects of high density altitude on aircraft performance
 reduces lift, decreases propeller efficiency, decreases engine efficiency, increases takeoff/landing distances
 
-{perf} things that increase density altitude besides elevation
+{perf,critical} things that increase density altitude besides elevation
 lower atmospheric pressure, higher temperature, higher humidity
 
 {sys} 172SP can have carb ice (yes/no)
@@ -627,13 +627,13 @@ pitot heat, alternate static source, defrost via cabin heat
 {sop} direction to turn if approaching another aircraft head on
 right
 
-{chart} a student pilot fly into class B airspace (yes/no)
-yes, with proper training and logbook endorsement
+{chart} a student may pilot fly into class B airspace (yes/no)
+yes, but only with proper training and logbook endorsement
 
-{chart} equipment needed to enter class B airspace
+{chart,critical} equipment needed to enter class B airspace
 mode-C transponder, ADS-B, radio, VOR/TACAN/RNAV for IFR
 
-{sop} actions to take if you get lost
+{sop,critical} actions to take if you get lost
 CCCCC, use GPS, look for landmarks, use VORs
 
 {chart} isogonic line
@@ -705,6 +705,9 @@ ridge - elongated area of high pressure, descending air; trough - elongated area
 {weather} standard lapse rate
 -2C per 1000 ft
 
+{weather} lapse rate
+rate at which an atmospheric variable (usually temperature) falls with altitude
+
 {weather} unstable atmosphere
 ambient (actual) lapse rate is greater than standard lapse rate
 
@@ -721,7 +724,7 @@ AGL, AGL, MSL, MSL
 allows for an emergency landing without undue hazard to persons or property on the ground
 
 {reg} when can night landings be logged (same as FAA definition of nighttime)
-1 hour past sundown to 1 hour before sunrise
+1 hour past sundown to 1 hour before sunrise, but night time can be logged 30min past to 30min before
 
 {sys} camber
 curvature of wings
@@ -786,8 +789,8 @@ check that you are transmitting on proper comm channel, check frequency, check t
 {perf} as airplane gets heavier, maneuvering speed...
 increases
 
-{reg} phases when you need to use position lights (nav lights)
-taxiing or flying at night
+{reg,critical} phases when you need to use position lights (nav lights)
+taxiing or flying at night (sunset to sunrise)
 
 {reg} you can fly with a head cold (yes/no)
 yes, but you should not due to painful pressure build-up
@@ -804,7 +807,7 @@ it goes through a humidification process which could freeze at altitude
 {sys} reasons you would not descend at 1000 fpm or 1500 fpm
 could exceed Vno/Vne, uncomfortable for passengers
 
-{sop} actions to take if all radios die, inluding handheld
+{sop,critical} actions to take if all radios die, inluding handheld
 squawk 7600, go to uncontrolled airport, circle above, call approach on phone, enter traffic pattern, watch for light gun signals
 
 {pilot} you should take your inexperienced passenger on your preflight (yes/no)
@@ -835,7 +838,7 @@ look on the sectional chart above nearest VOR for radio frequency, listen on VOR
 no, could be overlap
 
 {chart} how to tell if VOR is working
-listen for Morse code
+listen for Morse code; look for VOR ID to show up on navigation system (has delay)
 
 {chart} FRZ
 DC flight restricted zone
@@ -928,7 +931,7 @@ when precautions have been taken to ensure that it doesn't cause harm to persons
 aerodynamic forces have more effect on a lighter plane
 
 {perf} why a heavier aircraft has a higher stall speed
-a heavier aircraft must fly at a higher angle of attack
+a heavier aircraft must fly with a higher angle of attack
 
 {perf} adverse yaw
 nose of aircraft tends to turn away from the intended direction of the turn
@@ -1023,13 +1026,13 @@ moderate icing (AIRMET provides freezing level heights)
 {sys} types of icing
 structural, induction system, instrument
 
-{sys} induction system icing
+{sys,critical} induction system icing
 attributed to the incomplete vaporization of fuel in combination with the pressure decrease inside of the venturi, even on a day as warm as 70°F, carburetor ice can began to form with adequate moisture in the air
 
-{sys} instrument icing
+{sys,critical} instrument icing
 icing of the pitot tube or static ports can cause the instruments to give inaccurate readings or to fail completely
 
-{sys} structural icing
+{sys,critical} structural icing
 ice that forms on the surface of the aircraft, since airfoils create lift by decreasing the pressure and thus the temperature of the air around them, icing on the propeller, horizontal and vertical tail surfaces, and wings can form at ambient temperatures that are above the freezing level
 
 {chart} solid thin black line on sectional chart that is not railroad tracks
@@ -1572,7 +1575,7 @@ winds light and variable
 {chart,critical} reasons there is no circle around some airports on sectional chart
 runway > 8069 ft; abutted runways > 8069 ft; 8069 ft has to do with the scale at which the sectional is drawn
 
-{chart} dotted purple on sectional chart
+{chart,critical} dotted purple on sectional chart
 air defense identification zone
 
 {chart} purpose of little flag on sectional chart
@@ -1581,7 +1584,7 @@ visual reference point when talking to ATC
 {chart} VR 1-3 numbers AGL ft, 4 numbers AGL ft
 >1500, < 1500
 
-{chart} visibility requirements for VR routes
+{chart,critical} visibility requirements for VR routes
 >= 5 SM and 3000 ft AGL ceilings
 
 {chart} VOR bearing shown on the sectional chart, e.g., V453
@@ -1620,7 +1623,7 @@ NDB
 {chart} minimum safe altitude within square on sectional chart (AGL/MSL)
 MSL
 
-{chart} lightning bolts sticking out of tower on sectional chart
+{chart,critical} lightning bolts sticking out of tower on sectional chart
 lights
 
 {chart} 3 tabs sticking out of airport on sectional chart
@@ -1630,7 +1633,7 @@ airport has services
 lighted runway
 
 {chart} L* on sectional chart
-lighted runway that can be controlled by pilot
+lighted runway that can be controlled by pilot (or has other limitations, see chart supplement)
 
 {chart} 3/4 circle within magenta/blue airport circle
 military unpaved runway
@@ -1650,16 +1653,13 @@ drainage ditch
 {reg} 100-hour inspection, time measurement (Hobbs/tach)
 tach
 
-{reg} FAA's definition of night time, in general
-30 minutes after sunset to 30 minutes before sunrise
-
 {reg} when you can fly close to another aircraft
 when you have an arrangement among all pilots involved, when it does not create a collision hazard, and while not carrying passengers for hire
 
 {reg} amount of oxygen that must be on board to handle sudden depressurization
 10 minutes
 
-{sop} main job of ATC
+{sop,critical} main job of ATC
 maintain traffic separation and spacing for IFR flights
 
 {reg} night landings may substitute for day landings with regard to currency (yes/no)
@@ -1680,14 +1680,11 @@ A, B, B veil, C, E above 10000 ft
 {reg} ICAO
 International Civil Aviation Organization
 
-{weather} what to expect when cold vs. warm front passes
-cold front - towering cumulus or cumuloninimbus, thunderstorms, heavy rain, thunder, hail, tornadoes, poor visibility, variable and gusty winds, temperature drop; warm front - stratiform clouds, drizzle, low ceilings, poor visibility, low ceilings, variable winds, higher temperature
+{weather,critical} what to expect when cold vs. warm front passes
+cold front - towering cumulus or cumuloninimbus, thunderstorms, heavy rain, thunder, hail, tornadoes, good visibility, variable and gusty winds, temperature drop; warm front - stratiform clouds, drizzle, low ceilings, poor visibility, low ceilings, variable winds, higher temperature
 
-{weather} trough
-low pressure, rising air, conducive to clouds and precipitation, bad weather
-
-{weather} ridge
-high pressure, falling air, conducive to dissipation of cloudiness, good weather
+{weather,critical} trough vs. ridge
+trough - low pressure, rising air, conducive to clouds and precipitation, bad weather; ridge - high pressure, falling air, conducive to dissipation of cloudiness, good weather
 
 {weather} cause of winds aloft to flow parallel to isobars
 Coriolis force
@@ -1704,11 +1701,8 @@ stability of the atmosphere
 {weather} meaning of stable atmosphere
 atmosphere is able to resist vertical motion
 
-{weather} characteristics of stable atmosphere
-calm air, stratiform clouds, continuous precipitation, low visibility
-
-{weather} characteristics of unstable atmosphere
-turbulent air, cumuliform clouds, showery precipitation, good visibility 
+{weather,critical} characteristics of stable vs. unstable atmosphere
+stable - calm air, stratiform clouds, continuous precipitation, low visibility; unstable - turbulent air, cumuliform clouds, showery precipitation, good visibility 
 
 {weather} during significant precipitation, typical thickness of clouds
 at least 4000 ft
@@ -1726,7 +1720,7 @@ location of fronts, cloud layers, freezing levels, air temperature and pressure
 lowest altitude at which air temperature reaches 0C
 
 {weather} conditions for structural icing
-visible moister below freezing temps at point moisture strikes aircraft
+visible moisture below freezing temps at point moisture strikes aircraft
 
 {sop} what to do when you encounter icing
 leave area: descend below cloud base, climb above cloud tops, turn to a different heading
@@ -1734,7 +1728,7 @@ leave area: descend below cloud base, climb above cloud tops, turn to a differen
 {perf} adverse aerodynamic effects of frost or structural icing
 decreased lift, increased drag, increased stall speed, unexpected control problems, blocked or restricted movement of control surfaces, tail-plane or horizontal stabilizer stall, blockage of pitot tube and static ports, blockage of engine induction air
 
-{perf,crtical} why frost is hazardous
+{perf,critical} why frost is hazardous
 roughness spoils smooth flow of air, reducing lift by up to 30%; increased drag by up to 40%; can cause assymetric stalls, reduces critical angle of attack by up to several degrees; all these have resulted in accidents
 
 {weather} temperature inversion
@@ -1845,7 +1839,7 @@ more weight on left wheel causing more friction and thus turn to left
 {perf} reason gyro precession effect more pronounced on taildraggers
 tail is raised during takeoff
 
-{perf} situations that can cause max load factor to be exceeded
+{perf,critical} situations that can cause max load factor to be exceeded
 >45-deg turns, turbulence, speed above Va
 
 {perf} effect of increasing load factor on stall speed
@@ -1854,13 +1848,13 @@ higher stall speed because higher angle of attack during higher load factor
 {perf} definition of maneuvering speed Va
 maximum speed at which the limit load factor can be imposed (via gusts or full deflection of the control surfaces) without causing structural damage
 
-{perf} cases operating below Va may not prevent structural damage
+{perf} cases operating below Va may still cause structural damage
 multiple full control inputs in one axis or full control inputs in multiple axes at the same time
 
 {pilot} loss of control in-flight (LOC-I)
 significant deviation of aircraft from intended flight path
 
-{pilot} situations that increase chances of LOC-I
+{pilot,critical} situations that increase chances of LOC-I
 uncoordinated flight, equipment malfunction, pilot complacency, distraction, turbulence, poor risk management
 
 {perf} primary cause of spins
@@ -1874,9 +1868,6 @@ throttle idle, ailerons neutral, full opposite rudder, neutral elevator, neutral
 
 {sop} problems that can be caused by ground effect
 floating during landing, illusion that plane can climb during takeoff when it can't if too heavy etc.
-
-{sys} standard empty weight includes
-airframe, engines, permanently installed equipment, unusable fuel
 
 {perf} standard empty weight
 consists of the airframe, engines, and all items of operating equipment that have fixed locations and are permanently installed in the aircraft, including fixed ballast, hydraulic fluid, unusable fuel, and full engine oil
@@ -1980,17 +1971,14 @@ when heat is first applied, there will be a drop in RPM, then rise, and then eng
 {sys} conditions favorable to carburator icing
 temperatures below 70F, at least 80% humidity
 
-{sys} anti-icing equipment
-prevents ice from forming on certain protected surfaces, such as pitot tube and static port, carburator, fuel vents, prop blades, windshields
-
-{sys} deicing equipment
-removes ice that has already been formed, such as inflatable boots on the wing and tail leading edges
+{sys,critical} anti-icing vs. deicing equipment
+anti-icing - prevents ice from forming on certain protected surfaces, such as pitot tube and static port, carburator, fuel vents, prop blades, windshields; deicing - removes ice that has already been formed, such as inflatable boots on the wing and tail leading edges
 
 {sys} planes with anti-icing and deicing equipment can be flown in icing conditions (yes/no)
 not necssarily, consult POH
 
 {sys} during runup, you switch to RIGHT magneto and see no RPM drop because...
-left P-lead is not grounding OR left magneto has been dead for a while
+left P-lead is not grounding OR left magneto has been dead for a while and you just hadn't noticed
 
 {sys} actions to take if oil pressure is low but oil temperature is normal
 could have insufficient oil, clogged pressure gauge, or leak; terminate flight as soon as possible
@@ -2052,17 +2040,14 @@ uses precession, gyro reacts to movement during a turn
 {sys} turn coordinator shows...
 roll and yaw of aircraft around the vertical and longitudinal axes, standard rate turn of 3-deg per second
 
-{sys} what turn coordinator shows during slip
-ball on inside of the turn, not enough rate of turn for bank
-
-{sys} what turn coordinator shows during skid
-ball on outside of the turn, too much rate of turn for the bank
+{sys,critical} what turn coordinator shows during slip vs. skid
+slip - ball on inside of the turn, not enough rate of turn for bank; skid - ball on outside of the turn, too much rate of turn for the bank
 
 {sys} how does magnetic compass work
 magnetized needles attached to a float assembly in bowl of acid-free white kerosine
 
 {sys} limitations of magnetic compass
-erratic behavior when tilted more than 18-deg bank
+erratic behavior when tilted more than 18-deg bank; compass errors
 
 {sys} compass errors
 oscillation error (turbulence, rough control technique), deviation error, variation error, dip error (ANDS, UNOS)
@@ -2136,10 +2121,10 @@ try different power setting, richen mixture
 {sys} 172SP starter duty cycle seconds on, seconds off
 10, 20
 
-{sys} most susceptible to vapor formation when
+{sys,critical} most susceptible to vapor formation when
 above 80F, idle speeds
 
-{sys} actions to take when you suspect vapor formation while still on the ground
+{sys,critical} actions to take when you suspect vapor formation while still on the ground
 power to 1800-2000 RPM for two minutes, return to 1200 RPM, lean for idle, apply full throttle for 10 sec at start of takeoff
 
 {sys} 172SP can lean using EGT method only when operating no more than what percent power
@@ -2194,7 +2179,7 @@ traffic information broadcast part of ADS-B
 1090
 
 {chart} VOR radial
-line of magnetic bearing extending from a VOR; an aircraft on the 360-degree radial will always be located north of the station
+line of magnetic bearing extending from a VOR; an aircraft on the 360-degree radial will always be located magnetic north of the station
 
 {chart} classifications of VOR NAVAIDs
 terminal, low, high
@@ -2250,7 +2235,7 @@ begin with letters "VP", reporting points around class B and C airspace and spec
 {reg} what happens to VFR flight plan that you are unable to activate in-flight
 canceled one hour after the proposed departure time
 
-{sop} first actions to take when lost and you have plenty of fuel in good weather
+{sop,critical} first actions to take when lost and you have plenty of fuel in good weather, but GPS is not working
 fly heading you believe is correct, use multiple VORs to triangulate, use elapsed time from prior position and true heading to determine current position, use pilotage
 
 {sop} first actions to take when lost and low on fuel or weather is deteriorating
@@ -2277,13 +2262,13 @@ unmanned communications facility remotely controlled by ATC for purposes of comm
 {chart} ways to determine frequency to use for activating flight plan
 ask FSS briefer, consult chart supplement
 
-{chart} purpose of heavy-lined blue box around navaid frequency
+{chart,critical} purpose of heavy-lined blue box around navaid frequency
 indicates FSS standard frequencies 121.5, 122.2, 243.0, and 255.4 are available
 
-{chart} reason a frequency is printed on top of a heavy-lined blue box
+{chart,critical} reason a frequency is printed on top of a heavy-lined blue box
 indicates the frequency is available in addition to FSS standard frequencies
 
-{chart} purpose of thin-lined blue box around navaid frquency
+{chart,critical} purpose of thin-lined blue box around navaid frquency
 indicates no FSS standard frequencies available
 
 {chart} reason a frequency is printed on top of a thin-lined blue box
@@ -2304,7 +2289,7 @@ continuous recording of weather information that is broadcast on L/MF and VOR fo
 {reg} each PIC who deviates from a part 91 rule in an emergency situation shall
 upon request, send a written report to the Administrator
 
-{reg} with regard to alcohol and drugs a pilot may not fly
+{reg,critical} with regard to alcohol and drugs a pilot may not fly
 within 8 hours of consuming any alcoholic beverage, while under influence, while using any drug that affects safety, with an alcohol concentration level of at least 0.04%
 
 {reg} pilot may carry a person who is under the influence of drugs or alcohol (yes/no)
@@ -2406,13 +2391,13 @@ takeoff, climb, cruise
 {perf} forward CG is better for landing because
 more stability
 
-{perf} what happens to CG as you deplete fuel
+{perf,critical} what happens to CG as you deplete fuel
 moves forward
 
-{perf} use 75% EGT method of leaning the mixture when you want to maximize
+{perf,critical} use 75% EGT method of leaning the mixture when you want to maximize
 fuel economy
 
-{perf} use RPM method of leaning the mixture when you want to maximize
+{perf,critical} use RPM method of leaning the mixture when you want to maximize
 power and speed
 
 {perf} how to make sure you are never out of trim
@@ -2430,7 +2415,7 @@ sequencing and separation
 {pilot} person responsible for avoiding wake turbulence in class B airspace
 PIC
 
-{chart} typical dimensions of class C airspace
+{chart,critical} typical dimensions of class C airspace
 5nm core SFC to 4000 ft, 10nm shelf from 1200 ft to 4000 ft above airport elevation, outer radius of 20nm
 
 {chart} minimum equipment for class C
@@ -2526,7 +2511,7 @@ filed flight plan, two-way radio, radar beacon transponder (as opposed to a mode
 {reg} incident
 an occurrence associated with an aircraft other than an accident which affects or could affect the safety of operations
 
-{reg} accident
+{reg,critical} accident
 an occurrence associated with an aircraft which takes place between the time any person boards the aircraft with the intention of flight and all such persons have disembarked, and in which any person suffers death or serious injury, or in which which the aircraft receives substantial damage
 
 {reg,criticl} serious injuries
@@ -2550,8 +2535,8 @@ within 10 days after accident, when overdue aircraft is missing after 7 days, up
 {reg} FAA can use reports submitted to NASA for enforcement purposes (yes/no)
 no, except for accidents and criminal offenses that are wholly excluded from the program
 
-{chart} meaning of rotating beacon during daylight hours for class B/C/D/E-surface
-ground visibility is less than 3 miles and/or the ceiling is less than 1000 ft and that ATC clearance is required for landing, takeoff, and flight in traffic patterns
+{chart,critical} meaning of rotating beacon during daylight hours for class B/C/D/E-surface
+ground visibility is less than 3 miles and/or the ceiling is less than 1000 ft (i.e., IFR conditions), and that ATC clearance is required for landing, takeoff, and flight in traffic patterns
 
 {chart,critical} types of airport signs
 mandatory instruction sign (red bg, white fg) for runway entrance; location sign (black bg, yellow fg, yellow border); direction sign (yellow bg, black fg) identifies the designation of the intersecting taxiway(s) leading out of an intersection; destination sign (yellow bg, black fg, arrows) provides info on locating runways/terminals/cargo-areas/civil-aviation-areas; information sign (yellow bg, black fg) provides information for things that can't be seen from the control tower; runway distance remaining sign (black bg, white fg) in thousands of ft
@@ -2634,7 +2619,7 @@ white rectangle
 {sys} difference between tach time and Hobbs time
 tach time scales by RPMs, Hobbs time records how long the engine has been running at all
 
-{chart} runway hold position markings
+{sop,critical} runway hold position markings
 two solid yellow lines, two dashed yellow lines
 
 {chart} temporarily closed runway or taxiway markings
@@ -2712,7 +2697,7 @@ compromises safety, weather is below basic VFR (3SM and 1000 ft ceilings)
 {chart} where to find available landing distance (ALD) data
 special notes section of the chart supplement, terminal procedures publications, ATC upon request
 
-{sop} collision avoidance procedures during climbs and descents
+{sop,critical} collision avoidance procedures during climbs and descents
 execute gentle banks at frequency that allows continuous visual scanning
 
 {chart} drone restrictions
@@ -2778,7 +2763,7 @@ featureless terrain illusion
 {pilot} ways pilots can maintain good eyesight
 avoid fatigue, colds, vitamin deficiency, alcohol, stimulants, smoking, or medications
 
-{pilot} ways pilots can improve effectiveness of night vision
+{pilot,critical} ways pilots can improve effectiveness of night vision
 adapt lights to darkness (30 minutes), use supplemental oxygen over 5000 ft, close one eye when exposed to bright light, do not wear sunglasses, move eyes more slowly, blink eyes if blurry, concentrate on seeing objects, force eyes to view off-center, maintaing good physical condition, avoid smoking/drinking/harmful-drugs
 
 {pilot} equipment pilots should have for night flight
@@ -2793,7 +2778,7 @@ yes
 {chart} runway edge light system
 red at end, green at threshold, yellow toward end, white along edge
 
-{chart} runway centerline lighting system
+{chart,critical} runway centerline lighting system
 white until last 3000 ft of runway, then alternating red and white for 2000 ft, then 1000 ft of red only
 
 {chart} taxiway centerline light color
@@ -2922,7 +2907,7 @@ PIC (IMSAFE, proficiency, currency), aircraft (airworthiness, equipment, perf ca
 {pilot} how to use 3P model of risk management
 perceive current hazards, process impact and solutions, perform best course of action
 
-{pilot} factors that can decrease pilot's ability to manage workload
+{pilot,critical} factors that can decrease pilot's ability to manage workload
 environmental conditions, physiological stress, psychological stress
 
 {pilot} actions to deal with overloading
@@ -3009,13 +2994,13 @@ familiar airspace, runway lengths and orientation to wind, size not too big or s
 {weather} ways to obtain weather before flight
 night before look at charts on aviationweather.gov and call FSS to obtain outlook briefing, get standard briefing two hours before flight to complete nav log, call FSS shortly before flight to get abbreviated briefing
 
-{weather} how to use weather charts
+{weather,critical} how to use weather charts
 print off surface analysis chart, weather depiction chart, and significant weather prognostic chart and understand what you see on them
 
 {weather} types of weather forecasts to obtain
 area forecast, TAF, winds and temperature aloft
 
-{weather} ways to obtain updated weather information in-flight
+{weather,critical} ways to obtain updated weather information in-flight
 ADS-B / FIS-B radios, ATIS/AWOS/ASOS, HIWAS, contact FSS for questions and latest PIREPs, ask ATC
 
 {chart} what to do if class D ATIS says 2SM visibility
@@ -3070,7 +3055,7 @@ easy to skip items, heads-down problem, wrong checklist, not readily accessible,
 observe entire surroundings, be aware of what everyone is doing, observe birds, keep fake map and putting everything on the map, practice at uncontrolled field
 
 {sop} better to land on an interstate against traffic rather than with traffic (yes/no)
-yes
+yes, though this is debatable
 
 {sop} better to land up a hill rather than down (yes/no)
 yes
@@ -3225,11 +3210,8 @@ presence of a mountain wave, which is area of extreme turbulence on downwind sid
 {sys} limitation of using NEXRAD radar via satellite downlink or via ADS-B
 delay of several minutes or even longer, so use only for strategic planning, not tactically
 
-{weather} when wind direction is reported in reference to true north
-METAR, TAF, FD
-
-{weather} when wind direction is reported in reference to magnetic north
-ATIS, AWOS, ASOS, ATC verbally
+{weather,critical} when wind direction is reported in reference to true vs. magnetic north
+true - METAR, TAF, FD; magnetic - ATIS, AWOS, ASOS, ATC verbally
 
 {weather} air pressure decrease with altitude
 1 inch Hg per 1000 ft 
@@ -3249,8 +3231,8 @@ terrestrial radiation on a clear cool night with light wind
 {weather} three weather conditions for which PIREPs are particularly valuable
 turbulence, icing, cloud tops
 
-{weather} air mass vs. front
-large body of air having uniform temperature + moisture, zone of transition between two different air masses
+{weather,critical} air mass vs. front
+mass - large body of air having uniform temperature + moisture; front - zone of transition between two different air masses
 
 {weather} limitations of relying on ATC for weather avoidance
 their primary function is to provide safe separation between aircraft, so must not distract from those activities
@@ -3279,7 +3261,7 @@ troposhere
 {weather} layer above tropopause
 stratosphere
 
-{sop} techniques pilots use to avoid convective weather in flight
+{sop,critical} techniques pilots use to avoid convective weather in flight
 visual avoidance, lightning detection devices such as a Stormscope(R), NEXRAD radar via satellite downlink or ADS-B, aircraft radar, radio communication with FSS, ATC assistance if they are able
 
 {weather} TAF update interval, valid period
@@ -3363,7 +3345,7 @@ runway entrance lights (REL) are red when aircraft on final, takeoff hold lights
 {chart} tri-color VASI shows
 red when below, green when on, amber when above
 
-{chart} how to determine wind direction at uncontrolled airport if radio broken
+{chart,critical} how to determine wind direction at uncontrolled airport if radio broken
 overfly airport at higher altitude and observe wind sock
 
 {chart} 2-bar vs. 3-bar VASI
@@ -3420,7 +3402,7 @@ common in high-performance aircraft to increase airflow during ground operations
 {sys} APU
 auxilliary power unit
 
-{sys} things that can be done to increase cooling of an aircraft engine
+{sys,critical} things that can be done to increase cooling of an aircraft engine
 lower nose, open cowl flaps, enrich mixture, decrease power setting
 
 {sys} most common voltages used in general aviation airplanes
@@ -3438,7 +3420,7 @@ bleed of static electricity (known as P-static) that can accumulate when flying 
 {sys} what can happen if airplane does not have static wicks
 static buildup can cause radio interference, erroneous compaass readings, or the phenomenom of St. Elmo's fire (luminous plasma)
 
-{sys} early indications of alternator failure in flight
+{sys,critical} early indications of alternator failure in flight
 strong negative deflection of ammeter, low-voltage warning annunciator, avionics might fail
 
 {sys} late indications of alternator failure in flight
@@ -3783,7 +3765,7 @@ notify FAA within 60 days, certificate may be suspended or revoked if two within
 {sys} what happens if pitot tube is blocked before takeoff
 airspeed will be stuck at zero
 
-{sys} what happens if pitot tube becomes blocked by ice in flight
+{sys,critical} what happens if pitot tube becomes blocked by ice in flight
 airspeed will be stuck at same altitude, higher if we climb, lower if we descend
 
 {sys} maximum permissible altimeter error in ft
@@ -3808,12 +3790,12 @@ no
 ADC, AHRS, GPS
 
 {sys} order of 6-pack left to right, top to bottom
-airspeed, attitude, altimeter, turn coordinator, heading indicator VSI
+airspeed, attitude, altimeter, turn coordinator, heading, VSI
 
 {sys} typical errors that can occur when selecting alternate static source in unpressurized aircraft
 IAS will be higher, altitude will be higher, VSI will be momentarily positive
 
-{sys} why there are errors when selecting alternate static source in unpressurized aircraft, how to handle
+{sys,critical} why there are errors when selecting alternate static source in unpressurized aircraft, how to handle
 static pressure inside cockpit is lower than outside due to Venturi effect, consult POH tables
 
 {sys} purpose of knob on lower left corner of airspeed indicator
@@ -3822,13 +3804,13 @@ calibrate to match OAT with PA at 12 o'clock position, then can read TAS in lowe
 {perf} when pressure altitude equals true altitude
 standard atmospheric conditions (15C and 29.92)
 
-{sys} what happens if all static ports are iced over
+{sys,critical} what happens if all static ports are iced over
 altimeter would be frozen, VSI frozen at 0, airspeed would be inaccurate particularly if altitude changes
 
 {perf} two situations to force altimeter at 29.92
 when calculating PA for DA and TAS, when operating above 18000 ft MSL
 
-{perf} how altitude reading changes when altimeter setting changed from 30.13 to 30.23
+{perf,critical} how altitude reading changes when altimeter setting changed from 30.13 to 30.23
 goes up 100 ft
 
 {sys} how inclinometer ball works
@@ -3984,7 +3966,7 @@ yes
 {reg} you must show your logbook when requested by
 FAA official, NTSB authorized representative, federal/state/local law enforcement officer
 
-{perf} it is generally a good idea to load up an aircraft to smooth out turbulence (yes/no)
+{perf,critical} it is generally a good idea to load up an aircraft to smooth out turbulence (yes/no)
 no, extra load factor can cause gusts to put an extra strain on the wings
 
 {sop} reasons for flying coordinated
@@ -4347,13 +4329,13 @@ above FL180
 {sys} when 978 UAT is used
 below FL180
 
-{perf} lateral stability
+{perf,critical} lateral stability
 resistance to roll, mainly provided by wing dihedral, during side slip wing has great AoA which helps return it to equillibrium, keeping fuel balanced also important to stability
 
-{perf} longitudinal stability
+{perf,critical} longitudinal stability
 resistance to pitch, mainly provided by keeping CG within its limits
 
-{perf} vertical stability
+{perf,critical} vertical stability
 resistance to yaw, mainly provided by a large enough vertical stabilizer that is placed well aft of the CG
 
 {perf} positive stability
@@ -4383,7 +4365,7 @@ while spinning, a gyroscope will tend to stay fixed in its plane of rotation, li
 {sys} gyro precession
 when a force is applied to a gyroscope, the resultant force is felt 90° ahead in the direction of the rotation
 
-{sys} how turn coordinator works
+{sys,critical} how turn coordinator works
 electrically powered gyro rotates in the vertical plane and it uses precession to measure rate of turn and rate of roll, when the aircraft yaws, the gyro precesses and the airplane on the face of the instrument indicates the direction and rate of the turn. Notice in the diagram of the instrument that it is slightly canted upwards (this is so rate of roll can be indicated as well), when the aircraft begins a bank the aircraft will also indicate the direction of the bank, if it is a rapid roll the airplane will respond by banking more steeply, once the turn is established it will properly indicate the rate of the turn
 
 {sys} what cools the engine
@@ -5833,7 +5815,7 @@ high-perf - more than 200 HP; complex - retractable landing gear, controllable p
 instruction and logbook endorsement
 
 {sys,critical} what the master switch controls
-flow of electricity from alternator+battery
+flow of electricity from alternator, battery, and external power
 
 {sop,critical} purpose of airport beacon
 indicate the location of a lighted airport; rotating beacon is an integral part of an airfield lighting system
