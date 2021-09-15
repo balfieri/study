@@ -211,7 +211,7 @@ attitude indicator, heading indicator
 emergency; balloon; glider; aircraft towing/refueling; airship; rotocraft/airplane; overtaken aircraft; aircraft at lower altitude on landing
 
 {reg,critical} VFR speed limits
-below 10000 ft - 250; below 2500 ft class C/D - 200; underlying class B - 200; within class E/G traffic pattern - 200
+below 10000 ft - 250; below 2500 ft class C/D - 200; underlying class B - 200; class B corridor - 200; within class E/G traffic pattern - 200 (recommended); procedure turns - 200
 
 {reg,critical} < 40-year-old medical review in months by class (1st, 2nd, 3rd)
 12, 12, 60
