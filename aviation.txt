@@ -5827,7 +5827,7 @@ control tower operation is part-time; consult the chart supplement for more deta
 climb away from the ground at Vy; for headwind wind shear, let it rise because could get tailwind wind shear soon; for tailwind wind shear, full power and pitch up and fly on the edge of stall speed
 
 {sop,critical} how to land behind a jet
-stay above the jet's glide path and land well beyond its touchdown point
+stay above the jet's glide path and land beyond its touchdown point
 
 {sop} flying the NY SFRA Hudson River Corridor
 self-announce on 123.05: "Hudson River Traffic: Skyhawk, VZ, northbound, 1300"; fly along east shoreline when northbound; go just under 1000 ft when circling Statue of Liberty; report points (northbound): VZ, Statue of Liberty or Governor's Island, CLOCK, Intrepid, GWB, Alpine Tower
