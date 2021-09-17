@@ -5861,3 +5861,6 @@ Mobile Output Statistics - derived from output of weather prediction models from
 
 {sop,critical} how to request flight following to Greensboro from Raleigh ATC right after departure from Raleigh Exec (KTTA)
 you: "Raleigh departure, N12345, VFR, with request"; ATC: "N12345, say request"; you: "N12345 is Skyhawk, 3 miles northwest of Raleigh Exec, 3000 climing 4500, request VFR flight following to Greensboro"
+
+{sop,critical} ABCDE's emergency landing
+A - airspeed Vg; B - choose best place to land and head there; C - engine restart checklist; D - declare emergency (121.5, mayday mayday mayday); E - execute rest of checklist
