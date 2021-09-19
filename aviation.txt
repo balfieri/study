@@ -376,7 +376,7 @@ only after approval by the FAA
 12 months elapsed, less than 50% battery life, battery used continuously for more than one hour, accident
 
 {sys,critical} V-speeds (172SP)
-Vs0 - stall speed in landing config (40); Vs1 - stall speed in clean config (48); Vr - rotation speed (55); Vx - enroute best angle-of-climb speed (62, 56); Vy - takeoff best rate-of-climb speed (74); normal initial climb (80); cruise climb (90); Vfe - maximum full-flap-extended speed (85); Va - maneuvering speed (105 for 2550 lb, 98 for 2200, 90 for 1900); Vg - best glide speed (68); Vno - maximum structural cruising speed (129); Vne - never exceed speed (163)
+Vs0 - stall speed in landing config (40); Vs1 - stall speed in clean config (48); Vr - rotation speed (55); Vx - enroute best angle-of-climb speed (62, 56); Vy - takeoff best rate-of-climb speed (74); normal initial climb (80); cruise climb (90); Vfe - maximum full-flap-extended speed (85 for 10-30 deg, 110 for 10-deg); Va - maneuvering speed (105 for 2550 lb, 98 for 2200, 90 for 1900); Vg - best glide speed (68); Vno - maximum structural cruising speed (129); Vne - never exceed speed (163)
 
 {sys} Vs0 (meaning, 172SP)
 stall speed in landing configuration, 40
