@@ -11,6 +11,7 @@ Answers in the file will be split along semicolons onto separate lines. The answ
 There are a few text files provided for various topics of my interest. Feel free to use them or add your own:
 
     aviation.txt                        -- private pilot checkride oral exam (includes categories)
+    aviation_ifr.txt                    -- instrument pilot checkride oral exam
     italian.txt
     french.txt
 
