@@ -5170,7 +5170,7 @@ trough or cyclonic curvature maximum in the trade wind easterlies
 clearing turns, altitude that is appropriate for maneuver, safe area
 
 {sop} GUMPS final checklist
-Gas both tanks (172SP), Undercarriage (gear down), Mixture rich, Propeller RPMs high, Switches/Silence
+Gas both tanks (172SP) or fullest tank (PA28), Undercarriage (gear down), Mixture rich, Propeller RPMs high, Switches/Silence
 
 {chart,critical} *RP
 right pattern, but see chart supplement (e.g., might apply only to helicopters as at W32)
