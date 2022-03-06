@@ -1,8 +1,5 @@
 #
-# Italian 
-#
-# Put easy phases toward the top and harder stuff toward the bottom.
-# The program will be changed soon to bias toward one or the other.
+# Italian - mostly basic, some intermediate
 #
 to have
 avere
