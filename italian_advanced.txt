@@ -159,3 +159,126 @@ scorrere
 
 partner (starts with s)
 il socio
+
+rusty
+arrugginito
+
+take-off
+il decollo
+
+landing
+l'atterraggio
+
+saying
+il detto
+
+to fix, to repair
+aggiustare
+
+to notice (after an observation)
+notare
+
+to realize
+rendersi conto
+
+to notice (for first time)
+accorgersi
+
+propeller
+l'elica
+
+bland
+blando
+
+hobby
+il hobby
+
+aircraft
+l'aereo
+
+privilege
+il privilegio
+
+surrender, to give up
+arrendersi
+
+to glide
+scivolare
+
+altitude
+l'altitudine
+
+farm field
+il campo agricolo
+
+to land
+atterrare
+
+to take off
+decollare
+
+to ascend
+ascendere
+
+to descend
+scendere
+
+baking powder
+il lievito in polvere
+
+baking soda
+il bicarbonato di sodio
+
+sea salt
+il sale marino
+
+peppercorn
+il granello di pepe nero
+
+tomato paste
+la pasta di pomodoro
+
+purpose
+lo scopo
+
+beer yeast
+il lievito di birra
+
+walnut
+la noce
+
+almond
+la mandorla
+
+clove
+il chiodo di garofano
+
+nutmeg
+la noce moscata
+
+pecan
+la noce di pecan
+
+lemon peel
+la scorza di limone
+
+chicken breast
+il petto di pollo
+
+to lay an egg
+deporre un uovo
+
+loaf
+la pagnotta
+
+teaspoon
+il cucchiaino
+
+tablespoon
+il cucchiaio
+
+crushed tomatoes
+i pomodorini schiacciati
+
+to crash
+fare un incidente
