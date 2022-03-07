@@ -291,3 +291,6 @@ l'obiettivo
 
 reliable, dependable, trustworthy
 affidabile
+
+main
+principale
