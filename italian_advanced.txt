@@ -312,3 +312,9 @@ una questione di
 
 what's the matter?
 che problema c'e`?
+
+deaf
+sorde
+
+blind
+cieco
