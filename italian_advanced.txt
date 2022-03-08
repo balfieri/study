@@ -318,3 +318,39 @@ sorde
 
 blind
 cieco
+
+public health
+la salute pubblica
+
+to infect
+infettare
+
+epidemiologist
+l'epidemiologo
+
+habit
+l'abitudina
+
+graduate school
+scuola di specializzazione
+
+musician
+il musicista
+
+learning
+l'apprendimento
+
+to stare at
+fissare
+
+to face
+affrontare
+
+diagram,sketch
+lo schema
+
+improperly
+impropriamente
+
+cell
+la cella
