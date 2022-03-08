@@ -12,8 +12,8 @@ There are a few text files provided for various topics of my interest. Feel free
 
     aviation.txt                        -- private pilot checkride oral exam (includes categories)
     aviation_ifr.txt                    -- instrument pilot checkride oral exam
-    italian.txt
-    italian_advanced.txt                -- more advanced work I'm currently studying
+    italian.txt                         -- basic and a few intermediate words
+    italian_advanced.txt                -- more advanced words I'm currently studying
     french.txt
 
 Example of running the aviation questions:
