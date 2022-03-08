@@ -399,3 +399,9 @@ cascarci
 
 turkey
 il tacchino
+
+at the turn of the century
+al volgere del secolo
+
+time zone
+il fuso orario
