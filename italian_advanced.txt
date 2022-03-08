@@ -420,3 +420,6 @@ rivolgere
 
 to call on
 rivolgersi
+
+to get stuck
+bloccarsi
