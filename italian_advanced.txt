@@ -387,3 +387,6 @@ l'imballo
 
 to execute
 eseguire
+
+middle of nowhere
+il mezzo del nulla
