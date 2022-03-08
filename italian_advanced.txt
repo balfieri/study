@@ -375,3 +375,15 @@ until
 
 schmaltzy
 sdolcinato
+
+smoothing
+la spianatura
+
+wrinkle
+la ruga
+
+packing
+l'imballo
+
+to execute
+eseguire
