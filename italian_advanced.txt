@@ -423,3 +423,6 @@ rivolgersi
 
 to get stuck
 bloccarsi
+
+to equip
+equipaggiare
