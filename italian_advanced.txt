@@ -426,3 +426,9 @@ bloccarsi
 
 to equip
 equipaggiare
+
+redundancy
+la ridondanza
+
+runway
+la pista di decollo
