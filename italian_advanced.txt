@@ -564,3 +564,6 @@ in partenza
 
 outgoing (starts with e)
 estroverso
+
+lift
+il sollevamento
