@@ -458,7 +458,7 @@ ingenuity
 l'ingegno
 
 maintenance
-la  manutenzione
+la manutenzione
 
 to make fun of
 prendere in giro
@@ -483,3 +483,69 @@ appartenere a
 
 to rotate
 ruotare
+
+seafood
+i frutti di mare
+
+marriage
+il matrimonio
+
+to warn
+avvisare
+
+argument (quarrel, starts with d)
+la disputa
+
+argument (quarrel, starts with l)
+la lite
+
+patent (legal)
+il brevetto
+
+copyright
+il diritto d'autore
+
+loyal
+leale
+
+funny (starts with s)
+spiritoso
+
+meanwhile
+nel frattempo
+
+citizenship by descent
+la cittadinanaza per descendenza
+
+also known as
+conosciuto anche come
+
+to update
+aggiornare
+
+rear (adj)
+posteriore
+
+front (adj)
+anteriore
+
+wheel
+la ruota
+
+tire
+lo pneumatico
+
+rear (adj)
+posteriore
+
+front (adj)
+anteriore
+
+wheel
+la ruota
+
+tire
+lo pneumatico
+
+flaps
+i lembi
