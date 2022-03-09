@@ -549,3 +549,6 @@ lo pneumatico
 
 flaps
 i lembi
+
+knot
+il nodo
