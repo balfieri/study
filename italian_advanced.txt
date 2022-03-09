@@ -552,3 +552,15 @@ i lembi
 
 knot
 il nodo
+
+incoming (starts with i)
+in arrivo
+
+incoming (starts with e)
+entrante
+
+incoming (starts with i)
+in partenza
+
+outgoing (starts with e)
+estroverso
