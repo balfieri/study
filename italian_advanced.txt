@@ -1,5 +1,5 @@
 #
-# Italian Advanced - intermediate to advaned words that I'm currently studying.
+# Italian Advanced - intermediate to advanced words that I'm currently studying.
 #
 gut
 la pancia
@@ -678,3 +678,15 @@ anche se
 
 to flaunt
 sfolgiare
+
+board (like black or white board)
+la lavagna
+
+stamp (n)
+il francobollo
+
+I want to let you know (informal)
+voglio farti sapere
+
+in general (when talking about the totality of something)
+in generale
