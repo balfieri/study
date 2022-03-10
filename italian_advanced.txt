@@ -440,7 +440,7 @@ day trip
 la gita di un giorno
 
 timing
-Il tempismo
+il tempismo
 
 to uncork
 stappare
@@ -567,3 +567,51 @@ estroverso
 
 lift
 il sollevamento
+
+bad weather
+il brutto tempo
+
+to stall (intransitive)
+mettersi in stallo
+
+barely, hardly
+appena
+
+I can barely hear you
+riesco appena a sentirti
+
+to breathe
+respirare
+
+aka
+alias
+
+healing
+la guarigione
+
+to be wary of
+diffidare di
+
+headphones
+le cuffie
+
+to trick
+ingannare
+
+to wander
+vagare
+
+to pull over
+accostare
+
+soaring
+l'impennata
+
+tracking
+il tracciamento
+
+to stem
+arginare
+
+to heal
+guarire
