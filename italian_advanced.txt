@@ -789,3 +789,6 @@ e` cambiato
 
 meat(s)
 la carne
+
+harbor
+il porto
