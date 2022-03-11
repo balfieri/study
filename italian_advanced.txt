@@ -337,6 +337,9 @@ scuola di specializzazione
 musician
 il musicista
 
+to learn (starts with a)
+apprendere
+
 learning
 l'apprendimento
 
