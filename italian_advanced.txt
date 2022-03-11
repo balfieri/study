@@ -765,3 +765,6 @@ il volantino
 
 leaflet, brochure
 il depliant
+
+half the time
+nella meta` del tempo
