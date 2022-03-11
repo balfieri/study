@@ -693,3 +693,75 @@ in generale
 
 settings
 le impostazioni
+
+to edit
+modificare
+
+to rewrite
+riscrivere
+
+broken
+rotto
+
+companion
+il compagno
+
+to scold
+sgridare
+
+to scream
+gridare
+
+headwind
+il vento contrario
+
+tailwind
+il vento in coda
+
+maneuver
+la manovra
+
+driver (starts with a)
+l'autista
+
+driver (starts with g)
+il guidatore
+
+to affix
+apporre
+
+to prepend
+anteporre
+
+to append
+aggiungere
+
+to refresh
+rinfrescare
+
+on the way
+sulla strada
+
+overnight stay
+il pernottamento
+
+criuise
+la crociera
+
+drafting
+la stesura
+
+line (of text)
+la riga
+
+sender
+il mittente
+
+brochure
+l'opuscolo
+
+leaflet
+il volantino
+
+leaflet, brochure
+il depliant
