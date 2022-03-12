@@ -30,26 +30,58 @@ def prompt( s, default='' ):
     return ans
 
 #-----------------------------------------------------------------------
-# read in <subject>.txt file
+# process command line args
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 2: die( 'usage: run.py <subject> [options]', '' )
 filename = sys.argv[1] + '.txt'
-question_cnt = int(sys.argv[2]) if len( sys.argv ) >= 3 else 20
-skip_prompts = len(sys.argv) >= 4
-skip_pause_sec = int(sys.argv[3]) if skip_prompts else -1
-skip_prompts = skip_prompts and skip_pause_sec >= 0
-file_start_pct = int(sys.argv[4]) if len(sys.argv) >= 5 else 0
-file_end_pct   = int(sys.argv[5]) if len(sys.argv) >= 6 else 100
-if file_start_pct < 0 or file_end_pct < 0: die( 'file_start_pct and file_end_pct must be >= 0' )
-if file_end_pct > 100: die( 'file_end_pct must be <= 100' )
-if file_start_pct >= file_end_pct: die( 'file_start_pct must be < file_end_pct' )
-acronyms_only  = int(sys.argv[6]) if len(sys.argv) >= 7 else 0
+question_cnt = 20
+skip_prompts = 0
+skip_pause_sec = -1
+file_start_pct = 0
+file_end_pct = 100
+acronyms_only = 0
+categories_s = ''
+have_categories_s = 0
+i = 2
+while i < len( sys.argv ):
+    arg = sys.argv[i]
+    i += 1
+    if   arg == '-q':           
+        question_cnt = int(sys.argv[i])
+        i += 1
+    elif arg == '-ps':          
+        skip_pause_sec = int(sys.argv[i])
+        skip_prompts = 1
+        i += 1
+    elif arg == '-file_start_pct':
+        file_start_pct = int(sys.argv[i])
+        if file_start_pct < 0 or file_end_pct < 0: die( 'file_start_pct and file_end_pct must be >= 0' )
+        i += 1
+    elif arg == '-file_end_pct':
+        file_end_pct = int(sys.argv[i])
+        if file_end_pct > 100: die( 'file_end_pct must be <= 100' )
+        i += 1
+    elif arg == '-acronyms_only':
+        acronyms_only = int(sys.argv[i])
+        i += 1
+    elif arg == '-cat':
+        categories_s = sys.argv[i]
+        have_categories_s = 1
+        i += 1
+    else:
+        die( f'unknown option: {arg}' )
 
-print()
-categories_s = prompt( 'Categories (separated by spaces, leave blank for all)' )
+if file_start_pct >= file_end_pct: die( 'file_start_pct must be < file_end_pct' )
+
+if not have_categories_s: 
+    print()
+    categories_s = prompt( 'Categories (separated by spaces, leave blank for all)' )
 categories = categories_s.split( ' ' )
 if len(categories) == 1 and categories[0] == '': categories = []
 
+#-----------------------------------------------------------------------
+# read in <subject>.txt file
+#-----------------------------------------------------------------------
 Q = open( filename, 'r' )
 all_questions = []
 line_num = 0

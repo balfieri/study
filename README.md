@@ -13,16 +13,18 @@ There are a few text files provided for various topics of my interest. Feel free
     aviation.txt                        -- private pilot checkride oral exam (includes categories)
     aviation_ifr.txt                    -- instrument pilot checkride oral exam
     italian.txt                         -- basic and a few intermediate words
-    italian_advanced.txt                -- more advanced words I'm currently studying
+    italian_advanced.txt                -- higher-intermediate to advanced words I'm currently studying
+    italian_expressions.txt             -- expressions (modi di dire)
     french.txt
 
 Example of running the aviation questions:
 
     ./run.py aviation                   -- ask 20 questions at a time, prompt for answer
-    ./run.py aviation 100               -- same, but 100 questions instead of default of 20
-    ./run.py aviation 0                 -- same, but ALL questions instead of default of 20
-    ./run.py aviation 0 4               -- same, but ALL questions and just print the question 
-                                           and answer with 4-second delays
+    ./run.py aviation -q 100            -- same, but 100 questions instead of default of 20
+    ./run.py aviation -q 0              -- same, but ALL questions instead of default of 20
+    ./run.py aviation -q 0 -ps 4        -- same, but ALL questions and just print the question 
+                                           and answer with 4-second pause
+    ./run.py aviation -q 0 -ps 4 -cat 'pilot' -- same but only questions in the 'pilot' category
 
 This is all open-source. Refer to the LICENSE.md for licensing details.  
 
