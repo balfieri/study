@@ -568,13 +568,13 @@ entrante
 incoming (starts with i)
 in partenza
 
-outgoing (starts with e)
+outgoing (personality)
 estroverso
 
-outgoing (starts with u)
+outgoing (leaving)
 uscente
 
-the lift
+lift
 il sollevamento
 
 bad weather
