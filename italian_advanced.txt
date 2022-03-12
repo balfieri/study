@@ -115,7 +115,7 @@ arrugginito
 cozy
 accogliente
 
-picky
+picky, demanding
 esigente
 
 pork
@@ -190,8 +190,11 @@ l'elica
 bland
 blando
 
-hobby
-il hobby
+hobby (starts with h)
+l'hobby
+
+hobby (starts with p)
+il passatempo
 
 aircraft
 l'aereo
@@ -568,7 +571,10 @@ in partenza
 outgoing (starts with e)
 estroverso
 
-lift
+outgoing (starts with u)
+uscente
+
+the lift
 il sollevamento
 
 bad weather
@@ -748,7 +754,7 @@ sulla strada
 overnight stay
 il pernottamento
 
-criuise
+cruise
 la crociera
 
 drafting
@@ -792,3 +798,18 @@ la carne
 
 harbor
 il porto
+
+typo
+l'errore di battitura
+
+typing
+la battitura
+
+to board (intransitive)
+imbacarsi
+
+to board, to climb on board
+salire a bordo
+
+to demand
+esigire
