@@ -951,3 +951,6 @@ ozio
 
 to break, to snap
 spezzare
+
+basket, hamper, handbasket
+il paniere
