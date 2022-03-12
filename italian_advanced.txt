@@ -954,3 +954,6 @@ spezzare
 
 basket, hamper, handbasket
 il paniere
+
+to fall, to tumble
+cascare
