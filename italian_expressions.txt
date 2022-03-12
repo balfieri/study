@@ -1,15 +1,6 @@
 #
 # Italian Expressions 
 #
-to give it a go, to go down there (implying quickly)
-farci un salto
-
-to pull one's leg
-prendersi in giro
-
-to get by
-cavarsela
-
 lamentarsi o agitarsi inutilmente contro qualcuno che non ci ascolta o non e` in grado di capire
 abbaiare alla luna
 
@@ -469,6 +460,9 @@ capitare a fagiolo
 prendere atto di una dolorosa realta`
 cascare dal pero
 
+to fall for it
+cascarci
+
 gettarsi in un'impresa pericolosa dalla quale non ci si puo` piu` ritirare, o anche trovarcisi coinvolti proprio malgrado
 cavalcare la tigre
 
@@ -489,6 +483,9 @@ cercare un ago in un pagliaio
 
 cercare qualcosa ovunque e con insistenza
 cercare per mare e per monti
+
+to get by
+cavarsela
 
 un nuovo problema fa passare in secondo piano il precedente
 chiodo scaccia chiodo
@@ -819,6 +816,9 @@ far vedere la luna nel pozzo
 
 essere noiosi, seccanti, di difficile sopportazione
 far venire il latte alle ginocchia
+
+to give it a go, to go down there (implying quickly)
+farci un salto
 
 addossarsi vicendevolmente colpe, responsabilita` o incombenze
 fare a scaricabarile
