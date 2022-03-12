@@ -15,6 +15,7 @@ There are a few text files provided for various topics of my interest. Feel free
     italian.txt                         -- basic and a few intermediate words
     italian_advanced.txt                -- higher-intermediate to advanced words I'm currently studying
     italian_expressions.txt             -- expressions (modi di dire)
+    italian_vulgar.txt                  -- bad words and phrases (parolacce)
     french.txt
 
 Example of running the aviation questions:
