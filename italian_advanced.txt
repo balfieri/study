@@ -821,7 +821,7 @@ heading, header
 l'intestazione
 
 subscription
-l’abbonamento
+l'abbonamento
 
 addressee, recipient. consignee
 il destinatario
