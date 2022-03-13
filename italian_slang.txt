@@ -1,4 +1,4 @@
-# italian_slang.txt - modern slang
+# italian_slang.txt - more modern slang (italian_expressions.txt contains longer expressions)
 #
 I don't know; I have no idea
 boh!
@@ -15,8 +15,14 @@ sei fuori!
 di questi tempi; oggigiorno; c'e' un confronto tra qualcosa del passato e del presente
 oggi come oggi
 
-cool!
+cool! how cool!
 figo!; che figata!
+
+cool (Sicilian)
+ppacchuiso
+
+awesome
+ficchissimo
 
 assolutamente no!
 nemmeno per sogno!; neppure per sogno!; neanche per sogno!
@@ -75,7 +81,7 @@ una fregatura
 to run, to ‘jet’ 
 filare
 
-to see one another
+to see one another, to get together (with friends)
 beccarsi
 
 to be in the ‘friend-zone’ 
@@ -90,5 +96,101 @@ fare after
 slang of grezzo, someone who is unrefined and volgare
 il coatto
 
-slang of un sacco, a lot
+slang of un sacco, a lot, in grande quantita`, un incidente
 un botto
+
+come va?
+come te la passi?; che si dice?
+
+to stay up late
+tirare tardi
+
+molte persone insiemi allo stesso posto
+un carnaio
+
+divertirsi tanto, to die of laughter
+spaccarsi dalle risate
+
+non capire assolutamente niente
+non capire un tubo
+
+una cosa noiosa, che non va bene, negativa
+che pizza!
+
+to freak out, to flip out, dare in matto impazzire
+sbroccare
+
+doesn't notice you
+non ti fila per niente
+
+hangover
+la sbronza
+
+sono affari miei
+sono cavoli miei
+
+your business (and I don't want to get involved)
+cavoli tuoi
+
+no way, no desire to do it
+col cavolo
+
+you're going to have trouble
+cavoli amari
+
+brutto
+del cavolo
+
+damn!
+che cavolo!; cavolo!
+
+thank goodness
+meno male
+
+when something happens right in the perfect moment or comes up in the perfect situation
+a fagiolo
+
+stronzo (toscano)
+bischero
+
+la poca voglia di fare qualcosa; cose che non voglio fare
+che sbatti; non ho sbatti di
+
+it's the bomb! molto bello
+che bomba!
+
+figo, oppoure qualcosa che ti piace molto da fare, veramente bello
+tanta roba
+
+a tutto gas, very quickly, like crazy
+a manetta
+
+falsa notizia
+bufala
+
+per salutare un amico, per confirmare un appuntamento con un amico, hai fatto la cosa giusta
+bella zio; bella li`; bella raga
+
+fratello, "bro"
+frate
+
+essere in un cattivo umore
+essere preso male
+
+essere pieno d'energia, essere supergasato
+essere in piena
+
+scoprire qualcosa cattiva; osservare qualcuno mentre sta facendo qualcosa d'illegale
+sgamare
+
+va bene; e` accettabile
+ci sta
+
+to celebrate an event with alcohol, bevendo alcolici
+sbocciare
+
+prestare, to up spot (money)
+alzare
+
+tranquillo, sta' calmo
+sciallo

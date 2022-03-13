@@ -1,5 +1,5 @@
 #
-# Italian Expressions 
+# Italian Expressions - I might combine these with italian_slang.txt which is intended to be more modern
 #
 lamentarsi o agitarsi inutilmente contro qualcuno che non ci ascolta o non e` in grado di capire
 abbaiare alla luna
@@ -93,6 +93,9 @@ affogare nei debiti
 
 molto agile come il gatto che salta e si arrampica dappertutto
 agile come un gatto
+
+mettersi nei guai
+essere del gatto
 
 perfezionare la mira
 aggiustare il tiro
@@ -333,6 +336,9 @@ avere le mani di burro (o di pasta frolla)
 
 essere predisposti al furto, come un ladruncolo
 avere le mani lunghe
+
+to be all up in everyone else's business
+avere le mani in pasta
 
 avere coraggio
 avere le palle
@@ -643,7 +649,7 @@ essere al settimo cielo
 essere rimasto senza soldi
 essere al verde
 
-essere senza forze, senza energia
+essere senza forze, senza energia, to have reached the lowest point
 essere alla frutta
 
 trovarsi in una situazione pericolosa, precaria
@@ -1006,8 +1012,11 @@ il dolce far niente
 un risultato che per essere ottenuto ha implicato troppi sforzi e sacrifici
 il gioco non vale la candela
 
-augurio scherzoso di buona fortuna
+augurio scherzoso di buona fortuna, break a leg
 in bocca al lupo
+
+risposta a 'in bocca al lupo'; che muori il lupo
+crepi; crepi il lupo
 
 dopotutto, in fondo, tutto sommato
 in fin dei conti
@@ -1185,6 +1194,9 @@ mettere qualcosa sotto i denti
 
 rinunciarci definitivamente, smettere di pensarci
 metterci una croce sopra
+
+to tempt fate
+mettere la paglia vicino al fuoco
 
 non pensare piu` a una cosa, dimenticarla, non parlarne piu`
 metterci una pietra sopra
@@ -1701,3 +1713,21 @@ voltare la faccia
 
 rivelare tutto cio` che si sa, anche le cose segrete
 vuotare il sacco
+
+mystery novel
+libro giallo
+
+a know-it-all
+un saputo
+
+you're being mean
+sei scemo
+
+to act like you're a big deal
+fare il grande
+
+to be obsessed with something
+avere un chiodo fisso in testa
+
+to stand up someone on a date
+tirare un bidone
