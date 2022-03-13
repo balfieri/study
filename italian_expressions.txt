@@ -1,5 +1,6 @@
 #
-# Italian Expressions - I might combine these with italian_slang.txt which is intended to be more modern
+# Italian Expressions - intention here is expressions that have been around for a while
+#                       (I've had to guess)                
 #
 lamentarsi o agitarsi inutilmente contro qualcuno che non ci ascolta o non e` in grado di capire
 abbaiare alla luna

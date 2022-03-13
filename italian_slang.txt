@@ -1,4 +1,4 @@
-# italian_slang.txt - more modern slang (italian_expressions.txt contains longer expressions)
+# italian_slang.txt - intention here is more modern slang (I've had to guess)
 #
 I don't know; I have no idea
 boh!

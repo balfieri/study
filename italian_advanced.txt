@@ -118,6 +118,9 @@ accogliente
 picky, demanding
 esigente
 
+challenging
+impegnativo
+
 pork
 carne di maiale
 
@@ -987,3 +990,12 @@ il gergo
 
 playful
 scherzoso
+
+competition, sweepstakes contest
+il concorso indetto
+
+to position oneself, to place oneself
+collocarsi
+
+to awake, to arouse, to wake
+destare

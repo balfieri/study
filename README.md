@@ -14,9 +14,9 @@ There are a few text files provided for various topics of my interest. Feel free
     aviation_ifr.txt                    -- instrument pilot checkride oral exam
     italian_basic.txt                   -- basic and a few intermediate words
     italian_advanced.txt                -- higher-intermediate to advanced words
-    italian_expressions.txt             -- expressions (modi di dire)
-    italian_slang.txt                   -- slang (mostly modern)
-    italian_vulgar.txt                  -- bad words and phrases (parolacce)
+    italian_expressions.txt             -- expressions that have existed for a while
+    italian_slang.txt                   -- more modern slang
+    italian_vulgar.txt                  -- vulgar phrases (parolacce)
     french.txt                          -- my daughter's old word list 
 
 Example of running the aviation questions:
