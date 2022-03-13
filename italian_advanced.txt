@@ -121,8 +121,8 @@ esigente
 pork
 carne di maiale
 
-to look good
-gardarsi bene
+to look good, to take a good look
+guardarsi bene
 
 tunnel
 la galleria
@@ -604,6 +604,9 @@ diffidare di
 headphones
 le cuffie
 
+cap, bonnet
+la cuffia
+
 to trick
 ingannare
 
@@ -972,3 +975,6 @@ il cesso
 
 to deceive, to defraud, to cheat
 abbindolare
+
+how wonderful!
+che meraviglia!
