@@ -1095,3 +1095,6 @@ la bibita
 
 neutral
 neutro
+
+to graduate (from high school)
+diplomare; prendere il diploma
