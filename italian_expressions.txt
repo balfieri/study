@@ -986,7 +986,7 @@ gettare fumo negli occhi
 dimostrare apertamente le proprie intenzioni
 gettare la maschera
 
-arrendersi, rinunciare
+arrendersi, rinunciare, ritarsi
 gettare la spugna
 
 tormentare un avversario piu` debole sapendo di poterlo battere quando si vuole
@@ -1732,3 +1732,6 @@ avere un chiodo fisso in testa
 
 to stand up someone on a date
 tirare un bidone
+
+to be soooo hungry
+avere un fame boia
