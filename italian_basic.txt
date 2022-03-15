@@ -1675,9 +1675,6 @@ i mirtilli
 citrus
 gli agrumi
 
-flatbread
-la piadina
-
 scissors
 i forbici
 
@@ -1957,11 +1954,11 @@ intanto
 meanwhile (starts with n)
 nel frattempo
 
-trickster
-l'imbroglione
-
 fraud
 la truffa
 
 mosquito
 la zanzara
+
+educated
+istruito
