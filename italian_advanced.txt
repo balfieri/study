@@ -1284,3 +1284,6 @@ in qualche luogo
 
 whenever
 ogni volta che
+
+pizza pan
+la teglia da pizza
