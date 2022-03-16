@@ -1016,22 +1016,7 @@ to master
 padroneggiare
 
 notebook
-li quaderno
-
-sponge
-throttle
-
-to replace
-sostituire
-
-fuel
-il combustibile
-
-to master
-padroneggiare
-
-notebook
-li quaderno
+lo quaderno
 
 sponge
 la spugna
@@ -1115,7 +1100,7 @@ with the goal of
 allo scopo di; al fine di
 
 comparison
-il comfronto
+il confronto
 
 hot
 scottante
@@ -1278,3 +1263,24 @@ imperdibile
 
 to shorten, to cut back, to trim
 scorciare
+
+haha
+ahah
+
+to climb
+arrampicarsi
+
+to mop
+passare lo straccio
+
+to go crazy
+impazzire
+
+legitimate
+legittimo
+
+somewhere
+in qualche luogo
+
+whenever
+ogni volta che
