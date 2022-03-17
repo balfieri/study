@@ -1360,8 +1360,8 @@ forte e chiaro
 documentary
 il documentario
 
-menial
-umile
+menial, humble, lowly
+umile; domestico
 
 vinyl record
 il disco in vinile
@@ -1395,3 +1395,6 @@ intanto
 
 mosquito
 la zanzara
+
+unsuccessful
+infruttuoso; fallito
