@@ -1741,3 +1741,9 @@ non stare piu' nelle pelle di
 
 to get close
 avvicinarsi
+
+to drain
+scolare
+
+jury
+la giuria
