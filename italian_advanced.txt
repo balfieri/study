@@ -1327,5 +1327,8 @@ proiettare
 I beg you! Ti prego!
 mi raccomando!
 
-to recommend (somebody)
+to recommend (something to somebody)
 raccomandare
+
+to advise
+consigliare
