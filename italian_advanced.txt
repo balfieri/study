@@ -500,7 +500,7 @@ marriage
 il matrimonio
 
 to warn
-avvisare
+avvisare; avvertire
 
 argument (quarrel, starts with d)
 la disputa

@@ -1423,9 +1423,6 @@ l'albero
 vegetable
 la verdura
 
-arugola
-la rucola
-
 apple
 il mele
 
@@ -1603,18 +1600,6 @@ in contanti
 attention to detail
 l'attenzione ai dettagli
 
-shenanigans
-gli imbrogli
-
-closet
-il ripostiglio
-
-wig
-la parrucca
-
-hairdresser
-la parrucchiera
-
 theft; rip-off
 il furto
 
@@ -1687,9 +1672,6 @@ arrugginito
 cone
 il cono
 
-cozy
-accogliente
-
 including
 comprese
 
@@ -1720,10 +1702,10 @@ il pasto
 toy
 il giocattolo
 
-to recommend
+to recommend (something to someone)
 raccomdendare
 
-to advise
+to advise (someone)
 consigliare
 
 tunnel
@@ -1957,8 +1939,8 @@ nel frattempo
 fraud
 la truffa
 
-mosquito
-la zanzara
-
 educated
 istruito
+
+quiet
+silenzioso

@@ -1747,3 +1747,24 @@ scolare
 
 jury
 la giuria
+
+arugola
+la rucola
+
+closet
+il ripostiglio
+
+wig
+la parrucca
+
+hairdresser
+la parrucchiera
+
+cozy
+accogliente
+
+in the meantime (starts with i)
+intanto
+
+mosquito
+la zanzara
