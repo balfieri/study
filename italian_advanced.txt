@@ -1332,3 +1332,6 @@ raccomandare
 
 to advise
 consigliare
+
+by chance
+per caso
