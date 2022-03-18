@@ -1298,7 +1298,7 @@ long-suffering
 longanime
 
 nonetheless
-ciò nonostante
+cio` nonostante
 
 custom
 l'usanza
@@ -1455,3 +1455,6 @@ lontano da
 
 royalty (for artist)
 i diritti d'autore
+
+vulgar
+volgare
