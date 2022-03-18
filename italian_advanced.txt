@@ -1453,7 +1453,7 @@ il concorrente
 away from
 lontano da
 
-royalty (for artist)
+royalty (for artist), royalties
 i diritti d'autore
 
 vulgar
@@ -1464,3 +1464,15 @@ schizzinoso
 
 picky eater
 il mangiatore schizzinoso
+
+to expand
+espandere
+
+hallucinogenic
+allucinogeno
+
+magic mushrooms
+i funghi magici
+
+colorful
+colorato
