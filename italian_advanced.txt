@@ -1476,3 +1476,6 @@ i funghi magici
 
 colorful
 colorato
+
+haircut
+il taglio di capelli
