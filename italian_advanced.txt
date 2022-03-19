@@ -1536,3 +1536,6 @@ persuadere; convincere
 
 at bay
 a distanza
+
+the sore, the plague
+la piaga
