@@ -1779,3 +1779,9 @@ la lettura
 
 writing
 la scrittura
+
+joking (adj)
+scherzoso
+
+spicy
+speziato
