@@ -187,7 +187,7 @@ while True:
         if len( missed_questions ) == 0 or prompt( '\nRetry missed questions?', 'y' ) != 'y': break
         curr_questions = missed_questions
         for i in range( 100 ): print()
-    if skip_prompts or prompt( '\nPlay again?', 'y' ) != 'y': break 
+    if not skip_prompts and prompt( '\nPlay again?', 'y' ) != 'y': break 
 
 print( '\nGoodbye!\n' )
 sys.exit( 0 )
