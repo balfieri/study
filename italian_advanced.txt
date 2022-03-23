@@ -812,10 +812,10 @@ typing
 la battitura
 
 to board (intransitive)
-imbacarsi
+imbarcarsi su
 
 to board, to climb on board
-salire a bordo
+salire a bordo di
 
 to demand
 esigire
@@ -1848,3 +1848,9 @@ spostare
 
 snobbery, snobbishness
 lo snobismo
+
+to establish
+instaurare
+
+commitment, obligation
+l'impegno
