@@ -1956,3 +1956,6 @@ terrorizzare
 
 mutual
 reciproco
+
+not quite ready
+non del tutto pronto 
