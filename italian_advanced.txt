@@ -1953,3 +1953,6 @@ terrificare
 
 to terrorize
 terrorizzare
+
+mutual
+reciproco
