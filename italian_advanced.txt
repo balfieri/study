@@ -2034,3 +2034,6 @@ la modalita`
 
 to depopulate
 spopolare
+
+affectionate
+affetuoso
