@@ -506,7 +506,7 @@ argument (quarrel, starts with d)
 la disputa
 
 argument (quarrel, starts with l)
-la lite
+la lite; il litigio
 
 patent (legal)
 il brevetto
@@ -942,6 +942,9 @@ rimboccarsi le maniche
 
 to drag
 trascinare
+
+drag (n)
+la resistenza; il trascinamento
 
 unpleasant
 sgradevole
@@ -1661,7 +1664,7 @@ shortcut
 la scorciatoia
 
 to mumble
-borbottare
+biascicare; borbottare; farfugliare
 
 safety
 la sicurezza
@@ -2043,3 +2046,15 @@ il patrigno
 
 step-mother
 la matrigna
+
+to smoke pot/weed
+fumare erba; farsi le canne
+
+dumbfounded, stunned, astonished
+sbalortito
+
+to get high
+sballarsi
+
+to get stoned
+stonarsi
