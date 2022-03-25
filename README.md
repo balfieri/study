@@ -1,8 +1,7 @@
 This repository contains a Python3 script called run.py that will test you based on questions from a text file of your creation. It will randomly select questions and you must type the answers exactly (but upper/lower case is ignored). By default, it will give you 20 questions at a time, and it will re-test the questions that you missed. 
 
-However, in test files like aviation.txt, the answers are too long, so one normally just hits ENTER and looks at the answer and moves on.
-
-There's another mode (which I normally use) where you can tell it to simply print the question, pause, print the answer, pause, and then move on.  You don't have to click any buttons or type anything. Just say the answer in your head. Extra long answers will have additional delay added. When it gets to the end of the questions, it will restart the process. 
+There's another mode (which I normally use) where you can tell it to simply print the question, pause, print the answer, pause, and then move on.  You don't have to click any buttons or type anything. Just say the answer in your head. Extra long answers will have additional delay added. When it gets to the end of the questions, it will restart the process. The -q 0 options says to use all questions. 
+The -ps <sec> option specifies the pause time in seconds.
 
 Multiple subjects can be given on the command line, separated by commas with no spaces. For example "run.py aviation,aviation_ifr" will cause it to read in all questions from aviation.txt and aviation_ifr.txt.
 
