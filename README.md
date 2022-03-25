@@ -1,7 +1,7 @@
-This repository contains a Python3 script called run.py that will test you based on questions from a text file of your creation. It will randomly select questions and you must type the answers exactly (but upper/lower case is ignored). By default, it will give you 20 questions at a time, and it will re-test the questions that you missed. 
+This repository contains a Python3 script called run.py that will test you based on questions from a text file of your creation. It will randomly select questions and you must type the answers exactly (but upper/lower case is ignored). By default, it will give you 20 questions at a time, and it will re-test the questions that you missed. The -q 0 option says to use all questions. -q 100 says to use 100 questions.
 
-There's another mode (which I normally use) where you can tell it to simply print the question, pause, print the answer, pause, and then move on.  You don't have to click any buttons or type anything. Just say the answer in your head. Extra long answers will have additional delay added. When it gets to the end of the questions, it will restart the process. The -q 0 options says to use all questions. 
-The -ps <sec> option specifies the pause time in seconds.
+There's another mode (which I always use) where you can tell it to simply print the question, pause, print the answer, pause, and then move on.  You don't have to click any buttons or type anything. Just say the answer in your head. Extra long answers will have additional delay added. When it gets to the end of the questions, it will restart the process.
+The -ps <sec> option specifies the pause time in seconds - for short questions and answers, I normally use -ps 2.
 
 Multiple subjects can be given on the command line, separated by commas with no spaces. For example "run.py aviation,aviation_ifr" will cause it to read in all questions from aviation.txt and aviation_ifr.txt.
 
@@ -31,7 +31,7 @@ Example of running the aviation questions:
 
 This is all open-source. Refer to the LICENSE.md for licensing details.  
 
-By the way, there is a roundabout way to run this on iOS. Use an app called Working Copy to clone this git repo, then use another app called PyTo to run the Python interpreter on iOS. You will need to enable Working Copy to be a Files "location" in order for PyTo to see the repo on your phone. Once it's set up, you just need to "git pull" the repo occasionally. Kind of clunky, but useful.
+There is a roundabout way to run this on iOS. Use an app called Working Copy to clone this git repo, then use another app called PyTo to run the Python interpreter on iOS. You will need to enable Working Copy to be a Files "location" in order for PyTo to see the repo on your phone. Once it's set up, you just need to "git pull" the repo occasionally. Kind of clunky, but useful.
 
 For aviation.txt, I need to add a way to narrow down the aircraft type for which questions can be asked. Currently, I include questions about both 172SP and PA-28-161, which are the two planes I currently fly.
 
