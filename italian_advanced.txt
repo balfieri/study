@@ -2025,3 +2025,9 @@ assegnare
 
 reminder
 la prememoria
+
+at the same time
+al tempo stesso
+
+mode
+la modalita`
