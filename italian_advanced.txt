@@ -2058,3 +2058,27 @@ sballarsi
 
 to get stoned
 stonarsi
+
+to spin out
+andare in testacoda
+
+to roll out
+srotolare
+
+to roll
+rollare
+
+to pitch
+beccheggiare
+
+pitch (of airplane)
+il beccheggio
+
+to yaw
+imbardare
+
+yaw
+l'imbardata
+
+roll (n)
+il rollio
