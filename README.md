@@ -8,6 +8,8 @@ Each question in the file can be associated with one or more categories in {} se
 
 Answers in the file will be split along semicolons onto separate lines. The answer must currently be all on one line in the file, so this allows a more pleasant output. [I might change that to just allow multi-line answers in the file as there is already a blank line between questions.]
 
+Multiple subjects can be given on the command line, separated by commas with no spaces.
+
 There are a few text files provided for various topics of my interest. Feel free to use them or add your own:
 
     aviation.txt                        -- private pilot checkride oral exam (includes categories)
@@ -26,6 +28,7 @@ Example of running the aviation questions:
     ./run.py aviation -q 0              -- same, but ALL questions instead of default of 20
     ./run.py aviation -q 0 -ps 4        -- same, but just print answer with 4-second pause
     ./run.py aviation -q 0 -ps 4 -cat 'critcal' -- same but only questions in the 'critical' category
+    ./run.py aviation,aviation_ifr -q 0 -ps 4 -cat 'critcal' -- same, using both aviation.txt and aviation_ifr.txt
 
 This is all open-source. Refer to the LICENSE.md for licensing details.  
 

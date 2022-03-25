@@ -32,13 +32,13 @@ def prompt( s, default='' ):
 #-----------------------------------------------------------------------
 # process command line args
 #-----------------------------------------------------------------------
-if len( sys.argv ) < 2: die( 'usage: run.py <subject> [options]', '' )
-filename = sys.argv[1] + '.txt'
+if len( sys.argv ) < 2: die( 'usage: run.py <subjects> [options]', '' )
+subjects = sys.argv[1].split( ',' )
 question_cnt = 20
 skip_prompts = 0
 skip_pause_sec = -1
-file_start_pct = 0
-file_end_pct = 100
+start_pct = 0
+end_pct = 100
 acronyms_only = 0
 categories_s = ''
 have_categories_s = 0
@@ -53,13 +53,13 @@ while i < len( sys.argv ):
         skip_pause_sec = int(sys.argv[i])
         skip_prompts = 1
         i += 1
-    elif arg == '-file_start_pct':
-        file_start_pct = int(sys.argv[i])
-        if file_start_pct < 0 or file_end_pct < 0: die( 'file_start_pct and file_end_pct must be >= 0' )
+    elif arg == '-start_pct':
+        start_pct = int(sys.argv[i])
+        if start_pct < 0 or end_pct < 0: die( 'start_pct and end_pct must be >= 0' )
         i += 1
-    elif arg == '-file_end_pct':
-        file_end_pct = int(sys.argv[i])
-        if file_end_pct > 100: die( 'file_end_pct must be <= 100' )
+    elif arg == '-end_pct':
+        end_pct = int(sys.argv[i])
+        if end_pct > 100: die( 'end_pct must be <= 100' )
         i += 1
     elif arg == '-acronyms_only':
         acronyms_only = int(sys.argv[i])
@@ -71,7 +71,7 @@ while i < len( sys.argv ):
     else:
         die( f'unknown option: {arg}' )
 
-if file_start_pct >= file_end_pct: die( 'file_start_pct must be < file_end_pct' )
+if start_pct >= end_pct: die( 'start_pct must be < end_pct' )
 
 if not have_categories_s: 
     print()
@@ -80,42 +80,44 @@ categories = categories_s.split( ' ' )
 if len(categories) == 1 and categories[0] == '': categories = []
 
 #-----------------------------------------------------------------------
-# read in <subject>.txt file
+# read in <subject>.txt files
 #-----------------------------------------------------------------------
-Q = open( filename, 'r' )
 all_questions = []
-line_num = 0
-while True:
-    question = Q.readline()
-    if question == '': break
-    line_num += 1
-    question = re.sub( r'^\s+', '', question )
-    question = re.sub( r'\s+$', '', question )
-    if len(question) == 0 or question[0] == '#': continue
+for subject in subjects:
+    filename = subject + '.txt'
+    Q = open( filename, 'r' )
+    line_num = 0
+    while True:
+        question = Q.readline()
+        if question == '': break
+        line_num += 1
+        question = re.sub( r'^\s+', '', question )
+        question = re.sub( r'\s+$', '', question )
+        if len(question) == 0 or question[0] == '#': continue
 
-    answer = Q.readline()
-    answer = re.sub( r'^\s+', '', answer )
-    answer = re.sub( r'\s+$', '', answer )
-    if answer == '': die( f'question on line {line_num} is not followed by a non-blank answer on the next line: {question}' )
-    line_num += 1
+        answer = Q.readline()
+        answer = re.sub( r'^\s+', '', answer )
+        answer = re.sub( r'\s+$', '', answer )
+        if answer == '': die( f'question on line {line_num} is not followed by a non-blank answer on the next line: {question}' )
+        line_num += 1
 
-    if re.match( r'^\{', question ):
-        m = re.match( r'^\{(\S+)\}\s+(.*)', question )
-        if not m: die( f'ill-formed categories on line {line_num}: {question}' )
-        cats_s = m.group( 1 )
-        question = m.group( 2 )
-        if len(categories) > 0:
-            cats = cats_s.split( ',' )
-            found_one = False
-            for category in categories:
-                for cat in cats:
-                    if cat == category: found_one = True
-            if not found_one: continue
+        if re.match( r'^\{', question ):
+            m = re.match( r'^\{(\S+)\}\s+(.*)', question )
+            if not m: die( f'ill-formed categories on line {line_num}: {question}' )
+            cats_s = m.group( 1 )
+            question = m.group( 2 )
+            if len(categories) > 0:
+                cats = cats_s.split( ',' )
+                found_one = False
+                for category in categories:
+                    for cat in cats:
+                        if cat == category: found_one = True
+                if not found_one: continue
 
-    if acronyms_only == 0 or (re.match( r'^[A-Z0-9\s]+$', question ) and len(question) >= acronyms_only):
-        all_questions.append( question )
-        all_questions.append( answer )
-Q.close()
+        if acronyms_only == 0 or (re.match( r'^[A-Z0-9\s]+$', question ) and len(question) >= acronyms_only):
+            all_questions.append( question )
+            all_questions.append( answer )
+    Q.close()
 
 #-----------------------------------------------------------------------
 # keep trying to run a new test
@@ -124,8 +126,8 @@ random.seed( time.time() )
 
 all_question_cnt = len( all_questions ) >> 1
 if all_question_cnt == 0: die( 'no questions found in ' + filename )
-all_question_first = int(file_start_pct*all_question_cnt/100.0)
-all_question_last  = min(int(file_end_pct*all_question_cnt/100.0), all_question_cnt-1)
+all_question_first = int(start_pct*all_question_cnt/100.0)
+all_question_last  = min(int(end_pct*all_question_cnt/100.0), all_question_cnt-1)
 all_question_used_cnt = all_question_last - all_question_first + 1
 
 if question_cnt == 0: 
