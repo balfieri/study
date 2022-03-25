@@ -953,7 +953,7 @@ sated, full
 sazio
 
 idleness, leisure
-ozio
+l'ozio
 
 to break, to snap
 spezzare
