@@ -1691,7 +1691,7 @@ to look good
 gardarsi bene
 
 to look like
-assomigliare
+assomigliare a
 
 graphics
 la grafica
