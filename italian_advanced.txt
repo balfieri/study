@@ -2031,3 +2031,6 @@ al tempo stesso
 
 mode
 la modalita`
+
+to depopulate
+spopolare
