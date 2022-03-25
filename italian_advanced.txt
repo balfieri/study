@@ -2082,3 +2082,12 @@ l'imbardata
 
 roll (n)
 il rollio
+
+axis
+l'asse
+
+rudder
+il timone di direzione
+
+aileron
+l'alettone; l'alerone
