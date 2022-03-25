@@ -2037,3 +2037,9 @@ spopolare
 
 affectionate
 affetuoso
+
+step-father
+il patrigno
+
+step-mother
+la matrigna
