@@ -1424,7 +1424,7 @@ pill
 la pillola
 
 to sweep
-spazzare
+spazzare; scopare
 
 somewhere else
 altrove
@@ -2097,3 +2097,6 @@ lo sketch comico; la scenetta comica
 
 funny streak
 la vena umoristica; la striscia divertenta
+
+repulsive
+ripugnante, disgustoso, repellente
