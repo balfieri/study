@@ -2205,3 +2205,6 @@ fannulone
 
 begger
 il mendicante
+
+garb, clothing
+l'abbigliamento, l'abito
