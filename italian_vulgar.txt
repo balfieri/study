@@ -1,15 +1,15 @@
 # italian_vulgar.txt - bad words in Italian (parolacce)
 #
-letteralmente significa “testicolo”, ma viene utilizzato per indicare “sei uno stupido” o “sei un idiota” o usato per una persona che non capisce o provoca problemi
+letteralmente significa 'testicolo', ma viene utilizzato per indicare 'sei uno stupido' o 'sei un idiota' o usato per una persona che non capisce o provoca problemi
 coglione
 
 insulto pesante per offendere la persona e, indirettamente, la madre; usato tra amici puo` indicare persona furba
 figlio di mignotta; figlio di puttana
 
-letteralmente significa “escremento”, il termine e` utilizzato per indicare una persona malevola, che fa intenzionalmente qualcosa a danno di qualcun altro
+letteralmente significa 'escremento', il termine e` utilizzato per indicare una persona malevola, che fa intenzionalmente qualcosa a danno di qualcun altro
 stronzo
 
-persona cattiva, l’offesa non e` molto pesante e si puo` usare anche in modo scherzoso
+persona cattiva, l'offesa non e` molto pesante e si puo` usare anche in modo scherzoso
 pezzo di merda
 
 esprime dissenso; volgare, usato quando si e` arrabbiati con una persona, ma si puo` usare in modo scherzoso
@@ -21,7 +21,7 @@ sciacallo
 insulto per persone molto brutte; offesa abbastanza volgare
 sei un cesso
 
-persona che non capisce; poco piu` pesante di “stupido”, si puo` usare in modo scherzoso
+persona che non capisce; poco piu` pesante di 'stupido', si puo` usare in modo scherzoso
 deficiente
 
 persona cattiva
@@ -33,16 +33,16 @@ puttana; mignotta; troia; zoccola; baldracca
 figlio di nessuno; persona cattiva; insulto pesante, ma si puo` usare in modo scherzoso
 bastardo
 
-persona che si mostra servile rispetto ad un’altra soltanto per un tornaconto; l’offesa non e` molto pesante, si puo` usare in modo scherzoso
+persona che si mostra servile rispetto ad un'altra soltanto per un tornaconto; l'offesa non e` molto pesante, si puo` usare in modo scherzoso
 leccaculo; lecchino
 
 protettore delle prostitute; insulto volgare
 magnaccia; pappone
 
-persona perversa, estremamente maliziosa e spinta; l’insulto non e` molto pesante e si puo` usare in modo scherzoso
+persona perversa, estremamente maliziosa e spinta; l'insulto non e` molto pesante e si puo` usare in modo scherzoso
 maiale; porco
 
-persona che non capisce, mentalmente limitata o che fa qualcosa di sbagliato; l’insulto non e` molto pesante e si puo` usare anche in modo scherzoso; dork
+persona che non capisce, mentalmente limitata o che fa qualcosa di sbagliato; l'insulto non e` molto pesante e si puo` usare anche in modo scherzoso; dork
 stupido; cretino; idiota
 
 gay, omosessuale (usato in senso quasi dispregiativo); questi insulti si usano solo con gli uomini
@@ -54,7 +54,7 @@ sei una sega
 persona cattiva
 iena
 
-persona che non capisce niente, l’insulto e` piu` pesante di “deficiente”
+persona che non capisce niente, l'insulto e` piu` pesante di 'deficiente'
 cafone; imbecille
 
 essere un bugiardo
@@ -63,7 +63,7 @@ essere un conta-palle; un pallista
 sei noioso
 sei una palla; palloso
 
-intercalare di “vai a quel paese”, ma molto piu` volgare
+intercalare di 'vai a quel paese', ma molto piu` volgare
 vai a farti fottere
 
 sei poco coraggioso
@@ -93,10 +93,10 @@ sei un ingrato
 persona di poco valore, che non vale niente
 sei un pezzente
 
-rafforzativo di “sei una merda”; insulto pesante e dispregiativo
+rafforzativo di 'sei una merda'; insulto pesante e dispregiativo
 sei una feccia umana
 
-insulto rivolto esplicitamente alla madre con l’intento di offendere la persona e la madre
+insulto rivolto esplicitamente alla madre con l'intento di offendere la persona e la madre
 tua madre e` una puttana
 
 persona che specula sui problemi; interessi altrui
@@ -111,19 +111,19 @@ ruffiano
 persona disgustosa
 merdoso; schifoso
 
-intercalare di “vai a quel paese”
-vai al diavolo; vai all’inferno
+intercalare di 'vai a quel paese'
+vai al diavolo; vai all'inferno
 
 insulto rivolto ad un uomo che ha comportamenti effeminati
 sei un finocchio
 
-e’ attualmente usato per definire le persone e le cose riconducibili a paesi o regioni di lingua tedesca, con connotazione dispregiativa, ironica o scherzosa
+e` attualmente usato per definire le persone e le cose riconducibili a paesi o regioni di lingua tedesca, con connotazione dispregiativa, ironica o scherzosa
 crucco
 
 truffatore, imbroglione
 farabutto
 
-persona particolarmente loquace, ma priva di capacità effettive, per questo ritenuta scarsamente affidabile
+persona particolarmente loquace, ma priva di capacita` effettive, per questo ritenuta scarsamente affidabile
 quaquaraqua`
 
 persona esteticamente rozza
@@ -166,9 +166,9 @@ apparato genitale maschile, "cavolo"
 cazzo
 
 vai a quel paese!
-vaffanculo; va’ a cagare
+vaffanculo; va' a cagare
 
-fare l’amore
+fare l'amore
 scapare
 
 bellezza, incanto, divertimento, spasso, forte, mitico
