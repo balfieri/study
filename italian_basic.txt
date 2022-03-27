@@ -1942,11 +1942,20 @@ la truffa
 educated
 istruito
 
-quiet
-silenzioso
-
 garden
 il giardino
 
 instead of
 invece di
+
+loud
+rumoroso
+
+quiet
+silenzioso
+
+corner
+l'angolo
+
+to hide (intr)
+nascondersi
