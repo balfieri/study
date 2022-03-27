@@ -2445,3 +2445,9 @@ la testiera
 
 keypad
 la testierina; il testierino
+
+barely; hardly
+a stento
+
+to exploit; to take advantage of; to utilize
+sfruttare
