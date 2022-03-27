@@ -115,7 +115,7 @@ arrugginito
 cozy
 accogliente
 
-picky, demanding
+picky; demanding
 esigente
 
 challenging
@@ -124,7 +124,7 @@ impegnativo
 pork
 carne di maiale
 
-to look good, to take a good look
+to look good; to take a good look
 guardarsi bene
 
 tunnel
@@ -175,7 +175,7 @@ l'atterraggio
 saying
 il detto
 
-to fix, to repair
+to fix; to repair
 aggiustare
 
 to notice (after an observation)
@@ -205,7 +205,7 @@ l'aereo
 privilege
 il privilegio
 
-surrender, to give up
+surrender; to give up
 arrendersi
 
 to glide
@@ -295,7 +295,7 @@ l'arachide
 goal
 l'obiettivo
 
-reliable, dependable, trustworthy
+reliable; dependable; trustworthy
 affidabile
 
 main
@@ -355,7 +355,7 @@ fissare
 to face
 affrontare
 
-diagram,sketch
+diagram; sketch
 lo schema
 
 improperly
@@ -382,7 +382,7 @@ so that
 finche`
 until
 
-schmaltzy, sappy
+schmaltzy; sappy
 sdolcinato
 
 smoothing
@@ -586,7 +586,7 @@ il brutto tempo
 to stall (intransitive)
 mettersi in stallo
 
-barely, hardly
+barely; hardly
 appena
 
 I can barely hear you
@@ -607,7 +607,7 @@ diffidare di
 headphones
 le cuffie
 
-cap, bonnet
+cap; bonnet
 la cuffia
 
 to trick
@@ -676,7 +676,7 @@ i buoi
 laurel
 l'alloro
 
-to return, restore, give back
+to return; to restore; to give back
 restituire
 
 bossy
@@ -778,7 +778,7 @@ l'opuscolo
 leaflet
 il volantino
 
-leaflet, brochure
+leaflet; brochure
 il depliant
 
 half the time
@@ -814,7 +814,7 @@ la battitura
 to board (intransitive)
 imbarcarsi su
 
-to board, to climb on board
+to board; to climb on board
 salire a bordo di
 
 to demand
@@ -823,19 +823,19 @@ esigire
 housewife
 la casalinga
 
-heading, header
+heading; header
 l'intestazione
 
 subscription
 l'abbonamento
 
-addressee, recipient. consignee
+addressee; recipient; consignee
 il destinatario
 
-thus, therefore
+thus; therefore
 pertanto
 
-namely, i.e., that is
+namely; i.e.; that is
 ossia
 
 advertisement
@@ -844,10 +844,10 @@ l'inserzione
 to submit
 sottoporre
 
-to carry out, to fulfill, to accomplish
+to carry out; to fulfill; to accomplish
 svolgere
 
-to pack, to wrap
+to pack; to wrap
 imballare
 
 to schedule
@@ -856,7 +856,7 @@ programmare
 to plan
 pianificare
 
-aware, conscious
+aware; conscious
 consapevole
 
 to reject
@@ -865,7 +865,7 @@ rifiutare
 to cancel
 cancellare
 
-to annul, to cancel
+to annul; to cancel
 annullare
 
 to chew
@@ -889,7 +889,7 @@ la nuvola
 in the clouds
 nelle nuvole
 
-anyway, however
+anyway; however
 comunque
 
 fog
@@ -922,10 +922,10 @@ girarsi
 rather than
 anziche`
 
-to beat, to hit, to strike
+to beat; to hit; to strike
 picchiare
 
-heat, intensity
+heat; intensity
 la foga
 
 bracket
@@ -952,34 +952,34 @@ sgradevole
 pleasant
 gradevole
 
-sated, full
+sated; full
 sazio
 
-idleness, leisure
+idleness; leisure
 l'ozio
 
-to break, to snap
+to break; to snap
 spezzare
 
-basket, hamper, handbasket
+basket; hamper; handbasket
 il paniere
 
-to fall, to tumble
+to fall; to tumble
 cascare
 
-to satisfy, to gratify, to please
+to satisfy; to gratify; to please
 appagare
 
-to fart, to make incorrect, to correct wrongly
+to fart; to make incorrect; to correct wrongly
 scorreggere
 
-foolishness, nonsense, rubbish
+foolishness; nonsense; rubbish
 la sciocchezza
 
-toilet, can, bog
+toilet; can; bog
 il cesso
 
-to deceive, to defraud, to cheat
+to deceive; to defraud; to cheat
 abbindolare
 
 how wonderful!
@@ -994,13 +994,13 @@ il gergo
 playful
 scherzoso
 
-competition, sweepstakes contest
+competition; sweepstakes contest
 il concorso indetto
 
-to position oneself, to place oneself
+to position oneself; to place oneself
 collocarsi
 
-to awake, to arouse, to wake
+to awake; to arouse; to wake
 destare
 
 clarification
@@ -1033,16 +1033,16 @@ il fine settimana
 hungry (single word)
 affamato
 
-I'm starving, I'm dying of hunger
+I'm starving; I'm dying of hunger
 sto morendo di fame
 
 to have an appetite
 avere appetito
 
-indigente, poverissmo
+indigente; poverissmo
 morto di fame
 
-to have a little hunger but not much, to a little sensation of hunger
+to have a little hunger but not much; to a little sensation of hunger
 avere un certo languorino
 
 my stomach is rumbling
@@ -1096,7 +1096,7 @@ il sostantivo
 among other things
 tra altro
 
-as long as, because (formal)m
+as long as; because (formal)
 poiche'
 
 with the goal of
@@ -1201,7 +1201,7 @@ co sei?
 to be there (for someone)
 esserci
 
-to take part or participate (in something), to be in agreement, to have sufficient space
+to take part or participate (in something); to be in agreement; to have sufficient space
 starci
 
 non tollerare
@@ -1258,10 +1258,10 @@ nonndirlo neanche!
 ho mangiato poco poco
 ho mangiato appena
 
-unmissable, must-see, not to be missed
+unmissable; must-see; not to be missed
 imperdibile
 
-to shorten, to cut back, to trim
+to shorten; to cut back; to trim
 scorciare
 
 haha
@@ -1303,13 +1303,13 @@ cio` nonostante
 custom
 l'usanza
 
-treason, betrayal, treachery
+treason; betrayal; treachery
 il tradimento
 
 school spirit
 la goliardia
 
-to betray, to cheat
+to betray; to cheat
 tradire
 
 cuckhold
@@ -1342,16 +1342,16 @@ eppure
 but rather
 bensi`
 
-whatever, fair enough, nevermind, yeah well, anyway
+whatever; fair enough; nevermind; yeah well; anyway
 vabbe`
 
-out loud, at the top of your lungs
+out loud; at the top of your lungs
 a squarciagola
 
 shame
 l'onta
 
-mischief, prank
+mischief; prank
 la birichinata
 
 loud and clear
@@ -1360,7 +1360,7 @@ forte e chiaro
 documentary
 il documentario
 
-menial, humble, lowly
+menial; humble; lowly
 umile; domestico
 
 vinyl record
@@ -1402,7 +1402,7 @@ infruttuoso; fallito
 except
 tranne
 
-species (agriculture), based mainly on weight and size
+species (agriculture); based mainly on weight and size
 la pezzatura
 
 despite
@@ -1441,10 +1441,10 @@ perseverare
 perseverance
 la perseveranza
 
-dutiful, proper
+dutiful; proper
 doveroso
 
-helpful, useful
+helpful; useful
 utile
 
 contestant
@@ -1453,13 +1453,13 @@ il concorrente
 away from
 lontano da
 
-royalty (for artist), royalties
+royalty (for artist); royalties
 i diritti d'autore
 
 vulgar
 volgare
 
-picky, fussy
+picky; fussy
 schizzinoso
 
 picky eater
@@ -1490,7 +1490,7 @@ to be disappointed
 deludersi
 
 una cosa simile
-such a thing, a similar thing
+such a thing; a similar thing
 
 gusty
 burrascoso; rafficato
@@ -1516,7 +1516,7 @@ scroccare
 farewell
 il congedo
 
-as long as, only if, provided
+as long as; only if; provided
 purche'; a patto che; a condizione che
 
 of others
@@ -1537,7 +1537,7 @@ persuadere; convincere
 at bay
 a distanza
 
-the sore, the plague
+the sore; the plague
 la piaga
 
 o solve
@@ -1567,7 +1567,7 @@ il pagliaccio
 to this day
 fino ad oggi
 
-certainly, without doubt
+certainly; without doubt
 senzaltro
 
 golf hole
@@ -1669,7 +1669,7 @@ biascicare; borbottare; farfugliare
 safety
 la sicurezza
 
-to accomplish, to achieve
+to accomplish; to achieve
 compiutere
 
 to achieve
@@ -1711,16 +1711,16 @@ il profugo
 supply
 la fornitura
 
-cabinet, toilet
+cabinet; toilet
 il gabinetto
 
-splinter, fragment
+splinter; fragment
 la scheggia
 
 starch
 l'amido
 
-to dust, to sprinkle
+to dust; to sprinkle
 spolverare
 
 sticky
@@ -1747,7 +1747,7 @@ dare fastidio
 to be annoying
 essere fastidioso
 
-silly, goofy
+silly; goofy
 sciocco
 
 stop it!
@@ -1765,7 +1765,7 @@ valutare
 blackmail
 il ricatto
 
-to loosen, to relax
+to loosen; to relax
 allentare
 
 to slow
@@ -1786,7 +1786,7 @@ scherzoso
 spicy
 speziato
 
-eventually, finally
+eventually; finally
 infine
 
 windy
@@ -1807,7 +1807,7 @@ tenerci per te
 secondo me
 a mio parere
 
-to be about to be, is/are going to be
+to be about to be; is/are going to be
 stare per essere
 
 negotiation
@@ -1846,13 +1846,13 @@ l'umorismo autoironico
 to move (something)
 spostare
 
-snobbery, snobbishness
+snobbery; snobbishness
 lo snobismo
 
 to establish
 instaurare
 
-commitment, obligation
+commitment; obligation
 l'impegno
 
 opportunity cost
@@ -1867,7 +1867,7 @@ primi anni Settanta
 gambling
 il gioco d'azzardo
 
-idleness, leisure
+idleness; leisure
 l'ozio
 
 progressive
@@ -1876,7 +1876,7 @@ progressivo
 progressive (noun)
 il progressista
 
-to defeat, to conquer
+to defeat; to conquer
 sconfiggere
 
 to raise kids
@@ -1900,7 +1900,7 @@ il cantautore/la cantautrice
 ire
 l'ira
 
-greed,avarice
+greed; avarice
 l'avarizia
 
 envy
@@ -1915,22 +1915,22 @@ disidratati
 alcohol
 gli alcolici
 
-pride,arrogance
+pride; arrogance
 la superbia
 
-sloth,laziness
+sloth; laziness
 l'accidia
 
 gluttony
 la gola
 
-lust, carnality, lasciviousness
+lust; carnality; lasciviousness
 la lussuria
 
 idleness
 l'ozio
 
-lame, crippled person
+lame; crippled person
 lo zoppo
 
 to limp; to hobble
@@ -1975,7 +1975,7 @@ il falso amico
 outwardly
 apparentemente
 
-bank, edge
+bank; edge
 la sponda
 
 bet
@@ -1990,7 +1990,7 @@ auguriaresi
 to foresee
 prevedere
 
-adversity, accident
+adversity; accident
 la sciagura
 
 relief
@@ -2050,7 +2050,7 @@ la matrigna
 to smoke pot/weed
 fumare erba; farsi le canne
 
-dumbfounded, stunned, astonished
+dumbfounded; stunned; astonished
 sbalortito
 
 to get high
@@ -2099,9 +2099,9 @@ funny streak
 la vena umoristica; la striscia divertenta
 
 repulsive
-ripugnante, disgustoso, repellente
+ripugnante; disgustoso; repellente
 
-to take (road), to feed
+to take (road); to feed
 imboccare
 
 background
@@ -2110,7 +2110,7 @@ lo sfondo
 provision
 il proveddimento
 
-to leak, to transpire
+to leak; to transpire
 trapelare
 
 to draw (profit)
@@ -2137,7 +2137,7 @@ il riepilogo
 quick
 presto
 
-panel, tab
+panel; tab
 il pannello
 
 novel (book)
@@ -2149,19 +2149,19 @@ bussare
 moreover
 per altro
 
-defeat, loss
+defeat; loss
 la sconfitta
 
 to tear
 strappare
 
-contemporary, peer
+contemporary; peer
 il coetaneo
 
-column, address book
+column; address book
 la rubrica
 
-sign, warning, skirmish
+sign; warning; skirmish
 l 'avvisaglia
 
 to bombard
@@ -2170,7 +2170,7 @@ bersagliare
 shipbuilding (adj)
 cantieristico
 
-ongoing, underway
+ongoing; underway
 in corso
 
 shadow
@@ -2179,7 +2179,7 @@ l'ombra
 fight
 la fuga
 
-hanging, suspended (adj)
+hanging; suspended
 sospeso
 
 to hang oneself
@@ -2200,14 +2200,14 @@ il ragazzo; il bimbo
 to patent
 brevettare
 
-slacker, idler
+slacker; idler
 fannulone
 
 begger
 il mendicante
 
-garb, clothing
-l'abbigliamento, l'abito
+garb; clothing
+l'abbigliamento; l'abito
 
 garage
 il garage
@@ -2281,7 +2281,7 @@ riattaccare
 root
 la radice
 
-income, revenue
+income; revenue
 il reddito
 
 to attempt
@@ -2308,13 +2308,13 @@ duro di comprendonio
 speaker
 l'interlocutore
 
-infamous, notorious
+infamous; notorious
 famigerato
 
 fame
 la fama
 
-affable, cordial
+affable; cordial
 affabile
 
 standoffish
@@ -2395,7 +2395,7 @@ lucroso
 matter; affair
 la faccenda
 
-excessively, very
+excessively; very
 oltremodo
 
 in vai
@@ -2436,3 +2436,6 @@ l'orgoglio
 
 damage
 il danno
+
+compared to; in comparision to
+rispetto a; in confronto a

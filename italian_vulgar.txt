@@ -12,7 +12,7 @@ stronzo
 persona cattiva, l'offesa non e` molto pesante e si puo` usare anche in modo scherzoso
 pezzo di merda
 
-esprime dissenso; volgare, usato quando si e` arrabbiati con una persona, ma si puo` usare in modo scherzoso
+esprime dissenso, volgare, usato quando si e` arrabbiati con una persona, ma si puo` usare in modo scherzoso
 vaffanculo; vai a fare in culo; vai a cagare
 
 persona che si approfitta delle disgrazie degli altri
@@ -45,7 +45,7 @@ maiale; porco
 persona che non capisce, mentalmente limitata o che fa qualcosa di sbagliato; l'insulto non e` molto pesante e si puo` usare anche in modo scherzoso; dork
 stupido; cretino; idiota
 
-gay, omosessuale (usato in senso quasi dispregiativo); questi insulti si usano solo con gli uomini
+gay; omosessuale (usato in senso quasi dispregiativo); questi insulti si usano solo con gli uomini
 frocio; culattone; ricchione
 
 sei una persona incapace; un buono a nulla
@@ -54,7 +54,7 @@ sei una sega
 persona cattiva
 iena
 
-persona che non capisce niente, l'insulto e` piu` pesante di 'deficiente'
+persona che non capisce niente; l'insulto e` piu` pesante di 'deficiente'
 cafone; imbecille
 
 essere un bugiardo
@@ -120,7 +120,7 @@ sei un finocchio
 e` attualmente usato per definire le persone e le cose riconducibili a paesi o regioni di lingua tedesca, con connotazione dispregiativa, ironica o scherzosa
 crucco
 
-truffatore, imbroglione
+truffatore; imbroglione
 farabutto
 
 persona particolarmente loquace, ma priva di capacita` effettive, per questo ritenuta scarsamente affidabile
@@ -129,10 +129,10 @@ quaquaraqua`
 persona esteticamente rozza
 tamarro
 
-sei ignorante, non capisci un cazzo
+sei ignorante; non capisci un cazzo
 sei un cerebroleso
 
-rozzo, puzzolente e zoticone
+rozzo; puzzolente; zoticone
 bifolco
 
 persona che non arriva a capire le cose, che e` privo di acume mentale
@@ -150,7 +150,7 @@ che palle!
 che fortuna!
 che culo!
 
-indica una persona che vi da` fastidio, vi irrita; rompiscatole
+indica una persona che vi da` fastidio; vi irrita; rompiscatole
 rompipalle
 
 accidenti!
@@ -159,10 +159,10 @@ merda!
 fa schifo, e` brutto
 fa cagare
 
-stupidaggine, bugia, fesseria, sciocchezza
+stupidaggine; bugia; fesseria; sciocchezza
 cazzata
 
-apparato genitale maschile, "cavolo"
+apparato genitale maschile; "cavolo"
 cazzo
 
 go to hell!
@@ -174,7 +174,7 @@ vaffanculo; va' a cagare
 fare l'amore
 scapare
 
-bellezza, incanto, divertimento, spasso, forte, mitico
+bellezza; incanto; divertimento; spasso; forte; mitico
 figata
 
 ragazza bella, attraente, sexy
@@ -183,10 +183,10 @@ figa
 to get pissed off
 incazzarsi 
 
-to fuck around, to hang around
+to fuck around; to hang around
 cazzeggiare in giro
 
-it makes me poop, che schifo
+it makes me poop; che schifo
 mi fa cagare
 
 pain in the ass

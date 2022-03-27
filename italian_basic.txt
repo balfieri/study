@@ -622,7 +622,7 @@ prenotare
 reservation (room, car)
 la prenotazione
 
-plate, dish
+plate; dish
 il piatto
 
 agreement
@@ -655,10 +655,10 @@ il supermercato
 food
 il cibo
 
-cuisine, cooking, kitchen
+cuisine; cooking; kitchen
 la cucina
 
-cooking, deli
+cooking; deli
 la gastronomia
 
 central market
