@@ -2496,3 +2496,9 @@ scegliere; selezionare
 
 to hasten; to speed up
 affrettare
+
+holiday
+la festa; la vacanza
+
+on vacation; on holiday
+in ferie; in vacanza
