@@ -2493,3 +2493,6 @@ affettuoso
 
 to choose; to select
 scegliere; selezionare
+
+to hasten; to speed up
+affrettare
