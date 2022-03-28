@@ -2511,3 +2511,6 @@ spalleggiarsi
 
 innkeeper; host
 l'oste
+
+antisocial
+asociale; misantropo
