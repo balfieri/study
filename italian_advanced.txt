@@ -2173,7 +2173,7 @@ bersagliare
 shipbuilding (adj)
 cantieristico
 
-ongoing; underway
+ongoing; underway; afoot
 in corso
 
 shadow
@@ -2583,3 +2583,6 @@ il conteggio
 
 to tally; to count; to calculate
 conteggiare
+
+moral high ground
+la superiorita` morale
