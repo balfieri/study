@@ -2119,6 +2119,9 @@ traiare
 installation
 l'impianto
 
+to install
+impiantare; installare
+
 income
 il provento
 
@@ -2551,8 +2554,8 @@ tardare
 waste
 lo spreco
 
-unpleasant
-sgradevole
+unpleasant; disagreeable; nasty
+sgradevole; spiacievole
 
 to reprimand
 rimproverare
@@ -2565,3 +2568,12 @@ l'oncia
 
 middle; half
 la meta`; il mezzo
+
+pleasant; agreeable; nice
+gradevole; piacevole
+
+to be willing
+essere disposto
+
+even though
+benche'; nonostante; sebbene
