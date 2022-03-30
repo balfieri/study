@@ -910,9 +910,6 @@ l'addestramento
 challenge
 la sfida
 
-mildly
-leggermente
-
 route
 la rotta
 
@@ -2586,3 +2583,24 @@ conteggiare
 
 moral high ground
 la superiorita` morale
+
+troglodyte
+il troglodita
+
+miserable
+miserabile
+
+distraught
+sconvolto; turbato
+
+unnecessarily
+inutilmente
+
+mildly; slightly; lightly
+leggermente
+
+origin
+l'origine; la provenienza
+
+to promote
+promuovere
