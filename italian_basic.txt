@@ -670,8 +670,14 @@ il cuoio
 leather (starts with p)
 la pella
 
-glass
+glass (drinking)
 il bicchiere
+
+glass (like a glass wall)
+il vetro
+
+glasses (optical)
+gli specchi
 
 bottle
 la bottiglia
