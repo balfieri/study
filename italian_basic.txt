@@ -1971,3 +1971,6 @@ a quel punto
 
 well...; at that time
 allora
+
+alarm
+la sveglia
