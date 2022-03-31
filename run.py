@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# run.py <subject> [options]
+# run.py <subjects> [options]
 #
 import sys
 import time
