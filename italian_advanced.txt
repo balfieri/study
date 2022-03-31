@@ -502,11 +502,17 @@ il matrimonio
 to warn; to caution; to alert
 avvisare; avvertire
 
-argument (quarrel, starts with d)
+argument (quarrel, starts with d, more formal than discussione)
 la disputa
 
-argument (quarrel, starts with l)
+argument (quarrel, starts with l, less than lite)
 la lite; il litigio
+
+argumentative
+polemico
+
+angry and wanting to fight
+litigioso
 
 patent (legal)
 il brevetto
@@ -1963,7 +1969,7 @@ non del tutto pronto
 subject
 l'argomento
 
-argument
+argument (negative)
 la discussione
 
 false friend
@@ -2667,3 +2673,6 @@ introverted
 
 accontentarsi
 to be glad to
+
+to capture the essence
+catturare l'essenza
