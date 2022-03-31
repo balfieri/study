@@ -2676,3 +2676,6 @@ to be glad to
 
 to capture the essence
 catturare l'essenza
+
+to skip
+saltare
