@@ -2700,3 +2700,6 @@ suonare sullo sfondo
 
 to make an argument
 fare un argomento
+
+regularly scheduled program
+l'ordinaria programmazione
