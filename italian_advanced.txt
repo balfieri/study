@@ -2886,3 +2886,12 @@ il bisnipote
 
 great niece
 la bisnipote
+
+to name
+nominare
+
+to rename
+rinominare
+
+trash
+il cestino
