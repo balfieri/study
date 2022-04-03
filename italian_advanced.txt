@@ -2913,3 +2913,6 @@ farcela
 
 approval
 l'approvazione
+
+outlet; socket
+la presa di corrente
