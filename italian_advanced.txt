@@ -2960,7 +2960,7 @@ truthful; honest
 veritiero
 
 riddle
-l'enigma
+l'indovinello; l'enigma
 
 phew!
 uffa!
@@ -2973,3 +2973,6 @@ oltre a
 
 to describe
 descrivere
+
+to abandon; to abdicate; to forego; to give up (something); to renounce
+rinunciare a
