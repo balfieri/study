@@ -1974,3 +1974,6 @@ allora
 
 alarm
 la sveglia
+
+painful
+doloroso
