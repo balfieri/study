@@ -349,6 +349,9 @@ apprendere
 learning
 l'apprendimento
 
+interior design
+l'arredamento
+
 to stare at
 fissare
 
@@ -2446,6 +2449,12 @@ il danno
 compared to; in comparision to
 rispetto a; in confronto a
 
+about; apropos (and not only at the beginning of a sentence)
+a proposito di
+
+with respect to (at the beginning of a sentence)
+per quanto riguarda
+
 keyboard
 la testiera
 
@@ -3022,8 +3031,11 @@ la propieta`
 related (family)
 imparentato
 
-related (ideas); tied; connected
-legato; connesso; collegato
+related (ideas); connected
+connesso; collegato
+
+tied (physically usuall)
+legato
 
 baby steps
 i primi passi; i piccoli passi
@@ -3108,3 +3120,9 @@ avere a che fare con un professionista addestrato
 
 amateur
 l'amatore
+
+golf tournament
+il torneo di golf
+
+spocchioso
+snotty
