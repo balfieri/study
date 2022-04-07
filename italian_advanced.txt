@@ -2018,7 +2018,7 @@ level (adj)
 pianeggiante
 
 track
-il solco
+il solco; la pista
 
 thickness
 lo spessore
