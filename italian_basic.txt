@@ -1783,8 +1783,11 @@ preoccuparsi
 boring
 noiso
 
-bored
-annoiso
+to bore
+annoiare
+
+annoying
+fastidioso
 
 glad
 contento
