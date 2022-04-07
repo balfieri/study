@@ -3090,3 +3090,6 @@ ulteriore
 
 to be confused
 essere confuso
+
+the time before last
+il tempo prima dell'ultimo; la volta prima dell'ultima
