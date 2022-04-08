@@ -3179,7 +3179,7 @@ to get a point across
 farsi capire
 
 to misinterpret
-fraintender
+fraintendere
 
 to surpass
 superare
@@ -3276,3 +3276,6 @@ la` fuori; li` fuori
 
 to take off; to remove; to strip
 togliere
+
+to brag
+vantarsi
