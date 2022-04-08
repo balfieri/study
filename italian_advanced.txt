@@ -154,7 +154,7 @@ la zanzara
 to suffer
 subire
 
-to receive (starts with a)
+to receive (starts with a); to welcome; to accept
 accogliere
 
 to flow
@@ -3270,3 +3270,9 @@ odioso; detestabile; ripugnante
 
 curmudgeon
 burbero; musone; bisbetico
+
+out there
+la` fuori; li` fuori
+
+to take off; to remove; to strip
+togliere

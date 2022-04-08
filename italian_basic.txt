@@ -1980,3 +1980,9 @@ la sveglia
 
 painful
 doloroso
+
+joke
+lo scherzo; la barzelletta
+
+to joke
+scherzare
