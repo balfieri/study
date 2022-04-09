@@ -1490,7 +1490,7 @@ shoes
 le scarpe
 
 sweater
-il maglione
+il maglione; il pullover; la maglia
 
 sweatshirt
 la felpa

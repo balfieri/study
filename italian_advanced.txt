@@ -2461,7 +2461,7 @@ la testiera
 keypad
 la testierina; il testierino
 
-barely; hardly
+barely; hardly; with difficulty
 a stento
 
 to exploit; to take advantage of; to utilize
@@ -2950,7 +2950,7 @@ in primo luogo
 tens
 le dicene
 
-to submit (a draft)
+to entrust; to submit (a draft)
 affidare
 
 tin can
@@ -3315,3 +3315,12 @@ schiaffare
 
 poised
 in bilico
+
+to shoulder; to undertake; to absorb
+addossarsi
+
+to pick; to cull; to catch
+cogliere
+
+to swallow; to gulp
+inghiottire
