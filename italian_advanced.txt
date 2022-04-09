@@ -3327,3 +3327,6 @@ inghiottire
 
 racy; risque
 spinto; piccante
+
+audacious
+audace
