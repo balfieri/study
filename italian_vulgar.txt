@@ -1,18 +1,18 @@
 # italian_vulgar.txt - bad words in Italian (parolacce)
 #
-letteralmente significa 'testicolo', ma viene utilizzato per indicare 'sei uno stupido' o 'sei un idiota' o usato per una persona che non capisce o provoca problemi
+letteralmente significa 'testicolo', ma viene utilizzato per indicare 'sei uno stupido' o 'sei un idiota' o usato per una persona che non capisce o provoca problemi; idiot; moron
 coglione
 
 insulto pesante per offendere la persona e, indirettamente, la madre; usato tra amici puo` indicare persona furba
 figlio di mignotta; figlio di puttana
 
-letteralmente significa 'escremento', il termine e` utilizzato per indicare una persona malevola, che fa intenzionalmente qualcosa a danno di qualcun altro
+letteralmente significa 'escremento', il termine e` utilizzato per indicare una persona malevola, che fa intenzionalmente qualcosa a danno di qualcun altro; malvagio; asshole; jerk; turd
 stronzo
 
-persona cattiva, l'offesa non e` molto pesante e si puo` usare anche in modo scherzoso
+piece of shit; persona cattiva, l'offesa non e` molto pesante e si puo` usare anche in modo scherzoso
 pezzo di merda
 
-esprime dissenso, volgare, usato quando si e` arrabbiati con una persona, ma si puo` usare in modo scherzoso
+esprime dissenso, volgare, usato quando si e` arrabbiati con una persona, ma si puo` usare in modo scherzoso; fuck you; vai a quel paese
 vaffanculo; vai a fare in culo; vai a cagare
 
 persona che si approfitta delle disgrazie degli altri
@@ -21,38 +21,56 @@ sciacallo
 insulto per persone molto brutte; offesa abbastanza volgare
 sei un cesso
 
-persona che non capisce; poco piu` pesante di 'stupido', si puo` usare in modo scherzoso
+persona che non capisce; poco piu` pesante di 'stupido', si puo` usare in modo scherzoso; moron; deficient
 deficiente
 
 persona cattiva
 testa di cazzo
 
-donna che si da` facilmente; donna dai facili costumi; queste offese si usano solo con le donne
+poo; shit; crap
+la cacca
+
+chump; patsy; fool
+il fesso
+
+stupidity; rubbush; balony; bullshit
+la fesseria
+
+bitch; donna che si da` facilmente; donna dai facili costumi; queste offese si usano solo con le donne
 puttana; mignotta; troia; zoccola; baldracca
+
+bitch
+cagna; stronza; troia; porca puttana
+
+fare l'amore; fare sesso
+scopare
 
 figlio di nessuno; persona cattiva; insulto pesante, ma si puo` usare in modo scherzoso
 bastardo
 
-persona che si mostra servile rispetto ad un'altra soltanto per un tornaconto; l'offesa non e` molto pesante, si puo` usare in modo scherzoso
+ass licker; butt licker; persona che si mostra servile rispetto ad un'altra soltanto per un tornaconto; l'offesa non e` molto pesante, si puo` usare in modo scherzoso
 leccaculo; lecchino
 
-protettore delle prostitute; insulto volgare
+pimp; protettore delle prostitute; insulto volgare
 magnaccia; pappone
 
-persona perversa, estremamente maliziosa e spinta; l'insulto non e` molto pesante e si puo` usare in modo scherzoso
+persona perversa, estremamente maliziosa e spinta; l'insulto non e` molto pesante e si puo` usare in modo scherzoso; pig; swine; hog
 maiale; porco
 
-persona che non capisce, mentalmente limitata o che fa qualcosa di sbagliato; l'insulto non e` molto pesante e si puo` usare anche in modo scherzoso; dork
+persona che non capisce, mentalmente limitata o che fa qualcosa di sbagliato; l'insulto non e` molto pesante e si puo` usare anche in modo scherzoso; dork; moron; cretin
 stupido; cretino; idiota
 
-gay; omosessuale (usato in senso quasi dispregiativo); questi insulti si usano solo con gli uomini
+gay; omosessuale (usato in senso quasi dispregiativo); questi insulti si usano solo con gli uomini; faggot; fag; fruit
 frocio; culattone; ricchione
 
-sei una persona incapace; un buono a nulla
-sei una sega
+fuck (act)
+la trombata
+
+useless person; persona incapace; un buono a nulla; wank
+la sega
 
 persona cattiva
-iena
+l'iena
 
 persona che non capisce niente; l'insulto e` piu` pesante di 'deficiente'
 cafone; imbecille
@@ -63,8 +81,14 @@ essere un conta-palle; un pallista
 sei noioso
 sei una palla; palloso
 
-intercalare di 'vai a quel paese', ma molto piu` volgare
+go fuck yourself
 vai a farti fottere
+
+to fuck; to screw; to bone
+fottere
+
+tits
+le tette
 
 sei poco coraggioso
 sei un uomo senza palle
@@ -91,7 +115,7 @@ persona che non mostra riconoscenza o gratitudine
 sei un ingrato
 
 persona di poco valore, che non vale niente
-sei un pezzente
+il pezzente
 
 rafforzativo di 'sei una merda'; insulto pesante e dispregiativo
 sei una feccia umana
@@ -102,13 +126,13 @@ tua madre e` una puttana
 persona che specula sui problemi; interessi altrui
 meschino
 
-persona ingenua che si lascia facilmente abbindolare
-pirla
+persona ingenua che si lascia facilmente abbindolare; silly; idiot; bonehead
+il pirla
 
 persona che, per i propri interessi, si comporta in maniera eccessivamente gentile verso una data persona
 ruffiano
 
-persona disgustosa
+persona disgustosa; shitty; disgusting
 merdoso; schifoso
 
 intercalare di 'vai a quel paese'
@@ -144,26 +168,35 @@ lurido
 persona esteticamente oscena che si veste male e verso la quale si prova disgusto e repulsione
 obbrobrio
 
-indica che qualcosa ci infastidisce o ci annoia
+indica che qualcosa ci infastidisce o ci annoia; che noia!
 che palle!
 
 che fortuna!
 che culo!
 
-indica una persona che vi da` fastidio; vi irrita; rompiscatole
-rompipalle
+indica una persona che vi da` fastidio; vi irrita; rompiscatole; ball-breaker
+rompipalle; rompicazzo; rompiballe
 
-accidenti!
+accidenti!; shit!
 merda!
 
 fa schifo, e` brutto
 fa cagare
 
-stupidaggine; bugia; fesseria; sciocchezza
+to shit; to crap; to defecate
+cagare; cacare
+
+stupidaggine; bugia; fesseria; sciocchezza; bullshit
 cazzata
 
-apparato genitale maschile; "cavolo"
+apparato genitale maschile; cavolo
 cazzo
+
+bullshit; crap; shit
+la stronzata
+
+to bullshit
+cazzeggiare
 
 go to hell!
 vai a quel paese!
@@ -177,7 +210,7 @@ scapare
 bellezza; incanto; divertimento; spasso; forte; mitico
 figata
 
-ragazza bella, attraente, sexy
+bella; attraente; sexy
 figa
 
 to get pissed off
@@ -190,7 +223,7 @@ it makes me poop; che schifo
 mi fa cagare
 
 pain in the ass
-il rompicoglioni; la spina nel culo
+il rompicoglioni
 
 to have a sad look on your face
 avere peni in faccia
@@ -199,10 +232,79 @@ bullshit
 le cazzate; le stronzate; le minchiate
 
 bullshitter
-il cazzaro
+il cazzaro; uno che dice stronzate
 
 bitch
 la stronza; la troia
 
+misfortune; bad luck
+la sfiga
+
 shitty; like shit
 di merda
+
+piss; pee
+la piscia
+
+to assfuck; to butt-fuck
+inculare
+
+African hooker
+la vucumpra`
+
+fat-ass
+la culona
+
+hand job
+la pippa
+
+to talk shit about
+smerdare
+
+to badmouth someone
+sputtanare
+
+southern Italian (derogatory)
+il terrone
+
+pissed off
+scoglionato
+
+cunt; pussy; twat
+la fregna; la fica
+
+young woman who dresses provocatively
+la puttanella
+
+male masturbation
+la pugnetta
+
+man married to an unfaithful wife; cuckhold
+il cornuto
+
+damn you!
+mortacci tua!
+
+cunt; fanny; pussy
+la bernarda
+
+blowjob; blow job; fellatio
+il pompino
+
+idiot; moron; schmuck
+il bischero 
+
+dick; cock; fuck
+la minchia
+
+brothel; hell of a mess; fuck-up
+il casino
+
+ass; butt; bum
+il culo
+
+fuck face!
+testa di cazzo!
+
+fucking bullshit!
+stronzate del cazzo!; quante stronzate!
