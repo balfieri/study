@@ -32,10 +32,10 @@ for line in lines:
     if line == '': continue
     m = match( line, r'^(.*) = (.*)$' )
     if not m: die( "bad input: " + line )
-    question = m.group( 1 )
-    question = question[0].lower() + question[1:]
-    answer = m.group( 2 )
+    answer = m.group( 1 )
     answer = answer[0].lower() + answer[1:]
+    question = m.group( 2 )
+    question = question[0].lower() + question[1:]
     print( question )
     print( answer )
     print()
