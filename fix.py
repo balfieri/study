@@ -30,11 +30,12 @@ for line in lines:
     line = re.sub( r'^\s+', '', line )
     line = re.sub( r'\s+$', '', line )
     if line == '': continue
-    line = line[0].lower() + line[1:]
     m = match( line, r'^(.*) = (.*)$' )
     if not m: die( "bad input: " + line )
-    answer   = m.group( 1 )
-    question = m.group( 2 )
+    question = m.group( 1 )
+    question = question[0].lower() + question[1:]
+    answer = m.group( 2 )
+    answer = answer[0].lower() + answer[1:]
     print( question )
     print( answer )
     print()
