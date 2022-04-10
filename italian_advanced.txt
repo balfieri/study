@@ -478,9 +478,6 @@ prendere in giro
 to warm up
 scaldare
 
-to remove
-togliere
-
 club
 il club
 
@@ -1245,9 +1242,6 @@ ne dubito
 
 takeout (adj)
 d'asporto; da portare via
-
-to remove
-togliere
 
 for what?
 e di che?
@@ -3274,7 +3268,7 @@ burbero; musone; bisbetico
 out there
 la` fuori; li` fuori
 
-to take off; to remove; to strip
+to remove; to take off; to strip
 togliere
 
 to brag
@@ -3639,3 +3633,12 @@ andare a rotoli
 
 to scratch (one's)
 grattarsi
+
+stone; rock; pebble
+il sasso
+
+to breathe
+respirare
+
+to sigh
+sospire
