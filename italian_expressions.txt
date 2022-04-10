@@ -1571,7 +1571,7 @@ stare col fiato sospeso
 non fare nulla; non intervenire
 stare con le mani in mano
 
-resistere; non mollare
+resistere; non mollare; to bite the bullet; to grin and bear it
 stringere i denti
 
 nel momento migliore o piu` importante
@@ -3356,9 +3356,6 @@ stare col fiato sospeso
 non fare nulla, non intervenire
 stare con le mani in mano
 
-resistere, non mollare
-stringere i denti
-
 nel momento migliore o più importante
 sul più bello
 
@@ -4223,9 +4220,6 @@ stare col fiato sospeso
 non fare nulla
 starsene con le mani in mano
 
-resistere
-stringere i denti
-
 escludere
 tagliare fuori
 
@@ -4609,9 +4603,6 @@ il miglior guadagno è il risparmio
 
 to add fuel to the fire
 gettare benzina sul fuoco
-
-to bite the bullet
-stringere i denti
 
 by the skin of one’s teeth
 per il rotto della cuffia
@@ -5584,9 +5575,6 @@ vedere tutto nero
 
 to be down in the dumps
 essere mogio
-
-to grin and bear it
-stringere i denti
 
 out of sorts
 giù di corda
