@@ -1472,9 +1472,6 @@ rompere gli indugi
 covare rancore, rabbia
 rodersi il fegato
 
-interrompere una situazione fatta di silenzio e imbarazzi
-rompere il ghiaccio
-
 creare fastidio
 rompere le scatole
 
@@ -3257,9 +3254,6 @@ rompere gli indugi
 covare rancore, rabbia
 rodersi il fegato
 
-interrompere una situazione fatta di silenzio e imbarazzi
-rompere il ghiaccio
-
 creare fastidio
 rompere le scatole
 
@@ -4162,9 +4156,6 @@ rimettersi in sesto
 
 covare rancore
 rodersi il fegato
-
-interrompere per primo un silenzio imbarazzante
-rompere il ghiaccio
 
 infastidire
 rompere le scatole
@@ -5732,7 +5723,7 @@ semplicemente un'amica
 please, come in
 accòmodati
 
-Keep your mouth shut!; keep it under your hat!
+keep your mouth shut!; keep it under your hat!
 acqua in bocca!
 
 it's a deal
@@ -5843,8 +5834,8 @@ bisogna essere disposti a soffrire per raggiungere l'obiettivo
 to burn one's bridges
 bruciarsi i ponti alle spalle
 
-Happy New Year
-buon Capodanno
+happy New Year!
+buon Capodanno!
 
 lucky you!
 buon per te!
@@ -6727,9 +6718,6 @@ rispetti (i miei rispetti)
 
 Rome was not built in a day
 Roma non fu fatta in un giorno
-
-to break the ice
-rompere il ghiaccio
 
 steal someone's thunder
 rubare un'idea a qualcuno
