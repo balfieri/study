@@ -1989,3 +1989,6 @@ lo scherzo; la barzelletta
 
 to joke
 scherzare
+
+thread; wire; yarn
+il filo

@@ -149,9 +149,6 @@ andare a picco
 andare a finire male
 andare a puttane
 
-andare in rovina
-andare a rotoli
-
 quando un prodotto e` molto richiesto sul mercato
 andare a ruba
 
@@ -1942,9 +1939,6 @@ andare a picco
 
 andare a finire male
 andare a puttane
-
-andare in rovina
-andare a rotoli
 
 quando un prodotto è molto richiesto sul mercato
 andare a ruba
@@ -4741,9 +4735,6 @@ combattere una battaglia persa
 
 a chance in hell; no chance at all
 straccio di possibilità
-
-to go downhill
-andare a rotoli
 
 in the worst-case scenario
 nel peggiore dei casi
