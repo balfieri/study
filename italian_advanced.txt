@@ -3645,3 +3645,9 @@ sospire
 
 bookmark; marker
 il segnalibro
+
+several; some; much
+parecchio
+
+to conduct an investigation
+condurre un'indagine
