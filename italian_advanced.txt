@@ -596,7 +596,7 @@ to stall (intransitive)
 mettersi in stallo
 
 barely; hardly
-appena
+appena; malapena
 
 I can barely hear you
 riesco appena a sentirti
@@ -1466,7 +1466,7 @@ vulgar
 volgare
 
 picky; fussy
-schizzinoso
+schizzinoso; puntiglioso
 
 picky eater
 il mangiatore schizzinoso
@@ -3323,7 +3323,13 @@ to pick; to cull; to catch
 cogliere
 
 to swallow; to gulp
-inghiottire
+inghiottire; ingoiare
+
+toad; frog
+il rospo
+
+to clip
+tarpare
 
 racy; risque
 spinto; piccante
@@ -3333,3 +3339,105 @@ audace
 
 brothel; whorehouse; bordello
 il bordello
+
+glassworks
+la cristalleria
+
+moustache; wisker; mustache
+il buffo
+
+hindrance; obstacle; encumbrance
+l'impaccio
+
+to meddle; to intrude; to intervene
+intromettersi
+
+exhausted
+esaurito
+
+to exhaust; to run out; to use up
+esaurire
+
+committed; engaged; busy
+impegnato
+
+to engage; to commit; to pledge
+impegnare
+
+to waste; to squander; to dilapidate
+sperperare
+
+rag; tatter; cloth
+il cencio
+
+to spank
+scalucciare
+
+upcoming
+prossimo; seguente; imminente
+
+to relax; to chill; to unwind; to chill out
+rilassarsi; darsi una calmata
+
+skeleton
+lo scheletro
+
+flea
+la pulce
+
+to catch; to grab; to get
+acchiappare
+
+trouble; nuisance; hindrance
+l'impiccio
+
+prompt; cue
+l'imbeccata
+
+to upset; to vex; to flurry
+innervosire
+
+connection; bearing; relevance
+l'attinenza
+
+distrustful; untrustworthy
+malfidato
+
+to hold; to cause; to wreak
+intrattenersi
+
+to piss off; to skive; to make off (with); to escape
+svignarsela
+
+to snap up; to bag; to appropriate; to take over
+accaparrarsi
+
+fury; obstinancy; perseverence
+l'accanimento
+
+genius; wit; genie
+il genio
+
+custom; practice
+l'usanza
+
+actually
+realmente; effettivamente; davvero; in realta`
+
+to come back down
+ridiscendere
+
+to pursue; to prosecute; to chase
+perseguire
+
+puff; breath; whiff
+il soffio
+
+worthy; worth; dignified
+degno
+
+to sharpen; to whet
+aguzzare
+
+to sugarcoat; to gild; to embroider
+inndorare

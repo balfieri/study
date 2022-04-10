@@ -386,7 +386,7 @@ avere un nodo alla gola
 febbre molto alta
 avere una febbre da cavallo
 
-nascondere un fatto della vita compromettente e imbarazzante che e` meglio tenere nascosto
+nascondere un fatto della vita compromettente e imbarazzante che e` meglio tenere nascosto; to have a skeleton in the closet
 avere uno scheletro nell'armadio
 
 avere autorita` per intervenire in una discussione e prendere decisioni
@@ -1178,9 +1178,6 @@ mettere la pulce nell'orecchio
 intromettersi abilmente per trarne vantaggio
 mettere lo zampino
 
-mettere per iscritto
-mettere nero su bianco
-
 dedicarsi a troppe attivita` contemporaneamente
 mettere troppa carne al fuoco
 
@@ -1535,10 +1532,10 @@ segare la segatura
 non sentirsi a proprio agio
 sentirsi un pesce fuor d'acqua
 
-mettersi al servizio di due persone che perseguono interessi o scopi contrastanti o incompatibili tra loro
+mettersi al servizio di due persone che perseguono interessi o scopi contrastanti o incompatibili tra loro; to serve to masters
 servire due padroni
 
-sostenere un argomento con una persona che la pensa allo stesso modo
+sostenere un argomento con una persona che la pensa allo stesso modo; to preach to the choir
 sfondare una porta aperta
 
 prestare qualcosa e far notare che la si rivuole indietro al piu` presto
@@ -1592,7 +1589,7 @@ tagliare fuori
 troncare i rapporti; non aver relazioni con nessuno
 tagliare i ponti
 
-svignarsela
+svignarsela; to piss off (leave); to make off
 tagliare la corda
 
 prendere una decisione drastica
@@ -1652,7 +1649,7 @@ tirare la cinghia
 morire
 tirare le cuoia
 
-costringere con la forza qualcuno a fare qualcosa
+costringere con la forza qualcuno a fare qualcosa; to pull somebody by his/her hair
 tirare per i capelli
 
 pretendere troppo, rischiando di "spezzare" la corda
@@ -2054,7 +2051,7 @@ a tutta birra
 essere diventati prudenti dopo avere avuto esperienze sgradevoli
 aver provato il morso del lupo
 
-avere voce tremula tipica di chi ha subito un grande spavento
+avere voce tremula tipica di chi ha subito un grande spavento; to behave as if one has just seen a ghost
 aver visto il lupo
 
 essere molto giovani e inesperti
@@ -2822,7 +2819,7 @@ in un batter d'occhio
 tormento insopportabile da cui è impossibile liberarsi
 indossare la camicia di Nesso
 
-sopportare una situazione sgradevole perché non si può fare altrimenti
+sopportare una situazione sgradevole perché non si può fare altrimenti; to bite one's lip and bear it
 ingoiare il rospo
 
 pretendere di saperne sempre più degli altri
@@ -2971,9 +2968,6 @@ mettere la pulce nell'orecchio
 
 intromettersi abilmente per trarne vantaggio
 mettere lo zampino
-
-mettere per iscritto
-mettere nero su bianco
 
 dedicarsi a troppe attività contemporaneamente
 mettere troppa carne al fuoco
@@ -3239,7 +3233,7 @@ raschiare il fondo del barile
 ricambiare con eguale o maggiore asprezza una offesa o un torto ricevuto
 rendere pan per focaccia
 
-rimanere delusi
+rimanere delusi; to have a bitter taste in one's mouth
 restare con l'amaro in bocca
 
 agire secondo i propri doveri
@@ -3878,7 +3872,7 @@ fare un buco nell’acqua
 segnarsi qualcosa per non dimenticarlo
 fare un nodo al fazzoletto
 
-fare qualsiasi cosa pur di ottenere ciò che si vuole
+fare qualsiasi cosa pur di ottenere ciò che si vuole; to make a pact with the devil
 fare un patto col diavolo
 
 intraprendere un’iniziativa senza sapere a cosa si va incontro
@@ -3923,7 +3917,7 @@ gettare la spugna
 intensificare un conflitto
 gettare paglia sul fuoco
 
-chiedere aiuto senza motivo
+chiedere aiuto senza motivo; to cry wolf
 gridare al lupo
 
 sentirsi superiori
@@ -4022,7 +4016,7 @@ mettere in croce
 insinuare il dubbio
 mettere la pulce nell’orecchio
 
-dire chiaramente
+dire chiaramente; to put into writing; mettere per iscritto
 mettere nero su bianco
 
 dedicarsi a troppe attivit contemporaneamente
@@ -5480,8 +5474,8 @@ stare male come un cane
 to feel under the weather
 sentirsi così così
 
-white as a sheet
-bianco come un cenci
+white as a sheet; white as a ghost
+bianco come cenci
 
 to be at a loss for words
 non avere parole

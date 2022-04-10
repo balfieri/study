@@ -1193,7 +1193,7 @@ face
 la faccia
 
 cheeks
-le grance
+le guance
 
 body
 il corpo
@@ -1519,8 +1519,11 @@ la carta d'imbarco
 check-in
 il check-in
 
-race
+race (competition)
 la gara
+
+race (human)
+la razza
 
 competition
 la concorrenza
@@ -1628,7 +1631,7 @@ chain
 la catena
 
 wallet
-il portafoglio
+il portafoglio; il borsellino
 
 change (n)
 il cambiamento
