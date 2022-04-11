@@ -569,7 +569,7 @@ knot
 il nodo
 
 incoming (starts with i)
-in arrivo
+in entrata; in arrivo
 
 incoming (starts with e)
 entrante
