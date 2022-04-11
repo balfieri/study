@@ -3317,7 +3317,7 @@ to pick; to cull; to catch
 cogliere
 
 to swallow; to gulp
-inghiottire; ingoiare
+inghiottire; ingoiare; degerire
 
 toad; frog
 il rospo; la rana
@@ -3699,3 +3699,24 @@ da allora
 
 busy airport
 l'aeroporto affollato; l'aeroporto trafficato
+
+blow; knock; bump
+la botta
+
+abhorence; disgust; abomination
+il ribrezzo
+
+to splash; to sketch; to spatter
+schizzare
+
+to feast
+banchettare
+
+to hold; to detain; to keep
+trattenere
+
+pat on the back
+il colpetto sulla schiena
+
+pat; knock
+il colpetto
