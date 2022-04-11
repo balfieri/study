@@ -1685,9 +1685,6 @@ vedersela brutta
 difendersi con tutte le forze
 vendere cara la pelle
 
-esaminare l'argomento piu` importante del discorso
-venire al punto
-
 imporsi all'attenzione e arrivare alla notorieta`
 venire alla ribalta
 
@@ -3461,9 +3458,6 @@ vedersela brutta
 difendersi con tutte le forze
 vendere cara la pelle
 
-esaminare l'argomento più importante del discorso
-venire al punto
-
 imporsi all'attenzione e arrivare alla notorietà
 venire alla ribalta
 
@@ -4271,7 +4265,7 @@ vedere tutto nero
 difendersi fino alla fine
 vendere cara la pelle
 
-arrivare all’argomento più importante di un discorso
+to get to the point; arrivare all’argomento più importante di un discorso
 venire al punto
 
 confessare
@@ -6542,7 +6536,7 @@ non ti permettere
 every cloud has a silver lining
 non tutto il male vien per nuocere
 
-to beat around the bush
+to beat around the bush; to not get to the point
 non venire al punto; menare il can per l'aia
 
 to not relish the idea
@@ -6941,7 +6935,7 @@ essere innamorato pazzo
 the nature of the beast
 qualcosa di negativo ed inevitabile
 
-to be like water off a one's back
+to be like water off one's back
 non aver effetto, rimbalzare
 
 to be off-putting
