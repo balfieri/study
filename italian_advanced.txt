@@ -2150,7 +2150,7 @@ to knock
 bussare
 
 moreover
-per altro
+per altro; d'altronde
 
 defeat; loss
 la sconfitta
@@ -3722,4 +3722,4 @@ pat; knock
 il colpetto
 
 on the other hand
-d'altro canto; d'altra parte; dall'altro lato; d'altronde
+d'altro canto; d'altra parte; dall'altro lato
