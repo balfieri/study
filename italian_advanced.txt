@@ -1016,7 +1016,7 @@ to replace
 sostituire
 
 fuel
-il combustibile
+il combustibile; il carburante
 
 to master
 padroneggiare
@@ -3838,9 +3838,6 @@ ripugnante
 upbringing
 l'educazione
 
-fuel
-carburante
-
 to be out of (something)
 rimanere senza
 
@@ -3882,3 +3879,6 @@ efficacemente; effetivamente
 
 paranoid
 paranoico
+
+daylight
+la luce del giorno
