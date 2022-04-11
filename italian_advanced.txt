@@ -3349,7 +3349,7 @@ intromettersi
 exhausted
 esaurito
 
-to exhaust; to run out; to use up
+to exhaust; to run out of; to use up
 esaurire
 
 committed; engaged; busy
@@ -3834,3 +3834,12 @@ nauseabondo; nauseante
 
 nauseating (smell)
 ripugnante
+
+upbringing
+l'educazione
+
+fuel
+carburante
+
+to be out of (something)
+rimanere senza
