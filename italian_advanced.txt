@@ -3873,3 +3873,9 @@ la scintilla; scintillare; il lampo
 
 to replace
 sostituire; cambiare
+
+to reconstruct
+ricostrire
+
+effectively
+efficacemente; effetivamente
