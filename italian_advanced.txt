@@ -3807,3 +3807,12 @@ implorare
 
 recurring
 ricorrente
+
+to belong
+appartenere
+
+son-in-law
+il genero
+
+brother-in-law
+il cognato
