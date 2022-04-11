@@ -476,7 +476,7 @@ cercare la quadratura del cerchio
 cercare in ogni direzione
 cercare in lungo e in largo
 
-cercare qualcosa di impossibile da trovare
+to find a needle in a haystack; cercare qualcosa di impossibile da trovare
 cercare un ago in un pagliaio
 
 cercare qualcosa ovunque e con insistenza
@@ -6068,8 +6068,8 @@ easy to say
 hey, you
 ehi là
 
-quando è troppo... è troppo
 enough is enough
+quando è troppo... è troppo
 
 please come in
 entra
@@ -6766,9 +6766,6 @@ sènza compliménti
 
 with no strings attached
 senza condizioni/vincoli
-
-certainly
-senz'altro
 
 play chicken with someone
 sfidare q nell'essere l'ultimo a prendere azione evasiva (per evitare una collisione)

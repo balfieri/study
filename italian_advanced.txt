@@ -1568,7 +1568,7 @@ to this day
 fino ad oggi
 
 certainly; without doubt
-senzaltro
+senzaltro; senz'altro
 
 golf hole
 il percorso da golf
@@ -3400,6 +3400,9 @@ malfidato
 to hold; to cause; to wreak
 intrattenersi
 
+to restrain; to refrain
+trattenersi
+
 to piss off; to skive; to make off (with); to escape
 svignarsela
 
@@ -3723,3 +3726,21 @@ il colpetto
 
 on the other hand
 d'altro canto; d'altra parte; dall'altro lato
+
+hoe; shovel
+la zappa
+
+to highlight; to emphasize; to pin
+mettere in evidenza
+
+needle; pin; spine
+l'ago
+
+haystack
+il pagliaio
+
+to fall through; to fall apart; to go awry
+andare a monte
+
+to pose; to posture
+atteggiarsi
