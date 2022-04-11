@@ -3888,3 +3888,6 @@ raccogliere; collezionare
 
 exchange studente
 lo studente di scambio; lo studente in scambio; lo scambio studentesco
+
+lively discussion
+la vivace discussione; l'animata discussione 
