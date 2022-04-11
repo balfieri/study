@@ -3801,3 +3801,9 @@ non importa; lascia perdere
 
 to demand; to exact; to request
 pretendere
+
+to implore
+implorare
+
+recurring
+ricorrente
