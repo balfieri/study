@@ -7278,4 +7278,7 @@ bad break
 il brutto momento; il brutto colpo
 
 that's what I'm here for; that's why I'm here
-e` per questo che sono qui; sono qui per questo; e` per questo che mi trovo qui
+e` per questo che sono qui; sono qui per questo; e` per questo che mi trovo qui; echo perche' mi trovo qui; e` per questo che sto qui
+
+I'm here to help
+sono qui per aiutare
