@@ -1664,7 +1664,7 @@ shortcut
 la scorciatoia
 
 to mumble
-biascicare; borbottare; farfugliare
+borbottare; biascicare; farfugliare
 
 safety
 la sicurezza
@@ -3843,3 +3843,12 @@ carburante
 
 to be out of (something)
 rimanere senza
+
+recently
+recentemente; di recente; ultimamente
+
+to pay attention
+prestare attenzione; fare attenzione
+
+tiring; laborious
+faticoso; stancante
