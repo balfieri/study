@@ -1995,3 +1995,6 @@ il filo
 
 back (part of body)
 la schiena
+
+homework
+i compiti per casa; i compiti
