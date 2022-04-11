@@ -3879,3 +3879,6 @@ ricostrire
 
 effectively
 efficacemente; effetivamente
+
+paranoid
+paranoico
