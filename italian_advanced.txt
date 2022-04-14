@@ -3996,3 +3996,18 @@ come non mai; come mai prima
 
 after a long time
 dopo lungo tempo
+
+sunset
+il tramonto
+
+dusk
+il crepuscolo
+
+dawn
+l'alba
+
+sunrise
+il levar del sole
+
+phase
+la fase
