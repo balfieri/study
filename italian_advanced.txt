@@ -3205,8 +3205,11 @@ prevedere
 in competition
 in concorrenza
 
-to take place
-avvenire
+to occur; to happen; to take place
+capitare; succedere; accadere; avvenire
+
+the future
+la futura; l'avvenire
 
 revenge
 la rivincita
@@ -3419,7 +3422,7 @@ custom; practice
 l'usanza
 
 actually
-realmente; effettivamente; davvero; in realta`
+realmente; effettivamente; in realta`
 
 to come back down
 ridiscendere
@@ -3459,9 +3462,6 @@ la misurazione
 
 exactness
 l'esattezza
-
-accuracy
-l'accuratezza
 
 exact
 esatto
@@ -3960,3 +3960,21 @@ tutto di seguito
 
 to brood; to incubate; to hatch
 covare
+
+if the opportunity arises
+se si presenterà l’occasione
+
+to give permission
+dare il permesso
+
+to itch
+prudere
+
+I have no idea
+non ne ho idea
+
+(trash) can
+il bidone (della spazzatura)
+
+an old friend of mine
+un mio vecchio amico
