@@ -3987,3 +3987,6 @@ benestante
 
 bite; morsel; mouthful
 il boccone
+
+African-American
+afroamericano
