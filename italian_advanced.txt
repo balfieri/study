@@ -2009,7 +2009,7 @@ to extend
 prorogare
 
 even (starts with p)
-perfino
+perfino; persino
 
 level (adj)
 pianeggiante
@@ -4047,3 +4047,6 @@ il narcotrafficante
 
 to deal; to push (drugs); to peddle
 spacciare
+
+to continue; to go on; to proceed
+proseguire
