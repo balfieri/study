@@ -2599,8 +2599,11 @@ il troglodita
 miserable
 miserabile
 
-distraught
+distraught; upset
 sconvolto; turbato
+
+disturbed (mentally)
+disturbato
 
 unnecessarily
 inutilmente
@@ -3978,3 +3981,9 @@ il bidone (della spazzatura)
 
 an old friend of mine
 un mio vecchio amico
+
+well-to-do; affluent
+benestante
+
+bite; morsel; mouthful
+il boccone
