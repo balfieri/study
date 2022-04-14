@@ -3082,7 +3082,7 @@ spiccare
 United Kingdom
 il Regno Unito
 
-attitude; pose
+attitude; pose; demeanor
 l'atteggiamento
 
 to pose
@@ -4032,3 +4032,6 @@ fai pure! continue!
 
 motherhood
 la maternita`
+
+by any chance
+per caso
