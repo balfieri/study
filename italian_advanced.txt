@@ -3385,7 +3385,7 @@ lo scheletro
 flea
 la pulce
 
-to catch; to grab; to get
+to catch; to grab; to get; to grasp at
 acchiappare
 
 trouble; nuisance; hindrance
@@ -4407,3 +4407,6 @@ il picco
 
 dregs; trash
 la feccia
+
+at all cost
+a tutti i costi
