@@ -526,7 +526,7 @@ leale
 funny (starts with s)
 spiritoso
 
-meanwhile
+meanwhile (starts with n)
 nel frattempo
 
 citizenship by descent
