@@ -4359,3 +4359,6 @@ sbilanciare
 
 from scratch; made-up
 di sana pianta
+
+to pause
+fare una pausa
