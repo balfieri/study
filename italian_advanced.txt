@@ -919,7 +919,7 @@ la sfida
 route
 la rotta
 
-to turn around
+to turn around; to turn oneself
 girarsi
 
 rather than
@@ -3633,7 +3633,10 @@ la bacchetta
 
 pit
 la fossa
-        
+  
+to ruin
+rovinarsi
+
 to go downhill
 andare a rotoli
 
@@ -3641,7 +3644,7 @@ to scratch (one's)
 grattarsi
 
 stone; rock; pebble
-il sasso
+il sasso; la pietra
 
 to breathe
 respirare
@@ -4362,3 +4365,27 @@ di sana pianta
 
 to pause
 fare una pausa
+
+spool; bobbin
+la spola
+
+mystic; elusive
+la chimera
+
+to revoke
+revosciare
+
+fury
+la furia
+
+mouse; rat
+il sorcio
+
+heat; enthusiasm; ardour
+la foga
+
+to end well
+cavare bene
+
+shin; tibia
+lo stinco
