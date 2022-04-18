@@ -4551,3 +4551,6 @@ ma certo!
 
 memory (instance)
 il ricordo
+
+wardrobe
+il guardaroba; la guardaroba
