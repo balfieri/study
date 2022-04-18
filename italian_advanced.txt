@@ -1486,8 +1486,8 @@ deluso
 to be disappointed
 deludersi
 
-una cosa simile
 such a thing; a similar thing
+una cosa simile
 
 gusty
 burrascoso; rafficato
@@ -4557,3 +4557,9 @@ altrove; in qualche altro posto; da qualche altra parte
 
 to deny; to contradict
 smentire
+
+before then
+prima di allora
+
+at some point
+prima o poi
