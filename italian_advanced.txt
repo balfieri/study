@@ -430,7 +430,7 @@ convolgersi
 to address
 rivolgere
 
-to call on
+to call on; to turn to; to face
 rivolgersi
 
 to get stuck
@@ -866,7 +866,7 @@ aware; conscious
 consapevole
 
 to reject
-rifiutare
+rifiutare; rispingere
 
 to cancel
 cancellare
@@ -4566,3 +4566,15 @@ prima o poi
 
 listen (n); listening
 l'ascolto
+
+you did it again!
+l'hai fatto ancora!
+
+at the risk of
+a rischio di essere
+
+reckless
+spericolato
+
+recklessness
+la spericolatezza
