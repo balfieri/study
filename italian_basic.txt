@@ -538,7 +538,7 @@ meraviglioso
 television
 la televisione
 
-station (radio, tv)
+station (radio, tv); channel
 il canale
 
 station (bus, train)
