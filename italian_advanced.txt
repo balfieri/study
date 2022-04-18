@@ -4563,3 +4563,6 @@ prima di allora
 
 at some point
 prima o poi
+
+listen (n); listening
+l'ascolto
