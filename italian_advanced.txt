@@ -3560,7 +3560,7 @@ to get around; to workaround
 aggirare
 
 threshold; sill; doorstep
-la soglia
+la stoglia
 
 inconvenience; bother; trouble
 l'incomodo
@@ -4518,3 +4518,21 @@ il take-away cinese
 
 good enough; good enough for me
 tanto basta
+
+to be exposed to
+essere esposto a
+
+psychosis
+la psicosi
+
+rustle; rustling
+il fruscio
+
+altercation
+l'alterco
+
+quarrel; squabble
+il bisticcio
+
+misunderstanding; mistake; misapprehension
+il malintenso
