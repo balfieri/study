@@ -14,7 +14,7 @@ There are a few text files provided for various topics of my interest. Feel free
     aviation.txt                        -- private pilot checkride oral exam (includes categories)
     aviation_ifr.txt                    -- instrument pilot checkride oral exam
     italian_basic.txt                   -- basic and a few intermediate words
-    italian_advanced.txt                -- higher-intermediate to advanced words
+    italian_advanced.txt                -- intermediate to advanced words
     italian_expressions.txt             -- expressions that have existed for a while
     italian_slang.txt                   -- more modern slang
     italian_vulgar.txt                  -- vulgar phrases (parolacce)
