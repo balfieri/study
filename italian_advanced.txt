@@ -4584,3 +4584,6 @@ l'unghia
 
 to bite one's fingernails
 mangiarsi le unghie
+
+laugh
+la risata
