@@ -1426,9 +1426,6 @@ la pillola
 to sweep
 spazzare; scopare
 
-somewhere else
-altrove
-
 redemption
 il riscolamento
 
@@ -4555,5 +4552,5 @@ il ricordo
 wardrobe
 il guardaroba; la guardaroba
 
-someplace else
-in qualche altro posto; da qualche altra parte
+elsewhere; somewhere else; someplace else
+altrove; in qualche altro posto; da qualche altra parte
