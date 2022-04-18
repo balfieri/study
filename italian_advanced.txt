@@ -4471,11 +4471,17 @@ magnifico
 sublime
 sublime
 
-list
-la lista; l'elenco
+list (unordered)
+la lista
 
-to list
+list (more ordered)
+l'elenco
+
+to list (in ordered way)
 elencare
+
+to make a list
+fare una lista
 
 to retrace; to travel over again
 ripercorrere
@@ -4599,3 +4605,6 @@ il corso propedeutico
 
 mood
 l'umore
+
+to lose badly
+subire una grave sconfitta
