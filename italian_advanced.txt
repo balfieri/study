@@ -2143,6 +2143,9 @@ il pannello
 novel (book)
 il romanzo
 
+novel (adj)
+nuovo; originale
+
 to knock
 bussare
 
@@ -4650,3 +4653,9 @@ dispiacere; spiacere
 
 past (n)
 il passato
+
+nonfiction
+la saggistica
+
+fiction
+la narrativa; la finzione
