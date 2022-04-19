@@ -2492,7 +2492,10 @@ on time
 in orario
 
 luckily, fortunately
-menomale; per fortuna
+menomale; per fortuna; fortunatamente
+
+unfortunately
+purtroppo; sfortunatamente
 
 anger
 la rabbia
@@ -2751,6 +2754,9 @@ la mobilita` verso l'alto
 
 milestone (also used for a major album)
 la pietra miliare
+
+album
+l'album; il disco
 
 prior
 precedente
@@ -4454,7 +4460,7 @@ fabulous
 favoloso
 
 amazing
-stupefacente
+incredibile; fantastico; meraviglioso; sbalorditivo; stupefacente
 
 extraordinario
 straordinario
@@ -4659,3 +4665,15 @@ la saggistica
 
 fiction
 la narrativa; la finzione
+
+that's what I'm here for; that's why I'm here
+e` per questo che sono qui; sono qui per questo; e` per questo che mi trovo qui; echo perche' mi trovo qui; e` per questo che sto qui
+
+belt; strap; thong
+la cinghia
+
+attractive
+attraente
+
+I'm here to help
+sono qui per aiutare
