@@ -4743,3 +4743,6 @@ la scala
 
 to make a toast
 fare un brindisi; fare un toast
+
+handwriting
+la scrittura
