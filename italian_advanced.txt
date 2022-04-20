@@ -4750,5 +4750,8 @@ la scrittura
 to study hard and play hard
 studiare duro e giocare duro
 
-recovery
+recovery (to normal health)
+il recupero
+
+recovery (to prior status)
 il ricupero
