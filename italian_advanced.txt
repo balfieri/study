@@ -4762,5 +4762,8 @@ minacciare
 roommate
 il compagno di stanza; la compagna di stanza
 
-consumate
+to consumate
 consumare
+
+to irradicate
+sradicare
