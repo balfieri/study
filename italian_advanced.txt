@@ -683,7 +683,7 @@ laurel
 l'alloro
 
 to return; to restore; to give back
-restituire
+restituire; ritornare
 
 bossy
 prepotente
@@ -3428,7 +3428,7 @@ custom; practice
 l'usanza
 
 actually
-realmente; effettivamente; in realta`
+in effetti; in realta`
 
 to come back down
 ridiscendere
@@ -5106,3 +5106,9 @@ amabile
 
 to pass a test
 superare un esame
+
+screen
+lo schermo
+
+to inquire; to enquire
+informarsi

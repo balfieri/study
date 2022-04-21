@@ -301,7 +301,7 @@ alto
 short
 corto
 
-low
+short (person's height); low
 basso
 
 to play (a game or sport)
