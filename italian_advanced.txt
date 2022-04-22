@@ -1282,7 +1282,7 @@ legittimo
 somewhere
 in qualche luogo
 
-whenever
+whenever; every time
 ogni volta che
 
 pizza pan
@@ -5178,3 +5178,12 @@ il lavandino della cucina
 
 self-doubt
 l'insicurezza; di dubbio
+
+there's no way
+non c'e` modo; non c'e` verso
+
+there is a way
+c'e` un modo
+
+it acts as a deterrent
+agisce da deterrente
