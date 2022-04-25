@@ -5403,3 +5403,6 @@ prestare attenzione
 
 computer program
 il programma informatico
+
+key word
+la parola chiave
