@@ -5406,3 +5406,6 @@ il programma informatico
 
 key word
 la parola chiave
+
+one of my own
+uno dei miei; uno per conto mio
