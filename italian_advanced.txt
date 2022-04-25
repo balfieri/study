@@ -5400,3 +5400,6 @@ l'aneddoto
 
 to pay attention
 prestare attenzione
+
+computer program
+il programma informatico
