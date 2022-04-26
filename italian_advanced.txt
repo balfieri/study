@@ -5451,3 +5451,6 @@ umoristico
 
 to make matters worse
 a peggiore la situazione, a peggiore le cose
+
+stereotypical
+stereotipato; stereotipico
