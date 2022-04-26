@@ -523,9 +523,6 @@ il diritto d'autore
 loyal
 leale
 
-funny (starts with s)
-spiritoso
-
 meanwhile (starts with n)
 nel frattempo
 
@@ -5164,8 +5161,11 @@ grezzo; crudo
 handful
 la manciata
 
-to rob
+to rob (a person`)
 derubare
+
+to rob (something)
+rubare
 
 prohibition
 il divieto
@@ -5242,8 +5242,11 @@ sopportare; tollerare
 hitman; assassin
 il sicario
 
-to provide
+to provide; to put in order
 disporre
+
+to provide; to furnish'
+fornire
 
 petty
 di poco conto
@@ -5266,8 +5269,11 @@ svariati
 award-winning
 pluripremiato
 
-for which
-per il quale
+whome
+il quale
+
+which
+il cui
 
 to take place; to be set
 ambientare
@@ -5409,3 +5415,39 @@ la parola chiave
 
 one of my own
 uno dei miei; uno per conto mio
+
+dictatorship
+la dittatura
+
+incorrigible
+incorreggibile
+
+in the early days, at first
+i primi tempi
+
+celebration
+la celebrazione
+
+crime
+il reato
+
+damage; deterioration
+il danneggiamento
+
+cultural assets
+i beni culturali
+
+landscape (adj)
+paesaggistico
+
+worsening
+l'inasprimento
+
+imprisonment
+la reclusione
+
+humorous (book)
+umoristico
+
+to make matters worse
+a peggiore la situazione, a peggiore le cose

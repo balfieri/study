@@ -523,11 +523,11 @@ divertente
 to have fun; to enjoy oneself; to have a good time
 divertirsi
 
-funny
-buffo
-
-witty
+funny (person); witty
 spiritoso
+
+silly (person)
+buffo
 
 sense of humor
 il senso d'umore
@@ -1998,3 +1998,6 @@ la schiena
 
 homework
 i compiti per casa; i compiti
+
+short-term
+a breve termine
