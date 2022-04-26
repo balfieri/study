@@ -5457,3 +5457,6 @@ stereotipato; stereotipico
 
 to cool; to cool down
 rifreddare
+
+to have a right to
+avere il diritto di
