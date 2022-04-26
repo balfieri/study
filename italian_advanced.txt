@@ -4876,7 +4876,7 @@ dubitare
 to lunch
 pranzare
 
-to be quiet
+to be quiet; to keep quiet; to stay quiet
 tacere
 
 to pick
@@ -5460,3 +5460,12 @@ rifreddare
 
 to have a right to
 avere il diritto di
+
+nuance; shade; hue
+la sfumatura
+
+to take a fancy (to it)
+si fa simpatia
+
+liking; sympathy
+la simpatia
