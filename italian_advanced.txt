@@ -5715,3 +5715,6 @@ consultare
 
 ray
 il raggio
+
+multiple sclerosis
+la sclerosi multipla
