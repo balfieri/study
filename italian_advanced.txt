@@ -5691,3 +5691,9 @@ incriminare; mettere sotto accusa
 
 issue
 la questione
+
+maybe; perhaps; possibly; it could be; it might be
+puo` darsi
+
+to happen
+darsi
