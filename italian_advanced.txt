@@ -5706,3 +5706,12 @@ attuale
 
 disdain
 il disprezzo; lo sdegno; il disdegno
+
+scholar
+lo studioso; il dotto; l'erudite
+
+consultant
+il consulente; il consigliere
+
+to consult
+consultare
