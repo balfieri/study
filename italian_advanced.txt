@@ -5318,7 +5318,7 @@ to appear
 comparare
 
 owner
-il proprietario
+il proprietario; il padrone
 
 kinship
 la parentela
@@ -5334,9 +5334,6 @@ fare si` che
 
 remarkable
 strepitoso
-
-owner
-il proprietario
 
 to draft; to draw up
 stilare
@@ -5715,3 +5712,6 @@ il consulente; il consigliere
 
 to consult
 consultare
+
+ray
+il raggio
