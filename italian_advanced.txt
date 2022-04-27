@@ -5703,3 +5703,6 @@ l'attualita`
 
 current; topical; present
 attuale
+
+disdain
+il disprezzo; lo sdegno; il disdegno
