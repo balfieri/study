@@ -3371,7 +3371,7 @@ to spank
 scalucciare
 
 upcoming
-prossimo; seguente; imminente
+prossimo; seguente; imminente; previsto
 
 to relax; to chill; to unwind; to chill out
 rilassarsi; darsi una calmata
@@ -4080,6 +4080,9 @@ la tendenza
 
 plot
 la trama
+
+theme
+la tema
 
 to level; to fling; to hurl
 scagliare
@@ -5727,3 +5730,18 @@ il trattino
 
 badness; wickedness; naughtiness
 la cattiveria
+
+to scatter; to disperse
+dispersi
+
+scattering; dispersion
+la dispersione
+
+racist
+razista
+
+nazi
+nazista
+
+to participate
+partecipare
