@@ -19,9 +19,6 @@ la multa
 cable
 il cavo
 
-reliable
-affidabile
-
 lighthouse
 il faro
 
@@ -5727,3 +5724,9 @@ loquace; chiacchierone
 
 hyphen
 il trattino
+
+badness; wickedness; naughtiness
+la cattiveria
+
+bitchiness
+la stronzaggine
