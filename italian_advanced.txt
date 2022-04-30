@@ -5851,7 +5851,7 @@ consegnare
 cost estimate
 il preventivo di spesa
 
-to call; to announce; to declare
+to announce; to declare; to call
 indire
 
 to replant
@@ -5868,3 +5868,6 @@ informarsi
 
 hard-working
 laborioso; operoso; diligente
+
+to slip; to skid; to slide
+slittare
