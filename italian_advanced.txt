@@ -832,7 +832,7 @@ l'abbonamento
 addressee; recipient; consignee
 il destinatario
 
-thus; therefore
+thus; therefore; so
 pertanto
 
 namely; i.e.; that is
@@ -1330,7 +1330,7 @@ consigliare
 by chance
 per caso
 
-(but) yet
+yet; nevertheless; still
 eppure
 
 but rather
@@ -1777,7 +1777,7 @@ scherzoso
 spicy
 speziato
 
-eventually; finally
+eventually; finally; in the end
 infine
 
 windy
@@ -2255,7 +2255,10 @@ obituary
 il necrologio
 
 that not withstanding
-tuttavia; nonostante cio`
+nonostante cio`
+
+neverthless; however; but
+tuttavia
 
 to grab
 afferrare
@@ -2281,7 +2284,7 @@ il reddito
 to attempt
 tentare
 
-or
+or; i.e.
 ovvero
 
 to cower
@@ -5871,3 +5874,87 @@ laborioso; operoso; diligente
 
 to slip; to skid; to slide
 slittare
+
+development; carrying out; performance; conducting
+lo svolgimento
+
+to strangle
+strangolare; strozzare
+
+to spur; to stimulate
+spronare
+
+The Holocaust
+la Shoah
+
+imposing
+imponente
+
+impotent
+impotente
+
+in the race
+in gara
+
+no rush!
+senza fretta; non c'è fretta
+
+take your time
+fai con calma; fai con comodo
+
+the fact remains that
+ciò non toglie che
+
+furthermore; moreover
+inoltre
+
+firstly; first of all
+innanzitutto; per prima cosa
+
+first of all; above all
+prima di tutto; in primo luogo
+
+to start
+per iniziare
+
+secondly; in the second place
+in secondo luogo
+
+therefore; hence
+dunque
+
+on one hand
+da una parte; da un lato
+
+on the other hand
+d’altra parte; d'altro lato
+
+nevertheless; nonetheless; however
+ciononostante
+
+anyhow; in any case
+a ogni modo
+
+i.e.; that is
+cioè
+
+needless to say
+inutile dire che
+
+do not forget, however, that
+non si dimentichi però che
+
+consequently; as a result; accordingly
+di conseguenza
+
+thus; therefore; then
+quindi
+
+so; thus; such
+così
+
+then; so; now
+allora
+
+in conclusion
+insomma; per concludere
