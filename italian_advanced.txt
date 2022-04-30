@@ -1972,9 +1972,6 @@ la sponda
 bet
 la scommessa
 
-to deliver
-consegnare
-
 to hope
 auguriaresi
 
@@ -5353,9 +5350,6 @@ assestarsi
 through July
 a tutto luglio
 
-opening
-la sigla
-
 to agree
 accordarsi
 
@@ -5757,3 +5751,111 @@ e` a causa mia
 
 to come to mind
 venire in mente
+
+porch
+la veranda; il portico
+
+installment; episode
+la puntata
+
+contempt; scorn; disdain
+il disprezzo
+
+to conceive
+concepire
+
+to elbow; to jostle
+sgomitare
+
+to brood; to ruminate
+rimuginare
+
+balance
+il paraggio
+
+punishment; penalty
+la punizione
+
+vegetable; green
+l'ortaggio
+
+tender
+tenero
+
+to prefer; to wish
+prediligere
+
+noisy; boisterous; rowdy
+chiassoso
+
+paper (adj)
+cartaceo
+
+i.e.
+ovvero
+
+marathon
+il maratone
+
+drying up; dessication
+l'inaridimento
+
+to shorten
+accorciare
+
+goal; finish line; goal
+traguardo
+
+to retire on one's savings
+vivere di rendita
+
+makeshift; fallback
+il ripiego
+
+to protrude; to jut
+sporgere
+
+connoisseur; expert
+il conoscitore
+
+exhaustion; depletion
+l'esaurimento
+
+consumption; emaciation; wasting
+il deperimento
+
+exhaustion; weariness; fatigue
+sfinimento
+
+patrol; reconnaissance
+la perlustrazione
+
+score; sheet music
+lo spartito
+
+to trace; to track
+rintracciare
+
+to heal; to cure
+risanare
+
+to keep; to hold; to detain
+trattenere
+
+to allow; to permit
+consentire
+
+to deliver; to hand; to hand over
+consegnare
+
+cost estimate
+il preventivo di spesa
+
+to call; to announce; to declare
+indire
+
+to replant
+ripiantare
+
+acronym; opening
+la sigla
