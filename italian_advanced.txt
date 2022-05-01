@@ -2020,7 +2020,7 @@ la prememoria
 at the same time
 al tempo stesso
 
-mode
+procedure; manner; mode; rule
 la modalita`
 
 to depopulate
@@ -5958,3 +5958,198 @@ allora
 
 in conclusion
 insomma; per concludere
+
+dissemination; disclosure
+la divulgazione
+
+personal data sheet
+la scheda anagrafica
+
+guide lines
+le linee guida
+
+fully
+appieno
+
+combination; match
+l'abbinamento
+
+as
+in quanto
+
+excavation; dig
+lo scavo
+
+messed up
+scombinato
+
+in the foreground
+in primo piano
+
+thrust; push
+la spinta
+
+expendable; marketable
+spendibile
+
+to certify; to attest
+attestare
+
+residence permit
+il permesso di soggiorno
+
+residence
+il soggiorno
+
+fellow countrymen
+i connazionali; i compratioti
+
+on more than one occasion
+in piu'di un'occasione
+
+from now on; henceforth
+da ora in poi
+
+since then (beginning of sentence)
+da allora
+
+since then (end of sentence)
+fin da allora
+
+at that time (in the past)
+allora
+
+around that time (era)
+all'epoca
+
+at that time (specific hour)
+a quell'ora
+
+motherland
+la madrepatria
+
+fatherland
+la patria
+
+contracted
+convenzionato
+
+to contract
+convenzionare
+
+concerning this matter
+in proposito
+
+lane (road)
+la corsia
+
+microwave popcorn
+il popcorn al microonde
+
+luggage
+il bagaglio
+
+suitcase
+la valigia
+
+to smuggle
+contrabbandare; trafficare
+
+smuggling
+il contrabbando
+
+for the foreseeable future
+per il prossimo futuro
+
+way back when
+molto tempo fa
+
+in the old days
+ai vecchi tempi
+
+to grab; to grasp; to seize
+afferrare
+
+to catch (a ball)
+prendere
+
+to play catch
+fare due lanci
+
+just the other day
+proprio l'altro giorno
+
+the day before yesterday
+l'altro ieri
+
+the day after tomorrow
+dopodomani
+
+in my day
+ai miei tempi
+
+the first Tuesday of every month
+ogni primo martedì del mese; il primo martedì di ogni mese
+
+at the beginning of the 20th century
+all'inizio del XX secolo
+
+next April
+il prossimo aprile
+
+on Wednesdays
+il mercoledì
+
+see you on Wednesday
+ci vediamo mercoledì
+
+on April 4th
+il 4 aprile
+
+the 4th of every month
+il 4 di ogni mese
+
+lie; falsehood; untruth
+la menzogna
+
+to live a lie
+vivere nella menzogna; vivere una menzogna
+
+elsewhere
+altrove
+
+nowhere
+in nessun posto; da nessuna parte
+
+somewhere
+in qualche posto; da qualche parte
+
+anywhere
+dovunque; ovunque
+
+everywhere
+dappertutto; ovunque
+
+from here to there
+da qua a là
+
+behind
+dietro di
+
+backwards
+indietro
+
+in front of
+davanti a
+
+forward
+avanti
+
+for each
+per ciascuno
+
+zelante
+zealous
+
+zeal
+lo zelo
