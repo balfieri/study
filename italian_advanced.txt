@@ -6153,3 +6153,51 @@ zealous
 
 zeal
 lo zelo
+
+aside from
+oltre a
+
+to evoke
+evocare
+
+less than; lower than; not exceeding
+inferiore a
+
+more than; exceeding
+superiore a
+
+lesser; minor; younger
+minore
+
+greater; major; older
+maggiore
+
+to a lesser extent; to a lesser degree
+in misura minore
+
+to a greator extent; to a greater degree
+in misura maggiore
+
+less than or equal to
+inferiore o pari a
+
+greater than or equal to
+pari o superiore a
+
+equal to
+uguale a; pari a
+
+equal; even
+pari; uguale
+
+to materialize; to solidify
+concretizzarsi
+
+to pose as
+atteggiarsi a
+
+it may happen
+può capitare che
+
+I write to you in regard to
+Vi scrivo riguardo a
