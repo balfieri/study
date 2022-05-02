@@ -6420,3 +6420,9 @@ raggiungere
 
 loser
 il perdente; lo sfigato
+
+weather forecast
+le previsioni del tempo
+
+looks
+l'aspetto
