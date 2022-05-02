@@ -2010,3 +2010,12 @@ il rumore
 
 silence
 il silenzio
+
+instrument
+lo strumento
+
+region
+la regione
+
+countryside
+in campagna
