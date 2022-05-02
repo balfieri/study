@@ -782,7 +782,7 @@ leaflet; brochure
 il depliant
 
 half the time
-nella meta` del tempo
+nella metà del tempo
 
 button
 il tasto
@@ -1220,10 +1220,10 @@ untie him
 sciogligli
 
 anchor
-l'a`ncora
+l'àncora
 
 maybe next time
-sara` per la prossima volta
+sarà per la prossima volta
 
 I'm afraid I can't
 temo di no
@@ -1616,7 +1616,7 @@ outside
 al di fuori
 
 beyond
-al di la`
+al di là
 
 to give up
 mollare
@@ -1847,7 +1847,7 @@ commitment; obligation
 l'impegno
 
 opportunity cost
-il costo-opportunita`
+il costo-opportunità
 
 late 60's
 alla fine degli anni Sessanta
@@ -2021,7 +2021,7 @@ at the same time
 al tempo stesso
 
 procedure; manner; mode; rule
-la modalita`
+la modalità
 
 to depopulate
 spopolare
@@ -2228,7 +2228,7 @@ it turns out that
 sembra proprio che; salta fuori che; da quanto risulta; risulta che
 
 around the same age
-circa la sessa eta`; meno della sessa eta`
+circa la sessa età; meno della sessa età
 
 long-lost
 perduto da molto tempo
@@ -2249,7 +2249,7 @@ to delete
 eliminare; cancellare
 
 to go to far
-andare troppo oltre; spingersi troppo oltre; spingersi troppo in la`
+andare troppo oltre; spingersi troppo oltre; spingersi troppo in là
 
 obituary
 il necrologio
@@ -2294,7 +2294,7 @@ and so on
 e così via
 
 I can't help it
-non posso farci niente; non posso farne a meno; è piu` forte di me
+non posso farci niente; non posso farne a meno; è più forte di me
 
 no way am doing that
 non ci penso neanche
@@ -2324,7 +2324,7 @@ to strain; to struggle
 fare fatica
 
 to find easy
-aver facilita`
+aver facilità
 
 gossip
 i pettegolezzi
@@ -2570,7 +2570,7 @@ ounce
 l'oncia
 
 middle; half
-la meta`; il mezzo
+la metà; il mezzo
 
 pleasant; agreeable; nice
 gradevole; piacevole
@@ -2588,7 +2588,7 @@ to tally; to count; to calculate
 conteggiare
 
 moral high ground
-la superiorita` morale
+la superiorità morale
 
 troglodyte
 il troglodita
@@ -2681,7 +2681,7 @@ to skip
 saltare
 
 for the most part
-per lo piu`; sopprattutto
+per lo più; sopprattutto
 
 to improvise
 improvvisare
@@ -2744,7 +2744,7 @@ out loud
 ad alta voce
 
 upward mobility
-la mobilita` verso l'alto
+la mobilità verso l'alto
 
 milestone (also used for a major album)
 la pietra miliare
@@ -3020,7 +3020,7 @@ to give a lecture
 tenere una conferenza
 
 property
-la propieta`
+la propietà
 
 related (family)
 imparentato
@@ -3155,7 +3155,7 @@ tablet (pill)
 la compressa
 
 announcement
-la novita`
+la novità
 
 deepening; amplification
 l'approfondimento
@@ -3269,7 +3269,7 @@ curmudgeon
 burbero; musone; bisbetico
 
 out there
-la` fuori; lì fuori
+là fuori; lì fuori
 
 to remove; to take off; to strip
 togliere
@@ -3422,7 +3422,7 @@ custom; practice
 l'usanza
 
 actually
-in effetti; in realta`
+in effetti; in realtà
 
 to come back down
 ridiscendere
@@ -3821,7 +3821,7 @@ brother-in-law
 il cognato
 
 at a young age
-in giovane eta`
+in giovane età
 
 footnote
 la postilla
@@ -3941,7 +3941,7 @@ missy
 la signorinella
 
 to break down the door
-buttare giu` la porta
+buttare giù la porta
 
 mere mortals; little people
 i comuni mortali
@@ -4031,7 +4031,7 @@ go ahead!
 fai pure! continue!
 
 motherhood
-la maternita`
+la maternità
 
 by any chance
 per caso
@@ -4499,10 +4499,10 @@ to deepen
 approfondire
 
 skill
-l'abilita`; la capacita`; la competenza
+l'abilità; la capacità; la competenza
 
 engineering skills
-le abilita` ingegneristiche; le capacita` ingegneristiche
+le abilità ingegneristiche; le capacità ingegneristiche
 
 set
 l’insieme
@@ -5084,16 +5084,16 @@ to last; to endure
 durare
 
 up here
-quassu`
+quassù
 
 down here
-quagiu` 
+quagiù 
 
 up there
-lassu`; la` sopra; lì sopra
+lassù; là sopra; lì sopra
 
 down there
-laggiu`; lì; la`
+laggiù; lì; là
 
 lovable
 amabile
@@ -5693,7 +5693,7 @@ to happen
 darsi
 
 the present; timeliness; current events; current affairs
-l'attualita`
+l'attualità
 
 current; topical; present
 attuale
