@@ -2,7 +2,7 @@
 # Italian Expressions - intention here is expressions that have been around for a while
 #                       (I've had to guess)                
 #
-lamentarsi o agitarsi inutilmente contro qualcuno che non ci ascolta o non e` in grado di capire
+lamentarsi o agitarsi inutilmente contro qualcuno che non ci ascolta o non è in grado di capire
 abbaiare alla luna
 
 ridimensionarsi; agire con meno superbia
@@ -41,7 +41,7 @@ a gogo
 raccontare un fatto mantenendosi sul generico, trascurando i particolari
 a grandi linee
 
-fare del bene a chi puo` diventare una minaccia in futuro
+fare del bene a chi può diventare una minaccia in futuro
 allevare una serpe in seno
 
 cercare di vedere qualcosa facendo in modo che gli altri non se ne accorgano
@@ -149,7 +149,7 @@ andare a picco
 andare a finire male
 andare a puttane
 
-quando un prodotto e` molto richiesto sul mercato
+quando un prodotto è molto richiesto sul mercato
 andare a ruba
 
 gironzolare senza una meta precisa
@@ -218,7 +218,7 @@ apriti cielo
 cercare delle scuse che reggono
 arrampicarsi sugli specchi
 
-arrivare quando il lavoro da svolgere e` gia` concluso
+arrivare quando il lavoro da svolgere è gia` concluso
 arrivare a piatti lavati
 
 arrivare troppo tardi
@@ -344,7 +344,7 @@ avere molte frecce al proprio arco
 essere poco intelligenti, sciocchi
 avere poco sale in zucca
 
-non riuscire a ricordare qualcosa che pero` si ha l'impressione di poter riportare alla memoria da un momento all'altro
+non riuscire a ricordare qualcosa che però si ha l'impressione di poter riportare alla memoria da un momento all'altro
 avere sulla punta della lingua
 
 essere completamente in errore su qualcosa
@@ -377,7 +377,7 @@ avere un nodo alla gola
 febbre molto alta
 avere una febbre da cavallo
 
-nascondere un fatto della vita compromettente e imbarazzante che e` meglio tenere nascosto; to have a skeleton in the closet
+nascondere un fatto della vita compromettente e imbarazzante che è meglio tenere nascosto; to have a skeleton in the closet
 avere uno scheletro nell'armadio
 
 avere autorita` per intervenire in una discussione e prendere decisioni
@@ -461,7 +461,7 @@ cascare dal pero
 to fall for it
 cascarci
 
-gettarsi in un'impresa pericolosa dalla quale non ci si puo` piu` ritirare, o anche trovarcisi coinvolti proprio malgrado
+gettarsi in un'impresa pericolosa dalla quale non ci si può piu` ritirare, o anche trovarcisi coinvolti proprio malgrado
 cavalcare la tigre
 
 cercare dappertutto
@@ -488,7 +488,7 @@ cavarsela
 un nuovo problema fa passare in secondo piano il precedente
 chiodo scaccia chiodo
 
-prendere provvedimenti quando ormai il danno e` stato fatto
+prendere provvedimenti quando ormai il danno è stato fatto
 chiudere la stalla dopo che i buoi sono scappati
 
 fingere di non vedere
@@ -503,7 +503,7 @@ cogliere l'attimo
 cancellare i vecchi rancori; perdonare
 colpo di spugna
 
-si deve fare quanto e` nelle nostre possibilita` senza cedere a sogni impossibili o immaginare una realta` inesistente
+si deve fare quanto è nelle nostre possibilita` senza cedere a sogni impossibili o immaginare una realta` inesistente
 coltivare il proprio orto
 
 con grande autorita` e severita`
@@ -530,7 +530,7 @@ contare come il due di briscola (o il due di picche)
 dedicarsi o lasciarsi andare ad una vita spensierata
 correre la cavallina
 
-un'azione ormai compiuta non puo` essere cambiata da discussioni e temporeggiamenti
+un'azione ormai compiuta non può essere cambiata da discussioni e temporeggiamenti
 cosa fatta capo ha
 
 credere a tutto quello che si dice; essere molto ingenui e creduloni
@@ -605,22 +605,22 @@ dirne quattro
 rinviare al giorno successivo una decisione
 dormirci sopra
 
-restare inoperosi accontentandosi di quanto si e` gia` ottenuto
+restare inoperosi accontentandosi di quanto si è gia` ottenuto
 dormire sugli allori
 
 sentirsi sicuri, tranquilli, senza la minima preoccupazione
 dormire tra due guanciali
 
 estremamente facile
-e` facile come bere un bicchiere d'acqua
+è facile come bere un bicchiere d'acqua
 
 un argomento o una materia nei quali ci si sente particolarmente ferrati
-e` il mio cavallo di battaglia
+è il mio cavallo di battaglia
 
-e` sempre la stessa cosa gia` sentita in passato
-e` la solita cantilena
+è sempre la stessa cosa gia` sentita in passato
+è la solita cantilena
 
-ignorare cio` che si e` sentito
+ignorare ciò che si è sentito
 entrare da un orecchio e uscire dall'altro
 
 entrare in azione; intervenire
@@ -635,7 +635,7 @@ essere agli sgoccioli
 arrivare alla fase conclusiva di uno scontro
 essere ai ferri corti
 
-sensazione meravigliosa di chi e` estremamente felice
+sensazione meravigliosa di chi è estremamente felice
 essere al settimo cielo
 
 essere rimasto senza soldi; to be flat broke
@@ -689,7 +689,7 @@ essere felice come una Pasqua
 avere un comportamento diverso, solitamente in negativo, da quello abituale
 essere fuori di se'
 
-essere cio` che e` causa di disaccordo
+essere ciò che è causa di disaccordo
 essere il pomo della discordia
 
 essere molto lontani dalla meta
@@ -710,7 +710,7 @@ essere in una botte di ferro
 sentirti in voglia di fare qualcosa
 essere in vena
 
-cio` che completa un'opera, una situazione ecc
+ciò che completa un'opera, una situazione ecc
 essere la ciliegina sulla torta
 
 to be a bull in a china shop; non essere molto delicati nel dire e nel fare le cose
@@ -836,7 +836,7 @@ fare come il cane dell'ortolano
 stare di guardia
 fare da palo
 
-mettere sullo stesso piano varie cose senza fare le dovute distinzioni fra cio` che e` buono o e cattivo
+mettere sullo stesso piano varie cose senza fare le dovute distinzioni fra ciò che è buono o e cattivo
 fare di tutta l'erba un fascio
 
 esagerare di molto i fatti
@@ -911,7 +911,7 @@ fare pelo e contropelo
 liberare completamente; fare sparire del tutto
 fare piazza pulita
 
-far sparire tutto eliminando le tracce di cio` che c'era
+far sparire tutto eliminando le tracce di ciò che c'era
 fare tabula rasa
 
 avere un grosso colpo di fortuna
@@ -959,7 +959,7 @@ fatto coi piedi
 intromettersi
 diccare il naso
 
-quando si e` innamorati il sangue non circola bene
+quando si è innamorati il sangue non circola bene
 freddo di mano, caldo di cuore
 
 invito a fuggire
@@ -1016,10 +1016,10 @@ in fin dei conti
 in un attimo
 in un batter d'occhio
 
-tormento insopportabile da cui e` impossibile liberarsi
+tormento insopportabile da cui è impossibile liberarsi
 indossare la camicia di Nesso
 
-sopportare una situazione sgradevole perche' non si puo` fare altrimenti
+sopportare una situazione sgradevole perche' non si può fare altrimenti
 ingoiare il rospo
 
 pretendere di saperne sempre piu` degli altri
@@ -1031,8 +1031,8 @@ inseguire una chimera
 soluzione insospettatamente semplice a un problema apparentemente impossibile
 l'uovo di Colombo
 
-la "classe" e` una qualita` rara e non comune come l'acqua
-la classe non e` acqua
+la "classe" è una qualita` rara e non comune come l'acqua
+la classe non è acqua
 
 qualcosa di estremamente redditizio
 la gallina dalle uova d'oro
@@ -1235,8 +1235,8 @@ non chiudere occhio
 quando si vuole esprimere la certezza di un determinato avvenimento
 non ci piove
 
-tutto si puo` realizzare col giusto impegno
-nulla e` impossibile
+tutto si può realizzare col giusto impegno
+nulla è impossibile
 
 essere una cosa copiata o fatta con l'aiuto di altri
 non esser farina del proprio sacco
@@ -1421,7 +1421,7 @@ promettere mare e monti
 discussioni su cose futili, prive di fondamento
 questioni di lana caprina
 
-qui e` facile sbagliarsi
+qui è facile sbagliarsi
 qui casca l'asino
 
 quando qualcosa risulta strano o poco convincente
@@ -1493,7 +1493,7 @@ sapere il fatto suo
 essere molto furbo; astuto
 saperla lunga
 
-essere molto furbi; conoscere tutte le malizie che puo` conoscere il Diavolo e addirittura una di piu`
+essere molto furbi; conoscere tutte le malizie che può conoscere il Diavolo e addirittura una di piu`
 saperne una piu` del diavolo
 
 vivere stentatamente, mettendo insieme il denaro appena sufficiente alla sopravvivenza quotidiana
@@ -1508,10 +1508,10 @@ scavarsi la fossa
 compiere un'accurata selezione, scegliendo sempre il meglio
 scegliere fior da fiore
 
-pensare o vantarsi di avere scoperto qualcosa che in realta` e` nota a tutti
+pensare o vantarsi di avere scoperto qualcosa che in realta` è nota a tutti
 scoprire l'acqua calda
 
-pensare o vantarsi di avere scoperto qualcosa che in realta` e` nota a tutti
+pensare o vantarsi di avere scoperto qualcosa che in realta` è nota a tutti
 scoprire l'America
 
 perdere tempo in attivita` o discussioni inutili
@@ -1694,7 +1694,7 @@ vivere in un limbo
 cambiare idea; rimangiarsi la parola
 voltare la faccia
 
-rivelare tutto cio` che si sa, anche le cose segrete
+rivelare tutto ciò che si sa, anche le cose segrete
 vuotare il sacco
 
 mystery novel
@@ -1734,7 +1734,7 @@ to be tired
 avere l'abbiocco
 
 less is more
-il troppo stroppia; meno e` di piu`; di meno significa di piu`; il meno e` piu`; meno di piu`
+il troppo stroppia; meno è di piu`; di meno significa di piu`; il meno è piu`; meno di piu`
 
 without missing a beat
 senza perdere un colpo
@@ -1743,13 +1743,13 @@ the wolf loses his fur but not his vices
 il lupo perde il peolo ma non il vizio
 
 idleness is the father of all vices
-l'ozio e` il padre di tutti vices
+l'ozio è il padre di tutti vices
 
 whoever goes with a cripple learns to hobble
 chi va con lo zoppo impara a zoppicare
 
 people in glass houses shouldn't throw stones
-chi e` senza peccato scagli la prima pietra
+chi è senza peccato scagli la prima pietra
 
 to tell the truth
 a dire la verita`
@@ -1764,7 +1764,7 @@ still waters run deep
 le acque calme scorrono profonde; l'acqua cheta va a fondo
 
 it's not even close!
-non c'e` nemmeno vicino!
+non c'è nemmeno vicino!
 
 we turn to each other
 ci rivolgiamo l'uno all'altro
@@ -1791,7 +1791,7 @@ to spend other peoples' money
 non badare a spese
 
 the world is our oyster
-il mondo e` nostro
+il mondo è nostro
 
 lamentarsi o agitarsi inutilmente contro qualcuno che non ci ascolta o non è in grado di capire
 abbaiare alla luna
@@ -5721,7 +5721,7 @@ a friend in need is a friend indeed
 al bisogno si conosce l'amico
 
 all hell has broken loose
-e` un gran casino; e` un macello
+è un gran casino; è un macello
 
 all is fair in love and war
 tutto è lecito in amore e in guerra
@@ -5865,7 +5865,7 @@ i can't believe it!
 che roba!
 
 what happened to you?; what's wrong with you?
-che ti è preso?; che ti e` successo
+che ti è preso?; che ti è successo
 
 what's the matter with you?
 che ti passa per la testa?
@@ -5934,7 +5934,7 @@ to fight fire with fire
 combattere con gli stessi metodi
 
 it's like looking for a needle in a haystack
-e` come cercare un ago nel pagliaio
+è come cercare un ago nel pagliaio
 
 as you were
 come non detto
@@ -6477,7 +6477,7 @@ in your dreams
 nemmeno per sogno!
 
 no man is an island
-nessuno è un'isola a sè; nessuno puo` rimanere solo
+nessuno è un'isola a sè; nessuno può rimanere solo
 
 never mind
 non fa niente; non c'è di che; non importa
@@ -7275,7 +7275,7 @@ brain drain
 i cervelli in fuga
 
 this is what you have to look forward to
-questo e` quello che ti aspetta
+questo è quello che ti aspetta
 
 to knock on wood
 toccare ferro

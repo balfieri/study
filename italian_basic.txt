@@ -38,10 +38,10 @@ you are
 tu sei
 
 he is
-lui e`
+lui è
 
 she is
-lei e`
+lei è
 
 we are
 noi siamo
@@ -125,13 +125,13 @@ I adore my parents
 adoro i miei genitori
 
 my mother is nice
-mia madre e` gentile
+mia madre è gentile
 
 my father is calm
-mio padre e` calmo
+mio padre è calmo
 
 my dog is white
-il mio cane e` bianco
+il mio cane è bianco
 
 hi (bye)
 ciao
@@ -221,7 +221,7 @@ nice to meet you (formal)
 piacere di conoscerLa
 
 the pleasure was all mine
-il piacere e' stato tutto mio
+il piacere è stato tutto mio
 
 hazelnut
 la nocciola
@@ -1775,7 +1775,7 @@ more or less
 piu' o meno
 
 it's not a big deal
-non e' un gran che
+non è un gran che
 
 to rent (an apartment)
 affitarsi
