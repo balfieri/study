@@ -4510,9 +4510,6 @@ l’insieme
 set of rules
 l’insieme di regola
 
-weather
-il meteo
-
 on second thought
 ripensandoci
 
@@ -6423,6 +6420,9 @@ il perdente; lo sfigato
 
 weather forecast
 le previsioni del tempo
+
+weather report
+il meteo
 
 looks
 l'aspetto
