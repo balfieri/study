@@ -6408,3 +6408,9 @@ lo scontro
 
 barn
 la stalla; il granaio; il fienile
+
+bass guitar
+la chitarra bassa
+
+tuba
+la tuba
