@@ -302,19 +302,19 @@ up front
 in anticipio
 
 although
-benche`
+benchè
 
 in spite of
 nonostante
 
 that said
-dato cio`
+dato ciò
 
 a matter of
 una questione di
 
 what's the matter?
-che problema c'e`?
+che problema c'è?
 
 deaf
 sorde
@@ -377,9 +377,9 @@ through (starts with t)
 tramite
 
 so that
-affinche`
+affinchè
 
-finche`
+finchè
 until
 
 schmaltzy; sappy
@@ -797,7 +797,7 @@ all in all
 nel complesso
 
 it changed
-e` cambiato
+è cambiato
 
 meat(s)
 la carne
@@ -917,7 +917,7 @@ to turn around; to turn oneself
 girarsi
 
 rather than
-anziche`
+anzichè
 
 to beat; to hit; to strike
 picchiare
@@ -1172,7 +1172,7 @@ suburbs
 la provincia; i sobborghi
 
 every Monday
-ogni lunedi`; di lunedi`; il lunedi`
+ogni lunedì; di lunedì; il lunedì
 
 in May
 in maggio
@@ -1244,7 +1244,7 @@ don't mention it!
 non ma!; ma ti pare!
 
 it's the least I could do
-e` il minimo che avrei potuto fare
+è il minimo che avrei potuto fare
 
 don't even say it!
 nonndirlo neanche!
@@ -1292,7 +1292,7 @@ long-suffering
 longanime
 
 nonetheless
-cio` nonostante
+ciò nonostante
 
 custom
 l'usanza
@@ -1334,10 +1334,10 @@ yet; nevertheless; still
 eppure
 
 but rather
-bensi`
+bensì
 
 whatever; fair enough; nevermind; yeah well; anyway
-vabbe`
+vabbè
 
 at the top of one's lungs
 a squarciagola
@@ -1508,7 +1508,7 @@ farewell
 il congedo
 
 as long as; only if; provided
-purche'; a patto che; a condizione che
+purché; a patto che; a condizione che
 
 of others
 altrui
@@ -1583,7 +1583,7 @@ amateur (adj)
 dilettantistico
 
 as well as; not to mention; let alone
-nonche'
+nonché
 
 lightening bolt
 il fulmine
@@ -2255,7 +2255,7 @@ obituary
 il necrologio
 
 that not withstanding
-nonostante cio`
+nonostante ciò
 
 neverthless; however; but
 tuttavia
@@ -2291,10 +2291,10 @@ to cower
 rannicchiarsi
 
 and so on
-e cosi` via
+e così via
 
 I can't help it
-non posso farci niente; non posso farne a meno; e` piu` forte di me
+non posso farci niente; non posso farne a meno; è piu` forte di me
 
 no way am doing that
 non ci penso neanche
@@ -2579,7 +2579,7 @@ to be willing
 essere disposto
 
 even though
-benche'; nonostante; sebbene
+benché; nonostante; sebbene
 
 calculation; count; counting
 il conteggio
@@ -2732,13 +2732,13 @@ to set an alarm for
 impostare una sveglia per
 
 and so on; and so forth
-e cosi` via
+e così via
 
 lining
 la fodera
 
 it was worth it (doing something)
-e` valso la pena di
+è valso la pena di
 
 out loud
 ad alta voce
@@ -2795,7 +2795,7 @@ article of clothing
 il capo d’abbigliamento
 
 paddleboat
-pedalo`
+pedalò
 
 vespa
 il motorino
@@ -2813,7 +2813,7 @@ floor lamp
 la piantana
 
 to have its place
-avere il suo perche'
+avere il suo perché
 
 to ground (a kid)
 mettere in punizione
@@ -3269,7 +3269,7 @@ curmudgeon
 burbero; musone; bisbetico
 
 out there
-la` fuori; li` fuori
+la` fuori; lì fuori
 
 to remove; to take off; to strip
 togliere
@@ -4664,7 +4664,7 @@ fiction
 la narrativa; la finzione
 
 that's what I'm here for; that's why I'm here
-e` per questo che sono qui; sono qui per questo; e` per questo che mi trovo qui; echo perche' mi trovo qui; e` per questo che sto qui
+è per questo che sono qui; sono qui per questo; è per questo che mi trovo qui; echo perché mi trovo qui; è per questo che sto qui
 
 belt; strap; thong
 la cinghia
@@ -5090,10 +5090,10 @@ down here
 quagiu` 
 
 up there
-lassu`; la` sopra; li` sopra
+lassu`; la` sopra; lì sopra
 
 down there
-laggiu`; li`; la`
+laggiu`; lì; la`
 
 lovable
 amabile
@@ -5177,10 +5177,10 @@ self-doubt
 l'insicurezza; di dubbio
 
 there's no way
-non c'e` modo; non c'e` verso
+non c'è modo; non c'è verso
 
 there is a way
-c'e` un modo
+c'è un modo
 
 it acts as a deterrent
 agisce da deterrente
@@ -5330,7 +5330,7 @@ to place
 postare
 
 to ensure that
-fare si` che
+fare sì che
 
 remarkable
 strepitoso
@@ -5687,7 +5687,7 @@ issue
 la questione
 
 maybe; perhaps; possibly; it could be; it might be
-puo` darsi
+può darsi
 
 to happen
 darsi
@@ -5750,7 +5750,7 @@ graduation party
 la festa di laurea
 
 it's my doing
-e` a causa mia
+è a causa mia
 
 to come to mind
 venire in mente
