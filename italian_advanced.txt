@@ -6528,3 +6528,6 @@ concedere il beneficio del dubbio
 
 voter
 il votante; l'elettore
+
+universal healthcare
+l'assistenza sanitaria universale
