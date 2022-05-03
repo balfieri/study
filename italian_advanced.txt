@@ -6525,3 +6525,6 @@ eletto
 
 to give the benefit of the doubt
 concedere il beneficio del dubbio
+
+voter
+il votante; l'elettore
