@@ -6543,3 +6543,6 @@ dell'Europa orientale
 
 layer
 lo strato
+
+spell (n)
+l'incantesimo
