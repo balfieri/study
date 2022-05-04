@@ -1390,6 +1390,9 @@ intanto
 mosquito
 la zanzara
 
+successful
+di successo
+
 unsuccessful
 infruttuoso; fallito
 
