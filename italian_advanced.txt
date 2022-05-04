@@ -6702,3 +6702,9 @@ la via lattea
 
 to rate
 valutare
+
+coordinate
+la coordinata
+
+GPS coordinates
+le coordinate GPS
