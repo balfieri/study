@@ -1498,6 +1498,9 @@ altrettanto
 golf clubs
 le mazze da golf
 
+golf club; country club
+il circolo di golf; il golf club; il country club
+
 to take (time for someone to do something)
 metterci
 
@@ -6442,6 +6445,9 @@ la censura
 to regret
 rimpiangere
 
+regret
+il rimpianto
+
 to ache
 dolorare
 
@@ -6603,3 +6609,15 @@ struggente
 
 connection
 la connessione; il collagamento
+
+character (film)
+il protaganista
+
+agent
+l'agente
+
+to expresss
+esprimere
+
+tendency
+la tendency
