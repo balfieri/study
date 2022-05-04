@@ -4598,7 +4598,7 @@ laugh
 la risata
 
 magnet
-il magnetico
+il magnetico; la calamita
 
 dark comedy
 la commedia nera
@@ -6759,3 +6759,9 @@ il batterista
 
 dark skin
 la pelle scura
+
+chick; babe
+la pupa
+
+to mistreat
+maltrattare
