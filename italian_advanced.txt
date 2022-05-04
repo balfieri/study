@@ -6693,3 +6693,6 @@ lo sguardo
 
 look (taken)
 l'occhiata
+
+delay
+il ritardo
