@@ -2176,9 +2176,6 @@ in corso
 shadow
 l'ombra
 
-fight
-la fuga
-
 hanging; suspended
 sospeso
 
@@ -6631,5 +6628,5 @@ proibire; vietare
 gay marriage
 il matrimonio gay
 
-leak
+leak; flight
 la fuga
