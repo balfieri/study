@@ -6780,3 +6780,6 @@ la sistemazione
 
 bill
 il bolletto
+
+screenplay
+la sceneggiatura
