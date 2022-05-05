@@ -3268,8 +3268,8 @@ la mosca
 obnoxious
 odioso; detestabile; ripugnante
 
-curmudgeon
-burbero; musone; bisbetico
+curmudgeon; grouch
+musone; burbero; bisbetico
 
 out there
 là fuori; lì fuori
@@ -6768,3 +6768,15 @@ maltrattare
 
 petrified
 pietrificato; impietrito
+
+helmet
+il casco
+
+bit player
+il figurante
+
+arrangement; accommodation
+la sistemazione
+
+bill
+il bolletto
