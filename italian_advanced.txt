@@ -6837,3 +6837,6 @@ ereditare
 
 to rewind
 riavvolgere
+
+measuring tape
+il metro
