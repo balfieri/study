@@ -1141,9 +1141,6 @@ il sovraprezzo
 how much does it cost?
 a quanto ammonta?
 
-voucher
-il buono
-
 complaint
 il reclamo
 
@@ -4819,9 +4816,6 @@ to cucire
 to lie
 mentire
 
-to feed
-nutrire
-
 to serve
 servire
 
@@ -6789,3 +6783,57 @@ deludere
 
 at my expense
 a mie spese
+
+refund; reimbursement
+il rimborso
+
+voucher; coupon; credit
+il buono
+
+stovetop
+il piano di cottura
+
+hot plate
+il fornello; la piastra calda
+
+meek
+mansueto
+
+to nurish; to feed
+nutrire
+
+resource
+la risora
+
+working; work (adj)
+lavorativo
+
+work team 
+il team
+
+on the team
+in squadra
+
+to automate
+automatizzare
+
+automation
+l'automatizzazione; l'automazione; la meccanizzazione
+
+to establish; to build up
+costituire
+
+solo
+l'assolo
+
+guitar solo
+l’assolo di chitarra
+
+dance recital
+il saggio di danza
+
+to inherit
+ereditare
+
+to rewind
+riavvolgere
