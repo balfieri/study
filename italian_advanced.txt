@@ -6846,3 +6846,6 @@ l'osmosi
 
 by osmosis
 per osmosi
+
+unlikely
+improbabile; inverosimile
