@@ -6840,3 +6840,9 @@ riavvolgere
 
 measuring tape
 il metro
+
+osmosis
+l'osmosi
+
+by osmosis
+per osmosi
