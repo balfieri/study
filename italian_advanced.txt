@@ -2963,7 +2963,7 @@ riddle
 l'indovinello; l'enigma
 
 phew!
-uffa!
+uffa!; uff!
 
 to get pregnant
 rimanere incinta
@@ -6867,3 +6867,6 @@ benone; benissimo
 
 top hat
 il cappello a cilindro
+
+nice try
+bel tentativo
