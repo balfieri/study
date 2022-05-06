@@ -658,7 +658,7 @@ piantare
 to get by
 cavarsela
 
-draw (tie, equal outcome)
+draw; tie 
 il pareggio
 
 straw
