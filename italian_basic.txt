@@ -835,8 +835,8 @@ il coperto
 outside
 fuori
 
-flowers
-i fiori
+flower
+il fiore
 
 inside
 dentro
