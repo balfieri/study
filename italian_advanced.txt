@@ -6849,3 +6849,6 @@ per osmosi
 
 unlikely
 improbabile; inverosimile
+
+verse; line (of a song)
+il verso
