@@ -103,7 +103,7 @@ def pick_words( a ):
                 in_parens = False
         elif not in_parens:
             if word == '': word_pos = i
-            word += ch
+            word += ch.lower()
 
     if word != '': words.append( [word, word_pos] )
     return words
