@@ -84,20 +84,41 @@ for subject in subjects:
 # Pull out all interesting answer words and put them into an array, 
 # with a reference back to the original question.
 #-----------------------------------------------------------------------
+def pick_words( a ):
+    words = []
+    word = ''
+    word_pos = 0
+    in_parens = False
+    for i in range(len(a)):
+        ch = a[i]
+        if ch == ' ' or ch == '\t' or ch == '\'' or ch == '’' or ch == '/' or ch == '(' or ch == ')' or ch == '!' or ch == '?' or ch == '.' or ch == ',':
+            if word != '': 
+                if not in_parens: words.append( [word, word_pos] )
+                word = ''
+            if ch == '(':
+                if in_parens: die( 'cannot support nested parens' )
+                in_parens = True
+            if ch == ')':
+                if not in_parens: die( 'no matching right paren' )
+                in_parens = False
+        elif not in_parens:
+            if word == '': word_pos = i
+            word += ch
+
+    if word != '': words.append( [word, word_pos] )
+    return words
+
 words = []
 for entry in entries:
     question = entry[0]
     answers = entry[1]
     aa = answers.split( '; ' )
     for a in aa:
-        ww = a.split()
+        ww = pick_words( a )
         for w in ww:
-            ww2 = w.split( '\'' )
-            for w2 in ww2:
-                w3 = re.sub( r'[\!\?]', '', w2 )
-                if len( w3 ) > 3:
-                    words.append( [w2, entry] )
-                    print( w3 )
+            if len( w[0] ) > 3:
+                words.append( [w, a, entry] )
+                print( w[0] )
 
 #-----------------------------------------------------------------------
 # Generate the puzzle from the data structure using this simple algorithm:
