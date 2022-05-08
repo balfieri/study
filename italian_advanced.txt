@@ -1801,7 +1801,7 @@ tenerci per te
 secondo me
 a mio parere
 
-to be about to be; is/are going to be
+to be about to be; to be going to be
 stare per essere
 
 negotiation
@@ -1889,7 +1889,7 @@ to choke
 stroppiare
 
 singer-songwriter
-il cantautore/la cantautrice
+il cantautore; la cantautrice
 
 ire; wrath; extreme anger
 l'ira
@@ -2038,7 +2038,7 @@ il patrigno
 step-mother
 la matrigna
 
-to smoke pot/weed
+to smoke pot; to smoke weed
 fumare erba; farsi le canne
 
 dumbfounded; stunned; astonished
@@ -2792,7 +2792,7 @@ means of transportation
 il mezzo di trasporto
 
 article of clothing
-il capo d’abbigliamento
+il capo d'abbigliamento
 
 paddleboat
 pedalò
@@ -2999,7 +2999,7 @@ to spit out
 sputare
 
 switch
-l’interruttore
+l'interruttore
 
 to invert
 invertire
@@ -3008,7 +3008,7 @@ quantum mechanics
 la meccanica quantistica
 
 quantum electrodynamics
-l’ellettrodinamica quantistica
+l'ellettrodinamica quantistica
 
 lecture
 la conferenza; la lettura
@@ -3047,7 +3047,7 @@ alla fine; infine
 gli 1 e gli 0
 
 machine instruction
-l’istruzione macchina
+l'istruzione macchina
 
 to shelter
 proteggere; coprire; difendere; cercare rifugio; rifiugiarsi
@@ -3965,7 +3965,7 @@ to brood; to incubate; to hatch
 covare
 
 if the opportunity arises
-se si presenterà l’occasione
+se si presenterà l'occasione
 
 to give permission
 dare il permesso
@@ -4490,7 +4490,7 @@ highjacking
 il dirottamento
 
 to draw upon; to draw from
-attingere a/da
+attingere a; attingere da
 
 to deepen
 approfondire
@@ -4502,10 +4502,10 @@ engineering skills
 le abilità ingegneristiche; le capacità ingegneristiche
 
 set
-l’insieme
+l'insieme
 
 set of rules
-l’insieme di regola
+l'insieme di regola
 
 on second thought
 ripensandoci
@@ -4811,7 +4811,7 @@ to convert
 convertire
 
 to sew
-to cucire
+cucire
 
 to lie
 mentire
@@ -5480,7 +5480,7 @@ to succeed; to follow
 susseguire
 
 to keep an eye on
-tenere d’occhio
+tenere d'occhio
 
 register; registry
 albo
@@ -5519,10 +5519,10 @@ kiosk; door; window; gate
 lo sportello
 
 rent
-l’affitto
+l'affitto
 
 allocation
-l’assegnazione
+l'assegnazione
 
 recipient
 il destinatario
@@ -5558,7 +5558,7 @@ applicant
 il richiedente
 
 assignee
-l’assegnatario
+l'assegnatario
 
 canon; standard
 il canone
@@ -5579,7 +5579,7 @@ in force; current
 vigente
 
 inspiration
-l’ispiratore
+l'ispiratore
 
 incumbant; owner
 il titolare
@@ -5597,10 +5597,10 @@ managerial; administrative
 gestionale
 
 implementation; execution
-l’attuazione
+l'attuazione
 
 distribution; supply
-l’erogazione
+l'erogazione
 
 subsidy; financing
 la sovvenazione
@@ -5918,7 +5918,7 @@ on one hand
 da una parte; da un lato
 
 on the other hand
-d’altra parte; d'altro lato
+d'altra parte; d'altro lato
 
 nevertheless; nonetheless; however
 ciononostante
@@ -6497,7 +6497,7 @@ yoke
 il giogo di controllo
 
 final approach
-l’avvicinamento finale
+l'avvicinamento finale
 
 to adjust
 adattare; adeguare
@@ -6827,7 +6827,7 @@ solo
 l'assolo
 
 guitar solo
-l’assolo di chitarra
+l'assolo di chitarra
 
 dance recital
 il saggio di danza

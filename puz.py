@@ -52,7 +52,7 @@ random.seed( seed )
 #-----------------------------------------------------------------------
 # Read in <subject>.txt files.
 #-----------------------------------------------------------------------
-all_questions = []
+entries = []
 for subject in subjects:
     filename = subject + '.txt'
     Q = open( filename, 'r' )
@@ -68,6 +68,7 @@ for subject in subjects:
         answer = Q.readline()
         answer = re.sub( r'^\s+', '', answer )
         answer = re.sub( r'\s+$', '', answer )
+        answer = answer.lower()
         if answer == '': die( f'question on line {line_num} is not followed by a non-blank answer on the next line: {question}' )
         line_num += 1
 
@@ -76,15 +77,27 @@ for subject in subjects:
             question = answer
             answer = tmp
 
-        all_questions.append( question )
-        all_questions.append( answer )
+        entries.append( [question, answer] )
     Q.close()
 
 #-----------------------------------------------------------------------
 # Pull out all interesting answer words and put them into an array, 
 # with a reference back to the original question.
-# Non-interesting words include il, la, the, it, etc.
 #-----------------------------------------------------------------------
+words = []
+for entry in entries:
+    question = entry[0]
+    answers = entry[1]
+    aa = answers.split( '; ' )
+    for a in aa:
+        ww = a.split()
+        for w in ww:
+            ww2 = w.split( '\'' )
+            for w2 in ww2:
+                w3 = re.sub( r'[\!\?]', '', w2 )
+                if len( w3 ) > 3:
+                    words.append( [w2, entry] )
+                    print( w3 )
 
 #-----------------------------------------------------------------------
 # Generate the puzzle from the data structure using this simple algorithm:

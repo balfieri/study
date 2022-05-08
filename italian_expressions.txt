@@ -324,7 +324,7 @@ saper fare molte cose
 avere le mani d'oro
 
 mani prive di forza, che non hanno una presa ferma e lasciano cadere regolarmente qualcosa
-avere le mani di burro (o di pasta frolla)
+avere le mani di burro; avere le manidi pasta frolla
 
 essere predisposti al furto, come un ladruncolo
 avere le mani lunghe
@@ -525,7 +525,7 @@ conoscere molte bene in tutte le sue caratteristiche
 conoscere come le proprie tasche
 
 contare poco o nulla; essere di scarso valore
-contare come il due di briscola (o il due di picche)
+contare come il due di briscola; contare come il due di picche
 
 dedicarsi o lasciarsi andare ad una vita spensierata
 correre la cavallina
@@ -780,7 +780,7 @@ persona che non ha fiducia nelle parole o nell'operato altrui,
 essere un uomo di poca fede
 
 riferito a chi non prova vergogna o timidezza
-eaccia di bronzo (o tosta)
+faccia di bronzo; faccia di tosta
 
 adeguarsi dinanzi alle difficoltà, senza rassegnarsi
 ear di necessità virtù
@@ -1995,7 +1995,7 @@ sprofondare (con gli occhi) nel corpo di una persona grassa
 affogare nel grasso
 
 ritirarsi da una attività, intenso come lavoro
-appendere il cappello (o le scarpe) al chiodo
+appendere il cappello al chiodo; apprendere le scarpe al chiodo
 
 rendersi conto di qualcosa
 aprire gli occhi
@@ -2113,9 +2113,6 @@ avere le mani bucate
 
 saper fare molte cose
 avere le mani d'oro
-
-mani prive di forza, che non hanno una presa ferma e lasciano cadere regolarmente qualcosa
-avere le mani di burro (o di pasta frolla)
 
 essere predisposti al furto, come un ladruncolo
 avere le mani lunghe
@@ -2307,7 +2304,7 @@ conoscere molte bene in tutte le sue caratteristiche
 conoscere come le proprie tasche
 
 contare poco o nulla, essere di scarso valore
-contare come il due di briscola (o il due di picche)
+contare come il due di briscola; contare come il due di picche
 
 dedicarsi o lasciarsi andare ad una vita spensierata
 correre la cavallina
@@ -2560,9 +2557,6 @@ essere un pezzo di pane
 
 persona che non ha fiducia nelle parole o nell'operato altrui,
 essere un uomo di poca fede
-
-riferito a chi non prova vergogna o timidezza
-faccia di bronzo (o tosta)
 
 adeguarsi dinanzi alle difficoltà, senza rassegnarsi
 far di necessità virtù
@@ -3870,7 +3864,7 @@ un problema da risolvere
 gatta da pelare
 
 buttar via, sprecare
-gettare alle ortiche (o al vento)
+gettare alle ortiche; gettare al vento
 
 illudere
 gettare fumo negli occhi
@@ -3945,7 +3939,7 @@ calmo o senza intoppi
 liscio come l’olio
 
 mandare in rovina, far fallire qualcosa
-mandare all’aria (o a monte)
+mandare all’aria; mandare a monte
 
 mangiare pochissimo
 mangiare come un uccellino
@@ -3963,7 +3957,7 @@ distruggere
 mettere a ferro e fuoco
 
 non lasciare possibilità di scelta
-mettere alle corde (o alle strette)
+mettere alle corde; mettere alle strette
 
 essere puntigliosi
 mettere i puntini sulle i
@@ -3990,7 +3984,7 @@ intromettersi
 metterci lo zampino
 
 archiviare qualcosa, non pensarci più
-metterci una croce (o una pietra) sopra
+metterci una croce sopra; mettere una pietra sopra
 
 smettere di tormentarsi con qualcosa
 mettersi il cuore in pace
@@ -5796,7 +5790,7 @@ to strike while the iron is hot
 battere il ferro finchè è caldo
 
 lucky you!
-beato/a (te, lui, lei), teati/e (voi loro)
+beato te
 
 very nice (ironic); oh, great (ironic)
 bella roba!
@@ -6192,7 +6186,7 @@ please come in; help yourself
 favorisci
 
 bless you
-felicità (generico)
+felicità
 
 congratulations
 felicitazióni
@@ -6276,7 +6270,7 @@ all's fair in love and war
 in amore e in guerra tutto è lecito
 
 good luck!
-in bócca al lupo! (Risposta: crèpi!)
+in bócca al lupo!
 
 in the doghouse
 in disgrazia
@@ -6570,7 +6564,7 @@ speak for yourself!
 parla per te!
 
 to talk turkey with someone
-parlare chiaro (o di cose serie)
+parlare chiaro; parlare di cose serie
 
 amen, you said it
 parole d'oro
@@ -6699,7 +6693,7 @@ to save for a rainy day
 risparmiare per i tempi difficili
 
 regards
-rispetti (i miei rispetti)
+rispetti; i miei rispetti
 
 Rome was not built in a day
 Roma non fu fatta in un giorno
@@ -6726,7 +6720,7 @@ to have a close shave
 scamparla bella; cavarsela per un pelo
 
 to dot one's i's and cross one's t's
-scrivere (o agire) in maniera puntigliosa
+scrivere in maniera puntigliosa; agire in maniera puntigliosa
 
 if you lie down with dogs, you'll get up with fleas
 se dormi con i cani, ti beccherai le pulci
