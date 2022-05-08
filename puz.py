@@ -108,6 +108,59 @@ def pick_words( a ):
     if word != '': words.append( [word, word_pos] )
     return words
 
+# more then 3 letters
+common_words = { 'avere': 1, 
+                 'averla': 1,
+                 'averlo': 1,
+                 'averle': 1,
+                 'averli': 1,
+                 'aver': 1,
+                 'essere': 1, 
+                 'esserla': 1, 
+                 'esserlo': 1, 
+                 'esserle': 1, 
+                 'esserli': 1, 
+                 'stare': 1,
+                 'stai': 1,
+                 'stiamo': 1,
+                 'state': 1,
+                 'stanno': 1,
+                 'fare': 1, 
+                 'farla': 1,
+                 'farlo': 1,
+                 'farle': 1,
+                 'farli': 1,
+                 'farsi': 1,
+                 'dare': 1,
+                 'come': 1,
+                 'così': 1,
+                 'sono': 1, 
+                 'miei': 1,
+                 'tuoi': 1,
+                 'suoi': 1,
+                 'vuoi': 1,
+                 'dall': 1,
+                 'dalla': 1,
+                 'dagli': 1, 
+                 'dalle': 1, 
+                 'dell': 1,
+                 'della': 1,
+                 'degli': 1, 
+                 'delle': 1, 
+                 'nell': 1,
+                 'nella': 1,
+                 'negli': 1, 
+                 'nelle': 1, 
+                 'sull': 1,
+                 'sugli': 1,
+                 'sulla': 1,
+                 'sulle': 1,
+                 'all': 1,
+                 'alla': 1,
+                 'alle': 1,
+                 'agli': 1,
+               }
+
 words = []
 for entry in entries:
     question = entry[0]
@@ -116,7 +169,7 @@ for entry in entries:
     for a in aa:
         ww = pick_words( a )
         for w in ww:
-            if len( w[0] ) > 3:
+            if len( w[0] ) > 3 and not w[0] in common_words:
                 words.append( [w, a, entry] )
                 print( w[0] )
 
