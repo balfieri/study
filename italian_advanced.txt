@@ -1648,6 +1648,9 @@ svolgere
 self-taught
 autodidatto
 
+to split; to cleave; to divide
+scindere
+
 to leave aside; to ignore
 prescindere
 
@@ -5481,9 +5484,6 @@ tenere d'occhio
 
 register; registry
 albo
-
-to ignore; to leave aside
-prescindere
 
 label; tag
 l'etichetta
