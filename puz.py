@@ -108,7 +108,8 @@ def pick_words( a ):
     if word != '': words.append( [word, word_pos] )
     return words
 
-# more then 3 letters
+# 1 and 2-letter words are already excluded
+# these are common words with more then 3 letters to excluded
 common_words = { 'avere': 1, 
                  'averla': 1,
                  'averlo': 1,
