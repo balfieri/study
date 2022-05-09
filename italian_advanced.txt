@@ -7104,3 +7104,6 @@ inopportuno; inappropriato; inadatto; improprio; inadeguato
 
 peace pipe
 la pipa della pace; il calumet della pace
+
+to disambiguate
+disambiguare
