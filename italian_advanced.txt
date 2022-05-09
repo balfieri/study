@@ -1690,9 +1690,6 @@ lo gnocco
 to update
 aggiornare
 
-to adhere
-aderire
-
 employee
 il dipendente
 
@@ -6981,3 +6978,66 @@ la leggera differenza
 
 slight chance
 la piccola possibilità; la minima possibilità; la remota possibilità
+
+intuitively obvious
+intuitivamente ovvio
+
+to originate; to come; to proceed
+provenire
+
+to humor; to second; to pander
+assecondare
+
+stage; theater
+il palcoscenico
+
+boundless; overwhelming
+prorompente
+
+slender; thin; slim
+esile
+
+association; assembly; society
+il sodalizio
+
+equal; joint
+paritetico
+
+to play down; to de-dramatize
+sdrammatizzare
+
+publishing; publishing industry
+l'editoria
+
+to access; to accede; to approach
+accedere
+
+building; construction; building trade
+l'edilizia
+
+construction worker
+l'edile
+
+paint; painting
+la pittura
+
+prepared
+allestito
+
+recycling; reuse
+il riciclo
+
+to join; to adhere; to stick
+aderire
+
+plain; flat; lowland
+pianura
+
+harmfulness; nuisance; noxiousness
+nocività
+
+whisperer
+il  sussurratore
+
+to whisper
+sussurrare
