@@ -7053,3 +7053,9 @@ sconsiderato; menefreghista
 
 thoughtlessness
 la sconsideratezza: la leggerezza; la sbadataggine
+
+long talk
+la lunga chiacchierata
+
+to have a long talk
+fare una lunga chiacchierata

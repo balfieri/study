@@ -183,5 +183,5 @@ for entry in entries:
 #         for each across/down location of the word:
 #             score the placement of the word in that location
 #         if score > 0:
-#             add the word to a location with the best score
+#             add the word to one of the locations with the best score found
 #-----------------------------------------------------------------------
