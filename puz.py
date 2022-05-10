@@ -23,11 +23,11 @@ def rand_n( n ):
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 2: die( 'usage: puz.py <subjects> [options]', '' )
 subjects = sys.argv[1].split( ',' )
-side = 15
+side = 30
 reverse = False
 seed = time.time()
 attempts = 10000
-larger_cutoff = 6
+larger_cutoff = 8
 out_file = ''
 i = 2
 while i < len( sys.argv ):
@@ -54,7 +54,7 @@ while i < len( sys.argv ):
     else:
         die( f'unknown option: {arg}' )
 
-if out_file == '': die( 'must supply -out_file <file>' )
+#if out_file == '': die( 'must supply -out_file <file>' )
 random.seed( seed )
 
 #-----------------------------------------------------------------------
