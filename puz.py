@@ -91,7 +91,7 @@ def pick_words( a ):
     in_parens = False
     for i in range(len(a)):
         ch = a[i]
-        if ch == ' ' or ch == '\t' or ch == '\'' or ch == '’' or ch == '/' or ch == '(' or ch == ')' or ch == '!' or ch == '?' or ch == '.' or ch == ',':
+        if ch == ' ' or ch == '\t' or ch == '\'' or ch == '’' or ch == '/' or ch == '(' or ch == ')' or ch == '!' or ch == '?' or ch == '.' or ch == ',' or ch == '-':
             if word != '': 
                 if not in_parens: words.append( [word, word_pos] )
                 word = ''
