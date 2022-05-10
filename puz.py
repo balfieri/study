@@ -26,6 +26,7 @@ subjects = sys.argv[1].split( ',' )
 side = 15
 reverse = False
 seed = time.time()
+attempts = 1000
 out_file = ''
 i = 2
 while i < len( sys.argv ):
@@ -42,6 +43,9 @@ while i < len( sys.argv ):
         i += 1
     elif arg == '-seed':
         seed = int(sys.argv[i])
+        i += 1
+    elif arg == '-attempts':
+        attempts = int(sys.argv[i])
         i += 1
     else:
         die( f'unknown option: {arg}' )
@@ -172,7 +176,8 @@ for entry in entries:
         for w in ww:
             if len( w[0] ) > 3 and not w[0] in common_words:
                 words.append( [w, a, entry] )
-                print( w[0] )
+                #print( w[0] )
+word_cnt = len(words)
 
 #-----------------------------------------------------------------------
 # Generate the puzzle from the data structure using this simple algorithm:
@@ -185,3 +190,78 @@ for entry in entries:
 #         if score > 0:
 #             add the word to one of the locations with the best score found
 #-----------------------------------------------------------------------
+grid = []
+for x in range(side):
+    grid.append( [] )
+    for y in range(side):
+        grid[x].append( '-' )
+
+words_used = {}
+for i in range(attempts):
+    wi = rand_n( word_cnt )
+    info = words[wi]
+    w = info[0]
+    word = w[0]
+    pos = w[1]
+    print( word )
+    if word in words_used: continue
+
+    best_words = []
+    best_score = 0
+    word_len = len(word)
+    for x in range(side):
+        for y in range(side):
+            if (x + word_len) <= side:
+                # score across
+                score = 1  # temporary
+                for ci in range(word_len):
+                    c  = word[ci]
+                    gc = grid[x+ci][y]
+                    if c == gc:
+                        score += 1
+                    elif gc != '-':
+                        score = 0
+                        break
+                if score != 0 and score >= best_score:
+                    if score > best_score:
+                        best_score = score
+                        best_words = []
+                    best_words.append( [word, pos, x, y, True, info] )
+
+            if (y + word_len) <= side:
+                # score down
+                score = 1  # temporary
+                for ci in range(word_len):
+                    c  = word[ci]
+                    gc = grid[x][y+ci]
+                    if c == gc:
+                        score += 1
+                    elif gc != '-':
+                        score = 0
+                        break
+                if score != 0 and score >= best_score:
+                    if score > best_score:
+                        best_score = score
+                        best_words = []
+                    best_words.append( [word, pos, x, y, False, info] )
+    if best_score > 0: 
+        bi = rand_n( len(best_words) )
+        best   = best_words[bi]
+        word   = best[0]
+        pos    = best[1]
+        x      = best[2]
+        y      = best[3]
+        across = best[4]
+        info   = best[5]
+        words_used[word] = best
+        for ci in range(word_len):
+            if across:
+                grid[x+ci][y] = word[ci]
+            else:
+                grid[x][y+ci] = word[ci]
+
+print()
+for y in range(side):
+    for x in range(side):
+        print( f'{grid[x][y]} ', end='' )
+    print()
