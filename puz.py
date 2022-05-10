@@ -27,6 +27,7 @@ side = 15
 reverse = False
 seed = time.time()
 attempts = 10000
+larger_cutoff = 6
 out_file = ''
 i = 2
 while i < len( sys.argv ):
@@ -46,6 +47,9 @@ while i < len( sys.argv ):
         i += 1
     elif arg == '-attempts':
         attempts = int(sys.argv[i])
+        i += 1
+    elif arg == '-larger_cutoff':
+        larger_cutoff = int(sys.argv[i])
         i += 1
     else:
         die( f'unknown option: {arg}' )
@@ -184,7 +188,7 @@ word_cnt = len(words)
 # Generate the puzzle from the data structure using this simple algorithm:
 #
 #     for some number attempts:
-#         pick a random word from the list
+#         pick a random word from the list (pick only longer words during first half)
 #         if the word is already in the grid: continue
 #         for each across/down location of the word:
 #             score the placement of the word in that location
@@ -204,11 +208,13 @@ for x in range(side):
         grid[x].append( '-' )
 
 words_used = {}
+attempts_div2 = attempts >> 1
 for i in range(attempts):
     wi = rand_n( word_cnt )
     info = words[wi]
     w = info[0]
     word = w[0]
+    if i < attempts_div2 and len(word) < larger_cutoff: continue
     pos = w[1]
     if word in words_used: continue
 

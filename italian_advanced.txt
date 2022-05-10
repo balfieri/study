@@ -377,7 +377,7 @@ through (starts with t)
 tramite
 
 so that
-affinchè
+affinché
 
 finchè
 until
@@ -2671,8 +2671,8 @@ fare le cose per bene
 hole-in-one
 la buca in uno
 
-introverso
 introverted
+introverso
 
 to capture the essence
 catturare l'essenza
@@ -4033,8 +4033,8 @@ la maternità
 by any chance
 per caso
 
-spumare
 to foam; to sizzle; to form bubbles
+spumare
 
 drug dealer; pusher
 il spacciatore
