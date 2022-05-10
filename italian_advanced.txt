@@ -5362,6 +5362,9 @@ pignolo
 highly evolved
 altamente evoluto
 
+to evolve
+evolvere; evolversi
+
 the food chain
 la catena alimentare
 
@@ -7116,3 +7119,6 @@ ritenere; conservare; trattenere
 
 after that
 dopo di che; dopo di ciò; dopodiché; in seguito; dopo quello; dopo questo
+
+attack on humanity; crime against humanity
+l'attentato all'umanità
