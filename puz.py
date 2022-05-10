@@ -190,6 +190,12 @@ word_cnt = len(words)
 #         if score > 0:
 #             add the word to one of the locations with the best score found
 #-----------------------------------------------------------------------
+def print_grid():
+    for y in range(side):
+        for x in range(side):
+            print( f'{grid[x][y]} ', end='' )
+        print()
+
 grid = []
 for x in range(side):
     grid.append( [] )
@@ -215,39 +221,39 @@ for i in range(attempts):
                 score = 1  # temporary
                 for ci in range(word_len):
                     if (ci == 0 and x > 0 and grid[x-1][y] != '-') or \
-                       (ci == (word_len-1) and (x+ci+1) < side and grid[x+ci+1][y] != '-') or \
-                       (y > 0 and grid[x+ci][y-1] != '-') or \
-                       (y < (side-1) and grid[x+ci][y+1] != '-'):
+                       (ci == (word_len-1) and (x+ci+1) < side and grid[x+ci+1][y] != '-'): 
                         score = 0
                         break
                     c  = word[ci]
                     gc = grid[x+ci][y]
                     if c == gc:
                         score += 1
-                    elif gc != '-':
+                    elif gc != '-' or \
+                         (y > 0 and grid[x+ci][y-1] != '-') or \
+                         (y < (side-1) and grid[x+ci][y+1] != '-'):
                         score = 0
                         break
                 if score != 0 and score >= best_score:
                     if score > best_score:
                         best_score = score
                         best_words = []
-                    best_words.append( [word, pos, x, y, True, info] )
+                    best_words.append( [word, pos, x, y, True, info ] )
 
             if (y + word_len) <= side:
                 # score down
                 score = 1  # temporary
                 for ci in range(word_len):
                     if (ci == 0 and y > 0 and grid[x][y-1] != '-') or \
-                       (ci == (word_len-1) and (y+ci+1) < side and grid[x][y+ci+1] != '-') or \
-                       (x > 0 and grid[x-1][y+ci] != '-') or \
-                       (x < (side-1) and grid[x+1][y+ci] != '-'):
+                       (ci == (word_len-1) and (y+ci+1) < side and grid[x][y+ci+1] != '-'):
                         score = 0
                         break
                     c  = word[ci]
                     gc = grid[x][y+ci]
                     if c == gc:
                         score += 1
-                    elif gc != '-':
+                    elif gc != '-' or \
+                         (x > 0 and grid[x-1][y+ci] != '-') or \
+                         (x < (side-1) and grid[x+1][y+ci] != '-'):
                         score = 0
                         break
                 if score != 0 and score >= best_score:
@@ -270,9 +276,7 @@ for i in range(attempts):
                 grid[x+ci][y] = word[ci]
             else:
                 grid[x][y+ci] = word[ci]
-
+        #print( f'\n{word}: best_score={best_score}' )
+        #print_grid()
 print()
-for y in range(side):
-    for x in range(side):
-        print( f'{grid[x][y]} ', end='' )
-    print()
+print_grid()
