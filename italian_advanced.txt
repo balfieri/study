@@ -7164,3 +7164,6 @@ lo strumento; l'attrezzo
 
 slavery
 la schiavitù; lo schiavismo
+
+intersection; junction; cross; crossing
+l'incrocio
