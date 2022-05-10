@@ -164,6 +164,7 @@ common_words = { 'avere': 1,
                  'alla': 1,
                  'alle': 1,
                  'agli': 1,
+                 'cosa': 1,
                }
 
 words = []
@@ -218,7 +219,7 @@ for i in range(attempts):
         for y in range(side):
             if (x + word_len) <= side:
                 # score across
-                score = 1  # temporary
+                score = 2 if y == 0 or y == (side-1) else 1 
                 for ci in range(word_len):
                     if (ci == 0 and x > 0 and grid[x-1][y] != '-') or \
                        (ci == (word_len-1) and (x+ci+1) < side and grid[x+ci+1][y] != '-'): 
@@ -241,7 +242,7 @@ for i in range(attempts):
 
             if (y + word_len) <= side:
                 # score down
-                score = 1  # temporary
+                score = 2 if x == 0 or x == (side-1) else 1 
                 for ci in range(word_len):
                     if (ci == 0 and y > 0 and grid[x][y-1] != '-') or \
                        (ci == (word_len-1) and (y+ci+1) < side and grid[x][y+ci+1] != '-'):
