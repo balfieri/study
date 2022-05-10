@@ -26,7 +26,7 @@ subjects = sys.argv[1].split( ',' )
 side = 15
 reverse = False
 seed = time.time()
-attempts = 1000
+attempts = 10000
 out_file = ''
 i = 2
 while i < len( sys.argv ):
@@ -203,7 +203,6 @@ for i in range(attempts):
     w = info[0]
     word = w[0]
     pos = w[1]
-    print( word )
     if word in words_used: continue
 
     best_words = []
@@ -215,6 +214,12 @@ for i in range(attempts):
                 # score across
                 score = 1  # temporary
                 for ci in range(word_len):
+                    if (ci == 0 and x > 0 and grid[x-1][y] != '-') or \
+                       (ci == (word_len-1) and (x+ci+1) < side and grid[x+ci+1][y] != '-') or \
+                       (y > 0 and grid[x+ci][y-1] != '-') or \
+                       (y < (side-1) and grid[x+ci][y+1] != '-'):
+                        score = 0
+                        break
                     c  = word[ci]
                     gc = grid[x+ci][y]
                     if c == gc:
@@ -232,6 +237,12 @@ for i in range(attempts):
                 # score down
                 score = 1  # temporary
                 for ci in range(word_len):
+                    if (ci == 0 and y > 0 and grid[x][y-1] != '-') or \
+                       (ci == (word_len-1) and (y+ci+1) < side and grid[x][y+ci+1] != '-') or \
+                       (x > 0 and grid[x-1][y+ci] != '-') or \
+                       (x < (side-1) and grid[x+1][y+ci] != '-'):
+                        score = 0
+                        break
                     c  = word[ci]
                     gc = grid[x][y+ci]
                     if c == gc:
