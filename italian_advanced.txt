@@ -109,6 +109,9 @@ stantio
 rusty
 arrugginito
 
+to rust
+arrungginire
+
 cozy
 accogliente
 
@@ -4897,6 +4900,9 @@ porgere
 to burn; to scorch
 ardere
 
+to burn; to burn out
+bruciare
+
 to draw; to get; to obtain
 attingere
 
@@ -7173,3 +7179,15 @@ l'ambiente
 
 airport (adj)
 aeroportuale
+
+to taxi
+rullare
+
+taxiing
+il rullaggio
+
+taxiway
+la pista di rullaggio
+
+to align
+allineare
