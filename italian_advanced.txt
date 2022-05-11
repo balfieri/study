@@ -3277,6 +3277,12 @@ vantarsi
 thorough
 accurato; completo; minuzioso
 
+to escape (abstract)
+fuggire
+
+to escape (physical)
+scappare
+
 to get out of control
 sfuggire al controllo
 
@@ -5011,7 +5017,7 @@ dilagante
 to chase; to pursue; to trail
 inseguire
 
-to escape; to avoid
+to escape (one's mind); to avoid
 sfuggire
 
 to clarify
@@ -7273,7 +7279,7 @@ l'intendimento; la comprensione
 insight; shrewdness; acumen
 la perspicacia
 
-shrewd; perceptive
+shrewd; perceptive; clever
 scaltro; sveglio; perspicace
 
 insightful
@@ -7290,3 +7296,18 @@ orecchiabile
 
 catchy tune
 la canzone orecchiabile; la melodia orecchiabile
+
+strategy
+la strategia
+
+strategem; ruse; gimmick
+la stratagemma
+
+to get inside someone's head
+entrare nella sua testa
+
+unconsious
+inconscio
+
+multiple myeloma
+il mieloma multipla
