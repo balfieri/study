@@ -3628,6 +3628,9 @@ rodersi
 well; shaft
 il pozzo
 
+to poison the well
+avvelenare il pozzo
+
 baton; rod; wand
 la bacchetta
 
@@ -5217,6 +5220,9 @@ per prima cosa
 
 poisoner
 l'avvelenatore
+
+to poison
+avvelenare
 
 ghastly; chilling
 agghiacciante
@@ -7314,3 +7320,9 @@ il mieloma multipla
 
 Venezuelan
 venezuelana
+
+bucket; pail; container
+il secchio
+
+deeper than the bottom
+più fondo del fondo
