@@ -5812,9 +5812,6 @@ sporgere
 connoisseur; expert
 il conoscitore
 
-exhaustion; depletion
-l'esaurimento
-
 consumption; emaciation; wasting
 il deperimento
 
