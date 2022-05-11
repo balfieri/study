@@ -940,9 +940,6 @@ la manica
 to roll up one's sleeves
 rimboccarsi le maniche
 
-to drag
-trascinare
-
 drag (n)
 la resistenza; il trascinamento
 
@@ -7254,3 +7251,18 @@ il carrello
 
 creature
 la creatura
+
+pile; battery; stack
+la pila
+
+to drag; to trail; to haul
+trascinare
+
+race
+la razza
+
+filthy; obcene; dirty
+sconcio
+
+dirty words
+le parole sconce
