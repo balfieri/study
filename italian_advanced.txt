@@ -7371,3 +7371,6 @@ ateo
 
 atheist (n)
 l'ateista; l'ateo
+
+agnostic
+agnostico
