@@ -3001,9 +3001,6 @@ sputare
 switch
 l'interruttore
 
-to invert
-invertire
-
 quantum mechanics
 la meccanica quantistica
 
@@ -7380,3 +7377,36 @@ la ricerca
 
 search engine
 il motore di ricerca
+
+to sweat
+sudare
+
+the laws of physics
+le leggi della fisica
+
+string theory
+la teoria delle stringhe
+
+black hole
+il buco nero
+
+opportunity cost
+il costo di opportunità
+
+ridiculous scheme
+il piano ridicolo; il ridicolo piano; il schemo ridicolo
+
+airline
+la compagnia aerea
+
+faith; believe; wedding ring
+la fede
+
+gospel
+il vangelo
+
+to reverse; to invert
+invertire
+
+to overturn; to capsize; to turn over; to reverse
+capovolgere; ribaltare
