@@ -7642,7 +7642,7 @@ Pesach
 to mention
 citare; accennare; menzionare
 
-valid; good
+valid; good; effective
 valido
 
 valuable
@@ -7652,7 +7652,4 @@ lenient
 indulgente; permissivo; tollerante
 
 to influence
-influenzare su
-
-he influences
-influisca su
+influire su; influenzare
