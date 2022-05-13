@@ -7642,14 +7642,23 @@ Pesach
 to mention
 citare; accennare; menzionare
 
-valid; good; effective
+valid; not expired
 valido
 
+acceptable; effective; valid
+efficace; accettabile
+
 valuable
-prezioso; pregiato
+di valore; prezioso
 
 lenient
 indulgente; permissivo; tollerante
 
 to influence
 influire su; influenzare
+
+egregious
+oltraggioso; vergognoso
+
+hardest-working
+più laborioso
