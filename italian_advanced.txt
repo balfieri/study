@@ -7668,3 +7668,6 @@ selvaggio; scatenato
 
 wild kid
 il ragazzo selvaggio; il ragazzo scatenato
+
+visa
+il visto
