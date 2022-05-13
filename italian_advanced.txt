@@ -7528,7 +7528,7 @@ continuativo
 to talk; to discuss; to converse
 dialogare
 
-cool; casual; flippant
+cool; cool and collected; casual; flippant
 disinvolto
 
 portable; laptop
@@ -7621,8 +7621,8 @@ devolvere
 to flower; to bloom
 fiorire
 
-nursery school
-l'asilo
+nursery school; kindergarten
+l'asilo; l'asilo infantile; la scuola materna
 
 regulation; rule
 il regolamento
@@ -7671,3 +7671,12 @@ il ragazzo selvaggio; il ragazzo scatenato
 
 visa
 il visto
+
+happily married
+felicemente sposato
+
+obsolete
+desueto
+
+pension system
+il sistema pensionistico
