@@ -179,9 +179,10 @@ for entry in entries:
     for a in aa:
         ww = pick_words( a )
         for w in ww:
-            if len( w[0] ) > 3 and not w[0] in common_words:
-                words.append( [w, a, entry] )
-                #print( w[0] )
+            word = w[0]
+            pos  = w[1]
+            if len( word ) > 3 and not word in common_words:
+                words.append( [word, pos, a, entry] )
 word_cnt = len(words)
 
 #-----------------------------------------------------------------------
@@ -212,10 +213,9 @@ attempts_div2 = attempts >> 1
 for i in range(attempts):
     wi = rand_n( word_cnt )
     info = words[wi]
-    w = info[0]
-    word = w[0]
+    word = info[0]
     if i < attempts_div2 and len(word) < larger_cutoff: continue
-    pos = w[1]
+    pos = info[1]
     if word in words_used: continue
 
     best_words = []
