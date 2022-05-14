@@ -11,17 +11,17 @@ import string
 import re
 import datetime
 
-subjects = [ 'italian_advanced',
-             'italian_basic',
-             'italian_expressions',
-             'italian_slang',
-             'italian_vulgar' ]
+subjects = [ [ 'italian_advanced',      '#53af8b' ],
+             [ 'italian_basic',         '#a99887' ],
+             [ 'italian_expressions',   '#587a8f' ],
+             [ 'italian_slang',         '#f69284' ],
+             [ 'italian_vulgar',        '#95b8e3' ] ]
 
 def die( msg, prefix='ERROR: ' ):
     print( prefix + msg )
     sys.exit( 1 )
 
-cmd_en = True
+cmd_en = False
 
 def cmd( c, echo=True, echo_stdout=False, can_die=True ):  
     if echo: print( c )
@@ -63,12 +63,57 @@ while i < len( sys.argv ):
 
 cmd( f'rm -f www/*.html' )
 
+s = ''
+s += f'<html>\n'
+s += f'<head>\n'
+s += f'<style type="text/css">\n'
+s += f'.rectangle {{\n'
+s += f'  height: 30px;\n'
+s += f'  width: 30px;\n'
+s += f'  color:black;\n'
+s += f'  background-color: rgb(0,0,255);\n'
+s += f'  border-radius:5px;\n'
+s += f'  display: flex;\n'
+s += f'  justify-content:center;\n'
+s += f'  align-items: center;\n'
+s += f'  font-family: Arial;\n'
+s += f'  font-size: 18px;\n'
+s += f'  font-weight: bold;\n'
+s += f'  float: left;\n'
+s += f'  margin-right: 5px;\n'
+s += f'  margin-bottom: 5px;\n'
+s += f'}}\n'
+s += f'</style>\n'
+s += f'</head>\n'
+s += f'<title>Italian-English Crossword Puzzles</title>\n'
+s += f'<h1>Italian-English Crossword Puzzles</h1>\n'
+s += f'<body>\n'
+
 #-----------------------------------------------------------------------
 # Generate the individual puzzles.
 #-----------------------------------------------------------------------
-for subject in subjects:
+for subject_info in subjects:
+    subject = subject_info[0]
+    color   = subject_info[1]
+    s += f'<section style="clear: left">\n'
+    s += f'<br>\n'
+    s += f'<h2>{subject}</h2>\n'
     for reverse in range(2):
+        clue_lang = 'Italian' if reverse == 0 else 'English'
+        s += f'<section style="clear: left">\n'
+        #s += f'<br>\n'
+        s += f'<b>{clue_lang}:</b><br>'
         for i in range(count):
             title = f'{subject}_s{seed}_r{reverse}'
             cmd( f'./puz.py {subject} -side {side} -seed {seed} -reverse {reverse} -title {title} > www/{title}.html' )
             seed += 1
+            s += f'<a href="{title}.html"><div class="rectangle" style="background-color: {color}">{i}</div></a>\n'
+
+s += f'<section style="clear: left">\n'
+s += '<br>\n'
+s += '</body>\n'
+s += '</html>\n'
+
+file = open( "www/index.html", "w" )
+a = file.write( s )
+file.close()
