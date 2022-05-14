@@ -6541,7 +6541,7 @@ l'assistenza sanitaria universale
 fetus
 il feto
 
-the gen
+gene
 il gene
 
 Eastern European
@@ -7680,3 +7680,6 @@ desueto
 
 pension system
 il sistema pensionistico
+
+on the fly
+al volo
