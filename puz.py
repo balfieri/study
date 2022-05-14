@@ -24,11 +24,13 @@ def rand_n( n ):
 if len( sys.argv ) < 2: die( 'usage: puz.py <subjects> [options]', '' )
 subjects_s = sys.argv[1]
 subjects = subjects_s.split( ',' )
-side = 30
+side = 15
 reverse = False
 seed = int( time.time() )
 attempts = 10000
 larger_cutoff = 8
+html = True
+title = ''
 i = 2
 while i < len( sys.argv ):
     arg = sys.argv[i]
@@ -48,8 +50,16 @@ while i < len( sys.argv ):
     elif arg == '-larger_cutoff':
         larger_cutoff = int(sys.argv[i])
         i += 1
+    elif arg == '-html':          
+        html = int(sys.argv[i]) == 1
+        i += 1
+    elif arg == '-title':          
+        title = sys.argv[i]
+        i += 1
     else:
         die( f'unknown option: {arg}' )
+
+if title == '': title = '_'.join( subjects ) + f'_{seed}' 
 
 random.seed( seed )
 
@@ -295,18 +305,35 @@ for i in range(attempts):
         #print( f'{word}: {which} clue added at [{x},{y}]' )
 
 #-----------------------------------------------------------------------
-# Genrerate .puz file.
+# Genrerate .html or .puz file.
 #-----------------------------------------------------------------------
+
+if html:
+    print( f'<!DOCTYPE html>' )
+    print( f'<html lang="en">' )
+    print( f'<head>' )
+    print( f'<meta charset="utf-8"/>' )
+    print( f'<meta name="viewport" content="width=device-width, initial-scale=1"/>' )
+    print( f'<link rel="stylesheet" type="text/css" href="exolve-m.css?v1.35"/>' )
+    print( f'<script src="exolve-m.js?v1.35"></script>' )
+    print( f'<script src="exolve-from-ipuz.js?v1.35"></script>' )
+    print( f'' )
+    print( f'<title>Test-Ipuz-Solved</title>' )
+    print( f'' )
+    print( f'</head>' )
+    print( f'<body>' )
+    print( f'<script>' )
+    print( f'let ipuz =' )
 
 # header
 print( f'{{' )
-print( f'"origin": "Robert A. Alfieri",' )
+print( f'"origin": "Bob Alfieri (auto-generated)",' )
 print( f'"version": "http://ipuz.org/v1",' )
 print( f'"kind": ["http://ipuz.org/crossword#1"],' )
 print( f'"copyright": "2022 Robert A. Alfieri",' )
 print( f'"author": "Robert A. Alfieri",' )
 print( f'"publisher": "Robert A. Alfieri",' )
-print( f'"title": "{subjects_s} {seed}",' )
+print( f'"title": "{title}",' )
 print( f'"intro": "",' )
 print( f'"difficulty": "Moderate",' )
 print( f'"empty": "0",' )
@@ -327,7 +354,7 @@ for y in range(side):
         elif grid[x][y] != '-':
              print( '0', end='' )
         else: 
-             print( '#', end='' )
+             print( '"#"', end='' )
     comma = ',' if y != (side-1) else ''
     print( f']{comma}' )            
 print( f'],' )
@@ -374,11 +401,8 @@ for y in range(side):
 print( f']' )
 print( f'}}' )
 
-def print_grid():
-    for y in range(side):
-        for x in range(side):
-            print( f'{grid[x][y]} ', end='' )
-        print()
-
-#print()
-#print_grid()
+if html:
+    print( f'createExolve(exolveFromIpuz(ipuz))' )
+    print( f'</script>' )
+    print( f'</body>' )
+    print( f'</html>' )
