@@ -22,13 +22,13 @@ def rand_n( n ):
 # process command line args
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 2: die( 'usage: puz.py <subjects> [options]', '' )
-subjects = sys.argv[1].split( ',' )
+subjects_s = sys.argv[1]
+subjects = subjects_s.split( ',' )
 side = 30
 reverse = False
 seed = int( time.time() )
 attempts = 10000
 larger_cutoff = 8
-out_file = ''
 i = 2
 while i < len( sys.argv ):
     arg = sys.argv[i]
@@ -38,9 +38,6 @@ while i < len( sys.argv ):
         i += 1
     elif arg == '-reverse':          
         reverse = int(sys.argv[i]) == 1
-        i += 1
-    elif arg == '-out_file':
-        out_file = sys.argv[i]
         i += 1
     elif arg == '-seed':
         seed = int(sys.argv[i])
@@ -54,8 +51,6 @@ while i < len( sys.argv ):
     else:
         die( f'unknown option: {arg}' )
 
-#if out_file == '': die( 'must supply -out_file <file>' )
-print( f'seed: {seed}' )
 random.seed( seed )
 
 #-----------------------------------------------------------------------
@@ -311,7 +306,7 @@ print( f'"kind": ["http://ipuz.org/crossword#1"],' )
 print( f'"copyright": "2022 Robert A. Alfieri",' )
 print( f'"author": "Robert A. Alfieri",' )
 print( f'"publisher": "Robert A. Alfieri",' )
-print( f'"title": "",' )
+print( f'"title": "{subjects_s} {seed}",' )
 print( f'"intro": "",' )
 print( f'"difficulty": "Moderate",' )
 print( f'"empty": "0",' )
@@ -367,11 +362,23 @@ for which_mc in ['Across', 'Down']:
     print( f'\n    ]{comma}' )
 print( f'}},' )
 
+# solution
+print( f'"solution": [' )
+for y in range(side):
+    for x in range(side):
+        print( f'    [' if x == 0 else ',', end='' )
+        ch = '#' if grid[x][y] == '-' else grid[x][y].upper()
+        print( f'"{ch}"', end='' )
+    comma = ',' if y != (side-1) else ''
+    print( f']{comma}' )
+print( f']' )
+print( f'}}' )
+
 def print_grid():
     for y in range(side):
         for x in range(side):
             print( f'{grid[x][y]} ', end='' )
         print()
 
-print()
-print_grid()
+#print()
+#print_grid()
