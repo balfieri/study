@@ -9,6 +9,7 @@ import subprocess
 import time
 import string
 import re
+import datetime
 
 subjects = [ 'italian_advanced',
              'italian_basic',
@@ -37,6 +38,12 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 #-----------------------------------------------------------------------
 side = 15
 count = 10
+today = datetime.date.today()
+year = today.year
+month = today.month
+day = today.day
+seed = year*10000 + month*100 + day
+seed *= 1000
 
 i = 2
 while i < len( sys.argv ):
@@ -48,13 +55,17 @@ while i < len( sys.argv ):
     elif arg == '-count':
         count = int(sys.argv[i])
         i += 1
+    elif arg == '-seed':
+        seed = int(sys.argv[i])
+        i += 1
     else:
         die( f'unknown option: {arg}' )
+
+cmd( f'rm -f www/*.html' )
 
 #-----------------------------------------------------------------------
 # Generate the individual puzzles.
 #-----------------------------------------------------------------------
-seed = 1000000
 for subject in subjects:
     for reverse in range(2):
         for i in range(count):
