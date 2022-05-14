@@ -318,7 +318,7 @@ print( f'"empty": "0",' )
 print( f'"dimensions": {{ "width": {side}, "height": {side} }},' )
 print()
 
-# puzzle labels
+# labels
 print( f'"puzzle": [' )
 clue_num = 1
 for y in range(side): 
@@ -336,6 +336,36 @@ for y in range(side):
     comma = ',' if y != (side-1) else ''
     print( f']{comma}' )            
 print( f'],' )
+
+# clues
+print( f'"clues": {{' )
+for which_mc in ['Across', 'Down']:
+    print( f'    "{which_mc}": [', end='' )
+    which = which_mc.lower()
+    have_one = False
+    for y in range(side):
+        for x in range(side):
+            cinfo = clue_grid[x][y]
+            if which in cinfo: 
+                if have_one: print( ',', end='' )
+                have_one = True
+                print()
+                winfo = cinfo[which]
+                num   = cinfo['num']
+                word  = winfo[0]
+                first = winfo[1]
+                last  = first + len(word) - 1 
+                ans   = winfo[2]
+                entry = winfo[3]
+                ques  = entry[0]
+                ans_  = ''
+                for i in range(len(ans)):
+                    ans_ += '_' if (i >= first and i <= last) else ans[i]
+                clue  = f'"{ques} ==> {ans_}"' 
+                print( f'        [{num}, {clue}]', end='' )
+    comma = ',' if which == 'across' else ''
+    print( f'\n    ]{comma}' )
+print( f'}},' )
 
 def print_grid():
     for y in range(side):
