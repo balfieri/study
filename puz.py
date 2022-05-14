@@ -198,12 +198,18 @@ word_cnt = len(words)
 #             add the word to one of the locations with the best score found
 #-----------------------------------------------------------------------
 grid = []
+across_grid = []
+down_grid = []
 clue_grid = []
 for x in range(side):
     grid.append( [] )
+    across_grid.append( [] )
+    down_grid.append( [] )
     clue_grid.append( [] )
     for y in range(side):
         grid[x].append( '-' )
+        across_grid[x].append( '-' )
+        down_grid[x].append( '-' )
         clue_grid[x].append( {} )
 
 words_used = {}
@@ -227,7 +233,8 @@ for i in range(attempts):
                 # score across
                 score = 2 if y == 0 or y == (side-1) else 1 
                 for ci in range(word_len):
-                    if (ci == 0 and x > 0 and grid[x-1][y] != '-') or \
+                    if across_grid[x+ci][y] != '-' or \
+                       (ci == 0 and x > 0 and grid[x-1][y] != '-') or \
                        (ci == (word_len-1) and (x+ci+1) < side and grid[x+ci+1][y] != '-'): 
                         score = 0
                         break
@@ -250,7 +257,8 @@ for i in range(attempts):
                 # score down
                 score = 2 if x == 0 or x == (side-1) else 1 
                 for ci in range(word_len):
-                    if (ci == 0 and y > 0 and grid[x][y-1] != '-') or \
+                    if down_grid[x][y+ci] != '-' or \
+                       (ci == 0 and y > 0 and grid[x][y-1] != '-') or \
                        (ci == (word_len-1) and (y+ci+1) < side and grid[x][y+ci+1] != '-'):
                         score = 0
                         break
@@ -283,11 +291,13 @@ for i in range(attempts):
         for ci in range(word_len):
             if across:
                 grid[x+ci][y] = word[ci]
+                across_grid[x+ci][y] = word[ci]
             else:
                 grid[x][y+ci] = word[ci]
+                down_grid[x][y+ci] = word[ci]
         if which in clue_grid[x][y]: die( f'{word}: {which} clue already at [{x},{y}]' )
         clue_grid[x][y][which] = best;
-        print( f'{word}: {which} clue added at [{x},{y}]' )
+        #print( f'{word}: {which} clue added at [{x},{y}]' )
 
 #-----------------------------------------------------------------------
 # Genrerate .puz file.
