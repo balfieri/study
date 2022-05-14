@@ -25,7 +25,7 @@ if len( sys.argv ) < 2: die( 'usage: puz.py <subjects> [options]', '' )
 subjects = sys.argv[1].split( ',' )
 side = 30
 reverse = False
-seed = time.time()
+seed = int( time.time() )
 attempts = 10000
 larger_cutoff = 8
 out_file = ''
@@ -55,6 +55,7 @@ while i < len( sys.argv ):
         die( f'unknown option: {arg}' )
 
 #if out_file == '': die( 'must supply -out_file <file>' )
+print( f'seed: {seed}' )
 random.seed( seed )
 
 #-----------------------------------------------------------------------
@@ -196,17 +197,14 @@ word_cnt = len(words)
 #         if score > 0:
 #             add the word to one of the locations with the best score found
 #-----------------------------------------------------------------------
-def print_grid():
-    for y in range(side):
-        for x in range(side):
-            print( f'{grid[x][y]} ', end='' )
-        print()
-
 grid = []
+clue_grid = []
 for x in range(side):
     grid.append( [] )
+    clue_grid.append( [] )
     for y in range(side):
         grid[x].append( '-' )
+        clue_grid[x].append( {} )
 
 words_used = {}
 attempts_div2 = attempts >> 1
@@ -280,11 +278,60 @@ for i in range(attempts):
         x      = best[4]
         y      = best[5]
         across = best[6]
+        which  = 'across' if across else 'down'
         words_used[word] = best
         for ci in range(word_len):
             if across:
                 grid[x+ci][y] = word[ci]
             else:
                 grid[x][y+ci] = word[ci]
+        if which in clue_grid[x][y]: die( f'{word}: {which} clue already at [{x},{y}]' )
+        clue_grid[x][y][which] = best;
+        print( f'{word}: {which} clue added at [{x},{y}]' )
+
+#-----------------------------------------------------------------------
+# Genrerate .puz file.
+#-----------------------------------------------------------------------
+
+# header
+print( f'{{' )
+print( f'"origin": "Robert A. Alfieri",' )
+print( f'"version": "http://ipuz.org/v1",' )
+print( f'"kind": ["http://ipuz.org/crossword#1"],' )
+print( f'"copyright": "2022 Robert A. Alfieri",' )
+print( f'"author": "Robert A. Alfieri",' )
+print( f'"publisher": "Robert A. Alfieri",' )
+print( f'"title": "",' )
+print( f'"intro": "",' )
+print( f'"difficulty": "Moderate",' )
+print( f'"empty": "0",' )
+print( f'"dimensions": {{ "width": {side}, "height": {side} }},' )
+print()
+
+# puzzle labels
+print( f'"puzzle": [' )
+clue_num = 1
+for y in range(side): 
+    for x in range(side):
+        print( '    [' if x == 0 else ',', end='' )
+        info = clue_grid[x][y]
+        if 'across' in info or 'down' in info:
+             print( clue_num, end='' )
+             info['num'] = clue_num
+             clue_num += 1
+        elif grid[x][y] != '-':
+             print( '0', end='' )
+        else: 
+             print( '#', end='' )
+    comma = ',' if y != (side-1) else ''
+    print( f']{comma}' )            
+print( f'],' )
+
+def print_grid():
+    for y in range(side):
+        for x in range(side):
+            print( f'{grid[x][y]} ', end='' )
+        print()
+
 print()
 print_grid()
