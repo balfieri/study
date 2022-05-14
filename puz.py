@@ -214,9 +214,11 @@ for i in range(attempts):
     wi = rand_n( word_cnt )
     info = words[wi]
     word = info[0]
+    if word in words_used: continue
     if i < attempts_div2 and len(word) < larger_cutoff: continue
     pos = info[1]
-    if word in words_used: continue
+    ans = info[2]
+    entry = info[3]
 
     best_words = []
     best_score = 0
@@ -244,7 +246,7 @@ for i in range(attempts):
                     if score > best_score:
                         best_score = score
                         best_words = []
-                    best_words.append( [word, pos, x, y, True, info ] )
+                    best_words.append( [word, pos, ans, entry, x, y, True ] )
 
             if (y + word_len) <= side:
                 # score down
@@ -267,23 +269,22 @@ for i in range(attempts):
                     if score > best_score:
                         best_score = score
                         best_words = []
-                    best_words.append( [word, pos, x, y, False, info] )
+                    best_words.append( [word, pos, ans, entry, x, y, False] )
     if best_score > 0: 
         bi = rand_n( len(best_words) )
         best   = best_words[bi]
         word   = best[0]
         pos    = best[1]
-        x      = best[2]
-        y      = best[3]
-        across = best[4]
-        info   = best[5]
+        ans    = best[2]
+        entry  = best[3]
+        x      = best[4]
+        y      = best[5]
+        across = best[6]
         words_used[word] = best
         for ci in range(word_len):
             if across:
                 grid[x+ci][y] = word[ci]
             else:
                 grid[x][y+ci] = word[ci]
-        #print( f'\n{word}: best_score={best_score}' )
-        #print_grid()
 print()
 print_grid()
