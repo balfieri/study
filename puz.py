@@ -327,11 +327,11 @@ if html:
 
 # header
 print( f'{{' )
-print( f'"origin": "Bob Alfieri (auto-generated)",' )
+print( f'"origin": "Bob Alfieri",' )
 print( f'"version": "http://ipuz.org/v1",' )
 print( f'"kind": ["http://ipuz.org/crossword#1"],' )
 print( f'"copyright": "2022 Robert A. Alfieri",' )
-print( f'"author": "Robert A. Alfieri",' )
+print( f'"author": "Bob Alfieri",' )
 print( f'"publisher": "Robert A. Alfieri",' )
 print( f'"title": "{title}",' )
 print( f'"intro": "",' )
@@ -340,19 +340,30 @@ print( f'"empty": "0",' )
 print( f'"dimensions": {{ "width": {side}, "height": {side} }},' )
 print()
 
+# solution
+print( f'"solution": [' )
+for y in range(side):
+    for x in range(side):
+        print( f'    [' if x == 0 else ', ', end='' )
+        ch = '#' if grid[x][y] == '-' else grid[x][y].upper()
+        print( f'"{ch}"', end='' )
+    comma = ',' if y != (side-1) else ''
+    print( f']{comma}' )
+print( f'],' )
+
 # labels
 print( f'"puzzle": [' )
 clue_num = 1
 for y in range(side): 
     for x in range(side):
-        print( '    [' if x == 0 else ',', end='' )
+        print( '    [' if x == 0 else ', ', end='' )
         info = clue_grid[x][y]
         if 'across' in info or 'down' in info:
-             print( clue_num, end='' )
+             print( f'{clue_num:3}', end='' )
              info['num'] = clue_num
              clue_num += 1
         elif grid[x][y] != '-':
-             print( '0', end='' )
+             print( '  0', end='' )
         else: 
              print( '"#"', end='' )
     comma = ',' if y != (side-1) else ''
@@ -369,7 +380,7 @@ for which_mc in ['Across', 'Down']:
         for x in range(side):
             cinfo = clue_grid[x][y]
             if which in cinfo: 
-                if have_one: print( ',', end='' )
+                if have_one: print( ', ', end='' )
                 have_one = True
                 print()
                 winfo = cinfo[which]
@@ -388,17 +399,6 @@ for which_mc in ['Across', 'Down']:
     comma = ',' if which == 'across' else ''
     print( f'\n    ]{comma}' )
 print( f'}},' )
-
-# solution
-print( f'"solution": [' )
-for y in range(side):
-    for x in range(side):
-        print( f'    [' if x == 0 else ',', end='' )
-        ch = '#' if grid[x][y] == '-' else grid[x][y].upper()
-        print( f'"{ch}"', end='' )
-    comma = ',' if y != (side-1) else ''
-    print( f']{comma}' )
-print( f']' )
 print( f'}}' )
 
 if html:

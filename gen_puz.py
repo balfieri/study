@@ -58,6 +58,6 @@ seed = 1000000
 for subject in subjects:
     for reverse in range(2):
         for i in range(count):
-            title = f'{subject}_{seed}'
-            cmd( f'./puz.py {subject} -side {side} -seed {seed} -title {title} > www/{title}.html' )
+            title = f'{subject}_s{seed}_r{reverse}'
+            cmd( f'./puz.py {subject} -side {side} -seed {seed} -reverse {reverse} -title {title} > www/{title}.html' )
             seed += 1
