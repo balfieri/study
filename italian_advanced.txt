@@ -3455,7 +3455,7 @@ decimal digit
 la cifra decimale
 
 digits to the right of the decimal point
-le cifre a destra della vigola
+le cifre a destra della virgola
 
 measurement
 la misurazione
@@ -7683,3 +7683,18 @@ il sistema pensionistico
 
 on the fly
 al volo
+
+to master
+padroneggiare
+
+piece of paper
+il pezzo di carta
+
+counterpart
+la controparte
+
+squeezable
+comprimibile
+
+kissable
+baciabile
