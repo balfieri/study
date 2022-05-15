@@ -256,6 +256,6 @@ exolveFromIpuz = function(ipuz, fname='') {
           ${clueText.join(' ')}`
     }
   }
-  exolve += '\n    exolve-end\n'
+  //exolve += '\n    exolve-end\n'
   return exolve
 }

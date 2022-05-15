@@ -105,7 +105,7 @@ def pick_words( a ):
     in_parens = False
     for i in range(len(a)):
         ch = a[i]
-        if ch == ' ' or ch == '\t' or ch == '\'' or ch == '’' or ch == '/' or ch == '(' or ch == ')' or ch == '!' or ch == '?' or ch == '.' or ch == ',' or ch == '-':
+        if ch == ' ' or ch == '\t' or ch == '\'' or ch == '’' or ch == '/' or ch == '(' or ch == ')' or ch == '!' or ch == '?' or ch == '.' or ch == ',' or ch == '-' or ch == ':': 
             if word != '': 
                 if not in_parens: words.append( [word, word_pos] )
                 word = ''
@@ -330,7 +330,7 @@ print( f'{{' )
 print( f'"origin": "Bob Alfieri",' )
 print( f'"version": "http://ipuz.org/v1",' )
 print( f'"kind": ["http://ipuz.org/crossword#1"],' )
-print( f'"copyright": "2022 Robert A. Alfieri (puzzle), Viresh Ratnakar (exolve program)",' )
+#print( f'"copyright": "2022 Robert A. Alfieri (this puzzle), Viresh Ratnakar (crossword program)",' )
 print( f'"author": "Bob Alfieri",' )
 print( f'"publisher": "Robert A. Alfieri",' )
 print( f'"title": "{title}",' )
@@ -403,6 +403,9 @@ print( f'}}' )
 
 if html:
     print( f'text = exolveFromIpuz(ipuz)' )
+    #print( f'text += \'\\n    exolve-option: allow-chars:ÀÁÈÉÌÍÒÓÙÚ\\n\'' )
+    print( f'text += \'\\n    exolve-language: it Latin\\n\'' )
+    print( f'text += \'\\n    exolve-end\\n\'' )
     print( f'createExolve(text)' )
     print( f'</script>' )
     print( f'</body>' )

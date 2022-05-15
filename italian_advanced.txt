@@ -4783,8 +4783,8 @@ il padrino
 godmother
 la madrina
 
-note:
-nota:
+note
+nota
 
 to refer to
 riferirsi a
@@ -7061,7 +7061,7 @@ thoughtless
 sconsiderato; menefreghista
 
 thoughtlessness
-la sconsideratezza: la leggerezza; la sbadataggine
+la sconsideratezza; la leggerezza; la sbadataggine
 
 long talk
 la lunga chiacchierata
