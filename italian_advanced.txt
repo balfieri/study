@@ -1544,7 +1544,7 @@ fabric
 la stoffa
 
 to rub off
-stroffare
+strofinare
 
 to drive away
 scacciare
@@ -3763,8 +3763,8 @@ i combustibili fossili
 sparire
 to disappear; to vanquish; to go away
 
-at first glance
-a prima vista; at first sight
+at first glance; at first sight
+a prima vista
 
 in the short term
 nel breve
@@ -5321,7 +5321,7 @@ to appear
 comparare
 
 owner
-il proprietario; il padrone
+il proprietario
 
 kinship
 la parentela
@@ -7698,3 +7698,12 @@ comprimibile
 
 kissable
 baciabile
+
+employer
+il datore di lavoro; il padrone
+
+boss
+il capo
+
+deactivated
+disattivato
