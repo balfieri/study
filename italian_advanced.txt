@@ -3592,9 +3592,6 @@ sfogliare
 cavity; decay
 la carie
 
-to disappear; to vanish
-sparire
-
 shelf; rack
 lo scaffale
 
@@ -3760,8 +3757,8 @@ l'inquinamento
 fossil fuels
 i combustibili fossili
 
-sparire
 to disappear; to vanquish; to go away
+sparire
 
 at first glance; at first sight
 a prima vista
@@ -5064,9 +5061,6 @@ schiarire
 
 to wither; to fade; to shrivel
 sfiorire
-
-to disappear; to vanish
-sparire
 
 to transgress
 trasgredire
