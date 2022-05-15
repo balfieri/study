@@ -28,7 +28,7 @@ side = 15
 reverse = False
 seed = int( time.time() )
 attempts = 10000
-larger_cutoff = 8
+larger_cutoff = 7
 html = True
 title = ''
 i = 2
@@ -237,13 +237,14 @@ for x in range(side):
         clue_grid[x].append( {} )
 
 words_used = {}
-attempts_div2 = attempts >> 1
+large_frac = (0 + rand_n( 100 )) / 100.0
+attempts_large = int( attempts * large_frac )
 for i in range(attempts):
     wi = rand_n( word_cnt )
     info = words[wi]
     word = info[0]
     if word in words_used: continue
-    if i < attempts_div2 and len(word) < larger_cutoff: continue
+    if i < attempts_large and len(word) < larger_cutoff: continue
     pos = info[1]
     ans = info[2]
     entry = info[3]
