@@ -39,11 +39,11 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 side = 15
 count = 100
 today = datetime.date.today()
-year = today.year
+year = today.year - 2000
 month = today.month
-day = today.day
+day = today.day + 1
 seed = year*10000 + month*100 + day
-seed *= 1000
+seed *= 10000
 
 i = 2
 while i < len( sys.argv ):

@@ -7702,8 +7702,44 @@ baciabile
 employer
 il datore di lavoro; il padrone
 
-boss
-il capo
-
 deactivated
 disattivato
+
+degree of difficulty
+il grado di difficoltà
+
+absolute beginner
+il principiante assoluto
+
+beginner
+il principiante
+
+slob-ish; slovenly
+malmesso; rasandato; disordinato; non a posto
+
+not so much
+mica tanto
+
+warning
+l'avviso
+
+mess
+il pasticcio
+
+poppy
+il papavero
+
+cherries
+i ciliegini
+
+blueberries
+i mirtilli
+
+citrus
+gli agrumi
+
+parachute
+la paracadute
+
+neighborhood
+quartiere

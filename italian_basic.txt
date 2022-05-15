@@ -511,6 +511,9 @@ le istruzioni
 educational
 istrutivo
 
+well-educated
+istruito
+
 well-behaved
 educato
 
@@ -1507,9 +1510,6 @@ urlare
 to shout
 gridare
 
-neighborhood
-quartiere
-
 all set; settled
 a posto
 
@@ -1527,9 +1527,6 @@ la razza
 
 competition
 la concorrenza
-
-parachute
-la paracadute
 
 lane
 la corsia
@@ -1653,21 +1650,6 @@ affollato
 
 nurse
 l'infermiera
-
-mess
-il pasticcio
-
-poppy
-il papavero
-
-cherries
-i ciliegini
-
-blueberries
-i mirtilli
-
-citrus
-gli agrumi
 
 scissors
 i forbici
@@ -1833,9 +1815,6 @@ il comune
 
 careful!
 attenzione!
-
-warning
-l'avviso
 
 to be able to; to be allowed to
 potere
@@ -2019,3 +1998,9 @@ la regione
 
 countryside
 in campagna
+
+boss
+il capo
+
+delay
+il ritardo
