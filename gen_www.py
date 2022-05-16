@@ -21,7 +21,7 @@ def die( msg, prefix='ERROR: ' ):
     print( prefix + msg )
     sys.exit( 1 )
 
-cmd_en = False
+cmd_en = True
 
 def cmd( c, echo=True, echo_stdout=False, can_die=True ):  
     if echo: print( c )
