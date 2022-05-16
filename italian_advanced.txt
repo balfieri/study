@@ -7809,3 +7809,6 @@ il volley
 
 short-term
 a breve termine
+
+overwhelmed; overcome; crushed
+travolto
