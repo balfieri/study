@@ -96,7 +96,7 @@ for subject_info in subjects:
     color   = subject_info[1]
     s += f'<section style="clear: left">\n'
     s += f'<br>\n'
-    s += f'<h2>{subject}</h2>\n'
+    s += f'<h2><a href="https://github.com/balfieri/study/blob/master/{subject}.txt">{subject}</a></h2>'
     for reverse in range(2):
         clue_lang = 'Italian' if reverse == 0 else 'English'
         s += f'<section style="clear: left">\n'
