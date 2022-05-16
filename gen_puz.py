@@ -98,6 +98,11 @@ for subject in subjects:
 # Pull out all interesting answer words and put them into an array, 
 # with a reference back to the original question.
 #-----------------------------------------------------------------------
+good_chars = {
+    'a': 1, 'b': 1, 'c': 1, 'd': 1, 'e': 1, 'f': 1, 'g': 1, 'h': 1, 'i': 1, 'j': 1, 'k': 1, 'l': 1, 'm': 1,
+    'n': 1, 'o': 1, 'p': 1, 'q': 1, 'r': 1, 's': 1, 't': 1, 'u': 1, 'v': 1, 'w': 1, 'x': 1, 'y': 1, 'z': 1,
+    'à': 1, 'á': 1, 'è': 1, 'é': 1, 'ì': 1, 'í': 1, 'ò': 1, 'ó': 1, 'ù': 1, 'ú': 1 }
+
 def pick_words( a ):
     words = []
     word = ''
@@ -105,7 +110,9 @@ def pick_words( a ):
     in_parens = False
     for i in range(len(a)):
         ch = a[i]
-        if ch == ' ' or ch == '\t' or ch == '\'' or ch == '’' or ch == '/' or ch == '(' or ch == ')' or ch == '!' or ch == '?' or ch == '.' or ch == ',' or ch == '-' or ch == ':': 
+        if ch == ' ' or ch == '\t' or ch == '\'' or ch == '’' or ch == '/' or ch == '(' or ch == ')' or \
+           ch == '!' or ch == '?' or ch == '.' or ch == ',' or ch == '-' or ch == ':' or ch == '"' or ch == '[' or ch == ']' or \
+           ch == '0' or ch == '1' or ch == '2' or ch == '3' or ch == '4' or ch == '5' or ch == '6' or ch == '7' or ch == '8' or ch == '9':
             if word != '': 
                 if not in_parens: words.append( [word, word_pos] )
                 word = ''
@@ -118,7 +125,7 @@ def pick_words( a ):
         elif not in_parens:
             if word == '': word_pos = i
             c = ch.lower()
-            if c < 'a' and c > 'z' and c != 'à' and c != 'á' and c != 'è' and c != 'é' and c != 'ò' and c != 'ó' and c != 'ù' and c != 'ú':
+            if c not in good_chars:
                 die( f'bad character \'{ch}\' in answer: {a}' )
             word += c
 
