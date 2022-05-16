@@ -14,13 +14,14 @@ import datetime
 subjects = [ [ 'italian_basic',         '#a99887' ],
              [ 'italian_advanced',      '#53af8b' ],
              [ 'italian_expressions',   '#587a8f' ],
-             [ 'italian_vulgar',        '#95b8e3' ] ]
+             [ 'italian_vulgar',        '#95b8e3' ],
+             [ 'all_lists',             '#c095e3' ] ]
 
 def die( msg, prefix='ERROR: ' ):
     print( prefix + msg )
     sys.exit( 1 )
 
-cmd_en = True
+cmd_en = False
 
 def cmd( c, echo=True, echo_stdout=False, can_die=True ):  
     if echo: print( c )
@@ -91,12 +92,18 @@ s += f'<body>\n'
 #-----------------------------------------------------------------------
 # Generate the individual puzzles.
 #-----------------------------------------------------------------------
+all_s = ''
 for subject_info in subjects:
     subject = subject_info[0]
     color   = subject_info[1]
     s += f'<section style="clear: left">\n'
     s += f'<br>\n'
-    s += f'<h2><a href="https://github.com/balfieri/study/blob/master/{subject}.txt">{subject}</a></h2>'
+    if subject != 'all_lists':
+        s += f'<h2><a href="https://github.com/balfieri/study/blob/master/{subject}.txt">{subject}</a></h2>'
+        if all_s != '': all_s += ','
+        all_s += subject
+    else:
+        s += f'<h2>{subject}</h2>'
     for reverse in range(2):
         clue_lang = 'Italian' if reverse == 0 else 'English'
         s += f'<section style="clear: left">\n'
@@ -104,7 +111,8 @@ for subject_info in subjects:
         s += f'<b>{clue_lang}:</b><br>'
         for i in range(count):
             title = f'{subject}_s{seed}_r{reverse}'
-            cmd( f'./gen_puz.py {subject} -side {side} -seed {seed} -reverse {reverse} -title {title} > www/{title}.html' )
+            subjects = all_s if subject == 'all_lists' else subject
+            cmd( f'./gen_puz.py {subjects} -side {side} -seed {seed} -reverse {reverse} -title {title} > www/{title}.html' )
             seed += 1
             s += f'<a href="{title}.html"><div class="rectangle" style="background-color: {color}">{i}</div></a>\n'
 
