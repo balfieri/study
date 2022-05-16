@@ -4313,7 +4313,7 @@ recurrence; anniversary
 la ricorrenza
 
 to decimate
-decimato
+decimare
 
 thoroughly
 completamente
