@@ -7836,3 +7836,6 @@ proiettare
 
 madness; insanity
 la follia; la pazzia
+
+univerisity town
+la città universitaria
