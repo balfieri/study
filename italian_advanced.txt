@@ -2011,9 +2011,6 @@ il solco; la pista
 thickness
 lo spessore
 
-to upset
-stravolgere
-
 to assign
 assegnare
 
@@ -7809,6 +7806,9 @@ il volley
 
 short-term
 a breve termine
+
+to overwhelm
+travolgere
 
 overwhelmed; overcome; crushed
 travolto
