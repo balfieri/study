@@ -7839,3 +7839,6 @@ la follia; la pazzia
 
 univerisity town
 la città universitaria
+
+psychiatric
+psichiatrico
