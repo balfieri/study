@@ -187,6 +187,7 @@ common_words = { 'avere': 1,
                  'ieri': 1,
                  'ecco': 1,
                  'vita': 1,
+                 'sole': 1,
 
                  'than': 1,
                  'each': 1,
