@@ -311,7 +311,7 @@ in spite of
 nonostante
 
 that said
-dato ciò
+detto ciò; dato ciò
 
 a matter of
 una questione di
@@ -7842,3 +7842,6 @@ la città universitaria
 
 psychiatric
 psichiatrico
+
+presenter; announcer
+il presentatore
