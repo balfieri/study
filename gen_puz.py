@@ -117,12 +117,15 @@ def pick_words( a ):
                 in_parens = False
         elif not in_parens:
             if word == '': word_pos = i
-            word += ch.lower()
+            c = ch.lower()
+            if c < 'a' and c > 'z' and c != 'à' and c != 'á' and c != 'è' and c != 'é' and c != 'ò' and c != 'ó' and c != 'ù' and c != 'ú':
+                die( f'bad character \'{ch}\' in answer: {a}' )
+            word += c
 
     if word != '': words.append( [word, word_pos] )
     return words
 
-# 1 and 2-letter words are already excluded
+# <=3 letter words are already excluded
 # these are common words with more then 3 letters to excluded
 common_words = { 'avere': 1, 
                  'averla': 1,
