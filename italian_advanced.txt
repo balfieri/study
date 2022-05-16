@@ -3181,9 +3181,6 @@ subire
 to relinquish; to renounce
 rinunciare; abbandonare
 
-rocket
-il razzo
-
 leap
 il balzo
 
@@ -7743,3 +7740,72 @@ il venditore d'auto
 
 undercurrent; background
 il sottofondo
+
+to follow
+proseguire
+
+to land
+atterare
+
+gas station
+il benzinaio
+
+cooking; deli
+la gastronomia
+
+round-about
+la rotunda
+
+cover charge
+il coperto
+
+rocket
+il razzo
+
+competition
+la concorrenza
+
+reliable
+affidabile
+
+shark
+lo squalo
+
+baking soda
+il bicarbonato di sodio
+
+baking powder
+il lievito in polvere
+
+coward (starts with v)
+il vigliacco
+
+coward (starts with c)
+il codardo
+
+arrow
+la freccia
+
+beach towel
+il telo mare
+
+knoll
+il poggio
+
+rusty
+arrugginito
+
+to look good
+gardarsi bene
+
+almond
+la mandorla
+
+volleyball (starts with p)
+il pallavolo
+
+volleyball (starts with v)
+il volley
+
+short-term
+a breve termine

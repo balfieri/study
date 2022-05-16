@@ -490,9 +490,6 @@ il semaforo
 ramp (highway)
 la rampa
 
-to follow
-proseguire
-
 toward
 verso
 
@@ -570,9 +567,6 @@ il volo
 
 to fly
 volare
-
-to land
-atterare
 
 entrance
 l'ingresso
@@ -652,9 +646,6 @@ quelli
 which
 quale
 
-gas station
-il benzinaio
-
 supermarket
 il supermercato
 
@@ -663,9 +654,6 @@ il cibo
 
 cuisine; cooking; kitchen
 la cucina
-
-cooking; deli
-la gastronomia
 
 central market
 il mercato centrale
@@ -720,9 +708,6 @@ salato
 
 cooked
 cotto
-
-round-about
-la rotunda
 
 to take the second exit
 prendere la seconda uscita
@@ -829,9 +814,6 @@ aperto
 closed
 chiuso
 
-cover charge
-il coperto
-
 outside
 fuori
 
@@ -867,9 +849,6 @@ l'osteria
 
 store
 il negozio
-
-rocket
-il razzo
 
 to launch
 lanciare
@@ -915,9 +894,6 @@ ridere
 
 to smile
 sorridere
-
-mamma's boy
-il mammone
 
 job
 il lavoro
@@ -993,15 +969,6 @@ l'olio d'oliva
 
 vinegar
 l'aceto
-
-tire (for car)
-il pneumatico
-
-rubber
-la gomma
-
-steel
-l'acaio
 
 pan
 la padella
@@ -1252,9 +1219,6 @@ il pane
 butter
 il burro
 
-jelly; jam
-la marmelata
-
 credit card
 la carta di credito
 
@@ -1285,12 +1249,6 @@ la finestra
 door
 la porta
 
-ceiling
-il soffito
-
-roof
-il tetto
-
 floor
 il piano
 
@@ -1320,9 +1278,6 @@ il frigo
 
 refrigerator
 il frigorifero
-
-dryer
-l'asciugatrice
 
 oven
 il forno
@@ -1435,18 +1390,6 @@ la verdura
 apple
 il mele
 
-apricot
-l'albicocca
-
-pineapple
-l'ananas
-
-plum
-la prugna
-
-prune
-la prugna secca
-
 dry
 secco
 
@@ -1470,9 +1413,6 @@ la bocca
 
 hole
 il buco
-
-penis
-il pene
 
 belt
 la cintura
@@ -1501,9 +1441,6 @@ la felpa
 money
 i soldi
 
-to shriek
-strillare
-
 to scream
 urlare
 
@@ -1525,9 +1462,6 @@ la gara
 race (human)
 la razza
 
-competition
-la concorrenza
-
 lane
 la corsia
 
@@ -1537,17 +1471,11 @@ la multa
 cable
 il cavo
 
-reliable
-affidabile
-
 seatbelt
 la cintura di sicurezza
 
 lighthouse
 il faro
-
-shark
-lo squalo
 
 hurricane
 l'uragano
@@ -1564,23 +1492,8 @@ il satellite
 syrup
 lo sciroppo
 
-baking soda
-il bicarbonato di sodio
-
-baking powder
-il lievito in polvere
-
 engaged; busy
 impegnato
-
-coward (starts with v)
-il vigliacco
-
-coward (starts with c)
-il codardo
-
-arrow
-la freccia
 
 uppercase
 maiuscolo
@@ -1590,12 +1503,6 @@ minuscolo
 
 towel
 l'asciugamano
-
-beach towel
-il telo mare
-
-knoll
-il poggio
 
 dishwasher
 la lavastoviglie
@@ -1657,9 +1564,6 @@ i forbici
 stale
 stantio
 
-rusty
-arrugginito
-
 cone
 il cono
 
@@ -1669,17 +1573,11 @@ comprese
 beef
 il manzo
 
-picky
-esigente
-
 pork
 carne di maiale
 
 to shoot
 sparare
-
-to look good
-gardarsi bene
 
 to look like
 assomigliare a
@@ -1734,9 +1632,6 @@ la mattina
 
 tomato
 il pomodoro
-
-almond
-la mandorla
 
 good night
 buona notte
@@ -1833,12 +1728,6 @@ volere
 
 will (n)
 la voglia
-
-volleyball (starts with p)
-il pallavolo
-
-volleyball (starts with v)
-il volley
 
 to kick
 calciare
@@ -1951,9 +1840,6 @@ l'angolo
 to hide (intr)
 nascondersi
 
-at that point
-a quel punto
-
 well...; at that time
 allora
 
@@ -1977,9 +1863,6 @@ la schiena
 
 homework
 i compiti per casa; i compiti
-
-short-term
-a breve termine
 
 straight; straight ahead
 dritto
