@@ -7737,3 +7737,9 @@ la paracadute
 
 neighborhood
 quartiere
+
+car salesman
+il venditore d'auto
+
+undercurrent; background
+il sottofondo
