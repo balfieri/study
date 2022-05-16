@@ -3481,7 +3481,7 @@ la svista
 scheme; plot; conspiracy
 il complotto; la cospirazione
 
-to flog
+to whip; to flog
 frustare
 
 pilgrim
@@ -7848,3 +7848,18 @@ il presentatore
 
 it's on the tip of my tongue
 ce l'ho sulla punta della lingua
+
+caboose
+la cambusa
+
+rear end
+il deretano; il sedere
+
+charity
+la carità
+
+instinctive
+istitivo
+
+source of strength
+la fonte di forza
