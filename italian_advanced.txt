@@ -4828,9 +4828,6 @@ attendere
 to precede
 precedere
 
-premere
-to press
-
 to claim
 pretendere
 
@@ -5277,9 +5274,6 @@ l'intesa
 
 careless; reckless
 incurante
-
-insanity; madness
-la follia
 
 to break it off
 troncare
@@ -7827,3 +7821,18 @@ denigrare
 
 to belittle; to downplay; to devalue
 sminuire
+
+expiration
+la scadenza
+
+purposely; intentionally; deliberately; on purpose
+intenzionalmente; deliberatamente; apposta
+
+put to the test
+messo alla prova
+
+to project
+proiettare
+
+madness; insanity
+la follia; la pazzia
