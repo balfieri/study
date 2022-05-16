@@ -40,7 +40,7 @@ count = 100
 today = datetime.date.today()
 year = today.year - 2000
 month = today.month
-day = today.day + 1
+day = today.day
 seed = year*10000 + month*100 + day
 seed *= 10000
 
