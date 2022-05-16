@@ -11,8 +11,8 @@ import string
 import re
 import datetime
 
-subjects = [ [ 'italian_advanced',      '#53af8b' ],
-             [ 'italian_basic',         '#a99887' ],
+subjects = [ [ 'italian_basic',         '#a99887' ],
+             [ 'italian_advanced',      '#53af8b' ],
              [ 'italian_expressions',   '#587a8f' ],
              [ 'italian_vulgar',        '#95b8e3' ] ]
 
