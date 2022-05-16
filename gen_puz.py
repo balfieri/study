@@ -185,6 +185,7 @@ common_words = { 'avere': 1,
                  'area': 1,
                  'golf': 1,
                  'ieri': 1,
+                 'ecco': 1,
 
                  'than': 1,
                  'each': 1,
@@ -194,6 +195,8 @@ common_words = { 'avere': 1,
                  'must': 1,
                  'here': 1,
                  'bass': 1,
+                 'take': 1,
+                 'away': 1,
                }
 
 words = []
@@ -237,7 +240,7 @@ for x in range(side):
         clue_grid[x].append( {} )
 
 words_used = {}
-large_frac = (0 + rand_n( 100 )) / 100.0
+large_frac = (0 + rand_n( 80 )) / 100.0
 attempts_large = int( attempts * large_frac )
 for i in range(attempts):
     wi = rand_n( word_cnt )
