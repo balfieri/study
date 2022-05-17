@@ -2496,3 +2496,171 @@ il vicolo
 
 main street; avenue
 il corso
+
+hospital
+l'ospedale
+
+supermarket
+il supermercato
+
+school
+la scuola
+
+post office
+l'ufficio postale
+
+police station
+il commissariato di polizia
+
+restaurant
+il ristorante
+
+market
+mercatino 
+
+bookstore; bookshop
+la libreria 
+
+church
+la chiesa 
+
+stadium
+lo stadio 
+
+city hall
+il municipio 
+
+ticket office
+la biglietteria 
+
+bus station
+la stazione degli autobus
+
+movie theater
+cinema 
+
+airport
+l'aeroporto 
+
+disco; discoteque
+la discoteca 
+
+hotal
+l'albergo 
+
+theatre
+il teatro
+
+gas station
+il distributore di benzina
+
+bank
+banca
+
+museum
+il museo
+
+parking lot
+il parcheggio 
+
+cathedral
+il cattedrale
+
+store
+il negozio
+
+train station
+la stazione ferroviaria 
+
+bus stop
+la fermata dell’autobus
+
+car
+la macchina; l'auto 
+
+moped
+il motorino 
+
+bus
+l'autobus 
+
+boat
+la barca 
+
+ship
+la nave 
+
+motorcycle
+la motocicletta 
+
+bicycle
+la bicicletta 
+
+train
+il treno 
+
+ferry
+il traghetto 
+
+airplane
+l'aereo
+
+far
+lontano 
+
+here
+qui
+
+in front of
+davanti a 
+
+di fronte a 
+opposite
+
+on the left; to the left
+a sinistra 
+
+in the center; downtown
+al centro 
+
+above
+sopra
+
+inside
+dentro 
+
+straight
+dritto 
+
+everywhere
+dappertutto
+
+near
+vicino 
+
+next to
+accanto a 
+
+behind
+dietro 
+
+around; about
+attorno 
+
+on the right; to the right
+a destra 
+
+on the corner
+all’angolo 
+
+under
+sotto 
+
+outside
+fuori
+
+turn
+giro
+
+nowhere
+da nessuna parte
