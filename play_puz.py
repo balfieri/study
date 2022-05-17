@@ -35,7 +35,7 @@ side = 15
 seed = int( time.time() )
 reverse = 0
 
-i = 2
+i = 1
 while i < len( sys.argv ):
     arg = sys.argv[i]
     i += 1

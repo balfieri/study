@@ -1,77 +1,11 @@
 #
 # Italian - mostly basic, some intermediate
 #
-to have
-avere
-
-I have
-io ho
-
-you have
-tu hai
-
-he has
-lui ha
-
-she has
-lei ha
-
-we have
-noi abbiamo
-
-you all have
-voi avete
-
-they have
-loro hanno
-
 to be (intrinsic)
 essere
 
 to be (feel); to stay
 stare
-
-I am
-io sono
-
-you are
-tu sei
-
-he is
-lui è
-
-she is
-lei è
-
-we are
-noi siamo
-
-you all are
-voi siete
-
-they are
-loro sono
-
-to go
-andare
-
-I go
-io vado
-
-you go
-tu vai
-
-he goes
-lui va
-
-we go
-noi andiamo
-
-you all go
-voi andate
-
-they go
-loro vanno
 
 to eat
 mangiare
@@ -85,53 +19,29 @@ guidare
 to sing
 cantare
 
-I like it
-mi piace
+to please; to be pleasing
+piacere
 
-I like them
-mi piacciono
+to hate
+odiare
 
-I would like (it)
-mi piacerebbe
+to love (romantic)
+amare
 
-horse
-il cavallo
+to love (non-romantic)
+volere bene
 
-I like to ride horses
-mi piace guidare i cavalli
+to adore
+adorare
 
-I like to play the violin
-mi piace suonare il violino
+nice
+gentile
 
-I like to play vollyball
-mi piace giocare al pallavolo
+calm
+calmo
 
-I like my friends (who are girls)
-mi piacciono le mie amiche
-
-I like my friends (some are boys)
-mi piacciono i miei amici
-
-I hate my boyfriend
-odio il mio ragazzo
-
-I love my boyfriend
-amo il mio ragazzo
-
-I love my daddy
-voglio bene al mio babbo
-
-I adore my parents
-adoro i miei genitori
-
-my mother is nice
-mia madre è gentile
-
-my father is calm
-mio padre è calmo
-
-my dog is white
-il mio cane è bianco
+white
+bianco
 
 hi (bye)
 ciao
@@ -239,7 +149,7 @@ hard
 duro
 
 speed
-la velocita'
+la velocità
 
 street
 la strada
@@ -1700,7 +1610,7 @@ chapel
 la capella
 
 city
-la citta'
+la città
 
 common (adj)
 comune
