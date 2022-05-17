@@ -210,6 +210,7 @@ common_words = { 'avere': 1,
                  'bass': 1,
                  'take': 1,
                  'away': 1,
+                 'club': 1,
                }
 
 words = []
