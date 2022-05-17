@@ -2661,3 +2661,237 @@ giro
 
 nowhere
 da nessuna parte
+
+dog
+il cane 
+
+horse
+il cavallo 
+
+lamb
+l'agnello 
+
+cow
+la mucca 
+
+pig
+il maiale 
+
+bird
+l'uccello 
+
+hen
+la gallina 
+
+goose
+l'oca 
+
+il 
+pulcino 
+
+fly
+la mosca 
+
+bee
+l'ape
+
+cat
+il gatto 
+
+donkey
+l'asino 
+
+sheep
+la pecora 
+
+calf; veal
+il vitello 
+
+rabbit
+il coniglio 
+
+goat
+l'anatra 
+
+rooster
+il gallo 
+
+turkey
+il tacchino 
+
+fish
+il pesce 
+
+mosquito
+la zanzara
+
+fork
+la forchetta 
+
+knife
+il coltello 
+
+cup; coffee cup
+la tazza 
+
+bowl
+la scodella 
+
+napkin
+il tovagliolo 
+
+refrigerator
+il frigorifero
+
+spoon
+il cucchiaio
+
+plate; dish
+il piatto
+
+glass; drinking glass
+il bicchiere 
+
+tablecloth
+la tovaglia 
+
+paper towels
+i tovaglioli di carta 
+
+pantry
+la dispensa
+
+ham
+il prosciutto 
+
+pork
+il maile
+
+sausage
+la salsiccia 
+
+orange
+l'arancia
+
+strawberry
+la fragola
+
+grape
+l'uva
+
+chicken
+il pollo 
+
+steak
+la bistecca 
+
+apple 
+la mela
+
+pear
+la pera 
+
+blueberry
+il mirtillo 
+
+lemon
+il limone 
+
+cherry 
+la ciliegia 
+
+cherry tomato
+il pomodorino 
+
+carrot
+la carota 
+
+potato
+la patata 
+
+eggplant
+la melanzana 
+
+salad
+l'insalata 
+
+soup
+la zuppa 
+
+juice
+il succo 
+
+jam
+la marmellata 
+
+garlic
+l'aglio 
+
+cheese
+il formaggio 
+
+venegar
+l'aceto 
+
+sugar
+lo zucchero 
+
+pepper (spice)
+il pepe
+
+flour
+la farina 
+
+cereal
+i cereali 
+
+vegetable
+la verdura
+
+fig
+il fico
+
+tomato
+il pomodoro 
+
+onion
+la cipolla 
+
+zucchini
+il zucchine 
+
+mushroom
+il fungo 
+
+pepper (vegetable)
+il peperone 
+
+desert
+il dolce
+
+milk
+il latte
+
+butter
+il burro
+
+egg
+l'uovo
+
+oil
+l'olio
+
+honey
+il miele
+
+salt
+il sale
+
+bread
+il pane
+
+rice
+il riso
+
+fruit
+la frutta
