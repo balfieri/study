@@ -1609,9 +1609,6 @@ il torre
 chapel
 la capella
 
-city
-la città
-
 common (adj)
 comune
 
