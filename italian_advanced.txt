@@ -7903,3 +7903,8 @@ frettoloso
 asylum; lunatic asylum
 il manicomo
 
+antisocial
+asociale
+
+circumstance; situation
+la circostanza
