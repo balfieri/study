@@ -2390,7 +2390,7 @@ country
 la campagna 
 
 city
-la città
+la città
 
 north
 il nord

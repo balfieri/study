@@ -272,7 +272,7 @@ for i in range(attempts):
         for y in range(side):
             if (x + word_len) <= side:
                 # score across
-                score = 2 if y == 0 or y == (side-1) else 1 
+                score = 5 if y == 0 or y == (side-1) else 1 
                 if x == 0 or (x+word_len-1) == (side-1): score += 1
                 for ci in range(word_len):
                     if across_grid[x+ci][y] != '-' or \
@@ -297,7 +297,7 @@ for i in range(attempts):
 
             if (y + word_len) <= side:
                 # score down
-                score = 2 if x == 0 or x == (side-1) else 1 
+                score = 5 if x == 0 or x == (side-1) else 1 
                 if y == 0 or (y+word_len-1) == (side-1): score += 1
                 for ci in range(word_len):
                     if down_grid[x][y+ci] != '-' or \
