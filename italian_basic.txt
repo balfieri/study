@@ -142,11 +142,14 @@ la stracciatella
 I am ready
 sono pronto
 
-soft
+soft; tender
 morbido
 
-hard
+hard; tough
 duro
+
+hard; hard-boiled; lean
+sodo
 
 speed
 la velocità
@@ -154,11 +157,11 @@ la velocità
 street
 la strada
 
-way
+way (street)
 la via
 
-building
-l'edificio
+way (of doing)
+il modo
 
 so much
 tanto
@@ -215,16 +218,10 @@ short (person's height); low
 basso
 
 to play (a game or sport)
-giocare
-
-to play golf
-giocare a golf
+giocare a
 
 to play (an instrument)
 suonare
-
-to play the violin
-suonare il violino
 
 to speak loudly
 parlare ad alta voce
@@ -370,7 +367,7 @@ la chiesa
 bus
 l'autobus
 
-tip
+tip (for bill)
 la mancia
 
 bill
@@ -379,8 +376,11 @@ il conto
 table
 il tavolo
 
-spoon
+spoon; tablespoon
 il cucchiaio
+
+teaspoon
+il cucchiaino
 
 fork
 la forchetta
@@ -463,8 +463,8 @@ sopratutto
 while (doing something)
 mentre
 
-ok (starts with v)
-va bene
+ok
+va bene; ok
 
 how goes it?
 come va?
@@ -1455,6 +1455,9 @@ la sfoga
 
 slice
 la fetta
+
+to slice
+affettare
 
 to bite
 mordare
