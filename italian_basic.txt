@@ -2895,3 +2895,201 @@ il riso
 
 fruit
 la frutta
+
+modern
+moderno 
+
+new
+nuovo
+
+open
+aperto
+
+on; turned on
+acceso
+
+valid
+valido
+
+big
+grande 
+
+busy; occupied
+occupato
+
+hot
+caldo
+
+rich
+ricco
+
+expensive; dear
+caro
+
+full
+pieno
+
+comfortable
+comodo
+
+wide
+largo
+
+easy
+facile 
+
+numerous
+numeroso
+
+useful
+utile
+
+strong
+forte
+
+noisy
+rumoroso 
+
+guilty
+colpevole 
+
+original
+originale 
+
+simple; easy
+semplice 
+
+necessary
+necessario 
+
+wet
+bagnato
+
+right; just
+giusto
+
+true
+vero
+
+heavy
+pesante
+
+early
+in anticipo
+
+on time
+in orario 
+
+clean 
+pulito
+
+fast
+rapido; veloce 
+
+long
+lungo
+
+striped
+a righe 
+
+polka dotted
+a pois
+
+old
+antico; vecchio
+
+closed
+chiuso
+
+off; turned off
+spento 
+
+expired
+scaduto 
+
+small
+piccolo
+
+free
+libero; gratis
+
+cold
+freddo
+
+poor
+povero 
+
+inexpensive; cheap
+economico 
+
+empty 
+vuoto 
+
+uncomfortable
+scomodo 
+
+narrow
+stretto 
+
+difficult; hard
+difficile
+
+a bit
+poco 
+
+few
+pochi
+
+useless
+inutile
+
+weak
+debole 
+
+peaceful; quiet
+tranquillo 
+
+silent; quiet
+silenzioso
+
+innocent
+innocente 
+
+elegant
+elegante 
+
+indispensable
+indispensabile 
+
+dry
+asciutto 
+
+wrong; mistaken
+sbagliato 
+
+false
+falso
+
+light
+leggero 
+
+late 
+in ritardo 
+
+crowded
+affollato 
+
+dirty
+sporco 
+
+slow
+lento 
+
+short
+corto
+
+checkered
+scacchi
+
+plain (adj)
+in tinta unita; semplice
