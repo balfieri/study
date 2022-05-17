@@ -3093,3 +3093,57 @@ scacchi
 
 plain (adj)
 in tinta unita; semplice
+
+soccer; football (European)
+il calcio 
+
+basketball
+il pallacanestro 
+
+swimming
+il nuoto
+
+diving
+i tuffi
+
+skiing
+lo sci
+
+gymnastics
+la ginnastica 
+
+track (sport)
+la corsa
+
+high jumping
+il salto in alto 
+
+cycling
+il ciclismo 
+
+auto racing
+l'automobilismo 
+
+sailing
+il avela
+
+fencing
+la scherma 
+
+baseball
+il baseball 
+
+tennis
+il tennis 
+
+rugby
+il rugby 
+
+windsurfing
+il windsurf 
+
+ping poing
+il ping pong 
+
+karate
+il karate
