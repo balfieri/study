@@ -3243,3 +3243,6 @@ il capitolo
 
 mad; crazy
 matto
+
+subtitles
+i sottotitoli
