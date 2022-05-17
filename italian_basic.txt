@@ -743,10 +743,10 @@ under
 sotto
 
 down
-giu'
+giù
 
 down below; downstairs
-di giu'
+di giù
 
 up above; upstairs
 di sopra
@@ -839,7 +839,7 @@ sauce
 il sugo
 
 meat sauce
-il ragu'
+il ragù
 
 cream
 la panna
@@ -1082,7 +1082,7 @@ blood
 il sangue
 
 Jesus
-Gesu'
+Gesù
 
 sister
 la sorella
@@ -1559,7 +1559,7 @@ it takes; it requires
 ci vuole
 
 more or less
-piu' o meno
+più o meno
 
 it's not a big deal
 non è un gran che
