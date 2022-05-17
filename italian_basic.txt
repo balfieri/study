@@ -2154,3 +2154,222 @@ la casalinga
 
 boss
 il capo
+
+ceiling
+il soffitto
+
+carpet
+il tappeto
+
+lamp
+la lampada
+
+door
+la porta
+
+bookshelf
+la mensola (per libri) 
+
+chair
+la sedia
+
+couch
+il divano 
+
+wardrobe
+l'armadio 
+
+desk
+la scrivania 
+
+television
+la televisione 
+
+vcr/tape recordere
+il registratore 
+
+keyboard
+la tastiera 
+
+blackboard
+la lavagna
+
+whiteboard
+la lavagna bianca
+
+floor
+il pavimento 
+
+chest of drawers
+la cassettiera 
+
+fan
+il ventilatore 
+
+window
+la finestra 
+
+curtain
+la tenda 
+
+arm chair
+la poltrona 
+
+painting
+lo quadro 
+
+dresser
+la credenza 
+
+big desk
+la cattedra 
+
+remote control
+il telecomando 
+
+watch
+l'orologio 
+
+trash can
+il cestino 
+
+eraser
+la gomma
+
+room
+la stanza 
+
+bedroom
+la camera 
+
+kitchen; cuisine
+la cucina 
+
+living room
+il salotto 
+
+study (room)
+lo studio 
+
+garage
+il garage 
+
+bathroom
+il bagno
+
+ground floor
+il piano terra
+
+floor
+il piano
+
+guest bedroom; spare bedroom
+la camera degli ospiti 
+
+terrace
+la terrazza
+
+dining room
+la sala da pranzo 
+
+living room; family room; residence
+il soggiorno 
+
+laundry room
+la lavanderia
+
+roof
+il tetto
+
+upstairs (n)
+il piano di sopra
+
+sky
+il cielo
+
+sun
+il sole 
+
+mountain
+la montagna 
+
+hill
+la collina 
+
+plain
+la pianura 
+
+forest
+il bosco 
+
+bush
+il cespuglio 
+
+field
+il campo
+
+sea
+il mare 
+
+beach
+la spiaggia 
+
+bank (of river)
+la sponda 
+
+river
+il fiume 
+
+lake
+il lago 
+
+rock
+la roccia 
+
+park
+il parco
+
+star
+la stella 
+
+moon
+la luna 
+
+summit; top
+la cima 
+
+peak
+la vetta 
+
+valley
+la valle 
+
+tree
+l’albero 
+
+flower
+il fiore 
+
+lawn; grass; meadow
+il prato
+
+coast
+la costa 
+
+sand
+la sabbia 
+
+bank; shore
+la riva 
+
+stream
+il ruscello 
+
+pond
+il laghetto 
+
+waterfall
+la cascata 
+
+garden
+il giardino
