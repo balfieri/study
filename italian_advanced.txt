@@ -1975,8 +1975,11 @@ la scommessa
 to hope
 auguriaresi
 
-to foresee
+to foresee; to predict
 prevedere
+
+foreseen; predicted; expected
+previso
 
 adversity; accident
 la sciagura
@@ -5416,9 +5419,6 @@ paesaggistico
 worsening
 l'inasprimento
 
-imprisonment
-la reclusione
-
 humorous (book)
 umoristico
 
@@ -7863,3 +7863,43 @@ la fonte di forza
 
 in May of '68
 nel maggio del '68
+
+pillow; cushion
+il guanciale
+
+cooking pot; pot; cauldron
+il paiolo
+
+to unhinge
+scardinare
+
+scardinato
+unhinged
+
+panther; leopard
+la pantera
+
+pin cushion; pad
+il cuscinetto
+
+papier-maché
+la cartapesta
+
+imprisonment; confinement; prison
+la reclusione
+
+to reconcile
+conciliare
+
+cohabitation; coexistence; living together
+la convivenza
+
+vigour; strength; force
+il vigore
+
+hasty; hurried; rash
+frettoloso
+
+asylum; lunatic asylum
+il manicomo
+
