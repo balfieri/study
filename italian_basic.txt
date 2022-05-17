@@ -3147,3 +3147,93 @@ il ping pong
 
 karate
 il karate
+
+volleyball
+il pallavolo 
+
+water polo
+il pallanuoto 
+
+skating
+il pattinaggio 
+
+cross-country skiing
+lo sci di fondo
+
+horseback riding
+l'equitazione 
+
+hurdles
+la corsa ad ostacoli 
+
+long jump
+il salto in lungo 
+
+motorcycle racing
+il motociclismo
+
+rowing
+il canottaggio 
+
+boxing
+il pugilato
+
+football (American)
+il football americano 
+
+golf
+il golf
+
+hockey
+il hockey 
+
+bobsledding
+il bob 
+
+squash
+lo squash 
+
+judo
+il judo
+
+skates
+i pattini
+
+bicycle
+la bicicletta
+
+canoie
+la canoa
+
+sail
+la vela
+
+foil
+il fioretto
+
+pool
+la piscina
+
+ball
+il pallone
+
+weights
+i pesi
+
+skis
+gli sci 
+
+surf board
+la tavola 
+
+sword
+la spada 
+
+racket
+la racchetta 
+
+little ball
+la pallina 
+
+boxing gloves
+guantoni
