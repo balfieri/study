@@ -2373,3 +2373,126 @@ la cascata
 
 garden
 il giardino
+
+planet
+il pianeta
+
+world
+il mondo
+
+peninsola
+la penisola 
+
+ocean
+l’oceano
+
+country
+la campagna 
+
+city
+la città
+
+north
+il nord
+
+south
+il sud
+
+east (n)
+l'est
+
+east (adj)
+orientale
+
+west (n)
+l'ovest
+
+west (adj)
+occidentale
+
+Earth
+la Terra
+
+continent
+il continente 
+
+island
+l’isola
+
+country; village
+il paese
+
+compass (directions)
+i punti cardinali; la bussola 
+
+building
+l'edificio 
+
+statue
+la statua 
+
+fountain
+la fontana 
+
+sidewalk
+il marciapiede 
+
+flower bed
+l'aiuola 
+
+quarter; neighborhood
+il quartiere 
+
+traffic
+il traffico 
+
+square (gathering place)
+la piazza 
+
+village; district
+il borgo 
+
+street
+la strada 
+
+entrance
+l'ingresso 
+
+exit
+l'uscita
+
+building; palace
+il palazzo 
+
+bridge
+il ponte 
+
+monument
+il monumento 
+
+downtown; center
+il centro 
+
+historic center
+il centro storico 
+
+bench
+la panchina 
+
+billboard 
+il tabellone 
+
+inhabitants
+gli abitanti 
+
+traffic light
+il semaforo 
+
+small square
+il margo
+
+alley; lane
+il vicolo 
+
+main street; avenue
+il corso

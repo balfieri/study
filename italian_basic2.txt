@@ -1,2 +1,0 @@
-# words that will make it into italian_basic.txt
-#
