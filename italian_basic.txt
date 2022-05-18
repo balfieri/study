@@ -3437,19 +3437,19 @@ tired
 stanco
 
 Monday
-lunedì 
+lunedì
 
 Tuesday
-martedì 
+martedì
 
 Wednesday
-mercoledì 
+mercoledì
 
 Thursday
-giovedì 
+giovedì
 
 Friday
-venerdì 
+venerdì
 
 Saturday
 sabato 
