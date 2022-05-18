@@ -7908,3 +7908,9 @@ il saggio di danza
 
 sentence; conviction; condemnation
 la condanna
+
+trick question
+la domanda a trabocchetto
+
+implicit
+implicito
