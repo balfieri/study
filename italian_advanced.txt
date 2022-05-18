@@ -7905,3 +7905,6 @@ la circostanza
 
 dance recital
 il saggio di danza
+
+sentence; conviction; condemnation
+la condanna
