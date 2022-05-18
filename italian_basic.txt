@@ -3954,3 +3954,261 @@ mentire
 
 to absorb
 assorbire
+
+to understand
+capire
+
+to clean
+pulire
+
+to prefer
+preferire
+
+to refer; to report
+riferire
+
+to hit
+colpire
+
+to clarify
+chiarire
+
+to vanish
+sparire
+
+to digest
+digerire
+
+to act
+agire
+
+to bury
+seppellire
+
+to diminish
+diminuire
+
+to suggest
+suggerire
+
+to stupify; to be amazed
+stupire
+
+to obey
+obbedire
+
+to exhaust
+esaurire
+
+to construct
+costruire
+
+to guard
+custodire
+
+to cure
+guarire 
+
+to cough
+tossire
+
+to finish
+finire
+
+to send
+spedire
+
+to unit
+unire
+
+to impede
+impedire
+
+to define
+definire
+
+to suffer
+subire
+
+to favor
+favorire
+
+to attribute
+attribuire
+
+to guarantee
+garantire
+
+to contribute
+contribuire
+
+to get thinner
+dimagrire
+
+to insert
+inserire
+
+to return
+restituisco 
+
+to grant
+esaudire
+
+to institute
+istituire
+
+to demolish
+demolire
+
+to confer; to give
+conferire
+
+to go crazy over
+impazzire
+
+to remember
+ricordarsi di 
+
+to stop
+fermarsi 
+
+to get tired of
+stancarsi di 
+
+to prepare for
+prepararsi 
+
+to put on
+mettersi 
+
+to get married
+sposarsi 
+
+to worry 
+preoccuparsi 
+
+to wake up
+svegliarsi 
+
+to go to sleep
+addormentarsi 
+
+to take a seat
+accomodarsi 
+
+to hug
+abbracciarsi 
+
+to love
+amarsi 
+
+to get angry
+arrabbiarsi 
+
+to call oneself; to be called
+chiamarsi 
+
+to meet
+conoscersi 
+
+to enjoy oneself; to have fun
+divertirsi 
+
+to pledge; to commit
+impegnarsi 
+
+to complain
+lamentarsi 
+
+to shave
+radersi 
+
+to brush
+spazzolarsi 
+
+to be ashamed
+vergognarsi 
+
+to tan
+abbronzarsi 
+
+to introduce; to present
+presentarsi 
+
+to picture oneself
+immaginarsi 
+
+to make a mistake; to be mistaken
+sbagliarsi
+
+to find oneself
+trovarsi 
+
+to rest
+riposarsi 
+
+to enjoy; to have fun
+divertirsi 
+
+to meet
+incontrarsi 
+
+to sit down
+sedersi 
+
+to occupy; to be interested in
+occuparsi di 
+
+to show interest in
+interessarsi 
+
+to rise; to get up
+alzarsi
+
+to feel
+sentirsi 
+
+to become ill
+ammalarsi 
+
+to kiss
+baciarsi 
+
+to get bored
+annoiarsi 
+
+to get used to
+abituarsi a 
+
+to behave
+comportarsi 
+
+to forget to
+dimenticarsi di 
+
+to fall in love
+innamorarsi 
+
+to do one's makeup
+truccarsi 
+
+to relax
+rilassarsi 
+
+to comb
+pettinarsi 
+
+to get dressed
+vestirsi 
+
+to shut up
+azzittirsi 
+
+to turn (around)
+girarsi 
+
+to express
+esprimersi 
+
+to get engaged
+fidanzarsi
