@@ -4386,3 +4386,12 @@ pianto
 
 to practice Italian
 fare pratica con l'italiano
+
+scene
+la scena
+
+to cook (the art)
+cucinare
+
+to cook (the menial task)
+cuocere
