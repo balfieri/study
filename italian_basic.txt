@@ -3747,3 +3747,210 @@ riservare
 
 to be lacking; to be absent; to be missing
 mancare
+
+to see
+vedere 
+
+to put; to place
+mettere 
+
+to turn on
+accendere 
+
+to close
+chiudere 
+
+to receive
+ricevere 
+
+to understand; to comprehend
+comprendere 
+
+to sell
+vendere 
+
+to wait for
+attendere 
+
+to know
+conoscere 
+
+to lose
+perdere 
+
+to render
+rendere 
+
+to stop
+smettere 
+
+to laugh
+ridere 
+
+to permit
+permettere 
+
+to smile
+sorridere 
+
+to push
+spingere 
+
+to conclude
+concludere 
+
+to resolve
+risolvere 
+
+to convince
+convincere 
+
+to choose
+scegliere 
+
+to paint; to depict
+dipingere 
+
+to move
+muovere 
+
+to deceive 
+trarre 
+
+to defeat; to overcome
+sconfiggere
+
+to take
+prendere 
+
+to respond
+rispondere 
+
+to turn off
+spegnere 
+
+to write
+scrivere 
+
+to read
+leggere 
+
+to repeat
+ripetere 
+
+to ask 
+chiedere 
+
+to believe
+credere 
+
+to live
+vivere 
+
+to win
+vincere 
+
+to run
+correre 
+
+to join; to arrive at
+giungere 
+
+to cry
+piangere 
+
+to promise
+promettere 
+
+to force; to constrain
+costringere 
+
+to divide; to share (something)
+dividere 
+
+to possess
+possedere 
+
+to allow; to concede
+concedere 
+
+to offend
+offendere 
+
+to translate
+tradurre 
+
+to attend
+assistere 
+
+to express
+esprimere 
+
+to break
+rompere 
+
+to decide
+decidere
+
+to feel; to sense
+sentire 
+
+to sleep
+dormire 
+
+to serve
+servire 
+
+to cover
+coprire 
+
+to suffer
+soffrire 
+
+to amuse
+divertire 
+
+to agre
+acconsentire 
+
+to continue
+proseguire 
+
+to applaud
+applaudire 
+
+to feed
+nutrire 
+
+to loath
+aborrire
+
+to open
+aprire 
+
+to leave
+partire 
+
+to offer
+offrire 
+
+to discover; to uncover
+scoprire 
+
+to dress
+vestire 
+
+to consent
+consentire 
+
+to execute; to perform
+eseguire 
+
+to invest
+investire 
+
+to lie
+mentire 
+
+to absorb
+assorbire
