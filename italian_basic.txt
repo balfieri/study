@@ -469,9 +469,6 @@ va bene; ok
 how goes it?
 come va?
 
-plane (air)
-l'aero
-
 flight
 il volo
 
@@ -2602,7 +2599,7 @@ il treno
 ferry
 il traghetto 
 
-airplane
+plane; airplane
 l'aereo
 
 far
