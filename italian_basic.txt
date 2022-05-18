@@ -4212,3 +4212,177 @@ esprimersi
 
 to get engaged
 fidanzarsi
+
+to go
+andare 
+
+to have
+avere 
+
+to drink
+bere 
+
+to give
+dare 
+
+to say; to tell
+dire 
+
+to have to; to must
+dovere
+
+to be
+essere 
+
+to make; to do
+fare 
+
+to die
+morire 
+
+to appear; to seem
+parere
+
+to please
+piacere 
+
+to put; to place
+porre 
+
+to be able to
+potere 
+
+to stay; to remain
+rimanere
+
+to go up; to ascend; to get into; to mount
+salire
+
+to know
+sapere 
+
+to sit
+sedere 
+
+to be 
+stare 
+
+to keep
+tenere
+
+to remove; to take away
+togliere
+
+to translate
+tradurre 
+
+to hear
+udire 
+
+to go out; to exit
+uscire 
+
+to come
+venire 
+
+to want
+volere
+
+turned on
+acceso
+
+noticed
+accorto
+
+drank
+bevuto
+
+asked
+chiesto
+
+closed
+chiuso
+
+ran
+corso
+
+decided
+deciso
+
+said
+detto
+
+divided; shared
+ho diviso
+
+was
+stato
+
+done; did; made
+fatto
+
+read (past participle)
+letto
+
+placed
+messo
+
+dead
+morto 
+
+born
+nato
+
+offended
+offeso
+
+offerred
+offerto
+
+lost
+perso
+
+took; taken
+preso
+
+remained
+rimasto 
+
+broken
+rotto
+
+chosen
+scelto
+
+writen
+scritto
+
+turned off; spent
+spento
+
+succeeded
+successo 
+
+translated
+tradotto
+
+seen
+visto
+
+came
+venuto
+
+won
+vinto
+
+lived
+vissuto
+
+laughed
+riso
+
+pleased
+piaciuto 
+
+cried
+pianto
