@@ -3046,9 +3046,6 @@ pochi
 useless
 inutile
 
-weak
-debole 
-
 peaceful; quiet
 tranquillo 
 
@@ -3249,3 +3246,279 @@ matto
 
 subtitles
 i sottotitoli
+
+sun
+il sole 
+
+rain
+la pioggia 
+
+snow
+la neve 
+
+wind
+il vento
+
+cloud
+la nuvola 
+
+fog 
+la nebbia 
+
+hail
+il grandine 
+
+it's nice (weather)
+fa bello; fa bel tempo
+
+humid
+umido
+
+it's hot (weather)
+fa caldo
+
+it's warm (weather)
+fa bel tempo 
+
+thunder
+il tuono
+
+bright
+luminoso 
+
+storm
+il temporale
+
+it's raining
+piove
+
+it's snowing
+nevica
+
+it's windy
+c'è vento; tira vento
+
+cloudy
+nuvoloso
+
+stormy
+tempestoso; burrascoso
+
+it's bad (weather)
+fa brutto tempo
+
+muggy
+afoso
+
+it's cold (weather)
+fa freddo
+
+it's freezing
+si gela
+
+lighting
+il fulmine
+
+dark
+buio
+
+variable; changeable
+variabile
+
+head
+la testa 
+
+ear
+l'orecchio 
+
+mouth
+la bocca 
+
+arm
+il braccio 
+
+hand
+il mano 
+
+chest
+il petto 
+
+teeth
+i denti
+
+face
+la faccia 
+
+nose
+il naso 
+
+eye
+l'occhio 
+
+leg
+la gamba 
+
+foot
+il piede 
+
+stomach
+lo stomaco 
+
+finger; toe
+il dito
+
+knee
+il ginocchio
+
+neck
+il collo
+
+throat
+la gola
+
+dizziness
+il capogiro
+
+nausea
+la nausea
+
+shivers
+i brividi
+
+better
+meglio
+
+worse
+peggio
+
+weak
+debole
+
+strange; weird
+strano
+
+cold (n)
+il raffreddore
+
+fever
+le febbre
+
+flu
+l'influenza
+
+cough
+la tosse
+
+migraine
+l'emicrania
+
+thirst
+la sete
+
+hunger
+la fame
+
+sleepness
+il sonno
+
+sick
+malato
+
+angry
+arrabiato
+
+anxious
+ansioso
+
+depressed
+depresso
+
+tired
+stanco
+
+Monday
+lunedì 
+
+Tuesday
+martedì 
+
+Wednesday
+mercoledì 
+
+Thursday
+giovedì 
+
+Friday
+venerdì 
+
+Saturday
+sabato 
+
+Sunda
+la domenica
+
+the day after tomorrow
+dopodomani
+
+the day before yesterday
+l'altro ieri
+
+January
+gennaio 
+
+February
+febbraio 
+
+March
+marzo 
+
+April
+aprile 
+
+May
+maggio 
+
+June
+giugno
+
+July
+luglio 
+
+August
+agosto 
+
+September
+settembre 
+
+October
+ottobre 
+
+November
+novembre 
+
+December
+dicembre
+
+Christmas
+il Natale 
+
+Advent
+l'Avvento 
+
+New Year's
+il Capodanno
+
+All Saints' Day
+l'Ognissanti
+
+Easter
+la Pasqua 
+
+Lent
+la Quaresima 
+
+eve
+la Vigilia di
+
+August 15th
+Ferragosto

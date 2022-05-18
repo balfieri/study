@@ -6811,9 +6811,6 @@ l'assolo
 guitar solo
 l'assolo di chitarra
 
-dance recital
-il saggio di danza
-
 to inherit
 ereditare
 
@@ -7905,3 +7902,6 @@ asociale
 
 circumstance; situation
 la circostanza
+
+dance recital
+il saggio di danza
