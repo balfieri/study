@@ -1444,7 +1444,7 @@ i diritti d'autore
 vulgar
 volgare
 
-picky; fussy
+picky; fussy; choosy; squeamish
 schizzinoso; puntiglioso
 
 picky eater
@@ -7926,3 +7926,6 @@ fare rima
 
 compass (directions)
 i punti cardinali; la bussola 
+
+prudish; puritanical; squeamish
+puritano; pudico
