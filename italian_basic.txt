@@ -445,9 +445,6 @@ il senso d'umore
 marvelous
 meraviglioso
 
-television
-la televisione
-
 station (radio, tv); channel
 il canale
 
@@ -2181,9 +2178,6 @@ l'armadio
 
 desk
 la scrivania 
-
-television
-la televisione 
 
 vcr/tape recordere
 il registratore 
@@ -4392,3 +4386,9 @@ cucinare
 
 to cook (the menial task)
 cuocere
+
+television (medium)
+la televisione
+
+television (device)
+il televisore
