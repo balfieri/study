@@ -1250,7 +1250,10 @@ unmissable; must-see; not to be missed
 imperdibile
 
 to shorten; to cut back; to trim
-scorciare
+scorciare 
+
+to shorten
+accorciare; accorciarsi
 
 haha
 ahah
@@ -5779,9 +5782,6 @@ il maratone
 drying up; dessication
 l'inaridimento
 
-to shorten
-accorciare
-
 goal; finish line; goal
 il traguardo
 
@@ -8010,3 +8010,12 @@ imbastardire
 
 wealthy
 facoltoso; abbiente
+
+past participle
+il participio passato
+
+distant past
+il passato remoto
+
+truce
+la tregua
