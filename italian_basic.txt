@@ -1984,6 +1984,9 @@ lungo
 smooth
 liscio 
 
+smooth; straight; sleek
+liscio
+
 rich
 riccio 
 
@@ -2009,7 +2012,7 @@ blond
 biondo 
 
 mustache
-il baffo
+i baffi
 
 pants
 i pantaloni 
@@ -2434,7 +2437,7 @@ il marciapiede
 flower bed
 l'aiuola 
 
-quarter; neighborhood
+quarter; district
 il quartiere 
 
 traffic
