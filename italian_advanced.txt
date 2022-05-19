@@ -7970,7 +7970,7 @@ huggable
 da abbracciare; tutto da abbracciare  
 
 good hugger 
-l'abbracciatore profressionista; l'abbracciatrice professionista 
+l'abbracciatore professionista; l'abbracciatrice professionista 
 
 to smother with kisses
 sbaciucchiare
@@ -7989,3 +7989,9 @@ fare le pernacchie sul pancino
 
 PDA; public display of affection
 la dimostrazione di affetto
+
+to cuddle (transitive)
+coccolare
+
+to cuddle (intransitive)
+accoccolarsi
