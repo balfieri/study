@@ -1655,7 +1655,7 @@ shortcut
 la scorciatoia
 
 to mumble
-borbottare; biascicare; farfugliare
+biascicare; borbottare; farfugliare
 
 safety
 la sicurezza
