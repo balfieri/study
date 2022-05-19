@@ -7929,3 +7929,6 @@ i punti cardinali; la bussola
 
 prudish; puritanical; squeamish
 puritano; pudico
+
+fencing
+la scherma 
