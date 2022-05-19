@@ -586,7 +586,7 @@ il sollevamento
 bad weather
 il brutto tempo
 
-to stall (intransitive)
+to stall (intr)
 mettersi in stallo
 
 barely; hardly
@@ -814,7 +814,7 @@ l'errore di battitura
 typing
 la battitura
 
-to board (intransitive)
+to board (intr)
 imbarcarsi su
 
 to board; to climb on board
@@ -1756,7 +1756,7 @@ il ricatto
 to loosen; to relax
 allentare
 
-to slow
+to slow down (something)
 rallentare
 
 to slow down (intr)
@@ -7990,8 +7990,17 @@ fare le pernacchie sul pancino
 PDA; public display of affection
 la dimostrazione di affetto
 
-to cuddle (transitive)
+to cuddle (trans)
 coccolare
 
-to cuddle (intransitive)
+to cuddle (intr)
 accoccolarsi
+
+unsettling
+spiazziante
+
+to repress
+reprimere
+
+underlying
+sottostante
