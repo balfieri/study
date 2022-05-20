@@ -5215,6 +5215,9 @@ agghiacciante
 to freeze; to chill
 agghiacciare
 
+to freeze (something)
+congelare
+
 to collapse; to crumble
 crollare
 
@@ -8082,3 +8085,24 @@ ricollegarsi a
 
 they are at odds with each other
 sono in contrasto tra loro
+
+claustrophobic
+claustrofobo
+
+home town
+la città natale
+
+to identify with (a character)
+immedesimarsi in
+
+container
+il contenitore
+
+organic vegetables
+le verdure biologiche
+
+to climb over; to overtake
+scavalcare
+
+argument at hand; proposed topic
+l'argumento proposto
