@@ -7577,7 +7577,7 @@ practice; policy
 la prassi
 
 juxtaposition
-l’accostamento
+la giustaposizione; l’accostamento
 
 observation; statement; establishment
 la constatazione
@@ -7903,9 +7903,6 @@ frettoloso
 asylum; lunatic asylum
 il manicomo
 
-antisocial
-asociale
-
 circumstance; situation
 la circostanza
 
@@ -8136,3 +8133,12 @@ la robustezza
 
 brutally
 brutalmente
+
+The Great Depression
+La Grande Depressione
+
+to be beyond; to lie outside
+esulare
+
+the topic at hand
+l'argomento principale
