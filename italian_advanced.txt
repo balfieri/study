@@ -5629,6 +5629,9 @@ gli acciacchi
 to move; to move in
 traslocare
 
+to move (somewhere)
+trasferirsi
+
 reorganizing; restructuring
 la ristrutturazione
 
