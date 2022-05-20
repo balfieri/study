@@ -4,6 +4,9 @@
 gut
 la pancia
 
+invoice 
+la fattura
+
 to pull one's leg
 prendersi in giro
 
@@ -8019,3 +8022,15 @@ il passato remoto
 
 truce
 la tregua
+
+fence
+la recinzione
+
+cucumbers
+i cetrioli
+
+to digress
+divagare
+
+error; mistake
+il disguido; l'errore
