@@ -8151,3 +8151,9 @@ il deposito; la caparra
 
 Austrian
 austriaco
+
+to blacken
+annerire
+
+square; box
+la casella
