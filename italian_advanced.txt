@@ -8076,3 +8076,6 @@ il campanello
 
 to rind the doorbell
 suonare il campanello
+
+to relate to 
+ricollegarsi a
