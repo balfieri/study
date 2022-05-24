@@ -1888,6 +1888,9 @@ imparziale
 boring
 noioso 
 
+bored
+annoiato
+
 weird; strange
 strano 
 

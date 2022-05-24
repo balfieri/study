@@ -5999,7 +5999,7 @@ darci sotto
 get on one's high horse
 scendere dal piedistallo; darsi grandi arie; inalberarsi
 
-to get down to it
+to get down to it; to roll up one's sleeves
 darsi da fare
 
 move! Do something!
@@ -7684,3 +7684,6 @@ la prugna
 
 prune
 la prugna secca
+
+bummer; how disappointing; that sucks
+che disdetta

@@ -1246,7 +1246,7 @@ it's the least I could do
 don't even say it!
 non dirlo neanche!
 
-ho mangiato poco poco
+I barely ate 
 ho mangiato appena
 
 unmissable; must-see; not to be missed
@@ -1318,8 +1318,8 @@ lo gnomone
 to project
 proiettare
 
-I beg you! Ti prego!
-mi raccomando!
+I beg you! 
+mi raccomando! ti prego!
 
 to recommend (something to somebody)
 raccomandare
@@ -1450,7 +1450,7 @@ i diritti d'autore
 vulgar
 volgare
 
-picky; fussy; choosy; squeamish
+picky; fussy; choosy
 schizzinoso; puntiglioso
 
 picky eater
@@ -4675,7 +4675,7 @@ il proibizionismo
 disappointment
 la delusione; il disappunto
 
-wisdom; sense
+wisdom; wit; sense
 il senno
 
 to start out
@@ -5404,7 +5404,7 @@ la dittatura
 incorrigible
 incorreggibile
 
-in the early days, at first
+in the early days; at first
 i primi tempi
 
 celebration
@@ -7933,7 +7933,7 @@ fare rima
 compass (directions)
 i punti cardinali; la bussola 
 
-prudish; puritanical; squeamish
+prudish; puritanical
 puritano; pudico
 
 fencing
@@ -8157,3 +8157,168 @@ annerire
 
 square; box
 la casella
+
+accidentally; by chance; casually
+casualmente
+
+to cheer up; to gladden
+rallegrare
+
+point of view
+il punto di vista
+
+sibling
+il consanguineo
+
+rectory
+canonica
+
+to overshadow; to obscure
+oscurare
+
+stay tuned
+restate sintonizzati
+
+tiger
+la tigre
+
+to keep informed; to keep up-to-date
+tenere informato
+
+to recite poetry
+recitare poesie
+
+same (regarding self)
+medesimo
+
+barracks
+la caserma
+
+to order
+intimare
+
+guy; dude
+il tizio
+
+to trail (someone)
+pedinare
+
+bumper sticker
+l'adesivo per paraurti; l'autoadesivo
+
+criminal; crook; gangster
+il malvivente
+
+scatterbrain; heedless
+sventato
+
+to leak out; to rush out
+fuoriuscire
+
+vicinity
+i pressi
+
+handcuffs
+le manette
+
+enrollment
+l'arruolamento
+
+to go; to leave; to depart
+recarsi
+
+to overturn
+rovesciare
+
+ashtray
+il posacenere; il portacenere
+
+windshield wipers
+ì tergicristalli
+
+magician
+il prestigiatore; il mago
+
+urine sample
+il campione di urine
+
+private (rank)
+l'appuntato
+
+sheet metal
+la lamiera
+
+glue; paste; adhesive
+la colla
+
+vibe
+la vibrazione; l'atmosfera
+
+to give off vibes
+emanare vibrazioni
+
+to claim to be
+affermare di essere; asserire di essere; dire di essere
+
+to affirm; to assert; to claim
+affermare
+
+to wipe
+tergere
+
+to be able to tell that
+capire che; poter vedere che; poter sentire che
+
+badge; championship
+lo scudetto
+
+playlist
+la playlist
+
+to colonize
+colonizzare
+
+so what?
+e allora?
+
+conception
+il concepimento
+
+to exclude
+estromettere
+
+to protect; to defend; to preserve
+tutelare
+
+to incur
+incorrere
+
+to resort; to recur; to appeal
+ricorrere a
+
+it's not my cup of tea
+non è il mio genere
+
+to subtract; to take away
+sottrarre
+
+taboo
+il tabù
+
+intermittently
+a intermittenza
+
+strip mall; shopping plaza
+il centro commerciale
+
+sting; itch
+il bruciore
+
+neurotic
+nevrotico
+
+homonym
+l'omonimo
+
+homophone
+l’omofona
