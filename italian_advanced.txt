@@ -8358,3 +8358,6 @@ ai minimi storici; al minimo storico
 
 tolerance
 la tolleranza
+
+fugitive; absconder; fugitive from justice
+il latitante
