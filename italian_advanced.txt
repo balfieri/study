@@ -3238,8 +3238,11 @@ di tutto punto
 segretamente
 di nascosto
 
-substantial; common-law; effettivamente
+substantial; common-law
 di fatto
+
+indeed; actually; really
+effettivamente
 
 to enjoy
 godere
@@ -8322,3 +8325,6 @@ l'omonimo
 
 homophone
 l’omofona
+
+obsessed
+ossessionato
