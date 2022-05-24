@@ -1915,8 +1915,8 @@ gli alcolici
 pride; arrogance
 la superbia
 
-sloth; laziness
-l'accidia
+sloth; laziness; idleness
+l'accidia; la pigrizia
 
 gluttony
 la gola
@@ -8349,3 +8349,12 @@ la giostra
 
 to ruin; to spoil
 rovinare
+
+syllable
+la sillaba
+
+at an all-time low
+ai minimi storici; al minimo storico
+
+tolerance
+la tolleranza
