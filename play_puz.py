@@ -30,29 +30,20 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 #-----------------------------------------------------------------------
 # process command line args
 #-----------------------------------------------------------------------
-subject = 'italian_advanced'
-side = 15
-seed = int( time.time() )
-reverse = 0
+subjects = 'italian_advanced'
+
+extra_args = ''
 
 i = 1
 while i < len( sys.argv ):
     arg = sys.argv[i]
     i += 1
-    if   arg == '-subject':
-        subject = sys.argv[i]
-        i += 1
-    elif arg == '-side':           
-        side = int(sys.argv[i])
-        i += 1
-    elif arg == '-seed':
-        seed = int(sys.argv[i])
-        i += 1
-    elif arg == '-reverse':
-        reverse = int(sys.argv[i])
+    if   arg == '-subjects':
+        subjects = sys.argv[i]
         i += 1
     else:
-        die( f'unknown option: {arg}' )
+        extra_args += f' {arg} {sys.argv[i]}'
+        i += 1
 
-cmd( f'./gen_puz.py {subject} -side {side} -seed {seed} -reverse {reverse} > www/one.html' )
+cmd( f'./gen_puz.py {subjects}{extra_args} > www/one.html' )
 cmd( f'open -a Safari www/one.html' )

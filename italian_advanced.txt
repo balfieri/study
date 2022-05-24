@@ -1744,6 +1744,9 @@ essere fastidioso
 silly; goofy
 sciocco
 
+scioccato; dazed; stunned
+shocked
+
 stop it!
 smettila!
 
@@ -8331,3 +8334,6 @@ ossessionato
 
 mixture
 la miscela
+
+manual transmission
+il cambio manuale

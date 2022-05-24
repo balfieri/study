@@ -29,6 +29,8 @@ reverse = False
 seed = int( time.time() )
 attempts = 10000
 larger_cutoff = 7
+start_pct = 0
+end_pct = 100
 html = True
 title = ''
 i = 2
@@ -50,6 +52,14 @@ while i < len( sys.argv ):
     elif arg == '-larger_cutoff':
         larger_cutoff = int(sys.argv[i])
         i += 1
+    elif arg == '-start_pct':
+        start_pct = int(sys.argv[i])
+        if start_pct < 0 or end_pct < 0: die( 'start_pct and end_pct must be >= 0' )
+        i += 1
+    elif arg == '-end_pct':
+        end_pct = int(sys.argv[i])
+        if end_pct > 100: die( 'end_pct must be <= 100' )
+        i += 1
     elif arg == '-html':          
         html = int(sys.argv[i]) == 1
         i += 1
@@ -58,6 +68,8 @@ while i < len( sys.argv ):
         i += 1
     else:
         die( f'unknown option: {arg}' )
+
+if start_pct >= end_pct: die( 'start_pct must be < end_pct' )
 
 if title == '': title = '_'.join( subjects ) + f'_{seed}' 
 
@@ -219,8 +231,13 @@ common_words = { 'avere': 1,
                  'club': 1,
                }
 
+entry_cnt = len(entries)
+entry_first = int(start_pct*entry_cnt/100.0)
+entry_last  = min(int(end_pct*entry_cnt/100.0), entry_cnt-1)
+
 words = []
-for entry in entries:
+for i in range(entry_first, entry_last+1):
+    entry = entries[i]
     question = entry[0]
     answers = entry[1]
     aa = answers.split( '; ' )
