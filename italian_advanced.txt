@@ -902,7 +902,7 @@ fog
 la nebbia
 
 notes
-gli appunti
+gli appunti; le note
 
 package
 il pachetto
