@@ -109,7 +109,7 @@ for subject_info in subjects:
         clue_lang = 'Italian' if reverse == 0 else 'English'
         for recent in range(2):
             if recent and not do_recent: continue
-            recency = f'most recent 15% of entries' if recent else f'all entries'
+            recency = f'most recent entries' if recent else f'all entries'
             start_pct = 85 if recent else 0
             s += f'<section style="clear: left">\n'
             s += f'<b>{clue_lang} ({recency}):</b><br>'
