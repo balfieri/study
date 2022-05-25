@@ -5356,9 +5356,6 @@ scrollarsi di dosso
 stage
 il palco
 
-fictitious
-fittizio
-
 fastidious; fussy
 pignolo
 
@@ -8406,3 +8403,18 @@ appianare
 
 epicenter
 l'epicentro
+
+to avert
+scongiurare
+
+measure (action); step
+il provvedimento
+
+fictitious
+fittizio
+
+so that
+acciocché
+
+not at all
+macché
