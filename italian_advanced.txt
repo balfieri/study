@@ -3658,6 +3658,9 @@ il segnalibro
 several; some; much
 parecchio
 
+investigation; inquiry
+l'indagine
+
 to conduct an investigation
 condurre un'indagine
 
@@ -8418,3 +8421,13 @@ acciocché
 
 not at all
 macché
+
+staircase
+la scala
+
+overweight
+sovrappeso; in sovrappeso; obeso
+
+criminal case
+il caso criminale
+
