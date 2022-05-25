@@ -8466,3 +8466,6 @@ il rossetto
 
 overall
 nel complesso; complessivo
+
+flight simulator
+il simulatore di volo
