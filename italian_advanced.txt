@@ -3631,9 +3631,6 @@ avvelenare il pozzo
 baton; rod; wand
 la bacchetta
 
-pit
-la fossa
-  
 to ruin
 rovinarsi
 
@@ -6898,7 +6895,7 @@ sconcertante
 meanwhile, for starters
 intanto, per cominciare
 
-rough
+rough; wiggly
 mosso
 
 was there ever any doubt?
@@ -8499,3 +8496,6 @@ la forza maggiore
 
 these days
 in questo periodo
+
+move; movement; gesture
+la mossa
