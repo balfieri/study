@@ -1756,7 +1756,7 @@ mantenere il punteggio
 to be masachistic
 essere masachista
 
-to evaluate
+to evaluate; to grade; to rate
 valutare
 
 blackmail
@@ -6688,9 +6688,6 @@ il ritardo
 Milky Way
 la via lattea
 
-to rate
-valutare
-
 coordinate
 la coordinata
 
@@ -8499,3 +8496,9 @@ in questo periodo
 
 move; movement; gesture
 la mossa
+
+to make use
+fare tesoro
+
+with the wisdom of hindsight; in hindsight; with hindsight
+con il senno di poi
