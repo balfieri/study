@@ -2060,7 +2060,7 @@ to roll out
 srotolare
 
 to roll
-rollare
+rollare; rotolare
 
 to pitch
 beccheggiare
