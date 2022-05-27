@@ -5827,9 +5827,6 @@ risanare
 to keep; to hold; to detain
 trattenere
 
-to allow; to permit
-consentire
-
 to deliver; to hand; to hand over
 consegnare
 
@@ -8074,7 +8071,7 @@ la durezza
 doorbell
 il campanello
 
-to rind the doorbell
+to ring the doorbell
 suonare il campanello
 
 to relate to 
@@ -8739,3 +8736,15 @@ allegare
 
 merchandise
 la merce
+
+path; way; road
+il cammino
+
+to allow; to permit; to consent
+consentire
+
+successful
+di successo
+
+hand gesture
+il gesto della mano
