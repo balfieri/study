@@ -8748,3 +8748,12 @@ di successo
 
 hand gesture
 il gesto della mano
+
+short story
+il racconto
+
+by mistake
+per sbagio
+
+to waste time
+perdere tempo
