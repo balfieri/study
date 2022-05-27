@@ -634,7 +634,7 @@ il tracciamento
 to stem
 arginare
 
-to heal
+to heal; to recover; to cure
 guarire
 
 artificial
@@ -5029,9 +5029,6 @@ distribuire
 to bloom
 fiorire
 
-to heal
-guarire
-
 to weaken
 indebolire
 
@@ -8532,3 +8529,195 @@ l'arbusto; il cespuglio
 
 shrill
 stridulo; acuto; squillante
+
+conception; view; concept
+la concezione
+
+installation
+l’impiante
+
+greenhouse; conservatory; hothouse
+la serra
+
+need; requirement; demand
+il fabbisogno
+
+water (adj)
+idrico
+
+recycling; money laundering; re-use
+il riciclaggio
+
+refusal
+il rifiuto
+
+to restore
+restaurire
+
+peripheral; suburban; outer
+periferico
+
+distrust; mistrust; suspicion
+la diffidenza
+
+competitiveness
+la concorrenzialità
+
+to find; to raise; to discover
+reperire
+
+surface; area; pavement
+la superficie
+
+suitable; fit; apt
+idoneo
+
+ingrained; deep-seated
+radicato
+
+to fill; to heap; to smother
+colmare
+
+inborn; inherent; indiginous
+insito
+
+irrepressible; uncontrollable; unstoppable
+irrefrenabile
+
+to reveal; to betray; to disclose
+rivelare
+
+to prepare; to stage; to set; to set up
+allestire
+
+recreational
+ludico
+
+humanistic; humanist
+umanistico
+
+mnemonic
+mnemonico
+
+necklace; choker
+la collana
+
+interpreter; translator; performer
+l’interprete
+
+to try; to try your hand
+cimentarsi
+
+account; report; review
+il resoconto
+
+treasure trove; finding
+il reperimento
+
+to refer; to submit to
+fare capo
+
+modality; mode; manner
+la modalità
+
+classification; ranking; list
+la graduatoria
+
+to throw off; to mislead
+depistare
+
+to wrap; to wind; to roll
+avvolgere
+
+liberating
+liberatorio
+
+relief; solace; comfort
+sollievo
+
+string; rope; twine
+la cordicella
+
+quota; fee
+la quota
+
+exchange; reciprocality
+il contraccambio
+
+scrawl; doodle; scribble
+lo scarabocchio
+
+department; unit; ward
+il reparto
+
+to scrawl; to doodle; to scribble
+scaraboccchiare
+
+telltale; revealing
+rivelatrice
+
+to outline; to sketch; to hatch
+tratteggiare
+
+labyrinth; maze; warren
+il labirinto
+
+wall; fence; edge
+la parete
+
+notebook; notepad; jotter
+il taccuino
+
+layout; route; track
+il tracciato
+
+to prowl; to loiter; to hover
+aggirarsi
+
+to frame; to enframe
+incorniciare
+
+chin; jaw
+il mento
+
+ajar; half-open; half-opened
+socchiuso
+
+Norman
+normanno
+
+acuity; sharpness; acuteness
+l’accutezza
+
+amber
+l’ambra
+
+to shake; to agitate; to nod
+scuotere
+
+to portray; to depict; to withdraw
+ritrarre
+
+to start; to begin; to lead off
+incominciare
+
+to gape; to open wide; to fling open
+spalancare
+
+to land; to dock; to shore
+approdare
+
+to draw; to get; to obtain
+attingere
+
+appropriate; proper; suitable
+apposito
+
+lineage; line; descent
+la discendenza
+
+to enter; to input; to put
+immettere
+
+leveling; grading; tamping
+lo spianamento
