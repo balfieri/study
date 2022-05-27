@@ -6901,8 +6901,11 @@ bisognoso
 to couple; to lace
 abbinare
 
-thoughtful
+thoughtful (kindness)
 premuroso
+
+thoughtful (careful consideration)
+pensieroso
 
 to come true; to be fulfilled
 realizzarsi; essere avverato
@@ -8757,3 +8760,6 @@ per sbagio
 
 to waste time
 perdere tempo
+
+show (tv)
+il programma
