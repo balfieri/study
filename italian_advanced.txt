@@ -1694,7 +1694,7 @@ to update
 aggiornare
 
 employee
-il dipendente
+il dipendente; l'impiegato; il lavoratore
 
 to displace
 spiazzare
@@ -8763,3 +8763,15 @@ perdere tempo
 
 show (tv)
 il programma
+
+to unfreeze
+scongelato
+
+in terms of
+dal punto di vista di; in termini di; per quanto riguarda
+
+escape
+lo scampo
+
+zany; crazy; demented
+demenziale
