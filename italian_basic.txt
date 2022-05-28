@@ -550,9 +550,6 @@ quelli
 which
 quale
 
-supermarket
-il supermercato
-
 food
 il cibo
 
@@ -637,7 +634,7 @@ la camera
 camera
 la macchina fotografica
 
-car (starts with m)
+car
 la macchina
 
 automobile
@@ -751,7 +748,7 @@ la trattoria
 inn (for eating, starts with o)
 l'osteria
 
-store
+store; shop
 il negozio
 
 to launch
@@ -790,8 +787,11 @@ la neve
 rain
 la pioggia
 
-to cry
+to rain
 piovere
+
+to cry
+piangere 
 
 to laugh
 ridere
@@ -1013,7 +1013,7 @@ boat
 la barca
 
 sailboat
-la barca a velo
+la barca a vela
 
 wind
 il vento
@@ -1573,8 +1573,11 @@ più o meno
 it's not a big deal
 non è un gran che
 
-to rent (an apartment)
+to rent (apartment)
 affitarsi
+
+to rent (car)
+noleggiare
 
 to worry
 preoccuparsi
@@ -2506,9 +2509,6 @@ il corso
 hospital
 l'ospedale
 
-supermarket
-il supermercato
-
 school
 la scuola
 
@@ -2561,7 +2561,7 @@ gas station
 il distributore di benzina
 
 bank
-banca
+la banca
 
 museum
 il museo
@@ -2571,9 +2571,6 @@ il parcheggio
 
 cathedral
 il cattedrale
-
-store
-il negozio
 
 train station
 la stazione ferroviaria 
@@ -2587,8 +2584,8 @@ la fermata dell’autobus
 car
 la macchina; l'auto 
 
-moped
-il motorino 
+moped; scooter
+il motorino ; il monopattino
 
 bus
 l'autobus 
@@ -2601,9 +2598,6 @@ la nave
 
 motorcycle
 la motocicletta 
-
-bicycle
-la bicicletta 
 
 train
 il treno 
@@ -3211,6 +3205,9 @@ i pattini
 bicycle
 la bicicletta
 
+bike
+la bici
+
 canoie
 la canoa
 
@@ -3262,6 +3259,9 @@ il sole
 rain
 la pioggia 
 
+to snow
+nevicare
+
 snow
 la neve 
 
@@ -3306,6 +3306,12 @@ nevica
 
 it's windy
 c'è vento; tira vento
+
+it's sunny
+c'è sole
+
+it's foggy
+c'è la nebbia
 
 cloudy
 nuvoloso
@@ -4876,7 +4882,7 @@ la serata
 show; play
 lo spettacolo
 
-fairy boat
+fairy boat; steam boat
 il vaporetto
 
 kiss
@@ -4892,4 +4898,104 @@ habit
 l'abitudine
 
 vineyard
-il vigneto
+il vignetto
+
+to turn right
+girare a destra
+
+to turn left
+girare a sinistra
+
+go straight ahead
+andare dritto; andare sempre dritto
+
+to cross the street
+attraversare la strada
+
+office (building)
+l'ufficio
+
+bar (to get food or coffee)
+il bar
+
+factory
+la fabbrica
+
+emergency room
+il pronto soccorso
+
+bakery
+la panetteria; la pasticceria
+
+to go on foot
+andare a piedi
+
+to lend
+prestare
+
+to borrow
+prendere in prestito
+
+Italian
+italiano
+
+German
+tedesco
+
+Spanish
+spagnolo
+
+Austrian
+austriaco
+
+Swiss
+svizzero
+
+Polish
+polacco
+
+Russian
+russo
+
+Irish
+irlandese
+
+Portugese
+protoghese
+
+French
+francese
+
+Danish
+danese
+
+grocery store
+il negozio di alimentari
+
+fish store
+la pescheria
+
+profumery
+la profumeria
+
+supermarket
+il supermercato
+
+cured meat store
+la salumeria
+
+clothing store
+il negozio di abbigliamento
+
+show store
+il negozio di calzature
+
+butcher shop
+la macelleria
+
+smoke shop
+la tabaccheria
+
+pharmacy
+la farmacia
+

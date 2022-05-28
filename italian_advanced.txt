@@ -8967,3 +8967,18 @@ la schema
 
 art gallery
 la pinacoteca
+
+workshop
+l'officina
+
+private practice
+lo studio privato
+
+yard
+il cantiere
+
+skates
+i pattini
+
+organic food store
+il negozio prodotto biologico
