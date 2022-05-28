@@ -943,6 +943,12 @@ il salone
 bed
 il letto
 
+blanket
+la coperta
+
+pillow
+il cuscino
+
 to go to bed
 andare al letto
 
@@ -1203,6 +1209,9 @@ i rifiuti
 
 shower
 la doccia
+
+minibar
+il frigobar
 
 take a shower
 fare la doccia
@@ -4398,3 +4407,69 @@ il televisore
 
 awake
 sveglio
+
+suitcase
+la valigia
+
+hairdryer
+l'asciugacapelli
+
+soap
+il sapone
+
+bar of soap
+la saponetta
+
+toilet paper
+la carta igienica
+
+washing machine
+la lavatrice
+
+air conditioning
+l'aria condizionata
+
+villa; residence
+la villa
+
+chapel
+la cappella
+
+holiday; vacation
+la vacanza
+
+snake
+il serpente
+
+camel
+il cammello
+
+elephant
+l'elefante
+
+bull
+il toro
+
+dolphin
+il delfino
+
+turtle
+la tartuga
+
+tiger
+la tigre
+
+mouse
+il topo
+
+wolf
+il lupo
+
+deer
+il cervo
+
+bear
+l'orso
+
+squirrel
+lo scoiattolo
