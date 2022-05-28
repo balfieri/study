@@ -1645,6 +1645,9 @@ la padronanza
 to carry out
 svolgere
 
+to unfold; to take place
+svolgersi
+
 self-taught
 autodidatto
 
@@ -6639,6 +6642,9 @@ pubblicizzare
 
 to point out
 fare notare; indicare; sottolineare
+
+to underline 
+sottolineare
 
 extroverted; outgoing (person)
 estroverso
