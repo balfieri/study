@@ -9021,3 +9021,6 @@ come se
 
 without (expr)
 senza che
+
+to brainwash
+fare il lavaggio del cervello
