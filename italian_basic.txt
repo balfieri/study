@@ -811,9 +811,6 @@ troppo
 too many
 troppi
 
-show (tv)
-lo spettacolo
-
 to show (something)
 mostrare
 
@@ -2580,6 +2577,9 @@ il negozio
 
 train station
 la stazione ferroviaria 
+
+railway
+la ferrovia
 
 bus stop
 la fermata dell’autobus
@@ -4821,3 +4821,75 @@ la cognata
 
 aunt
 la dia
+
+statue
+la statua
+
+surroundings
+i dintorni
+
+mud
+il fango
+
+postcard
+la cartolina
+
+idea
+l'idea
+
+departure
+la partenza
+
+stop (flight)
+la sosta
+
+service
+il servizio
+
+massage
+il massaggio
+
+sauna
+la sauna
+
+diet
+la dieta
+
+directions; guide
+la guida
+
+nature
+la natura
+
+day 
+il giorno
+
+evening
+la sera
+
+day (the one you are having)
+la giornata
+
+evening (the one you are having)
+la serata
+
+show; play
+lo spettacolo
+
+fairy boat
+il vaporetto
+
+kiss
+il baccio
+
+time (as in how many times)
+la volta
+
+past (n)
+il passato
+
+habit
+l'abitudine
+
+vineyard
+il vigneto
