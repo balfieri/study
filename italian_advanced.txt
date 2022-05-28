@@ -6625,9 +6625,6 @@ il genere; il sesso
 what did you think would happen?
 cosa pensavi che sarebbe successo?
 
-step father
-il patrigno
-
 molecule
 la molecula
 
@@ -7198,9 +7195,6 @@ bere un sorso
 edited by
 a cura di
 
-garden; vegetable garden
-l'orto
-
 destination; goal; target
 la meta
 
@@ -7710,9 +7704,6 @@ il papavero
 
 cherries
 i ciliegini
-
-blueberries
-i mirtilli
 
 citrus
 gli agrumi
@@ -8883,3 +8874,63 @@ la cucina elettrica
 
 household appliance
 l'elettrodomestico
+
+agriculture
+l'agricoltura
+
+cultivation
+la coltivazione
+
+calmness
+la quiete
+
+seeding
+la semina
+
+rake
+il rastrello
+
+tractor
+il trattore
+
+plough
+l'aratro
+
+countryman
+il campagnolo
+
+vegetables
+l'ortaggio; le verdure
+
+pedestrian
+il pedone
+
+inhabitant
+l'abitante
+
+tray
+il vassoio
+
+salad bowl
+l'insalatiera
+
+cutlery
+le posate
+
+to particpate in
+prendere parte a
+
+adopted child (son)
+il figlio adottivo
+
+step-father
+il patrigno
+
+step-mother
+la matrigna
+
+step-son
+il figliastro
+
+step-daughter
+la figliastra

@@ -262,8 +262,8 @@ il dito
 fingers
 le dita
 
-blue
-azzuro; blu
+dark blue
+blu
 
 green
 verde
@@ -889,7 +889,7 @@ senza
 with
 con
 
-palace
+palace; building
 il palazzo
 
 dome
@@ -1099,8 +1099,11 @@ il genitoro
 grandfather
 il nonno
 
-nephew
+nephew; grandson
 il nipote
+
+niece; grandaughter
+la nipote
 
 uncle
 lo zio
@@ -1123,7 +1126,7 @@ il figlio
 daughter
 la figlia
 
-relative
+relative (personal)
 il parente
 
 bread
@@ -2744,7 +2747,7 @@ cup; coffee cup
 la tazza 
 
 bowl
-la scodella 
+la scodella; la ciotola
 
 napkin
 il tovagliolo 
@@ -3752,7 +3755,7 @@ to reserve
 riservare 
 
 to be lacking; to be absent; to be missing
-mancare
+mancare; venire meno
 
 to see
 vedere 
@@ -4481,7 +4484,7 @@ squirrel
 lo scoiattolo
 
 brown
-castani
+castano; marrone
 
 sky blue
 azzurro
@@ -4674,3 +4677,147 @@ il gelato
 
 cake
 la torta
+
+garden; vegetable garden
+l'orto
+
+ground; land; soil
+il terreno
+
+farm
+la fattoria
+
+farmer
+il fattore; il contadino
+
+harvest
+il raccolto
+
+polution
+l'inquinamento
+
+monument
+il monumento
+
+turist
+il turista
+
+mayor
+il sindaco
+
+municipality
+il comune
+
+pot
+la pentola
+
+cover; lid
+il coperchio
+
+ladle
+il mestolo
+
+wooden spoon
+il cucchiaio di lego
+
+colander
+il colino
+
+rolling pin
+il matterello
+
+corkscrew
+il cavatappi
+
+bitter
+amaro
+
+sweet
+dolce
+
+tasty
+gustoso; saporito
+
+disgusting
+disgustoso; schifoso
+
+tasteless
+insipido
+
+raw
+crudo
+
+dressed (food)
+condito
+
+undressed (food)
+scondito
+
+firm (pasta)
+al dente
+
+overcooked (pasta)
+scotto
+
+to come to mind
+venere a mente
+
+in my opinion
+secondo me; a mio parere
+
+I think that
+penso che
+
+I agree
+sono d'accordo
+
+I believe that
+credo che
+
+I am convinced that
+sono convinto che
+
+I find that
+trovo che
+
+for me
+per me
+
+family
+la famiglia
+
+couple (two)
+la coppia
+
+marriage
+il matrimonio
+
+father
+il padre
+
+mother
+la madre
+
+only child (son)
+il figlio unico
+
+father-in-law
+il suocero
+
+mother-in-law
+la suocera
+
+son-in-law
+il genero
+
+daughter-in-law
+la nuora
+
+brother-in-law
+il congnato
+
+sister-in-law
+la cognata
+
+aunt
+la dia
