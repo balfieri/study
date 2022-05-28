@@ -263,7 +263,7 @@ fingers
 le dita
 
 blue
-azzuro
+azzuro; blu
 
 green
 verde
@@ -868,6 +868,9 @@ l'origano
 garlic
 l'aglio
 
+olive
+l'oliva
+
 olive oil
 l'olio d'oliva
 
@@ -1196,10 +1199,10 @@ to bake
 fornare
 
 bathroom
-il bagno
+il bagno; il servizio
 
 toilet
-la toilette
+la toilette; la toletta
 
 trash can
 la spazzatura
@@ -1604,7 +1607,7 @@ beauty
 la bellezza
 
 ugly
-brutto
+brutto; bruttino
 
 sadness
 la tristezza
@@ -1807,7 +1810,7 @@ gentile
 good
 buono 
 
-nice
+nice; likeable
 simpatico
 
 generous
@@ -2177,7 +2180,7 @@ door
 la porta
 
 bookshelf
-la mensola (per libri) 
+la mensola
 
 chair
 la sedia
@@ -2254,7 +2257,7 @@ la cucina
 living room
 il salotto 
 
-study (room)
+study (room); office; studying
 lo studio 
 
 garage
@@ -2521,7 +2524,7 @@ il ristorante
 market
 mercatino 
 
-bookstore; bookshop
+bookstore; bookshop; bookshelves
 la libreria 
 
 church
@@ -2782,7 +2785,7 @@ l'arancia
 strawberry
 la fragola
 
-grape
+grapes
 l'uva
 
 chicken
@@ -2864,7 +2867,7 @@ onion
 la cipolla 
 
 zucchini
-il zucchine 
+le zucchine 
 
 mushroom
 il fungo 
@@ -2883,6 +2886,9 @@ il burro
 
 egg
 l'uovo
+
+eggs
+le uova
 
 oil
 l'olio
@@ -2986,7 +2992,7 @@ in anticipo
 on time
 in orario 
 
-clean 
+clean; neat
 pulito
 
 fast
@@ -4473,3 +4479,198 @@ l'orso
 
 squirrel
 lo scoiattolo
+
+brown
+castani
+
+sky blue
+azzurro
+
+gray
+grigio
+
+smile
+il sorriso
+
+red
+rosso
+
+beard
+la barba
+
+skin
+la pelle
+
+clear
+chiaro
+
+eyebrows
+le sopraciglie
+
+eyelashes
+le ciglia
+
+bell
+il campanello
+
+brake
+il freno
+
+wheel
+la ruota
+
+tire
+la gomma
+
+cute
+carino
+
+attractive
+attraente
+
+house
+la casa
+
+large, detached home
+la villa
+
+apartment
+l'appartamento
+
+hairdrier
+l'asciugacapelli
+
+hand towel
+l'asciugamano
+
+bidet
+il bidet
+
+sink
+il lavandino; il lavello
+
+bathtub
+la vasca
+
+stove
+il fornello
+
+carpet
+il tappeto; la moquette
+
+computer
+il computer
+
+living room
+la sala; il soggiorno
+
+plant
+la pianta
+
+furniture (piece)
+il mobile
+
+spinach
+gli spinaci
+
+lettuce
+la lattuga
+
+arrugala
+la rucola
+
+cucumber
+il cetriolo
+
+broccoli
+i broccoli
+
+bean
+il fagiolo
+
+sweetcorn
+il mais
+
+pumpkin
+la zucca
+
+banana
+la banana
+
+pineapple
+l'ananas
+
+raspberry
+il lampone
+
+berry
+la bacca
+
+plum
+la prugna
+
+drink
+la bibita
+
+coffee
+il caffè
+
+tea
+il tè
+
+freshly-squeezed fruit juice
+la spremuta
+
+sparkling wine
+lo spumante
+
+red wine
+il vino rosso
+
+white wine
+il vino bianco
+
+ice
+ghiaccio
+
+water
+l'aqua
+
+croissant
+il cornetto
+
+strudel
+lo strudel
+
+dessert
+il dolce; il dessert
+
+meat
+la carne
+
+tuna
+il tonno
+
+tagliatelle
+le tagliatelle
+
+lasagna; lasagne
+le lasagne
+
+toasted sandwich
+il toast
+
+toast
+il pane tostato
+
+jam
+la marmellatta
+
+broth
+il brodo
+
+ice cream
+il gelato
+
+cake
+la torta

@@ -6778,7 +6778,7 @@ il buono
 stovetop
 il piano di cottura
 
-hot plate
+hot plate; stove; range
 il fornello; la piastra calda
 
 meek
@@ -8802,3 +8802,84 @@ il ghepardo
 
 wild boar
 il cinghiale
+
+a patata
+flat-nosed
+
+alla francese
+snub-nosed
+
+shaved
+rasato
+
+goatee
+il pizzetto
+
+sideburns
+le basette
+
+olive (adj)
+olivastro
+
+pump
+la pompa
+
+sadle
+la sella
+
+mudguard
+il parafango
+
+handlebars
+il manubrio
+
+pedals
+i pedali
+
+vain
+vanitoso
+
+strict (person)
+severo
+
+studio apartment
+il monolocale
+
+attic apartment
+la mansarda
+
+basement apartment
+il seminterrato
+
+penthouse
+l'attico
+
+condominium
+il condominio
+
+apartment building
+il caseggiato
+
+tap (water)
+il rubinetto
+
+bedside table
+il comodino
+
+pencil case
+il portapenne
+
+kitchenette
+l'angolo cuttura
+
+fireplace
+il camino
+
+gas cooker
+la cucina a gas
+
+electric cooker
+la cucina elettrica
+
+household appliance
+l'elettrodomestico
