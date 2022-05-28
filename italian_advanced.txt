@@ -382,10 +382,10 @@ attraverso
 through (starts with t)
 tramite
 
-so that
+so that; in order to
 affinché
 
-until
+until; until the moment in which
 finchè
 
 schmaltzy; sappy
@@ -6241,7 +6241,7 @@ profondo
 additionally
 in aggiunta
 
-afterward
+afterward; afterward
 successivamente; in seguito
 
 recently; lately
@@ -8988,3 +8988,36 @@ i pattini
 
 organic food store
 il negozio prodotto biologico
+
+once...
+una volta che
+
+so much that
+tanto che; così tanto che
+
+except
+solo che
+
+in case; if; in the event that
+nel caso che; nel caso in cui
+
+since
+siccome
+
+given that
+visto che; dato che
+
+since; as; because
+giacché
+
+supposing
+posto che
+
+in order for; so; so that
+in modo che
+
+as if; as though; like
+come se
+
+without (expr)
+senza che
