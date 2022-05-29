@@ -109,9 +109,6 @@ andare a picco
 andare a finire male
 andare a puttane
 
-quando un prodotto è molto richiesto sul mercato
-andare a ruba
-
 gironzolare senza una meta precisa
 andare a zonzo
 
@@ -204,9 +201,6 @@ avere il carbone bagnato
 
 portare rancore verso qualcuno
 avere il dente avvelenato
-
-essere portati per il giardinaggio
-avere il pollice verde
 
 non vedere le cose più evidenti
 avere il prosciutto davanti agli occhi
@@ -400,9 +394,6 @@ chiodo scaccia chiodo
 prendere provvedimenti quando ormai il danno è stato fatto
 chiudere la stalla dopo che i buoi sono scappati
 
-fingere di non vedere
-chiudere un occhio
-
 sfruttare le occasioni favorevoli
 cogliere l'attimo
 
@@ -487,17 +478,8 @@ detto fatto
 difendere con accanimento
 difendere coi denti
 
-senza preavviso
-di punto in bianco
-
 sfogarsi; parlare liberamente senza badare alla sensibilità degli altri
 dirne di tutti i colori
-
-rimproverare qualcuno dicendogli quello che si pensa
-dirne quattro
-
-rinviare al giorno successivo una decisione
-dormirci sopra
 
 restare inoperosi accontentandosi di quanto si è già ottenuto
 dormire sugli allori
@@ -523,14 +505,8 @@ essere a cavallo
 arrivare alla fase conclusiva di uno scontro
 essere ai ferri corti
 
-to be in seventh heaven
-essere al settimo cielo
-
 to have reached the lowest point; to have no energy left
 essere alla frutta
-
-trovarsi in una situazione pericolosa, precaria
-essere appeso a un filo
 
 essere molto fortunati
 essere baciato dalla fortuna
@@ -592,14 +568,8 @@ essere la punta di diamante
 to be absolutely worthless
 essere l'ultima ruota del carro
 
-appena acquistato, non ancora usato
-essere nuovo di zecca
-
 essere sazio oppure luogo molto affollato
 essere pieno come un uovo
-
-essere in perfetta salute
-essere sano come un pesce
 
 ridursi in miseria
 essere sul lastrico
@@ -670,9 +640,6 @@ fare come il cane dell'ortolano
 stare di guardia
 fare da palo
 
-esagerare di molto i fatti
-fare di una mosca un elefante
-
 prendere decisioni affrettate senza tenere conto della volontà altrui
 fare i conti senza l'oste
 
@@ -721,14 +688,8 @@ fare le scarpe
 chi finge di non sentire o non capire quello che gli viene detto
 fare l'indiano
 
-criticare aspramente
-fare pelo e contropelo
-
 liberare completamente; fare sparire del tutto
 fare piazza pulita
-
-far sparire tutto eliminando le tracce di ciò che c'era
-fare tabula rasa
 
 avere un grosso colpo di fortuna
 fare tredici
@@ -739,14 +700,11 @@ fare un buco nell'acqua
 creare un gran disordine, confusione
 fare un macello
 
-fare in modo di ricordarsi una cosa
+to commit to memory; to store something in the vault
 fare un nodo al fazzoletto
 
-essere disposti a tutto
+to make a deal with the devil
 fare un patto col diavolo
-
-intraprendere un'iniziativa rischiosa
-fare un salto nel buio
 
 fare una scenata violenta
 fare un'ira di Dio
@@ -754,11 +712,8 @@ fare un'ira di Dio
 provocare un danno irrimediabile
 fare una frittata
 
-uscire senza danno o pena da qualche rischio o da qualche azione illecita
+scamparla; uscire senza danno o pena da qualche rischio o da qualche azione illecita
 farla franca
-
-combinarne di ogni genere
-farne di cotte e di crude
 
 deridere
 farsi beffa di qualcuno
@@ -766,7 +721,7 @@ farsi beffa di qualcuno
 burlarsi
 farsi gioco
 
-eseguito senza impegno e senza cura
+eseguito senza impegno e senza cura; fatto male
 fatto coi piedi
 
 intromettersi
@@ -790,7 +745,7 @@ grattarsi la pancia
 sentirsi superiori
 guardare uno dall'alto in basso
 
-quando un ragionamento non convince, sembra sbagliato
+quando un ragionamento non convince
 i conti non tornano
 
 le scelte fatte ad intuito difficilmente sono sbagliate
@@ -799,17 +754,11 @@ il cuore non sbaglia
 stato di ozio felice e spensierato
 il dolce far niente
 
-un risultato che per essere ottenuto ha implicato troppi sforzi e sacrifici
-il gioco non vale la candela
-
 risposta a 'in bocca al lupo'; che muori il lupo
 crepi; crepi il lupo
 
 dopotutto; in fondo; tutto sommato
 in fin dei conti
-
-in un attimo
-in un batter d'occhio
 
 tormento insopportabile da cui è impossibile liberarsi
 indossare la camicia di Nesso
@@ -823,16 +772,13 @@ inseguire una chimera
 soluzione insospettatamente semplice a un problema apparentemente impossibile
 l'uovo di Colombo
 
-la "classe" è una qualità rara e non comune come l'acqua
-la classe non è acqua
-
 qualcosa di estremamente redditizio
 la gallina dalle uova d'oro
 
 lacrime finte
 lacrime di coccodrillo
 
-non soddisfare appieno
+to leave something to be desired
 lasciare a desiderare
 
 morire
@@ -847,7 +793,7 @@ lavorare per la gloria
 gustare molto un cibo
 leccarsi i baffi
 
-adulare qualcuno importante per ottenere vantaggi
+to kiss up to somebody
 leccare i piedi
 
 cercare di consolarsi di un insuccesso, di una delusione
@@ -864,9 +810,6 @@ levarsi il boccone di bocca
 
 togliersi un pensiero fastidioso
 levarsi un dente
-
-calmo, piatto oppure senza intoppi o difficoltà
-liscio come l'olio
 
 lotta senza tregua o riposo, senza sosta fino alla vittoria
 lotta senza quartiere
@@ -889,7 +832,7 @@ mangiare a ufo
 mangiare pochissimo
 mangiare come un uccellino
 
-capire una cosa al volo; intuire in anticipo
+to read between the lines
 mangiare la foglia
 
 vivere alle spalle altrui senza mostrare alcuna gratitudine
@@ -898,26 +841,14 @@ mangiare pane a tradimento
 mangiare moltissimo, quanto basterebbe per due persone
 mangiare per due
 
-aggredire; offendere; attaccare con grande violenza
-mangiarsi vivo qualcuno
-
-parlare di un argomento senza mai arrivare al dunque
-menare il can per l'aia
-
 prendere in giro; ingannare
 menar per il naso
 
 distruggere
 mettere a ferro e fuoco
 
-fissare dei limiti oltre il quale non si deve andare
-mettere dei paletti
-
 Mettere il carro davanti ai buoi
 affrettare troppo i tempi
-
-impedire di proseguire
-mettere il bastone tra le ruote
 
 toccare un argomento delicato o imbarazzante
 mettere il dito sulla piaga
@@ -937,19 +868,16 @@ mettere in croce
 mettere in evidenza
 mettere in luce
 
-chiarire un concetto in modo che non possano esserci equivoci
+to dot the i's and cross the t's
 mettere i puntini sulle i
 
 imporre condizioni pesanti e inaccettabili
 mettere la corda al collo
 
-insinuare un sospetto
-mettere la pulce nell'orecchio
-
 intromettersi abilmente per trarne vantaggio
 mettere lo zampino
 
-dedicarsi a troppe attività contemporaneamente
+to have too many irons in the fire
 mettere troppa carne al fuoco
 
 non lasciare possibilità di scelta
@@ -982,10 +910,7 @@ muovere cielo e terra
 essere particolarmente fortunati
 nascere con la camicia
 
-assolutamente no
-nemmeno per sogno!
-
-non avere neanche un soldo
+to be dirt poor; to not have a pot to piss in
 non avere il becco di un quattrino
 
 to be dirt poor
@@ -1009,23 +934,14 @@ non chiudere occhio
 tutto si può realizzare col giusto impegno
 nulla è impossibile
 
-essere una persona poco onesta o corretta, oppure dal passato un po' burrascoso
-non essere uno stinco di santo
-
-essere miti e innocui
+to not be able to hurt a fly
 non fare male a una mosca
-
-non fare favoritismi
-non guardare in faccia nessuno
 
 non importare nulla
 non importare un fico secco
 
 non fare assolutamente nulla, non intervenire
 non muovere un dito
-
-non sapere cosa decidere
-non sapere che pesci pigliare
 
 non sapere come fare a venire a capo di una situazione difficile o complicata
 non sapere dove sbattere la testa
@@ -1048,20 +964,11 @@ non svegliare il cane che dorme
 non fare assolutamente male a qualcuno
 non torcere un capello
 
-valere pochissimo, meno di un fico essiccato
-non valere un fico secco
-
 non valere nulla
 non valere una lira
 
-essere impaziente
-non vedere l'ora
-
 essere molto ricchi
 nuotare nell'oro
-
-tentativo rischioso, che potrebbe andare bene o molto male
-o la va o la spacca
 
 convincere qualcuno che non ha altre alternative
 o mangi la minestra, o salti dalla finestra
@@ -1072,12 +979,6 @@ occhio di falco
 avere una vista molto acuta e penetrante
 occhio di lince
 
-raramente
-ogni morte di papa; una volta ogni morte di papa
-
-oltre ad aver subito il danno si viene pure presi in giro
-oltre al danno la beffa
-
 esprime preoccupazione per un pericolo imminente
 ora si balla
 
@@ -1087,10 +988,10 @@ pagare il fio
 parlare con qualcuno che non sta ascoltando
 parlare al muro
 
-parlare in confidenza e senza testimoni
+to speak eye-to-eye; to speak man-to-man
 parlare a quattr'occhi
 
-parlare in modo esplicito senza giri di parole
+to not mince words
 parlare chiaro e tondo
 
 esprimersi con grande proprietà di linguaggio
@@ -1105,7 +1006,7 @@ partire in quarta
 dal successo al fallimento, dalla ricchezza alla miseria
 passare dalle stelle alle stalle
 
-dare ad altri una situazione difficile da gestire e risolvere
+to pass the hot potato
 passare la patata bollente
 
 subire una grave umiliazione
@@ -1114,20 +1015,11 @@ passare sotto le forche caudine
 impazzire
 perdere il lume della ragione
 
-perdere la dignità e l'onore
+to lose face
 perdere la faccia
 
-perdere la pazienza
-perdere le staffe
-
-qualcosa fatta con ordine e precisione
+fatto con ordine e precisione
 per filo e per segno
-
-superare a stento una situazione difficile
-per il rotto della cuffia
-
-danneggiare o infastidire
-pestare i piedi a qualcuno
 
 piangere disperatamente
 piangere a calde lacrime
@@ -1141,17 +1033,8 @@ piangersi addosso
 dare la colpa al governo, anche della pioggia
 piove, governo ladro!
 
-il peggiorare di una situazione già messa male
-piove sul bagnato
-
 svolgere mansioni inutili
 portare acqua al mare
-
-capire il significato letterale, senza cogliere i significati reconditi
-prendere alla lettera
-
-deridere; mettere in ridicolo
-prendere in giro
 
 cogliere l'occasione favorevole e approfittarne
 prendere la palla al balzo
@@ -1168,17 +1051,11 @@ prendere sotto gamba
 subire una truffa
 prendere un bidone
 
-commettere uno sbaglio
-prendere un granchio
-
 innamorarsi in modo intenso e improvviso
 prendere una sbandata
 
 fare promesse senza poterle o volerle mantenere
 promettere mare e monti
-
-discussioni su cose futili, prive di fondamento
-questioni di lana caprina
 
 qui è facile sbagliarsi
 qui casca l'asino
@@ -1186,26 +1063,17 @@ qui casca l'asino
 quando qualcosa risulta strano o poco convincente
 qui gatta ci cova
 
-usare le ultime risorse rimaste per togliersi da un impaccio
-raschiare il fondo del barile
-
 agire secondo i propri doveri
 rigare dritto
 
 resistere agli eventi; salvarsi da una situazione difficile
 rimanere a galla
 
-ottenere poco o nulla
-rimanere con un pugno di mosche
-
 restare sbalordito, senza parole
 rimanere di sasso
 
 non mantenere un impegno preso
 rimangiarsi la parola
-
-impegnarsi a fare qualcosa
-rimboccarsi le maniche
 
 guarire da una malattia o infortunio
 rimettersi in sesto
@@ -1216,14 +1084,8 @@ rispondere per le rime
 passare all'azione
 rompere gli indugi
 
-covare rancore, rabbia
-rodersi il fegato
-
-creare fastidio
+creare fastidio; infastidire
 rompere le scatole
-
-rovinare un piano o un progetto pazientemente preparato
-rompere le uova nel paniere
 
 rompere ogni rapporto con il passato per dedicarsi a cose del tutto nuove
 saltare il fosso
@@ -1231,19 +1093,13 @@ saltare il fosso
 notevole miglioramento qualitativo
 salto di qualità
 
-salvaguardare con una decisione gli interessi di due soggetti
-salvare capra e cavoli
-
 in caso di insuccesso, cercare di non perdere la reputazione
 salvare la faccia
 
 essere molto furbo; astuto
 saperla lunga
 
-essere molto furbi; conoscere tutte le malizie che può conoscere il Diavolo e addirittura una di più
-saperne una più del diavolo
-
-vivere stentatamente, mettendo insieme il denaro appena sufficiente alla sopravvivenza quotidiana
+to live day-to-day
 sbarcare il lunario
 
 frequentare la scuola studiando poco o nulla
@@ -1256,10 +1112,7 @@ compiere un'accurata selezione, scegliendo sempre il meglio
 scegliere fior da fiore
 
 pensare o vantarsi di avere scoperto qualcosa che in realtà è nota a tutti
-scoprire l'acqua calda
-
-pensare o vantarsi di avere scoperto qualcosa che in realtà è nota a tutti
-scoprire l'America
+scoprire l'acqua calda; scoprire l'America
 
 perdere tempo in attività o discussioni inutili
 segare la segatura
@@ -1297,7 +1150,7 @@ stare a ruota
 limitarsi a osservare
 stare alla finestra
 
-attendere con ansia l'esito di qualcosa
+to wait with bated breath
 stare col fiato sospeso
 
 resistere; non mollare; to bite the bullet; to grin and bear it
@@ -1309,7 +1162,7 @@ sul più bello
 escludere
 tagliare fuori
 
-troncare i rapporti; non aver relazioni con nessuno
+to cut ties
 tagliare i ponti
 
 prendere una decisione drastica
@@ -1327,7 +1180,7 @@ tanto fumo e poco arrosto
 impedire a qualcuno di manifestare le proprie capacità
 tarpare le ali a qualcuno
 
-resistere; non mollare
+to stay tough; to stay strong
 tenere duro
 
 to keep one's mouth shut
@@ -1375,7 +1228,7 @@ tirare per i capelli
 pretendere troppo, rischiando di "spezzare" la corda
 tirare troppo la corda
 
-raggiungere il punto più basso, triste o vergognoso, della propria vita
+to reach the end of one's rope; to hit rock bottom
 toccare il fondo
 
 aiutare qualcuno, liberandolo da una situazione potenzialmente difficile e pericolosa
@@ -1402,20 +1255,11 @@ trovarsi tra l'incudine e il martello
 alternare le maniere buone a quelle cattive allo scopo di ottenere un determinato risultato
 usare il bastone e la carota
 
-perdere la pazienza
-uscire dai gangheri
-
 voler andare fino alla fine
 tedere il fondo
 
-essere negativo e pessimista
-vedere tutto nero
-
 trovarsi in una situazione di grave pericolo
 vedersela brutta
-
-difendersi con tutte le forze
-vendere cara la pelle
 
 imporsi all'attenzione e arrivare alla notorietà
 venire alla ribalta
@@ -1425,9 +1269,6 @@ vivere in un limbo
 
 cambiare idea; rimangiarsi la parola
 voltare la faccia
-
-rivelare tutto ciò che si sa, anche le cose segrete
-vuotare il sacco
 
 mystery novel
 libro giallo
@@ -1504,9 +1345,6 @@ essere al verde; essere in bolletta; non avere un becco di un quadrino
 to spend too much money
 avere le mani bucate; spendere e spandere
 
-to cost a huge amount
-costare un occhio della testa
-
 to be a cheapskate
 avere il braccino corto
 
@@ -1515,9 +1353,6 @@ da quattro soldi
 
 to have no value
 non valere un soldo bucato
-
-to spend other peoples' money
-non badare a spese
 
 the world is our oyster
 il mondo è nostro
@@ -1600,12 +1435,6 @@ ingoiare il rospo
 affrettare troppo i tempi
 mettere il carro davanti ai buoi
 
-essere impossibile, assurdo
-non stare né in cielo né in terra
-
-raramente
-ogni morte di papa
-
 everyone has his own cross to bear
 ognuno porta la sua croce
 
@@ -1653,9 +1482,6 @@ aspettare Godot
 
 avere in pugno
 avere il coltello dalla parte del manico
-
-non vergognarsi di fare qualcosa
-avere la faccia tosta
 
 essere di intrattabili; essere di cativo umore
 avere la luna storta
@@ -1771,9 +1597,6 @@ facile come bere un bicchiere d'acqua
 abituarsi
 farci il callo
 
-addossarsi colpe a vicenda
-fare a scaricabarile
-
 piantare in asso ogni cosa
 fare baracca e burattini
 
@@ -1804,35 +1627,20 @@ fare il doppiogioco
 riflettere per riordinare le idee su qualcosa
 fare mente locale
 
-criticare severamente
+criticare severamente; criticare aspramente
 fare pelo e contropelo
-
-liberare completamente
-fare piazza pulita
 
 dimennticare o eliminare tutto
 fare tabula rasa
 
-segnarsi qualcosa per non dimenticarlo
-fare un nodo al fazzoletto
-
-fare qualsiasi cosa pur di ottenere ciò che si vuole; to make a pact with the devil
-fare un patto col diavolo
-
-intraprendere un'iniziativa senza sapere a cosa si va incontro
+to jump in head first
 fare un salto nel buio
 
 pronunciare un'invettiva contro qualcuno
 fare una filippica
 
-scamparla
-farla franca
-
-combinarne di ogni
+combinarne di ogni genere
 farne di cotte e di crude
-
-fatto male
-fatto coi piedi
 
 in fretta e furia
 fuggire a gambe levate
@@ -1846,68 +1654,35 @@ gettare paglia sul fuoco
 sentirsi superiori
 guardare dall'alto in basso
 
-di un ragionamento che non convince
-i conti non tornano
-
 di una decisione ormai presa
 il dado è tratto
 
 di un risultato che ha richiesto sacrifici e sforzi eccessivi
 il gioco non vale la candela
 
-essere costretti a sopportare una situazione spiacevole
-ingoiare il rospo
-
 la classe è una qualità rara
 la classe non è acqua
-
-qualcosa di redditizio
-la gallina dalle uova d'oro
-
-non soddisfare
-lasciare a desiderare
 
 lasciare che qualcuno si arrangi da solo
 lasciar cuocere qualcuno nel suo brodo
 
-gustare o pregustare un cibo
-leccarsi i baffi
-
-adulare
-leccare i piedi
-
 calmo o senza intoppi
 liscio come l'olio
-
-saper leggeere tra le righe, capire in anticipo
-mangiare la foglia
 
 to be livid with somebody; to rip someone a new one
 mangiarsi vivo qualcuno
 
-non arrivare mai al dunque
-menare il can per l'aia
-
 non lasciare possibilità di scelta
 mettere alle corde; mettere alle strette
 
-essere puntigliosi
-mettere i puntini sulle i
-
-ostacolare
+to put a stick in the spokes
 mettere il bastone tra le ruote
 
-parlare negativamente di qualcuno
-mettere in cattiva luce
-
-insinuare il dubbio
+insinuare il dubbio; insinuare il suspetto
 mettere la pulce nell'orecchio
 
 dire chiaramente; to put into writing; mettere per iscritto
 mettere nero su bianco
-
-dedicarsi a troppe attivit contemporaneamente
-mettere troppa carne al fuoco
 
 intromettersi
 metterci lo zampino
@@ -1921,22 +1696,16 @@ mettersi il cuore in pace
 disperarsi
 mettersi le mani tra i capelli
 
-non avere un soldo
-non avere il becco di un quattrino
-
 non ottenere nulla nonostante gli sforzi
 non cavare un ragno dal buco
 
 essere frutto di un lavoro altrui
 non essere farina del mio/tuo/suo sacco
 
-essere (o essere stato) una persona non del tutto onesta o corretta
+essere una persona non del tutto onesta o corretta
 non essere uno stinco di santo
 
-essere mite e innocuo
-non fare male a una mosca
-
-non preoccuparsi di nulla
+non preoccuparsi di nulla; not fare favoritismi
 non guardare in faccia nessuno
 
 essere impossibile
@@ -1945,41 +1714,8 @@ non stare né in cielo né in terra
 non valere nulla
 non valere un fico secco
 
-essre impaziente
-non vedere l'ora
-
-nuovissimo
-nuovo di zecca
-
 di un tentativo rischioso, che o riesce o fallsice
 o la va o la spacca
-
-oltre ad aver subito un danno, subire anche la presa in giro a esso collegata
-oltre al danno la beffa
-
-parlare direttamente con qualcuno, senza testimoni
-parlare a quattr'occhi
-
-parlare senza giri di parole
-parlare chiaro e tondo
-
-iniziare qualcosa con entusiasmo
-partire in quarta
-
-affibbiare ad altri una situazione difficile da gestire
-passare la patata bollente
-
-perdere la dignità
-perdere la faccia
-
-infuriarsi
-perdere le staffe
-
-chiaramente, con precisione
-per filo e per segno
-
-superare a stento qualcosa
-per il rotto della cuffia
 
 pieno zeppo
 pieno come un uovo
@@ -1987,29 +1723,14 @@ pieno come un uovo
 le disgrazie non vengono mai sole
 piove sempre sul bagnato
 
-interpretare le frasi nel loro significato letterale, senza individuarne altri
+to take literally
 prendere alla lettera
 
 prendere qualcuno alla sprovvista
 prendere in contropiede
 
-deridere
-prendere in giro
-
-confondere una cosa per un altra
-prendere lucciole per lanterne
-
-sbagliarsi
-prendere un granchio
-
-prendere una cotta intensa per qualcuno
-prendere una sbandata
-
 discussioni futili
 questioni di lana caprina
-
-di qualcosa che sembra strano, che si sospetta architettato da qualcuno
-qui gatta ci cova
 
 usare le ultime risorse a disposizione
 raschiare il fondo del barile
@@ -2020,20 +1741,8 @@ rigare diritto
 ottenere poco o niente
 rimanere con un pugno di mosche
 
-restare senza parole, attonito
-rimanere di sasso
-
-impegnarsi
-rimboccarsi le maniche
-
-sistemarsi
-rimettersi in sesto
-
 covare rancore
 rodersi il fegato
-
-infastidire
-rompere le scatole
 
 rovinare i piani
 rompere le uova nel paniere
@@ -2044,26 +1753,11 @@ rivoltare la frittata
 salvaguardare due interessi contemporaneamente
 salvare capra e cavoli
 
-sanissimo
-sano come un pesce
-
-essere consapevoli di sé e delle proprie conoscenze
-sapere il fatto proprio
-
 essere molto furbi
 saperne una più del diavolo
 
-avere una situazione economica precaria, che consente appena di arrivare a fine giornata
-sbarcare il lunario
-
 scappare il più in fretta possibile
 scappare a gambe levate
-
-pensare di aver scoperto qualcosa che è già noto a tutti
-scoprire l'acqua calda
-
-sostenere un argomento con una persona che la pensa allo stesso modo
-sfondare una porta aperta
 
 essere esposto a un pericolo incombente
 spada di Damocle
@@ -2071,20 +1765,8 @@ spada di Damocle
 prendere le difese di
 spezzare una lancia a favore di qualcuno
 
-parlare inutilmente
-sprecare il fiato
-
-confessare
-sputare il rospo
-
-attendere con ansia
-stare col fiato sospeso
-
 non fare nulla
 starsene con le mani in mano
-
-troncare i rapporti
-tagliare i ponti
 
 situazione ingannevole, apparentemente ricca e in realtà povera
 tanto fumo e niente arrosto
@@ -2092,23 +1774,11 @@ tanto fumo e niente arrosto
 impedire a qualcuno di manifestare le proprie capacità
 tarpare le ali
 
-non mollare
-tenere duro
-
-alimentare la curiosità
-tenere sulle spine
-
-chiamare in causa qualcuno
-tirare in ballo
-
 fare il proprio interesse
 tirare acqua al proprio mulino
 
 pretendere troppo
 tirare la corda
-
-raggiungere il punto più vergognoso o triste della propria vita
-toccare il fondo
 
 trovarsi in mezzo a due persone ostile
 tra l'incudine e il martello
@@ -2116,23 +1786,17 @@ tra l'incudine e il martello
 di scarsa fiducia
 uomo di poca fede
 
-arrabbiarsi
-uscire dai gangheri
-
 passare una brutta situazione
 vedere i sorci verdi
 
-essere negativo, pessimista
+essere negativo e pessimista
 vedere tutto nero
 
-difendersi fino alla fine
+to fight until the end
 vendere cara la pelle
 
 to get to the point; arrivare all'argomento più importante di un discorso
 venire al punto
-
-confessare
-vuotare il sacco
 
 to be a nervous wreck
 essere molto ansioso
@@ -2169,9 +1833,6 @@ andare d'amore e d'accordo
 
 to have a soft spot for someone
 avere un debole per qualcuno
-
-to be head over hills in love
-perdere la testa
 
 love at first sight
 l'amore a prima vista
@@ -2260,9 +1921,6 @@ prendere a pesci in faccia
 to lead astray
 portare sulla cattiva strada
 
-to lose face
-perdere la faccia
-
 to stab someone in the back
 pugnalare alle spalle
 
@@ -2314,10 +1972,7 @@ scagionare
 to pass the buck
 fare a scaricabarile
 
-to gather up one's courage
-farsi coraggio
-
-to put a brave face (on it)
+to gather up one's courage; to put a brave face (on it)
 farsi coraggio
 
 the buck stops here
@@ -2344,10 +1999,7 @@ sotto la media
 to face the music
 affrontare le conseguenze
 
-flash in the pan
-la piccola magagna
-
-fly in the ointment
+flash in the pan; fly in the ointment
 la piccola magagna
 
 to have it in for
@@ -2428,7 +2080,7 @@ i prezzi stracciati
 to save something for a rainy day
 risparmiare per tempi difficili
 
-to spare no expense
+to spare no expense; to spend other peoples' money
 non badare a spese
 
 top of the range
@@ -2611,7 +2263,7 @@ buttare tutto alle ortiche
 victim of circumstance
 la vittima delle circostanze
 
-wet blanket; spoilsport; killjoy
+wet blanket; spoilsport; killjoy; party-pooper
 il guastafeste
 
 blessing in disguise
@@ -2626,20 +2278,11 @@ divertirsi a fare qualcosa
 happy as a lark
 felice come un agnellino
 
-in seventh heaven
-al settimo cielo
-
-on cloud nine
-al settimo cielo
-
-on top of the world
+in seventh heaven; on cloud nine; on top of the world
 al settimo cielo
 
 over the moon
 fuori di sé dalla gioia
-
-to pull someone's leg
-prendere in giro
 
 to make someone's day
 rallegrare la giornata
@@ -2712,9 +2355,6 @@ non sapere che pesci pigliare
 
 benefit of the doubt
 il beneficio del dubbio
-
-to beat around the bush
-menare il can per l'aia
 
 to bide one's time
 restare in attesa degli eventi
@@ -2953,7 +2593,7 @@ dare di matto
 in cold blood
 a sangue freddo
 
-to lose one's head
+to lose one's mind; to be head over heals
 perdere la testa
 
 to keep a straight face
@@ -3127,9 +2767,6 @@ la conversazione spicciola
 smart aleck
 il saccente; il sapientone
 
-sounds good
-affare fatto
-
 to stay in touch
 rimanere in contatto
 
@@ -3208,10 +2845,7 @@ dirne quattro
 to have a short fuse
 essere facilmente irascibile
 
-to hit the ceiling
-perdere le staffe
-
-to be hot under the collar
+to hit the ceiling; to be hot under the collar; to throw a fit
 perdere le staffe
 
 i've had it up to here!
@@ -3228,9 +2862,6 @@ la rottura di scatole
 
 to rub someone the wrong way
 infastidire qualcuno
-
-to throw a fit
-perdere le staffe
 
 by leaps and bounds
 a vista d'occhio
@@ -3304,10 +2935,7 @@ adattarsi, farcela
 to have an edge
 essere in vantaggio
 
-to hit home
-colpire nel segno
-
-to hit the nail on the head
+to hit home; to hit the nail on the head
 colpire nel segno
 
 to leave one's mark
@@ -3315,9 +2943,6 @@ lasciare il segno
 
 light at the end of the tunnel
 la luce in fondo al tunnel
-
-to make do
-arrangiarsi
 
 piece of cake
 il gioco da ragazzi
@@ -3345,9 +2970,6 @@ per il momento
 
 high time
 il momento giusto
-
-in no time
-in men che non si dica
 
 in the blink of an eye
 in un batter d'occhio
@@ -3388,9 +3010,6 @@ prendersi il tempo che serve
 time will tell
 lo scopriremo solo vivendo
 
-doom and gloom
-vedere tutto nero
-
 to be down in the dumps
 essere mogio
 
@@ -3427,7 +3046,7 @@ non accettare la verità
 to keep something under one's hat; to keep something close to one's chest
 tenere un segreto per sé
 
-to let the cat out of the bag
+to let the cat out of the bag; to spill one's guts; to spill the beans
 vuotare il sacco
 
 pack of lies
@@ -3441,9 +3060,6 @@ fare luce su
 
 to smell a rat
 sentire puzza di bruciato
-
-to spill the beans
-vuotare il sacco
 
 to take something with a grain of salt
 prendere qualcosa con le pinze
@@ -3550,7 +3166,7 @@ semplicemente un'amica
 please, come in
 accòmodati
 
-it's a deal
+it's a deal; sounds good
 affare fatto
 
 help me, I'm drowning
@@ -3585,9 +3201,6 @@ ama tutti, fidati di nessuno
 
 a fair-weather friend
 un'amico della buona sorte
-
-to sell like hot cakes
-andare a ruba
 
 to spend a penny
 andare al gabinetto
@@ -3733,9 +3346,6 @@ chi non risica non rosica
 first come, first served
 chi prima arriva è servito per primo
 
-anyone for himself
-chi s'è visto s'è visto
-
 look who's here!
 chi si rivéde!; chi se vede!
 
@@ -3772,10 +3382,7 @@ combattere con gli stessi metodi
 it's like looking for a needle in a haystack
 è come cercare un ago nel pagliaio
 
-as you were
-come non detto
-
-don't mention it
+as you were; don't mention it
 come non detto
 
 how dare you?
@@ -3855,9 +3462,6 @@ dio ce la mandi buona!
 
 to put one's foot down
 dire "ora basta!"
-
-to give someone a piece of one's mind
-dirne quattro a qualcuno
 
 to upset the applecart
 disturbare gli equilibri/creare problemi
@@ -3970,10 +3574,7 @@ fa lo stesso
 hurry up!
 fa prèsto!
 
-be my guest
-faccia pure
-
-do as you please
+be my guest; do as you please
 faccia pure
 
 bear in mind that
@@ -4011,9 +3612,6 @@ fare la pace
 
 to rob Peter to pay Paul
 fare un debito nuovo per pagarne uno vecchio
-
-it step in it
-fare una gaffe
 
 be strong!
 fatti animo!
@@ -4288,7 +3886,7 @@ mettiti il cuore in pace
 make yourself at home
 méttiti in libertà
 
-to manage
+to manage; to make due
 arrangiarsi
 
 I can't believe you did this
@@ -4301,7 +3899,7 @@ there is no honour among thieves
 neanche fra di loro i disonesti mantengono la parola
 
 in your dreams
-nemmeno per sogno!
+nemmeno per sogno
 
 no man is an island
 nessuno è un'isola a sè; nessuno può rimanere solo
@@ -4420,7 +4018,7 @@ per niente
 by the skin of one's teeth
 per un pelo
 
-tread on someone's toes
+to step on someone's toes
 pestare i piedi a qualcuno
 
 stop it!
@@ -4506,9 +4104,6 @@ riga dritto o...
 
 to let one's hair down
 rilassarsi; lasciarsi andare
-
-to roll up one's sleeves
-rimboccarsi le maniche
 
 to throw in the towel
 rinunciare; ritirarsi
@@ -4619,7 +4214,7 @@ to have one's patience wear thin
 far scappare la pazienza
 
 to smell a rat
-sospettare un tranello; mangiare la foglia
+sospettare un tranello
 
 go ahead!
 sótto!
@@ -4674,9 +4269,6 @@ sul serio?
 
 beauty is skin-deep
 superficiale; cioè, è la sostanza che conta
-
-to let the cat out of the bag; to spill the beans
-svelare un segreto; vuotare il sacco
 
 to get out of here
 tagliare la corda
@@ -4879,9 +4471,6 @@ uscire per divertirsi, bere e ballare
 to part as good friends
 lasciarsi da buoni amici
 
-to pick a bone with someone
-parlare di un problema per chiarirlo
-
 to play hard to get
 far finta di non essere coinvolti
 
@@ -4891,7 +4480,7 @@ decidere all'ultimo momento
 to pull the wool over somebody's eyes
 gettare fumo agli occhi
 
-to put one's foot in one's mouth
+to put one's foot in one's mouth; to step in it
 fare una gaffe
 
 to ram something down somebody's throat
@@ -4918,7 +4507,7 @@ una infatuazione
 to take somebody for a ride
 prendersi gioco di qualcuno
 
-to take someone up on something
+to take someone up on something; to pick a bone with somebody
 parlare di un problema per chiarirlo
 
 to talk shit; to bullshit; to talk rubbish
@@ -5092,9 +4681,6 @@ toccare ferro
 they think they own the place
 pensano di essere padroni di casa
 
-affare fatto!
-it's a deal!; agreed!; sure!
-
 if I had to do it all over again
 se dovessi rifare tutto da capo
 
@@ -5149,9 +4735,6 @@ che bello; bellissimo
 very cool
 fichissimo
 
-assolutamente no!
-nemmeno per sogno!; neppure per sogno!; neanche per sogno!
-
 hai detto un'ovvietà
 hai fatto la scoperta dell'America; hai fatto la scoperta dell'acqua calda
 
@@ -5163,9 +4746,6 @@ tanto per cambiare!
 
 to dump someone (literally to release, to let go)
 mollare qualcuno
-
-party-pooper
-il guastafeste
 
 don't worry about it; it's nothing
 figurati
@@ -5374,7 +4954,7 @@ che c'è di sbagliato in te?
 what's wrong with your brain?
 cos'hai nel cervello?; cosa c'è di sbagliato nel tuo cervello?
 
-in very little time; in a moment
+in no time; in very little time; in a moment
 in men che non si dica
 
 to use all of one's energy (to do something)
@@ -5427,9 +5007,6 @@ spakka di brutto!; spacca di brutto!
 
 what's new?
 che c'è di nuovo?; novità?
-
-to lose one's mind
-perdere la testa
 
 babe magnet
 la calamita per le pupe
