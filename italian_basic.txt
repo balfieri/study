@@ -7,12 +7,6 @@ stare
 to eat
 mangiare
 
-to speak
-parlare
-
-to drive (or ride)
-guidare
-
 to sing
 cantare
 
@@ -30,9 +24,6 @@ volere bene
 
 to adore
 adorare
-
-nice
-gentile
 
 calm
 calmo
@@ -181,7 +172,7 @@ veloce
 slow
 lento
 
-light (weight)
+light (adj)
 leggero
 
 heavy
@@ -217,9 +208,6 @@ basso
 to play (a game or sport)
 giocare a
 
-to play (an instrument)
-suonare
-
 to speak loudly
 parlare ad alta voce
 
@@ -252,9 +240,6 @@ lo stomaco
 
 gut
 la pancia
-
-finger
-il dito
 
 fingers
 le dita
@@ -319,9 +304,6 @@ vestirsi
 to carry; to bring
 portare
 
-to get up
-alzarsi
-
 to wake up
 svegliarsi
 
@@ -382,9 +364,6 @@ la forchetta
 knife
 il coltello
 
-weird
-strano
-
 scoop (of ice cream)
 il gusto
 
@@ -411,9 +390,6 @@ le istruzioni
 
 educational
 istrutivo
-
-well-educated
-istruito
 
 well-behaved
 educato
@@ -472,9 +448,6 @@ l'ingresso
 exit
 l'uscita
 
-to exit
-uscire
-
 to enter
 entrare
 
@@ -499,8 +472,8 @@ il giro
 tour
 la gira
 
-hotel (starts with a)
-l'albergo
+hotel
+l'albergo; l'hotel
 
 the net
 la rete
@@ -553,16 +526,10 @@ la cucina
 central market
 il mercato centrale
 
-leather (starts with c)
-il cuoio
+leather
+il cuoio; la pella
 
-leather (starts with p)
-la pella
-
-glass (drinking)
-il bicchiere
-
-glass (like a glass wall)
+glass (wall)
 il vetro
 
 glasses (optical)
@@ -571,11 +538,8 @@ gli specchi
 bottle
 la bottiglia
 
-bag (starts with b)
-la busta
-
-bag (starts with s)
-il sachetto
+bag
+la busta; il sachetto
 
 handbag
 la borsetta
@@ -586,17 +550,11 @@ la scelta
 to choose
 scegliere
 
-to share (a meal)
-dividere
-
 to share (feelings, thoughts)
 condividere
 
 to reach
 raggiungere
-
-to join
-giungere
 
 salted
 salato
@@ -621,9 +579,6 @@ quarto
 
 fifth
 quinto
-
-room
-la camera
 
 camera
 la macchina fotografica
@@ -655,11 +610,8 @@ qualcosa da bere
 something to eat
 qualcosa da mangiare
 
-drink (starts with be)
-la bevanda
-
-drink (starts with bi)
-la bibbita
+drink
+la bevanda; la bibbita
 
 to call
 chiamare
@@ -673,17 +625,8 @@ masticare
 what to say when you answer the phone
 pronto
 
-to get out of (a car)
+to get out of
 scendere da
-
-to get into (a car)
-salire
-
-to turn on (a light)
-accendere
-
-to turn off (a light)
-spegnere
 
 to push
 spingere
@@ -721,7 +664,7 @@ dentro
 on; up (prep)
 su
 
-over (prep)
+over; above
 sopra
 
 under
@@ -736,11 +679,8 @@ di giù
 up above; upstairs
 di sopra
 
-inn (for eating, starts with t)
-la trattoria
-
-inn (for eating, starts with o)
-l'osteria
+inn (for eating)
+la trattoria; l'osteria
 
 store; shop
 il negozio
@@ -754,17 +694,11 @@ battere
 to fish
 pescare
 
-fishing
-la pesca
-
-peach
+fishing; peach
 la pesca
 
 pear
 la pera
-
-to look for
-cercare
 
 to find
 trovare
@@ -805,20 +739,11 @@ troppo
 too many
 troppi
 
-to show (something)
-mostrare
-
-to send (starts with m)
-mandare
-
-to send (starts with s)
-spedire
+to send
+mandare; spedire
 
 to speak fluently
 parlare speditamente
-
-calm (starts with t)
-tranquillo
 
 sauce
 il sugo
@@ -835,9 +760,6 @@ la panna montata
 beef
 il manzo
 
-pork
-il maiale
-
 boar
 il cinghiale
 
@@ -846,9 +768,6 @@ il tartufo
 
 basil
 il basilico
-
-pepper
-il pepe
 
 salt
 il sale
@@ -879,9 +798,6 @@ senza
 
 with
 con
-
-palace; building
-il palazzo
 
 dome
 il duomo
@@ -916,11 +832,8 @@ la sforza
 to avoid
 evitare
 
-except (starts with t)
-tranne
-
-except (starts with e)
-eccetto
+except
+tranne; eccetto
 
 beach
 la spiaggia
@@ -951,9 +864,6 @@ andare a dormire
 
 to clean
 pulire
-
-clean
-pulito
 
 dirty
 sporco
@@ -1024,7 +934,7 @@ sedersi
 seat
 il sede
 
-sofa
+sofa; couch
 il divano
 
 chair
@@ -1099,9 +1009,6 @@ la nipote
 uncle
 lo zio
 
-inlaw
-il suocero
-
 spouse
 lo sposo
 
@@ -1159,7 +1066,7 @@ la porta
 floor
 il piano
 
-pavement
+pavement; floor
 il pavimento
 
 sidewalk
@@ -1231,9 +1138,6 @@ aspettare
 to expect
 aspettarsi
 
-to drive
-guidare
-
 maybe; if only I could
 magari
 
@@ -1255,7 +1159,7 @@ ieri
 day before yesterday
 l'altro ieri
 
-breast (of chicken)
+breast (of chicken); chest
 il petto
 
 breakfast
@@ -1284,12 +1188,6 @@ il nord
 
 south
 il sud
-
-west
-l'ovest
-
-east
-l'est
 
 tree
 l'albero
@@ -1411,9 +1309,6 @@ maiuscolo
 lowercase
 minuscolo
 
-towel
-l'asciugamano
-
 dishwasher
 la lavastoviglie
 
@@ -1510,7 +1405,7 @@ consigliare
 tunnel
 la galleria
 
-clock
+clock; watch
 l'orologio
 
 now
@@ -1543,11 +1438,8 @@ il pomodoro
 it's enough
 basta
 
-to happen (starts with c)
-capitare
-
-to happen (starts with s)
-succedere
+to happen
+capitare; succedere
 
 it takes; it requires
 ci vuole
@@ -1609,7 +1501,7 @@ la capella
 common (adj)
 comune
 
-community
+community; municipality
 il comune
 
 careful!
@@ -1635,9 +1527,6 @@ la voglia
 
 to kick
 calciare
-
-soccer
-il calcio
 
 english (adj)
 inglese
@@ -1696,10 +1585,10 @@ spendere
 lens
 il lente
 
-in the meantime (starts with i)
+in the meantime
 intanto
 
-meanwhile (starts with n)
+meanwhile
 nel frattempo
 
 fraud
@@ -1714,11 +1603,8 @@ il giardino
 instead of
 invece di
 
-loud
+loud; noisy
 rumoroso
-
-quiet
-silenzioso
 
 corner
 l'angolo
@@ -1780,9 +1666,6 @@ simpatico
 generous
 generoso
 
-funny; witty
-spiritoso
-
 interesting
 interessante
 
@@ -1806,12 +1689,6 @@ prudente
 
 talkative
 chiacchierone
-
-peaceful
-tranquillo
-
-safe
-sicuro
 
 affectionate
 affettuoso
@@ -1900,9 +1777,6 @@ stupido
 old (person)
 anziano
 
-tall
-alto
-
 handsome; beautiful
 bello
 
@@ -1911,9 +1785,6 @@ atletico
 
 muscular
 muscoloso
-
-short; low
-basso
 
 ugly
 brutto
@@ -1926,9 +1797,6 @@ gracile
 
 long
 lungo
-
-smooth
-liscio
 
 smooth; straight; sleek
 liscio
@@ -2095,9 +1963,6 @@ la lampada
 bookshelf
 la mensola
 
-couch
-il divano
-
 wardrobe
 l'armadio
 
@@ -2115,9 +1980,6 @@ la lavagna
 
 whiteboard
 la lavagna bianca
-
-floor
-il pavimento
 
 chest of drawers
 la cassettiera
@@ -2143,23 +2005,14 @@ la cattedra
 remote control
 il telecomando
 
-watch
-l'orologio
-
 trash can
 il cestino
-
-eraser
-la gomma
 
 room
 la stanza
 
-bedroom
+bedroom; room
 la camera
-
-kitchen; cuisine
-la cucina
 
 living room
 il salotto
@@ -2461,12 +2314,6 @@ a sinistra
 in the center; downtown
 al centro
 
-above
-sopra
-
-straight
-dritto
-
 everywhere
 dappertutto
 
@@ -2506,7 +2353,7 @@ l'agnello
 cow
 la mucca
 
-pig
+pig; pork
 il maiale
 
 bird
@@ -2559,9 +2406,6 @@ la tazza
 
 bowl
 la scodella; la ciotola
-
-spoon
-il cucchiaio
 
 glass; drinking glass
 il bicchiere
@@ -2638,9 +2482,6 @@ la marmellata
 cheese
 il formaggio
 
-venegar
-l'aceto
-
 sugar
 lo zucchero
 
@@ -2695,9 +2536,6 @@ moderno
 new
 nuovo
 
-on; turned on
-acceso
-
 valid
 valido
 
@@ -2727,9 +2565,6 @@ numeroso
 
 useful
 utile
-
-noisy
-rumoroso
 
 guilty
 colpevole
@@ -2823,9 +2658,6 @@ asciutto
 
 wrong; mistaken
 sbagliato
-
-light
-leggero
 
 late
 in ritardo
@@ -2953,9 +2785,6 @@ la vela
 foil
 il fioretto
 
-pool
-la piscina
-
 ball
 il pallone
 
@@ -3064,9 +2893,6 @@ variabile
 head
 la testa
 
-chest
-il petto
-
 eye
 l'occhio
 
@@ -3099,9 +2925,6 @@ meglio
 
 worse
 peggio
-
-strange; weird
-strano
 
 cold (n)
 il raffreddore
@@ -3162,9 +2985,6 @@ la domenica
 
 the day after tomorrow
 dopodomani
-
-the day before yesterday
-l'altro ieri
 
 January
 gennaio
@@ -3244,9 +3064,6 @@ terminare
 to lunch
 pranzare
 
-to send
-mandare
-
 to live; to inhabit
 abitare
 
@@ -3289,9 +3106,6 @@ studiare
 to forget
 dimenticare
 
-to wait for; to await
-aspettare
-
 to send
 inviare
 
@@ -3325,7 +3139,7 @@ avvicinare
 to admire
 ammirare
 
-to search for
+to search for; to look for
 cercare
 
 to try
@@ -3361,9 +3175,6 @@ accettare
 to play (game)
 giocare
 
-to bring
-portare
-
 to become
 diventare
 
@@ -3381,9 +3192,6 @@ informare
 
 to move away
 allontanare
-
-to reserve
-prenotare
 
 to watch; to look at
 guardare
@@ -3673,9 +3481,6 @@ tossire
 to finish
 finire
 
-to send
-spedire
-
 to unit
 unire
 
@@ -3727,9 +3532,6 @@ impazzire
 to remember
 ricordarsi di
 
-to stop
-fermarsi
-
 to get tired of
 stancarsi di
 
@@ -3759,9 +3561,6 @@ chiamarsi
 
 to meet
 conoscersi
-
-to enjoy oneself; to have fun
-divertirsi
 
 to pledge; to commit
 impegnarsi
@@ -3795,9 +3594,6 @@ trovarsi
 
 to rest
 riposarsi
-
-to enjoy; to have fun
-divertirsi
 
 to meet
 incontrarsi
@@ -3868,9 +3664,6 @@ dire
 to have to; to must
 dovere
 
-to be
-essere
-
 to make; to do
 fare
 
@@ -3880,14 +3673,8 @@ morire
 to appear; to seem
 parere
 
-to please
-piacere
-
 to put; to place
 porre
-
-to be able to
-potere
 
 to stay; to remain
 rimanere
@@ -3897,9 +3684,6 @@ salire
 
 to know
 sapere
-
-to be
-stare
 
 to keep
 tenere
@@ -3916,7 +3700,7 @@ uscire
 to come
 venire
 
-turned on
+turned on; on
 acceso
 
 noticed
@@ -3981,9 +3765,6 @@ scelto
 
 writen
 scritto
-
-turned off; spent
-spento
 
 succeeded
 successo
@@ -4054,7 +3835,7 @@ la lavatrice
 air conditioning
 l'aria condizionata
 
-villa; residence
+villa; residence; large detached home
 la villa
 
 chapel
@@ -4138,7 +3919,7 @@ il freno
 wheel
 la ruota
 
-tire
+tire; eraser; rubber
 la gomma
 
 cute
@@ -4149,9 +3930,6 @@ attraente
 
 house
 la casa
-
-large, detached home
-la villa
 
 apartment
 l'appartamento
@@ -4314,9 +4092,6 @@ il turista
 
 mayor
 il sindaco
-
-municipality
-il comune
 
 pot
 la pentola
@@ -4596,9 +4371,6 @@ la farmacia
 
 tire (for car)
 il pneumatico
-
-rubber
-la gomma
 
 steel
 l'acaio
