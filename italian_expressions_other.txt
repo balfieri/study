@@ -50,18 +50,6 @@ allungare il collo
 arrendersi
 alzare bandiera bianca
 
-atteggiarsi in modo orgoglioso
-alzare la cresta
-
-iniziare un'impresa
-alzare le vele
-
-ritirarsi da un'attività
-ammainare le vele
-
-andare d'accordo; avere grande familiarità
-andare a braccetto
-
 fare atto di sottomissione umiliante ammettendo i propri errori e riconoscendo la supremazia dell'avversario
 andare a Canossa
 
@@ -112,12 +100,6 @@ a malapena
 
 uccidere in modo brutale senza il minimo rimorso
 ammazzare come un cane
-
-quando si desidera che qualcosa, oltre a essere utile, possa appagare anche il senso estetico
-anche l'occhio vuole la sua parte
-
-andare molto volentieri in un posto, tanto che lo si farebbe perfino saltando su una gamba sola
-andarci con una gamba sola
 
 andare alla perfezione; essere molto adatto
 andare a fagiolo
@@ -181,9 +163,6 @@ andare in bianco
 
 accettare gli ostacoli della vita
 andare incontro al proprio destino
-
-quando di qualcosa non resta niente, perche' distrutta o esaurita
-andare in fumo
 
 perdere la lucidità mentale
 andare in tilt
@@ -1106,9 +1085,6 @@ mettere lo zampino
 dedicarsi a troppe attività contemporaneamente
 mettere troppa carne al fuoco
 
-impegnarsi al massimo
-mettercela tutta
-
 non lasciare possibilità di scelta
 mettere alle corde
 
@@ -1691,17 +1667,8 @@ non badare a spese
 the world is our oyster
 il mondo è nostro
 
-chi manovra qualcuno o qualcosa in modo nascosto o in segreto
-agire dietro le quinte
-
 fare del bene a chi può diventare una minaccia in futuro
 allevare una serpe in seno
-
-cercare di vedere qualcosa facendo in modo che gli altri non se ne accorgano
-allungare il collo
-
-arrendersi
-alzare bandiera bianca
 
 atteggiarsi in modo orgoglioso
 alzare la cresta
@@ -1718,42 +1685,6 @@ andare a braccetto
 fare atto di sottomissione umiliante ammettendo i propri errori e riconoscendo la supremazia dell'avversario
 andare a Canossa
 
-defecare
-andare di corpo
-
-perdere il filo del discorso
-andar per rane
-
-diventare più stupidi di prima
-andar vitello e tornare bue
-
-mangiare a scrocco, a gratis, a sbafo senza pagare
-a ufo
-
-in segno di ringraziamento alla Divina Provvidenza per essere scampato a un grave pericolo
-accendere un lume alla Madonna
-
-essere sommersi dai debiti
-affogare nei debiti
-
-molto agile come il gatto che salta e si arrampica dappertutto
-agile come un gatto
-
-perfezionare la mira
-aggiustare il tiro
-
-sforzarsi per capire o risolvere un problema
-aguzzar l'ingegno
-
-in modo sbrigativo anche se impreciso
-alla garibaldina
-
-sotto gli occhi di tutti, in pubblico
-alla luce del sole
-
-arrendersi oppure picchiare qualcuno
-alzare le mani
-
 diffondersi rapidamente, come la macchia d'olio su una tovaglia
 a macchia d'olio
 
@@ -1768,15 +1699,6 @@ anche l'occhio vuole la sua parte
 
 andare molto volentieri in un posto, tanto che lo si farebbe perfino saltando su una gamba sola
 andarci con una gamba sola
-
-andare alla perfezione, essere molto adatto
-andare a fagiolo
-
-essere gradito, essere d'accordo
-andare a genio
-
- quando una cosa procede con successo, nel migliore dei modi
-andare a gonfie vele
 
 quando fallisce il tentativo di fare qualcosa
 andare a monte
@@ -1834,9 +1756,6 @@ andare incontro al proprio destino
 
 quando di qualcosa non resta niente, perché distrutta o esaurita
 andare in fumo
-
-perdere la lucidità mentale
-andare in tilt
 
 quando i tempi di una situazione si allungano
 andare per le lunghe
@@ -2741,9 +2660,6 @@ mettere lo zampino
 dedicarsi a troppe attività contemporaneamente
 mettere troppa carne al fuoco
 
-impegnarsi al massimo
-mettercela tutta
-
 non lasciare possibilità di scelta
 mettere alle corde
 
@@ -3248,9 +3164,6 @@ agire dietro le quinte
 a profusione
 à gogo
 
-sommariamente
-a grandi linee
-
 fare del bene a chi in futuro sarà una minaccia
 allevare una serpe in seno
 
@@ -3263,12 +3176,6 @@ alzare la cresta
 picchiare qualcuno
 alzare le mani
 
-anche l'aspetto estetico delle cose è importante
-anche l'occhio vuole la sua parte
-
-piacere
-andare a genio
-
 procedere benissimo
 andare a gonfie vele
 
@@ -3277,9 +3184,6 @@ andarci coi piedi di piombo
 
 scappare umiliati
 andarsene con la coda tra le gambe
-
-subire un'umiliazione
-andare a Canossa
 
 di qualcosa fallito, distrutto o esaurito
 andare in fumo
@@ -6610,9 +6514,6 @@ avere maniere scostanti
 
 to be on the rebound
 cercare di riprendersi da una separazione
-
-to be someone's cup of tea
-andare a genio; essere perfetto per qualcuno
 
 to be the apple of one's eye
 essere al centro dell'attenzione
