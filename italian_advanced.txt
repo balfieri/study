@@ -2474,7 +2474,7 @@ disagreement
 il discordo
 
 by default
-automaticamente considerato
+per default; automaticamente considerato
 
 to tune
 sintonizzare
