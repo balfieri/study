@@ -1,35 +1,8 @@
-gut
-la pancia
-
 invoice
 la fattura
 
-to pull one's leg
-prendersi in giro
-
-rubber
-la gomma
-
-boarding pass
-la carta d'imbarco
-
-fine
-la multa
-
-cable
-il cavo
-
-lighthouse
-il faro
-
 shark
 lo squalo
-
-hurricane
-l'uragano
-
-nap
-il pisolino
 
 baking soda
 il bicarbonato di sodio
@@ -46,44 +19,17 @@ il codardo
 arrow
 la freccia
 
-uppercase
-maiuscolo
-
-lowercase
-minuscolo
-
 beach towel
 il telo mare
 
 knoll
 il poggio
 
-in cash
-in contanti
-
 shenanigans
 gli imbrogli
 
 closet
 il ripostiglio
-
-mild
-mite
-
-helmet
-il casco
-
-vents
-la sfoga
-
-to bite
-mordare
-
-bite (n)
-il mordo
-
-nurse
-l'infermiera
 
 mess
 il pasticcio
@@ -100,12 +46,6 @@ gli agrumi
 flatbread
 la piadina
 
-scissors
-i forbici
-
-stale
-stantio
-
 rusty
 arrugginito
 
@@ -121,14 +61,8 @@ esigente
 challenging
 impegnativo
 
-pork
-carne di maiale
-
 to look good; to take a good look
 guardarsi bene
-
-tunnel
-la galleria
 
 almond
 la mandorla
@@ -136,23 +70,8 @@ la mandorla
 to rent (an apartment)
 affitare
 
-volleyball (starts with p)
-il pallavolo
-
-volleyball (starts with v)
-il volley
-
-sensible
-sensitivo
-
 trickster
 l'imbroglione
-
-mosquito
-la zanzara
-
-to suffer
-subire
 
 to receive (starts with a); to welcome; to accept
 accogliere
@@ -195,9 +114,6 @@ l'hobby
 
 hobby (starts with p)
 il passatempo
-
-aircraft
-l'aereo
 
 privilege
 il privilegio
@@ -264,12 +180,6 @@ deporre un uovo
 
 loaf
 la pagnotta
-
-teaspoon
-il cucchiaino
-
-tablespoon
-il cucchiaio
 
 crushed tomatoes
 i pomodorini schiacciati
@@ -385,9 +295,6 @@ la ruga
 packing
 l'imballo
 
-to execute
-eseguire
-
 middle of nowhere
 il mezzo del nulla
 
@@ -396,9 +303,6 @@ perdersi
 
 to fall for it
 cascarci
-
-turkey
-il tacchino
 
 at the turn of the century
 al volgere del secolo
@@ -481,9 +385,6 @@ ruotare
 seafood
 i frutti di mare
 
-marriage
-il matrimonio
-
 to warn; to caution; to alert
 avvisare; avvertire
 
@@ -508,9 +409,6 @@ il diritto d'autore
 loyal
 leale
 
-meanwhile (starts with n)
-nel frattempo
-
 citizenship by descent
 la cittadinanza per descendenza
 
@@ -525,9 +423,6 @@ posteriore
 
 front (adj)
 anteriore
-
-wheel
-la ruota
 
 tire
 lo pneumatico
@@ -595,9 +490,6 @@ l'impennata
 to stem
 arginare
 
-to heal; to recover; to cure
-guarire
-
 artificial
 artificioso
 
@@ -606,9 +498,6 @@ genuino
 
 affectation
 affettazione
-
-to lend
-prestare
 
 embers
 la brace
@@ -630,9 +519,6 @@ il pareggio
 
 straw
 la paglia
-
-ok (adj)
-a posto
 
 ox
 il bue
@@ -658,9 +544,6 @@ anche se
 to flaunt
 sfolgiare
 
-board (like black or white board)
-la lavagna
-
 stamp (n)
 il francobollo
 
@@ -679,17 +562,11 @@ modificare
 to rewrite
 riscrivere
 
-broken
-rotto
-
 companion
 il compagno
 
 to scold
 sgridare
-
-to scream
-gridare
 
 headwind
 il vento contrario
@@ -751,17 +628,11 @@ il tasto
 icon
 una icona
 
-to come out
-uscire
-
 all in all
 nel complesso
 
 it changed
 è cambiato
-
-meat(s)
-la carne
 
 harbor
 il porto
@@ -780,9 +651,6 @@ salire a bordo di
 
 to demand
 esigire
-
-housewife
-la casalinga
 
 heading; header
 l'intestazione
@@ -826,9 +694,6 @@ cancellare
 to annul; to cancel
 annullare
 
-to chew
-masticare
-
 rating
 la valutazione
 
@@ -841,17 +706,11 @@ il pilotaggio
 at all times
 sempre
 
-cloud
-la nuvola
-
 in the clouds
 nelle nuvole
 
 anyway; however
 comunque
-
-fog
-la nebbia
 
 notes
 gli appunti; le note
@@ -870,9 +729,6 @@ la sfida
 
 route
 la rotta
-
-to turn around; to turn oneself
-girarsi
 
 rather than
 anzichè
@@ -1021,14 +877,8 @@ il panino
 long, narrow-shaped blade
 lo stiletto
 
-taste
-il gusto
-
 with gusto
 con grande energia; con grande enthusiasmo
-
-drink
-la bibita
 
 neutral
 neutro
@@ -1081,9 +931,6 @@ la stiva
 layover
 lo scalo
 
-stopover
-la sosta
-
 surcharge
 il sovraprezzo
 
@@ -1105,9 +952,6 @@ la madrelingua
 income
 i soldi entranti
 
-to visit (a site)
-passare
-
 suburbs
 la provincia; i sobborghi
 
@@ -1116,9 +960,6 @@ ogni lunedì; di lunedì; il lunedì
 
 in May
 in maggio
-
-cover (of a pot)
-il coperchio
 
 to go out with friends
 uscire con gli amici
@@ -1149,9 +990,6 @@ chiacchiericcio
 
 lumberjack
 il taglialegna
-
-flowerbed
-l'aiuola
 
 untie him
 sciogligli
@@ -1207,9 +1045,6 @@ arrampicarsi
 to mop
 passare lo straccio
 
-to go crazy
-impazzire
-
 legitimate
 legittimo
 
@@ -1261,9 +1096,6 @@ mi raccomando! ti prego!
 to recommend (something to somebody)
 raccomandare
 
-to advise
-consigliare
-
 by chance; by any chance
 per caso
 
@@ -1306,17 +1138,11 @@ scolare
 jury
 la giuria
 
-arugola
-la rucola
-
 wig
 la parrucca
 
 hairdresser
 la parrucchiera
-
-in the meantime (starts with i)
-intanto
 
 successful
 di successo
@@ -1359,9 +1185,6 @@ la perseveranza
 
 dutiful; proper
 doveroso
-
-helpful; useful
-utile
 
 contestant
 il concorrente
@@ -1459,9 +1282,6 @@ a distanza
 the sore; the plague
 la piaga
 
-o solve
-risolvere
-
 rub (n)
 la stroffa
 
@@ -1473,9 +1293,6 @@ strofinare
 
 to drive away
 scacciare
-
-silly person
-il buffone
 
 performance clown
 il pagliaccio
@@ -1506,9 +1323,6 @@ dilettantistico
 
 as well as; not to mention; let alone
 nonché
-
-lightening bolt
-il fulmine
 
 tee area
 l'area di partenza
@@ -1596,9 +1410,6 @@ tritare
 
 cruel
 crudele
-
-to comb
-pettinare
 
 dumpling
 lo gnocco
@@ -1768,9 +1579,6 @@ progressivo
 progressive (noun)
 il progressista
 
-to defeat; to conquer
-sconfiggere
-
 to raise kids
 crescere dei figli
 
@@ -1812,9 +1620,6 @@ la superbia
 
 sloth; laziness; idleness
 l'accidia; la pigrizia
-
-gluttony
-la gola
 
 lust; carnality; lasciviousness
 la lussuria
@@ -1863,9 +1668,6 @@ il falso amico
 
 outwardly
 apparentemente
-
-bank; edge
-la sponda
 
 bet
 la scommessa
@@ -2086,9 +1888,6 @@ il mendicante
 garb; clothing
 l'abbigliamento; l'abito
 
-garage
-il garage
-
 to go on
 andare avanti
 
@@ -2160,9 +1959,6 @@ la radice
 
 income; revenue
 il reddito
-
-to attempt
-tentare
 
 or; i.e.
 ovvero
@@ -2326,9 +2122,6 @@ pazzo; folle; impazzito; insano
 crazed; crazy
 impazzito
 
-mad (insane)
-matto
-
 disagreement
 il discordo
 
@@ -2344,20 +2137,11 @@ in cima di
 at the bottom of
 in fondo a
 
-on time
-in orario
-
 luckily, fortunately
 menomale; per fortuna; fortunatamente
 
 unfortunately
 purtroppo; sfortunatamente
-
-anger
-la rabbia
-
-loving; affectionate
-affettuoso
 
 to choose; to select
 scegliere; selezionare
@@ -2397,9 +2181,6 @@ il tempo
 
 gist
 l'essenza; la sostanza
-
-around; about
-attorno
 
 fever
 la febbre
@@ -2485,9 +2266,6 @@ ricongiungere
 dated
 datato
 
-to ensure
-assicurare
-
 to make sure that
 assicurarsi che
 
@@ -2532,9 +2310,6 @@ introverso
 
 to capture the essence
 catturare l'essenza
-
-to skip
-saltare
 
 for the most part
 per lo più; sopprattutto
@@ -2653,9 +2428,6 @@ il motorino
 to make the bed
 fare il letto
 
-belt
-la cintura
-
 vest
 la canottiera
 
@@ -2671,9 +2443,6 @@ mettere in punizione
 to be put on just bread and water (bare essentials)
 mettere a pane e acqua
 
-to refuse (something)
-rifiutare
-
 to refuse to (do something)
 rifiutarsi di
 
@@ -2682,9 +2451,6 @@ finora
 
 college degree
 la laurea
-
-to coerce
-costringere
 
 to fool; to cheat
 ingannare
@@ -2739,9 +2505,6 @@ nominare
 
 to rename
 rinominare
-
-trash
-il cestino
 
 a high-pressure situation
 una situazione da alta pressione
@@ -2829,9 +2592,6 @@ controcorrente
 
 distressing
 penoso
-
-annoying
-fastidioso
 
 irritating
 irritante
@@ -2949,9 +2709,6 @@ il torneo di golf
 
 spocchioso
 snotty
-
-to digest; to stomach; to tolerate
-digerire
 
 means
 i mezzi
@@ -3082,9 +2839,6 @@ tenersi
 if need be
 eventualmente
 
-fly; housefly
-la mosca
-
 obnoxious
 odioso; detestabile; ripugnante
 
@@ -3093,9 +2847,6 @@ musone; burbero; bisbetico
 
 out there
 là fuori; lì fuori
-
-to remove; to take off; to strip
-togliere
 
 to brag
 vantarsi
@@ -3163,9 +2914,6 @@ il bordello
 glassworks
 la cristalleria
 
-moustache; wisker; mustache
-i baffi
-
 hindrance; obstacle; encumbrance
 l'impaccio
 
@@ -3174,12 +2922,6 @@ intromettersi
 
 exhausted
 esaurito
-
-to exhaust; to run out of; to use up
-esaurire
-
-committed; engaged; busy
-impegnato
 
 to engage; to commit; to pledge
 impegnare
@@ -3412,9 +3154,6 @@ affrettare
 to overuse
 abusare di
 
-tent; blind; curtain
-la tenda
-
 to return; to reciprocate; to repay
 ricambiare
 
@@ -3556,14 +3295,8 @@ atteggiarsi
 to pollute; to contaminate; to spoil
 inquinare
 
-pollution
-l'inquinamento
-
 fossil fuels
 i combustibili fossili
-
-to disappear; to vanquish; to go away
-sparire
 
 at first glance; at first sight
 a prima vista
@@ -3598,9 +3331,6 @@ l'Olanda
 to fake; to misrepresent; to distort
 falsare
 
-to remind (someone)
-ricordare
-
 track; passage
 il brano
 
@@ -3618,9 +3348,6 @@ ricorrente
 
 to belong
 appartenere
-
-son-in-law
-il genero
 
 at a young age
 in giovane età
@@ -3814,9 +3541,6 @@ la fase
 source code
 il codice sorgente
 
-massage
-il massaggio
-
 to massage
 massaggiare
 
@@ -3840,9 +3564,6 @@ il narcotrafficante
 
 to deal; to push (drugs); to peddle
 spacciare
-
-to continue; to go on; to proceed; to follow
-proseguire
 
 to recharge; to reload
 ricaricarsi
@@ -3937,14 +3658,8 @@ apporre
 to tighten
 stringere
 
-tight; tightened
-stretto
-
 open mind
 la testa aperta
-
-to yell; to scream; to cry
-urlare
 
 to submit; to subject
 sottoporre
@@ -4023,9 +3738,6 @@ affascinante
 
 heating
 il riscaldamento
-
-lane
-la corsia
 
 to keep right
 tenere la destra
@@ -4222,9 +3934,6 @@ gocciare
 exceptional
 eccezionale
 
-marvelous; wonderful
-meraviglioso
-
 not to miss
 da non perdere
 
@@ -4357,9 +4066,6 @@ l'hai fatto ancora!
 at the risk of
 a rischio di essere
 
-reckless
-spericolato
-
 recklessness
 la spericolatezza
 
@@ -4426,9 +4132,6 @@ un buon senso dell'umorismo
 to mind; to regret; to be sorry; to displease (but in opposite direction)
 dispiacere; spiacere
 
-past (n)
-il passato
-
 nonfiction
 la saggistica
 
@@ -4440,9 +4143,6 @@ that's what I'm here for; that's why I'm here
 
 belt; strap; thong
 la cinghia
-
-attractive
-attraente
 
 I'm here to help
 sono qui per aiutare
@@ -4561,20 +4261,8 @@ la striscia
 strip of land
 la striscia di terra
 
-to abhor
-aborrire
-
-to agree; to consent
-acconsentire
-
-to applaud; to clap
-applaudire
-
 to assent
 assentire
-
-to absorb
-assorbire
 
 to share; to divide
 compartire; dividere
@@ -4585,38 +4273,14 @@ convertire
 to sew
 cucire
 
-to lie
-mentire
-
-to serve
-servire
-
-to cough
-tossire
-
 to die; to become deceased
 decedere
-
-to wait for
-attendere
 
 to precede
 precedere
 
-to promise
-promettere
-
-to repeat
-ripetere
-
-to fear
-temere
-
 to weave
 tessere
-
-to dine
-cenare
 
 to consider
 considerare
@@ -4630,9 +4294,6 @@ disegnare
 to doubt
 mettere in dubbio; dubitare
 
-to lunch
-pranzare
-
 to be quiet; to keep quiet; to stay quiet
 tacere
 
@@ -4644,9 +4305,6 @@ mordere
 
 to milk; to squeeze; to ring
 mungere
-
-to seem; to appear
-parere
 
 opinion (begins with p)
 il parere
@@ -4693,9 +4351,6 @@ dolere
 to cast; to melt; to fuse
 fondere
 
-to put
-porre
-
 to restrict
 restringere
 
@@ -4735,9 +4390,6 @@ spandere
 to wipe
 tergere
 
-to draw; to deduce
-trarre
-
 just in case
 solo nel caso
 
@@ -4764,9 +4416,6 @@ inseguire
 
 to escape (one's mind); to avoid
 sfuggire
-
-to clarify
-chiarire
 
 to season
 condire
@@ -5187,9 +4836,6 @@ il mestiere
 
 to nest; to nestle
 annidarsi
-
-to grant; to allow; to concede
-concedere
 
 to spread; to broadcast; to diffuse
 diffondere
@@ -5626,9 +5272,6 @@ quindi
 so; thus; such
 così
 
-then; so; now; at that time
-allora
-
 in conclusion
 insomma; per concludere
 
@@ -5671,9 +5314,6 @@ attestare
 residence permit
 il permesso di soggiorno
 
-residence
-il soggiorno
-
 fellow countrymen
 i connazionali; i compratioti
 
@@ -5713,9 +5353,6 @@ il popcorn al microonde
 luggage
 il bagaglio
 
-suitcase
-la valigia
-
 to smuggle
 contrabbandare; trafficare
 
@@ -5734,20 +5371,11 @@ ai vecchi tempi
 to grab; to grasp; to seize
 afferrare
 
-to catch (a ball)
-prendere
-
 to play catch
 fare due lanci
 
 just the other day
 proprio l'altro giorno
-
-the day before yesterday
-l'altro ieri
-
-the day after tomorrow
-dopodomani
 
 in my day
 ai miei tempi
@@ -5799,12 +5427,6 @@ da qua a là
 
 behind
 dietro di
-
-backwards
-indietro
-
-in front of
-davanti a
 
 forward
 avanti
@@ -5911,14 +5533,8 @@ commuovere
 after all
 in fondo
 
-shallow
-superficiale
-
 to barely scratch the surface
 per appena grattare la superficie
-
-deeper
-profondo
 
 additionally
 in aggiunta
@@ -6070,9 +5686,6 @@ il basso acustico
 tuba
 la tuba
 
-to catch up with; to reach
-raggiungere
-
 loser
 il perdente; lo sfigato
 
@@ -6217,9 +5830,6 @@ brillante; luminoso
 dim
 oscuro
 
-dark; gloomy
-buio
-
 darkness
 il buio
 
@@ -6261,9 +5871,6 @@ il protaganista
 
 agent
 l'agente
-
-to express
-esprimere
 
 tendency
 la tendency
@@ -6340,9 +5947,6 @@ lo sguardo
 look (taken)
 l'occhiata
 
-delay
-il ritardo
-
 Milky Way
 la via lattea
 
@@ -6360,9 +5964,6 @@ ambito da
 
 superficial male
 il maschio superficiale
-
-to possess
-possedere
 
 yearbook
 l'annuario scolastico
@@ -6444,9 +6045,6 @@ il fornello; la piastra calda
 
 meek
 mansueto
-
-to nurish; to feed
-nutrire
 
 resource
 la risora
@@ -6541,9 +6139,6 @@ che confonde
 meanwhile, for starters
 intanto, per cominciare
 
-rough; wiggly
-mosso
-
 was there ever any doubt?
 ci sono mai stati dubbi?
 
@@ -6571,14 +6166,8 @@ far avverare i suoi sogni
 scalp
 lo scalpo
 
-emergency room
-il pronto soccorso
-
 yummy; delicious
 delizioso
-
-heads up! caution! careful now!
-attenzione!
 
 it's just a matter of time
 è solo una questione di tempo
@@ -6882,9 +6471,6 @@ la pila
 
 to drag; to trail; to haul
 trascinare
-
-race
-la razza
 
 filthy; obcene; dirty
 sconcio
@@ -7255,9 +6841,6 @@ Pesach
 to mention
 citare; accennare; menzionare
 
-valid; not expired
-valido
-
 acceptable; effective; valid
 efficace; accettabile
 
@@ -7531,9 +7114,6 @@ pizzicare
 pinch
 il pizzicotto
 
-raspberry (fruit)
-il lampone
-
 raspberry (not the fruit)
 la pernacchia
 
@@ -7642,9 +7222,6 @@ la robustezza
 harshness
 la durezza
 
-doorbell
-il campanello
-
 to ring the doorbell
 suonare il campanello
 
@@ -7708,9 +7285,6 @@ l'argomento principale
 deposit
 il deposito; la caparra
 
-Austrian
-austriaco
-
 to blacken
 annerire
 
@@ -7734,9 +7308,6 @@ oscurare
 
 stay tuned
 restate sintonizzati
-
-tiger
-la tigre
 
 to keep informed; to keep up-to-date
 tenere informato
@@ -8149,9 +7720,6 @@ umanistico
 mnemonic
 mnemonico
 
-necklace; choker
-la collana
-
 interpreter; translator; performer
 l’interprete
 
@@ -8287,9 +7855,6 @@ la merce
 path; way; road
 il cammino
 
-to allow; to permit; to consent
-consentire
-
 hand gesture
 il gesto della mano
 
@@ -8340,9 +7905,6 @@ il criceto
 
 cheetah
 il ghepardo
-
-wild boar
-il cinghiale
 
 a patata
 flat-nosed
@@ -8514,9 +8076,6 @@ lo studio privato
 
 yard
 il cantiere
-
-skates
-i pattini
 
 organic food store
 il negozio prodotto biologico
