@@ -29,6 +29,9 @@ ad ampio respiro
 addentare; avventarsi con voracità
 affondare le zanne
 
+arrenddersi
+gettare la spugna
+
 fuggire velocemente
 a gambe levate
 
@@ -40,9 +43,6 @@ a gogo
 
 raccontare un fatto mantenendosi sul generico, trascurando i particolari
 a grandi linee
-
-fare del bene a chi può diventare una minaccia in futuro
-allevare una serpe in seno
 
 cercare di vedere qualcosa facendo in modo che gli altri non se ne accorgano
 allungare il collo
@@ -920,20 +920,11 @@ diccare il naso
 quando si è innamorati il sangue non circola bene
 freddo di mano, caldo di cuore
 
-invito a fuggire
-gambe in spalla
-
 avere una grana, un problema da risolvere
 gatta da pelare
 
 buttare via malamente
 gettare alle ortiche
-
-illudere
-gettare fumo negli occhi
-
-dimostrare apertamente le proprie intenzioni
-gettare la maschera
 
 arrendersi; rinunciare; ritarsi
 gettare la spugna
@@ -1700,44 +1691,8 @@ non badare a spese
 the world is our oyster
 il mondo è nostro
 
-lamentarsi o agitarsi inutilmente contro qualcuno che non ci ascolta o non è in grado di capire
-abbaiare alla luna
-
-ridimensionarsi, agire con meno superbia
-abbassare le ali
-
-cadere in un tranello o trappola
-abboccare all'amo
-
-in grandi quantità
-a bizzeffe
-
-quando si accetta un favore con il proposito di ricambiarlo appena possibile
-a buon rendere
-
-perdere tempo in cose inutili
-acchiappare farfalle
-
-parlare sinceramente
-a cuore aperto
-
-che abbraccia molte aree del sapere e che fornisce vari spunti di riflessione
-ad ampio respiro
-
-addentare, avventarsi con voracità
-affondare le zanne
-
-fuggire velocemente
-a gambe levate
-
 chi manovra qualcuno o qualcosa in modo nascosto o in segreto
 agire dietro le quinte
-
-a volontà, in abbondanza
-a gogo
-
-raccontare un fatto mantenendosi sul generico, trascurando i particolari
-a grandi linee
 
 fare del bene a chi può diventare una minaccia in futuro
 allevare una serpe in seno
@@ -2602,9 +2557,6 @@ gambe in spalla
 
 avere una grana, un problema da risolvere
 gatta da pelare
-
-buttare via malamente
-gettare alle ortiche
 
 illudere
 gettare fumo negli occhi
@@ -3650,17 +3602,11 @@ fuggire a gambe levate
 invito a fuggire
 gambe in spalla
 
-un problema da risolvere
-gatta da pelare
-
 buttar via, sprecare
 gettare alle ortiche; gettare al vento
 
 illudere
 gettare fumo negli occhi
-
-arrenddersi
-gettare la spugna
 
 intensificare un conflitto
 gettare paglia sul fuoco
