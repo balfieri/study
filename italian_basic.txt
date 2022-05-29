@@ -1651,34 +1651,19 @@ gli Stati Uniti
 France
 la Francia
 
-french (adj)
-francese
-
 Germany
 la Germania
-
-german (adj)
-tedesco
 
 Spain
 la Spagna
 
-spanish (adj)
-spangolo
-
-portuguese (adj)
-portoghese
-
 Ireland
 la Ghirlanda
 
-irish (adj)
-ghirlandese
-
-canadian
+Canadian
 canadese
 
-jewish
+Jewish
 ebreo
 
 London
@@ -1692,9 +1677,6 @@ Berlino
 
 Russia
 la Russia
-
-russian (adj)
-russo
 
 sensitive
 sensibile
@@ -2418,9 +2400,6 @@ l'aeroporto
 
 disco; discoteque
 la discoteca
-
-hotal
-l'albergo
 
 theatre
 il teatro
@@ -4176,9 +4155,6 @@ la villa
 
 apartment
 l'appartamento
-
-hairdrier
-l'asciugacapelli
 
 hand towel
 l'asciugamano
