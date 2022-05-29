@@ -295,7 +295,7 @@ in anticipio
 although
 benché
 
-in spite of
+in spite of; even though
 nonostante
 
 that said
@@ -451,9 +451,6 @@ la musicassetta
 video tape
 la videocassetta
 
-to welcome (starts with a)
-accogliere
-
 ingenuity
 l'ingegno
 
@@ -550,9 +547,6 @@ entrante
 incoming (starts with i)
 in partenza
 
-outgoing (personality)
-estroverso
-
 outgoing (leaving)
 uscente
 
@@ -589,9 +583,6 @@ le cuffie
 cap; bonnet
 la cuffia
 
-to trick
-ingannare
-
 to wander
 vagare
 
@@ -600,9 +591,6 @@ accostare
 
 soaring
 l'impennata
-
-tracking
-il tracciamento
 
 to stem
 arginare
@@ -661,11 +649,8 @@ restituire; ritornare
 bossy
 prepotente
 
-catchy (starts with o)
-orecchiabile
-
-catchy (starts with a)
-accattivante
+catchy
+accattivante; orecchiabile
 
 even if
 anche se
@@ -720,9 +705,6 @@ l'autista
 
 driver (starts with g)
 il guidatore
-
-to affix
-apporre
 
 to prepend
 anteporre
@@ -820,9 +802,6 @@ ossia
 advertisement
 l'inserzione
 
-to submit
-sottoporre
-
 to carry out; to fulfill; to accomplish
 svolgere
 
@@ -901,9 +880,6 @@ anzichè
 to beat; to hit; to strike
 picchiare
 
-heat; intensity
-la foga
-
 bracket
 la staffa
 
@@ -964,7 +940,7 @@ spaccare
 slang
 il gergo
 
-playful
+playful; joking
 scherzoso
 
 competition; sweepstakes contest
@@ -1102,9 +1078,6 @@ la cappelliera
 main luggage compartment
 la stiva
 
-luggage tag
-l'etichetta
-
 layover
 lo scalo
 
@@ -1116,9 +1089,6 @@ il sovraprezzo
 
 how much does it cost?
 a quanto ammonta?
-
-complaint
-il reclamo
 
 to search (someone)
 perquisire
@@ -1137,9 +1107,6 @@ i soldi entranti
 
 to visit (a site)
 passare
-
-to reach
-raggiungere
 
 suburbs
 la provincia; i sobborghi
@@ -1267,9 +1234,6 @@ longanime
 nonetheless
 ciò nonostante
 
-custom
-l'usanza
-
 treason; betrayal; treachery
 il tradimento
 
@@ -1300,7 +1264,7 @@ raccomandare
 to advise
 consigliare
 
-by chance
+by chance; by any chance
 per caso
 
 yet; nevertheless; still
@@ -1365,9 +1329,6 @@ tranne
 
 species (agriculture); based mainly on weight and size
 la pezzatura
-
-despite
-malgrado
 
 to whisk
 mantecare
@@ -1513,9 +1474,6 @@ strofinare
 to drive away
 scacciare
 
-first of all
-prima di tutto
-
 silly person
 il buffone
 
@@ -1542,9 +1500,6 @@ il colpo da golf; il tiro da golf
 
 golf clubs
 i bastoni da golf
-
-although
-sebbene
 
 amateur (adj)
 dilettantistico
@@ -1588,26 +1543,17 @@ al di là
 to give up
 mollare
 
-halfway point
-la via di mezzo
-
 spulciare
 to defile
 
 gypsy
 la zingariola; la zingara
 
-even though
-nonostante
-
 review (of subject)
 il ripasso
 
 mastery; command; grasp
 la padronanza
-
-to carry out
-svolgere
 
 to unfold; to take place
 svolgersi
@@ -1659,9 +1605,6 @@ lo gnocco
 
 employee
 il dipendente; l'impiegato; il lavoratore
-
-to displace
-spiazzare
 
 refugee
 il profugo
@@ -1738,12 +1681,6 @@ rallentarsi
 reading
 la lettura
 
-writing
-la scrittura
-
-joking (adj)
-scherzoso
-
 spicy
 speziato
 
@@ -1776,9 +1713,6 @@ la trattativa
 
 safeguard
 la salvaguardia
-
-surface
-la superficie
 
 to baptise
 battezzare
@@ -1843,7 +1777,7 @@ crescere dei figli
 hidden funds
 i fondi occulti
 
-to repulse
+to repulse; to repel
 respingere
 
 revolting
@@ -1884,9 +1818,6 @@ la gola
 
 lust; carnality; lasciviousness
 la lussuria
-
-idleness
-l'ozio
 
 lame; crippled person
 lo zoppo
@@ -1942,9 +1873,6 @@ la scommessa
 to hope
 auguriaresi
 
-to foresee; to predict
-prevedere
-
 foreseen; predicted; expected
 previso
 
@@ -1953,9 +1881,6 @@ la sciagura
 
 relief
 il sollievo
-
-to shake
-scuotere
 
 massive
 massiccio
@@ -1986,9 +1911,6 @@ la prememoria
 
 at the same time
 al tempo stesso
-
-procedure; manner; mode; rule
-la modalità
 
 to depopulate
 spopolare
@@ -2113,9 +2035,6 @@ per altro; d'altronde
 defeat; loss
 la sconfitta
 
-to tear
-strappare
-
 contemporary; peer
 il coetaneo
 
@@ -2224,9 +2143,6 @@ nonostante ciò
 neverthless; however; but
 tuttavia
 
-to grab
-afferrare
-
 to disappear
 scompare
 
@@ -2253,9 +2169,6 @@ ovvero
 
 to cower
 rannicchiarsi
-
-and so on
-e così via
 
 I can't help it
 non posso farci niente; non posso farne a meno; è più forte di me
@@ -2292,9 +2205,6 @@ aver facilità
 
 gossip
 i pettegolezzi
-
-mob
-la schiera
 
 to snare; to catch; to trap
 accalappiare
@@ -2368,9 +2278,6 @@ ripristinare
 to restore; to reinstate; to re-establish
 ristabilire
 
-to fill
-colmare
-
 eminent; outstanding; distinguished
 eminente
 
@@ -2389,9 +2296,6 @@ sgarbato
 to relapse
 ricadere
 
-to reflect
-rispecchiare
-
 pride
 l'orgoglio
 
@@ -2403,9 +2307,6 @@ rispetto a; in confronto a
 
 about; apropos (and not only at the beginning of a sentence)
 a proposito di
-
-with respect to (at the beginning of a sentence)
-per quanto riguarda
 
 keyboard
 la testiera
@@ -2437,9 +2338,6 @@ per default; automaticamente considerato
 to tune
 sintonizzare
 
-aware
-consapevole
-
 on top of
 in cima di
 
@@ -2463,9 +2361,6 @@ affettuoso
 
 to choose; to select
 scegliere; selezionare
-
-to hasten; to speed up
-affrettare
 
 holiday
 la festa; la vacanza
@@ -2620,9 +2515,6 @@ collinoso
 to impeach
 mettere sotto accusa; incriminare
 
-to struggle
-fare fatica
-
 haughty
 altezzoso
 
@@ -2724,12 +2616,6 @@ la brina
 
 dew
 la rugiada
-
-secondly
-in secondo luogo
-
-to overcome
-superare
 
 to feel free to
 sentirsi libero di
@@ -2929,9 +2815,6 @@ uffa!; uff!
 to get pregnant
 rimanere incinta
 
-besides (noun)
-oltre a
-
 to describe
 descrivere
 
@@ -2992,9 +2875,6 @@ i primi passi; i piccoli passi
 charge (like an electron); load; office; position
 la carica
 
-to repel
-respingere
-
 to attract
 attrarre
 
@@ -3022,9 +2902,6 @@ logorare
 right or wrong
 a torto o a ragione
 
-to resort to
-ricorrere a
-
 to abstain
 astenersi
 
@@ -3039,9 +2916,6 @@ l'atteggiamento
 
 to pose
 atteggiare
-
-to start; to begin; to commence
-avviare
 
 device
 il dispositivo
@@ -3075,9 +2949,6 @@ il torneo di golf
 
 spocchioso
 snotty
-
-belt
-la cinghia
 
 to digest; to stomach; to tolerate
 digerire
@@ -3130,7 +3001,7 @@ farsi capire
 to misinterpret
 fraintendere
 
-to surpass
+to surpass; to overcome
 superare
 
 to exceed
@@ -3148,7 +3019,7 @@ il rimbalzo
 order (n)
 la commessa
 
-to forecast
+to forecast; to forsee; to predict
 prevedere
 
 in competition
@@ -3196,7 +3067,7 @@ di tutto punto
 segretamente
 di nascosto
 
-substantial; common-law
+substantial; common-law; de facto
 di fatto
 
 indeed; actually; really
@@ -3255,9 +3126,6 @@ scoppiare
 
 to smear
 imbrattare
-
-wall
-la parete
 
 slap
 lo schiaffo
@@ -3451,9 +3319,6 @@ il pellegrino
 caution
 la cautela
 
-disappeared
-scomparso
-
 appeared
 comparso
 
@@ -3493,9 +3358,6 @@ il poveretto
 environmentalist
 l'ambientalista
 
-review (bigger thing)
-la rassegna
-
 to shipwreck
 naufragare
 
@@ -3504,9 +3366,6 @@ convolare
 
 to engage
 ingaggiare
-
-to get around; to workaround
-aggirare
 
 threshold; sill; doorstep
 la stoglia
@@ -3649,9 +3508,6 @@ solleticare; titillare; fare il solletico
 tickle
 il solletico
 
-since then
-da allora
-
 busy airport
 l'aeroporto affollato; l'aeroporto trafficato
 
@@ -3667,7 +3523,7 @@ schizzare
 to feast
 banchettare
 
-to hold; to detain; to keep
+to hold; to detain; to keep; to retain
 trattenere
 
 pat on the back
@@ -3751,7 +3607,7 @@ il brano
 nevermind
 non importa; lascia perdere
 
-to demand; to exact; to request
+to demand; to exact; to request; to claim
 pretendere
 
 to implore
@@ -3852,9 +3708,6 @@ accartocciato
 
 to crumple; to crush; to shrivel
 accartocciare
-
-to tear; to rip
-strappare
 
 torn
 strappato
@@ -3976,9 +3829,6 @@ fai pure! continue!
 motherhood
 la maternità
 
-by any chance
-per caso
-
 to foam; to sizzle; to form bubbles
 spumare
 
@@ -3991,7 +3841,7 @@ il narcotrafficante
 to deal; to push (drugs); to peddle
 spacciare
 
-to continue; to go on; to proceed
+to continue; to go on; to proceed; to follow
 proseguire
 
 to recharge; to reload
@@ -4057,7 +3907,7 @@ aggredire
 to rename; to rebaptize
 ribattezzare
 
-missing; deceased; departed
+missing; deceased; departed; disappeared
 scomparso
 
 turn; turning point
@@ -4084,9 +3934,6 @@ l'Ungheria
 to affix; to seal
 apporre
 
-de facto
-di fatto
-
 to tighten
 stringere
 
@@ -4102,7 +3949,7 @@ urlare
 to submit; to subject
 sottoporre
 
-track; tracing
+track; tracing; tracking
 il tracciamento
 
 treatment; cure; processing
@@ -4129,7 +3976,7 @@ lo stanziamento
 old thing (fig.)
 il ferro vecchio
 
-to edit; to draw up
+to edit; to draw up; to draft
 redigere
 
 drawn up
@@ -4167,9 +4014,6 @@ a parte questo
 
 procedure
 il procedimento
-
-custom; practice
-l'usanza
 
 to fascinate
 affascinare
@@ -4227,12 +4071,6 @@ fra altro
 
 8 out of 10 italians
 8 italiani su 10
-
-to detach; to tear off; to rip
-staccare
-
-current affairs
-l'attualità
 
 talented; gifted; equipped
 dotato
@@ -4318,7 +4156,7 @@ la furia
 mouse; rat
 il sorcio
 
-heat; enthusiasm; ardour
+heat; enthusiasm; ardour; intensity
 la foga
 
 to end well
@@ -4567,9 +4405,6 @@ calarsi
 constant (adj)
 costante
 
-to attest
-attestare
-
 accumulation; capitalization
 la capitalizzazione
 
@@ -4669,13 +4504,10 @@ il martello
 brick; tile
 il mattone
 
-ladder
-la scala
-
 to make a toast
 fare un brindisi; fare un toast
 
-handwriting
+handwriting; writing
 la scrittura
 
 to study hard and play hard
@@ -4771,9 +4603,6 @@ attendere
 to precede
 precedere
 
-to claim
-pretendere
-
 to promise
 promettere
 
@@ -4806,12 +4635,6 @@ pranzare
 
 to be quiet; to keep quiet; to stay quiet
 tacere
-
-to pick
-cogliere
-
-to remove
-togliere
 
 to persuade
 persuadere
@@ -4873,14 +4696,8 @@ fondere
 to put
 porre
 
-to edit; to draft
-redigere
-
 to restrict
 restringere
-
-to shake; to agitate
-scuotere
 
 to anoint; to oil
 ungere
@@ -4915,9 +4732,6 @@ sciogliere
 to spread
 spandere
 
-to keep quiet
-tacere
-
 to wipe
 tergere
 
@@ -4933,7 +4747,7 @@ definitivamente
 charge; errand; assignment
 l'incarico
 
-to arrange; to lay
+to arrange; to lay; to provide; to put in order
 disporre
 
 to test; to try
@@ -4960,17 +4774,11 @@ condire
 to distribute
 distribuire
 
-to bloom
-fiorire
-
 to weaken
 indebolire
 
 to make jealous
 ingelosire
-
-to upset; to vex
-innervosire
 
 to instruct; to educate
 istruire
@@ -4990,7 +4798,7 @@ sfiorire
 to transgress
 trasgredire
 
-to obey (starts with u)
+to obey
 ubbidire
 
 to hush; to shut up; to silence
@@ -5023,7 +4831,7 @@ superare un esame
 screen
 lo schermo
 
-to inquire; to enquire
+to inquire; to enquire; to ask
 informarsi
 
 movie theater
@@ -5110,12 +4918,6 @@ equo
 repeat after me
 ripeti dopo di me
 
-to constitute
-costituire
-
-to startle
-scattare
-
 broad
 ampio
 
@@ -5163,9 +4965,6 @@ sopportare; tollerare
 
 hitman; assassin
 il sicario
-
-to provide; to put in order
-disporre
 
 to provide; to furnish'
 fornire
@@ -5407,7 +5206,7 @@ tenere d'occhio
 register; registry
 albo
 
-label; tag
+label; tag; luggage tag
 l'etichetta
 
 tutelage; guardianship
@@ -5437,14 +5236,8 @@ lo stabile
 kiosk; door; window; gate
 lo sportello
 
-rent
-l'affitto
-
 allocation
 l'assegnazione
-
-recipient
-il destinatario
 
 classification
 tipologia
@@ -5458,14 +5251,8 @@ il consolidamento
 concerned; loyal; supportive
 solidale
 
-to place itself
-collocarsi
-
 premise; prelude
 la premessa
-
-achievement; accomplishment; attainment
-il conseguimento
 
 to attest; to substantiate
 comprovare
@@ -5518,7 +5305,7 @@ l'erogazione
 subsidy; financing
 la sovvenazione
 
-to reach an agreement; to agree
+to reach an agreement; to agree; to contract
 convenzionare
 
 next; beside; nearby
@@ -5554,7 +5341,7 @@ la ristrutturazione
 to dangle; to hang; to sag
 penzolare
 
-quiet; peace; calm
+quiet; peace; calm; calmness
 la quiete
 
 rough; harsh; rugged
@@ -5572,7 +5359,7 @@ scalcinare
 unpaved
 sterrato
 
-to circumvent; to bypass; to dodge
+to circumvent; to bypass; to dodge; to workaround; to get around
 aggirare
 
 in honor of
@@ -5698,9 +5485,6 @@ chiassoso
 paper (adj)
 cartaceo
 
-i.e.
-ovvero
-
 marathon
 il maratone
 
@@ -5740,9 +5524,6 @@ rintracciare
 to heal; to cure
 risanare
 
-to keep; to hold; to detain
-trattenere
-
 to deliver; to hand; to hand over
 consegnare
 
@@ -5760,9 +5541,6 @@ la sigla
 
 shrewdness
 l'accortezza
-
-to ask; to inquire
-informarsi
 
 hard-working
 laborioso; operoso; diligente
@@ -5848,7 +5626,7 @@ quindi
 so; thus; such
 così
 
-then; so; now
+then; so; now; at that time
 allora
 
 in conclusion
@@ -5911,9 +5689,6 @@ da allora
 since then (end of sentence)
 fin da allora
 
-at that time (in the past)
-allora
-
 around that time (era)
 all'epoca
 
@@ -5929,14 +5704,8 @@ la patria
 contracted
 convenzionato
 
-to contract
-convenzionare
-
 concerning this matter
 in proposito
-
-lane (road)
-la corsia
 
 microwave popcorn
 il popcorn al microonde
@@ -6049,7 +5818,7 @@ zelante
 zeal
 lo zelo
 
-aside from
+aside from; besides
 oltre a
 
 to evoke
@@ -6190,9 +5959,6 @@ in altre parole
 therefore; thus; hence
 perciò
 
-consequently; accordingly
-di conseguenza
-
 finally
 per finire
 
@@ -6268,10 +6034,7 @@ oltre a quanto è stato detto
 we're gonna have to; nothing left but to
 non ci resta che
 
-concerning; with respect to
-per quanto riguarda
-
-among other things
+concerning; with respect to; among other things; in terms of
 per quanto riguarda
 
 notwithstanding
@@ -6295,9 +6058,6 @@ ipoteticamente
 let's just say that
 poniamo il caso che
 
-clash; confrontation
-lo scontro
-
 barn
 la stalla; il granaio; il fienile
 
@@ -6310,7 +6070,7 @@ il basso acustico
 tuba
 la tuba
 
-to catch up with (somebody)
+to catch up with; to reach
 raggiungere
 
 loser
@@ -6321,9 +6081,6 @@ le previsioni del tempo
 
 weather report
 il meteo
-
-looks
-l'aspetto
 
 justice (state of fairness)
 la giustizia
@@ -6550,7 +6307,7 @@ fare notare; indicare; sottolineare
 to underline
 sottolineare
 
-extroverted; outgoing (person)
+extroverted; outgoing
 estroverso
 
 stupid thing
@@ -6568,7 +6325,7 @@ l'infrazione
 hierarchy
 la gerarchia
 
-compromise (between two ideas); middle ground; happy medium
+compromise; middle ground; happy medium; halfway point
 la via di mezzo
 
 behind the scenes; behind closed doors
@@ -6709,7 +6466,7 @@ automatizzare
 automation
 l'automatizzazione; l'automazione; la meccanizzazione
 
-to establish; to build up
+to establish; to build up; to constitute
 costituire
 
 solo
@@ -6780,9 +6537,6 @@ ospitare
 
 confusing
 che confonde
-
-disconcerting
-sconcertante
 
 meanwhile, for starters
 intanto, per cominciare
@@ -7018,9 +6772,6 @@ il boicottaggio
 to incite
 incitare
 
-to portray; to depict
-ritrarre
-
 freedom of speech
 la libertà di parola
 
@@ -7165,9 +6916,6 @@ la scaltrezza; le conoscenze di strada; la saggezza della strada
 cunning; crafty; sly
 furbo
 
-catchy
-orecchiabile
-
 catchy tune
 la canzone orecchiabile; la melodia orecchiabile
 
@@ -7207,7 +6955,7 @@ la grande padronanza di
 that's all that matters
 tutto ciò che conta
 
-appearance; look
+appearance; look; looks
 l'aspetto
 
 appearance; likeness
@@ -7402,7 +7150,7 @@ disinvolto
 portable; laptop
 portatile
 
-to detach; to tear off; to tear
+to detach; to tear off; to tear; to rip
 staccare
 
 to kindle; to provoke; to cause; to arouse
@@ -7597,9 +7345,6 @@ il venditore d'auto
 undercurrent; background
 il sottofondo
 
-to follow
-proseguire
-
 to land
 atterare
 
@@ -7620,9 +7365,6 @@ il razzo
 
 competition
 la concorrenza
-
-reliable
-affidabile
 
 to look good
 gardarsi bene
@@ -7891,7 +7633,7 @@ che sostegna
 to instill
 instillare
 
-resiliency
+resiliency; resilience
 la resilienza
 
 toughness; robustness
@@ -7951,12 +7693,6 @@ l'elicottero
 helicopter parents
 i genitori elicottero
 
-resilience
-la resilienza
-
-robustness
-la robustezza
-
 brutally
 brutalmente
 
@@ -7983,9 +7719,6 @@ la casella
 
 accidentally; by chance; casually
 casualmente
-
-to cheer up; to gladden
-rallegrare
 
 point of view
 il punto di vista
@@ -8218,9 +7951,6 @@ appianare
 epicenter
 l'epicentro
 
-to avert
-scongiurare
-
 measure (action); step
 il provvedimento
 
@@ -8233,7 +7963,7 @@ acciocché
 not at all
 macché
 
-staircase
+staircase; ladder
 la scala
 
 overweight
@@ -8437,7 +8167,7 @@ il reperimento
 to refer; to submit to
 fare capo
 
-modality; mode; manner
+modality; mode; manner; procedure; rule
 la modalità
 
 classification; ranking; list
@@ -8701,9 +8431,6 @@ l'agricoltura
 cultivation
 la coltivazione
 
-calmness
-la quiete
-
 seeding
 la semina
 
@@ -8772,9 +8499,6 @@ il centro benessere
 
 crater
 il cratere
-
-tent
-la tenda
 
 outline; plan
 la schema
