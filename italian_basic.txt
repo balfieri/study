@@ -1,6 +1,3 @@
-#
-# Italian - mostly basic, some intermediate
-#
 to be (intrinsic)
 essere
 
@@ -169,7 +166,7 @@ tanto
 so many
 tanti
 
-much 
+much
 molto
 
 many
@@ -279,9 +276,6 @@ violeta
 
 black
 nero
-
-white
-bianco
 
 true
 vero
@@ -667,7 +661,7 @@ la bevanda
 drink (starts with bi)
 la bibbita
 
-to call 
+to call
 chiamare
 
 to telephone
@@ -791,7 +785,7 @@ to rain
 piovere
 
 to cry
-piangere 
+piangere
 
 to laugh
 ridere
@@ -1489,9 +1483,6 @@ il cono
 including
 comprese
 
-beef
-il manzo
-
 pork
 carne di maiale
 
@@ -1537,9 +1528,6 @@ stasera
 today
 oggi
 
-have a good day
-buona giornata
-
 have a good evening
 buona serata
 
@@ -1551,9 +1539,6 @@ la mattina
 
 tomato
 il pomodoro
-
-good night
-buona notte
 
 it's enough
 basta
@@ -1762,9 +1747,6 @@ nascondersi
 well...; at that time
 allora
 
-alarm
-la sveglia
-
 painful
 doloroso
 
@@ -1810,62 +1792,50 @@ il ritardo
 nice; kind
 gentile
 
-good
-buono 
-
 nice; likeable
 simpatico
 
 generous
-generoso 
-
-calm
-calmo 
-
-fun
-divertente 
+generoso
 
 funny; witty
-spiritoso 
+spiritoso
 
 interesting
-interessante 
+interessante
 
 normal
-normale 
+normale
 
 virtuous
-virtuoso 
+virtuoso
 
 deep
-profondo 
+profondo
 
 orgindary
-ordinario 
+ordinario
 
 careful; attentive
-attento 
+attento
 
 prudent, cautious
-prudente 
-
-married
-sposato 
+prudente
 
 talkative
-chiacchierone 
+chiacchierone
 
 peaceful
-tranquillo 
+tranquillo
 
 safe
-sicuro 
+sicuro
 
 affectionate
-affettuoso 
+affettuoso
 
 curious
-curioso 
+curioso
 
 famous
 famoso
@@ -1873,224 +1843,191 @@ famoso
 young
 giovane
 
-happy
-felice
-
 happy; cheerful
 allegro
 
 rude; impolite
-scortese 
-
-bad
-cattivo 
+scortese
 
 unpleasant
-antipatico 
+antipatico
 
 stingy
 avaro; tirchio
 
 nervous
-nervoso 
-
-serious
-serio 
+nervoso
 
 impartial
-imparziale 
+imparziale
 
 boring
-noioso 
+noioso
 
 bored
 annoiato
 
 weird; strange
-strano 
+strano
 
 self-centered
-egocentrico 
+egocentrico
 
 superficial
-superficiale 
+superficiale
 
 glamourous; showy
-appariscente 
+appariscente
 
 careless
-disattento 
+disattento
 
 reckless
-spericolato 
+spericolato
 
 bachelor
 celibe
 
 bachelorette
-nubile 
+nubile
 
 shy
 timido
 
 strong
-forte 
-
-loud
-rumoroso 
+forte
 
 touchy; sensitive
-permaloso 
+permaloso
 
 annoying
 irritante; faticoso
 
 disinterested
-disinteressato 
+disinteressato
 
 unknown
-sconosciuto 
+sconosciuto
 
 weak
 debole
 
 stupid
-stupido 
+stupido
 
 old (person)
-anziano 
-
-sad
-triste
-
-fat
-grasso 
+anziano
 
 tall
 alto
 
 handsome; beautiful
-bello 
+bello
 
 athletic
-atletico 
+atletico
 
 muscular
 muscoloso
 
-thin
-magro 
-
 short; low
-basso 
+basso
 
 ugly
-brutto 
+brutto
 
 sporty
-sportivo 
+sportivo
 
 frail; puny
 gracile
 
 long
-lungo 
+lungo
 
 smooth
-liscio 
+liscio
 
 smooth; straight; sleek
 liscio
 
 rich
-riccio 
+riccio
 
 brunette
-brunetto 
-
-dark
-scuro 
-
-short
-corto 
+brunetto
 
 bald
-calvo 
+calvo
 
 wavy
-mosso 
+mosso
 
 brown (hair)
-castano 
+castano
 
 blond
-biondo 
+biondo
 
 mustache
 i baffi
 
 pants
-i pantaloni 
+i pantaloni
 
 suit
-il vestito 
+il vestito
 
 sweater
-il maglione 
+il maglione
 
 shirt
-la camicia 
+la camicia
 
 coat
-il cappotto 
+il cappotto
 
 suit; look
-l'abito 
+l'abito
 
 tie
-la cravatta 
-
-hat
-il cappello 
-
-shoes
-le scarpe 
+la cravatta
 
 socks
-i calzini 
+i calzini
 
 eyeglasses
 gli occhiali da vista
 
 sunglasses
-gli occhiali da sole 
+gli occhiali da sole
 
 earings
-gli orecchini 
+gli orecchini
 
 necklace
 la collana
 
 shorts
-i pantaloncini 
+i pantaloncini
 
 dress
-la skirt 
+la skirt
 
 t-shirt
-la maglietta 
+la maglietta
 
 blouse
-la camicetta 
+la camicetta
 
 jacket
-la giacca 
+la giacca
 
 raincoat
-l'impermeabile 
+l'impermeabile
 
 scarf
-la sciarpa 
+la sciarpa
 
 gloves
 le guanti
@@ -2104,14 +2041,11 @@ i sandali
 bathing suit
 il costume da bagno
 
-belt
-la cintura 
-
 bracelet
 il bracciale
 
 nurse
-l'infermiere; l'infermiera 
+l'infermiere; l'infermiera
 
 dentist
 il dentista
@@ -2120,13 +2054,13 @@ actor
 l'attore
 
 ballerina
-la ballerina 
+la ballerina
 
 engineer
-l'ingegnere 
+l'ingegnere
 
 waiter
-il cameriere 
+il cameriere
 
 policeman
 il poliziotto
@@ -2141,34 +2075,31 @@ worker
 il lavoratore
 
 doctor (medical)
-medico 
+medico
 
 doctor (PhD)
-il dottore; la dottoressa 
+il dottore; la dottoressa
 
 actress
-l'attrice 
+l'attrice
 
 studente
-lo studente; la studentessa 
+lo studente; la studentessa
 
 lawyer
-l'avvocato 
+l'avvocato
 
 bartender
-il barista 
+il barista
 
 architect
-l'architetto 
+l'architetto
 
 soccer player; footballer
-calciatore 
+calciatore
 
 housewife
-la casalinga 
-
-boss
-il capo
+la casalinga
 
 ceiling
 il soffitto
@@ -2179,29 +2110,23 @@ il tappeto
 lamp
 la lampada
 
-door
-la porta
-
 bookshelf
 la mensola
 
-chair
-la sedia
-
 couch
-il divano 
+il divano
 
 wardrobe
-l'armadio 
+l'armadio
 
 desk
-la scrivania 
+la scrivania
 
 vcr/tape recordere
-il registratore 
+il registratore
 
 keyboard
-la tastiera 
+la tastiera
 
 blackboard
 la lavagna
@@ -2210,61 +2135,58 @@ whiteboard
 la lavagna bianca
 
 floor
-il pavimento 
+il pavimento
 
 chest of drawers
-la cassettiera 
+la cassettiera
 
 fan
-il ventilatore 
-
-window
-la finestra 
+il ventilatore
 
 curtain
-la tenda 
+la tenda
 
 arm chair
-la poltrona 
+la poltrona
 
 painting
-lo quadro 
+lo quadro
 
 dresser
-la credenza 
+la credenza
 
 big desk
-la cattedra 
+la cattedra
 
 remote control
-il telecomando 
+il telecomando
 
 watch
-l'orologio 
+l'orologio
 
 trash can
-il cestino 
+il cestino
 
 eraser
 la gomma
 
 room
-la stanza 
+la stanza
 
 bedroom
-la camera 
+la camera
 
 kitchen; cuisine
-la cucina 
+la cucina
 
 living room
-il salotto 
+il salotto
 
 study (room); office; studying
-lo studio 
+lo studio
 
 garage
-il garage 
+il garage
 
 bathroom
 il bagno
@@ -2272,20 +2194,17 @@ il bagno
 ground floor
 il piano terra
 
-floor
-il piano
-
 guest bedroom; spare bedroom
-la camera degli ospiti 
+la camera degli ospiti
 
 terrace
 la terrazza
 
 dining room
-la sala da pranzo 
+la sala da pranzo
 
 living room; family room; residence
-il soggiorno 
+il soggiorno
 
 laundry room
 la lavanderia
@@ -2299,92 +2218,62 @@ il piano di sopra
 sky
 il cielo
 
-sun
-il sole 
-
 mountain
-la montagna 
+la montagna
 
 hill
-la collina 
+la collina
 
 plain
-la pianura 
+la pianura
 
 forest
-il bosco 
+il bosco
 
 bush
-il cespuglio 
+il cespuglio
 
 field
 il campo
 
-sea
-il mare 
-
-beach
-la spiaggia 
-
 bank (of river)
-la sponda 
-
-river
-il fiume 
-
-lake
-il lago 
+la sponda
 
 rock
-la roccia 
+la roccia
 
 park
 il parco
 
-star
-la stella 
-
-moon
-la luna 
-
 summit; top
-la cima 
+la cima
 
 peak
-la vetta 
+la vetta
 
 valley
-la valle 
+la valle
 
 tree
-l’albero 
-
-flower
-il fiore 
+l’albero
 
 lawn; grass; meadow
 il prato
 
 coast
-la costa 
-
-sand
-la sabbia 
+la costa
 
 bank; shore
-la riva 
+la riva
 
 stream
-il ruscello 
+il ruscello
 
 pond
-il laghetto 
+il laghetto
 
 waterfall
-la cascata 
-
-garden
-il giardino
+la cascata
 
 planet
 il pianeta
@@ -2393,22 +2282,16 @@ world
 il mondo
 
 peninsola
-la penisola 
+la penisola
 
 ocean
 l’oceano
 
 country
-la campagna 
+la campagna
 
 city
 la città
-
-north
-il nord
-
-south
-il sud
 
 east (n)
 l'est
@@ -2426,7 +2309,7 @@ Earth
 la Terra
 
 continent
-il continente 
+il continente
 
 island
 l’isola
@@ -2435,73 +2318,61 @@ country; village
 il paese
 
 building
-l'edificio 
+l'edificio
 
 statue
-la statua 
+la statua
 
 fountain
-la fontana 
+la fontana
 
 sidewalk
-il marciapiede 
+il marciapiede
 
 flower bed
-l'aiuola 
+l'aiuola
 
 quarter; district
-il quartiere 
+il quartiere
 
 traffic
-il traffico 
+il traffico
 
 square (gathering place)
-la piazza 
+la piazza
 
 village; district
-il borgo 
-
-street
-la strada 
-
-entrance
-l'ingresso 
-
-exit
-l'uscita
+il borgo
 
 building; palace
-il palazzo 
+il palazzo
 
 bridge
-il ponte 
+il ponte
 
 monument
-il monumento 
+il monumento
 
 downtown; center
-il centro 
+il centro
 
 historic center
-il centro storico 
+il centro storico
 
 bench
-la panchina 
+la panchina
 
-billboard 
-il tabellone 
+billboard
+il tabellone
 
 inhabitants
-gli abitanti 
-
-traffic light
-il semaforo 
+gli abitanti
 
 small square
 il margo
 
 alley; lane
-il vicolo 
+il vicolo
 
 main street; avenue
 il corso
@@ -2522,37 +2393,34 @@ restaurant
 il ristorante
 
 market
-mercatino 
+mercatino
 
 bookstore; bookshop; bookshelves
-la libreria 
-
-church
-la chiesa 
+la libreria
 
 stadium
-lo stadio 
+lo stadio
 
 city hall
-il municipio 
+il municipio
 
 ticket office
-la biglietteria 
+la biglietteria
 
 bus station
 la stazione degli autobus
 
 movie theater
-cinema 
+cinema
 
 airport
-l'aeroporto 
+l'aeroporto
 
 disco; discoteque
-la discoteca 
+la discoteca
 
 hotal
-l'albergo 
+l'albergo
 
 theatre
 il teatro
@@ -2563,17 +2431,11 @@ il distributore di benzina
 bank
 la banca
 
-museum
-il museo
-
-parking lot
-il parcheggio 
-
 cathedral
 il cattedrale
 
 train station
-la stazione ferroviaria 
+la stazione ferroviaria
 
 railway
 la ferrovia
@@ -2582,85 +2444,70 @@ bus stop
 la fermata dell’autobus
 
 car
-la macchina; l'auto 
+la macchina; l'auto
 
 moped; scooter
 il motorino ; il monopattino
 
-bus
-l'autobus 
-
-boat
-la barca 
-
 ship
-la nave 
+la nave
 
 motorcycle
-la motocicletta 
+la motocicletta
 
 train
-il treno 
+il treno
 
 ferry
-il traghetto 
+il traghetto
 
 plane; airplane
 l'aereo
 
 far
-lontano 
+lontano
 
 here
 qui
 
 in front of
-davanti a 
+davanti a
 
-di fronte a 
+di fronte a
 opposite
 
 on the left; to the left
-a sinistra 
+a sinistra
 
 in the center; downtown
-al centro 
+al centro
 
 above
 sopra
 
-inside
-dentro 
-
 straight
-dritto 
+dritto
 
 everywhere
 dappertutto
 
 near
-vicino 
+vicino
 
 next to
-accanto a 
+accanto a
 
 behind
-dietro 
+dietro
 
 around; about
-attorno 
+attorno
 
 on the right; to the right
-a destra 
+a destra
 
 on the corner
-all’angolo 
-
-under
-sotto 
-
-outside
-fuori
+all’angolo
 
 turn
 giro
@@ -2669,112 +2516,94 @@ nowhere
 da nessuna parte
 
 dog
-il cane 
+il cane
 
 horse
-il cavallo 
+il cavallo
 
 lamb
-l'agnello 
+l'agnello
 
 cow
-la mucca 
+la mucca
 
 pig
-il maiale 
+il maiale
 
 bird
-l'uccello 
+l'uccello
 
 hen
-la gallina 
+la gallina
 
 goose
-l'oca 
+l'oca
 
-il 
-pulcino 
+il
+pulcino
 
 fly
-la mosca 
+la mosca
 
 bee
 l'ape
 
 cat
-il gatto 
+il gatto
 
 donkey
-l'asino 
+l'asino
 
 sheep
-la pecora 
+la pecora
 
 calf; veal
-il vitello 
+il vitello
 
 rabbit
-il coniglio 
+il coniglio
 
 goat
-l'anatra 
+l'anatra
 
 rooster
-il gallo 
+il gallo
 
 turkey
-il tacchino 
-
-fish
-il pesce 
+il tacchino
 
 mosquito
 la zanzara
 
-fork
-la forchetta 
-
-knife
-il coltello 
-
 cup; coffee cup
-la tazza 
+la tazza
 
 bowl
 la scodella; la ciotola
 
-napkin
-il tovagliolo 
-
-refrigerator
-il frigorifero
-
 spoon
 il cucchiaio
 
-plate; dish
-il piatto
-
 glass; drinking glass
-il bicchiere 
+il bicchiere
 
 tablecloth
-la tovaglia 
+la tovaglia
 
 paper towels
-i tovaglioli di carta 
+i tovaglioli di carta
 
 pantry
 la dispensa
 
 ham
-il prosciutto 
+il prosciutto
 
 pork
 il maile
 
 sausage
-la salsiccia 
+la salsiccia
 
 orange
 l'arancia
@@ -2786,100 +2615,85 @@ grapes
 l'uva
 
 chicken
-il pollo 
+il pollo
 
 steak
-la bistecca 
+la bistecca
 
-apple 
+apple
 la mela
 
-pear
-la pera 
-
 blueberry
-il mirtillo 
+il mirtillo
 
 lemon
-il limone 
+il limone
 
-cherry 
-la ciliegia 
+cherry
+la ciliegia
 
 cherry tomato
-il pomodorino 
+il pomodorino
 
 carrot
-la carota 
+la carota
 
 potato
-la patata 
+la patata
 
 eggplant
-la melanzana 
+la melanzana
 
 salad
-l'insalata 
+l'insalata
 
 soup
-la zuppa 
+la zuppa
 
 juice
-il succo 
+il succo
 
 jam
-la marmellata 
-
-garlic
-l'aglio 
+la marmellata
 
 cheese
-il formaggio 
+il formaggio
 
 venegar
-l'aceto 
+l'aceto
 
 sugar
-lo zucchero 
+lo zucchero
 
 pepper (spice)
 il pepe
 
 flour
-la farina 
+la farina
 
 cereal
-i cereali 
-
-vegetable
-la verdura
+i cereali
 
 fig
 il fico
 
-tomato
-il pomodoro 
-
 onion
-la cipolla 
+la cipolla
 
 zucchini
-le zucchine 
+le zucchine
 
 mushroom
-il fungo 
+il fungo
 
 pepper (vegetable)
-il peperone 
+il peperone
 
 desert
 il dolce
 
 milk
 il latte
-
-butter
-il burro
 
 egg
 l'uovo
@@ -2893,35 +2707,20 @@ l'olio
 honey
 il miele
 
-salt
-il sale
-
-bread
-il pane
-
 rice
 il riso
 
-fruit
-la frutta
-
 modern
-moderno 
+moderno
 
 new
 nuovo
-
-open
-aperto
 
 on; turned on
 acceso
 
 valid
 valido
-
-big
-grande 
 
 busy; occupied
 occupato
@@ -2941,11 +2740,8 @@ pieno
 comfortable
 comodo
 
-wide
-largo
-
 easy
-facile 
+facile
 
 numerous
 numeroso
@@ -2953,53 +2749,38 @@ numeroso
 useful
 utile
 
-strong
-forte
-
 noisy
-rumoroso 
+rumoroso
 
 guilty
-colpevole 
+colpevole
 
 original
-originale 
+originale
 
 simple; easy
-semplice 
+semplice
 
 necessary
-necessario 
-
-wet
-bagnato
+necessario
 
 right; just
 giusto
-
-true
-vero
-
-heavy
-pesante
 
 early
 in anticipo
 
 on time
-in orario 
+in orario
 
 clean; neat
 pulito
 
 fast
-rapido; veloce 
-
-long
-lungo
+rapido; veloce
 
 striped
-a righe 
+a righe
 
 polka dotted
 a pois
@@ -3007,17 +2788,11 @@ a pois
 old
 antico; vecchio
 
-closed
-chiuso
-
 off; turned off
-spento 
+spento
 
 expired
-scaduto 
-
-small
-piccolo
+scaduto
 
 free
 libero; gratis
@@ -3026,25 +2801,22 @@ cold
 freddo
 
 poor
-povero 
+povero
 
 inexpensive; cheap
-economico 
+economico
 
-empty 
-vuoto 
+empty
+vuoto
 
 uncomfortable
-scomodo 
-
-narrow
-stretto 
+scomodo
 
 difficult; hard
 difficile
 
 a bit
-poco 
+poco
 
 few
 pochi
@@ -3053,46 +2825,31 @@ useless
 inutile
 
 peaceful; quiet
-tranquillo 
+tranquillo
 
 silent; quiet
 silenzioso
 
 innocent
-innocente 
+innocente
 
 elegant
-elegante 
+elegante
 
 indispensable
-indispensabile 
+indispensabile
 
 dry
-asciutto 
+asciutto
 
 wrong; mistaken
-sbagliato 
-
-false
-falso
+sbagliato
 
 light
-leggero 
+leggero
 
-late 
-in ritardo 
-
-crowded
-affollato 
-
-dirty
-sporco 
-
-slow
-lento 
-
-short
-corto
+late
+in ritardo
 
 checkered
 scacchi
@@ -3101,10 +2858,10 @@ plain (adj)
 in tinta unita; semplice
 
 soccer; football (European)
-il calcio 
+il calcio
 
 basketball
-il pallacanestro 
+il pallacanestro
 
 swimming
 il nuoto
@@ -3116,85 +2873,85 @@ skiing
 lo sci
 
 gymnastics
-la ginnastica 
+la ginnastica
 
 track (sport)
 la corsa
 
 high jumping
-il salto in alto 
+il salto in alto
 
 cycling
-il ciclismo 
+il ciclismo
 
 auto racing
-l'automobilismo 
+l'automobilismo
 
 sailing
 il vela
 
 baseball
-il baseball 
+il baseball
 
 tennis
-il tennis 
+il tennis
 
 rugby
-il rugby 
+il rugby
 
 windsurfing
-il windsurf 
+il windsurf
 
 ping poing
-il ping pong 
+il ping pong
 
 karate
 il karate
 
 volleyball
-il pallavolo 
+il pallavolo
 
 water polo
-il pallanuoto 
+il pallanuoto
 
 skating
-il pattinaggio 
+il pattinaggio
 
 cross-country skiing
 lo sci di fondo
 
 horseback riding
-l'equitazione 
+l'equitazione
 
 hurdles
-la corsa ad ostacoli 
+la corsa ad ostacoli
 
 long jump
-il salto in lungo 
+il salto in lungo
 
 motorcycle racing
 il motociclismo
 
 rowing
-il canottaggio 
+il canottaggio
 
 boxing
 il pugilato
 
 football (American)
-il football americano 
+il football americano
 
 golf
 il golf
 
 hockey
-il hockey 
+il hockey
 
 bobsledding
-il bob 
+il bob
 
 squash
-lo squash 
+lo squash
 
 judo
 il judo
@@ -3227,19 +2984,19 @@ weights
 i pesi
 
 skis
-gli sci 
+gli sci
 
 surf board
-la tavola 
+la tavola
 
 sword
-la spada 
+la spada
 
 racket
-la racchetta 
+la racchetta
 
 little ball
-la pallina 
+la pallina
 
 boxing gloves
 guantoni
@@ -3253,29 +3010,14 @@ matto
 subtitles
 i sottotitoli
 
-sun
-il sole 
-
-rain
-la pioggia 
-
 to snow
 nevicare
 
-snow
-la neve 
-
-wind
-il vento
-
 cloud
-la nuvola 
-
-fog 
-la nebbia 
+la nuvola
 
 hail
-il grandine 
+il grandine
 
 it's nice (weather)
 fa bello; fa bel tempo
@@ -3287,13 +3029,13 @@ it's hot (weather)
 fa caldo
 
 it's warm (weather)
-fa bel tempo 
+fa bel tempo
 
 thunder
 il tuono
 
 bright
-luminoso 
+luminoso
 
 storm
 il temporale
@@ -3341,43 +3083,16 @@ variable; changeable
 variabile
 
 head
-la testa 
-
-ear
-l'orecchio 
-
-mouth
-la bocca 
-
-arm
-il braccio 
-
-hand
-il mano 
+la testa
 
 chest
-il petto 
-
-teeth
-i denti
-
-face
-la faccia 
-
-nose
-il naso 
+il petto
 
 eye
-l'occhio 
-
-leg
-la gamba 
+l'occhio
 
 foot
-il piede 
-
-stomach
-lo stomaco 
+il piede
 
 finger; toe
 il dito
@@ -3405,9 +3120,6 @@ meglio
 
 worse
 peggio
-
-weak
-debole
 
 strange; weird
 strano
@@ -3439,9 +3151,6 @@ il sonno
 sick
 malato
 
-angry
-arrabiato
-
 anxious
 ansioso
 
@@ -3467,7 +3176,7 @@ Friday
 venerdì
 
 Saturday
-sabato 
+sabato
 
 Sunda
 la domenica
@@ -3479,46 +3188,46 @@ the day before yesterday
 l'altro ieri
 
 January
-gennaio 
+gennaio
 
 February
-febbraio 
+febbraio
 
 March
-marzo 
+marzo
 
 April
-aprile 
+aprile
 
 May
-maggio 
+maggio
 
 June
 giugno
 
 July
-luglio 
+luglio
 
 August
-agosto 
+agosto
 
 September
-settembre 
+settembre
 
 October
-ottobre 
+ottobre
 
 November
-novembre 
+novembre
 
 December
 dicembre
 
 Christmas
-il Natale 
+il Natale
 
 Advent
-l'Avvento 
+l'Avvento
 
 New Year's
 il Capodanno
@@ -3527,10 +3236,10 @@ All Saints' Day
 l'Ognissanti
 
 Easter
-la Pasqua 
+la Pasqua
 
 Lent
-la Quaresima 
+la Quaresima
 
 eve
 la Vigilia di
@@ -3539,442 +3248,397 @@ August 15th
 Ferragosto
 
 to speak; to talk
-parlare 
+parlare
 
 to learn
-imparare 
+imparare
 
 to visit
-visitare 
+visitare
 
-to remember 
-ricordare 
+to remember
+ricordare
 
-to finish; to terminate 
-terminare 
+to finish; to terminate
+terminare
 
 to lunch
-pranzare 
+pranzare
 
 to send
-mandare 
+mandare
 
 to live; to inhabit
-abitare 
+abitare
 
 to use
-usare 
+usare
 
-to thank 
-ringraziare 
+to thank
+ringraziare
 
 to leave
-lasciare 
+lasciare
 
 to seem
-sembrare 
+sembrare
 
 to present
-presentare 
+presentare
 
 to explain
-spiegare 
+spiegare
 
 to pray
-pregare 
+pregare
 
-to hope 
-sperare 
-
-to walk
-camminare 
+to hope
+sperare
 
 to ensure; to assure
-assicurare 
+assicurare
 
 to desire
-desiderare 
+desiderare
 
 to command
-comandare 
+comandare
 
 to study
-studiare 
-
-to telephone
-telefonare 
+studiare
 
 to forget
-dimenticare 
+dimenticare
 
 to wait for; to await
-aspettare 
+aspettare
 
 to send
-inviare 
+inviare
 
 to help
-aiutare 
-
-to find
-trovare 
+aiutare
 
 to pass; to go by
-passare 
+passare
 
 to remain
-restare 
+restare
 
 to observe
-osservare 
+osservare
 
 to tell; to recount
-raccontare 
+raccontare
 
 to attempt
-tentare 
+tentare
 
 to walk
-passeggiare 
+passeggiare
 
 to excuse
-scusare 
+scusare
 
 to bring near
-avvicinare 
+avvicinare
 
 to admire
-ammirare 
+ammirare
 
-to search for 
-cercare 
+to search for
+cercare
 
 to try
 provare
 
 to listen to
-ascoltare 
+ascoltare
 
 to teach
-insegnare 
+insegnare
 
 to return
-tornare 
+tornare
 
 to begin
-iniziare 
+iniziare
 
 to arrive
-arrivare 
+arrivare
 
 to dine
-cenare 
+cenare
 
-to meet 
-incontrare 
+to meet
+incontrare
 
 to prepare
-preparare 
+preparare
 
 to accept
-accettare 
+accettare
 
 to play (game)
-giocare 
+giocare
 
 to bring
-portare 
+portare
 
 to become
-diventare 
-
-to work 
-lavorare 
+diventare
 
 to accompany
-accompagnare 
+accompagnare
 
 to demonstrate
-dimostrare 
-
-to wash
-lavare 
+dimostrare
 
 to immagine
-immaginare 
+immaginare
 
 to inform
-informare 
+informare
 
 to move away
-allontanare 
+allontanare
 
 to reserve
-prenotare 
+prenotare
 
 to watch; to look at
-guardare 
-
-to enter
-entrare 
+guardare
 
 to begin
-cominciare 
-
-to eat
-mangiare 
+cominciare
 
 to refuse
-rifiutare 
+rifiutare
 
 to play (instrument)
-suonare 
+suonare
 
 to think
-pensare 
-
-to call
-chiamare 
+pensare
 
 to continue
-continuare 
+continuare
 
 to show
-mostrare 
+mostrare
 
 to occupy
-occupare 
+occupare
 
 to turn
 girare
 
 to greet; to say hello to
-salutare 
+salutare
 
 to drive; to guide
-guidare 
+guidare
 
 to organize
-ordinare 
+ordinare
 
 to reserve
-riservare 
+riservare
 
 to be lacking; to be absent; to be missing
 mancare; venire meno
 
 to see
-vedere 
+vedere
 
 to put; to place
-mettere 
+mettere
 
 to turn on
-accendere 
+accendere
 
 to close
-chiudere 
+chiudere
 
 to receive
-ricevere 
+ricevere
 
 to understand; to comprehend
-comprendere 
+comprendere
 
 to sell
-vendere 
+vendere
 
 to wait for
-attendere 
+attendere
 
 to know
-conoscere 
+conoscere
 
 to lose
-perdere 
+perdere
 
 to render
-rendere 
+rendere
 
 to stop
-smettere 
-
-to laugh
-ridere 
+smettere
 
 to permit
-permettere 
-
-to smile
-sorridere 
-
-to push
-spingere 
+permettere
 
 to conclude
-concludere 
+concludere
 
 to resolve
-risolvere 
+risolvere
 
 to convince
-convincere 
-
-to choose
-scegliere 
+convincere
 
 to paint; to depict
-dipingere 
+dipingere
 
 to move
-muovere 
+muovere
 
-to deceive 
-trarre 
+to deceive
+trarre
 
 to defeat; to overcome
 sconfiggere
 
 to take
-prendere 
+prendere
 
 to respond
-rispondere 
+rispondere
 
 to turn off
-spegnere 
+spegnere
 
 to write
-scrivere 
+scrivere
 
 to read
-leggere 
+leggere
 
 to repeat
-ripetere 
+ripetere
 
-to ask 
-chiedere 
+to ask
+chiedere
 
 to believe
-credere 
+credere
 
 to live
-vivere 
+vivere
 
 to win
-vincere 
-
-to run
-correre 
+vincere
 
 to join; to arrive at
-giungere 
-
-to cry
-piangere 
+giungere
 
 to promise
-promettere 
+promettere
 
 to force; to constrain
-costringere 
+costringere
 
 to divide; to share (something)
-dividere 
+dividere
 
 to possess
-possedere 
+possedere
 
 to allow; to concede
-concedere 
+concedere
 
 to offend
-offendere 
+offendere
 
 to translate
-tradurre 
+tradurre
 
 to attend
-assistere 
+assistere
 
 to express
-esprimere 
+esprimere
 
 to break
-rompere 
+rompere
 
 to decide
 decidere
 
 to feel; to sense
-sentire 
+sentire
 
 to sleep
-dormire 
+dormire
 
 to serve
-servire 
+servire
 
 to cover
-coprire 
+coprire
 
 to suffer
-soffrire 
+soffrire
 
 to amuse
-divertire 
+divertire
 
 to agre
-acconsentire 
+acconsentire
 
 to continue
-proseguire 
+proseguire
 
 to applaud
-applaudire 
+applaudire
 
 to feed
-nutrire 
+nutrire
 
 to loath
 aborrire
 
 to open
-aprire 
+aprire
 
 to leave
-partire 
+partire
 
 to offer
-offrire 
+offrire
 
 to discover; to uncover
-scoprire 
+scoprire
 
 to dress
-vestire 
+vestire
 
 to consent
-consentire 
+consentire
 
 to execute; to perform
-eseguire 
+eseguire
 
 to invest
-investire 
+investire
 
 to lie
-mentire 
+mentire
 
 to absorb
 assorbire
 
 to understand
 capire
-
-to clean
-pulire
 
 to prefer
 preferire
@@ -4022,7 +3686,7 @@ to guard
 custodire
 
 to cure
-guarire 
+guarire
 
 to cough
 tossire
@@ -4064,7 +3728,7 @@ to insert
 inserire
 
 to return
-restituisco 
+restituisco
 
 to grant
 esaudire
@@ -4082,190 +3746,169 @@ to go crazy over
 impazzire
 
 to remember
-ricordarsi di 
+ricordarsi di
 
 to stop
-fermarsi 
+fermarsi
 
 to get tired of
-stancarsi di 
+stancarsi di
 
 to prepare for
-prepararsi 
+prepararsi
 
 to put on
-mettersi 
-
-to get married
-sposarsi 
-
-to worry 
-preoccuparsi 
-
-to wake up
-svegliarsi 
+mettersi
 
 to go to sleep
-addormentarsi 
+addormentarsi
 
 to take a seat
-accomodarsi 
+accomodarsi
 
 to hug
-abbracciarsi 
+abbracciarsi
 
 to love
-amarsi 
+amarsi
 
 to get angry
-arrabbiarsi 
+arrabbiarsi
 
 to call oneself; to be called
-chiamarsi 
+chiamarsi
 
 to meet
-conoscersi 
+conoscersi
 
 to enjoy oneself; to have fun
-divertirsi 
+divertirsi
 
 to pledge; to commit
-impegnarsi 
+impegnarsi
 
 to complain
-lamentarsi 
+lamentarsi
 
 to shave
-radersi 
+radersi
 
 to brush
-spazzolarsi 
+spazzolarsi
 
 to be ashamed
-vergognarsi 
+vergognarsi
 
 to tan
-abbronzarsi 
+abbronzarsi
 
 to introduce; to present
-presentarsi 
+presentarsi
 
 to picture oneself
-immaginarsi 
+immaginarsi
 
 to make a mistake; to be mistaken
 sbagliarsi
 
 to find oneself
-trovarsi 
+trovarsi
 
 to rest
-riposarsi 
+riposarsi
 
 to enjoy; to have fun
-divertirsi 
+divertirsi
 
 to meet
-incontrarsi 
-
-to sit down
-sedersi 
+incontrarsi
 
 to occupy; to be interested in
-occuparsi di 
+occuparsi di
 
 to show interest in
-interessarsi 
+interessarsi
 
 to rise; to get up
 alzarsi
 
 to feel
-sentirsi 
+sentirsi
 
 to become ill
-ammalarsi 
+ammalarsi
 
 to kiss
-baciarsi 
+baciarsi
 
 to get bored
-annoiarsi 
+annoiarsi
 
 to get used to
-abituarsi a 
-
-to behave
-comportarsi 
+abituarsi a
 
 to forget to
-dimenticarsi di 
+dimenticarsi di
 
 to fall in love
-innamorarsi 
+innamorarsi
 
 to do one's makeup
-truccarsi 
+truccarsi
 
 to relax
-rilassarsi 
+rilassarsi
 
 to comb
-pettinarsi 
-
-to get dressed
-vestirsi 
+pettinarsi
 
 to shut up
-azzittirsi 
+azzittirsi
 
 to turn (around)
-girarsi 
+girarsi
 
 to express
-esprimersi 
+esprimersi
 
 to get engaged
 fidanzarsi
 
 to go
-andare 
+andare
 
 to have
-avere 
-
-to drink
-bere 
+avere
 
 to give
-dare 
+dare
 
 to say; to tell
-dire 
+dire
 
 to have to; to must
 dovere
 
 to be
-essere 
+essere
 
 to make; to do
-fare 
+fare
 
 to die
-morire 
+morire
 
 to appear; to seem
 parere
 
 to please
-piacere 
+piacere
 
 to put; to place
-porre 
+porre
 
 to be able to
-potere 
+potere
 
 to stay; to remain
 rimanere
@@ -4274,13 +3917,10 @@ to go up; to ascend; to get into; to mount
 salire
 
 to know
-sapere 
+sapere
 
-to sit
-sedere 
-
-to be 
-stare 
+to be
+stare
 
 to keep
 tenere
@@ -4288,20 +3928,14 @@ tenere
 to remove; to take away
 togliere
 
-to translate
-tradurre 
-
 to hear
-udire 
+udire
 
 to go out; to exit
-uscire 
+uscire
 
 to come
-venire 
-
-to want
-volere
+venire
 
 turned on
 acceso
@@ -4314,9 +3948,6 @@ bevuto
 
 asked
 chiesto
-
-closed
-chiuso
 
 ran
 corso
@@ -4343,7 +3974,7 @@ placed
 messo
 
 dead
-morto 
+morto
 
 born
 nato
@@ -4361,7 +3992,7 @@ took; taken
 preso
 
 remained
-rimasto 
+rimasto
 
 broken
 rotto
@@ -4376,7 +4007,7 @@ turned off; spent
 spento
 
 succeeded
-successo 
+successo
 
 translated
 tradotto
@@ -4397,7 +4028,7 @@ laughed
 riso
 
 pleased
-piaciuto 
+piaciuto
 
 cried
 pianto
@@ -4702,9 +4333,6 @@ il raccolto
 polution
 l'inquinamento
 
-monument
-il monumento
-
 turist
 il turista
 
@@ -4828,9 +4456,6 @@ la cognata
 aunt
 la dia
 
-statue
-la statua
-
 surroundings
 i dintorni
 
@@ -4867,7 +4492,7 @@ la guida
 nature
 la natura
 
-day 
+day
 il giorno
 
 evening
@@ -4899,12 +4524,6 @@ l'abitudine
 
 vineyard
 il vignetto
-
-to turn right
-girare a destra
-
-to turn left
-girare a sinistra
 
 go straight ahead
 andare dritto; andare sempre dritto
@@ -5014,20 +4633,12 @@ la marmelata
 ceiling
 il soffito
 
-roof
-il tetto
-
 dryer
 l'asciugatrice
 
 apricot
 l'albicocca
 
-pineapple
-l'ananas
-
-plum
-la prugna
-
 prune
 la prugna secca
+
