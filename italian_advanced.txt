@@ -1,10 +1,7 @@
-#
-# Italian Advanced - intermediate to advanced words that I'm currently studying.
-#
 gut
 la pancia
 
-invoice 
+invoice
 la fattura
 
 to pull one's leg
@@ -166,9 +163,6 @@ scorrere
 partner (starts with s)
 il socio
 
-rusty
-arrugginito
-
 take-off
 il decollo
 
@@ -232,12 +226,6 @@ ascendere
 to descend
 scendere
 
-baking powder
-il lievito in polvere
-
-baking soda
-il bicarbonato di sodio
-
 sea salt
 il sale marino
 
@@ -255,9 +243,6 @@ il lievito di birra
 
 walnut
 la noce
-
-almond
-la mandorla
 
 clove
 il chiodo di garofano
@@ -550,18 +535,6 @@ la ruota
 tire
 lo pneumatico
 
-rear (adj)
-posteriore
-
-front (adj)
-anteriore
-
-wheel
-la ruota
-
-tire
-lo pneumatico
-
 flaps
 i lembi
 
@@ -664,7 +637,7 @@ piantare
 to get by
 cavarsela
 
-draw; tie 
+draw; tie
 il pareggio
 
 straw
@@ -1246,14 +1219,14 @@ it's the least I could do
 don't even say it!
 non dirlo neanche!
 
-I barely ate 
+I barely ate
 ho mangiato appena
 
 unmissable; must-see; not to be missed
 imperdibile
 
 to shorten; to cut back; to trim
-scorciare 
+scorciare
 
 to shorten
 accorciare; accorciarsi
@@ -1318,7 +1291,7 @@ lo gnomone
 to project
 proiettare
 
-I beg you! 
+I beg you!
 mi raccomando! ti prego!
 
 to recommend (something to somebody)
@@ -1372,23 +1345,14 @@ la giuria
 arugola
 la rucola
 
-closet
-il ripostiglio
-
 wig
 la parrucca
 
 hairdresser
 la parrucchiera
 
-cozy
-accogliente
-
 in the meantime (starts with i)
 intanto
-
-mosquito
-la zanzara
 
 successful
 di successo
@@ -1693,9 +1657,6 @@ pettinare
 dumpling
 lo gnocco
 
-to update
-aggiornare
-
 employee
 il dipendente; l'impiegato; il lavoratore
 
@@ -1867,9 +1828,6 @@ primi anni Sessanta
 gambling
 il gioco d'azzardo
 
-idleness; leisure
-l'ozio
-
 progressive
 progressivo
 
@@ -1961,7 +1919,7 @@ mutual
 reciproco
 
 not quite ready
-non del tutto pronto 
+non del tutto pronto
 
 subject
 l'argomento
@@ -2626,7 +2584,7 @@ sostenere
 sexual partner
 il partner sessuale
 
-to rejoin; to reconnect; to reunite 
+to rejoin; to reconnect; to reunite
 ricongiungere
 
 dated
@@ -2853,9 +2811,6 @@ figuratamente
 
 jokingly
 scherzosamente
-
-to reprimand
-rimproverare
 
 damaging
 dannoso
@@ -3181,9 +3136,6 @@ superare
 to exceed
 eccedere
 
-to suffer
-subire
-
 to relinquish; to renounce
 rinunciare; abbandonare
 
@@ -3297,9 +3249,6 @@ cambiare corsia
 
 nail
 il chiodo
-
-sleeve
-la manica
 
 to burst; to explode
 scoppiare
@@ -3520,9 +3469,6 @@ le doti
 shaken
 scosso
 
-to shake
-scuotere
-
 nightmare
 l'incubo
 
@@ -3645,9 +3591,6 @@ grattarsi
 
 stone; rock; pebble
 il sasso; la pietra
-
-to breathe
-respirare
 
 to sigh
 sospire
@@ -3823,9 +3766,6 @@ appartenere
 son-in-law
 il genero
 
-brother-in-law
-il cognato
-
 at a young age
 in giovane età
 
@@ -3902,7 +3842,7 @@ exchange studente
 lo studente di scambio; lo studente in scambio; lo scambio studentesco
 
 lively discussion
-la vivace discussione; l'animata discussione 
+la vivace discussione; l'animata discussione
 
 percentage
 la percentuale
@@ -3981,9 +3921,6 @@ dare il permesso
 
 to itch
 prudere
-
-I have no idea
-non ne ho idea
 
 (trash) can
 il bidone (della spazzatura)
@@ -4191,9 +4128,6 @@ lo stanziamento
 
 old thing (fig.)
 il ferro vecchio
-
-to split; to cleave
-spaccare
 
 to edit; to draw up
 redigere
@@ -4720,9 +4654,6 @@ l'approvvigionamento
 every now and then; from time to time
 di tanto in tanto
 
-every once in a while
-ogni tanto
-
 entrepreneur
 l'impresario; l'imprenditore
 
@@ -4888,9 +4819,6 @@ persuadere
 to bite
 mordere
 
-to serve; to function; to act
-fungere
-
 to milk; to squeeze; to ring
 mungere
 
@@ -5038,14 +4966,8 @@ fiorire
 to weaken
 indebolire
 
-to annoy
-infastidire
-
 to make jealous
 ingelosire
-
-to enlarge; to magnify
-ingrandire
 
 to upset; to vex
 innervosire
@@ -5084,7 +5006,7 @@ up here
 quassù
 
 down here
-quagiù 
+quagiù
 
 up there
 lassù; là sopra; lì sopra
@@ -5392,9 +5314,6 @@ l'appuntamento dal dottore
 anecdote
 l'aneddoto
 
-to pay attention
-prestare attenzione
-
 computer program
 il programma informatico
 
@@ -5539,9 +5458,6 @@ il consolidamento
 concerned; loyal; supportive
 solidale
 
-to relapse
-ricadere
-
 to place itself
 collocarsi
 
@@ -5590,9 +5506,6 @@ recedere
 offspring
 la prole
 
-to assist; to aid
-coadiuvare
-
 managerial; administrative
 gestionale
 
@@ -5607,9 +5520,6 @@ la sovvenazione
 
 to reach an agreement; to agree
 convenzionare
-
-income; revenue
-il reddito
 
 next; beside; nearby
 accanto
@@ -6283,9 +6193,6 @@ perciò
 consequently; accordingly
 di conseguenza
 
-thus; therefore; so
-pertanto
-
 finally
 per finire
 
@@ -6442,9 +6349,6 @@ dolorare
 you bet
 scommetti
 
-to describe
-descrivere
-
 to peel
 sbucciare
 
@@ -6580,9 +6484,6 @@ la piuma
 to ruffle
 arruffare
 
-mutual
-reciproco
-
 sperm
 lo sperma
 
@@ -6646,7 +6547,7 @@ pubblicizzare
 to point out
 fare notare; indicare; sottolineare
 
-to underline 
+to underline
 sottolineare
 
 extroverted; outgoing (person)
@@ -6697,7 +6598,7 @@ le coordinate GPS
 to covet
 ambire
 
-coveted by 
+coveted by
 ambito da
 
 superficial male
@@ -6754,9 +6655,6 @@ maltrattare
 petrified
 pietrificato; impietrito
 
-helmet
-il casco
-
 bit player
 il figurante
 
@@ -6799,7 +6697,7 @@ la risora
 working; work (adj)
 lavorativo
 
-work team 
+work team
 il team
 
 on the team
@@ -6822,9 +6720,6 @@ l'assolo di chitarra
 
 to inherit
 ereditare
-
-to rewind
-riavvolgere
 
 measuring tape
 il metro
@@ -6918,9 +6813,6 @@ realizzarsi; essere avverato
 
 to make one's dreams come true
 far avverare i suoi sogni
-
-nurse
-l'infermiera
 
 scalp
 lo scalpo
@@ -7147,9 +7039,6 @@ banale; insignificante; triviale; futile
 in the afternoon
 di pomeriggio
 
-repeat after me
-ripeti dopo di me
-
 tool
 lo strumento; l'attrezzo
 
@@ -7312,7 +7201,7 @@ dare un senso a
 unusual
 inusuale
 
-great command of 
+great command of
 la grande padronanza di
 
 that's all that matters
@@ -7343,7 +7232,7 @@ to counteract
 contrabattere
 
 to watch over
-vegliare su 
+vegliare su
 
 atheist (adj)
 ateo
@@ -7501,9 +7390,6 @@ l’esonero
 facility; facilitation
 l’agevolazione
 
-to make; to execute; to accomplish
-effettuare
-
 continuing; continual
 continuativo
 
@@ -7533,9 +7419,6 @@ varcare
 
 trunk; boot; chest
 il baule
-
-asset; value; worth
-il pregio
 
 portrait; picture; portrayal
 il ritratto
@@ -7666,9 +7549,6 @@ il sistema pensionistico
 on the fly
 al volo
 
-to master
-padroneggiare
-
 piece of paper
 il pezzo di carta
 
@@ -7704,18 +7584,6 @@ mica tanto
 
 warning
 l'avviso
-
-mess
-il pasticcio
-
-poppy
-il papavero
-
-cherries
-i ciliegini
-
-citrus
-gli agrumi
 
 parachute
 la paracadute
@@ -7756,44 +7624,8 @@ la concorrenza
 reliable
 affidabile
 
-shark
-lo squalo
-
-baking soda
-il bicarbonato di sodio
-
-baking powder
-il lievito in polvere
-
-coward (starts with v)
-il vigliacco
-
-coward (starts with c)
-il codardo
-
-arrow
-la freccia
-
-beach towel
-il telo mare
-
-knoll
-il poggio
-
-rusty
-arrugginito
-
 to look good
 gardarsi bene
-
-almond
-la mandorla
-
-volleyball (starts with p)
-il pallavolo
-
-volleyball (starts with v)
-il volley
 
 short-term
 a breve termine
@@ -7827,9 +7659,6 @@ intenzionalmente; deliberatamente; apposta
 
 put to the test
 messo alla prova
-
-to project
-proiettare
 
 madness; insanity
 la follia; la pazzia
@@ -7928,13 +7757,13 @@ to rhyme
 fare rima
 
 compass (directions)
-i punti cardinali; la bussola 
+i punti cardinali; la bussola
 
 prudish; puritanical
 puritano; pudico
 
 fencing
-la scherma 
+la scherma
 
 to summarize
 riassumere
@@ -7969,26 +7798,26 @@ la pernacchia
 tummy
 il pancino
 
-huggable 
-da abbracciare; tutto da abbracciare  
+huggable
+da abbracciare; tutto da abbracciare
 
-good hugger 
-l'abbracciatore professionista; l'abbracciatrice professionista 
+good hugger
+l'abbracciatore professionista; l'abbracciatrice professionista
 
 to smother with kisses
 sbaciucchiare
 
-kissable 
-da baciare; da sbaciucchiare 
+kissable
+da baciare; da sbaciucchiare
 
 squeezable cheeks
-le guance da pizzicare; le guanciotte da pizzicare 
+le guance da pizzicare; le guanciotte da pizzicare
 
-to squeeze the cheeks 
-dare pizzicotti sulle guance; dare pizzicotti sulle guanciotte 
+to squeeze the cheeks
+dare pizzicotti sulle guance; dare pizzicotti sulle guanciotte
 
-to blow raspberries in the belly 
-fare le pernacchie sul pancino 
+to blow raspberries in the belly
+fare le pernacchie sul pancino
 
 PDA; public display of affection
 la dimostrazione di affetto
@@ -8077,7 +7906,7 @@ il campanello
 to ring the doorbell
 suonare il campanello
 
-to relate to 
+to relate to
 ricollegarsi a
 
 they are at odds with each other
@@ -8112,9 +7941,6 @@ incoraggiante
 
 empathetic
 empatico
-
-harshness
-la durezza
 
 childhood
 l'infanzia
@@ -8221,9 +8047,6 @@ le manette
 enrollment
 l'arruolamento
 
-to go; to leave; to depart
-recarsi
-
 to overturn
 rovesciare
 
@@ -8259,9 +8082,6 @@ affermare di essere; asserire di essere; dire di essere
 
 to affirm; to assert; to claim
 affermare
-
-to wipe
-tergere
 
 to be able to tell that
 capire che; poter vedere che; poter sentire che
@@ -8626,9 +8446,6 @@ la graduatoria
 to throw off; to mislead
 depistare
 
-to wrap; to wind; to roll
-avvolgere
-
 liberating
 liberatorio
 
@@ -8707,9 +8524,6 @@ spalancare
 to land; to dock; to shore
 approdare
 
-to draw; to get; to obtain
-attingere
-
 appropriate; proper; suitable
 apposito
 
@@ -8745,9 +8559,6 @@ il cammino
 
 to allow; to permit; to consent
 consentire
-
-successful
-di successo
 
 hand gesture
 il gesto della mano
@@ -8931,12 +8742,6 @@ prendere parte a
 
 adopted child (son)
 il figlio adottivo
-
-step-father
-il patrigno
-
-step-mother
-la matrigna
 
 step-son
 il figliastro
@@ -9126,3 +8931,4 @@ scongiurare
 
 possibility; contigency; eventuality
 l'eventualità
+
