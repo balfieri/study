@@ -1492,7 +1492,7 @@ il vento di traverso; il vento trasversale; il vento al traverso
 turbulent
 turbolente
 
-likewise
+likewise; the same; as many; so many
 altrettanto
 
 golf clubs
@@ -3034,7 +3034,7 @@ legato
 baby steps
 i primi passi; i piccoli passi
 
-charge (like an electron)
+charge (like an electron); load; office; position
 la carica
 
 to repel
@@ -4896,6 +4896,9 @@ mungere
 
 to seem; to appear
 parere
+
+opinion (begins with p)
+il parere
 
 to hand; to give; to proffer
 porgere
@@ -9024,3 +9027,102 @@ senza che
 
 to brainwash
 fare il lavaggio del cervello
+
+middle name
+il secondo nome
+
+cautionary
+cautelare
+
+precaution; protective measure; cautionary measure
+la misura cautelare
+
+magistrate; judge; official
+il magistrato
+
+authoritative; influential
+autorevole
+
+newsroom; editorial; editing
+la redazione
+
+restlessness; impatience
+l'insofferenza
+
+deceptive; tricky; misleading
+ingannevole
+
+gorgeous
+splendida; stupenda; meravigliosa; magnifica; bellissima
+
+horny; sexually aroused
+arrapato; eccitato
+
+question (formal); enquiry
+il quesito
+
+soon; shortly
+prossimamente
+
+to sanction; to seal; to approve
+sancire
+
+to repeal; to rescind
+abrogare
+
+abolition; repeal
+l'abrogazione
+
+political class
+il ceto politico
+
+to dismantle; to decomission
+smantellare
+
+pattern; model
+la falsariga
+
+lay person
+il laico
+
+advocacy
+l’avvocatura
+
+public prosecutor
+il pubblico ministero
+
+to become uncoupled; to disengage
+sganciarsi
+
+subdivision
+la lottizzazione
+
+to parcel; to subdivide
+lottizzare
+
+orientation
+l'orientamento
+
+work; opera; piece of work
+l'operato
+
+prejudicial
+pregiudizievole
+
+to draw; to whip out; to unsheath
+sfoderare
+
+proxy; delegation
+la delega
+
+shift; rotation
+l'avvicendamento
+
+to chill; to cool; to ice
+raffreddare
+
+to beg; to avert; to implore
+scongiurare
+
+possibility; contigency; eventuality
+l'eventualità
