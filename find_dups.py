@@ -18,13 +18,13 @@ def die( msg, prefix='ERROR: ' ):
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 2: die( 'usage: find_dups.py <subjects> [options]', '' )
 subjects = sys.argv[1].split( ',' )
-unique_file = ''
+out_file = ''
 i = 2
 while i < len( sys.argv ):
     arg = sys.argv[i]
     i += 1
-    if   arg == '-unique_file':           
-        unique_file = int(sys.argv[i])
+    if   arg == '-out':           
+        out_file = sys.argv[i]
         i += 1
     else:
         die( f'unknown option: {arg}' )
@@ -32,7 +32,7 @@ while i < len( sys.argv ):
 #-----------------------------------------------------------------------
 # read in <subject>.txt files
 #-----------------------------------------------------------------------
-unique_questions = []
+uniques_s = ''
 answer_to_question = {}
 for subject in subjects:
     filename = subject + '.txt'
@@ -68,6 +68,11 @@ for subject in subjects:
             answer_to_question[answer] = question
 
         if is_unique:
-            unique_questions.append( question )
-            unique_questions.append( answer )
+            uniques_s += f'{question}\n{answer}\n\n' 
     Q.close()
+
+if out_file != '':
+    print( f'\nWriting unique entries to {out_file}...\n' )
+    file = open( out_file, 'w' )
+    a = file.write( uniques_s )
+    file.close()

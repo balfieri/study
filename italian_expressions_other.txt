@@ -1,7 +1,3 @@
-#
-# Italian Expressions - intention here is expressions that have been around for a while
-#                       (I've had to guess)                
-#
 lamentarsi o agitarsi inutilmente contro qualcuno che non ci ascolta o non è in grado di capire
 abbaiare alla luna
 
@@ -486,7 +482,7 @@ fare un acquisto senza aver verificato la qualità; valutandone la convenienza s
 comprare a scatola chiusa
 
 per indicare un momento critico, un periodo difficile, soprattutto sotto il profilo economico
-con questi chiari di luna 
+con questi chiari di luna
 
 contare poco o nulla; essere di scarso valore
 contare come il due di briscola; contare come il due di picche
@@ -1682,17 +1678,8 @@ ammainare le vele
 andare d'accordo, avere grande familiarità
 andare a braccetto
 
-fare atto di sottomissione umiliante ammettendo i propri errori e riconoscendo la supremazia dell'avversario
-andare a Canossa
-
-diffondersi rapidamente, come la macchia d'olio su una tovaglia
-a macchia d'olio
-
 a fatica, a stento
 a malapena
-
-uccidere in modo brutale senza il minimo rimorso
-ammazzare come un cane
 
 quando si desidera che qualcosa, oltre a essere utile, possa appagare anche il senso estetico
 anche l'occhio vuole la sua parte
@@ -1700,92 +1687,20 @@ anche l'occhio vuole la sua parte
 andare molto volentieri in un posto, tanto che lo si farebbe perfino saltando su una gamba sola
 andarci con una gamba sola
 
-quando fallisce il tentativo di fare qualcosa
-andare a monte
-
-quando si gradisce qualcosa/qualcuno particolarmente
-andare a nozze
-
-andare in rovina
-andare a Patrasso
-
 fallire, sprofondare nel fallimento
 andare a picco
-
-andare a finire male
-andare a puttane
-
-quando un prodotto è molto richiesto sul mercato
-andare a ruba
-
-gironzolare senza una meta precisa
-andare a zonzo
-
-allontanare qualcuno in malo modo
-andare al diavolo
-
-andare incontro alla morte
-andare al macello
-
-procedere senza vederci chiaro
-andare alla cieca
 
 lasciarsi andare, abbandonarsi, come trascinato dalla corrente
 andare alla deriva
 
-trovare l'origine o il responsabile di qualcosa
-andare alla fonte
-
-procedere con prudenza
-andare coi piedi di piombo
-
-quando qualcosa va meglio del previsto
-andare di lusso
-
-quando una situazione negativa che tende a peggiorare ancora
-andare di male in peggio
-
-agire con precisione o delicatezza
-andare per il sottile
-
-fallire un obiettivo
-andare in bianco
-
-accettare gli ostacoli della vita
-andare incontro al proprio destino
-
 quando di qualcosa non resta niente, perché distrutta o esaurita
 andare in fumo
-
-quando i tempi di una situazione si allungano
-andare per le lunghe
-
-arrabbiarsi moltissimo
-andare su tutte le furie
-
-subire una sconfitta o umiliazione quando prima ci si credeva superiori
-andarsene con la coda fra le gambe
-
-sprofondare (con gli occhi) nel corpo di una persona grassa
-affogare nel grasso
 
 ritirarsi da una attività, intenso come lavoro
 appendere il cappello al chiodo; apprendere le scarpe al chiodo
 
-rendersi conto di qualcosa
-aprire gli occhi
-
 esclamazione, reazione improvvisa e  violenta di fronte a un fatto inatteso
 apriti cielo
-
-cercare delle scuse che reggono
-arrampicarsi sugli specchi
-
-arrivare quando il lavoro da svolgere è già concluso
-arrivare a piatti lavati
-
-arrivare troppo tardi
-arrivare quando si spengono le luci
 
 si chiarisce qualcosa per evitare equivoci o malintesi
 a scanso di equivoci
@@ -1799,116 +1714,14 @@ attaccare bottone
 andare a tutta velocità, dare il massimo
 a tutta birra
 
-essere diventati prudenti dopo avere avuto esperienze sgradevoli
-aver provato il morso del lupo
-
 avere voce tremula tipica di chi ha subito un grande spavento; to behave as if one has just seen a ghost
 aver visto il lupo
-
-essere molto giovani e inesperti
-avere ancora i denti da latte
-
-avere fortuna
-avere culo
-
-fare ancora un ultimo sforzo per raggiungere uno scopo
-aver fatto trenta e fare trentuno
-
-essere coraggioso
-avere fegato
-
-essere incapaci di stare fermi
-avere il ballo di San Vito
-
-avere la coscienza sporca
-avere il carbone bagnato
-
-portare rancore verso qualcuno
-avere il dente avvelenato
-
-essere portati per il giardinaggio
-avere il pollice verde
-
-non vedere le cose più evidenti
-avere il prosciutto davanti agli occhi
-
-stare rigidi con il corpo ben eretto
-avere ingoiato il manico della scopa
-
-desiderare fortemente qualcosa, riferito al cibo
-avere l'acquolina in bocca
-
-chi si discolpa senza essere accusato
-avere la coda di paglia
-
-aver fatto qualcosa di cui rimproverarsi e sentirsi in colpa
-avere la coscienza sporca
-
-individuo che non si imbarazza a fare o a dire nulla
-avere la faccia come il culo
-
-voglia matta di divertiri
-avere la febbre del sabato sera
-
-essere di pessimo umore
-avere la luna storta
-
-essere perseguitati dalla sfortuna
-avere la maledizione addosso
-
-trattare qualcuno o qualcosa con le buone maniere
-avere la mano leggera
-
-non avere il senso della misura oppure mancare di finezza
-avere la mano pesante
-
-reazione della pelle al freddo
-avere la pelle d'oca
-
-essere resistente ai malesseri della vita
-avere la pelle dura
-
-essere ubriachi
-avere la scimmia
-
-sta per arrivare un pericolo inevitabile
-avere la spada di Damocle sul capo
-
-essere una persona responsabile
-avere la testa sulle spalle
-
-quando tremano le ginocchia
-avere le gambe che fanno giacomo giacomo
 
 essere un tipo spendaccione, chi sperpera i propri risparmi con facilità
 avere le mani bucate
 
-saper fare molte cose
-avere le mani d'oro
-
-essere predisposti al furto, come un ladruncolo
-avere le mani lunghe
-
-avere coraggio
-avere le palle
-
 non poterne più di qualcosa, essere stanchi detto in modo volgare
 avere le palle piene
-
-disporre di molte risorse da utilizzare per un dato scopo
-avere molte frecce al proprio arco
-
-non riuscire a ricordare qualcosa che però si ha l'impressione di poter riportare alla memoria da un momento all'altro
-avere sulla punta della lingua
-
-essere completamente in errore su qualcosa
-avere torto marcio
-
-provare una forte paura tale che il colorito del volto diventa bluastro
-avere una fifa blu
-
-avere capacità nettamente superiori agli altri
-avere una marcia in più
 
 avere a disposizione una soluzione segreta, probabilmente quella vincente o risolutrice
 avere un asso nella manica
@@ -1916,20 +1729,11 @@ avere un asso nella manica
 essere molto determinati per il raggiungimento di un obiettivo o scopo
 avere una volontà di ferro
 
-avere un'idea fissa per la testa
-avere un chiodo fisso
-
 essere molto vivaci, avere tanta energia per fare ogni cosa
 avere un diavolo in corpo
 
-essere di malumore e o furibondi che se si avesse in testa una serie di Diavoli che tirano i capelli
-avere un diavolo per capello
-
 sentirsi la gola chiusa, per emozione, commozione ecc
 avere un nodo alla gola
-
-febbre molto alta
-avere una febbre da cavallo
 
 nascondere un fatto della vita compromettente e imbarazzante che è meglio tenere nascosto
 avere uno scheletro nell'armadio
@@ -1937,35 +1741,8 @@ avere uno scheletro nell'armadio
 avere autorità per intervenire in una discussioni e prendere decisioni
 avere voce in capitolo
 
-essere arrivati al limite della sopportazione
-averne fin sopra i capelli
-
-periodo di tempo piuttosto lungo
-averne per un pezzo
-
-ballare in modo goffo e pesante
-ballare come un orso
-
-chiedere denaro
-battere cassa
-
-oziare
-battere la fiacca
-
-avvenimento imprevisto che accade quasi per dispetto
-beffa del destino
-
 incubo, ossessione verso qualcuno o qualcosa
 bestia nera
-
-quando qualcosa si sta preparando qualcosa in segreto, senza conoscerne gli ingredienti
-bollire in pentola
-
-muoversi con molta incertezza, senza sapere dove andare
-brancolare nel buio
-
-raggiungere un obiettivo prima del previsto
-bruciare le tappe
 
 indica un fallimento, l'impossibilità di completare un'opera
 buonanotte al secchio
@@ -1973,95 +1750,14 @@ buonanotte al secchio
 sciupare, sprecare
 buttare al vento
 
-intensificare un conflitto
-buttare paglia sul fuoco
-
-sacrificare qualcosa per ottenere in cambio un bene di maggior valore
-buttare sardine per prendere lucci
-
-sdrammatizzare su una situazione dolorosa o difficile
-buttarla sul ridere
-
-buttarsi a testa in giù oppure dedicarsi totalmente in qualcosa
-buttarsi a capofitto
-
-per evitare un rischio si finisce in un guaio maggiore
-cadere dalla padella nella brace
-
-scoprire con incredulità qualcosa che era chiaro per tutti
-cadere dalle nuvole
-
-uscire bene da una situazione pericolosa
-cadere in piedi
-
-alla perfezione
-calzare a pennello
-
-sconfessare proprie affermazioni o mutare comportamenti tenuti in precedenza
-cambiare le carte in tavola
-
-rischiare molto
-camminare sul filo del rasoio
-
-essere in una situazione difficile o delicata, in cui qualsiasi azione rischia di provocare danno
-camminare sulle uova
-
-quando qualcosa o qualcuno arriva al momento giusto
-capitare a fagiolo
-
-prendere atto di una dolorosa realtà
-cascare dal pero
-
-gettarsi in un'impresa pericolosa dalla quale non ci si può più ritirare, o anche trovarcisi coinvolti proprio malgrado
-cavalcare la tigre
-
-cercare dappertutto
-cercare a destra e a sinistra
-
 cercare le piccole imperfezioni, essere meticolosi
 cercare il pelo nell'uovo
-
-cercare la soluzione ideale per un certo problema
-cercare la quadratura del cerchio
-
-cercare in ogni direzione
-cercare in lungo e in largo
 
 cercare qualcosa di impossibile da trovare
 cercare un ago in un pagliaio
 
-cercare qualcosa ovunque e con insistenza
-cercare per mare e per monti
-
-un nuovo problema fa passare in secondo piano il precedente
-chiodo scaccia chiodo
-
-prendere provvedimenti quando ormai il danno è stato fatto
-chiudere la stalla dopo che i buoi sono scappati
-
-fingere di non vedere
-chiudere un occhio
-
-sorprendere qualcuno nell'atto di compiere qualcosa di scorretto, o con le prove evidenti della sua colpevolezza
-cogliere con le mani nel sacco
-
-sfruttare le occasioni favorevoli
-cogliere l'attimo
-
 cancellare i vecchi rancori, perdonare
 colpo di spugna
-
-si deve fare quanto è nelle nostre possibilità senza cedere a sogni impossibili o immaginare una realtà inesistente
-coltivare il proprio orto
-
-con grande autorità e severità
-comandare a bacchetta
-
-essere due elementi che non possono coesistere
-come il diavolo e l'acqua santa
-
-trattare in malo modo
-come una bestia
 
 fare un acquisto senza aver verificato la qualità, valutandone la convenienza solo in generale
 comprare a scatola chiusa
@@ -2072,53 +1768,14 @@ con questi chiari di luna ...
 contare poco o nulla, essere di scarso valore
 contare come il due di briscola; contare come il due di picche
 
-dedicarsi o lasciarsi andare ad una vita spensierata
-correre la cavallina
-
-un'azione ormai compiuta non può essere cambiata da discussioni e temporeggiamenti
-cosa fatta capo ha
-
 credere a tutto quello che si dice, essere molto ingenui e creduloni
 credere agli asini che volano
-
-ritenersi una persona particolare che ha tutti i privilegi
-credersi il figlio della gallina bianca
-
-darsi molta importanza
-credersi un padreterno
 
 ostacolare, procurare noie e grattacapi
 dare del filo da torcere
 
 sragionare, impazzire improvvisamente, come se si avesse il cervello capovolto
 dare di volta il cervello
-
-dire cose insensate
-dare i numeri
-
-licenziare dal servizio
-dare il benservito
-
-suggerire di nascosto a qualcuno cosa deve dire o come deve comportarsi
-dare l'imbeccata
-
-attirare l'attenzione
-dare nell'occhio
-
-apro rimprovero, sgridata severa
-dare una lavata di capo
-
-bisogna comportarsi in modo da non scontentare nessuno, alternando torto e ragione tra le parti in disputa
-dare un colpo al cerchio e uno alla botte
-
-approfittare della disponibilità di qualcuno
-dare un dito e farsi prendere un braccio
-
-far credere vera una falsità
-darla a bere
-
-picchiare sodo con la stessa foga che ha chi crede di avere ragione dalla propria parte
-darle di santa ragione
 
 scappare, fuggire
 darsela a gambe
@@ -2129,50 +1786,11 @@ da uomo a uomo
 eseguire immediatamente
 detto, fatto
 
-difendere con accanimento
-difendere coi denti
-
-senza preavviso
-di punto in bianco
-
 sfogarsi, parlare liberamente senza badare alla sensibilità degli altri
 dirne di tutti i colori
 
-rimproverare qualcuno dicendogli quello che si pensa
-dirne quattro
-
-rinviare al giorno successivo una decisione
-dormirci sopra
-
-restare inoperosi accontentandosi di quanto si è già ottenuto
-dormire sugli allori
-
-sentirsi sicuri, tranquilli, senza la minima preoccupazione
-dormire tra due guanciali
-
-estremamente facile
-è facile come bere un bicchiere d'acqua
-
-è sempre la stessa cosa già sentita in passato
-è la solita cantilena
-
-ignorare ciò che si è sentito
-entrare da un orecchio e uscire dall'altro
-
 entrare in azione, intervenire
 entrare in ballo
-
-essere certi di raggiungere un obiettivo
-essere a cavallo
-
-che manca poco, si usa al termine di qualcosa
-essere agli sgoccioli
-
-arrivare alla fase conclusiva di uno scontro
-essere ai ferri corti
-
-sensazione meravigliosa di chi è estremamente felice
-essere al settimo cielo
 
 essere rimasto senza soldi
 essere al verde
@@ -2180,128 +1798,17 @@ essere al verde
 essere senza forze, senza energia
 essere alla frutta
 
-trovarsi in una situazione pericolosa, precaria
-essere appeso a un filo
-
-essere molto fortunati
-essere baciato dalla fortuna
-
-trovarsi in continuo disaccordo
-essere come cane e gatto
-
-spalleggiarsi l'un l'altro per compiere imprese disoneste
-essere come il gatto e la volpe
-
-si riferisce a persona o cosa molto perfetta, senza uguali, rara ed introvabile
-essere come l'araba fenice
-
 non trovare pace, non avere sede stabile in nessun posto
 essere come l'ebreo errante
-
-trovarsi in grave pericolo
-essere con la corda al collo
-
-non avere segreti da nascondere
-essere come un libro aperto
-
-avere un rapporto familiare e di complicità
-essere culo e camicia
-
-donna che si concede a molti
-essere di facili costumi
-
-essere indulgente o tollerante
-essere di manica larga
-
-per definire un'amicizia intima fra due persone
-essere due anime in un nocciolo
-
-essere molto felici
-essere felice come una Pasqua
 
 avere un comportamento diverso, solitamente in negativo, da quello abituale
 essere fuori di sé
 
-essere ciò che è causa di disaccordo
-essere il pomo della discordia
-
-essere più importanti
-essere in prima linea
-
-essere in numero ridottissimo
-essere in quattro gatti
-
-essere ben protetti o tutelati
-essere in una botte di ferro
-
-sentirti in voglia di fare qualcosa
-essere in vena
-
-ciò che completa un'opera, una situazione ecc
-essere la ciliegina sulla torta
-
 non essere molto delicati nel dire e nel fare le cose
 essere l'elefante in una cristalleria
 
-avere capacità di risolvere i problemi o guai
-essere la fata Turchina
-
-essere oggetto di chiacchiere
-essere la favola del paese
-
-colui che in un gruppo si distingue per il suo comportamento sbagliato o controcorrente
-essere la pecora nera
-
-essere l'elemento migliore o più forte
-essere la punta di diamante
-
 non contare assolutamente niente, non avere alcun valore
 essere l'ultima ruota del carro
-
-trovarsi in una situazione o condizione fortemente sfavorevole o rischiosa
-essere nella fossa dei leoni
-
-appena acquistato, non ancora usato
-essere nuovo di zecca
-
-essere sazio oppure luogo molto affollato
-essere pieno come un uovo
-
-essere in perfetta salute
-essere sano come un pesce
-
-ridursi in miseria
-essere sul lastrico
-
-trovarsi in un momento favorevole della vita
-essere sulla cresta dell'onda
-
-essere d'intralcio
-essere tra i piedi
-
-essere incapace nel fare qualcosa
-essere una frana
-
-tutta un'altra cosa, non paragonabile con la precedente
-essere un altro paio di maniche
-
-essere di peso, d'intralcio per qualcuno
-essere una palla al piede
-
-essere una persona falsa e ipocrita
-essere un fariseo
-
-chi vive agiatamente solo per merito dei propri genitori
-essere un figlio di papà
-
-persona estremamente furba, dotata di un'astuzia sottile e di raffinata intelligenza
-essere un furbo di tre cotte
-
-essere impenetrabile, chi non rivela le propri pensieri, sentimenti ed emozioni
-essere un libro chiuso
-
-persona che non ha fiducia nelle parole o nell'operato altrui,
-essere un uomo di poca fede
 
 adeguarsi dinanzi alle difficoltà, senza rassegnarsi
 far di necessità virtù
@@ -2309,173 +1816,26 @@ far di necessità virtù
 persona che si finge timida e dolce al fine di nascondere la vera personalità per ingannare il prossimo
 fare la gatta morta
 
-innervosire qualcuno
-far girare le palle
-
 fare lo sguardo dolce
 far l'occhio di triglia
-
-fare chiarezza
-far luce su qualcosa
 
 non essere divertente, non saper fare ridere nessuno
 far ridere i polli
 
-spaventare moltissimo
-far rizzare i capelli
-
-uccidere
-far secco
-
-creare grossi problemi
-far vedere i sorci verdi
-
-cercare d'ingannare con promesse illusorie
-far vedere la luna nel pozzo
-
-addossarsi vicendevolmente colpe, responsabilità o incombenze
-fare a scaricabarile
-
-dichiarare ufficialmente la propria credenza
-fare atto di fede
-
-vincere in modo clamoroso umiliando l'avversario
-fare cappotto
-
 andare all'indietro, peggiorare, regredire
 fare come il gambero
-
-non mangia e non lascia mangiare
-fare come il cane dell'ortolano
-
-stare di guardia
-fare da palo
-
-mettere sullo stesso piano varie cose senza fare le dovute distinzioni fra ciò che è buono o e cattivo
-fare di tutta l'erba un fascio
-
-esagerare di molto i fatti
-fare di una mosca un elefante
-
-scoprire con curiosità maleducata la disponibilità economica degli altri
-fare i conti in tasca
-
-prendere decisioni affrettate senza tenere conto della volontà altrui
-fare i conti senza l'oste
-
-avere tanto potere o influenza da determinare e regolare tutta una situazione
-fare il buono e il cattivo tempo
-
-farci l'abitudine
-fare il callo
 
 fare la corte, corteggiare
 fare il cascamorto
 
-sconfiggere clamorosamente
-fare il culo
-
-fare gran fracasso, un baccano infernale
-fare il diavolo a quattro
-
-chi corteggia abitualmente le donne, con disinvoltura spesso sfacciata
-fare il galletto
-
-sopravvalutare le proprie capacità e uscirne sconfitti
-fare il volo di Icaro
-
-sperperare beni o denaro senza pensare al futuro
-fare la cicala
-
-appropriarsi di qualcosa in più rispetto al dovuto
-fare la cresta
-
-fare la figura dello stupido
-fare la figura del baccalà
-
-restare intrappolato e morire
-fare la fine del topo
-
-maltrattare seriamente qualcuno
-fare la pelle
-
 accaparrarsi tutto o quasi, prendersi la parte migliore
 fare la parte del leone
-
-fare avanti e indietro continuamente da un luogo a un altro
-fare la spola
-
-chi si rende ridicolo volendo realizzare qualcosa con eccessiva economia, oppure senza avere i mezzi necessari
-fare le nozze coi fichi secchi
-
-stare svegli fino a tarda notte
-fare le ore piccole
-
-manovrare subdolamente contro qualcuno fingendosi amico
-fare le scarpe
-
- chi finge di non sentire o non capire quello che gli viene detto
-fare l'indiano
-
-concentrarsi per cercare di ricordare o di riordinare le idee riguardo un argomento ben preciso
-fare mente locale
-
-criticare aspramente
-fare pelo e contropelo
 
 liberare completamente, fare sparire del tutto
 fare piazza pulita
 
-far sparire tutto eliminando le tracce di ciò che c'era
-fare tabula rasa
-
-avere un grosso colpo di fortuna
-fare tredici
-
-fallire
-fare un buco nell'acqua
-
-creare un gran disordine, confusione
-fare un macello
-
-fare in modo di ricordarsi una cosa
-fare un nodo al fazzoletto
-
-essere disposti a tutto
-fare un patto col diavolo
-
-intraprendere un'iniziativa rischiosa
-fare un salto nel buio
-
-fare una scenata violenta
-fare un'ira di Dio
-
-provocare un danno irrimediabile
-fare una frittata
-
-uscire senza danno o pena da qualche rischio o da qualche azione illecita
-farla franca
-
-combinarne di ogni genere
-farne di cotte e di crude
-
-deridere
-farsi beffa di qualcuno
-
-burlarsi
-farsi gioco
-
-eseguito senza impegno e senza cura
-fatto coi piedi
-
-quando si è innamorati il sangue non circola bene
-freddo di mano, caldo di cuore
-
 invito a fuggire
 gambe in spalla
-
-avere una grana, un problema da risolvere
-gatta da pelare
 
 illudere
 gettare fumo negli occhi
@@ -2486,98 +1846,14 @@ gettare la maschera
 arrendersi, rinunciare
 gettare la spugna
 
-tormentare un avversario più debole sapendo di poterlo battere quando si vuole
-giocare come il gatto col topo
-
-non fare niente
-grattarsi la pancia
-
-sentirsi superiori
-guardare uno dall'alto in basso
-
-quando un ragionamento non convince, sembra sbagliato
-i conti non tornano
-
-le scelte fatte ad intuito difficilmente sono sbagliate
-il cuore non sbaglia
-
-stato di ozio felice e spensierato
-il dolce far niente
-
-un risultato che per essere ottenuto ha implicato troppi sforzi e sacrifici
-il gioco non vale la candela
-
 dopotutto, in fondo, tutto sommato
 in fin dei conti
-
-in un attimo
-in un batter d'occhio
-
-tormento insopportabile da cui è impossibile liberarsi
-indossare la camicia di Nesso
 
 sopportare una situazione sgradevole perché non si può fare altrimenti; to grit one's teeth and bear it
 ingoiare il rospo
 
-pretendere di saperne sempre più degli altri
-insegna a nuotare ai pesci
-
-inseguire un sogno irrealizzabile
-inseguire una chimera
-
-soluzione insospettatamente semplice a un problema apparentemente impossibile
-l'uovo di Colombo
-
-la "classe" è una qualità rara e non comune come l'acqua
-la classe non è acqua
-
-qualcosa di estremamente redditizio
-la gallina dalle uova d'oro
-
-lacrime finte
-lacrime di coccodrillo
-
-non soddisfare appieno
-lasciare a desiderare
-
-morire
-lasciarci le penne
-
 non preoccuparsene minimamente, farlo arrangiare da solo
 lasciar cuocere qualcuno nel suo brodo
-
-togliersene la responsabilità
-lavarsene le mani
-
-lavorare senza ricevere alcuna retribuzione
-lavorare per la gloria
-
-gustare molto un cibo
-leccarsi i baffi
-
-adulare qualcuno importante per ottenere vantaggi
-leccare i piedi
-
-cercare di consolarsi di un insuccesso, di una delusione
-leccarsi le ferite
-
-andarsene
-levare le tende
-
-levarsi di torno
-levarsi dalle palle
-
-privarsi del necessarie per aiutare qualcuno
-levarsi il boccone di bocca
-
-togliersi un pensiero fastidioso
-levarsi un dente
-
-calmo, piatto oppure senza intoppi o difficoltà
-liscio come l'olio
-
-lotta senza tregua o riposo, senza sosta fino alla vittoria
-lotta senza quartiere
 
 mandare al diavolo, mandare a quel paese
 mandare a farsi benedire
@@ -2585,53 +1861,17 @@ mandare a farsi benedire
 non concretizzarsi, non raggiungere uno scopo
 mandare a monte
 
-farsi mantenere
-mangiare alle spalle di qualcuno
-
-mangiare avidamente, con ingordigia
-mangiare a quattro palmenti
-
-mangiare senza pagare e senza dare nulla in cambio
-mangiare a ufo
-
-mangiare pochissimo
-mangiare come un uccellino
-
 capire una cosa al volo, intuire in anticipo
 mangiare la foglia
-
-vivere alle spalle altrui senza mostrare alcuna gratitudine
-mangiare pane a tradimento
-
-mangiare moltissimo, quanto basterebbe per due persone
-mangiare per due
 
 aggredire, offendere, attaccare con grande violenza
 mangiarsi vivo qualcuno
 
-parlare di un argomento senza mai arrivare al dunque
-menare il can per l'aia
-
 prendere in giro, ingannare
 menar per il naso
 
-distruggere
-mettere a ferro e fuoco
-
-fissare dei limiti oltre il quale non si deve andare
-mettere dei paletti
-
 affrettare troppo i tempi
 mettere il carro davanti ai buoi
-
-impedire di proseguire
-mettere il bastone tra le ruote
-
-toccare un argomento delicato o imbarazzante
-mettere il dito sulla piaga
-
-mettere qualcuno in una posizione di grande vantaggio oppure affidare un bene prezioso alla persona meno adatta
-mettere il lupo nell'ovile
 
 parlare positivamente di qualcuno, far apparire bene agli occhi altrui
 mettere in buona luce
@@ -2639,41 +1879,11 @@ mettere in buona luce
 parlare negativamente di qualcuno, far apparire male agli occhi altrui
 mettere in cattiva luce
 
-tormentare
-mettere in croce
-
-mettere in evidenza
-mettere in luce
-
-chiarire un concetto in modo che non possano esserci equivoci
-mettere i puntini sulle i
-
-imporre condizioni pesanti e inaccettabili
-mettere la corda al collo
-
-insinuare un sospetto
-mettere la pulce nell'orecchio
-
-intromettersi abilmente per trarne vantaggio
-mettere lo zampino
-
-dedicarsi a troppe attività contemporaneamente
-mettere troppa carne al fuoco
-
-non lasciare possibilità di scelta
-mettere alle corde
-
-mangiare qualunque cosa
-mettere qualcosa sotto i denti
-
 rinunciarci definitivamente, smettere di pensarci
 metterci una croce sopra
 
 non pensare più a una cosa, dimenticarla, non parlarne più
 metterci una pietra sopra
-
-disperarsi
-mettersi le mani nei capelli
 
 trattenersi dal parlare, pentirsi di aver parlato
 mordersi la lingua
@@ -2681,101 +1891,11 @@ mordersi la lingua
 farsi vedere deciso, avere un atteggiamento aggressivo
 mostrare i denti
 
-usare tutti i mezzi possibili per ottenere qualcosa
-muovere cielo e terra
-
-essere particolarmente fortunati
-nascere con la camicia
-
-assolutamente no
-nemmeno per sogno!
-
-non avere neanche un soldo
-non avere il becco di un quattrino
-
 non avere nulla da mangiare, essere molto poveri
 non aver niente da metter sotto i denti
 
-non ottenere nulla
-non batter chiodo
-
-non capire assolutamente niente
-non capire un tubo
-
-non capire nulla
-non capire uno iota
-
-non concludere nulla nonostante sforzi e tentativi
-non cavar un ragno dal buco
-
-non riuscire a dormire
-non chiudere occhio
-
-tutto si può realizzare col giusto impegno
-nulla è impossibile
-
-essere una persona poco onesta o corretta, oppure dal passato un po' burrascoso
-non essere uno stinco di santo
-
-essere miti e innocui
-non fare male a una mosca
-
-non fare favoritismi
-non guardare in faccia nessuno
-
-non importare nulla
-non importare un fico secco
-
-non fare assolutamente nulla, non intervenire
-non muovere un dito
-
-non sapere cosa decidere
-non sapere che pesci pigliare
-
-non sapere come fare a venire a capo di una situazione difficile o complicata
-non sapere dove sbattere la testa
-
-essere incapaci a mantenere un segreto
-non saper tenere un cece in bocca
-
-silenzio assoluto, non sentire alcun rumore
-non sentir volare una mosca
-
-essere molto poveri, come se si avesse soltanto l'aria per nutrirsi
-non si campa d'aria
-
 essere impossibile, assurdo
 non stare né in cielo né in terra
-
-non provocare chi potrebbe reagire in maniera imprevedibile
-non svegliare il cane che dorme
-
-non fare assolutamente male a qualcuno
-non torcere un capello
-
-valere pochissimo, meno di un fico essiccato
-non valere un fico secco
-
-non valere nulla
-non valere una lira
-
-essere impaziente
-non vedere l'ora
-
-essere molto ricchi
-nuotare nell'oro
-
-tentativo rischioso, che potrebbe andare bene o molto male
-o la va o la spacca
-
-convincere qualcuno che non ha altre alternative
-o mangi la minestra, o salti dalla finestra
-
-vista acutissima
-occhio di falco
-
-avere una vista molto acuta e penetrante
-occhio di lince
 
 raramente
 ogni morte di papa
@@ -2783,170 +1903,14 @@ ogni morte di papa
 everyone has his own cross to bear
 ognuno porta la sua croce
 
-oltre ad aver subito il danno si viene pure presi in giro
-oltre al danno la beffa
-
-esprime preoccupazione per un pericolo imminente
-ora si balla
-
-subire la giusta punizione
-pagare il fio
-
-parlare con qualcuno che non sta ascoltando
-parlare al muro
-
-parlare in confidenza e senza testimoni
-parlare a quattr'occhi
-
-parlare in modo esplicito senza giri di parole
-parlare chiaro e tondo
-
-esprimersi con grande proprietà di linguaggio
-parlare come un libro stampato
-
-parlare un linguaggio incomprensibile
-parlare ostrogoto
-
-iniziare qualcosa con grande entusiasmo
-partire in quarta
-
-dal successo al fallimento, dalla ricchezza alla miseria
-passare dalle stelle alle stalle
-
-dare ad altri una situazione difficile da gestire e risolvere
-passare la patata bollente
-
-subire una grave umiliazione
-passare sotto le forche caudine
-
-impazzire
-perdere il lume della ragione
-
-perdere la dignità e l'onore
-perdere la faccia
-
-perdere la pazienza
-perdere le staffe
-
-qualcosa fatta con ordine e precisione
-per filo e per segno
-
-superare a stento una situazione difficile
-per il rotto della cuffia
-
-danneggiare o infastidire
-pestare i piedi a qualcuno
-
-piangere disperatamente
-piangere a calde lacrime
-
-piangere disperatamente
-piangere come un vitello
-
-commiserarsi in continuazione, con lamenti che sfiorano il ridicolo
-piangersi addosso
-
-dare la colpa al governo, anche della pioggia
-piove, governo ladro!
-
-il peggiorare di una situazione già messa male
-piove sul bagnato
-
-svolgere mansioni inutili
-portare acqua al mare
-
-capire il significato letterale, senza cogliere i significati reconditi
-prendere alla lettera
-
 deridere, mettere in ridicolo
 prendere in giro
-
-cogliere l'occasione favorevole e approfittarne
-prendere la palla al balzo
-
-non inquietarsi o deprimersi di fronte ai problemi della vita
-prender la vita con filosofia
-
-confondere una cosa per un'altra
-prendere lucciole per lanterne
-
-prenderla troppo alla leggera sottovalutandone l'importanza e la difficoltà
-prendere sotto gamba
-
-subire una truffa
-prendere un bidone
-
-commettere uno sbaglio
-prendere un granchio
-
-innamorarsi in modo intenso e improvviso
-prendere una sbandata
-
-fare promesse senza poterle o volerle mantenere
-promettere mare e monti
-
-discussioni su cose futili, prive di fondamento
-questioni di lana caprina
-
-qui è facile sbagliarsi
-qui casca l'asino
-
-quando qualcosa risulta strano o poco convincente
-qui gatta ci cova
-
-usare le ultime risorse rimaste per togliersi da un impaccio
-raschiare il fondo del barile
 
 rimanere delusi; to have a bitter taste in one's mouth
 restare con l'amaro in bocca
 
-agire secondo i propri doveri
-rigare dritto
-
 resistere agli eventi, salvarsi da una situazione difficile
 rimanere a galla
-
-ottenere poco o nulla
-rimanere con un pugno di mosche
-
-restare sbalordito, senza parole
-rimanere di sasso
-
-non mantenere un impegno preso
-rimangiarsi la parola
-
-impegnarsi a fare qualcosa
-rimboccarsi le maniche
-
-guarire da una malattia o infortunio
-rimettersi in sesto
-
-reagire verbalmente a un intervento offensivo o provocatorio
-rispondere per le rime
-
-passare all'azione
-rompere gli indugi
-
-covare rancore, rabbia
-rodersi il fegato
-
-creare fastidio
-rompere le scatole
-
-rovinare un piano o un progetto pazientemente preparato
-rompere le uova nel paniere
-
-rompere ogni rapporto con il passato per dedicarsi a cose del tutto nuove
-saltare il fosso
-
-notevole miglioramento qualitativo
-salto di qualità
-
-salvaguardare con una decisione gli interessi di due soggetti
-salvare capra e cavoli
-
-in caso di insuccesso, cercare di non perdere la reputazione
-salvare la faccia
 
 essere sicuri di sé e in grado di cavarsela
 sapere il fatto suo
@@ -2957,71 +1921,14 @@ saperla lunga
 essere molto furbi, conoscere tutte le malizie che può conoscere il Diavolo e addirittura una di più
 saperne una più del diavolo
 
-vivere stentatamente, mettendo insieme il denaro appena sufficiente alla sopravvivenza quotidiana
-sbarcare il lunario
-
-frequentare la scuola studiando poco o nulla
-scaldare il banco
-
-rovinarsi con le proprie mani
-scavarsi la fossa
-
-compiere un'accurata selezione, scegliendo sempre il meglio
-scegliere fior da fiore
-
-pensare o vantarsi di avere scoperto qualcosa che in realtà è nota a tutti
-scoprire l'acqua calda
-
-pensare o vantarsi di avere scoperto qualcosa che in realtà è nota a tutti
-scoprire l'America
-
-perdere tempo in attività o discussioni inutili
-segare la segatura
-
-non sentirsi a proprio agio
-sentirsi un pesce fuor d'acqua
-
 mettersi al servizio di due persone che perseguono interessi o scopi contrastanti o incompatibili tra loro
 servire due padroni
 
 sostenere un argomento con una persona che la pensa allo stesso modo
 sfondare una porta aperta
 
-le buone maniere si imparano sin dalla giovane età
-signori si nasce, non si diventa
-
-entrare troppo nei dettagli
-spaccare il capello in quattro
-
-prendere le difese
-spezzare una lancia a favore
-
-sfruttare fino in fondo
-spremere come un limone
-
-parlare inutilmente, senza essere ascoltati
-sprecare il fiato
-
-confessare qualcosa
-sputare il rospo
-
 stonare, non avere alcuna attinenza con l'argomento in questione
 starci come il cavolo a merenda
-
-seguire a brevissima distanza
-stare a ruota
-
-limitarsi a osservare
-stare alla finestra
-
-attendere con ansia l'esito di qualcosa
-stare col fiato sospeso
-
-nel momento migliore o più importante
-sul più bello
-
-escludere
-tagliare fuori
 
 troncare i rapporti, non aver relazioni con nessuno
 tagliare i ponti
@@ -3029,122 +1936,26 @@ tagliare i ponti
 svignarsela
 tagliare la corda
 
-prendere una decisione drastica
-tagliare la testa al toro
-
-ostacolare seriamente qualcuno, impedendogli di andare avanti con le proprie forze
-tagliare le gambe
-
-punto debole
-tallone d'Achille
-
-situazione ricca di apparenza ma povera di sostanza
-tanto fumo e poco arrosto
-
-impedire a qualcuno di manifestare le proprie capacità
-tarpare le ali a qualcuno
-
 resistere, non mollare
 tenere duro
 
 tenere la bocca chiusa, starsene zitti
 tenere il becco chiuso
 
-avere il controllo della situazione e poter decidere cosa fare
-tenere il coltello dalla parte del manico
-
 tenere in sospeso, temporeggiare
 tenere in ballo
-
-tenere qualcuno in una posizione d'inferiorità per poterlo gestire al meglio
-tenere in scacco
-
-in modo da potersi vedere o controllare facilmente
-tenere sott'occhio
-
-tenere nel dubbio, nell'incertezza
-tenere sulla corda
-
-alimentare la curiosità altrui
-tenere sulle spine
-
-essere particolarmente nervoso
-teso come una corda di violino
-
-sospendere un'attività
-tirare i remi in barca
-
-rendere partecipe qualcuno in vicende, discorsi, trattative
-tirare in ballo
-
-fare il proprio interesse
-tirare l'acqua al proprio mulino
 
 campare a stento, fare la fame
 tirare la cinghia
 
-morire
-tirare le cuoia
-
 costringere con la forza qualcuno a fare qualcosa
 tirare per i capelli
-
-pretendere troppo, rischiando di "spezzare" la corda
-tirare troppo la corda
-
-raggiungere il punto più basso, triste o vergognoso, della propria vita
-toccare il fondo
-
-aiutare qualcuno, liberandolo da una situazione potenzialmente difficile e pericolosa
-togliere le castagne dal fuoco
-
-l'unione di tre cose apparentemente inutili crea qualcosa di utile
-tre fili fanno uno spago
-
-raggiungere una situazione invidiabile di benessere e abbondanza
-trovare l'Eldorado
-
-trovare un degno rivale
-trovare pane per i propri denti
-
-stare di fronti a una persona, da soli, senza altri attorno
-trovarsi a tu per tu
-
-essere in mezzo a due pericoli ugualmente gravi
-trovarsi tra due fuochi
-
-trovarsi in mezzo a due persone ostili o due pericoli
-trovarsi tra l'incudine e il martello
-
-alternare le maniere buone a quelle cattive allo scopo di ottenere un determinato risultato
-usare il bastone e la carota
-
-perdere la pazienza
-uscire dai gangheri
 
 voler andare fino alla fine
 vedere il fondo
 
-essere negativo e pessimista
-vedere tutto nero
-
-trovarsi in una situazione di grave pericolo
-vedersela brutta
-
-difendersi con tutte le forze
-vendere cara la pelle
-
-imporsi all'attenzione e arrivare alla notorietà
-venire alla ribalta
-
-trovarsi in una situazione d'incertezza
-vivere in un limbo
-
 cambiare idea, rimangiarsi la parola
 voltare la faccia
-
-rivelare tutto ciò che si sa, anche le cose segrete
-vuotare il sacco
 
 di già che si ha fatto tanto, si può fare un ultimo sforzo in più.
 abbiamo fatto trenta, facciamo trentuno!
@@ -3166,12 +1977,6 @@ a profusione
 
 fare del bene a chi in futuro sarà una minaccia
 allevare una serpe in seno
-
-arrendersi
-alzare bandiera bianca
-
-atteggiarsi in modo orgoglioso
-alzare la cresta
 
 picchiare qualcuno
 alzare le mani
@@ -3239,14 +2044,8 @@ aver voce in capitolo
 riscuotere
 battere cassa
 
-oziare
-battere la fiacca
-
 di qualcosa che si sta preparando all'oscuro di altri
 bollire in pentola
-
-raggiungere un obiettivo prima del previsto
-bruciare le tappe
 
 scoprire all'improvviso qualcosa di già chiaro a tutti
 cadere dalle nuvole
@@ -3304,12 +2103,6 @@ dare del filo da torcere
 
 impazzire
 dare di volta il cervello
-
-dire cose insensate
-dare i numeri
-
-attirare l'attenzione
-dare nell'occhio
 
 comportarsi in modo da non scontentare nessuno
 dare un colpo al cerchio e uno alla botte
@@ -3455,9 +2248,6 @@ fare il diavolo a quattro
 schierarsi contemporaneamente su due fronti opposti
 fare il doppiogioco
 
-fare la figura dello stupido
-fare la figura del baccalà
-
 cadere in trappola e morire
 fare la fine del topo
 
@@ -3472,9 +2262,6 @@ fare piazza pulita
 
 dimennticare o eliminare tutto
 fare tabula rasa
-
-fallire
-fare un buco nell'acqua
 
 segnarsi qualcosa per non dimenticarlo
 fare un nodo al fazzoletto
@@ -3503,14 +2290,8 @@ fatto coi piedi
 in fretta e furia
 fuggire a gambe levate
 
-invito a fuggire
-gambe in spalla
-
 buttar via, sprecare
 gettare alle ortiche; gettare al vento
-
-illudere
-gettare fumo negli occhi
 
 intensificare un conflitto
 gettare paglia sul fuoco
@@ -3527,9 +2308,6 @@ il dado è tratto
 di un risultato che ha richiesto sacrifici e sforzi eccessivi
 il gioco non vale la candela
 
-in un attimo
-in un batter d'occhio
-
 essere costretti a sopportare una situazione spiacevole
 ingoiare il rospo
 
@@ -3539,20 +2317,11 @@ la classe non è acqua
 qualcosa di redditizio
 la gallina dalle uova d'oro
 
-lacrime finte
-lacrime di coccodrillo
-
 non soddisfare
 lasciare a desiderare
 
-morire
-lasciarci le penne
-
 lasciare che qualcuno si arrangi da solo
 lasciar cuocere qualcuno nel suo brodo
-
-togliersene la responsabilità
-lavarsene le mani
 
 gustare o pregustare un cibo
 leccarsi i baffi
@@ -3560,17 +2329,8 @@ leccarsi i baffi
 adulare
 leccare i piedi
 
-andarsene
-levare le tende
-
-togliersi un pensiero fastidioso
-levarsi un dente
-
 calmo o senza intoppi
 liscio come l'olio
-
-mangiare pochissimo
-mangiare come un uccellino
 
 saper leggeere tra le righe, capire in anticipo
 mangiare la foglia
@@ -3580,9 +2340,6 @@ mangiarsi vivo qualcuno
 
 non arrivare mai al dunque
 menare il can per l'aia
-
-distruggere
-mettere a ferro e fuoco
 
 non lasciare possibilità di scelta
 mettere alle corde; mettere alle strette
@@ -3595,9 +2352,6 @@ mettere il bastone tra le ruote
 
 parlare negativamente di qualcuno
 mettere in cattiva luce
-
-tormentare
-mettere in croce
 
 insinuare il dubbio
 mettere la pulce nell'orecchio
@@ -3620,17 +2374,11 @@ mettersi il cuore in pace
 disperarsi
 mettersi le mani tra i capelli
 
-essere particolarmente fortunati
-nascere con la camicia
-
 non avere un soldo
 non avere il becco di un quattrino
 
 non ottenere nulla nonostante gli sforzi
 non cavare un ragno dal buco
-
-non riuscire a dormire
-non chiudere occhio
 
 essere frutto di un lavoro altrui
 non essere farina del mio/tuo/suo sacco
@@ -3659,12 +2407,6 @@ nuovo di zecca
 di un tentativo rischioso, che o riesce o fallsice
 o la va o la spacca
 
-vista acutissima
-occhio di falco
-
-raramente
-ogni morte di papa
-
 oltre ad aver subito un danno, subire anche la presa in giro a esso collegata
 oltre al danno la beffa
 
@@ -3679,9 +2421,6 @@ partire in quarta
 
 affibbiare ad altri una situazione difficile da gestire
 passare la patata bollente
-
-subire una grave umiliazione
-passare sotto le forche caudine
 
 perdere la dignità
 perdere la faccia
@@ -3728,9 +2467,6 @@ qui gatta ci cova
 usare le ultime risorse a disposizione
 raschiare il fondo del barile
 
-rimanere delusi
-restare con l'amaro in bocca
-
 agire secondo i propri doveri
 rigare diritto
 
@@ -3776,9 +2512,6 @@ sbarcare il lunario
 scappare il più in fretta possibile
 scappare a gambe levate
 
-rovinarsi con le proprie mani
-scavarsi la fossa
-
 pensare di aver scoperto qualcosa che è già noto a tutti
 scoprire l'acqua calda
 
@@ -3803,20 +2536,11 @@ stare col fiato sospeso
 non fare nulla
 starsene con le mani in mano
 
-escludere
-tagliare fuori
-
 troncare i rapporti
 tagliare i ponti
 
 scappare
 tagliare la corda
-
-prendere una decisione drastica
-tagliare la testa al toro
-
-punto debole
-tallone d'Achille
 
 situazione ingannevole, apparentemente ricca e in realtà povera
 tanto fumo e niente arrosto
@@ -3829,9 +2553,6 @@ tenere duro
 
 alimentare la curiosità
 tenere sulle spine
-
-sospendere un'attività
-tirare i remi in barca
 
 chiamare in causa qualcuno
 tirare in ballo
@@ -3850,9 +2571,6 @@ toccare il fondo
 
 trovarsi in mezzo a due persone ostile
 tra l'incudine e il martello
-
-trovare un degno rivale
-trovare pane per i propri denti
 
 di scarsa fiducia
 uomo di poca fede
@@ -5357,14 +4075,11 @@ aver voglia di litigare; portare rancore
 to have one's head screwed on straight
 avere la testa sulle spalle; avere il cervello a posto
 
-to have a soft spot for someone
-avere un debole per qualcuno
-
 to have an axe to grind
-avere un interesse personale; tirare acqua al proprio mulino 
+avere un interesse personale; tirare acqua al proprio mulino
 
-to have a bee in one's bonnet 
-avere una fissazione 
+to have a bee in one's bonnet
+avere una fissazione
 
 to plead the Fifth (Amendment)
 avvalersi della facoltà di non rispondere
@@ -5912,9 +4627,6 @@ la penna è più forte della spada
 cleanliness is next to godliness
 la pulizia è quasi importante quanto la religiosità
 
-tip of the iceberg
-la punta dell'iceberg
-
 the shoe is on the other foot; the tables are turned
 la situazione è rovesciata
 
@@ -6049,9 +4761,6 @@ mostrarsi ingrato
 
 there is no honour among thieves
 neanche fra di loro i disonesti mantengono la parola
-
-in hot water
-nei guai
 
 in your dreams
 nemmeno per sogno!
@@ -6747,7 +5456,7 @@ dog-eat-dog world
 il mondo senza pietà
 
 fly in the ointment
-il piccolo difetto che sciupa tutto 
+il piccolo difetto che sciupa tutto
 
 a stitch in time saves nine
 un punto (di cucitura) fatto in tempo evita di doverne fare nove
@@ -6927,16 +5636,13 @@ to make out
 limonare; pomiciare
 
 to jinx (literally to 'hoot' as an owl)
-gufare 
+gufare
 
 how disgusting! that's gross!
-che schifo! 
-
-how boring!
-che barba! 
+che schifo!
 
 darn! dang!
-mannaggia 
+mannaggia
 
 rotten; god-awful
 boia
@@ -6944,19 +5650,19 @@ boia
 get lost!
 vattene!
 
-it sucks; it's awful 
+it sucks; it's awful
 mi fa cagare
 
 a rip-off
 una fregatura
 
-to run; to 'jet' 
+to run; to 'jet'
 filare
 
 to see one another; to get together (with friends)
 beccarsi; trovarsi; vedersi
 
-to be in the 'friend-zone' 
+to be in the 'friend-zone'
 friendzonare
 
 a relationship; affair (literally a scam)
@@ -6982,9 +5688,6 @@ un carnaio
 
 divertirsi tanto; to die of laughter
 spaccarsi dalle risate
-
-non capire assolutamente niente
-non capire un tubo
 
 to freak out; to flip out; dare in matto impazzire
 sbroccare
@@ -7116,7 +5819,7 @@ everything ok?
 tutto bene?
 
 what's wrong?
-qualcosa non va? 
+qualcosa non va?
 
 what's happening?
 che succede?
@@ -7199,41 +5902,9 @@ pazzarello
 mamma's boy
 il mammone
 
-tire (for car)
-il pneumatico
-
-rubber
-la gomma
-
-steel
-l'acaio
-
-jelly; jam
-la marmelata
-
-ceiling
-il soffito
-
-roof
-il tetto
-
-dryer
-l'asciugatrice
-
-apricot
-l'albicocca
-
-pineapple
-l'ananas
-
-plum
-la prugna
-
-prune
-la prugna secca
-
 bummer; how disappointing; that sucks
 che disdetta
 
 to emerge; to reveal itself
 venire a galla
+
