@@ -56,7 +56,7 @@ for subject in subjects:
         if answer in answer_to_question:
             prev_question = answer_to_question[answer]
             same_question = prev_question == question
-            print( f'answer already seen: {answer}', end='' )     
+            print( f'\n{answer}', end='' )     
             if question == prev_question:
                 print( f' - and has same question, so can remove it' )
                 is_unique = False
