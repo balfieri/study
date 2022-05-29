@@ -94,9 +94,6 @@ andare a fagiolo
 essere gradito; essere d'accordo
 andare a genio
 
-quando fallisce il tentativo di fare qualcosa
-andare a monte
-
 quando si gradisce qualcosa/qualcuno particolarmente
 andare a nozze
 
@@ -355,9 +352,6 @@ camminare sul filo del rasoio
 quando qualcosa o qualcuno arriva al momento giusto
 capitare a fagiolo
 
-to fall for it
-cascarci
-
 gettarsi in un'impresa pericolosa dalla quale non ci si può più ritirare, o anche trovarcisi coinvolti proprio malgrado
 cavalcare la tigre
 
@@ -378,9 +372,6 @@ cercare un ago in un pagliaio
 
 cercare qualcosa ovunque e con insistenza
 cercare per mare e per monti
-
-to get by
-cavarsela
 
 un nuovo problema fa passare in secondo piano il precedente
 chiodo scaccia chiodo
@@ -1288,9 +1279,6 @@ avere un fame boia
 purpose
 lo scopo; il proposito
 
-on purpose
-di proposito
-
 to bite off more than one can chew
 fare il passo più lungo della gamba; strafare
 
@@ -1825,9 +1813,6 @@ andare d'amore e d'accordo
 to have a soft spot for someone
 avere un debole per qualcuno
 
-love at first sight
-l'amore a prima vista
-
 match made in heaven
 la coppia da sogno
 
@@ -1872,9 +1857,6 @@ avere un ripensamento
 
 to be calm and collected
 mantenere il sangue freddo
-
-to get a grip
-rilassarsi
 
 to let oneself go
 lasciarsi andare
@@ -2017,9 +1999,6 @@ a palate
 a small fortune
 una piccola fortuna
 
-to be in the red
-essere in rosso
-
 to cost an arm and a leg
 costare un occhio della testa
 
@@ -2061,9 +2040,6 @@ i soldi da buttare
 
 to be on a tight budget
 avere un budget limitato
-
-rip-off
-la truffa
 
 rock-bottom prices
 i prezzi stracciati
@@ -2416,9 +2392,6 @@ tenere traccia di
 to start from scratch
 ripartire da zero
 
-to get the ball rolling
-cominciare
-
 to turn over a new leaf
 cambiare pagina
 
@@ -2500,9 +2473,6 @@ l'ambito di lavoro
 on the shelf
 disoccupato
 
-to roll up one's sleeves
-rimboccarsi le maniche
-
 snowed under
 oberato di lavoro
 
@@ -2572,9 +2542,6 @@ aprire le danze, condurre
 control freak
 il maniaco del controllo
 
-to get out of hand
-sfuggire di mano
-
 to go nuts
 dare di matto
 
@@ -2601,9 +2568,6 @@ strapparsi i capelli
 
 penny for your thoughts?
 a cosa stai pensando?
-
-at first sight
-a prima vista
 
 to bend the rules
 fare uno strappo alla regola
@@ -2770,17 +2734,8 @@ provarci
 in all likelihood
 con tutta probabilità
 
-on the off chance that
-nel caso in cui
-
 one's best bet
 la cosa migliore da fare
-
-all over the place
-dappertutto
-
-from time to time
-di tanto in tanto
 
 in small doses
 a piccole dosi
@@ -2799,9 +2754,6 @@ ogni morte di Papa
 
 out of the blue
 di punto in bianco
-
-round the clock
-24 ore su 24
 
 time and time again
 a ripetizione
@@ -2931,9 +2883,6 @@ lasciare il segno
 
 light at the end of the tunnel
 la luce in fondo al tunnel
-
-piece of cake
-il gioco da ragazzi
 
 silver lining
 il lato positivo
@@ -3198,9 +3147,6 @@ andarsene a fare un giro
 
 rough and ready
 approssimativo; basilare
-
-to see red; to grow hot under the collar; to fly off the handle; to blow one's top
-arrabbiarsi
 
 hold on, please...
 attèndere prègo; attènda prègo
@@ -3832,9 +3778,6 @@ ma va
 under the weather
 malaticcio; alticcio
 
-very bad; miserable
-male
-
 in your dream
 manco per sogno!
 
@@ -4087,9 +4030,6 @@ i cafoni, la gentaglia
 behave yourself
 riga dritto o...
 
-to let one's hair down
-rilassarsi; lasciarsi andare
-
 to throw in the towel
 rinunciare; ritirarsi
 
@@ -4261,9 +4201,6 @@ tagliare la corda
 all the best!
 tante cose
 
-best wishes
-tanti auguri
-
 so much the better
 tanto di guadagnato; tanto meglio
 
@@ -4431,9 +4368,6 @@ tacere per mantenere calma la situazione
 
 to keep one's nose clean
 stare alla larga; chiamarsi fuori
-
-to let one's hair down
-divertirsi
 
 to hit on somebody
 far colpo su qualcuno
@@ -4708,9 +4642,6 @@ dai!
 stai dicendo cose sciocche, senza logica
 sei fuori!
 
-di questi tempi; oggigiorno; c'é un confronto tra qualcosa del passato e del presente
-oggi come oggi
-
 cool (Sicilian)
 spacchuiso
 
@@ -4747,9 +4678,6 @@ che schifo!
 darn! dang!
 mannaggia
 
-rotten; god-awful
-boia
-
 get lost!
 vattene!
 
@@ -4758,9 +4686,6 @@ mi fa cagare
 
 a rip-off
 una fregatura
-
-to run; to 'jet'
-filare
 
 to see one another; to get together (with friends)
 beccarsi; trovarsi; vedersi
