@@ -8215,3 +8215,8 @@ scongiurare
 possibility; contigency; eventuality
 l'eventualità
 
+misleading; deceptive
+fuorviante
+
+to mislead; to deceive; to fool
+fuorviare
