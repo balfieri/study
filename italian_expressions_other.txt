@@ -3238,9 +3238,6 @@ che mattone!
 how boring (stars with n)
 che noia!
 
-how boring (vulgar)
-che palle!
-
 i can't believe it!
 che roba!
 
@@ -4680,9 +4677,6 @@ mannaggia
 
 get lost!
 vattene!
-
-it sucks; it's awful
-mi fa cagare
 
 a rip-off
 una fregatura
