@@ -4030,9 +4030,6 @@ a rischio di essere
 recklessness
 la spericolatezza
 
-fingernail
-l'unghia
-
 to bite one's fingernails
 mangiarsi le unghie
 
@@ -6587,7 +6584,7 @@ crazy person
 il pazzerello
 
 soul mate
-la anima gemella
+l'anima gemella
 
 to reassure
 rassicurare
@@ -8211,3 +8208,9 @@ le lentiggini
 
 kerchief
 il foulard
+
+non-fiction (adj)
+di saggistica
+
+fiction (adj)
+di narativa
