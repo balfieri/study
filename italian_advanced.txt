@@ -1111,9 +1111,6 @@ la birichinata
 loud and clear
 forte e chiaro
 
-documentary
-il documentario
-
 menial; humble; lowly
 umile; domestico
 
@@ -8214,3 +8211,6 @@ la baia
 
 canteen
 la mensa
+
+TV aerial
+l’antenna parabolica
