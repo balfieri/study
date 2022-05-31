@@ -376,9 +376,6 @@ la rampa
 toward
 verso
 
-in front
-davanti
-
 behind
 indietro
 
@@ -2295,9 +2292,6 @@ opposite
 
 on the left; to the left
 a sinistra
-
-in the center; downtown
-al centro
 
 everywhere
 dappertutto
@@ -4450,6 +4444,9 @@ il mezzogiorno
 midnight
 la mezzanotte
 
+zero
+zero
+
 one
 uno/a
 
@@ -4509,6 +4506,12 @@ diciannove
 
 twenty
 venti
+
+twenty-one
+ventuno
+
+twenty-two
+ventidue
 
 thirty
 trenta
@@ -4581,3 +4584,42 @@ ventesimo
 
 hundreth
 centesimo
+
+thousandth
+millesimo
+
+il fianco
+side
+
+in the middle of; in the center; downtown
+al centro 
+
+opposite to
+di fronte a
+
+next to
+di fianco a 
+ 
+at the end of; at the bottom of
+in fondo a
+
+near to
+vicino a
+
+on the corner
+all’angolo con
+
+far from
+lontano da
+
+behind
+dietro a
+
+between
+fra; tra
+
+up to; till
+fino a
+
+on top of
+in cima di

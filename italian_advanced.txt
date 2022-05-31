@@ -1183,9 +1183,6 @@ doveroso
 contestant
 il concorrente
 
-away from
-lontano da
-
 royalty (for artist); royalties
 i diritti d'autore
 
@@ -2124,12 +2121,6 @@ per default; automaticamente considerato
 
 to tune
 sintonizzare
-
-on top of
-in cima di
-
-at the bottom of
-in fondo a
 
 luckily, fortunately
 menomale; per fortuna; fortunatamente
