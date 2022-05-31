@@ -4851,3 +4851,30 @@ l’episodio; la puntata
 
 TV host
 il conduttore; il presentatore
+
+it's one o'clock
+è l’una. – It’s one o’clock.
+
+it’s two o’clock
+sono le due
+
+it’s quarter past two.
+sono le due e un quarto
+
+it’s twenty-five past two.
+sono le due e venticinque
+
+it’s half past two
+sono le due e mezza
+
+it’s twenty to three.
+sono le tre meno venti
+
+it’s quarter to three
+sono le tre meno un quarto
+
+it’s midday; it's noon
+è mezzogiorno
+
+it's midnight
+è mezzanotte
