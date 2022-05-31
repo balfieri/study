@@ -3559,6 +3559,9 @@ radersi
 to brush
 spazzolarsi
 
+to brush one's hair
+spazzolarsi i capelli
+
 to be ashamed
 vergognarsi
 
@@ -4989,3 +4992,9 @@ i jeans
 
 sneakers
 le scarpe da ginnastica
+
+nail (of finger)
+la unghia
+
+to do one's nails
+farsi le unghie
