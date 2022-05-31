@@ -2570,7 +2570,7 @@ early
 in anticipo
 
 on time
-in orario
+in orario; in tempo
 
 clean; neat
 pulito
