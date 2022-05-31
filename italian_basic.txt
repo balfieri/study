@@ -1804,7 +1804,7 @@ biondo
 mustache
 i baffi
 
-pants
+pants; trousers
 i pantaloni
 
 suit
@@ -1829,7 +1829,7 @@ socks
 i calzini
 
 eyeglasses
-gli occhiali da vista
+gli occhiali; gli occhiali da vista
 
 sunglasses
 gli occhiali da sole
@@ -4920,3 +4920,15 @@ guardare la TV
 
 to go to bed
 andare a letto
+
+ring
+l'anello
+
+handbag; purse
+la borsa
+
+skirt
+la gonna
+
+cap
+il berretto
