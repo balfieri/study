@@ -5485,7 +5485,7 @@ focalizzarsi; concentrarsi
 resumption; recovery; revival; filming
 la ripresa
 
-hold; grip
+hold; grip; outlet
 la presa
 
 to touch; to move; to affect
