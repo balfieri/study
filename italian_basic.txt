@@ -3565,7 +3565,7 @@ sbagliarsi
 to find oneself
 trovarsi
 
-to rest
+to rest; to take a rest
 riposarsi
 
 to meet
@@ -4890,3 +4890,33 @@ riparare
 
 to buy
 comprare
+
+my day
+la mia giornata
+
+to wash
+lavarsi
+
+to have breakfast
+fare colazione
+
+to begin working
+cominciare a lavorare
+
+to have a break
+fare una pausa
+
+to finish working
+finire di lavorare
+
+to go back home
+tornare a casa
+
+to go out with friends
+uscire con gli amici
+
+to watch TV
+guardare la TV
+
+to go to bed
+andare a letto
