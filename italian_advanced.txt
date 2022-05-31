@@ -8214,3 +8214,6 @@ di saggistica
 
 fiction (adj)
 di narativa
+
+tongue-twister
+il scioglilingua
