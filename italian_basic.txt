@@ -607,7 +607,7 @@ masticare
 what to say when you answer the phone
 pronto
 
-to get out of
+to get out of; to go down
 scendere da
 
 to push
@@ -3211,7 +3211,7 @@ vedere
 to put; to place
 mettere
 
-to turn on
+to turn on; to switch on; to light
 accendere
 
 to close
@@ -4881,3 +4881,6 @@ il golfo
 
 plain (land)
 la pianura
+
+to be born
+nascere
