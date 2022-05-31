@@ -2524,9 +2524,6 @@ le dicene
 to entrust; to submit (a draft)
 affidare
 
-tin can
-il barattolo
-
 backyard
 il cortile; il cortile posteriore
 
@@ -8211,3 +8208,9 @@ l’antenna parabolica
 
 cascade; waterfall
 la cascata
+
+freckles
+le lentiggini
+
+kerchief
+il foulard

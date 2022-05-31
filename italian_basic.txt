@@ -982,6 +982,12 @@ il genitoro
 grandfather
 il nonno
 
+grandmother
+la nonna
+
+grandparents; grandfathers
+i nonni
+
 nephew; grandson
 il nipote
 
@@ -1222,8 +1228,11 @@ accendere la macchina
 shoes
 le scarpe
 
-sweater
-il maglione; il pullover; la maglia
+sweater (thin)
+la maglia
+
+sweater (warm/thick)
+il maglione; il pullover
 
 sweatshirt
 la felpa
@@ -1792,8 +1801,8 @@ brunetto
 bald
 calvo
 
-wavy; rough; wiggly
-mosso
+wavy; rough; wiggly; undulated
+mosso; ondulato
 
 brown (hair)
 castano
@@ -1808,6 +1817,9 @@ pants; trousers
 i pantaloni
 
 suit
+l'abito; il completo
+
+dress
 il vestito
 
 sweater
@@ -2261,7 +2273,7 @@ ship
 la nave
 
 motorcycle
-la motocicletta
+la motocicletta; la moto
 
 train
 il treno
@@ -4711,7 +4723,7 @@ la quantità
 one hundred grams
 l'etto
 
-pack; parcel
+pack; parcel; package
 il pacco
 
 cold
@@ -4924,7 +4936,7 @@ andare a letto
 ring
 l'anello
 
-handbag; purse
+handbag; purse; bag
 la borsa
 
 skirt
@@ -4932,3 +4944,48 @@ la gonna
 
 cap
 il berretto
+
+pigeon
+il piccione
+
+leaf
+la foglia
+
+gray
+griggio
+
+subway; metro
+la metro; la metropolitana
+
+streetcar; tram
+il tram
+
+cousin
+il cugino
+
+to wear glasses
+portare gli occhiali
+
+pasta
+la pasta
+
+can
+la scatoletta; la lattina
+
+jar
+il barattolo
+
+bag
+il sacchetto
+
+anniversary
+l'anniversario
+
+birthday
+il compleanno
+
+jeans
+i jeans
+
+sneakers
+le scarpe da ginnastica
