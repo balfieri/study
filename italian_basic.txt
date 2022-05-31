@@ -484,7 +484,7 @@ l'auto noleggio
 gasoline
 la benzina
 
-to reserve (a room, car)
+to reserve (a room, car); to book
 prenotare
 
 reservation (room, car)
@@ -3055,7 +3055,7 @@ presentare
 to explain
 spiegare
 
-to pray
+to pray; to ask for; to beg
 pregare
 
 to hope
@@ -3196,7 +3196,7 @@ salutare
 to drive; to guide
 guidare
 
-to organize
+to order
 ordinare
 
 to reserve
@@ -4884,3 +4884,9 @@ la pianura
 
 to be born
 nascere
+
+to repair
+riparare
+
+to buy
+comprare
