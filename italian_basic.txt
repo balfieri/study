@@ -4815,3 +4815,18 @@ la matita – pencil
 
 to count
 contare
+
+season
+la stagione
+
+spring
+la primavera
+
+summer
+l’estate
+
+autumn
+l’autunno
+
+winter
+l’inverno
