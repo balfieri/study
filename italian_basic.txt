@@ -1915,7 +1915,7 @@ il dottore; la dottoressa
 actress
 l'attrice
 
-studente
+student
 lo studente; la studentessa
 
 lawyer
@@ -4623,3 +4623,39 @@ fino a
 
 on top of
 in cima di
+
+manual laborer
+l’operaio; l'operaia
+
+sales assistant
+il commesso; la comessa
+
+teacher
+l’insegnante
+
+nurse
+l’infermiere; l’infermiera
+
+pharmacist
+il farmacista; la farmacista
+
+waiter
+il cameriere; la cameriera
+
+office worker
+l’impiegato; la impiegata
+
+house husband
+il casalingo 
+
+actor
+l’attore
+
+actress
+l’attrice
+
+writer
+lo scrittore; la scrittrice
+
+singer
+il cantante; la cantante
