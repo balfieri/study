@@ -4819,8 +4819,11 @@ la classe
 book
 il libro
 
-la penna – pen
-la matita – pencil
+pen
+la penna
+
+pencil
+la matita
 
 to count
 contare
