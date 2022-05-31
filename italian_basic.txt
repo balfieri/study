@@ -3500,7 +3500,7 @@ to insert
 inserire
 
 to return
-restituisco
+restituire
 
 to grant
 esaudire
