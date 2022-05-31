@@ -4761,3 +4761,39 @@ il mal di gola
 
 medicine
 la medicina
+
+recipe
+la ricetta
+
+product
+il prodotto
+
+fruit
+il frutto
+
+roll; sandwich
+il panino
+
+cured ham
+il prosciutto cotto
+
+salami
+il salame
+
+watermelon
+il cocomero
+
+chestnut
+la castagna
+
+mandarin
+il mandarino
+
+minced meat
+la carne macinata
+
+yogurt
+lo yogurt
+
+low-fat yogurt
+lo yogurt magro
