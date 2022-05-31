@@ -2041,9 +2041,6 @@ la montagna
 hill
 la collina
 
-plain
-la pianura
-
 forest
 il bosco
 
@@ -2089,16 +2086,13 @@ il ruscello
 pond
 il laghetto
 
-waterfall
-la cascata
-
 planet
 il pianeta
 
 world
 il mondo
 
-peninsola
+peninsula
 la penisola
 
 ocean
@@ -4878,3 +4872,12 @@ it’s midday; it's noon
 
 it's midnight
 è mezzanotte
+
+volcano
+il vulcano
+
+gulf
+il golfo
+
+plain (land)
+la pianura

@@ -8214,3 +8214,6 @@ la mensa
 
 TV aerial
 l’antenna parabolica
+
+cascade; waterfall
+la cascata
