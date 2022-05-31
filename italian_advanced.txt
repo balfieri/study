@@ -2164,9 +2164,6 @@ il tempo
 gist
 l'essenza; la sostanza
 
-fever
-la febbre
-
 culture shock; disorientation
 lo spaesamento
 
@@ -7182,9 +7179,6 @@ esporre
 
 firm; company; business
 la ditta
-
-package; parcel
-il pacco
 
 claim; complaint; stink
 il reclamo

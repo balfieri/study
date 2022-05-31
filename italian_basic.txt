@@ -2905,9 +2905,6 @@ meglio
 worse
 peggio
 
-cold (n)
-il raffreddore
-
 fever
 le febbre
 
@@ -4713,3 +4710,42 @@ il pescivendolo
 
 jewler
 il gioielliere
+
+quantity
+la quantità
+
+one hundred grams
+l'etto
+
+pack; parcel
+il pacco
+
+cold
+il raffreddore
+
+fever
+la febbre
+
+soar throat
+il mal di gola
+
+headache
+il mal di testa
+
+toothache
+il mal di denti
+
+stomach ache
+il mal di stomaco
+
+belly ack
+il mal di pancia
+
+ear ache
+il mal di orecchie
+
+back ache
+il mal di schiena
+
+leg ache
+il mal di gambe
