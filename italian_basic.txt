@@ -3929,7 +3929,7 @@ sink
 il lavandino; il lavello
 
 bathtub
-la vasca
+la vasca; la vasca da bagno
 
 stove
 il fornello
