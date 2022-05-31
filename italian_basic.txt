@@ -4726,9 +4726,6 @@ il raffreddore
 fever
 la febbre
 
-soar throat
-il mal di gola
-
 headache
 il mal di testa
 
@@ -4749,3 +4746,18 @@ il mal di schiena
 
 leg ache
 il mal di gambe
+
+to be sick
+essere malato
+
+health
+la salute
+
+sick person
+il malato; la malata
+
+sore throat
+il mal di gola
+
+medicine
+la medicina
