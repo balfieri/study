@@ -4393,3 +4393,74 @@ l'albicocca
 prune
 la prugna secca
 
+singular
+singolare
+
+plural
+plurale
+
+activity
+l’attività
+
+gym
+la palestra
+
+walk
+la passeggiata
+
+music
+la musica
+
+yoga
+lo yoga
+
+weekend
+il fine settimana; il weekend
+
+week
+la settimana
+
+question
+la domanda
+
+stamp
+il francobollo
+
+money
+il soldo; i soldi
+
+table
+la tavola; il tavolo
+
+tower
+la torre
+
+song
+la canzone
+
+comic
+il fumetto
+
+crime film
+il filmo giallo
+
+month
+il mese
+
+dance
+il ballo
+
+shopping
+la spesa
+
+take-away
+da portare via; da asporto
+
+knowledge
+la conoscenza
+
+noon; midday
+il mezzogiorno
+
+midnight
+la mezzanotte
