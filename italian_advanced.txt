@@ -8223,3 +8223,9 @@ non ho idea di cosa stai parlando
 
 nowadays
 oggidì
+
+entry (term)
+l'entrata
+
+entry (doorway)
+l'accesso
