@@ -1135,9 +1135,6 @@ la giuria
 wig
 la parrucca
 
-hairdresser
-la parrucchiera
-
 successful
 di successo
 

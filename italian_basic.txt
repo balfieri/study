@@ -4659,3 +4659,57 @@ lo scrittore; la scrittrice
 
 singer
 il cantante; la cantante
+
+baker
+il panettiere
+
+barber
+il barbiere
+
+hairdresser
+la parrucchiera
+
+news agent
+il giornalaio
+
+journalist
+il giornalista
+
+tabacconist
+il tabaccaio
+
+mechanic
+il meccanico
+
+electrician
+l’elettricista
+
+doctor; physician
+il medico
+
+vet; veterinarian
+il veterinario
+
+bricklayer
+il muratore
+
+fruit vendor
+il fruttivendolo
+
+farmer
+il contadino
+
+bookseller
+il libraio
+
+butcher
+il macellaio
+
+carpenter
+il falegname
+
+fish seller; fishmonger
+il pescivendolo
+
+jewler
+il gioielliere
