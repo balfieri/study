@@ -8229,3 +8229,6 @@ l'entrata
 
 entry (doorway)
 l'accesso
+
+in charge; in power; in place
+in carico; in carica
