@@ -4797,3 +4797,21 @@ lo yogurt
 
 low-fat yogurt
 lo yogurt magro
+
+desk
+il banco
+
+notebook
+il quaderno
+
+class
+la classe
+
+book
+il libro
+
+la penna – pen
+la matita – pencil
+
+to count
+contare
