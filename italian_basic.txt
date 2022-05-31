@@ -1150,6 +1150,9 @@ l'altro ieri
 breast (of chicken); chest
 il petto
 
+breast (female)
+il seno
+
 breakfast
 la colazione
 
