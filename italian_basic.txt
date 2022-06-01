@@ -5010,3 +5010,6 @@ comunque
 
 neverthless; however; but
 tuttavia
+
+chance; possibility
+la possibilità
