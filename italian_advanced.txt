@@ -220,9 +220,6 @@ che problema c'è?
 deaf
 sorde
 
-blind
-cieco
-
 public health
 la salute pubblica
 
@@ -8295,3 +8292,6 @@ presunto
 
 dwarf; midget; gnome
 il nano
+
+to switch to
+passare a
