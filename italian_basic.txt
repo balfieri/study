@@ -5016,3 +5016,9 @@ tuttavia
 
 chance; possibility
 la possibilità
+
+climate
+la clima
+
+environment
+l'ambiente
