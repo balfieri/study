@@ -895,9 +895,6 @@ allo scopo di; al fine di
 comparison
 il confronto
 
-hot
-scottante
-
 to buckle
 allacciare
 
@@ -8265,3 +8262,9 @@ lo sfogo
 
 dairy
 il caseficio
+
+burning question
+la domanda scottante
+
+burning; pressing; scorching; hot
+scottante
