@@ -280,7 +280,10 @@ tramite
 so that; in order to
 affinché
 
-until; until the moment in which
+until; until the moment before
+fino a; finché non
+
+through the moment in which
 finchè
 
 schmaltzy; sappy
@@ -702,9 +705,6 @@ sempre
 
 in the clouds
 nelle nuvole
-
-anyway; however
-comunque
 
 notes
 gli appunti; le note
@@ -1914,9 +1914,6 @@ il necrologio
 
 that not withstanding
 nonostante ciò
-
-neverthless; however; but
-tuttavia
 
 to disappear
 scompare
@@ -5818,8 +5815,11 @@ non aspettarti miracoli
 poignant
 struggente
 
-connection
-la connessione; il collagamento
+connection (concrete)
+il collagamento
+
+connection (abstract)
+la connessione
 
 character (film)
 il protaganista
@@ -8277,3 +8277,21 @@ continua così
 
 otherwise; if not; or else
 sennò
+
+ms.
+sig.a (pronunciata signora)
+
+cheap
+di bidone
+
+to labor; to work
+fare fatica; faticare
+
+off limits
+off limits; vietato
+
+supposed
+supposto
+
+dwarf; midget; gnome
+il nano
