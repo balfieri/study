@@ -8268,3 +8268,6 @@ la domanda scottante
 
 burning; pressing; scorching; hot
 scottante
+
+duplicate (n)
+il duplicato
