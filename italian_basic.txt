@@ -2605,8 +2605,11 @@ freddo
 poor
 povero
 
-inexpensive; cheap
+inexpensive
 economico
+
+cheap
+scadente
 
 empty
 vuoto
@@ -4873,7 +4876,7 @@ it's one o'clock
 it’s two o’clock
 sono le due
 
-it’s quarter past two.
+it’s a quarter past two.
 sono le due e un quarto
 
 it’s twenty-five past two.
@@ -4885,7 +4888,7 @@ sono le due e mezza
 it’s twenty to three.
 sono le tre meno venti
 
-it’s quarter to three
+it’s a quarter to three
 sono le tre meno un quarto
 
 it’s midday; it's noon

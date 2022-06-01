@@ -8222,7 +8222,7 @@ nowadays
 oggidì
 
 entry (term)
-l'entrata
+la voce; l'entrata
 
 entry (doorway)
 l'accesso
@@ -8288,10 +8288,10 @@ to labor; to work
 fare fatica; faticare
 
 off limits
-off limits; vietato
+oltre ogni limite; off limits
 
 supposed
-supposto
+presunto
 
 dwarf; midget; gnome
 il nano
