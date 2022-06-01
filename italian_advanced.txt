@@ -8274,3 +8274,6 @@ il duplicato
 
 keep up the good work
 continua così
+
+otherwise; if not; or else
+sennò
