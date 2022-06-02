@@ -8255,7 +8255,7 @@ vent; rash; outburst; outlet
 lo sfogo
 
 dairy
-il caseficio
+il caseificio
 
 burning question
 la domanda scottante
