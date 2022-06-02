@@ -8307,3 +8307,6 @@ intendere
 
 understood; meant
 inteso
+
+spot; stain; blot
+la macchia

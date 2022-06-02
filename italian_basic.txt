@@ -5018,7 +5018,7 @@ chance; possibility
 la possibilità
 
 climate
-la clima
+il clima
 
 environment
 l'ambiente
