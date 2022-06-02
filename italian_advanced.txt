@@ -5045,7 +5045,10 @@ to come to mind
 venire in mente
 
 porch
-la veranda; il portico
+la veranda
+
+front porch
+il portico
 
 installment; episode
 la puntata
