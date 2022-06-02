@@ -4804,6 +4804,9 @@ albo
 label; tag; luggage tag
 l'etichetta
 
+to label; to pigeon hole; to tag
+etichettare
+
 tutelage; guardianship
 tutela
 
@@ -8322,3 +8325,6 @@ il livello del terreno; il livello del suolo
 
 mass shooting
 la sparatoria di massa
+
+to get explained; to get an explanation about
+farsi spiegare
