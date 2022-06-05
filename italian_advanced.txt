@@ -2968,9 +2968,6 @@ indorare
 to choke; to strangle; to throttle
 strozzare
 
-to push back
-rispingere
-
 to not have an money in the bank
 essere in rosso
 
@@ -3030,9 +3027,6 @@ convolto
 
 gifts; talents
 le doti
-
-shaken
-scosso
 
 nightmare
 l'incubo
@@ -8334,3 +8328,39 @@ farsi spiegare
 
 pretentious
 pretenzioso
+
+parenthood
+la genitorialità
+
+to decline; to turn down; to push back
+rispingere
+
+secrecy
+la segretezza
+
+piece of the puzzle
+il tassello del puzzle
+
+shaken; shaky; shocked
+scosso
+
+meaningful
+significativo
+
+instrument rating (pilot)
+l'abilitazione al volo strumentale
+
+qualification; ability
+l'abilitazione
+
+to dismiss; to discharge
+congedare
+
+clockwise
+in senso orario
+
+counterclockwise
+in senso antiorario
+
+disruptive
+dirompente; turbolente

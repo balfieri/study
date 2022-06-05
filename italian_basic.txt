@@ -5025,3 +5025,6 @@ l'ambiente
 
 level
 il livello
+
+well,
+beh,
