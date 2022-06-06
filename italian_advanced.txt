@@ -8364,3 +8364,9 @@ in senso antiorario
 
 disruptive
 dirompente; turbolente
+
+fulfilling
+appagante
+
+satisfying
+soddisfacente
