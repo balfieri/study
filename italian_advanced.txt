@@ -8400,3 +8400,6 @@ all'occorrenza
 
 cue; hint; idea
 lo spunto
+
+apprentice
+l'apprendista
