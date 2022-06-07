@@ -607,3 +607,270 @@ attendeste
 
 they waited (p.r.)
 attesero
+
+I took (p.r.)
+presi
+
+you took (p.r.)
+prendesti
+
+she took (p.r.)
+prendemmo
+
+you all took (p.r.)
+prendeste
+
+they took
+presero
+
+I closed (p.r.)
+chiusi
+
+you closed (p.r.)
+chiudesti
+
+she closed (p.r.)
+chiuse
+
+we closed (p.r.)
+chiudemmo
+
+you all closed (p.r.)
+chiudeste
+
+they closed (p.r.)
+chiusero
+
+I killed (p.r.)
+uccisi
+
+you killed (p.r.)
+uccidesti
+
+she killed (p.r.)
+uccise
+
+we killed (p.r.)
+uccidemmo
+
+you all killed (p.r.)
+uccideste
+
+they killed (p.r.)
+uccisero
+
+I lost (p.r.)
+persi; perdei; perdetti
+
+you lost (p.r.)
+perdesti
+
+she lost (p.r.)
+perse; perdé; perdette
+
+we lost (p.r.)
+perdemmo
+
+you all lost (p.r.)
+perdeste
+
+they lost (p.r.)
+persero; perderono; perdettero
+
+I was born (p.r.)
+nacqui
+
+you were born (p.r.)
+nascesti
+
+she was born (p.r.)
+nacque
+
+we were born (p.r.)
+nascemmo
+
+you all were born (p.r.)
+nasceste
+
+they were born (p.r.)
+nacquero
+
+I pushed (p.r.)
+spinsi
+
+you pushed (p.r.)
+spingesti
+
+she pushed (p.r.)
+spinse
+
+we pushed (p.r.)
+spingemmo
+
+you all pushed (p.r.)
+spingestee
+
+they pushed (p.r.)
+spinsero
+
+I cried (p.r.)
+piansi
+
+you cried (p.r.)
+piangesti
+
+she cried (p.r.)
+pianse
+
+we cried (p.r.)
+piangemmo
+
+you all cried (p.r.)
+piangeste
+
+they cried (p.r.)
+piansero
+
+I caught (p.r.)
+colsi
+
+you caught (p.r.)
+cogliesti
+
+she caught (p.r.)
+colse
+
+we caught (p.r.)
+cogliemmo
+
+you all caught (p.r.)
+coglieste
+
+they caught (p.r.)
+colsero
+
+I came (p.r.)
+venni
+
+you came (p.r.)
+venisti
+
+she came (p.r.)
+venne
+
+we came (p.r.)
+venimmo
+
+you call came (p.r.)
+veniste
+
+they came (p.r.)
+vennero
+
+I wanted (p.r.)
+volli
+
+you wanted (p.r.)
+volesti
+
+she wanted (p.r.)
+volle
+
+we wanted (p.r.)
+volemmo
+
+you all wanted (p.r.)
+voleste
+
+they wanted (p.r.)
+vollero
+
+I remained (p.r.)
+rimasi
+
+you remained (p.r.)
+rimanesti
+
+she remained (p.r.)
+rimase
+
+we remained (p.r.)
+rimanemmo
+
+you all remained (p.r.)
+rimaneste
+
+they remained (p.r.)
+rimasero
+
+I saw (p.r.)
+vidi; vedetti
+
+you saw (p.r.)
+vedesti
+
+she saw (p.r.)
+vide; vedette
+
+we saw (p.r.)
+vedemmo
+
+you all saw (p.r.)
+vedeste
+
+they saw (p.r.)
+videro; vederono; vedettero
+
+I put (p.r.)
+misi
+
+you put (p.r.)
+mettesti
+
+she put (p.r.)
+mise
+
+we put (p.r.)
+mettemmo
+
+you all put (p.r.)
+metteste
+
+they put (p.r.)
+misero
+
+I broke (p.r.)
+ruppi
+
+you broke (p.r.)
+rompesti
+
+she broke (p.r.)
+ruppe
+
+we broke (p.r.)
+rompemmo
+
+you all broke (p.r.)
+rompeste
+
+they broke (p.r.)
+ruppero
+
+I became (p.r.)
+diventai
+
+you became (p.r.)
+diventasti
+
+she became (p.r.)
+diventò
+
+we became (p.r.)
+diventammo
+
+you all became (p.r.)
+diventaste
+
+they became
+diventarono
