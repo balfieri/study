@@ -1,0 +1,483 @@
+# italian_passato_remoto.txt - conjugations of passato remoto regular and irreglar verbs
+#
+# p.r. = passato remoto and is present in all English clues
+#
+I spoke (p.r.)
+parlai
+
+you spoke (p.r.)
+parlasti
+
+she spoke (p.r.)
+parlò
+
+we spoke (p.r.)
+parlammo
+
+you all spoke (p.r.)
+parlaste
+
+they spoke (p.r.)
+parlarono
+
+I feared (p.r.)
+temei; temetti
+
+you feared (p.r.)
+temesti
+
+she feared (p.r.)
+temé; temette
+
+we feared (p.r.)
+tememmo
+
+you all feared (p.r.)
+temeste
+
+they feared (p.r.)
+temerono
+
+I slept (p.r.) 
+dormii
+
+you slept (p.r.)
+dormisti
+
+she slept (p.r.)
+dormì
+
+we slept (p.r.)
+dormimmo
+
+you all slept (p.r.)
+dormiste
+
+they slept (p.r.)
+dormirono
+
+I was (p.r.)
+fui
+
+you were (p.r.)
+fosti
+
+she was (p.r.)
+fu
+
+we were (p.r.)
+fummo
+
+you all were (p.r.)
+foste
+
+they were (p.r.)
+furono
+
+I had (p.r.)
+ebbi
+
+you had (p.r.)
+avesti
+
+she had (p.r.)
+ebbe
+
+we had (p.r.)
+avemmo
+
+you all had (p.r.)
+aveste
+
+they had (p.r.)
+ebbero
+
+I read (p.r.)
+lessi
+
+you read (p.r.)
+leggesti
+
+she read (p.r.)
+lesse
+
+we read (p.r.)
+leggemmo
+
+you all read (p.r.)
+leggeste
+
+they read (p.r.)
+lessero
+
+I ran (p.r.) 
+corsi
+
+you ran (p.r.)
+corresti
+
+she ran (p.r.)
+corse
+
+we ran (p.r.)
+corremmo
+
+you all ran (p.r.)
+correste
+
+they ran (p.r.)
+corsero
+
+I answered (p.r.)
+risposi
+
+you answered (p.r.)
+rispondesti
+
+she answerd (p.r.)
+rispose
+
+we answered (p.r.)
+rispondemmo
+
+you all answered (p.r.) 
+rispondeste
+
+they answered (p.r.)
+risposero
+
+I asked (p.r.)
+chiesi
+
+you asked (p.r.)
+chiedesti
+
+she asked (p.r.)
+chiese
+
+we asked (p.r.)
+chiedemmo
+
+you all asked (p.r.)
+chiedeste
+
+they asked (p.r.)
+chiesero
+
+I pleased (p.r.)
+piacqui
+
+you pleased (p.r.)
+piacesti
+
+she pleased (p.r.)
+piacque
+
+we pleased (p.r.)
+piacemmo
+
+you all pleased (p.r.)
+piaceste
+
+they pleased (p.r.)
+piacquero
+
+I knew (p.r.)
+conobbi
+
+you knew (p.r.)
+conoscesti
+
+she knew (p.r.)
+conobbe
+
+we knew (p.r.)
+conoscemmo
+
+you all knew (p.r.)
+conosceste
+
+they knew (p.r.)
+conobbero
+
+I faked (p.r.)
+finsi
+
+you faked (p.r.)
+fingesti
+
+she faked (p.r.)
+finse
+
+we faked (p.r.)
+fingemmo
+
+you all faked (p.r.)
+fingeste
+
+they faked (p.r.)
+finsero
+
+I chose (p.r.)
+scelsi
+
+you chose (p.r.)
+scegliesti
+
+she chose (p.r.)
+scelse
+
+we chose (p.r.)
+scegliemmo
+
+you all chose (p.r.)
+sceglieste
+
+they chose (p.r.)
+scelsero
+
+I immersed (p.r.)
+immersi
+
+you immersed (p.r.)
+immergesti
+
+she immersed (p.r.)
+immerse
+
+we immersed (p.r.)
+immergemmo
+
+they immersed (p.r.)
+immersero
+
+I fell (p.r.)
+caddi
+
+you fell (p.r.)
+cadesti
+
+she fell (p.r.)
+cadde
+
+we fell (p.r.)
+cademmo
+
+you all fell (p.r.)
+cadeste
+
+they fell (p.r.)
+caddero
+
+I knew (p.r.)
+seppi
+
+you knew (p.r.)
+sapesti
+
+she knew (p.r.)
+seppe
+
+we knew (p.r.)
+sapemmo
+
+you all knew (p.r.)
+sapeste
+
+they knew (p.r.)
+seppero
+
+I went (p.r.)
+andai
+
+you went (p.r.)
+andasti
+
+she went (p.r.)
+andò
+
+we went (p.r.)
+andammo
+
+you all went (p.r.)
+andaste
+
+they went (p.r.)
+andarono
+
+I left (p.r.)
+partii
+
+you left (p.r.)
+partisti
+
+she left (p.r.)
+partì
+
+we left (p.r.)
+partimmo
+
+you all left (p.r.)
+partiste
+
+they left (p.r.)
+partirono
+
+I understood (p.r.)
+capii
+
+you understood (p.r.)
+capisti
+
+she understood (p.r.)
+capì
+
+we understood (p.r.)
+capimmo
+
+you all understood (p.r.)
+capiste
+
+they understood (p.r.)
+capirono
+
+I made (p.r.)
+feci
+
+you made (p.r.)
+fecesti
+
+she made (p.r.)
+face
+
+we made (p.r.)
+facemmo
+
+you all made (p.r.)
+faceste
+
+they made (p.r.)
+facero
+
+I said (p.r.)
+dissi
+
+you said (p.r.)
+dicesti
+
+she said (p.r.)
+disse
+
+we said (p.r.)
+dicemmo
+
+you all said (p.r.)
+diceste
+
+they said (p.r.)
+dissero
+
+I drank (p.r.)
+bevvi
+
+you drank (p.r.)
+bevesti
+
+she drank (p.r.)
+bevemmo
+
+we drank (p.r.)
+bevemmo
+
+you all drank (p.r.)
+beveste
+
+they drank (p.r.)
+bevvero
+
+I gave (p.r.)
+detti; diedi
+
+you gave (p.r.)
+desti
+
+she gave (p.r.)
+dette; diede
+
+we gave (p.r.)
+demmo
+
+you all gave
+deste
+
+they gave
+dettero; diedero
+
+I stayed (p.r.)
+stetti
+
+you stayed (p.r.)
+stesti
+
+she stayed (p.r.)
+stette
+
+we stayed (p.r.)
+stemmo
+
+you all stayed (p.r.)
+steste
+
+they stayed (p.r.)
+stettero
+
+I invaded (p.r.)
+invasi
+
+you invaded (p.r.)
+invadesti
+
+she invaded (p.r.)
+invase
+
+we invaded (p.r.)
+invademmo
+
+you all invaded (p.r.)
+invadeste
+
+they invaded (p.r.)
+invasero
+
+I laughed (p.r.)
+risi
+
+you laughed (p.r.)
+ridesti
+
+she laughed (p.r.)
+rise
+
+we laughed (p.r.)
+ridemmo
+
+you all laughed (p.r.)
+rideste
+
+they laughed (p.r.)
+risero
+
+I shared (something, p.r.)
+divisi
+
+you shared (something, p.r.)
+dividesti
+
+we shared (something, p.r.)
+dividemmo
+
+you all shared (somethiong, p.r.)
+divideste
+
+they shared (something, p.r.)
+divisero
