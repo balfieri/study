@@ -7441,9 +7441,6 @@ la trafila
 glimpse; spot
 la scorgia
 
-emotional
-emozionante
-
 brisk
 spiccio
 
@@ -8382,3 +8379,15 @@ il pupazzo
 
 to plunge; to immerse; to dip
 immergere
+
+mankind
+il genere umano
+
+thrilling; emotional; exciting; poignant
+emozionante
+
+vastness
+la vastità
+
+emotional
+emotivo; emozionante; commovente
