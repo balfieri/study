@@ -481,3 +481,129 @@ divideste
 
 they shared (something, p.r.)
 divisero
+
+I moved (p.r.)
+mossi
+
+you moved (p.r.)
+movesti; muovesti
+
+she moved (p.r.)
+mosse
+
+we moved (p.r.)
+movemmo; muovemmo
+
+you all moved (p.r.)
+moveste; muoveste
+
+they moved (p.r.)
+mossero
+
+I wrote (p.r.)
+scrissi
+
+you wrote (p.r.)
+scrivesti
+
+she wrote (p.r.)
+scrisse
+
+we wrote (p.r.)
+scrivemmo
+
+you all wrote (p.r.)
+scriveste
+
+they all wrote (p.r.)
+scissero
+
+I translated (p.r.)
+tradussi
+
+you translated (p.r.)
+traducesti
+
+she translated (p.r.)
+tradusse
+
+we translated (p.r.)
+traducemmo
+
+you all translated (p.r.)
+traduceste
+
+they translated (p.r.)
+tradussero
+
+I discussed (p.r.)
+discussi
+
+you discussed (p.r.)
+discutesti
+
+she discussed (p.r.)
+discusse
+
+we discussed (p.r.)
+discutemmo
+
+you all discussed (p.r.)
+discuteste
+
+they discussed (p.r.)
+discussero
+
+I happened (p.r.)
+successi
+
+you happened (p.r.)
+succedesti
+
+she happened (p.r.)
+sucesse
+
+we happened (p.r.)
+succedemmo
+
+you all happened (p.r.)
+succedeste
+
+they happened (p.r.)
+successero
+
+I lived (p.r.)
+vissi
+
+you lived (p.r.)
+vivesti
+
+she lived (p.r.)
+visse
+
+we lived (p.r.)
+vivemmo
+
+you all lived (p.r.)
+viveste
+
+they lived (p.r.)
+vissero
+
+I waited (p.r.)
+attesi
+
+you waited (p.r.)
+attendesti
+
+she waited (p.r.)
+attese
+
+we waited (p.r.)
+attendemmo
+
+you all waited (p.r.)
+attendeste
+
+they waited (p.r.)
+attesero
