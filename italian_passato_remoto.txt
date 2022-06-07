@@ -874,3 +874,57 @@ diventaste
 
 they became
 diventarono
+
+I sensed (p.r.)
+sentii
+
+you sensed (p.r.)
+sentisti
+
+she sensed (p.r.)
+sentì
+
+we sensed (p.r.)
+sentimmo
+
+you all sensed (p.r.)
+sentiste
+
+they sensed (p.r.)
+sentirono
+
+I went out (p.r.)
+uscii
+
+you went out (p.r.)
+uscisti
+
+she went out (p.r.)
+uscì
+
+we went out (p.r.)
+uscimmo
+
+you all went out (p.r.)
+uisciste
+
+they went out (p.r.)
+uscirono
+
+I had to (p.r.)
+dovei; dovetti
+
+you had to (p.r.)
+dovesti
+
+she had to (p.r.)
+dovè; dovette
+
+we had to (p.r.)
+dovemmo
+
+you all had to (p.r.)
+doveste
+
+they had to (p.r.)
+doverono; dovettero
