@@ -384,7 +384,7 @@ you drank (p.r.)
 bevesti
 
 she drank (p.r.)
-bevemmo
+bevve
 
 we drank (p.r.)
 bevemmo
