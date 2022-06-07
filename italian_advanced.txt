@@ -8391,3 +8391,6 @@ la vastità
 
 emotional
 emotivo; emozionante; commovente
+
+harmless
+innocuo; inoffensivo
