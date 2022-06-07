@@ -182,22 +182,22 @@ piaceste
 they pleased (p.r.)
 piacquero
 
-I knew (p.r.)
+I knew (someone/something, p.r.)
 conobbi
 
-you knew (p.r.)
+you knew (someone/something, p.r.)
 conoscesti
 
-she knew (p.r.)
+she knew (someone/something, p.r.)
 conobbe
 
-we knew (p.r.)
+we knew (someone/something, p.r.)
 conoscemmo
 
-you all knew (p.r.)
+you all knew (someone/something, p.r.)
 conosceste
 
-they knew (p.r.)
+they knew (someone/something, p.r.)
 conobbero
 
 I faked (p.r.)
@@ -269,22 +269,22 @@ cadeste
 they fell (p.r.)
 caddero
 
-I knew (p.r.)
+I knew (fact, p.r.)
 seppi
 
-you knew (p.r.)
+you knew (fact, p.r.)
 sapesti
 
-she knew (p.r.)
+she knew (fact, p.r.)
 seppe
 
-we knew (p.r.)
+we knew (fact, p.r.)
 sapemmo
 
-you all knew (p.r.)
+you all knew (fact, p.r.)
 sapeste
 
-they knew (p.r.)
+they knew (fact, p.r.)
 seppero
 
 I went (p.r.)
