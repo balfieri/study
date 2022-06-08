@@ -8448,3 +8448,6 @@ la seconda guerra mondiale
 
 World War I
 la prima guerra mondiale
+
+saw; handsaw
+la sega
