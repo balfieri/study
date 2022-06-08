@@ -345,10 +345,10 @@ I made (p.r.)
 feci
 
 you made (p.r.)
-fecesti
+facesti
 
 she made (p.r.)
-face
+fece
 
 we made (p.r.)
 facemmo
@@ -357,7 +357,7 @@ you all made (p.r.)
 faceste
 
 they made (p.r.)
-facero
+fecero
 
 I said (p.r.)
 dissi
@@ -928,3 +928,78 @@ doveste
 
 they had to (p.r.)
 doverono; dovettero
+
+I distinguished (p.r.)
+distinsi
+
+you distinguished (p.r.)
+distinguesti
+
+she distinguished (p.r.)
+distinse
+
+we distinguished (p.r.)
+distinguemmo
+
+you all distinguished (p.r.)
+distingueste
+
+they distiguished (p.r.)
+distinsero
+
+I finished (p.r.)
+finii
+
+you finished (p.r.)
+finisti
+
+she finished (p.r.)
+finì
+
+we finished (p.r.)
+finimmo
+
+you all finished (p.r.)
+finiste
+
+they finished (p.r.)
+finirono
+
+I died (p.r.)
+morii
+
+you died (p.r.)
+moristi
+
+she died (p.r.) 
+morì
+
+we died (p.r.)
+morimmo
+
+you all died (p.r.)
+moriste
+
+they died (p.r.)
+morirono
+
+I searched (p.r.)
+cercai
+
+you searched (p.r.)
+cercasti
+
+she searched (p.r.)
+cercò
+
+we searched (p.r.)
+cercammo
+
+you all searched (p.r.)
+cercaste
+
+they searched (p.r.)
+cercarero
+
+to question; to ponder; to wonder
+interrogarsi
