@@ -8363,7 +8363,7 @@ disruptive
 dirompente; turbolente
 
 fulfilling
-appagante
+gratificante
 
 satisfying
 soddisfacente
@@ -8442,3 +8442,9 @@ il commiato
 
 sullen; pitch-black; gloomy
 cupo
+
+World War II
+la seconda guerra mondiale
+
+World War I
+la prima guerra mondiale
