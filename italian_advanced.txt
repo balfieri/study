@@ -8439,3 +8439,6 @@ infilare
 
 valediction; farewell
 il commiato
+
+sullen; pitch-black; gloomy
+cupo
