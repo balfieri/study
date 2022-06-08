@@ -8419,5 +8419,5 @@ diluire
 supply; hoard
 la scorta
 
-inventory; provisions; stocks
+inventory; provisions; stocks; stockpile
 le scorte
