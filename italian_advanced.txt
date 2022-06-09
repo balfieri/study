@@ -8490,3 +8490,9 @@ la residenza assistita
 
 at one point; at a certain point
 a un certo punto
+
+cemetary
+il cimitero
+
+grave (n)
+la tomba
