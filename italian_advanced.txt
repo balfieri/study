@@ -8460,3 +8460,6 @@ l'ictus
 
 embolism
 l'embolia
+
+heart attack; coronary
+l'attacco cardiaco; l'infarto
