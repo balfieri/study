@@ -8496,3 +8496,6 @@ il cimitero
 
 grave (n)
 la tomba
+
+bad blood
+il cattivo sangue
