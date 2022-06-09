@@ -8472,3 +8472,6 @@ la famiglia nucleare
 
 perspective
 la prospettiva
+
+change of perspective
+il cambio di prospettiva
