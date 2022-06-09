@@ -8481,3 +8481,9 @@ distruggere; infrangere; rovinare
 
 to tame
 domare
+
+nursing home
+la casa di cura
+
+assisted living facility
+la residenza assistita

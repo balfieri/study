@@ -5028,3 +5028,6 @@ il livello
 
 well,
 beh,
+
+buried
+seppellito; sepolto; interrato
