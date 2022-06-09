@@ -8469,3 +8469,6 @@ i parenti stretti; i parenti prossimi; i familiari
 
 nuclear family
 la famiglia nucleare
+
+perspective
+la prospettiva
