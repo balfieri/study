@@ -1495,7 +1495,7 @@ la capella
 common (adj)
 comune
 
-community; municipality
+community; municipality; commune
 il comune
 
 careful!
@@ -2166,9 +2166,6 @@ il traffico
 
 square (gathering place)
 la piazza
-
-village; district
-il borgo
 
 building; palace
 il palazzo
@@ -3274,7 +3271,7 @@ convincere
 to paint; to depict
 dipingere
 
-to move
+to move (body, as in gymnastics)
 muovere
 
 to draw; to deduce; to deceive
@@ -4201,7 +4198,7 @@ la cognata
 aunt
 la dia
 
-surroundings
+surroundings (just outside neighborhood)
 i dintorni
 
 mud
@@ -5031,3 +5028,9 @@ beh,
 
 buried
 seppellito; sepolto; interrato
+
+to move (something from one place to anotherr)
+spostare
+
+to move (somewhere)
+trasferirsi

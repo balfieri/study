@@ -1522,9 +1522,6 @@ rimbalzare
 self-deprecating humor
 l'umorismo autoironico
 
-to move (something)
-spostare
-
 snobbery; snobbishness
 lo snobismo
 
@@ -4923,9 +4920,6 @@ gli acciacchi
 
 to move; to move in
 traslocare
-
-to move (somewhere)
-trasferirsi
 
 reorganizing; restructuring
 la ristrutturazione
@@ -8502,3 +8496,30 @@ il cattivo sangue
 
 tortured; tormented; heartbroken
 straziato
+
+phenomenology (study of phenomena)
+la fenomenologia
+
+philology (study of evolution of texts)
+la filologa
+
+zone (group of neighborhoods)
+la zona
+
+suburb
+il sobborgo
+
+small part of a commune
+la frazione
+
+periphery (undesirable part of a city)
+la periferia
+
+small medieval part of a city
+il borgo
+
+small city; large town
+la cittadina
+
+old village
+il villaggio
