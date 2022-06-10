@@ -8506,8 +8506,11 @@ la filologa
 zone (group of neighborhoods)
 la zona
 
-suburb
+suburb 
 il sobborgo
+
+suburbs; suburbia
+i sobborghi
 
 small part of a commune
 la frazione
