@@ -8544,3 +8544,6 @@ la bachetta
 
 chopsticks
 le bachette cinesi
+
+on average
+in media; mediamente
