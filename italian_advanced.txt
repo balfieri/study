@@ -7852,8 +7852,8 @@ il ghepardo
 a patata
 flat-nosed
 
-alla francese
 snub-nosed
+alla francese
 
 shaved
 rasato
@@ -8499,3 +8499,6 @@ la tomba
 
 bad blood
 il cattivo sangue
+
+tortured; tormented; heartbroken
+straziato
