@@ -4669,9 +4669,6 @@ scrollarsi di dosso
 stage
 il palco
 
-fastidious; fussy
-pignolo
-
 highly evolved
 altamente evoluto
 
@@ -7036,8 +7033,8 @@ la scherma
 to summarize
 riassumere
 
-in edicola
 on newsstands
+in edicola
 
 newsstand
 l'edicola
@@ -8547,3 +8544,30 @@ le bachette cinesi
 
 on average
 in media; mediamente
+
+judgmental
+giudicante; critico
+
+self-righteous
+moralista
+
+arrogant; overly proud
+orgoglioso
+
+fastidious; fussy; picky
+pignolo
+
+to nitpick
+fare il pignolo
+
+judgment
+il giudizio
+
+the feeling is mutual
+il sentimento è reciproco
+
+firmness
+la fermezza
+
+tough love
+l'affettuosa fermezza; l'amore severo
