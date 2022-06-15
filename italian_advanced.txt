@@ -8354,7 +8354,7 @@ disruptive
 dirompente; turbolente
 
 fulfilling
-gratificante
+che far sentire realizzato; gratificante
 
 satisfying
 soddisfacente
@@ -8589,3 +8589,15 @@ la stima
 
 hassle
 la seccatura; il fastidio; il problema
+
+to lose one's momentum
+perdere il ritmo
+
+unlikely event
+il caso improbabile; l'evento improbabile
+
+overrated
+sopravvalutato
+
+underground garage
+il parcheggio sotterraneo
