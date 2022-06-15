@@ -8601,3 +8601,6 @@ sopravvalutato
 
 underground garage
 il parcheggio sotterraneo
+
+to emit; to give off; to release
+sprigionare
