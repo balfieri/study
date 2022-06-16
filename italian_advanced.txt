@@ -8619,3 +8619,6 @@ scontanto
 
 reparation; compensation
 il risarcimento
+
+grace; kindness; gentleness
+il garbo
