@@ -8622,3 +8622,6 @@ il risarcimento
 
 grace; kindness; gentleness
 il garbo
+
+to be pleased (with)
+compiacersi
