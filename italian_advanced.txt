@@ -8616,3 +8616,6 @@ sdoganato
 
 foregone; discounted; assumed; granted
 scontanto
+
+reparation; compensation
+il risarcimento
