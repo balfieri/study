@@ -623,7 +623,7 @@ sale
 la salda
 
 on vacation
-in ferie
+in ferie; in vacanza
 
 retired
 in pensione
