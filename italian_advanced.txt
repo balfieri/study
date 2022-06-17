@@ -5215,7 +5215,7 @@ così
 in conclusion
 insomma; per concludere
 
-dissemination; disclosure
+dissemination; disclosure; popularization
 la divulgazione
 
 personal data sheet
@@ -8709,3 +8709,12 @@ il movente
 
 to put down; to fell; to chop down; to kill (an animal)
 abbattere
+
+lineage; line; ancestry
+la stirpe
+
+skill; cleaverness; ability
+la bravura
+
+to cover; to smother
+ricoprire
