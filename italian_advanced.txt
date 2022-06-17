@@ -8727,3 +8727,6 @@ la pietra per pizza
 
 receipt
 lo scontrino
+
+dish cloth; cloth
+lo strofinaccio
