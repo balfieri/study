@@ -8730,3 +8730,6 @@ lo scontrino
 
 dish cloth; cloth
 lo strofinaccio
+
+idiocy; stupidity
+l'idiozia
