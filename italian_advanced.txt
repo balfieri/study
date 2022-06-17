@@ -8721,3 +8721,9 @@ la bestemmia
 
 to abound; to make plentiful
 abbondare
+
+pizza stone
+la pietra per pizza
+
+receipt
+lo scontrino
