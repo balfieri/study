@@ -8625,3 +8625,6 @@ il garbo
 
 to be pleased (with)
 compiacersi
+
+multiple choice
+a scelta multipla
