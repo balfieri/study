@@ -8718,3 +8718,6 @@ ricoprire
 
 blasphemy
 la bestemmia
+
+to abound; to make plentiful
+abbondare
