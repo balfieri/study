@@ -8739,3 +8739,6 @@ il controllo delle porzioni
 
 proof by contradiction
 la dimostrazione per assurdo
+
+to wreak havoc
+creare scompiglio; gettare scompiglio
