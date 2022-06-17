@@ -622,8 +622,11 @@ lo sconto
 sale
 la salda
 
-on vacation
-in ferie; in vacanza
+on vacation (flexible)
+in vacanza
+
+on vacation (fixed holidays)
+in ferie
 
 retired
 in pensione
