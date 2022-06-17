@@ -8736,3 +8736,6 @@ l'idiozia
 
 portion control
 il controllo delle porzioni
+
+proof by contradiction
+la dimostrazione per assurdo
