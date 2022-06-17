@@ -7837,8 +7837,8 @@ il criceto
 cheetah
 il ghepardo
 
-a patata
 flat-nosed
+a patata
 
 snub-nosed
 alla francese
