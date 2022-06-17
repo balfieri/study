@@ -5049,3 +5049,6 @@ l'aperatura
 
 closing; closure
 la chiusura
+
+crowd
+la folla
