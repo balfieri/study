@@ -5034,3 +5034,6 @@ spostare
 
 to move (somewhere)
 trasferirsi
+
+relaxing
+rilassante

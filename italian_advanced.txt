@@ -4315,7 +4315,7 @@ frangere
 to sting; to prick; to pierce
 pungere
 
-to hold; to stand; to govern
+to hold up; to stand; to govern
 reggere
 
 to gnaw
@@ -6613,9 +6613,6 @@ l’assetto
 autonomously; independently
 autonomamente
 
-pupil
-l'allievo
-
 to absolve; to acquit; to discharge
 assolvere
 
@@ -8628,3 +8625,84 @@ compiacersi
 
 multiple choice
 a scelta multipla
+
+internship
+il tirocino; lo stage`
+
+detected; felt
+percepito
+
+pupil; student; learner
+l'allievo
+
+incinerator
+l'incineratore
+
+following
+al seguito
+
+following day; next day
+l'indomani
+
+held up
+retto
+
+bumper
+il paracolpo
+
+shock absorber; damper; cushion
+l'ammortizzatore
+
+to guess; to hit; to strike
+azzeccare
+
+assumption; employment
+l'assunzione
+
+subordinate
+sottoposto
+
+purpose; aim; objective
+la finalità
+
+gross; total; overall
+complessivo
+
+also; too
+altresì
+
+preemptively; beforehand; ahead
+preventivamente
+
+equivalent
+equipollente
+
+committee; board; commission
+il comitato
+
+to coach
+allenare
+
+to be disheartened; to be discouraged
+scoraggiarsi
+
+audition
+il provino
+
+trantrum; fit; conniption
+la bizza
+
+to start; to begin; to debut
+esordire
+
+miss; mistress
+la madamigella
+
+anguish; agony; fear
+l'angoscia
+
+collected; gathered
+radunato
+
+motive; reason; motivation
+il movente
