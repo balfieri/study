@@ -5055,3 +5055,15 @@ la chiusura
 
 crowd; throng
 la folla
+
+chemistry
+la chimica
+
+physics
+la fisica
+
+math; mathematics
+la matematica
+
+biology
+la biologia
