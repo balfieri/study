@@ -8775,3 +8775,9 @@ la proroga
 
 surveillance; watch; supervision
 la sorveglianza
+
+bread tin
+la teglia per il pane
+
+pizza steel
+l'acciaio per pizza
