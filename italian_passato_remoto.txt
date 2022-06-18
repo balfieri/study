@@ -561,7 +561,7 @@ you happened (p.r.)
 succedesti
 
 she happened (p.r.)
-sucesse
+successe
 
 we happened (p.r.)
 succedemmo
