@@ -5067,3 +5067,9 @@ la matematica
 
 biology
 la biologia
+
+right (n); law
+il diritto
+
+date
+la data
