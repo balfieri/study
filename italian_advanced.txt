@@ -8824,3 +8824,6 @@ la scaletta
 
 full-time
 a tempo pieno
+
+compensation for damages
+il risarcimento danni
