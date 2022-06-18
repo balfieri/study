@@ -8818,3 +8818,6 @@ lavorare l'impasto; impastare la pasta; impastare la farina
 
 counterpoint
 il contrappunto
+
+outline; step ladder
+la scaletta
