@@ -23,9 +23,6 @@ parlarono
 I feared (p.r.)
 temei; temetti
 
-you feared (p.r.)
-temesti
-
 she feared (p.r.)
 temé; temette
 
@@ -95,17 +92,8 @@ ebbero
 I read (p.r.)
 lessi
 
-you read (p.r.)
-leggesti
-
 she read (p.r.)
 lesse
-
-we read (p.r.)
-leggemmo
-
-you all read (p.r.)
-leggeste
 
 they read (p.r.)
 lessero
@@ -113,17 +101,8 @@ lessero
 I ran (p.r.) 
 corsi
 
-you ran (p.r.)
-corresti
-
 she ran (p.r.)
 corse
-
-we ran (p.r.)
-corremmo
-
-you all ran (p.r.)
-correste
 
 they ran (p.r.)
 corsero
@@ -131,17 +110,8 @@ corsero
 I answered (p.r.)
 risposi
 
-you answered (p.r.)
-rispondesti
-
 she answerd (p.r.)
 rispose
-
-we answered (p.r.)
-rispondemmo
-
-you all answered (p.r.) 
-rispondeste
 
 they answered (p.r.)
 risposero
@@ -149,17 +119,8 @@ risposero
 I asked (p.r.)
 chiesi
 
-you asked (p.r.)
-chiedesti
-
 she asked (p.r.)
 chiese
-
-we asked (p.r.)
-chiedemmo
-
-you all asked (p.r.)
-chiedeste
 
 they asked (p.r.)
 chiesero
@@ -167,17 +128,8 @@ chiesero
 I pleased (p.r.)
 piacqui
 
-you pleased (p.r.)
-piacesti
-
 she pleased (p.r.)
 piacque
-
-we pleased (p.r.)
-piacemmo
-
-you all pleased (p.r.)
-piaceste
 
 they pleased (p.r.)
 piacquero
@@ -185,17 +137,8 @@ piacquero
 I knew (someone/something, p.r.)
 conobbi
 
-you knew (someone/something, p.r.)
-conoscesti
-
 she knew (someone/something, p.r.)
 conobbe
-
-we knew (someone/something, p.r.)
-conoscemmo
-
-you all knew (someone/something, p.r.)
-conosceste
 
 they knew (someone/something, p.r.)
 conobbero
@@ -203,17 +146,9 @@ conobbero
 I faked (p.r.)
 finsi
 
-you faked (p.r.)
-fingesti
-
 she faked (p.r.)
 finse
 
-we faked (p.r.)
-fingemmo
-
-you all faked (p.r.)
-fingeste
 
 they faked (p.r.)
 finsero
@@ -221,17 +156,8 @@ finsero
 I chose (p.r.)
 scelsi
 
-you chose (p.r.)
-scegliesti
-
 she chose (p.r.)
 scelse
-
-we chose (p.r.)
-scegliemmo
-
-you all chose (p.r.)
-sceglieste
 
 they chose (p.r.)
 scelsero
@@ -239,32 +165,14 @@ scelsero
 I immersed (p.r.)
 immersi
 
-you immersed (p.r.)
-immergesti
-
 she immersed (p.r.)
 immerse
-
-we immersed (p.r.)
-immergemmo
-
-they immersed (p.r.)
-immersero
 
 I fell (p.r.)
 caddi
 
-you fell (p.r.)
-cadesti
-
 she fell (p.r.)
 cadde
-
-we fell (p.r.)
-cademmo
-
-you all fell (p.r.)
-cadeste
 
 they fell (p.r.)
 caddero
@@ -272,17 +180,8 @@ caddero
 I knew (fact, p.r.)
 seppi
 
-you knew (fact, p.r.)
-sapesti
-
 she knew (fact, p.r.)
 seppe
-
-we knew (fact, p.r.)
-sapemmo
-
-you all knew (fact, p.r.)
-sapeste
 
 they knew (fact, p.r.)
 seppero
@@ -290,17 +189,8 @@ seppero
 I went (p.r.)
 andai
 
-you went (p.r.)
-andasti
-
 she went (p.r.)
 andò
-
-we went (p.r.)
-andammo
-
-you all went (p.r.)
-andaste
 
 they went (p.r.)
 andarono
@@ -308,17 +198,8 @@ andarono
 I left (p.r.)
 partii
 
-you left (p.r.)
-partisti
-
 she left (p.r.)
 partì
-
-we left (p.r.)
-partimmo
-
-you all left (p.r.)
-partiste
 
 they left (p.r.)
 partirono
@@ -326,17 +207,8 @@ partirono
 I understood (p.r.)
 capii
 
-you understood (p.r.)
-capisti
-
 she understood (p.r.)
 capì
-
-we understood (p.r.)
-capimmo
-
-you all understood (p.r.)
-capiste
 
 they understood (p.r.)
 capirono
@@ -380,17 +252,8 @@ dissero
 I drank (p.r.)
 bevvi
 
-you drank (p.r.)
-bevesti
-
 she drank (p.r.)
 bevve
-
-we drank (p.r.)
-bevemmo
-
-you all drank (p.r.)
-beveste
 
 they drank (p.r.)
 bevvero
@@ -434,17 +297,8 @@ stettero
 I invaded (p.r.)
 invasi
 
-you invaded (p.r.)
-invadesti
-
 she invaded (p.r.)
 invase
-
-we invaded (p.r.)
-invademmo
-
-you all invaded (p.r.)
-invadeste
 
 they invaded (p.r.)
 invasero
@@ -452,17 +306,8 @@ invasero
 I laughed (p.r.)
 risi
 
-you laughed (p.r.)
-ridesti
-
 she laughed (p.r.)
 rise
-
-we laughed (p.r.)
-ridemmo
-
-you all laughed (p.r.)
-rideste
 
 they laughed (p.r.)
 risero
@@ -470,14 +315,8 @@ risero
 I shared (something, p.r.)
 divisi
 
-you shared (something, p.r.)
-dividesti
-
-we shared (something, p.r.)
-dividemmo
-
-you all shared (somethiong, p.r.)
-divideste
+she shared (something, p.r.)
+divise
 
 they shared (something, p.r.)
 divisero
@@ -485,17 +324,8 @@ divisero
 I moved (p.r.)
 mossi
 
-you moved (p.r.)
-movesti; muovesti
-
 she moved (p.r.)
 mosse
-
-we moved (p.r.)
-movemmo; muovemmo
-
-you all moved (p.r.)
-moveste; muoveste
 
 they moved (p.r.)
 mossero
@@ -503,17 +333,8 @@ mossero
 I wrote (p.r.)
 scrissi
 
-you wrote (p.r.)
-scrivesti
-
 she wrote (p.r.)
 scrisse
-
-we wrote (p.r.)
-scrivemmo
-
-you all wrote (p.r.)
-scriveste
 
 they all wrote (p.r.)
 scrissero
@@ -539,17 +360,8 @@ tradussero
 I discussed (p.r.)
 discussi
 
-you discussed (p.r.)
-discutesti
-
 she discussed (p.r.)
 discusse
-
-we discussed (p.r.)
-discutemmo
-
-you all discussed (p.r.)
-discuteste
 
 they discussed (p.r.)
 discussero
@@ -557,17 +369,8 @@ discussero
 I happened (p.r.)
 successi
 
-you happened (p.r.)
-succedesti
-
 she happened (p.r.)
 successe
-
-we happened (p.r.)
-succedemmo
-
-you all happened (p.r.)
-succedeste
 
 they happened (p.r.)
 successero
@@ -575,17 +378,8 @@ successero
 I lived (p.r.)
 vissi
 
-you lived (p.r.)
-vivesti
-
 she lived (p.r.)
 visse
-
-we lived (p.r.)
-vivemmo
-
-you all lived (p.r.)
-viveste
 
 they lived (p.r.)
 vissero
@@ -593,17 +387,8 @@ vissero
 I waited (p.r.)
 attesi
 
-you waited (p.r.)
-attendesti
-
 she waited (p.r.)
 attese
-
-we waited (p.r.)
-attendemmo
-
-you all waited (p.r.)
-attendeste
 
 they waited (p.r.)
 attesero
@@ -611,14 +396,8 @@ attesero
 I took (p.r.)
 presi
 
-you took (p.r.)
-prendesti
-
 she took (p.r.)
 prese
-
-you all took (p.r.)
-prendeste
 
 they took
 presero
@@ -626,17 +405,8 @@ presero
 I closed (p.r.)
 chiusi
 
-you closed (p.r.)
-chiudesti
-
 she closed (p.r.)
 chiuse
-
-we closed (p.r.)
-chiudemmo
-
-you all closed (p.r.)
-chiudeste
 
 they closed (p.r.)
 chiusero
@@ -644,17 +414,8 @@ chiusero
 I killed (p.r.)
 uccisi
 
-you killed (p.r.)
-uccidesti
-
 she killed (p.r.)
 uccise
-
-we killed (p.r.)
-uccidemmo
-
-you all killed (p.r.)
-uccideste
 
 they killed (p.r.)
 uccisero
@@ -662,17 +423,8 @@ uccisero
 I lost (p.r.)
 persi; perdei; perdetti
 
-you lost (p.r.)
-perdesti
-
 she lost (p.r.)
 perse; perdé; perdette
-
-we lost (p.r.)
-perdemmo
-
-you all lost (p.r.)
-perdeste
 
 they lost (p.r.)
 persero; perderono; perdettero
@@ -680,17 +432,8 @@ persero; perderono; perdettero
 I was born (p.r.)
 nacqui
 
-you were born (p.r.)
-nascesti
-
 she was born (p.r.)
 nacque
-
-we were born (p.r.)
-nascemmo
-
-you all were born (p.r.)
-nasceste
 
 they were born (p.r.)
 nacquero
@@ -698,17 +441,8 @@ nacquero
 I pushed (p.r.)
 spinsi
 
-you pushed (p.r.)
-spingesti
-
 she pushed (p.r.)
 spinse
-
-we pushed (p.r.)
-spingemmo
-
-you all pushed (p.r.)
-spingestee
 
 they pushed (p.r.)
 spinsero
@@ -716,17 +450,8 @@ spinsero
 I cried (p.r.)
 piansi
 
-you cried (p.r.)
-piangesti
-
 she cried (p.r.)
 pianse
-
-we cried (p.r.)
-piangemmo
-
-you all cried (p.r.)
-piangeste
 
 they cried (p.r.)
 piansero
@@ -734,17 +459,8 @@ piansero
 I caught (p.r.)
 colsi
 
-you caught (p.r.)
-cogliesti
-
 she caught (p.r.)
 colse
-
-we caught (p.r.)
-cogliemmo
-
-you all caught (p.r.)
-coglieste
 
 they caught (p.r.)
 colsero
@@ -752,17 +468,8 @@ colsero
 I came (p.r.)
 venni
 
-you came (p.r.)
-venisti
-
 she came (p.r.)
 venne
-
-we came (p.r.)
-venimmo
-
-you all came (p.r.)
-veniste
 
 they came (p.r.)
 vennero
@@ -770,17 +477,8 @@ vennero
 I wanted (p.r.)
 volli
 
-you wanted (p.r.)
-volesti
-
 she wanted (p.r.)
 volle
-
-we wanted (p.r.)
-volemmo
-
-you all wanted (p.r.)
-voleste
 
 they wanted (p.r.)
 vollero
@@ -788,17 +486,8 @@ vollero
 I remained (p.r.)
 rimasi
 
-you remained (p.r.)
-rimanesti
-
 she remained (p.r.)
 rimase
-
-we remained (p.r.)
-rimanemmo
-
-you all remained (p.r.)
-rimaneste
 
 they remained (p.r.)
 rimasero
@@ -806,17 +495,8 @@ rimasero
 I saw (p.r.)
 vidi; vedetti
 
-you saw (p.r.)
-vedesti
-
 she saw (p.r.)
 vide; vedette
-
-we saw (p.r.)
-vedemmo
-
-you all saw (p.r.)
-vedeste
 
 they saw (p.r.)
 videro; vederono; vedettero
@@ -824,17 +504,8 @@ videro; vederono; vedettero
 I put (p.r.)
 misi
 
-you put (p.r.)
-mettesti
-
 she put (p.r.)
 mise
-
-we put (p.r.)
-mettemmo
-
-you all put (p.r.)
-metteste
 
 they put (p.r.)
 misero
@@ -842,17 +513,8 @@ misero
 I broke (p.r.)
 ruppi
 
-you broke (p.r.)
-rompesti
-
 she broke (p.r.)
 ruppe
-
-we broke (p.r.)
-rompemmo
-
-you all broke (p.r.)
-rompeste
 
 they broke (p.r.)
 ruppero
@@ -860,17 +522,8 @@ ruppero
 I became (p.r.)
 diventai
 
-you became (p.r.)
-diventasti
-
 she became (p.r.)
 diventò
-
-we became (p.r.)
-diventammo
-
-you all became (p.r.)
-diventaste
 
 they became
 diventarono
@@ -878,17 +531,8 @@ diventarono
 I sensed (p.r.)
 sentii
 
-you sensed (p.r.)
-sentisti
-
 she sensed (p.r.)
 sentì
-
-we sensed (p.r.)
-sentimmo
-
-you all sensed (p.r.)
-sentiste
 
 they sensed (p.r.)
 sentirono
@@ -896,17 +540,8 @@ sentirono
 I went out (p.r.)
 uscii
 
-you went out (p.r.)
-uscisti
-
 she went out (p.r.)
 uscì
-
-we went out (p.r.)
-uscimmo
-
-you all went out (p.r.)
-uisciste
 
 they went out (p.r.)
 uscirono
@@ -914,17 +549,8 @@ uscirono
 I had to (p.r.)
 dovei; dovetti
 
-you had to (p.r.)
-dovesti
-
 she had to (p.r.)
 dové; dovette
-
-we had to (p.r.)
-dovemmo
-
-you all had to (p.r.)
-doveste
 
 they had to (p.r.)
 doverono; dovettero
@@ -932,17 +558,8 @@ doverono; dovettero
 I distinguished (p.r.)
 distinsi
 
-you distinguished (p.r.)
-distinguesti
-
 she distinguished (p.r.)
 distinse
-
-we distinguished (p.r.)
-distinguemmo
-
-you all distinguished (p.r.)
-distingueste
 
 they distiguished (p.r.)
 distinsero
@@ -950,17 +567,8 @@ distinsero
 I finished (p.r.)
 finii
 
-you finished (p.r.)
-finisti
-
 she finished (p.r.)
 finì
-
-we finished (p.r.)
-finimmo
-
-you all finished (p.r.)
-finiste
 
 they finished (p.r.)
 finirono
@@ -968,17 +576,8 @@ finirono
 I died (p.r.)
 morii
 
-you died (p.r.)
-moristi
-
 she died (p.r.) 
 morì
-
-we died (p.r.)
-morimmo
-
-you all died (p.r.)
-moriste
 
 they died (p.r.)
 morirono
@@ -986,20 +585,8 @@ morirono
 I searched (p.r.)
 cercai
 
-you searched (p.r.)
-cercasti
-
 she searched (p.r.)
 cercò
 
-we searched (p.r.)
-cercammo
-
-you all searched (p.r.)
-cercaste
-
 they searched (p.r.)
 cercarero
-
-to question; to ponder; to wonder
-interrogarsi
