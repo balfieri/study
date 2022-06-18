@@ -8821,3 +8821,6 @@ il contrappunto
 
 outline; step ladder
 la scaletta
+
+full-time
+a tempo pieno
