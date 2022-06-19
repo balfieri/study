@@ -6246,3 +6246,6 @@ tirar fuori
 
 to transfer
 trasferire
+
+rent; tenancy
+l'affitto
