@@ -196,9 +196,6 @@ l'obiettivo
 reliable; dependable; trustworthy
 affidabile
 
-main
-principale
-
 up front
 in anticipio
 
@@ -2329,9 +2326,6 @@ la pietra miliare
 album
 l'album; il disco
 
-prior
-precedente
-
 frost
 la brina
 
@@ -2340,9 +2334,6 @@ la rugiada
 
 to feel free to
 sentirsi libero di
-
-opportune; expedient; appropriate
-opportuno
 
 possible; potential; prospective
 eventuale
@@ -4951,9 +4942,6 @@ darsi
 the present; timeliness; current events; current affairs
 l'attualità
 
-current; topical; present
-attuale
-
 disdain
 il disprezzo; lo sdegno; il disdegno
 
@@ -5373,12 +5361,6 @@ inferiore a
 
 more than; exceeding
 superiore a
-
-lesser; minor; younger
-minore
-
-greater; major; older
-maggiore
 
 to a lesser extent; to a lesser degree
 in misura minore
@@ -6240,9 +6222,6 @@ credibile
 
 inner workings
 i meccanismi interni
-
-appropriate
-opportuno; appropriato; apposito; adeguato
 
 inappropriate
 inopportuno; inappropriato; inadatto; improprio; inadeguato
@@ -7218,9 +7197,6 @@ tenere informato
 
 to recite poetry
 recitare poesie
-
-same (regarding self)
-medesimo
 
 barracks
 la caserma
@@ -8730,9 +8706,6 @@ omofobico
 
 homosexuality
 l'omosessualità
-
-legal; judicial
-giuridico
 
 high-level training
 l'alta formazione

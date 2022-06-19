@@ -2608,7 +2608,7 @@ freddo
 poor
 povero
 
-inexpensive
+inexpensive; economic
 economico
 
 cheap
@@ -5182,7 +5182,7 @@ malizioso
 marine
 marittimo
 
-better
+better; best (adj)
 migliore
 
 miserable
@@ -5392,9 +5392,176 @@ altro
 different
 differente
 
-not the same; diverse
+not the same; diverse; different
 diverso
 
 same
 stesso
 
+straight
+diritto
+
+present
+presente
+
+political
+politico
+
+greater; major; older
+maggiore
+
+national
+nazionale
+
+civil
+civile
+
+public
+pubblico
+
+such
+tale
+
+important
+importante
+
+short; brief
+breve
+
+particular
+particolare
+
+last
+ultimo
+
+moral
+morale
+
+human (adj)
+umano
+
+international
+internazionale
+
+obvious
+evidente; ovvio
+
+cultural
+culturale
+
+central
+centrale
+
+main
+principale
+
+previous; preceding; prior
+precedente
+
+military (adj)
+militare
+
+personal
+personale
+
+fundamental
+fondamentale
+
+current; topical; present (adj)
+attuale
+
+remarkable
+notevole
+
+lower
+inferiore
+
+relative
+relativo
+
+ancient
+antico
+
+greatest
+massimo
+
+total (adj)
+totale
+
+local
+locale
+
+industrial
+industriale
+
+constitutional
+costituzionale
+
+average (adj)
+medio
+
+criminal
+penale
+
+own
+proprio
+
+same (adj)
+medesimo
+
+legal; judicial
+giuridico
+
+internal
+interno
+
+universal
+universale
+
+recent
+recente
+
+religious
+religioso
+
+impossible
+impossibile
+
+opportune; expedient; appropriate
+opportuno
+
+regional
+regionale
+
+fine (adj)
+fino
+
+Roman
+romano
+
+capable
+capace
+
+European
+europeo
+
+essential
+essenziale
+
+commercial
+commerciale
+
+world (adj)
+mondiale
+
+smaller (adj); minor; younger
+minore
+
+traditional
+tradizionale
+
+official
+ufficiale
+
+individual
+individuale
