@@ -8314,3 +8314,27 @@ ritirare
 
 to go off; to explode; to burst
 scoppiare
+
+skating
+il pattinaggio
+
+cross-country skiing
+lo sci di fondo
+
+horseback riding
+l'equitazione
+
+hurdles
+la corsa ad ostacoli
+
+long jump
+il salto in lungo
+
+motorcycle racing
+il motociclismo
+
+rowing
+il canottaggio
+
+boxing
+il pugilato

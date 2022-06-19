@@ -2713,7 +2713,7 @@ il rugby
 windsurfing
 il windsurf
 
-ping poing
+ping pong
 il ping pong
 
 karate
@@ -2724,30 +2724,6 @@ il pallavolo; il volley
 
 water polo
 il pallanuoto
-
-skating
-il pattinaggio
-
-cross-country skiing
-lo sci di fondo
-
-horseback riding
-l'equitazione
-
-hurdles
-la corsa ad ostacoli
-
-long jump
-il salto in lungo
-
-motorcycle racing
-il motociclismo
-
-rowing
-il canottaggio
-
-boxing
-il pugilato
 
 football (American)
 il football americano
