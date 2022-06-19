@@ -3064,7 +3064,7 @@ usare
 to thank
 ringraziare
 
-to leave
+to leave (something)
 lasciare
 
 to seem
@@ -3305,7 +3305,7 @@ to repeat
 ripetere
 
 to ask
-chiedere
+chiedere; domandare
 
 to believe
 credere
@@ -3358,8 +3358,11 @@ sentire
 to sleep
 dormire
 
-to serve; to need
+to serve
 servire
+
+to need (something)
+aver bisogno di
 
 to cover
 coprire
@@ -3391,8 +3394,8 @@ aborrire
 to open
 aprire
 
-to leave
-partire
+to leave (go)
+partire; andarsene
 
 to offer
 offrire
@@ -3601,7 +3604,7 @@ occuparsi di
 to show interest in; to look out for somebody
 interessarsi
 
-to rise; to get up
+to rise; to get up; to stand
 alzarsi
 
 to feel
@@ -5640,3 +5643,45 @@ viaggiare
 
 to appear
 apparire
+
+to cancel
+cancellare
+
+to dance
+ballare
+
+to draw; to design
+disegnare
+
+to fill
+rempire
+
+to fix; to repair
+aggiustare
+
+to hurt
+fare del male
+
+to organize
+organizare
+
+to find out; to inquire; to enquire
+informarsi
+
+to sign
+firmare
+
+to smoke
+fumare
+
+to spell
+fare lo spelling
+
+to succeed
+avere successo
+
+to swim
+nuotare
+
+to type
+scrivere al computer

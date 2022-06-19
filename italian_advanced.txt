@@ -91,9 +91,6 @@ l'atterraggio
 saying
 il detto
 
-to fix; to repair
-aggiustare
-
 to notice (after an observation)
 notare
 
@@ -675,9 +672,6 @@ consapevole
 
 to reject
 rifiutare; rispingere
-
-to cancel
-cancellare
 
 to annul; to cancel
 annullare
@@ -4195,9 +4189,6 @@ considerare
 to take care of; to treat
 curare
 
-to design
-disegnare
-
 to doubt
 mettere in dubbio; dubitare
 
@@ -4377,9 +4368,6 @@ superare un esame
 
 screen
 lo schermo
-
-to inquire; to enquire; to ask
-informarsi
 
 movie theater
 il cinema; il cinematografo
