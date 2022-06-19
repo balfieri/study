@@ -4103,7 +4103,7 @@ ladle
 il mestolo
 
 wooden spoon
-il cucchiaio di lego
+il cucchiaio di legno
 
 colander
 il colino
@@ -4435,7 +4435,7 @@ la torre
 song
 la canzone
 
-comic
+comic; comic strip
 il fumetto
 
 crime film
