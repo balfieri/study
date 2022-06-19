@@ -1507,7 +1507,7 @@ attenzione!
 to be able to; to be allowed to
 potere
 
-to be able to do something (i.e., to be able to succeed at it)
+to be able to do something (i.e., to be able to succeed at it); to succeed at
 riuscire a
 
 I can't do it (I'm unable to succeed at it)
@@ -3070,7 +3070,7 @@ lasciare
 to seem
 sembrare
 
-to present
+to present; to introduce
 presentare
 
 to explain
@@ -3106,7 +3106,7 @@ aiutare
 to pass; to go by
 passare
 
-to remain
+to remain; to stay
 restare
 
 to observe
@@ -3154,7 +3154,7 @@ arrivare
 to dine
 cenare
 
-to meet
+to meet; to encounter
 incontrare
 
 to prepare
@@ -5565,3 +5565,54 @@ ufficiale
 
 individual
 individuale
+
+to obtain; to get
+ottenere
+
+to pay
+pagare
+
+to utilize
+utilizzare
+
+to catch; to pick; to cull
+cogliere
+
+to lead; to conduct
+condurre
+
+to be worth
+valere
+
+to discuss
+discutere
+
+to exist
+esistere
+
+to grow; to grow up
+crescere
+
+to change
+cambiare
+
+to return (something)
+ritornare
+
+to enjoy
+godere
+
+to correct
+correggere
+
+to be quiet; to keep quiet; to stay quiet
+tacere
+
+to kill
+uccidere
+
+to hide
+nascondere
+
+to earn
+guadagnare

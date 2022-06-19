@@ -2764,9 +2764,6 @@ di fatto
 indeed; actually; really
 effettivamente
 
-to enjoy
-godere
-
 to be held; to take place
 tenersi
 
@@ -2823,9 +2820,6 @@ in bilico
 
 to shoulder; to undertake; to absorb
 addossarsi
-
-to pick; to cull; to catch
-cogliere
 
 to swallow; to gulp
 inghiottire; ingoiare; degerire
@@ -4207,9 +4201,6 @@ disegnare
 to doubt
 mettere in dubbio; dubitare
 
-to be quiet; to keep quiet; to stay quiet
-tacere
-
 to persuade
 persuadere
 
@@ -4249,9 +4240,6 @@ tendere
 to dye
 tingere
 
-to be worth
-valere
-
 to enclose; to attach
 accludere
 
@@ -4272,9 +4260,6 @@ ungere
 
 to annex
 annettere
-
-to conduct
-condurre
 
 to manage; to direct; to run
 dirigere
@@ -8776,3 +8761,6 @@ interrogarsi
 
 colorblind
 daltonico
+
+unduly; wrongfully; improperly
+indebitamente
