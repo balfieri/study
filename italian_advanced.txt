@@ -6037,9 +6037,6 @@ profondamente imperfetta
 expectation
 l'aspettativa
 
-eccentric
-eccentrico
-
 failure; rejection
 la bocciatura
 
@@ -6414,9 +6411,6 @@ perspicace; acuto
 
 street smarts
 la scaltrezza; le conoscenze di strada; la saggezza della strada
-
-cunning; crafty; sly
-furbo
 
 catchy tune
 la canzone orecchiabile; la melodia orecchiabile
@@ -8806,3 +8800,6 @@ il risarcimento danni
 
 to question; to ponder; to wonder
 interrogarsi
+
+colorblind
+daltonico

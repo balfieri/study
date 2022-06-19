@@ -553,7 +553,7 @@ condividere
 to reach
 raggiungere
 
-salted
+salted; salty
 salato
 
 cooked
@@ -1465,7 +1465,7 @@ annoiare
 annoying
 fastidioso
 
-glad
+glad; content
 contento
 
 happy
@@ -2596,8 +2596,11 @@ spento
 expired
 scaduto
 
-free
-libero; gratis
+free (thought)
+libero 
+
+free (thing)
+gratis
 
 cold
 freddo
@@ -4114,7 +4117,7 @@ amaro
 sweet
 dolce
 
-tasty
+tasty; flavorful
 gustoso; saporito
 
 disgusting
@@ -5134,7 +5137,7 @@ gradevole
 serious
 grave
 
-large
+huge; massive
 grosso
 
 ideal
@@ -5262,3 +5265,136 @@ viziato
 
 vulgar
 volgare
+
+artistic
+artistico
+
+simplistic; banal
+banale
+
+constructive
+costruttivo
+
+creative
+creativo
+
+discreet
+discreto
+
+available
+disponibile
+
+effective
+efficace
+
+inadequate
+inadeguato
+
+intimate
+intimo
+
+lucid
+lucido
+
+magical
+magico
+
+musical
+musicale
+
+negative
+negativo
+
+passive
+passivo
+
+crazy; nuts
+pazzesco
+
+powerful; potent
+potente
+
+real; actual
+reale
+
+equal; same as; same thing
+uguale
+
+unique
+unico
+
+unified
+unito
+
+used
+usato
+
+adorable
+adorabile
+
+arrogant
+arrogante
+
+eccentric
+eccentrico
+
+heroic
+eroico
+
+cunning; crafty; sly
+furbo
+
+incapable
+incapace
+
+incoherent
+incoerente
+
+enormous
+enorme
+
+giant
+gigante
+
+rectangular
+rettangolare
+
+round
+rotondo
+
+circular
+circolare
+
+spherical
+sferico
+
+square
+quadrato
+
+sour
+aspro
+
+acidic
+acerbo; acido
+
+divine; out of this world
+divino
+
+American
+americano
+
+from Genova
+genovese
+
+other
+altro
+
+different
+differente
+
+not the same; diverse
+diverso
+
+same
+stesso
+
