@@ -4189,9 +4189,6 @@ praticabile; fattibile; realizzabile; attuabile
 crude (tactless)
 grezzo; crudo
 
-handful
-la manciata
-
 prohibition
 il divieto
 
@@ -8287,3 +8284,18 @@ daltonico
 
 unduly; wrongfully; improperly
 indebitamente
+
+to cheat (on a test)
+imbrogliare
+
+cheating (n, on test)
+l'imbroglio
+
+to cheat (someone out of something)
+ingannare; truffare
+
+to postpone
+rimandare; rinviare; posporre
+
+handful; fistful
+la manciata
