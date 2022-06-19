@@ -292,9 +292,6 @@ l'imballo
 middle of nowhere
 il mezzo del nulla
 
-to get lost
-perdersi
-
 to fall for it
 cascarci
 
@@ -354,9 +351,6 @@ l'ingegno
 
 maintenance
 la manutenzione
-
-to warm up
-scaldare
 
 club
 il club
@@ -660,12 +654,6 @@ svolgere
 
 to pack; to wrap
 imballare
-
-to schedule
-programmare
-
-to plan
-pianificare
 
 aware; conscious
 consapevole
@@ -1093,7 +1081,7 @@ umile; domestico
 vinyl record
 il disco in vinile
 
-to get close
+to get close; to go near
 avvicinarsi
 
 to drain
@@ -1438,9 +1426,6 @@ il ricatto
 to loosen; to relax
 allentare
 
-to slow down (something)
-rallentare
-
 to slow down (intr)
 rallentarsi
 
@@ -1554,9 +1539,6 @@ l'ira
 
 greed; avarice
 l'avarizia
-
-envy
-l'invidia
 
 oasis
 l'oasi
@@ -2730,9 +2712,6 @@ cambiare corsia
 
 nail
 il chiodo
-
-to burst; to explode
-scoppiare
 
 to smear
 imbrattare
@@ -7744,9 +7723,6 @@ presunto
 dwarf; midget; gnome
 il nano
 
-to switch to
-passare a
-
 to bribe; to corrupt; to subvert
 corrompere
 
@@ -8296,3 +8272,45 @@ rimandare; rinviare; posporre
 
 handful; fistful
 la manciata
+
+to rely on 
+affidarsi a
+
+to look out
+affacciarsi a
+
+to step away from
+allontanarsi da
+
+to nod
+annuire
+
+to take advantage
+approffitare
+
+to take advantage of (someone, something)
+approffitarsi
+
+to comfort
+consolare
+
+to get distracted
+distrarsi
+
+to exult
+esultare
+
+to envy
+invidiare
+
+envy
+l'invidia
+
+to overhear
+origliare
+
+to collect; to withdraw
+ritirare
+
+to go off; to explode; to burst
+scoppiare

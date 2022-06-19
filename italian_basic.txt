@@ -13,8 +13,8 @@ cantare
 to please; to be pleasing
 piacere
 
-to hate
-odiare
+to hate; to detest
+odiare; destestare
 
 to love (romantic)
 amare
@@ -289,6 +289,9 @@ i denti
 to brush teeth
 lavarsi i denti
 
+to wash one's hands
+lavarsi le mani
+
 hair
 i capelli
 
@@ -333,9 +336,6 @@ sempre diritto
 
 to stop oneself
 fermarsi
-
-to stop doing something
-smettere di
 
 church
 la chiesa
@@ -456,6 +456,9 @@ correre
 
 to walk
 camminare
+
+to stroll; to walk
+passeggiare
 
 to take a trip
 fare un giro
@@ -934,7 +937,7 @@ farsi la coda
 dangerous
 pericoloso
 
-to check
+to check; to control
 controllare
 
 healthy; sane
@@ -1111,8 +1114,11 @@ il frigobar
 take a shower
 fare la doccia
 
-to bathe
+to bathe; to wet
 bagnare
+
+to get wet; to take a bath
+bagnarsi
 
 toothbrush
 il spazzolino
@@ -1507,7 +1513,7 @@ attenzione!
 to be able to; to be allowed to
 potere
 
-to be able to do something (i.e., to be able to succeed at it); to succeed at
+to be able to (do something, i.e., to be able to succeed at it); to succeed at
 riuscire a
 
 I can't do it (I'm unable to succeed at it)
@@ -1516,7 +1522,7 @@ non ci riesco
 I may not do it
 non posso farlo
 
-to want
+to want; to wish; to need
 volere
 
 will (n)
@@ -3097,6 +3103,9 @@ studiare
 to forget
 dimenticare
 
+to forget to (do something)
+dimenticarsi di
+
 to send
 inviare
 
@@ -3117,9 +3126,6 @@ raccontare
 
 to attempt
 tentare
-
-to walk
-passeggiare
 
 to excuse
 scusare
@@ -3145,7 +3151,7 @@ insegnare
 to return
 tornare
 
-to begin
+to begin; to start
 iniziare
 
 to arrive
@@ -3250,7 +3256,7 @@ vendere
 to wait for
 attendere
 
-to know
+to know; to meet
 conoscere
 
 to lose
@@ -3259,11 +3265,14 @@ perdere
 to render
 rendere
 
-to stop
-smettere
+to stop (doing something); to quit (doing something)
+smettere di
 
 to permit
 permettere
+
+to afford
+permettersi
 
 to conclude
 concludere
@@ -3289,7 +3298,7 @@ sconfiggere
 to take
 prendere
 
-to respond
+to respond; to answer
 rispondere
 
 to turn off
@@ -3532,10 +3541,10 @@ ricordarsi di
 to get tired of
 stancarsi di
 
-to prepare for
+to prepare for; to get ready
 prepararsi
 
-to put on
+to put on; to wear
 mettersi
 
 to go to sleep
@@ -3553,7 +3562,7 @@ amarsi
 to get angry
 arrabbiarsi
 
-to call oneself; to be called
+to call oneself; to be called; to be named
 chiamarsi
 
 to meet
@@ -3586,7 +3595,7 @@ presentarsi
 to picture oneself
 immaginarsi
 
-to make a mistake; to be mistaken
+to make a mistake; to be mistaken; to be wrong
 sbagliarsi
 
 to find oneself
@@ -3610,7 +3619,7 @@ alzarsi
 to feel
 sentirsi
 
-to become ill
+to become ill; to get sick
 ammalarsi
 
 to kiss
@@ -3621,9 +3630,6 @@ annoiarsi
 
 to get used to
 abituarsi a
-
-to forget to
-dimenticarsi di
 
 to fall in love
 innamorarsi
@@ -5041,6 +5047,9 @@ seppellito; sepolto; interrato
 to move (something from one place to anotherr)
 spostare
 
+to get moved
+spostarsi
+
 to move (somewhere)
 trasferirsi
 
@@ -5603,7 +5612,7 @@ to return (something)
 ritornare
 
 to enjoy
-godere
+godere; godersi
 
 to correct
 correggere
@@ -5616,6 +5625,9 @@ uccidere
 
 to hide
 nascondere
+
+to hide (oneself) from
+nascondersi da
 
 to earn
 guadagnare
@@ -5878,8 +5890,11 @@ convertire
 to consider
 considerare
 
-to take care of; to treat
+to cure; to treat
 curare
+
+to take care of
+prendersi cura di
 
 to doubt
 mettere in dubbio; dubitare
@@ -5892,6 +5907,9 @@ mordere
 
 to burn; to burn out
 bruciare
+
+to get burned
+bruciarsi
 
 to stretch
 tendere
@@ -6159,3 +6177,96 @@ raccogliere
 
 meeting; encounter
 l'incontro
+
+to kiss
+baciare
+
+to calm
+calmare
+
+to calm down
+calmarsi
+
+to chat
+chiacchierare
+
+to create
+creare
+
+to grow (plant)
+far crescere; cultivare
+
+to focus
+concentrarsi
+
+to explore
+esplorare
+
+to attend; to meet; to hang out
+frequentare
+
+to be in a relationship
+frequentarsi
+
+to swear
+giurare
+
+to include
+includere
+
+to guess
+indovinare
+
+to argure
+litigare
+
+to deny
+negare
+
+to switch to
+passare a
+
+to get lost
+perdersi
+
+to plan
+pianificare
+
+to plan; to program; to schedule
+programmare
+
+to slow down
+rallentare
+
+to recognize
+riconoscere
+
+to warm; to warm up
+scaldare
+
+to get warmed up
+scaldarsi
+
+to reheat
+riscaldare
+
+to write down
+segnarsi
+
+to surprise
+sorprendere
+
+to be surprised
+sorprendersi
+
+to get stressed
+stressarsi
+
+to get bored of; to get tired of
+stufarsi
+
+to take out (an object)
+tirar fuori
+
+to transfer
+trasferire
