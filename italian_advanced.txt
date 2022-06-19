@@ -2371,9 +2371,6 @@ finora
 college degree
 la laurea
 
-to fool; to cheat
-ingannare
-
 figuratively
 figuratamente
 
@@ -8291,7 +8288,7 @@ imbrogliare
 cheating (n, on test)
 l'imbroglio
 
-to cheat (someone out of something)
+to cheat (someone out of something); to fool
 ingannare; truffare
 
 to postpone
