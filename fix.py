@@ -30,7 +30,7 @@ for line in lines:
     line = re.sub( r'^\s+', '', line )
     line = re.sub( r'\s+$', '', line )
     if line == '': continue
-    m = match( line, r'^(.*) = (.*)$' )
+    m = match( line, r'^(\w+)\s+(\w+)$' )
     if not m: die( "bad input: " + line )
     answer = m.group( 1 )
     answer = answer[0].lower() + answer[1:]

@@ -403,9 +403,6 @@ il brevetto
 copyright
 il diritto d'autore
 
-loyal
-leale
-
 citizenship by descent
 la cittadinanza per descendenza
 
@@ -744,9 +741,6 @@ la resistenza; il trascinamento
 
 unpleasant
 sgradevole
-
-pleasant
-gradevole
 
 sated; full
 sazio
@@ -1167,9 +1161,6 @@ il concorrente
 
 royalty (for artist); royalties
 i diritti d'autore
-
-vulgar
-volgare
 
 picky; fussy; choosy
 schizzinoso; puntiglioso
@@ -3358,9 +3349,6 @@ ricostrire
 effectively
 efficacemente; effetivamente
 
-paranoid
-paranoico
-
 daylight
 la luce del giorno
 
@@ -3513,9 +3501,6 @@ ricaricarsi
 
 gig; jig
 la giga
-
-spoiled
-viziato
 
 abdominals
 i dominali
@@ -5671,9 +5656,6 @@ non so se; non capisco se; non riesco a capire
 to hearten; to encourage; to cheer up
 rincuorare
 
-friendly
-amichevole
-
 to compete
 competere; gareggiare
 
@@ -6105,9 +6087,6 @@ far avverare i suoi sogni
 
 scalp
 lo scalpo
-
-yummy; delicious
-delizioso
 
 it's just a matter of time
 è solo una questione di tempo
@@ -8217,9 +8196,6 @@ il mito
 
 for the most part
 per lo più; perlopiù
-
-deserted
-deserto
 
 minority
 la minoranza
