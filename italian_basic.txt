@@ -5685,3 +5685,469 @@ nuotare
 
 to type
 scrivere al computer
+
+miserable
+miserabile
+
+introverted
+introverso
+
+vespa
+il motorino
+
+to punish
+punire
+
+damaging
+dannoso
+
+passionate
+passionale
+
+irritating
+irritante
+
+tied (physically usually)
+legato
+
+to attract
+attrarre
+
+United Kingdom
+il Regno Unito
+
+device
+il dispositivo
+
+to be confused
+essere confuso
+
+purple
+porpora
+
+violet
+violetto
+
+bureaucracy
+la burocrazia
+
+to surpass; to overcome
+superare
+
+to exceed
+eccedere
+
+the future
+la futura
+
+to escape (abstract)
+fuggire
+
+to escape (physical)
+scappare
+
+audacious
+audace
+
+exhausted
+esaurito
+
+custom; practice
+l'usanza
+
+exact
+esatto
+
+accurate
+accurato
+
+confused
+confuso
+
+nightmare
+l'incubo
+
+environmentalist
+l'ambientalista
+
+to press; to push; to squeeze
+premere
+
+literature
+la letteratura
+
+upbringing
+l'educazione
+
+percentage
+la percentuale
+
+African-American
+afroamericano
+
+motherhood
+la maternità
+
+Hungary
+l'Ungheria
+
+to tighten
+stringere
+
+Sweden
+la Svezia
+
+gay
+gay
+
+lesbian
+la lesbica
+
+Mother's Day
+la Festa della Mamma
+
+care; cure; treatment
+la cura
+
+unforgettable
+indimenticabile
+
+fabulous
+favoloso
+
+amazing
+incredibile; fantastico; meraviglioso; sbalorditivo; stupefacente
+
+extraordinario
+straordinario
+
+outstanding
+eccelente
+
+surprising
+sorprendente
+
+magnificent
+magnifico
+
+sublime
+sublime
+
+list (unordered)
+la lista
+
+list (more ordered)
+l'elenco
+
+memory (instance)
+il ricordo
+
+laugh
+la risata
+
+mood
+l'umore
+
+constant (adj)
+costante
+
+advertisement
+la pubblicità
+
+training
+la formazione
+
+hammer
+il martello
+
+handwriting; writing
+la scrittura
+
+to threaten
+minacciare
+
+note
+nota
+
+strip
+la striscia
+
+to convert
+convertire
+
+to consider
+considerare
+
+to take care of; to treat
+curare
+
+to doubt
+mettere in dubbio; dubitare
+
+to persuade
+persuadere
+
+to bite
+mordere
+
+to burn; to burn out
+bruciare
+
+to stretch
+tendere
+
+definitely
+definitivamente; decisamente
+
+lovable
+amabile
+
+screen
+lo schermo
+
+movie theater
+il cinema; il cinematografo
+
+secretly
+segretamente
+
+to bless
+benedire
+
+to rob (a person`)
+derubare
+
+to rob (something)
+rubare
+
+comparison
+il paragone
+
+to freeze (something)
+congelare
+
+owner
+il proprietario
+
+stage (theater)
+il palco
+
+crime
+il reato
+
+label; tag; luggage tag
+l'etichetta
+
+lodging; accommodation; residency
+l'alloggio
+
+flawed
+difettoso
+
+racist
+razista
+
+to participate
+partecipare
+
+to come to mind
+venire in mente
+
+hard-working
+laborioso; operoso; diligente
+
+thus; therefore; then
+quindi
+
+so; thus; such
+così
+
+the first Tuesday of every month
+ogni primo martedì del mese; il primo martedì di ogni mese
+
+at the beginning of the 20th century
+all'inizio del XX secolo
+
+next April
+il prossimo aprile
+
+on Wednesdays
+il mercoledì
+
+see you on Wednesday
+ci vediamo mercoledì
+
+on April 4th
+il 4 aprile
+
+the 4th of every month
+il 4 di ogni mese
+
+everywhere
+dappertutto; ovunque
+
+nowhere
+in nessun posto; da nessuna parte
+
+behind
+dietro di
+
+forward
+avanti
+
+less than; lower than; not exceeding
+inferiore a
+
+more than; exceeding
+superiore a
+
+ballet
+il ballet
+
+recital
+la recita
+
+on stage
+sul palco
+
+justice (state of fairness)
+la giustizia
+
+justice; judge
+il giudice
+
+weather report
+il meteo
+
+bright
+brillante; luminoso
+
+character (film)
+il protaganista
+
+extroverted; outgoing
+estroverso
+
+stupid thing
+la stupidagine
+
+New Zealand
+La Nuova Zelanda
+
+to ask questions
+fare domande
+
+to take notes
+prendere note
+
+to disappoint (someone)
+deludere
+
+refund; reimbursement
+il rimborso
+
+to host
+ospitare
+
+disastrous
+disastroso
+
+attempt
+il tentativo
+
+email
+la mail; l'email
+
+believable
+credibile
+
+tool
+lo strumento; l'attrezzo
+
+24/7
+24 ore su 24
+
+creature
+la creatura
+
+strategy
+la strategia
+
+appearance; look; looks
+l'aspetto
+
+sense of humor
+l'umorismo
+
+wild
+selvaggio; scatenato
+
+neighborhood
+quartiere
+
+to land
+atterare
+
+gas station
+il benzinaio
+
+expiration
+la scadenza
+
+psychiatric
+psichiatrico
+
+implicit
+implicito
+
+empathetic
+empatico
+
+playlist
+la playlist
+
+obsessed
+ossessionato
+
+deficient; insufficient
+deficiente
+
+to waste time
+perdere tempo
+
+vain
+vanitoso
+
+inhabitant
+l'abitante
+
+gorgeous (woman)
+splendida; stupenda; meravigliosa; magnifica; bellissima
+
+dairy
+il caseificio
+
+customs
+la dogana
+
+pretentious
+pretenzioso
+
+arrogant; overly proud
+orgoglioso
+
+fastidious; fussy; picky
+pignolo
+
+percentage
+la percentale
+
+bisexual
+bisessuale
+
+homophobic
+omofobico
+
+homosexuality
+l'omosessualità
+

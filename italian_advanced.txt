@@ -1633,9 +1633,6 @@ previso
 adversity; accident
 la sciagura
 
-relief
-il sollievo
-
 massive
 massiccio
 
@@ -2170,9 +2167,6 @@ la superiorità morale
 troglodyte
 il troglodita
 
-miserable
-miserabile
-
 distraught; upset
 sconvolto; turbato
 
@@ -2241,9 +2235,6 @@ fare le cose per bene
 
 hole-in-one
 la buca in uno
-
-introverted
-introverso
 
 to capture the essence
 catturare l'essenza
@@ -2353,9 +2344,6 @@ il capo d'abbigliamento
 paddleboat
 pedalò
 
-vespa
-il motorino
-
 to make the bed
 fare il letto
 
@@ -2386,17 +2374,11 @@ la laurea
 to fool; to cheat
 ingannare
 
-to punish
-punire
-
 figuratively
 figuratamente
 
 jokingly
 scherzosamente
-
-damaging
-dannoso
 
 driveway
 il vialetto
@@ -2439,9 +2421,6 @@ rinominare
 
 a high-pressure situation
 una situazione da alta pressione
-
-passionate
-passionale
 
 show business
 il mondo dello spettacolo
@@ -2521,9 +2500,6 @@ controcorrente
 distressing
 penoso
 
-irritating
-irritante
-
 circuit
 il circuito
 
@@ -2546,7 +2522,7 @@ to give a lecture
 tenere una conferenza
 
 property
-la propietà
+la proprietà
 
 related (family)
 imparentato
@@ -2554,17 +2530,11 @@ imparentato
 related (ideas); connected
 connesso; collegato
 
-tied (physically usuall)
-legato
-
 baby steps
 i primi passi; i piccoli passi
 
 charge (like an electron); load; office; position
 la carica
-
-to attract
-attrarre
 
 eventually
 alla fine; infine
@@ -2596,23 +2566,14 @@ astenersi
 to stand out
 spiccare
 
-United Kingdom
-il Regno Unito
-
 attitude; pose; demeanor
 l'atteggiamento
 
 to pose
 atteggiare
 
-device
-il dispositivo
-
 ulterior; further; additional
 ulteriore
-
-to be confused
-essere confuso
 
 the time before last
 il tempo prima dell'ultimo; la volta prima dell'ultima
@@ -2641,12 +2602,6 @@ snotty
 means
 i mezzi
 
-purple
-porpora
-
-violet
-violetto
-
 snot
 il moccio
 
@@ -2671,9 +2626,6 @@ la novità
 deepening; amplification
 l'approfondimento
 
-bureaucracy
-la burocrazia
-
 air traffic control
 il controllo del traffico aereo
 
@@ -2685,12 +2637,6 @@ farsi capire
 
 to misinterpret
 fraintendere
-
-to surpass; to overcome
-superare
-
-to exceed
-eccedere
 
 to relinquish; to renounce
 rinunciare; abbandonare
@@ -2712,9 +2658,6 @@ in concorrenza
 
 to occur; to happen; to take place
 capitare; succedere; accadere; avvenire
-
-the future
-la futura; l'avvenire
 
 revenge
 la rivincita
@@ -2746,10 +2689,10 @@ di tutto rispetto
 in a hurry
 di fretta
 
-perfettamente
+perfectly
 di tutto punto
 
-segretamente
+secretly
 di nascosto
 
 substantial; common-law; de facto
@@ -2778,12 +2721,6 @@ vantarsi
 
 thorough
 accurato; completo; minuzioso
-
-to escape (abstract)
-fuggire
-
-to escape (physical)
-scappare
 
 to get out of control
 sfuggire al controllo
@@ -2827,9 +2764,6 @@ tarpare
 racy; risque
 spinto; piccante
 
-audacious
-audace
-
 brothel; whorehouse; bordello
 il bordello
 
@@ -2841,9 +2775,6 @@ l'impaccio
 
 to meddle; to intrude; to intervene
 intromettersi
-
-exhausted
-esaurito
 
 to engage; to commit; to pledge
 impegnare
@@ -2905,9 +2836,6 @@ l'accanimento
 genius; wit; genie
 il genio
 
-custom; practice
-l'usanza
-
 actually
 in effetti; in realtà
 
@@ -2947,20 +2875,11 @@ la misurazione
 exactness
 l'esattezza
 
-exact
-esatto
-
-accurate
-accurato
-
 disconcerting; uncanny
 sconcertante
 
 confusing
 che confonde; che crea confusione
-
-confused
-confuso
 
 oversight (positive); supervision
 la supervisione
@@ -2992,9 +2911,6 @@ convolto
 gifts; talents
 le doti
 
-nightmare
-l'incubo
-
 both (longer)
 l'uno e l'altro
 
@@ -3012,9 +2928,6 @@ strumentalizzare
 
 poor thing
 il poveretto
-
-environmentalist
-l'ambientalista
 
 to shipwreck
 naufragare
@@ -3042,9 +2955,6 @@ scattare
 
 concerned
 premuto
-
-to press; to push; to squeeze
-premere
 
 to serve; to function; to act
 fungere
@@ -3126,9 +3036,6 @@ inquieto; irrequieto; agitato
 
 restlessness
 l'irrequietezza; l'inquietudine; l'irrequietudine
-
-literature
-la letteratura
 
 to be in the lead
 essere in testa
@@ -3283,9 +3190,6 @@ nauseabondo; nauseante
 nauseating (smell)
 ripugnante
 
-upbringing
-l'educazione
-
 to be out of (something)
 rimanere senza
 
@@ -3339,9 +3243,6 @@ lo studente di scambio; lo studente in scambio; lo scambio studentesco
 
 lively discussion
 la vivace discussione; l'animata discussione
-
-percentage
-la percentuale
 
 crumpled; crushed
 accartocciato
@@ -3424,9 +3325,6 @@ benestante
 bite; morsel; mouthful
 il boccone
 
-African-American
-afroamericano
-
 as never before
 come non mai; come mai prima
 
@@ -3459,9 +3357,6 @@ torturare
 
 go ahead!
 fai pure! continue!
-
-motherhood
-la maternità
 
 to foam; to sizzle; to form bubbles
 spumare
@@ -3556,14 +3451,8 @@ stracciare
 to tear; to rip; to rip up; to snatch
 strappare; stracciare
 
-Hungary
-l'Ungheria
-
 to affix; to seal
 apporre
-
-to tighten
-stringere
 
 open mind
 la testa aperta
@@ -3576,9 +3465,6 @@ il tracciamento
 
 treatment; cure; processing
 il trattamento
-
-Sweden
-la Svezia
 
 to trample; to tread; to stomp
 calpestare
@@ -3658,9 +3544,6 @@ la chiocciola
 poet
 il poeta
 
-lesbian
-la lesbica
-
 vulnerable
 vulnerabile
 
@@ -3696,9 +3579,6 @@ dotato
 
 to endow; to equip
 dotare
-
-Mother's Day
-la Festa della Mamma
 
 entertainment; amusement
 l'intrattenimento
@@ -3784,9 +3664,6 @@ lo stinco
 to dissatisfy; to displease; to let down
 scontentare
 
-care; cure; treatment
-la cura
-
 clumsy; awkward; goofy
 goffo
 
@@ -3840,36 +3717,6 @@ eccezionale
 
 not to miss
 da non perdere
-
-unforgettable
-indimenticabile
-
-fabulous
-favoloso
-
-amazing
-incredibile; fantastico; meraviglioso; sbalorditivo; stupefacente
-
-extraordinario
-straordinario
-
-outstanding
-eccelente
-
-surprising
-sorprendente
-
-magnificent
-magnifico
-
-sublime
-sublime
-
-list (unordered)
-la lista
-
-list (more ordered)
-l'elenco
 
 to list (in ordered way)
 elencare
@@ -3943,9 +3790,6 @@ l'oltraggio
 of course!
 ma certo!
 
-memory (instance)
-il ricordo
-
 wardrobe
 il guardaroba; la guardaroba
 
@@ -3976,9 +3820,6 @@ la spericolatezza
 to bite one's fingernails
 mangiarsi le unghie
 
-laugh
-la risata
-
 magnet
 il magnetico; la calamita
 
@@ -3987,9 +3828,6 @@ la commedia nera
 
 preparatory course; required course
 il corso propedeutico
-
-mood
-l'umore
 
 to lose badly
 subire una grave sconfitta
@@ -4008,9 +3846,6 @@ farsi restituire
 
 to lower oneself; to descend
 calarsi
-
-constant (adj)
-costante
 
 accumulation; capitalization
 la capitalizzazione
@@ -4060,12 +3895,6 @@ il senno
 to start out
 prendere le mosse
 
-advertisement
-la pubblicità
-
-training
-la formazione
-
 to concern; to pertain; to encompass
 riguardare
 
@@ -4099,17 +3928,11 @@ lo strobico; lo strabismo
 to squint
 strabicare
 
-hammer
-il martello
-
 brick; tile
 il mattone
 
 to make a toast
 fare un brindisi; fare un toast
-
-handwriting; writing
-la scrittura
 
 to study hard and play hard
 studiare duro e giocare duro
@@ -4119,9 +3942,6 @@ il recupero
 
 recovery (to prior status)
 il ricupero
-
-to threaten
-minacciare
 
 roommate
 il compagno di stanza; la compagna di stanza
@@ -4150,14 +3970,8 @@ il padrino
 godmother
 la madrina
 
-note
-nota
-
 to refer to
 riferirsi a
-
-strip
-la striscia
 
 strip of land
 la striscia di terra
@@ -4167,9 +3981,6 @@ assentire
 
 to share; to divide
 compartire; dividere
-
-to convert
-convertire
 
 to sew
 cucire
@@ -4183,21 +3994,6 @@ precedere
 to weave
 tessere
 
-to consider
-considerare
-
-to take care of; to treat
-curare
-
-to doubt
-mettere in dubbio; dubitare
-
-to persuade
-persuadere
-
-to bite
-mordere
-
 to milk; to squeeze; to ring
 mungere
 
@@ -4210,9 +4006,6 @@ porgere
 to burn; to scorch
 ardere
 
-to burn; to burn out
-bruciare
-
 to draw; to get; to obtain
 attingere
 
@@ -4224,9 +4017,6 @@ flettere
 
 to shave
 radere
-
-to stretch
-tendere
 
 to dye
 tingere
@@ -4281,9 +4071,6 @@ tergere
 
 just in case
 solo nel caso
-
-definitely
-definitivamente
 
 charge; errand; assignment
 l'incarico
@@ -4360,17 +4147,8 @@ lassù; là sopra; lì sopra
 down there
 laggiù; lì; là
 
-lovable
-amabile
-
 to pass a test
 superare un esame
-
-screen
-lo schermo
-
-movie theater
-il cinema; il cinematografo
 
 to encourage
 incoraggiare; favorire; confortare
@@ -4390,9 +4168,6 @@ addorare Satana
 customer service
 il servizio clienti
 
-secretly
-segretamente
-
 to suspect that
 sospettere che
 
@@ -4408,9 +4183,6 @@ lo starnutatore
 evil spirits
 gli spiriti maligni
 
-to bless
-benedire
-
 feasible
 praticabile; fattibile; realizzabile; attuabile
 
@@ -4419,12 +4191,6 @@ grezzo; crudo
 
 handful
 la manciata
-
-to rob (a person`)
-derubare
-
-to rob (something)
-rubare
 
 prohibition
 il divieto
@@ -4456,9 +4222,6 @@ ripeti dopo di me
 broad
 ampio
 
-comparison
-il paragone
-
 to hold; to possess
 detenere
 
@@ -4482,9 +4245,6 @@ agghiacciante
 
 to freeze; to chill
 agghiacciare
-
-to freeze (something)
-congelare
 
 to collapse; to crumble
 crollare
@@ -4525,7 +4285,7 @@ svariati
 award-winning
 pluripremiato
 
-whome
+whom
 il quale
 
 which
@@ -4573,9 +4333,6 @@ in alcunché in
 to appear
 comparare
 
-owner
-il proprietario
-
 kinship
 la parentela
 
@@ -4611,9 +4368,6 @@ accordarsi
 
 to shake off
 scrollarsi di dosso
-
-stage
-il palco
 
 highly evolved
 altamente evoluto
@@ -4665,9 +4419,6 @@ i primi tempi
 
 celebration
 la celebrazione
-
-crime
-il reato
 
 damage; deterioration
 il danneggiamento
@@ -4735,9 +4486,6 @@ tenere d'occhio
 register; registry
 albo
 
-label; tag; luggage tag
-l'etichetta
-
 to label; to pigeon hole; to tag
 etichettare
 
@@ -4755,9 +4503,6 @@ agevolare
 
 albeit
 seppur
-
-lodging; accommodation; residency
-l'alloggio
 
 to restructure; to renovate
 ristrutturare
@@ -4933,9 +4678,6 @@ il raggio
 multiple sclerosis
 la sclerosi multipla
 
-flawed
-difettoso
-
 loquacious; overly talkative
 loquace; chiacchierone
 
@@ -4951,14 +4693,8 @@ dispersi
 scattering; dispersion
 la dispersione
 
-racist
-razista
-
 nazi
 nazista
-
-to participate
-partecipare
 
 receptionist
 la segretaria; la receptionist; la centralista
@@ -4968,9 +4704,6 @@ la festa di laurea
 
 it's my doing
 è a causa mia
-
-to come to mind
-venire in mente
 
 porch (separate room)
 la veranda
@@ -5071,9 +4804,6 @@ la sigla
 shrewdness
 l'accortezza
 
-hard-working
-laborioso; operoso; diligente
-
 to slip; to skid; to slide
 slittare
 
@@ -5148,12 +4878,6 @@ non si dimentichi però che
 
 consequently; as a result; accordingly
 di conseguenza
-
-thus; therefore; then
-quindi
-
-so; thus; such
-così
 
 in conclusion
 insomma; per concludere
@@ -5263,27 +4987,6 @@ proprio l'altro giorno
 in my day
 ai miei tempi
 
-the first Tuesday of every month
-ogni primo martedì del mese; il primo martedì di ogni mese
-
-at the beginning of the 20th century
-all'inizio del XX secolo
-
-next April
-il prossimo aprile
-
-on Wednesdays
-il mercoledì
-
-see you on Wednesday
-ci vediamo mercoledì
-
-on April 4th
-il 4 aprile
-
-the 4th of every month
-il 4 di ogni mese
-
 lie; falsehood; untruth
 la menzogna
 
@@ -5293,26 +4996,14 @@ vivere nella menzogna; vivere una menzogna
 elsewhere
 altrove
 
-nowhere
-in nessun posto; da nessuna parte
-
 somewhere
 in qualche posto; da qualche parte
 
 anywhere
 dovunque; ovunque
 
-everywhere
-dappertutto; ovunque
-
 from here to there
 da qua a là
-
-behind
-dietro di
-
-forward
-avanti
 
 for each
 per ciascuno
@@ -5328,12 +5019,6 @@ oltre a
 
 to evoke
 evocare
-
-less than; lower than; not exceeding
-inferiore a
-
-more than; exceeding
-superiore a
 
 to a lesser extent; to a lesser degree
 in misura minore
@@ -5379,15 +5064,6 @@ lo sfizio
 
 marshall
 il maresciallo
-
-ballet
-il ballet
-
-recital
-la recita
-
-on stage
-sul palco
 
 to go on stage
 salire sul palco
@@ -5569,15 +5245,6 @@ il perdente; lo sfigato
 weather forecast
 le previsioni del tempo
 
-weather report
-il meteo
-
-justice (state of fairness)
-la giustizia
-
-justice; judge
-il giudice
-
 Supreme Court
 la Corte Suprema
 
@@ -5698,9 +5365,6 @@ non ha tutti i torti
 to shine; to glow; to gleam
 splendere
 
-bright
-brillante; luminoso
-
 dim
 oscuro
 
@@ -5742,9 +5406,6 @@ il collagamento
 
 connection (abstract)
 la connessione
-
-character (film)
-il protaganista
 
 agent
 l'agente
@@ -5790,12 +5451,6 @@ fare notare; indicare; sottolineare
 
 to underline
 sottolineare
-
-extroverted; outgoing
-estroverso
-
-stupid thing
-la stupidagine
 
 inherent
 inerente
@@ -5860,15 +5515,6 @@ ho avuto quello che meritavo
 end of story
 punto e basta; fine della storia
 
-New Zealand
-La Nuova Zelanda
-
-to ask questions
-fare domande
-
-to take notes
-prendere note
-
 in retrospect
 in retrospettiva; a riprensarci; ripensandoci
 
@@ -5902,14 +5548,8 @@ il bolletto
 screenplay
 la sceneggiatura
 
-to disappoint (someone)
-deludere
-
 at my expense
 a mie spese
-
-refund; reimbursement
-il rimborso
 
 voucher; coupon; credit
 il buono
@@ -5944,7 +5584,7 @@ l'automatizzazione; l'automazione; la meccanizzazione
 to establish; to build up; to constitute
 costituire
 
-solo
+solo (n)
 l'assolo
 
 guitar solo
@@ -6003,9 +5643,6 @@ lo scontro
 
 to bother; to disturb; to trouble
 scomodare
-
-to host
-ospitare
 
 confusing
 che confonde
@@ -6066,12 +5703,6 @@ la consistenza
 
 assuming that
 supponendo che
-
-disastrous
-disastroso
-
-attempt
-il tentativo
 
 slight difference
 la leggera differenza
@@ -6184,14 +5815,8 @@ olistico
 holistically
 olisticamente
 
-email
-la mail; l'email
-
 a little bit
 un po' poco
-
-believable
-credibile
 
 inner workings
 i meccanismi interni
@@ -6246,9 +5871,6 @@ banale; insignificante; triviale; futile
 
 in the afternoon
 di pomeriggio
-
-tool
-lo strumento; l'attrezzo
 
 slavery
 la schiavitù; lo schiavismo
@@ -6310,9 +5932,6 @@ la tossicità
 master's degree
 il master
 
-24/7
-24 ore su 24
-
 Balkan
 balcanica
 
@@ -6327,9 +5946,6 @@ dottorato; Dott.
 
 shopping cart
 il carrello
-
-creature
-la creatura
 
 pile; battery; stack
 la pila
@@ -6367,9 +5983,6 @@ la scaltrezza; le conoscenze di strada; la saggezza della strada
 catchy tune
 la canzone orecchiabile; la melodia orecchiabile
 
-strategy
-la strategia
-
 strategem; ruse; gimmick
 la stratagemma
 
@@ -6402,9 +6015,6 @@ la grande padronanza di
 
 that's all that matters
 tutto ciò che conta
-
-appearance; look; looks
-l'aspetto
 
 appearance; likeness
 l'apparenza
@@ -6501,9 +6111,6 @@ it's time to feed the dog
 
 Sahara desert
 il deserto del Sahara
-
-sense of humor
-l'umorismo
 
 dry sense of humor
 l’umorismo asciutto
@@ -6718,9 +6325,6 @@ oltraggioso; vergognoso
 hardest-working
 più laborioso
 
-wild
-selvaggio; scatenato
-
 wild kid
 il ragazzo selvaggio; il ragazzo scatenato
 
@@ -6778,20 +6382,11 @@ l'avviso
 parachute
 la paracadute
 
-neighborhood
-quartiere
-
 car salesman
 il venditore d'auto
 
 undercurrent; background
 il sottofondo
-
-to land
-atterare
-
-gas station
-il benzinaio
 
 cooking; deli
 la gastronomia
@@ -6835,9 +6430,6 @@ denigrare
 to belittle; to downplay; to devalue
 sminuire
 
-expiration
-la scadenza
-
 purposely; intentionally; deliberately; on purpose
 intenzionalmente; deliberatamente; apposta
 
@@ -6849,9 +6441,6 @@ la follia; la pazzia
 
 univerisity town
 la città universitaria
-
-psychiatric
-psichiatrico
 
 presenter; announcer
 il presentatore
@@ -6927,9 +6516,6 @@ la condanna
 
 trick question
 la domanda a trabocchetto
-
-implicit
-implicito
 
 to convert to (a religion)
 convertirsi a
@@ -7114,9 +6700,6 @@ offrirsi volentario
 encouraging
 incoraggiante
 
-empathetic
-empatico
-
 childhood
 l'infanzia
 
@@ -7246,9 +6829,6 @@ capire che; poter vedere che; poter sentire che
 badge; championship
 lo scudetto
 
-playlist
-la playlist
-
 to colonize
 colonizzare
 
@@ -7296,9 +6876,6 @@ l'omonimo
 
 homophone
 l’omofona
-
-obsessed
-ossessionato
 
 mixture
 la miscela
@@ -7480,9 +7057,6 @@ il deficiente
 to feel like a moron; to feel like an idiot
 sentirsi deficiente
 
-deficient; insufficient
-deficiente
-
 to suggest; to propose; to present
 prospettare
 
@@ -7598,7 +7172,7 @@ liberating
 liberatorio
 
 relief; solace; comfort
-sollievo
+il sollievo
 
 string; rope; twine
 la cordicella
@@ -7714,9 +7288,6 @@ il racconto
 by mistake
 per sbagio
 
-to waste time
-perdere tempo
-
 show (tv)
 il programma
 
@@ -7788,9 +7359,6 @@ il manubrio
 
 pedals
 i pedali
-
-vain
-vanitoso
 
 strict (person)
 severo
@@ -7864,9 +7432,6 @@ l'ortaggio; le verdure
 pedestrian
 il pedone
 
-inhabitant
-l'abitante
-
 tray
 il vassoio
 
@@ -7925,7 +7490,7 @@ private practice
 lo studio privato
 
 yard
-il cantiere
+il cantiere; il cortile
 
 organic food store
 il negozio prodotto biologico
@@ -7989,9 +7554,6 @@ l'insofferenza
 
 deceptive; tricky; misleading
 ingannevole
-
-gorgeous
-splendida; stupenda; meravigliosa; magnifica; bellissima
 
 horny; sexually aroused
 arrapato; eccitato
@@ -8155,9 +7717,6 @@ l'umidità
 vent; rash; outburst; outlet
 lo sfogo
 
-dairy
-il caseificio
-
 burning question
 la domanda scottante
 
@@ -8194,9 +7753,6 @@ il nano
 to switch to
 passare a
 
-customs
-la dogana
-
 to bribe; to corrupt; to subvert
 corrompere
 
@@ -8226,9 +7782,6 @@ la sparatoria di massa
 
 to get explained; to get an explanation about
 farsi spiegare
-
-pretentious
-pretenzioso
 
 parenthood
 la genitorialità
@@ -8464,12 +8017,6 @@ giudicante; critico
 self-righteous
 moralista
 
-arrogant; overly proud
-orgoglioso
-
-fastidious; fussy; picky
-pignolo
-
 to nitpick
 fare il pignolo
 
@@ -8667,18 +8214,6 @@ la repressione
 
 poll
 il sondaggio
-
-percentage
-la percentale
-
-bisexual
-bisessuale
-
-homophobic
-omofobico
-
-homosexuality
-l'omosessualità
 
 high-level training
 l'alta formazione
