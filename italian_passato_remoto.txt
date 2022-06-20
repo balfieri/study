@@ -590,3 +590,21 @@ cercò
 
 they searched (p.r.)
 cercarero
+
+I stopped (doing something, p.r.)
+smisi
+
+she stopped (doing something, p.r.)
+smise
+
+they stopped (doing something, p.r.)
+smisero
+
+I grew up (p.r.)
+crebbi
+
+she grew up (p.r.)
+crebbe
+
+they grew up (p.r.)
+crebbero
