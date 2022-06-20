@@ -6345,3 +6345,6 @@ la lettera
 
 smell; odor; scent
 l'odore
+
+wasp; hornet
+la vespa
