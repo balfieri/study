@@ -6351,3 +6351,6 @@ la vespa
 
 to get along
 andare d’accordo
+
+insect
+l'insetto
