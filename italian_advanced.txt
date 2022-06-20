@@ -8335,3 +8335,6 @@ il canottaggio
 
 boxing
 il pugilato
+
+to listen closely
+ascoltare attentamente
