@@ -6339,3 +6339,9 @@ la volta
 
 story; history
 la storia
+
+letter
+la lettera
+
+smell; odor; scent
+l'odore

@@ -6167,7 +6167,7 @@ cool; cool and collected; casual; flippant
 disinvolto
 
 portable; laptop
-portatile
+portatile; portabile
 
 to detach; to tear off; to tear; to rip
 staccare
@@ -8340,7 +8340,7 @@ recreational
 ricreativo
 
 bank teller
-lo sportellista
+l'impiegato di banco
 
 manuscript
 il manoscritto
@@ -8350,3 +8350,18 @@ anticonvenzionale
 
 Puerto Rican
 portoricano
+
+in the (formal)
+presso
+
+personal computer
+il personal computer; il computer privato
+
+smelly
+puzzolente
+
+to harm; to damage
+nuocere
+
+basement
+la cantina
