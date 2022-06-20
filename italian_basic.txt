@@ -184,7 +184,7 @@ grasso
 thin
 magro
 
-big
+big; large
 grande
 
 small
@@ -715,7 +715,7 @@ ridere
 to smile
 sorridere
 
-job
+job; work
 il lavoro
 
 to work
@@ -4246,9 +4246,6 @@ il vaporetto
 kiss
 il baccio
 
-time (as in how many times)
-la volta
-
 past (n)
 il passato
 
@@ -4548,9 +4545,6 @@ miliardo
 
 first
 primo
-
-second
-secondo
 
 third
 terzo
@@ -6252,3 +6246,96 @@ l'affitto
 
 war
 la guerra
+
+peace
+la pace
+
+however; but
+però
+
+case (abstract)
+il caso
+
+politics
+la politica
+
+why; because
+perché
+
+when
+quando
+
+how
+come
+
+already
+già
+
+still
+ancora
+
+always; at all times
+sempre
+
+year
+l'anno
+
+according to; second (adj)
+secondo
+
+how much
+quanto
+
+everything
+tutto
+
+everybody
+tutti
+
+that (referring to prepositional phrase)
+ciò
+
+where
+dove
+
+who
+chi
+
+form
+la forma
+
+even (prep.)
+pure
+
+ever; never
+mai
+
+end
+la fine
+
+less
+meno
+
+society
+la società
+
+place
+il luogo
+
+some
+alcuni; qualche
+
+generale (adj)
+generale
+
+system
+il sistema
+
+law
+la legge
+
+time (instance)
+la volta
+
+story; history
+la storia
