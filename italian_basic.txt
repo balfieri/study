@@ -6249,3 +6249,6 @@ trasferire
 
 rent; tenancy
 l'affitto
+
+war
+la guerra
