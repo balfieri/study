@@ -6348,3 +6348,6 @@ l'odore
 
 wasp; hornet
 la vespa
+
+to get along
+andare d’accordo
