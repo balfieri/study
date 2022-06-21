@@ -8393,7 +8393,7 @@ sfocato
 to support (physically); to support an enterprise
 appoggiare
 
-enterprise
+enterprise; company; venture
 l'impresa
 
 to knead the dough (bread)
@@ -8401,3 +8401,6 @@ lavorare l'impasto
 
 to knead the dough (pasta)
 impastare (gli ingredienti)
+
+push mower
+il tagliaerba a spinta
