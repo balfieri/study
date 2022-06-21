@@ -3931,7 +3931,7 @@ la vasca; la vasca da bagno
 stove
 il fornello
 
-carpet
+carpet; rug
 il tappeto; la moquette
 
 computer
