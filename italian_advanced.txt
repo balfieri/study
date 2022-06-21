@@ -8419,3 +8419,6 @@ l'acqua di pozzo
 
 drinking water
 l'acqua potabile
+
+wild
+selvaggio; selvetico
