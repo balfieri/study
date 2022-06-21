@@ -8383,3 +8383,9 @@ trasparire
 
 to become conscious of
 prendere coscienza di
+
+fuzzy idea
+l'idea sfocata
+
+fuzzy; blurry; vague
+sfocato
