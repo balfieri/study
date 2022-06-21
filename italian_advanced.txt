@@ -8422,3 +8422,6 @@ l'acqua potabile
 
 wild
 selvaggio; selvetico
+
+to reorganize
+riorganizzare
