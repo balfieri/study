@@ -6354,3 +6354,6 @@ andare d’accordo
 
 insect
 l'insetto
+
+wealth
+la ricchezza

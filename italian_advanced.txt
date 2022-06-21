@@ -2164,7 +2164,7 @@ l'origine; la provenienza
 to promote
 promuovere
 
-to lift; to support; to back
+to support; to back
 sostenere
 
 sexual partner
@@ -6901,7 +6901,7 @@ assordante
 legislature
 la legislatura
 
-to confirm; to reaffirm; to affirm
+to reiterate; to stress; to confirm; to reaffirm; to affirm
 ribadire
 
 indirect
@@ -8404,3 +8404,6 @@ impastare (gli ingredienti)
 
 push mower
 il tagliaerba a spinta
+
+supporter
+il sostenitore
