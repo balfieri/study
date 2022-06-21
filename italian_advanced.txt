@@ -2164,7 +2164,7 @@ l'origine; la provenienza
 to promote
 promuovere
 
-to support; to back
+to lift; to support; to back
 sostenere
 
 sexual partner
@@ -8389,3 +8389,15 @@ l'idea sfocata
 
 fuzzy; blurry; vague
 sfocato
+
+to support (physically); to support an enterprise
+appoggiare
+
+enterprise
+l'impresa
+
+to knead the dough (bread)
+lavorare l'impasto
+
+to knead the dough (pasta)
+impastare (gli ingredienti)
