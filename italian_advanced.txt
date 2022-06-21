@@ -2504,7 +2504,7 @@ related (family)
 imparentato
 
 related (ideas); connected
-connesso; collegato
+correlato; legato; connesso; collegato
 
 baby steps
 i primi passi; i piccoli passi
@@ -8425,3 +8425,6 @@ selvaggio; selvetico
 
 to reorganize
 riorganizzare
+
+perimeter
+il perimetro
