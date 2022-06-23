@@ -6220,9 +6220,6 @@ scaldarsi
 to reheat
 riscaldare
 
-to write down
-segnarsi
-
 to surprise
 sorprendere
 
