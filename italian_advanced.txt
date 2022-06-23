@@ -8503,3 +8503,6 @@ ostinato
 
 to split the difference
 dividere la differenza
+
+to discern
+discernere
