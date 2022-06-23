@@ -6316,7 +6316,7 @@ la fine
 less
 meno
 
-society
+society; conglomerate
 la società
 
 place
@@ -6372,3 +6372,9 @@ prendere classi; prendere lezioni
 
 argument; squabble; quarrel
 il litigio
+
+healthy food
+il cibo sano
+
+corporation
+la corporazione

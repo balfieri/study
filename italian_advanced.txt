@@ -8426,7 +8426,7 @@ selvaggio; selvetico
 to reorganize
 riorganizzare
 
-perimeter
+perimeter; border
 il perimetro
 
 lawn service
@@ -8482,3 +8482,21 @@ la partitura
 
 to mold; to form; to shape
 plasmare
+
+footprint
+l'impronta
+
+start-up
+l'avviamento; lo start-up
+
+small company
+l'azienda
+
+bass lick
+il giro di basso
+
+draft; proof
+la bozza
+
+adamant; obstinate
+ostinato
