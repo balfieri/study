@@ -1201,7 +1201,7 @@ il congedo
 as long as; only if; provided
 purché; a patto che; a condizione che
 
-of others
+of others; other's; others'
 altrui
 
 to be quiet
@@ -8486,6 +8486,9 @@ plasmare
 footprint
 l'impronta
 
+carbon footprint
+l'imporonta di carbonio
+
 start-up
 l'avviamento; lo start-up
 
@@ -8506,3 +8509,9 @@ dividere la differenza
 
 to discern
 discernere
+
+to satisfy; to please
+accontentare
+
+misfortune of others
+la sfortuna altrui
