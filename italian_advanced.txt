@@ -8500,3 +8500,6 @@ la bozza
 
 adamant; obstinate
 ostinato
+
+to split the difference
+dividere la differenza
