@@ -274,7 +274,7 @@ buono
 bad
 cattivo
 
-well
+well (adv)
 bene
 
 badly
