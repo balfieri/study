@@ -7201,7 +7201,7 @@ ritrarre
 to start; to begin; to lead off
 incominciare
 
-to gape; to open wide; to fling open
+to throw open; to gape; to open wide; to fling open
 spalancare
 
 to land; to dock; to shore
@@ -8713,9 +8713,6 @@ presentare una domanda
 
 shortly after that
 poco dopo
-
-to throw open
-spalanciare
 
 fight; brawl
 la rissa
