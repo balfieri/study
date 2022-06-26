@@ -392,7 +392,7 @@ copyright
 il diritto d'autore
 
 citizenship by descent
-la cittadinanza per descendenza
+la cittadinanza per discendenza
 
 also known as
 conosciuto anche come
@@ -3095,7 +3095,7 @@ at first glance; at first sight
 a prima vista
 
 in the short term
-nel breve
+nel breve; a breve termine
 
 for better or worse
 nel bene e nel male
@@ -3865,7 +3865,7 @@ il senno
 to start out
 prendere le mosse
 
-to concern; to pertain; to encompass
+to concern; to pertain; to encompass; to rewatch
 riguardare
 
 to enhance; to increase; to heighten
@@ -8713,3 +8713,33 @@ presentare una domanda
 
 shortly after that
 poco dopo
+
+to throw open
+spalanciare
+
+fight; brawl
+la rissa
+
+contraceptive
+anticoncezionale
+
+contraception
+la contraccezione
+
+total sense
+il senso completo
+
+antonynm
+il contrario; l'antonimo
+
+styrofoam
+il polistirolo
+
+drought
+la siccità
+
+drought (adj)
+siccitoso
+
+consumables
+i consumi
