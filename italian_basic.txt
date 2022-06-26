@@ -3380,7 +3380,10 @@ to open
 aprire
 
 to leave (go)
-partire; andarsene
+partire
+
+to go away; to leave
+andarsene
 
 to offer
 offrire
@@ -5182,9 +5185,6 @@ paranoico
 fearful
 pauroso
 
-repentant
-pentito
-
 flat
 piatto
 
@@ -6378,3 +6378,6 @@ la corporazione
 
 to work from home
 lavorare da casa
+
+out of style
+fuori moda

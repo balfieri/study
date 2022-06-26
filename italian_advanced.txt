@@ -466,9 +466,6 @@ vagare
 to pull over
 accostare
 
-soaring
-l'impennata
-
 to stem
 arginare
 
@@ -2599,7 +2596,7 @@ la compressa
 announcement
 la novità
 
-deepening; amplification
+insight; deepening; amplification
 l'approfondimento
 
 air traffic control
@@ -2641,7 +2638,7 @@ la rivincita
 to equip selfish
 dotarsi
 
-to snort
+to snort; to puff
 sbuffare
 
 purposely; particularly; seriously
@@ -6754,9 +6751,6 @@ le manette
 enrollment
 l'arruolamento
 
-to overturn
-rovesciare
-
 ashtray
 il posacenere; il portacenere
 
@@ -8578,3 +8572,144 @@ il disadatto
 
 whenever possible
 quando possibile
+
+same-sex marriage
+il matrimonio omosessuale
+
+gay rights
+i diritti dei gay
+
+chopping block
+il ceppo
+
+summary
+il riassunto; il sommario
+
+abortion pill
+la pillola abortiva
+
+to undertake
+intraprendere
+
+deforestation
+il disboscamento
+
+actionable
+attuabile
+
+non actionable
+inattuabile; non attuabile
+
+to refuel; to fill up
+fare il pieno
+
+pedometer
+il contapassi
+
+diet
+l'alimentazione
+
+to strengthen
+potenziare
+
+branded
+brandizzato
+
+selectable
+selezionabili
+
+focused
+incentrato
+
+to keep track
+tenere traccia
+
+surge; soaring
+l'impennata
+
+congested
+intasato
+
+familiarity
+la dimestichezza
+
+to lie down
+sdraiarsi
+
+enclosure
+la clausura
+
+messaging
+la messaggistica
+
+to lighten
+alleggerire
+
+census
+il censimento
+
+not (stronger)
+mica
+
+to gather together
+radunare
+
+of today
+odierno
+
+to knock over; to overturn
+rovesciare
+
+broken heart
+il cuore spezzato
+
+that's no small feat; it's no small thing
+non è da poco; non è una cosa da poco
+
+decision (judicial)
+la sentenza
+
+funny; unusual; abnormal
+inconsueto
+
+lexicon
+il lessico
+
+pink quotas (female representation)
+le quote rose
+
+to preside
+presiedere
+
+to harmonize
+armonizzare
+
+shareholder; stockholder
+l'azionista
+
+further ideas
+gli spunti ulteriori
+
+rate
+il tasso
+
+hymn; anthem
+inno
+
+to enrapture; to rapture
+estasiare
+
+repentant; contrite
+pentito
+
+sonorous
+sonoro
+
+on a diet
+a dieta
+
+to submit an application
+presentare una domanda
+
+shortly after that
+poco dopo
