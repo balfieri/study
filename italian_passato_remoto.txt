@@ -608,3 +608,12 @@ crebbe
 
 they grew up (p.r.)
 crebbero
+
+I defeated (p.r.)
+sconfissi
+
+she defeated (p.r.)
+sconfisse
+
+they defeated (p.r.)
+sconfissero
