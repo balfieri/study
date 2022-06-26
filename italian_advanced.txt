@@ -8740,3 +8740,6 @@ siccitoso
 
 consumables
 i consumi
+
+to go too far
+andare lontano
