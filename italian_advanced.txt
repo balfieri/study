@@ -8782,3 +8782,12 @@ vorrei aver conferma
 
 to take into account; to bear in mind
 tenere conto
+
+bundle
+il fascio
+
+contradiction
+la contraddizione
+
+bundle of contradictions
+il fascio di contraddizioni
