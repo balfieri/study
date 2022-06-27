@@ -8800,3 +8800,9 @@ il disturbo bipolare
 
 manic-depressive
 maniaco-depressivo
+
+prediction
+la previsione
+
+to make predictions
+fare previsioni
