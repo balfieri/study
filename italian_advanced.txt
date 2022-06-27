@@ -8806,3 +8806,9 @@ la previsione
 
 to make predictions
 fare previsioni
+
+pitcher (baseball)
+il lanciatore
+
+coach
+l'allenatore
