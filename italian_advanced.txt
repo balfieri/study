@@ -262,12 +262,6 @@ il legopedista
 simultaneously
 in contemporanea
 
-through (starts with a)
-attraverso
-
-through (starts with t)
-tramite
-
 so that; in order to
 affinché
 
@@ -4612,9 +4606,6 @@ il processo d'impeachment
 to impeach
 incriminare; mettere sotto accusa
 
-issue
-la questione
-
 maybe; perhaps; possibly; it could be; it might be
 può darsi
 
@@ -4815,9 +4806,6 @@ per iniziare
 
 secondly; in the second place
 in secondo luogo
-
-therefore; hence
-dunque
 
 on one hand
 da una parte; da un lato
@@ -5067,9 +5055,6 @@ malgrado
 
 although; though; in spite of
 sebbene
-
-nevertheless
-tuttavia; eppure
 
 alike; as well; similarly
 allo stesso modo
@@ -6012,9 +5997,6 @@ l'ateista; l'ateo
 
 agnostic
 agnostico
-
-research; search; quest
-la ricerca
 
 search engine
 il motore di ricerca
@@ -8344,9 +8326,6 @@ anticonvenzionale
 
 Puerto Rican
 portoricano
-
-in the (formal)
-presso
 
 personal computer
 il personal computer; il computer privato

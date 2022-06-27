@@ -1057,7 +1057,7 @@ la finestra
 door
 la porta
 
-floor
+floor; plan
 il piano
 
 pavement; floor
@@ -2071,7 +2071,7 @@ il bosco
 bush
 il cespuglio
 
-field
+field; camp
 il campo
 
 bank (of river); edge
@@ -5398,7 +5398,7 @@ nazionale
 civil
 civile
 
-public
+public; audience
 pubblico
 
 such
@@ -6381,3 +6381,198 @@ lavorare da casa
 
 out of style
 fuori moda
+
+moment
+il momento
+
+reality
+la realtà
+
+above all
+soprattutto
+
+example
+l'esempio
+
+social
+sociale
+
+man
+l'uomo
+
+men
+gli uomini
+
+value; worth; merit
+il valore
+
+across
+attraverso
+
+order
+l'ordine
+
+very; quite; extremely
+assai
+
+beyond
+oltre
+
+work (of art, music)
+l'opera
+
+number
+il numero
+
+possible
+possibile
+
+therefore; hence; thus
+dunque
+
+in the (formal)
+presso
+
+development
+lo sviluppo
+
+it (formal); he; that
+esso
+
+they (formal)
+essi
+
+condition
+la condizione
+
+together
+insieme
+
+type
+il tipo
+
+government
+il governo
+
+character
+il carattere
+
+some (starts with a)
+alcuni
+
+side; parte
+la parte
+
+ground; earth
+la terra
+
+grade; degree
+il grado
+
+nevertheless
+tuttavia; eppure
+
+matter; subject; material
+la materia
+
+kind; species
+la specie
+
+freedom
+la libertà
+
+action
+l'azione
+
+relation
+la relazione
+
+act
+l'atto
+
+nothing
+nulla; niente
+
+bottom
+il fondo
+
+interest
+l'interesse
+
+word
+la parola
+
+Florence
+Firenze
+
+element
+l'elemento
+
+view
+la vista
+
+situation
+la situazione
+
+Turin
+Torino
+
+presence
+la presenza
+
+text; lyrics
+il testo
+
+person
+la persona
+
+culture
+la culture
+
+cause
+la causa
+
+process
+il processo
+
+production
+la produzione
+
+during
+durante
+
+kind; gender
+il genere
+
+in kind; in general
+in genere
+
+thought
+il pensiero
+
+issue
+la questione
+
+at least
+almeno
+
+front
+la fronte
+
+Naples
+Napoli
+
+research; search; quest
+la ricerca
+
+place
+il posto
+
+term
+il termine
+
+series
+la serie
+
+through
+tramite
