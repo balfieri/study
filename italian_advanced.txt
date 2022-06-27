@@ -8827,3 +8827,6 @@ il sesso riparatore; il sesso riconciliatore
 
 patriot
 il patriota
+
+patriotic
+patriottico
