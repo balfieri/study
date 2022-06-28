@@ -8836,3 +8836,21 @@ il controllo delle armi
 
 overturning
 il rovesciamento
+
+townhouse
+la casa a schiera
+
+oak tree
+la quercia
+
+pine tree
+il pino
+
+trunk (tree)
+il tronco
+
+sore
+dolorante
+
+acre
+l’acro
