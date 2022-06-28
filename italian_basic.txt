@@ -469,7 +469,7 @@ prendersi in giro
 ride; round
 il giro
 
-tour
+trip; excursion
 la gita
 
 hotel
