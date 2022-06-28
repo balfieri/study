@@ -8854,3 +8854,9 @@ dolorante
 
 acre
 l’acro
+
+quotes; quotation marks
+le virgolette
+
+double quotes
+le virgolette doppie
