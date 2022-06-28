@@ -8866,3 +8866,6 @@ tra virgolette
 
 bike ride
 il giro di bici
+
+mortgage
+il mutuo; l'ipoteca
