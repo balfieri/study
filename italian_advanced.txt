@@ -4036,7 +4036,7 @@ tergere
 just in case
 solo nel caso
 
-charge; errand; assignment
+assignment; charge; errand
 l'incarico
 
 to arrange; to lay; to provide; to put in order
@@ -8833,3 +8833,6 @@ patriottico
 
 gun control
 il controllo delle armi
+
+overturning
+il rovesciamento
