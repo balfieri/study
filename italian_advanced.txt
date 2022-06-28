@@ -8863,3 +8863,6 @@ le virgolette doppie
 
 in quotes
 tra virgolette
+
+bike ride
+il giro di bici

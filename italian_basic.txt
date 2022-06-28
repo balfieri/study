@@ -470,7 +470,7 @@ ride; round
 il giro
 
 tour
-la gira
+la gita
 
 hotel
 l'albergo; l'hotel
