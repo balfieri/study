@@ -1993,9 +1993,6 @@ ristabilire
 eminent; outstanding; distinguished
 eminente
 
-sharp; clear
-nitido
-
 hazy; dim
 offuscato
 
@@ -8864,9 +8861,6 @@ le virgolette doppie
 in quotes
 tra virgolette
 
-bike ride
-il giro di bici
-
 mortgage
 il mutuo; l'ipoteca
 
@@ -8878,3 +8872,78 @@ la soffita; l'attico
 
 House of Representatives
 La Camera dei Rappresentanti
+
+to sow (seeds)
+piantare; seminare
+
+The Security Council
+Consiglio di Sicurezza
+
+U.N.
+l'ONU
+
+recovery
+il guarigione
+
+hail
+la grandine
+
+overalls
+le tute
+
+housewife; housekeeper; homemaker
+la massaia
+
+hatchback; tailgate
+Il portellone
+
+fuselage
+la fusoliera
+
+fleet
+la flotta
+
+there was to do
+c'era da fare
+
+classroom
+l'aula
+
+ticket; coupon
+il tagliando
+
+damage; failure; breakdown
+l'avaria
+
+wear; fatigue
+l'usura
+
+facade
+la facciata
+
+statuesque
+scultoreo
+
+mallet
+il mazzuolo
+
+chisel; scalpel
+lo scalpello
+
+graffiti
+il graffito
+
+clear; sharp; tight
+nitido
+
+unfortunate person; victim
+il malcapitato
+
+this; he
+costui
+
+to immortalize; to eternalize
+immortalize
+
+over the line
+oltre il limite

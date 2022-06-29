@@ -6582,3 +6582,9 @@ sacro
 
 storm
 la tempesta
+
+bike ride
+il giro di bici
+
+seeds
+i semi
