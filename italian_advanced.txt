@@ -8947,3 +8947,6 @@ immortalize
 
 over the line
 oltre il limite
+
+manuscript
+il manuscritto
