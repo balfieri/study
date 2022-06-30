@@ -8038,7 +8038,7 @@ l'allievo
 incinerator
 l'incineratore
 
-following
+in tow; following
 al seguito
 
 following day; next day
@@ -8962,3 +8962,6 @@ il bersaglio
 
 militia
 la milizia
+
+to skin
+scuoiare
