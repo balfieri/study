@@ -8965,3 +8965,6 @@ la milizia
 
 to skin
 scuoiare
+
+to channel
+incanalare; canalizzare
