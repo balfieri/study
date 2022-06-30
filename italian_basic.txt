@@ -1384,7 +1384,7 @@ comprese
 pork
 carne di maiale
 
-to shoot
+to shoot; to fire
 sparare
 
 to look like
