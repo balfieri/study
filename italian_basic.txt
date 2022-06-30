@@ -983,7 +983,7 @@ brother
 il fratello
 
 parent
-il genitoro
+il genitore; la genitrice
 
 grandfather
 il nonno
