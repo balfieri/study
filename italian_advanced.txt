@@ -4252,7 +4252,7 @@ ambientare
 screenwriter
 il sceneggiatore
 
-broken (dreams); shattered
+broken (dreams); shattered; infringed
 infranto
 
 understanding; agreement
@@ -7870,7 +7870,7 @@ la prospettiva
 change of perspective
 il cambio di prospettiva
 
-to destroy; to break up
+to destroy; to break up; to infringe
 distruggere; infrangere; rovinare
 
 to tame
@@ -8959,3 +8959,6 @@ l'autodifesa
 
 target
 il bersaglio
+
+militia
+la milizia
