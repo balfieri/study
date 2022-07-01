@@ -8971,3 +8971,6 @@ incanalare; canalizzare
 
 without filter
 senza filtri
+
+visual cues
+i segnali visivi
