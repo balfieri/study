@@ -2578,9 +2578,6 @@ il divieto di sosta
 bandage
 la fascia
 
-life sentence
-l'ergastolo
-
 tablet (pill)
 la compressa
 
@@ -8977,3 +8974,51 @@ i segnali visivi
 
 foster child
 il bambino affidato; il bambino in affidamento
+
+bar; pub
+la taverna
+
+vasectomy
+la vasectomia
+
+pinball
+il flipper
+
+waiting with baited breath
+aspettando col fiato sospeso
+
+outside the scope of
+fuori dall'ambito di
+
+dead tired
+stanco morto
+
+more importantly
+ancora più importante; cosa più importante
+
+that's a good start
+è un buon inizio
+
+eagle; hawk
+l'aquila
+
+gland
+la ghiandola
+
+dysfunctional
+disfunzionale
+
+life imprisonment; life in prison; life sentence
+l'ergastolo
+
+death penalty; capital punishment
+la pena di morte
+
+countyy
+la contea
+
+irritable
+irritabile
+
+irascible
+irascibile
