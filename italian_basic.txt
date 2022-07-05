@@ -841,9 +841,6 @@ il letto
 blanket
 la coperta
 
-pillow
-il cuscino
-
 to go to bed
 andare al letto
 
@@ -6588,3 +6585,9 @@ il giro di bici
 
 seeds
 i semi
+
+cushion
+il cuscino
+
+pillow
+il cuscino; il guanciale
