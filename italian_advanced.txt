@@ -355,7 +355,7 @@ l'aeroclub
 Sardinian
 sardo
 
-to belong to
+to belong to; to belong in
 appartenere a
 
 to rotate
@@ -9052,3 +9052,18 @@ precedentemente
 
 talent
 il talento
+
+flat-earther
+il terrapiattista
+
+edge of the world
+il confine del mondo
+
+you'll have to take your chances
+dovrai correre i tuoi rischi
+
+to wear orthotics
+indossare plantari
+
+flat feet
+i piedi piatti
