@@ -5183,7 +5183,7 @@ fearful
 pauroso
 
 flat
-piatto
+piatto; piano
 
 spicy
 piccante
