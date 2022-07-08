@@ -9109,3 +9109,6 @@ una brutta giornata per i capelli
 
 dementia
 la demenza
+
+attachment
+l'attaccamento; l'allegato
