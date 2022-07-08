@@ -9121,3 +9121,6 @@ il millionario
 
 multimillionaire
 il multimillionario
+
+billionaire
+il miliardario
