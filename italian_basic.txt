@@ -5155,7 +5155,7 @@ lodevole
 loquacious
 loquace
 
-luxurious
+luxurious; fancy
 lussuoso
 
 malicious
