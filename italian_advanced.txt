@@ -6676,9 +6676,6 @@ casualmente
 point of view
 il punto di vista
 
-sibling
-il consanguineo
-
 rectory
 canonica
 
@@ -9103,3 +9100,6 @@ il montanaro; il buzzurro
 
 genitalia
 i genitali
+
+blood relative; sibling
+il consanguineo
