@@ -2818,9 +2818,6 @@ il tuono
 bright
 luminoso
 
-storm
-il temporale
-
 it's raining
 piove
 
@@ -6578,7 +6575,7 @@ sacred
 sacro
 
 storm
-la tempesta
+la tempesta; il temporale
 
 bike ride
 il giro di bici
