@@ -4201,7 +4201,7 @@ l'idea
 departure
 la partenza
 
-stop (flight)
+stop; rest; break
 la sosta
 
 service

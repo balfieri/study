@@ -3982,9 +3982,6 @@ accludere
 to circle; to surround
 cingere
 
-to ache; to hurt
-dolere
-
 to cast; to melt; to fuse
 fondere
 
@@ -6997,9 +6994,6 @@ la sicurezza di sé; l'autostima
 to evangelize
 evangelizzare
 
-shrub
-l'arbusto; il cespuglio
-
 shrill
 stridulo; acuto; squillante
 
@@ -9157,3 +9151,93 @@ teso; rigido; nervoso
 
 not that there's anything wrong with that
 non che ci sia qualcosa di sbagliato in questo
+
+sandwich; club sandwich
+il tramezzino
+
+tasty; delicious
+sfizioso
+
+hearth; fireside
+il focolare
+
+furniture; furnishing; decor
+l'arredo
+
+famous; renowned; celebrated
+celebre
+
+heir
+l'erede
+
+stacks
+gli scaffali
+
+dense; thick
+fitto
+
+Zurich
+Zurigo
+
+to go out on your own
+mettersi in proprio
+
+bookbinding; bindery; bookbindery
+la legatoria
+
+start; startup; beginning
+l'avvio
+
+path; trail; track
+il sentiero
+
+collision; push; shock
+l'urto
+
+to weave; to braid
+intrecciare
+
+moment; instant
+l'attimo
+
+hum; drone; buz
+il ronzio
+
+course; trend; progress
+l'andamento
+
+laden
+imbandito
+
+to ache; to hurt
+dolere
+
+to clutch; to grasp
+avvinghiare
+
+coiled up
+acciambellato
+
+bush; shrub
+l'arbusto; il cespuglio
+
+evanescent; fading; vanishing
+evanescente
+
+hermitage
+l'eremitaggio
+
+sunflower
+il girasole
+
+gate
+il cancello
+
+cage; hutch
+la gabbia
+
+chick
+il pulcino
+
+muffled
+ovattato
