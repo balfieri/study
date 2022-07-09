@@ -6700,9 +6700,6 @@ intimare
 guy; dude
 il tizio
 
-to trail (someone)
-pedinare
-
 bumper sticker
 l'adesivo per paraurti; l'autoadesivo
 
@@ -9139,3 +9136,21 @@ la tavola per pulire
 
 better than nothing
 meglio di niente
+
+wish me luck
+augurami buona fortuna
+
+you just figured that out?
+l'hai appena capito?; l'hai appena scoperto?
+
+prosecution
+la procura
+
+to tattoo
+tatuaare
+
+branch
+il ramo
+
+to trail; to follow
+pedinare
