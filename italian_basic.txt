@@ -364,8 +364,11 @@ la forchetta
 knife
 il coltello
 
-scoop (of ice cream)
+taste; scoop (of ice cream)
 il gusto
+
+flavore
+il sapore
 
 traffic light
 il semaforo
@@ -6591,3 +6594,6 @@ il cuscino; il guanciale
 
 all good; everything's fine
 tutto a posto; tutto ok
+
+plastic
+la plastica

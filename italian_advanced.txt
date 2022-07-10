@@ -2521,9 +2521,6 @@ logorare
 right or wrong
 a torto o a ragione
 
-to abstain
-astenersi
-
 to stand out
 spiccare
 
@@ -9271,3 +9268,24 @@ ne sono orgoglioso; sono orgoglioso di questo
 
 dating relationship
 la relazione di appuntamenti
+
+sticky; tacky; clingy
+appiccioso
+
+shocking; disconcerting
+sconvolgente
+
+to upset; to disturb; to perturb
+sconvolgere
+
+to cease
+cessare
+
+to abstain; to refrain
+astenersi
+
+to trigger; to prime
+innescare
+
+lasting; durable
+duraturo
