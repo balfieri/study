@@ -1759,7 +1759,7 @@ timido
 strong
 forte
 
-touchy; sensitive
+touchy; sensitive; prickly
 permaloso
 
 annoying
@@ -6597,3 +6597,6 @@ tutto a posto; tutto ok
 
 plastic
 la plastica
+
+some day
+un giorno o l'altro; un giorno

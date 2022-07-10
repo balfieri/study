@@ -4135,7 +4135,7 @@ praticabile; fattibile; realizzabile; attuabile
 crude (tactless)
 grezzo; crudo
 
-prohibition
+prohibition; ban
 il divieto
 
 believe it or not
@@ -8417,8 +8417,8 @@ premiare
 fence; wall; rail
 lo steccato
 
-dettare
 to dictate
+dettare
 
 record player; phonograph
 il giradischi
@@ -9289,3 +9289,57 @@ innescare
 
 lasting; durable
 duraturo
+
+downward spiral
+la spirale discendente
+
+to put an end to
+porre fine a
+
+to draw near; to bring together; to approximate
+ravvicinare
+
+involuntarily
+involontariamente
+
+spouse (starts with c)
+il congiuge
+
+flourishing; blooming
+fiorente
+
+sexually suggestive
+sessualmente suggestivo
+
+to digest; to drain; to swallow
+smaltire
+
+it draws attention to itself
+attira l'attenzione su di sé
+
+eyebrows
+le sopracciglia
+
+to weight; to burden
+appesantire
+
+to bind; to link; to oblige
+vincolare
+
+to replace; to succeed; to take over
+subentrare
+
+to invalidate
+inficiare
+
+to hijack; to divert; to reroute
+dirottare
+
+to hang out; to gallavant
+bazzicare
+
+unrealistic
+irrealistico
+
+to flirt
+flirtare
