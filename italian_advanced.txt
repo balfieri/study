@@ -9391,3 +9391,6 @@ e infatti
 
 health scare
 lo spavento di salute
+
+to take a look
+dare un'occhiata
