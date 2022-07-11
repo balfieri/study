@@ -1420,7 +1420,7 @@ la lettura
 spicy
 speziato
 
-eventually; finally; in the end
+eventually; finally; in the end; ultimately
 infine
 
 windy
@@ -8618,9 +8618,6 @@ il cuore spezzato
 that's no small feat; it's no small thing
 non è da poco; non è una cosa da poco
 
-decision (judicial)
-la sentenza
-
 funny; unusual; abnormal
 inconsueto
 
@@ -9352,3 +9349,30 @@ non hai idea!
 
 you'll miss me when I'm dead
 ti mancherò quando sarò morto
+
+it's getting there
+ci sta arrivando
+
+braid; pigtail
+la treccia
+
+volume; bulk
+il volume
+
+reference
+il riferimento
+
+subsection; article
+la comma
+
+hypotesis
+l'ipotesi
+
+by means of
+mediante
+
+decree
+il decreto
+
+clashes
+i confronti

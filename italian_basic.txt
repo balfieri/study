@@ -4432,7 +4432,7 @@ la spesa
 take-away
 da portare via; da asporto
 
-knowledge
+knowledge; acquaintance
 la conoscenza
 
 noon; midday
@@ -5434,7 +5434,7 @@ centrale
 main
 principale
 
-previous; preceding; prior
+previous; preceding; prior; former
 precedente
 
 military (adj)
@@ -6058,7 +6058,7 @@ la creatura
 strategy
 la strategia
 
-appearance; look; looks
+aspect; appearance; look; looks
 l'aspetto
 
 sense of humor
@@ -6600,3 +6600,75 @@ la plastica
 
 some day
 un giorno o l'altro; un giorno
+
+precisely; exactly
+appunto
+
+will; willingness
+la volontà
+
+precedent
+il precedente
+
+conscience; consciousness; awareness
+la coscenza
+
+difficulty
+la difficoltà
+
+economy; economics
+l'economia
+
+market
+il mercato
+
+wave
+l'onde
+
+consequence
+la conseguenza
+
+contract
+il contratto
+
+theory
+la teoria
+
+analysis
+l'analisi
+
+tradition
+la tradizione
+
+occasion
+l'occasione
+
+crisis
+la crisi
+
+construction
+la costruzione
+
+sentence; verdict
+la sentenza
+
+experience
+l'esperienza
+
+limit
+il limite
+
+any
+qualsiasi
+
+disposition
+la disposizione
+
+doubt
+il dubbio
+
+norm
+la norma
+
+article
+l'articolo
