@@ -8558,7 +8558,7 @@ fare il pieno
 pedometer
 il contapassi
 
-diet
+diet; nutrition
 l'alimentazione
 
 to strengthen
