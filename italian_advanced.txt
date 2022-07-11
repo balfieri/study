@@ -3343,7 +3343,7 @@ il parato
 employment; job
 l'impiego
 
-trend
+trend; tendancy
 la tendenza
 
 plot
