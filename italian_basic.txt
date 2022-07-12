@@ -6675,3 +6675,6 @@ l'articolo
 
 to forgive
 perdonare
+
+deaf
+sordo
