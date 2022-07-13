@@ -592,9 +592,6 @@ il depliant
 half the time
 nella metà del tempo
 
-button
-il tasto
-
 icon
 una icona
 
@@ -9424,3 +9421,45 @@ sbarazzarsi di
 
 it's like the blind leading the deaf
 è come il cieco che guida il sordo
+
+resident (medical)
+lo specializzando
+
+to quadruple
+quadroplicare
+
+science fiction
+la fantascienza
+
+landscape
+il paesaggio
+
+to surf the internet
+navigare l'internet
+
+I don't know where to begin
+non so da dove cominciare
+
+to reveal
+svelare
+
+pros and cons
+i pro a contro
+
+on guard
+in guardia
+
+today like no other
+mai come oggi
+
+indignant
+indignato
+
+key (of keyboard); button
+il tasto
+
+surgical
+chiurgico
+
+surgery
+la chiurgia

@@ -6678,3 +6678,6 @@ sordo
 
 vineyard
 il vigneto
+
+by mail
+per posta
