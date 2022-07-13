@@ -9486,4 +9486,4 @@ self-driving car
 l'auto a guida autonoma
 
 pickup truck
-l'SUV
+il pick up
