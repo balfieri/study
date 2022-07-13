@@ -8921,9 +8921,6 @@ immortalare; eternare
 over the line
 oltre il limite
 
-manuscript
-il manuscritto
-
 firing range; shooting range; polygon
 il poligono
 
@@ -9489,4 +9486,4 @@ self-driving car
 l'auto a guida autonoma
 
 pickup truck
-il camioncino
+l'SUV
