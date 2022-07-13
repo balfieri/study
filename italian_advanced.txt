@@ -9478,3 +9478,6 @@ l'ottuagenario
 
 nonagenerian
 l'nonagenario
+
+naturalized citizen
+il cittadino naturalizzato
