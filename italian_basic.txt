@@ -4252,9 +4252,6 @@ il passato
 habit
 l'abitudine
 
-vineyard
-il vignetto
-
 go straight ahead
 andare dritto; andare sempre dritto
 
@@ -6678,3 +6675,6 @@ perdonare
 
 deaf
 sordo
+
+vineyard
+il vigneto
