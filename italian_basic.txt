@@ -6681,3 +6681,9 @@ il vigneto
 
 by mail
 per posta
+
+caffeine
+la caffeina
+
+caffeinated
+caffeinato
