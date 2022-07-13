@@ -9461,5 +9461,11 @@ il tasto
 surgical
 chiurgico
 
-surgery
+surgery (profession)
 la chiurgia
+
+surgery (room)
+l'ambulatorio
+
+surgical procedure
+l'operazione
