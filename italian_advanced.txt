@@ -9502,3 +9502,6 @@ ti sfido
 
 to search high and low
 cercare in alto e in basso
+
+to put together
+rimettere insieme
