@@ -9532,3 +9532,6 @@ la macchina per il ghiaccio; la macchina del ghiaccio
 
 to culminate
 culminare
+
+inch
+il pollice
