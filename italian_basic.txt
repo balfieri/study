@@ -6699,3 +6699,6 @@ enorme; gigantesco
 
 diet soda
 la bibita dietetica
+
+soul
+l'anima
