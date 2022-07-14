@@ -6358,7 +6358,7 @@ i requisiti linguistici
 to take a course
 seguire un corso
 
-to take classes
+to take classes; to take lessons
 prendere classi; prendere lezioni
 
 argument; squabble; quarrel
