@@ -1687,8 +1687,11 @@ ordinario
 careful; attentive
 attento
 
-prudent, cautious
+prudent; cautious
 prudente
+
+cautious
+cauto
 
 talkative
 chiacchierone
