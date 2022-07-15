@@ -8155,7 +8155,6 @@ ampliare
 sexual orientation
 l’orientamento sessuale
 
-
 requirements; preconditions
 i requisiti in base
 
@@ -9547,3 +9546,12 @@ i parenti stretti
 
 to turn against
 rivoltarsi contro
+
+echo
+l'eco
+
+pushy
+insistente; invadente
+
+international relations
+le relazioni internazionali
