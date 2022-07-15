@@ -6714,3 +6714,9 @@ emozionante; commovente
 
 excited (non-sexual)
 emozionato
+
+gift card
+il buono regalo
+
+sale
+il saldo
