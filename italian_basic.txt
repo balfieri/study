@@ -5218,7 +5218,7 @@ sconfitto
 secret
 segreto
 
-next
+following; next
 seguente
 
 taciturn
@@ -6661,7 +6661,7 @@ il limite
 any
 qualsiasi
 
-disposition
+disposizione; arrangement; disposal
 la disposizione
 
 doubt
@@ -6726,3 +6726,12 @@ il saldo
 
 adventurous
 avventuroso
+
+agreement; accord
+l'accordo
+
+memory
+la memoria
+
+truly
+veramente
