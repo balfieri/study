@@ -673,9 +673,6 @@ il pachetto
 to require (starts with o)
 occorrere
 
-training
-l'addestramento
-
 challenge
 la sfida
 

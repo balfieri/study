@@ -5833,9 +5833,6 @@ costante
 advertisement
 la pubblicità
 
-training
-la formazione
-
 hammer
 il martello
 
@@ -6735,3 +6732,9 @@ la memoria
 
 truly
 veramente
+
+training (transfer of information)
+la formazione
+
+training (practicing technique)
+l'addestramento
