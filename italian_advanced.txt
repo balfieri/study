@@ -1169,7 +1169,7 @@ likewise; the same; as many; so many
 altrettanto
 
 golf clubs
-le mazze da golf
+le mazze da golf; i bastoni da golf
 
 golf club; country club
 il circolo di golf; il golf club; il country club
@@ -1239,9 +1239,6 @@ la buca
 
 golf shot
 il colpo da golf; il tiro da golf
-
-golf clubs
-i bastoni da golf
 
 amateur (adj)
 dilettantistico
@@ -9582,3 +9579,12 @@ a quel punto in tempo; in quel momento
 
 exit strategy
 la strategia di uscita
+
+trajectory
+la traiettoria
+
+to beat around the bush
+tergiversare
+
+obscene
+osceno

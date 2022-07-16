@@ -6712,7 +6712,7 @@ l'Antartide; l'Antartica
 emotional (person)
 emotivo
 
-emotional (arousing emotion)
+emotional (experience)
 emozionante; commovente
 
 excited (non-sexual)
@@ -6723,3 +6723,6 @@ il buono regalo
 
 sale
 il saldo
+
+adventurous
+avventuroso
