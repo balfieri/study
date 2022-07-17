@@ -7828,7 +7828,7 @@ l'embolia
 heart attack; coronary
 l'attacco cardiaco; l'infarto
 
-immediate family
+immediate family; close family
 i parenti stretti; i parenti prossimi; i familiari
 
 nuclear family
@@ -9534,9 +9534,6 @@ il televisore da cento pollici
 
 piss; pee
 il piscio
-
-close family
-i parenti stretti
 
 to turn against
 rivoltarsi contro
