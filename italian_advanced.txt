@@ -2944,7 +2944,7 @@ il pozzo
 to poison the well
 avvelenare il pozzo
 
-baton; rod; wand
+baton; rod; wand; stick
 la bacchetta
 
 to ruin
@@ -9693,3 +9693,9 @@ fare un'escursione
 
 rock climing
 l'arrampicata
+
+diamond in the rough; uncut diamond
+il diamante grezzo
+
+illness; sickness
+il malore
