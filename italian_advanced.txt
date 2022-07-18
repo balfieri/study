@@ -9744,3 +9744,6 @@ la forma di rispetto
 
 ouch
 ahi; ahia
+
+repetitive
+ripetitivo
