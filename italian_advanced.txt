@@ -7279,7 +7279,7 @@ il monolocale
 attic apartment
 la mansarda
 
-basement apartment
+basement; basement apartment
 il seminterrato
 
 penthouse
