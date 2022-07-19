@@ -9813,3 +9813,6 @@ prevalso
 
 sometimes it's necessary to state the obvious
 a volte è necessario affermare l'ovvio
+
+wisdom
+la saggezza
