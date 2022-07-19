@@ -6857,7 +6857,7 @@ hostage
 l'ostaggio
 
 to settle; to flatten; to smooth
-appianare
+appianare; appiattire
 
 epicenter
 l'epicentro
@@ -9753,3 +9753,18 @@ nel caso te lo stessi chiedendo
 
 to roll one's eyes
 rollare gli occhi
+
+steamroller
+il rullo compressore
+
+embarrassment
+l'imbarazzo
+
+unrelated
+non correlato
+
+incongruent
+incongruente
+
+coincidental
+coincidente
