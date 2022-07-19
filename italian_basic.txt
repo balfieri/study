@@ -1621,9 +1621,6 @@ allora
 painful
 doloroso
 
-joke
-lo scherzo; la barzelletta
-
 to joke
 scherzare
 
@@ -6744,3 +6741,12 @@ come mai
 
 mystery
 il mistero
+
+joke (original)
+la battutta
+
+joke (well known and retold)
+la barzelletta
+
+practical joke
+lo scherzo
