@@ -9825,3 +9825,6 @@ il collegamento; la connessione
 
 even worse
 ancora peggio
+
+bug (electronic spy device)
+la cimice
