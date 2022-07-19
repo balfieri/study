@@ -9771,3 +9771,6 @@ coincidente
 
 incongruity
 l’incongruenza
+
+start-up phase
+la fase di avvio
