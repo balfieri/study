@@ -9828,3 +9828,6 @@ ancora peggio
 
 bug (electronic spy device)
 la cimice
+
+bill (law proposal)
+il disegno di legge
