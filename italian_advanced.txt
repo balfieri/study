@@ -9852,3 +9852,6 @@ matriarcale; da matriarca
 
 furnished apartment
 l'appartamento ammobiliato; l'appartamento arredato
+
+sex life
+la vita sessuale
