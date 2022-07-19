@@ -9849,3 +9849,6 @@ patriarchale; da patriarca
 
 matriarchal
 matriarcale; da matriarca
+
+furnished apartment
+l'appartamento ammobiliato; l'appartamento arredato
