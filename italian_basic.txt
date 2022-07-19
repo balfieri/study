@@ -6750,3 +6750,6 @@ la barzelletta
 
 practical joke
 lo scherzo
+
+surprise
+la sorpresa
