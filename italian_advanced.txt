@@ -9822,3 +9822,6 @@ un'esperienza unica nella vita; un'esperienza che capita una volta nella vita
 
 connection
 il collegamento; la connessione
+
+even worse
+ancora peggio
