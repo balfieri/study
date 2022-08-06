@@ -4775,7 +4775,7 @@ salami
 il salame
 
 watermelon
-il cocomero
+il cocomero; l'anguria
 
 chestnut
 la castagna

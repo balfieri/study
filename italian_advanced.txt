@@ -112,9 +112,6 @@ l'hobby
 hobby (starts with p)
 il passatempo
 
-privilege
-il privilegio
-
 surrender; to give up
 arrendersi
 
@@ -1177,7 +1174,7 @@ metterci
 to be able to get something without paying
 scroccare
 
-farewell
+farewell; leave of absence
 il congedo
 
 as long as; only if; provided
@@ -1596,9 +1593,6 @@ massiccio
 
 ease
 la disinvoltura
-
-to extend
-prorogare
 
 even (starts with p)
 perfino; persino
@@ -4243,9 +4237,6 @@ incurante
 to break it off
 troncare
 
-odd; strange; eccentric
-strambo
-
 to intrude
 irrompere
 
@@ -5385,9 +5376,6 @@ il telefono satellitare
 
 misdemeanor
 l'infrazione
-
-hierarchy
-la gerarchia
 
 compromise; middle ground; happy medium; halfway point
 la via di mezzo
@@ -9004,9 +8992,6 @@ vagare; perdersi
 cork
 il sughero
 
-fortuneteller
-il chiromante
-
 live album
 l'album live
 
@@ -9864,3 +9849,399 @@ insonorizzato
 
 as far as I'm concerned
 per quanto mi riguarda; per quel che mi riguarda
+
+to refine
+affinchiare
+
+to alert
+mettere in guardia
+
+to extend; to postpone
+prorogare
+
+how are things going?
+come vanno le cose?
+
+what can you tell me?
+cosa mi racconti?
+
+no way!
+ma dai!
+
+scherzi a parte
+jokes aside
+
+I would like to point out; I would like to emphasize
+vorrei sottolineare
+
+I will be straight with you
+sarò diretto con te
+
+frank; blunt
+schietto
+
+translator
+il traduttore; l'interprete
+
+minimum wage
+il salario minimo
+
+serial killer
+l'assassino seriale; il serial killer
+
+to suspect
+ospettare
+
+no messing around
+non fate casino; non facciamo casino
+
+to back-up
+eseguire un backup
+
+mission accomplished
+missione compiuta
+
+highly recommended
+vivamente raccomandato; altamente raccomandato
+
+warning sign
+ll segnale di avvertimento
+
+approachable
+avvicinabile
+
+along the way
+lungo la strada
+
+scoop of ice cream
+la pallina del gelato
+
+to extend (time)
+prolungare
+
+flush (of toilet)
+lo sciacquone
+
+misunderstanding
+il malinteso
+
+plumber
+l'idraulico
+
+which is fine
+il ché è bene
+
+imagine the type
+figurati il tipo
+
+unambiguous
+univoco
+
+platter
+il tagliere
+
+garish
+sfarzoso
+
+return on investment
+il ritorno sugli investimenti
+
+blackberries
+le more
+
+wine tasting
+la degustazione di vini
+
+aged
+stagionato
+
+spices
+le spezie
+
+to finish off; to wrap up
+portare a termine
+
+to trivialize
+banalizzare
+
+archeological dig
+lo scavo archeologico
+
+hydrogen peroxide
+il perossido di idrogeno
+
+parking space
+il parcheggio; il posteggio
+
+comforts
+le comodità
+
+tartar
+il tartaro
+
+winding road
+la strada tortuosa
+
+nice breeze
+la bella brezza
+
+fortune teller; palm reader
+il chiromante
+
+native
+autoctono
+
+to laugh it up
+riderci sopra
+
+odd; strange; eccentric
+strambo
+
+yet to be proven
+ancora da dimostrare
+
+to cut corners
+prendere scorciatoie
+
+inefficiently
+in modo inefficiente
+
+orthodox
+ortodosso
+
+it melts in your mouth
+si scioglie in bocca
+
+synagogue
+la sinogoga
+
+art history
+la storia dell'arte
+
+printer
+lo stampatore
+
+hierarchy
+la gerarchia
+
+laundry
+la lavanderia; la biancheria
+
+to make a U-turn
+fare inversione
+
+gender is a construct
+il genere è un costrutto
+
+there’s no place like home
+non c'è un posto come la casa; non c'è nessun posto come casa propria
+
+let's face it
+diciamocelo
+
+privilege
+il privilegio
+
+luxury
+il lusso
+
+highlight
+il punto culminante
+
+tasty
+gustoso; delizioso; soporito
+
+staycation
+la vacanza in casa
+
+Amalfi Coast
+la costa d'Amalfi; la Costiera Amalfitana
+
+if it works out
+se funziona
+
+it was bound to happen sooner or later
+prima o poi doveva succedere
+
+anhistamine
+l’anistaminico
+
+quarter full
+quarto di pieno
+
+hint of lemon
+la nota di limone
+
+I don't need
+non mi serve
+
+well-marked
+ben segnalato
+
+eating utensils
+gli utensili da cucina
+
+drowned
+affogato
+
+fair-skinned
+di pelle chiara
+
+dark-skinned
+di pelle scura
+
+gas gauge
+l’indicatore del carburante
+
+plastic bag
+il sacchetto di plastica; la borsa di plastica
+
+tomorrow morning
+domattina
+
+totally agree
+d'accordissimo
+
+Christmas (adj)
+natalizio
+
+windmill
+il mulino a vento
+
+hundred times in a row
+cento volte di seguito
+
+barely
+a malapena
+
+portion
+la porzione
+
+was there any doubt?
+c'era qualche dubbio?
+
+interchangeable
+intercambiabile
+
+no matter what happens
+non importa cosa accadrà
+
+baking
+la cottura al forno
+
+cooking
+la cottura
+
+carrot/orange/lemon juice
+il succo ace
+
+spoilage
+il deterioramento
+
+daily (adv)
+giornalmente
+
+front seat
+il sedile anteriore
+
+back seat
+il sedile posteriore
+
+breakfast
+la colazione; la prima colazione
+
+highlights
+i momenti salienti; gli aspetti salienti
+
+cash register
+la cassa
+
+sharp knife
+il coltello affilato
+
+I want to make sure that
+voglio essere sicuro che; voglio assicurarmi che
+
+leftovers; leftover food
+gli avanzi; il cibo avanzato; il resto
+
+great find
+l'ottima scoperta
+
+front desk
+la reception
+
+for crying out loud
+per l'amor del cielo
+
+to the rescue
+al salvataggio
+
+to eat lightly
+mangiare alla leggera
+
+inefficiency
+l'inefficienza
+
+efficiency
+l'efficienza; l'efficacia
+
+tile
+la piastrella
+
+ceramic
+ceramica
+
+collision
+il tamponamento
+
+ride
+il passaggio
+
+perfect storm
+la tempesta perfetta
+
+gene pool
+il pool genetico
+
+lobby
+l'atrio
+
+baggage claim
+il ritiro bagagli
+
+farmer's market
+il mercato agricolo; il mercato contadino
+
+pizza dough
+l’impasto della pizza
+
+car-sick
+del mal d’auto
+
+car-sickness
+il mal d’auto
+
+store; workshop
+la bottega
+
+gullible
+credulone
+
+high altitude
+l'alta quota
+
+millionaire
+il milionario
+
+area code
+il prefisso telefonico
+
+two-way street
+la strada a doppio senso
+
+one-way street
+la strada a senso unico
+
+to be completely honest
+a essere tutto sincero
