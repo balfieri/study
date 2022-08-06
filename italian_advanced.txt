@@ -10248,3 +10248,6 @@ a essere tutto sincero
 
 dehydration
 la disidratazione
+
+sunny
+soleggiato
