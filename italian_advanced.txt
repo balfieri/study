@@ -277,7 +277,7 @@ la spianatura
 wrinkle
 la ruga
 
-packing
+packing; packaging
 l'imballo
 
 middle of nowhere
@@ -637,7 +637,7 @@ l'inserzione
 to carry out; to fulfill; to accomplish
 svolgere
 
-to pack; to wrap
+to pack; to wrap; to package
 imballare
 
 aware; conscious
@@ -2233,7 +2233,7 @@ il principe azzurro; l'uomo giusto
 milestone
 la pietra milare
 
-to set
+to set; to set up
 impostare
 
 to set an alarm for
@@ -10251,3 +10251,9 @@ la disidratazione
 
 sunny
 soleggiato
+
+grinding
+la macinatura
+
+ice cream maker
+la gelatiera
