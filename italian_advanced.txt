@@ -2380,8 +2380,8 @@ farcela
 approval
 l'approvazione
 
-outlet; socket
-la presa di corrente
+outlet; socket; hold; grip
+la presa
 
 thermal underwear
 la bianchiera termica
@@ -4995,9 +4995,6 @@ focalizzarsi; concentrarsi
 
 resumption; recovery; revival; filming
 la ripresa
-
-hold; grip; outlet
-la presa
 
 to touch; to move; to affect
 commuovere
@@ -7918,9 +7915,6 @@ fare il pignolo
 judgment
 il giudizio
 
-the feeling is mutual
-il sentimento è reciproco
-
 firmness
 la fermezza
 
@@ -10257,3 +10251,66 @@ la macinatura
 
 ice cream maker
 la gelatiera
+
+cherry tomato
+il pomodorino; il pomodoro ciliegino
+
+the feeling's mutual
+il sentimento è reciproco
+
+stuffed Sicilian rice ball
+l'arancino
+
+to clog
+intasare
+
+coffee bean
+il chicco di caffè
+
+coffee maker
+la macchina da caffè
+
+removable
+asportabile; rimovibile
+
+electrical plug
+la spina
+
+voltage converter
+il convertitore di tensione
+
+voltage
+la tensione
+
+set-up
+il settaggio
+
+hesitant; tentative; indecisive
+titubante
+
+tender; painful
+dolente
+
+flaw; fault; defect
+la pecca
+
+stainless steel
+l'acciaio inox
+
+to roll (pasta)
+arrotolare
+
+I don't mind it
+non mi dispiace; non mi da fastidio; non mi fa problema
+
+messed up; screwed up
+incasinato
+
+junction
+il raccordo
+
+hydrated
+idratato
+
+to infect
+contaggiare; infettare

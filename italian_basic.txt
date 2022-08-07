@@ -4316,7 +4316,7 @@ Danish
 danese
 
 grocery store
-il negozio di alimentari
+il negozio d'alimentari
 
 fish store
 la pescheria
@@ -4423,7 +4423,7 @@ il mese
 dance
 il ballo
 
-shopping
+expense; expenditure; cost; shopping
 la spesa
 
 take-away
@@ -6756,3 +6756,15 @@ la sorpresa
 
 on the plane
 sull'aereo
+
+thick
+spesso
+
+to disagree
+non essere d'accordo
+
+service station
+la stazione di servizio
+
+service area
+l'area di servizio
