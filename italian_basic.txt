@@ -733,9 +733,6 @@ troppi
 to send
 mandare; spedire
 
-to speak fluently
-parlare speditamente
-
 sauce
 il sugo
 
@@ -6768,3 +6765,6 @@ la stazione di servizio
 
 service area
 l'area di servizio
+
+fluently
+fluentemente; speditamente
