@@ -2065,7 +2065,7 @@ il ganghero
 tense (verb)
 il tempo
 
-gist
+gist; essence
 l'essenza; la sostanza
 
 culture shock; disorientation
@@ -10377,3 +10377,6 @@ l’esame di collocamento; l’esame di assegnazione
 
 press (pasta, other)
 il torchio; il bigolaro
+
+to ascertain; to establish; to note
+constatare
