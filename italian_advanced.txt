@@ -8476,9 +8476,6 @@ dimezzare
 greenhouse gasses
 la gas serra
 
-threshhold
-la soglia
-
 money is no object
 i soldi non sono un problema
 
@@ -10383,3 +10380,21 @@ constatare
 
 to hoe; to dig; to burrow
 zappare
+
+complaint
+la lamentela
+
+astride
+a cavalcioni
+
+bar (chocolate)
+la tavoletta
+
+table; chart
+la tabella
+
+substance 
+la sostanza
+
+threshold; sill; doorstep 
+la soglia
