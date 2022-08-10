@@ -1516,9 +1516,6 @@ l'avarizia
 oasis
 l'oasi
 
-dehydrated
-disidratati
-
 alcohol
 gli alcolici
 
@@ -8665,9 +8662,6 @@ le mutande
 barefoot
 scalzo
 
-rag
-lo straccio
-
 wordliness
 la mondanità
 
@@ -10237,6 +10231,9 @@ la strada a senso unico
 to be completely honest
 a essere tutto sincero
 
+dehydrated
+disidratato
+
 dehydration
 la disidratazione
 
@@ -10401,3 +10398,30 @@ la soglia
 
 slogan; motto
 lo slogan; il motto
+
+dishcloth
+il canovaccio
+
+rag; cloth
+lo straccio
+
+blender
+il frullatore
+
+shell; eggshell; pod
+il guscio
+
+tab; tray; pan
+la vaschetta
+
+hairdresser; barber; stylist
+il parrucchiere
+
+sweetener; sugar substitute
+l'edulcorante
+
+in foster care
+in affido
+
+water bath
+il bagno maria
