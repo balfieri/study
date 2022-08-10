@@ -9821,7 +9821,7 @@ matriarchal
 matriarcale; da matriarca
 
 furnished apartment
-l'appartamento ammobiliato; l'appartamento arredato
+l'appartamento arredato; l'appartamento ammobiliato (più formale)
 
 sex life
 la vita sessuale
@@ -10096,7 +10096,7 @@ il mulino a vento
 hundred times in a row
 cento volte di seguito
 
-barely
+barely (more formal)
 a malapena
 
 portion
@@ -10425,3 +10425,9 @@ in affido
 
 water bath
 il bagno maria
+
+I need (something concrete)
+mi serve
+
+I need (something abstract)
+ho bisogno di
