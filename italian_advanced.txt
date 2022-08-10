@@ -898,9 +898,6 @@ ogni lunedì; di lunedì; il lunedì
 in May
 in maggio
 
-cliff
-il dirupo
-
 trajectory
 la traiattoria
 
@@ -10440,3 +10437,9 @@ comportati bene!
 
 revolver
 la rivoltella; il revolver
+
+ghost town
+la città fantasma
+
+cliff
+la scogliera; il dirupo
