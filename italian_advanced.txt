@@ -10398,3 +10398,6 @@ la sostanza
 
 threshold; sill; doorstep 
 la soglia
+
+slogan; motto
+lo slogan; il motto
