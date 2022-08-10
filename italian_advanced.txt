@@ -10431,3 +10431,6 @@ mi serve
 
 I need (something abstract)
 ho bisogno di
+
+fluency
+la scorrevolezza; la scioltezza
