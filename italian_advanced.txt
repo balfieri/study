@@ -8095,9 +8095,6 @@ creare scompiglio; gettare scompiglio
 repression
 la repressione
 
-poll
-il sondaggio
-
 high-level training
 l'alta formazione
 
@@ -10446,3 +10443,18 @@ la scogliera; il dirupo
 
 still (moonshine)
 l'alambicco
+
+to jump over the fence
+saltare la recinzione
+
+to appreciate; to welcome (idea)
+gradire
+
+face
+la faccia; il volto
+
+to right
+raddrizzare
+
+survey; poll
+il sondaggio
