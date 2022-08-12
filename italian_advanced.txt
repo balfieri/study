@@ -79,9 +79,6 @@ accogliere
 to flow
 scorrere
 
-partner (starts with s)
-il socio
-
 take-off
 il decollo
 
@@ -10458,3 +10455,51 @@ raddrizzare
 
 survey; poll
 il sondaggio
+
+adapter
+l'adattatore
+
+room to spare
+spazio libero
+
+to detect; to find
+riscontrare
+
+luxurious
+lussoso
+
+head waiter
+il capocameriere
+
+no come on 
+ma no dai
+
+sum; total
+la somma
+
+stone; rock; boulder
+la pietra
+
+rather; somewhat; pretty
+alquanto
+
+event; occurrence; happening
+l'avvenimento
+
+partner; associate
+il socio
+
+lock
+la serratura
+
+front door
+la porta d'ingresso
+
+light switch
+l'interruttore della luce
+
+to lock the door
+chiudere a chiave la porta
+
+to graze; to barely touch
+sfiorare
