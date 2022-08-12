@@ -10506,3 +10506,6 @@ sfiorare
 
 breathtaking; stunning
 mozzafiato
+
+oath; pledge; vow
+il giuramento
