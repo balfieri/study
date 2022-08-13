@@ -2845,9 +2845,6 @@ l'uno e l'altro
 to stick to
 aderire a
 
-mourning
-il lutto
-
 member of Calabrese mafia
 'ndranghetista
 
@@ -4902,9 +4899,6 @@ la menzogna
 
 to live a lie
 vivere nella menzogna; vivere una menzogna
-
-elsewhere
-altrove
 
 somewhere
 in qualche posto; da qualche parte
@@ -7996,9 +7990,6 @@ il paracolpo
 shock absorber; damper; cushion
 l'ammortizzatore
 
-to guess; to hit; to strike
-azzeccare
-
 assumption; employment
 l'assunzione
 
@@ -10509,3 +10500,54 @@ mozzafiato
 
 oath; pledge; vow
 il giuramento
+
+to crash; to smash
+schiantare
+
+mourning; bereavement
+il lutto
+
+to get it right; to nail; to guess; to hit; to strike
+azzeccare
+
+ABS braking system
+il sistema frenante ABS
+
+braking
+la frenatura
+
+traction control
+il controllo della trazione
+
+anti-lock braking
+la frenatura antibloccaggio
+
+hook
+il gancio
+
+helmet hook
+il gancio per casco
+
+fuel injection
+l'iniezione
+
+full-face helmet
+il casco integrale
+
+3/4 helmet
+il casco a faccia aperta
+
+half helmet
+il mezzo casco
+
+blood test
+l'esame del sangue
+
+backrest
+lo schienale
+
+capacity
+la capienza
+
+to clutch; to grab hold of; to hold on to
+aggrappare a
