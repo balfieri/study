@@ -1642,9 +1642,6 @@ il rumore
 silence
 il silenzio
 
-instrument
-lo strumento
-
 region
 la regione
 
@@ -6040,9 +6037,6 @@ la mail; l'email
 believable
 credibile
 
-tool
-lo strumento; l'attrezzo
-
 24/7
 24 ore su 24
 
@@ -6774,3 +6768,12 @@ fluentemente; speditamente
 
 bikini
 il bikini
+
+appliance; braces (orthodontia)
+l'apparecchio
+
+tool (for repair)
+l'attrezzo
+
+instrument; tool (abstract)
+lo strumento
