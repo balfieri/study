@@ -10590,3 +10590,6 @@ scomporre
 
 science writer
 il divulgatore scientifico
+
+dinghy
+il canotto
