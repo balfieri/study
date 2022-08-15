@@ -3511,7 +3511,7 @@ l'intrattenimento
 survey; review
 la rassegna
 
-to disassemble; to dismantle; to dismount
+to disassemble; to dismantle; to dismount; to take apart
 smontare
 
 recurrence; anniversary
@@ -8932,7 +8932,7 @@ l'ergastolo
 death penalty; capital punishment
 la pena di morte
 
-countyy
+county
 la contea
 
 irritable
@@ -9444,12 +9444,6 @@ ti sfido
 
 to search high and low
 cercare in alto e in basso
-
-to put together
-rimettere insieme
-
-to take apart
-smontare; disassemblare
 
 review (of product, book, etc.)
 la recensione
@@ -10551,3 +10545,48 @@ aggrappare a
 
 commanding voice
 la voce autoritaria
+
+high profile; prominent
+di primo piano
+
+spokesperson
+il portavoce
+
+summary
+il sommario
+
+good-for-nothing
+il buono a nulla
+
+bowl
+la ciotola
+
+orange tree
+l'arancio
+
+apple tree
+il melo
+
+coffee maker
+la caffettiera
+
+flute
+il flauto
+
+to put back together
+rimettere insieme
+
+pork chop
+la costoletta di maiale
+
+to age
+invecchiare
+
+compared
+a confronto
+
+to decompose; to disassemble
+scomporre
+
+science writer
+il divulgatore scientifico
