@@ -7228,7 +7228,7 @@ olivastro
 pump
 la pompa
 
-sadle
+sadle (also motorcycle seat)
 la sella
 
 mudguard
@@ -10593,3 +10593,9 @@ il divulgatore scientifico
 
 dinghy
 il canotto
+
+body (auto)
+la scocca
+
+to shell
+sgusciare
