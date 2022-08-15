@@ -10599,3 +10599,9 @@ la scocca
 
 to shell
 sgusciare
+
+fuel efficiency
+l'efficienza del carburante
+
+gas mileage
+il consumo di carburante; il chilometraggio di gas
