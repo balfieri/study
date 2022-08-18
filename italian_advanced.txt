@@ -3883,7 +3883,7 @@ il cortile
 to dare
 osare
 
-delivered (e-message)
+delivered
 consegnato
 
 delightful; amusing
@@ -10641,3 +10641,9 @@ lo stato di salute
 
 I don't want to get into it
 non voglio parlarne; non voglio discuterne
+
+it's maddening
+è esasperante
+
+in the grand scheme of things
+nel grande schema delle cose

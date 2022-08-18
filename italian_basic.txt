@@ -910,7 +910,7 @@ il vento
 to exchange
 scambiare
 
-to sit
+to sit; to be sitting
 sedere
 
 to sit down
@@ -6777,3 +6777,6 @@ l'attrezzo
 
 instrument; tool (abstract)
 lo strumento
+
+unlikely
+improbabile
