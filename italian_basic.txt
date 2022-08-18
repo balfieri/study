@@ -5473,8 +5473,11 @@ costituzionale
 average (adj)
 medio
 
-criminal
-penale
+criminal (adj)
+penale; criminale
+
+criminal (n)
+il criminale
 
 own
 proprio
