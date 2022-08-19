@@ -7067,7 +7067,7 @@ scrawl; doodle; scribble
 lo scarabocchio
 
 department; unit; ward
-il reparto
+il reparto; il dipartimento
 
 to scrawl; to doodle; to scribble
 scaraboccchiare
