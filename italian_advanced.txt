@@ -10659,3 +10659,6 @@ avvincente
 
 to shriek
 strillare
+
+better looking
+più bello
