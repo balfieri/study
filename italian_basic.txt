@@ -5425,7 +5425,7 @@ culturale
 central
 centrale
 
-main
+main; principal
 principale
 
 previous; preceding; prior; former

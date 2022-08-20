@@ -10677,3 +10677,9 @@ il fondale
 
 wind power
 l'eolico
+
+balsa wood
+il legno di balsa
+
+paper airplane
+l'aereoplano di carta
