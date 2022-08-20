@@ -10662,3 +10662,18 @@ strillare
 
 better looking
 più bello
+
+wind farm
+il parco eolico
+
+post; poll
+il palo
+
+mainland
+la terraferma
+
+seabed
+il fondale
+
+wind power
+l'eolico
