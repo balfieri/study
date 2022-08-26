@@ -7846,7 +7846,7 @@ la filologa
 zone (group of neighborhoods)
 la zona
 
-suburb 
+suburb
 il sobborgo
 
 suburbs; suburbia
@@ -8170,7 +8170,7 @@ rimandare; rinviare; posporre
 handful; fistful
 la manciata
 
-to rely on 
+to rely on
 affidarsi a
 
 to look out
@@ -10330,8 +10330,8 @@ la cotoletta
 in the background
 sullo sfondo
 
-flight crew 
-l’equipaggio di condotta
+flight crew
+l'equipaggio di condotta
 
 crew
 l’equipaggio
@@ -10363,10 +10363,10 @@ la tavoletta
 table; chart
 la tabella
 
-substance 
+substance
 la sostanza
 
-threshold; sill; doorstep 
+threshold; sill; doorstep
 la soglia
 
 slogan; motto
@@ -10453,7 +10453,7 @@ lussoso
 head waiter
 il capocameriere
 
-no come on 
+no come on
 ma no dai
 
 sum; total

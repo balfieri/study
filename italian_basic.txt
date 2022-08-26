@@ -2600,7 +2600,7 @@ expired
 scaduto
 
 free (thought)
-libero 
+libero
 
 free (thing)
 gratis
@@ -4580,14 +4580,14 @@ il fianco
 side
 
 in the middle of; in the center; downtown
-al centro 
+al centro
 
 opposite to
 di fronte a
 
 next to
-di fianco a 
- 
+di fianco a
+
 at the end of; at the bottom of
 in fondo a
 
@@ -4634,7 +4634,7 @@ office worker
 l’impiegato; la impiegata
 
 house husband
-il casalingo 
+il casalingo
 
 actor
 l’attore
