@@ -6010,7 +6010,7 @@ l’umorismo asciutto
 charm; allure; fascination
 il fascino
 
-to savor; to taste
+to savor; to taste; to relish
 assaporare
 
 footbridge; catwalk; runway
@@ -10758,3 +10758,6 @@ ficcare il naso negli affari degli altri
 
 to poke; to stick
 ficcare
+
+bulge
+il rigonfiamento
