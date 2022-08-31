@@ -10815,3 +10815,6 @@ la loquacità
 
 chest pain
 il dolore al petto; il male al petto
+
+water-cooled
+raffreddato ad acqua
