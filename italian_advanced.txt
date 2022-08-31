@@ -10818,3 +10818,9 @@ il dolore al petto; il male al petto
 
 water-cooled
 raffreddato ad acqua
+
+string theory
+teoria delle stringhe
+
+string
+la stringa
