@@ -6802,9 +6802,6 @@ sensibilizzare
 event; matter
 la vicenda
 
-process
-la trafila
-
 glimpse; spot
 la scorgia
 
@@ -10891,5 +10888,17 @@ la statina
 baby aspirin
 l'aspirina per bambini
 
-slight angle 
+slight angle
 la leggera angolazione
+
+we'll see how long it lasts
+vedremo quanto durerà
+
+die (metal); process
+la trafila
+
+alcoholic (adj)
+alcolizzato
+
+fertilizer
+il fertilizzante
