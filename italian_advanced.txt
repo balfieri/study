@@ -10926,3 +10926,9 @@ valorizzare
 
 union (worker's)
 il sindicato
+
+quarter; 3-month period
+il trimestre
+
+4-month period
+il quadrimestre
