@@ -10938,3 +10938,6 @@ sabbioso
 
 food poisoning
 l'avvelenamento alimentare
+
+conjugation
+la coniugazione
