@@ -4961,7 +4961,7 @@ aboveground; on the surface
 in superficie
 
 underground; under the surface
-sottoterra
+sottoterra; sottoteraneo
 
 whim; indulgence
 lo sfizio
@@ -5932,6 +5932,9 @@ per quanto ne so
 to counteract
 contrabattere
 
+to counteract the force of gravity
+controbilanciare la forza di gravità
+
 to watch over
 vegliare su
 
@@ -6512,7 +6515,7 @@ truce
 la tregua
 
 fence
-la recinzione
+la recinzione; il recinto
 
 cucumbers
 i cetrioli
@@ -6771,9 +6774,6 @@ l'ottovolante
 
 amusement park
 il parco di divertimenti
-
-ride
-la giostra
 
 to ruin; to spoil
 rovinare
@@ -10837,6 +10837,9 @@ l’incontro
 counterintuitive
 controintuitivo
 
+dog house
+la cuccia del cane
+
 in the dog house
 nella cuccia
 
@@ -10902,3 +10905,24 @@ alcolizzato
 
 fertilizer
 il fertilizzante
+
+customizable; personalizable
+personalizzabile
+
+cistern
+il cisterne
+
+acquaduct
+l'acquedotto
+
+ride; merry-go-round; carousel
+la giostra
+
+rides (amusement)
+le giostre
+
+to value
+valorizzare
+
+union (worker's)
+il sindicato

@@ -3851,7 +3851,7 @@ wolf
 il lupo
 
 deer
-il cervo
+il cervo; il daino
 
 bear
 l'orso
@@ -6789,3 +6789,18 @@ la spazzola
 
 on sale
 in saldo
+
+benefit
+il beneficio
+
+porter; bellboy
+il facchino
+
+candy
+le caramelle; i dolciumi
+
+advantage; benefit; gain
+il vantaggio
+
+quarter (4-month period)
+il quadrimestre
