@@ -11016,3 +11016,6 @@ l'ammollo
 
 to soak
 mettere in ammollo
+
+fuel-efficient
+a basso consumo
