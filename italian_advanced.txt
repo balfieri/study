@@ -2344,10 +2344,10 @@ il prozio
 great aunt
 la prozia
 
-great nephew
+great nephew; great-grandson
 il bisnipote
 
-great niece
+great niece; great-granddaughter
 la bisnipote
 
 to name
@@ -11001,3 +11001,6 @@ la beffa
 
 sloppy
 sciatto
+
+fresh start
+il nuovo inizio
