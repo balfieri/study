@@ -11004,3 +11004,6 @@ sciatto
 
 fresh start
 il nuovo inizio
+
+am I making sense?
+ha senso quello che dico?
