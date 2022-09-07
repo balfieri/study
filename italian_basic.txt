@@ -6804,3 +6804,6 @@ il vantaggio
 
 captain
 il capitano
+
+assistance; help; aid
+l'assistenza
