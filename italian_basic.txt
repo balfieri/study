@@ -2083,9 +2083,6 @@ il parco
 summit; top
 la cima
 
-peak
-la vetta
-
 valley
 la valle
 
