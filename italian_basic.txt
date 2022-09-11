@@ -5719,7 +5719,7 @@ fuggire
 to escape (physical)
 scappare
 
-audacious
+audacious; bold
 audace
 
 exhausted
