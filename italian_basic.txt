@@ -2866,8 +2866,11 @@ l'occhio
 foot
 il piede
 
-finger; toe
+finger
 il dito
+
+toe
+il dito del piede
 
 knee
 il ginocchio
