@@ -6688,7 +6688,7 @@ l'ostello
 pound
 la libbra
 
-humongous
+humongous; gigantic
 enorme; gigantesco
 
 diet soda
