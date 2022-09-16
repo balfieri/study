@@ -353,7 +353,7 @@ to belong to; to belong in
 appartenere a
 
 to rotate
-ruotare
+ruotare; rotare
 
 seafood
 i frutti di mare
@@ -5914,9 +5914,6 @@ tutto ciò che conta
 appearance; likeness
 l'apparenza
 
-to fill
-riempire
-
 lifestyle
 il stile di vita
 
@@ -10553,7 +10550,7 @@ good-for-nothing
 il buono a nulla
 
 bowl
-la ciotola
+la ciotola; la scodella
 
 orange tree
 l'arancio
@@ -11142,3 +11139,72 @@ la denuncia
 
 kleptomaniac
 la cleptomane
+
+bumper sticker on back
+l'adesivo sul retro
+
+shuttle (bus)
+la navetta
+
+all-purpose flour
+la farina manitoba
+
+to make a well in the middle
+fare un pozzo nel mezzo
+
+to scramble eggs
+sbattere uova
+
+room temperature
+la temperatura ambiente
+
+whisk
+la frustra
+
+scale (for weighing)
+la bilancia
+
+vacuum sealer
+la macchina per suttovuoto
+
+vacuum packing
+il sottovuoto
+
+semicircle
+il semicerchio
+
+freezer
+il congelatore
+
+freezing
+il congelamento
+
+to thaw
+scongelare
+
+thawing
+lo scongelamento
+
+boiling point
+il punto di ebollizione
+
+thermometer
+il termometro
+
+freshly-squeezed
+appena spremuto
+
+colander
+il colapasta
+
+paper towel
+la carta assorbente
+
+to square
+fare squardare
+
+to flour
+infarinare
+
+row
+la fila
