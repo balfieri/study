@@ -11307,3 +11307,6 @@ stordito
 
 strike (workers)
 lo sciopero
+
+private jet
+il jet privato
