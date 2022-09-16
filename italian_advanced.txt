@@ -16,7 +16,7 @@ il vigliacco
 coward (starts with c)
 il codardo
 
-arrow
+arrow; indicator; blinker (turn signal)
 la freccia
 
 beach towel
@@ -10423,9 +10423,6 @@ gradire
 face
 la faccia; il volto
 
-to right
-raddrizzare
-
 survey; poll
 il sondaggio
 
@@ -11262,3 +11259,51 @@ poggiare
 
 to swear (bad words)
 bestemmiare
+
+delicacy; deliciousness
+la prelibatezza
+
+mausoleum
+il mausoleo
+
+in reverse (gear)
+in retro marcia
+
+clutch; friction; rubbing
+la frizione
+
+first gear
+la prima marcia
+
+to straighten; to right; to unbend
+raddrizzare
+
+patch; hack; boot
+la toppa
+
+speedometer; tachometer
+il tachimetro
+
+monkey
+la scimmia
+
+consistency; texture
+la cosistenza
+
+tombstone; gravestone; headstone
+la lapide
+
+mirror (car)
+lo specchiato
+
+Scottland
+la Scozia
+
+decrepit; bonkers
+rincoglianito
+
+dizzy; numb; lightheaded
+stordito
+
+strike (workers)
+lo sciopero
