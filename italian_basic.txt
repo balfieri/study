@@ -1309,7 +1309,7 @@ impegnato
 uppercase
 maiuscolo
 
-lowercase
+lowercase; tiny
 minuscolo
 
 dishwasher
