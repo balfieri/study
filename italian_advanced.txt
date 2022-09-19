@@ -11376,3 +11376,6 @@ l'esame a libro aperto
 
 overly aggressive
 troppo aggressivo
+
+constraint; tie; bond
+il vincolo
