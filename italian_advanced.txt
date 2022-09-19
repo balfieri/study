@@ -4406,7 +4406,7 @@ mere
 mero
 
 to facilitate; to help; to help
-agevolare
+facilitare; agevolare
 
 albeit
 seppur
@@ -11379,3 +11379,9 @@ troppo aggressivo
 
 constraint; tie; bond
 il vincolo
+
+war horse; workhorse
+il cavallo di battaglia
+
+discounted; taken for granted
+scontato
