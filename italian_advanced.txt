@@ -1726,7 +1726,7 @@ la sconfitta
 contemporary; peer
 il coetaneo
 
-column; address book
+column; address book; heading
 la rubrica
 
 sign; warning; skirmish
@@ -11388,3 +11388,9 @@ scontato
 
 to teach a class; to lecture
 fare lezione
+
+paradoxical
+paradossale
+
+paradox
+il paradosso
