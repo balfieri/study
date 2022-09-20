@@ -11409,3 +11409,6 @@ fare fortuna
 
 to get rich; to become rich; to grow rich
 arricchirsi
+
+wage; salary; pay
+il salario
