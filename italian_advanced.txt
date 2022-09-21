@@ -11448,3 +11448,9 @@ il susseguirsi
 
 to stain; to blot
 macchiare
+
+quart
+la quarta
+
+pint
+la pinta
