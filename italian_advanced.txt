@@ -11433,3 +11433,6 @@ l'inclinazione
 
 propensity
 la propensione
+
+predisposition
+la predisposizione
