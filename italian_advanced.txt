@@ -5302,9 +5302,6 @@ la connessione
 agent
 l'agente
 
-tendency
-la tendency
-
 to prohibit
 proibire; vietare
 
@@ -11430,3 +11427,9 @@ ha fatto tutta la differenza del mondo
 
 existential crisis
 la crisi esistenziale
+
+inclination
+l'inclinazione
+
+propensity
+la propensione
