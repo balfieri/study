@@ -11472,3 +11472,6 @@ lo studente universitario
 
 in the short-term
 nel breve periodo
+
+tell me a little about yourself
+dimmi un po' di te; raccontami qualcosa di te
