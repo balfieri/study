@@ -10310,7 +10310,7 @@ cutlet
 la cotoletta
 
 in the background
-sullo sfondo
+sullo sfondo; in sottofondo
 
 flight crew
 l'equipaggio di condotta
