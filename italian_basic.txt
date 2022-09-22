@@ -4178,7 +4178,7 @@ daughter-in-law
 la nuora
 
 brother-in-law
-il congnato
+il cognato
 
 sister-in-law
 la cognata
