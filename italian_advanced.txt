@@ -2320,9 +2320,6 @@ il bisnonno
 great-grandmother
 la bisnonna
 
-brother-in-law
-il cognato
-
 sister-in-law
 la mia cognata
 
@@ -11469,3 +11466,6 @@ l'obiettivo finale
 
 to be in pain
 stare soffrendo
+
+undergraduate
+lo studente universitario
