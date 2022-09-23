@@ -11499,3 +11499,6 @@ insostituibile
 
 replaceable
 sostituibile
+
+in danger
+in pericolo
