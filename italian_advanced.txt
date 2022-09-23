@@ -11481,3 +11481,9 @@ il conoscente
 
 rationalization
 la razionalizzazione
+
+overcast sky
+il cielo coperto
+
+broken clouds
+le nuvole sparse
