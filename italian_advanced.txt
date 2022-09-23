@@ -11496,3 +11496,6 @@ ampiare
 
 irreplaceable
 insostituibile
+
+replaceable
+sostituibile
