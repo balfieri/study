@@ -6846,3 +6846,6 @@ lo scarto
 
 to seal
 sigilare
+
+unkind
+scortese; sgarbato
