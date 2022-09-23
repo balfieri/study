@@ -11502,3 +11502,6 @@ sostituibile
 
 in danger
 in pericolo
+
+in immediate danger
+in pericolo immediato
