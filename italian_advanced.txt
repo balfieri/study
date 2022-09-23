@@ -11514,3 +11514,6 @@ assumere
 
 private investigator
 l'investigatore privato
+
+to be fed up
+essere stufo
