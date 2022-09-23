@@ -11475,3 +11475,9 @@ nel breve periodo
 
 tell me a little about yourself
 dimmi un po' di te; raccontami qualcosa di te
+
+acquaintance
+il conoscente
+
+rationalization
+la razionalizzazione
