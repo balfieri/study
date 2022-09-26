@@ -3346,7 +3346,7 @@ aggredire
 to rename; to rebaptize
 ribattezzare
 
-missing; deceased; departed; disappeared
+missing; deceased; departed; disappeared; gone
 scomparso
 
 turn; turning point
@@ -3648,9 +3648,6 @@ il dirottamento
 
 to draw upon; to draw from
 attingere a; attingere da
-
-to deepen
-approfondire
 
 skill
 l'abilità; la capacità; la competenza
@@ -5542,9 +5539,6 @@ affascinante; grazioso; incantevole
 needy
 bisognoso
 
-to couple; to lace
-abbinare
-
 thoughtful (kindness)
 premuroso
 
@@ -7320,9 +7314,6 @@ l'altalena
 
 excursion
 l'escursione
-
-stage (of journey or race)
-la tappa
 
 rubber dingy
 il gommone
@@ -11538,3 +11529,111 @@ non sembra niente di buono; non promette bene
 
 polling station; seat (political); chair (political)
 il seggio
+
+to gush
+zampilare
+
+it is what it is
+è quello che è
+
+I hadn't thought of that
+non ci avevo pensato
+
+to skid
+sbandare
+
+to crack; to chap
+screpolare
+
+Spanish Inquisition
+la Santa Inquisizione
+
+litter (platform)
+la portantina
+
+wrist handcuffs
+le manette ai polsi
+
+to tuck
+rimboccare
+
+to slaughter; to butcher
+macellare
+
+razor blade
+la lametta
+
+grocer; druggist
+il droghiere
+
+lifeguard; lifesaver
+il bagnino
+
+sinking; wreck
+il naufragio
+
+in overalls
+in tuta
+
+to postpone
+posticipare
+
+to flaunt
+sfoggiare
+
+to deepen; to elaborate
+approfondire
+
+understanding
+la comprensione
+
+greater understanding
+la migliore comprensione
+
+rally
+il comizio
+
+patrol
+la pattuglia
+
+stripped; leafless; bare
+spoglio
+
+to start; to begin; to debut
+esorbire
+
+to couple; to combine; to lace
+abbinare
+
+abstention
+l'astensionismo
+
+flooding; inundation; flood
+l'allagamento
+
+leg; stop; stage
+la tappa
+
+to reject
+rigettare
+
+electoral campaign
+la campagna elettorale
+
+to burden; to saddle
+gravare
+
+inequality
+la disuguaglianza
+
+Wales
+Galles
+
+ballot boxes
+le urne
+
+collapse; ruin
+il tracollo
+
+blatant; flashy
+vistoso
