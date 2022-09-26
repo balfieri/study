@@ -11673,3 +11673,6 @@ che cosa mai stavi pensando; cosa diavolo stavi pensando
 
 you hurt my feelings
 hai ferito i miei sentimenti; mi ferisci
+
+lock (canal)
+la chiusa
