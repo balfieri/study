@@ -7255,7 +7255,7 @@ la cucina a gas
 electric cooker
 la cucina elettrica
 
-household appliance
+home appliance; household appliance; domestic appliance
 l'elettrodomestico
 
 agriculture
