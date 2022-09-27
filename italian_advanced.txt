@@ -11760,3 +11760,6 @@ inevitabile; imprevedibile
 
 secretive
 riservato; segreto
+
+manic
+maniaco; maniacale
