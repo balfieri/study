@@ -11763,3 +11763,9 @@ riservato; segreto
 
 manic
 maniaco; maniacale
+
+compromise
+il compromesso
+
+to compromise
+compromettere
