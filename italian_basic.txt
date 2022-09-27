@@ -6849,3 +6849,6 @@ sigilare
 
 unkind
 scortese; sgarbato
+
+to go the movies
+andare al cinema
