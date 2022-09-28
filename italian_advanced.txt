@@ -1420,7 +1420,7 @@ a mio parere
 to be about to be; to be going to be
 stare per essere
 
-negotiation
+negotiation; talks
 la trattativa
 
 safeguard
@@ -2580,9 +2580,6 @@ in concorrenza
 
 to occur; to happen; to take place
 capitare; succedere; accadere; avvenire
-
-revenge
-la rivincita
 
 to equip selfish
 dotarsi
@@ -6274,7 +6271,7 @@ il coperto
 rocket
 il razzo
 
-competition
+competition; rivalry
 la concorrenza
 
 to look good
@@ -6985,7 +6982,7 @@ irrefrenabile
 to reveal; to betray; to disclose
 rivelare
 
-to prepare; to stage; to set; to set up
+to prepare; to stage; to set; to set up; to equip
 allestire
 
 recreational
@@ -9511,7 +9508,7 @@ la dottrina
 model; pattern; template
 il modello
 
-wrestling; struggle; fight
+wrestling; struggle; fight; conflict
 la lotta
 
 manner
@@ -11769,3 +11766,90 @@ il compromesso
 
 to compromise
 compromettere
+
+to come true
+avverarsi
+
+burden
+il fardello
+
+heavy load
+il carico
+
+to ready
+approntare
+
+to launch
+varare
+
+tank; cylinder
+la bombola
+
+erection (non-sexual)
+l'innalzamento
+
+scrapping
+la rottomazione
+
+to stagger
+scaglionare
+
+insertion
+l'inserimento
+
+wedge
+il cuneo
+
+apprenticeship
+l'apprendistato
+
+internship
+il tironcino
+
+to estimate
+stimare
+
+in force
+in vigore
+
+ruthless
+spietato
+
+gang leader
+il capobanda
+
+midwife
+la levatrice
+
+garment
+l'indumento
+
+statesman
+lo statista
+
+to discredit
+sfatare
+
+to suppress
+sopprimere
+
+guerrilla
+la guerriglia
+
+revenge
+la rivincita
+
+president-elect
+il premier in pectore
+
+to mess up
+scombinare
+
+to make something easy
+agevolare
+
+to put aside
+accantonare
+
+dispute
+la conflittualità
