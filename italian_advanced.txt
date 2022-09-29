@@ -11991,3 +11991,6 @@ pigliare
 
 crotch; groin
 il pacco; l'inguine
+
+to double-team
+raddoppiare
