@@ -6852,3 +6852,6 @@ scortese; sgarbato
 
 to go the movies
 andare al cinema
+
+magazine
+la rivista
