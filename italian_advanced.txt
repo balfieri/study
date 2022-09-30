@@ -2092,6 +2092,9 @@ benché; nonostante; sebbene
 calculation; count; counting
 il conteggio
 
+counts; counting
+i conteggi
+
 to tally; to count; to calculate
 conteggiare
 
@@ -4129,7 +4132,7 @@ detenere
 together with
 assieme a
 
-to rid onself
+to rid onself; to free oneself
 sbarazzarsi
 
 first of all
@@ -11997,3 +12000,54 @@ raddoppiare
 
 you aren't at all weird
 non sei affatto strano
+
+single-member; single-seat
+uninominale
+
+in the absence
+in assenza
+
+timeliness
+la tempestività
+
+merely
+meramente
+
+fidelity; allegiance; faithfullness
+la fedeltà
+
+quotation marks
+i virgolettati
+
+dangerous
+periclitante
+
+unpacking
+lo spacchettamento
+
+to fork; to bifurcate
+biforcarsi
+
+ministry; department
+il dicastero
+
+to reelect
+rieleggere
+
+reelected
+rieletto
+
+press conference
+la conferenza stampa
+
+to overflow; to deafen
+strabordare
+
+deafening; overflowing; overwhelming
+strabordante
+
+ankle
+la cavaglia
+
+dark; shadowy; dim
+tenebroso

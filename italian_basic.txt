@@ -4216,7 +4216,7 @@ la sauna
 diet
 la dieta
 
-directions; guide
+directions; guide; driving
 la guida
 
 nature
