@@ -12051,3 +12051,9 @@ la cavaglia
 
 dark; shadowy; dim
 tenebroso
+
+ray of sunshine
+il raggio di sole
+
+sunshine
+la luce di sole
