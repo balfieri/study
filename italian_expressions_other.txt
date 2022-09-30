@@ -3283,9 +3283,6 @@ ci vuole altro!
 fair's fair
 ciò che è giusto è giusto
 
-what goes up must come down
-ciò che sale deve ridiscendere
-
 easy come, easy go
 ciò che si guadagna facilmente, si perde anche facilmente
 
@@ -3549,15 +3546,6 @@ non lasciarsi incantare; non farsi abbindolare
 
 to paint the town red
 folleggiare
-
-among other things
-fra l'altro
-
-friends and acquaintances
-amici e conoscenti
-
-out of my house
-fuori da casa mia
 
 scram!
 fuori dai piedi!
@@ -4096,17 +4084,11 @@ si tira a campare; si tira avanti
 there we go again
 siamo alle solite
 
-be serious!
-sìi sèrio
-
 the gravy train
 la sinecura; la mangiatoia
 
 to go cold turkey
 smettere di colpo [di fumare/drogarsi...]
-
-sweet dreams
-sogni d'oro
 
 his bark is worse than his bite
 can che abbaia non morde
@@ -4155,9 +4137,6 @@ stiamo freschi
 
 strained relations
 i rapporti tesi
-
-to win hands down
-stravincere
 
 don't give up!
 stringi i dènti!
@@ -4570,23 +4549,8 @@ in hindsight
 brain drain
 i cervelli in fuga
 
-this is what you have to look forward to
-questo è quello che ti aspetta
-
 to knock on wood
 toccare ferro
-
-they think they own the place
-pensano di essere padroni di casa
-
-if I had to do it all over again
-se dovessi rifare tutto da capo
-
-if I could do it all over again
-se potessi rifare tutto da capo
-
-the genie is out of the bottle
-il genio è uscito dalla lampada
 
 to be the third wheel
 reggere il moccolo
@@ -4605,9 +4569,6 @@ grazie a Dio è venerdì; per fortuna è venerdì
 
 that's the spirit
 questo è lo spirito giusto; questo è lo spirito
-
-it's the thought that counts
-è il pensiero che conta
 
 I don't know; I have no idea
 boh!
@@ -4633,7 +4594,7 @@ fichissimo
 hai detto un'ovvietà
 hai fatto la scoperta dell'America; hai fatto la scoperta dell'acqua calda
 
-fare rumore
+to make noise
 fare un casino; fare casino
 
 solo per fare qualcosa di diverso
@@ -4656,12 +4617,6 @@ che schifo!
 
 darn! dang!
 mannaggia
-
-get lost!
-vattene!
-
-a rip-off
-una fregatura
 
 to see one another; to get together (with friends)
 beccarsi; trovarsi; vedersi
@@ -4774,146 +4729,26 @@ l'oca; l'oca giuliva; la gallina; la bambola
 indica una persona che vi dà fastidio, vi irrita
 il rompiscatole
 
-never been better
-mai stato meglio; da Dio!
-
 doing great
 alla grande
 
 I'm psyched
 sto gasato
 
-not bad
-niente male; non c'è male
-
-nothing special
-niente di speciale; niente di che
-
-I can't complain
-non mi posso lamentare; non mi lamento; si tira avanti
-
-so so
-cosi e cosi; insomma; da quanto tempo
-
-things are going badly
-da cani; da schifo; uno schifo
-
-I've seen better days
-ho visto giorni migliori
-
-what do you say?
-che si dice?
-
-what can you tell me?
-che mi racconti?
-
-what's up?
-ci sono novità; novità?
-
-the usual
-il solito; la solita
-
-everything ok?
-tutto bene?
-
-what's wrong?
-qualcosa non va?
-
-what's happening?
-che succede?
-
-how's it possible?
-ma com'è possibile?; proprio tu?
-
-how could you do such a thing?
-com'è ti è venuto in mente di fare una cosa simile?; perché mai hai fatto una cosa simile?
-
-what's wrong with you?
-che c'è di sbagliato in te?
-
-what's wrong with your brain?
-cos'hai nel cervello?; cosa c'è di sbagliato nel tuo cervello?
-
-in no time; in very little time; in a moment
-in men che non si dica
-
-to use all of one's energy (to do something)
-mettercela tutta; dare il massimo
-
-my gosh; wow
-accipicchia
-
 end of story; and that is that; nothing more to say
 chi s'è visto s'è visto
-
-joint
-la canna
-
-see you later
-a presto; a dopo
-
-first-world problem
-il problema da primo mondo
-
-nothing at all
-nulla di nulla
-
-perdere il controllo
-svalvolare
-
-to nerd out
-nerdare
-
-what the heck
-che/cosa diavolo; cosa accidenti
-
-not bad
-mica male
 
 circular and purposely confusing and metaphysical question
 la domanda marzulliana
 
-to die laughing
-morire dalle risate; morire dal ridere
-
 hot air; idle words
 l'aria fritta
 
-kick serious ass!; have a kick-ass day!
-spakka di brutto!; spacca di brutto!
-
-what's new?
-che c'è di nuovo?; novità?
-
 babe magnet
 la calamita per le pupe
-
-loony; nutty; crazy; kooky; loopy
-pazzarello
-
-mamma's boy
-il mammone
 
 bummer; how disappointing; that sucks
 che disdetta
 
 to emerge; to reveal itself
 venire a galla
-
-there's no way in hell that
-per nessuna ragione al mondo; non è assolutamente possibile
-
-in order to get my money's worth
-per far valere il mio denaro
-
-it's like pulling teeth
-è come strappare i denti
-
-to always get one's way
-fare sempre a modo suo
-
-to steamroll
-essere delicati come un bulldozer
-
-to take with a grain of salt
-prendere con le pinze
