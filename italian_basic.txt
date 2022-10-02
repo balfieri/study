@@ -3463,9 +3463,6 @@ finire
 to unit
 unire
 
-to impede
-impedire
-
 to define
 definire
 
@@ -6067,7 +6064,7 @@ atterare
 gas station
 il benzinaio
 
-expiration
+expiration; deadline
 la scadenza
 
 psychiatric

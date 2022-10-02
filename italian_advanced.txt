@@ -1720,7 +1720,7 @@ bussare
 moreover
 per altro; d'altronde
 
-defeat; loss
+defeat; loss; beating
 la sconfitta
 
 contemporary; peer
@@ -2851,9 +2851,6 @@ naufragare
 to marry; to fly together
 convolare
 
-to engage
-ingaggiare
-
 threshold; sill; doorstep
 la stoglia
 
@@ -2866,7 +2863,7 @@ avviare
 to go; to leave; to depart
 recarsi
 
-to click (photo); to startle
+to click (photo); to startle; to trigger
 scattare
 
 concerned
@@ -4660,9 +4657,6 @@ vivere di rendita
 makeshift; fallback
 il ripiego
 
-to protrude; to jut
-sporgere
-
 connoisseur; expert
 il conoscitore
 
@@ -5353,9 +5347,6 @@ dietro alle quinte
 to grow; to cultivate
 cultivare
 
-look (on face)
-lo sguardo
-
 look (taken)
 l'occhiata
 
@@ -5593,7 +5584,7 @@ intuitivamente ovvio
 to originate; to come; to proceed
 provenire
 
-to humor; to second; to pander
+to humor; to second; to pander; to give into
 assecondare
 
 stage; theater
@@ -8011,7 +8002,7 @@ radunato
 motive; reason; motivation
 il movente
 
-to put down; to fell; to chop down; to kill (an animal)
+to put down; to fell; to chop down; to kill (an animal); to tear down
 abbattere
 
 lineage; line; ancestry
@@ -8401,7 +8392,7 @@ agevole
 paradigm
 la paradigma
 
-route; course; run
+route; course; run; journey
 il percorso
 
 conservation; storage
@@ -10462,9 +10453,6 @@ mozzafiato
 oath; pledge; vow
 il giuramento
 
-to crash; to smash
-schiantare
-
 mourning; bereavement
 il lutto
 
@@ -12240,3 +12228,192 @@ il tifone
 
 cyclone
 il ciclone
+
+contingency; eventuality
+l'evenienza
+
+to multiply tenfold
+decuplicare
+
+to crack; to break
+incrinare
+
+your whole life is in front of you
+tutta la tua vita è davanti a te
+
+reward
+la ricompensa
+
+reference; return
+il rimando
+
+southern
+meridionale
+
+northern
+settentrionale
+
+to appear; to show
+affacciare
+
+as a pretext
+a pretesto
+
+half true
+vero a metà
+
+cue; hint
+lo spinto
+
+comedy
+la comicità
+
+to lock oneself up
+rinchiudersi
+
+resignation
+le dimissioni
+
+stint; bowl
+la gavetta
+
+to needle; to henpeck; to tease
+punzecchiare
+
+deliberately
+volutamente
+
+crumbling
+lo sgretolamento
+
+to forward; to advance
+inoltrarsi
+
+idler; lazy-bones; loafer
+il fannullone
+
+to crumble; to shatter
+sgretolare
+
+to prevent; to block; to hinder; to impede
+impedire
+
+to consider; to weigh
+soppesare
+
+to confer with; to consult
+interpellare
+
+upheaval; distortion; disruption
+lo stravolgimento
+
+to unravel
+dipanarsi
+
+overwhelming
+soverchiante
+
+more than ever
+più che mai
+
+to hire; to employ; to engage
+ingaggiare
+
+to thrive; to prosper
+prosperare; fare strada
+
+to break; to crash; to smash
+schiantare
+
+to implement; to actualize
+attuare
+
+outcome
+l'esito
+
+re-count
+il riconteggio
+
+mallet
+il maglio; il mazzuolo
+
+at the top
+in vetta
+
+slowing down
+il rallentamento
+
+to clutch; to grab hold
+aggrappare
+
+cohesive
+coeso
+
+to misrepresent; to belie
+snatuare
+
+shock; shake; jolt
+la scossa
+
+skirmish; squabble
+la scaramuccia
+
+faded
+sbiadato
+
+to protrude; to jut; to project
+sporgere
+
+break-in
+l'irruzione
+
+intimidating
+intimidatorio
+
+inexorably
+inesorabilmente
+
+temporary jobs; occasional jobs
+i lavori saltuari
+
+look; gaze
+lo sguardo
+
+to wriggle; to struggle
+divincolarsi
+
+water color
+l'acquarello
+
+to derail
+deragliare
+
+monolithic
+monolitico
+
+inaccessible
+inavvicinabile
+
+to clear; to drain; to reclaim
+bonificare
+
+warning sign
+l'avvisaglia
+
+to go off the tracks
+uscire dai binari
+
+source; spring
+lo sorgente
+
+why bother?
+perché disturbarsi
+
+what's the point?
+che senso ha?
+
+moth-eaten
+tarlato
+
+chivalry
+la cavelleria
