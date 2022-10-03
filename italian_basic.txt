@@ -6852,3 +6852,15 @@ andare al cinema
 
 magazine
 la rivista
+
+female
+femmina
+
+feminine
+femminile
+
+male
+maschio
+
+masculine
+maschile
