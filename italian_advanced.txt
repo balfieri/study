@@ -7486,7 +7486,7 @@ volare in giro per il mondo; volare intorno al mondo
 bay
 la baia
 
-canteen
+canteen; cafeteria
 la mensa
 
 TV aerial
@@ -12519,3 +12519,15 @@ buddista
 
 to stay in the present
 rimanere nel presente; restare nel presente
+
+pomegranate
+il melograno
+
+to shed
+perdere il pelo; perdere i peli
+
+to see the glass half full
+vedere il bicchiere mezzo pieno
+
+bucket list
+la lista dei desideri
