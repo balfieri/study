@@ -4141,9 +4141,6 @@ l'avvelenatore
 to poison
 avvelenare
 
-ghastly; chilling
-agghiacciante
-
 to freeze; to chill
 agghiacciare
 
@@ -7954,7 +7951,7 @@ l'ammortizzatore
 assumption; employment
 l'assunzione
 
-subordinate
+subordinate; subjected
 sottoposto
 
 purpose; aim; objective
@@ -12417,3 +12414,72 @@ tarlato
 
 chivalry
 la cavelleria
+
+down payment; deposit
+la caparra
+
+deterioration
+l'aggravamento
+
+reliability
+l'attendibilità
+
+fertile
+fecondo
+
+fertility
+la fecondità
+
+declining birth rate
+la denatalità
+
+outlet; market
+lo sbocco
+
+abysmal
+abissale
+
+influx; inflow
+l'afflusso
+
+to urge; to ask; to sollicit
+sollecitare
+
+to expose; to reveal; to uncover
+scoperchiare
+
+to simmer
+sobbollire
+
+last resort
+l'ultima spiaggia
+
+to deal; to push; to peddle
+spiacciare
+
+ghastly; chilling; bloodcurdling
+agghiacciante
+
+preschool (adj)
+prescuolare
+
+draconian
+draconiano
+
+abnegation
+l'abiura
+
+cautionary; admonitory
+ammonitorio
+
+exemplary; paradigmatic
+paradigmatico
+
+to extradite; to deport
+estradare
+
+antisemitic
+antisemito
+
+dissolved
+disciolto
