@@ -5549,7 +5549,7 @@ to sadden; to have sad feelings; to grieve
 rattristarsi
 
 pulse
-il battito
+il battito; il polso
 
 legend
 la leggenda
@@ -12531,3 +12531,6 @@ vedere il bicchiere mezzo pieno
 
 bucket list
 la lista dei desideri
+
+to take his pulse
+prendere il suo battito; prendere il suo pulso; sentirgli il polso; controllare il battito; controllare il polso
