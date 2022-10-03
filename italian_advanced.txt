@@ -709,7 +709,7 @@ cascare
 to satisfy; to gratify; to please
 appagare
 
-to fart; to make incorrect; to correct wrongly
+to make incorrect; to correct wrongly
 scorreggere
 
 foolishness; nonsense; rubbish
@@ -12546,3 +12546,9 @@ fecondare; fertilizzare
 
 significant other
 il partner
+
+fart
+la scoreggia
+
+to fart
+scoreggiare
