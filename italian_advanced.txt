@@ -12621,3 +12621,6 @@ la casa di campagna
 
 retirement home; nursing home
 la casa di riposo
+
+bonus room
+la stanza bonus
