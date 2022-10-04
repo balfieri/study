@@ -5716,7 +5716,7 @@ il boicottaggio
 to incite
 incitare
 
-freedom of speech
+freedom of speech; free speech
 la libertà di parola
 
 irreconcilable
@@ -12570,3 +12570,6 @@ riluttante
 
 recalcitrant
 recalcitrante
+
+self-restraint
+l'autocontrollo
