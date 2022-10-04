@@ -12636,3 +12636,6 @@ non voglio annoiarti con i dettagli
 
 skillful; proficient; expert
 provetto
+
+praise; laud
+la lode
