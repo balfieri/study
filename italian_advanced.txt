@@ -12645,3 +12645,6 @@ inciampare
 
 to tickle the funny bone
 solleticare l'osso divertente
+
+relieved
+sollevato
