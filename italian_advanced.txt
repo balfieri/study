@@ -632,7 +632,7 @@ to pack; to wrap; to package
 imballare
 
 aware; conscious
-consapevole
+cosciente; consapevole
 
 to reject
 rifiutare; rispingere
@@ -12627,3 +12627,9 @@ la stanza bonus
 
 narcissistic
 narcisistico
+
+narcissist
+il narcisista
+
+I don't want to bore you with the details
+non voglio annoiarti con i dettagli
