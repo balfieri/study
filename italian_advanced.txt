@@ -1018,7 +1018,7 @@ mi raccomando! ti prego!
 to recommend (something to somebody)
 raccomandare
 
-by chance; by any chance
+by chance; by any chance; by luck
 per caso
 
 yet; nevertheless; still
@@ -7969,7 +7969,7 @@ equipollente
 committee; board; commission
 il comitato
 
-to coach
+to coach; to train
 allenare
 
 to be disheartened; to be discouraged
@@ -12600,3 +12600,12 @@ la spedizione
 
 to err on the side of
 sbagliare per eccesso di
+
+attachment
+l'attaccamento
+
+fairness
+l'equità
+
+public interest
+l'interesse pubblico
