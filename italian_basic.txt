@@ -4270,7 +4270,7 @@ la panetteria; la pasticceria
 to go on foot
 andare a piedi
 
-to lend
+to lend; to loan; to pay
 prestare
 
 to borrow
