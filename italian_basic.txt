@@ -6838,12 +6838,6 @@ il sacchetto di plastica
 to overfill
 sovrariempire
 
-scrap
-lo scarto
-
-to seal
-sigilare
-
 unkind
 scortese; sgarbato
 
@@ -6864,3 +6858,9 @@ maschio
 
 masculine
 maschile
+
+content (n)
+il contenuto
+
+to achieve
+realizzare; compiere

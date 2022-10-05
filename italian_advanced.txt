@@ -2635,9 +2635,6 @@ musone; burbero; bisbetico
 out there
 là fuori; lì fuori
 
-to brag
-vantarsi
-
 thorough
 accurato; completo; minuzioso
 
@@ -9487,9 +9484,6 @@ pareggiato per il secondo
 endorsement money
 le sponsorizzazioni; i soldi dell'assicurazione
 
-content (n)
-il contenuto
-
 doctrine
 la dottrina
 
@@ -12651,3 +12645,36 @@ sollevato
 
 porn star
 la pornostar; la pornodiva
+
+to speed up
+accelerare
+
+chipmunk
+lo scoiattolo americano
+
+time management
+la gestione del tempo
+
+confirmation
+la conferma
+
+to brag; to boast
+vantarsi
+
+bragging
+vantante
+
+inner peace
+la pace interiore
+
+bittersweet
+agrodolce
+
+overscheduling
+i troppi impegni
+
+to seal
+sigilare
+
+scrap
+lo scarto
