@@ -12684,3 +12684,9 @@ mettersi a gridare
 
 to rewrap
 rincartare
+
+dinner table
+la tavola da cena
+
+lunch table
+la tavola da pranzo
