@@ -12699,3 +12699,6 @@ nichilista
 
 to go beyond
 andare oltre
+
+statistically speaking
+statisticamente parlando
