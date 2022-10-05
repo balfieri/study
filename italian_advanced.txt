@@ -12678,3 +12678,6 @@ sigilare
 
 scrap
 lo scarto
+
+to scream
+mettersi a gridare
