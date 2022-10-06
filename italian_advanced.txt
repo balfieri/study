@@ -11857,7 +11857,7 @@ ripescare
 the reins
 le redini
 
-to chant; to articulate
+to chant; to articulate; to call out
 scandire
 
 to do the math
@@ -12729,3 +12729,21 @@ barbuto
 
 font
 il carrattere
+
+mental lapse; slip of the tongue; brain fart
+il lapsus
+
+conservative (n)
+il conservatore
+
+tax
+la tassa
+
+taxes
+le tasse
+
+rotten; bad; putrid
+marcio; putrido
+
+to become degraded
+degradarsi
