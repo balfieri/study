@@ -11341,9 +11341,6 @@ il vincolo
 war horse; workhorse
 il cavallo di battaglia
 
-discounted; taken for granted
-scontato
-
 to teach a class; to lecture
 fare lezione
 
@@ -12711,3 +12708,18 @@ rustico
 
 to grant
 esaudire
+
+news channel
+il canale di notizie
+
+abolished
+abolito
+
+cable channel
+il canale via cavo
+
+to represent
+rappresentare
+
+foregone; discounted; paid; granted
+scontato
