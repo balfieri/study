@@ -12747,3 +12747,6 @@ marcio; putrido
 
 to become degraded
 degradarsi
+
+the most damage
+il peggior danno
