@@ -2149,7 +2149,7 @@ ubriacarsi
 to the point of
 fino al punto di
 
-to lie down
+to lie down; to lie
 stendersi; sdraiarsi
 
 to shine
@@ -8482,9 +8482,6 @@ intasato
 familiarity
 la dimestichezza
 
-to lie down
-sdraiarsi
-
 enclosure
 la clausura
 
@@ -12705,3 +12702,9 @@ statisticamente parlando
 
 don't let it go to your head
 non montarti la testa
+
+leak; breach; fault
+la falla
+
+rural; rustic
+rustico
