@@ -3490,9 +3490,6 @@ inserire
 to return
 restituire
 
-to grant
-esaudire
-
 to institute
 istituire
 

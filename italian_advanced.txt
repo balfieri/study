@@ -12708,3 +12708,6 @@ la falla
 
 rural; rustic
 rustico
+
+to grant
+esaudire
