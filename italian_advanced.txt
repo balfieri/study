@@ -12759,3 +12759,6 @@ in modo asincrono
 
 offline
 disconnesso
+
+infinitive
+l'infinito
