@@ -12750,3 +12750,12 @@ degradarsi
 
 the most damage
 il peggior danno
+
+asynchronous
+asincrono
+
+asynchronously
+in modo asincrono
+
+offline
+disconnesso
