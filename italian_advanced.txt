@@ -12723,3 +12723,6 @@ rappresentare
 
 foregone; discounted; paid; granted
 scontato
+
+bearded
+barbuto
