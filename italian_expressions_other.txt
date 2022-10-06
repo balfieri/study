@@ -3845,7 +3845,7 @@ we are not finished yet!
 non pensare di cavartela così
 
 don't lose heart!
-non pèrderti d'animo!
+non perderti d'animo!
 
 don't bother
 non si disturbi, non si incomodi
@@ -4310,7 +4310,7 @@ to have butterflies in one's stomach
 fremere di impazienza
 
 to have friends in high places
-un amico in alto
+avere un amico in alto
 
 to have oomph (to have get-up-and-go)
 essere esuberanti; avere verve
