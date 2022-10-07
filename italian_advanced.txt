@@ -12858,3 +12858,6 @@ recitare
 
 back-handed compliment
 il complimento ambiguo; il complimento equivoco
+
+mental institution
+il manicomio
