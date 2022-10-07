@@ -12846,3 +12846,9 @@ il ristretto campo visivo
 
 wide field of view
 l'ampio campo visivo
+
+feedback
+il feedback; la retroazione
+
+tactile
+tattile
