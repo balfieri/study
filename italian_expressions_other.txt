@@ -10,8 +10,8 @@ abboccare all'amo
 in grandi quantità
 a bizzeffe
 
-a buon rendere
 quando si accetta un favore con il proposito di ricambiarlo appena possibile
+a buon rendere
 
 perdere tempo in cose inutili
 acchiappare farfalle
@@ -73,9 +73,6 @@ aguzzar l'ingegno
 in modo sbrigativo anche se impreciso
 alla garibaldina
 
-sotto gli occhi di tutti; in pubblico
-alla luce del sole
-
 arrendersi; picchiare qualcuno
 alzare le mani
 
@@ -105,9 +102,6 @@ andare a puttane
 
 gironzolare senza una meta precisa
 andare a zonzo
-
-allontanare qualcuno in malo modo
-andare al diavolo
 
 andare incontro alla morte
 andare al macello
@@ -157,9 +151,6 @@ affogare nel grasso
 ritirarsi da una attività, intenso come lavoro
 appendere il cappello (o le scarpe) al chiodo
 
-to open one's eyes
-aprire gli occhi
-
 esclamazione; reazione improvvisa e violenta di fronte a un fatto inatteso
 apriti cielo
 
@@ -177,9 +168,6 @@ aver provato il morso del lupo
 
 essere molto giovani e inesperti
 avere ancora i denti da latte
-
-avere fortuna
-avere culo
 
 fare ancora un ultimo sforzo per raggiungere uno scopo
 aver fatto trenta e fare trentuno
@@ -250,9 +238,6 @@ avere le mani lunghe
 to be all up in everyone else's business
 avere le mani in pasta
 
-avere coraggio
-avere le palle
-
 non poterne più di qualcosa; essere stanchi detto in modo volgare
 avere le palle piene
 
@@ -288,9 +273,6 @@ avere un nodo alla gola
 
 febbre molto alta
 avere una febbre da cavallo
-
-to have a skeleton in the closet
-avere uno scheletro nell'armadio
 
 avere autorità per intervenire in una discussione e prendere decisioni
 avere voce in capitolo
@@ -352,9 +334,6 @@ capitare a fagiolo
 gettarsi in un'impresa pericolosa dalla quale non ci si può più ritirare, o anche trovarcisi coinvolti proprio malgrado
 cavalcare la tigre
 
-cercare dappertutto
-cercare a destra e a sinistra
-
 cercare le piccole imperfezioni; essere meticolosi
 cercare il pelo nell'uovo
 
@@ -363,12 +342,6 @@ cercare la quadratura del cerchio
 
 cercare in ogni direzione
 cercare in lungo e in largo
-
-to find a needle in a haystack
-cercare un ago in un pagliaio
-
-cercare qualcosa ovunque e con insistenza
-cercare per mare e per monti
 
 un nuovo problema fa passare in secondo piano il precedente
 chiodo scaccia chiodo
@@ -387,9 +360,6 @@ coltivare il proprio orto
 
 con grande autorità e severità
 comandare a bacchetta
-
-essere due elementi che non possono coesistere
-come il diavolo e l'acqua santa
 
 trattare in malo modo
 come una bestia
@@ -463,9 +433,6 @@ difendere coi denti
 sfogarsi; parlare liberamente senza badare alla sensibilità degli altri
 dirne di tutti i colori
 
-restare inoperosi accontentandosi di quanto si è già ottenuto
-dormire sugli allori
-
 sentirsi sicuri, tranquilli, senza la minima preoccupazione
 dormire tra due guanciali
 
@@ -474,12 +441,6 @@ estremamente facile
 
 è sempre la stessa cosa già sentita in passato
 è la solita cantilena
-
-ignorare ciò che si è sentito
-entrare da un orecchio e uscire dall'altro
-
-to jump into action
-entrare in ballo
 
 essere certi di raggiungere un obiettivo
 essere a cavallo
@@ -493,9 +454,6 @@ essere alla frutta
 essere molto fortunati
 essere baciato dalla fortuna
 
-to fight like cats and dogs
-essere come cane e gatto
-
 spalleggiarsi l'un l'altro per compiere imprese disoneste
 essere come il gatto e la volpe
 
@@ -508,20 +466,11 @@ essere come l'ebreo errante
 trovarsi in grave pericolo
 essere con la corda al collo
 
-to be an open book
-essere come un libro aperto
-
 donna che si concede a molti
 essere di facili costumi
 
 essere indulgente o tollerante
 essere di manica larga
-
-per definire un'amicizia intima fra due persone
-essere due anime in un nocciolo
-
-avere un comportamento diverso, solitamente in negativo, da quello abituale
-essere fuori di se'
 
 essere più importanti
 essere in prima linea
@@ -540,9 +489,6 @@ essere la fata Turchina
 
 essere oggetto di chiacchiere
 essere la favola del paese
-
-to be the black sheep
-essere la pecora nera
 
 essere l'elemento migliore o più forte
 essere la punta di diamante
@@ -1431,9 +1377,6 @@ vedere il fondo
 
 di già che si ha fatto tanto, si può fare un ultimo sforzo in più.
 abbiamo fatto trenta, facciamo trentuno!
-
-(nell'accettare un favore) con l'intenzione di poter ricambiare presto.
-a buon rendere
 
 sinceramente
 a cuore aperto
@@ -4269,9 +4212,6 @@ colmare di attenzioni qualcuno, corteggiare
 
 to get fresh with somebody
 far capire il proprio desiderio sessuale a qualcuno
-
-to get it off one's chest
-sfogarsi
 
 to get one's rocks off
 usare sessualmente la donna, scopare
