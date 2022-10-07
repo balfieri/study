@@ -1435,9 +1435,6 @@ provenere
 within (some time)
 entro
 
-bulletin
-il bollettino
-
 to scale
 sguamire
 
@@ -11548,9 +11545,6 @@ in tuta
 to postpone
 posticipare
 
-to flaunt
-sfoggiare
-
 to deepen; to elaborate
 approfondire
 
@@ -12762,3 +12756,21 @@ disconnesso
 
 infinitive
 l'infinito
+
+report; newsletter; bulleten
+il bollettino
+
+after the meal
+a fine pasto
+
+to flaunt; to show off
+sfoggiare
+
+abundant
+abbondante
+
+garbage; rubbish; trash
+l'immondizia
+
+to attract; to draw
+attirare
