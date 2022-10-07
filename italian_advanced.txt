@@ -12837,3 +12837,12 @@ il budget
 
 peripheral vision
 la visione periferica
+
+field of view
+il campo visivo
+
+narrow field of view
+il ristretto campo visivo
+
+wide field of view
+l'ampio campo visivo
