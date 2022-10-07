@@ -985,8 +985,11 @@ farcire
 bakery
 il paneficio
 
-long-suffering
+long-suffering (adj)
 longanime
+
+long-suffering (n)
+la longanimità
 
 nonetheless
 ciò nonostante
