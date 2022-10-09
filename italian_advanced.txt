@@ -12960,3 +12960,6 @@ il pannolino; i pannolini
 
 childhood (adj)
 infantile
+
+headache
+la cefalea
