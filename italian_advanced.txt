@@ -640,9 +640,6 @@ rifiutare; rispingere
 to annul; to cancel
 annullare
 
-rating
-la valutazione
-
 altogether different
 del tutto diverso
 
@@ -8428,9 +8425,6 @@ il matrimonio omosessuale
 gay rights
 i diritti dei gay
 
-chopping block
-il ceppo
-
 summary
 il riassunto; il sommario
 
@@ -9621,9 +9615,6 @@ l'aggressione passiva
 
 unknown reason
 il motivo sconosciuto
-
-to grovel
-umiliarsi
 
 defense mechanism
 il meccanismo di difesa
@@ -12867,3 +12858,81 @@ entrare in menopausa
 
 body-building
 il bodybuilding
+
+unlucky person; nerd; loser
+lo sfigato
+
+two hours in each direction
+a due ore di distanza
+
+what do you do for work?
+cosa fai come lavoro?
+
+to grovel; to humble oneself
+umiliarsi
+
+prodigy
+il prodigio
+
+promiscuous
+promiscuo
+
+walkable
+esplorabile
+
+in anticipation
+in previsione
+
+doggy
+il cagnolino
+
+puppy
+il cucciolo
+
+to last longer
+durare più a lungo
+
+I apologize for the delay
+mi scuso per il ritardo
+
+out of town
+fuori città
+
+darkness
+le tenebre
+
+imposed
+imposto
+
+to expire; to lapse; to end
+scadere
+
+uninhibited
+disinibito
+
+vacation home
+la casa per le vacanze
+
+to get the false impressione
+avere la falsa impressione
+
+strain; chopping block
+il ceppo
+
+contagious
+contagioso
+
+clever; prudent; cautious; noticed
+accorto
+
+just in time
+appena in tempo; giusto in tempo
+
+any second
+in qualsiasi momento
+
+evaluation; rating
+la valutazione
+
+discography
+la discografia

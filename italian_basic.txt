@@ -3676,9 +3676,6 @@ venire
 turned on; on
 acceso
 
-noticed
-accorto
-
 drank
 bevuto
 
