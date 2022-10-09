@@ -1372,9 +1372,6 @@ l'infermiera
 scissors
 i forbici
 
-stale
-stantio
-
 cone
 il cono
 
@@ -1729,7 +1726,7 @@ annoiato
 weird; strange
 strano
 
-self-centered
+self-centered; egocentric
 egocentrico
 
 superficial
@@ -2193,12 +2190,6 @@ il tabellone
 
 inhabitants
 gli abitanti
-
-small square
-il margo
-
-alley; lane
-il vicolo
 
 main street; avenue
 il corso
