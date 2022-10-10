@@ -4219,7 +4219,7 @@ la serata
 show; play
 lo spettacolo
 
-fairy boat; steam boat
+ferry boat; steam boat
 il vaporetto
 
 kiss
