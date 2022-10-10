@@ -527,7 +527,7 @@ to scold
 sgridare
 
 headwind
-il vento contrario
+il vento contrario; il vento di prua; il controvento
 
 tailwind
 il vento in coda
