@@ -2548,6 +2548,9 @@ l'approfondimento
 air traffic control
 il controllo del traffico aereo
 
+air traffic controller
+il controllore del traffico aereo
+
 disrespectful
 irrispettuoso
 
@@ -12987,3 +12990,12 @@ la mannaia
 
 followers
 i seguaci
+
+navigation system
+il sistema del navigatore
+
+crazy family
+la famiglia di pazzi
+
+to cripple; to maim; to mangle
+storpiare
