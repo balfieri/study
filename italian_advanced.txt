@@ -11332,9 +11332,6 @@ il vincolo
 war horse; workhorse
 il cavallo di battaglia
 
-to teach a class; to lecture
-fare lezione
-
 paradoxical
 paradossale
 
@@ -13171,3 +13168,8 @@ la teglia
 to overfill
 sovrariempire
 
+to teach a class; to do a lesson; to lecture
+fare lezione
+
+to grow (plant)
+far crescere; cultivare
