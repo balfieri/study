@@ -2182,9 +2182,6 @@ il centro storico
 bench
 la panchina
 
-billboard
-il tabellone
-
 inhabitants
 gli abitanti
 
@@ -2335,18 +2332,6 @@ il maiale
 bird
 l'uccello
 
-hen
-la gallina
-
-goose
-l'oca
-
-il
-pulcino
-
-fly
-la mosca
-
 bee
 l'ape
 
@@ -2391,9 +2376,6 @@ la tovaglia
 
 paper towels
 i tovaglioli di carta
-
-pantry
-la dispensa
 
 ham
 il prosciutto
@@ -2516,7 +2498,7 @@ valid
 valido
 
 busy; occupied
-occupato
+occupato; impegnato
 
 hot
 caldo
@@ -2568,12 +2550,6 @@ pulito
 
 fast
 rapido; veloce
-
-striped
-a righe
-
-polka dotted
-a pois
 
 old
 antico; vecchio
@@ -2644,12 +2620,6 @@ sbagliato
 late
 in ritardo
 
-checkered
-scacchi
-
-plain (adj)
-in tinta unita; semplice
-
 soccer; football (European)
 il calcio
 
@@ -2659,26 +2629,14 @@ il pallacanestro
 swimming
 il nuoto
 
-diving
-i tuffi
-
 skiing
 lo sci
 
 gymnastics
 la ginnastica
 
-track (sport)
-la corsa
-
-high jumping
-il salto in alto
-
 cycling
 il ciclismo
-
-auto racing
-l'automobilismo
 
 sailing
 il vela
@@ -2724,9 +2682,6 @@ lo squash
 
 judo
 il judo
-
-skates
-i pattini
 
 bicycle
 la bicicletta
@@ -2781,9 +2736,6 @@ nevicare
 
 cloud
 la nuvola
-
-hail
-il grandine
 
 it's nice (weather)
 fa bello; fa bel tempo
@@ -2869,14 +2821,8 @@ il collo
 throat; gluttony
 la gola
 
-dizziness
-il capogiro
-
 nausea
 la nausea
-
-shivers
-i brividi
 
 better
 meglio
@@ -2892,9 +2838,6 @@ l'influenza
 
 cough
 la tosse
-
-migraine
-l'emicrania
 
 thirst
 la sete
@@ -2980,23 +2923,14 @@ dicembre
 Christmas
 il Natale
 
-Advent
-l'Avvento
-
 New Year's
 il Capodanno
-
-All Saints' Day
-l'Ognissanti
 
 Easter
 la Pasqua
 
-Lent
-la Quaresima
-
 eve
-la Vigilia di
+la vigilia di
 
 August 15th
 Ferragosto
@@ -3247,9 +3181,6 @@ dipingere
 to move (body, as in gymnastics)
 muovere
 
-to draw; to deduce; to deceive
-trarre
-
 to defeat; to overcome; to vanquish
 sconfiggere
 
@@ -3340,9 +3271,6 @@ soffrire
 to amuse; to entertain
 divertire
 
-to agree; to consent
-acconsentire
-
 to continue; to go on; to proceed; to follow
 proseguire
 
@@ -3409,14 +3337,8 @@ chiarire
 to vanish; to disappear; to vanquish; to go away
 sparire
 
-to digest; to stomach; to tolerate
-digerire
-
 to act
 agire
-
-to bury
-seppellire
 
 to diminish
 diminuire
@@ -3597,9 +3519,6 @@ rilassarsi
 
 to comb
 pettinarsi
-
-to shut up
-azzittirsi
 
 to turn (around)
 girarsi
@@ -4657,35 +4576,17 @@ il medico
 vet; veterinarian
 il veterinario
 
-bricklayer
-il muratore
-
-fruit vendor
-il fruttivendolo
-
 farmer
 il contadino
 
-bookseller
-il libraio
-
 butcher
 il macellaio
-
-carpenter
-il falegname
-
-fish seller; fishmonger
-il pescivendolo
 
 jewler
 il gioielliere
 
 quantity
 la quantità
-
-one hundred grams
-l'etto
 
 pack; parcel; package
 il pacco
@@ -6058,9 +5959,6 @@ empatico
 playlist
 la playlist
 
-obsessed
-ossessionato
-
 deficient; insufficient
 deficiente
 
@@ -6321,9 +6219,6 @@ la ricchezza
 
 Brazil
 il Brasile
-
-language requirements
-i requisiti linguistici
 
 to take a course
 seguire un corso
@@ -6769,9 +6664,6 @@ in saldo
 benefit
 il beneficio
 
-porter; bellboy
-il facchino
-
 candy
 le caramelle; i dolciumi
 
@@ -6793,29 +6685,14 @@ rimpire
 to fill; to fill out
 riempire
 
-to fold; to tuck; to fold over
-ripiegare
-
 to widen; to enlarge
 allargare
 
 the right half
 la metà destra
 
-backing pan
-la teglia
-
-baking paper; parchment paper
-la carta da forno
-
-aluminum foil
-la carta stagnola
-
 plastic bag; ziplock bag
 il sacchetto di plastica
-
-to overfill
-sovrariempire
 
 unkind
 scortese; sgarbato
