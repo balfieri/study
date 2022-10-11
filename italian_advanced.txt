@@ -2572,7 +2572,7 @@ il rimbalzo
 order (n)
 la commessa
 
-to forecast; to forsee; to predict
+to forecast; to forsee; to predict; to anticipate
 prevedere
 
 in competition
@@ -11020,9 +11020,6 @@ placare
 to under-promise and over-deliver
 promettere poco e mantenere di piu'
 
-tough
-tosto
-
 coffin; casket
 il feretro
 
@@ -13017,3 +13014,36 @@ andare a vivere con
 
 to die of old age
 morire di vecchiaia
+
+starting point
+il punto di partenza
+
+textile
+tessile
+
+to graft; to implant
+innestare
+
+feisty; badass; tough
+tosto
+
+usual appeals
+i consueti ricorsi
+
+asbestos
+l'amianto
+
+manufacturing (adj)
+manifatturiero
+
+bed (garden)
+l'aiuola
+
+swag; boatload
+la vagonata
+
+councilman
+l'assessore
+
+green thumb
+il pollice verde
