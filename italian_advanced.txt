@@ -13245,3 +13245,6 @@ la metropoli fiorente
 
 countable
 numerabile; contabile; enumerabile
+
+manageable
+maneggevole
