@@ -13242,3 +13242,6 @@ fiorente
 
 thriving metropolis
 la metropoli fiorente
+
+countable
+numerabile; contabile; enumerabile
