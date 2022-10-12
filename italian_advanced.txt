@@ -2566,9 +2566,6 @@ rinunciare; abbandonare
 leap
 il balzo
 
-bounce
-il rimbalzo
-
 order (n)
 la commessa
 
@@ -6160,7 +6157,7 @@ il pane lievitato
 Passover
 Pesach
 
-to mention
+to mention; to hint at
 citare; accennare; menzionare
 
 acceptable; effective; valid
@@ -13173,3 +13170,72 @@ fare lezione
 
 to grow (plant)
 far crescere; cultivare
+
+river bank
+la riva del fiume; la sponda del fiume
+
+sharper
+più netto
+
+rioter; insurgent
+il rivoltoso
+
+upheaval
+il rivolgimento
+
+claim; demand; vindication
+la rivendicazione
+
+restoration
+il ripristino
+
+to climax
+arrivare al culmine
+
+to spread; to flood; to overflow
+dilagare
+
+continuation; pursuance
+il proseguimento
+
+to hinder; to obstruct; to hamper
+ostacolare
+
+to go that far; to get to that point
+arrivare a tanto
+
+to advance; to progress
+progredire
+
+counterproductive
+controproducente
+
+on the other hand
+di contro
+
+remedy
+il rimedio
+
+bounce; rebound
+il rimbalzo
+
+weight loss
+il dimagrimento
+
+green light
+il via libera
+
+appetizing; palatable
+appetibile
+
+to drive easily
+andare facilmente in macchina
+
+barrier island
+l'isola di barriera
+
+to hike
+fare escursioni; fare trekking
+
+coastal plain
+la pianura costiera
