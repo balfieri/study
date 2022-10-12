@@ -6727,5 +6727,8 @@ avere voglia di
 productive
 produttivo
 
-benefit
+benefit; advantage
 il beneficio; il vantaggio
+
+disadvantage
+lo svantaggio
