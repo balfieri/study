@@ -13254,3 +13254,6 @@ la didattica in aula
 
 broadcast programming; programming content
 il palinsesto
+
+quick cup of coffee
+il caffè al volo
