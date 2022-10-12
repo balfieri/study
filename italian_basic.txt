@@ -698,7 +698,7 @@ fog
 la nebbia
 
 cloudy
-nebuloso
+nevuloso
 
 snow
 la neve
