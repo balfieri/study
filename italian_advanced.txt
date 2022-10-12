@@ -13248,3 +13248,6 @@ numerabile; contabile; enumerabile
 
 manageable
 maneggevole
+
+classroom teaching
+la didattica in aula
