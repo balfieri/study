@@ -6732,3 +6732,6 @@ il beneficio; il vantaggio
 
 disadvantage
 lo svantaggio
+
+Italian teacher
+l'insegnante di italiano
