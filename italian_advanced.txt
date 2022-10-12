@@ -6136,7 +6136,7 @@ elaborato
 to devolve
 devolvere
 
-to flower; to bloom
+to flower; to bloom; to thrive
 fiorire
 
 nursery school; kindergarten
@@ -9180,9 +9180,6 @@ involontariamente
 
 spouse (starts with c)
 il congiuge
-
-flourishing; blooming
-fiorente
 
 sexually suggestive
 sessualmente suggestivo
@@ -13239,3 +13236,9 @@ fare escursioni; fare trekking
 
 coastal plain
 la pianura costiera
+
+thriving; flourishing; blooming
+fiorente
+
+thriving metropolis
+la metropoli fiorente
