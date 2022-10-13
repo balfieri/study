@@ -13296,3 +13296,9 @@ il commissariato di polizia
 
 to resist the temptation
 resistere alla tentazione
+
+skill level
+il livello di abilità
+
+penpal
+l'amico di penna
