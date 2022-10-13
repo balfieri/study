@@ -6732,3 +6732,6 @@ lo svantaggio
 
 Italian teacher
 l'insegnante di italiano
+
+passenger
+il passeggero
