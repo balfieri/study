@@ -13386,3 +13386,6 @@ l'ora legale
 
 standard time
 il tempo standard; l'ora standard
+
+undercarriage
+il carrello; il telaio; il sottocarro
