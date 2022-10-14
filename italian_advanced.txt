@@ -4174,12 +4174,6 @@ svariati
 award-winning
 pluripremiato
 
-whom
-il quale
-
-which
-il cui
-
 to take place; to be set
 ambientare
 
@@ -7224,9 +7218,6 @@ il portapenne
 
 kitchenette
 l'angolo cuttura
-
-fireplace
-il camino
 
 gas cooker
 la cucina a gas
@@ -13359,3 +13350,39 @@ sgradito
 
 to settle; to locate
 insediarsi
+
+who; whom
+il quale; la quale
+
+whose; which
+il cui; la cui
+
+whoever
+colui che; colei che
+
+those that; whoever
+coloro che
+
+by process of elimination
+per esclusione
+
+script
+il copione
+
+chimney; fireplace
+il camino
+
+security guard
+la guardia giurata; la guardia di sicurezza
+
+pillar
+il pilastro
+
+optional
+faccolativo
+
+daylight saving time
+l'ora legale
+
+standard time
+il tempo standard; l'ora standard
