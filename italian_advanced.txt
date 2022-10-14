@@ -3061,9 +3061,6 @@ falsare
 track; passage
 il brano
 
-nevermind
-non importa; lascia perdere
-
 to demand; to exact; to request; to claim
 pretendere
 
@@ -13416,3 +13413,6 @@ o sei con me o sei contro di me
 
 to cross the line
 attraversare il confine; attraversare la linea; superare il limite
+
+never mind; nevermind
+lascia perdere; lascia stare; non importa
