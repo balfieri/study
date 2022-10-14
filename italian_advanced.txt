@@ -9739,6 +9739,9 @@ sapevo che sarebbe successo
 soundproof
 insonorizzato
 
+to soundproof
+insonorizzare
+
 as far as I'm concerned
 per quanto mi riguarda; per quel che mi riguarda
 
