@@ -3902,7 +3902,7 @@ ice
 ghiaccio
 
 water
-l'aqua
+l'acqua
 
 croissant
 il cornetto
