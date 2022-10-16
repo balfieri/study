@@ -3853,6 +3853,9 @@ i broccoli
 bean
 il fagiolo
 
+fava bean
+la fava
+
 sweetcorn
 il mais
 
