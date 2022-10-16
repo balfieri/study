@@ -4916,7 +4916,7 @@ I write to you in regard to
 Vi scrivo riguardo a
 
 pigeon
-il colombo
+il colombo; il piccione
 
 aboveground; on the surface
 in superficie
@@ -13575,3 +13575,9 @@ l'espanazione
 
 to overuse; to abuse
 abusare
+
+colander
+il colino
+
+to moan; to groan
+lagnare
