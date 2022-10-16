@@ -2275,9 +2275,6 @@ lontano
 here
 qui
 
-in front of
-davanti a
-
 di fronte a
 opposite
 
@@ -6735,3 +6732,12 @@ l'insegnante di italiano
 
 passenger
 il passeggero
+
+in front of
+davanti a; di fronte a
+
+next to
+accanto a; di fianco a
+
+outside of
+fuori da
