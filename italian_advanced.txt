@@ -11503,7 +11503,7 @@ in tuta
 to postpone
 posticipare
 
-to deepen; to elaborate
+to elaborate on; to deepen; to go deeper on
 approfondire
 
 understanding
@@ -13229,7 +13229,7 @@ broadcast programming; programming content
 il palinsesto
 
 quick cup of coffee
-il caffè al volo
+il caffè al volo
 
 fastest-growing
 in più rapida crescita
