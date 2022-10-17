@@ -13623,3 +13623,6 @@ riguardo a; in merito a
 
 where; in case; if
 qualora
+
+politely; courteously
+educatamente
