@@ -4963,9 +4963,6 @@ similmente
 provided; as long as
 purché
 
-in case
-qualora
-
 as long as; on condition that; provided
 a patto che; a condizione che
 
@@ -13620,3 +13617,9 @@ il partoriente
 
 to stay out of the way of
 stare lontano da; stare alla larga da
+
+in regard to
+riguardo a; in merito a
+
+where; in case; if
+qualora
