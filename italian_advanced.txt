@@ -3880,9 +3880,6 @@ decedere
 to precede
 precedere
 
-to weave
-tessere
-
 to milk; to squeeze; to ring
 mungere
 
@@ -5142,9 +5139,6 @@ aggravare
 
 oblivious
 ignaro; inconsapevole
-
-one another
-a vicenda
 
 to needle
 stuzzicare
@@ -9046,7 +9040,7 @@ il sentiero
 collision; push; shock
 l'urto
 
-to weave; to braid
+to weave; to braid; to intertwine
 intrecciare
 
 moment; instant
@@ -13593,3 +13587,36 @@ impegnativo
 
 I'm in the middle of
 sono nel bel mezzo di
+
+to weave; to knit
+tessere
+
+in the tent
+in tenda
+
+protection; tutelage; guardianship
+la tutela
+
+to bloom; to blossom; to flower
+sbocciare
+
+to exhaust; to wear
+stremare
+
+department; unit; ward
+il reparto
+
+fatigue; tiredness
+l'affaticamento
+
+harmony; chemistry
+l'affiatamento
+
+one another; each other
+a vicenda
+
+mother giving birth; birthmother
+il partoriente
+
+to stay out of the way of
+stare lontano da; stare alla larga da
