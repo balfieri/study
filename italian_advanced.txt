@@ -55,12 +55,6 @@ arrungginire
 cozy
 accogliente
 
-picky; demanding
-esigente
-
-challenging
-impegnativo
-
 to look good; to take a good look
 guardarsi bene
 
@@ -3336,9 +3330,6 @@ scomparso
 
 turn; turning point
 la svolta
-
-challenging
-impegnativo; stimolante
 
 to provoke; to stir up; to trigger
 scatenare
@@ -13584,3 +13575,21 @@ lagnare
 
 to bust; to ruin; to batter; to wreck
 scassare
+
+relevant
+rilevante
+
+detachment; separation
+il distacco
+
+to demand
+esigare
+
+demanding; picky; exacting
+esigente
+
+demanding; challenging
+impegnativo
+
+I'm in the middle of
+sono nel bel mezzo di
