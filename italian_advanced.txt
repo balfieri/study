@@ -11591,7 +11591,7 @@ what on earth were you thinking?
 che cosa mai stavi pensando; cosa diavolo stavi pensando
 
 you hurt my feelings
-hai ferito i miei sentimenti; mi ferisci
+hai ferito i miei sentimenti; mi hai ferito
 
 lock (canal)
 la chiusa; la conca
@@ -13635,3 +13635,9 @@ svenire
 
 to pass out from exhaustion
 svenire dalla stanchezza; svenire per la stanchezza
+
+hazardous; risky
+azzardato
+
+to take care of
+occuparsi di; prendersi cura di

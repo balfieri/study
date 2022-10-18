@@ -3689,7 +3689,7 @@ suitcase
 la valigia
 
 hairdryer
-l'asciugacapelli
+l'asciugacapelli; il fon
 
 soap
 il sapone
