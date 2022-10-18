@@ -13665,3 +13665,6 @@ diventare onnipresente; raggiungere ogni angolo del mondo
 
 the media
 i media; i mass media
+
+biased
+parziale
