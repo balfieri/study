@@ -11023,7 +11023,7 @@ il film di fantascienza
 in awe
 in soggezione
 
-halfway there
+halfway; halfway there
 a metà strada
 
 to register for an exam
@@ -13677,3 +13677,6 @@ si dà il caso che
 
 to exacerbate
 esacerbare
+
+to meet in the middle
+incontrarsi a metà strada
