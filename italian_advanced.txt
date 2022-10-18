@@ -13667,4 +13667,4 @@ the media
 i media; i mass media
 
 biased
-parziale
+parziale; prevenuto
