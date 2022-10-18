@@ -1714,7 +1714,7 @@ avaro; tirchio
 nervous
 nervoso
 
-impartial
+impartial; unbiased
 imparziale
 
 boring
