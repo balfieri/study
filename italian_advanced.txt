@@ -13647,3 +13647,6 @@ la palla a specchi
 
 lair
 la tana
+
+peak; apex; pinnacle
+l'apice
