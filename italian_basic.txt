@@ -6762,3 +6762,9 @@ ipsilon; i greca
 
 z (name)
 zeta
+
+message
+il messaggio
+
+text message
+il messaggio; il sms; il messaggino
