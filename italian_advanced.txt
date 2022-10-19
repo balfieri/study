@@ -13698,3 +13698,6 @@ tenue; debole; esile
 
 to feel like complaining
 avere voglia di lamentare
+
+to have a question about
+avere una domanda su
