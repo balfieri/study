@@ -6741,3 +6741,24 @@ accanto a; di fianco a
 
 outside of
 fuori da
+
+h (name)
+acca
+
+j (name)
+i lunga
+
+k (name)
+kappa
+
+w (name)
+doppia vi; doppia vu
+
+x (name)
+ics
+
+y (name)
+ipsilon; i greca
+
+z (name)
+zeta
