@@ -7175,7 +7175,7 @@ attic apartment
 la mansarda
 
 basement; basement apartment
-il seminterrato
+il seminterrato; lo scantinato
 
 penthouse
 l'attico
