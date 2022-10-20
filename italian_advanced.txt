@@ -13737,3 +13737,6 @@ il dominio
 
 goddess; beauty
 la dea
+
+wiseass; wise guy; wiseacre
+il sapientone; il saccente
