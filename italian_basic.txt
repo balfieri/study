@@ -6768,3 +6768,6 @@ il messaggio
 
 text message
 il messaggio; il sms; il messaggino
+
+Great Britain; Britain
+la Gran Bretagna
