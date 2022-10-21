@@ -13803,3 +13803,9 @@ propagare; diffondere; trasmettere
 
 big lie
 la grande bugia
+
+believer
+il credente; la credente; il sostenitore; il fedele
+
+disbeliever
+il miscredente; l'infedele
