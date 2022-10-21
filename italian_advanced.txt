@@ -12577,7 +12577,7 @@ provetto
 praise; laud
 la lode
 
-to stumble; to trip; to falter
+to trip; to stumble; to falter
 inciampare
 
 to tickle the funny bone
@@ -12955,8 +12955,8 @@ il sistema del navigatore
 crazy family
 la famiglia di pazzi
 
-to cripple; to maim; to mangle
-storpiare
+to cripple; to maim; to mangle; to mutilate
+storpiare; storziare; mutilare
 
 this just doesn't do it for me
 questo non fa proprio per me
