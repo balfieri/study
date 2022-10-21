@@ -4777,9 +4777,6 @@ fare colazione
 to begin working
 cominciare a lavorare
 
-to have a break
-fare una pausa
-
 to finish working
 finire di lavorare
 
