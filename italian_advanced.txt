@@ -12377,7 +12377,7 @@ influx; inflow
 l'afflusso
 
 to urge; to ask; to sollicit
-sollecitare
+sollecitare; esortare
 
 to expose; to reveal; to uncover
 scoperchiare
