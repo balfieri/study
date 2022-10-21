@@ -13809,3 +13809,12 @@ il credente; la credente; il sostenitore; il fedele
 
 disbeliever
 il miscredente; l'infedele
+
+freshman
+la matricola
+
+sophomore
+lo studente del secondo anno; il fagiolo
+
+understatement of the century
+l’eufemismo del secolo; la dichiarazione del secolo
