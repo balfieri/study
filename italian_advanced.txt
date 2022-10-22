@@ -13923,3 +13923,9 @@ partire un video; riprodurre un video
 
 to play a song (previously recorded)
 suonare una canzione; riprodurre una canzione
+
+to make a clean break
+dare un taglio netto
+
+clean break
+il taglio netto
