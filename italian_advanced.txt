@@ -4538,7 +4538,7 @@ multiple sclerosis
 la sclerosi multipla
 
 loquacious; overly talkative
-loquace; chiacchierone
+loquace; chiacchierone; chiacchierona
 
 hyphen
 il trattino
@@ -6195,9 +6195,6 @@ il principiante
 
 slob-ish; slovenly
 malmesso; rasandato; disordinato; non a posto
-
-not so much
-mica tanto
 
 warning
 l'avviso
@@ -8125,7 +8122,7 @@ origliare
 to collect; to withdraw
 ritirare
 
-to go off; to explode; to burst
+to go off; to explode; to burst; to break
 scoppiare
 
 skating
@@ -8454,9 +8451,6 @@ alleggerire
 
 census
 il censimento
-
-not (stronger)
-mica
 
 to gather together
 radunare
@@ -8995,7 +8989,7 @@ non che ci sia qualcosa di sbagliato in questo
 sandwich; club sandwich
 il tramezzino
 
-tasty; delicious
+tasty; delicious; fanciful
 sfizioso
 
 hearth; fireside
@@ -10389,9 +10383,6 @@ sfiorare
 
 breathtaking; stunning
 mozzafiato
-
-oath; pledge; vow
-il giuramento
 
 mourning; bereavement
 il lutto
@@ -12109,9 +12100,6 @@ morire dalle risate; morire dal ridere
 joint
 la canna
 
-not bad
-mica male
-        
 get lost!
 vattene!
 
@@ -12846,9 +12834,6 @@ in previsione
 
 doggy
 il cagnolino
-
-puppy
-il cucciolo
 
 to last longer
 durare più a lungo
@@ -13818,3 +13803,111 @@ lo studente del secondo anno; il fagiolo
 
 understatement of the century
 l’eufemismo del secolo; la dichiarazione del secolo
+
+time flies
+il tempo vola; il tempo fugge
+
+sad, but true
+triste, ma vero
+
+hood
+il cappuccio
+
+oath; pledge; swearing-in; vow; vows
+il giuramento
+
+mess
+il pasticcio; il casino
+
+surrender; capitulation; yield
+la resa
+
+plunder; pillage
+il saccheggio
+
+slippery
+scivoloso
+
+adventurous; daring
+rocambolesco
+
+to twirl
+volteggiare
+
+bat
+il pipistrello
+
+toothpick
+lo stuzzicadenti
+
+puddle
+la pozzanghera
+
+puppy; kitten; small animal
+il cucciolo
+
+appetizer
+lo stuzzichino
+
+to gossip
+spettegolare
+
+lip gloss
+il lucidalabbra
+
+spiral staircase
+la scala a chiocciola
+
+tongue twister
+lo scioglilingua
+
+to trot
+trotterellare
+
+to die (less common word)
+crepare
+
+clear; tranquil
+sereno
+
+to clear up
+rasserenarsi
+
+not (stronger); absolutely; at all; for nothing
+mica
+
+not bad at all
+mica male
+
+not very much at all; not so much
+mica tanto
+
+I think, therefore I am
+penso, dunque sono
+
+auxiliary
+ausiliare
+
+to knock on the door
+bussare alla porta
+
+for sure; certainly; all right
+di sicuro
+
+even though
+sebbene; anche se; benché
+
+scarecrow; straw man
+lo spaventapasseri
+
+to break out
+scoppiarsi
+
+outbreak
+lo scoppio
+
+to support; to back
+spalleggiare
+
+focus; hotbed; center
+il focolaio

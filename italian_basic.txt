@@ -3038,7 +3038,7 @@ to return
 tornare
 
 to begin; to start
-iniziare
+iniziare; cominciare; mettersi a
 
 to arrive
 arrivare
@@ -3078,9 +3078,6 @@ allontanare
 
 to watch; to look at
 guardare
-
-to begin
-cominciare
 
 to refuse
 rifiutare
