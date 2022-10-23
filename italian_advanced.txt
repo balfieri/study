@@ -9496,9 +9496,6 @@ l'etica
 ethical
 etico
 
-morning persona
-la persona mattiniera
-
 throne
 il trono
 
@@ -11791,7 +11788,7 @@ ripescare
 the reins
 le redini
 
-to chant; to articulate; to call out
+to chant; to articulate; to call out; to scan
 scandire
 
 to do the math
@@ -14079,3 +14076,27 @@ il saper fare
 
 doable
 fattibile
+
+adjacent
+adiacente
+
+morning person
+la persona mattiniera
+
+night person
+la persona notturna
+
+I don't know what to say
+non so cosa dire
+
+to bond; to tie; to bind
+legare
+
+to test oneself; to prove oneself
+mettersi alla prova
+
+to unlearn
+disimparare
+
+afterward; afterwards
+in seguito
