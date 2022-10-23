@@ -13910,7 +13910,7 @@ to play a video
 partire un video; riprodurre un video
 
 to play a song (previously recorded)
-suonare una canzione; riprodurre una canzione
+suonare una canzone; riprodurre una canzone
 
 to make a clean break
 dare un taglio netto
