@@ -14031,3 +14031,15 @@ a vapore
 
 rifle; shotgun
 la carabina; il fucile
+
+skeet shooting
+il tiro al piattello
+
+skeet; clay pigeon; clay disk
+il piattello
+
+pipe organ
+l'organo a canne
+
+sound tubes
+i tubi fonieri
