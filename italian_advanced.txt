@@ -8765,7 +8765,7 @@ over the line
 oltre il limite
 
 firing range; shooting range; polygon
-il poligono
+il poligono; il poligono di tiro
 
 self-defense
 l'autodifesa
@@ -14028,3 +14028,6 @@ i criteri
 
 steam (adj); steam-driven; steam-powered
 a vapore
+
+rifle; shotgun
+la carabina; il fucile
