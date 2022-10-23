@@ -1405,9 +1405,6 @@ andarsi di
 to care about you
 tenerci per te
 
-secondo me
-a mio parere
-
 to be about to be; to be going to be
 stare per essere
 
@@ -13462,20 +13459,14 @@ la complessità
 plague
 la peste
 
-it's about time
+it's about time; about time
 era ora
 
-by far
-di gran lunga
-
-by the skin of one's teeth; by a hair
+by the skin of one's teeth; by a hair; by a whisker
 per un pelo
 
-there's no way
+there's no way; don't make a move
 non fare una piega
-
-may as well
-tanto vale
 
 at the end of the day
 in fin dei conti
@@ -13929,3 +13920,90 @@ dare un taglio netto
 
 clean break
 il taglio netto
+
+charlatan
+il ciarlatano
+
+aficionado
+appassionato
+
+to specify; to make clear; to state
+precisare
+
+recognition
+il riconosciamento; il riconoscimento
+
+proficiency; competence
+la competenza; l'abilità; la conoscenza
+
+to growl
+ringhiare
+
+growl
+il ringhio
+
+to listen again; to play back
+riascoltare
+
+Spanish flu
+la spagnola
+
+Egypt
+l'Egitto
+
+black face
+la facetta nera
+
+landing (naval)
+lo sbarco
+
+in the morning
+a mattina
+
+early; mornings; in the morning
+di mattina
+
+you feel like
+ti va
+
+I care about you
+ci tengo a te
+
+just as well; it might as well; may as well
+tanto vale
+
+by far; by a long shot
+di gran lunga
+
+makes perfect sense; is flawless
+non fa una piega
+
+for a change; just for a change
+tanto per cambiare
+
+it doesn't matter; never mind
+non fa niente
+
+through gritted teeth; through clenched teeth
+a denti stretti
+
+as he likes; whatever the heck he wants; however he wants; however they want
+come gli gira
+
+what does it have to do with it?
+che ci azzecca?
+
+it's bad enough that
+è già tanto che
+
+right now
+ora come ora
+
+it's not that
+non è che
+
+to throw in the towel
+gettare la spugna
+
+to leave something to be desired
+lasciare un po' a desiderare
