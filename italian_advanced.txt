@@ -1018,7 +1018,7 @@ per caso
 yet; nevertheless; still
 eppure
 
-but rather
+but rather; but; rather; however
 bensì
 
 whatever; fair enough; nevermind; yeah well; anyway
@@ -3405,9 +3405,6 @@ sottosopra
 
 aside from this
 a parte questo
-
-procedure
-il procedimento
 
 to fascinate
 affascinare
@@ -14007,3 +14004,27 @@ gettare la spugna
 
 to leave something to be desired
 lasciare un po' a desiderare
+
+sometimes; occasionally; once in a while; now and then
+talvolta
+
+stroke; trait; feature
+il tratto
+
+even; directly; absolutely; really
+addirittura
+
+count (person); earl
+il conte
+
+sale; sales; marketing
+la vendita
+
+procedure; process
+il procedimento
+
+criteria
+i criteri
+
+steam (adj); steam-driven; steam-powered
+a vapore
