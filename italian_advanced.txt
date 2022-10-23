@@ -14041,9 +14041,6 @@ il piattello
 pipe organ
 l'organo a canne
 
-sound tubes
-i tubi fonieri
-
 spring break
 le vacanze di primavera; la pausa di primavera
 
@@ -14058,3 +14055,12 @@ la pausa estiva; le vacanze estive
 
 on fall break
 in pausa autunnale
+
+water pipe
+il tubo idrico
+
+unblocking
+la disostruzione
+
+sewer pipe
+il tubo fognaro
