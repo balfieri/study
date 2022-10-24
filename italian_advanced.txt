@@ -14106,3 +14106,6 @@ l'erre moscia
 
 sinkhole
 la foiba
+
+crevice
+il crepaccio
