@@ -14109,3 +14109,6 @@ la foiba
 
 crevice
 il crepaccio
+
+barbarian
+il barbaro
