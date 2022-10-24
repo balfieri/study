@@ -8962,9 +8962,6 @@ augurami buona fortuna
 you just figured that out?
 l'hai appena capito?; l'hai appena scoperto?
 
-prosecution
-la procura
-
 to tattoo
 tatuaare
 
@@ -14112,3 +14109,102 @@ il crepaccio
 
 barbarian
 il barbaro
+
+unforeseen
+imprevisto
+
+burn
+l'ustione
+
+Coast Guard
+la Guardia costiera
+
+pier; jetty; wharf
+il molo
+
+umpteenth
+ennesima
+
+front (adj)
+antistante
+
+fishing boat; trawler; fishing vessel
+il peschereccio
+
+abetting; abetment
+il favoreggiamento
+
+prosecution; proxy; power of attorney
+la procura
+
+harbor office
+capitaneria
+
+prosecutor; attorney
+il procuratore
+
+to transship
+trasbordare
+
+rescue unit
+l'unita di soccorso
+
+drift
+la deriva
+
+adrift; afloat; aimless
+alla deriva
+
+pasture; meadow; grazing
+il pascolo
+
+mare; female horse
+la giumenta
+
+valley; dale
+la vallata
+
+to return to the wild
+rinselvatichire
+
+poaching
+il bracconaggio
+
+mistreatment
+il maltrattamento
+
+public safety
+l'incolumità pubblica
+
+height; hill; elevation
+l'altura
+
+adhesion; adherence
+l'adesione
+
+discretion; confidentiality; reserve
+la riservatezza
+
+changing room; dressing room
+lo spogliatoio
+
+help; relief; aid
+il soccorso
+
+slaughterhouse; butchery
+il mattatoio
+
+so; such; thus
+talmente
+
+confidentiality agreement
+l'accordo di riservatezza
+
+I just don't get it
+non capisco proprio
+
+to look at oneself in the mirror
+guardarsi allo specchio
+
+dictatorial
+dittatoriale
