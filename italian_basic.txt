@@ -397,7 +397,7 @@ educato
 badly-behaved
 maleducato
 
-fun
+fun (adj)
 divertente
 
 to have fun; to enjoy oneself; to have a good time
