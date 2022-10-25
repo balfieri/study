@@ -7871,7 +7871,7 @@ multiple choice
 a scelta multipla
 
 internship
-il tirocino; lo stage
+il tirocinio; lo stage
 
 detected; felt
 percepito
@@ -11359,9 +11359,6 @@ l'obiettivo finale
 to be in pain
 stare soffrendo
 
-undergraduate
-lo studente universitario
-
 in the short-term
 nel breve periodo
 
@@ -11705,7 +11702,7 @@ apprenticeship
 l'apprendistato
 
 internship
-il tironcino
+il tirocinio
 
 to estimate
 stimare
@@ -14241,3 +14238,12 @@ il chierichetto
         
 penis
 il pene
+
+high school student
+lo studente liceale
+
+university student; undergraduate
+lo studente universitario
+
+guest speaker
+l'oratorio ospite
