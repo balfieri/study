@@ -1981,9 +1981,6 @@ la lavagna
 whiteboard
 la lavagna bianca
 
-chest of drawers
-la cassettiera
-
 fan
 il ventilatore
 
