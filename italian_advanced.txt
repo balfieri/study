@@ -13187,7 +13187,7 @@ countable
 numerabile; contabile; enumerabile
 
 manageable
-maneggevole
+maneggevole; gestibile; controllabile; trattabile
 
 classroom teaching
 la didattica in aula
