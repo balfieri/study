@@ -3287,7 +3287,7 @@ plot
 la trama
 
 theme
-la tema
+il tema
 
 to level; to fling; to hurl
 scagliare
@@ -11978,7 +11978,7 @@ I can't complain
 non mi posso lamentare; non mi lamento; si tira avanti
 
 so so
-cosi e cosi; insomma; da quanto tempo
+così e così; insomma; da quanto tempo
 
 things are going badly
 da cani; da schifo; uno schifo
@@ -14238,3 +14238,6 @@ il dilemma
 
 alter boy
 il chierichetto
+        
+penis
+il pene
