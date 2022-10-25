@@ -14268,3 +14268,6 @@ Dio non voglia
 
 breath; wind; puff
 il fiato
+
+nape
+la nuca
