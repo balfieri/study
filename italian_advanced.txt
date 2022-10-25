@@ -14119,9 +14119,6 @@ la Guardia costiera
 pier; jetty; wharf
 il molo
 
-umpteenth
-ennesima
-
 front (adj)
 antistante
 
