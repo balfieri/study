@@ -14247,3 +14247,15 @@ lo studente universitario
 
 guest speaker
 l'oratorio ospite
+
+middle child
+il figlio di mezzo
+
+oldest child
+il figlio maggiore
+
+youngest child
+il figlio minore
+
+problem child
+il bambino problematico; il bambino difficile
