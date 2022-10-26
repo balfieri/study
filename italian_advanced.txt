@@ -14418,3 +14418,9 @@ giorno dopo giorno
 
 big picture
 il quadro generale
+
+engineering
+l'ingegneria
+
+electrical engineering
+l'ingegneria elettrica
