@@ -1414,9 +1414,6 @@ la trattativa
 safeguard
 la salvaguardia
 
-to baptise
-battezzare
-
 to come (from)
 provenere
 
@@ -1584,9 +1581,6 @@ la prememoria
 
 at the same time
 al tempo stesso
-
-to depopulate
-spopolare
 
 affectionate
 affetuoso
@@ -10747,9 +10741,6 @@ il versante
 canyon
 la gravina
 
-supply; procurement; provision
-l’approvvigionamento
-
 to hook; to couple
 agganciare
 
@@ -12300,9 +12291,6 @@ inavvicinabile
 
 to clear; to drain; to reclaim
 bonificare
-
-warning sign
-l'avvisaglia
 
 to go off the tracks
 uscire dai binari
@@ -14425,8 +14413,218 @@ l'ingegneria
 electrical engineering
 l'ingegneria elettrica
 
-to hurt
-fare del male
-
 to hurt me
 farmi del male
+
+to make me feel better
+farmi sentire meglio
+
+to break through
+sfondere
+
+step backward
+il passo indietro
+
+mud; sludge
+il fango
+
+pine cone
+la pigna
+
+redemption; salvation; atonement
+la redenzione
+
+landslide; slide
+lo smottamento
+
+live
+innescato
+
+overwhelming; insurmountable
+incolmabile
+
+crowd; throng; mob
+lo stuolo
+
+The Pyrenees
+i Pirenei
+
+methane
+il metano
+
+to privilege; to favor; to prefer
+privilegiare
+
+to baptize; to christen
+battezzare
+
+political scientist
+il politologo
+
+quarrelsome; contentious; belligerent
+rissoso
+
+bank; dam; embankment
+l'argine
+
+sovereign (n)
+il sovranista
+
+skirmish; warning
+l'avvisaglia
+
+challenger; competitor; rival
+lo sfidante
+
+designing; planning
+la pregettazione
+
+clarification; specification; explanation
+la precisazione
+
+discretionary power
+la discrezionalità
+
+to slim; to speed; to accelerate
+snellire
+
+delay; lengthiness; slowness
+le lungaggini
+
+to stain; to score; to damage
+intaccare
+
+equipment; rig; apparatus
+l'apparecchiatura
+
+clay; loam
+l'argilla
+
+apotheosis; deification
+l'apoteosi
+
+raw materials; raw material
+le materie prime
+
+neodymium
+il neodimio
+
+clergymen
+i sacerdoti
+
+to depopulate; to desolate
+spopolare
+
+solemn; ceremonial; stately
+solenne
+
+chastity; celibacy
+la castità
+
+celibacy; bachelorhood; celibate (n)
+il celibato
+
+frankness; sincerity; openness
+la franchezza
+
+clergyman; priest; minister
+il socerdote
+
+priesthood; ministry
+il sacerdozio
+
+seminarian; seminarist
+il seminarista
+
+restraining order
+l'ordine restrittivo
+
+to conclude; to finish; to terminate
+porre fine
+
+horrified
+inorridito
+
+to delude oneself
+illudarsi
+
+harrassment
+le molestie
+
+remake; remaking; makeover
+il rifacimento
+
+condition; premise
+il presupposto
+
+to emphasize; to highlight
+enfatizzare
+
+to blame
+colpevolizzare
+
+unfavorable
+sfavorevole
+
+Darwinism
+il darwinismo
+
+starting conditions
+le condizioni di partenza
+
+insurmountable
+insormontabile
+
+scam; cheat; swindle
+la fregatura
+
+custom; custom-made
+su misura
+
+at a moment's notice; in a hurry; at the spur of a moment
+su due piedi
+
+twenty-odd
+sulla ventina
+
+on one's toes; in suspense
+sulle spine
+
+in black and white; in writing
+nero su bianco
+
+about forty
+sulla quarantina
+
+on demand; upon request; at the request
+su richiesta
+
+on a razor's edge
+sul filo del rasoio
+
+black and white
+bianco e nero
+
+right away
+da subito
+
+to eat italian
+mangiare italiano
+
+to put one's shoes on
+mettersi le scarpe
+
+running shoes
+le scarpe da corsa
+
+walking shoes
+le scarpe da passeggio
+
+I like you just the way you are
+mi piaci proprio come sei
+
+it's a whole other ball game
+è tutta un'altra storia; è un altro paio di maniche
+
+you’ll need to use your imagination
+dovrai usare l’immaginazione
