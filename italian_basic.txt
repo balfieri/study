@@ -6771,3 +6771,9 @@ mescolare
 
 newspaper
 il giornale
+
+to hope so
+sperare di sì
+
+to hope not
+sperare di no
