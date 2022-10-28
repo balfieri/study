@@ -14727,3 +14727,6 @@ bei ricordi
 
 general-purpose
 di uso generale
+
+oblique
+obliquo
