@@ -14793,3 +14793,6 @@ molto teso
 
 tense; tight; taught
 teso
+
+trash can
+il cestino
