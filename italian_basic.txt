@@ -1600,8 +1600,20 @@ istruito
 garden
 il giardino
 
+on the contrary
+invece
+
 instead of
-invece di
+invece di; al posto di
+
+instead of (adj/prep)
+invece che
+
+rather; better yet; in fact; to the contrary
+anzi
+
+no way!
+anzi!
 
 loud; noisy
 rumoroso
