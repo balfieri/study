@@ -11458,7 +11458,7 @@ il droghiere
 lifeguard; lifesaver
 il bagnino
 
-sinking; wreck
+sinking; shipwreck; wreck
 il naufragio
 
 in overalls
@@ -14775,3 +14775,36 @@ il cancro alle ossa
 
 abdominal
 addominale
+
+in a dictionary
+su un dizionario
+
+magnetic personality
+la personalità magnetica
+
+to break up with
+rompere con; lasciare
+
+rather; better yet; in fact; to the contrary
+anzi
+
+no way!
+anzi!
+
+on the contrary
+invece
+
+instead of
+invece di; al posto di
+
+instead of (adj/prep)
+invece che
+
+among whom; among which
+tra cui
+
+high-strung
+molto teso
+
+tense; tight; taught
+teso
