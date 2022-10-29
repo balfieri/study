@@ -5683,7 +5683,7 @@ la risata
 mood
 l'umore
 
-constant (adj)
+settled; constant; continuous
 costante
 
 advertisement
