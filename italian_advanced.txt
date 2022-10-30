@@ -62,7 +62,7 @@ almond
 la mandorla
 
 to rent (an apartment)
-affitare
+affittare
 
 trickster
 l'imbroglione
@@ -599,7 +599,7 @@ to board; to climb on board
 salire a bordo di
 
 to demand
-esigire
+esigere
 
 heading; header
 l'intestazione
@@ -1964,7 +1964,7 @@ keyboard
 la testiera
 
 keypad
-la testierina; il testierino
+la tastierina; il tastierino
 
 barely; hardly; with difficulty
 a stento
