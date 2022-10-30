@@ -1153,9 +1153,6 @@ il circolo di golf; il golf club; il country club
 to take (time for someone to do something)
 metterci
 
-to be able to get something without paying
-scroccare
-
 farewell; leave of absence
 il congedo
 
@@ -7149,9 +7146,6 @@ i pedali
 
 strict (person)
 severo
-
-studio apartment
-il monolocale
 
 attic apartment
 la mansarda
@@ -14796,3 +14790,141 @@ teso
 
 trash can
 il cestino
+
+kennel
+il canilo
+
+dog hotel; dog resort; pet resort
+l'albergo per cani
+
+languid; unstressed; voiceless; apathetic
+atono
+
+it's not enough for you
+non ti basta
+
+from this to that
+da così a così
+
+trainer; educator
+il formatore
+
+5-second rule
+la regola dei 5 secondi
+
+side job; second job
+il secondo lavoro
+
+torn hamstring
+il tendine strappato
+
+to hang on; to hang tough; to stay strong
+tenere duro
+
+to drop one's (something)
+cadersi; far cadare; lasciar cadere
+
+crush; thong; crowd
+la calca
+
+alley; lane; bystreet
+la viuzza
+
+spread (adj); extended; extensive
+steso
+
+to revive; to resuscitate
+rianimare
+
+a little further; a little farther; just down the street
+poco più in là
+
+dismay; aghast; dismayed
+sgomento
+
+cloth; strip
+il telo
+
+asphalt; tarmac
+l'asfalto
+
+siren; alarm; mermaid
+la sirena
+
+rescuer; helper
+il soccorritore
+
+preview; thumbnail; teaser
+l'anteprima
+
+trailer; tow; towage        
+il rimorchio
+
+to cross; to interbreed; to intersect
+incrociare
+
+shrug
+la spalluccia
+
+fare spallucce
+to shrug
+
+to replenish
+rimpinguare
+
+studio; studio flat; studio apartment
+il monolocale
+
+to caress; to stroke; to pet
+accarezzare
+
+cheap; common; ordinary
+dozzinale
+
+abulic; apathetic
+abulico
+
+infamy; disgrace; ignominy
+l'infamia
+
+scrounging; sponging
+lo scrocco
+
+to scrounge; to mooch
+scroccare
+
+to impose; to establish; to assert
+imporsi
+
+to engage; to open; strike up
+intavolare
+
+launch; throw; launching
+il lancio	
+
+to disburse; to shell out; to payout
+sborsare
+
+to carry out; to solidify; to realize
+concretizzare
+
+to rack one's brain
+scervellare
+
+strongly; keenly
+vivamente
+
+to stuff; to cram; to fill
+infarcire
+
+strongly recommended
+consigliato vivamente
+
+but you get the idea
+ma hai capito lo stesso
+
+green; greenish; lime-green
+verdognolo
+
+to put into practice
+mettere pratica
