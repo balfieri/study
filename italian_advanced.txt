@@ -599,6 +599,9 @@ to board; to climb on board
 salire a bordo di
 
 to demand
+esigire
+
+to require
 esigere
 
 heading; header
@@ -649,7 +652,7 @@ gli appunti; le note
 package
 il pachetto
 
-to require (starts with o)
+to require
 occorrere
 
 challenge
