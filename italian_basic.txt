@@ -1172,7 +1172,7 @@ dinner
 la cena
 
 snack
-lo spuntino
+lo spuntino; lo snack
 
 to watch tv
 guardare la ti vu
