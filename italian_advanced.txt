@@ -15024,3 +15024,9 @@ il doppiaggio
 
 consumerism
 il consumismo
+
+purchase
+l'acquisito
+
+purchase history
+lo storico acquisiti
