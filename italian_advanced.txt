@@ -14800,7 +14800,7 @@ il canilo
 dog hotel; dog resort; pet resort
 l'albergo per cani
 
-languid; unstressed; voiceless; apathetic
+languid; unstressed; voiceless; apathetic; monotono
 atono
 
 it's not enough for you
@@ -14961,3 +14961,30 @@ le cuffie insonorizzanti
 
 noise-canceling
 insonorizzante; anti-rumore
+
+shelter; asylum; refuge
+il ricovero
+
+animal shelter
+il ricovero per animali
+
+monotone
+monotono
+
+the least of my problems
+l'ultimo dei miei problemi; il minore dei miei problemi
+
+all quiet on the western front
+niente di nuovo sul fronte occidentale
+
+careless; negligent; inattentive
+sbadato
+
+it's great to see you
+è bello vederti; è bello rivederti
+
+we broke up
+abbiamo rotto
+
+to break up with
+rompere con
