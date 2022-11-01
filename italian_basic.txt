@@ -2944,6 +2944,9 @@ imparare
 to visit
 visitare
 
+to visit (someone)
+fare visita a
+
 to remember
 ricordare
 
