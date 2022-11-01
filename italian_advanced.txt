@@ -6076,7 +6076,7 @@ la prassi
 juxtaposition
 la giustaposizione; l’accostamento
 
-observation; statement; establishment
+observation; statement; establishment; ascertainment
 la constatazione
 
 district (adj)
@@ -13072,7 +13072,7 @@ i requisiti linguistici
 porter; bellboy
 il facchino
 
-to fold; to tuck; to fold over
+to fall back; to fold; to tuck; to fold over
 ripiegare
 
 baking paper; parchment paper
@@ -14467,9 +14467,6 @@ l'argine
 sovereign (n)
 il sovranista
 
-skirmish; warning
-l'avvisaglia
-
 challenger; competitor; rival
 lo sfidante
 
@@ -15049,3 +15046,62 @@ redimersi
 I redeemed myself
 mi sono redento
 
+to be interested in
+essere curioso di
+
+mush
+la poltiglia; la pappa
+
+to get through this
+superare tutto questo; riuscire a superarla
+
+the good news
+la bella notizia
+
+to point out
+fare presente
+
+to ring; to string together
+inanellare
+
+to bewilder; to baffle; to puzzle
+sconcertare
+
+oddness; freakishness
+la stramberia
+
+to whine; to moan
+mugolare
+
+blindness
+la cecità
+
+diabetic retinopathy
+la retinopatia diabetica
+
+ophthalmology
+l'oftalmologia
+
+skirmish; sign; warning; heads-up
+l'avvisaglia
+
+diabetes
+il diabete
+
+to unearth; to sniff out; to flush out
+scovare
+
+to lose; to scatter; to disperse
+sperdere
+
+eye doctor; ophthalmologist
+l'oculista
+
+to revaccinate
+rivvacinare
+
+glycemia
+la glicemia
+
+contribution; input; supply
+l'apporto
