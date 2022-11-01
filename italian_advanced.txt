@@ -517,7 +517,7 @@ riscrivere
 companion
 il compagno
 
-to scold
+to scold; to berate; to rebuke
 sgridare
 
 headwind
