@@ -4870,12 +4870,6 @@ inferiore o pari a
 greater than or equal to
 pari o superiore a
 
-equal to
-uguale a; pari a
-
-equal; even
-pari; uguale
-
 to materialize; to solidify
 concretizzarsi
 
@@ -8408,7 +8402,7 @@ branded
 brandizzato
 
 selectable
-selezionabili
+selezionabile
 
 focused
 incentrato

@@ -6786,3 +6786,9 @@ sperare di sì
 
 to hope not
 sperare di no
+
+equal to
+uguale a; pari a
+
+equal; even
+pari; uguale
