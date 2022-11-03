@@ -15225,3 +15225,6 @@ l'acciarino
 
 automatically
 in automatico; automaticamente
+
+profumery
+la profumeria

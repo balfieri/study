@@ -4213,9 +4213,6 @@ il negozio d'alimentari
 fish store
 la pescheria
 
-profumery
-la profumeria
-
 supermarket
 il supermercato
 
@@ -4225,7 +4222,7 @@ la salumeria
 clothing store
 il negozio di abbigliamento
 
-show store
+shoe store
 il negozio di calzature
 
 butcher shop
