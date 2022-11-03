@@ -15237,3 +15237,6 @@ sbandierare
 
 self-study
 l'autodidattico; l'autoapprendimento
+
+to snore
+russare
