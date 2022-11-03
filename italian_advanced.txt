@@ -1321,9 +1321,6 @@ la fornitura
 cabinet; toilet
 il gabinetto
 
-splinter; fragment
-la scheggia
-
 starch
 l'amido
 
@@ -15162,3 +15159,69 @@ l'avvenimento storico
 
 instead of the other
 invece dell'altro
+
+circular argument
+il ragionamento circolare; l'argomento circolare
+
+to carve; to scuplt
+scolpire
+
+ditch; trench; moat
+il fosso
+
+Venus
+Venere
+
+spliter; sliver; chip; fragment
+la scheggia
+
+to chip; to splinter
+scheggere
+
+listing; enumeration
+l'elencazione
+
+tutoring; mentoring
+il tutoraggio
+
+internet connection
+la connessione internet
+
+to provide assistance
+prestare soccorso
+
+to monitor
+monitorare
+
+second-to-last; penultimate
+penultimo
+
+third-to-last
+terzultimo
+
+fourth-to-last
+quartultimo
+
+inflection; ending
+la desinenza
+
+to have no idea
+non essere idea; non esserne idea
+
+please stop
+smettila per favore; fermati
+
+greedy
+avido
+
+to seduce; to mislead; to corrupt
+traviare
+
+scratch pad; scratch paper
+lo scartafaccio
+
+flint
+l'acciarino
+
+automatically
+in automatico; automaticamente
