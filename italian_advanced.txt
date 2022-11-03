@@ -1268,7 +1268,7 @@ to unfold; to take place
 svolgersi
 
 self-taught
-autodidatto
+autodidatta
 
 to split; to cleave; to divide
 scindere
@@ -15234,3 +15234,6 @@ la profumeria
 
 to wave; to flaunt; to flash
 sbandierare
+
+self-study
+l'autodidattico; l'autoapprendimento
