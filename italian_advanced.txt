@@ -14845,7 +14845,7 @@ la sirena
 rescuer; helper
 il soccorritore
 
-preview; thumbnail; teaser
+preview (film); thumbnail; teaser
 l'anteprima
 
 trailer; tow; towage        
