@@ -4921,9 +4921,6 @@ in aggiunta
 afterward; afterward
 successivamente; in seguito
 
-recently; lately
-ultimamente
-
 despite; in spite of
 malgrado
 
@@ -15453,3 +15450,6 @@ i capelli bianchi
 
 stand-up comedian
 il cabarettista; il comico stand-up
+
+recently; lately
+in questo ultimo periodo; ultimamente
