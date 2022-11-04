@@ -15432,3 +15432,9 @@ l'opera teatrale
 
 opera
 l'opera lirica
+
+ballroom dancer
+il ballerino da sala
+
+ballroom dancing
+il ballo da sala
