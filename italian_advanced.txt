@@ -472,7 +472,7 @@ cavarsela
 draw; tie
 il pareggio
 
-straw
+straw (hay)
 la paglia
 
 ox
@@ -15459,3 +15459,9 @@ parlare con dolcezza; parlare tranquillamente
 
 to speak fluidly
 parlare fluidamente; parlare in modo fluido
+
+straw (for drink)
+la cannuccia
+
+three-dimensional; 3D
+tridimensionale; 3D
