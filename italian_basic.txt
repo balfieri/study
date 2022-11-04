@@ -6789,3 +6789,12 @@ uguale a; pari a
 
 equal; even
 pari; uguale
+
+chocolate
+il cioccolato
+
+dark chocolate
+il cioccolato fondente
+
+milk chocolate
+il cioccolato al latte
