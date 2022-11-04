@@ -6798,3 +6798,9 @@ il cioccolato fondente
 
 milk chocolate
 il cioccolato al latte
+
+dancer (male)
+il ballerino; il danzatore
+
+dancer (female); ballerina
+la ballerina; la danzatrice
