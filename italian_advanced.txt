@@ -6700,7 +6700,7 @@ la coglienza
 to sensitize; to awaken
 sensibilizzare
 
-event; matter
+event (macro); matter
 la vicenda
 
 glimpse; spot
@@ -7139,7 +7139,7 @@ pedals
 i pedali
 
 strict (person)
-severo
+severo; stretto; rigido
 
 attic apartment
 la mansarda
@@ -8434,7 +8434,7 @@ radunare
 of today
 odierno
 
-to knock over; to overturn
+to knock over; to overturn; to overthrow; to upset
 rovesciare
 
 broken heart
@@ -10330,7 +10330,7 @@ la pietra
 rather; somewhat; pretty
 alquanto
 
-event; occurrence; happening
+event (micro); occurrence; happening
 l'avvenimento
 
 partner; associate
@@ -13015,9 +13015,6 @@ l'emicrania
 Advent
 l'Avvento
 
-All Saints' Day
-l'Ognissanti
-
 Lent
 la Quaresima
 
@@ -15258,3 +15255,174 @@ il reato federale
 
 esoteric
 esoterico
+
+to encompass; to enclose; to include
+racchiudere
+
+to prune; to trim; to cut
+sfrondare
+
+flourish
+lo svolazzo
+
+staining; fouling
+la sporcatura
+
+to tamp down; to deaden; to muffle; to dampen
+smorzare
+
+to juggle; to manage; to maneuver
+destreggiarsi
+
+gap; discrepancy; chasm
+il divario
+
+visionariness
+la visionarietà
+
+to lick; to lap
+lambire
+
+dominance; superpower
+lo strapotere
+
+overflowing
+straripante
+
+media (adj); mass media (adj)
+mediatico
+
+eccentric; loony; outlandish
+strampalato
+
+task; errand; job
+l'incombenza
+
+unattainable; unreachable
+inattingibile
+
+trigger; fuse
+l'innesco
+
+to presuppose; to assume
+presupporre
+
+hybrid
+ibrido
+
+incident; event; occurrence
+l'accadimento
+
+to hybridize
+ibridare
+
+pivot; pin; kingpin
+il perno
+
+assertiveness
+l'assertività
+
+modesty; shame; purity
+il pudore
+
+wording; drafting
+stesura
+
+concealment; hiding
+l'occultamento
+
+below; next; hereupon
+appresso
+
+skirmish; clash
+la schermaglia
+
+vain
+vanesio
+
+hinge; pivot; foundation
+il cardine
+
+obstacle; hindrance; barrier
+l'intralcio
+
+commitment; dedication; devotion
+la dedizione
+
+impartial; fair; equitable
+equanime
+
+soaked; wet; drenched
+intriso
+
+to trespass; to overstep
+sconfinare
+
+rewarding
+premiante
+
+basic; fundamental
+basilare
+
+round; rotund
+tondo
+
+time-delayed; deferred
+in differita
+
+to travel; to go through
+percorrere
+
+in the classroom
+in aula
+
+minutes; playing time; footage
+il minutaggio
+
+All Saint's Day
+la Festa di Ognissanti
+
+to come out terrible
+uscire terribile
+
+to storm; to rage
+accanirsi
+
+tubercolosis
+la tubercolosi
+
+to stretch; to extend; to stretch out
+sgranchire
+
+list price
+il prezzo di listino
+
+discount price; discounted price
+il prezzo scontato
+
+wholesale price
+il prezzo all'ingrosso
+
+step by step
+passo passo
+
+comfortably
+comodamente
+
+bank transfer; wire transfer
+il bonifico bancario
+
+specially; deliberately
+appositamente
+
+to impact; to hit; to bump; to impinge
+impattare
+
+impinging
+impattante
+
+delivered; distributed; provided
+erogato
+
+to supply; to distribute; to provide
+erogare
