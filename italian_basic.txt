@@ -4948,7 +4948,7 @@ caotico
 capricious
 capriccioso
 
-loaded
+loaded; filled; charged; fully charged
 carico
 
 deformed
