@@ -901,8 +901,8 @@ non starci
 to discourage
 scraggiare
 
-chit chat
-chiacchiericcio
+chit chat; chatter
+il chiacchiericcio
 
 lumberjack
 il taglialegna
@@ -1849,9 +1849,6 @@ affabile
 standoffish
 scostante
 
-to find it hard
-stentare
-
 to strain; to struggle
 fare fatica
 
@@ -1861,7 +1858,7 @@ aver facilità
 gossip
 i pettegolezzi
 
-to snare; to catch; to trap
+to snare; to catch; to trap; to noose
 accalappiare
 
 pale; faint
@@ -1891,12 +1888,6 @@ il capitolato
 despot; tyrant; dictator
 il despota
 
-to inspire
-ispirare
-
-to disgust; to sicken
-schifare
-
 to bother; to annoy; to trouble
 importunare
 
@@ -1924,10 +1915,10 @@ la faccenda
 excessively; very
 oltremodo
 
-in vai
+in vain
 invano
 
-to reset; to restore
+to reset; to restore; to rehabilitate
 ripristinare
 
 to restore; to reinstate; to re-establish
@@ -4573,9 +4564,6 @@ rimuginare
 balance
 il paraggio
 
-punishment; penalty
-la punizione
-
 vegetable; green
 l'ortaggio
 
@@ -6895,7 +6883,7 @@ idoneo
 ingrained; deep-seated
 radicato
 
-to fill; to heap; to smother
+to bridge; to fill; to heap; to smother
 colmare
 
 inborn; inherent; indiginous
@@ -11461,7 +11449,7 @@ la comprensione
 greater understanding
 la migliore comprensione
 
-rally
+rally; meeting
 il comizio
 
 patrol
@@ -15477,3 +15465,222 @@ brutalmente onesto
 
 more than anything
 più di ogni altra cosa
+
+soft; low; quiet
+sommesso
+
+awkward; clumsy
+impacciato
+
+to blind (tr); to dazzle
+accecare
+
+leather; hide
+il cuoio
+
+sycophant
+il sicofante
+
+retrograde; reactionary
+il retrogrado
+
+slanderer; backbiter; maligner
+il calunniatore
+
+to devise; to contrive; to invent
+escogitare
+
+to dream; to stargaze
+almanaccare
+
+to dress in furs
+impellicciare
+
+mammal
+il mammifero
+
+fur; fur coat; pelt
+la pelliccia
+
+jeweler
+il gioelliere; la gioelliera
+
+tavern; alehouse; pub
+la birreria
+
+roomie; roommate; housemate
+il conquilino
+
+glacier
+il ghiacciaio
+
+to snap (fingers); to crack; to click
+schioccare
+
+cheese from Romagna
+lo squacquerone
+
+magic; conjuring
+la prestidigitazione
+
+ineligibility
+l'ineleggibilità
+
+binge drinking; bender; binge; hangover
+la sbronza
+
+sheet; bed sheet; bedsheet
+il lenzuolo
+
+to squint; to squeeze; to wring out
+strizzare
+
+to squeeze; to juice
+spremere
+
+buyer; purchaser; shopper
+l'acquirente
+
+sink; washbasin; kitchen sink
+l'acquaio
+
+to tend; to heed; to look after
+accudire
+
+shower (of rain); downpour; cloudburst
+l'acquazzone
+
+mouth watering; watering
+l'acquolina
+
+to worsen; to sharpen; to decline
+acuirsi
+
+to dilute; to water; to cut
+annacquare
+
+arched; curved
+arcuato
+
+fire basket
+il braciere
+
+humming noise; buzz; drone; hubbub
+il brusio
+
+caterpillar; grub; maggot
+il bruco
+
+fool; mug; nincompoop
+il babbeo
+
+mane; crest
+la criniera
+
+to coax
+coanciare
+
+to shrink
+concischiare
+
+group; creak; clump
+il crocchio
+
+cheese bowl
+la formaggiera
+
+coffer; exchequer; till
+il forziere
+
+skyscraper; high-rise
+il grattacielo
+
+unconscious; reckless; irresponsible
+incosciente
+
+mine; pite; mining
+la miniera
+
+multiplication
+la moltiplicazione
+
+alas
+ohimè
+
+barley; wheat; cereal
+l'orzo
+
+slope; incline; slant
+il pendio
+
+to beat; to thrash; to beat up
+percuotere
+
+fruitful; profitable; proficient
+proficuo
+
+punishment; penalty; castigation
+la punizione
+
+to collect; to receive; to earn
+riscuotere
+
+to hum; to buzz; to drone
+ronzare
+
+to rinse; to wash; to flush
+sciacquare
+
+salt shaker
+la saliera
+
+pepper shaker
+la pepiera
+
+to shake
+scuotare
+
+disorder; mess; confusion
+il soqquadro
+
+drunk; pissed; boozy
+sbronzo
+
+shawl; wrap; scarf
+il scialle
+
+to defrost; to thaw; to deice
+sbrinare
+
+usher; bailiff
+l'usciere
+
+to find it hard; to starve; to pinch
+stentare
+
+braggart; bull; boaster
+lo spaccone
+
+despot
+il despote
+
+to inspire; to inhale; to prompt
+ispirare
+
+to digust; to sicken; to nauseate
+schifare
+
+typically
+tipetutamente
+
+checkmate
+scacco matto
+
+subtraction
+la sottrazione
+
+stalemate
+lo stallo; la situazione di stallo
+
+to bridge the gap
+colmare il divario
