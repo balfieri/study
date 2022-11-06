@@ -3691,9 +3691,6 @@ la fascia oraria
 masochistic
 masochista; masochistico
 
-clerk
-il commesso
-
 to get one's money back
 farsi restituire
 
@@ -14944,7 +14941,7 @@ abbiamo rotto
 to break up with
 rompere con
 
-sales assistant
+sales assistant; clerk
 il commesso; la comessa
 
 self-aware
