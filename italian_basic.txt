@@ -1225,6 +1225,9 @@ il buco
 belt
 la cintura
 
+socks
+le calze
+
 ticket
 il biglietto
 
