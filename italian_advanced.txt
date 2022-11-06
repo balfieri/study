@@ -1045,9 +1045,6 @@ umile; domestico
 vinyl record
 il disco in vinile
 
-to get close; to go near
-avvicinarsi
-
 to drain
 scolare
 
@@ -1966,9 +1963,6 @@ sfruttare
 insane; crazy; mad
 pazzo; folle; impazzito; insano
 
-crazed; crazy
-impazzito
-
 disagreement
 il discordo
 
@@ -2781,9 +2775,6 @@ la cautela
 
 appeared
 comparso
-
-upset
-sconvolto
 
 convoluted
 convolto
@@ -5292,9 +5283,6 @@ il maschio superficiale
 
 yearbook
 l'annuario scolastico
-
-to approach (somebody)
-avvicinarsi a
 
 desired by
 desiderato dal; voluto dal
@@ -15684,3 +15672,72 @@ lo stallo; la situazione di stallo
 
 to bridge the gap
 colmare il divario
+
+both
+ambedue
+
+to aerare; to air out; to ventilate
+aerare
+
+big mistake
+l'erroraccio
+
+large following
+il grande seguito
+
+house (family); family (noble)
+la casata
+
+speechless
+senza parole
+
+up close
+da vicino
+
+to get close to; to approach
+avvicinarsi a
+
+to bless; to consecrate
+benedire
+
+distraught; upset
+sconvolto
+
+included; inclusive
+compreso
+
+tenacity
+la tenacia
+
+of all sorts
+d'ogmi sorta
+
+to exhale
+espirare
+
+talk show
+il talk show
+
+force to be reckoned with
+la forza da non sottovalutare
+
+pissed off; lazy; not caring
+scazzato
+
+to go crazy
+pazziare
+
+crazy; gone mad; crazed
+impazzito
+
+to drive crazy
+far impazzire
+
+to sway; to rock
+dondolare
+
+hump; hunchback
+la gobba
+
+to hurry; to rush; to dash
+precipitatsi
