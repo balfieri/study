@@ -6795,3 +6795,6 @@ il ballerino; il danzatore
 
 dancer (female); ballerina
 la ballerina; la danzatrice
+
+pausa
+la pausa

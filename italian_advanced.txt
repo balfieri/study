@@ -15867,3 +15867,9 @@ riferire
 
 velvet
 il velluto
+
+to pause onself
+mettersi in pausa
+
+dressing room
+il camerino
