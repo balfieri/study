@@ -3808,9 +3808,6 @@ sradicare
 backyard
 il cortile
 
-to dare
-osare
-
 delivered
 consegnato
 
@@ -6369,9 +6366,6 @@ accoccolarsi
 
 unsettling
 spiazziante
-
-to repress
-reprimere
 
 underlying
 sottostante
@@ -15801,3 +15795,66 @@ andare alla fonte
 
 to go from bad to worse
 andare di male in peggio
+
+baritone
+baritono
+
+cop; pig (cop, derogatory)
+lo sbirro
+
+to warm up
+riscaldarsi
+
+to repress; to stifle; to smother
+reprimere
+
+noxious; harmful; injurous
+nocivo
+
+to contrast; to tackle; to counter
+contrastare
+
+almost; nearly; virtually
+pressoché
+
+missing; lost
+sparito
+
+fanatic
+lo sfegatato
+
+fanatical
+sfegatato
+
+pier; wharf; jetty
+molo
+
+castaway; shipwrecked person
+il naufrago
+
+mooring
+l'ormeggio
+
+to dare; to venture; to be bold
+osare
+
+opera house
+il teatro dell'opera
+
+curl; lock (hair)
+il ricciolo
+
+head and shoulders above the rest
+di testa e di spalle sopra tutti gli altri
+
+to steal the show
+rubare la scena
+
+without further ado
+senza ulteriori indugi
+
+delay; procrastination; lateness
+l'indugio
+
+wide range
+la vasta gamma; l'ampia gamma
