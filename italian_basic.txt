@@ -6798,3 +6798,9 @@ la ballerina; la danzatrice
 
 pausa
 la pausa
+
+particularly
+particolarmente
+
+especially
+specialmente
