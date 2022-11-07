@@ -16266,3 +16266,6 @@ la credenza
 
 big desk
 la cattedra
+
+subtlety
+la sottigliezza
