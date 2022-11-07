@@ -598,12 +598,6 @@ imbarcarsi su
 to board; to climb on board
 salire a bordo di
 
-to demand
-esigire
-
-to require
-esigere
-
 heading; header
 l'intestazione
 
@@ -627,9 +621,6 @@ svolgere
 
 to pack; to wrap; to package
 imballare
-
-aware; conscious
-cosciente; consapevole
 
 to reject
 rifiutare; rispingere
@@ -1681,9 +1672,6 @@ presto
 panel; tab
 il pannello
 
-novel (book)
-il romanzo
-
 novel (adj)
 nuovo; originale
 
@@ -1809,12 +1797,6 @@ regalare
 
 to hang up (the phone)
 riattaccare
-
-root
-la radice
-
-income; revenue
-il reddito
 
 or; i.e.
 ovvero
@@ -1948,9 +1930,6 @@ rispetto a; in confronto a
 about; apropos (and not only at the beginning of a sentence)
 a proposito di
 
-keyboard
-la testiera
-
 keypad
 la tastierina; il tastierino
 
@@ -1981,17 +1960,11 @@ purtroppo; sfortunatamente
 to choose; to select
 scegliere; selezionare
 
-holiday
-la festa; la vacanza
-
 double entendre
 il doppio senso
 
 to back each other up; to back up each other; to stick together; to reinforce each other
 spalleggiarsi
-
-innkeeper; host
-l'oste
 
 antisocial
 asociale; misantropo
@@ -2023,26 +1996,11 @@ spaesato
 to delay; to be late; to hesitate
 tardare
 
-waste
-lo spreco
-
-unpleasant; disagreeable; nasty
-sgradevole; spiacievole
-
 to reprimand
 rimproverare
 
 store owner
 il negoziante
-
-ounce
-l'oncia
-
-middle; half
-la metà; il mezzo
-
-pleasant; agreeable; nice
-gradevole; piacevole
 
 to be willing to
 essere disposto a
@@ -2067,24 +2025,6 @@ il troglodita
 
 distraught; upset
 sconvolto; turbato
-
-disturbed (mentally)
-disturbato
-
-unnecessarily
-inutilmente
-
-mildly; slightly; lightly
-leggermente
-
-origin
-l'origine; la provenienza
-
-to promote
-promuovere
-
-to support; to back
-sostenere
 
 sexual partner
 il partner sessuale
@@ -2115,9 +2055,6 @@ stendersi; sdraiarsi
 
 to shine
 risplendere
-
-hilly
-collinoso
 
 to impeach
 mettere sotto accusa; incriminare
@@ -2205,9 +2142,6 @@ la mobilità verso l'alto
 
 milestone (also used for a major album)
 la pietra miliare
-
-album
-l'album; il disco
 
 frost
 la brina
@@ -2340,9 +2274,6 @@ coetaneo
 
 to sit around; to lounge; to bum around
 ciondolare
-
-unnecessary; superfluous
-superfluo
 
 in retrospect
 in retrospettiva; a posteriori
@@ -5080,9 +5011,6 @@ la riuscita del film
 to compound; to aggravate; to exacerbate
 aggravare
 
-oblivious; clueless
-inconsapevole; ignaro
-
 to needle
 stuzzicare
 
@@ -6649,9 +6577,6 @@ la sillaba
 at an all-time low
 ai minimi storici; al minimo storico
 
-tolerance
-la tolleranza
-
 fugitive; absconder; fugitive from justice
 il latitante
 
@@ -7024,14 +6949,8 @@ il cammino
 hand gesture
 il gesto della mano
 
-short story
-il racconto
-
 by mistake
 per sbagio
-
-show (tv)
-il programma
 
 to unfreeze
 scongelato
@@ -7714,9 +7633,6 @@ la periferia
 small medieval part of a city
 il borgo
 
-small city; large town
-la cittadina
-
 old village
 il villaggio
 
@@ -8241,9 +8157,6 @@ l'imporonta di carbonio
 
 start-up
 l'avviamento; lo start-up
-
-small company
-l'azienda
 
 bass lick
 il giro di basso
@@ -9303,9 +9216,6 @@ la macchina per il ghiaccio; la macchina del ghiaccio
 
 to culminate
 culminare
-
-inch
-il pollice
 
 hundred-inch television
 il televisore da cento pollici
@@ -13039,9 +12949,6 @@ la teglia
 to overfill
 sovrariempire
 
-to teach a class; to do a lesson; to lecture
-fare lezione
-
 to grow (plant)
 far crescere; cultivare
 
@@ -13702,9 +13609,6 @@ fare una pausa
 to propagare; to diffuse
 propagare; diffondere; trasmettere
 
-big lie
-la grande bugia
-
 believer
 il credente; la credente; il sostenitore; il fedele
 
@@ -14161,26 +14065,11 @@ essere propenso a
 southern hospitality
 l'ospitalità del sud
 
-to attack; to assault; to attach
-attaccare
-
-to party
-fare festa
-
-dilemma
-il dilemma
-
 alter boy
 il chierichetto
         
 penis
 il pene
-
-high school student
-lo studente liceale
-
-university student; undergraduate
-lo studente universitario
 
 guest speaker
 l'oratorio ospite
@@ -14511,9 +14400,6 @@ enfatizzare
 
 to blame
 colpevolizzare
-
-unfavorable
-sfavorevole
 
 Darwinism
 il darwinismo
@@ -14938,9 +14824,6 @@ it's great to see you
 we broke up
 abbiamo rotto
 
-to break up with
-rompere con
-
 sales assistant; clerk
 il commesso; la comessa
 
@@ -15000,9 +14883,6 @@ redimersi
 
 I redeemed myself
 mi sono redento
-
-to be interested in
-essere curioso di
 
 mush
 la poltiglia; la pappa
@@ -15195,9 +15075,6 @@ la profumeria
 
 to wave; to flaunt; to flash
 sbandierare
-
-self-study
-l'autodidattico; l'autoapprendimento
 
 to snore
 russare
@@ -15454,9 +15331,6 @@ impacciato
 to blind (tr); to dazzle
 accecare
 
-leather; hide
-il cuoio
-
 sycophant
 il sicofante
 
@@ -15570,9 +15444,6 @@ la formaggiera
 
 coffer; exchequer; till
 il forziere
-
-skyscraper; high-rise
-il grattacielo
 
 unconscious; reckless; irresponsible
 incosciente
@@ -15720,9 +15591,6 @@ pazziare
 
 crazy; gone mad; crazed
 impazzito
-
-to drive crazy
-far impazzire
 
 to sway; to rock
 dondolare
@@ -15930,9 +15798,6 @@ imparare la lezione
 
 to thumb one's nose
 metterci il naso
-
-to teach a lesson
-dare una lezione
 
 to think better of it
 avere un ripensamento
@@ -16384,7 +16249,7 @@ oberare
 laudable
 lodevole
 
-calm
+calm; sedated; soothed
 pacato
 
 malicious

@@ -2590,6 +2590,9 @@ pochi
 useless
 inutile
 
+unnecessary; superfluous
+superfluo
+
 peaceful; quiet
 tranquillo
 
@@ -6184,6 +6187,9 @@ il litigio
 healthy food
 il cibo sano
 
+company
+l'azienda; la compania
+
 corporation
 la corporazione
 
@@ -6511,6 +6517,9 @@ l'ostello
 pound
 la libbra
 
+ounce
+l'oncia
+
 humongous; gigantic
 enorme; gigantesco
 
@@ -6780,3 +6789,147 @@ particolarmente
 
 especially
 specialmente
+
+to demand
+esigire
+
+to require
+esigere
+
+aware; conscious
+cosciente; consapevole
+
+oblivious; clueless; unaware
+inconsapevole; ignaro
+
+tolerance
+la tolleranza
+
+short story
+il racconto
+
+show (tv)
+il programma
+
+novel (book)
+il romanzo
+
+root
+la radice
+
+income; revenue
+il reddito
+
+keyboard
+la testiera
+
+holiday
+la festa; la vacanza
+
+innkeeper; host
+l'oste
+
+waste
+lo spreco
+
+unpleasant; disagreeable; nasty
+sgradevole; spiacievole
+
+middle; half
+la metà; il mezzo
+
+pleasant; agreeable; nice
+gradevole; piacevole
+
+disturbed (mentally)
+disturbato
+
+unnecessarily
+inutilmente
+
+mildly; slightly; lightly
+leggermente
+
+origin
+l'origine; la provenienza
+
+to promote
+promuovere
+
+to support; to back
+sostenere
+
+hilly
+collinoso
+
+album
+l'album; il disco
+
+small city; large town
+la cittadina
+
+inch; thumb
+il pollice
+
+to teach a class; to do a lesson; to lecture
+fare lezione; dare una lezione
+
+lie (untruth)
+la bugia
+
+big lie
+la grande bugia
+
+to attack; to assault; to attach
+attaccare
+
+to party
+fare festa
+
+dilemma
+il dilemma
+
+high school
+la scuola superiore; il liceo
+
+elementary school
+la scuola elementare
+
+middle school
+la scuola media
+
+college; university
+l'università
+
+high school student
+lo studente liceale
+
+university student; undergraduate
+lo studente universitario
+
+favorable
+favoravole
+
+unfavorable
+sfavorevole
+
+to break up with
+rompere con
+
+to be interested in
+essere curioso di
+
+self-study
+l'autodidattico; l'autoapprendimento
+
+leather; hide
+il cuoio
+
+skyscraper; high-rise
+il grattacielo
+
+to drive crazy
+far impazzire
+
+cell phone
+il telefonino; il telefono cellulare; il cellulare
