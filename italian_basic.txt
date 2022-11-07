@@ -5005,17 +5005,11 @@ liberale
 pleased
 lieto
 
-laudable
-lodevole
-
-loquacious
+loquacious; talkative
 loquace
 
 luxurious; fancy
 lussuoso
-
-malicious
-malizioso
 
 marine
 marittimo
@@ -5023,14 +5017,8 @@ marittimo
 better; best (adj)
 migliore
 
-miserable
-misero (not p.r.)
-
 natural
 naturale
-
-calm
-pacato
 
 paranoid
 paranoico
@@ -5076,9 +5064,6 @@ segreto
 
 following; next
 seguente
-
-taciturn
-taciturno
 
 tenacious
 tenace
@@ -5525,7 +5510,7 @@ to type
 scrivere al computer
 
 miserable
-miserabile
+miserabile; misero
 
 introverted
 introverso
