@@ -1804,9 +1804,6 @@ brutto
 sporty
 sportivo
 
-frail; puny
-gracile
-
 long
 lungo
 
@@ -2007,12 +2004,6 @@ la poltrona
 
 painting
 lo quadro
-
-dresser
-la credenza
-
-big desk
-la cattedra
 
 remote control
 il telecomando
