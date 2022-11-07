@@ -133,50 +133,11 @@ tutt'altra cosa rispetto a
 like two peas in a pod
 come due gocce d'acqua
 
-to see eye to eye
-parlare la stessa lingua
-
-to steer clear of
-tenersi alla larga da
-
-to stick around
-restare nei paraggi
-
 to be tied to someone's apron strings
 stare attaccato alle sottane di qualcuno
 
 water off a duck's back
 non fa né caldo né freddo
-
-to be dying to
-non vedere l'ora di
-
-to a fault
-fino all'eccesso
-
-to act one's age
-comportarsi da persona matura
-
-brand new
-nuovo di zecca
-
-cutting edge
-all'avanguardia
-
-in mint condition
-come nuovo
-
-old hat
-demodé
-
-out of date
-fuori moda; obsoleto
-
-over the hill
-superato; in disuso
-
-secondhand
-di seconda mano
 
 to be a spring chicken
 essere di primo pelo
@@ -190,89 +151,14 @@ essere lo zimbello di tutti
 to bite the dust
 morire; andare a rotoli
 
-bitter pill
-il boccone amaro
-
-dead loss
-peso morto; inutile
-
-to feel blue
-essere giù di morale
-
-to fight a losing battle
-combattere una battaglia persa
-
-a chance in hell; no chance at all
-straccio di possibilità
-
-in the worst-case scenario
-nel peggiore dei casi
-
-long face
-il muso lungo
-
-to pick up the pieces
-raccogliere i pezzi
-
-shame on you!
-vergogna!
-
-to swallow one's pride
-mettere da parte l'orgoglio
-
 to throw out the baby with the bathwater
 buttare tutto alle ortiche
-
-victim of circumstance
-la vittima delle circostanze
-
-wet blanket; spoilsport; killjoy; party-pooper
-il guastafeste
-
-blessing in disguise
-il bene insperato
-
-blown away
-impressionato tanto positivamente
-
-to get a kick out of something
-divertirsi a fare qualcosa
 
 happy as a lark
 felice come un agnellino
 
-in seventh heaven; on cloud nine; on top of the world
-al settimo cielo
-
 over the moon
 fuori di sé dalla gioia
-
-to make someone's day
-rallegrare la giornata
-
-to be in luck
-essere fortunato
-
-beginner's luck
-la fortuna del principiante
-
-to hit the jackpot
-vincere alla lotteria
-
-out of luck
-sfortunato
-
-to push one's luck
-tentare la sorte
-
-it's on the house
-offre la casa
-
-to make the most of
-sfruttare al massimo
-
-openhanded
-di manica larga
 
 to sponge off someone
 vivere a scrocco di qualcuno
@@ -280,47 +166,11 @@ vivere a scrocco di qualcuno
 tightfisted
 con il braccino corto, taccagno
 
-be my guest!
-fai pure!
-
-big mouth
-la lingua lunga
-
-to cut in line
-saltare la coda
-
-to do the honors
-fare gli onori di casa
-
-over the top
-fuori luogo; inappropriato
-
-to eat like a horse
-mangiare come un maiale
-
-to have a lot of nerve
-avere una bella faccia tosta
-
 to put your foot in one's mouth
-dirla grossa, senza tatto
+dirla grossa; senza tatto
 
 stuffed shirt
 il pallone gonfiato
-
-to sugarcoat something
-indorare la pillola
-
-acid test
-la prova del nove
-
-benefit of the doubt
-il beneficio del dubbio
-
-to bide one's time
-restare in attesa degli eventi
-
-cat got your tongue?
-hai perso la lingua?
 
 to drag one's heels
 tirarla per le lunghe
@@ -334,41 +184,17 @@ non concludere nulla
 to handle with kid gloves
 trattare con guanti di velluto
 
-in the best-case scenario
-nel migliore dei casi
-
-lesser of two evils
-il male minore
-
-to make up one's mind
-decidersi
-
 off the top of one's head
 così sui due piedi
 
-on second thought
-a pensarci bene; ripensandoci
-
-to be on the safe side
-per stare tranquilli
-
 to sit on the fence
 essere indecisi
-
-to sleep on it
-dormirci sopra
-
-to take it or leave it
-prendere o lasciare
 
 to take pains to do
 fare qualcosa con scrupolo
 
 to take the plunge
-buttarsi in qualcosa
-
-back in action
-di nuovo in azione
+buttarsi in (qualcosa)
 
 back to square one
 al punto di partenza
@@ -379,20 +205,11 @@ superare le basi
 to go down the drain
 andare in fumo
 
-to keep track of
-tenere traccia di
-
-to start from scratch
-ripartire da zero
-
 to turn over a new leaf
 cambiare pagina
 
-blind as a bat/mole
+blind as a bat
 cieco come una talpa
-
-bookworm
-il topo di biblioteca
 
 to have a screw loose
 avere una rotella fuori posto
@@ -409,26 +226,11 @@ conoscere i dettagli
 mad as a hatter; mad as hell
 matto come un cavallo
 
-to miss the point
-non capire
-
-to not have the faintest idea
-non avere la minima idea; non avere la più pallida idea
-
-out of touch
-non al passo coi tempi
-
 to be quick on the uptake
 capire le cose al volo
 
-to play your cards right
-giocare bene le proprie carte
-
 to rack one's brains
 spremersi le meningi
-
-to read between the lines
-leggere tra le righe
 
 slow on the uptake; thick as a brick
 duro di comprendonio; tonto
@@ -439,9 +241,6 @@ acuto; intelligente
 sly as a fox
 furbo come una volpe
 
-to take for granted
-dare per scontato
-
 this has a familiar ring to it
 mi suona familiare
 
@@ -451,26 +250,14 @@ mi dice qualcosa
 to call it a day
 per oggi può bastare
 
-to do the dirty work
-fare il lavoro sporco
-
 to get the sack
 essere silurato
 
 to have your hands full
 essere molto impegnato
 
-line of work
-l'ambito di lavoro
-
-on the shelf
-disoccupato
-
 snowed under
 oberato di lavoro
-
-under the table
-in nero
 
 to not be able to see the forest through the trees
 guardare il dito e non la luna
@@ -481,26 +268,8 @@ mettere dei paletti
 free as a bird
 senza vincoli
 
-free rein
-controllo totale
-
-to give carte blanche
-dare carta bianca
-
-to go too far
-superare il limite; esagerare
-
-green light
-la carta bianca
-
 to have no strings attached
 non avere limitazioni
-
-to have your hands tied
-avere le mani legate
-
-to make yourself at home
-fare come se fosse casa propria
 
 to take one's pick
 scegliere a piacere
