@@ -10429,6 +10429,12 @@ il dolore
 decade
 il decennio
 
+ten-year-old
+il dicenne; la dicenne
+
+twenty-year-old
+il ventenne; la ventenne
+
 on a happy note
 con una nota felice
 
