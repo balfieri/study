@@ -3535,6 +3535,9 @@ dare
 to say; to tell
 dire
 
+to say to; to tell to
+dire di
+
 to have to; to must
 dovere
 
@@ -6933,3 +6936,6 @@ far impazzire
 
 cell phone
 il telefonino; il telefono cellulare; il cellulare
+
+honestly; sincerely
+sinceramente; onestamente
