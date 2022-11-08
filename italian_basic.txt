@@ -6892,8 +6892,14 @@ fare festa
 dilemma
 il dilemma
 
-high school
-la scuola superiore; il liceo
+high school (general term)
+la scuola superiore
+
+high school (for those planning to attend university)
+il liceo
+
+high school (vocational)
+il politecnico; la scuola professionale; l'istituto professionale
 
 elementary school
 la scuola elementare
