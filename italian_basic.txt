@@ -6945,3 +6945,6 @@ il telefonino; il telefono cellulare; il cellulare
 
 honestly; sincerely
 sinceramente; onestamente
+
+counter; bar; bar counter
+il bancone
