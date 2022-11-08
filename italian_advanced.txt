@@ -16368,3 +16368,6 @@ svelto; rapido
 
 hygiene
 l'igiene
+
+wet wipe; moist towelette
+la salviettina umida
