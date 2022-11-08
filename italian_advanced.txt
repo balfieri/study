@@ -6241,6 +6241,9 @@ l'edicola
 to neglect; to overlook; to disregard
 trascurare
 
+to neglect; to leave out
+tralasciare
+
 to register
 immatricolare
 
@@ -16371,3 +16374,6 @@ l'igiene
 
 wet wipe; moist towelette
 la salviettina umida
+
+liquorice
+la liquirizia
