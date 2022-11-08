@@ -16386,3 +16386,6 @@ civettuolo; flirtante
 
 to flirt
 civettare; flirtare
+
+boundary
+il confine; il limite
