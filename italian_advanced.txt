@@ -16464,3 +16464,6 @@ miope; imprevidente
 
 shortsightedness
 la miopia; l'imprevidenza; l'improvvidenza
+
+lawful; licit; legal
+lecito
