@@ -16461,3 +16461,6 @@ la fuga di cervelli
 
 short-sighted
 miope; imprevidente
+
+shortsightedness
+la miopia; l'imprevidenza
