@@ -1000,8 +1000,11 @@ la nipote
 uncle
 lo zio
 
+aunt
+la zia
+
 spouse
-lo sposo
+lo sposo; la sposa
 
 wife
 la moglie
@@ -6788,7 +6791,7 @@ pausa
 la pausa
 
 particularly
-particolarmente
+particolarmente; in modo particolare
 
 especially
 specialmente
@@ -6948,3 +6951,9 @@ sinceramente; onestamente
 
 counter; bar; bar counter
 il bancone
+
+popcorn
+i popcorn
+
+dumpling; lump
+lo gnocco
