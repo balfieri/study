@@ -571,7 +571,7 @@ prendere la seconda uscita
 camera
 la macchina fotografica
 
-car
+machine; car
 la macchina
 
 automobile
@@ -6957,3 +6957,6 @@ i popcorn
 
 dumpling; lump
 lo gnocco
+
+pasta machine
+la macchina per la pasta; la macchina per pasta
