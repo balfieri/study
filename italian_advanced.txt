@@ -1081,9 +1081,6 @@ perseverare
 perseverance
 la perseveranza
 
-dutiful; proper
-doveroso
-
 contestant
 il concorrente
 
@@ -6315,9 +6312,6 @@ la recinzione; il recinto
 
 cucumbers
 i cetrioli
-
-to digress
-divagare
 
 error; mistake
 il disguido; l'errore
@@ -16512,3 +16506,24 @@ tanto per dirne una
 
 just for; only to; so much for
 tanto per
+
+zeitgeist
+lo Zeitgeist; lo spirito del tempo
+
+schadenfreude
+la Schadenfreude; la gioia maligna
+
+doppelgänger
+il doppio; il Doppelgänger
+
+to digress; to wander (conversation); to ramble
+divagare
+
+malignant tumor
+il tumore maligno
+
+malignant
+maligno
+
+appropriate; fitting; dutiful; proper
+doveroso
