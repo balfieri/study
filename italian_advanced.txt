@@ -16587,3 +16587,6 @@ le vite dei neri contano
 
 hate group
 il gruppo di odio
+
+reserved (person)
+riservato
