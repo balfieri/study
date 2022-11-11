@@ -16575,3 +16575,6 @@ la bolla
 
 massacre; slaughter; carnage
 l'eccidio
+
+killing; murder
+l'uccisione
