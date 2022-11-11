@@ -16536,3 +16536,9 @@ il silicio
 
 abrupt; sudden
 brusco
+
+to encrypt
+cifrare; codificare; crittografare
+
+to decipher; to decrypt
+decifrare; decodificare; decrittare
