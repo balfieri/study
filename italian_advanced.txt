@@ -16569,3 +16569,6 @@ soffocare
 
 culture shock
 lo shock culturale
+
+bubble
+la bolla
