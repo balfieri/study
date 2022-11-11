@@ -16542,3 +16542,6 @@ cifrare; codificare; crittografare
 
 to decipher; to decrypt
 decifrare; decodificare; decrittare
+
+if the weather cooperates
+se il tempo collabora
