@@ -6928,9 +6928,6 @@ sfavorevole
 to break up with
 rompere con
 
-to be interested in
-essere curioso di
-
 self-study
 l'autodidattico; l'autoapprendimento
 
@@ -6960,3 +6957,9 @@ lo gnocco
 
 pasta machine
 la macchina per la pasta; la macchina per pasta
+
+hobby
+l'hobby; il passatempo
+
+to be interested in
+essere curioso di
