@@ -3979,9 +3979,6 @@ la pentola
 cover; lid
 il coperchio
 
-ladle
-il mestolo
-
 wooden spoon
 il cucchiaio di legno
 
