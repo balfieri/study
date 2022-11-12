@@ -844,7 +844,7 @@ la coperta
 to go to bed
 andare al letto
 
-to go to sleep
+to go to sleep; to get some Z's
 andare a dormire
 
 to clean
@@ -4783,7 +4783,7 @@ uscire con gli amici
 to watch TV
 guardare la TV
 
-to go to bed
+to go to bed; to get to bed
 andare a letto
 
 ring
