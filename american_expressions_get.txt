@@ -1,4 +1,5 @@
 # non-obvious uses of the word GET not found in other lists
+# note: some of these are vulgar
 #
 getup
 un costume (forse un po’ ridicolo)
