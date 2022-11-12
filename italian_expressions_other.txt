@@ -319,41 +319,8 @@ scegliere a piacere
 up a tree
 in un vicolo cieco
 
-by heart
-a memoria
-
-to come to mind
-venire a mente
-
-to commit to memory
-imparare a memoria
-
-to keep in mind
-tenere a mente
-
-word for word
-parola per parola
-
-to bite one's tongue
-tenere a freno la lingua
-
 to call the shots
-aprire le danze, condurre
-
-control freak
-il maniaco del controllo
-
-to go nuts
-dare di matto
-
-in cold blood
-a sangue freddo
-
-to lose one's mind; to be head over heals
-perdere la testa
-
-to keep a straight face
-rimanere impassibili
+aprire le danze; condurre
 
 to keep a stiff upper lip
 essere stoici
@@ -364,9 +331,6 @@ stare calmi
 to keep something at bay
 tenere sotto controllo
 
-to tear your hair out
-strapparsi i capelli
-
 penny for your thoughts?
 a cosa stai pensando?
 
@@ -375,12 +339,6 @@ fare uno strappo alla regola
 
 to be beside the point
 non avere niente a che fare
-
-to break the ice
-rompere il ghiaccio
-
-change of heart
-il cambio di opinione
 
 to chew the fat; to shoot the breeze
 parlare del più e del meno
@@ -391,29 +349,11 @@ arrivare ad accettare
 to compare apples to oranges
 paragonare mele con pere
 
-to keep an open mind
-mantenere una mente aperta
-
-in a nutshell
-in breve
-
-in a word
-in poche parole
-
 in someone else's shoes
 nei panni di qualcun altro
 
-matter of opinion
-la questione di punti di vista
-
 to not be one's cup of tea
 non rientrare nei gusti di qualcuno
-
-on the other hand
-d'altra parte
-
-on the same wavelength
-sulla stessa lunghezza d'onda
 
 to burn your bridges
 fare terra bruciata
@@ -427,18 +367,6 @@ su percorsi poco conosciuti dai turisti
 to bury the hatchet
 sotterrare l'ascia di guerra
 
-to forgive and forget
-perdonare e dimenticare
-
-my bad
-colpa mia
-
-to put aside one's differences
-mettere da parte le divergenze
-
-to ask for trouble
-andare in cerca di guai
-
 to go out on a limb
 prendersi il rischio
 
@@ -451,7 +379,7 @@ nei pasticci
 in hot water
 nei guai
 
-to open a can of worms
+to open a can of worms; to open Pandor's box
 aprire un vaso di Pandora
 
 out of the frying pan and into the fire
@@ -459,9 +387,6 @@ dalla padella nella brace
 
 out of the woods
 fuori pericolo
-
-to play with fire
-giocare con il fuoco
 
 to take one's life into one's own hands
 mettere a rischio la propria vita
@@ -474,9 +399,6 @@ prediletto; cocco
 
 blood is thicker than water
 la famiglia viene prima di tutto
-
-down to earth
-alla mano
 
 fair-weather friend
 l'amico di comodo
@@ -493,12 +415,6 @@ it runs in the family
 jack of all trades
 il tuttofare
 
-lone wolf
-il lupo solitario
-
-on speaking terms
-in buoni rapporti
-
 party animal
 festaiolo
 
@@ -514,47 +430,14 @@ motivo di orgoglio, prediletto
 real catch
 il buon partito
 
-small talk
-la conversazione spicciola
-
 smart aleck
 il saccente; il sapientone
-
-to stay in touch
-rimanere in contatto
-
-against all odds
-contro ogni previsione
-
-to give it a shot
-provarci
-
-in all likelihood
-con tutta probabilità
-
-one's best bet
-la cosa migliore da fare
-
-in small doses
-a piccole dosi
 
 larger than life
 fuori dall'ordinario
 
 to make a mountain out of a molehill
 fare di una mosca un elefante
-
-once and for all
-una volta per tutte
-
-once in a blue moon
-ogni morte di Papa
-
-out of the blue
-di punto in bianco
-
-time and time again
-a ripetizione
 
 unknown quantity
 l'incognita
@@ -592,9 +475,6 @@ ne ho abbastanza!
 in the heat of the moment
 nella foga del momento
 
-last straw
-l'ultima goccia
-
 pain in the neck
 la rottura di scatole
 
@@ -620,7 +500,7 @@ rush job
 il lavoro urgente
 
 step by step
-gradualmente
+gradualmente; passo per passo
 
 dead on arrival
 arrivato morto
@@ -640,18 +520,6 @@ sentirsi così così
 white as a sheet; white as a ghost
 bianco come cenci
 
-to be at a loss for words
-non avere parole
-
-to not be able to believe one's ears
-non credere alle proprie orecchie
-
-to not be able to believe one's eyes
-non credere ai propri occhi
-
-come again?
-come hai detto?
-
 to come as a surprise
 avvenire inaspettatamente
 
@@ -661,56 +529,20 @@ stracciare; massacrare
 to do the trick
 servire allo scopo
 
-to go places
-fare strada
-
-to fall into place
-sistemarsi al meglio
-
 to find one's feet
-adattarsi, farcela
-
-to have an edge
-essere in vantaggio
+adattarsi; farcela
 
 to hit home; to hit the nail on the head
 colpire nel segno
 
-to leave one's mark
-lasciare il segno
-
-light at the end of the tunnel
-la luce in fondo al tunnel
-
-silver lining
-il lato positivo
-
-to win hands down
-vincere a mani basse
-
-to work like a charm
-funzionare perfettamente
-
-at the crack of dawn
-alle prime luci dell'alba
-
-better late than never
-meglio tardi che mai
-
 cold turkey
 di botto; dal nulla
-
-for the time being
-per il momento
 
 high time
 il momento giusto
 
 in the blink of an eye
 in un batter d'occhio
-
-in the long term
-nel lungo termine
 
 in the nick of time
 all'ultima frazione di secondo
@@ -720,18 +552,6 @@ agire prematuramente
 
 to kill time
 ammazzare il tempo
-
-like there's no tomorrow
-come se non ci fosse un domani
-
-long time no see!
-da quanto tempo!
-
-to make time
-trovare il tempo
-
-matter of time
-questione di tempo
 
 on the spot
 immediatamente
