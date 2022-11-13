@@ -571,41 +571,20 @@ giù di corda
 to have sour grapes
 fare la volpe con l'uva
 
-to bring to light
-portare alla luce
-
-to drop a hint
-fare un'allusione
-
 from the horse's mouth
 dalla fonte di chi lo ha detto
 
 to get something off your chest
 confessare qualcosa
 
-to get wind of
-venire a sapere
-
 to hear through the grapevine
 venire a sapere qualcosa
-
-to be in denial
-non accettare la verità
 
 to keep something under one's hat; to keep something close to one's chest
 tenere un segreto per sé
 
 to let the cat out of the bag; to spill one's guts; to spill the beans
 vuotare il sacco
-
-pack of lies
-il mucchio di bugie
-
-plain as day
-chiaro come il sole
-
-to shed light on
-fare luce su
 
 to smell a rat
 sentire puzza di bruciato
@@ -616,41 +595,8 @@ prendere qualcosa con le pinze
 to talk turkey
 dire pane al pane e vino al vino
 
-tip of the iceberg
-la punta dell'iceberg
-
-to tell you the truth
-a essere sincero
-
-walls have ears
-i muri hanno le orecchie
-
-white lie
-la bugia a fin di bene
-
-bold as brass
-arrogante; presuntuoso
-
-green with envy
-verde di invidia
-
-hard as nails
-duro come la pietra
-
-to have a green thumb
-avere il pollice verde
-
 high-flyer
 la persona in gamba
-
-to keep a low profile
-tenere un basso profilo
-
-to make one's mouth water
-far venire l'acquolina
-
-to have a sweet tooth
-goloso di dolci
 
 a bit of all right
 attraente fisicamente
@@ -685,26 +631,8 @@ un amico non visto da molto tempo
 till the cows come home
 a lungo
 
-a mutual friend
-un amico comune
-
-a casual acquaintance
-una conoscenza superficiale
-
-pain in the ass; pain in the neck
-il rompipalle; il rompiscatole
-
-a piece of friendly advice
-un consiglio d'amico
-
-see you later
-a più tardi
-
 snake in the grass
 l'amico malfidato
-
-a tua disposizióne
-at your service
 
 wino
 l'ubriacone
@@ -714,9 +642,6 @@ semplicemente un'amica
 
 please, come in
 accòmodati
-
-it's a deal; sounds good
-affare fatto
 
 help me, I'm drowning
 affogo
@@ -729,9 +654,6 @@ all hell has broken loose
 
 all is fair in love and war
 tutto è lecito in amore e in guerra
-
-at last; it's about time; it was about time
-alla buon'ora
 
 keep out
 alla larga
