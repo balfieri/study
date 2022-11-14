@@ -9673,7 +9673,7 @@ autoctono
 to laugh it up
 riderci sopra
 
-odd; strange; eccentric
+odd; strange; eccentric; goofy
 strambo
 
 weirdo
@@ -11926,9 +11926,6 @@ la canna
 get lost!
 vattene!
 
-a rip-off
-una fregatura
-
 this is what you have to look forward to
 questo è quello che ti aspetta
 
@@ -13669,9 +13666,6 @@ lo scioglilingua
 to trot
 trotterellare
 
-to die (less common word)
-crepare
-
 clear; tranquil
 sereno
 
@@ -13795,7 +13789,7 @@ non fa una piega
 for a change; just for a change
 tanto per cambiare
 
-it doesn't matter; never mind
+it doesn't matter; never mind; it's no biggy; it's no big deal
 non fa niente
 
 through gritted teeth; through clenched teeth
@@ -14395,7 +14389,7 @@ le condizioni di partenza
 insurmountable
 insormontabile
 
-scam; cheat; swindle
+scam; cheat; swindle; rip-off
 la fregatura
 
 custom; custom-made
@@ -16701,9 +16695,6 @@ tenere a freno la lingua
 
 control freak
 il maniaco del controllo
-
-to go nuts
-dare di matto
 
 in cold blood
 a sangue freddo
