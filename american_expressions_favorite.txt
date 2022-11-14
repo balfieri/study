@@ -553,7 +553,7 @@ deal with it!
 farci i conti
 
 cool your jets!
-raffredda I bollenti spiriti!
+raffredda i bollenti spiriti!
 
 too much information (TMI)
 basta per cortesia
@@ -601,7 +601,7 @@ to ride shotgun
 fare da copilota 
 
 to call shotgun
-prenotarsi il posto davanti?
+prenotarsi il posto davanti
 
 couch potato
 il pantofolaio; il mutandato; il teledipendente
@@ -655,7 +655,7 @@ pick your poison
 non si sa di quale morte morire
 
 yes siree Bob!
-yes!
+sì!
 
 no siree Bob!
 no!
@@ -784,13 +784,13 @@ to loosen up
 sciogliersi un po’ 
 
 maxed out
-esaurito; a tutto pieno
+esaurito; al massimo
 
-photobomb
+to photobomb
 fare photobombing
 
 what a riot!
-che spasso
+che spasso!
 
 rinky-dink
 dozzinale; mediocre 
