@@ -6799,11 +6799,23 @@ esigire
 to require
 esigere
 
-aware; conscious
-cosciente; consapevole
+aware
+consapevole
 
-oblivious; clueless; unaware
+unaware; oblivious; clueless
 inconsapevole; ignaro
+
+conscious (adj)
+cosciente
+
+conscious (n)
+il conscio
+
+unconscious (adj); reckless; irresponsible
+incosciente
+
+unconscious (n)
+l'inconscio
 
 tolerance
 la tolleranza

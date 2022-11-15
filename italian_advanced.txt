@@ -5671,9 +5671,6 @@ la stratagemma
 to get inside someone's head
 entrare nella sua testa
 
-unconsious
-inconscio
-
 multiple myeloma
 il mieloma multipla
 
@@ -15427,9 +15424,6 @@ la formaggiera
 coffer; exchequer; till
 il forziere
 
-unconscious; reckless; irresponsible
-incosciente
-
 mine; pite; mining
 la miniera
 
@@ -17128,5 +17122,3 @@ the humanities
 tuition
 la retta
 
-conscious
-conscio
