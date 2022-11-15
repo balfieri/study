@@ -17154,3 +17154,6 @@ deludente
 
 virgin ears
 le orecchie vergini
+
+to authenticate
+autenticare
