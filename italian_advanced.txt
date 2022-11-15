@@ -10186,7 +10186,7 @@ alquanto
 event (micro); occurrence; happening
 l'avvenimento
 
-partner; associate
+associate
 il socio
 
 lock

@@ -6979,3 +6979,8 @@ a più tardi
 airline ticket; plane ticket
 il biglietto aereo
 
+companion
+il compagno; la compagna
+
+partner
+il partner; la partner
