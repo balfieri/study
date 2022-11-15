@@ -6073,7 +6073,7 @@ però
 case (abstract)
 il caso
 
-politics
+politics; policy
 la politica
 
 why; because
@@ -6975,3 +6975,7 @@ essere curioso di
 
 see you later
 a più tardi
+
+airline ticket; plane ticket
+il biglietto aereo
+
