@@ -17142,3 +17142,6 @@ procorrere
 
 to postpone
 rinviare
+
+blind and deaf
+sordomuto
