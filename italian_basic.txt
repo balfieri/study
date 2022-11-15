@@ -1019,7 +1019,7 @@ daughter
 la figlia
 
 relative (personal)
-il parente
+il parente; la parente
 
 bread
 il pane
@@ -6984,3 +6984,6 @@ il compagno; la compagna
 
 partner
 il partner; la partner
+
+fiancé
+il fidanzato; la fidanzata
