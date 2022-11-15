@@ -17157,3 +17157,6 @@ le orecchie vergini
 
 to authenticate
 autenticare
+
+range
+la gamma
