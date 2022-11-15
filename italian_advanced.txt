@@ -11314,7 +11314,7 @@ in tuta
 to postpone
 posticipare
 
-to elaborate on; to deepen; to go deeper on
+to delve into; to deepen one's knowledge of; to elaborate on; to deepen; to go deeper on
 approfondire
 
 understanding
@@ -17164,3 +17164,5 @@ la gamma
 psychologist
 lo psicologo
 
+psychology
+la psicologia
