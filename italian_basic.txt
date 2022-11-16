@@ -6984,3 +6984,6 @@ il partner; la partner
 
 fiancé
 il fidanzato; la fidanzata
+
+it is supposed to be; it should be
+dovrebbe essere
