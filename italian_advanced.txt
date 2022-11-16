@@ -11524,9 +11524,6 @@ l'innalzamento
 scrapping
 la rottomazione
 
-to stagger
-scaglionare
-
 insertion
 l'inserimento
 
@@ -17199,3 +17196,36 @@ il margine ristretto; il margine stretto
 
 narrow margin of victory
 lo stretto margine di vittoria
+
+to stagger; to space out
+scaglionare
+
+district
+il distretto
+
+District of Columbia
+il Distretto di Columbia
+
+surrounding districts
+i distretti circostanti
+
+governing body
+l'organo governante
+
+artificial boundary
+il confine artificiale
+
+discount; rebate
+uno sconto
+
+I'll take care of it
+me ne occuperò
+
+round-trip
+andata e ritorno
+
+what on earth
+cosa diavolo
+
+self-sufficient
+autosufficiente
