@@ -6325,7 +6325,7 @@ Firenze
 element
 l'elemento
 
-view
+view; sight
 la vista
 
 situation
