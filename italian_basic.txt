@@ -3799,9 +3799,6 @@ la gomma
 cute
 carino
 
-attractive
-attraente
-
 house
 la casa
 
@@ -4918,11 +4915,8 @@ abile
 accustomed
 abituato
 
-tanned
-abbronzato
-
 attractive
-accattivante
+attraente; accattivante
 
 friendly
 amichevole
