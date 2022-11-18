@@ -429,8 +429,8 @@ l’outsider
 to give (someone) a taste of his own medicine
 pane per i tuoi denti
 
-bummer!; that sucks!; that's a total bummer
-è un peccato
+bummer; that sucks; that's a total bummer
+che sfiga; è un peccato
 
 the shoe's on the other foot
 la situazione si è capovolta; impugnare il coltello dalla parte del manico
@@ -447,7 +447,7 @@ crepare
 to do (something) for shits and gigs
 buttarsi
 
-sick (cool, young people say this)
+sick (cool)
 figo
 
 to be hype
@@ -827,5 +827,4 @@ sfinito
 
 zippo
 zero; niente di niente
-
 
