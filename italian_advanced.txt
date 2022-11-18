@@ -6241,9 +6241,6 @@ da abbracciare; tutto da abbracciare
 good hugger
 l'abbracciatore professionista; l'abbracciatrice professionista
 
-to smother with kisses
-sbaciucchiare
-
 kissable
 da baciare; da sbaciucchiare
 
@@ -17409,3 +17406,6 @@ il tradimento coniugale
 
 split second
 la frazione di secondo
+
+to smooch; to make out; to smother with kisses
+sbaciucchiare
