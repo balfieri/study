@@ -17391,3 +17391,6 @@ la manifestazione
 
 projectionist
 l'addetto alla proiezione
+
+insider
+l'addetto ai lavori
