@@ -6353,7 +6353,7 @@ to climb over; to overtake
 scavalcare
 
 argument at hand; proposed topic
-l'argumento proposto
+l'argomento proposto
 
 to volunteer
 offrirsi volentario
@@ -16318,8 +16318,8 @@ la narice
 rickety; ramshackle
 sgangherato
 
-la grande tosta
 cheek; brass; nerve
+la grande tosta
 
 the Middle Ages
 il Medioevo
