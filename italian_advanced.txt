@@ -631,9 +631,6 @@ il pilotaggio
 in the clouds
 nelle nuvole; tra le nuvole
 
-notes
-gli appunti; le note
-
 package
 il pachetto
 
