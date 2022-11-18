@@ -17388,3 +17388,6 @@ avere una relazione
 
 demonstration; event; manifestation
 la manifestazione
+
+projectionist
+l'addetto alla proiezione
