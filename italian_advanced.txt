@@ -3931,8 +3931,8 @@ lo starnutatore
 evil spirits
 gli spiriti maligni
 
-feasible
-praticabile; fattibile; realizzabile; attuabile
+feasible; doable; practical
+fattibile; praticabile; realizzabile; attuabile
 
 crude (tactless)
 grezzo; crudo
@@ -13864,9 +13864,6 @@ tenerci
 know-how
 il saper fare
 
-doable
-fattibile
-
 adjacent
 adiacente
 
@@ -17484,3 +17481,16 @@ l'esercizio di riscaldimento
 
 custom
 la consuetudine
+
+cartoon
+il cartone animato
+
+comics (cartoon)
+i fumetti
+
+to browse; to snoop
+curiosare
+
+to overthrow the government
+rovesciare il governo
+
