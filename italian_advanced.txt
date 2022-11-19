@@ -5545,9 +5545,6 @@ il neologismo
 trivial
 banale; insignificante; triviale; futile
 
-in the afternoon
-di pomeriggio
-
 slavery
 la schiavitù; lo schiavismo
 
@@ -10060,9 +10057,6 @@ constatare
 to hoe; to dig; to burrow
 zappare
 
-complaint
-la lamentela
-
 astride
 a cavalcioni
 
@@ -13749,9 +13743,6 @@ lo sbarco
 
 in the morning
 a mattina
-
-early; mornings; in the morning
-di mattina
 
 you feel like
 ti va
@@ -17470,3 +17461,26 @@ la frode
 voter fraud
 la frode elettorale
 
+white lie
+la bugia bianca; la bugia pietosa; la piccola bugia
+
+merciful; pitiful; compassionate
+pietoso
+
+voting precinct
+la circoscrizione elettorale
+
+grievance; complaint; grip
+la lamentela
+
+colonist
+il colono
+
+fairly
+in modo equo
+
+warm-up exercise
+l'esercizio di riscaldimento
+
+custom
+la consuetudine

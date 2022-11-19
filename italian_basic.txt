@@ -34,17 +34,23 @@ bianco
 hi (bye)
 ciao
 
-hello (good day)
-buon giorno
+hello; good day
+buon giorno; buongiorno
+
+good afternoon
+buon pomeriggio
 
 good evening
-buona sera
+buona sera; buonosera
 
 good night
-buona notte
+buona notte; buonanotte
 
 have a good day
 buona giornata
+
+have a good evening
+buona serata
 
 good-bye
 arrivederci
@@ -1428,9 +1434,6 @@ stasera
 
 today
 oggi
-
-have a good evening
-buona serata
 
 afternoon
 il pomeriggio
@@ -3501,6 +3504,9 @@ annoiarsi
 
 to get used to
 abituarsi a
+
+to be used to
+essere abituato a
 
 to fall in love
 innamorarsi
@@ -6987,3 +6993,23 @@ il fidanzato; la fidanzata
 
 it is supposed to be; it should be
 dovrebbe essere
+
+to see if; to make sure that
+verificare se
+
+in the morning; during the morning; early (in the day)
+di mattina
+
+in the afternoon; during the afternnoon
+di pomeriggio
+
+in the evening; during the evening
+di sera
+
+in the night; during the night
+di notte
+
+have a good morning
+buona mattinata
+
+
