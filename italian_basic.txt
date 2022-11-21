@@ -2074,9 +2074,6 @@ il cespuglio
 field; camp
 il campo
 
-bank (of river); edge
-la sponda
-
 rock
 la roccia
 
@@ -2097,15 +2094,6 @@ il prato
 
 coast
 la costa
-
-bank; shore
-la riva
-
-stream
-il ruscello
-
-pond
-il laghetto
 
 planet
 il pianeta
@@ -5922,9 +5910,6 @@ deficiente
 
 to waste time
 perdere tempo
-
-vain
-vanitoso
 
 inhabitant
 l'abitante
