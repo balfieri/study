@@ -5404,7 +5404,7 @@ prorompente
 slender; thin; slim
 esile
 
-association; assembly; society
+partnership; association; assembly; society
 il sodalizio
 
 equal; joint
@@ -5629,7 +5629,7 @@ trascinare
 filthy; obcene; dirty
 sconcio
 
-dirty words
+dirty talk; dirty words
 le parole sconce
 
 to ride; to mount; to climb; to straddle
@@ -18078,3 +18078,36 @@ il laghetto
 
 block (buildings surrounded by streets)
 l'isolato
+
+all too; far too; more than enough; only too
+fin troppo
+
+presence
+il cospetto
+
+filmmaker
+il cineasta
+
+venerable
+venerando
+
+feature film; full-length film
+il lungometraggio
+
+unreliable; dodgy; untrustworthy
+inaffidabile
+
+to really mean it
+dire sul serio; davvero intendere
+
+I'll take that as a yes
+lo prendo come un sì; lo prenderò come un sì
+
+you seem to be very comfortable (doing something)
+sembri molto a tuo agio a
+
+you get only one chance to make a first impression
+hai una sola possibilità per fare prima impressione
+
+you know that?
+lo sai?
