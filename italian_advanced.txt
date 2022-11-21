@@ -8512,6 +8512,12 @@ la soffita; l'attico
 House of Representatives
 La Camera dei Rappresentanti
 
+Senate
+il Senato
+
+Congress
+il Congresso
+
 to sow (seeds)
 piantare; seminare
 
@@ -18114,3 +18120,6 @@ lo sai?
 
 to be lost for words; to be speechless
 essere senza parole; non avere parole; non sapere cosa dire
+
+Electorial College
+il Collegio Elettorale
