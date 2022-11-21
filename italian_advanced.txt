@@ -18126,3 +18126,9 @@ il Collegio Elettorale
 
 winner-take-all system
 il sistema in cui il vincitore prende tutto
+
+an insight
+un'intuizione; un'introspezione; una visione
+
+to have an insight about
+avere intuito qualcosa di
