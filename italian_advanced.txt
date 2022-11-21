@@ -18076,3 +18076,5 @@ il ruscello
 pond
 il laghetto
 
+block (buildings surrounded by streets)
+l'isolato
