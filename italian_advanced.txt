@@ -18123,3 +18123,6 @@ essere senza parole; non avere parole; non sapere cosa dire
 
 Electorial College
 il Collegio Elettorale
+
+winner-take-all system
+il sistema in cui il vincitore prende tutto
