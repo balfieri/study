@@ -385,14 +385,8 @@ i lembi
 knot
 il nodo
 
-incoming (starts with i)
-in entrata; in arrivo
-
-incoming (starts with e)
-entrante
-
-incoming (starts with i)
-in partenza
+incoming
+in entrata; in arrivo; entrante; in partenza
 
 outgoing (leaving)
 uscente
