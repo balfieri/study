@@ -14656,8 +14656,8 @@ incrociare
 shrug
 la spalluccia
 
-fare spallucce
 to shrug
+fare spallucce
 
 to replenish
 rimpinguare
