@@ -227,7 +227,7 @@ eyes
 gli occhi
 
 hand
-il mano
+la mano
 
 hands
 le mani

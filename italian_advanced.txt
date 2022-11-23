@@ -10168,8 +10168,8 @@ alquanto
 event (micro); occurrence; happening
 l'avvenimento
 
-associate
-il socio
+partner (business); associate
+il socio; la socia
 
 lock
 la serratura
@@ -11424,9 +11424,6 @@ il romanzo spazzatura
 
 pajamas
 il pagiama
-
-fork (road); crossroad
-il bivio
 
 movie theater
 la sala cinema
@@ -14656,7 +14653,7 @@ incrociare
 shrug
 la spalluccia
 
-to shrug
+to shrug; to shake off
 fare spallucce
 
 to replenish
@@ -16529,7 +16526,7 @@ culture shock
 lo shock culturale
 
 bubble
-la bolla
+la bolla; la bollicina
 
 massacre; slaughter; carnage
 l'eccidio
@@ -18204,3 +18201,66 @@ il paese in via di sviluppo
 
 controversial
 controverso
+
+layer of paint
+lo strato di pittura; lo strato di vernice
+
+polyurethane
+il poliuretano
+
+to layer
+stratificare
+
+paint
+la pittura; la vernice
+
+coat of paint
+la mano di vernice
+
+coating
+il rivestimento
+
+she has quite a body
+ha un bel corpo
+
+the third degree
+il terzo grado
+
+my business
+i fatti miei
+
+exponent; representative; voice
+l'esponente
+
+crossroad; fork (road); crossroads; junction
+il bivio
+
+well acted
+ben recitato
+
+acting
+la recitazione
+
+exorcism
+l'esorcismo
+
+scrumptious
+delizioso; squisito
+
+schoolgirl
+la scolaretta
+
+schoolboy
+lo scolaretto
+
+emblem
+il emblema
+
+anathema
+il anatema
+
+cobra
+il cobra
+
+boa
+il boa
