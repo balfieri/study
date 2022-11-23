@@ -1795,9 +1795,6 @@ duro di comprendonio
 speaker
 l'interlocutore
 
-infamous; notorious
-famigerato
-
 fame
 la fama
 
@@ -3666,9 +3663,6 @@ superare una prova
 
 to be in force; to be in use
 vigere
-
-supply; procurement; provision
-l'approvvigionamento
 
 every now and then; from time to time
 di tanto in tanto
@@ -8160,9 +8154,6 @@ la paradigma
 
 route; course; run; journey
 il percorso
-
-conservation; storage
-lo stoccaggio
 
 to proceed
 procedere
@@ -18270,3 +18261,48 @@ il Rinascimento
 
 deposit in the bank
 il deposito in banca
+
+present (n)
+il contempo
+
+supply; procurement; provision
+l'approvvigionamento
+
+storage; storing; conservation
+lo stoccaggio
+
+woodpecker; pecker
+il picchio
+
+wholesale; approximately; roughly
+ingrosso
+
+notorious; infamous; of ill repute
+famigerato
+
+deployment
+lo schierzamento
+
+to square the circle
+quadrare il cerchio
+
+contractual
+contrattuale
+
+to talk; to speak
+discorrere
+
+decoupling
+il disaccoppiamento
+
+can
+la scatoletta
+
+sour cream
+la panna acida
+
+spillage
+lo spandimento; la fuoiuscita
+
+glutin
+il glutine; la glutina
