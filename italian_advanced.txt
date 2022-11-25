@@ -131,7 +131,7 @@ tomato paste
 la pasta di pomodoro
 
 purpose
-lo scopo
+lo scopo; il proposito
 
 beer yeast
 il lievito di birra
@@ -18399,3 +18399,328 @@ sono davvero depresso; sono davvero dispiaciuto; sono davvero deluso
 
 flaky (crust)
 friabile
+
+enjoy your free time
+goditi il tempo libero
+
+to understand what makes someone tick
+capire come ragiona una persona
+
+to give someone the cold shoulder
+trattare qualcuno con freddezza
+
+baker's dozen
+il tredici
+
+on the contrary
+tutt'altro
+
+all roads lead to Rome
+tutte le strade portano a Roma
+
+last but not least
+ultimo ma non meno importante
+
+red herring
+l'elemento fuorviante
+
+get to the point!
+vieni al sodo!
+
+may the best man/woman/person win!
+vinca il miglióre!
+
+spit it out!
+vuota il sacco!
+
+who cares?
+che importa?; chi se ne frega?; ma chi se ne frega!
+
+tough break
+il brutto colpo; il colpo difficile; il duro colpo; che sfortuna
+
+lucky break
+il colpo di fortuna
+
+bad break
+il brutto momento; il brutto colpo
+
+to cheat on one's significant other
+fare le corna
+
+brain drain
+i cervelli in fuga
+
+to knock on wood
+toccare ferro
+
+it's none of their business
+non sono affari loro
+
+it's no picnic
+non è una passeggiata
+
+out of my league
+fuori della mia portata
+
+TGIF; thank God it's Friday
+grazie a Dio è venerdì; per fortuna è venerdì
+
+that's the spirit
+questo è lo spirito giusto; questo è lo spirito
+
+I don't know; I have no idea
+boh!
+
+I wish to do something
+mi va di
+
+come on!
+dai!
+
+cool (Sicilian)
+spacchuiso
+
+awesome
+che bello; bellissimo
+
+very cool
+fichissimo
+
+to be another thing altogether
+essere un altro paio di maniche
+
+to be a burden
+essere una palla al piede
+
+a-gogo
+a gogo
+
+to lose one's train of thought
+andar per rane
+
+to tread lightly
+andare coi piedi di piombo
+
+to dot the i's and cross the t's
+mettere i puntini sulle i
+
+to have too many irons in the fire
+mettere troppa carne al fuoco
+
+to tempt fate
+mettere la paglia vicino al fuoco
+
+to not be able to hurt a fly
+non fare male a una mosca
+
+to speak eye-to-eye; to speak man-to-man
+parlare a quattr'occhi
+
+to not mince words
+parlare chiaro e tondo
+
+to lose face
+perdere la faccia
+
+to preach to the choir
+sfondare una porta aperta
+
+to breach; to break through
+sfondare
+
+to wait with bated breath
+stare col fiato sospeso
+
+to cut ties
+tagliare i ponti
+
+to keep one's mouth shut
+tenere il becco chiuso
+
+mystery novel
+il libro giallo
+
+know-it-all
+il saputo
+
+it's not even close!
+non c'è nemmeno vicino!
+
+we turn to each other
+ci rivolgiamo l'uno all'altro
+
+to serve two masters
+servire due padroni
+
+don't worry about it; it's nothing
+figurati
+
+how disgusting! that's gross!
+che schifo!
+
+darn! dang!
+mannaggia
+
+to see one another; to get together (with friends)
+beccarsi; trovarsi; vedersi
+
+to stay up late
+tirare tardi
+
+to freak out; to flip out; dare in matto impazzire
+sbroccare
+
+damn!
+che cavolo!; cavolo!
+
+it's the bomb! molto bello
+che bomba!
+
+annoying person
+il rompiscatole
+
+babe magnet
+la calamita per le pupe
+
+you've got a lot of nerve
+hai un bel fegato a; hai una grande faccia tosta a
+
+to make a virtue of necessity
+far di necessità virtù
+
+to know one's stuff
+sapere il fatto suo
+
+to have the end in sight
+vedere il fondo
+
+heart-to-heart
+a cuore aperto
+
+to have a thick skin
+avere la pelle dura
+
+to have (something) on the tip of one's tongue
+avere qualcosa sulla punta della lingua
+
+to land on one's feet
+cadere sempre in piedi
+
+to walk on eggshells
+camminare sulle uova
+
+to search for a needle in a haystack
+cercare un ago nel pagliaio
+
+to defend (something) to the end
+difendere (qualcosa) con i denti
+
+to give it a go; to go down there (implying quickly)
+farci un salto
+
+to run away at top speed; to run for the hills
+fuggire a gambe levate; scappare a gambe levate
+
+smooth as silk
+liscio come l'olio
+
+to put into writing
+mettere nero su bianco
+
+to be subtle
+andare per il sottile
+
+to be brave; to have guts
+avere fegato
+
+to have a gentle touch
+avere la mano leggera
+
+to be heavy-handed
+avere la mano pesante
+
+no sooner said than done
+detto fatto
+
+to be first in line
+essere in prima linea
+
+to be a closed book
+essere un libro chiuso
+
+to be an open book
+essere un libro aperto
+
+to take a leap of faith
+fare atto di fede
+
+to leave something to be desired
+lasciare a desiderare
+
+to wash one's hands of (something)
+lavarsene le mani di
+
+to lick one's chops
+leccarsi i baffi
+
+to lick one's wounds
+leccarsi le ferite
+
+to crucify
+mettere in croce
+
+to highlight
+mettere in luce
+
+to bite one's tongue
+mordersi la lingua
+
+to talk to a wall
+parlare al muro
+
+to go back on one's word
+rimangiarsi la parola
+
+breakthrough
+il salto di qualità
+
+to reinvent the wheel
+scoprire l'acqua calda; scoprire l'America
+
+Achille's heal
+il tallone d'Achille
+
+to keep in mind
+tenere in ballo
+
+to keep in check
+tenere in scacco
+
+to keep an eye on
+tenere sott'occhio
+
+to keep on a leash
+tenere sulla corda
+
+to tighten one's belt
+tirare la cinghia
+
+to press one's luck
+tirare troppo la corda
+
+to have a one-on-one
+trovarsi a tu per tu
+
+to be stuck between a rock and a hard place
+trovarsi tra due fuochi; trovarsi tra l'incudine e il martello
+
+to use the carrot and the stick
+usare il bastone e la carota
+
+to be in limbo
+vivere in un limbo
+
+to come to the fore
+venire alla ribalta
+

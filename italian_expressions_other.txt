@@ -1393,9 +1393,6 @@ trattare in guanti bianchi
 to turn one's nose up
 storcere il naso
 
-to understand what makes someone tick
-capire come ragiona una persona
-
 to walk all over somebody
 trattare qualcuno molto male
 
@@ -1404,18 +1401,6 @@ togliere dai piedi
 
 Tom, Dick and Harry
 Tizio, Caio e Sempronio
-
-to give someone the cold shoulder
-trattare qualcuno con freddezza
-
-baker's dozen
-il tredici
-
-on the contrary
-tutt'altro
-
-all roads lead to Rome
-tutte le strade portano a Roma
 
 all work and no play makes Jack a dull boy
 tutti hanno bisogno di evasione
@@ -1426,14 +1411,8 @@ il terzo incomodo
 to kill the goose that laid the golden egg
 uccidere la gallina dalle uova d'oro
 
-last but not least
-ultimo ma non meno importante
-
 a horse of a different colour
 un altro paio di maniche
-
-red herring
-l'elemento fuorviante
 
 red-letter day
 il giorno campale
@@ -1442,7 +1421,7 @@ babe in the woods
 l'ingenuo
 
 turkey; lemon
-l'insuccesso; il fiasco; il modello/esemplare difettoso
+l'insuccesso; il fiasco; il modello difettoso; l'esemplare difettoso
 
 a bed of roses
 un letto di rose (fig.)
@@ -1501,20 +1480,11 @@ vale più la pratica che la grammatica
 travel broadens the mind
 viaggiare ti allarga gli orizzonti
 
-get to the point!
-vieni al sodo!
-
-may the best man/woman/person win!
-vinca il miglióre!
-
 to be on easy street
 vivere nel lusso
 
 to turn over a new leaf
 voltar pagina
-
-spit it out!
-vuòta il sacco!
 
 a person with wandering hands
 uno sporcaccione che tocca tutte le ragazze; un polipo
@@ -1522,74 +1492,14 @@ uno sporcaccione che tocca tutte le ragazze; un polipo
 with friends like this/that who needs enemies?
 bell'amico che sei! begli amici!
 
-who cares?
-che importa?; chi se ne frega?; ma chi se ne frega!
-
-tough break
-il brutto colpo; il colpo difficile; il duro colpo; che sfortuna
-
-lucky break
-il colpo di fortuna
-
-bad break
-il brutto momento; il brutto colpo
-
-to cheat on one's significant other
-fare le corna
-
 con il senno di poi
 in hindsight
 
-brain drain
-i cervelli in fuga
-
-to knock on wood
-toccare ferro
-
-it's none of their business
-non sono affari loro
-
-it's no picnic
-non è una passeggiata
-
-out of my league
-fuori della mia portata
-
-TGIF; thank God it's Friday
-grazie a Dio è venerdì; per fortuna è venerdì
-
-that's the spirit
-questo è lo spirito giusto; questo è lo spirito
-
-I don't know; I have no idea
-boh!
-
-I wish to do something
-mi va di
-
-come on!
-dai!
-
-stai dicendo cose sciocche, senza logica
+you're saying silly things, without logic
 sei fuori!
-
-cool (Sicilian)
-spacchuiso
-
-awesome
-che bello; bellissimo
-
-very cool
-fichissimo
 
 to be in the lion's den
 essere nella fossa dei leoni
-
-to be another thing altogether
-essere un altro paio di maniche
-
-to be a burden
-essere una palla al piede
 
 to bark at the moon
 abbaiare alla luna
@@ -1615,9 +1525,6 @@ ad ampio respiro
 to sink one's fangs
 affondare le zanne; avventarsi con voracità; addentare
 
-a-gogo
-a gogo
-
 to stretch one's neck (with the hope of seeing something without others noticing)
 allungare il collo
 
@@ -1626,9 +1533,6 @@ alzare bandiera bianca
 
 to eat crow
 andare a Canossa
-
-to lose one's train of thought
-andar per rane
 
 to become more stupid than before
 andar vitello e tornare bue
@@ -1672,62 +1576,23 @@ andare a picco
 to end up bad
 andare a puttane
 
-to wander arond aimlessly
+to wander around aimlessly
 andare a zonzo
 
 to go to the slaughter
 andare al macelloandare al macello
 
-to tread lightly
-andare coi piedi di piombo
-
 to go fancy
 andare di lusso
 
-to dot the i's and cross the t's
-mettere i puntini sulle i
-
-to have too many irons in the fire
-mettere troppa carne al fuoco
-
-to tempt fate
-mettere la paglia vicino al fuoco
-
 to be dirt poor; to not have a pot to piss in
-non avere il becco di un quattrino
-
-to be dirt poor
-non aver niente da metter sotto i denti
-
-to not be able to hurt a fly
-non fare male a una mosca
-
-to speak eye-to-eye; to speak man-to-man
-parlare a quattr'occhi
-
-to not mince words
-parlare chiaro e tondo
+non avere il becco di un quattrino; non aver niente da metter sotto i denti
 
 to pass the hot potato
 passare la patata bollente
 
-to lose face
-perdere la faccia
-
 to live day-to-day
 sbarcare il lunario
-
-to preach to the choir
-sfondare una porta aperta
-
-to wait with bated breath
-stare col fiato sospeso
-
-to cut ties
-tagliare i ponti
-
-to keep one's mouth shut
-tenere il becco chiuso
 
 to drag somebody by his hair
 tirare per i capelli
@@ -1735,16 +1600,10 @@ tirare per i capelli
 to reach the end of one's rope; to hit rock bottom
 toccare il fondo
 
-mystery novel
-libro giallo
-
-a know-it-all
-un saputo
-
 you're being mean
 sei scemo
 
-to act like you're a big deal
+to act like you're a big deal; to act like a big shot
 fare il grande
 
 to be obsessed with something
@@ -1753,11 +1612,8 @@ avere un chiodo fisso in testa
 to stand up someone on a date
 tirare un bidone
 
-to be soooo hungry
+to be extremely hungry
 avere un fame boia
-
-purpose
-lo scopo; il proposito
 
 to bite off more than one can chew
 fare il passo più lungo della gamba; strafare
@@ -1786,12 +1642,6 @@ entrare in contatto con il suo lato femminile
 still waters run deep
 le acque calme scorrono profonde; l'acqua cheta va a fondo
 
-it's not even close!
-non c'è nemmeno vicino!
-
-we turn to each other
-ci rivolgiamo l'uno all'altro
-
 to not have any money; to be broke
 essere al verde; essere in bolletta; non avere un becco di un quadrino
 
@@ -1816,29 +1666,11 @@ ognuno porta la sua croce
 to have a bitter taste in one's mouth
 restare con l'amaro in bocca
 
-to serve two masters
-servire due padroni
-
 to make noise
 fare un casino; fare casino
 
-don't worry about it; it's nothing
-figurati
-
-to make out
-limonare; pomiciare
-
 to jinx (literally to 'hoot' as an owl)
 gufare
-
-how disgusting! that's gross!
-che schifo!
-
-darn! dang!
-mannaggia
-
-to see one another; to get together (with friends)
-beccarsi; trovarsi; vedersi
 
 a relationship; affair (literally a scam)
 l'inciucio
@@ -1852,12 +1684,6 @@ il coatto
 a lot
 un botto
 
-to stay up late
-tirare tardi
-
-to freak out; to flip out; dare in matto impazzire
-sbroccare
-
 doesn't notice you
 non ti fila per niente
 
@@ -1870,14 +1696,8 @@ col cavolo
 you're going to have trouble
 cavoli amari
 
-damn!
-che cavolo!; cavolo!
-
 when something happens right in the perfect moment or comes up in the perfect situation
 a fagiolo
-
-it's the bomb! molto bello
-che bomba!
 
 fake news
 bufala
@@ -1885,26 +1705,14 @@ bufala
 bimbo (as we say in English)
 l'oca; l'oca giuliva; la gallina; la bambola
 
-annoying person
-il rompiscatole
-
 circular and purposely confusing and metaphysical question
 la domanda marzulliana
-
-babe magnet
-la calamita per le pupe
 
 to emerge; to reveal itself
 venire a galla
 
-you've got a lot of nerve
-hai un bel fegato a; hai una grande faccia tosta a
-
 well that's not gonna happen
 buonanotte al secchio
-
-to make a virtue of necessity
-far di necessità virtù
 
 to pretend to be shy and timid to hide one's true personality; to play shy
 fare la gatta morta
@@ -1927,26 +1735,14 @@ gettare la maschera
 to put the cart before the horse
 mettere il carro davanti ai buoi
 
-to know one's stuff
-sapere il fatto suo
-
-to have the end in sight
-vedere il fondo
-
 in for a penny, in for a pound
 abbiamo fatto trenta, facciamo trentuno
-
-heart-to-heart
-a cuore aperto
 
 to rest on one's laurels
 adagiarsi sugli allori
 
 to act behind the scenes; to pull strings
 agire dietro le quinte
-
-a go-go
-à gogo
 
 to go full steam
 andare a gonfie vele
@@ -1966,14 +1762,8 @@ avere il coltello dalla parte del manico; avere in pugno
 to be in a bad moon
 avere la luna storta
 
-to have a thick skin
-avere la pelle dura
-
 to have weak knees
 avere le gambe che fanno giacomo giacomo
-
-to have (something) on the tip of one's tongue
-avere qualcosa sulla punta della lingua
 
 to have one's hair on fire
 avere un diavolo per capello
@@ -1984,20 +1774,11 @@ aver voce in capitolo
 to be brewing
 bollire in pentola
 
-to land on one's feet
-cadere sempre in piedi
-
 to fall asleep
 cadere tra le braccia di Morfeo
 
 to turn the tables
 cambiare le carte in tavola
-
-to walk on eggshells
-camminare sulle uova
-
-to search for a needle in a haystack
-cercare un ago nel pagliaio
 
 to catch (someone) with his hands in the cookie jar
 cogliere con le mani nel sacco
@@ -2011,14 +1792,8 @@ come un elefante in una cristalleria
 to know one's stuff
 conoscere i propri polli
 
-from bad to worse
-dalla padella alla brace
-
 how the mighty have fallen
 dalle stelle alle stalle
-
-to defend (something) to the end
-difendere (qualcosa) con i denti
 
 to be on one's last legs
 essere agli sgoccioli
@@ -2028,9 +1803,6 @@ essere culo e camicia
 
 to be as merry as a lark
 essere felice come una Pasqua
-
-to be the workhorse
-essere il cavallo di battaglia
 
 to be the bone of contention
 essere il pomo della discordia
@@ -2056,9 +1828,6 @@ fare di tutta l'erba un fascio
 to read between the lines
 mangiare la foglia
 
-to give it a go; to go down there (implying quickly)
-farci un salto
-
 to raise hell
 fare il diavolo a quattro
 
@@ -2073,9 +1842,6 @@ fare tabula rasa
 
 to jump in head first
 fare un salto nel buio
-
-to run away at top speed
-fuggire a gambe levate
 
 to throw caution to the wind
 gettare alle ortiche; gettare al vento
@@ -2092,9 +1858,6 @@ il gioco non vale la candela
 to let someone suffer in his own doing
 lasciar cuocere qualcuno nel suo brodo
 
-smooth as silk
-liscio come l'olio
-
 to be livid with somebody; to rip someone a new one
 mangiarsi vivo qualcuno
 
@@ -2106,9 +1869,6 @@ mettere il bastone tra le ruote
 
 to put a bug in one's ear
 mettere la pulce nell'orecchio
-
-to put into writing
-mettere nero su bianco
 
 to put an end to it
 metterci una croce sopra; mettere una pietra sopra
@@ -2158,12 +1918,6 @@ salvare capra e cavoli
 to know every trick in the book
 saperne una più del diavolo
 
-to run for the hills
-scappare a gambe levate
-
-to sit on your hands
-starsene con le mani in mano
-
 much ado about nothing
 tanto fumo e niente arrosto
 
@@ -2179,41 +1933,17 @@ tra l'incudine e il martello
 to experience a terrible situation
 vedere i sorci verdi
 
-to see everything negatively
-vedere tutto nero
-
 no shit Sherlock; it's obvious
 hai fatto la scoperta dell'America; hai fatto la scoperta dell'acqua calda
-
-how goes it?
-come te la passi?; che si dice?; come butta?
-
-to burst out laughing
-spaccarsi dalle risate
-
-it's my business
-sono cavoli miei
-
-friggin'
-del cavolo
 
 that's awful
 che sbatti
 
-cool; awesome
-tanta roba
-
 full-throttle
 a manetta
 
-hey dude
-bella zio; bella lì; bella raga; bella frá; bella bró
-
 to bust (somebody doing something bad)
 sgamare
-
-to be subtle
-andare per il sottile
 
 to strike out (fail)
 andare in bianco
@@ -2245,9 +1975,6 @@ arrivare a piatti lavati
 to arrive too late
 arrivare quando si spengono le luci
 
-to be brave; to have guts
-avere fegato
-
 to have ants in one's pants
 avere il ballo di San Vito
 
@@ -2268,12 +1995,6 @@ avere la febbre del sabato sera
 
 to be cursed
 avere la maledizione addosso
-
-to have a gentle touch
-avere la mano leggera
-
-to be heavy-handed
-avere la mano pesante
 
 to have goose bumps
 avere la pelle d'oca
@@ -2383,9 +2104,6 @@ darla a bere
 to run away
 darsela a gambe
 
-no sooner said than done
-detto fatto
-
 to defend with one's life
 difendere coi denti
 
@@ -2422,9 +2140,6 @@ essere di facili costumi
 to be over-indulgent
 essere di manica larga
 
-to be first in line
-essere in prima linea
-
 to be sitting pretty
 essere in una botte di ferro
 
@@ -2449,9 +2164,6 @@ essere un figlio di papà
 to know every trick in the book
 essere un furbo di tre cotte
 
-to be a closed book
-essere un libro chiuso
-
 poker face
 la faccia di bronzo; la faccia di tosta
 
@@ -2460,9 +2172,6 @@ far girare le palle
 
 to shed light on
 far luce su 
-
-to take a leap of faith
-fare atto di fede
 
 to be on the lookout
 fare da palo
@@ -2518,23 +2227,11 @@ il dolce far niente
 the goose that laid the golden egg
 la gallina dalle uova d'oro
 
-to leave something to be desired
-lasciare a desiderare
-
 to die
 lasciarci le penne
 
-to wash one's hands of (something)
-lavarsene le mani
-
-to lick one's chops
-leccarsi i baffi
-
 to kiss up to (somebody)
 leccare i piedi
-
-to lick one's wounds
-leccarsi le ferite
 
 to be like pulling teeth
 levarsi un dente
@@ -2557,12 +2254,6 @@ mettere in buona luce
 to put in bad light
 mettere in cattiva luce
 
-to crucify
-mettere in croce
-
-to highlight
-mettere in luce
-
 to have (somebody) on the ropes
 mettere alle corde
 
@@ -2571,9 +2262,6 @@ metterci una pietra sopra
 
 to scratch one's head
 mettersi le mani nei capelli
-
-to bite one's tongue
-mordersi la lingua
 
 to move heaven and earth
 muovere cielo e terra
@@ -2607,9 +2295,6 @@ o mangi la minestra, o salti dalla finestra
 
 eagle eye
 occhio di falco
-
-to talk to a wall
-parlare al muro
 
 to hit the ground running
 partire in quarta
@@ -2647,9 +2332,6 @@ rigare dritto
 to stay afloat
 rimanere a galla
 
-to go back on one's word
-rimangiarsi la parola
-
 to recover (from an illness)
 rimettersi in sesto
 
@@ -2665,17 +2347,11 @@ rompere le scatole
 to take the plunge
 saltare il fosso
 
-breakthrough
-salto di qualità
-
 to know all along
 saperla lunga
 
 to dig one's own grave
 scavarsi la fossa
-
-to reinvent the wheel
-scoprire l'acqua calda; scoprire l'America
 
 to feel like a fish out of water
 sentirsi un pesce fuor d'acqua
@@ -2692,23 +2368,8 @@ sul più bello
 to shut out
 tagliare fuori
 
-to cut (someone's) off at the legs
+to cut (someone) off at the legs
 tagliare le gambe
-
-Achille's heal
-tallone d'Achille
-
-to keep in mind
-tenere in ballo
-
-to keep in check
-tenere in scacco
-
-to keep an eye on
-tenere sott'occhio
-
-to keep on a leash
-tenere sulla corda
 
 taut like a violin string
 teso come una corda di violino
@@ -2716,29 +2377,9 @@ teso come una corda di violino
 to have an ax to grind
 tirare l'acqua al proprio mulino
 
-to tighten one's belt
-tirare la cinghia
-
 to kick the bucket; to bite the dust
 tirare le cuoia
-
-to press one's luck
-tirare troppo la corda
 
 to find something to sink one's teeth into
 trovare pane per i propri denti
 
-to have a one-on-one
-trovarsi a tu per tu
-
-to be stuck between a rock and a hard place
-trovarsi tra due fuochi; trovarsi tra l'incudine e il martello
-
-to use the carrot and the stick
-usare il bastone e la carota
-
-to come to the fore
-venire alla ribalta
-
-to be in limbo
-vivere in un limbo
