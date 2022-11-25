@@ -2731,7 +2731,7 @@ la nuvola
 it's nice (weather)
 fa bello; fa bel tempo
 
-humid
+humid; moist; damp
 umido
 
 it's hot (weather)
