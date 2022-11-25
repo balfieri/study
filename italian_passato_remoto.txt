@@ -617,3 +617,12 @@ sconfisse
 
 they defeated (p.r.)
 sconfissero
+
+I introduced (p.r.)
+introdussi
+
+she introduced (p.r.)
+introdusse
+
+the introduced (p.r.)
+introdussero
