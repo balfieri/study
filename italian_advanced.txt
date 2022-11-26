@@ -5965,7 +5965,7 @@ efficace; accettabile
 valuable
 di valore; prezioso
 
-lenient
+lenient; permissive
 indulgente; permissivo; tollerante
 
 to influence
