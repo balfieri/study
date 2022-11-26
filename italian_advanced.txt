@@ -18823,3 +18823,8 @@ praticabile; plausibile
 viable option
 l'opzione praticabile
 
+plain (land)
+la pianura
+
+flash; gleam
+lo sprazzo

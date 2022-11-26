@@ -4738,9 +4738,6 @@ il vulcano
 gulf
 il golfo
 
-plain (land)
-la pianura
-
 to be born
 nascere
 
