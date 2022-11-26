@@ -4048,6 +4048,9 @@ la madre
 only child (son)
 il figlio unico
 
+only child (daughter)
+la figlia unica
+
 father-in-law
 il suocero
 
@@ -7017,4 +7020,7 @@ ti dispiace?
 
 no, not at all; no, no, of course not; no, not at all
 no, figurati
+
+pudding
+il budino
 
