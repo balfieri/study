@@ -7024,3 +7024,5 @@ no, figurati
 pudding
 il budino
 
+pastry
+il pasticcino
