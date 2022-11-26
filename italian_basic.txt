@@ -1972,8 +1972,14 @@ la casalinga
 ceiling
 il soffitto
 
-carpet
-il tappeto
+carpet (fitted)
+la moquette
+
+wall-to-wall carpeting; wall-to-wall carpet
+la moquette da parete a parete
+
+rug
+il tappeto; il tappetino
 
 lamp
 la lampada
@@ -3813,9 +3819,6 @@ la vasca; la vasca da bagno
 
 stove
 il fornello
-
-carpet; rug
-il tappeto; la moquette
 
 computer
 il computer
