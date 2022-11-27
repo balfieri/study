@@ -4681,7 +4681,7 @@ molto tempo fa
 in the old days
 ai vecchi tempi
 
-to grab; to grasp; to seize
+to grab; to grasp; to seize; to snarf
 afferrare
 
 to play catch
@@ -8441,7 +8441,7 @@ what difference does it make?
 che differenza c'è?; che differenza fa?
 
 make-up sex
-il sesso riparatore; il sesso riconciliatore
+il sesso riconciliatore; il sesso riparatore
 
 patriot
 il patriota
@@ -16663,9 +16663,6 @@ il cambio di opinione
 to keep an open mind
 mantenere una mente aperta
 
-in a nutshell
-in breve
-
 in a word
 in poche parole
 
@@ -16681,7 +16678,7 @@ sulla stessa lunghezza d'onda
 to forgive and forget
 perdonare e dimenticare
 
-my bad
+my bad; that's on me
 colpa mia
 
 to put aside one's differences
