@@ -7026,3 +7026,10 @@ il budino
 
 pastry
 il pasticcino
+
+pie
+la crostata
+
+chocolate cookies
+i biscotti al cioccolato
+

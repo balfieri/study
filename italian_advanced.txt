@@ -898,7 +898,7 @@ temo di no
 I don't think so
 mi sa di no
 
-I doubt it
+I doubt it; I doubt that
 ne dubito
 
 takeout (adj)
@@ -5879,7 +5879,7 @@ mounted; astride; horseback
 a cavallo
 
 to keep in mind; to keep saying
-tenere a dire
+tenere presente; tenere a dire
 
 blast; jet; spout
 il getto
@@ -10176,9 +10176,6 @@ sfiorare
 
 breathtaking; stunning
 mozzafiato
-
-mourning; bereavement
-il lutto
 
 to get it right; to nail; to guess; to hit; to strike
 azzeccare
@@ -18828,3 +18825,28 @@ la pianura
 
 flash; gleam
 lo sprazzo
+
+to castle (chess)
+arroccare
+
+mourning; bereavement; grief
+il lutto
+
+to find it hard to
+stentare a
+
+interpretation
+l'interpretazione
+
+sharp; poignant; keen
+affilato
+
+razor-sharp
+affilato come un rasoio
+
+unconsciously
+inconsciamente
+
+excess liquid
+il liquido in eccessi
+
