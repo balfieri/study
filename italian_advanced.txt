@@ -1642,9 +1642,6 @@ l'immagine
 exhibition
 espositivo
 
-summary
-il riepilogo
-
 quick
 presto
 
@@ -3075,9 +3072,6 @@ dare il permesso
 
 to itch
 prudere
-
-(trash) can
-il bidone (della spazzatura)
 
 an old friend of mine
 un mio vecchio amico
@@ -10396,7 +10390,7 @@ la panca
 harness
 l'imbrago
 
-trash bin
+trash can; trash bin
 il bidone
 
 skydiving
@@ -18858,3 +18852,58 @@ non riuscire a toglierselo dalla testa
 
 chaos
 il caos
+
+provenance
+la provenienza
+
+to con
+ingannare; imbrogliare; truffare; fregare
+
+rank; class; social class
+il rango
+
+reconciliation
+il conguagliamento
+
+Manzonian
+manzoniano
+
+handbook
+il prontuario
+
+to take root; to attach
+attecchire
+
+linguist
+il linguista; il glottologo
+
+accustomed; habituated
+avvezzo
+
+jumble; hodgepodge
+l'accozzaglia
+
+case studies
+la casistica
+
+augmentive; incremental
+accrescitivo
+
+endearment; pet name
+il vezzeggiativo
+
+second nature
+la seconda natura
+
+recap; summary
+il riepilogo
+
+to prevent
+impedire; prevenire
+
+dare a (qualcuno) una lezione
+to teach (somebody) a lesson
+
+to run into (somebody)
+incontrare (qualcuno)
+
