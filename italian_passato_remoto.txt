@@ -626,3 +626,15 @@ introdusse
 
 the introduced (p.r.)
 introdussero
+
+I opened (p.r.)
+aprii; apersi
+
+she opened (p.r.)
+aperse
+
+we opened (p.r.)
+aprimmo
+
+they opened (p.r.)
+apirono; apersero
