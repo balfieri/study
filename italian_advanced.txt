@@ -4993,9 +4993,6 @@ il volante
 to recover from
 riprendersi da
 
-stance (on an issue)
-la posizione
-
 to elect
 eleggere
 
@@ -6136,7 +6133,7 @@ conciliare
 cohabitation; coexistence; living together
 la convivenza
 
-vigour; strength; force
+vigor; strength; force
 il vigore
 
 hasty; hurried; rash
@@ -8830,7 +8827,7 @@ l'attimo
 hum; drone; buz
 il ronzio
 
-course; trend; progress
+course; trend
 l'andamento
 
 laden
@@ -19017,3 +19014,39 @@ cosa pensi che sia?
 
 twine
 lo spago
+
+category
+la categoria
+
+absolute
+asoluto
+
+transformation
+la trasformazione
+
+contrast
+il contrasto
+
+resistance
+la resistenza
+
+bishop
+il vescovo
+
+obligation; duty; debt
+l'obbligo
+
+reduction
+la reduzione
+
+not even
+nemmeno
+
+affermation
+l'affermazione
+
+determination
+la determinazione
+
+to quote; to cite; to summon
+citare

@@ -1534,7 +1534,7 @@ non posso farlo
 to want; to wish; to need
 volere
 
-will (n)
+will (n); desire
 la voglia
 
 to kick
@@ -1845,6 +1845,9 @@ i pantaloni
 
 suit
 l'abito; il completo
+
+complete
+completo
 
 dress
 il vestito
@@ -5224,7 +5227,10 @@ nazionale
 civil
 civile
 
-public; audience
+public (n); audience
+il pubblico
+
+public (adj)
 pubblico
 
 such
@@ -5374,8 +5380,11 @@ tradizionale
 official
 ufficiale
 
-individual
+individual (adj)
 individuale
+
+individual (n)
+l'individuo
 
 to obtain; to get
 ottenere
@@ -6373,7 +6382,7 @@ Napoli
 research; search; quest
 la ricerca
 
-place
+place; seat
 il posto
 
 term
@@ -7048,3 +7057,77 @@ la stringa
 rope
 la corda
 
+cross
+la croce
+
+private
+privato
+
+hope
+la speranza
+
+business
+gli affari
+
+luck; fortune
+la fortuna
+
+composition
+la composizione
+
+reaction
+la reazione
+
+progress
+il progresso
+
+critical
+critico
+
+creation
+la creazione
+
+personality
+la personalità
+
+source
+la fonte
+
+consideration
+la considerazione
+
+game
+il gioco
+
+spiritual
+spirituale
+
+simply
+semplicemente
+
+area
+l'area
+
+here is; here are
+ecco
+
+dimension
+la dimensione
+
+absolutely
+assolutamente
+
+cost
+il costo
+
+position; stance (on an issue)
+la posizione
+
+battle
+la battaglia
+
+collaboration
+la collaborazione
+
+risk
+il rischio
