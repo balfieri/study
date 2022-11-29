@@ -406,9 +406,6 @@ appena; malapena
 I can barely hear you
 riesco appena a sentirti
 
-to breathe
-respirare
-
 aka
 alias
 
@@ -18976,3 +18973,8 @@ fare da madre; fare la mamma
 dirty thoughts
 gli pensieri sporchi
 
+synonym
+il sinonimo
+
+to break the record
+battere il record
