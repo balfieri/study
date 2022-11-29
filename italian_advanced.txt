@@ -10498,9 +10498,6 @@ raffreddato ad acqua
 string theory
 teoria delle stringhe
 
-string
-la stringa
-
 sticker
 adesivo
 
@@ -18996,3 +18993,4 @@ l'azione affermativa; la discriminazione positiva
 
 to disapprove of
 disapprovare
+

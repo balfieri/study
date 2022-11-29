@@ -7038,3 +7038,10 @@ la Vigilia di Natale
 
 to breath
 respirare
+
+string
+la stringa
+
+rope
+la corda
+
