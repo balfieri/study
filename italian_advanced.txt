@@ -19056,3 +19056,15 @@ in senso figurato
 
 he gets on my nerves
 mi dà sui nervi; mi irrita; mi fa innervosire
+
+does he speak English as well as I speak Italian?
+parla inglese così come io parlo italiano;
+
+does he speak English as well as you?
+parla inglese bene come te?
+
+does he speak English better than you?
+parla inglese meglio di te?
+
+as well as (comparison)
+così come
