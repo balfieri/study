@@ -12868,6 +12868,9 @@ la carta da forno
 aluminum foil
 il foglio di alluminio; la carta stagnola
 
+aluminum
+l'alluminio
+
 baking pan
 la teglia
 
