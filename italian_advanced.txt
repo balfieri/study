@@ -12866,7 +12866,7 @@ baking paper; parchment paper
 la carta da forno
 
 aluminum foil
-la carta stagnola
+il foglio di alluminio; la carta stagnola
 
 baking pan
 la teglia
@@ -18996,3 +18996,6 @@ disapprovare
 
 please point me to a recipe for
 per favore indicami una ricetta per
+
+mold (form)
+lo stampo
