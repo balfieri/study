@@ -865,9 +865,6 @@ sporco
 dark
 scuro
 
-bright
-brillante
-
 star
 la stella
 
@@ -2754,9 +2751,6 @@ fa bel tempo
 
 thunder
 il tuono
-
-bright
-luminoso
 
 it's raining
 piove
