@@ -12829,8 +12829,8 @@ acconsentire
 to digest; to stomach; to tolerate
 digerire
 
-to bury
-seppellire
+to bury; to inter
+seppellire; sotterrare
 
 to shut up
 azzittirsi
