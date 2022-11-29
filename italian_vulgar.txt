@@ -1,9 +1,9 @@
 # italian_vulgar.txt - bad words in Italian (parolacce)
 #
-letteralmente significa 'testicolo', ma viene utilizzato per indicare 'sei uno stupido' o 'sei un idiota' o usato per una persona che non capisce o provoca problemi; idiot; moron
+idiot; moron
 coglione
 
-insulto pesante per offendere la persona e, indirettamente, la madre; usato tra amici può indicare persona furba
+son of a bitch
 figlio di mignotta; figlio di puttana
 
 asshole; jerk
@@ -12,13 +12,13 @@ stronzo; bischero (toscana)
 piece of shit
 pezzo di merda
 
-esprime dissenso, volgare, usato quando si è arrabbiati con una persona, ma si può usare in modo scherzoso; fuck you; vai a quel paese
+fuck you
 vaffanculo; vai a fare in culo; vai a cagare
 
-persona che si approfitta delle disgrazie degli altri
-sciacallo
+go fuck yourself
+vai a farti fottere
 
-insulto per persone molto brutte; offesa abbastanza volgare
+you're a shit
 sei un cesso
 
 poo; shit; crap
@@ -36,7 +36,7 @@ puttana; mignotta; troia; zoccola; baldracca
 bitch
 cagna; stronza; troia; porca puttana
 
-figlio di nessuno; persona cattiva; insulto pesante, ma si può usare in modo scherzoso
+bastard
 bastardo
 
 ass licker; butt licker; persona che si mostra servile rispetto ad un'altra soltanto per un tornaconto; l'offesa non è molto pesante, si può usare in modo scherzoso
@@ -45,10 +45,10 @@ leccaculo; lecchino
 pimp; protettore delle prostitute; insulto volgare
 magnaccia; pappone
 
-persona perversa, estremamente maliziosa e spinta; l'insulto non è molto pesante e si può usare in modo scherzoso; pig; swine; hog
+pig; swine; hog
 maiale; porco
 
-persona che non capisce, mentalmente limitata o che fa qualcosa di sbagliato; l'insulto non è molto pesante e si può usare anche in modo scherzoso; dork; moron; cretin
+dork; moron; idiot
 stupido; cretino; idiota
 
 gay; omosessuale (usato in senso quasi dispregiativo); questi insulti si usano solo con gli uomini; faggot; fag; fruit
@@ -56,9 +56,6 @@ frocio; culattone; ricchione
 
 fuck (act)
 la trombata
-
-persona cattiva
-l'iena
 
 persona che non capisce niente; l'insulto è più pesante di 'deficiente'
 cafone; imbecille
@@ -68,9 +65,6 @@ essere un conta-palle; un pallista
 
 sei noioso
 sei una palla; palloso
-
-go fuck yourself
-vai a farti fottere
 
 to fuck; to screw; to bone
 fottere
@@ -270,7 +264,7 @@ la pugnetta
 damn you!
 mortacci tua!
 
-cunt; fanny; pussy
+cunt; pussy
 la bernarda
 
 blowjob; blow job; fellatio
