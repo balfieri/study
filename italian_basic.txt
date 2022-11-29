@@ -721,6 +721,9 @@ piangere
 to laugh
 ridere
 
+to laugh at
+ridere di
+
 to smile
 sorridere
 
