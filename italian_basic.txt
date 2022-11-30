@@ -7042,3 +7042,6 @@ il rischio
 settings
 le impostazioni
 
+gesture
+il gesto
+
