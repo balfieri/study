@@ -2548,8 +2548,8 @@ pulito
 fast
 rapido; veloce
 
-old
-antico; vecchio
+old (non-person)
+vecchio
 
 off; turned off
 spento
@@ -5057,7 +5057,7 @@ tolerant
 tollerante
 
 old
-vecchio
+vecchio; antico
 
 lively
 vivace
