@@ -682,9 +682,6 @@ scorreggere
 foolishness; nonsense; rubbish
 la sciocchezza
 
-toilet; can; bog
-il cesso
-
 to deceive; to defraud; to cheat
 abbindolare
 
@@ -9913,9 +9910,6 @@ il sentimento è reciproco
 stuffed Sicilian rice ball
 l'arancino
 
-to clog
-intasare
-
 coffee bean
 il chicco di caffè
 
@@ -19055,7 +19049,7 @@ in a figurative sense
 in senso figurato
 
 he gets on my nerves
-mi dà sui nervi; mi irrita; mi fa innervosire
+mi dà sui nervi; mi irrita; mi fa innervosire
 
 does he speak English as well as I speak Italian?
 parla inglese così come io parlo italiano;
@@ -19068,3 +19062,40 @@ parla inglese meglio di te?
 
 as well as (comparison)
 così come
+
+dog food
+il cibo per cani
+
+there are no words to describe
+non ci sono parole per descrivere
+
+on a day-to-day basis
+giorno per giorno; quotidianamente; su base giornaliera
+
+in dog years
+in anni canini
+
+ancient Greece
+l'antica Grecia
+
+to clog
+intasare
+
+how could you?
+come hai potuto?
+
+how could you do that?
+come hai potuto farlo?
+
+I think about you every day
+ti penso ogni giorno
+
+detailed explanation
+la spiegazione dettagliata
+
+totally honest
+del tutto onesto
+
+I can definitely forgive you
+posso sicuramente perdonarti
+
