@@ -1993,9 +1993,6 @@ la mensola
 wardrobe; closet
 l'armadio
 
-desk
-la scrivania
-
 vcr/tape recordere
 il registratore
 
@@ -2641,50 +2638,17 @@ la ginnastica
 cycling
 il ciclismo
 
-sailing
-il vela
-
 baseball
 il baseball
 
 tennis
 il tennis
 
-rugby
-il rugby
-
-windsurfing
-il windsurf
-
-ping pong
-il ping pong
-
-karate
-il karate
-
 volleyball
 il pallavolo; il volley
 
-water polo
-il pallanuoto
-
 football (American)
 il football americano
-
-golf
-il golf
-
-hockey
-il hockey
-
-bobsledding
-il bob
-
-squash
-lo squash
-
-judo
-il judo
 
 bicycle
 la bicicletta
@@ -2713,17 +2677,8 @@ gli sci
 surf board
 la tavola
 
-sword
-la spada
-
-racket
-la racchetta
-
 little ball
 la pallina
-
-boxing gloves
-guantoni
 
 chapter
 il capitolo
@@ -2778,9 +2733,6 @@ tempestoso; burrascoso
 
 it's bad (weather)
 fa brutto tempo
-
-muggy
-afoso
 
 it's cold (weather)
 fa freddo
@@ -3460,9 +3412,6 @@ spazzolarsi i capelli
 to be ashamed
 vergognarsi
 
-to tan
-abbronzarsi
-
 to introduce; to present
 presentarsi
 
@@ -3906,9 +3855,6 @@ l'acqua
 
 croissant
 il cornetto
-
-strudel
-lo strudel
 
 dessert
 il dolce; il dessert
@@ -4528,44 +4474,17 @@ lo scrittore; la scrittrice
 singer
 il cantante; la cantante
 
-baker
-il panettiere
-
-barber
-il barbiere
-
-hairdresser
-la parrucchiera
-
-news agent
-il giornalaio
-
 journalist
 il giornalista
-
-tabacconist
-il tabaccaio
 
 mechanic
 il meccanico
 
-electrician
-l’elettricista
-
 doctor; physician
 il medico
 
-vet; veterinarian
-il veterinario
-
 farmer
 il contadino
-
-butcher
-il macellaio
-
-jewler
-il gioielliere
 
 quantity
 la quantità
@@ -4642,9 +4561,6 @@ la castagna
 mandarin
 il mandarino
 
-minced meat
-la carne macinata
-
 yogurt
 lo yogurt
 
@@ -4652,7 +4568,7 @@ low-fat yogurt
 lo yogurt magro
 
 desk
-il banco
+il banco; la scrivania
 
 notebook
 il quaderno
@@ -4714,10 +4630,10 @@ it's one o'clock
 it’s two o’clock
 sono le due
 
-it’s a quarter past two.
+it’s a quarter past two
 sono le due e un quarto
 
-it’s twenty-five past two.
+it’s twenty-five past two
 sono le due e venticinque
 
 it’s half past two
@@ -4795,14 +4711,8 @@ il piccione
 leaf
 la foglia
 
-gray
-griggio
-
 subway; metro
 la metro; la metropolitana
-
-streetcar; tram
-il tram
 
 cousin
 il cugino
@@ -5935,7 +5845,7 @@ la dogana
 pretentious
 pretenzioso
 
-arrogant; overly proud
+overly proud
 orgoglioso
 
 fastidious; fussy; picky
@@ -7125,3 +7035,7 @@ la collaborazione
 
 risk
 il rischio
+
+settings
+le impostazioni
+
