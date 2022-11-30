@@ -6409,6 +6409,9 @@ perdonare
 deaf
 sordo
 
+Sardinian
+sardo
+
 vineyard
 il vigneto
 
