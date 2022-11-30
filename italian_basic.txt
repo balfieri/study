@@ -2392,6 +2392,9 @@ la fragola
 grapes
 l'uva
 
+raisins
+l'uva passa; l'uvetta
+
 chicken
 il pollo
 
