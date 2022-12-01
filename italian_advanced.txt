@@ -82,7 +82,7 @@ l'atterraggio
 saying
 il detto
 
-to notice (after an observation)
+to notice (after an observation); to note; to observe
 notare
 
 to realize
@@ -5707,9 +5707,6 @@ il piano ridicolo; il ridicolo piano; il schemo ridicolo
 airline
 la compagnia aerea
 
-faith; believe; wedding ring
-la fede
-
 gospel
 il vangelo
 
@@ -9214,9 +9211,6 @@ le sponsorizzazioni; i soldi dell'assicurazione
 doctrine
 la dottrina
 
-model; pattern; template
-il modello
-
 wrestling; struggle; fight; conflict
 la lotta
 
@@ -9225,9 +9219,6 @@ la maniera
 
 principle
 il principio
-
-proposal; proposition
-la proposta
 
 minister; secretary; pastor
 il ministro
@@ -9820,7 +9811,7 @@ mangiare alla leggera
 inefficiency
 l'inefficienza
 
-efficiency
+efficiency; effectiveness
 l'efficienza; l'efficacia
 
 tile
@@ -19006,9 +18997,6 @@ cosa pensi che sia?
 twine
 lo spago
 
-category
-la categoria
-
 absolute
 asoluto
 
@@ -19225,3 +19213,26 @@ la piantagione
 island of misfit toys
 l'isola dei giocattoli disadattati; l'isola dei giocattoli difettosi; l'isola dei giocattoli abbandonati
 
+conflict
+il conflitto
+
+criterion; yardstick; standard
+il criterio
+
+opposition
+l'opposizione
+
+grace; pardon
+la grazia
+
+correspondence
+la corrispondenza
+
+division; section; branch
+la divisione
+
+parlament
+il parlamento
+
+wedding ring
+la fede; l'anello matrimoniale; l'anello di nozze

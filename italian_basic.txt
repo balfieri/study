@@ -4612,7 +4612,7 @@ il telegiornale
 documentary
 il documentario
 
-variety show
+variety show; variety
 il varietà
 
 advertisement
@@ -7045,3 +7045,68 @@ le impostazioni
 gesture
 il gesto
 
+manager; director
+il direttore
+
+Christian
+cristiano
+
+soldier
+il soldato
+
+technique; technology
+la tecnica
+
+technical
+tecnico
+
+child; baby; infant
+il bambino; la bambina
+
+start; beginning
+l'inizio
+
+sign
+il segno
+
+resource
+la risorsa
+
+competition; contest; concourse
+il concorso
+
+entire
+intero
+
+confidence; trust; faith
+la fiducia
+
+faith; belief
+la fede
+
+help
+l'aiuto
+
+enemy
+il nemico
+
+iron
+il ferro
+
+final
+finale
+
+proposal; suggestion; proposition
+la proposta
+
+category
+la categoria
+
+evidence; highlight
+l'evidenza
+
+necessarily
+necessariamente
+
+model; pattern; template
+il modello
