@@ -2386,10 +2386,10 @@ l'arancia
 strawberry
 la fragola
 
-grapes
+grape
 l'uva
 
-raisins
+raisin
 l'uva passa; l'uvetta
 
 chicken
@@ -7110,3 +7110,10 @@ necessariamente
 
 model; pattern; template
 il modello
+
+principal (school)
+il preside
+
+prince
+il principe
+
