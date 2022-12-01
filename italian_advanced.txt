@@ -3335,7 +3335,7 @@ to decimate
 decimare
 
 thoroughly
-completamente
+completamente; interamento; approfonditamente; assolutamente; del tutto
 
 entirely
 interamente
@@ -9415,7 +9415,7 @@ dichiarare
 to attack a problem
 affrontare un problema
 
-to prevail
+to prevail; to predominate; to dominate
 prevalere
 
 prevailed
@@ -19209,3 +19209,16 @@ il fine giustifica i mezzi
 
 to justify
 giustificare
+
+textile mill
+la filatura
+
+crack; rift; split
+la spaccatura
+
+plantation
+la piantagione
+
+island of misfit toys
+l'isola dei giocattoli disadattati; l'isola dei giocattoli difettosi; l'isola dei giocattoli abbandonati
+
