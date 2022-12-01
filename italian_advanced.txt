@@ -1483,12 +1483,6 @@ reciproco
 not quite ready
 non del tutto pronto
 
-subject
-l'argomento
-
-argument (negative)
-la discussione
-
 false friend
 il falso amico
 
@@ -5236,9 +5230,6 @@ l'assolo di chitarra
 to inherit
 ereditare
 
-measuring tape
-il metro
-
 osmosis
 l'osmosi
 
@@ -6558,9 +6549,6 @@ acciocché
 
 not at all
 macché
-
-staircase; ladder
-la scala
 
 overweight
 sovrappeso; in sovrappeso; obeso
@@ -8128,7 +8116,7 @@ la paradigma
 route; course; run; journey
 il percorso
 
-to proceed
+to proceed; to progress; to advance
 procedere
 
 drafter; compiler
@@ -19249,3 +19237,59 @@ precipitosamente; in modo precipitoso
 very precipitously
 precipitevolissimevolmente
 
+foundation; basis
+il fondamento
+
+representation
+la rappresentazione
+
+method
+il metodo
+
+realization
+la realizzazione
+
+diffusion; spread
+la diffusione
+
+component
+il componente
+
+but; except; save
+salvo
+
+fascism
+il fascismo
+
+consumption
+il consumo
+
+appeal; roll call; call
+l'appello
+
+literary
+letterario
+
+respectively
+rispettivamente
+
+duke
+il duca
+
+tax; shutter
+l'imposta
+
+to determine
+determinare
+
+troop
+la truppa
+
+troops
+le truppe
+
+definite
+definitivo
+
+initiative; enterprise; effort
+l'iniziativa

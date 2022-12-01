@@ -2252,7 +2252,7 @@ car
 la macchina; l'auto
 
 moped; scooter
-il motorino ; il monopattino
+il motorino; il monopattino
 
 ship
 la nave
@@ -7116,4 +7116,88 @@ il preside
 
 prince
 il principe
+
+movement
+il movimento
+
+library
+la biblioteca
+
+vote
+il voto
+
+energy
+l'energia
+
+absolute
+assoluto
+
+scientific
+scientifico
+
+generally
+generalmente
+
+meter; metro; measuring tape
+il metro
+
+birth
+la nascita
+
+difference
+la differenza
+
+argument; subject
+l'argomento
+
+argument (often negative)
+la discussione
+
+otherwise
+altrimenti
+
+instruction; education
+l'istruzione
+
+observation
+l'osservazione
+
+to contain
+contenere
+
+both
+entrambi; tutti e due
+
+feeling
+il sentimento
+
+loss
+la perdita
+
+description
+la descrizione
+
+really
+davvero
+
+violence
+la violenza
+
+copy; backup
+la copia
+
+pressure
+la pressione
+
+need (n)
+il bisogno
+
+protection
+la protezione
+
+for example
+ad esempio; per esempio
+
+ladder; staircase
+la scala
 
