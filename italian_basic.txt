@@ -7117,6 +7117,9 @@ il preside
 prince
 il principe
 
+princess
+la principessa
+
 movement
 il movimento
 
