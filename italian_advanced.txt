@@ -10108,8 +10108,11 @@ ma no dai
 sum; total
 la somma
 
-stone; rock; boulder
+stone; rock
 la pietra
+
+boulder
+il masso
 
 rather; somewhat; pretty
 alquanto
@@ -11008,8 +11011,8 @@ purosangue
 to fine-tune
 perfezionare; mettere a punto
 
-hamstring
-il tendine; il tendine del ginocchio
+hamstring; hamstring muscle
+il tendine del ginocchio
 
 to pull (a muscle)
 stirarsi
@@ -15439,9 +15442,6 @@ il grande seguito
 house (family); family (noble)
 la casata
 
-speechless
-senza parole
-
 up close
 da vicino
 
@@ -19296,3 +19296,39 @@ l'iniziativa
 
 to lead up to
 portare a
+
+premenstrual syndrome (PMS)
+la sindrome premestruale
+
+speechless; lost for words
+senza parole
+
+landslide
+la frana
+
+eel
+l'anguilla
+
+stiff
+rigido
+
+pardon
+il condono
+
+to pardon; to condone
+condonare; assolvere; perdonare
+
+calf (leg)
+la polpaccia
+
+hard-boiled egg
+l'uovo sodo
+
+thigh
+la coscia
+
+prefect
+il prefetto
+
+to iron
+stirare
