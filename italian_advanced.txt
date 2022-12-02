@@ -19335,3 +19335,6 @@ stirare
 
 to lock onself in
 chiusersi in
+
+to look for attention
+cercare attenzione
