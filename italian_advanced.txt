@@ -6709,9 +6709,6 @@ colmare
 inborn; inherent; indiginous
 insito
 
-irrepressible; uncontrollable; unstoppable
-irrefrenabile
-
 to reveal; to betray; to disclose
 rivelare
 
@@ -19341,3 +19338,15 @@ cercare attenzione
 
 to commiserate
 commiserare
+
+uncontrollable
+incontrollabile; irrefrenabile
+
+uncontrollable urge
+l'impulso incontrollabile; il bisogno irrefrenabile
+
+irrepressible; unstoppable
+irrefrenabile
+
+uncontrollable
+incontrollabile
