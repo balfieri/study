@@ -16765,8 +16765,8 @@ il cassetto dei vestiti
 underground
 sottosuolo
 
-kitchen counter
-il balcone della cucina
+kitchen counter; kitchen countertop
+il balcone della cucina; il piano della cucina
 
 to cross; to traverse
 valicare
