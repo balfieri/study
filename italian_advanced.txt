@@ -19332,3 +19332,6 @@ il prefetto
 
 to iron
 stirare
+
+to lock onself in
+chiusersi in
