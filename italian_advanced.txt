@@ -19345,8 +19345,6 @@ incontrollabile; irrefrenabile
 uncontrollable urge
 l'impulso incontrollabile; il bisogno irrefrenabile
 
-irrepressible; unstoppable
-irrefrenabile
+irrepressible; unstoppable; uncontrollable
+irrefrenabile; incontrollabile
 
-uncontrollable
-incontrollabile
