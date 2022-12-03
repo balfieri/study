@@ -2548,7 +2548,7 @@ pulito
 fast
 rapido; veloce
 
-old (non-person)
+old
 vecchio
 
 off; turned off
@@ -5152,9 +5152,6 @@ breve
 particular
 particolare
 
-last
-ultimo
-
 moral
 morale
 
@@ -6004,6 +6001,9 @@ secondo
 how much
 quanto
 
+how many
+quanti
+
 everything
 tutto
 
@@ -6214,7 +6214,7 @@ l'atto
 nothing
 nulla; niente
 
-bottom
+bottom; back
 il fondo
 
 interest
@@ -6730,9 +6730,6 @@ l'inconscio
 tolerance
 la tolleranza
 
-short story
-il racconto
-
 show (tv)
 il programma
 
@@ -7204,3 +7201,68 @@ ad esempio; per esempio
 ladder; staircase
 la scala
 
+evolution
+l'evoluzione
+
+formal
+formale
+
+democracy
+la democrazia
+
+page
+la pagina
+
+port; harbor
+il porto
+
+to maintain; to keep up
+mantenere
+
+fault; guilt; blame
+la colpa
+
+step
+il passo
+
+fear
+la paura
+
+identity
+l'identità
+
+last; ultimate; final
+ultimo
+
+sir; Mr.
+il signore
+
+successive; next; subsequent
+successivo
+
+someone; somebody
+qualcuno; qualcuna
+
+pure
+puro
+
+lack; shortage
+la mancanza
+
+intellectual
+intellettuale
+
+wood
+il legno
+
+each
+ciascuno; ciascuna
+
+precise
+preciso
+
+mount; mountain
+il monte
+
+formula
+la formula

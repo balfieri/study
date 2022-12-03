@@ -562,9 +562,6 @@ nel complesso
 it changed
 è cambiato
 
-harbor
-il porto
-
 typo
 l'errore di battitura
 
@@ -10429,9 +10426,6 @@ mi sembri familiare; hai un aspetto familiare
 fall guy
 il capro espiatorio
 
-blame
-la colpa
-
 to blame
 biasimare; incolpare
 
@@ -19353,3 +19347,69 @@ legare una corda
 
 around the whole thing
 intorno al tutto
+
+reader
+il lettore
+
+correspondent
+il corrispondente
+
+matter; subject; material
+la matteria
+
+profile
+il profilo
+
+cult
+il culto
+
+exception
+l'eccezione
+
+cell
+la cellula
+
+synthesis; summary; abstract
+la sintesi
+
+tale; story; short story
+il racconto
+
+absence
+l'assenza
+
+effort; exertion; attempt
+lo sforzo
+
+transport; transportation; freight
+il trasporto
+
+archive; file; database
+l'archivio
+
+relatively
+relativamente
+
+provincial; parochial; small-town
+provinciale
+
+senate
+il senato
+
+secretary; registrar; private secretary
+il segretario
+
+sector
+il settore
+
+established; set
+stabilito
+
+jurisprudence; case law
+la giurisprudenza
+
+demonstrated; attested; established (as fact)
+dimostrato
+
+consensus; consent; agreement
+il consenso
