@@ -1648,9 +1648,6 @@ la rubrica
 sign; warning; skirmish
 l 'avvisaglia
 
-to bombard
-bersagliare
-
 shipbuilding (adj)
 cantieristico
 
@@ -19488,3 +19485,16 @@ rendere felice
 
 you make me happy
 mi rendi felice
+
+to hunt
+cacciare
+
+garrison; barrack; fort
+la guarnigione
+
+infantry
+la fanteria
+
+to bombard; to pelt
+bersagliare
+
