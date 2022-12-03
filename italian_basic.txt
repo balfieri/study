@@ -1421,7 +1421,7 @@ clock; watch
 l'orologio
 
 now
-ora
+ora; adesso
 
 the time
 l'ora
@@ -4033,7 +4033,7 @@ la cartolina
 idea
 l'idea
 
-departure
+departure; start; leave (n)
 la partenza
 
 stop; rest; break
@@ -4125,6 +4125,9 @@ spagnolo
 
 Austrian
 austriaco
+
+Austria
+l'Austria
 
 Swiss
 svizzero
@@ -5200,9 +5203,6 @@ relativo
 ancient
 antico
 
-greatest
-massimo
-
 total (adj)
 totale
 
@@ -5595,9 +5595,6 @@ la striscia
 
 to convert
 convertire
-
-to consider
-considerare
 
 to cure; to treat
 curare
@@ -7123,7 +7120,7 @@ il movimento
 library
 la biblioteca
 
-vote
+vote; grade; vow
 il voto
 
 energy
@@ -7269,3 +7266,64 @@ la formula
 
 age (person, thing)
 l'età
+
+foreign
+straniero
+
+foreigner; alien
+lo straniero
+
+minimum; minimal
+minimo
+
+least
+il minimo
+
+maximum; greatest
+massimo
+
+most
+il massimo
+
+reflection
+la riflessione
+
+conservation
+la conservazione
+
+temperature
+la temperatura
+
+character; personality
+il personaggio
+
+translation
+la traduzione
+
+color
+il colore
+
+project; plan; design
+progetto
+
+to plan; to design; to project
+progettare
+
+to intend; to mean
+intendere
+
+operation; surgery (procedure)
+l'operazione
+
+surgery (specialty)
+la chirugia
+
+error
+l'errore
+
+specific
+specifico
+
+preparation
+la preparazione
+

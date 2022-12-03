@@ -2191,7 +2191,7 @@ il bisnipote
 great niece; great-granddaughter
 la bisnipote
 
-to name
+to name; to appoint; to nominate
 nominare
 
 to rename
@@ -2308,7 +2308,7 @@ correlato; legato; connesso; collegato
 baby steps
 i primi passi; i piccoli passi
 
-charge (like an electron); load; office; position
+charge (like an electron); load; office; position; electric charge
 la carica
 
 eventually
@@ -4759,7 +4759,7 @@ per appena grattare la superficie
 additionally
 in aggiunta
 
-afterward; afterward
+afterwards; afterward; consecutively
 successivamente; in seguito
 
 despite; in spite of
@@ -7039,7 +7039,7 @@ il centro benessere
 crater
 il cratere
 
-outline; plan
+scheme; outline; plan
 la schema
 
 art gallery
@@ -7317,9 +7317,6 @@ corrompere
 
 curd
 la cagliata
-
-to mean; to intend
-intendere
 
 understood; meant
 inteso
@@ -9067,9 +9064,6 @@ la chiurgia
 surgery (room)
 l'ambulatorio
 
-surgical procedure
-l'operazione
-
 long haul
 a lungo raggio
 
@@ -10075,7 +10069,7 @@ saltare la recinzione
 to appreciate; to welcome (idea)
 gradire
 
-face
+face; look
 la faccia; il volto
 
 survey; poll
@@ -11155,7 +11149,7 @@ in pericolo immediato
 I care about you
 ci tengo a te; mi importa di te
 
-to hire (somebody)
+to assume; to hire (somebody); to take on
 assumere
 
 private investigator
@@ -11314,8 +11308,8 @@ la rottura
 bicycle lane; bicycle path; bike path; bike lane
 la pista ciclabile
 
-what on earth were you thinking?
-che cosa mai stavi pensando; cosa diavolo stavi pensando
+what on earth were you thinking?; what the heck were you thinking?
+che cosa mai stavi pensando?; cosa diavolo stavi pensando?; a che cavolo stavi pensando?
 
 you hurt my feelings
 hai ferito i miei sentimenti; mi hai ferito
@@ -14146,7 +14140,7 @@ farmi sentire meglio
 to break through
 sfondere
 
-step backward
+step backward; step back
 il passo indietro
 
 mud; sludge
@@ -19413,3 +19407,66 @@ dimostrato
 
 consensus; consent; agreement
 il consenso
+
+to blend; to mix; to merge; to combine
+amalgamarsi
+
+heartbreaker
+il rubacuori; la rubacuori
+
+tide; flood; tidal wave
+la marea
+
+close enough
+abbastanza vicino
+
+I'm disappointed in you
+sono deluso da te
+
+don't get me wrong
+non fraintendermi
+
+fear of commitment
+la paura dell'impegno
+
+I believe in you
+credo in te
+
+municipal; communal; town (adj)
+comunale
+
+socialist
+il socialista
+
+inscription; lettering; notice sign
+la scritta
+
+equilibrium; balance; poise
+l'equilibrio
+
+fate; fortune; luck
+la sorte
+
+evidentely; apparently; obviously
+evidentemente
+
+autonomy; independence
+l'autonomia
+
+administrative
+amministrativo
+
+extension
+l'estensione
+
+utility; benefit; usefulness
+l'utilità
+
+growth; increase; rise
+la crescita
+
+concession; allowance; franchise
+la concessione
+
+to consider; to regard; to deem
+considerare
