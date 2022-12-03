@@ -19486,8 +19486,14 @@ rendere felice
 you make me happy
 mi rendi felice
 
-to hunt
+to hunt; to chase
 cacciare
+
+hunting; hunt; chase
+la caccia
+
+hunter; chaser
+il cacciatore
 
 garrison; barrack; fort
 la guarnigione
