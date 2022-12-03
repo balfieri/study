@@ -7342,7 +7342,7 @@ farsi spiegare
 parenthood
 la genitorialità
 
-to decline; to turn down; to push back
+to decline; to turn down; to push back; to reject
 rispingere
 
 secrecy
@@ -19470,3 +19470,4 @@ la concessione
 
 to consider; to regard; to deem
 considerare
+
