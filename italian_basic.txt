@@ -1259,7 +1259,7 @@ sweatshirt
 la felpa
 
 money
-i soldi
+i soldi; il denaro; la moneta
 
 to yell; to scream; to cry
 urlare
@@ -2798,7 +2798,7 @@ sleepness
 il sonno
 
 sick
-malato
+malato; ammalato
 
 anxious
 ansioso
@@ -5002,7 +5002,7 @@ discreto
 available
 disponibile
 
-effective
+effective; effectual; efficacious
 efficace
 
 inadequate
@@ -5151,9 +5151,6 @@ breve
 
 particular
 particolare
-
-moral
-morale
 
 human (adj)
 umano
@@ -6577,7 +6574,7 @@ la rivista
 female
 femmina
 
-feminine
+feminine; womanly
 femminile
 
 male
@@ -7327,3 +7324,62 @@ specifico
 preparation
 la preparazione
 
+victory
+la vittoria
+
+Saint
+Santo
+
+outside; external; outer
+esterno
+
+the outside
+l'esterno
+
+precisely; exactly
+precisamente
+
+citizen
+il cittadino
+
+perfect
+perfetto
+
+perfectly
+perfettamente
+
+professional
+professionale
+
+solution
+la soluzione
+
+size; greatness; quantity
+la grandezza
+
+event; occurance; happening
+l'evento
+
+discovery; find; detection
+la scoperta
+
+whole; entire; integer
+l'intero
+
+moral (adj)
+morale
+
+single; individual
+singolo
+
+to indicate; to denote; to show
+indicare
+
+permission
+il permesso
+
+disease; illness; sickness
+la malattia
+
+legal
+legale

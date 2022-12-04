@@ -1933,7 +1933,7 @@ il ganghero
 tense (verb)
 il tempo
 
-gist; essence
+gist; essence; substance
 l'essenza; la sostanza
 
 culture shock; disorientation
@@ -3919,7 +3919,7 @@ equo
 repeat after me
 ripeti dopo di me
 
-broad
+broad; vast; ample
 ampio
 
 to hold; to possess
@@ -9204,9 +9204,6 @@ sino
 
 intervention
 l'intervento
-
-known; famous; renowned
-noto
 
 of course; surely; certainly
 certo; certamente
@@ -16258,7 +16255,7 @@ civettuolo; flirtante
 to flirt
 civettare; flirtare
 
-boundary
+boundary; edge
 il confine; il limite
 
 food processor
@@ -19506,3 +19503,93 @@ bersagliare
 
 melted chocolate; chocolate fondue
 il cioccolato fuso
+
+assumed
+assunto
+
+assumption
+l'assunto
+
+for the
+pei; per i
+
+legislation
+la legislazione
+
+institute; institution; estabilishment
+l'istituto
+
+known; famous; renowned
+noto
+
+order; arrangement
+l'ordinamento
+
+ship
+il navo
+
+willing; inclined; disposed
+disposto
+
+proposed
+proposto
+
+fascist
+fascista
+
+debt; obligation; debit
+il debito
+
+existing; existent
+esistente
+
+reconstruction; rebuilding; restoration
+la ricostruzione
+
+mainly; chiefly; principally
+principalmente
+
+jurisdiction; courts and tribunals; legal power
+la giurisdizione
+
+employee; dependent; addict
+il dipendente
+
+glory; praise
+la gloria
+
+institution; establishment; foundation
+l'istituzione
+
+observed
+osservato
+
+command; order; control
+il comando
+
+dignity; self-respect
+la dignità
+
+representative; agent; rep
+il rappresentante
+
+Catholic
+cattolico
+
+testimony; witness; evidence
+la testimonianza
+
+check; test; verification
+la verifica
+
+essentially; fundamentally; basically
+essenzialmente
+
+practice
+la pratica
+
+strictly; tightly; closely
+strettamente
+
+variation; change; variance
+la variazione
