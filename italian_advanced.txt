@@ -1204,9 +1204,6 @@ al di fuori
 beyond
 al di là
 
-to give up
-mollare
-
 spulciare
 to defile
 
@@ -7339,7 +7336,7 @@ farsi spiegare
 parenthood
 la genitorialità
 
-to decline; to turn down; to push back; to reject
+to reject; to decline; to turn down; to push back
 rispingere
 
 secrecy
@@ -19593,3 +19590,31 @@ strettamente
 
 variation; change; variance
 la variazione
+
+a little bit at a time
+un po' alla volta
+
+da dietro di te
+from behind you
+
+con ogni mezzo; ad ogni modo
+by all means
+
+to cut out; to freeze out; to shut out
+tagliare fuori
+
+to blow up
+saltare in aria
+
+to estrange; to move away
+allontanare
+
+to keep away; to exclude
+tenere lontano
+
+to dump; to download
+scaricare
+
+to give up; to drop; to dump; to let go of
+mollare
+
