@@ -19619,7 +19619,13 @@ to give up; to drop; to dump; to let go of
 mollare
 
 early bird; morning person; early riser
-il mattiniero
+il mattiniero; la persona mattiniera
+
+night owl; late-night person
+il notturno; la persona notturna
+
+sleepyhead
+il dormiglione
 
 Pitot tube
 il tubo di Pitot
