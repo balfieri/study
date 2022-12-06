@@ -19638,3 +19638,6 @@ la cerimonia
 
 celebration
 la celebrazione; il festeggiamento
+
+when will it end?
+quando finerà?
