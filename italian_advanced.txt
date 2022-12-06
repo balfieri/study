@@ -3494,7 +3494,7 @@ quarrel; squabble
 il bisticcio
 
 misunderstanding; mistake; misapprehension
-il malintenso
+il malinteso
 
 to rewind
 riavvolgere
@@ -9510,9 +9510,6 @@ prolungare
 
 flush (of toilet)
 lo sciacquone
-
-misunderstanding
-il malinteso
 
 plumber
 l'idraulico
@@ -19416,6 +19413,9 @@ sono deluso da te
 
 don't get me wrong
 non fraintendermi
+
+misunderstanding; misconception; misapprehension
+il fraintendimento
 
 fear of commitment
 la paura dell'impegno
