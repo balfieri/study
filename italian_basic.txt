@@ -7414,3 +7414,6 @@ il disegno
 owner; proprieter; landlord
 il proprietario
 
+affectionate; loving
+affetuoso
+
