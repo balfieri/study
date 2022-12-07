@@ -1,4 +1,5 @@
-# most common Italian expressions (through #133 on Amarilli's list)
+# most common Italian expressions
+# (note that many simple common expressions are in the italian_advanced.txt list)
 #
 to be lost at sea; to have no clue about something
 essere in alto mare
@@ -231,7 +232,7 @@ il figaccione
 to date someone; to go out with somebody; to become an item
 mettersi con (qualcuno)
 
-to obsess over something, to fixate on something, to be pigheaded
+to obsess over something; to fixate on something; to be pigheaded
 incaponirsi
 
 to know (something) like the back of your hand
@@ -240,7 +241,7 @@ conoscere (qualcosa) come le proprie tasche
 to throw (something) together quickly
 buttare su (qualcosa)
 
-to waste a bunch of time on something (the proper term is not coming to me)
+to waste a bunch of time on something
 rincoglionirsi
 
 to be dying to do (something)
@@ -270,9 +271,6 @@ mangiarsi le mani
 his ass off; their asses off
 a crepapelle
 
-thorny
-spinoso
-
 taking something too far; over-doing it
 eccesso di zelo
 
@@ -285,7 +283,7 @@ a occhio e croce
 to pig out; to binge; to wolf down food; to eat like a pig
 rimpinzarsi
 
-it's the shit, it's awesome
+it's the shit; it's awesome
 da scappottare
 
 someone with a young body and an old face
