@@ -10,12 +10,6 @@ il bicarbonato di sodio
 baking powder
 il lievito in polvere
 
-coward (starts with v)
-il vigliacco
-
-coward (starts with c)
-il codardo
-
 arrow; indicator; blinker (turn signal)
 la freccia
 
@@ -2029,9 +2023,6 @@ improvvisare
 to debate
 dibattere
 
-debate
-il dibattimento
-
 starring
 protaganista
 
@@ -2202,9 +2193,6 @@ stare in piedi
 
 to cope; to manage; to get on
 farcela
-
-approval
-l'approvazione
 
 outlet; socket; hold; grip
 la presa
@@ -4900,9 +4888,6 @@ le previsioni del tempo
 Supreme Court
 la Corte Suprema
 
-censorship
-la censura
-
 to regret
 rimpiangere
 
@@ -7170,9 +7155,6 @@ sfoderare
 
 proxy; delegation
 la delega
-
-shift; rotation
-l'avvicendamento
 
 to chill; to cool; to ice
 raffreddare
@@ -11371,9 +11353,6 @@ il progetto in casa; il progetto per la casa
 bum (person)
 il barbone
 
-to hope for
-auspicare
-
 aviation safety
 la sicurezza aerea
 
@@ -11475,9 +11454,6 @@ agevolare
 
 to put aside
 accantonare
-
-dispute
-la conflittualità
 
 welfare; well-being; prosperity
 il benessere
@@ -14070,9 +14046,6 @@ indurre
 
 the big lie
 la grande menzogna
-
-turnover
-l’avvicendamento
 
 army; military
 l'esercito
@@ -18103,9 +18076,6 @@ mi sto occupando in questi giorni di
 decadent
 decadente
 
-debate
-il dibattito
-
 developed country
 il paese sviluppato
 
@@ -19656,3 +19626,97 @@ portare male; portare sfiga; portare sfortuna; portare iella
 
 bad luck; misfortune; jinx
 l'iella
+
+grater
+la grattugia
+
+punctually
+puntualmente
+
+burdensome; onerous
+gravoso
+
+deleterious; harmful; noxious
+deleterio
+
+relapsed
+ricaduto
+
+disaffection; alienation; estrangement
+la disaffezione
+
+deviated
+discostato
+
+to reappear; to resurface
+riaffiorare
+
+assiduous; diligent; frequent
+assiduo
+
+alternation; rotation; shift; turnover
+l'avvicendamento
+
+to deaden; to attenuate; to tone down; to diminish; to weaken
+attenuare
+
+to foretell; to hope for
+auspicare
+
+to reside
+risedere
+
+primarily
+primariamente
+
+dispute; conflict; confrontration; unrest
+la conflittualità
+
+jointly; together (adv); collectively
+congiuntamente
+
+approval; assent; approbation
+l'approvazione
+
+barrier; dam
+lo sbarramento
+
+overcoming; exceedance
+il superamento
+
+setback
+la battuta d'arresto
+
+light of approval
+la luce dell'approvazione
+
+debate; discussion; argument
+il dibattito 
+
+debate; dispute; hearing
+il dibattimento
+
+you get the idea; you get the picture
+hai capito; capisci che intendo
+
+you broke the trust that we had
+hai rotto la fiducia che avevamo
+
+urge; impulse; drive
+la pulsione
+
+airspeed indicator
+l'anemometro; l'indicatore di velocità
+
+coward
+il codardo; il vigliacco
+
+to leave alone
+lasciare in pace
+
+censure; censorship
+la censura
+
+our relationship is over
+la nostra relazione è finita
+
