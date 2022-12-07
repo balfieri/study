@@ -12580,9 +12580,6 @@ portare il pannolino
 diapers
 il pannolino; i pannolini
 
-childhood (adj)
-infantile
-
 headache
 la cefalea
 
@@ -19782,3 +19779,7 @@ tracciare
 
 rafter
 la trave di legno
+
+childish; childhood (adj)
+infantile
+
