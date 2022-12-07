@@ -63,8 +63,8 @@ for subject in subjects:
                 is_unique = False
             first = f'{answer_to_filename[answer]}:{answer_to_line_num[answer]}'
             second = f'{filename}:{line_num}'
-            print( f'    {first:30s}: {prev_question}' )
-            print( f'    {second:30s}: {question}' )
+            print( f'    {first:40s}: {prev_question}' )
+            print( f'    {second:40s}: {question}' )
         else:
             answer_to_filename[answer] = filename
             answer_to_line_num[answer] = line_num
