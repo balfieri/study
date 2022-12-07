@@ -638,3 +638,15 @@ aprimmo
 
 they opened (p.r.)
 apirono; apersero
+
+I succeeded (p.r.)
+riuscii
+
+she succeeded (p.r.)
+riuscì
+
+we succeeded (p.r.)
+riuscimmo
+
+they succeeded (p.r.)
+riuscirono
