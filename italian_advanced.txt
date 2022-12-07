@@ -511,9 +511,6 @@ il guidatore
 to prepend
 anteporre
 
-to append
-aggiungere
-
 to refresh
 rinfrescare
 
@@ -19722,4 +19719,64 @@ la nostra relazione è finita
 
 thorny
 spinoso
+
+teaching; instruction; education
+l'insegnamento
+
+guarantee; warranty
+la garanzia
+
+legislator; lawmaker
+il legislatore
+
+contemporary
+contemporaneo
+
+represented
+rappresentato
+
+contribution
+il contributo
+
+treaty; pact
+il trattato
+
+place; locality; area
+la località
+
+accomplished; complete; completed
+compiuto
+
+strongly
+fortemente
+
+each; everyone; every
+ognuno
+
+composed
+composto
+
+pious; devout; holy
+pio
+
+indicated; suitable; fit; advisable
+indicato
+
+contents; table of contents
+i contenuti
+
+acidic
+acido
+
+carried out; unwound; performed; done
+svolto
+
+noble
+nobile
+
+fall; drop; downfall
+la caduta
+
+same (adj)
+medesimo
 

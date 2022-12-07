@@ -565,6 +565,9 @@ condividere
 to reach
 raggiungere
 
+to add; to append
+aggiungere
+
 salted; salty
 salato
 
@@ -5218,9 +5221,6 @@ il criminale
 own
 proprio
 
-same (adj)
-medesimo
-
 legal; judicial
 giuridico
 
@@ -5634,9 +5634,6 @@ il paragone
 
 to freeze (something)
 congelare
-
-owner
-il proprietario
 
 stage (theater)
 il palco
@@ -6403,6 +6400,9 @@ sordo
 Sardinian
 sardo
 
+Sardinia
+la Sardegna
+
 vineyard
 il vigneto
 
@@ -6519,6 +6519,9 @@ lo strumento
 
 unlikely
 improbabile
+
+likely; probable
+probabile
 
 brush
 la spazzola
@@ -7380,3 +7383,34 @@ la malattia
 
 legal
 legale
+
+passione
+la passione
+
+to produce
+produrre
+
+nation
+la nazione
+
+Latin
+latino
+
+Greek
+greco
+
+visit
+la visita
+
+poetic
+poetico
+
+mass
+la massa
+
+drawing; design
+il disegno
+
+owner; proprieter; landlord
+il proprietario
+
