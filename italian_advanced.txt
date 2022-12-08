@@ -1483,9 +1483,6 @@ auguriaresi
 foreseen; predicted; expected
 previso
 
-adversity; accident
-la sciagura
-
 massive
 massiccio
 
@@ -8454,9 +8451,6 @@ Il portellone
 
 fuselage
 la fusoliera
-
-fleet
-la flotta
 
 there was to do
 c'era da fare
@@ -19785,3 +19779,70 @@ infantile
 
 memorabilia
 la memorabilia; i cimeli
+
+unfair advantage
+il vantaggio ingiusto; il vantaggio sleale
+
+no way; not a chance
+nemmeno per idea; nemmeno per sogno
+
+no way!
+nessun modo!; non c'è modo!; assolutamente no!; non esiste proprio!
+
+club; bludgeon
+la clava
+
+meanness; dirty trick
+la porcata
+
+to censure
+censurare
+
+deviant
+il deviato
+
+to fade; to vanish
+sfumare
+
+adversity; accident; disaster; misfortune; crash
+la sciagura
+
+contrasting; opposing
+contrastante
+
+to stir up; to impassion
+appassionare
+
+traitor; betrayer
+il traditore
+
+inate
+inato
+
+Serbian
+serbo
+
+to surpass; to overtake; to pass
+sorpassare
+
+fleet; navy
+la flotta
+
+armore
+corazzato
+
+limelight
+la ribalta
+
+archduke
+l'arciduca
+
+marquis
+il marchese
+
+submarine
+il sottomarino
+
+cheek; nerve (guts); brass
+la faccia tosta
+

@@ -3901,7 +3901,7 @@ il fattore; il contadino
 harvest
 il raccolto
 
-pollution
+pollution; contamination; environmental pollution
 l'inquinamento
 
 turist
