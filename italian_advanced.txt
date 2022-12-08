@@ -163,7 +163,7 @@ fare un incidente
 peanut
 l'arachide
 
-goal
+goal; objective
 l'obiettivo
 
 reliable; dependable; trustworthy
@@ -2350,7 +2350,7 @@ la fascia
 tablet (pill)
 la compressa
 
-announcement
+announcement; novelty; news; newness
 la novità
 
 insight; deepening; amplification
@@ -3046,7 +3046,7 @@ l'alba
 sunrise
 il levar del sole
 
-phase
+phase; stage
 la fase
 
 source code
@@ -9841,7 +9841,7 @@ la spina
 voltage converter
 il convertitore di tensione
 
-voltage
+voltage; tension; stress; tension; strain
 la tensione
 
 set-up
@@ -9894,9 +9894,6 @@ deferire
 
 wish
 il desiderio
-
-fate
-il destino
 
 logistics
 la logistica
@@ -13258,7 +13255,7 @@ stare lontano da; stare alla larga da
 in regard to
 riguardo a; in merito a
 
-where; in case; if
+where; in case; if; so far as
 qualora
 
 politely; courteously
@@ -15378,9 +15375,6 @@ benedire
 
 distraught; upset
 sconvolto
-
-included; inclusive
-compreso
 
 tenacity
 la tenacia
@@ -19885,3 +19879,98 @@ versare sale sulla ferita
 mosquito
 la zanzara
 
+company; firm; corporation
+la compagnia
+
+sometimes
+talora
+
+to detect; to note; to observe; to notice; to relieve
+rilevare
+
+substantially; essentially; basically
+sostanzialmente
+
+concrete; clear; true
+concreto
+
+stroke; blow; knock; smack
+il colpo
+
+sphere
+la sfera
+
+length; duration
+la lunghezza
+
+founded; established
+fondato
+
+organ; body (organization); part
+l'organo
+
+court; tribunal; courtroom
+il tribunale
+
+destined; bound; intended
+destinato
+
+current; stream; flow
+il corrente
+
+modification
+la modificazione
+
+cautious; considered; deemed
+ritenuto
+
+achieved; attained; reached up
+raggiunto
+
+reserve
+la riserva
+
+goods; commodities
+le merci
+
+inclusive; included; including
+compreso
+
+occupation; employment
+l'occupazione
+
+favorable
+favorevole
+
+purchase
+l'aquisto
+
+destiny; fate
+il destino
+
+tone
+il tono
+
+need; demand; requirement
+l'esigenza
+
+seccession; sequence
+la successione
+
+opening; aperture; gap
+l'apertura
+
+deeply; profoundly
+profondamente
+
+continuity; permanence; stability
+la continuità
+
+to correspond; to agree; to match
+corrispondere
+
+Dr.
+dott.
+
+nucleus; kernel; core
+il nucleo

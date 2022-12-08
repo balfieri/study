@@ -1028,7 +1028,7 @@ daughter
 la figlia
 
 relative (personal)
-il parente; la parente
+il parente; la parente; il familiare
 
 bread
 il pane
@@ -3118,7 +3118,7 @@ permettersi
 to conclude
 concludere
 
-to resolve
+to resolve; to sort out; to solve
 risolvere
 
 to convince
@@ -6721,7 +6721,7 @@ l'inconscio
 tolerance
 la tolleranza
 
-show (tv)
+show (tv); schedule
 il programma
 
 novel (book)
@@ -7413,4 +7413,25 @@ il proprietario
 
 affectionate; loving
 affetuoso
+
+express; espresso
+l'espresso
+
+decision
+la decisione
+
+initial
+iniziale
+
+to depend
+dipendere
+
+artist
+l'artista
+
+independence
+l'indipendenza
+
+familiar; familial
+familiare
 
