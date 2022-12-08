@@ -469,6 +469,9 @@ camminare
 to stroll; to walk
 passeggiare
 
+to take a walk
+fare una passeggiata
+
 to take a trip
 fare un giro
 
