@@ -877,7 +877,7 @@ la luna
 sun
 il sole
 
-light (noun)
+light (n)
 la luce
 
 key
