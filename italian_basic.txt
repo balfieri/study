@@ -55,7 +55,7 @@ buona serata
 good-bye
 arrivederci
 
-so long (for a long time)
+so long
 addio
 
 see ya
@@ -349,7 +349,7 @@ la chiesa
 bus
 l'autobus
 
-tip (for bill)
+tip (bill)
 la mancia
 
 bill
@@ -679,7 +679,7 @@ di giù
 up above; upstairs
 di sopra
 
-inn (for eating)
+inn (dining)
 la trattoria; l'osteria
 
 store; shop
@@ -4042,9 +4042,6 @@ il servizio
 massage
 il massaggio
 
-sauna
-la sauna
-
 diet
 la dieta
 
@@ -4174,7 +4171,7 @@ la tabaccheria
 pharmacy
 la farmacia
 
-tire (for car)
+tire (car)
 il pneumatico
 
 steel
@@ -6511,7 +6508,7 @@ il bikini
 appliance; braces (orthodontia)
 l'apparecchio
 
-tool (for repair)
+tool (repair)
 l'attrezzo
 
 instrument; tool (abstract)
@@ -6808,7 +6805,7 @@ il dilemma
 high school (general term)
 la scuola superiore
 
-high school (for those planning to attend university)
+high school (university-bound)
 il liceo
 
 high school (vocational)

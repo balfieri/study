@@ -82,7 +82,7 @@ notare
 to realize
 rendersi conto
 
-to notice (for first time)
+to notice (first time)
 accorgersi
 
 propeller
@@ -1039,7 +1039,7 @@ la perseveranza
 contestant
 il concorrente
 
-royalty (for artist); royalties
+royalty (artist); royalties
 i diritti d'autore
 
 picky; fussy; choosy
@@ -10747,7 +10747,7 @@ la temperatura ambiente
 whisk
 la frustra
 
-scale (for weighing)
+scale (weighing)
 la bilancia
 
 vacuum sealer
@@ -15124,7 +15124,7 @@ parlare con dolcezza; parlare tranquillamente
 to speak fluidly
 parlare fluidamente; parlare in modo fluido
 
-straw (for drink)
+straw (drink)
 la cannuccia
 
 three-dimensional; 3D
@@ -19860,3 +19860,7 @@ risparmiare
 
 to save; to rescue
 salvare
+
+sauna
+la sauna
+
