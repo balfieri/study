@@ -19974,3 +19974,6 @@ dott.
 
 nucleus; kernel; core
 il nucleo
+
+a few days
+qualche giorno
