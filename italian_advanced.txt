@@ -61,7 +61,7 @@ affittare
 trickster
 l'imbroglione
 
-to receive (starts with a); to welcome; to accept
+to receive; to welcome; to accept
 accogliere
 
 to flow
@@ -202,7 +202,7 @@ scuola di specializzazione
 musician
 il musicista
 
-to learn (starts with a)
+to learn
 apprendere
 
 learning
@@ -334,10 +334,10 @@ i frutti di mare
 to warn; to caution; to alert
 avvisare; avvertire
 
-argument (quarrel, starts with d, formal)
+argument (quarrel, formal)
 la disputa
 
-argument (quarrel, starts with l, less than lite)
+argument (quarrel, informal)
 la lite; il litigio
 
 argumentative
@@ -501,12 +501,6 @@ il vento in coda
 
 maneuver
 la manovra
-
-driver (starts with a)
-l'autista
-
-driver (starts with g)
-il guidatore
 
 to prepend
 anteporre
@@ -1489,7 +1483,7 @@ massiccio
 ease
 la disinvoltura
 
-even (starts with p)
+even
 perfino; persino
 
 level (adj)
@@ -8863,7 +8857,7 @@ ravvicinare
 involuntarily
 involontariamente
 
-spouse (starts with c)
+spouse
 il congiuge
 
 sexually suggestive
@@ -11482,7 +11476,7 @@ fare i conti
 to rig; to equip
 attrezzare
 
-car (starts with v)
+car
 la vettura
 
 to scan
