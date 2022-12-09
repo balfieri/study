@@ -4657,7 +4657,7 @@ il golfo
 to be born
 nascere
 
-to repair
+to repair; to mend; to fix
 riparare
 
 to buy
@@ -4959,9 +4959,6 @@ segreto
 
 following; next
 seguente
-
-tenacious
-tenace
 
 tolerant
 tollerante
