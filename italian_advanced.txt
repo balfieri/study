@@ -19997,10 +19997,10 @@ to denounce; to report (crime)
 denunciare
 
 you owe me an explanation
-mi devi delle spiegazioni
+mi devi una spiegazione
 
 basketball player
-il cesista
+il cestista
 
 firmly
 saldamente
@@ -20121,3 +20121,9 @@ l'attività
 
 to get curious; to get interested in (finding out more)
 incuriosirsi
+
+I thought we were friends
+pensavo fossimo amici
+
+were we ever friends?
+siamo mai stati amici?
