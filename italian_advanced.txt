@@ -11873,7 +11873,7 @@ to crumble; to shatter
 sgretolare
 
 to prevent; to block; to hinder; to impede
-impedire
+impedire; prevenire
 
 to consider; to weigh
 soppesare
@@ -18774,9 +18774,6 @@ la seconda natura
 
 recap; summary
 il riepilogo
-
-to prevent
-impedire; prevenire
 
 dare a (qualcuno) una lezione
 to teach (somebody) a lesson
