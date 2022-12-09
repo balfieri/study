@@ -2602,9 +2602,6 @@ innocente
 elegant
 elegante
 
-indispensable
-indispensabile
-
 dry
 asciutto
 
@@ -7218,6 +7215,9 @@ ultimo
 
 sir; Mr.
 il signore
+
+madam; Mrs.
+la signora
 
 successive; next; subsequent
 successivo
