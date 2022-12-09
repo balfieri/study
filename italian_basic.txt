@@ -478,7 +478,7 @@ fare un giro
 to pull one's leg
 prendersi in giro
 
-ride; round
+ride; round; turn
 il giro
 
 trip; excursion
@@ -1579,7 +1579,7 @@ Berlino
 Russia
 la Russia
 
-sensitive
+sensitive; sympathetic
 sensibile
 
 sensible
@@ -2092,14 +2092,8 @@ il parco
 summit; top
 la cima
 
-valley
-la valle
-
 tree
 l’albero
-
-lawn; grass; meadow
-il prato
 
 coast
 la costa
@@ -7434,3 +7428,48 @@ familiare
 
 to be interested in (finding out more about something)
 essersi curiosito di
+
+patient (adj)
+paziente
+
+historic
+storico
+
+last; past
+scorso
+
+election
+l'elezione
+
+conclusion
+la conclusione
+
+professor
+il professore; la professoressa
+
+dream
+il sogno
+
+currently; presently
+attualmente
+
+next; near; close
+prossimo
+
+wall
+il muro; il parete
+
+address
+l'indirizzo
+
+shoulder
+la spalla
+
+capital
+il capitale
+
+sentence; phrase; clause
+la frase
+
+exchange; swap; switch
+lo scambio

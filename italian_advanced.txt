@@ -3928,7 +3928,7 @@ sopportare; tollerare
 hitman; assassin
 il sicario
 
-to provide; to furnish'
+to provide; to furnish
 fornire
 
 petty
@@ -20052,3 +20052,69 @@ it's time to talk
 
 horseman; rider (horse)
 il cavaliere
+
+fabric; cloth; tissue
+il tessuto
+
+mission
+la missione
+
+before (a court)
+dananzi
+
+circulation
+la circolazione
+
+support
+il sostegno
+
+impression
+l'impressione
+
+base
+la base
+
+valley
+la valle
+
+lawn; grass; meadow
+il prato
+
+revolt; insurrection; uprising
+la rivolta
+
+frequency
+la frequenza
+
+mostly
+maggiormente
+
+decrease; reduction; decline
+la diminuzione
+
+painter; artist (paint)
+il pittore
+
+characteristic; distinctive; typical
+caratteristico
+
+cardinal
+il cardinale
+
+organization
+l'organizzazione
+
+indication; sign; direction
+l'indicazione
+
+substantial; substantive; material (adj)
+sostanziale
+
+honorable; respectable
+onorevole
+
+rational
+razionale
+
+activity
+l'attività
