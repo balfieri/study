@@ -1240,7 +1240,7 @@ la cintura
 socks
 le calze
 
-ticket
+ticket; note (greeting card)
 il biglietto
 
 parking lot
