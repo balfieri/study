@@ -20676,3 +20676,163 @@ il raccolto
 
 section; division
 la sezione
+
+unfavorable
+sfavorevole
+
+favorable
+favoravole
+
+skyscraper; high-rise
+il grattacielo
+
+to see if; to make sure that
+verificare se
+
+collaboration
+la collaborazione
+
+syrup
+lo sciroppo
+
+uppercase
+maiuscolo
+
+lowercase; tiny
+minuscolo
+
+helmet
+il casco
+
+vents
+la sfoga
+
+graphics
+la grafica
+
+community; municipality; commune
+il comune
+
+unpleasant; not nice
+antipatico
+
+stingy
+avaro; tirchio
+
+rude; impolite
+scortese
+
+self-centered; egocentric
+egocentrico
+
+superficial
+superficiale
+
+glamourous; showy
+appariscente
+
+careless
+disattento
+
+reckless
+spericolato
+
+bachelor
+celibe
+
+bachelorette
+nubile
+
+touchy; sensitive; prickly
+permaloso
+
+bookshelf
+la mensola
+
+tent; blind; curtain
+la tenda
+
+arm chair
+la poltrona
+
+bush
+il cespuglio
+
+peninsula
+la penisola
+
+city hall
+il municipio
+
+canoe
+la canoa
+
+foil
+il fioretto
+
+surf board
+la tavola
+
+variable; changeable
+variabile
+
+to defeat; to overcome; to vanquish
+sconfiggere
+
+to applaud; to clap
+applaudire
+
+to loath; to abhor
+aborrire
+
+to diminish
+diminuire
+
+to exhaust; to run out of; to use up
+esaurire
+
+to guard
+custodire
+
+to heal; to recover; to cure
+guarire
+
+to attribute
+attribuire
+
+to pledge; to commit
+impegnarsi
+
+to shave
+radersi
+
+camel
+il cammello
+
+dolphin
+il delfino
+
+dressed (food)
+condito
+
+undressed (food)
+scondito
+
+tasteless
+insipido
+
+chestnut
+la castagna
+
+mandarin
+il mandarino
+
+grand opening
+la grande apertura; l'inaugurazione
+
+to exceed
+eccedere
+
+exhausted
+esaurito
+

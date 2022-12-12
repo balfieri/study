@@ -1282,7 +1282,10 @@ la carta d'imbarco
 check-in
 il check-in
 
-race (competition)
+competition; contest; concourse
+il concorso
+
+race; contest; competition
 la gara
 
 race (human)
@@ -1315,17 +1318,8 @@ la sagra
 satellite
 il satellite
 
-syrup
-lo sciroppo
-
 engaged; busy
 impegnato
-
-uppercase
-maiuscolo
-
-lowercase; tiny
-minuscolo
 
 dishwasher
 la lavastoviglie
@@ -1341,9 +1335,6 @@ il furto
 
 mild
 mite
-
-helmet
-il casco
 
 to comb
 pettinare
@@ -1362,9 +1353,6 @@ il portafoglio; il borsellino
 
 change (n)
 il cambiamento
-
-vents
-la sfoga
 
 slice
 la fetta
@@ -1402,9 +1390,6 @@ sparare
 to look like
 assomigliare a
 
-graphics
-la grafica
-
 meal
 il pasto
 
@@ -1429,10 +1414,10 @@ ora; adesso
 the time
 l'ora
 
-I can't wait
-non vedo l'ora
+I can't wait to
+non vedo l'ora di
 
-tonight
+tonight; this evening
 stasera
 
 today
@@ -1512,9 +1497,6 @@ la capella
 
 common (adj)
 comune
-
-community; municipality; commune
-il comune
 
 careful!
 attenzione!
@@ -1726,15 +1708,6 @@ giovane
 happy; cheerful
 allegro
 
-rude; impolite
-scortese
-
-unpleasant
-antipatico
-
-stingy
-avaro; tirchio
-
 nervous
 nervoso
 
@@ -1750,35 +1723,11 @@ annoiato
 weird; strange
 strano
 
-self-centered; egocentric
-egocentrico
-
-superficial
-superficiale
-
-glamourous; showy
-appariscente
-
-careless
-disattento
-
-reckless
-spericolato
-
-bachelor
-celibe
-
-bachelorette
-nubile
-
 shy
 timido
 
 strong
 forte
-
-touchy; sensitive; prickly
-permaloso
 
 annoying
 irritante; faticoso
@@ -1990,13 +1939,10 @@ il tappeto; il tappetino
 lamp
 la lampada
 
-bookshelf
-la mensola
-
 wardrobe; closet
 l'armadio
 
-vcr/tape recordere
+vcr/tape recorder
 il registratore
 
 keyboard
@@ -2010,12 +1956,6 @@ la lavagna bianca
 
 fan
 il ventilatore
-
-tent; blind; curtain
-la tenda
-
-arm chair
-la poltrona
 
 painting
 lo quadro
@@ -2077,9 +2017,6 @@ la collina
 forest
 il bosco
 
-bush
-il cespuglio
-
 field; camp
 il campo
 
@@ -2103,9 +2040,6 @@ il pianeta
 
 world
 il mondo
-
-peninsula
-la penisola
 
 ocean
 l’oceano
@@ -2205,9 +2139,6 @@ la libreria
 
 stadium
 lo stadio
-
-city hall
-il municipio
 
 ticket office
 la biglietteria
@@ -2590,7 +2521,7 @@ inutile
 unnecessary; superfluous
 superfluo
 
-peaceful; quiet
+peaceful; quiet; mellow
 tranquillo
 
 silent; quiet
@@ -2647,14 +2578,8 @@ la bicicletta
 bike
 la bici
 
-canoie
-la canoa
-
 sail
 la vela
-
-foil
-il fioretto
 
 ball
 il pallone
@@ -2664,9 +2589,6 @@ i pesi
 
 skis
 gli sci
-
-surf board
-la tavola
 
 little ball
 la pallina
@@ -2736,9 +2658,6 @@ il fulmine
 
 dark
 buio
-
-variable; changeable
-variabile
 
 head
 la testa
@@ -3121,9 +3040,6 @@ dipingere
 to move (body, as in gymnastics)
 muovere
 
-to defeat; to overcome; to vanquish
-sconfiggere
-
 to take
 prendere
 
@@ -3214,17 +3130,11 @@ divertire
 to continue; to go on; to proceed; to follow
 proseguire
 
-to applaud; to clap
-applaudire
-
 to fear
 temere
 
 to feed
 nutrire
-
-to loath; to abhor
-aborrire
 
 to open
 aprire
@@ -3277,9 +3187,6 @@ sparire
 to act
 agire
 
-to diminish
-diminuire
-
 to suggest
 suggerire
 
@@ -3289,17 +3196,8 @@ stupire
 to obey
 obbedire
 
-to exhaust; to run out of; to use up
-esaurire
-
 to construct
 costruire
-
-to guard
-custodire
-
-to heal; to recover; to cure
-guarire
 
 to cough
 tossire
@@ -3318,9 +3216,6 @@ subire
 
 to favor
 favorire
-
-to attribute
-attribuire
 
 to guarantee
 garantire
@@ -3382,14 +3277,8 @@ chiamarsi
 to meet
 conoscersi
 
-to pledge; to commit
-impegnarsi
-
 to complain
 lamentarsi
-
-to shave
-radersi
 
 to brush
 spazzolarsi
@@ -3457,7 +3346,7 @@ pettinarsi
 to turn (around)
 girarsi
 
-to express onsefl
+to express onself
 esprimersi
 
 to get engaged
@@ -3661,17 +3550,11 @@ la vacanza
 snake
 il serpente
 
-camel
-il cammello
-
 elephant
 l'elefante
 
 bull
 il toro
-
-dolphin
-il delfino
 
 turtle
 la tartuga
@@ -3925,17 +3808,8 @@ gustoso; saporito
 disgusting
 disgustoso; schifoso
 
-tasteless
-insipido
-
 raw
 crudo
-
-dressed (food)
-condito
-
-undressed (food)
-scondito
 
 firm (pasta)
 al dente
@@ -4540,12 +4414,6 @@ il salame
 watermelon
 il cocomero; l'anguria
 
-chestnut
-la castagna
-
-mandarin
-il mandarino
-
 yogurt
 lo yogurt
 
@@ -4885,7 +4753,7 @@ letale
 liberal
 liberale
 
-pleased
+pleased; delighted
 lieto
 
 loquacious; talkative
@@ -5167,7 +5035,7 @@ fondamentale
 current; topical; present (adj)
 attuale
 
-remarkable
+remarkable; notable
 notevole
 
 lower
@@ -5431,9 +5299,6 @@ la burocrazia
 to surpass; to overcome
 superare
 
-to exceed
-eccedere
-
 the future
 la futura
 
@@ -5445,9 +5310,6 @@ scappare
 
 bold; audacious
 audace
-
-exhausted
-esaurito
 
 custom; practice
 l'usanza
@@ -6811,12 +6673,6 @@ lo studente liceale
 university student; undergraduate
 lo studente universitario
 
-favorable
-favoravole
-
-unfavorable
-sfavorevole
-
 to break up with
 rompere con
 
@@ -6825,9 +6681,6 @@ l'autodidattico; l'autoapprendimento
 
 leather; hide
 il cuoio
-
-skyscraper; high-rise
-il grattacielo
 
 to drive crazy
 far impazzire
@@ -6873,9 +6726,6 @@ il fidanzato; la fidanzata
 
 it is supposed to be; it should be
 dovrebbe essere
-
-to see if; to make sure that
-verificare se
 
 in the morning; during the morning; early (in the day)
 di mattina
@@ -7006,9 +6856,6 @@ la posizione
 battle
 la battaglia
 
-collaboration
-la collaborazione
-
 risk
 il rischio
 
@@ -7044,9 +6891,6 @@ il segno
 
 resource
 la risorsa
-
-competition; contest; concourse
-il concorso
 
 entire
 intero
