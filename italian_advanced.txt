@@ -20943,3 +20943,7 @@ immediato
 
 appointed
 nominato
+
+to appear
+apparire
+

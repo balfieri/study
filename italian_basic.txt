@@ -5206,9 +5206,6 @@ seguire
 to travel
 viaggiare
 
-to appear
-apparire
-
 to cancel
 cancellare
 
