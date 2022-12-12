@@ -4912,7 +4912,7 @@ la riuscita del film
 to compound; to aggravate; to exacerbate
 aggravare
 
-to needle
+to needle; to whet; to pique
 stuzzicare
 
 non-intuitive
@@ -20865,3 +20865,9 @@ qualunque cosa dica
 
 to spoil the ending; to ruin the ending
 rovinare il finale
+
+to whet the appetite
+stuzzicare l'appetito
+
+to pique the interest
+stuzzicare l'interesse
