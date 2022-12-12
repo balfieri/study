@@ -19354,8 +19354,11 @@ credo in te
 municipal; communal; town (adj)
 comunale
 
-socialist
+socialist (n)
 il socialista
+
+socialist (adj)
+socialista
 
 inscription; lettering; notice sign
 la scritta
@@ -20559,3 +20562,117 @@ i seni; il seno
 
 trillionaire
 il trilionario
+
+socialism
+il socialismo
+
+to reduce; to decrease; to prune
+ridurre
+
+occurred; happened
+avvenuto
+
+member; appendage; limb
+il membro
+
+to admit; to acknowledge; to accept
+ammettere
+
+imperial
+imperiale
+
+crime; felony; offence
+il delitto
+
+debtor
+il debitore
+
+to excercise; to practice; to drill
+esercitare
+
+exposure; exposition; exhibition
+l'esposizione
+
+quoted; cited
+citato
+
+operation; working; functioning
+il funzionamento
+
+diversity; variety; multiplicity
+la diversità
+
+to form; to consitute; to shape
+formare
+
+presentation
+la presentazione
+
+integration
+l'integrazione
+
+to concern; to regard; to involve
+concernere
+
+approved
+approvato
+
+humanity
+l'umanità
+
+margin; edge; border
+il margine
+
+considered
+considerato
+
+purely
+puramente
+
+track; trace; trail
+la traccia
+
+completely; fully; entirely
+pienamente
+
+academy
+l'academia
+
+regard; with regard to
+reguardo
+
+growing; increasing; rising
+crescente
+
+forced; bound
+costretto
+
+temporal
+temporale
+
+mechanism; machinery
+il meccanismo
+
+revision; review; overhaul
+la revisione
+
+register; registrar; ledger
+il registro
+
+planned; expected; foreseen; scripted
+previsto
+
+master; maestro
+il maestro
+
+forum; hole; bore
+il foro
+
+vase; vessel
+il vaso
+
+harvest; crop; yield
+il raccolto
+
+section; division
+la sezione

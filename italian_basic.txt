@@ -3889,9 +3889,6 @@ la fattoria
 farmer
 il fattore; il contadino
 
-harvest
-il raccolto
-
 pollution; contamination; environmental pollution
 l'inquinamento
 
@@ -4819,7 +4816,7 @@ attraente; accattivante
 friendly
 amichevole
 
-blessed
+blessed; holy
 benedetto
 
 benevolent
@@ -7542,3 +7539,48 @@ pratico
 
 ice cream store; ice cream parlor
 la gelateria
+
+physical
+fisico
+
+physicist; physique
+il fisico
+
+frequent
+frequente
+
+known
+saputo
+
+surely; sure; certainly
+sicuramente
+
+intelligence
+l'intelligenza
+
+Greece
+la Grecia
+
+lost
+perduto
+
+intellectual
+intelletuale
+
+expression; phrase
+l'espressione
+
+courage; bravery; nerve
+il coraggio
+
+minute
+il minuto
+
+created
+creato
+
+information
+l'informazione
+
+obviously
+ovviamente
