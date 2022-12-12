@@ -12487,9 +12487,6 @@ in previsione
 doggy
 il cagnolino
 
-to last longer
-durare più a lungo
-
 I apologize for the delay
 mi scuso per il ritardo
 
@@ -20871,3 +20868,12 @@ stuzzicare l'appetito
 
 to pique the interest
 stuzzicare l'interesse
+
+to last the longest; to last longer
+durare più a lungo
+
+to take the bet
+accettare la scommessa
+
+in real life
+nella vita reale
