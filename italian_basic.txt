@@ -5407,7 +5407,7 @@ passionale
 irritating
 irritante
 
-tied (physically usually)
+tied (physically usually); related
 legato
 
 to attract
@@ -7515,4 +7515,28 @@ il castello
 
 double; dual; twofold
 doppio
+
+intention; intent; purpose
+l'intenzione
+
+painting; picture; square
+il quadro
+
+explanation
+la spiegazione
+
+classic; classical
+classico
+
+opinion
+l'opinione
+
+change; exchange (money); gear
+il cambio
+
+animal
+l'animale
+
+practical; handy; skillful
+pratico
 
