@@ -8335,7 +8335,7 @@ il disturbo bipolare
 manic-depressive
 maniaco-depressivo
 
-prediction
+prediction; forecast; foresight
 la previsione
 
 to make predictions
@@ -20877,3 +20877,69 @@ accettare la scommessa
 
 in real life
 nella vita reale
+
+improvement; betterment
+il miglioramento
+
+entity; extent
+l'entità
+
+territorial
+territoriale
+
+column; pillar
+la colonna
+
+increment; increase; growth
+l'incremento
+
+architecture
+l'architettura
+
+criticism; critique
+la critica
+
+validity; legitimacy; validness
+la validità
+
+only; solely; exclusively; uniquely
+unicamente
+
+symbol; sign
+il simbolo
+
+sought; looked for; searched
+cercato
+
+availability
+la disponabilità
+
+grain; wheat; bead
+il grano
+
+financial; fiscal; budgetary
+finanziario
+
+prevalentemente
+predominantly; mainly; chiefly
+
+transfer
+il trasferimento
+
+active
+attivo
+
+violation
+la violazione
+
+complex
+complesso
+
+clarity; clearness
+la chiarezza
+
+immediate
+immediato
+
+appointed
+nominato

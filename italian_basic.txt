@@ -5599,7 +5599,7 @@ ospitare
 disastrous
 disastroso
 
-attempt
+attempt; try
 il tentativo
 
 email
@@ -7428,3 +7428,24 @@ l'informazione
 
 obviously
 ovviamente
+
+profession
+la professione
+
+joy; happiness; delight
+la gioia
+
+space
+lo spazio
+
+to result
+risultare
+
+probability; likelihood; chance
+la probabilità
+
+happiness
+la felicità
+
+drama; play; tragedy
+il dramma
