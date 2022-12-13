@@ -611,7 +611,7 @@ route
 la rotta
 
 rather than
-anzichè
+anziché
 
 to beat; to hit; to strike
 picchiare
@@ -19252,9 +19252,6 @@ legare una corda
 around the whole thing
 intorno al tutto
 
-reader
-il lettore
-
 correspondent
 il corrispondente
 
@@ -20947,3 +20944,86 @@ nominato
 to appear
 apparire
 
+mixer (kitchen)
+la planetaria
+
+to examine
+esaminare
+
+verbal
+verbale
+
+reduced
+ridotto
+
+until; till
+finché
+
+parlametary
+parlamentare
+
+neighbor
+il vicino
+
+but still; therefore
+adunque
+
+link; bond; tie
+il legame
+
+to exclude
+escludere
+
+reader
+il lettore
+
+intensity
+l'intensità
+
+obtained; resulting
+ottenuto
+
+extremely
+estremamente
+
+again; once again; newly; see you again
+nuovamente
+
+reform
+la riforma
+
+permanent
+permanente
+
+exemplary
+esemplare
+
+fear; dread
+il timore
+
+determined
+determinato
+
+albeit; even if; although
+quantunque
+
+extreme
+estremo
+
+heat; warmth
+il calore
+
+bourgeois; middle-class
+borghese
+
+prize; award; premium
+il premio
+
+investment
+l'investimento
+
+awareness; consciousness
+la consapevolezza
+
+sovereign
+sovrano
