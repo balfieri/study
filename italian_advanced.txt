@@ -3961,9 +3961,6 @@ infranto
 understanding; agreement
 l'intesa
 
-careless; reckless
-incurante
-
 to break it off
 troncare
 
@@ -20722,8 +20719,8 @@ appariscente
 careless
 disattento
 
-reckless
-spericolato
+careless; reckless
+spericolato; incurante
 
 bachelor
 celibe
