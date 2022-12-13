@@ -1663,9 +1663,6 @@ il mendicante
 garb; clothing
 l'abbigliamento; l'abito
 
-to go on
-andare avanti
-
 to arm wrestle
 fare a braccio di ferro
 
@@ -1832,7 +1829,7 @@ eminent; outstanding; distinguished
 eminente
 
 hazy; dim
-offuscato
+offuscato; nebuloso; sfocato
 
 perpetual; eternal
 perpetuo
@@ -21057,3 +21054,15 @@ l'arco
 
 totally scripted
 strettamente sceneggiato
+
+to live to see another day
+vivere per vedere un altro giorno
+
+rudder pedals
+i pedali di timone
+
+to go ahead; to go on
+andare avanti
+
+idiot
+l'idiota; l'imbecile
