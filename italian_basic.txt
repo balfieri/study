@@ -622,9 +622,6 @@ telefonare
 to chew
 masticare
 
-what to say when you answer the phone
-pronto
-
 to get out of; to go down
 scendere da
 
@@ -2044,7 +2041,7 @@ il mondo
 ocean
 l’oceano
 
-country
+country; countryside; campaign
 la campagna
 
 city
@@ -5374,9 +5371,6 @@ favoloso
 amazing
 incredibile; fantastico; meraviglioso; sbalorditivo; stupefacente
 
-extraordinario
-straordinario
-
 outstanding
 eccelente
 
@@ -7461,3 +7455,33 @@ il lato
 
 career
 la carriera
+
+meeting; reunion; gathering
+la reunione
+
+comment
+il commento
+
+logical; cogent
+logico
+
+liquid
+il liquido
+
+independent
+indipendente
+
+union
+l'unione
+
+ready
+pronto
+
+direct
+diretto
+
+pity; piety; mercy
+la pietà
+
+affection; love
+l'affetto
