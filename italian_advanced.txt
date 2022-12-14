@@ -21153,3 +21153,6 @@ it's just a matter of
 
 dunce cap; dunce hat
 il cappello da somaro; il cappello d'asino
+
+dunce
+il somaro
