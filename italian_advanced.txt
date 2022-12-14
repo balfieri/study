@@ -21138,3 +21138,6 @@ il clacson
 
 sense of humor
 il senso dell'umorismo
+
+foreseeable future
+il futuro prevedibile
