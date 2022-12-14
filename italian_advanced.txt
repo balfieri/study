@@ -17584,7 +17584,7 @@ in gamba!
 anyway
 in ogni modo
 
-in a few words
+in a few words; in a nutshell
 in parole povere; in poche parole
 
 to keep one's fingers crossed
@@ -20527,7 +20527,7 @@ all'improvviso
 preexisting condition
 la condizione preesistente
 
-preexisting
+preexisting; pre-existing
 preesistente
 
 canine
@@ -21087,3 +21087,54 @@ separately
 
 to pull the plug; to get away from everything
 staccare la spina
+
+coat; blouse; jacket; tunic
+la casacca
+
+doomed
+spacciato
+
+well-built; well-made; well done
+benfatto
+
+hardened; ingrained
+incallito
+
+not that there's anything wrong with that
+non che ci sia niente di male
+
+meat grinder
+il tritacarne
+
+turnover; revenue
+il fatturato
+
+scalded; scorched
+scottato
+
+persistent
+persistente
+
+to fidget; to fuss; to be agitated; to stir
+agitarsi
+
+relocation; move
+il trasloco
+
+misguided; misinterpreted; misunderstood
+equivocato
+
+flattered
+lusingato
+
+to flatter
+lusingare
+
+it's not bad at all
+non è per niente male
+
+horn (car)
+il clacson
+
+sense of humor
+il senso dell'umorismo
