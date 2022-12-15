@@ -1841,7 +1841,7 @@ blouse
 la camicetta
 
 jacket
-la giacca
+la giacca; il giubbotto
 
 raincoat
 l'impermeabile
@@ -4264,8 +4264,8 @@ centesimo
 thousandth
 millesimo
 
+side; hip (body)
 il fianco
-side
 
 in the middle of; in the center; downtown
 al centro
