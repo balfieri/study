@@ -16177,7 +16177,7 @@ civettuolo; flirtante
 to flirt
 civettare; flirtare
 
-boundary; edge
+boundary; edge; border; frontier
 il confine; il limite
 
 food processor
@@ -21288,3 +21288,72 @@ merito di meglio; mi merito di meglio
 
 to stagnate
 stagnare
+
+to fight; to combat; to brawl
+combattere
+
+proportion; proportionality
+la proporzione
+
+face; visage
+il viso
+
+body; institution
+l'ente
+
+intent
+l'intento
+
+clergy; priesthood
+il clero
+
+tip; point
+la punta
+
+performance
+le prestazioni
+
+concentration
+la concentrazione
+
+declaration
+la dichiarazione
+
+demonstration; demo
+la dimostrazione
+
+succeeded; successful
+riuscito
+
+league
+la lega
+
+expansion
+l'espansione
+
+solidarity
+la solidarietà
+
+junta; addition; council
+la giunta
+
+interested
+interessato
+
+regarding
+riguardante
+
+destruction
+la destruzione
+
+profit; gain; advantage
+il profitto
+
+elaboration; processing
+l'elaborazione
+
+instance
+l'istanza
+
+differently; otherwise
+diversamente
