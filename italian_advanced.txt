@@ -21417,3 +21417,9 @@ il polo sud
 
 to have a good ear
 avere un buon orecchio
+
+bottleneck
+la strozzatura; il collo di bottiglia
+
+data structure
+la struttura dei dati; la struttura dati
