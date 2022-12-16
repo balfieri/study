@@ -7512,3 +7512,36 @@ la guardia
 
 culture
 la coltura
+
+sound
+il suono
+
+practically; virtually; basically
+praticamente
+
+response
+la risposta
+
+democratic
+democratico
+
+required; mandatory; requisite
+richiesto
+
+added
+aggiunto
+
+thin; subtle
+sottile
+
+believed
+creduto
+
+threat
+la minaccia
+
+lesson
+la lezione
+
+followed
+seguito
