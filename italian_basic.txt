@@ -7548,3 +7548,15 @@ seguito
 
 sex
 il sesso
+
+perfection
+la perfezione
+
+author
+l'autore; l'attrice
+
+global
+globale
+
+destination
+la destinazione
