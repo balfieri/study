@@ -6418,9 +6418,6 @@ maschio
 masculine
 maschile
 
-content (n)
-il contenuto
-
 to realize (an idea); to achieve; to accomplish
 realizzare; compiere
 
@@ -7560,3 +7557,13 @@ globale
 
 destination
 la destinazione
+
+God
+Dio
+
+painting; picture; depiction
+il dipinto
+
+to increase; to augment
+aumentare
+
