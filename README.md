@@ -13,12 +13,15 @@ There are a few text files provided for various topics of my interest. Feel free
 
     aviation.txt                        -- private pilot checkride oral exam (includes categories)
     aviation_ifr.txt                    -- instrument pilot checkride oral exam
+    french.txt                          -- my daughter's old word list 
     italian_basic.txt                   -- basic and a few intermediate words
     italian_advanced.txt                -- intermediate to advanced words
-    italian_expressions.txt             -- expressions that have existed for a while
-    italian_slang.txt                   -- more modern slang
+    italian_passato_remoto.txt          -- conjugations of the passato remoto (mostly irregular verbs)
+    italian_expressions_common.txt      -- common expressions 
+    italian_expressions_other.txt       -- less-common expressions 
     italian_vulgar.txt                  -- vulgar phrases (parolacce)
-    french.txt                          -- my daughter's old word list 
+    american_expressions_favorite.txt   -- my favorite American expressions (translated to Italian)
+    american_expressions_get.txt        -- American expressions with the word GET (ditto)
 
 Example of running the aviation questions:
 
