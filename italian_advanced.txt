@@ -1810,8 +1810,8 @@ congiungere
 profitable; lucrative
 lucroso
 
-matter; affair
-la faccenda
+matter; affair (something to be done)
+la faccenda; l'affare
 
 excessively; very
 oltremodo
@@ -21945,3 +21945,4 @@ allevare
 
 breading; farming; raising (animals); animal husbandry
 l'allevamento
+
