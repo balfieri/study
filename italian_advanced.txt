@@ -1319,7 +1319,7 @@ spicy
 speziato
 
 eventually; finally; in the end; ultimately
-infine
+infine; alla fine; finalmente
 
 windy
 ventoso
