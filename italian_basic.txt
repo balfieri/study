@@ -3463,9 +3463,6 @@ rotto
 chosen
 scelto
 
-writen
-scritto
-
 succeeded
 successo
 
@@ -7042,11 +7039,17 @@ l'identità
 last; ultimate; final
 ultimo
 
-sir; Mr.
+sir
 il signore
 
-madam; Mrs.
+Mr.
+Sig.
+
+madam
 la signora
+
+Mrs.
+Sig.ra
 
 successive; next; subsequent
 successivo
@@ -7567,3 +7570,32 @@ il dipinto
 to increase; to augment
 aumentare
 
+to satisfy
+soddisfare
+
+built; assembled
+costruito
+
+power
+la potenza
+
+written
+scritto
+
+Vatican
+il Vaticano
+
+discussion; argument (dispute); disagreement
+discussione
+
+realized
+realizzato
+
+Europe
+l'Europa
+
+province
+la provincia
+
+danger
+il pericolo

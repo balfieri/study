@@ -19897,9 +19897,6 @@ ritenuto
 achieved; attained; reached up
 raggiunto
 
-reserve
-la riserva
-
 goods; commodities
 le merci
 
@@ -20286,9 +20283,6 @@ illustrare
 
 diagram
 il diagramma
-
-requirement
-il requisito
 
 marathon session
 la sessione maratona
@@ -21828,3 +21822,103 @@ da quello che posso vedere
 
 I can't help that
 non posso evitare il fatto che; non posso fare a meno di; non posso fare a meno che
+
+asserted; confirmed
+affermato
+
+thousands
+la migliaia
+
+actual; effective
+effettivo
+
+treatment
+trattazione
+
+prison; jail
+il carcere
+
+reserve; stock
+la riserva
+
+behavior; conduct
+il comportamento
+
+paragraph
+il paragrafo
+
+claim; demand
+pretesa
+
+explicitly
+esplicitamente
+
+noticeably; significantly; considerably; substantially
+notevolmente
+
+to consider oneself
+ritenersi
+
+allowance; indemnity; compensation
+indennità
+
+income; annuity; yield
+la rendita
+
+fusion; melting; merger
+la fusione
+
+requirement; requisite; prerequisite
+il requisito
+
+institutional
+istituzionale
+
+edge; rim
+il bordo
+
+missed
+mancato
+
+fee; compensation
+compenso
+
+double; twofold; dual; duplicate
+duplice
+
+independently
+indipendentemente
+
+virgin
+la vergine
+
+right (adj)
+destro
+
+conservative
+conservato
+
+to apply
+applicare
+
+performance
+prestazione
+
+post-war period
+il dopoguerra
+
+transmission; broadcast
+la trasmissione
+
+sovereignty
+la sovranità
+
+therapy
+la terapia
+
+curve
+la curva
+
+confusion
+la confusione
+
