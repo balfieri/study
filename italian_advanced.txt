@@ -781,9 +781,6 @@ allacciare
 window seat
 il posto festrino
 
-process
-la procedura
-
 aisle seat
 il posto corridoio
 
@@ -21984,3 +21981,84 @@ la situazione imbarazzante
 
 awkward moment
 il momento imbarazzante
+
+pension; retirement
+pensione
+
+gravity; severity; seriousness
+gravità
+
+liquidation; sale; clearance
+liquidazione
+
+legal; juridical
+giuridice
+
+utilization
+l'utilizzazione
+
+aesthetics; esthetics
+l'aestetica
+
+communication
+la comunicazione
+
+dress; robe; garmant
+la veste
+
+trade union; union; syndicate
+il sindacato
+
+verification; evaluation
+l'accertamento
+
+lesion; wound; injury
+la lesione
+
+colleague
+il collego
+
+struggle; fighting; wrestling
+lotta
+
+to intervene
+intervenire
+
+inheritance; heredity
+l'eredità
+
+provided; furnished; equipped
+fornito
+
+recognized
+riconosciuto
+
+stability
+stabilità
+
+judged
+giudicato
+
+agricultural
+agricolo
+
+procedure; proceeding; proceedings; process
+la procedura
+
+original; originating
+originario
+
+twentieth century
+il novecento
+
+granted; given; bestowed
+concesso
+
+exclusion
+l'esclusione
+
+cause; reason; ground
+la cagione
+
+rigor
+il rigore

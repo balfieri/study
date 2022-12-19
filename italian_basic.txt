@@ -7599,3 +7599,31 @@ la provincia
 
 danger
 il pericolo
+
+signature
+firma
+
+Switzerland
+la Svizzera
+
+inner; internal; interior (adj)
+interiore
+
+mental
+mentale
+
+discovered
+scoperto
+
+visible
+visibile
+
+Mediterranean
+Mediterraneo
+
+poem
+il poema
+
+shown
+mostrato
+
