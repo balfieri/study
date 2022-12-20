@@ -21944,7 +21944,7 @@ breading; farming; raising (animals); animal husbandry
 l'allevamento
 
 cheesecloth
-la stamigna
+la stamigna; la garza alimentare; il tessuto filtrante
 
 Christmas tree
 l'albero di Natale
