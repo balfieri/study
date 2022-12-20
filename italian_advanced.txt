@@ -22062,3 +22062,6 @@ la cagione
 
 rigor
 il rigore
+
+intense
+intenso
