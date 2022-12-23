@@ -7644,3 +7644,12 @@ medio
 
 complex
 complesso
+
+boy
+il ragazzo
+
+girl
+la ragazza
+
+queen
+la regina
