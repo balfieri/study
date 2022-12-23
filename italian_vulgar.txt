@@ -30,7 +30,7 @@ il fesso
 stupidity; rubbush; balony; bullshit
 la fesseria
 
-bitch; donna che si dà facilmente; donna dai facili costumi; queste offese si usano solo con le donne
+bitch
 puttana; mignotta; troia; zoccola; baldracca
 
 bitch
@@ -39,10 +39,10 @@ cagna; stronza; troia; porca puttana
 bastard
 bastardo
 
-ass licker; butt licker; persona che si mostra servile rispetto ad un'altra soltanto per un tornaconto; l'offesa non è molto pesante, si può usare in modo scherzoso
+ass licker; butt licker
 leccaculo; lecchino
 
-pimp; protettore delle prostitute; insulto volgare
+pimp
 magnaccia; pappone
 
 pig; swine; hog
@@ -51,7 +51,7 @@ maiale; porco
 dork; moron; idiot
 stupido; cretino; idiota
 
-gay; omosessuale (usato in senso quasi dispregiativo); questi insulti si usano solo con gli uomini; faggot; fag; fruit
+gay; faggot; fag; fruit
 frocio; culattone; ricchione
 
 fuck (act)
@@ -426,47 +426,3 @@ tu sei pazzo, cazzo
 goddamit; holy crap; for God's sake
 Santa miseria
 
-there you go; so there
-ecco fatto
-
-ladle
-il mestolo
-
-even
-pari
-
-odd
-dispari
-
-bean; grain; kernel
-il chicco
-
-blown; blasted
-soffiato
-
-mustard
-il mustardo
-
-to extort
-estorcere
-
-wind-up (adj)
-a carica
-
-to feel like
-venirsi voglia di
-
-is this how you treat your friends?
-è così che tratti i tuoi amici?
-
-zero-sum game
-il gioco a somma zero
-
-to do some research
-documentarsi
-
-approximate; rough (guess)
-approssimativo
-
-low-hanging fruit
-i frutti più bassi
