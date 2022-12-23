@@ -3422,7 +3422,7 @@ said
 detto
 
 divided; shared
-ho diviso
+diviso
 
 was
 stato
@@ -7652,4 +7652,20 @@ girl
 la ragazza
 
 queen
-la regina
+sla regina
+
+China
+la Cina
+
+terrible
+terribile
+
+horrible
+orribile
+
+simplicity
+la semplicità
+
+mention
+la menzione
+
