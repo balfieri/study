@@ -2251,7 +2251,7 @@ la meccanica quantistica
 quantum electrodynamics
 l'ellettrodinamica quantistica
 
-lecture
+lecture; conference
 la conferenza; la lettura
 
 to give a lecture
@@ -20653,9 +20653,6 @@ la sezione
 unfavorable
 sfavorevole
 
-favorable
-favoravole
-
 skyscraper; high-rise
 il grattacielo
 
@@ -20910,9 +20907,6 @@ attivo
 
 violation
 la violazione
-
-complex
-complesso
 
 clarity; clearness
 la chiarezza
@@ -22224,3 +22218,109 @@ aspirante
 
 heterosexual
 eterosessuale
+
+colleague; coworker; fellow
+il collega
+
+diameter
+il diametro
+
+supreme
+supremo
+
+crime; offense
+il reato
+
+statistics
+la statistica
+
+undoubtedly
+indubbiamente
+
+linguistics
+la linguistica
+
+brought back
+riportato
+
+staff; personnel
+l'organico
+
+official; officer; civil servent
+il funzionario
+
+studied
+studiato
+
+impossibility
+l'impossibilità
+
+renovation; renewal; awakening
+rinnovamento
+
+legal; judicial
+giuridico
+
+analogous
+analogo
+
+analog (n)
+l'analogo
+
+identification
+l'identificazione
+
+diagnosis
+la diagnosi
+
+vital
+vitale
+
+aim
+la mira
+
+advanced
+avanzato
+
+group; whole
+il complesso
+
+poetry
+la poesia
+
+adopted
+adottato
+
+attributed
+attribuito
+
+equally; alike
+egualmente
+
+motivation
+la motivazione
+
+quotation; citation; quote
+la citazione
+
+evident
+evidente
+
+to check; to verify
+verificare
+
+goodness; kindness; generosity
+la bontà
+
+rite
+il rito
+
+often; common
+sovente
+
+obligation
+l'obbligazione
+
+bronze
+bronzo
+

@@ -5053,9 +5053,6 @@ industriale
 constitutional
 costituzionale
 
-average (adj)
-medio
-
 criminal (adj)
 penale; criminale
 
@@ -5064,9 +5061,6 @@ il criminale
 
 own
 proprio
-
-legal; judicial
-giuridico
 
 internal
 interno
@@ -5469,9 +5463,6 @@ congelare
 
 stage (theater)
 il palco
-
-crime
-il reato
 
 label; tag; luggage tag
 l'etichetta
@@ -7626,3 +7617,30 @@ mostrato
 
 extra virgin olive oil
 l'olio extravergine d'oliva
+
+real estate; property
+gli immobili
+
+people
+la gente
+
+saint
+il santo
+
+called
+chiamato
+
+promise
+la promessa
+
+comedy
+la commedia
+
+typical
+tipico
+
+average; mean
+medio
+
+complex
+complesso
