@@ -7669,3 +7669,21 @@ la semplicità
 mention
 la menzione
 
+justification
+la giustificazione
+
+begun; started
+cominciato
+
+youth
+la gioventù
+
+sent
+inviato
+
+kilometer
+il chilometro
+
+daily
+quotidiano
+

@@ -11317,7 +11317,7 @@ la sicurezza aerea
 preventable
 prevenibile
 
-unpreventable
+unpreventable; inevitable
 inevitabile; imprevedibile
 
 secretive
@@ -19861,7 +19861,7 @@ sostanzialmente
 concrete; clear; true
 concreto
 
-stroke; blow; knock; smack
+stroke; shot; blow; knock; smack
 il colpo
 
 sphere
@@ -22869,4 +22869,82 @@ impiattare
 
 nonfat dry milk; skim milk powder
 il latte scremato in polvere
+
+contrary
+contrario
+
+antonym
+il contrario
+
+whereas; where
+laddove
+
+royal
+regio
+
+applied
+applicato
+
+Christianity; Christendum
+il cristianesimo
+
+manifest
+manifesto
+
+manifesto
+il manifesto
+
+attempted
+tentato
+
+worry; concern
+la preoccupazione
+
+equal
+eguale
+
+mirror
+lo specchio
+
+characterized
+caratterizzato
+
+fashion
+la moda
+
+instant
+l'istante
+
+change; modification
+la modifica
+
+branch
+la rama
+
+conformity; compliance
+la conformità
+
+alternative
+alternativo
+
+discipline
+la disciplina
+
+ally
+l'alleato
+
+circle; club
+il circolo
+
+ease; easiness
+la facilità
+
+ordered; orderly; tidy; neat
+ordinato
+
+whence; hence
+donde
+
+lost
+perdito
 
