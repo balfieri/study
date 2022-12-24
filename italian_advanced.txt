@@ -142,7 +142,7 @@ la noce moscata
 pecan
 la noce di pecan
 
-lemon peel
+lemon peel; lemon zest
 la scorza di limone
 
 chicken breast
