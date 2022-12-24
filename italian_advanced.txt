@@ -2788,7 +2788,7 @@ schizzare
 to feast
 banchettare
 
-to hold; to detain; to keep; to retain
+to hold back; to hold; to detain; to keep; to retain
 trattenere
 
 pat on the back
@@ -22608,3 +22608,262 @@ dovuto
 
 totality
 la totalità
+
+pasty; doughy; mushy
+pastoso
+
+remaining
+restante
+
+emulsion
+l'emulsione
+
+colloidal
+colloidale
+
+gaseous; gassy
+gassoso
+
+to coexist
+coesistere
+
+to balance
+bilanciare
+
+synergy
+la sinergia
+
+freezing
+la gelatura
+
+buttery
+burroso
+
+similarity
+la similitudine
+
+accumulation
+l'accumulo
+
+basket
+il cestello
+
+shake; milkshake; smoothie
+il frullato
+
+inflated; self-important
+montato
+
+semifreddo
+semifreddo
+
+alcohol
+l'alcool
+
+to quantify
+quantitare
+
+quantitative
+quantitativo
+
+freezing point
+il punto di congelamento
+
+to exalt
+esaltare
+
+sweetener
+il dolcificante
+
+spreadable
+spatolabile
+
+antifreeze
+l'anticongelante
+
+table sugar
+lo zucchero da tavola
+
+laxative
+il lassitivo
+
+artificial sweetener
+il dolcificante artificiale
+
+to offset
+sfalsare
+
+interaction
+l'interazione
+
+airy
+ariato
+
+edible
+commestibile; edibile
+
+spinal
+vertebrale; vertebral
+
+carcass
+carcassa
+
+to incorporate
+incorporare
+
+shelf life
+la shelf life
+
+ball
+il gomitolo
+
+to unroll; to unwind; to unfurl
+srotolarsi
+
+to denature
+denaturare
+
+to stiffen; to harden
+irrigidirsi
+
+to coagulate
+coagulare
+
+creaminess
+cremosità
+
+step bck
+il passo in dietro
+
+viscous
+viscoso
+
+velvety
+vellutato
+
+basically; tendentially
+tendenzialmente
+
+to mark as completed
+segnare come completato
+
+lactose
+il lattosio
+
+integrator; supplement
+l'integratore
+
+serum
+il siero
+
+sugary
+zuccherato
+
+bearer
+l'apportatore
+
+emulsifier; emulsifying agent
+l'emulsionante
+
+lecithin
+la lecitina
+
+shelf life; storage life; storability
+la conservabilità
+
+peel
+la buccia
+
+thickener
+l'addensante
+
+to thicken
+addensare
+
+to make viscous
+viscosizzare
+
+additive
+l'additivo
+
+to stabilize
+stabilizzare
+
+stabilizer
+lo stabilizzante
+
+cutter
+il cutter
+
+to emulsify
+emulsionare
+
+dosage; proportion
+il dosaggio
+
+dispersibility
+dispersibilità
+
+to speed up; to accelerate
+velocizzare
+
+use of product; administration
+la somministrazione
+
+granita
+la granita
+
+fruit cream
+cremolata di frutta
+
+to translate to (intr)
+tradurrsi
+
+to border; to abut
+confinare
+
+to border on
+rasentare; avvicinarsi
+
+bro code
+il codice dei fratelli
+
+brotherhood; fraternity; fellowship
+fratellanza
+
+to put away
+riponilare
+
+tara gum
+gomma di tara
+
+to lend itself to 
+prestarsi ad essere
+
+to infuse
+mettere in infusione
+
+zest
+la scorza
+
+on day one
+il giorno 1
+
+to end up being
+finire per essere
+
+in place of
+al posto di
+
+to be engrossed; to be absorbed
+essere tutto preso
+
+spoonable
+cucchiabile
+
+after all
+dopotutto
+
+to dish out; to put onto a plate
+impiattare
+
