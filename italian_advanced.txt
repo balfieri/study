@@ -10079,7 +10079,7 @@ anti-lock braking
 la frenatura antibloccaggio
 
 hook
-il gancio
+il gancio; il gancetto
 
 helmet hook
 il gancio per casco
@@ -22953,3 +22953,37 @@ la pralina
 
 to praline
 pralinare
+
+to lay; to lay down; to carefully lay down
+adagiare
+
+grate
+la gratella
+
+to seal; to seal off
+sigillare
+
+metal; iron; mineral
+metallo
+
+ointment; salve; cream
+la pomata
+
+conferred
+conferito
+
+augmentation
+l'aumentazione
+
+increase
+l'aumento
+
+considerably
+considerevolmente
+
+airplane mode
+la modalità aereo
+
+to aspire
+aspirare
+
