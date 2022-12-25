@@ -1336,9 +1336,6 @@ tenerci per te
 to be about to be; to be going to be
 stare per essere
 
-negotiation; talks
-la trattativa
-
 safeguard
 la salvaguardia
 
@@ -22986,4 +22983,106 @@ la modalità aereo
 
 to aspire
 aspirare
+
+restoration; renovation; refurbishment
+il restauro
+
+introduced
+introdotto
+
+divinity
+la divinità
+
+insurance; assurance
+l'assicurazione
+
+naration
+narrazione
+
+proposition
+la proposizione
+
+partially
+parzialmente
+
+diocese
+la diocesi
+
+reasoning; reason
+il ragionamento
+
+coordination
+il coordinamento
+
+problematic
+problematico
+
+subject (people)
+suddito
+
+shield
+lo scudo
+
+entrusted
+affidato
+
+controversy
+il controversio
+
+existence
+l'esistenza
+
+apparent
+apparente
+
+registered; enrolled
+iscritto
+
+cession; abandonment
+la cessione
+
+monarchy
+la monarchia
+
+application
+l'applicazione
+
+negotiation; negotiating; bargaining; talks
+la trattativa
+
+contact
+il contatto
+
+uniform (adj)
+uniforme
+
+facing; turned; addressed
+rivolto
+
+era; age (of times); epoch
+l'epoca
+
+administration
+l'amministrazione
+
+unitary
+unitario
+
+preference
+la preferenza
+
+fixed
+fisso; fissato
+
+employee; worker
+l'addetto
+
+forumulation
+la formulazione
+
+vain
+vano
+
+used; utilized
+utilizzato
 

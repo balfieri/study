@@ -7687,3 +7687,8 @@ il chilometro
 daily
 quotidiano
 
+sufficient
+sufficiente
+
+correct
+corretto
