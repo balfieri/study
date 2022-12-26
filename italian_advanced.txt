@@ -23290,3 +23290,5 @@ fare un pisolino
 festival
 la sagra
 
+expert
+l'esperto
