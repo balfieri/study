@@ -1,4 +1,5 @@
 # Bob's favorite American expressions that are not in other lists already
+# note: some of these are vulgar
 #
 a piece of work
 un personaggio
