@@ -1306,12 +1306,6 @@ il faro
 hurricane
 l'uragano
 
-nap
-il pisolino
-
-festival
-la sagra
-
 satellite
 il satellite
 
