@@ -1486,9 +1486,6 @@ brutto; bruttino
 sadness
 la tristezza
 
-tower
-il torre
-
 chapel
 la capella
 
@@ -7636,9 +7633,6 @@ la promessa
 comedy
 la commedia
 
-typical
-tipico
-
 average; mean
 medio
 
@@ -7695,3 +7689,19 @@ corretto
 
 it's me
 sono io
+
+to improve; to better; to ameliorate
+migliorare
+
+citizenship
+la cittadinanza
+
+typical
+tipico
+
+dollar
+dollaro
+
+urgency
+l'urgenza
+
