@@ -3551,7 +3551,7 @@ bull
 il toro
 
 turtle
-la tartuga
+la tartaruga
 
 tiger
 la tigre
@@ -7692,3 +7692,6 @@ sufficiente
 
 correct
 corretto
+
+it's me
+sono io
