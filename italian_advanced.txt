@@ -23425,3 +23425,8 @@ marcia
 preliminary
 preliminare
 
+icy
+ghiacciato
+
+sucrose
+il saccarosio
