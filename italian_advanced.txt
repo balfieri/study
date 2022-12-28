@@ -3418,7 +3418,7 @@ il dirottamento
 to draw upon; to draw from
 attingere a; attingere da
 
-skill
+skill; ability; competence
 l'abilità; la capacità; la competenza
 
 engineering skills
@@ -7741,7 +7741,7 @@ lasciare aperta la possibilità
 sample size
 la dimensione del campione
 
-sample
+sample; champion
 il campione
 
 alien
@@ -23553,4 +23553,97 @@ miraculous
 
 miraculously
 miracolosamente
+
+priest; clergyman; minister
+il sacerdote
+
+ruin
+la rovina
+
+basin
+il bacino
+
+modified; edited; amended
+modificato
+
+prejudice
+il pregiudizio
+
+even; as well; too
+eziandio
+
+purchase
+l'acquista
+
+apparatus
+l'apparato
+
+courier
+il corriere
+
+school (adj); scolastic
+scolastico
+
+precious
+prezioso
+
+judicial
+giudiziario
+
+format
+il formato
+
+regularly
+regolarmente
+
+integral
+integrale
+
+welcomed
+accolto
+
+engine; motor
+il motore
+
+choir
+il coro
+
+return; repayment; restitution
+la restituzione
+
+producer; manufacturer; maker
+il produttore
+
+contributed
+contribuito
+
+child; infant
+il fanciullo
+
+limitation
+la limitazione
+
+invention
+l'invenzione
+
+wisdom; knowlege
+la sapienza
+
+coherence
+la coerenza
+
+clause; provision; stipulation
+la clausola
+
+happened
+accaduto
+
+immobile
+immobile
+
+Belgium
+il Belgio
+
+archive
+l'archivo
 
