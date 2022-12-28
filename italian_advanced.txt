@@ -6688,7 +6688,7 @@ il reperimento
 to refer; to submit to
 fare capo
 
-modality; mode; manner; procedure; rule
+modality; mode (technical, formal); manner; procedure; rule
 la modalità
 
 classification; ranking; list
@@ -23535,4 +23535,22 @@ abbandonato
 
 food (adj)
 alimentare
+
+rancid
+rancido
+
+non finché non
+not until
+
+dissociare; dissociarsi
+to disassociate
+
+miracle
+il miracolo
+
+miracoloso
+miraculous
+
+miraculously
+miracolosamente
 
