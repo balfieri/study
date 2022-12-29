@@ -9796,8 +9796,11 @@ soleggiato
 grinding
 la macinatura
 
-ice cream maker
+ice cream maker (machine)
 la gelatiera
+
+ice cream maker (person)
+il gelataio
 
 cherry tomato
 il pomodorino; il pomodoro ciliegino
