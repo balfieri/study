@@ -23761,3 +23761,8 @@ il finanziamento
 to interpret
 interpretare
 
+overtime (work)
+il lavoro straordinario
+
+in overtime (game)
+ai tempi supplementari
