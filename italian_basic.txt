@@ -7753,3 +7753,15 @@ l'esame
 priest
 il prete
 
+mile
+la miglia
+
+photo
+la foto
+
+international
+internationale
+
+radio
+la radio
+
