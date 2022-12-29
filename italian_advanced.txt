@@ -23766,3 +23766,6 @@ il lavoro straordinario
 
 in overtime (game)
 ai tempi supplementari
+
+he turned 12 (age); he reached the age of 12
+ha compiuto 12 anni
