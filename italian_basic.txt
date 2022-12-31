@@ -7785,3 +7785,13 @@ il paio
 
 late
 tardo
+
+based
+basato
+
+verb
+verbo
+
+return
+il ritorno
+
