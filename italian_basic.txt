@@ -1318,9 +1318,6 @@ la lavastoviglie
 in cash
 in contanti
 
-attention to detail
-l'attenzione ai dettagli
-
 theft; rip-off
 il furto
 
@@ -1434,9 +1431,6 @@ ci vuole
 
 more or less
 più o meno
-
-it's not a big deal
-non è un gran che
 
 to rent (apartment)
 affitarsi
@@ -2273,7 +2267,7 @@ cup; coffee cup
 la tazza
 
 bowl
-la scodella; la ciotola
+la ciotola; la scodella
 
 glass; drinking glass
 il bicchiere
@@ -2281,8 +2275,8 @@ il bicchiere
 tablecloth
 la tovaglia
 
-paper towels
-i tovaglioli di carta
+paper towel
+il tovagliolo di carta
 
 ham
 il prosciutto
@@ -2800,9 +2794,6 @@ fare visita a
 to remember
 ricordare
 
-to finish; to terminate
-terminare
-
 to lunch; to have lunch
 pranzare
 
@@ -2839,9 +2830,6 @@ assicurare
 to desire
 desiderare
 
-to command
-comandare
-
 to study
 studiare
 
@@ -2877,9 +2865,6 @@ scusare
 
 to bring near
 avvicinare
-
-to admire
-ammirare
 
 to search for; to look for
 cercare
@@ -2956,7 +2941,7 @@ occupare
 to turn
 girare
 
-to greet; to say hello to
+to greet; to say hello to; to say goodbye to
 salutare
 
 to drive; to guide
@@ -2964,9 +2949,6 @@ guidare
 
 to order
 ordinare
-
-to reserve
-riservare
 
 to be lacking; to be absent; to be missing
 mancare; venire meno
@@ -3063,9 +3045,6 @@ giungere
 
 to promise
 promettere
-
-to force; to constrain; to coerce
-costringere
 
 to divide; to share (something)
 dividere
@@ -3166,9 +3145,6 @@ preferire
 to hit
 colpire
 
-to clarify
-chiarire
-
 to vanish; to disappear; to vanquish; to go away
 sparire
 
@@ -3186,9 +3162,6 @@ obbedire
 
 to construct
 costruire
-
-to cough
-tossire
 
 to finish
 finire
@@ -3211,35 +3184,14 @@ garantire
 to contribute
 contribuire
 
-to get thinner
-dimagrire
-
-to insert
-inserire
-
 to return
 restituire
-
-to institute
-istituire
-
-to demolish
-demolire
-
-to confer; to give
-conferire
-
-to go crazy over
-impazzire
 
 to remember
 ricordarsi di
 
 to get tired of
 stancarsi di
-
-to prepare for; to get ready
-prepararsi
 
 to put on; to wear
 mettersi
@@ -4012,9 +3964,6 @@ il negozio di calzature
 butcher shop
 la macelleria
 
-smoke shop
-la tabaccheria
-
 pharmacy
 la farmacia
 
@@ -4269,9 +4218,6 @@ in fondo a
 
 near to
 vicino a
-
-on the corner
-all’angolo con
 
 far from
 lontano da
