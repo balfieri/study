@@ -6820,6 +6820,9 @@ necessariamente
 model; pattern; template
 il modello
 
+model (female)
+la modella
+
 principal (school)
 il preside
 
