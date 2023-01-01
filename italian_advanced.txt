@@ -829,7 +829,7 @@ in maggio
 trajectory
 la traiattoria
 
-hai capito?
+do you understand?; are you there?
 ci sei?
 
 to be there (for someone)
@@ -24042,3 +24042,88 @@ vorrei aver riconosciuto
 
 non-obvious
 non ovvio
+
+lips
+le labbra
+
+assembly
+l'assemblea
+
+authority
+l'autorità
+
+novella; short story
+la novella
+
+admiration
+l'ammirazione
+
+so-called
+cosiddetto
+
+nationality
+la nazionalità
+
+wedding
+le nozze
+
+antiquity
+l'antichità
+
+density
+la densità
+
+parity; equality
+la parità
+
+support
+il supporto
+
+disorder
+il disturbo
+
+status
+lo status
+
+collaborator
+il collaboratore
+
+identification; detection
+l'individuazione
+
+secondary
+secondario
+
+enjoyment
+il godimento
+
+governor
+il governatore
+
+altar
+l'altare
+
+ignorance
+l'ignoranza
+
+seen
+veduto
+
+to rebuild; to reconstruct; to restore
+ricostruire
+
+to benefit; to avail; to take advantage
+giovare
+
+to deign; to dignify
+degnare
+
+haste; hurry; rush
+la fretta
+
+revelation
+la rivelazione
+
+there; thither
+colà
+

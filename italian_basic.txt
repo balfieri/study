@@ -7795,3 +7795,8 @@ verbo
 return
 il ritorno
 
+excellent
+ottimo
+
+angel
+l'angelo
