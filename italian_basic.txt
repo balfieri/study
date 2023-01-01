@@ -4828,7 +4828,7 @@ unito
 used
 usato
 
-adorable
+adorable; lovable; lovely
 adorabile
 
 arrogant
@@ -5247,9 +5247,6 @@ confuso
 
 nightmare
 l'incubo
-
-environmentalist
-l'ambientalista
 
 to press; to push; to squeeze
 premere
@@ -6136,9 +6133,6 @@ il limite
 any
 qualsiasi
 
-disposizione; arrangement; disposal
-la disposizione
-
 doubt
 il dubbio
 
@@ -6189,9 +6183,6 @@ la bibita dietetica
 
 soul
 l'anima
-
-Antarctica
-l'Antartide; l'Antartica
 
 emotional (person)
 emotivo
@@ -6264,9 +6255,6 @@ fluentemente; speditamente
 
 bikini
 il bikini
-
-appliance; braces (orthodontia)
-l'apparecchio
 
 tool (repair)
 l'attrezzo
@@ -7746,3 +7734,7 @@ ottimo
 
 angel
 l'angelo
+
+disappointed
+deluso
+
