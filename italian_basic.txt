@@ -4765,9 +4765,6 @@ volgare
 artistic
 artistico
 
-simplistic; banal
-banale
-
 constructive
 costruttivo
 
