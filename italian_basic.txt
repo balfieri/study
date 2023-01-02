@@ -2147,7 +2147,7 @@ bank
 la banca
 
 cathedral
-il cattedrale
+il cattedrale; il duomo
 
 train station
 la stazione ferroviaria
@@ -2722,7 +2722,7 @@ venerdì
 Saturday
 sabato
 
-Sunda
+Sunday
 la domenica
 
 the day after tomorrow
@@ -7743,3 +7743,13 @@ deluso
 
 clam
 la vongola; il mollusco
+
+accent
+l'accento
+
+killed; murdered
+ucciso
+
+love
+l'amore
+
