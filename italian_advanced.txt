@@ -9653,7 +9653,7 @@ interchangeable
 intercambiabile
 
 no matter what happens
-non importa cosa accadrà
+non importa cosa accadrà; non importa cosa accada
 
 no matter what
 non importa cosa; a tutti i costi
@@ -24336,3 +24336,4 @@ tutta la verità
 
 one-way street
 la strada a unico senso
+
