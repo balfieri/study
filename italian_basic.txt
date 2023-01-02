@@ -710,7 +710,7 @@ cloudy
 nevuloso
 
 snow
-la neve
+la neve; la nevicata
 
 rain
 la pioggia
@@ -3126,9 +3126,6 @@ consentire
 
 to execute; to perform
 eseguire
-
-to invest
-investire
 
 to lie
 mentire
