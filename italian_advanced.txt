@@ -4034,7 +4034,7 @@ crossword puzzle
 il cruciverba; le parole crociate
 
 slowly
-pian piano
+pian piano; adagio
 
 doctor's appointment
 l'appuntamento dal dottore
@@ -8836,7 +8836,7 @@ porre fine a
 to draw near; to bring together; to approximate
 ravvicinare
 
-involuntarily
+involuntarily; unintentionally
 involontariamente
 
 spouse
@@ -24190,3 +24190,26 @@ la disposizione
 environmentalist
 l'ambientalista
 
+for a while
+per un po'
+
+to feel uncomfortable; to feel self-conscious
+sentirsi a disagio
+
+to feel comfortable; to feel at ease
+sentirsi a proprio agio
+
+nipple
+il cappezolo
+
+spray
+lo spruzzo
+
+to do it on purpose
+farlo apposta
+
+involuntary
+involontario
+
+use your head
+usa il cervello
