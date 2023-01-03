@@ -19822,8 +19822,8 @@ divenire
 wound
 la ferita
 
-reopen the wound
-riaprire la fetita
+to reopen the wound
+riaprire la ferita
 
 to pour salt on the wound
 versare sale sulla ferita
@@ -24483,3 +24483,15 @@ la basilica
 
 to resist; to hang tight
 resistere
+
+I didn't say that
+non ho detto questo; non ho detto quello
+
+it was the last thing I wanted
+era l'ultima cosa che volevo
+
+it's too painful thinking about what could have been
+è troppo doloroso pensare a cosa che sarebbe potuto essere
+
+to contact
+contattare
