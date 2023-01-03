@@ -24507,3 +24507,9 @@ comprensivo
 
 it sounds familiar
 sembra familiare; suona famigliare
+
+one last thing
+un'ultima cosa
+
+one more thing
+un'altra cosa
