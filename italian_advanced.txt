@@ -24394,8 +24394,11 @@ knowingly
 inconsapevolmente
 unknowingly
 
-mi è venuto in mente che
 it occurred to me that
+mi è venuto in mente che
+
+it never occurred to me that
+non mi è mai venuto in mente che
 
 very last
 ulitimissimo
