@@ -22534,7 +22534,7 @@ condannato
 Virgil
 Virgilio
 
-to suppose
+to suppose; to assume
 supporre
 
 historiography
@@ -24516,3 +24516,6 @@ un'altra cosa
 
 to end on a positive note
 concludere con una nota positiva
+
+assuming; supposing
+suppondendo
