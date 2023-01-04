@@ -7780,3 +7780,9 @@ arrivato
 conversation
 la conversazione
 
+immagination
+l'immaginazione
+
+customer; client
+il cliente
+
