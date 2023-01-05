@@ -24934,3 +24934,5 @@ il budino
 raincoat
 l'impermeabile
 
+side note
+la nota a margine
