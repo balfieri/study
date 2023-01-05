@@ -1828,9 +1828,6 @@ la camicetta
 jacket
 la giacca; il giubbotto
 
-raincoat
-l'impermeabile
-
 scarf
 la sciarpa
 
@@ -4834,9 +4831,6 @@ eccentrico
 heroic
 eroico
 
-cunning; crafty; sly
-furbo
-
 incapable
 incapace
 
@@ -4863,12 +4857,6 @@ sferico
 
 square
 quadrato
-
-sour
-aspro
-
-acidic
-acerbo; acido
 
 divine; out of this world; godly
 divino
@@ -4980,9 +4968,6 @@ locale
 
 industrial
 industriale
-
-constitutional
-costituzionale
 
 criminal (adj)
 penale; criminale
@@ -5134,9 +5119,6 @@ ballare
 to draw; to design
 disegnare
 
-to fill
-rempire
-
 to fix; to repair
 aggiustare
 
@@ -5155,9 +5137,6 @@ firmare
 to smoke
 fumare
 
-to spell
-fare lo spelling
-
 to succeed
 avere successo
 
@@ -5169,9 +5148,6 @@ scrivere al computer
 
 miserable
 miserabile; misero
-
-introverted
-introverso
 
 vespa
 il motorino
@@ -5199,9 +5175,6 @@ il Regno Unito
 
 device
 il dispositivo
-
-to be confused
-essere confuso
 
 purple
 porpora
@@ -5335,9 +5308,6 @@ minacciare
 note
 nota
 
-strip
-la striscia
-
 to convert
 convertire
 
@@ -5383,9 +5353,6 @@ derubare
 to rob (something)
 rubare
 
-comparison
-il paragone
-
 to freeze (something)
 congelare
 
@@ -5398,7 +5365,7 @@ l'etichetta
 lodging; accommodation; residency
 l'alloggio
 
-flawed
+flawed; defective
 difettoso
 
 racist
@@ -5587,11 +5554,8 @@ la percentale
 bisexual
 bisessuale
 
-homophobic
-omofobico
-
-homosexuality
-l'omosessualità
+homosexual
+omosessuale
 
 relationship
 il rapporto
@@ -5938,7 +5902,7 @@ la libertà
 action
 l'azione
 
-relation
+relation; relationship; affair (romantic)
 la relazione
 
 act
@@ -6286,9 +6250,6 @@ l'assistenza
 filling
 il ripieno
 
-to fill up
-rimpire
-
 to fill; to fill out
 riempire
 
@@ -6306,6 +6267,9 @@ scortese; sgarbato
 
 to go the movies
 andare al cinema
+
+movie; film
+il film
 
 magazine
 la rivista
@@ -6496,23 +6460,14 @@ gradevole; piacevole
 disturbed (mentally)
 disturbato
 
-unnecessarily
-inutilmente
-
 mildly; slightly; lightly
 leggermente
 
 origin
 l'origine; la provenienza
 
-to promote
-promuovere
-
 to support; to back
 sostenere
-
-hilly
-collinoso
 
 album
 l'album; il disco
@@ -6648,9 +6603,6 @@ ti dispiace?
 
 no, not at all; no, no, of course not; no, not at all
 no, figurati
-
-pudding
-il budino
 
 pastry
 il pasticcino
