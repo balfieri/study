@@ -25158,3 +25158,6 @@ restare sposato con; rimanere sposato con
 
 to honor
 omaggiare
+
+protocol
+il protocollo
