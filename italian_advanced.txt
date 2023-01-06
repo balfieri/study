@@ -11545,7 +11545,7 @@ pigliare
 crotch; groin
 il pacco; l'inguine
 
-to double-team
+to double; to double-team; to duplicate; to redouble
 raddoppiare
 
 you aren't at all weird
@@ -25083,4 +25083,7 @@ la seria
 
 partisan
 partigiano
+
+doubling
+il raddoppiamento
 
