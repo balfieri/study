@@ -25092,3 +25092,6 @@ canalizzare
 
 sound quality
 la qualità del suono; la qualità sonora
+
+cadence
+la cadenza
