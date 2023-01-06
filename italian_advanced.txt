@@ -25087,3 +25087,5 @@ partigiano
 doubling
 il raddoppiamento
 
+to channel
+canalizzare
