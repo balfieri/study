@@ -25089,3 +25089,6 @@ il raddoppiamento
 
 to channel
 canalizzare
+
+sound quality
+la qualità del suono; la qualità sonora
