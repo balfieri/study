@@ -25330,3 +25330,5 @@ l'oggettivo
 quiet; tranquil
 quieto
 
+light meal
+il pasto leggero
