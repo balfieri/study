@@ -1348,9 +1348,6 @@ la fetta
 to slice
 affettare
 
-to bite
-mordare
-
 bite (n)
 il mordo
 
