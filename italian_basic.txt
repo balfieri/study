@@ -6811,6 +6811,9 @@ l'argomento
 argument (often negative)
 la discussione
 
+subject; topic; theme
+il soggetto
+
 otherwise
 altrimenti
 
@@ -7809,4 +7812,40 @@ solido
 
 smoke
 il fumo
+
+Chinese
+cinese
+
+wanted
+voluto
+
+religion
+la religione
+
+Asia
+l'Asia
+
+unhappy
+infelice
+
+taxi
+il tassi
+
+object
+l'oggetto
+
+air
+l'aria
+
+fallen
+caduto
+
+hidden
+nascosto
+
+loved
+amato
+
+bag; sack
+il sacco
 

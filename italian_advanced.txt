@@ -15226,9 +15226,6 @@ la formaggiera
 coffer; exchequer; till
 il forziere
 
-mine; pite; mining
-la miniera
-
 multiplication
 la moltiplicazione
 
@@ -25410,4 +25407,172 @@ la grande gioia
 
 too little, too late
 troppo poco, troppo tardi
+
+mayor
+podestà
+
+ideological
+ideologico
+
+transition
+la transizione
+
+consumer
+il consumatore
+
+deputation; delegation
+la deputazione
+
+consul; console
+il console
+
+predicted
+predetto
+
+Marxism
+il marxismo
+
+gathered; assembled
+riunito
+
+correlation
+la correlazione
+
+veil
+il velo
+
+to compose
+comporre
+
+successor
+il successore
+
+signal
+il segnale
+
+vein; seam; blood vessel
+la vena
+
+insured
+assicurato
+
+correction
+la correzione
+
+lead
+il piombo
+
+strict; rigorous
+rigoroso
+
+specifically
+specificamente
+
+save; salvo; volley
+la salva
+
+modernity
+la modernità
+
+regiment
+il reggimento
+
+to deduce
+dedurre
+
+discussed
+discusso
+
+card; board
+la scheda
+
+communicated
+comunicato
+
+report; notice; communication
+il comunicato
+
+illustrated
+illustrato
+
+formally
+formalmente
+
+originality
+l'originalità
+
+derivation
+la derivazione
+
+mine; pit; mining
+la miniera
+
+cancellation; revocation
+la revoca
+
+import; importation; importing
+l'importazione
+
+derived
+derivato
+
+mute
+muto
+
+absurd
+assurdo
+
+mataphor
+la metafora
+
+countless; innumerable
+innumerevole
+
+comfort
+il conforto
+
+fulfillment
+l'adempimento
+
+literate
+letterato
+
+scholar
+il letterato
+
+conceived
+concepito
+
+peace; peace of mind; tranquility
+la tranquillità
+
+penetration
+la penetrazione
+
+Replublican
+repubblicano
+
+widow
+la vedova
+
+widower
+il vedovo
+
+repetition
+la ripetizione
+
+resident (adj)
+residente
+
+resident (n); citizen; occupant
+il residente
+
+duty (fee); tariff; excise
+il dazio
+
+authentic
+autentico
+
+to be obliged
+doversi
 
