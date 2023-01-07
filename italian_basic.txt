@@ -1459,7 +1459,7 @@ triste
 angry
 arrabiato
 
-anger
+anger; rage; rabies
 la rabbia
 
 beauty
