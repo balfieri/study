@@ -7798,3 +7798,18 @@ portato
 fatal
 fatale
 
+separate; separated
+separato
+
+mutual
+mutuo
+
+signed
+firmato
+
+solid
+solido
+
+smoke
+il fumo
+
