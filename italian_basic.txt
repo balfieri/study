@@ -4009,9 +4009,6 @@ la settimana
 question
 la domanda
 
-stamp
-il francobollo
-
 money
 il soldo; i soldi
 
