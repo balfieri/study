@@ -4484,7 +4484,7 @@ leaf
 la foglia
 
 subway; metro
-la metro; la metropolitana
+la metropolitana; la metro
 
 cousin
 il cugino
@@ -6763,9 +6763,6 @@ il modello
 model (female)
 la modella
 
-principal (school)
-il preside
-
 prince
 il principe
 
@@ -6793,7 +6790,7 @@ scientifico
 generally
 generalmente
 
-meter; metro; measuring tape
+meter; subway; measuring tape
 il metro
 
 birth
