@@ -25161,3 +25161,6 @@ omaggiare
 
 protocol
 il protocollo
+
+aroma
+l'aroma
