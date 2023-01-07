@@ -1672,9 +1672,6 @@ cauto
 talkative
 chiacchierone
 
-affectionate
-affettuoso
-
 curious
 curioso
 
@@ -4756,9 +4753,6 @@ volgare
 artistic
 artistico
 
-constructive
-costruttivo
-
 creative
 creativo
 
@@ -4828,9 +4822,6 @@ eroico
 incapable
 incapace
 
-incoherent
-incoerente
-
 enormous
 enorme
 
@@ -4845,9 +4836,6 @@ rotondo
 
 circular
 circolare
-
-spherical
-sferico
 
 square
 quadrato
@@ -5041,9 +5029,6 @@ utilizzare
 to catch; to pick; to grasp; to cull
 cogliere
 
-to lead; to conduct
-condurre
-
 to be worth
 valere
 
@@ -5068,9 +5053,6 @@ godere; godersi
 to correct
 correggere
 
-to be quiet; to keep quiet; to stay quiet
-tacere
-
 to kill
 uccidere
 
@@ -5079,9 +5061,6 @@ nascondere
 
 to hide (oneself) from
 nascondersi da
-
-to earn
-guadagnare
 
 to apologize
 scusarsi
@@ -5143,17 +5122,14 @@ scrivere al computer
 miserable
 miserabile; misero
 
-vespa
+vespa; scooter
 il motorino
-
-to punish
-punire
 
 damaging
 dannoso
 
 passionate
-passionale
+appassionato; passionale
 
 irritating
 irritante
@@ -5227,9 +5203,6 @@ afroamericano
 motherhood
 la maternità
 
-Hungary
-l'Ungheria
-
 to tighten
 stringere
 
@@ -5247,9 +5220,6 @@ la Festa della Mamma
 
 care; cure; treatment
 la cura
-
-unforgettable
-indimenticabile
 
 fabulous
 favoloso
@@ -5302,9 +5272,6 @@ minacciare
 note
 nota
 
-to convert
-convertire
-
 to cure; to treat
 curare
 
@@ -5313,9 +5280,6 @@ prendersi cura di
 
 to doubt
 mettere in dubbio; dubitare
-
-to persuade
-persuadere
 
 to bite
 mordere
@@ -5358,9 +5322,6 @@ l'etichetta
 
 lodging; accommodation; residency
 l'alloggio
-
-flawed; defective
-difettoso
 
 racist
 razista
@@ -5413,7 +5374,7 @@ avanti
 less than; lower than; not exceeding
 inferiore a
 
-more than; exceeding
+more than; higher than; exceeding
 superiore a
 
 ballet
@@ -5440,14 +5401,8 @@ brillante; luminoso
 character (film)
 il protaganista
 
-extroverted; outgoing
-estroverso
-
 stupid thing
 la stupidagine
-
-New Zealand
-La Nuova Zelanda
 
 to ask questions
 fare domande
@@ -5505,9 +5460,6 @@ il benzinaio
 
 expiration; deadline
 la scadenza
-
-psychiatric
-psichiatrico
 
 implicit
 implicito
@@ -5578,9 +5530,6 @@ creare
 to focus
 concentrarsi
 
-to explore
-esplorare
-
 to attend; to meet; to hang out
 frequentare
 
@@ -5637,9 +5586,6 @@ sorprendersi
 
 to get stressed
 stressarsi
-
-to get bored of; to get tired of
-stufarsi
 
 to take out (an object)
 tirar fuori
@@ -5824,9 +5770,6 @@ attraverso
 order
 l'ordine
 
-very; quite; extremely
-assai
-
 beyond
 oltre
 
@@ -5838,9 +5781,6 @@ il numero
 
 possible
 possibile
-
-therefore; hence; thus
-dunque
 
 in the (formal)
 presso
@@ -5925,9 +5865,6 @@ la vista
 
 situation
 la situazione
-
-Turin
-Torino
 
 presence
 la presenza
@@ -6031,9 +5968,6 @@ gli appunti; le note
 will; willingness
 la volontà
 
-precedent
-il precedente
-
 conscience; consciousness; awareness
 la coscenza
 
@@ -6049,17 +5983,8 @@ il mercato
 wave
 l'onde
 
-consequence
-la conseguenza
-
-contract
-il contratto
-
 theory
 la teoria
-
-analysis
-l'analisi
 
 tradition
 la tradizione
@@ -6067,14 +5992,8 @@ la tradizione
 occasion
 l'occasione
 
-crisis
-la crisi
-
 construction
 la costruzione
-
-sentence; verdict
-la sentenza
 
 experience
 l'esperienza
@@ -6087,9 +6006,6 @@ qualsiasi
 
 doubt
 il dubbio
-
-norm
-la norma
 
 article
 l'articolo
@@ -6114,9 +6030,6 @@ per posta
 
 caffeine
 la caffeina
-
-caffeinated
-caffeinato
 
 hostel
 l'ostello
@@ -6226,9 +6139,6 @@ la spazzola
 on sale
 in saldo
 
-benefit
-il beneficio
-
 candy
 le caramelle; i dolciumi
 
@@ -6249,12 +6159,6 @@ riempire
 
 to widen; to enlarge
 allargare
-
-the right half
-la metà destra
-
-plastic bag; ziplock bag
-il sacchetto di plastica
 
 unkind
 scortese; sgarbato
@@ -6282,9 +6186,6 @@ maschile
 
 to realize (an idea); to achieve; to accomplish
 realizzare; compiere
-
-twin
-gemello
 
 to feel like; to wish to
 avere voglia di
@@ -6382,7 +6283,7 @@ il ballerino; il danzatore
 dancer (female); ballerina
 la ballerina; la danzatrice
 
-pausa
+break; pause
 la pausa
 
 particularly
@@ -6390,33 +6291,6 @@ particolarmente; in modo particolare
 
 especially
 specialmente
-
-to demand
-esigire
-
-to require
-esigere
-
-aware
-consapevole
-
-unaware; oblivious; clueless
-inconsapevole; ignaro
-
-conscious (adj)
-cosciente
-
-conscious (n)
-il conscio
-
-unconscious (adj); reckless; irresponsible
-incosciente
-
-unconscious (n)
-l'inconscio
-
-tolerance
-la tolleranza
 
 show (tv); schedule
 il programma
@@ -6451,17 +6325,11 @@ la metà; il mezzo
 pleasant; agreeable; nice
 gradevole; piacevole
 
-disturbed (mentally)
-disturbato
-
 mildly; slightly; lightly
 leggermente
 
 origin
 l'origine; la provenienza
-
-to support; to back
-sostenere
 
 album
 l'album; il disco
@@ -6531,9 +6399,6 @@ il bancone
 
 popcorn
 i popcorn
-
-dumpling; lump
-lo gnocco
 
 pasta machine
 la macchina per la pasta; la macchina per pasta
@@ -6655,9 +6520,6 @@ la personalità
 source
 la fonte
 
-consideration
-la considerazione
-
 game
 il gioco
 
@@ -6673,9 +6535,6 @@ l'area
 here is; here are
 ecco
 
-dimension
-la dimensione
-
 absolutely
 assolutamente
 
@@ -6684,9 +6543,6 @@ il costo
 
 position; stance (on an issue)
 la posizione
-
-battle
-la battaglia
 
 risk
 il rischio
@@ -6790,7 +6646,7 @@ scientifico
 generally
 generalmente
 
-meter; subway; measuring tape
+meter; measuring tape
 il metro
 
 birth
@@ -6814,20 +6670,11 @@ altrimenti
 instruction; education
 l'istruzione
 
-observation
-l'osservazione
-
-to contain
-contenere
-
 both
 entrambi; tutti e due
 
 feeling
 il sentimento
-
-loss
-la perdita
 
 description
 la descrizione
@@ -6952,12 +6799,6 @@ massimo
 most
 il massimo
 
-reflection
-la riflessione
-
-conservation
-la conservazione
-
 temperature
 la temperatura
 
@@ -6977,7 +6818,7 @@ to plan; to design; to project
 progettare
 
 to mean; to intend
-intendere
+intendere; vuol dire
 
 operation; surgery (procedure)
 l'operazione
@@ -7085,7 +6926,7 @@ owner; proprieter; landlord
 il proprietario
 
 affectionate; loving
-affetuoso
+affettuoso
 
 express; espresso
 l'espresso
@@ -7279,9 +7120,6 @@ la gioia
 space
 lo spazio
 
-to result
-risultare
-
 probability; likelihood; chance
 la probabilità
 
@@ -7307,7 +7145,7 @@ career
 la carriera
 
 meeting; reunion; gathering
-la reunione
+la riunione
 
 comment
 il commento
@@ -7330,14 +7168,8 @@ pronto
 direct
 diretto
 
-pity; piety; mercy
-la pietà
-
 affection; love
 l'affetto
-
-dependence
-la dipendenza
 
 to treat; to handle; to deal with
 trattare
@@ -7357,11 +7189,8 @@ il sito
 arrival
 l'arrivo
 
-guard; watch; sentry
-la guardia
-
-culture
-la coltura
+culture (soc.)
+la cultura
 
 sound
 il suono
@@ -7528,9 +7357,6 @@ la semplicità
 mention
 la menzione
 
-justification
-la giustificazione
-
 begun; started
 cominciato
 
@@ -7608,9 +7434,6 @@ la mamma
 
 universe
 l'universo
-
-wonder
-la meraviglia
 
 meaning; significance
 il significato
