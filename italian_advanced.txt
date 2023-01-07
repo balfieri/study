@@ -25367,7 +25367,7 @@ slice; cutlet
 la fettina
 
 bra; brassiere
-il reggipetto
+il reggipetto; il reggiseno
 
 exclamation point
 il punto esclamativo
