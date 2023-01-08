@@ -2857,9 +2857,6 @@ pretendere
 to implore
 implorare
 
-recurring
-ricorrente
-
 to belong
 appartenere
 
@@ -6245,7 +6242,7 @@ argument at hand; proposed topic
 l'argomento proposto
 
 to volunteer
-offrirsi volentario
+fare il volontario; offrirsi volentario
 
 encouraging
 incoraggiante
@@ -15269,7 +15266,7 @@ disorder; mess; confusion
 il soqquadro
 
 drunk; pissed; boozy
-sbronzo
+sbronzo; ubriaco
 
 shawl; wrap; scarf
 il scialle
@@ -17086,8 +17083,8 @@ per dimensione
 retreat
 l'arretramento
 
-to encounter; to come across
-imbattersi
+to encounter; to come across; to stumble upon; to bump into
+imbattersi in
 
 tax wedge (withholding?)
 il cuneo fiscale
@@ -25887,4 +25884,37 @@ la giustificazione
 
 wonder
 la meraviglia
+
+brontolare
+to grumble
+
+prima e dopo
+before and after
+
+foible
+la debolezza; il debole
+
+to slaughter
+trucidare
+
+life jacket; life vest
+il giubotto di salvataggio; il guibotto salvagente
+
+tipsy; high (on drugs)
+alticcio
+
+stoned
+strafatto; sballato
+
+to talk to onself
+parlare da solo
+
+running joke
+lo scherzo ricorrente; la battuta ricorrente
+
+recurring; recurrent
+ricorrente
+
+no wonder why; it's no wonder that
+non c'è da stupirsi che; non c'è da meravigliarsi che; non mi sorprende che
 
