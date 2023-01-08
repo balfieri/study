@@ -23611,9 +23611,6 @@ la sapienza
 coherence
 la coerenza
 
-clause; provision; stipulation
-la clausola
-
 happened
 accaduto
 
@@ -25917,4 +25914,166 @@ ricorrente
 
 no wonder why; it's no wonder that
 non c'è da stupirsi che; non c'è da meravigliarsi che; non mi sorprende che
+
+underworld
+la mala
+
+booklet; libretto
+il libretto
+
+appeared
+apparso
+
+similarity
+la somiglianza
+
+periodic
+periodico
+
+coincidence
+la coincidenza
+
+mercantile; commercial
+mercantile
+
+informed
+informato
+
+urban planning; town planning; city planning
+la urbanistica
+
+rate; tariff; fare
+la tariffa
+
+to found
+fondare
+
+maintained
+mantenuto
+
+gigolo; kept man
+il mantenuto
+
+farmer; agriculturist; agrarian
+l'agricoltore
+
+abundance
+l'abbondanza
+
+participated
+partecipato
+
+extraction
+l'estrazione
+
+baron
+il barone
+
+unreleased; unpublished
+inedito
+
+Portugal
+il Portogallo
+
+admirable
+mirabile
+
+dowry
+la dote
+
+to subsist
+sussistere
+
+immense
+immenso
+
+scientist
+lo scienziato
+
+strictly; rigorously
+rigorosamente
+
+Venetian
+veneziano
+
+foods
+gli alimenti
+
+seizure
+il sequestro
+
+noticeably; appreciably; markedly; considerably
+sensibilmente
+
+ruins
+la rovine
+
+in ruins
+in rovine
+
+uncertain
+incerto
+
+acquisition
+l'acquisizione
+
+petroleum; oil (petro)
+il petrolio
+
+nerve
+il nervo
+
+indirect
+indiretto
+
+conceptual
+concettuale
+
+achievement; attainment; accomplishment
+il raggiungimento
+
+placed
+collocato
+
+mask
+la maschera
+
+politically
+politicamente
+
+registered
+registrato
+
+Lombardy
+il Lombardo
+
+charity
+la beneficenza
+
+precept
+il precetto
+
+term; clause; condition; provision; stipulation
+la clausola
+
+click
+il clic
+
+community
+il comunitario
+
+prosperity
+la prosperità
+
+printout; leaflet
+lo stampato
+
+attitude
+l'attitudine
+
+prospectus
+il prospetto
+
+Hewbrew; Jewish
+ebraico
 
