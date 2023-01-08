@@ -6980,7 +6980,7 @@ next; near; close
 prossimo
 
 wall
-il muro; il parete
+il muro; la parete
 
 address
 l'indirizzo
