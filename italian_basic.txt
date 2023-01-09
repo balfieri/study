@@ -7705,3 +7705,12 @@ la rocca
 printed
 stampato
 
+use
+l'uso
+
+wave
+l'onda
+
+emotion
+l'emozione
+
