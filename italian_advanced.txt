@@ -19675,6 +19675,9 @@ ognuno
 composed
 composto
 
+compound; mixture
+il composto
+
 pious; devout; holy
 pio
 
