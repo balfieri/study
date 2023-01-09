@@ -25375,7 +25375,10 @@ la punteggiatura
 I can't stay mad at you
 non posso rimanere arrabbiato con te
 
-retreat
+retreat (meeting)
+il ritiro
+
+retreat (troups)
 la ritirata
 
 hardwood floors
@@ -26076,4 +26079,19 @@ il prospetto
 
 Hewbrew; Jewish
 ebraico
+
+to enjoy thoroughly
+godere pienamente
+
+non-fat
+senza grassi
+
+slim; slender
+slanciato
+
+I'm a little irritated with you
+sono un po' irritato con te
+
+re-gift
+il regalo riciclato
 
