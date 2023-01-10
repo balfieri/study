@@ -26314,3 +26314,5 @@ incontrato
 divorce
 il divorzio
 
+romance
+la romanza
