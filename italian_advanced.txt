@@ -1000,7 +1000,7 @@ la parrucca
 successful
 di successo
 
-unsuccessful
+unsuccessful; failed
 infruttuoso; fallito
 
 except
@@ -26220,4 +26220,97 @@ il rene
 
 fool's errand
 la sciocca missione; la missione impossible
+
+implicitly
+implicitamente
+
+associated
+associato
+
+desperation; despair
+la disperazione
+
+curator
+il curatore
+
+diffended
+difeso
+
+dispute
+la contestazione
+
+argument; argumentation
+argomentazione
+
+sonny; son
+il figliuolo
+
+context
+il contesto
+
+promoted
+promosso
+
+inspired
+ispirato
+
+user
+l'utente
+
+qualification
+la qualificazione
+
+to delegate
+delegare
+
+priority
+la priorità
+
+accounting
+la contabilità
+
+liberalism
+liberalismo
+
+Bible
+la bibbia
+
+irregular
+irregolare
+
+shame
+la vergogna
+
+conciliation
+la conciliazione
+
+solar; sun (adj)
+solare
+
+great; magnus
+magno
+
+ago
+addietro
+
+to base
+basare
+
+destroyed
+distrutto
+
+content
+il contenento
+
+manufactured
+fabbricato
+
+authorized
+autorizzato
+
+met
+incontrato
+
+divorce
+il divorzio
 
