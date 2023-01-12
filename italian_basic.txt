@@ -3265,7 +3265,7 @@ innamorarsi
 to do one's makeup
 truccarsi
 
-to relax; to get a grip
+to relax; to get a grip; to lighten up
 rilassarsi
 
 to comb
@@ -7716,4 +7716,10 @@ l'emozione
 
 explained
 spiegato
+
+fire (instance)
+l'incendio
+
+fire (general)
+il fuoco
 

@@ -88,8 +88,8 @@ accorgersi
 propeller
 l'elica
 
-bland
-blando
+bland; tasteless
+blando; insipido; insapore
 
 surrender; to give up
 arrendersi
@@ -2302,9 +2302,6 @@ ogni tanto
 to charge (someone)
 far pagare
 
-to feel guilty
-sentirsi in colpa
-
 to deal with a trained professional
 avere a che fare con un professionista addestrato
 
@@ -3340,7 +3337,7 @@ lo stinco
 to dissatisfy; to displease; to let down
 scontentare
 
-clumsy; awkward; goofy
+clumsy; awkward; goofy; gauche
 goffo
 
 unforeseeable; unpredictable; unexpected
@@ -5587,7 +5584,7 @@ l'apparenza
 lifestyle
 il stile di vita
 
-master (of slaves)
+master (of slaves); task master
 il padrone
 
 ancestor
@@ -20758,9 +20755,6 @@ condito
 undressed (food)
 scondito
 
-tasteless
-insipido
-
 chestnut
 la castagna
 
@@ -26397,4 +26391,115 @@ il testimone
 
 vote; voting
 la votazione
+
+regulation
+il regolamentato
+
+niche
+la nicchia
+
+steep
+scosceso
+
+husk
+il mallo
+
+to dry out; to dry
+essiccare
+
+uncalled-for
+fuori luogo; ingiustificato
+
+inappropriate behavior
+il comportamento inappropriato
+
+to feel guilty
+sentirsi in colpa; sentirsi colpevole
+
+stand-in
+la contrafigura
+
+tyranny
+la tirannia
+
+tyrant
+il tiranno
+
+overwhelming
+schiacciante
+
+Moses
+Mosè
+
+to go back to bed
+tornare a letto
+
+breeder; rearer; farmer
+l'allevatore
+
+chatter
+la chiacchiere
+
+pancake; fritter
+la frittella
+
+he took it out
+l'ha tirato fuori
+
+thingy; whatchamacallit; thingamagjig; doohickey
+il coso
+
+diretto; semplice; onesto; sincero
+straightforward
+
+to externalize; to speak out; to express
+esternare
+
+to internalize
+internalizzare; interrorizzare
+
+to breakfast (neo.)
+colazionare
+
+to collate
+collazionare
+
+tasteful
+di buon gusto; raffinato; elegante
+
+herbal tea
+il tisano
+
+infusion; brew
+l'infuso
+
+overcooked
+stracotto; troppo cotto
+
+undercooked
+poco cotto
+
+purist
+il purista
+
+what a waste of time
+che perdita di tempo; che spreco di tempo
+
+a complete waste of time
+una completa perdita di tempo
+
+you always manage
+tu riesci sempre a
+
+you can't handle the truth
+non sei pronto per la verità
+
+like talking to a wall
+come parlare a un muro
+
+I was wrong
+mi sbagliavo
+
+I think I made a mistake
+penso di aver fatto un errore; credo di aver fatto uno sbaglio
 
