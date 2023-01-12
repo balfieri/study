@@ -4939,7 +4939,7 @@ inferiore
 relative
 relativo
 
-ancient
+ancient; age-old
 antico
 
 total (adj)
@@ -7723,3 +7723,8 @@ l'incendio
 fire (general)
 il fuoco
 
+devil
+il diavolo
+
+shot; throw
+il tiro

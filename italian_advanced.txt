@@ -23383,8 +23383,8 @@ la Polonia
 accepted
 accettato
 
-publisher
-l'editore
+publisher; editor
+l'editore; l'editrice
 
 respective
 rispettivo
@@ -23588,7 +23588,7 @@ contributed
 contribuito
 
 child; infant
-il fanciullo
+il fanciullo; la fanciulla
 
 limitation
 la limitazione
@@ -26502,4 +26502,73 @@ mi sbagliavo
 
 I think I made a mistake
 penso di aver fatto un errore; credo di aver fatto uno sbaglio
+
+street (adj)
+stradale
+
+shortage
+la carenza
+
+enhancement; appreciation
+la valorizzazione
+
+salesperson; vendor
+venditore
+
+null; void
+nullo
+
+papal
+pontificio
+
+editorial; publishing (adj)
+editoriale
+
+absorbtion
+l'assorbimento
+
+tome
+il tomo
+
+spectator; viewer
+lo spettatore
+
+municipal
+municipale
+
+paradise; heaven
+il paradiso
+
+consequently
+conseguentemente
+
+opponent; adversary
+l'avversario
+
+spouse
+il coniuge
+
+Jupiter
+Giove
+
+contractor
+il contraente
+
+to measure
+misurare
+
+interpreted
+interpretato
+
+warned
+avvertito
+
+regularity
+la regolarità
+
+rotation
+la rotazione
+
+to complete
+completare
 
