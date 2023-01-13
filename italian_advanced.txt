@@ -7171,9 +7171,6 @@ di saggistica
 fiction (adj)
 di narativa
 
-tongue-twister
-il scioglilingua
-
 I have no idea what you're talking about
 non ho idea di cosa stai parlando
 
@@ -13459,7 +13456,7 @@ il lucidalabbra
 spiral staircase
 la scala a chiocciola
 
-tongue twister
+tongue twister; tongue-twister
 lo scioglilingua
 
 to trot
