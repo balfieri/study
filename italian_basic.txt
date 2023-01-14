@@ -3154,7 +3154,7 @@ costruire
 to finish
 finire
 
-to unit
+to unite
 unire
 
 to define
@@ -4223,7 +4223,7 @@ manual laborer
 l’operaio; l'operaia
 
 teacher
-l’insegnante
+l’insegnante; il docente
 
 nurse
 l’infermiere; l’infermiera
@@ -7728,3 +7728,6 @@ il diavolo
 
 shot; throw
 il tiro
+
+last name; surname
+il cognome

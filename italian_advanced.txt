@@ -2272,7 +2272,7 @@ gli 1 e gli 0
 machine instruction
 l'istruzione macchina
 
-to shelter
+to shelter; to protect
 proteggere; coprire; difendere; cercare rifugio; rifiugiarsi
 
 open-ended question
@@ -26673,4 +26673,73 @@ il lesbismo
 
 you are the man!
 sei tu l'uomo!; sei grande!; sei un grande!
+
+efficient
+efficace; efficiente
+
+existential
+esistenziale
+
+government (adj); governmental
+governativo
+
+lent; loaned
+prestato
+
+operating; operational
+operativo
+
+marginal
+marginale
+
+mature
+maturo
+
+dungeon
+la segreta
+
+diary
+il diario
+
+crystal
+il cristallo
+
+wheat; grain; barley
+il frumento
+
+depression
+la depressione
+
+cotton
+il cotone
+
+concrete; cement
+il cemento
+
+naval
+navale
+
+honor
+l'onore
+
+corpse; dead body; cadaver
+il cadavere
+
+check (bank)
+l'assegno
+
+joke; quip
+la battuta
+
+disciple
+il discepolo
+
+provisional
+provvisorio
+
+invasion
+l'invasione
+
+to insist
+insistere
 
