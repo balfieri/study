@@ -1285,7 +1285,7 @@ il concorso
 race; contest; competition
 la gara
 
-race (human)
+race (human); breed
 la razza
 
 lane; aisle; passageway
