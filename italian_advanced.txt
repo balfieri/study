@@ -13793,7 +13793,7 @@ discretion; confidentiality; reserve
 la riservatezza
 
 changing room; dressing room
-lo spogliatoio
+lo spogliatoio; il camerino
 
 help; relief; aid
 il soccorso
@@ -15495,9 +15495,6 @@ il velluto
 
 to pause onself
 mettersi in pausa
-
-dressing room
-il camerino
 
 to get to the point
 venire al punto
