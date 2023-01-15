@@ -2059,7 +2059,7 @@ la fontana
 sidewalk
 il marciapiede
 
-quarter; district
+neighborhood; quarter; district
 il quartiere
 
 traffic
@@ -5449,9 +5449,6 @@ l'umorismo
 wild
 selvaggio; scatenato
 
-neighborhood
-quartiere
-
 to land
 atterare
 
@@ -7731,3 +7728,16 @@ il tiro
 
 last name; surname
 il cognome
+
+art
+l'arte
+
+changed
+cambiato
+
+been back; got back; come back
+tornato
+
+satisfied
+soddisfatto
+
