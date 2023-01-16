@@ -2206,7 +2206,7 @@ veritiero
 riddle
 l'indovinello; l'enigma
 
-phew!
+phew!; ugh!
 uffa!; uff!
 
 to get pregnant; to get knocked up (crude)
@@ -2745,9 +2745,6 @@ picchiato
 
 to vacuum
 passare l'aspirapolvere
-
-to level; to balance; to level
-pareggiare
 
 bully
 il bullo; il prepotente
@@ -7051,7 +7048,7 @@ autorevole
 newsroom; editorial; editing
 la redazione
 
-restlessness; impatience
+restlessness; impatience; intolerance
 l'insofferenza
 
 deceptive; tricky; misleading
@@ -26886,4 +26883,40 @@ esso
 
 they (formal)
 essi
+
+Persian
+persiano
+
+I ran out of time
+ho finito il tempo; non ho avuto tempo
+
+after all is said and done
+doppotutto
+
+antiquated
+antiquato
+
+it's not great; it sucks
+non è il massimo
+
+to sadden
+rattristare
+
+to level out; to even out; to level; to balance; to level
+pareggiare
+
+dove
+la colomba
+
+no more talk of; stop talking about
+basta parlare di
+
+to be sick of; to be tired of
+essere stufo di
+
+how frustrating!
+che stress!
+
+what a pain you are!; how frustrating you are!
+che stress che sei!
 
