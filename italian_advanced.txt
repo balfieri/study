@@ -15763,8 +15763,8 @@ moscio; flaccido
 pace; gait; stride
 l'andatura
 
-urgente; pressing
-incalzante
+urgent; pressing
+urgente; incalzante
         
 to see eye to eye
 parlare la stessa lingua
@@ -26919,4 +26919,73 @@ che stress!
 
 what a pain you are!; how frustrating you are!
 che stress che sei!
+
+implication
+l'implicazione
+
+even though; although
+ancorché
+
+integrity
+l'integrità
+
+judicial
+giudiziale
+
+muscolar
+muscolare
+
+converted
+convertito
+
+refinement; perfection
+il perfezionamento
+
+descending
+discendente
+
+meditation
+la meditazione
+
+carefully; attentively
+attentamente
+
+traveller
+il viaggiatore; la viaggiatrice
+
+prosimity; closeness
+la prossimità
+
+experimentation
+la sperimentazione
+
+individuality
+l'individualità
+
+leftover; remainder; advance; surplus
+l'avanzo
+
+temperament
+il temperamento
+
+faced; facing
+affrontato
+
+fullness
+la pienezza
+
+seriously; gravely; severely
+gravemente
+
+coefficient
+il coefficiente
+
+methodology
+la metodologia
+
+regulation; regulating; control
+la regolamentazione
+
+dictated
+dettato
 

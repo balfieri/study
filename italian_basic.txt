@@ -7732,3 +7732,12 @@ tornato
 satisfied
 soddisfatto
 
+telephone; phone
+il telefono
+
+definition
+la definizione
+
+romantic
+romantico
+
