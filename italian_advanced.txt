@@ -1336,9 +1336,6 @@ stare per essere
 safeguard
 la salvaguardia
 
-to come (from)
-provenere
-
 within (some time)
 entro
 
@@ -14729,7 +14726,7 @@ to be in the way
 essere in mezzo
 
 to renege; to retract; to disavow
-venere meno; rineggare
+venire meno; rineggare
 
 pro-choice
 favorevole all'aborto
@@ -16446,9 +16443,6 @@ l'estremista di destra
 
 by heart
 a memoria
-
-to come to mind
-venire a mente
 
 to commit to memory
 imparare a memoria
@@ -19150,7 +19144,7 @@ la frana
 eel
 l'anguilla
 
-stiff
+stiff; rigid
 rigido
 
 pardon
@@ -27030,3 +27024,115 @@ emettere; rilasciare; assegnare; concedere
 
 issue a statement
 rilasciare una dichiarazione
+
+diploma
+il diploma
+
+pulmonary
+polmonare
+
+chronological
+cronologico
+
+to rebel
+ribellare
+
+separately
+separatamente
+
+rook; castle
+il rocco
+
+Turkish
+turco
+
+session
+sessione
+
+transformed
+trasformato
+
+policeman
+il carabiniere
+
+donated
+donato
+
+mystical
+mistico
+
+assisted
+assistito
+
+artisan
+l'artigiano
+
+unknown; unnamed
+ignoto
+
+voluntary
+volontario
+
+volunteer
+il volontario
+
+grave; tomb; sepulchre
+il sepolcro
+
+officially
+ufficialmente
+
+sonnet
+il sonetto
+
+fully; wholly; completely
+integralmente
+
+albeti; although
+seppure
+
+kindred; akin
+affine
+
+pole
+il polo
+
+hearing
+l'udito
+
+ambiguity
+l'ambiguità
+
+owner; holder; possessor
+il possessore
+
+sculptor
+lo scultore
+
+placement
+il collocamento
+
+holiness; sancity
+la santità
+
+graph; plot; chart
+il grafico
+
+organizational
+organizzativo
+
+taxpayer; contributor
+il contribuente
+
+cereal; breakfast cereal
+il cereale
+
+singled out
+individuato
+
+illustration
+l'illustrazione
+
+specificity; specific nature
+la specificità
+

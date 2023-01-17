@@ -3743,7 +3743,7 @@ overcooked (pasta)
 scotto
 
 to come to mind
-venere a mente
+venire a mente
 
 in my opinion
 secondo me; a mio parere
@@ -7740,4 +7740,16 @@ la definizione
 
 romantic
 romantico
+
+left
+lasciato
+
+sweetness
+la dolcezza
+
+dance
+la danza
+
+typically
+tipicamente
 
