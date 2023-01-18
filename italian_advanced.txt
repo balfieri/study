@@ -16876,7 +16876,7 @@ l'uomo di poca fede
 STEM
 scienza, tecnologia, ingegneria e matematica
 
-major (school)
+major (school); specialization
 la specializzazione
 
 le discipline umanistiche
@@ -27201,4 +27201,103 @@ divertente; piacevole; gradevole
 
 full-speed
 a tutta velocità
+
+increased; augmented
+aumentato
+
+marked; reported
+segnalato
+
+operating
+operante
+
+seriousness
+la serietà
+
+individually
+singolarmente
+
+mutated; changed
+mutato
+
+articulation; joint
+l'articolazione
+
+pregnancy
+la gravidanza
+
+germ
+il germe
+
+anthology
+l'antologia
+
+payment; deposit; transfer
+il versamento
+
+constituent
+il costituente
+
+circle
+la cerchia
+
+promised
+promesso
+
+located; situated
+situato
+
+vegetable (adj)
+vegetale
+
+contemplation
+la contemplazione
+
+pathology
+la patologia
+
+delegation
+la delegazione
+
+perplexity
+la perplessità
+
+chancellor
+il cancelliere
+
+prominence; emphasis; highlight
+il risalto
+
+consultation
+la consultazione
+
+remaining
+rimanente
+
+remainder; rest
+il rimanente
+
+to shirk; to elude; to evade; to withdraw
+sottrarsi
+
+compilation
+la compilazione
+
+calculated
+calcolato
+
+momento; impulse; impetus
+lo slancio
+
+tax; tributary
+il tributario
+
+sentimental
+sentimentale
+
+anxiety
+l'ansia
+
+analytical; analytic
+analitico
 
