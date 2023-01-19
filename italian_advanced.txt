@@ -27430,3 +27430,15 @@ il contegno
 jurist
 il giurista
 
+cover; lid
+il coperchio
+
+wooden spoon
+il cucchiaio di legno
+
+rolling pin
+il matterello
+
+corkscrew
+il cavatappi
+

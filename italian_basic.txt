@@ -3709,18 +3709,6 @@ il sindaco
 pot
 la pentola
 
-cover; lid
-il coperchio
-
-wooden spoon
-il cucchiaio di legno
-
-rolling pin
-il matterello
-
-corkscrew
-il cavatappi
-
 bitter
 amaro
 
