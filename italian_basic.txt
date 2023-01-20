@@ -1988,7 +1988,7 @@ hill
 la collina
 
 forest
-il bosco
+il bosco; la foresta
 
 field; camp
 il campo
@@ -7762,3 +7762,8 @@ liberare
 seated
 seduto
 
+the Internet
+Internet
+
+to invite
+invitare
