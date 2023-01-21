@@ -7770,3 +7770,7 @@ invitare
 
 heart
 il cuore
+
+to be early
+essere in anticipo
+

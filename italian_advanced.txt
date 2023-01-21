@@ -22921,9 +22921,6 @@ conferito
 augmentation
 l'aumentazione
 
-increase
-l'aumento
-
 considerably
 considerevolmente
 
@@ -27696,4 +27693,55 @@ suscettibile
 
 ceased
 cessato
+
+monotonic
+monocorde
+
+sociable; social
+socievole
+
+do-it-yourself
+fai da te
+
+shelf
+lo scaffalo
+
+workbench
+il banco da lavoro; il banco di lavoro
+
+disapproving face
+l'espressione di disapprovazione
+
+concoction
+l'intruglio; il miscuglio
+
+whatever you do
+qualunque cosa tu faccia
+
+to have a common understanding
+avere una comprensione comune; avere una visione comune
+
+it bothers me
+mi dà fastidio
+
+pretty unlikely
+abbastanza improbabile; piuttosto improbabile
+
+to be amazed
+rimanere a bocca aperta
+
+playground
+il parco giochi
+
+raise; increase
+l'aumento
+
+freaked out
+fuor di testa
+
+shocked
+scioccato 
+
+to cheat on (an exam)
+imbrogliare a
 
