@@ -7767,3 +7767,6 @@ Internet
 
 to invite
 invitare
+
+heart
+il cuore
