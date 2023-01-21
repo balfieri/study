@@ -1006,9 +1006,6 @@ la nipote
 uncle
 lo zio
 
-aunt
-la zia
-
 spouse
 lo sposo; la sposa
 
@@ -1690,9 +1687,6 @@ allegro
 nervous
 nervoso
 
-impartial; unbiased
-imparziale
-
 boring
 noioso
 
@@ -1710,9 +1704,6 @@ forte
 
 annoying
 irritante; faticoso
-
-disinterested
-disinteressato
 
 unknown
 sconosciuto
@@ -1807,9 +1798,6 @@ gli occhiali da sole
 earings
 gli orecchini
 
-necklace
-la collana
-
 shorts
 i pantaloncini
 
@@ -1839,9 +1827,6 @@ i sandali
 
 bathing suit
 il costume da bagno
-
-bracelet
-il bracciale
 
 nurse
 l'infermiere; l'infermiera
@@ -1903,23 +1888,11 @@ la casalinga
 ceiling
 il soffitto
 
-carpet (fitted)
-la moquette
-
-wall-to-wall carpeting; wall-to-wall carpet
-la moquette da parete a parete
-
-rug
-il tappeto; il tappetino
-
 lamp
 la lampada
 
 wardrobe; closet
 l'armadio
-
-vcr/tape recorder
-il registratore
 
 keyboard
 la tastiera
@@ -1929,9 +1902,6 @@ la lavagna
 
 whiteboard
 la lavagna bianca
-
-fan
-il ventilatore
 
 painting
 lo quadro
@@ -2092,9 +2062,6 @@ il centro storico
 bench
 la panchina
 
-inhabitants
-gli abitanti
-
 main street; avenue
 il corso
 
@@ -2131,14 +2098,11 @@ cinema
 airport
 l'aeroporto
 
-disco; discoteque
-la discoteca
-
 theatre
 il teatro
 
-gas station
-il distributore di benzina
+gas station; service station
+il benzinaio; il stazione di servizio; il distributore di benzina
 
 bank
 la banca
@@ -2239,9 +2203,6 @@ l'ape
 cat
 il gatto
 
-donkey
-l'asino
-
 sheep
 la pecora
 
@@ -2335,7 +2296,7 @@ la zuppa
 juice
 il succo
 
-jam
+jam; jelly
 la marmellata
 
 cheese
@@ -2465,7 +2426,7 @@ free (thought)
 libero
 
 free (thing)
-gratis
+gratis; gratuito
 
 cold
 freddo
@@ -2476,7 +2437,7 @@ povero
 inexpensive; economic
 economico
 
-cheap
+cheap; shoddy
 scadente
 
 empty
@@ -2902,9 +2863,6 @@ giocare
 to become
 diventare
 
-to accompany
-accompagnare
-
 to demonstrate
 dimostrare
 
@@ -3127,9 +3085,6 @@ eseguire
 to lie
 mentire
 
-to absorb
-assorbire
-
 to understand
 capire
 
@@ -3151,9 +3106,6 @@ suggerire
 to stupify; to be amazed
 stupire
 
-to obey
-obbedire
-
 to construct
 costruire
 
@@ -3168,9 +3120,6 @@ definire
 
 to suffer
 subire
-
-to favor
-favorire
 
 to guarantee
 garantire
@@ -3192,9 +3141,6 @@ mettersi
 
 to go to sleep
 addormentarsi
-
-to take a seat
-accomodarsi
 
 to hug
 abbracciarsi
@@ -3220,9 +3166,6 @@ spazzolarsi
 to brush one's hair
 spazzolarsi i capelli
 
-to be ashamed
-vergognarsi
-
 to introduce; to present
 presentarsi
 
@@ -3231,9 +3174,6 @@ immaginarsi
 
 to make a mistake; to be mistaken; to be wrong
 sbagliarsi
-
-to find oneself
-trovarsi
 
 to rest; to take a rest
 riposarsi
@@ -3249,9 +3189,6 @@ alzarsi
 
 to feel
 sentirsi
-
-to become ill; to get sick
-ammalarsi
 
 to kiss
 baciarsi
@@ -3452,13 +3389,10 @@ suitcase
 la valigia
 
 hairdryer
-l'asciugacapelli; il fon
+il fon; l'asciugacapelli
 
 soap
 il sapone
-
-bar of soap
-la saponetta
 
 toilet paper
 la carta igienica
@@ -3583,7 +3517,7 @@ la sala; il soggiorno
 plant
 la pianta
 
-furniture (piece)
+furniture (one piece)
 il mobile
 
 spinach
@@ -3591,9 +3525,6 @@ gli spinaci
 
 lettuce
 la lattuga
-
-arrugala
-la rucola
 
 cucumber
 il cetriolo
@@ -3618,12 +3549,6 @@ la banana
 
 pineapple
 l'ananas
-
-raspberry
-il lampone
-
-berry
-la bacca
 
 plum
 la prugna
@@ -3701,10 +3626,7 @@ farm
 la fattoria
 
 farmer
-il fattore; il contadino
-
-pollution; contamination; environmental pollution
-l'inquinamento
+il contadino; il fattore
 
 turist
 il turista
@@ -3800,10 +3722,7 @@ sister-in-law
 la cognata
 
 aunt
-la dia
-
-surroundings (just outside neighborhood)
-i dintorni
+la zia
 
 postcard
 la cartolina
@@ -3949,14 +3868,8 @@ la macelleria
 pharmacy
 la farmacia
 
-tire (car)
-il pneumatico
-
 steel
 l'acciaio
-
-jelly; jam
-la marmelata
 
 ceiling
 il soffito
@@ -4222,14 +4135,8 @@ l’insegnante; il docente
 nurse
 l’infermiere; l’infermiera
 
-pharmacist
-il farmacista; la farmacista
-
 waiter
 il cameriere; la cameriera
-
-office worker
-l’impiegato; la impiegata
 
 actor
 l’attore
@@ -4243,19 +4150,10 @@ lo scrittore; la scrittrice
 singer
 il cantante; la cantante
 
-journalist
-il giornalista
-
-mechanic
-il meccanico
-
 doctor; physician
-il medico
+il medico; il dottore
 
-farmer
-il contadino
-
-quantity
+quantity; amount
 la quantità
 
 pack; parcel; package
@@ -4321,9 +4219,6 @@ il prosciutto cotto
 salami
 il salame
 
-watermelon
-il cocomero; l'anguria
-
 yogurt
 lo yogurt
 
@@ -4369,17 +4264,8 @@ l’inverno
 TV series
 la serie televisiva; la serie tv
 
-TV news
-il telegiornale
-
 documentary
 il documentario
-
-variety show; variety
-il varietà
-
-advertisement
-la pubblicità; lo spot
 
 episode
 l’episodio; la puntata
@@ -4465,9 +4351,6 @@ la borsa
 skirt
 la gonna
 
-cap
-il berretto
-
 pigeon
 il piccione
 
@@ -4534,9 +4417,6 @@ il livello
 well,
 beh,
 
-buried
-seppellito; sepolto; interrato
-
 to move (something from one place to anotherr)
 spostare
 
@@ -4554,12 +4434,6 @@ affollare
 
 concept
 il concetto
-
-opening
-l'aperatura
-
-closing; closure
-la chiusura
 
 crowd; throng
 la folla
@@ -4594,44 +4468,17 @@ attraente; accattivante
 friendly
 amichevole
 
-blessed; holy
-benedetto
-
-benevolent
-benigno
-
-chaotic
-caotico
-
-capricious
-capriccioso
-
 loaded; filled; charged; fully charged
 carico
 
-deformed
-deforme
-
 delicious; yummy
 delizioso
-
-deserted
-deserto
-
-faithful
-fedele
-
-trusting
-fiducioso
 
 jealous
 geloso
 
 joyful
 gioioso
-
-agreeable; pleasant
-gradevole
 
 serious
 grave
@@ -4645,9 +4492,6 @@ ideale
 ignorant
 ignorante
 
-illegal
-illegale
-
 intelligent
 intelligente
 
@@ -4657,35 +4501,17 @@ imbarazzante
 loyal
 leale
 
-lethal
-letale
-
 liberal
 liberale
 
 pleased; delighted
 lieto
 
-loquacious; talkative
-loquace
-
-luxurious; fancy
-lussuoso
-
-marine
-marittimo
-
 better; best (adj)
 migliore
 
 natural
 naturale
-
-paranoid
-paranoico
-
-fearful
-pauroso
 
 flat
 piatto; piano
@@ -4699,9 +4525,6 @@ popolare
 positive
 positivo
 
-possessive
-possessivo
-
 swift
 rapido
 
@@ -4714,9 +4537,6 @@ realistico
 regular; to regulate
 regolare
 
-scarce; scant; low; scanty
-scarso
-
 defeated
 sconfitto
 
@@ -4727,13 +4547,10 @@ following; next
 seguente
 
 tolerant
-tollerante
+tollerante; indulgente
 
 old
 vecchio; antico
-
-lively
-vivace
 
 alive
 vivo
@@ -4750,23 +4567,14 @@ artistico
 creative
 creativo
 
-discreet
-discreto
-
 available
 disponibile
 
 effective; effectual; efficacious
 efficace
 
-inadequate
-inadeguato
-
 intimate
 intimo
-
-lucid
-lucido
 
 magical
 magico
@@ -4795,9 +4603,6 @@ uguale
 unique
 unico
 
-unified
-unito
-
 used
 usato
 
@@ -4821,9 +4626,6 @@ enorme
 
 giant
 gigante
-
-rectangular
-rettangolare
 
 round
 rotondo
@@ -4969,9 +4771,6 @@ religioso
 impossible
 impossibile
 
-opportune; expedient; appropriate
-opportuno
-
 regional
 regionale
 
@@ -5047,8 +4846,8 @@ godere; godersi
 to correct
 correggere
 
-to kill
-uccidere
+to kill; to murder
+uccidere; ammazzare
 
 to hide
 nascondere
@@ -5056,10 +4855,10 @@ nascondere
 to hide (oneself) from
 nascondersi da
 
-to apologize
+to apologize; to excuse oneself
 scusarsi
 
-to displease
+to displease; to mind
 dispiacere
 
 to interest
@@ -5188,9 +4987,6 @@ la letteratura
 upbringing
 l'educazione
 
-percentage
-la percentuale
-
 African-American
 afroamericano
 
@@ -5236,7 +5032,7 @@ sublime
 list (unordered)
 la lista
 
-list (more ordered)
+list (ordered)
 l'elenco
 
 memory (instance)
@@ -5288,7 +5084,7 @@ definitely
 definitivamente; decisamente
 
 lovable
-amabile
+amabile; adorabile
 
 screen
 lo schermo
@@ -5374,17 +5170,8 @@ superiore a
 ballet
 il ballet
 
-recital
-la recita
-
 on stage
 sul palco
-
-justice (state of fairness)
-la giustizia
-
-justice; judge
-il giudice
 
 weather report
 il meteo
@@ -5392,11 +5179,8 @@ il meteo
 bright
 brillante; luminoso
 
-character (film)
+character (film); protagonist
 il protaganista
-
-stupid thing
-la stupidagine
 
 to ask questions
 fare domande
@@ -5431,9 +5215,6 @@ credibile
 creature
 la creatura
 
-strategy
-la strategia
-
 aspect; appearance; look; looks
 l'aspetto
 
@@ -5446,29 +5227,14 @@ selvaggio; scatenato
 to land
 atterare
 
-gas station
-il benzinaio
-
 expiration; deadline
 la scadenza
-
-implicit
-implicito
-
-empathetic
-empatico
 
 playlist
 la playlist
 
-deficient; insufficient
-deficiente
-
 to waste time
 perdere tempo
-
-inhabitant
-l'abitante
 
 gorgeous (woman)
 splendida; stupenda; meravigliosa; magnifica; bellissima
@@ -5488,9 +5254,6 @@ orgoglioso
 fastidious; fussy; picky
 pignolo
 
-percentage
-la percentale
-
 bisexual
 bisessuale
 
@@ -5498,9 +5261,9 @@ homosexual
 omosessuale
 
 relationship
-il rapporto
+il rapporto; la relazione
 
-to collect; to gather; to harvest
+to collect; to gather; to harvest; to pick up
 raccogliere
 
 meeting; encounter
@@ -5529,9 +5292,6 @@ frequentare
 
 to be in a relationship
 frequentarsi
-
-to swear
-giurare
 
 to include
 includere
@@ -5577,9 +5337,6 @@ sorprendere
 
 to be surprised
 sorprendersi
-
-to get stressed
-stressarsi
 
 to take out (an object)
 tirar fuori
@@ -5669,13 +5426,16 @@ society; conglomerate
 la società
 
 place
-il luogo
+il luogo; il posto; la locazione
 
 some
 alcuni; qualche
 
 generale (adj)
 generale
+
+del genere
+like that; of that kind
 
 system
 il sistema
@@ -5851,9 +5611,6 @@ la vista
 situation
 la situazione
 
-presence
-la presenza
-
 text; lyrics
 il testo
 
@@ -6016,9 +5773,6 @@ per posta
 caffeine
 la caffeina
 
-hostel
-l'ostello
-
 pound
 la libbra
 
@@ -6042,9 +5796,6 @@ emozionante; commovente
 
 excited (non-sexual); psyched; stoked; fired up; pumped up
 emozionato
-
-gift card
-il buono regalo
 
 sale
 il saldo
@@ -6093,9 +5844,6 @@ spesso
 
 to disagree
 non essere d'accordo
-
-service station
-la stazione di servizio
 
 service area
 l'area di servizio
@@ -6430,9 +6178,6 @@ di notte
 have a good morning
 buona mattinata
 
-clearly
-chiaramente
-
 crispy
 croccante
 
@@ -6441,9 +6186,6 @@ la luna di miele; il viaggio di nozze
 
 mail
 la posta
-
-common sense
-il buonsenso; il buon senso
 
 do you mind?
 ti dispiace?
@@ -6487,20 +6229,17 @@ gli affari
 luck; fortune
 la fortuna
 
-composition
-la composizione
-
 reaction
 la reazione
+
+creation
+la creazione
 
 progress
 il progresso
 
 critical
 critico
-
-creation
-la creazione
 
 personality
 la personalità
@@ -6598,9 +6337,6 @@ la categoria
 evidence; highlight
 l'evidenza
 
-necessarily
-necessariamente
-
 model; pattern; template
 il modello
 
@@ -6681,9 +6417,6 @@ la pressione
 
 need (n)
 il bisogno
-
-protection
-la protezione
 
 for example
 ad esempio; per esempio
@@ -6810,9 +6543,6 @@ intendere; vuol dire
 
 operation; surgery (procedure)
 l'operazione
-
-surgery (specialty)
-la chirugia
 
 error
 l'errore
@@ -7328,7 +7058,7 @@ girl
 la ragazza
 
 queen
-sla regina
+la regina
 
 China
 la Cina
@@ -7825,3 +7555,5 @@ felicemente
 to judge
 giudicare
 
+please
+per favore; per cortesia (formale)
