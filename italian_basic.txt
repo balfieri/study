@@ -6145,9 +6145,6 @@ l'hobby; il passatempo
 to be interested in (finding out more)
 essere curioso di
 
-see you later
-a più tardi
-
 airline ticket; plane ticket
 il biglietto aereo
 
@@ -7557,3 +7554,12 @@ giudicare
 
 please
 per favore; per cortesia (formale)
+
+see you later
+a più tardi
+
+see you soon
+a presto
+
+see you in a little bit; see you in a few minutes
+a dopo
