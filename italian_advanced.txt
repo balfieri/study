@@ -28315,3 +28315,8 @@ la protezione
 surgery (specialty)
 la chirugia
 
+vanilla bean
+la bacca di vaniglia
+
+pod
+il baccello
