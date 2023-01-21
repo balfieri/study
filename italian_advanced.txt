@@ -2488,6 +2488,9 @@ scalucciare
 upcoming
 prossimo; seguente; imminente; previsto
 
+imminent
+imminente
+
 to relax; to chill; to unwind; to chill out
 rilassarsi; darsi una calmata
 
@@ -20401,9 +20404,6 @@ l'imperatore
 definite; defined
 definito
 
-version
-la versione
-
 deputy; representative; delegate
 il deputato
 
@@ -21829,7 +21829,7 @@ la vergine
 right (adj)
 destro
 
-conservative
+preserved; conserved
 conservato
 
 to apply
@@ -27966,3 +27966,97 @@ il matematico
 
 math
 la matematica; la mate
+
+intrinsic
+intrinseco
+
+stead
+il vece
+
+persuasion
+la persuasione
+
+generality
+la generalità
+
+to employ; to use; to hire
+impiegare
+
+habitual
+abituale
+
+touched
+toccato
+
+greatly
+grandemente
+
+limb; member (body)
+la membra
+
+courtesy
+la cortesia
+
+articulated
+articolato
+
+dynasty
+la dinastia
+
+surviving (after death)
+superstite
+
+minute (adj); small; tiny
+minuto
+
+update
+l'aggiornamento
+
+vector
+il vettore
+
+subjectivity
+la soggettività
+
+distinction
+la distinzione
+
+transferred
+trasferito
+
+basically; fundamentally
+fondamentalmente
+
+papal
+papale
+
+segment
+il segmento
+
+membrane
+la membrana
+
+privileged
+privilegiato
+
+bearer; carrier
+il portatore
+
+when
+allorquando
+
+alienation
+l'alienazione
+
+baptism; christening
+il battesimo
+
+Amsterdam
+Amsterdam
+
+to dub; to confer
+insignare
+
+Arthur
+Arturo
+

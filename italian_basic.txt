@@ -1252,6 +1252,9 @@ accendere la macchina
 shoes
 le scarpe
 
+shoe
+la scarpa
+
 sweater (thin)
 la maglia
 
@@ -1956,6 +1959,9 @@ il bagno
 
 ground floor
 il piano terra
+
+guest
+l'ospite
 
 guest bedroom; spare bedroom
 la camera degli ospiti
@@ -5473,6 +5479,9 @@ il caseificio
 customs
 la dogana
 
+proud
+fiero
+
 overly proud
 orgoglioso
 
@@ -6225,6 +6234,9 @@ il colle
 
 mix
 il misto
+
+mixed
+misto; mescolato
 
 to mix; to blend
 mescolare
@@ -7800,3 +7812,16 @@ l'Africa
 
 elapsed; spent (time)
 trascorso
+
+version
+la versione
+
+to separate
+separare
+
+happily
+felicemente
+
+to judge
+giudicare
+
