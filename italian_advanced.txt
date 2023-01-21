@@ -3895,9 +3895,6 @@ le angherie
 step-by-step
 passo dopo passo
 
-to put up with
-sopportare; tollerare
-
 hitman; assassin
 il sicario
 
@@ -26743,7 +26740,7 @@ lo strisciamento
 based on
 basato su
 
-to tolerate
+to tolerate; to put up with
 tollerare; sopportare
 
 wary; distrustful; suspicious
@@ -27798,3 +27795,79 @@ smontare l'albero di Natale
 
 to loom; to encumber; to be incombent
 incombere
+
+scenario
+lo scenario
+
+suffrage
+il suffragio
+
+vehicle
+il veicolo
+
+contraction
+la contrazione
+
+restoration
+la restaurazione
+
+to conceive
+concepitare
+
+fervor
+fervore
+
+supor; astonishment
+lo stupore
+
+inventory
+l'inventario
+
+domination
+la dominazione
+
+arrested
+arrestato
+
+arrested person; prisoner
+l'arrestato
+
+medieval
+medioevale
+
+customs (adj)
+doganale
+
+perennial
+perenne
+
+farmhouse
+il casale
+
+suggested
+suggerito
+
+specified
+precisato
+
+serenity
+la serenità
+
+to form; to spring to life; to train
+formarsi
+
+to approve
+approvare
+
+disability
+l'invalidità
+
+decorum
+il decoro
+
+prior; former
+previo
+
+ascertained
+accertato
+
