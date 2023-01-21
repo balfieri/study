@@ -3256,7 +3256,7 @@ l'intrattenimento
 survey; review
 la rassegna
 
-to disassemble; to dismantle; to dismount; to take apart
+to disassemble; to dismantle; to dismount; to take apart; to take down
 smontare
 
 recurrence; anniversary
@@ -17677,7 +17677,7 @@ parole d'oro
 god forbid
 per carità
 
-for Pete's sake
+for the love of God; for Pete's sake
 per l'amor di Dio
 
 not at all
@@ -17878,7 +17878,7 @@ il lungometraggio
 unreliable; dodgy; untrustworthy
 inaffidabile
 
-to really mean it
+to mean it; to really mean it
 dire sul serio; davvero intendere
 
 I'll take that as a yes
@@ -24865,6 +24865,9 @@ fare lo spelling
 introverted
 introverso
 
+introvert
+l'introverso
+
 strip
 la striscia
 
@@ -25710,6 +25713,9 @@ difettoso
 
 extroverted; outgoing
 estroverso
+
+extrovert
+l'estroverso
 
 New Zealand
 La Nuova Zelanda
@@ -27745,3 +27751,50 @@ scioccato
 to cheat on (an exam)
 imbrogliare a
 
+I rest my case
+riposo il mio caso
+
+the prosecution rests
+l'accusa ha concluso
+
+the defense rests
+la difesa ha concluso
+
+this is my secret to happiness
+questo è il mio segreto per la felicità
+
+to take oneself too seriously
+prendersi troppo sul serio
+
+I'm not that important
+non sono così importante
+
+memorandum
+il memorandum
+
+cliché
+il cliché
+
+hanging
+appeso
+
+out of hand
+fuori controllo; fuori mano
+
+out of the way
+fuori dai piedi; fuori mano
+
+the situation has gotten out of hand
+la situazione ci è sfuggita di mano
+
+to lift this cloud
+sollevare questa nuvola
+
+this cloud is hanging over us
+questa nuvola incombe su di noi; questa nuvola è sospesa sopra di noi
+
+to take down the Christmas tree
+smontare l'albero di Natale
+
+to loom; to encumber; to be incombent
+incombere
