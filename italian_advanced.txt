@@ -28320,3 +28320,6 @@ la bacca di vaniglia
 
 pod
 il baccello
+
+good to know
+buono a sapersi
