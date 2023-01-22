@@ -1214,7 +1214,7 @@ blind
 cieco
 
 ear
-l'orecchio
+l'orecchio; l'orecchia
 
 ears
 le orecchie
@@ -3109,7 +3109,7 @@ suggerire
 to stupify; to be amazed
 stupire
 
-to construct
+to construct; to build
 costruire
 
 to finish
@@ -6970,7 +6970,7 @@ aumentare
 to satisfy
 soddisfare
 
-built; assembled
+built; assembled; constructed
 costruito
 
 power
@@ -7594,3 +7594,11 @@ lo spazzolino da denti
 hairbrush
 la spazzola per capelli
 
+stuff; ish (n)
+la roba
+
+to manage; to run; to operate
+gestire
+
+vision
+la visione

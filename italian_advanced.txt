@@ -13453,7 +13453,7 @@ lo scioglilingua
 to trot
 trotterellare
 
-clear; tranquil
+clear; tranquil; serene
 sereno
 
 to clear up
@@ -23296,7 +23296,7 @@ la solitudine
 extended
 esteso
 
-flow0
+flow
 il flusso
 
 communion
@@ -23440,9 +23440,6 @@ obbligato
 adoption
 l'adozione
 
-to bear
-recare
-
 announcement
 l'annunzio
 
@@ -23514,9 +23511,6 @@ eziandio
 
 purchase
 l'acquista
-
-apparatus
-l'apparato
 
 courier
 il corriere
@@ -28542,4 +28536,91 @@ abbacchiato
 
 break room
 la sala break; sala della pausa
+
+complement
+il complemento
+
+task; duty
+la mansione
+
+technological
+tecnologico
+
+illumination
+l'illuminazione
+
+apparatus; machinery
+l'apparato
+
+form; module
+modulo
+
+punctual
+puntuale
+
+Milanese
+milanese
+
+to advance
+avanzare
+
+erased; eradicated
+eraso
+
+to erase; to eradicate
+eradere
+
+dissent
+il dissenso
+
+malice
+il dolo
+
+inhabited
+abitato
+
+to confirm
+confermare
+
+to risk
+rischiare
+
+abstraction
+l'astrazione
+
+dispatch; sending
+l'invio
+
+battalion
+il battaglione
+
+chronic
+cronico
+
+temptation
+la tentazione
+
+orchestra
+l'orchestra
+
+renewed; revamped
+rinnovato
+
+renovated
+ristrutturato
+
+plebe
+la plebe
+
+attraction
+l'attrazione
+
+to bear; to bring; to cause
+recare
+
+born; brought; caused
+recato
+
+timetable; schedule
+l'orario
 
