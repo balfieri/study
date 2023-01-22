@@ -15121,9 +15121,6 @@ il gioelliere; la gioelliera
 tavern; alehouse; pub
 la birreria
 
-roomie; roommate; housemate
-il conquilino
-
 glacier
 il ghiacciaio
 
@@ -26584,8 +26581,8 @@ impartito
 to impart
 impartire
 
-roommate; flatmate; housemate
-il coinquilino
+roommate; flatmate; housemate; roomie
+il coinquilino; la coinquilina
 
 dilapidated; shabby; run-down
 malandato
@@ -28624,3 +28621,14 @@ recato
 timetable; schedule
 l'orario
 
+menage a trois
+la cosa a tre; il menage a trois
+
+self-deprecating
+autoironico
+
+devious
+subdolo
+
+devious plan
+il piano subdolo
