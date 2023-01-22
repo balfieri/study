@@ -4621,12 +4621,6 @@ eroico
 incapable
 incapace
 
-enormous
-enorme
-
-giant
-gigante
-
 round
 rotondo
 
@@ -5779,8 +5773,8 @@ la libbra
 ounce
 l'oncia
 
-humongous; gigantic
-enorme; gigantesco
+enormouse; huge; humongous; gigantic
+enorme; gigante; gigantesco
 
 diet soda
 la bibita dietetica
