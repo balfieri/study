@@ -2326,7 +2326,7 @@ ingrandire
 no parking zone
 il divieto di sosta
 
-bandage
+bandage; band (wrapped); sash
 la fascia
 
 tablet (pill)
@@ -8140,7 +8140,7 @@ il censimento
 to gather together
 radunare
 
-of today
+of today; today's
 odierno
 
 to knock over; to overturn; to overthrow; to upset
@@ -28638,3 +28638,91 @@ l'aira di festa; l'atmostfera festosa
 
 that's what she said
 questo è quello che ha detto lei; è quello che ha detto lei
+
+adequately
+adeguatamente
+
+anonymous
+anonimo
+
+complement
+il completamento
+
+to manifest; to appear; to reveal oneself
+manifestarsi
+
+economically
+economicamente
+
+manifested; revealed
+manifestato
+
+monograph
+la monografia
+
+to brawl; to scheme
+brigare
+
+terminology
+la terminologia
+
+to recuperate
+recuperare
+
+some; someone; anybody
+taluno
+
+exaltation
+l'esaltazione
+
+contested; impugned
+impugnato
+
+to challenge; to appeal; to impugn
+impugnare
+
+appeal; contestation; contesting
+l'impugnazione
+
+transit
+il transito
+
+fierce; ferocious; savage
+feroce
+
+earthquake
+il terremoto
+
+seminary
+il seminario
+
+usual; customary
+consueto
+
+tens
+la decine
+
+rhyme
+la rima
+
+adjustment; regulation
+la regolazione
+
+punished
+punito
+
+composer
+il compositore
+
+to appreciate
+apprezzare
+
+to make it; to assert oneself; to establish oneself
+affermarsi
+
+paragraph; subsection
+il comma
+
+to conquer
+conquistare
+
