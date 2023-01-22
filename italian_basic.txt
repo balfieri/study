@@ -220,7 +220,7 @@ parlare ad alta voce
 to speak softly
 parlare a bassa voce
 
-voice
+voice; rumor; rumour
 la voce
 
 eyes
@@ -292,7 +292,7 @@ lavare
 teeth
 i denti
 
-to brush teeth
+to brush one's teeth
 lavarsi i denti
 
 to wash one's hands
@@ -1543,7 +1543,10 @@ la Russia
 sensitive; sympathetic
 sensibile
 
-sensible
+sensible; making sense; reasonable; prudent
+sensato
+
+clairvoyant; psychic
 sensitivo
 
 to behave
@@ -2374,7 +2377,7 @@ caro
 full
 pieno
 
-comfortable
+comfortable; convenient
 comodo
 
 easy
@@ -5081,7 +5084,7 @@ to get burned
 bruciarsi
 
 definitely
-definitivamente; decisamente
+decisamente
 
 lovable
 amabile; adorabile
@@ -5278,7 +5281,7 @@ calmare
 to calm down
 calmarsi
 
-to chat
+to chat; to chit-chat; to shoot the breeze
 chiacchierare
 
 to create
@@ -6703,8 +6706,8 @@ l'indirizzo
 shoulder
 la spalla
 
-capital
-il capitale
+capital (city)
+la capitale
 
 sentence; phrase; clause
 la frase
@@ -7563,3 +7566,31 @@ a presto
 
 see you in a little bit; see you in a few minutes
 a dopo
+
+forever
+per sempre
+
+to pretend
+fingere; fare finta
+
+annoyed
+infastidito
+
+to get into
+salire su
+
+to get into the car
+salire in macchina
+
+toothpaste
+il dentifricio
+
+dental floss
+il filo interdentale
+
+toothbrush
+lo spazzolino da denti
+
+hairbrush
+la spazzola per capelli
+

@@ -1312,8 +1312,11 @@ la lettura
 spicy
 speziato
 
-eventually; finally; in the end; ultimately
-infine; alla fine; finalmente
+eventually; in the end
+infine; alla fine; 
+
+at last; after all; finally (at last); ultimately
+finalmente
 
 windy
 ventoso
@@ -1742,7 +1745,7 @@ to find easy
 aver facilità
 
 gossip
-i pettegolezzi
+il pettegolezzo; i pettegolezzi
 
 to snare; to catch; to trap; to noose
 accalappiare
@@ -2410,7 +2413,7 @@ effettivamente
 to be held; to take place
 tenersi
 
-if need be
+if need be; if necessary; perhaps
 eventualmente
 
 obnoxious
@@ -6872,7 +6875,7 @@ attic apartment
 la mansarda
 
 basement; basement apartment
-il seminterrato; lo scantinato
+il seminterrato; la cantina; lo scantinato
 
 penthouse
 l'attico
@@ -7864,9 +7867,6 @@ puzzolente
 to harm; to damage
 nuocere
 
-basement
-la cantina
-
 large square; schoolyard
 il piazzale
 
@@ -8248,7 +8248,7 @@ comunemente
 acidulous; sour
 acidulo
 
-to perform; to emerge; to appear
+to perform; to emerge; to appear; to show off
 esibirsi
 
 debut
@@ -12175,7 +12175,7 @@ provetto
 praise; laud
 la lode
 
-to trip; to stumble; to falter
+to stumble; to trip; to falter
 inciampare
 
 to tickle the funny bone
@@ -20971,7 +20971,7 @@ struzzicare il tuo interesse
 the history of mankind
 la storia dell'umanità
 
-arc
+arch
 l'arco
 
 totally scripted
@@ -21679,9 +21679,6 @@ la brocca
 old-fashioned
 all'antica
 
-sensible; reasonable; prudent
-sensato
-
 to open up
 aprirsi
 
@@ -22348,7 +22345,7 @@ l'ispirazione
 referred; reported; baseline
 riferito
 
-convenient
+cheap; convenient; appropriate; advantageous
 conveniente
 
 scheme; pattern
@@ -26041,7 +26038,7 @@ la prosperità
 printout; leaflet
 lo stampato
 
-attitude
+aptitude; predisposition; tendency
 l'attitudine
 
 prospectus
@@ -26818,8 +26815,11 @@ il carro
 equality
 l'eguaglianza
 
-favorite
+favored (adj, to win)
 favorito
+
+favorite (n, to win)
+il favorito
 
 certificate
 il certificato
@@ -28329,3 +28329,217 @@ approvvigionare
 
 best wishes in the new year
 auguri nel nuovo anno
+
+capital (finance)
+il capitale
+
+finally; permanently; forever
+definitivamente
+
+psychic
+il sensitivo
+
+insatiable 
+insaziabile
+
+to cool off; to freshen up
+rinfrescarsi
+
+to laugh out loud
+ridere di gusto
+
+hearty laugh; big laugh; belly laugh
+la risata di gusto
+
+what are you doing here?
+cosa che fai qui?
+
+to stir
+agitare; mescolare
+
+to percolate
+percolare
+
+my most recent obsession
+la mia ultima ossessione
+
+never heard of it
+mai sentito
+
+brand
+la marca
+
+peanut butter
+burro di arachidi
+
+ark
+l'arca
+
+buoy
+la boa
+
+bust (sculpture)
+il busto
+
+fate
+il fato
+
+fairy
+la fata
+
+stem
+il gambo
+
+comparative
+comparativo
+
+to qualify
+qualificare
+
+to agree; to concur
+concordare
+
+to sigh
+sospirare
+
+to wink
+fare l'occhiolino
+
+advantageous; beneficial
+vantaggioso
+
+good manners
+le buone maniere
+
+deluded
+illuso
+
+morbid
+morboso
+
+word is out
+gira la voce
+
+to have common sense
+avere buonsenso
+
+case
+il locativo
+
+counter-spell; incantation; superstition
+la scaramanzia
+
+that I like more
+che mi piace di più
+
+daring; incredible; extraordinary
+rocambolesco
+
+means of transportation
+i mezzi di trasporto
+
+to go by horse
+andare a cavallo
+
+to shred; to chop; to mince
+tagliuzzare
+
+Anglican
+anglicano
+
+folksy; informally
+alla buona
+
+he doesn't mind
+non se la mena
+
+to the best of my ability; as best as I could
+alla bell'e meglio
+
+to blush
+arronzare
+
+as if nothing had happened
+come se niente fosse; come se non fosse successo niente
+
+again and again
+ancora ancora
+
+the moral of the story
+il morale della favola
+
+to scurry; to move briskly
+scapicollarsi
+
+to bump; to knock
+urtare
+
+to hurry; to hasten; to rush
+affrettarsi
+
+crass; gross; coarse
+grossolano
+
+tube (toothpaste)
+tubetto
+
+mayonaise
+il maionese
+
+cork; plug
+il tappo
+
+small tube
+tubicino
+
+grip; handle
+l'impugnatura
+
+bristle
+la setola
+
+head (small)
+testina
+
+paintbrush
+il pennello
+
+reversible
+reversibile
+
+to play games
+fare i giochini; fare giochetti
+
+overture
+la overture
+
+to get too close to
+avvicinarsi troppo a
+
+to roll down the window
+abbassare il finestrino
+
+to be in the wrong
+essere in torto; essere nel torto
+
+wrong question
+la domanda sbagliata
+
+senile
+rimbambito
+
+rolling up; rolling; winding
+l'arrotolamento
+
+finesse
+la finezza
+
+skidded
+sbandato
+
+dejected; depressed; blue
+abbacchiato
+
+break room
+la sala break; sala della pausa
+
