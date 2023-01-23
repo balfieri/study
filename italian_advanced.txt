@@ -28827,3 +28827,6 @@ deviare; fare una deviazione
 
 I don't want to leave you hanging; I don't want to leave you in suspense
 non voglio lasciarti in sospeso
+
+true story
+storia vera
