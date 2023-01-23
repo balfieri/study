@@ -2626,7 +2626,7 @@ la gola
 nausea
 la nausea
 
-better
+better; best (adv)
 meglio
 
 worse
@@ -2938,7 +2938,7 @@ conoscere
 to lose
 perdere
 
-to render
+to render; to make (more of something else)
 rendere
 
 to stop (doing something); to quit (doing something)
@@ -4509,6 +4509,9 @@ lieto
 
 better; best (adj)
 migliore
+
+worse; worst (adj)
+peggiore
 
 natural
 naturale
@@ -7627,3 +7630,29 @@ onesto
 in a little bit; soon; in a few minutes
 fra poco
 
+emergency
+l'emergenza
+
+Mexico
+il Messico
+
+itinerary
+l'itinerario
+
+taught
+insegnato
+
+freed; liberated
+liberato
+
+learned
+imparato
+
+to work (function); to function
+funzionare
+
+suggestion
+il suggerimento
+
+advice
+il consiglio

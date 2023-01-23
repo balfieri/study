@@ -7237,8 +7237,8 @@ fare fatica; faticare
 off limits
 oltre ogni limite; off limits
 
-supposed
-presunto
+supposed; alleged
+supposto; presunto
 
 dwarf; midget; gnome
 il nano
@@ -16174,7 +16174,7 @@ l'album anticipatore
 the next generation
 la nostra prossima generazione
 
-to recreate
+to recreate; to reproduce
 riprodurre; ricreare
 
 to overload; to overcharge
@@ -21375,9 +21375,6 @@ l'impero
 
 preception
 la percezione
-
-advice
-il consiglio
 
 speech; discourse
 il discorso
@@ -28905,4 +28902,79 @@ il canale di distribuzione
 
 I can't tell the difference
 non riesco a capire la differenza; non vedo la differenza
+
+to treat yourself
+trattarsi
+
+stature; height
+la statura
+
+nostalgia
+la nostalgia
+
+phew!
+uff!
+
+feud
+il feudo
+
+illicit
+illecito
+
+practiced (belief)
+praticato
+
+underwriting
+la sottoscrizione
+
+insistence
+l'insistenza
+
+Lombardic
+lombardo
+
+suggestion
+la suggestione
+
+coloring
+la colorazione
+
+stylistic
+stilistica
+
+Romania
+la Romania
+
+rebirth
+la rinascita
+
+proclamation
+il proclama
+
+expressive
+espressivo
+
+regime; regimen
+il regime
+
+logically
+logicamente
+
+suicide
+il suicidio
+
+to celebrate
+festeggiare; celebrare
+
+rod
+la verga
+
+impediment
+l'impedimento
+
+glorious
+glorioso
+
+ages; age
+l'evo
 
