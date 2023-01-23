@@ -1837,7 +1837,7 @@ il danno
 compared to; in comparision to
 rispetto a; in confronto a
 
-about; apropos (and not only at the beginning of a sentence)
+about; apropos of
 a proposito di
 
 keypad
@@ -9034,6 +9034,9 @@ incarnare
 recording
 la registrazione
 
+performance (show)
+la performance
+
 live performance
 la performance dal vivo
 
@@ -13792,8 +13795,11 @@ il soccorso
 slaughterhouse; butchery
 il mattatoio
 
-so; such; thus
+so (adv); such (adv)
 talmente
+
+such (adj)
+tale
 
 confidentiality agreement
 l'accordo di riservatezza
@@ -19639,8 +19645,11 @@ compiuto
 strongly
 fortemente
 
-each; everyone; every
+each (pron); everyone (pron)
 ognuno
+
+each (pron or adj)
+ciascuno
 
 composed
 composto
@@ -21232,7 +21241,7 @@ il clero
 tip; point
 la punta
 
-performance
+performance (quality measurement)
 le prestazioni
 
 concentration
@@ -28830,3 +28839,70 @@ non voglio lasciarti in sospeso
 
 true story
 storia vera
+
+you can't make this stuff up
+queste cose non si possono inventare; non si può inventare cose così
+
+prop (scene)
+l'oggetto di scena
+
+to deliver a monolog
+eseguire un monologo
+
+to perform on stage
+esibirsi sul palco
+
+are you in?
+ci stai?
+
+I'm in
+ci sto
+
+professional actor
+l'attore professionista
+
+this bothers me; this worries me
+questo mi preoccupa
+
+to entertain; to amuse
+intrattenere
+
+smoothly
+in modo fluido
+
+fluently
+in modo scorrevole
+
+mediocre
+mediocro
+
+to depress
+deprimere
+
+tablet; losenge
+la pastiglia
+
+how often
+ogni quanto
+
+all the time
+tutto il tempo; spessissimo
+
+equipment; endowment
+la dotazione
+
+tank (military)
+il carro armato
+
+to act in concert
+agire di concerto
+
+to recruit
+reclutare
+
+distribution channel
+il canale di distribuzione
+
+I can't tell the difference
+non riesco a capire la differenza; non vedo la differenza
+

@@ -427,7 +427,7 @@ il canale
 station (bus, train)
 la stazione
 
-unfortunately
+unfortunately; ahimè
 purtroppo
 
 above all
@@ -4675,9 +4675,6 @@ il pubblico
 public (adj)
 pubblico
 
-such
-tale
-
 important
 importante
 
@@ -7626,3 +7623,7 @@ la noia
 
 honest
 onesto
+
+in a little bit; soon; in a few minutes
+fra poco
+
