@@ -1003,9 +1003,6 @@ di successo
 unsuccessful; failed
 infruttuoso; fallito
 
-except
-tranne
-
 species (agriculture); based mainly on weight and size
 la pezzatura
 
@@ -1890,9 +1887,6 @@ in fondo alla strada; in fondo a questa strada; lungo la strada
 
 hinge; flexible joint
 il ganghero
-
-tense (verb)
-il tempo
 
 gist; essence; substance
 l'essenza; la sostanza
@@ -5005,9 +4999,6 @@ con i piedi per terra
 to play a role in a film
 interpretare un ruolo in un film
 
-gender
-il genere; il sesso
-
 what did you think would happen?
 cosa pensavi che sarebbe successo?
 
@@ -5311,9 +5302,6 @@ l'edilizia
 construction worker
 l'edile
 
-paint; painting
-la pittura
-
 prepared
 allestito
 
@@ -5330,7 +5318,7 @@ harmfulness; nuisance; noxiousness
 nocività
 
 whisperer
-il  sussurratore
+il sussurratore
 
 to whisper
 sussurrare; bisbigliare
@@ -10477,7 +10465,7 @@ il trimestre
 4-month period
 il quadrimestre
 
-sandy
+sandy; gritty
 sabbioso
 
 food poisoning
@@ -21751,7 +21739,7 @@ da quello che posso vedere
 I can't help that
 non posso evitare il fatto che; non posso fare a meno di; non posso fare a meno che
 
-asserted; confirmed
+asserted; confirmed; accomplished (person)
 affermato
 
 thousands
