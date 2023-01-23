@@ -5011,8 +5011,8 @@ favoloso
 amazing
 incredibile; fantastico; meraviglioso; sbalorditivo; stupefacente; sorprendente
 
-outstanding
-eccelente
+outstanding; exceptional
+eccezionale
 
 surprising
 sorprendente
@@ -7202,7 +7202,7 @@ return
 il ritorno
 
 excellent
-ottimo
+ottimo; eccellente
 
 angel
 l'angelo
