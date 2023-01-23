@@ -8293,7 +8293,7 @@ fare previsioni
 pitcher (baseball)
 il lanciatore
 
-coach
+coach; trainer
 l'allenatore
 
 adultery
