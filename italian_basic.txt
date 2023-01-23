@@ -137,7 +137,7 @@ I am ready
 sono pronto
 
 soft; tender
-morbido
+morbido; molle
 
 hard; tough
 duro
@@ -665,7 +665,7 @@ on; up (prep)
 su
 
 over; above
-sopra
+sopra; sovra
 
 under
 sotto
@@ -7615,3 +7615,14 @@ negato
 revolution
 la rivoluzione
 
+comical
+comico
+
+comic; comedian
+il comico
+
+boredom
+la noia
+
+honest
+onesto
