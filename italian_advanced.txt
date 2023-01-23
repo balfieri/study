@@ -28995,3 +28995,6 @@ il pianificatore
 
 carriage; coach (transportation); chariot
 la carrozza
+
+semolina
+il semolino; la semola
