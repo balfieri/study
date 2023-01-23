@@ -2695,7 +2695,7 @@ il pozzo
 to poison the well
 avvelenare il pozzo
 
-baton; rod; wand; stick
+wand; rod; baton
 la bacchetta
 
 to ruin
