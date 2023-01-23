@@ -28992,3 +28992,6 @@ distinti saluti
 
 planner
 il pianificatore
+
+carriage; coach (transportation); chariot
+la carrozza
