@@ -430,7 +430,7 @@ genuino
 affectation
 affettazione
 
-embers
+embers; ember
 la brace
 
 barrel
