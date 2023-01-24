@@ -7669,3 +7669,5 @@ il genere; il sesso
 paint; painting
 la pittura
 
+lover
+l'amante; l'innamorato

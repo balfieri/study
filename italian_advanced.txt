@@ -166,7 +166,7 @@ l'arachide
 goal; objective
 l'obiettivo
 
-reliable; dependable; trustworthy
+reliable; dependable; trustworthy; trusted
 affidabile
 
 up front
@@ -486,9 +486,6 @@ modificare
 
 to rewrite
 riscrivere
-
-companion
-il compagno
 
 to scold; to berate; to rebuke
 sgridare
@@ -5014,8 +5011,8 @@ durante la cena
 to advertise
 pubblicizzare
 
-to point out
-fare notare; indicare; sottolineare
+to point out; to highlight; to emphasize; to point out; to single out
+fare notare; indicare; sottolineare; evidenziare; fare presente
 
 to underline
 sottolineare
@@ -5634,9 +5631,6 @@ per essere del tutto onesti
 
 crazy person
 il pazzerello
-
-soul mate
-l'anima gemella
 
 to reassure
 rassicurare
@@ -6535,9 +6529,6 @@ la borsa di studio
 to emphasize
 mettere in risalto
 
-to highlight; to emphasize; to point out; to single out
-evidenziare
-
 act of God
 la forza maggiore
 
@@ -7360,7 +7351,7 @@ dilettare
 to investigate; to explore; to research
 indagare
 
-to loiter; to saunter; to hover
+to hang around; to putz around; to loiter; to saunter; to hover
 gironzolare
 
 to wedge; to tuck; to thread
@@ -8841,9 +8832,6 @@ bazzicare; cincischiare; andare il giro per
 
 unrealistic
 irrealistico
-
-to flirt
-flirtare
 
 I figure that
 immagino che
@@ -13508,7 +13496,7 @@ charlatan
 il ciarlatano
 
 enthusiast; aficionado
-appassionato
+appassionato; entusiasta
 
 to specify; to make clear; to state
 precisare
@@ -14643,9 +14631,6 @@ superare tutto questo; riuscire a superarla
 
 the good news
 la bella notizia
-
-to point out
-fare presente
 
 to ring; to string together
 inanellare
@@ -16118,7 +16103,7 @@ flirtatious
 civettuolo; flirtante
 
 to flirt
-civettare; flirtare
+civettare; flirtare; amoreggiare
 
 boundary; edge; border; frontier
 il confine; il limite
@@ -28998,3 +28983,109 @@ la carrozza
 
 semolina
 il semolino; la semola
+
+eyesore
+obbrobrio
+
+to go out; to turn off; to burn out
+spegnersi
+
+Thanksgiving
+Giorno del ringraziamento
+
+to work on
+lavorare su; lavorare al
+
+oh yeah
+oh sì
+
+gironzolare per la casa
+to hang around the house; to putz around the house
+
+unpleasant to the eye
+spiacevole alla vista
+
+to bring it all to an end
+portare tutto a termine
+
+to knuckle down; to get to work; to get into it
+darci dentro
+
+scab
+la rogna
+
+for whatever reason
+per qualche ragione; per qualsiasi ragione
+
+cohabitant; partner
+il convivente; la convivente
+
+companion
+il sodale
+
+comrade
+il comerato
+
+mistress
+la padrona
+
+kept woman; mistress
+la mantenuta
+
+courtesan; concubine
+la cortigiana
+
+dominatrix
+la dominatrice
+
+flirt
+la civetta
+
+womanizer; philanderer
+farfallone; donnaiolo
+
+to follow through
+persevere; portare a termine
+
+metaverse
+il metaverso
+
+head-mounted display
+il display montato sulla testa
+
+display; viewer; visualizer
+la visualizzatore
+
+trusted
+fidato; affidabile
+
+postman; mailman
+il portalettere
+
+out hunting
+fuori a caccia
+
+label maker
+l'etichettatrice
+
+to come from behind
+venire da dietro
+
+decisively
+in modo decisivo; con decisione
+
+to win decisively
+vincere in modo decisivo; vincere con decisione
+
+to come out of nowhere
+uscire dal nulla
+
+soulmate; soul mate; kindred spirit
+l'anima gemella
+
+hands-down
+a mani basse
+
+it wasn't even close
+non è stato nemmeno vicino; non ci sono nemmeno andato vicino
+
