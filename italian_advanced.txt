@@ -26674,7 +26674,7 @@ il cadavere
 check (bank)
 l'assegno
 
-joke; quip
+joke; quip; punch line
 la battuta
 
 disciple
