@@ -65,6 +65,6 @@ with open( filename ) as file:
             if m:
                 words = [m.group(1), m.group(2), m.group(3), m.group(4), m.group(5)]
                 for word in words:
-                    cmd( f'./grit.py \"{word}\"', True, True )
+                    cmd( f'{word}', True, True )
             else:
                 die( f'bad line: {line}' )
