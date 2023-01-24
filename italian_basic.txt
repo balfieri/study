@@ -1672,6 +1672,9 @@ cauto
 talkative
 chiacchierone
 
+talkative person; motor mouth; chatterbox
+il chiacchierone; la chiacchierona; il pettegolo; la pettagola
+
 curious
 curioso
 
