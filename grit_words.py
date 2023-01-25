@@ -56,7 +56,8 @@ with open( filename ) as file:
             m = match( line, r'(.+)$' )
             if m:
                 s = m.group(1)
-                cmd( f'./grit.py \"{s}\"', True, True )
+                print( s )
+                cmd( f'./grit.py \"{s}\"', False, True )
             else:
                 die( f'bad line: {line}' )
         else:

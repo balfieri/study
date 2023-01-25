@@ -10483,9 +10483,6 @@ il rincoglionimento
 road worker; road repairman
 lo stradino
 
-to inhale
-inalare
-
 tar
 il catrame
 
@@ -15239,7 +15236,7 @@ despot
 il despote
 
 to inspire; to inhale; to prompt
-ispirare
+ispirare; inalare
 
 to digust; to sicken; to nauseate
 schifare
@@ -29346,3 +29343,16 @@ circostante
 
 tasting
 la degustazione
+
+let me ask the question slightly differently
+lascia che ti faccia la domanda in modo leggermente diverso
+
+we had some friends over for dinner
+sono venuti a cena degli amici
+
+practice exam
+l'esame pratico; l'esame di prova; il test di prova
+
+to ship a package
+spedire un pacco
+
