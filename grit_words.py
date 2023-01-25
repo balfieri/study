@@ -56,7 +56,7 @@ with open( filename ) as file:
             m = match( line, r'(.+)$' )
             if m:
                 s = m.group(1)
-                print( s )
+                print( f':{s}' )
                 cmd( f'./grit.py \"{s}\"', False, True )
             else:
                 die( f'bad line: {line}' )
@@ -66,6 +66,7 @@ with open( filename ) as file:
             if m:
                 words = [m.group(1), m.group(2), m.group(3), m.group(4), m.group(5)]
                 for word in words:
-                    cmd( f'{word}', True, True )
+                    print( f':{word}' )
+                    cmd( f'./grit.py \"{word}\"', False, True )
             else:
                 die( f'bad line: {line}' )

@@ -1277,7 +1277,7 @@ check-in
 il check-in
 
 competition; contest; concourse
-il concorso
+il concorso; la competizione
 
 race; contest; competition
 la gara
@@ -2027,7 +2027,7 @@ country; village
 il paese
 
 building
-l'edificio
+l'edificio; l'edilizio
 
 statue
 la statua
@@ -6698,7 +6698,7 @@ shoulder
 la spalla
 
 capital (city)
-la capitale
+la capitale; il capoluogo
 
 sentence; phrase; clause
 la frase
@@ -7701,3 +7701,6 @@ l'animo; l'anima
 
 website
 il sito web
+
+paid
+pagato
