@@ -16327,9 +16327,6 @@ annegare
 fanfare
 la fanfara
 
-bank (river); shore
-sponda
-
 chasm; abyss; gap
 la voragine
 
@@ -17809,11 +17806,8 @@ solleticare l'interesse di
 vain
 vanitoso
 
-bank (of river); edge
-la sponda
-
-bank; shore
-la riva
+bank (of river); shore; edge
+la sponda; la riva
 
 stream
 il ruscello
