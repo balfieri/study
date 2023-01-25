@@ -6202,7 +6202,7 @@ respirare
 string
 la stringa
 
-rope
+rope; cord
 la corda
 
 cross
@@ -7704,3 +7704,16 @@ il sito web
 
 paid
 pagato
+
+style
+lo stile
+
+involved
+coinvolto
+
+trouble; troubles
+i guai
+
+to print; to stamp
+stampare
+
