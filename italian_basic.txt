@@ -6839,7 +6839,7 @@ drama; play; tragedy
 il dramma
 
 opposite
-opposto
+opposto; contrario
 
 Venetian
 veneto
@@ -7717,3 +7717,5 @@ i guai
 to print; to stamp
 stampare
 
+or
+o; oppure

@@ -371,7 +371,7 @@ tire
 lo pneumatico
 
 flaps
-i lembi
+i lembi; i flap
 
 knot
 il nodo
@@ -2335,8 +2335,11 @@ il controllo del traffico aereo
 air traffic controller
 il controllore del traffico aereo
 
+respectful
+rispettoso
+
 disrespectful
-irrispettuoso
+irrispettoso
 
 to get a point across
 farsi capire
@@ -4711,7 +4714,7 @@ a patto che; a condizione che
 in other words
 in altre parole
 
-therefore; thus; hence; for that reason
+therefore; thus; hence; for that; for that reason
 perciò
 
 finally
@@ -4987,7 +4990,7 @@ proibire; vietare
 gay marriage
 il matrimonio gay
 
-leak; flight (escape)
+leak; flight; escape
 la fuga
 
 down to earth
@@ -8185,6 +8188,9 @@ il senso completo
 antonynm
 il contrario; l'antonimo
 
+opposite
+il contrario; l'opposto
+
 styrofoam
 il polistirolo
 
@@ -9382,7 +9388,7 @@ ospettare
 no messing around
 non fate casino; non facciamo casino
 
-to back-up
+to back-up (computer)
 eseguire un backup
 
 mission accomplished
@@ -11677,7 +11683,7 @@ sìi sèrio!
 sweet dreams
 sogni d'oro
 
-to win hands down
+to win hands down; to romp
 stravincere
 
 to die laughing
@@ -18871,6 +18877,9 @@ laborioso; operoso; diligente
 to roll out the pasta
 stendere la pasta
 
+io spread; to stretch
+stendere
+
 incidentally
 incidentalmente; a proposito; tra parentesi
 
@@ -21509,7 +21518,7 @@ detected
 rilevato
 
 guru; holy man
-il santone
+il guru; il santone
 
 remote control (TV)
 il telecommando
@@ -21723,9 +21732,6 @@ trattazione
 
 prison; jail
 il carcere
-
-reserve; stock
-la riserva
 
 behavior; conduct
 il comportamento
@@ -22744,8 +22750,8 @@ la scorza
 on day one
 il giorno 1
 
-to end up being
-finire per essere
+to end up (doing something)
+finire per (infinitivo)
 
 in place of
 al posto di
@@ -24667,7 +24673,7 @@ ignobile
 frankly
 francamente
 
-ridiculous; ludicrous
+ridiculous (negative conotation); ludicrous
 ridicolo
 
 what took you so long?
@@ -26932,7 +26938,7 @@ dettato
 superhuman
 sovraumano
 
-evasion
+evasion; escape
 l'evasione
 
 to evade
@@ -29613,3 +29619,82 @@ l'ansia da prestazione
 
 I can't complain
 non posso lamentarmi
+
+comma; decimal point
+la virgola
+
+backup (help)
+i rinforzi
+
+reserve; stock; backup
+la riserva
+
+reviewer
+il recensore
+
+crucial
+cruciale
+
+spit
+lo sputo
+
+in traction
+in trazione
+
+to give up everything
+rinunciare di tutto
+
+I want in, too
+voglio starci anch'io
+
+pony
+il pony
+
+free shipping
+la spedizione gratuita
+
+the Internet has made it easier
+Internet l'ha reso più facile
+
+refreshing
+rinfrescante
+
+you're on to something here
+sei sulla strada giusta; ci stai arrivando; hai trovato qualcoso
+
+to have regrets
+avere rimpianti
+
+tricolor
+tricolore
+
+unnatural
+innaturale
+
+alternative
+l'alternativa
+
+in the middle; amidst
+in mezzo
+
+to hail (precipitation)
+grandinare
+
+to praise; to hail; to applaud
+osannare
+
+so to speak
+per così dire
+
+to feel sexy
+sentirsi sexy
+
+backup plan
+il piano di reserva
+
+escape plan
+il piano di evasione; il piano di fuga
+
+to go according to plan
+andare secondo i piani
+
