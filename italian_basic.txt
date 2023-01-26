@@ -3565,12 +3565,6 @@ il caffè
 tea
 il tè
 
-freshly-squeezed fruit juice
-la spremuta
-
-sparkling wine
-lo spumante
-
 red wine
 il vino rosso
 

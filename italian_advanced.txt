@@ -29793,3 +29793,10 @@ ammissibile
 
 rolled-out pasta
 la pasta stesa
+
+freshly-squeezed fruit juice
+la spremuta
+
+sparkling wine
+lo spumante
+
