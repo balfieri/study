@@ -2908,7 +2908,7 @@ guidare
 to order
 ordinare
 
-to be lacking; to be absent; to be missing
+to be missing; to be lacking; to be absent
 mancare; venire meno
 
 to see
@@ -7719,3 +7719,6 @@ stampare
 
 or
 o; oppure
+
+usually
+di solito; solitamente
