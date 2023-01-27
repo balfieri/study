@@ -29932,3 +29932,8 @@ rilevazione
 antecedent
 l'antecedente
 
+little story
+la storiella
+
+treadmill
+il tapis roulant
