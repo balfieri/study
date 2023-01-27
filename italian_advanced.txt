@@ -334,7 +334,7 @@ i frutti di mare
 to warn; to caution; to alert
 avvisare; avvertire
 
-argument (quarrel, formal)
+dispute; argument (quarrel, formal)
 la disputa
 
 argument (quarrel, informal)
@@ -20158,7 +20158,7 @@ portare a
 thief
 il ladro
 
-rerun
+replica; rerun
 la replica
 
 it is self-explanatory
@@ -25969,7 +25969,7 @@ la maschera
 politically
 politicamente
 
-registered
+registered; recorded
 registrato
 
 Lombardy
@@ -29856,4 +29856,79 @@ mi fa dubbitare di quanto
 
 to make (someone) question
 far dubbitare a (qualcuno)
+
+in the same manner
+nell'istesso
+
+catastrophe
+la catastrofe
+
+legally; judicially
+giuridicamente
+
+incision
+l'incisione
+
+next; coming; future
+venturo
+
+persecution
+la persecuzione
+
+Elizabeth
+Elisabetta
+
+ordinarily
+ordinariamente
+
+prophet
+il profeta
+
+concreteness
+la concretezza
+
+tactic
+la tattica
+
+coalition
+la coalizione
+
+liveliness; vividness
+la vivacità
+
+diplomacy
+la diplomazia
+
+directorial; managerial; executive
+direttivo
+
+guaranteed
+garantito
+
+sodium
+il sodio
+
+universally
+universalmente
+
+compliant
+conforme
+
+irregularity
+l'irregolarità
+
+appearance; apparition
+l'apparizione
+
+emanation
+l'emanazione
+
+elevation
+l'elevazione
+
+detection
+rilevazione
+
+antecedent
+l'antecedente
 
