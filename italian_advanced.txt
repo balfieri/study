@@ -11272,6 +11272,9 @@ inevitabile; imprevedibile
 secretive
 riservato; segreto
 
+enigmatic
+enigmatico
+
 manic
 maniaco; maniacale
 
@@ -29796,4 +29799,61 @@ la spremuta
 
 sparkling wine
 lo spumante
+
+it hasn't hit me yet
+non mi ha ancora colpito
+
+in shock; in a state of shock
+sotto shock; in stato di shock
+
+to plan accordingly
+pianificare di conseguenza
+
+five minutes until gelato
+cinque minuti al gelato
+
+thyme
+il timo
+
+that's not to say that
+non è per dire che; ciò non significa che; ciò non vuol dire che
+
+surprise attack
+l'attacco a sorpresa
+
+clean-cut person
+la persona pulita
+
+straight-laced person
+la persona dritta
+
+sphynx
+lo sphynx
+
+it's almost as fun as
+è divertente quasi quanto
+
+disgusted; revolted
+schifato
+
+discarded
+scartato
+
+one at a time
+uno alla volta; una alla volta
+
+something's wrong; there's something wrong
+qualcosa che non va
+
+engaging; engrossing
+coinvolgente
+
+not so fast
+non così in fretta
+
+it makes me question how 
+mi fa dubbitare di quanto 
+
+to make (someone) question
+far dubbitare a (qualcuno)
 
