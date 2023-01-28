@@ -7759,3 +7759,5 @@ preoccupato
 option
 l'opzione
 
+hall; corridor
+il corridoio
