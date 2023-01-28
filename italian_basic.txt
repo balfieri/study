@@ -718,7 +718,7 @@ la pioggia
 to rain
 piovere
 
-to cry
+to cry; to weep
 piangere
 
 to laugh
