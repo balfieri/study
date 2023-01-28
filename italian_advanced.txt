@@ -13075,8 +13075,11 @@ mettere insieme; unire; legare insieme; collegare
 prearranged; preordained
 prestabilito
 
-basket
-la cesta
+basket (container)
+il cesto; il cestino; il cestello
+
+basket (sport)
+il canestro
 
 to pose; to show off
 farsi bello; vantarsi
@@ -15975,9 +15978,6 @@ taciturno
 
 frail; puny
 gracile
-
-dresser
-la credenza
 
 big desk
 la cattedra
@@ -22545,9 +22545,6 @@ la similitudine
 
 accumulation
 l'accumulo
-
-basket
-il cestello
 
 shake; milkshake; smoothie
 il frullato
@@ -30099,4 +30096,34 @@ caspita
 
 to raise the question; to raise the issue
 sollevare la questione
+
+belief; dresser
+la credenza
+
+palpable
+palpabile
+
+to tide over
+tirare avanti
+
+life support system
+il sistema di supporto vitale
+
+unproven 
+non provato; indimostrato
+
+unsubstantiated
+infondated; malfondato; non giustificato
+
+psychological thriller
+il thriller psicologico
+
+dry sense of humor
+il senso dell'umorismo secco
+
+prosperous; shapely; flourishing
+prosperoso
+
+to get a second opinion
+chiedere un secondo parere; chiedere una seconda opinione
 
