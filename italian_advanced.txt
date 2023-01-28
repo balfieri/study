@@ -9715,7 +9715,7 @@ del mal d’auto
 car-sickness
 il mal d’auto
 
-store; workshop
+store; uorkshop
 la bottega
 
 gullible
@@ -30192,4 +30192,94 @@ la proteine
 
 approximation
 l'approssimazione
+
+especially
+ispecie
+
+to transport; to carry
+trasportare
+
+generically
+genericamente
+
+semester; half-year
+il semestre
+
+slab
+la lastra
+
+apostolic
+apostolico
+
+massacre
+la strage
+
+generosity
+la generosità
+
+in a limited way
+limitatamente
+
+to witness; to testify
+testimoniare
+
+to defend oneself; to fight back
+difendersi
+
+Denmark
+la Danimarca
+
+to reason
+ragionare
+
+metropolis
+la metropoli
+
+disease; bug; illness
+il morbo
+
+negotiated
+negoziato
+
+negotiation; dialogue
+il negoziato
+
+corresponding; advisable
+corrispettivo
+
+deposition
+la deposizione
+
+fought; been at war
+combattuto
+
+probably; likely; most likely
+verosimilmente
+
+nitrogen
+l'azoto
+
+designated
+designato
+
+discrimination
+la discriminazione
+
+premised
+premesso
+
+synthetic
+sintetico
+
+to oblige; to compel
+obbligare
+
+reverse; inverted
+rovescio
+
+rainfall; cloudburst
+il rovescio
+
+addressed
+indirizzato
 

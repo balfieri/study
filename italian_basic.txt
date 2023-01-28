@@ -7741,3 +7741,8 @@ il grammo
 offensive
 offensivo
 
+courteous; polite; kind
+cortese
+
+sold
+venduto
