@@ -7746,3 +7746,16 @@ cortese
 
 sold
 venduto
+
+night
+la notte
+
+attached
+attaccato
+
+worried; preoccupied
+preoccupato
+
+option
+l'opzione
+

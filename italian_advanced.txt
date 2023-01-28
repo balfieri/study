@@ -7147,9 +7147,6 @@ di narativa
 I have no idea what you're talking about
 non ho idea di cosa stai parlando
 
-nowadays
-oggidì
-
 entry (term)
 la voce; l'entrata
 
@@ -30282,4 +30279,88 @@ il rovescio
 
 addressed
 indirizzato
+
+malaria
+la malaria
+
+dominance; predominance
+il predominio
+
+philology
+la filologia
+
+cross (adj); transverse
+traverso
+
+rejected
+respinto
+
+identified
+identificato
+
+nowadays; today
+oggidì
+
+notification; notice
+la notifica
+
+capture
+la cattura
+
+on the contrary; contrarily
+contrariamente
+
+enunciated
+enunciato
+
+flowering
+la fioritura
+
+reinforcement
+il rafforzamento
+
+to prescribe
+prescrivere
+
+documented
+documentato
+
+universality
+l'universalità
+
+nascent; rising; incipient
+nascente
+
+no one
+niuno
+
+integral; integrating
+integrante
+
+to limit oneself; to be satisfied; to be content; to restrict oneself
+limitarsi
+
+antifascit
+l'antifascista
+
+garrison
+il presidio
+
+median
+mediano
+
+issued
+emesso
+
+awakening; revival
+il risveglio
+
+positively
+positivamente
+
+formulated
+formulato
+
+mercy
+la misericordia
 
