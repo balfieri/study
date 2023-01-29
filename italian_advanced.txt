@@ -2470,7 +2470,7 @@ intromettersi
 to engage; to commit; to pledge
 impegnare
 
-to waste; to squander; to dilapidate
+to squander; to waste; to dilapidate
 sperperare
 
 rag; tatter; cloth
@@ -30444,3 +30444,48 @@ assento
 
 across the hall
 dall'altra parte del corridoio
+
+to go out to dinner
+andare a cena; andare a cena fuori
+
+to hallucinate
+allucinare; avere allucinazioni
+
+hallucinated
+allucinato
+
+hallucination
+l'allucinazione
+
+to sin
+peccare
+
+to take it slowly
+prenderla calmo; andarci piano; andare al rallentare
+
+maintenance mode
+la modalità manutenzione
+
+to be better off
+stare meglio
+
+deprivation
+la privazione
+
+to recoil
+rinculare
+
+enclosed
+racchiuso 
+
+foolishly; unwisely
+stoltamente
+
+fool; loon
+lo stolto
+
+heinous; brutal; atrocious
+efferato 
+
+to reap; to harvest
+mietere

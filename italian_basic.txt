@@ -1684,7 +1684,7 @@ famoso
 young
 giovane
 
-happy; cheerful
+happy; cheerful; cheery
 allegro
 
 nervous
