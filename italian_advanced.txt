@@ -5809,7 +5809,7 @@ l’appartenenza
 to enrich; to endow; to fortify
 arricchire
 
-processed; processed
+elaborated; processed
 elaborato
 
 to devolve
@@ -30579,4 +30579,91 @@ spettante
 
 idealism
 l'idealismo
+
+protected
+protetto
+
+tenderness
+la tenerezza
+
+benevolence
+la benevolenza
+
+care; promptness; solicitude
+la sollecitudine
+
+subordination
+la subordinazione
+
+flexibility
+la flessibilità
+
+Protestant
+protestante
+
+brilliant; ingeneous
+geniale
+
+Jesuit
+gesuito
+
+procession
+la processione
+
+primier; prime minister
+il premier
+
+capitalistic
+capitalistico
+
+celebrated
+celebrato
+
+legally
+legalmente
+
+stipulation
+la stipulazione
+
+find (n); finding
+il reperto
+
+dissolution
+la dissoluzione
+
+pretended; demanded; expected
+preteso
+
+unilateral
+unilaterale
+
+slightly; scantily
+scarsamente
+
+to suspend
+sospendere
+
+damaged
+danneggiato
+
+tiredness; fatigue; weariness
+la stanchezza
+
+Negro
+negro
+
+falsehood
+la falsità
+
+globe
+il globo
+
+domino
+il domino
+
+persistence
+la persistenza
+
+pontificate; papacy
+il pontificato
 

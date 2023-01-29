@@ -3349,7 +3349,7 @@ tradotto
 seen
 visto
 
-came
+came; come (pp)
 venuto
 
 won
@@ -7776,3 +7776,9 @@ chiedersi
 
 forbidden; prohibited
 vietato
+
+kiss
+il bacio
+
+had
+avuto
