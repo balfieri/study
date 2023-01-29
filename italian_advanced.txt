@@ -21355,7 +21355,7 @@ descritto
 joint; coupling; seam
 il giunto
 
-whoever
+anyone; anybody; whoever (pr.)
 chiunque
 
 competence; expertise
@@ -30667,3 +30667,5 @@ la persistenza
 pontificate; papacy
 il pontificato
 
+whichever; whatever
+qualunque
