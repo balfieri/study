@@ -1417,7 +1417,7 @@ la lussuria
 lame; crippled person
 lo zoppo
 
-to limp; to hobble
+to limp; to walk with a limp; to hobble
 zoppicare
 
 sins of gluttony
@@ -30930,3 +30930,6 @@ gattonare
 
 crawling (baby)
 il gattonamento
+
+limping
+lo zoppicamento
