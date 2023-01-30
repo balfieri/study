@@ -10685,7 +10685,7 @@ freezer
 il congelatore
 
 freezing
-il congelamento
+il congelamento; la gelatura
 
 to thaw
 scongelare
@@ -22507,8 +22507,8 @@ dovuto
 totality
 la totalità
 
-pasty; doughy; mushy
-pastoso
+mushy; pasty; doughy
+pastoso; molle
 
 remaining
 restante
@@ -22530,9 +22530,6 @@ bilanciare
 
 synergy
 la sinergia
-
-freezing
-la gelatura
 
 buttery
 burroso
