@@ -833,7 +833,7 @@ to be there (for someone)
 esserci
 
 to take part or participate (in something); to be in agreement; to have sufficient space
-starci
+starci; fare parte di
 
 non tollerare
 non starci
@@ -30669,3 +30669,46 @@ il pontificato
 
 whichever; whatever
 qualunque
+
+to look up a word in the dictionary
+cercare una parola nel dizionario
+
+loving mother
+la madre amorevole; la madre affettuosa
+
+resentful
+risentito
+
+to resent
+risentirsi per
+
+resentment
+il risentimento
+
+to feel lonely; to feel alone
+sentirsi solo
+
+feisty
+aggressivo; tenace
+
+strong desire to be
+il forte desiderio di essere
+
+sociopath
+il sociopatico
+
+sociopathic
+sociopatico
+
+psychopath; psycho
+il psicopatico
+
+psychopathic; psycho
+psicopatico
+
+to be in on the gag
+fare parte di questo scherzo
+
+to take part in the fraud; to take part in the scam
+fare parte della truffa
+
