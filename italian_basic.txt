@@ -2365,7 +2365,7 @@ valido
 busy; occupied
 occupato; impegnato
 
-hot
+hot; warm
 caldo
 
 rich
