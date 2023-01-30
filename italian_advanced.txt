@@ -31027,3 +31027,5 @@ il martire
 farmer; grower; cultivator
 il coltivatore
 
+to code
+scrivere codice; programmare
