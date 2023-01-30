@@ -2869,8 +2869,8 @@ ripugnante
 to be out of (something)
 rimanere senza
 
-recently
-recentemente; di recente; ultimamente
+recently; lately
+recentemente; di recente; ultimamente; in questo ultimo periodo
 
 to pay attention
 prestare attenzione; fare attenzione
@@ -15028,9 +15028,6 @@ i capelli bianchi
 stand-up comedian
 il cabarettista; il comico stand-up
 
-recently; lately
-in questo ultimo periodo; ultimamente
-
 to speak smoothly; 
 parlare con dolcezza; parlare tranquillamente
 
@@ -21558,9 +21555,6 @@ la deliberazione
 
 cooperation
 la cooperazione
-
-cut; cutting
-il taglio
 
 20th
 XX
@@ -30933,4 +30927,103 @@ lo zoppicamento
 
 tepid; lukewarm
 tepido
+
+proceeded
+proceduto
+
+infinitely
+infinitamente
+
+qualified
+qualificato
+
+aversion
+l'avversione
+
+hetero; straight (sex)
+etero
+
+client; customer; buyer
+committente
+
+maternal; motherly
+materno
+
+analogously; similarly
+analogamente
+
+annotation
+l'annotazione
+
+reorganization
+la riorganizzazione
+
+to exempt
+esentire
+
+obscurity
+l'oscurità
+
+assistant
+l'assistente
+
+Dutch
+olandese
+
+railroad (adj); railway
+ferroviario
+
+bomb
+la bomba
+
+who knows
+chissà
+
+burial
+la sepoltura
+
+to fulfil; to fulfil
+adempiere
+
+great; grandiose; grand
+grandioso
+
+desperate
+disperato
+
+exploration
+l'esplorazione
+
+misfortune; woe
+la disgrazia
+
+to transform (itself)
+trasformarsi
+
+impotence
+l'impotenza
+
+emigrant
+l'emigrato
+
+solemnly
+solennemente
+
+rejected
+rifiutato
+
+specialty
+la specialità
+
+physiological
+fisiologico
+
+accentuated
+accentuato
+
+martyr
+il martire
+
+farmer; grower; cultivator
+il coltivatore
 
