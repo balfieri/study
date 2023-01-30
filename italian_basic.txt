@@ -5848,9 +5848,6 @@ l'attrezzo
 instrument; tool (abstract)
 lo strumento
 
-unlikely
-improbabile
-
 likely; probable
 probabile
 
@@ -7782,3 +7779,6 @@ il bacio
 
 had
 avuto
+
+understood; got it
+capito
