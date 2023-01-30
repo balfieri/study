@@ -26677,9 +26677,6 @@ insistere
 shaking
 lo scrollamento
 
-crawling
-lo strisciamento
-
 based on
 basato su
 
@@ -30922,3 +30919,14 @@ il terminale
 assent
 l'assenso
 
+to crawl (non-baby)
+strisciare
+
+crawling (non-baby)
+lo strisciamento
+
+to crawl (baby)
+gattonare
+
+crawling (baby)
+il gattonamento
