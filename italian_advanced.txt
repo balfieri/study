@@ -8981,7 +8981,7 @@ pickup truck
 il pick up
 
 to piss; to pee
-pisciare
+pisciare; fare pipì
 
 vindictive
 vendicativo
@@ -31381,3 +31381,5 @@ l'uomo d'affari
 businesswoman
 la donna d'affari
 
+race horse
+il cavallo da corsa
