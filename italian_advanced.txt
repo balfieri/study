@@ -31383,3 +31383,6 @@ la donna d'affari
 
 race horse
 il cavallo da corsa
+
+to feed a cable
+far passare un cavo
