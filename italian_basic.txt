@@ -2362,7 +2362,7 @@ nuovo
 valid
 valido
 
-busy; occupied
+busy; occupied; employed
 occupato; impegnato
 
 hot; warm

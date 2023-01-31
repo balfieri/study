@@ -19321,12 +19321,6 @@ bersagliare
 melted chocolate; chocolate fondue
 il cioccolato fuso
 
-assumed
-assunto
-
-assumption
-l'assunto
-
 for the
 pei; per i
 
@@ -24304,7 +24298,7 @@ il colonnello
 subsistence
 la sussistenza
 
-coal
+coal; charcoal
 il carbone
 
 obligatory; compulsory
@@ -31059,3 +31053,112 @@ non riesco a capire se parli sul serious
 
 are you being serious right now?
 dici sul serio adesso?; stai parlando sul serio?; parli sul serio?; dici sul serio?; ma stai dicendo sul serio?
+
+homogeneous
+omogeneo
+
+undeniable
+innegabile
+
+passivity; liabilities; passiveness
+passività
+
+restriction
+la restrizione
+
+service
+il servigio
+
+colonial
+coloniale
+
+Sienese
+senese
+
+objection
+l'obiezione
+
+hired; assumed
+assunto
+
+assumption; employee
+l'assunto
+
+that
+cotesto
+
+inverse; reverse
+inverso
+
+humility
+l'umiltà
+
+adjustment; adaptation; accomodation
+l'adeguamento
+
+to need; to require
+necessitare
+
+morphology
+la morfologia
+
+morally
+moralmente
+
+to authorize
+autorizzare
+
+infrastructure
+l'infrastruttura
+
+acted; agitated
+agito
+
+objective; goal
+l'obbiettivo
+
+finished; over (adj); completed
+terminato
+
+to turn oneself in; to constitute oneself
+costituirsi
+
+formidable
+formidabile
+
+execution
+l'esecuzione
+
+modesty
+la modestia
+
+significantly
+significativamente
+
+to arrest
+arrestare
+
+bell tower
+il campanile
+
+hundred
+il centinaio
+
+carbon
+il carbonio
+
+detention
+la detenzione
+
+to acquire; to purchase
+acquisitare
+
+learned
+appreso
+
+fortune; luck
+la ventura
+
+unemployed; jobless
+disoccupato
+
