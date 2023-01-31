@@ -289,6 +289,9 @@ male
 to wash
 lavare
 
+tooth
+il dente
+
 teeth
 i denti
 
@@ -1859,7 +1862,7 @@ driver
 l'autista; il guidatore
 
 worker
-il lavoratore
+l'operaio; il lavoratore
 
 doctor (medical)
 medico
@@ -7797,3 +7800,12 @@ l'onestà
 
 to throw
 gettare; lanciare
+
+treasure; sweetheart; darlling
+il tesoro
+
+tape
+il nastro
+
+nest
+il nido
