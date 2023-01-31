@@ -1862,7 +1862,7 @@ driver
 l'autista; il guidatore
 
 worker
-l'operaio; il lavoratore
+l'operaio; l'operaia; il lavoratore; la lavoratrice
 
 doctor (medical)
 medico
@@ -7809,3 +7809,13 @@ il nastro
 
 nest
 il nido
+
+to stop (tr)
+fermare
+
+ball
+la palla
+
+cancer
+il cancro
+
