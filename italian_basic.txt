@@ -3479,7 +3479,7 @@ eyelashes
 le ciglia
 
 bell
-il campanello
+il campanello; la campana
 
 brake
 il freno
@@ -7818,4 +7818,28 @@ la palla
 
 cancer
 il cancro
+
+disaster
+il disastro
+
+lip
+il labbro
+
+lips
+le labbra
+
+grew; grew up
+cresciuto
+
+stopped
+fermato
+
+pope
+il papa
+
+to mark
+segnare
+
+video
+il video
 

@@ -21722,7 +21722,7 @@ behavior; conduct
 il comportamento
 
 paragraph
-il paragrafo
+il paragrafo; il capoverso
 
 claim; demand
 pretesa
@@ -23910,9 +23910,6 @@ vorrei aver riconosciuto
 
 non-obvious
 non ovvio
-
-lips
-le labbra
 
 assembly
 l'assemblea
@@ -26711,7 +26708,7 @@ preceded
 preceduto
 
 tear (eye)
-la lacrima
+la lacrima; la lagrima
 
 university (adj); academic; undergraduate
 universitario
@@ -31398,3 +31395,169 @@ la musa
 
 cranberry
 il mirtillo americano; il mirtillo rosso
+
+enlargement; broadening
+l'allargamento
+
+immunity
+l'immunità
+
+plausible
+plausibile
+
+dyed
+tinto
+
+repercussion
+la ripercussione
+
+Mediterranean
+mediterraneo
+
+revaluation; reassessment
+la rivalutazione
+
+to keep oneself
+mantenersi
+
+eminently
+eminentemente
+
+mercury
+il mercurio
+
+seemed
+sembrato
+
+interrogative
+interrogativo
+
+questioning
+l'interrogativo
+
+demolition
+la demolizione
+
+supremacy
+la supremazia
+
+ghost
+il fantasmo
+
+industralization
+l'industrializzazione
+
+taxation
+la tassazione
+
+concentrated
+concentrato
+
+severity
+la severità
+
+violet; viola (music)
+la viola
+
+ash
+la cenere
+
+cylinder
+il cilindro
+
+infirm; sick
+infermo
+
+sailor; seaman
+il marinaio
+
+macerated
+macerato
+
+intervened
+intervenuto
+
+to vote
+votare
+
+compassion
+la compassione
+
+generated
+generato
+
+stick
+il bastone
+
+denominated; named; called
+denominato
+
+to denominate; to name
+denominare
+
+voluntarily
+volontariamente
+
+conscience; consicousness
+la coscienza
+
+cinematic; cinematographic
+cinematografico
+
+reasonably
+ragionevolmente
+
+rehabilitation
+il risanamento
+
+leaned; supported
+appoggiato
+
+hegemony
+l'egemonia
+
+cohesion
+la coesione
+
+to contrast; to counter; to oppose
+contrapporre
+
+rationalism
+il razionalismo
+
+erroneously
+erroneamente
+
+resonance
+la risonanza
+
+specialized
+specializzato
+
+sudden; abrupt
+improvviso
+
+steam; vapor
+il vapore
+
+housekeeper; governess
+la governante
+
+governing
+governante
+
+consumed
+consumato
+
+varied; various
+svariato
+
+resistant; hardy; tough
+resistente
+
+inadmissable
+inammissibile
+
+seemed; appeared
+parso
+
