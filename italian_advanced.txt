@@ -166,9 +166,6 @@ l'arachide
 goal; objective
 l'obiettivo
 
-reliable; dependable; trustworthy; trusted
-affidabile
-
 up front
 in anticipio
 
@@ -12604,9 +12601,6 @@ in tinta unita; semplice
 diving
 i tuffi
 
-track (sport)
-la corsa
-
 high jumping
 il salto in alto
 
@@ -23230,7 +23224,7 @@ l'intelletto
 role
 il ruolo
 
-solitude
+loneliness; solitude
 la solitudine
 
 extended
@@ -26414,7 +26408,7 @@ street (adj)
 stradale
 
 shortage
-la carenza
+la carenza; la scarsità
 
 enhancement; appreciation
 la valorizzazione
@@ -31653,3 +31647,37 @@ veemente
 
 I can't promise miracles
 non posso promettere miracoli
+
+bespoke
+su misura; a misura; fatto su misura
+
+ablation
+l'abazione
+
+to model
+modellare
+
+reliable; dependable; trustworthy; trusted; credible
+affidabile; attendibile
+
+reliably
+affidabilmente; attendibilmente; fedelmente; in modo affidabile
+
+spoil one's appetite
+rovinare l'appetito
+
+additional information
+le informazioni supplementari
+
+run (n); running; track (sport)
+la corsa
+
+to go for a run
+andare a correre; fare una corsa
+
+that's perfect
+è perfetto
+
+that's perfectly fine; it works great 
+va benissimo
+

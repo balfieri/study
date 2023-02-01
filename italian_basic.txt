@@ -439,7 +439,7 @@ sopratutto
 while (doing something)
 mentre
 
-ok
+ok; that's fine
 va bene; ok
 
 how goes it?
