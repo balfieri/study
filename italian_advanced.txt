@@ -31615,3 +31615,11 @@ automedicarsi; curarsi; medicarsi
 fortune cookie 
 il biscotto della fortuna
 
+fan (of something)
+il tifoso; il fan
+
+sports fan
+il tifoso sportivo
+
+sports (adj); sporty
+sportivo
