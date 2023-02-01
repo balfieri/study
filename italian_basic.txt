@@ -691,7 +691,7 @@ il negozio
 to launch
 lanciare
 
-to hit
+to beat; to pound; to hit
 battere
 
 to fish
@@ -3094,7 +3094,7 @@ capire
 to prefer
 preferire
 
-to hit
+to hit; to strike; to knock
 colpire
 
 to vanish; to disappear; to vanquish; to go away
