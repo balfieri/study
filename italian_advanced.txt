@@ -31647,3 +31647,6 @@ la piccantezza
 
 hotness (warmth)
 il caldo; il calore
+
+vehement
+veemente
