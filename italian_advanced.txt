@@ -31635,3 +31635,15 @@ entrare nei dettagli
 
 attractiveness
 l'attrattività
+
+coldness
+la freddezza
+
+warmth; warmness
+il calore; l'affezione
+
+hotness (spice)
+la piccantezza
+
+hotness (warmth)
+il caldo; il calore
