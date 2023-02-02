@@ -1336,7 +1336,7 @@ entro
 to scale
 sguamire
 
-to pounce
+to leap; to pounce
 balzare
 
 to bounce
@@ -21136,9 +21136,6 @@ rimandato
 to go back
 tornarsi indietro
 
-deceipt; deception
-l'inganno
-
 nice shot!
 bel colpo!
 
@@ -31680,4 +31677,127 @@ that's perfect
 
 that's perfectly fine; it works great 
 va benissimo
+
+to direct attenzione
+dirigire l'attenzione; rivolgere attenzione
+
+to lose; to lose out
+rimetterci
+
+to make oneself useful to
+fare comodo a 
+
+to rehash
+rinvangare
+
+to dig up the past
+rinvangare il passato
+
+to turn upside down
+mettere sottosopra
+
+to gorge oneself
+ingozzarsi
+
+in bits and pieces
+a spizzichi e mozzichi
+
+one drip at a time
+con coltagocce
+
+brand new; good as new
+nuovo di pacca 
+
+to be at stake; to be in play
+essere in ballo; stare in ballo
+
+to lay ones hands on (someone)
+mettere le mano addosso a (qualcuno)
+
+by heart; inside and out
+a menadito
+
+to have bad luck
+avere sfiga
+
+constructor
+il costruttore
+
+elbow
+il gomito
+
+to keep one's distance
+tenere le distanze 
+
+to keep an eye on
+tenere sottocchio
+
+deceit; deception; trickery
+l'inganno 
+
+knowing all along; always knowing
+sempre sapendo
+
+selfishness
+l'egoismo
+
+as an example
+come esempio
+
+the prosecution's case
+l'impianto dell'accusa
+
+availed
+avvalso
+
+to avail oneself
+avvalersi
+
+to devise; to conceive
+ideare
+
+to come home; to return home; to go home
+rincasare
+
+stalking
+il pedinamento
+
+autocracy
+l'autocrazia
+
+to sue; to prosecute
+fare causa
+
+profitable
+redditizio
+
+to bestow; to endow
+elargire
+
+to challenge
+sfidare
+
+immensity
+l'immensità
+
+sentient
+senziente
+
+demolition; felling
+l'abbattimento
+
+production chain
+la filiera
+
+loyalty; customer loyalty
+la fidelizzazione
+
+popular
+divulgativo
+
+spy
+la spia
+
+it's the last thing I wanted
+è l'ultima cosa che volevo
 

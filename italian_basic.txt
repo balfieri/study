@@ -4228,7 +4228,7 @@ il banco; la scrivania
 notebook
 il quaderno
 
-class
+class (group of students)
 la classe
 
 book
@@ -5465,7 +5465,7 @@ to take a course
 seguire un corso
 
 to take classes; to take lessons
-prendere classi; prendere lezioni
+prendere lezioni; prendere classi
 
 argument; squabble; quarrel
 il litigio

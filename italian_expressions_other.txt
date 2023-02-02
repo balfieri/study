@@ -1747,7 +1747,7 @@ aspettare Godot
 to have the upper hand
 avere il coltello dalla parte del manico; avere in pugno
 
-to be in a bad moon
+to be in a bad mood
 avere la luna storta
 
 to have weak knees
@@ -2359,9 +2359,6 @@ tirare l'acqua al proprio mulino
 to kick the bucket; to bite the dust
 tirare le cuoia
 
-to find something to sink one's teeth into
-trovare pane per i propri denti
-
 to have a chat
 fare quattro chiacchiere
 
@@ -2394,4 +2391,22 @@ non si sente volare una mosca
 
 and so on and so forth
 e chi più ne ha più ne metta
+
+to be many worries and problems
+avere il diavolo per cappello
+
+he has all the power
+ha il coltello da parte del manico
+
+only a few people
+quattro gatti
+
+to have unrealistic ideas
+avere grilli per la testa
+
+to get in the middle of things
+mettersi semore in mezzo
+
+to sulk
+tenere il muso
 
