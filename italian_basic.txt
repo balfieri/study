@@ -1915,7 +1915,7 @@ il telecomando
 room
 la stanza
 
-bedroom; room
+bedroom; room; chamber
 la camera
 
 living room
@@ -3109,8 +3109,8 @@ suggerire
 to stupify; to be amazed
 stupire
 
-to construct; to build
-costruire
+to construct; to build; to build up
+costruire; edificare
 
 to finish
 finire

@@ -4676,7 +4676,7 @@ to touch; to move; to affect
 commuovere
 
 after all
-in fondo
+dopotutto; in fondo
 
 to barely scratch the surface
 per appena grattare la superficie
@@ -12752,7 +12752,7 @@ to drive easily
 andare facilmente in macchina
 
 barrier island
-l'isola di barriera
+l'isola barriera; l'isola di barriera
 
 to hike
 fare escursioni; fare trekking
@@ -22732,9 +22732,6 @@ essere tutto preso
 spoonable
 cucchiabile
 
-after all
-dopotutto
-
 to dish out; to put onto a plate
 impiattare
 
@@ -31800,4 +31797,151 @@ la spia
 
 it's the last thing I wanted
 è l'ultima cosa che volevo
+
+gossipy
+pettegolo
+
+to get turned on; to get aroused
+eccitarsi
+
+to hand
+passare; porgere
+
+to hand over
+consegnare; cedere
+
+evolving
+in evoluzione
+
+entirety; 
+l'interezza 
+
+nella sua interezza
+in its entirety
+
+to build up (intr)
+accumularsi
+
+to pluck
+spennare; spiumare
+
+to peel
+pelare
+
+airline pilot
+il pilota di linea
+
+cockpit
+la cabina di pilotaggio; la cabina del pilota
+
+bumpy
+accidentato
+
+bumpy ride
+la corsa accidentata; il percorso accidentato; il viaggio accidentato
+
+differently; in a different way
+in modo diverso
+
+air mass
+la massa d'aria
+
+turbulence
+la turbolenza
+
+higher
+più in alto
+
+to time
+cronometrare
+
+rightly; honestly; correclty
+rettamente
+
+diversification
+la diversificazione
+
+it makes up for 
+compensare
+
+movie soundstage
+il pacoscenico del film
+
+kitchen table
+il tavolo della cucina
+
+consider it done!
+considero fatto
+
+equal-weight
+dello stesso peso
+
+equal-size
+di uguali dimensioni; della stessa grandezza
+
+Ligurian
+ligure
+
+burned out
+bruciato; esaurito
+
+to tackle
+placcare
+
+béchamel sauce; bechamel
+la besciamella
+
+what amazes me is
+ciò che mi stupisce è
+
+at some point; at a certain point
+ad un certo punto
+
+by foot
+a piedi
+
+it's good practice
+è una buona pratica; è un buon esercizio
+
+hanger (clothes)
+l'appendiabiti
+
+hanger (airplane)
+l'hanger
+
+I'll check it out
+andrò a dare un'occhiata; vado a controllare
+
+go-to meal
+il pasto preferito
+
+lightly floured
+leggermente infarinato
+
+cooling rack
+la griglia di raffreddamento
+
+drying rack
+lo scolapiatti
+
+copestetic
+copestetico
+
+handed down
+tramandato
+
+to hand down; to bequeath; to pass on; to pass down
+tramandare
+
+diametrically opposed
+diametralmente opposto
+
+gas chamber
+la camera a gas
+
+to rage; to storm; to be violent; to rampage
+imperversare
+
+to hand it to (somebody)
+ammetterlo; concederlo
 
