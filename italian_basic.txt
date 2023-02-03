@@ -4894,7 +4894,7 @@ firmare
 to smoke
 fumare
 
-to succeed
+to succeed; to be successful
 avere successo
 
 to swim
