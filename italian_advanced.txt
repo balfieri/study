@@ -8345,7 +8345,7 @@ moot; irrelevant
 irrelevante; discutibile
 
 attic
-la soffita; l'attico
+l'attico; la soffita; il sottotetto
 
 House of Representatives
 La Camera dei Rappresentanti
@@ -14520,9 +14520,6 @@ la buona forchetta
 
 survivor
 il superstite
-
-attic
-il sottotetto
 
 empathy
 l'empatia
