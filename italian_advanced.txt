@@ -31948,3 +31948,6 @@ ammetterlo; concederlo
 sea salt
 il sale marino; il salmarino
 
+fluffy
+soffice
+
