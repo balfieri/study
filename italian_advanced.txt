@@ -6802,9 +6802,6 @@ la camera matrimoniale
 radiator (heat)
 il termosifone
 
-ram (animal)
-il montone
-
 hamster
 il criceto
 
@@ -32022,3 +32019,25 @@ su tutta la superficie
 
 to slice
 affettare
+
+Gefilte fish
+il pesce Gefilte
+
+balm
+il balsamo
+
+oint
+l'unguento
+
+blind date
+l'appuntamento al buio
+
+mutton; ram (animal)
+il montone
+
+as far as I can recall; as far as I can remember
+per quanto posso recordare; per quanto ricordo; per quel che mi ricordo
+
+if I remember correctly
+se ricordo bene; se ben ricordo; se non ricordo male
+
