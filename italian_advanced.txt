@@ -8375,7 +8375,7 @@ housewife; housekeeper; homemaker
 la massaia
 
 hatchback; tailgate
-Il portellone
+il portellone
 
 fuselage
 la fusoliera
@@ -19844,7 +19844,7 @@ off-color joke
 la battuta fuori luogo; lo scherzo di poco gusto
 
 dirty joke
-la barzelleta sporca; la barzeletta sconce
+la barzelletta sporca; la barzeletta sconce
 
 homebody; couch potato
 il pantofolaio; il tipo casalingo
