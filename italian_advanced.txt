@@ -32041,3 +32041,6 @@ per quanto posso recordare; per quanto ricordo; per quel che mi ricordo
 if I remember correctly
 se ricordo bene; se ben ricordo; se non ricordo male
 
+the recipe calls for
+la ricetta richiede
+
