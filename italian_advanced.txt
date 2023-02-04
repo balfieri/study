@@ -44,7 +44,7 @@ rusty
 arrugginito
 
 to rust
-arrungginire
+arrugginire; arrugginirsi
 
 cozy
 accogliente
@@ -16742,7 +16742,7 @@ to pan; to criticize sharply
 stroncare
 
 catchy; captivating; endearing
-accanttivante
+accattivante
 
 bittersweet
 dolceamaro
