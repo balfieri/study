@@ -1345,9 +1345,6 @@ il cambiamento
 slice
 la fetta
 
-to slice
-affettare
-
 bite (n)
 il mordo
 
