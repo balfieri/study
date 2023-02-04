@@ -31315,9 +31315,6 @@ portante
 to outline; to delineate
 delineare
 
-to dedicate
-dedicare
-
 to accustom; to use; to be in the habit of
 solere
 
@@ -32044,3 +32041,8 @@ se ricordo bene; se ben ricordo; se non ricordo male
 the recipe calls for
 la ricetta richiede
 
+to devote; to dedicate
+dedicare
+
+to rededicate oneself to
+ridedicarsi a
