@@ -1379,7 +1379,7 @@ toy
 il giocattolo
 
 to recommend (something to someone)
-raccomdendare
+raccomandare
 
 to advise (someone)
 consigliare
