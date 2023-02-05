@@ -1102,11 +1102,8 @@ il bagno; il servizio
 toilet
 la toilette; la toletta
 
-trash can
-la spazzatura
-
-garbage
-i rifiuti
+garbage; trash; trash can
+i rifiuti; la spazzatura; l'immondizia
 
 shower
 la doccia

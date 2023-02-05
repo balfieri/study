@@ -6493,6 +6493,9 @@ di persona
 cartoon
 la vignetta; la caricatura
 
+vignette; cartoon
+la vignetta
+
 lipstick
 il rossetto
 
@@ -32085,3 +32088,25 @@ palloso
 
 to do the dishes; to wash the dishes
 lavare i piatti
+
+to recall; to call up (memory)
+rievocare
+
+dozing; slumber; drowsiness
+il dormiveglia
+
+dull; drab; lacklustre
+scialbo
+
+faux-documentary
+finto documentario
+
+sketch; skit
+la scenetta
+
+trash (poor quality)
+la mondezza
+
+chronic illness; chronic sickness
+la malattia cronica
+
