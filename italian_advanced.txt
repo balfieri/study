@@ -2296,8 +2296,8 @@ il dilettante; l'amatore
 golf tournament
 il torneo di golf
 
-spocchioso
 snotty
+spocchioso
 
 means
 i mezzi
@@ -4652,7 +4652,7 @@ aboveground; on the surface
 in superficie
 
 underground; under the surface
-sottoterra; sottoteraneo
+sottoterra; sottoterraneo
 
 whim; indulgence
 lo sfizio
@@ -14042,7 +14042,7 @@ challenger; competitor; rival
 lo sfidante
 
 designing; planning
-la pregettazione
+la progettazione
 
 clarification; specification; explanation
 la precisazione
@@ -17573,7 +17573,7 @@ resign yourself
 mettiti il cuore in pace
 
 make yourself at home
-méttiti in libertà
+mettiti in libertà
 
 to manage; to make due
 arrangiarsi
@@ -23162,7 +23162,7 @@ pamphlet
 l'opuscolo; il volantino
 
 don't be silly
-non dire sciochezza; non dire stupidagini
+non dire sciochezze; non dire stupidagini
 
 gladly; I'd love to
 volentieri
@@ -23398,8 +23398,8 @@ rancido
 non finché non
 not until
 
-dissociare; dissociarsi
 to disassociate
+dissociare; dissociarsi
 
 miracle
 il miracolo
@@ -24260,7 +24260,7 @@ it never occurred to me that
 non mi è mai venuto in mente che
 
 very last
-ulitimissimo
+ultimissimo
 
 I wish the best of luck to you and your family
 auguro ogni fortuna a te e alla tua famiglia
