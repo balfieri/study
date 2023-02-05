@@ -1,5 +1,4 @@
 # non-obvious uses of the word GET not found in other lists
-# note: some of these are vulgar
 #
 getup
 un costume (ridicolo)
@@ -106,9 +105,6 @@ essere in ritardo sull'orario
 to get bent out of shape
 essere infastiditi inutilmente
 
-to get bitches
-trovare ragazze o puttane (di solito se la dice scherzosamente fra amici senza nessun perché)
-
 to get blown away
 essere sbalordito o sorpreso da (qualcosa); essere impressionato positivamente da (qualcosa)
 
@@ -175,9 +171,6 @@ provare ad ingannare (qualcuno)
 to get crucified; to get raked over the coals
 venir puniti eccessivamente
 
-to get deep in the shit
-mettersi in una situazione molto complessa e essere fuori controllo e forse nei guai
-
 to get destroyed
 distruggersi
 
@@ -201,9 +194,6 @@ venir licenziato
 
 to get friend-zoned
 essere friendzonato (cioè essere messo nello stato delle relazioni in cui sia solo un amico di qualcuno)
-
-to get fucked up
-incasinarsi; ubriacarsi; sballarsi
 
 to get funky with it
 spassarsela (?)
@@ -234,9 +224,6 @@ essere imbrogliato
 
 to get horizontal with (somebody)
 andare a letto con (qualcuno); fare sesso
-
-to get hosed
-essere preso per il culo
 
 to get hung up on (something)
 bloccarsi su (qualcosa) e preoccuparsene
@@ -385,9 +372,6 @@ rallegrarsi di (qualcosa)
 to get off one's feet
 smettere di stare in piedi
 
-to get off (someone's) back; to get off (someone's) ass
-smettere di rimproverare (qualcuno); smettere di costringere (qualcuno)
-
 to get off the ground
 cominciare a riuscire a fare (qualcosa)
 
@@ -403,17 +387,11 @@ smettere di essere altezzoso
 to get on (somebody)
 criticare continuamente (qualcuno)
 
-to get on (someone's) ass
-costringere (qualcuno) a fare (qualcosa)
-
 to get on (someone's) case
 criticare (qualcuno) o costringere (qualcuno) a fare (qualcosa)
 
 to get on (someone’s) nerves
 dare sui nervi a (qualcuno)
-
-to get on the ball; to get one's shit together; to get one's ducks in a row
-organizzarsi
 
 to get on the bandwagon
 accettare un'idea o iniziare a partecipare a un movimento
@@ -426,12 +404,6 @@ organizzarsi per poter fare dei compiti a lavoro o in casa
 
 to get one for free
 ricevere (qualcosa) senza pagare o senza sforzi
-
-to get one's ass handed to (him/her)
-perdere malissimo
-
-to get one's ass in gear
-organizzarsi; sbrigarsi
 
 to get one's bell rung
 subire una sconfitta (di solito inaspettatamente)
@@ -459,9 +431,6 @@ venire a capo di (qualcosa)
 
 to get one's head examined
 lo si dice a una persona quando afferma (qualcosa) privo di senso
-
-to get one's head out of one's ass
-smettere di essere stupido e testardo rispetto a (qualcosa)
 
 to get one's head together
 mettere la testa a posto; smettere di pensare in modo dannoso
@@ -550,9 +519,6 @@ passare al lato fisico (in qualsiasi modo)
 to get pissed
 dire ubriacarsi (nel Regno Unito); arrabbiarsi (negli USA)
 
-to get plastered; to get silly drunk; to get hammered; to get shit-faced
-ubriacarsi molto
-
 to get promoted
 ricevere una promozione sul lavoro
 
@@ -592,9 +558,6 @@ essere derubato (spesso usato figurativamente nello sport ecc.)
 to get saucy; to get snotty
 essere spocchioso o irrispettoso
 
-to get screwed
-prenderlo in culo
-
 to get screwed out of (something)
 non ricevere (qualcosa) di dovuto
 
@@ -606,12 +569,6 @@ essere annoiato di (qualcosa)
 
 to get shat upon
 essere denigrato 
-
-to get shit
-essere preso in giro
-
-to get shit-faced
-ubriacarsi o sballarsi moltissimo
 
 to get shut down
 venir zittito
@@ -813,9 +770,6 @@ venir licenziato; venire silurato
 
 to get the shaft; to get shafted
 venir imbrogliato; essere sfortunato
-
-to get the shit kicked out of oneself
-essere picchiato gravemente
 
 to get the short end of the stick
 ricevere poco per fare molto; essere sfortunato

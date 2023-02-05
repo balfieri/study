@@ -730,9 +730,6 @@ mangiuccare
 to quell the appetite
 calmare l'appetito
 
-as hell
-boia
-
 confetti
 i coriandoli
 
@@ -12298,9 +12295,6 @@ attirare
 for all to see
 alla luce del sole
 
-to go to hell
-andare al diavolo
-
 to open one's eyes
 aprire gli occhi
 
@@ -18304,7 +18298,7 @@ tirare tardi
 to freak out; to flip out; dare in matto impazzire
 sbroccare
 
-damn!
+darn!; damn!
 che cavolo!; cavolo!
 
 it's the bomb! molto bello
@@ -32082,3 +32076,10 @@ i rametti di rosmarino senza gambi
 
 unforeseen event; unexpected event
 l'imprevisto
+
+as hell
+boia
+
+insanely boring; ridiculously boring; boring as hell
+palloso
+
