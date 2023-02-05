@@ -1,5 +1,4 @@
 # Bob's favorite American expressions that are not in other lists already
-# note: some of these are vulgar
 #
 a piece of work
 un personaggio
@@ -31,17 +30,8 @@ non ci credo
 for real? 
 stai scherzando?; mi prendi in giro?
 
-you're shitting me; you gotta be kidding me; you gotta be fucking kidding me
-mi prendi per il culo
-
-un-F-ing-believable; un-fucking-believable
-non ci posso credere; non ci posso credere cazzo; è una follia
-
 that's totally ridiculous!
 non ha alcun senso
-
-that’s total bullshit; that’s total fucking bullshit 
-è una stronzata colossale
 
 you're preaching to the choir
 me sfondi una porta aperta
@@ -60,9 +50,6 @@ l'elefante nella stanza
 
 to kitchen-sink at; to throw everything but the kitchen sink at
 rinfacciare a
-
-I can't take this anymore!; I can't stand this anymore!; I’ve had it!; I’ve had it up to here!; I'm so sick of this crap/shit/bullshit!
-non ne posso più
 
 I've had it up to here!
 ne ho abbastanza!
@@ -90,9 +77,6 @@ girare a vuoto; essere uno zombie; non poter stare in piedi
 
 (something) aholic
 (qualcosa) dipendente
-
-shit-eating grin
-un sorrisetto di merda dalla faccia
 
 I smell a rat
 sento puzza di bruciato
@@ -373,20 +357,11 @@ dai che spacchiamo tutto
 now we're cooking with gas!
 a vele spiegate!
 
-kick butt and ask questions later
-calci in culo e fai domande più tardi
-
 chill out
 ripigialiti
 
 take a chill pill; take a chill pill and call me in the morning
 camomillati
-
-chill the fuck out; calm the fuck down
-prenditi una cazzo di camomilla
-
-the (noun) from hell
-la (qualcosa) demmerda
 
 to be higher up on the food chain
 essere di un altro livello
@@ -442,17 +417,11 @@ ma non mi dire
 to kick the bucket
 crepare
 
-to do (something) for shits and gigs
-buttarsi
-
 sick (cool)
 figo
 
 to be hype
 non vedere l'ora 
-
-what on earth?; why on earth?; for fuck's sake?
-perché mai?
 
 Renaissance man; Renaissance woman
 essere una persona poliedrica
@@ -495,9 +464,6 @@ uno sciupafemmine
 
 asleep at the wheel
 morto che cammina
-
-to give (someone) some serious shit
-dare del filo da torcere
 
 the silent treatment
 il muso duro
@@ -544,9 +510,6 @@ adesso ci siamo
 I couldn't care less
 non me ne può fregar di meno
 
-I don't give a damn/rat’s ass; I don't give a shit; I don't give a fuck
-non me ne frega un cazzo
-
 deal with it!
 farci i conti
 
@@ -558,9 +521,6 @@ basta per cortesia
 
 Houston, we have a problem
 Houston, abbiamo un problema
-
-to mess with (somebody); to mess with (somebody's) mind; to fuck with (somebody's) mind
-scherzare; incasinare
 
 gotcha!
 beccato!; fregato!
@@ -575,7 +535,7 @@ dressed to kill
 vestito di tutto punto
 
 a ballpark figure
-una cifra approsimativa 
+una cifra approssimativa 
 
 back-of-the-envelope calculation
 due conti al volo
@@ -591,9 +551,6 @@ mangiare come un porco
 
 to drive (someone) up a wall
 far andare via di testa 
-
-to mess up; to screw up; to fuck up
-smerdare; fare casino; fare una cazzata
 
 to ride shotgun
 fare da copilota 
@@ -838,17 +795,11 @@ la palla al piede
 an old fuddy-duddy
 il vecchio sfigato
 
-scared shitless
-spaventato a morte
-
 that won't be happening
 non se ne parla neppure
 
 over my dead body!
 sul mio cadavere!
-
-shitstorm
-la tempesta di merda
 
 to have diarrhea of the mouth; to be a motor-mouth
 chiacchierare troppo
@@ -890,13 +841,10 @@ I need to go powder my nose
 ho bisgno di incipriarmi il naso
 
 your call
-la decisione è  tua
+la decisione è tua
 
 your move
 tocca a te
-
-shit or get off the pot
-caga o alzati dal cesso
 
 to power through something
 finire qualcosa anche se si voglia mollare
@@ -924,9 +872,6 @@ rinunciare; fare il fifone
 
 to flake out
 sfaldarsi; dare buca
-
-as hell; as shit; as fuck (AF)
-molto; tanto
 
 the 411; the deets
 i dettagli
@@ -957,9 +902,6 @@ hai gli occhi piu'grandi dello stomaco
 
 to see the world through rose-colored glasses
 essere una Pollianna
-
-to give it right back to (somebody)
-prendere (qualcuno) per il culo subito dopo essere preso per il culo
 
 to ace an exam
 superare brillantemente un esame
@@ -1138,9 +1080,6 @@ piuttosto (qualcosa)
 it just works
 funziona e basta; funziona
 
-to kick (somebody's) ass; to give (somebody) a kick in the ass
-prendere a calci in culo a (qualcuno); rompere il culo a (qualcuno)
-
 no rush!
 senza fretta!
 
@@ -1179,9 +1118,6 @@ il mio lavoro non è mai finito
 
 motherless
 senza mamma
-
-to be scared shitless
-essere spaventato a morte; avere una paura matta
 
 it's no picnic
 non è una passeggiata
@@ -1266,9 +1202,6 @@ assolutamento no
 
 way!
 no, è vero!
-
-this is fucking incredible
-quanto cazzo è incredibile
 
 to close the loop
 chiudere il ciclo
