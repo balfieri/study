@@ -27214,7 +27214,7 @@ mazzo
 vanilla
 la vaniglia
 
-seasoning; condiment; dressing
+seasoning; condiment; topping; dressing
 il condimento
 
 to degrease
@@ -30212,7 +30212,7 @@ to oblige; to compel
 obbligare
 
 reverse; inverted
-rovescio
+rovescio; rovisciato
 
 rainfall; cloudburst
 il rovescio
@@ -32193,3 +32193,15 @@ interpretato da
 
 to change for the better
 cambiare in meglio
+
+all-purpose
+per tutti gli usi
+
+to double in size
+raddoppiare di volume
+
+in my humble opinion
+a mio modesto parere
+
+miracles happen
+i miracoli accadono
