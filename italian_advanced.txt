@@ -4610,7 +4610,7 @@ zeal
 lo zelo
 
 aside from; besides
-oltre a
+a parte; oltre a
 
 to evoke
 evocare
@@ -24979,7 +24979,7 @@ l'onere
 excellence
 l'eccellenza
 
-to come back; to indent
+to reenter; to come back; to indent
 rientrare
 
 terrestrial
@@ -32182,3 +32182,14 @@ il mondo sta finendo; il mondo sta per finire
 it feels like the world is ending; it seems like the end of the world
 sembra la fine del mondo
 
+out of spite
+per ripicca
+
+under (influence); in accordance with; by force of
+in forza di
+
+played by (acting)
+interpretato da
+
+to change for the better
+cambiare in meglio
