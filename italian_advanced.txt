@@ -434,7 +434,7 @@ embers; ember
 la brace
 
 barrel
-la botte
+la botte; il barile
 
 slack; laziness
 la fiacca
@@ -7276,7 +7276,7 @@ che far sentire realizzato; gratificante
 satisfying
 soddisfacente
 
-to strengthen
+to strengthen; to reenforce
 rafforzare
 
 to strive; to endeavor; to force oneself
@@ -22576,9 +22576,6 @@ denaturare
 to stiffen; to harden
 irrigidirsi
 
-to coagulate
-coagulare
-
 creaminess
 cremosità
 
@@ -32136,4 +32133,52 @@ vivo nel mio mondo; vivo in un mondo tutto mio
 
 I live in my own little world
 vivo nel mio piccolo mondo
+
+to caddy
+fare il caddie
+
+caddie
+il caddie
+
+clump; lump; clot
+il grumo
+
+clot
+il coagulo; il grumo
+
+to clot; to coagulate
+coagulare
+
+to scrape
+raschiare
+
+spatula
+la spatola
+
+to settle for; to make do with
+accontentarsi di
+
+echoey; echoing
+echeggiante
+
+to echo
+echeggiare
+
+eradic
+eradicare; sradicare
+
+eradication
+l'eradicazione
+
+divergence
+la divergenza
+
+stratosphere
+la stratosfera
+
+the world is ending
+il mondo sta finendo; il mondo sta per finire
+
+it feels like the world is ending; it seems like the end of the world
+sembra la fine del mondo
 
