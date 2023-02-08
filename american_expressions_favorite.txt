@@ -28,7 +28,7 @@ are you kidding me?
 non ci credo
 
 for real? 
-stai scherzando?; mi prendi in giro?
+stai scherzando?; mi prendi in giro?; sul serio?
 
 that's totally ridiculous!
 non ha alcun senso
@@ -659,9 +659,6 @@ defilarsi; svignarsela; smammarsela
 
 whatever
 sia quel che sia
-
-for real?
-sul serio?
 
 seriously?
 seriamente? 

@@ -6232,7 +6232,7 @@ esulare
 the topic at hand
 l'argomento principale
 
-deposit
+deposit; down payment
 il deposito; la caparra
 
 to blacken
@@ -11904,9 +11904,6 @@ tarlato
 
 chivalry
 la cavelleria
-
-down payment; deposit
-la caparra
 
 deterioration
 l'aggravamento
@@ -22682,7 +22679,7 @@ to put away
 riponilare
 
 tara gum
-gomma di tara
+la gomma di tara
 
 to lend itself to 
 prestarsi ad essere
@@ -25575,6 +25572,9 @@ tacere
 
 to earn
 guadagnare
+
+to gain time
+guadagnare tempo
 
 to punish
 punire
@@ -31195,7 +31195,7 @@ la consulenza
 likewise
 parimente
 
-to try again
+to try again; to censure
 riprovare
 
 metamorphosis
@@ -32232,3 +32232,61 @@ attillato
 
 retarded; delayed
 ritardato
+
+gum; tire; eraser; rubber
+la gomma
+
+inflammation
+l'inflammazione
+
+I'll check it out
+lo controllerò; lo guarderò; darò un'occhiata
+
+groundhog
+la marmotta
+
+gun license; gun permit; firearms license; firearms permit
+porto d'armi
+
+air conditioner
+il climatizzatore
+
+cremation
+la cremazione
+
+I don't believe my eyes
+non credo ai miei occhi
+
+in the front row
+in prima fila
+
+in the back row
+in ultima fila
+
+banknote
+la bancanota
+
+babe; doll
+la bambola
+
+lost and found
+gli oggetti smarriti
+
+lost; astray
+smarrito
+
+to go astray; to lose; to misplace
+smarrire
+
+on the agenda; scheduled
+in programma
+
+florist
+il fioraio; la fioraia
+
+job interview
+il colloquio di lavoro
+
+it's a question of
+la questione è
+

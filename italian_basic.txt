@@ -3478,9 +3478,6 @@ il freno
 wheel
 la ruota
 
-tire; eraser; rubber
-la gomma
-
 cute
 carino
 
@@ -7833,4 +7830,7 @@ segnare
 
 video
 il video
+
+to participate in
+partecipare a
 
