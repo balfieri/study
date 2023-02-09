@@ -4546,9 +4546,6 @@ vecchio; antico
 alive
 vivo
 
-spoiled
-viziato
-
 vulgar
 volgare
 

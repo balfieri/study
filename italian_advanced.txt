@@ -32350,3 +32350,6 @@ l'entalpia
 irreparably
 irreparabilmente
 
+spoiled
+viziato
+
