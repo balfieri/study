@@ -7480,8 +7480,8 @@ l'affluenza
 estimate; estimation
 la stima
 
-hassle
-la seccatura; il fastidio; il problema
+hassle; annoyance; bother; nuisance
+la seccatura; il fastidio
 
 to lose one's momentum
 perdere il ritmo
