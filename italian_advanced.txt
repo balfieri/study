@@ -1258,9 +1258,6 @@ adeguare
 excess (n)
 l'eccesso
 
-to annoy
-dare fastidio
-
 to be annoying
 essere fastidioso
 
@@ -1768,8 +1765,8 @@ importunare
 to gladden; to cheer; to rejoice
 rallegrare
 
-to annoy
-infastidire
+to annoy; to irritate; to irk
+infastidire; irritare; dare fastidio
 
 to dissolve; to melt
 dissolvere
@@ -32361,3 +32358,4 @@ la farina di mais
 
 both sides
 entrambi i lati; entrambe le parti
+
