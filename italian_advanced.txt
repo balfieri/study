@@ -26155,7 +26155,7 @@ addietro
 to base
 basare
 
-destroyed
+destroyed; wrecked
 distrutto
 
 content
@@ -32138,7 +32138,7 @@ to caddy
 fare il caddie
 
 caddie
-il caddie
+il portamazze; il caddie
 
 clump; lump; clot
 il grumo
@@ -32334,3 +32334,19 @@ il volt
 
 impressionist painting
 la pittura impressionista; il quadro impressionista
+
+not only that
+non solo; non solo quello
+
+vicious
+vizioso; malvagio
+
+entropy
+l'entropia
+
+enthalpy
+l'entalpia
+
+irreparably
+irreparabilmente
+
