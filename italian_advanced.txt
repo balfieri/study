@@ -7612,7 +7612,7 @@ la stirpe
 skill; cleaverness; ability
 la bravura
 
-to cover; to smother
+to cover; to smother; to coat
 ricoprire
 
 blasphemy
@@ -32358,3 +32358,4 @@ metà di
 
 cornmeal
 la farina di mais
+
