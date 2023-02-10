@@ -13090,9 +13090,6 @@ lagnare
 to bust; to ruin; to batter; to wreck
 scassare
 
-relevant
-rilevante
-
 detachment; separation
 il distacco
 
@@ -30089,7 +30086,7 @@ transcendental
 trascendentale
 
 relevant; pertinent
-attinente
+rilevante; pertinente; attinente
 
 cover; front page
 la copertina
