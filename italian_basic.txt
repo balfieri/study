@@ -7454,7 +7454,7 @@ typically
 tipicamente
 
 grammar
-grammatica
+la grammatica
 
 jump
 il salto
