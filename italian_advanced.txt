@@ -32475,3 +32475,6 @@ la frutta congelata
 
 fruits and vegetables
 gli ortofrutticoli
+
+compressor
+il compressore
