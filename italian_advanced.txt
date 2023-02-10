@@ -29275,7 +29275,7 @@ suscitato
 attachment
 l'allegato
 
-annexed
+attached; annexed
 allegato
 
 foreigner
