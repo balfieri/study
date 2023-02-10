@@ -32472,3 +32472,6 @@ fuori stagione
 
 frozen fruit
 la frutta congelata
+
+fruits and vegetables
+gli ortofrutticoli
