@@ -583,9 +583,6 @@ imballare
 to reject
 rifiutare; rispingere
 
-to annul; to cancel
-annullare
-
 altogether different
 del tutto diverso
 
@@ -1669,9 +1666,6 @@ passare il resto della vita
 as far back as I can remember
 per quanto posso ricordare
 
-to delete
-eliminare; cancellare
-
 to go too far
 andare troppo oltre; spingersi troppo oltre; spingersi troppo in là
 
@@ -2392,7 +2386,7 @@ effettivamente
 to be held; to take place
 tenersi
 
-if need be; if necessary; perhaps
+possibly; if need be; if necessary; perhaps
 eventualmente
 
 obnoxious
@@ -8327,7 +8321,7 @@ moot; irrelevant
 irrelevante; discutibile
 
 attic
-l'attico; la soffita; il sottotetto
+la soffita; il sottotetto
 
 House of Representatives
 La Camera dei Rappresentanti
@@ -8938,7 +8932,7 @@ la chiurgia
 surgery (room)
 l'ambulatorio
 
-long haul
+long-range; long-haul
 a lungo raggio
 
 octogenarian
@@ -10150,7 +10144,7 @@ perseguitare
 mindset; mentality
 la mentalità
 
-gripping; riveting; absorbing; exciting
+gripping; riveting; absorbing; exciting; addictive
 avvincente
 
 to shriek
@@ -11317,7 +11311,7 @@ l'indumento
 statesman
 lo statista
 
-to discredit
+to discredit; to debunk
 sfatare
 
 to suppress
@@ -11923,7 +11917,7 @@ abissale
 influx; inflow
 l'afflusso
 
-to urge; to ask; to sollicit
+to urge; to ask; to sollicit; to exhort
 sollecitare; esortare
 
 to expose; to reveal; to uncover
@@ -16465,9 +16459,6 @@ a piccole dosi
 once and for all
 una volta per tutte
 
-out of the blue
-di punto in bianco
-
 time and time again
 a ripetizione
 
@@ -16705,7 +16696,7 @@ malinconico
 mix; mixing (audio, film,  TV)
 il missaggio
 
-feedback; finding; reply; confirmatio
+feedback; finding; reply; confirmation
 il riscontro
 
 debut; beginning; onset
@@ -22249,7 +22240,7 @@ l'ispirazione
 referred; reported; baseline
 riferito
 
-cheap; convenient; appropriate; advantageous
+cheap; appropriate; advantageous
 conveniente
 
 scheme; pattern
@@ -27778,8 +27769,11 @@ intimamente
 to manifest; to evince
 manifestare
 
-random; casual; coincidental
+random; coincidental
 casuale
+
+casual
+informale
 
 to appear; to emerge
 comparire
@@ -32364,3 +32358,97 @@ aerobico
 
 aerobic exercise
 l'esercizio aerobico
+
+off the coast of
+al largo della costa di; al largo delle coste di
+
+hybrid
+l'ibrido
+
+long-term
+a lungo termine
+
+to store
+immagazzinare
+
+to impose constraints
+imporre vincoli
+
+conspiratorial
+cospirativo
+
+self-regulation
+l'autoregolamentazione
+
+enhanced; strengthened; stepped up
+potenziato
+
+to take offense; to get upset
+prendersela
+
+binding; constricting; mandatory
+vincolante
+
+unionist
+il sindacalista
+
+all-encompassing
+totalizzante 
+
+plenary
+plenario
+
+packed; crowded; full
+gremito
+
+to center; to centralize
+incentrare
+
+as the next step
+come passo successivo
+
+prostate; prostrated
+prostrato
+
+to lash; to whip; to thrash
+sferzare
+
+continued; carried on; went on
+proseguito
+
+equipment; gear; outfit
+l'equipaggiamento
+
+to break one's heart
+accorarsi
+
+heartfelt; woeful
+accorato
+
+fatigued; weary; tired; jaded
+affaticato
+
+to grieve; to pain
+addolorare
+
+willing; keen
+volenteroso 
+
+to dispose of
+disporre di
+
+drug
+la droga
+
+performance; show
+l'esibizione
+
+art exhitib
+la mostra d'arte
+
+from top to bottom
+da cima a fondo
+
+to flatten
+appiattire 
+

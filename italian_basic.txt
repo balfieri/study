@@ -4855,7 +4855,10 @@ seguire
 to travel
 viaggiare
 
-to cancel
+to cancel; to annul
+annullare
+
+to delete; to erase
 cancellare
 
 to dance
@@ -4996,8 +4999,8 @@ favoloso
 amazing
 incredibile; fantastico; meraviglioso; sbalorditivo; stupefacente; sorprendente
 
-outstanding; exceptional
-eccezionale
+outstanding; exceptional; terrific
+eccezionale; stupdendo
 
 surprising
 sorprendente
@@ -5685,6 +5688,9 @@ l'appunto
 
 notes
 gli appunti; le note
+
+to take notes
+prendere appunti
 
 will; willingness
 la volontà
@@ -7831,3 +7837,5 @@ il video
 to participate in
 partecipare a
 
+to throw away
+gettare via; buttare via
