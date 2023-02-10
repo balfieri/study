@@ -4634,7 +4634,7 @@ aboveground; on the surface
 in superficie
 
 underground; under the surface
-sottoterra; sottoterraneo
+sottoterra; sotterraneo
 
 whim; indulgence
 lo sfizio
