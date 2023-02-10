@@ -4276,7 +4276,7 @@ sono le due e venticinque
 it’s half past two
 sono le due e mezza
 
-it’s twenty to three.
+it’s twenty to three
 sono le tre meno venti
 
 it’s a quarter to three
