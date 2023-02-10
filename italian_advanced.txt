@@ -21628,7 +21628,7 @@ il manico
 mint
 la menta
 
-exhibition
+exhibition; exhibit
 la mostra
 
 shovel
@@ -32443,7 +32443,7 @@ la droga
 performance; show
 l'esibizione
 
-art exhitib
+art exhibit
 la mostra d'arte
 
 from top to bottom
@@ -32466,3 +32466,6 @@ tutto è tornato alla normalità
 
 buttermilk
 il latticello
+
+out of season
+fuori stagione
