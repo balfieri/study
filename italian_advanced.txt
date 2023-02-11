@@ -32503,3 +32503,11 @@ il catetere
 stent
 lo stent
 
+segregation
+la segregazione
+
+segregated
+segregato
+
+to segregate
+segregare
