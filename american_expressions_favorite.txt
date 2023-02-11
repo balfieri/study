@@ -562,7 +562,7 @@ to dump (somebody)
 mollare (qualcuno)
 
 to have a crush on (someone)
-avere una cotta; prendersi una cotta per (qualcuno); avere un debole per (qualcuno)
+avere una cotta per (qualcuno); prendersi una cotta per (qualcuno); avere un debole per (qualcuno)
 
 to have the hots for (somebody)
 sbavare per (qualcuno)
@@ -1048,10 +1048,10 @@ down for the count
 al tappeto
 
 like father, like son
-come padre, come figlo
+come padre, come figlo; tale padre, tale figlio
 
 like mother, like daughter
-come madre, come figlia
+come madre, come figlia; tale madre, tale figlia
 
 the apple doesn't fall far from the tree
 la mela non cade mai lontana dall'albero

@@ -1627,7 +1627,7 @@ fannulone
 begger
 il mendicante
 
-garb; clothing
+garb; clothing; attire
 l'abbigliamento; l'abito
 
 to arm wrestle
@@ -4561,7 +4561,7 @@ molto tempo fa
 in the old days
 ai vecchi tempi
 
-to grab; to grasp; to seize; to snarf
+to grab; to grip; to grasp; to seize; to snarf
 afferrare
 
 to play catch
@@ -10489,8 +10489,8 @@ per aggiungere al danno la beffa
 prank; mockery
 la beffa
 
-sloppy
-sciatto
+sloppy; drab; frumpy; dowdy; scruffy
+sciatto; trasandato
 
 fresh start
 il nuovo inizio
@@ -19690,7 +19690,7 @@ gestire la situation
 to turn to; to become
 divenire
 
-wound
+wound; injury
 la ferita
 
 to reopen the wound
@@ -24472,9 +24472,6 @@ perdere l'equilibrio
 death certificate
 il certificato di morte
 
-to cling
-aggrapparsi
-
 to dip
 intingere
 
@@ -26387,7 +26384,7 @@ consequently
 conseguentemente
 
 opponent; adversary
-l'avversario
+l'avversario; l'oppositore
 
 spouse
 il coniuge
@@ -31831,9 +31828,6 @@ ligure
 burned out
 bruciato; esaurito
 
-to tackle
-placcare
-
 béchamel sauce; bechamel
 la besciamella
 
@@ -32350,6 +32344,12 @@ il caramello
 grammatical
 grammaticale
 
+black belt
+la cintura nera
+
+black belt in karate
+la cintura nera di karate
+
 aerobic
 aerobico
 
@@ -32511,3 +32511,97 @@ segregato
 
 to segregate
 segregare
+
+to tackle (physically)
+placcare
+
+crush (romantic)
+la cotta
+
+am I right?; am I making sense?
+dico bene?
+
+potato chip
+la patatina
+
+to set foot in
+mettere piede in
+
+to put under; to run down
+mettere sotto
+
+to hurry
+mettere fretta
+
+locally grown; locally sourced
+a chilometro zero
+
+opposite side
+il lato di contro
+
+addressable (problem); manageable
+affrontabile
+
+crosswalk; pedestrian lane
+la striscia pedonale; il passaggio pedonale
+
+to throw oneself into
+buttarsi in
+
+short film; short (n)
+il cortometraggio
+
+out of favore
+fuori favore; in disgrazia
+
+to fall out of favor
+perdere il favore; cadere in disgrazia
+
+entangled; entwined; locked around one another
+avvinghiato
+
+to cling; to lock; to entangle
+avvinghiarsi
+
+to grapple with
+affrontare; lottare con
+
+to cling; to claw; to clutch
+aggrapparsi
+
+grip
+la presa; l'impugnatura
+
+squalid; seedy; shabby; shallow; tacky
+squallido
+
+to ruin one's appetite
+rovinarsi l'appetito
+
+mat (sport)
+il materassino
+
+mat (foot wiping)
+la stuoia
+
+submissive
+sottomesso
+
+to submit; to subject; to subdue
+sottomettere
+
+to invest time
+investire il tempo
+
+but get this
+ma senti questa; adesso ascolta bene; senti qua; ma guarda qua
+
+internal injury
+la lesione interna
+
+hall of fame
+il corridoio di gloria; la Hall of Fame
+
+of all time
+di tutti i tempi
+
