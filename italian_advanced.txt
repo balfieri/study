@@ -32498,7 +32498,10 @@ small wheel; roller
 la rotella
 
 catheterization
-il cateterismo
+la cateterizzazione; il cateterismo
+
+catheter
+il catetere
 
 stent
 lo stent
