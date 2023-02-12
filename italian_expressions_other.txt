@@ -229,8 +229,8 @@ così sui due piedi
 to sit on the fence
 essere indecisi
 
-to take pains to do
-fare qualcosa con scrupolo
+to take pains to do (something)
+fare (qualcosa) con scrupolo
 
 to take the plunge
 buttarsi in (qualcosa)
@@ -325,7 +325,7 @@ essere stoici
 to keep one's shirt on
 stare calmi
 
-to keep something at bay
+to keep (something) at bay
 tenere sotto controllo
 
 penny for your thoughts?
@@ -559,13 +559,13 @@ fare la volpe con l'uva
 from the horse's mouth
 dalla fonte di chi lo ha detto
 
-to get something off your chest
-confessare qualcosa
+to get (something) off your chest
+confessare (qualcosa)
 
 to hear through the grapevine
 venire a sapere qualcosa
 
-to keep something under one's hat; to keep something close to one's chest
+to keep (something) under one's hat; to keep (something) close to one's chest
 tenere un segreto per sé
 
 to let the cat out of the bag; to spill one's guts; to spill the beans
@@ -574,8 +574,8 @@ vuotare il sacco
 to smell a rat
 sentire puzza di bruciato
 
-to take something with a grain of salt
-prendere qualcosa con le pinze
+to take (something) with a grain of salt
+prendere (qualcosa) con le pinze
 
 to talk turkey
 dire pane al pane e vino al vino
@@ -1036,8 +1036,8 @@ non c'è nessuno che non possa essere comprato
 to count your chickens before they hatch
 contare su ciò che non è ancora sicuro
 
-to take something with a grain of salt
-non credere appieno a qualcuno
+to take (something) with a grain of salt
+non credere appieno a (qualcuno)
 
 don't pay attention to it
 non farci caso
@@ -1348,7 +1348,7 @@ uscire per divertirsi, bere e ballare
 to pull the wool over somebody's eyes
 gettare fumo agli occhi
 
-to ram something down somebody's throat
+to ram (something) down somebody's throat
 far ascoltare ed accettare i propri argomenti, a tutti i costi
 
 to settle old scores

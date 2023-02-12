@@ -11329,7 +11329,7 @@ il premier in pectore
 to mess up
 scombinare
 
-to make something easy
+to make (something) easy
 agevolare
 
 to put aside
@@ -13534,7 +13534,7 @@ non è che
 to throw in the towel
 gettare la spugna
 
-to leave something to be desired
+to leave (something) to be desired
 lasciare un po' a desiderare
 
 sometimes; occasionally; once in a while; now and then
@@ -17743,7 +17743,7 @@ lasciarsi da buoni amici
 to play hard to get
 far finta di non essere coinvolti
 
-to play something by ear
+to play (something) by ear
 decidere all'ultimo momento
 
 to put one's foot in one's mouth; to step in it
@@ -18299,7 +18299,7 @@ to have a thick skin
 avere la pelle dura
 
 to have (something) on the tip of one's tongue
-avere qualcosa sulla punta della lingua
+avere (qualcosa) sulla punta della lingua
 
 to land on one's feet
 cadere sempre in piedi
@@ -18352,7 +18352,7 @@ essere un libro aperto
 to take a leap of faith
 fare atto di fede
 
-to leave something to be desired
+to leave (something) to be desired
 lasciare a desiderare
 
 to wash one's hands of (something)
@@ -29959,8 +29959,8 @@ poco prima; appena prima
 to accumulate
 accumulare
 
-if something unexpected happens
-se succede qualcosa di inaspettato
+if (something) unexpected happens
+se succede (qualcosa) di inaspettato
 
 unexpected
 inaspettato
