@@ -13006,7 +13006,7 @@ per un pelo
 there's no way; don't make a move
 non fare una piega
 
-at the end of the day
+at the end of the day; after all; when all is said and done
 in fin dei conti
 
 whisker; hair
@@ -32644,3 +32644,14 @@ non c'è paragone
 grafted; implanted; engaged
 innestato
 
+metric
+metrico
+
+metric system
+il sistema metrico
+
+artery
+l'arteria
+
+lymph
+la linfa
