@@ -31804,9 +31804,6 @@ rettamente
 diversification
 la diversificazione
 
-it makes up for 
-compensare
-
 movie soundstage
 il pacoscenico del film
 
@@ -32655,3 +32652,12 @@ l'arteria
 
 lymph
 la linfa
+
+club sport
+il club sportivo; lo sport di club
+
+athletic scholarship
+la borsa di studio atletica; la borsa di studio sportiva
+
+to make up for; to compensate
+compensare
