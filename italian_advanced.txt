@@ -6139,7 +6139,7 @@ affezionare
 to nail; to pin
 inchiodare
 
-to display; to explain; to exhibit; to outline; to expose
+to expose; to display; to explain; to exhibit; to outline
 esporre
 
 firm; company; business
@@ -32715,3 +32715,9 @@ la spalla macinata
 
 to twist; to wrench
 storcere
+
+miniskirt
+la minigonna
+
+to have a lot to say
+avere molto da dire
