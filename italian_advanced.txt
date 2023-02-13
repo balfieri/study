@@ -32663,13 +32663,16 @@ to make up for; to compensate
 compensare
 
 caulk
-lo stucco
+lo stucco; il sigillante
 
 to plaster; to grout; to stucco
 stuccare
 
 to caulk; to calk
 calafatare
+
+caulking
+il calafataggio
 
 baseboard
 il battiscopa
