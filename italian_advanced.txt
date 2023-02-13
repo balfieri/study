@@ -5851,7 +5851,7 @@ desueto
 pension system
 il sistema pensionistico
 
-on the fly
+on the fly; on-the-fly
 al volo
 
 piece of paper
@@ -32730,3 +32730,6 @@ il lavoro all'avanguardia
 
 cutting-edge; groundbreaking
 all'avanguardia
+
+mental faculties
+le facoltà mentali
