@@ -1075,7 +1075,7 @@ metterci
 farewell; leave of absence
 il congedo
 
-as long as; only if; provided
+as long as; only if; provided; provided that
 purché; a patto che; a condizione che
 
 of others; other's; others'
@@ -32766,3 +32766,6 @@ Buon San Valentino
 
 in marked contrast; in clear contrast
 in netto contrasto
+
+in order for; in order to; so as to
+in modo da
