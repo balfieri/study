@@ -4774,8 +4774,8 @@ per quanto riguarda
 notwithstanding
 nondimeno
 
-on the contrary
-al contrario
+on the contrary; conversely; contrarily
+al contrario; tutt'altro; contrariamente
 
 if it's true that; if it's the case that
 se è vero che
@@ -18043,8 +18043,11 @@ atteso
 nerd; geek; egghead
 il secchione
 
+mid-life
+di mezz'età
+
 mid-life crisis
-la crisi di mezza età
+la crisi di mezz'età; la crisi di mezza età
 
 bring it on!; let's do this!; fire away!
 fatti sotto!
@@ -18111,9 +18114,6 @@ trattare qualcuno con freddezza
 
 baker's dozen
 il tredici
-
-on the contrary
-tutt'altro
 
 all roads lead to Rome
 tutte le strade portano a Roma
@@ -30217,9 +30217,6 @@ la notifica
 capture
 la cattura
 
-on the contrary; contrarily
-contrariamente
-
 enunciated
 enunciato
 
@@ -32739,3 +32736,49 @@ la parte posteriore della bocca; il fondo della bocca
 
 carbon atom
 l'atomo di carbonio
+
+sweaty
+sudato
+
+it's not where I want it to be
+non è dove voglio che sia
+
+to fall back in
+ricadere in
+
+each of them
+ognuno di loro
+
+humiliating
+umiliante
+
+humbling
+che rende più umile; umiliante
+
+to castrate; to spay
+castrare
+
+castrating
+castrante
+
+dry cleaner; dry cleaner's
+la lavanderia a secco
+
+it appeals to many people
+a molti piace
+
+to engross
+ingrommare
+
+engrossing
+ingrommante; avvincente
+
+low-key; low-profile
+di basso profilo
+
+Valentine's Day
+il giorno di San Valentino
+
+Happy Valentine's Day
+Buon San Valentino
+
