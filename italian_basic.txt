@@ -2425,6 +2425,9 @@ libero
 free (thing)
 gratis; gratuito
 
+for free
+gratis; gratuitamente
+
 cold
 freddo
 
