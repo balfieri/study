@@ -3823,9 +3823,6 @@ il lavandino della cucina
 self-doubt
 l'insicurezza; di dubbio
 
-there's no way
-non c'è modo; non c'è verso
-
 there is a way
 c'è un modo
 
@@ -9331,9 +9328,6 @@ come vanno le cose?
 what can you tell me?
 cosa mi racconti?
 
-no way!
-ma dai!
-
 I would like to point out; I would like to emphasize
 vorrei sottolineare
 
@@ -13003,7 +12997,7 @@ era ora
 by the skin of one's teeth; by a hair; by a whisker
 per un pelo
 
-there's no way; don't make a move
+don't make a move; don't make a fuss
 non fare una piega
 
 at the end of the day; after all; when all is said and done
@@ -15501,9 +15495,6 @@ farsi giustizia da sé
 
 to lay down the law
 dettare legge
-
-no way!
-neanche per idea
 
 to speak one's mind; to speak frankly
 parlare francamente
@@ -19591,11 +19582,8 @@ la memorabilia; i cimeli
 unfair advantage
 il vantaggio ingiusto; il vantaggio sleale
 
-no way; not a chance
-nemmeno per idea; nemmeno per sogno
-
-no way!
-nessun modo!; non c'è modo!; assolutamente no!; non esiste proprio!
+no way; there's no way; not a chance
+nemmeno per idea; nemmeno per sogno; ma dai; neanche per idea; in nessun modo; non c'è modo; assolutamente no; non esiste proprio; non c'è verso
 
 club; bludgeon
 la clava
@@ -23127,9 +23115,6 @@ condivido pienamente
 
 of course
 ci mancherebbe
-
-no way
-in nessun modo
 
 never ever
 giammai; mai mai
