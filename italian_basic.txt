@@ -1924,9 +1924,6 @@ il garage
 bathroom
 il bagno
 
-ground floor
-il piano terra
-
 guest
 l'ospite
 
