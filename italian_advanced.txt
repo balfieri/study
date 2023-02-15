@@ -20969,7 +20969,7 @@ nod; sign; wave
 il cenno
 
 statute; charter
-il statuto
+lo statuto
 
 also; too
 anco
@@ -24024,9 +24024,6 @@ storicamente
 
 to characterize
 caratterizzare
-
-statute
-lo statuto
 
 Athens
 Atene
@@ -32841,4 +32838,22 @@ la prova di stress; il test di stress; lo stress test
 
 fear of missing out
 la paura di perdere; la paura di essere tagliati fuori; il timore di lasciarsi scappare; la paura di perdere qualcosa
+
+laptop display
+il display del portatile
+
+swell (adj)
+bello; meraviglioso
+
+at the very least
+come minimo; almeno; il minimo che
+
+to take it to the next step 
+portarlo al passo successivo
+
+to fear rejection
+temere il rifiuto; avere paura di essere rifiuto
+
+fear of rejection
+la paura del rifiuto; la paura di essere rispinti; la paura di essere rifiutati
 
