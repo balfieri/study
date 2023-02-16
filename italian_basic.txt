@@ -5533,7 +5533,7 @@ il tipo
 government
 il governo
 
-character
+character (symbol)
 il carattere
 
 some
