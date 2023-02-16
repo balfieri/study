@@ -19669,8 +19669,11 @@ gestire la situation
 to turn to; to become
 divenire
 
-wound; injury
+wound (blood); injury (blood)
 la ferita
+
+injury (muscolar, etc.)
+l'infortugno
 
 to reopen the wound
 riaprire la ferita
@@ -30158,7 +30161,7 @@ to oblige; to compel
 obbligare
 
 reverse; inverted
-rovescio; rovisciato
+rovescio; rovesciato
 
 rainfall; cloudburst
 il rovescio
@@ -30821,7 +30824,7 @@ limping
 lo zoppicamento
 
 tepid; lukewarm
-tepido
+tiepido
 
 proceeded
 proceduto
@@ -32897,7 +32900,17 @@ there's no time to spare
 non c'è tempo da perdere
 
 learner's permit
-al foglio rosa
+il foglio rosa
 
 plastic wrap
 la pellicola trasparente
+
+a nice memory
+un bel ricordo
+
+piston displacement
+la cilindrata
+
+small helmet
+il caschetto
+
