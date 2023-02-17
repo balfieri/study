@@ -11002,7 +11002,7 @@ essere stufo
 comprehensive; exhaustive
 esauriente
 
-to stretch (muscle)
+to stretch (muscle); to lengthen; to extend
 allungare
 
 I hate when that happens
@@ -21940,7 +21940,7 @@ il controllo fiscale; la revisione fiscale; la verifica fiscale
 laxative; purge
 la purga
 
-to resume; to regain
+to resume; to take up again; to return (to); to regain
 riprendere
 
 mannequin; dummy
@@ -32931,3 +32931,6 @@ il sale da tavola
 
 to fetch
 andare a prendere
+
+to review; to rehearse; to backtrack
+ripassare
