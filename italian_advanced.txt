@@ -6730,7 +6730,7 @@ lo spianamento
 as soon as
 non appena; appena che; appena
 
-as soon as possible
+as soon as possible; ASAP
 al più presto; il più presto possibile
 
 to report; to note; to signal; to indicate
@@ -32934,3 +32934,6 @@ andare a prendere
 
 to review; to rehearse; to backtrack
 ripassare
+
+oh my God; OMG
+o mio Dio
