@@ -25709,7 +25709,7 @@ to slaughter
 trucidare
 
 life jacket; life vest
-il giubotto di salvataggio; il guibotto salvagente
+il giubotto di salvataggio; il giubotto salvagente
 
 tipsy; high (on drugs)
 alticcio
@@ -32943,3 +32943,13 @@ in mare aperto; sul mare aperto
 
 solar panel
 il pannello solare
+
+mortal blow; deathblow; kiss of death
+il corpo mortale
+
+to pity; to feel sorry
+fare pena
+
+painfully slow
+dolorosamente lento
+
