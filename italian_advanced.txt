@@ -3658,9 +3658,6 @@ cingere
 to cast; to melt; to fuse
 fondere
 
-to restrict
-restringere
-
 to anoint; to oil
 ungere
 
@@ -33111,3 +33108,13 @@ ssh; zitto
 
 ellipses
 le ellissi
+
+to narrow down; to restrict
+restringere
+
+to narrow down the search
+restringere la ricerca
+
+to narrow down the possibilities
+restringere le possibilità
+
