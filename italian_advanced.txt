@@ -22000,8 +22000,8 @@ non fare la spiritosa
 lobbyist
 la lobbista
 
-to toss a coin
-tirare una moneta
+to toss a coin; to flip a coin
+tirare una moneta; lanciare una moneta
 
 what do you propose?
 cosa proponi?
@@ -23450,7 +23450,7 @@ to be named after
 prendere il nome da
 
 to rekindle
-ravvivare
+riaccendere; ravvivare
 
 machinery
 macchinario
@@ -33123,3 +33123,37 @@ l'impronta
 
 fingerprint
 il fingerprint
+
+to rekindle the friendship
+riaccendere l'amicizia
+
+to rekindle the relationship
+riaccendere la relazione; riaccendere il rapporto
+
+well, I tried
+beh, ci ho provato
+
+the engine is flooded
+il motore è ingolfato
+
+street pusher
+lo spacciatore di strada
+
+count me out; don't count on me
+non contare su di me
+
+heads or tails?
+testa o croce?
+
+best 2 out of 3
+facciamo due su tre
+
+drug addict
+il tossico dipendente 
+
+vented
+sfogato
+
+how was I supposed to know?
+come potevo saperlo?
+
