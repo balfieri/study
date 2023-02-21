@@ -33180,3 +33180,6 @@ un par 3
 
 world championship
 il campionato mondiale
+
+competitive
+competitivo
