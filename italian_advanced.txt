@@ -33177,3 +33177,6 @@ tirare il par
 
 par-3
 un par 3
+
+world championship
+il campionato mondiale
