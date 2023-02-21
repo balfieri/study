@@ -2675,7 +2675,7 @@ to ruin
 rovinarsi
 
 to go downhill
-andare a rotoli
+andare in discesa; andare a rotoli
 
 to scratch (one's)
 grattarsi
@@ -17737,7 +17737,7 @@ vanitoso
 bank (of river); shore; edge
 la sponda; la riva
 
-stream
+stream; creek
 il ruscello
 
 pond
@@ -33171,3 +33171,9 @@ il green
 
 from that point onward
 da quel momento in poi
+
+to shoot par (golf)
+tirare il par
+
+par-3
+un par 3
