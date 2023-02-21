@@ -33120,3 +33120,6 @@ l'impronta di carbonio
 
 footprint; imprint
 l'impronta
+
+fingerprint
+il fingerprint
