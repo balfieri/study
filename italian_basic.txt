@@ -3856,9 +3856,6 @@ la farmacia
 steel
 l'acciaio
 
-ceiling
-il soffito
-
 dryer
 l'asciugatrice
 
