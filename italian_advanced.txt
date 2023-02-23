@@ -2416,7 +2416,7 @@ il chiodo
 to smear
 imbrattare
 
-to throw; to fling; to clap
+to slap; to throw; to fling; to clap
 schiaffare
 
 poised
@@ -3325,7 +3325,7 @@ la feccia
 at all cost
 a tutti i costi
 
-to throw a curveball; to displace; to shock
+to throw a curveball; to displace; to shock; to crowd out
 spiazzare
 
 rank; mob; host
@@ -33294,3 +33294,94 @@ la briga
 
 how about (something)?
 che ne dici di (qualcosa)?
+
+bike ride
+il giro in bici
+
+to take aim
+prendere di mira
+
+antitank
+anticarro
+
+Russophone
+il russofoba
+
+around the corner
+dietro angolo
+
+postal access
+l'accesso postale
+
+brave officer
+il valente ufficiale
+
+head car
+il vagone di testa
+
+edge of the pit
+l'orlo della fossa
+
+to waver; to hesitate
+tentennare
+
+blown away; displaced
+spiazziato
+
+tank
+il carrarmato
+
+to light a fuse
+accendere una miccia
+
+fuse (explosive)
+la miccia
+
+public opinion
+l'opinione pubblica 
+
+disengagement
+il disimpegno
+
+the vulnerable
+i fragili
+
+risk worker
+il lavoratore fragile
+
+small drop in the ocean
+la piccola goccia del mare
+
+sadle
+il sello
+
+Vespa rider
+il vespista
+
+motorcycle rider
+il motorista
+
+fuse (electrical)
+il fusibile
+
+peacefully
+pacificamente
+
+if you had just told me
+se me l'avessi detto
+
+to swear (bad word)
+imprecare
+
+motorcycle ride
+il giro in moto
+
+plane ride
+il giro in aereo
+
+car ride
+il giro in macchina
+
+call me back
+richiamami
+
