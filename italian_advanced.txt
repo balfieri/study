@@ -11551,9 +11551,6 @@ che si dice?
 what can you tell me?
 che mi racconti?
 
-what's up?
-ci sono novità; novità?
-
 the usual
 il solito; la solita
 
@@ -11601,9 +11598,6 @@ nerdare
 
 what the heck
 che/cosa diavolo; cosa accidenti
-
-what's new?
-che c'è di nuovo?; novità?
 
 loony; nutty; crazy; kooky; loopy
 pazzarello
@@ -33400,5 +33394,5 @@ il melodramma
 to be in a relationship
 frequentarsi
 
-what's new?
-cosa c'è di nuovo?; novità?
+what's new?; what's up?
+cosa c'è di nuovo?; che c'è di nuovo?; novità?; ci sono novità?
