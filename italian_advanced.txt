@@ -33414,3 +33414,6 @@ il graffio
 
 to scratch
 graffiare
+
+scratch-resistant
+antigraffio
