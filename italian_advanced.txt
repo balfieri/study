@@ -33409,3 +33409,8 @@ rammollire
 to collect (cars, etc.)
 collezionare
 
+scratch
+il graffio
+
+to scratch
+graffiare
