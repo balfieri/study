@@ -2611,7 +2611,7 @@ la stoglia
 inconvenience; bother; trouble
 l'incomodo
 
-to start; to commence; to begin
+to start; to commence; to begin; to bootstrap
 avviare
 
 to go; to leave; to depart
@@ -33432,3 +33432,22 @@ l'intolleranza
 
 I won't tolerate lactose
 non tollero il lattosio
+
+hearing aid
+l'apparecchio acustico 
+
+to set aside
+accantonare; mettere da parte
+
+to sauté
+soffriggere
+
+I thought this priblem would have been solved by now
+pensavo che ormai questo problema sarebbe stato risolto 
+
+self-assembly
+l'autoassemblaggio
+
+from the top-down; top-down
+dall'alto verso il basso; dall'alto al basso
+
