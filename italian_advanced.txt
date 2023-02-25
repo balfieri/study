@@ -33472,6 +33472,6 @@ la zuffa tra gatte; la lotta tra gatte
 tow; towing
 il traino
 
-tow hitch; tow hook
+trailer hitch; tow hitch; tow hook
 il gancio di traino
 
