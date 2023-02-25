@@ -826,8 +826,8 @@ esserci
 to take part or participate (in something); to be in agreement; to have sufficient space
 starci; fare parte di
 
-non tollerare
-non starci
+to not tolerate
+non tollerare; non starci
 
 to discourage
 scraggiare
@@ -33417,3 +33417,18 @@ graffiare
 
 scratch-resistant
 antigraffio
+
+it's more fun than one person should be allowed to have
+è più divertente di quanto una persona dovrebbe avere; è più divertente di quello che una persona dovrebbe avere
+
+lactose-intolerant
+intollerante al lattosio
+
+lactose intolerance
+l'intolleranza al lattosio
+
+intolerance
+l'intolleranza
+
+I won't tolerate lactose
+non tollero il lattosio
