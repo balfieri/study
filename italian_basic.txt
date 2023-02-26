@@ -3838,18 +3838,6 @@ la pescheria
 supermarket
 il supermercato
 
-cured meat store
-la salumeria
-
-clothing store
-il negozio di abbigliamento
-
-shoe store
-il negozio di calzature
-
-butcher shop
-la macelleria
-
 pharmacy
 la farmacia
 
@@ -6149,7 +6137,7 @@ mail
 la posta
 
 do you mind?
-ti dispiace?
+ti dispiace?; ti spiace?
 
 no, not at all; no, no, of course not; no, not at all
 no, figurati
@@ -7204,8 +7192,8 @@ Buon Compleanno
 Merry Christmas
 Buon Natale
 
-able to
-in grado di
+to be able to
+essere in grado di
 
 wine
 il vino

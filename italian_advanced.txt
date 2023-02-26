@@ -33546,3 +33546,16 @@ ti onorerò con la mia presenza; ti abbellirò con la mia presenza
 
 vacuum-packed
 sottovuoto
+
+cured meat store
+la salumeria
+
+clothing store
+il negozio di abbigliamento
+
+shoe store
+il negozio di calzature
+
+butcher shop
+la macelleria
+
