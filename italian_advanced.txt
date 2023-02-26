@@ -22498,7 +22498,7 @@ vertebrale; vertebral
 carcass
 carcassa
 
-to incorporate
+to incorporate; to mix in; to stir in
 incorporare
 
 shelf life
@@ -24901,7 +24901,7 @@ l'arcivescovo
 forgotten
 dimenticato
 
-commission
+commission; errand
 la commissione
 
 burden; onus
@@ -33480,3 +33480,61 @@ lasciare al caso
 
 don't leave anything to chance
 non lasciare nulla al caso
+
+to go for a ride
+andare a fare un giro
+
+until the bitter end
+fino all'amara fine
+
+unsalted
+non salato
+
+mililiter
+il millilitro
+
+to cook over medium heat
+cuocere a fuoco medio
+
+enameled cast-iron pot
+la pentola di ghisa smaltata
+
+cast iron
+la ghisa
+
+submerged
+sommerso
+
+it's even better the next day
+il giorno dopo è ancora più buona
+
+enameled; glazed
+smaltato
+
+to glaze
+smaltare
+
+self-steering
+autosterzatura
+
+to steer; to swerve
+sterzare
+
+errand
+la commissione; l'incarico
+
+in turn
+a loro volta
+
+dairy (cheese)
+il caseificio
+
+dairy (milk)
+il lattificio
+
+farmhouse
+la cascina
+
+underhand
+sottobando
+
