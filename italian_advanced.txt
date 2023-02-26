@@ -33543,3 +33543,6 @@ onorare; abbellire
 
 I'm going to grace you with my presence
 ti onorerò con la mia presenza; ti abbellirò con la mia presenza
+
+vacuum-packed
+sottovuoto
