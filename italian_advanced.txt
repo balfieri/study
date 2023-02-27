@@ -6997,7 +6997,7 @@ la redazione
 restlessness; impatience; intolerance
 l'insofferenza
 
-deceptive; tricky; misleading
+deceptive; tricky; misleading; gimmicky
 ingannevole
 
 horny; sexually aroused
@@ -16408,8 +16408,8 @@ in buoni rapporti
 small talk
 la conversazione spicciola
 
-to stay in touch
-rimanere in contatto
+to stay in touch; to get in touch
+rimanere in contatto; farsi sentire
 
 against all odds
 contro ogni previsione
@@ -33558,4 +33558,112 @@ il negozio di calzature
 
 butcher shop
 la macelleria
+
+as much as I like (something)
+per quanto mi piace (qualcosa)
+
+favorite
+il prediletto
+
+background; hinterland
+la retroterra
+
+to waste away; to waste; to decline
+deperire
+
+growing gap; growing divide
+il crescente divario
+
+detriment
+lo scapito
+
+background; prehistory; events leading up
+l'antefatto
+
+addiction; habit
+l'assuefazione
+
+creeping; crawling
+strisciante
+
+disenchantment
+il disincanto
+
+advantage; benefit; gain
+il tornaconto
+
+belligerent
+bellicoso
+
+in miniature
+in miniatura
+
+omnivorous
+onnivoro
+
+raucous; clamorous
+vociante
+
+gutted; eviscerated
+sventrato
+
+to gut; to eviscerate
+sventrare
+
+sympathizer
+il simpatizzante 
+
+to sympathize
+simpatizzare
+
+to annex
+annettersi
+
+ederly; aged; old
+attempato
+
+quack; huckster; hustler
+l'imbonitore
+
+to take sides; to align
+schierarsi
+
+gimmick
+il trucco; l'espediente; il stratagemma
+
+instantaneous
+istantaneo
+
+towards me
+nei miei confronti
+
+to hide in broad daylight
+nascondersi in pieno giorno
+
+broad daylight
+il pieno giorno
+
+to suck
+ciucciare
+
+in the hand; in his hand
+in mano
+
+cinematography
+la cinematografia
+
+our time apart
+il nostro tempo a parte
+
+apart; aside
+a parte
+
+adult in the room
+l'adulto nella stanza; l'adulto della situazione
+
+for the longest time
+per il tempo più lungo
+
+to dread
+avere terrore; temere
 
