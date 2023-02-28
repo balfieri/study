@@ -11275,7 +11275,7 @@ stimare
 in force
 in vigore
 
-ruthless
+ruthless; merciless
 spietato
 
 gang leader
@@ -11374,7 +11374,7 @@ la rimozione
 to brand; to mark; to stamp
 marchiare
 
-mercilessness
+ruthlessness; mercilessness
 la spietatezza
 
 to swallow; to devour; to gulp
@@ -28015,7 +28015,7 @@ la chiusura
 blessed; holy
 benedetto
 
-benevolent
+benign; gracious; benevolent
 benigno
 
 chaotic
@@ -33672,3 +33672,35 @@ che ne so io?
 
 battery
 la batteria; la pila
+
+drug lord
+il signore della droga
+
+ruthless businessman
+l'uomo d'affari spietato
+
+below the surface; under the surface
+sotto la superficie
+
+methamphetamine
+la metanfetamina
+
+Drug Enforcement Agency (DEA)
+l'agenzia antidroga
+
+colorful character
+il personaggio colorato; il personaggio pittoresco; il carattere colorato
+
+wild triop
+il viaggio selvaggio
+
+hallucinatory; shocking; incredible; amazing; mind-blowing; mind-boggling
+allucinante
+
+gracious
+grazioso; gentile; benevolo
+
+prequel
+il prequel
+
+
