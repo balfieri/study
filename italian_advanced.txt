@@ -6062,7 +6062,7 @@ to pinch
 pizzicare
 
 pinch
-il pizzicotto
+il pizzicotto; il pizzico
 
 raspberry (not the fruit)
 la pernacchia
@@ -33703,4 +33703,5 @@ grazioso; gentile; benevolo
 prequel
 il prequel
 
-
+generous pinch
+il pizzico generoso
