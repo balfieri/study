@@ -15115,7 +15115,7 @@ la moltiplicazione
 alas
 ohimè
 
-barley; wheat; cereal
+barley; cereal
 l'orzo
 
 slope; incline; slant
@@ -29959,7 +29959,7 @@ le poppe
 buxom; busty
 prosperosa
 
-woh; gosh; gee; golly
+woh; gosh; gee; golly; shucks; heck
 caspita
 
 to raise the question; to raise the issue
@@ -33735,4 +33735,16 @@ l'allevamento di mucche
 
 it's second nature
 è una seconda natura
+
+wind shear
+il corrente d'aria; il wind shear
+
+long walk
+la lunga passeggiata; il lungo cammino; la lunga camminata
+
+one-on-one; face-to-face
+il faccia a faccia
+
+to bet again
+riscommettere
 
