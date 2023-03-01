@@ -1285,7 +1285,7 @@ la gara
 race (human); breed
 la razza
 
-lane; aisle; passageway
+lane; track; aisle; passageway
 la corsia
 
 fine
