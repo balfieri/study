@@ -33780,3 +33780,6 @@ scontrarsi; collidere
 
 collided
 scontrato
+
+quarter-to-quarter growth
+la crescita trimestrale
