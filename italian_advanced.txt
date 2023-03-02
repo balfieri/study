@@ -33782,4 +33782,7 @@ collided
 scontrato
 
 quarter-to-quarter growth
-la crescita trimestrale
+la crescita trimestrale; la crescita trimestre su trimestre
+
+quarter-to-quarter
+trimestre su trimestre; trimestrale
