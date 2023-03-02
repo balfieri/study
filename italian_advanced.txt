@@ -8638,7 +8638,7 @@ l'avvio
 path; trail; track
 il sentiero
 
-collision; push; shock
+bump; shock; collision; impact
 l'urto
 
 to weave; to braid; to intertwine
@@ -9638,7 +9638,7 @@ ceramic
 ceramica
 
 collision
-il tamponamento
+la collisione; il tamponamento
 
 ride
 il passaggio
@@ -33774,3 +33774,9 @@ vincolato
 
 unleashed; wild
 scatenato
+
+to collide
+scontrarsi; collidere
+
+collided
+scontrato
