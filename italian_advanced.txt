@@ -7420,7 +7420,7 @@ il tassista
 hay
 il fieno; la paglia
 
-stick
+wand; rod
 la bachetta
 
 chopsticks
@@ -33748,3 +33748,29 @@ il faccia a faccia
 to bet again
 riscommettere
 
+whatever (thing)
+qualunque cosa
+
+caffeine-free
+senza caffeina
+
+banquet
+il bachetto
+
+wherever
+dovunque
+
+baby shower
+la festa per il nascituro; la festa per il bambino
+
+wedding shower
+la festa di fidanziamento; la festa prematrimoniale
+
+open house
+l'open house; i giorni di apertura
+
+bound
+vincolato
+
+unleashed; wild
+scatenato
