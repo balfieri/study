@@ -20395,7 +20395,7 @@ la diversità
 to form; to consitute; to shape
 formare
 
-presentation
+presentation; discorso
 la presentazione
 
 integration
@@ -33786,3 +33786,6 @@ la crescita trimestrale; la crescita trimestre su trimestre
 
 quarter-to-quarter
 trimestre su trimestre; trimestrale
+
+to give a presentation
+tenere un discorso; fare un discorso; tenere una presentazione; fare una presentazione
