@@ -33822,3 +33822,6 @@ la locandina
 
 poster
 il manifesto; il poster; il cartellone
+
+windsock
+la manica a vento
