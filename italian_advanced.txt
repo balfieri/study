@@ -5350,8 +5350,8 @@ la pipa della pace; il calumet della pace
 to disambiguate
 disambiguare
 
-to discard
-scartare; abbandonare; buttare
+to discard; to throw aside
+scartare; abbandonare; buttare via
 
 to retain
 ritenere; conservare; trattenere
@@ -10589,7 +10589,7 @@ in awe
 in soggezione
 
 halfway; halfway there
-a metà strada
+a metà; a metà strada
 
 to register for an exam
 registrarsi per un esame; iscriversi a un esame
@@ -11445,9 +11445,6 @@ fare cenno
 
 Ministry of the Interior
 il Viminale
-
-to discard; to throw aside
-scartare
 
 to take; to catch; to grab
 pigliare
@@ -33816,3 +33813,12 @@ lo zeitgeist; lo spirito del tempo
 
 to fill out a form
 compilare un modulo
+
+instantaneously
+istantaneamente 
+
+playbill; poster
+la locandina
+
+poster
+il manifesto; il poster; il cartellone
