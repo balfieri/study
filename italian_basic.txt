@@ -2473,7 +2473,7 @@ asciutto
 wrong; mistaken
 sbagliato
 
-late
+late; running late
 in ritardo
 
 soccer; football (European)
@@ -7815,3 +7815,4 @@ gettare via; buttare via
 
 to take a photo
 fare una foto
+
