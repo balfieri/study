@@ -25489,7 +25489,7 @@ sferico
 to lead; to conduct
 condurre
 
-to be quiet; to keep quiet; to stay quiet
+to be quiet; to keep quiet; to stay quiet; to withhold
 tacere
 
 to earn
@@ -33897,3 +33897,19 @@ l'auto di cortesia
 
 at that time (moment)
 in quel momento
+
+at a minimum; rock-bottom
+al minimo
+
+colon (punctuation)
+due punti
+
+mask (small)
+la mascherina
+
+kept quiet; kept silent; silent; unstated; withheld
+taciuto
+
+consonant; advisable; comfortable with; in accordance with; suitable
+consono
+
