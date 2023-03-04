@@ -14083,9 +14083,6 @@ insormontabile
 scam; cheat; swindle; rip-off
 la fregatura
 
-custom; custom-made
-su misura
-
 at a moment's notice; in a hurry; at the spur of a moment
 su due piedi
 
@@ -16623,9 +16620,6 @@ il confessionale
 
 to dim; to weaken; to blunt
 affievolire
-
-delivery; address; forwarding address
-il recapito
 
 period of military service
 il periodo di leva
@@ -31540,7 +31534,7 @@ veemente
 I can't promise miracles
 non posso promettere miracoli
 
-bespoke
+bespoke; custom; custom-made
 su misura; a misura; fatto su misura
 
 ablation
@@ -33849,3 +33843,42 @@ Berlino Est
 
 to prefer to
 preferire a
+
+for some time; long ago
+da tempo
+
+background noise
+il rumore di fondo
+
+the overall goal
+l'obiettivo generale
+
+to inspire
+inspirare
+
+beach house
+casa al mare; casa sulla spiaggia
+
+to send via email; to email
+inviare per posta elettronica
+
+contact address; forwarding address
+il recapito
+
+contractor; contract worker
+il contrattista 
+
+thanks for fitting me in
+grazie per aver trovato il tempo per me
+
+eyeball
+il globo oculare; il bulbo oculare
+
+rabbi
+il rabbino
+
+brother (adj); brotherly
+fratellare
+
+soupy
+brodoso
