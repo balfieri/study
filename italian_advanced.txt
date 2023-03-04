@@ -33885,3 +33885,6 @@ brodoso
 
 to investigate a problem
 indaganare su un problema
+
+close enough
+abbastanza vicino; ci sei andato vicino
