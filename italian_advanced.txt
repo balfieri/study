@@ -3442,9 +3442,6 @@ smentire
 before then
 prima di allora
 
-at some point
-prima o poi
-
 listen (n); listening
 l'ascolto
 
@@ -33888,3 +33885,9 @@ indaganare su un problema
 
 close enough
 abbastanza vicino; ci sei andato vicino
+
+sooner or later; at some point
+prima o poi
+
+sooner than later
+il prima possibile
