@@ -33882,3 +33882,6 @@ fratellare
 
 soupy
 brodoso
+
+to investigate a problem
+indaganare su un problema
