@@ -20861,7 +20861,7 @@ as usual
 di consueto
 
 to thicken
-addensarsi
+addensarsi; ispessirsi
 
 double broiler
 il bagnomaria
@@ -33915,3 +33915,43 @@ consono
 
 suitable
 adatto; idoneo; appropriato
+
+neurl net
+la rete neurale
+
+a milion times more powerful
+un milione di volte più potenti
+
+sentence completion
+il completamento della frase
+
+to compare and contrast
+fare il confronto tra; confrontare e comparare
+
+salient
+saliente
+
+overreaction
+la reazione eccessiva; la reazione esagerata
+
+to overreact
+reagire in modo eccessivo
+
+sand dune
+la duna di sabbia
+
+inland
+nell'entroterra
+
+hang gliding
+il deltaplano
+
+meaning; sense
+l'accezione
+
+to remove
+rimuovere
+
+to date back to
+risalire a
+
