@@ -469,9 +469,6 @@ prepotente
 catchy
 accattivante; orecchiabile
 
-even if
-anche se
-
 to flaunt
 sfolgiare
 
@@ -1075,7 +1072,7 @@ metterci
 farewell; leave of absence
 il congedo
 
-as long as; only if; provided; provided that
+as long as; only if; on condition that; provided; provided that
 purché; a patto che; a condizione che
 
 of others; other's; others'
@@ -4663,7 +4660,7 @@ successivamente; in seguito
 despite; in spite of
 malgrado
 
-although; though; in spite of
+although; though; in spite of; while
 sebbene
 
 alike; as well; similarly; by the same token
@@ -4671,12 +4668,6 @@ allo stesso modo
 
 similarly; likewise
 similmente
-
-provided; as long as
-purché
-
-as long as; on condition that; provided
-a patto che; a condizione che
 
 in other words
 in altre parole
@@ -4930,7 +4921,7 @@ la femmina
 feather
 la piuma
 
-to ruffle
+to ruffle; to tousle; to rumple
 arruffare
 
 sperm
@@ -33954,4 +33945,40 @@ rimuovere
 
 to date back to
 risalire a
+
+braking
+la frenata
+
+rather than
+piuttosto che
+
+only if
+solo se
+
+before; prior to
+prima che
+
+although; even if; even though
+anche se
+
+as long as; since; because
+poiché
+
+my ears are plugged
+le mie orecchie sono tappate; ho le orecchie tappate
+
+to plug; to cork; to shut
+tappare
+
+machine learning
+l'apprendimento automatico; l'apprendimento macchina; il machine learning
+
+the world is passing me by
+il mondo mi sta passando accanto
+
+postponed
+posticipata
+
+oblivion
+il dimenticatoio
 
