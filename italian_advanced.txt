@@ -15358,7 +15358,7 @@ l'indugio
 wide range
 la vasta gamma; l'ampia gamma
 
-to stretch
+to stretch; to extend
 tendere
 
 house husband
@@ -28450,7 +28450,7 @@ la cosa a tre; il menage a trois
 self-deprecating
 autoironico
 
-devious
+sneaky; shifty; sly; underhand; devious
 subdolo
 
 devious plan
@@ -33981,4 +33981,22 @@ posticipata
 
 oblivion
 il dimenticatoio
+
+building (adj)
+edilizio
+
+chocoholic
+cioccodipendente
+
+pernicious
+pernicioso
+
+to fade; to dull
+sbiadire
+
+thermal engine
+il motore termico
+
+atmosphere of trust
+il clima di fiducia
 
