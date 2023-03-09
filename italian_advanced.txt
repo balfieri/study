@@ -24175,7 +24175,7 @@ la sussistenza
 coal; charcoal
 il carbone
 
-obligatory; compulsory
+mandatory; obligatory; compulsory
 obbligatorio
 
 developed
@@ -34057,3 +34057,5 @@ curvare
 to stave off
 allontanarsi; evitare
 
+mandatory training
+la formazione obbligatoria
