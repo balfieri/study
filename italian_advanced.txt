@@ -4508,7 +4508,7 @@ since then (beginning of sentence)
 da allora
 
 since then (end of sentence)
-fin da allora
+da allora; fin da allora
 
 around that time (era)
 all'epoca
