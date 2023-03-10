@@ -34078,3 +34078,5 @@ l'estratto di vaniglia
 food coloring
 il colorante alimentare
 
+power line
+la linea elettrica
