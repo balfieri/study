@@ -650,3 +650,15 @@ riuscimmo
 
 they succeeded (p.r.)
 riuscirono
+
+I built (p.r.)
+costruii
+
+she built (p.r.)
+costruì
+
+we built (p.r.)
+costruimmo
+
+they built (p.r.)
+costruirono
