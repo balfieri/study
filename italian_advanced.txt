@@ -34107,3 +34107,7 @@ triturato; ridotto a brandelli; stracciato
 
 air pressure
 la pressione dell'aria
+
+fruit (abstract); product
+il frutto
+

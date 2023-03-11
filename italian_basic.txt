@@ -4177,9 +4177,6 @@ la ricetta
 product
 il prodotto
 
-fruit
-il frutto
-
 roll; sandwich
 il panino
 
