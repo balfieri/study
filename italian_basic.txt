@@ -3830,7 +3830,7 @@ Danish
 danese
 
 grocery store
-il negozio d'alimentari
+il negozio di alimentari
 
 fish store
 la pescheria
