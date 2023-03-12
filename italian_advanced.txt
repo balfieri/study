@@ -1876,7 +1876,7 @@ spaesato
 to delay; to be late; to hesitate
 tardare
 
-to reprimand
+to scold; to reproach; to reprimand
 rimproverare
 
 store owner
@@ -15886,7 +15886,7 @@ taciturno
 frail; puny
 gracile
 
-big desk
+big desk; teacher's desk; professorship; chair (professor)
 la cattedra
 
 subtlety
@@ -34110,4 +34110,70 @@ la pressione dell'aria
 
 fruit (abstract); product
 il frutto
+
+grain (wood); vein
+la venatura
+
+facet
+la sfaccettatura
+
+shade; hue; tone and pitch
+la tonalità
+
+to inquire
+inquisire
+
+to scour; to search; to patrol
+perlustrare
+
+to watch over; to supervise
+sorvegliare
+
+to protract
+protrarre
+
+setup; staging; production; preparation
+l'allestimento
+
+Chilean
+cileno
+
+fairy tale; tale; fable
+la fiaba
+
+to crush; to squeeze; to grind
+stritolare
+
+emotional match
+la partita emozionante
+
+recycling center
+il centro di riciclaggio
+
+like night and day
+come la notte e il giorno
+
+in lust
+in lussuria
+
+it's just as important; it's equally important
+è altrettanto importante
+
+circle (of people)
+il girotondo
+
+warehouse; shed; hanger
+il capannone
+
+multipurpose
+polivalente
+
+peremptory; definitive
+perentorio
+
+in excess
+in sovvranumero
+
+confirmation bias
+il bias di conferma; il pregiudizio di conferma
 
