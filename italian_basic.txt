@@ -4337,9 +4337,9 @@ pasta
 la pasta
 
 can
-la scatoletta; la lattina
+la lattina; la scatoletta
 
-jar
+jar; can
 il barattolo
 
 bag
