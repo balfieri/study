@@ -34236,3 +34236,9 @@ senza rete
 
 high wire
 il filo alto; la corda tesa
+
+sophisticated
+sofisticato
+
+refined
+raffinato
