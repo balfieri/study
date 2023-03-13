@@ -1235,7 +1235,10 @@ to dust; to sprinkle
 spolverare
 
 sticky
-appiccicoso
+appiccicoso; adesivo; attaccaticcio; appiccicaticcio
+
+gooey
+appiccicoso; viscoso
 
 to harden
 indurire
