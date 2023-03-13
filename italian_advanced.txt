@@ -34225,3 +34225,5 @@ lo sfondamento
 cost-reporting
 la rendicontazione
 
+to let out
+far uscire
