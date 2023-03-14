@@ -31853,7 +31853,7 @@ water tank
 il serbatoio d'acqua; la cisterna d'acqua
 
 water heater
-lo scaldabagno
+lo scaldabagno; la caldaia
 
 overhanging; overlying
 sovrastante
@@ -34245,3 +34245,55 @@ sofisticato
 
 refined
 raffinato
+
+stripper
+la spogliarellista
+
+to strip
+spogliare
+
+ignition (car key socket)
+il blocco dell'accensione
+
+to slaughter
+sgozzare
+
+to flood
+allagare; ingolfare
+
+anode
+l'anodo
+
+cathode
+il catodo
+
+copper
+il rame
+
+zinc
+lo zinco
+
+mold
+la muffa
+
+holding; stock; stock share
+la quota azionaria
+
+to go with; to bet on; to focus on
+puntare su
+
+to simmer; to boil
+bollore
+
+boiling
+l'ebollizione
+
+starchy water
+l'acqua amidacea
+
+gentle reminder
+il lieve promemoria; il gentile promemoria
+
+reminder
+il promemoria
+

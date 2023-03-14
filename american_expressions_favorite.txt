@@ -765,7 +765,7 @@ si vive solo una volta
 zonked
 sfinito
 
-zippo; zilch
+zippo; zilch; nothing at all
 zero; niente di niente
 
 I've been around the block a few times
@@ -1056,7 +1056,7 @@ come madre, come figlia; tale madre, tale figlia
 the apple doesn't fall far from the tree
 la mela non cade mai lontana dall'albero
 
-to stike while the iron is hot
+to stike while the iron is hot; to make hay while the sun shines
 battere il ferro finché è caldo
 
 one bad apple spoils the whole bunch
@@ -1671,3 +1671,8 @@ essere la gallina
 to put oneself out there; to get in the game
 mettersi in gioco
 
+rockin'; rocking; smashing; fantastic
+da sballo
+
+don't throw the baby out with the bath water
+non gettare via il bambino con l'acqua sporca
