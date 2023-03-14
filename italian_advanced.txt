@@ -30893,7 +30893,7 @@ farmer; grower; cultivator
 il coltivatore
 
 to code; to write code; to program
-scrivere codice; programmare
+scrivere codice; programmare; codificare
 
 to get out of bed
 alzarsi dal letto
