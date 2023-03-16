@@ -34372,3 +34372,11 @@ non farti sentire
 don't lecture me; don't patronize me; don't preach to me
 non farmi la predica
 
+head cold
+il raffreddore di testa
+
+cold (illness)
+il raffreddore
+
+fever
+la febbre

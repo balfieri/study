@@ -2626,9 +2626,6 @@ meglio
 worse
 peggio
 
-fever
-le febbre
-
 flu
 l'influenza
 
@@ -4128,12 +4125,6 @@ la quantità
 
 pack; parcel; package
 il pacco
-
-cold
-il raffreddore
-
-fever
-la febbre
 
 headache
 il mal di testa
