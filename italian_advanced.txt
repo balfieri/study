@@ -6040,7 +6040,7 @@ l'edicola
 to neglect; to overlook; to disregard
 trascurare
 
-to neglect; to leave out
+to leave out; to omit; to neglect
 tralasciare
 
 to register
@@ -34380,3 +34380,11 @@ il raffreddore
 
 fever
 la febbre
+
+blacksmith; locksmith
+il fabbro
+
+buttoned up
+abbottonato
+
+
