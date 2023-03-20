@@ -11932,9 +11932,6 @@ logorare
 balanced life
 la vita equilibrata
 
-look what the cat dragged in
-guarda che cosa ha portato dentro il gatto
-
 to squat
 accosciarsi
 
@@ -16103,7 +16100,7 @@ for starters; in the first place; for a start
 tanto per cominciare; tanto per iniziare
 
 to breastfeed; to nurse
-allattare
+allattare; allattare al seno
 
 weening
 lo svezzamento
@@ -34055,7 +34052,7 @@ to curve; to bend; to make a turn (transportation)
 curvare
 
 to stave off
-allontanarsi; evitare
+scongiurare; tenere a bada; allontanarsi; evitare
 
 mandatory training
 la formazione obbligatoria
@@ -34434,3 +34431,31 @@ il programma è quello
 
 meanwhile
 frattanto
+
+one lie after another
+una bugia dopo l'altra
+
+one problem after another
+un problema dopo l'altro
+
+this past week
+la settimana scorsa
+
+to nag
+rimproverare; tormentare
+
+user interface
+l'interfaccia utente
+
+valve
+la valvola
+
+heart valve
+la valvola cardiaca
+
+aneurysm
+l'aneurisma
+
+speech recognition
+il riconoscimento vocale
+
