@@ -7504,7 +7504,7 @@ a presto
 see you in a little bit; see you in a few minutes
 a dopo
 
-forever
+forever; for good
 per sempre
 
 to pretend
@@ -7762,7 +7762,7 @@ il nastro
 nest
 il nido
 
-to stop (tr)
+to stop (tr, movement)
 fermare
 
 ball

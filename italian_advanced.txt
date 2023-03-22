@@ -11734,7 +11734,7 @@ il fannullone
 to crumble; to shatter
 sgretolare
 
-to prevent; to block; to hinder; to impede
+to prevent; to block; to hinder; to impede; to stop (from doing something)
 impedire; prevenire
 
 to consider; to weigh
@@ -16406,7 +16406,7 @@ in small doses
 a piccole dosi
 
 once and for all
-una volta per tutte
+una volta per tutte; per sempre
 
 time and time again
 a ripetizione
@@ -34459,3 +34459,98 @@ l'aneurisma
 speech recognition
 il riconoscimento vocale
 
+the entire stock of cheese
+la mia intera scorta di formaggio
+
+respected
+rispettato
+
+uniqueness
+l'unicità
+
+to finish cooking
+terminare la cottura
+
+to reduce the flame to a minimum
+ridurre la fiamma al minimo
+
+shredded
+sfilacciato
+
+I've never seen anything like it
+non ho mai visto nulla di simile
+
+I came in third place 
+sono arrivato al terzo posto
+
+hashtag; pound sign
+il cancelletto
+
+how crazy do you think I am?
+quanto pensi che io sia pazzo?
+
+on a scale from one to ten
+su una scala da uno a dieci
+
+logo
+il logo
+
+to debug
+debuggare
+
+shortcut
+lo scorciatoio
+
+love nest
+il nido d'amore
+
+bulletin
+il bullettino
+
+as mentioned earlier
+come accennato in precedenza
+
+little girl
+la femminuccia
+
+what's stopping you?
+cosa ti impedisce?
+
+to follow a lead
+seguire una pista
+
+thermostat
+il termostato
+
+upper hand
+il sopravvento
+
+filtration
+il filtraggio
+
+to provide for the family's well-being
+provvedere per il benessere della famiglia
+
+divorce petition
+la domanda di divorzio
+
+negotiable
+negoziabile
+
+scary stuff
+la roba da paura
+
+to blame me 
+darmi la colpa
+
+a small percentage
+una piccola percentuale
+
+to denounce a sentence
+denunciare una sentenza
+
+judicial decision
+la decisione giudiziaria
+
+to pack (bags); to pack up
+fare le valigie
