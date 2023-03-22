@@ -34563,3 +34563,6 @@ siglato
 
 grueling shift
 il turno massacrante
+
+the employer side
+la parte datoriale
