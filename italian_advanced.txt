@@ -27454,7 +27454,7 @@ il pastore
 researcher
 il ricercatore
 
-agitation
+unrest; agitation
 l'agitazione
 
 dome
@@ -34566,3 +34566,6 @@ il turno massacrante
 
 the employer side
 la parte datoriale
+
+state of unrest
+lo stato di agitazione
