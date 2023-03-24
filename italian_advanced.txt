@@ -10964,7 +10964,7 @@ to be fed up
 essere stufo
 
 comprehensive; exhaustive
-esauriente
+esauriente; completo; esaustivo
 
 to stretch (muscle); to lengthen; to extend
 allungare
@@ -26038,9 +26038,6 @@ la vergogna
 conciliation
 la conciliazione
 
-solar; sun (adj)
-solare
-
 great; magnus
 magno
 
@@ -35232,3 +35229,25 @@ la posizione; l'atteggiamento
 
 vacancy
 il posto vacante; la disponibilità
+
+intimacy; closeness
+la familiarità
+
+familiarity
+la domestichezza; la conoscenza
+
+annoying; bothersome
+molesto
+
+to molest
+abusare; molestare
+
+sunny (disposition); cheerful; of the sun; sun (adj)
+solare
+
+card; tile
+la tessera
+
+tissue (for nose)
+il fazzoletto
+
