@@ -221,7 +221,7 @@ to speak softly
 parlare a bassa voce
 
 voice; rumor; rumour
-la voce
+la voce; il pettegolezzo
 
 eyes
 gli occhi
@@ -3481,7 +3481,7 @@ la casa
 apartment
 l'appartamento
 
-hand towel
+towel; hand towel
 l'asciugamano
 
 bidet
@@ -7804,3 +7804,5 @@ gettare via; buttare via
 to take a photo
 fare una foto
 
+romance
+il romanzo d'amore; la storia d'amore

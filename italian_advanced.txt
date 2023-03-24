@@ -6910,9 +6910,6 @@ la schema
 art gallery
 la pinacoteca
 
-workshop
-l'officina
-
 private practice
 lo studio privato
 
@@ -35220,3 +35217,18 @@ la firma
 
 bold; courageous
 baldo
+
+estate
+la proprietà; il patrimonio
+
+workshop; garage
+l'officina
+
+cardboard
+il cartone
+
+stance
+la posizione; l'atteggiamento
+
+vacancy
+il posto vacante; la disponibilità
