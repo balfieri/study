@@ -3631,7 +3631,7 @@ gustoso; saporito
 disgusting; revolting
 schifoso; rivoltante
 
-raw
+raw; uncooked
 crudo
 
 firm (pasta)
