@@ -215,7 +215,7 @@ to stare at; to gaze at; to establish; to secure
 fissare
 
 to face; to tackle; to confront
-affrontare
+affrontare; fare fronte a
 
 diagram; sketch
 lo schema
@@ -27415,7 +27415,7 @@ il referendum
 whatever; whicever
 qualsivoglia
 
-warehouse
+warehouse; storeroom
 il magazzino
 
 empirical
@@ -35199,3 +35199,24 @@ la lumaca
 
 inventor
 l'inventore
+
+installment payment
+la rata
+
+rat
+il ratto
+
+sympathetic
+compassionevole; solidale
+
+to compare
+confrontare
+
+tasteless; unsightly
+disgustoso
+
+signature
+la firma
+
+bold; courageous
+baldo

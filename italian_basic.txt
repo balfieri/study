@@ -584,7 +584,7 @@ to take the second exit
 prendere la seconda uscita
 
 camera
-la macchina fotografica
+la macchina fotografica; la fotocamera
 
 machine; car
 la macchina
@@ -3628,8 +3628,8 @@ dolce
 tasty; flavorful
 gustoso; saporito
 
-disgusting
-disgustoso; schifoso
+disgusting; revolting
+schifoso; rivoltante
 
 raw
 crudo
@@ -5428,7 +5428,7 @@ il litigio
 healthy food
 il cibo sano
 
-company
+firm (business); company
 l'azienda; la compania
 
 corporation
@@ -7279,7 +7279,7 @@ mutuo
 signed
 firmato
 
-solid
+solid; firm
 solido
 
 smoke
