@@ -35193,3 +35193,6 @@ cultural heritage
 
 religious convictions
 le convinzioni religiose
+
+snail
+la lumaca
