@@ -22135,7 +22135,7 @@ la bibliografia
 Moscow
 Mosca
 
-illustrious
+distinguised; illustrious
 illustre
 
 further; moreover
@@ -35196,3 +35196,6 @@ le convinzioni religiose
 
 snail
 la lumaca
+
+inventor
+l'inventore
