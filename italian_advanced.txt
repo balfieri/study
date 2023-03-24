@@ -20941,7 +20941,7 @@ espressamente
 really; actually; indeed
 realmente
 
-boarding school
+boarding school; residence hall
 il collegio
 
 gift; present; donation
@@ -23757,9 +23757,6 @@ la camera scura
 
 improvised
 improvisato
-
-tuxedo
-lo smoking
 
 to end a relationship
 chiudere una relazione
@@ -35251,3 +35248,11 @@ la tessera
 tissue (for nose)
 il fazzoletto
 
+host
+l'ospitante; l'ospite
+
+dinner jacket; tuxedo
+lo smoking
+
+smoking
+fumare; il fumo

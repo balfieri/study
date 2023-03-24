@@ -1924,7 +1924,7 @@ il garage
 bathroom
 il bagno
 
-guest
+guest; host
 l'ospite
 
 guest bedroom; spare bedroom
@@ -6050,7 +6050,7 @@ middle school
 la scuola media
 
 college; university
-l'università
+l'università; l'istituto
 
 high school student
 lo studente liceale
@@ -6523,8 +6523,11 @@ la soluzione
 size; greatness; quantity
 la grandezza
 
-event; occurance; happening
+occurance; happening
 l'evento
+
+event (planned occasion)
+l'evento; la manifestazione
 
 discovery; find; detection
 la scoperta
