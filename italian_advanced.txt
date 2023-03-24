@@ -718,7 +718,7 @@ avere un certo languorino
 my stomach is rumbling
 lo stomaco brontola
 
-to nibble
+to nibble; to munch
 mangiucchiare
 
 to quell the appetite
@@ -1102,7 +1102,7 @@ la stroffa
 fabric
 la stoffa
 
-to rub off
+to rub off; to rub
 strofinare
 
 performance clown
@@ -1492,7 +1492,7 @@ stonarsi
 to spin out
 andare in testacoda
 
-to roll out
+to roll out; to unroll
 srotolare
 
 to roll
@@ -1533,9 +1533,6 @@ ripugnante; disgustoso; repellente
 
 to take (road); to feed
 imboccare
-
-background
-lo sfondo
 
 provision
 il proveddimento
@@ -2593,7 +2590,7 @@ aderire a
 member of Calabrese mafia
 'ndranghetista
 
-to exploit
+to exploit; to instrumentalize
 strumentalizzare
 
 poor thing
@@ -3579,9 +3576,6 @@ il compagno di stanza; la compagna di stanza
 
 to consumate
 consumare
-
-to irradicate
-sradicare
 
 backyard
 il cortile
@@ -5878,9 +5872,6 @@ la paracadute
 car salesman
 il venditore d'auto
 
-undercurrent; background
-il sottofondo
-
 cooking; deli
 la gastronomia
 
@@ -7633,7 +7624,7 @@ la teglia per il pane
 pizza steel
 l'acciaio per pizza
 
-to reach; to come; to arrive
+to reach; to come; to arrive; to prevent
 pervenire
 
 to extend; to expand; to broaden
@@ -13978,7 +13969,7 @@ la precisazione
 discretionary power
 la discrezionalità
 
-to slim; to speed; to accelerate
+to slim; to slim down; to speed; to accelerate
 snellire
 
 delay; lengthiness; slowness
@@ -14656,7 +14647,7 @@ invece dell'altro
 circular argument
 il ragionamento circolare; l'argomento circolare
 
-to carve; to scuplt
+to sculpt; to carve
 scolpire
 
 ditch; trench; moat
@@ -14860,7 +14851,7 @@ tondo
 time-delayed; deferred
 in differita
 
-to travel; to go through
+to travel; to go through; to travel through
 percorrere
 
 in the classroom
@@ -17597,7 +17588,7 @@ I'm getting by; I manage
 si tira a campare; si tira avanti; si fa quél che si può
 
 the gravy train
-la sinecura; la mangiatoia
+la sinecura
 
 to keep out
 stare alla larga; stare in campana
@@ -18606,9 +18597,6 @@ defunto
 
 nativity scene
 il presepe
-
-manger
-la mangiatoia
 
 full-size
 a grandezza naturale
@@ -24805,7 +24793,7 @@ la giovinezza
 hero
 l'eroe
 
-to find; to recover
+to find; to recover; to find again
 ritrovare
 
 married couple
@@ -34486,9 +34474,6 @@ sono arrivato al terzo posto
 hashtag; pound sign
 il cancelletto
 
-how crazy do you think I am?
-quanto pensi che io sia pazzo?
-
 on a scale from one to ten
 su una scala da uno a dieci
 
@@ -34525,13 +34510,13 @@ il termostato
 upper hand
 il sopravvento
 
-filtration
+filtration; filtering
 il filtraggio
 
 to provide for the family's well-being
 provvedere per il benessere della famiglia
 
-divorce petition
+divorce petition; divorce request
 la domanda di divorzio
 
 negotiable
@@ -34546,7 +34531,7 @@ darmi la colpa
 a small percentage
 una piccola percentuale
 
-to denounce a sentence
+to denounce a sentence; to challenge a verdict
 denunciare una sentenza
 
 judicial decision
@@ -34572,3 +34557,634 @@ lo stato di agitazione
 
 to thwart; to nullify; to negate
 vanificare
+
+How crazy do you think I am?
+quanto pensi che io sia pazzo?
+
+to blame
+biasimare
+
+to stop playing; to stop playing games
+smettere di giocare
+
+to blame
+dare la colpa
+
+a judicial decision
+una decisione giudiziaria
+
+once and for all
+una volta per tutte
+
+legible
+leggibile
+
+sleeper
+il dormiente
+
+sleep-inducing
+dormitivo
+
+to claim
+rivendicare
+
+beverage
+il beveraggio
+
+self-driving
+autoguida
+
+singing
+la cantoria
+
+listener
+l'ascoltatore
+
+unheard
+inascoltato
+
+walker
+il camminatore
+
+traveled
+viaggiato
+
+traveler
+il viaggiatore
+
+ballad
+la ballata
+
+payer
+il pagatore
+
+little laugh
+il riderino
+
+mock
+irridere
+
+pantomime
+il panto
+
+whining
+il piagnisteo
+
+to grumble
+pagnucolare
+
+to whine
+piagnucolare
+
+feed
+il mangime
+
+manger; feeding trough
+la mangiatoia
+
+to eat out
+mangiare fuori
+
+unthinkable
+impensabile
+
+drinker
+il bevitore
+
+knowledge
+i saperi
+
+unawareness
+l'insaputa
+
+donor
+il donatore
+
+assets
+gli averi
+
+decidable
+decidibile
+
+discovery
+la trovata
+
+untraceable
+introvabile
+
+indecision
+l'indecisione
+
+wrong way
+il contromano
+
+to decelerate
+decelerare
+
+to purify
+depurare
+
+to disperse
+disperdere
+
+unequal
+disuguale
+
+to disable
+disattivare
+
+extra large
+extralarge
+
+extraterrestrial
+extraterrestre
+
+out-of-town
+extraurbano
+
+infrared
+infrarosso
+
+infrasound
+l'infrasuono
+
+timeless
+intramontabile
+
+bad mood
+il malumore
+
+multiple
+multiplo
+
+multivitamin
+multivitaminico
+
+indifferent
+noncurante
+
+unborn
+il nonnato
+
+nonviolence
+la nonviolenza
+
+bumper
+il paracolpi
+
+postmodern
+postmoderno
+
+postwar
+postguerra
+
+to get back
+riavere
+
+recession
+la retrocessione
+
+to backdate
+retrodatare
+
+feedback
+la retroazione
+
+semiliterate
+il semianalfabeta; l'esmianalfabeta
+
+semi-permanent
+semipermanente
+
+to tower over
+sovrastare
+
+to subscribe
+sottoscrivere
+
+under the skin
+sottopelle
+
+subtitle
+il sottotitolo
+
+super powerful
+superpotente
+
+telescope
+il telescopio
+
+transatlantic
+trasatlantico
+
+ultraviolet
+ultravioletto
+
+ultramodern
+ultramoderno
+
+ultrasonic
+ultrasonico
+
+deputy mayor
+il vicesindaco
+
+vice president
+il vicepresidente
+
+deputy chief
+il vicecapo
+
+impatient
+impaziente
+
+waterproof
+impermeabile
+
+hypertension
+l'ipertensione
+
+hyperactive
+iperattivo
+
+hypermarket
+l'ipermercato
+
+hypothermia
+l'ipotermia
+
+mortgage
+l'ipoteca
+
+low-calorie
+ipocalorico
+
+subset
+il sottoinsieme
+
+to miscalculate
+miscalcolare
+
+to misinterpret
+misinterpretare
+
+single-seater
+il monoposto
+
+monolingual
+monolingue
+
+monochromatic
+monocromatico
+
+neofascism
+il neofascismo
+
+neorealism
+il neorealismo
+
+omnivore
+l'omnivoro
+
+pseudonym
+lo pseudonimo
+
+pseudoscience
+la pseudoscienza
+
+pseudocode
+il pseudocodice
+
+to reinvent
+reinventare
+
+to reintegrate
+reintegrare
+
+retrospective
+la retrospettiva
+
+backward compatible
+retrocompatibile
+
+left-handed
+sinistrorso
+
+to proclaim
+proclamare
+
+forecast
+il pronostico
+
+convicted
+il pregiudicato
+
+to withdraw
+prelevare
+
+withdrawal
+il prelievo
+
+prehistory
+la preistoria
+
+prehistoric
+preistorico
+
+premature
+prematuro
+
+pretext
+il pretesto
+
+to warn in advance
+preavvertire
+
+preamble
+il preambolo
+
+predator
+il predatore
+
+prelude
+il preludio
+
+delicious
+prelibato
+
+some
+nonnulli
+
+non plus ultra
+nonplusultra
+
+hazing
+il nonnismo
+
+non-nullity
+la nonnullità
+
+unrivaled
+nonpareille
+
+nonconformist
+il nonconformista
+
+unnamed
+il nonnominato
+
+noncooperation
+la noncooperazione
+
+nonconventional
+nonconvenzionale
+
+nonflammable
+noninfiammabile
+
+nonintervention
+il nonintervento
+
+irrelevant
+nonluogo
+
+nonresident
+nonresidente
+
+nonviolent
+nonviolento
+
+irrelevant; not pertinent
+nonpertinente
+
+unreal
+nonreale
+
+visually impaired
+nonvedente
+
+non-assertion
+nonaffermazione
+
+non-commissioned
+noncommissionato
+
+non-corrosive
+noncorrosivo
+
+non-military
+nonmilitare
+
+to sweep
+spazzare
+
+to clear
+sgomberare
+
+to spread
+spalmare
+
+to eradicate; to unroot
+sradicare
+
+to crumple
+stropicciare
+
+to destroy
+struggere
+
+to structure
+strutturare
+
+to flutter
+svolazzare
+
+to empty
+svuotare
+
+neophyte
+il neofita
+
+Neolithic
+neolitico
+
+neo-Renaissance
+neorinascimento
+
+neoliberalism
+il neoliberismo
+
+overpopulation
+la sovrappopolazione
+
+superimposition
+la sovrapposizione
+
+overload
+il sovraccarico
+
+sovereign
+il sovrano
+
+overweight
+sovrappeso
+
+to supervise
+sovraintendere
+
+superintendent
+il sovraintendente
+
+underpass
+il sottopassaggio
+
+underground
+sottoterra
+
+subclass
+la sottoclasse
+
+subgroup
+il sottogruppo
+
+submission
+la sottomissione
+
+to underestimate
+sottovalutare
+
+underestimation
+la sottovalutazione
+
+in a low voice
+sottovoce
+
+subculture
+la sottocultura
+
+underemployment
+la sottoccupazione
+
+below cost
+sottocosto
+
+subcategory
+la sottocategoria
+
+below deck
+sottocoperta
+
+byproduct
+il sottoprodotto
+
+subpopulation
+la sottopopolazione
+
+arcade
+il sottoportico
+
+subrational
+sottorazionale
+
+underrepresentation
+la sottorappresentazione
+
+background (images)
+lo sfondo
+
+behind the scenes
+il retroscena
+
+background (non-visual context); undercurrent
+il sottofondo
+
+background music
+la musica di sottofondo
+
+inconsiderate
+sconsiderato
+
+indifferent
+noncurante; indifferente
+
+unconcerned
+incurante
+
+apathetic
+apatico
+
+detached
+distaccato
+
+compound word
+la parola composta
+
+I just realized something
+mi sono appena reso conto di qualcosa
+
+right-handed
+destrorso
+
+hairy
+peloso
+
+to sniffle; to sniff
+tirare su col naso
+
+Panamanian
+panamense
+
+it's hard to believe
+è difficile da credere
+
+spooky
+inquietante
+
+next to each
+accanto a ogni
+
+shortcrust pastry; crust (of pie)
+la pasta frolla
+
+speaker (stereo)
+l'autoparlante
+
+speaker; lecturer
+oratore; relatore
+
+borderline
+borderline
+
+I'm gonna take one for the team
+mi sacrificherò per il bene del gruppo; prenderò io il colpo per il bene della squadra
+
+gonorrhea
+la gonorrea
+
+a la mode; served with ice cream
+servita con gelato
+
+capon
+il capone
+
+to file a complaint
+sporgere denuncia
+
+cutter
+lo scorciatore
+
+I don't want to have anything to do with you
+non voglio avere niente a che fare con te
+
+guardian angel
+l'angelo custode
+
+marked
+contrassegnato
+
+speed dial
+la chiamaleggere
+
+pruner
+il potatore
+
