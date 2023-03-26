@@ -17516,7 +17516,7 @@ speak up
 parla forte
 
 speak for yourself
-parla per te
+parla per te stesso
 
 amen, you said it
 parole d'oro
@@ -35313,3 +35313,81 @@ integrare il proprio assegno pensionistico
 
 to pour; to pay; to deposit; to contribute; to transfer; to pour out; to shed (tears)
 versare
+
+brilliant decision
+la geniale decisione
+
+tenant (male); tenant (female)
+l'inquilino; l'inquilina
+
+travel destination
+la meta di viaggio
+
+further information
+le ulteriori informazioni
+
+make-up sex; reconciliation sex
+il sesso conciliatorio; il sesso di riconciliazione
+
+time-out!
+pausa!
+
+aftertaste
+il retrogusto
+
+underlying taste
+il sapore di fondo
+
+comfort food
+il cibo confortevole
+
+pro-rata share
+la quota pro rata
+
+private pilot certificate
+il certificato di pilota privato
+
+visual flight rules
+le regole del volo a vista
+
+to fly through the clouds
+pilotare tra le nuvole
+
+heading indicator
+l'indicatore di prua
+
+turn coordinator
+il coordinatore di virata
+
+to do a pre-flight check
+fare un controllo pre-volo
+
+vertical speed indicator
+l'indicatore della velocitÃ  verticale
+
+to pull over on the right side of the road
+fermarsi sulla destra della strada
+
+to pull over on the side of the road
+fermare sul lato della strada
+
+one and a half hours
+un'ora e mezza
+
+instrument meteorological conditions
+le condizioni meteorologiche strumentali
+
+visual flight rules
+le condizioni meteorologiche visive
+
+enroute
+in volo
+
+near an airport
+nelle vicinanze di un aeroporto
+
+private pilot license
+la licenza di pilota privato
+
+instrument flight rules
+le regole del volo strumentale
