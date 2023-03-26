@@ -35363,7 +35363,7 @@ to do a pre-flight check
 fare un controllo pre-volo
 
 vertical speed indicator
-l'indicatore della velocitÃ  verticale
+l'indicatore della velocità verticale
 
 to pull over on the right side of the road
 fermarsi sulla destra della strada
