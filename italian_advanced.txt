@@ -35391,3 +35391,6 @@ la licenza di pilota privato
 
 instrument flight rules
 le regole del volo strumentale
+
+enroute
+in rotta; in volo; in viaggio
