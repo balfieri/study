@@ -29945,7 +29945,7 @@ dry sense of humor
 il senso dell'umorismo secco
 
 prosperous; shapely; flourishing
-prosperoso
+prosperoso; prospero
 
 to get a second opinion
 chiedere un secondo parere; chiedere una seconda opinione
@@ -35394,3 +35394,39 @@ le regole del volo strumentale
 
 enroute
 in rotta; in volo; in viaggio
+
+scent
+la profuma
+
+to put in time-out
+mettere in time-out
+
+to stand in line; to stand at attention
+stare al passo
+
+to follow closely
+stare dietro
+
+high-pitched voice
+la voce acuta
+
+loud voice
+la voce alta
+
+deep voice
+la voce grave
+
+low voice; quiet voice
+la voce bassa
+
+jaywalking
+l'attraversamento fuori dalle strisce pedonali
+
+hot chocolate
+la cioccolata calda
+
+grumpy person
+il brontolone
+
+to keep up with (somebody)
+tenere il passo con (qualcuno)
