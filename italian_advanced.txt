@@ -29989,10 +29989,13 @@ approfondito
 transcendental
 trascendentale
 
-relevant (pertinence); pertinent
-attinente; pertinente
+relevant (correlated)
+attinente
 
-relevant (importance)
+pertinent
+pertinente
+
+relevant (important)
 rilevante
 
 cover; front page
