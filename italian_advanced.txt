@@ -29989,8 +29989,11 @@ approfondito
 transcendental
 trascendentale
 
-relevant; pertinent
-rilevante; pertinente; attinente
+relevant (pertinence); pertinent
+attinente; pertinente
+
+relevant (importance)
+rilevante
 
 cover; front page
 la copertina
@@ -33817,7 +33820,7 @@ il rumore di fondo
 the overall goal
 l'obiettivo generale
 
-to inspire
+to inhale; to breathe in
 inspirare
 
 beach house
@@ -35487,3 +35490,48 @@ tanto per capirci
 
 credit crunch
 la crisi del credito
+
+I am in my hotel room
+sono nella mia stanza d'albergo
+
+The Wi-Fi connection is poor
+la connessione wi-fi è scarsa
+
+you're right about one thing
+hai ragione su una cosa
+
+to twist
+torcere
+
+considering; considering that 
+considerando che
+
+cupcake
+il cupcake
+
+Middle Eastern
+mediorientale
+
+Middle East
+il Medio Oriente
+
+passerby; bystander
+il passante
+
+guilty bystander
+il colpevole passante
+
+silicone-enhanced (e.g., breasts)
+siliconato
+
+to reach a verdict
+raggiungere un verdetto
+
+stained
+macchiato
+
+il caffè macchiato (espresso with touch of milk)
+il caffè macchiato
+
+caffè corretto (espresso with liquor)
+il caffè corretto
