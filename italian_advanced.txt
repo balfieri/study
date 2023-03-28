@@ -35538,3 +35538,10 @@ il caffè corretto
 
 to not make a sound
 non fare rumore
+
+hostile
+ostile
+
+corporation
+la corporazione
+

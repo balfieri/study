@@ -5431,9 +5431,6 @@ il cibo sano
 firm (business); company
 l'azienda; la compania
 
-corporation
-la corporazione
-
 to work from home
 lavorare da casa
 
@@ -7545,9 +7542,6 @@ la visione
 
 homemade
 fatto in casa
-
-hostile
-ostile
 
 distant
 distante
