@@ -2387,7 +2387,7 @@ possibly; if need be; if necessary; perhaps
 eventualmente
 
 obnoxious
-odioso; detestabile; ripugnante
+insopportabile; odioso; detestabile; ripugnante
 
 curmudgeon; grouch
 musone; burbero; bisbetico
@@ -35568,3 +35568,12 @@ immorale
 
 amoral
 amorale
+
+to talk from the other side of the room
+parlare dall'altra parte della stanza
+
+to yell from the other side of the room
+urlare dall'altra parte della stanza
+
+to get disciplined; to be disciplined
+essere punito; essere disciplinato
