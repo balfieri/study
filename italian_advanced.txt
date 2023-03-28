@@ -16775,7 +16775,7 @@ range
 la gamma
 
 psychologist
-lo psicologo
+lo psicologo; la psicologa
 
 psychology
 la psicologia
