@@ -35545,3 +35545,5 @@ ostile
 corporation
 la corporazione
 
+it's more like a
+è più simile a un
