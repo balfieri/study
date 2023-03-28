@@ -5716,8 +5716,11 @@ per posta
 caffeine
 la caffeina
 
-pound
+pound (weight)
 la libbra
+
+pound (sterling)
+la sterlina
 
 ounce
 l'oncia
