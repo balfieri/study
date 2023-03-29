@@ -658,9 +658,6 @@ che meraviglia!
 to split; to cleave
 spaccare
 
-slang
-il gergo
-
 playful; joking
 scherzoso
 
@@ -25042,7 +25039,7 @@ la devozione
 generic
 generico
 
-to respect
+to respect; to abide
 rispettare
 
 oral
@@ -26788,7 +26785,7 @@ il sovrainsieme
 radio frequency
 la radiofrequenza
 
-declaration; statement
+statement; declaration
 la dichiarazione
 
 to issue
@@ -35580,3 +35577,126 @@ essere punito; essere disciplinato
 
 frigid
 frigido
+
+slang
+il gergo; il linguaggio gergale
+
+bar; cafeteria
+bar; caffetteria
+
+carafe
+la caraffa
+
+bracket
+il braccetto
+
+steamed milk
+il latte vapore
+
+seam
+la cucitura
+
+jack
+il cric
+
+wrench
+la chiave inglese
+
+spare tire
+la ruota di scorta
+
+trunk
+il bagagliaio
+
+to loosen the nuts
+allentare i dadi
+
+hub
+il mozzo
+
+bolt holes
+i fori dei bulloni
+
+frame (car)
+il telaio
+
+stubbornness
+la testardaggine
+
+to put back together
+riporre insieme
+
+to maintain posture
+mantenere la postura
+
+gradually; little by little
+man mano
+
+hub cap
+il cappuccio del mozzo
+
+which I find funny
+che trovo divertente
+
+which I find silly
+che trovo sciocco
+
+which ridiculous
+che trovo ridicolo
+
+date (fruit)
+il dattero
+
+elongated
+allungato
+
+edgy (non-conformist)
+di tendenza; non conformista
+
+I believe that
+ritengo che
+
+to feel all in pieces
+sentirsi a pezzi
+
+deep down
+in fondo
+
+relax!
+tranquillo!
+
+money laundering
+il lavaggio del denaro
+
+little by little
+poco a poco
+
+shameless
+svergognato
+
+to do it well
+farlo per bene
+
+to do well
+fare per bene
+
+to do it badly
+farlo per male
+
+to do badly
+fare per male
+
+firecracker
+petardo
+
+money laundering
+il riciclaggio del denaro
+
+to pull the hamstring muscle
+stirare il muscolo bicipite femorale
+
+to make it clear
+mettere in chiaro
+
+
+

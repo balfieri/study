@@ -640,7 +640,7 @@ lo sconto
 sale
 la salda
 
-on vacation (flexible)
+on vacation (flexible); on holiday
 in vacanza
 
 on vacation (fixed holidays)
