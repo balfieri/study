@@ -475,7 +475,7 @@ passeggiare
 to take a walk
 fare una passeggiata
 
-to take a trip
+to take a trip; to take a tour
 fare un giro
 
 to pull one's leg
@@ -2734,7 +2734,7 @@ parlare
 to learn
 imparare
 
-to visit
+to visit; to sightsee
 visitare
 
 to visit (someone)
@@ -2746,7 +2746,7 @@ ricordare
 to lunch; to have lunch
 pranzare
 
-to live (in); to inhabit
+eo live (in); to inhabit
 abitare
 
 to use

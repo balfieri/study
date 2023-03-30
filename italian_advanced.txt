@@ -9323,7 +9323,7 @@ warning sign
 ll segnale di avvertimento
 
 approachable
-avvicinabile
+avvicinabile; alla mano
 
 along the way
 lungo la strada
@@ -11817,9 +11817,6 @@ monolitico
 
 to clear; to drain; to reclaim
 bonificare
-
-to go off the tracks
-uscire dai binari
 
 source; spring
 lo sorgente
@@ -27973,9 +27970,6 @@ benigno
 chaotic
 caotico
 
-capricious
-capriccioso
-
 deformed
 deforme
 
@@ -35700,4 +35694,196 @@ mettere in chiaro
 
 by birth
 per nascita
+
+headboard (bed)
+la testiera (del letto)
+
+Kurdish
+curdo
+
+inexcusable
+inaccettabile
+
+on a leash
+al guinzaglio
+
+to become aware of
+venire a conoscenza di
+
+to adapt to
+adattarsi a
+
+high-quality house
+la casa di pregio
+
+The Thames
+il Tamigi
+
+italophile
+l'italofilo
+
+francophile
+il francofilo
+
+anglophile
+l'anglofilo
+
+to derail; to go off the tracks
+uscire dai binari
+
+to move away
+discostare
+
+to see reality objectively
+vedere la realtà in modo oggettivo
+
+to decolonize
+decolonizzare
+
+I'll give you the last word
+ti lascio l'ultima parola
+
+we are down here
+siamo qui sotto
+
+fiercely independent
+fieramente indipendente; fortamente indipendente
+
+it's the only thing we know for sure
+è l'unica cosa di cui siamo sicuri
+
+the next step after that
+il passo successivo dopo quello
+
+to honk the horn
+suonare il clacson
+
+to age well
+invecchiare bene
+
+frenzy
+la frenesia
+
+she's all in a frenzy
+è tutta in preda alla frenesia
+
+in the grip of
+in preda a
+
+to receive the brunt of
+subire il colpo più duro
+
+welcome aboard
+benvenuti a bordo
+
+it's all relative
+è tutto relativo
+
+I would like to remind you that
+vorrei ricordarti che
+
+moodiness
+la lunaticità
+
+irritability
+l'irritabilità
+
+capricious; temperamental
+capriccioso
+
+emotional ups and downs
+gli alti e bassi emotivi
+
+to be of the same mindset
+avere la stessa mentalità
+
+to be cut from the same cloth
+essere della stessa pasta
+
+the wind was blowing
+il vento soffiava
+
+gentle breeze
+la brezza leggera
+
+at the top of a hill
+in cima a una collina
+
+to take a tour of a dairy
+fare un giro in un caseificio
+
+the prosciutto literally melted in my mouth
+il prosciutto si scioglieva letteralmente in bocca
+
+to go sightseeing
+andare a visitare
+
+to see the sights
+vedere le attrazioni
+
+in the same spot
+nello stesso posto
+
+mannerisms
+le maniere
+
+to carry oneself
+portarsi
+
+the way a person carries herself
+il modo in cui una persona si porta
+
+this class is killing me
+questa classe mi sta uccidendo
+
+to bear the brunt of
+sopportare il peso di
+
+to whistle from the sidewalk
+fischiare dal marciapiede
+
+that's it; that's all
+ecco tutto
+
+apologetic
+scusante
+
+exasperating
+esasperante
+
+person who often apologizes
+la persona che si scusa spesso
+
+emotional experience
+l'esperienza emotiva
+
+soft food
+il cibo morbido
+
+foot of the bed
+il piede del letto
+
+head of the bed
+la testata del letto
+
+bed cover
+il copriletto
+
+padded
+imbottito
+
+to pad
+imbottire
+
+duvet
+il piumino
+
+quilt
+la trapunta
+
+pillowcase
+la federa del cuscino
+
+memory foam pillow
+il cuscino in memory foam
 
