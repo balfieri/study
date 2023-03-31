@@ -1952,7 +1952,7 @@ to capture the essence
 catturare l'essenza
 
 for the most part
-per lo più; sopprattutto
+per la maggior parte; per lo più; sopprattutto
 
 to improvise
 improvvisare
@@ -7110,9 +7110,6 @@ il verdetto
 
 myth; legend; tale
 il mito
-
-for the most part
-per lo più; perlopiù
 
 minority
 la minoranza
@@ -22246,7 +22243,7 @@ i frutti più bassi
 excess; excessiveness
 l'oltranza
 
-to mix; to blend; to mix up; to mingle
+to mix (objects, ideas); to blend; to mix up; to mingle
 mischiare
 
 carefully; accurately; meticulously
@@ -25498,7 +25495,7 @@ esplorare
 warmly; heartily; cordially
 caldamente
 
-to get bored of; to get tired of
+to get bored of; to get tired of; to get sick of
 stufarsi
 
 very; quite; extremely
@@ -35886,4 +35883,109 @@ la federa del cuscino
 
 memory foam pillow
 il cuscino in memory foam
+
+helpful person
+la persona disponibile
+
+sightseeing; tourist visits
+le visite turistiche
+
+only so much
+solo fino a un certo punto
+
+auxiliary verb
+il verbo ausiliare
+
+I have no idea what it is
+non ho idea di cosa sia
+
+thrift shop; second-hand shop
+il negozio dell'usato
+
+from what I can hear
+da quello che riesco a sentire
+
+livable
+vivibile
+
+it is not as rich as; it is not as wealthy as
+non è così ricca come
+
+drinking game
+il gioco alcolico
+
+to get drunk; to get hammered
+essersi ubriacato
+
+inactive person
+la persona inattiva
+
+experience the ethos
+fare esperienza dell'etos
+
+reverse body dysmorphia
+la dismorfia corporea inversa
+
+body dysmorphia
+la dismorfia corporea
+
+tourist areas
+le zone turistiche
+
+to remain outside of
+rimanere fuori da
+
+to break down emotionally; emotionally collapse
+crollare emotivamente
+
+three times as long
+tre volte più tempo
+
+self-deprecating
+auto-deprecante
+
+to deprecate; to disparage
+deprecare
+
+she is doing her best
+lei sta facendo del suo meglio
+
+she is handling the situation as best as she can
+lei sta gestendo la situazione nel miglior modo possibile
+
+she is surviving as best as she can
+lei sta sopravvivendo nel miglior modo possibile
+
+computer screen
+lo schermo del computer
+
+retail therapy
+la terapia dello shopping
+
+temporary relief
+il sollievo temporaneo
+
+dog shelter; kennel (for temporary stays)
+l'asilo per i cani
+
+live music
+la musica dal vivo
+
+women are better than men
+le donne sono migliori degli uomini
+
+I want to preface by saying that
+voglio premettere dicendo che
+
+to have a crush on 
+avere una cotta per
+
+we gave her control over the menu choices
+abbiamo ceduto il controllo delle scelte del menu a lei
+
+to mix (chemical, culinary)
+miscelare
+
+to amalgamate
+amalgamare
 

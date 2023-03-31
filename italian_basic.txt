@@ -5926,7 +5926,7 @@ il misto
 mixed
 misto; mescolato
 
-to mix; to blend
+to mix (general); to blend
 mescolare
 
 newspaper
@@ -7807,3 +7807,5 @@ fare una foto
 romance
 il romanzo d'amore; la storia d'amore
 
+to combine
+combinare
