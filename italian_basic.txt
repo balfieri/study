@@ -2152,9 +2152,6 @@ dappertutto
 near
 vicino
 
-next to
-accanto a
-
 behind
 dietro
 
@@ -4477,7 +4474,7 @@ naturale
 flat
 piatto; piano
 
-spicy
+spicy; saucy (personality)
 piccante
 
 popular
@@ -5016,9 +5013,6 @@ nota
 
 to cure; to treat
 curare
-
-to take care of
-prendersi cura di
 
 to doubt
 mettere in dubbio; dubitare
@@ -6498,9 +6492,6 @@ Santo
 
 outside; external; outer
 esterno
-
-the outside
-l'esterno
 
 precisely; exactly
 precisamente

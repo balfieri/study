@@ -4519,9 +4519,6 @@ la patria
 contracted
 convenzionato
 
-concerning this matter
-in proposito
-
 microwave popcorn
 il popcorn al microonde
 
@@ -12004,9 +12001,6 @@ due pollici in alto
 computer mouse
 il mouse per computer
 
-about it
-al proposito
-
 shipment
 la spedizione
 
@@ -17524,9 +17518,6 @@ per niente
 stop it!
 piantala!
 
-full of beans
-pieno di energie
-
 the more the merrier
 più si è, meglio è
 
@@ -19089,9 +19080,6 @@ il rubacuori; la rubacuori
 
 tide; flood; tidal wave
 la marea
-
-close enough
-abbastanza vicino
 
 I'm disappointed in you
 sono deluso da te
@@ -24031,7 +24019,7 @@ la curva di apprendimento
 work in progress
 il lavoro in corso
 
-to invest; to run over
+to invest; to run over (car)
 investire
 
 New Year's Eve
@@ -35704,7 +35692,7 @@ inaccettabile
 on a leash
 al guinzaglio
 
-to become aware of
+to become aware of; to find out; to discover; to learn (find out)
 venire a conoscenza di
 
 to adapt to
@@ -35989,3 +35977,299 @@ miscelare
 to amalgamate
 amalgamare
 
+the outside
+l'esterno; la parte esterna
+
+homogeneous compound
+il composto omogeneo
+
+prick
+il pungile
+
+wavy
+ondeggiante
+
+stinger
+il pungiglione
+
+sharp
+appuntito
+
+strong enough
+abbastanza in forza
+
+stew
+lo stufato
+
+it doesn't change a thing
+non cambia un bel niente
+
+ace
+l'asso
+
+hanger
+la gruccia
+
+let's sit for a moment
+sediamoci un momento
+
+headache
+il grattacapi
+
+of course not
+certo che no
+
+of course yes
+certo che sì
+
+half measure
+la mezza misura
+
+to cool down
+freddarsi
+
+something to say about it
+qualcosa da dire in proposito
+
+about it; concerning this matter
+in proposito
+
+on the subject
+al proposito
+
+to refer to
+fare riferimento
+
+it remains to be seen
+è da vedere
+
+to rebel
+ribellarsi
+
+caption
+la didascalia
+
+litter (puppies)
+la cucciolata
+
+litter (for animals)
+la lettiera
+
+litter (trash)
+i rifiuti abbandonati
+
+to provide immediately
+provvedere subito
+
+dim light
+la luce fioca
+
+soft light
+la luce soffusa
+
+softened
+soffuso
+
+balloon
+il palloncino
+
+inflatable
+gonfiabile
+
+horn
+il corno
+
+to take care of
+prendersi cura di
+
+don't hesitate to ask
+non esitare a chiedere
+
+today I turn 60
+oggi compio 60 anni
+
+thanks for coming so far
+grazie per essere venuto così lontano
+
+all this distance
+tutta questa distanza
+
+you didn't have to
+non dovevi
+
+righteous indignation
+l'indignazione giusta
+
+despicable
+spregevole
+
+I tried to patch things up between us
+ho cercato di aggiustare le cose tra noi
+
+to reconsider
+riconsiderare
+
+does it look familiar?
+ti sembra familiare?
+
+does it remind you of something?
+ti ricorda qualcosa?
+
+vivacity
+il brio
+
+I've lost count
+ho perso il conto
+
+meaningless
+insensato
+
+they always pick on my; they always target me
+mi prendono sempre di mira
+
+they always bully me
+mi bullizzano sempre
+
+they gang up against me
+si coalizzano contro di me
+
+they all turn against me
+si mettono tutti contro di me
+
+it's a miracle I still have some self-esteem
+è un miracolo che abbia ancora un po' di autostima
+
+I don't want to feel like I'm missing out
+non voglio sentirmi come se mi stessi perdendo qualcosa
+
+if I fail the exam
+se fallisco l'esame
+
+I feel it even more
+lo sento ancora di più
+
+Eurosceptic
+euroscettico
+
+enhancement
+il potenziamento
+
+asylum seeker
+il richiedente asilo
+
+Muslim
+musulmane
+
+illegal immigration
+l'immigrazione clandestina
+
+deregulation
+la deregolamentazione
+
+pro-European
+filo-europea
+
+deluxe album
+l'album deluxe
+
+she has you wrapped around her finger
+ti tiene al guinzaglio
+
+I'm such a fool for you
+sono un pazzo per te
+
+state of mind
+lo stato d'animo
+
+to escape from reality
+sfuggire alla realtà
+
+to have the giggles; to have a fit of laughter; to have a laughing fit
+avere una crisi di riso; avere un attacco di riso
+
+walk away from it
+allontanati da esso
+
+is there something on your mind?
+c'è qualcosa che ti preoccupa?
+
+it came out all wrong
+è venuto fuori tutto sbagliato
+
+to linger
+attardarsi
+
+there's nothing at all
+non c'è niente di niente
+
+to cause strife
+causare discordia
+
+to get treated like a second-class citizen
+venire trattato come un cittadino di seconda classe
+
+second-class citizen
+il cittadino di seconda classe
+
+just looking
+sto solo guardando
+
+to absorb the general ethos
+assorbire l'ethos generale
+
+watch your language
+fai attenzione a come parli; stai attento al linguaggio
+
+protruding
+sporgente
+
+gothic
+gotico
+
+cast iron (adj)
+in ghisa
+
+horse-drawn carriage
+il cocchio trainato
+
+vestibule
+il vestibolo
+
+mahogany
+il mogano
+
+I can't contain my laughter
+non riesco a trattenere il riso
+
+room below
+la sala sottostante
+
+different set of rules
+le regole diverse; il diverso insieme di regole
+
+cod
+il merluzzo
+
+spicy food
+l'alimento speziato
+
+to keep warm (person, temperature)
+tenere al caldo
+
+petrified
+petrificato
+
+I have some questions to ask you
+ho qualche domanda da farti
+
+criminal act
+l'atto criminale
+
+how about a beer?
+ti va una birra?
+
+unfair
+sleale
+
+little problem; non-problem; minor problem
+il problemuccio
