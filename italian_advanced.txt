@@ -36321,3 +36321,9 @@ a base di panna
 
 oil-based
 a base di olio
+
+the meal was catered
+il pasto è stato preparato da un servizio di catering
+
+catering service
+il servizio di catering
