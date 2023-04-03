@@ -2105,7 +2105,7 @@ cathedral
 il cattedrale; il duomo
 
 train station
-la stazione ferroviaria
+la stazione ferroviaria; la stazione del treno
 
 railway
 la ferrovia
