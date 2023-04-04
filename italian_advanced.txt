@@ -36681,3 +36681,18 @@ dalla loro parte
 
 name-calling; insults
 gli insulti
+
+billionth
+il milardesimo
+
+millionth
+il milionesimo
+
+thousandth
+il millesimo
+
+at the nanometer scale
+a scala nanometrica
+
+programmed manipulation
+la manipolazione programmata

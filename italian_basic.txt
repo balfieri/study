@@ -5503,7 +5503,7 @@ il grado
 nevertheless
 tuttavia; eppure
 
-matter; subject; material
+matter; subject; material; matter (mass)
 la materia
 
 kind; species
