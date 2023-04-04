@@ -14420,7 +14420,7 @@ empathy
 l'empatia
 
 noise-canceling headphones
-le cuffie insonorizzanti
+le cuffie insonorizzanti; le cuffie con cancellazione del rumore
 
 noise-canceling
 insonorizzante; anti-rumore
@@ -36666,3 +36666,6 @@ l'inesattezza
 
 to hear the birds chirping outside
 sentire il canto degli uccelli fuori
+
+to try so hard to
+cercare così tanto di
