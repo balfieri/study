@@ -36708,3 +36708,6 @@ avere la cattedra di ruolo
 
 tenured professor
 il professor di ruolo
+
+halo
+l'alone
