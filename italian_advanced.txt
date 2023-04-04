@@ -36675,3 +36675,6 @@ impagabile
 
 expression on his face
 l'espressione sul suo viso
+
+on their part
+dalla loro parte
