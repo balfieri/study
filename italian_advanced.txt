@@ -14441,7 +14441,7 @@ all quiet on the western front
 niente di nuovo sul fronte occidentale
 
 careless; negligent; inattentive
-sbadato
+sbadato; negligente
 
 it's great to see you
 è bello vederti; è bello rivederti
