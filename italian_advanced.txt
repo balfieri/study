@@ -19723,7 +19723,7 @@ la denuncia
 I can handle it
 posso farcela
 
-to denounce; to report (crime)
+to denounce; to report (crime); to press charges
 denunciare
 
 you owe me an explanation
@@ -36810,3 +36810,9 @@ tornare nella propria città natale
 
 pollen
 il polline
+
+to give up (something)
+rinunciare (qualcosa)
+
+to accuse
+accusare
