@@ -793,9 +793,6 @@ l'aceto
 pan
 la padella
 
-unleaded
-senza piomba
-
 without
 senza
 
@@ -7794,3 +7791,7 @@ il romanzo d'amore; la storia d'amore
 
 to combine
 combinare
+
+lead (metal)
+il piombo
+

@@ -25177,9 +25177,6 @@ assicurato
 correction
 la correzione
 
-lead
-il piombo
-
 strict; rigorous
 rigoroso
 
@@ -36783,3 +36780,10 @@ ho sentito parlare bene di
 
 about to; on the verge of; in the process of
 in procinto
+
+unleaded
+senza piombo
+
+to snap a photo
+scattare una foto
+
