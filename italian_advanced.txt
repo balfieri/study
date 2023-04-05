@@ -23962,9 +23962,6 @@ l'abitazione
 incidence
 l'incidenza
 
-defendant; respondent
-il convenuto
-
 vocatino
 la vocazione
 
@@ -27314,7 +27311,7 @@ geometry
 la geometria
 
 defendant; accused; suspect
-l'imputato
+l'imputato; il convenuto
 
 variously
 variamente
@@ -34847,7 +34844,7 @@ forecast
 il pronostico
 
 convicted
-il pregiudicato
+il condannato; il pregiudicato
 
 to withdraw
 prelevare
@@ -36732,3 +36729,55 @@ il disturbo ossessivo-compulsivo (DOC)
 
 habitual
 abitudinario
+
+mugshot
+la foto segnaletica
+
+in front of the judge
+davanti al giudice
+
+to compete on price
+competere al ribasso
+
+convict
+il galeotto
+
+in the prosecutor's office
+in procura
+
+charge (legal)
+il capo di imputazione
+
+not to mention
+per tacere
+
+pay-per-use
+si paga a consumo
+
+shared
+in sharing
+
+indictment
+l'atto di accusa
+
+to indict
+incolpare; imputare un reato
+
+criminal conduct
+il comportamento criminale
+
+criminal activity
+l'attività criminale
+
+major championship
+il campionato maggiore
+
+bodyguard
+la guardia del corpo
+
+I will be traveling to
+sarò in viaggio verso
+
+I've heard good things about
+ho sentito parlare bene di
+
