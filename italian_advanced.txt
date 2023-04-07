@@ -32242,9 +32242,6 @@ al largo della costa di; al largo delle coste di
 hybrid
 l'ibrido
 
-long-term
-a lungo termine
-
 to store
 immagazzinare
 
@@ -37017,3 +37014,12 @@ dare le dimissioni
 
 wheelchair
 la sedia a rotelle
+
+at a faster rate
+a un ritmo più veloce
+
+at a slower rate
+a un ritmo più lento
+
+in the long run; long-term
+a lungo termine
