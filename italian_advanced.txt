@@ -8260,8 +8260,11 @@ le virgolette
 double quotes
 le virgolette doppie
 
-in quotes
+in quotes; so to speak
 tra virgolette
+
+so to speak
+per così dire; tra virgolette
 
 mortgage
 il mutuo; l'ipoteca
