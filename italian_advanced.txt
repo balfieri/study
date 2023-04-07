@@ -37011,3 +37011,6 @@ ho lasciato il mio lavoro; ho mollato il mio lavoro
 
 to resign
 dare le dimissioni
+
+wheelchair
+la sedia a rotelle
