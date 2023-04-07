@@ -4040,7 +4040,7 @@ to cheat on (an exam)
 barare a
 
 disappointing
-scoraggiante
+deludente; scoraggiante
 
 farting
 scorregiante
@@ -13112,7 +13112,7 @@ the media
 i media; i mass media
 
 biased; partial
-parziale; prevenuto
+di parte; parziale; prevenuto
 
 so that eventually
 affinché eventually
@@ -16747,9 +16747,6 @@ sordomuto
 it has a life of its own
 ha una vita propria
 
-disappointing
-deludente
-
 virgin ears
 le orecchie vergini
 
@@ -19933,7 +19930,7 @@ l'entrata
 certainty; assurance
 la certezza
 
-fatigue; effort; exertion
+fatigue; effort; exertion; grind (work)
 la fatica
 
 guise
@@ -35158,7 +35155,7 @@ cultural heritage
 religious convictions
 le convinzioni religiose
 
-snail
+snail; slug
 la lumaca
 
 inventor
@@ -35174,7 +35171,7 @@ sympathetic
 compassionevole; solidale
 
 to compare
-confrontare
+paragonare; confrontare
 
 tasteless; unsightly
 disgustoso
@@ -36922,3 +36919,89 @@ l'appaiatore; il combinatore
 to bring near; to put closer
 avvicinare
 
+zero-tolerance policy
+la politica di tolleranza zero
+
+I have no idea whatsoever
+non ho proprio idea
+
+to go on a road trip
+andare in gita su strada
+
+road trip
+il viaggio su strada; la gita in auto
+
+road trip culture
+la cultura dei viaggi su strada
+
+leukaemia
+la leucemia
+
+lung infection
+l'infezione polmonare
+
+disputed
+conteso; in disputa
+
+my job is a grind
+il mio lavoro è una fatica; il mio lavoro è pesante
+
+to become such a grind
+diventare così pesante; diventare una fatica
+
+product group
+il gruppo di prodotti
+
+to have a cushy job
+avere un lavoro comodo; avere un lavoro facile
+
+cushy job
+il lavoro comodo; il lavoro facile
+
+to retire
+andare in pensione
+
+there's hope!
+c'è speranza!
+
+it's probably already obvious to you
+probabilmente è già ovvio per te
+
+men are inferior to women
+gli uomini sono inferiori alle donne
+
+there's only one thing you need to understand and internalize
+c'è solo una cosa che devi capire e interiorizzare
+
+once you accept this fact
+una volta che accetti questo fatto
+
+to be inferior to
+essere inferiore a
+
+to play the drums
+suonare la batteria
+
+to work on the problem
+lavorare sul problema
+
+existential threat
+la minaccia esistenziale
+
+it was sweet of you to say that
+è stato carino da parte tua dirlo
+
+it was nice of you to say that
+è stato gentile da parte tua dirlo
+
+to anticipate
+anticipare; prevedere; fare previsioni
+
+what did I do that was so bad?
+cosa ho fatto di così brutto?
+
+I worry about hurting your feelings
+mi preoccupa ferire i tuoi sentimenti
+
+from a selfish standpoint
+da un punto di vista egoista
