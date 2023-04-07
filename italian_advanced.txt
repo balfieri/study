@@ -29011,7 +29011,7 @@ col senno del poi
 ascertained
 constatato
 
-assaulted
+assaulted; attacked
 aggredito
 
 friction; rubbing
