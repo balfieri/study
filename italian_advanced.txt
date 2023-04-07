@@ -1616,7 +1616,7 @@ to patent
 brevettare
 
 slacker; idler
-fannulone
+il fannulone
 
 begger
 il mendicante
@@ -1834,9 +1834,6 @@ sintonizzare
 luckily, fortunately
 menomale; per fortuna; fortunatamente
 
-unfortunately
-purtroppo; sfortunatamente
-
 to choose; to select
 scegliere; selezionare
 
@@ -1860,6 +1857,9 @@ in fondo alla strada; in fondo a questa strada; lungo la strada
 
 hinge; flexible joint
 il ganghero
+
+gangrene
+la gangrena
 
 gist; essence; substance
 l'essenza; la sostanza
@@ -1960,9 +1960,6 @@ improvvisare
 to debate
 dibattere
 
-starring
-protaganista
-
 to play in the background (music etc.)
 suonare sullo sfondo
 
@@ -2033,7 +2030,7 @@ optional; elective
 facoltativo
 
 quota; allotment
-contingente
+il contingente
 
 excruciating; harrowing; agonizing
 straziante
@@ -2045,7 +2042,7 @@ article of clothing
 il capo d'abbigliamento
 
 paddleboat
-pedalò
+il pedalò
 
 to make the bed
 fare il letto
@@ -2071,7 +2068,7 @@ rifiutarsi di
 until now; so far
 finora
 
-college degree
+college degree (undergraduate)
 la laurea
 
 figuratively
@@ -32038,7 +32035,7 @@ per ripicca
 under (influence); in accordance with; by force of
 in forza di
 
-played by (acting)
+played by (acting); starring
 interpretato da
 
 to change for the better
