@@ -9112,9 +9112,6 @@ i sentimenti confusi
 blood clot
 il coagulo di sangue
 
-family emergency
-l'emergenza famigliare
-
 originated
 sorto
 
@@ -24212,7 +24209,7 @@ understanding; sympathetic; including; forgiving
 comprensivo
 
 it sounds familiar
-sembra familiare; suona famigliare
+sembra familiare; suona familiare
 
 one last thing
 un'ultima cosa
