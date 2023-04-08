@@ -1046,7 +1046,7 @@ such a thing; a similar thing; something like that
 una cosa simile
 
 gusty
-burrascoso; rafficato
+rafficato; burrascoso
 
 crosswind
 il vento di traverso; il vento trasversale; il vento al traverso
@@ -1681,7 +1681,7 @@ regalare
 to hang up (the phone)
 riattaccare
 
-or; i.e.
+in other words; i.e.
 ovvero
 
 to cower
@@ -11561,7 +11561,7 @@ to nerd out
 nerdare
 
 what the heck
-che/cosa diavolo; cosa accidenti
+che diavolo; cosa diavolo; cosa accidenti
 
 loony; nutty; crazy; kooky; loopy
 pazzarello
@@ -37035,3 +37035,48 @@ perseguire la propria carriera
 
 to dive into; to immerge oneself into
 immergersi in
+
+several minutes
+alcuni minuti
+
+tingere i capelli
+to dye one's hair
+
+gusty wind
+il vento rafficato; il vento forte e irregolare
+
+whether it's
+che sia; che si tratti di
+
+I should not care
+dovrei fregarmene
+
+earphones
+cuffiette
+
+alibi
+l'alibi
+
+to prepare for the worst
+prepararsi al peggio
+
+but how
+ma come
+
+clear; understood
+caputo
+
+tumultuous
+tumultuoso
+
+sick joke
+lo scherzo di cattivo gusto; lo scherzo malato
+
+to shear (animal); to clip
+tosare
+
+plumbing pipe
+il tubo idraulico
+
+PVC pipe
+il tubo in PVC
