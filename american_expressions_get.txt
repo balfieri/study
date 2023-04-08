@@ -1,10 +1,10 @@
 # non-obvious uses of the word GET not found in other lists
 #
 getup
-un costume (ridicolo)
+il costume (ridicolo)
 
 get-together
-una riunione fra amici (di solito ad una casa o ristorante)
+il riunione fra amici (di solito ad una casa o ristorante)
 
 get-up-and-go
 la voglia di fare molte cose
