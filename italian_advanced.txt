@@ -12619,7 +12619,7 @@ ostacolare
 to go that far; to get to that point
 arrivare a tanto
 
-to advance; to progress
+to progress; to advance
 progredire
 
 counterproductive
@@ -14293,7 +14293,7 @@ la calca
 alley; lane; bystreet
 la viuzza
 
-spread (adj); extended; extensive
+spread (adj); extended; extensive; laid out
 steso
 
 to revive; to resuscitate
@@ -37109,4 +37109,64 @@ retirement age
 l'età pensionabile
 
 to raise the retirement age; to increase the retirement age
-aumentare l'età  pensionabile
+aumentare l'età pensionabile
+
+pension fund
+il fondo pensione
+
+empty cradle
+la culla vuota
+
+clearly; distinctly
+nitidamente
+
+to pay one's dues; to climb the ranks
+fare la gavetta
+
+build a resume; build a CV
+fare curriculum
+
+attack; assassination attempt
+l'attentato
+
+universal allowance; single allowance
+l'assegno unico
+
+coupon; voucher
+la cedola
+
+rich tradition; extensive tradition
+la nutrita tradizione
+
+to roar; to rumble
+rombare
+
+rumble; roar
+il rombo
+
+in some respects
+su alcuni aspetti
+
+existing regulations; current rules
+le normative esistenti
+
+legal framework
+il quadro giuridico
+
+desirable; advisable
+auspicabile
+
+to regret; to repent
+pentirsi
+
+opening; opportunity
+lo spiraglio
+
+point of impact; drop point
+il punto di caduta
+
+welcome; appreciated
+gradito
+
+to unwelcome; to unappreciate
+sgradire
