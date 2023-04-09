@@ -12670,7 +12670,7 @@ maneggevole; gestibile; controllabile; trattabile
 classroom teaching
 la didattica in aula
 
-broadcast programming; programming content
+program schedule; program guide; broadcast programming; programming content
 il palinsesto
 
 quick cup of coffee
