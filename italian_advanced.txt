@@ -26290,9 +26290,6 @@ completare
 in first place
 al primo posto
 
-there's no comparison
-non c'è confronto
-
 it's not even close
 non gli si avvicina nemmeno
 
@@ -32507,7 +32504,7 @@ in good hands
 in buone mani
 
 there's no comparison
-non c'è paragone
+non c'è confronto; non c'è paragone
 
 grafted; implanted; engaged
 innestato
@@ -37365,3 +37362,18 @@ risolvere; capire; trovare una soluzione
 
 to pursue a goal
 perseguire un obiettivo
+
+unrepeatable
+irripetibile
+
+repeatable
+ripetibile
+
+compared to my cooking
+rispetto alla mia cucina
+
+homemade cooking
+la cucina casalinga
+
+to capture lightning in a bottle
+cogliere l'attimo; afferrare l'irripetibile
