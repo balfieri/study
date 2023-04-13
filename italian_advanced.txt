@@ -3313,9 +3313,6 @@ il picco
 dregs; trash
 la feccia
 
-at all cost
-a tutti i costi
-
 to throw a curveball; to displace; to shock; to crowd out
 spiazzare
 
@@ -8186,7 +8183,7 @@ contradiction
 la contraddizione
 
 bundle of contradictions
-il fascio di contraddizioni
+il fascio di contraddizioni; il misto di contraddizioni
 
 mood swings
 gli sbalzi d'umore
@@ -11257,7 +11254,7 @@ lo statista
 to discredit; to debunk
 sfatare
 
-to suppress
+to suppress; to put down
 sopprimere
 
 guerrilla
@@ -37335,3 +37332,36 @@ ho visto di meglio
 
 I've seen worse
 ho visto di peggio
+
+I avoid walking at all costs
+evito di camminare a tutti i costi
+
+at all costs
+a tutti i costi
+
+several weeks ago; a few weeks ago
+alcune settimane fa
+
+several days ago; a few days ago
+alcuni giorni fa
+
+I got pulled into a meeting
+sono stato trascinato in una riunione
+
+our dog had to be put down
+abbiamo dovuto sopprimere il nostro cane
+
+forklift
+il carrello elevatore; il muletto
+
+cry for help
+l'invocazione d'aiuto
+
+to wrap up a conversation; to end a discussion
+chiudere il discorso
+
+to find a solution; to understand something
+risolvere; capire; trovare una soluzione
+
+to pursue a goal
+perseguire un obiettivo
