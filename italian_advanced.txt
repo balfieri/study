@@ -1826,7 +1826,7 @@ disagreement
 il discordo
 
 by default
-per default; automaticamente considerato
+per impostazione predefinita; per default; automaticamente considerato
 
 to tune
 sintonizzare
