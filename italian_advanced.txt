@@ -37530,3 +37530,9 @@ la degenza
 
 to remain in force; to remain in effect
 restare in vigore
+
+diamond
+il diamante
+
+diamondoid
+diamantoide
