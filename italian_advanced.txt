@@ -37521,3 +37521,12 @@ il corpo umano
 
 carcinogen
 il carcinogeno
+
+hospital ward
+il reparto di degenza
+
+hospitalization
+la degenza
+
+to remain in force; to remain in effect
+restare in vigore
