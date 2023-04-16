@@ -37444,7 +37444,7 @@ inodore
 glove box
 il portagioie; il vano portaoggetti
 
-crime
+crime (serious, violent)
 il crimine
 
 robbery
