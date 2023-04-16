@@ -37539,3 +37539,6 @@ diamantoide
 
 tiny house
 la casa minuscola
+
+DNA
+il DNA
