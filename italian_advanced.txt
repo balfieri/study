@@ -37569,3 +37569,6 @@ il vaso sanguigno
 
 summer school
 la scuola estiva
+
+basic; fundamental
+di base
