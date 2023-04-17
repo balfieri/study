@@ -37566,3 +37566,6 @@ la vasculite
 
 blood vessel
 il vaso sanguigno
+
+summer school
+la scuola estiva
