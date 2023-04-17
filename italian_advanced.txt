@@ -25150,7 +25150,7 @@ il successore
 signal
 il segnale
 
-vein; seam; blood vessel
+vein; seam
 la vena
 
 insured
@@ -37563,3 +37563,6 @@ fallo!; tentaci!
 
 vasculitis
 la vasculite
+
+blood vessel
+il vaso sanguigno
