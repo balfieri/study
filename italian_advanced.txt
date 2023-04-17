@@ -37572,3 +37572,9 @@ la scuola estiva
 
 basic; fundamental
 di base
+
+prisoner of war
+il prigioniero di guerra
+
+prisoner of war camp
+il campo di prigionieri di guerra; il campo di prigionia
