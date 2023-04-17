@@ -37577,4 +37577,7 @@ prisoner of war
 il prigioniero di guerra
 
 prisoner of war camp
-il campo di prigionieri di guerra; il campo di prigionia
+il campo di prigionieri di guerra
+
+prison camp
+il campo di prigionia
