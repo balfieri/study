@@ -17219,7 +17219,7 @@ who do you think you are?!
 chi credi di essere?!
 
 look who's here
-chi si rivede; chi se vede
+guarda chi si vede; chi si rivede; chi se vede; guarda chi c'è
 
 it takes much more than that
 ci vuole altro
@@ -17331,9 +17331,6 @@ la cavalleria
 
 woe to
 guai a
-
-look who's here!
-guarda chi c'è!; guarda chi si véde!
 
 my best to
 i miei rispetti a
@@ -24078,9 +24075,6 @@ snobbare
 
 all of them
 tutti quanti
-
-look who's here
-guarda chi si vede
 
 was it really so difficult?
 era davvero cosà difficile?
