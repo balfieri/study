@@ -28363,9 +28363,6 @@ l'orario
 menage a trois
 la cosa a tre; il menage a trois
 
-self-deprecating
-autoironico
-
 sneaky; shifty; sly; underhand; devious
 subdolo
 
@@ -35891,7 +35888,7 @@ three times as long
 tre volte più tempo
 
 self-deprecating
-auto-deprecante
+autoironico; auto-deprecante
 
 to deprecate; to disparage
 deprecare
