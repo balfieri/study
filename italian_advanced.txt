@@ -37669,6 +37669,9 @@ buon divertimento a (città)
 CT scan
 la TAC (Tomografia Assiale Computerizzata)
 
+MRI
+l'RM (Risonanza Magnetica)
+
 aortic dissection
 la dissezione aortica
 
@@ -37683,3 +37686,4 @@ non sto vedendo nessuno in questo momento
 
 you really hurt me
 mi hai fatto veramente male
+
