@@ -1757,7 +1757,7 @@ suit
 l'abito; il completo
 
 complete
-completo
+completo; compiuto
 
 dress
 il vestito

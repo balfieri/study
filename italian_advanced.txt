@@ -16039,9 +16039,6 @@ ho degli standard
 distant cousin
 il cugino alla lontana; il cugino lontano
 
-brain drain
-la fuga di cervelli
-
 short-sighted
 miope; imprevidente
 
@@ -18054,9 +18051,6 @@ il brutto momento; il brutto colpo
 
 to cheat on one's significant other
 fare le corna
-
-brain drain
-i cervelli in fuga
 
 to knock on wood
 toccare ferro
@@ -35228,7 +35222,7 @@ serenade
 la serenata
 
 brain drain
-la fuga dei cervelli
+la fuga di cervelli; la fuga dei cervelli; i cervelli in fuga
 
 tax evasion
 l'evasione fiscale
@@ -37599,3 +37593,78 @@ né l'uno né l'altro
 
 it's out of your control
 è fuori dal tuo controllo
+
+around the globe
+intorno al globo; in tutto il mondo
+
+under attack
+sotto attacco
+
+to the detriment of; at the expense of
+a discapito di
+
+pace of innovation
+il ritmo dell'innovazione
+
+wave of protests
+l'onda di proteste; l'ondata di proteste
+
+protestor; demonstrator
+il manifestante
+
+to be burdened
+essere gravato; essere oppresso
+
+insolvent
+insolvente
+
+as a result of; following
+in seguito a
+
+to retire
+pensionarsi
+
+dropout; dropping out
+la fuga dall'apprendimento
+
+to get by; to manage
+districarsi
+
+strain; forcing
+la forzatura
+
+to not be able to do without
+non si può fare a meno
+
+barrage of questions
+la voragine di domande
+
+race to the bottom; lowering the bar
+l'uguaglianza al ribasso
+
+neutron
+il neutrone
+
+proton
+il protone
+
+electron
+il elettrone
+
+photon
+il fotone
+
+phonon
+il fonone
+
+personality
+la personatura
+
+recapped; summarized
+ricapitato
+
+incomplete
+incompleto; incompiuto
+
+enjoy your time in (city)
+buon divertimento a (città)
