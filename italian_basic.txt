@@ -7795,3 +7795,6 @@ egosita
 unfortunately
 purtroppo; sfortunatamente
 
+to experiment
+sperimentare
+

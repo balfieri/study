@@ -6979,8 +6979,8 @@ prossimamente
 to sanction; to seal; to approve
 sancire
 
-to repeal; to rescind
-abrogare; rescindere
+to repeal; to rescind; to revoke
+abrogare; rescindere; revocare
 
 abolition; repeal
 l'abrogazione
@@ -8095,9 +8095,6 @@ la rissa
 contraceptive
 anticoncezionale
 
-contraception
-la contraccezione
-
 total sense
 il senso completo
 
@@ -8378,7 +8375,7 @@ visual cues
 i segnali visivi
 
 foster child
-il bambino affidato; il bambino in affidamento
+bambino in affido; il bambino affidato; il bambino in affidamento
 
 bar; pub
 la taverna
@@ -29266,7 +29263,7 @@ non farebbe male a una mosca
 interview stress
 ansia da colloquio
 
-outdated
+outdated; antiquated; obsolete
 antiquato; obsoleto; sorpassato
 
 it holds up well
@@ -37716,3 +37713,91 @@ avere potere predittivo
 
 I'm not happy with you right now
 non sono contento di te in questo momento
+
+to be held
+essere preso in braccio
+
+he doesn't like to be held
+non gli piace essere preso in braccio
+
+to run into the door
+correre contro la porta
+
+to collide with the door
+scontrarsi con la porta
+
+to jump up
+saltare su
+
+to turn the knob
+girare la maniglia
+
+if I had been smart, which I wasn't
+se fossi stato intelligente, cosa che non ero
+
+for my reading pleasure
+per il mio piacere di lettura
+
+general practitioner
+il medico di medicina generale; il medico generico; medico di base
+
+family doctor
+il medico di famiglia
+
+internist
+l'internista
+
+fare delle tac
+to do CT scans; to gete CT scans
+
+MRI
+la risonanza magnetica
+
+essere tutto al completo
+to be fully booked
+
+coil; spiral
+la spirale
+
+eliminare una variabile
+eliminate a variable
+
+laurearsi
+to graduate
+
+scapolo
+bachelor
+
+addotare
+to adopt
+
+IUD
+il DIU (Dispositivo Intrauterino)
+
+contraception; birth control
+la contraccezione
+
+birth control pill
+la pillola anticoncezionale
+
+emotional support
+il sostegno emotivo
+
+if I were smart, which I'm not
+se fossi intelligente, cosa che non sono
+
+CYA; cover your ass
+copri il sedere (less formal); coprire le proprie spalle (more formal)
+
+work-study program
+il programma di lavoro-studio
+
+sondare
+to probe
+
+down below
+lì sotto
+
+45 seconds too long
+45 secondi troppo lunghi
+
