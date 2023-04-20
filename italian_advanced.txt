@@ -27703,7 +27703,7 @@ la persuasione
 generality
 la generalità
 
-to employ; to use; to hire
+to employ; to use; to hire; to take (time)
 impiegare
 
 habitual
@@ -37860,3 +37860,6 @@ sconfingere
 
 to get straight to the point
 andare dritti al punto
+
+to take two weeks
+impiegare due settimane
