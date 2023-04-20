@@ -37738,14 +37738,11 @@ se fossi stato intelligente, cosa che non ero
 for my reading pleasure
 per il mio piacere di lettura
 
-general practitioner
-il medico di medicina generale; il medico generico; medico di base
-
-family doctor
-il medico di famiglia
+general practitioner; family doctor
+medico di base; il medico di famiglia
 
 internist
-l'internista
+il medico di medicina generale; l'internista
 
 fare delle tac
 to do CT scans; to gete CT scans
@@ -37772,7 +37769,7 @@ addotare
 to adopt
 
 IUD
-il DIU (Dispositivo Intrauterino)
+il DIU (Dispositivo Intrauterino); la spirale (colloquiale)
 
 contraception; birth control
 la contraccezione
