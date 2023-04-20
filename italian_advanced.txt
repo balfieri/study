@@ -3446,7 +3446,7 @@ to bite one's fingernails; to bite one's nails
 mangiarsi le unghie
 
 magnet
-il magnetico; la calamita
+il magnete; il magnetico; la calamita
 
 dark comedy
 la commedia nera
@@ -9163,7 +9163,7 @@ l’incongruenza
 start-up phase
 la fase di avvio
 
-to belong
+to be due; to pertain; to belong
 spettare
 
 to deserve; to merit
@@ -37529,7 +37529,7 @@ the laws have to allow for
 le leggi devono prevedere
 
 the way the whole thing went down was very strange
-il modo in cui è andata tutta la faccenda è stato molto strano.
+il modo in cui è andata tutta la faccenda è stato molto strano
 
 the way it went down was very strange
 il modo in cui è successo è stato molto strano.
@@ -37800,3 +37800,66 @@ lì sotto
 
 foreign object
 il corpo estraneo; l'oggetto estraneo
+
+elucidation; clarification
+la lucidazione
+
+you don't even have to think about it
+non devi pensarci neanche
+
+step forward
+il passo avanti
+
+news?
+notizia?
+
+just outside
+appena fuori
+
+we broke up
+abbiamo chiuso
+
+to have a lapse
+avere un lapsus
+
+in recent decades
+in questi ultimi decenni
+
+in a short time
+in breve tempo
+
+he could use a little Zoloft
+gli farebbe bene un po' di Zoloft
+
+to have a lot of anxiety
+avere molta ansia
+
+to tear one's hair out
+strappare i capelli
+
+galaxy
+la galassia
+
+beyond this
+al di là di questo
+
+conjecture
+la congettura
+
+laws of motion
+le leggi di moto
+
+more in depth
+più a fondo
+
+exciting
+entusiasmante
+
+interdisciplinary
+interdisciplinare
+
+to go beyond limits
+sconfingere
+
+to get straight to the point
+andare dritti al punto
