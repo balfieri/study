@@ -2750,7 +2750,7 @@ pat; knock
 il colpetto
 
 on the other hand
-d'altro canto; d'altra parte; dall'altro lato
+d'altra parte; d'altro canto; dall'altro lato; di contro
 
 hoe
 la zappa
@@ -4419,9 +4419,6 @@ in secondo luogo
 
 on one hand
 da una parte; da un lato
-
-on the other hand
-d'altra parte; d'altro lato
 
 nevertheless; nonetheless; however
 ciononostante
@@ -12619,9 +12616,6 @@ progredire
 counterproductive
 controproducente
 
-on the other hand
-di contro
-
 remedy
 il rimedio
 
@@ -16314,9 +16308,6 @@ in poche parole
 
 matter of opinion
 la questione di punti di vista
-
-on the other hand
-d'altra parte
 
 on the same wavelength
 sulla stessa lunghezza d'onda
