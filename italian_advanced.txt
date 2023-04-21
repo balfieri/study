@@ -37992,3 +37992,6 @@ lo schifo
 
 Python script
 lo script Python
+
+computer language; programming language
+il linguaggio di programmazione
