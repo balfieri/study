@@ -37935,3 +37935,6 @@ privatizzare
 
 healthcare system
 il sistema sanitario
+
+health condition
+la condizione di salute
