@@ -3097,7 +3097,7 @@ unire
 to define
 definire
 
-to suffer (subjected to something)
+to suffer (from being subjected to something)
 subire
 
 to guarantee
