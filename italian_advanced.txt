@@ -37989,3 +37989,6 @@ dormiente; inattivo
 
 disgust; awfulness
 lo schifo
+
+Python script
+lo script Python
