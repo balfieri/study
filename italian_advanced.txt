@@ -19588,9 +19588,6 @@ versare sale sulla ferita
 mosquito
 la zanzara
 
-company; firm; corporation
-la compagnia
-
 sometimes
 talora
 
@@ -35476,9 +35473,6 @@ non fare rumore
 hostile
 ostile
 
-corporation
-la corporazione
-
 it's more like a
 è più simile a un
 
@@ -37863,3 +37857,72 @@ andare dritti al punto
 
 to take two weeks
 impiegare due settimane
+
+terrible; crappy
+pessimo
+
+everything is fine
+è tutto apposto
+
+company (a group of people working together)
+la compagnia
+
+limited liability company (LLC)
+la società a responsabilità limitata (S.r.l.)
+
+joint-stock company
+la società per azioni (S.p.A.)
+
+corporation (American, English)
+la corporazione
+
+sea bass
+la spigola
+
+general partnership
+la società in nome collettivo (S.n.c.)
+
+limited partnership
+la società in accomandita semplice (S.a.s.)
+
+C corporation
+la società C
+
+S corporation
+la società S
+
+branch (business); subsidiary
+il filiale
+
+vial
+la fial
+
+sweet little girl
+la dolce bambinetta
+
+precursor
+il precursore
+
+to disappear (suddenly); to vanish
+sparire (all'improvviso)
+
+to dissolve (into the environment)
+dissolversi (nell'ambiente)
+
+paralegal
+il paralegale
+
+to be true to one's word
+essere di parola
+
+do you need anything else?
+servi altro?
+
+always on the ball; always sharp
+sempre in gamba
+
+mule
+il mulo
+
+to bully
+bullizzare
