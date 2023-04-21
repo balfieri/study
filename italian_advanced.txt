@@ -37859,7 +37859,7 @@ company (a group of people working together)
 la compagnia
 
 limited liability company (LLC)
-la società a responsabilità limitata (S.r.l.)
+la società a responsabilità limitata (S.r.l.)
 
 joint-stock company
 la società per azioni (S.p.A.)
