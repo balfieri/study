@@ -7466,7 +7466,7 @@ multiple choice
 a scelta multipla
 
 internship
-il tirocinio; lo stage
+il tirocinio; lo stage; lo staggio
 
 detected; felt
 percepito
@@ -31549,9 +31549,6 @@ l'autocrazia
 to sue; to prosecute
 fare causa
 
-profitable
-redditizio
-
 to bestow; to endow
 elargire
 
@@ -38001,3 +37998,51 @@ lo steroide
 
 cognitive
 conoscitivo
+
+headwind; adverse wind
+il vento a sfavore
+
+foregone conclusion
+la conclusione scontata; l'esito scontato; la conclusione già  scritta
+
+through which
+attraverso cui; tramite il quale
+
+it's not my department (figurative)
+non è il mio campo; non è di mia competenza
+
+to wriggle out; to slip away
+svicolare
+
+to recant; to renounce; to disavow
+chiedere abiure
+
+air filter
+filtro d'aria
+
+to untangle; to disentangle; to unknot
+sbraidare
+
+stripped; undressed; deprived
+spogliato
+
+piece in front of me; item ahead of me
+il pezzo avanti a me
+
+that's all; that's it; that's all there is
+questo è quanto
+
+suspicious; distrustful; wary
+sospettoso
+
+criminal lawyer
+l'avvocato penalista
+
+franchise
+il franchising
+
+unconstitutional
+anticostituzionale
+
+profitable; remunerative; lucrative
+redditizio
