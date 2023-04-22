@@ -23216,7 +23216,10 @@ abbandoned
 abbandonato
 
 food (adj)
-alimentare
+alimentare (agg)
+
+to feed (food)
+alimentare (verbo)
 
 rancid
 rancido
@@ -38083,7 +38086,7 @@ il litio
 to feed; to give food to someone or something
 dare da mangiare
 
-to feed; to nourish; to provide food
+to feed; to provide food
 cibare; alimentare
 
 to give something to drink; to offer a beverage
