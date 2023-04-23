@@ -4243,7 +4243,7 @@ il consulente; il consigliere
 to consult
 consultare
 
-ray
+ray; radius
 il raggio
 
 multiple sclerosis
