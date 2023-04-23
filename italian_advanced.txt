@@ -24841,7 +24841,7 @@ l'aroma
 this will come as no surprise to you
 questo non ti sorprenderà
 
-miscellaneous
+various (of same category); miscellaneous
 vari; varie
 
 miscellany
@@ -38178,3 +38178,6 @@ il trabocchetto
 
 at various speeds
 a diverse velocità
+
+various (of different categories)
+diversi; diverse
