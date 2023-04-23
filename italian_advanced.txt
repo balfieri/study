@@ -22891,7 +22891,7 @@ Matteo
 caution; prudence
 la prudenza
 
-breath; amplitude; width
+breadth; amplitude; width
 ampiezza
 
 programming; coding
