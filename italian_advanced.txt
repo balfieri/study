@@ -12254,7 +12254,7 @@ wide field of view
 l'ampio campo visivo
 
 feedback
-il feedback; la retroazione
+il feedback; il riscontro; la retroazione
 
 tactile
 tattile
@@ -16593,9 +16593,6 @@ malinconico
 
 mix; mixing (audio, film,  TV)
 il missaggio
-
-feedback; finding; reply; confirmation
-il riscontro
 
 debut; beginning; onset
 l'esordio
@@ -34662,9 +34659,6 @@ la retrocessione
 
 to backdate
 retrodatare
-
-feedback
-la retroazione
 
 semiliterate
 il semianalfabeta; l'esmianalfabeta
