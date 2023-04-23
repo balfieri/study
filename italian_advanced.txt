@@ -18512,7 +18512,10 @@ mixed bag
 il fritto misto
 
 to weave in and out between cars
-intrecciare dentro e fuori tra le auto
+intrecciarsi tra le auto; intrecciare dentro e fuori tra le auto
+
+to weave in and out between cons
+intrecciarsi tra i coni
 
 to go too fast around a corner
 andare troppo veloce dietro un angolo
@@ -38172,3 +38175,6 @@ la domanda trabocchetto
 
 pitfall; booby trap; trap
 il trabocchetto
+
+at various speeds
+a diverse velocità
