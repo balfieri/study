@@ -32987,7 +32987,7 @@ unavailable
 indisponibile
 
 carbon footprint
-l'impronta di carbonio
+l'impronta di carbonio; l'impatto ambientale della CO2
 
 footprint; imprint
 l'impronta
