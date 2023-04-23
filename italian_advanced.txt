@@ -19708,9 +19708,6 @@ il concittadino
 pawn
 la pedina
 
-espionage
-lo spionaggio
-
 tenacious; feisty; tough
 tenace
 
@@ -38091,3 +38088,73 @@ cibare; alimentare
 
 to give something to drink; to offer a beverage
 dare da bere
+
+at the time of this writing
+al momento della scrittura
+
+anything new?
+novità?; qualcosa di nuovo?
+
+seminato
+sown
+
+I'm out
+mi chiamo fuori
+
+loose change
+gli spiccioli
+
+crumb
+la briciola
+
+partition
+la spartizione
+
+I take my leave
+mi congedo
+
+your breath is bad
+il tuo alito puzza
+
+your breath is awful
+il tuo alito è terribile
+
+you have bad breath
+hai cattivo alito
+
+bad breath
+l'alitosi
+
+naked eye
+l'occhio nudo
+
+yielded
+rendetto
+
+reclamation
+la bonifica
+
+be on guard
+stai in guardia
+
+philanthropy
+la filantropia
+
+I'm done (with this situation)
+ho chiuso
+
+figure it out
+risolvilo
+
+camping
+il campeggio
+
+to recompose
+ricomporre
+
+spying; espionage
+lo spionaggio
+
+accept a bribe
+accettare una tangente
+
