@@ -1375,6 +1375,9 @@ raccomandare
 to advise (someone)
 consigliare
 
+to advise to; to recommend to
+consigliare di
+
 tunnel
 la galleria
 
