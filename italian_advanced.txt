@@ -38229,3 +38229,9 @@ non ufficiale; in via confidenziale
 
 let me think about it
 fammici pensare; lascimici pensare; fammi pensarci su
+
+interjection
+l'interiezione
+
+exclamation
+l'esclamazione
