@@ -14572,9 +14572,6 @@ essere in mezzo
 to renege; to retract; to disavow
 venire meno; rineggare
 
-pro-choice
-favorevole all'aborto
-
 canopy; big tent; open tent
 il tendone
 
@@ -16453,7 +16450,7 @@ la corrente continua
 hydrogen
 l'idrogeno
 
-to cage
+to cage; to lock up
 ingabbiare
 
 to dupe; to fool; to cheat
@@ -18392,10 +18389,10 @@ Black Friday sale
 la vendita del Venerdì Nero
 
 pro-choice
-pro-scelta; favorevole al diritto di scelta
+pro-scelta; favorevole all'aborto; favorevole al diritto di scelta
 
 pro-life
-per la vita; antiabortista
+pro-vita; per la vita; antiabortista
 
 viable
 praticabile; plausibile
@@ -38238,3 +38235,88 @@ l'esclamazione
 
 insulting; abusive; offensive; injurous
 ingiurioso
+
+I'd like to wait another six months
+vorrei aspettare altri sei mesi
+
+tire pressure
+la pressione dei pneumatici
+
+to check the tire pressure
+controllare la pressione dei pneumatici
+
+I'm going to wait until December
+aspetterò fino a dicembre
+
+I'd like to improve my chances of passing the test
+vorrei migliorare le mie possibilità di superare il test
+
+my chances
+le mie possibilità
+
+restaurant franchise
+il franchising di ristoranti
+
+sports franchise
+il franchising sportivo
+
+motorcycle practical test
+l'esame pratico di guida per moto
+
+driving test
+l'esame di guida
+
+the pro-Trump network
+la rete filo Trump
+
+pro-Trump
+pro-Trump
+
+pro-business
+pro-business
+
+pro-democracy
+pro-democrazia
+
+in opposition
+in contrapposizione
+
+to oppose; to be opposed
+opporsi
+
+with our heads held high together
+a testa alta insieme
+
+to fall
+precipitare
+
+spare in arrivo
+spare in arrivo
+
+to despise
+disprezzare
+
+to maintain a positive attitude
+mantenere un atteggiamento positivo
+
+I hate myself
+mi detesto
+
+shady; suspicious
+losco
+
+to take a walk
+dare due passi
+
+yellow tooth; yellow fang
+la zanna gialla
+
+to try to reason with him
+provare a darlo raggionare
+
+lighter (fire)
+l'accendino
+
+sleep on it
+dormici sopra
+
