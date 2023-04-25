@@ -38322,3 +38322,6 @@ dormici sopra
 
 to depose
 deporre
+
+spare; replacement
+di ricambio
