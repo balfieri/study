@@ -9568,7 +9568,7 @@ gli avanzi; il cibo avanzato; il resto
 great find
 l'ottima scoperta
 
-front desk
+front desk; reception desk; reception
 la reception
 
 for crying out loud
@@ -29146,7 +29146,7 @@ la vite
 Turinese
 torinese
 
-custodian; guardian; keeper
+custodian; janitor; guardian; keeper
 il custode
 
 accended
@@ -38325,3 +38325,45 @@ deporre
 
 spare; replacement
 di ricambio
+
+CEO
+l'amministratore delegato
+
+command line
+la riga di comando
+
+command line interface
+l'interfaccia a riga di comando
+
+nuclear waste
+i rifiuti nucleari
+
+hacking
+l'accesso non autorizzato; gli attacchi informatici
+
+hacker
+l'hacker
+
+formatting
+la formattazione
+
+display case
+la vetrina
+
+to devise a system
+ideare un sistema; escogitare un sistema
+
+to prevent hacking
+prevenire l'accesso non autorizzato
+
+I want to tell you everything that led up to this
+voglio dirti tutto ciò che ha portato a questa
+
+little squabble
+la piccola discussione
+
+it's hard to say
+è difficile dire
+
+it's hard to say if I'm ready
+è difficile dire se sono pronto

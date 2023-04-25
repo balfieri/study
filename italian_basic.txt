@@ -544,7 +544,7 @@ il mercato centrale
 leather
 il cuoio; la pella
 
-glass (wall)
+glass
 il vetro
 
 glasses (optical)
