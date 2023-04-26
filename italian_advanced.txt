@@ -27619,7 +27619,7 @@ il narratore
 Joseph
 Giuseppe
 
-withdrawn
+withdrawn; retired
 ritirato
 
 spirituality
@@ -36325,7 +36325,7 @@ incollato
 to rape
 violentare
 
-to frame
+to frame; to set up
 incastrare
 
 shaken by the truth
@@ -38370,3 +38370,66 @@ it's hard to say if I'm ready
 
 anthropology
 l'antropologia
+
+sheriff
+lo sceriffo
+
+I'm telling you to your face
+te lo dico in faccia
+
+in grand style; in a big way
+in grande stile
+
+to cash in; to collect
+incassare
+
+any news?
+qualche novità?; novità?
+
+no need; it's not necessary
+non serve
+
+come out
+vieni fuori
+
+hands behind your head
+mani dietro la testa
+
+on your knees
+in ginocchio
+
+for sale
+in vendita
+
+to discredit
+discreditare
+
+syntactic doubling
+il raddoppiamento fonosintattico
+
+approximately; more or less
+pressappoco
+
+approximation; carelessness
+il pressappochismo
+
+upper hand; dominance
+il sovravvento
+
+whoever; whosoever
+chicchessia
+
+laxity; slackness
+il lassismo
+
+hiding; evasion
+la latitanza
+
+to make hay; to make a mess
+fare strame
+
+industrial chain; supply chain
+la filiera industriale
+
+prairie; grassland
+la prateria
