@@ -38514,3 +38514,6 @@ il batch; il lotto
 
 pile; heap; pack
 il mucchio
+
+ridge; summit
+il colmo
