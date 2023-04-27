@@ -38511,3 +38511,6 @@ metodico
 
 batch
 il batch; il lotto
+
+pile; heap; pack
+il mucchio
