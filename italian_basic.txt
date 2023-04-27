@@ -7801,3 +7801,5 @@ purtroppo; sfortunatamente
 to experiment
 sperimentare
 
+all good; everything's fine; everything's ok
+tutto bene
