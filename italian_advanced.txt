@@ -2410,7 +2410,7 @@ imbrattare
 to slap; to throw; to fling; to clap
 schiaffare
 
-poised
+poised; on the edge; on the verge
 in bilico
 
 to shoulder; to undertake; to absorb
@@ -15454,9 +15454,6 @@ essere oggetto di critica
 below par
 sotto la media
 
-to face the music
-affrontare le conseguenze
-
 to have it in for
 avercela con
 
@@ -23119,7 +23116,7 @@ il Giappone
 sanction
 la sanzione
 
-witness
+witness; testimony
 il testimonio
 
 determinant; determining
@@ -38433,3 +38430,84 @@ la filiera industriale
 
 prairie; grassland
 la prateria
+
+to deduplicate; to eliminate duplicates
+deduplicare; eliminare duplicati
+
+camraderie
+la camraderie; il cameratismo
+
+I wouldn't have dared do it
+non avrei osato farlo; non avrei mai osato farlo
+
+meta question
+la domanda meta
+
+meta discussion
+la discussione meta
+
+to dent
+ammaccare; fare una ammaccatura
+
+to dent the car
+ammaccare l'auto; fare una ammaccatura all'auto
+
+dent
+l'ammaccatura
+
+to lift a restrition
+rimuovere una restrizione; togliere una restrizione
+
+oblivion
+l'oblio
+
+universal basic income
+il reddito di cittadinanza
+
+overtime pay
+lo scatto extra
+
+by agreement
+da intesa
+
+GDP (Gross Domestic Product)
+PIL (Prodotto Interno Lordo)
+
+it was the plan all along
+era il piano fin dall'inizio
+
+laparoscopy
+la laparoscopia 
+
+I know a guy who knows a guy
+conosco un tizio che conosce un altro tizio
+
+to rack one's brain
+spremersi il cervello
+
+to be of great help; 
+essere di grande aiuto
+
+tarp
+il telone; la copertura
+
+calm behavior
+il comportamento calmo
+
+polite behavior
+il comportamento educato
+
+in big trouble
+in quarantotto
+
+return
+il rientro
+
+to calm down
+sosseggere
+
+methodical
+metodico
+
+batch
+il batch; il lotto
