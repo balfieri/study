@@ -14438,7 +14438,7 @@ sales assistant; clerk
 il commesso; la commessa
 
 self-aware
-autoconsapevole; consapevole di sé
+autoconsapevole; consapevole di sé; autocosciente
 
 self-awareness
 l'autoconsapevolezza; la consapevolezza di sé
@@ -20293,7 +20293,7 @@ la diversità
 to form; to consitute; to shape
 formare
 
-presentation; discorso
+presentation; discorso; slideshow
 la presentazione
 
 integration
@@ -38517,3 +38517,25 @@ il mucchio
 
 ridge; summit
 il colmo
+
+slide (part of presentation)
+la diapositiva
+
+ponzi scheme
+il sistema Ponzi; schema Ponzi
+
+casting
+il casting; la selezione degli attori
+
+casting director
+il direttore del casting; il responsabile del casting
+
+self-conscious
+insicuro; imbarazzato; autocosciente
+
+old age creeps up on you
+la vecchiaia ti sorprende; la terza etè arriva inaspettata
+
+in spirit
+nello spirito; di animo
+
