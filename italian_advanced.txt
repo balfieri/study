@@ -6424,7 +6424,7 @@ twittare
 to retweat
 ritwittare
 
-pace
+pace; rate
 il ritmo
 
 to regress
