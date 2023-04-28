@@ -38625,3 +38625,6 @@ disconsiderare; ignorare
 
 thought process
 il processo di pensiero
+
+the second half
+la seconda metà
