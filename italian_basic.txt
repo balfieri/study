@@ -1435,9 +1435,6 @@ noiso
 to bore
 annoiare
 
-annoying
-fastidioso
-
 glad; content
 contento
 
@@ -1700,7 +1697,7 @@ strong
 forte
 
 annoying
-irritante; faticoso
+fastidioso; irritante; faticoso
 
 unknown
 sconosciuto
