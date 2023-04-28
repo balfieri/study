@@ -38613,3 +38613,6 @@ fare due chiacchere
 
 social security number
 il numero di previdenza sociale; il numero di sicurezza sociale
+
+this is not a good time
+non è un buon momento
