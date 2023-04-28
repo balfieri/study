@@ -2314,8 +2314,8 @@ irrispettoso
 to get a point across
 farsi capire
 
-to misinterpret
-fraintendere
+to misinterpret; to misconstrue
+fraintendere; misinterpretare
 
 to relinquish; to renounce
 rinunciare; abbandonare
@@ -38628,3 +38628,15 @@ il processo di pensiero
 
 the second half
 la seconda metà
+
+God knows that
+solo Dio sa che
+
+this is a weird thought
+questo è un pensiero strano
+
+chameleon
+il camaleonte
+
+to camouflage oneself; to blend in
+mimetizzarsi 
