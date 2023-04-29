@@ -1600,7 +1600,7 @@ scherzare
 thread; wire; yarn
 il filo
 
-back (part of body)
+back (body)
 la schiena
 
 homework
