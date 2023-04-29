@@ -1117,7 +1117,7 @@ il percorso da golf
 golf ball
 la palla da golf; la pallina
 
-hole
+hole; pothole
 la buca
 
 golf shot
@@ -8791,9 +8791,6 @@ l'alcool isopropilico
 rubbing alcohol
 l'alcol denaturato
 
-sure enough
-e infatti
-
 health scare
 lo spavento di salute
 
@@ -9088,7 +9085,7 @@ l'arrampicata
 diamond in the rough; uncut diamond
 il diamante grezzo
 
-illness; sickness
+illness; sickness; malaise
 il malore
 
 and let's face it
@@ -24409,7 +24406,7 @@ il labbro inferiore
 biopsy
 la biopsia
 
-to stagger
+to stagger; to stumble
 barcollare
 
 well-endowed; well-hung
@@ -38640,3 +38637,108 @@ il camaleonte
 
 to camouflage oneself; to blend in
 mimetizzarsi 
+
+my car is in the shop
+la mia macchina è in officina
+
+scheduled service
+il servizio programmato; la riparazione programmata
+
+rehearsal room; rehearsal hall
+la sala prove; lo studio di registrazione
+
+to figure out;
+capire; trovare una soluzione
+
+amino acid
+l'aminoacido
+
+first servicing; first check
+il primo controllo; il primo servizio
+
+to retrace the steps
+tornare sui propri passi; ritracciare i propri passi
+
+to get intimate with a problem
+approfondire un problema; conoscere a fondo un problema
+
+I don't have time to rehash this argument;
+non ho tempo di ripetere questa discussione
+
+dubbing session
+sessione di doppiaggio
+
+corner case
+il caso limite; il caso estremo; il caso particolare
+
+motorcycle skills test;
+l'esame di abilità motociclistiche
+
+robotaxi
+il robotaxi
+
+to stumbles out
+uscire barcollando
+
+to stumble out of the room;
+uscire barcollando dalla stanza
+
+Department of Transportation;
+il ministero dei trasporti
+
+I hit the pothole and then I went flying
+ho colpito la buca e poi sono volato
+
+to submit a report
+presentare una relazione
+
+Mongolian stir-fry
+lo wok mongolo
+
+when I got back to my desk at work
+quando sono tornato alla mia scrivania al lavoro
+
+the hole was filled
+la buca è stata riempita;
+
+government agency
+l'agenzia governativa
+
+after only one day
+dopo solo un giorno
+
+bumpy ride
+il tragitto accidentato
+
+and sure enough; sure enough
+e infatti
+
+reverse (gear)
+la retromarcia
+
+cry
+il vagito; il pianto
+
+triumphant
+trionfale
+
+small lever
+la levetta
+
+to cool down;
+freddare
+
+interview with;
+l'intervista a
+
+uncomfortable
+indisponente
+
+shack;
+la baracca
+
+thrown
+scagliato
+
+incorrect
+scorretto
