@@ -23092,9 +23092,6 @@ l'editore; l'editrice
 respective
 rispettivo
 
-march (feet)
-marcia
-
 preliminary
 preliminare
 
@@ -38811,4 +38808,61 @@ slegare
 
 sketched; drafted; roughly drawn
 abbozzato
+
+the thermal water bottle
+la borraccia termica
+
+string
+la sfilza
+
+string of errors
+la sfilza di errori
+
+relaxation
+la distensione
+
+to feed
+dare in pasto
+
+to teach; to set an example
+fare scuola
+
+to predict
+vaticinare
+
+to take care
+premurarsi
+
+bogeyman
+lo spauracchio
+
+urgent
+impellente
+
+obligation
+l'obligo
+
+to shake off a defender
+smarcare
+
+unmarked
+smarcato
+
+to deflower; to take someone's virginity
+deflorare; sverginare; togliere la verginità 
+
+child rearing; raising children
+l'allevamento dei bambini; l'educazione dei figli
+
+china shop; store that sells china and pottery
+il negozio di porcellane
+
+to popularize; to make something popular
+rendere popolare; diffondere
+
+to disband; to break up a group
+sciogliere; sciogliere un gruppo
+
+walk; march (feet)
+la marcia
 
