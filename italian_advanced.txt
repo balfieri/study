@@ -4739,7 +4739,10 @@ notwithstanding
 nondimeno
 
 on the contrary; conversely; contrarily
-al contrario; tutt'altro; contrariamente
+al contrario; contrariamente
+
+quite the opposite
+tutt'altro
 
 if it's true that; if it's the case that
 se è vero che
