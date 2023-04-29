@@ -38866,3 +38866,5 @@ sciogliere; sciogliere un gruppo
 walk; march (feet)
 la marcia
 
+prototype
+il prototipo
