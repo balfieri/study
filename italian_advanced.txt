@@ -24736,9 +24736,6 @@ parallelo
 tribe
 la tribù
 
-series
-la seria
-
 partisan
 partigiano
 
