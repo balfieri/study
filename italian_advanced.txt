@@ -4291,7 +4291,7 @@ il disprezzo
 to conceive
 concepire
 
-to elbow; to jostle
+to elbow one's way; to jostle
 sgomitare
 
 to brood; to ruminate
@@ -11399,7 +11399,7 @@ to beckon; to mention
 fare cenno
 
 Ministry of the Interior
-il Viminale
+Il Ministero dell'Interno; il Viminale
 
 to take; to catch; to grab
 pigliare
@@ -38887,3 +38887,17 @@ visto che ci siamo
 blood type
 il tipo di sangue
 
+tendentially
+tendenzionalmente
+
+prompt
+il sollecito
+
+step; stair tread
+il scalino
+
+semi-utopia
+la semiutopia
+
+deductible (n)
+la franchigia
