@@ -38677,11 +38677,11 @@ il robotaxi
 to stumbles out
 uscire barcollando
 
-to stumble out of the room;
+to stumble out of the room
 uscire barcollando dalla stanza
 
-Department of Transportation;
-il ministero dei trasporti
+Department of Transportation
+il ministero dei trasporti; il dipartimento dei trasporti
 
 I hit the pothole and then I went flying
 ho colpito la buca e poi sono volato
@@ -38690,7 +38690,13 @@ to submit a report
 presentare una relazione
 
 Mongolian stir-fry
-lo wok mongolo
+il wok mongolo; lo wok mongolo
+
+stir-fry
+il wok; lo wok
+
+Mongolian
+mongolo
 
 when I got back to my desk at work
 quando sono tornato alla mia scrivania al lavoro
