@@ -1,1 +1,0 @@
-No, the "say" program does not have a voice that can speak multiple languages at the same time. However, you can use different voices for different languages and combine them in your script to create a multilingual output.
