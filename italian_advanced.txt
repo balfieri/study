@@ -38937,3 +38937,6 @@ la sporchizia
 
 eager
 desideroso
+
+text-to-speech; speech synthesis
+la sintesi vocale
