@@ -3640,7 +3640,7 @@ cingere
 to cast; to melt; to fuse
 fondere
 
-to anoint; to oil
+to anoint; to grease
 ungere
 
 to annex
@@ -38916,3 +38916,9 @@ inserire un nuova riga
 
 newline
 la nuova riga
+
+to oil
+oliare
+
+to lubricate
+lubricare
