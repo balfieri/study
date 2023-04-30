@@ -184,8 +184,11 @@ leggero
 heavy
 pesante
 
-fat
+fat (adj)
 grasso
+
+fat (n); grease
+il grasso
 
 thin; lean
 magro
