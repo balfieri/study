@@ -21262,7 +21262,7 @@ teorico; teoretico
 crown
 la corona
 
-multiple; manifold
+multiple; manifold; numerous
 molteplice
 
 legislative
