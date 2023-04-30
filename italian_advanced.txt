@@ -38907,3 +38907,12 @@ poliedrico
 
 prototypical
 prototipico
+
+to transcribe
+trascrivere
+
+to hit newline
+inserire un nuova riga
+
+newline
+la nuova riga
