@@ -33863,7 +33863,7 @@ postponed
 posticipata
 
 oblivion
-il dimenticatoio
+il dimenticatoio; l'oblio
 
 building (adj)
 edilizio
@@ -38448,9 +38448,6 @@ l'ammaccatura
 
 to lift a restrition
 rimuovere una restrizione; togliere una restrizione
-
-oblivion
-l'oblio
 
 universal basic income
 il reddito di cittadinanza
