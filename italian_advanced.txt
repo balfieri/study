@@ -19633,9 +19633,6 @@ l'aquisto
 destiny; fate
 il destino
 
-tone
-il tono
-
 need; demand; requirement
 l'esigenza
 
@@ -38971,5 +38968,8 @@ faticoso
 one of the things that I noticed is that
 una delle cose che ho notato è che
 
-intonation; pitch
+intonation
 l'intonazione
+
+tone; pitch (tone)
+il tono
