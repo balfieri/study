@@ -35281,9 +35281,6 @@ le condizioni meteorologiche strumentali
 visual flight rules
 le condizioni meteorologiche visive
 
-enroute
-in volo
-
 in the vicinity of an airport; near an airport
 nelle vicinanze di un aeroporto
 
