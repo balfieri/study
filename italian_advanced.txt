@@ -2419,8 +2419,11 @@ addossarsi
 to swallow; to gulp
 inghiottire; ingoiare; degerire
 
-toad; frog
-il rospo; la rana
+toad
+il rospo
+
+frog
+la rana
 
 to clip
 tarpare
