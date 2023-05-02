@@ -39277,6 +39277,6 @@ sono d'accordo con te
 starter; 
 il motorino d'avviamento; il motorino di avviamento
 
-fiefdom; feud
+fiefdom; feud; fief
 il feudo
 
