@@ -28612,9 +28612,6 @@ la nostalgia
 phew!
 uff!
 
-feud
-il feudo
-
 illicit
 illecito
 
@@ -37744,8 +37741,8 @@ se fossi intelligente, cosa che non sono
 work-study program
 il programma di lavoro-studio
 
-sondare
 to probe
+sondare
 
 down below
 lì sotto
@@ -39231,4 +39228,55 @@ gli interessi
 
 native American
 nativo americano
+
+toll
+il pedaggio
+
+boarding
+l'abbordaggio
+
+processing
+il lavoraggio
+
+suffix
+il suffisso
+
+to gain weight
+ingrassare
+
+to lose weight
+perdere peso
+
+to take off a lot of weight
+perdere molto peso
+
+I'm trying very hard
+sto cercando molto
+
+I'm just saying that
+sto solo dicendo che
+
+to put on a lot of weight
+ingrassare molto
+
+to snack
+fare uno spuntino; fare spuntini
+
+gelato is very filling
+il gelato sazia molto
+
+acronym
+l'acronimo
+
+gerund
+il gerundio
+
+I agree with you
+sono d'accordo con te
+
+starter; 
+il motorino d'avviamento; il motorino di avviamento
+
+fiefdom; feud
+il feudo
 
