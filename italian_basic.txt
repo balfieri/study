@@ -460,7 +460,7 @@ l'ingresso
 exit
 l'uscita
 
-to enter
+to enter; to go in
 entrare
 
 to jump

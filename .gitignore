@@ -1,5 +1,7 @@
 words.txt
 words2.txt
 new_exprs.txt
+gpt_text.txt
+gpt_audio.wav
 *.out
 www/*.html
