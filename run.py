@@ -7,10 +7,23 @@ import time
 import random
 import string
 import re
+import subprocess
+
+cmd_en = True
 
 def die( msg, prefix='ERROR: ' ):
     print( prefix + msg )
     sys.exit( 1 )
+
+def cmd( c, echo=True, echo_stdout=False, can_die=True ):  
+    if echo: print( c )
+    if cmd_en:
+        info = subprocess.run( c, shell=True, text=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT )
+        if echo_stdout: print( info.stdout )
+        if can_die and info.returncode != 0: die( f'command failed: {c}' )
+        return info.stdout
+    else:
+        return ''
 
 def rand_n( n ):
     return int( random.random() * n )
@@ -29,6 +42,11 @@ def prompt( s, default='' ):
     if ans == '': ans = default 
     return ans
 
+def say( text, voice, rate ):
+    with open( '/tmp/say.txt', 'w' ) as file:
+        file.write( text )
+    cmd( f'say -v {voice} -r {rate} -f /tmp/say.txt', False )
+
 #-----------------------------------------------------------------------
 # process command line args
 #-----------------------------------------------------------------------
@@ -42,6 +60,11 @@ end_pct = 100
 acronyms_only = 0
 categories_s = ''
 have_categories_s = 0
+speak = False
+question_voice = 'Samantha'
+answer_voice = 'Alice'
+question_rate  = 180
+answer_rate  = 150
 i = 2
 while i < len( sys.argv ):
     arg = sys.argv[i]
@@ -67,6 +90,9 @@ while i < len( sys.argv ):
     elif arg == '-cat':
         categories_s = sys.argv[i]
         have_categories_s = 1
+        i += 1
+    elif arg == '-s':
+        speak = int(sys.argv[i])
         i += 1
     else:
         die( f'unknown option: {arg}' )
@@ -183,6 +209,10 @@ while True:
                     ss = a.split( '; ' )
                     for s in ss: print( s )
                     missed_questions.append( ii )
+            if speak:
+                say( q, question_voice, question_rate )
+                say( a, answer_voice,   answer_rate )
+
         if skip_prompts: break
         pct = int( 100.0 * correct_cnt / curr_question_cnt + 0.5 )
         print( '\nYou got ' + str(correct_cnt) + ' out of ' + str(curr_question_cnt) + ' questions correct (' + str(pct) + '%)' ) 
