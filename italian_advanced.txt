@@ -39431,13 +39431,13 @@ you get what you pay for
 si ottiene quello che si paga
 
 let me back up
-fammi fare un passo indietro
+lascimi tornare indietro; fammi fare un passo indietro
 
 to pick strawberries
 raccogliere fragole
 
 strawberry patch
-il campetto di fragole
+il campetto di fragole; il campo di fragole
 
 all things considered
 tutto sommato
@@ -39445,28 +39445,28 @@ tutto sommato
 this time was better
 questa volta è stata meglio
 
-railway tracks
+railway tracks; rails
 le rotaie
 
-to withdraw
+to withdraw; to close up
 richiudersi
 
 tub; vat
 la tinozza
 
-desire; craving
+eagerness; restlessness; desire; craving
 la smania
 
-tick
+tick; mint
 la zecca
 
-backward
+backwards
 a ritroso
 
 pupil
 la pupilla
 
-depressed; down
+downcast; depressed; shot down
 abbattuto
 
 word of mouth
@@ -39475,8 +39475,14 @@ il passaparola
 what do I owe the pleasure?
 a cosa devo il piacere?
 
+into submission
+alla sottomissione
+
 to beat into submission
 sottomettere a forza
 
 pumping
 il pompaggio
+
+to pump
+pompare
