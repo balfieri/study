@@ -24943,9 +24943,6 @@ l'isolamento
 seed
 il seme
 
-meeting; reunion
-riunione
-
 learned
 dotto
 
