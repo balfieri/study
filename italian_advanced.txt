@@ -745,9 +745,6 @@ diplomare; prendere il diploma
 diplomat
 il diplomatico
 
-noun
-il sostantivo
-
 among others; in addition to others
 tra altro; oltre ad altro
 

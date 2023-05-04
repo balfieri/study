@@ -7807,3 +7807,14 @@ tutto bene
 no, nope
 no
 
+noun
+il sostantivo
+
+adjective
+l'aggettivo
+
+verb
+il verbo
+
+adverb
+l'avverbio
