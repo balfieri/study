@@ -2605,6 +2605,9 @@ il dito del piede
 knee
 il ginocchio
 
+knees
+le ginocchia
+
 neck
 il collo
 
@@ -7818,3 +7821,6 @@ il verbo
 
 adverb
 l'avverbio
+
+toenail
+l'unghia del piede
