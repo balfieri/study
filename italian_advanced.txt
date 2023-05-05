@@ -22894,9 +22894,6 @@ suddetto
 rhetorical
 retorico
 
-bones
-le ossa
-
 ray
 raggio
 
@@ -39615,3 +39612,6 @@ allontanato
 
 to fasten one's seatbelt
 allacciare la cintura di sicurezza
+
+gods
+i dei

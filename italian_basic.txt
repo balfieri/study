@@ -7723,6 +7723,9 @@ il taglio
 bone
 l'osso
 
+bones
+le ossa
+
 honesty
 l'onestà
 
