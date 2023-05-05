@@ -9587,7 +9587,7 @@ tile
 la piastrella
 
 ceramic
-ceramica
+la ceramica
 
 collision
 la collisione; il tamponamento
@@ -29639,7 +29639,7 @@ elevation
 l'elevazione
 
 detection
-rilevazione
+la rilevazione
 
 antecedent
 l'antecedente
