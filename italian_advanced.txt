@@ -8770,7 +8770,7 @@ il riferimento
 subsection; article
 la comma
 
-hypotesis
+hypothesis
 l'ipotesi
 
 by means of
