@@ -26720,7 +26720,7 @@ Turkish
 turco
 
 session
-sessione
+la sessione
 
 transformed
 trasformato
