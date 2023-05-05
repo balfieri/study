@@ -10726,6 +10726,9 @@ lo sciopero
 private jet
 il jet privato
 
+jet
+il jet
+
 predictable
 prevedibile
 
@@ -39598,3 +39601,8 @@ armarsi
 for emphasis
 per enfasi
 
+jeans
+i jeans
+
+jazz
+il jazz
