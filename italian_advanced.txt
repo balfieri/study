@@ -20461,7 +20461,7 @@ diminuire
 to exhaust; to run out of; to use up
 esaurire
 
-to guard
+to guard; to look after
 custodire
 
 to heal; to recover; to cure
@@ -39570,3 +39570,31 @@ grigliare
 
 grill
 la griglia
+
+facial recognition
+il riconoscimento facciale
+
+car accident
+l'incidente in auto
+
+motorcycle accident
+l'incidente in moto
+
+traffic accident
+l'incidente stradale
+
+Vespa accident
+l'incidente in Vespa
+
+to be equivalent to
+equivalere a
+
+to make someone talk
+far parlare (qualcuno)
+
+to arm oneself
+armarsi
+
+for emphasis
+per enfasi
+
