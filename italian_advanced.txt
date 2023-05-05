@@ -2707,7 +2707,7 @@ la belva
 sovereign
 sovranista
 
-beaten
+beaten; hit
 picchiato
 
 to vacuum
@@ -6033,9 +6033,6 @@ pizzicare; dare pizzicotti
 
 pinch
 il pizzicotto; il pizzico
-
-raspberry (not the fruit)
-la pernacchia
 
 tummy; belly
 il pancino
@@ -39546,3 +39543,30 @@ intenerire; ammorbidire
 
 satisfaction; approval; preference
 il gradimento
+
+to poach
+imbucare
+
+to question a decision
+mettere in discussione una decisione
+
+raspberry (the sound, not the fruit)
+la pernacchia
+
+Five Star Movement supporter
+il grillino
+
+madame (brothel)
+la maitresse
+
+faint; weak
+flebile
+
+adjacent
+attigui
+
+to grill
+grigliare
+
+grill
+la griglia
