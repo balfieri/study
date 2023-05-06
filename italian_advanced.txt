@@ -6583,7 +6583,7 @@ l’interprete
 to try; to try your hand
 cimentarsi
 
-account; report; review
+account; report; summary; review
 il resoconto
 
 treasure trove; finding
@@ -12490,7 +12490,7 @@ i tuffi
 high jumping
 il salto in alto
 
-auto racing
+auto racing; motorsport
 l'automobilismo
 
 skates
@@ -21274,7 +21274,7 @@ la tragedia
 agrarian; agricultural
 agrario
 
-sharply; clearly; distinctly
+sharply; clearly (action); distinctly
 nettamente
 
 totally; completely; altogether
@@ -27982,7 +27982,7 @@ l'ostello
 gift card
 il buono regalo
 
-clearly
+clearly (explanation)
 chiaramente
 
 common sense
@@ -39615,3 +39615,48 @@ allacciare la cintura di sicurezza
 
 gods
 i dei
+
+to replenish; to refuel; to stock up
+rifornire
+
+influential
+influente
+
+confectioner
+il dolciario
+
+question mark
+il punto interrogativo
+
+single quote
+l'apostrofo; la virgoletta singola
+
+double quote
+la virgoletta; la vigoletta doppia
+
+to associate; to link; to connect
+associare
+
+playwright; dramatist
+il drammaturgo
+
+car manufacturer; automotive company
+la casa automobilistica
+
+concept car
+l'auto concept; il concept car
+
+timing
+la tempistica
+
+to type a random character
+digitare un carattere casuale
+
+indelible
+indelebile
+
+indelible mark
+il segno indelebile
+
+I bet you don't get advice like this from your agent
+scommetto che non ricevi consigli come questo dal tuo agente
