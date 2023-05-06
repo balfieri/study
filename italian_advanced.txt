@@ -37687,11 +37687,11 @@ medico di base; il medico di famiglia
 internist
 il medico di medicina generale; l'internista
 
-fare delle tac
 to do CT scans; to gete CT scans
+fare delle tac
 
 MRI
-la risonanza magnetica
+la risonanza magnetica; la risonanza
 
 to be fully booked
 essere tutto al completo
