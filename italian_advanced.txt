@@ -4069,7 +4069,7 @@ etichettare
 tutelage; guardianship
 tutela
 
-property; fortune
+property; fortune; heritage
 il patrimonio
 
 mere
