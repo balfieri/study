@@ -26530,9 +26530,6 @@ costitutivo
 cannon (gun)
 il cannone
 
-mercy
-la mercè
-
 ambition
 l'ambizione
 
@@ -30086,7 +30083,7 @@ formulated
 formulato
 
 mercy
-la misericordia
+la misericordia; la pietà
 
 earnings
 i guadagni
