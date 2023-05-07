@@ -28561,9 +28561,6 @@ tutto il tempo; spessissimo
 equipment; endowment
 la dotazione
 
-tank (military)
-il carro armato
-
 to act in concert
 agire di concerto
 
@@ -33154,8 +33151,8 @@ tentennare
 blown away; displaced
 spiazziato
 
-tank
-il carrarmato
+tank (military)
+il carro armato; il carrarmato
 
 to light a fuse
 accendere una miccia
