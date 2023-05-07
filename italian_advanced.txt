@@ -22132,7 +22132,7 @@ il mestolo
 even
 pari
 
-odd
+odd (number)
 dispari
 
 bean; grain; kernel
