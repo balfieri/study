@@ -9001,7 +9001,7 @@ le sponsorizzazioni; i soldi dell'assicurazione
 doctrine
 la dottrina
 
-wrestling; struggle; fight; conflict
+wrestling; struggle; fight; conflict; fighting
 la lotta
 
 manner
@@ -21684,9 +21684,6 @@ l'accertamento
 
 lesion; wound; injury
 la lesione
-
-struggle; fighting; wrestling
-lotta
 
 to intervene
 intervenire
