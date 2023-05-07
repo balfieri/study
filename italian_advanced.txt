@@ -24919,7 +24919,7 @@ il dettaglio
 normative
 normativo
 
-pupil
+pupil (student)
 l'alunno; l'alunna
 
 nearness; proximity; vicinity; neighborhood
@@ -39454,7 +39454,7 @@ la zecca
 backwards
 a ritroso
 
-pupil
+pupil (eye)
 la pupilla
 
 downcast; depressed; shot down
