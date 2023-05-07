@@ -15770,7 +15770,7 @@ to not have the faintest idea
 non avere la minima idea; non avere la più pallida idea
 
 out of touch
-non al passo coi tempi
+fuori contatto; fuori dal giro; non in contatto; non al passo coi tempi; avulso
 
 to play your cards right
 giocare bene le proprie carte
@@ -20034,9 +20034,6 @@ l'aggiunta
 
 starting line
 la linea di partenza
-
-out of touch
-avulso
 
 to unfold; to spread; to diffuse
 dispiegarsi
