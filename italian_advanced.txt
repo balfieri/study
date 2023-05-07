@@ -7705,8 +7705,14 @@ l'invidia
 to overhear
 origliare
 
-to collect; to withdraw
+to pick up (package); to withdraw (money); to collect
 ritirare
+
+to withdraw money
+ritirare denaro
+
+to pick up a package
+ritirare un pacco
 
 to go off; to explode; to burst; to break
 scoppiare
