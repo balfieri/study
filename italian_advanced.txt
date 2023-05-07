@@ -12070,9 +12070,6 @@ vantante
 inner peace
 la pace interiore
 
-bittersweet
-agrodolce
-
 overscheduling
 i troppi impegni
 
@@ -16595,7 +16592,7 @@ catchy; captivating; endearing
 accattivante
 
 bittersweet
-dolceamaro
+dolceamaro; agrodolce
 
 to have a clear conscience
 avere la coscienza a posto
