@@ -27469,8 +27469,8 @@ incombere
 scenario
 lo scenario
 
-suffrage
-il suffragio
+suffrage; the right to vote
+il suffragio; il diritto di voto
 
 vehicle
 il veicolo
