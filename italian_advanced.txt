@@ -9691,7 +9691,7 @@ la spina
 voltage converter
 il convertitore di tensione
 
-voltage; tension; stress; tension; strain
+voltage; tension; stress; strain
 la tensione
 
 set-up
