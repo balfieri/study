@@ -617,7 +617,7 @@ something to eat
 qualcosa da mangiare
 
 drink
-la bevanda; la bibbita
+la bevanda; la bibita
 
 to call
 chiamare
