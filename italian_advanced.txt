@@ -6806,10 +6806,10 @@ bedside table
 il comodino
 
 pencil case
-il portamatite
+il portamatite; l'astuccio
 
 pen case
-il portapenne
+il portapenne; l'astuccio per penne
 
 kitchenette
 l'angolo cuttura
