@@ -10324,9 +10324,6 @@ vedremo quanto durerà
 die (metal); process
 la trafila
 
-alcoholic (adj)
-alcolizzato
-
 fertilizer
 il fertilizzante
 
@@ -39815,7 +39812,10 @@ pyromaniac
 il piromane
 
 alcoholic
-l'alcomane
+l'alcolizzato; l'alcomane; il dipendente dall'alcool
+
+alcoholic (adj)
+alcolizzato
 
 shopaholic
 lo shopaholic; la maniaca dello shopping; la dipendente dagli acquisti
