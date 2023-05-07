@@ -16933,10 +16933,13 @@ snodare
 relay race
 la staffetta
 
-to parade; to march
+to parade; to march (in a parade)
 sfilare
 
-procession; parade
+parade
+la parata
+
+procession
 il corteo
 
 cobblestones; pavement
@@ -32809,9 +32812,6 @@ Pesce d'aprile
 beads
 le perline
 
-parade
-la parata
-
 parade float
 il carro da parata
 
@@ -38720,7 +38720,7 @@ coup d'état
 il colpo di stato
 
 to march
-marchiare; camminare in modo cadenzato
+marciare; camminare in modo cadenzato
 
 the protection of personal data
 la tutela dei dati personali
