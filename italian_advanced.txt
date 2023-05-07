@@ -5815,9 +5815,6 @@ il visto
 happily married
 felicemente sposato
 
-obsolete
-desueto
-
 pension system
 il sistema pensionistico
 
@@ -39902,4 +39899,7 @@ silly video
 il video sciocco; il video stupido
 
 I've had those thoughts, but I'd never act upon them
-Ho avuto quei pensieri, ma non agirei mai su di essi
+ho avuto quei pensieri, ma non agirei mai su di essi
+
+obsolete
+obsolete; superato; desueto
