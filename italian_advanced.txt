@@ -6805,7 +6805,10 @@ il rubinetto
 bedside table
 il comodino
 
-pen case; pencil case
+pencil case
+il portamatite
+
+pen case
 il portapenne
 
 kitchenette
