@@ -2608,7 +2608,7 @@ l'incomodo
 to start; to commence; to begin; to bootstrap
 avviare
 
-to go; to leave; to depart
+to go (formal, specific); to leave; to depart
 recarsi
 
 to click (photo); to startle; to trigger
@@ -17036,7 +17036,7 @@ white lie
 la bugia bianca; la bugia pietosa; la piccola bugia
 
 merciful; pitiful; compassionate
-pietoso
+pietoso; misericordioso
 
 voting precinct
 la circoscrizione elettorale
@@ -17945,7 +17945,7 @@ to withdraw from
 ritirarsi da
 
 unforgivable
-spietato; imperdonabile
+imperdonabile
 
 Yiddish
 lo yiddish
