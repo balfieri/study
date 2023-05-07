@@ -39873,3 +39873,6 @@ il dado
 
 coronation
 l'incoronazione
+
+lingering; unresolved
+irrisolto
