@@ -39623,7 +39623,7 @@ single quote
 l'apostrofo; la virgoletta singola
 
 double quote
-la virgoletta; la vigoletta doppia
+la virgoletta; la virgoletta doppia
 
 to associate; to link; to connect
 associare
