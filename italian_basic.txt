@@ -4900,9 +4900,6 @@ scappare
 bold; audacious
 audace
 
-custom; practice
-l'usanza
-
 exact
 esatto
 
