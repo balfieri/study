@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Speech Synthesis Voices</title>
+</head>
+<body>
+  <h1>Available Voices</h1>
+  <ul id="voices-list"></ul>
+
+  <script>
+    // Check if the browser supports speechSynthesis
+    if ('speechSynthesis' in window) {
+      // Load voices and wait for them to be ready
+      let voices = [];
+      const loadVoices = () => {
+        voices = speechSynthesis.getVoices();
+        if (voices.length === 0) {
+          setTimeout(loadVoices, 100);
+        } else {
+          // Display the available voices
+          const voicesList = document.getElementById('voices-list');
+          voicesList.innerHTML = '';
+          voices.forEach((voice, index) => {
+            const listItem = document.createElement('li');
+            listItem.textContent = `Voice ${index + 1}: ${voice.name} (${voice.lang})`;
+            voicesList.appendChild(listItem);
+          });
+        }
+      };
+
+      loadVoices();
+
+      // If the browser dynamically loads voices, listen for the 'voiceschanged' event
+      speechSynthesis.onvoiceschanged = loadVoices;
+    } else {
+      document.body.innerHTML = "<p>Sorry, your browser does not support speech synthesis.</p>";
+    }
+  </script>
+</body>
+</html>
+
