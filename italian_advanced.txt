@@ -6661,7 +6661,7 @@ l’accutezza
 amber
 l’ambra
 
-to shake; to agitate; to nod
+to shake; to agitate; to rattle; to nod
 scuotere
 
 to portray; to depict; to withdraw
@@ -7183,7 +7183,7 @@ la segretezza
 piece of the puzzle
 il tassello del puzzle
 
-shaken; shaky; shocked
+shaken; shaky; rattled; shocked
 scosso
 
 meaningful
@@ -39909,3 +39909,59 @@ la videochiamata
 
 Facetime call
 la chiamata Facetime
+
+learn from it
+impara da esso
+
+just learn from it
+impara semplicemente da esso
+
+to get rid of
+svincolarsi
+
+end-to-end encryption
+la crittografia end-to-end
+
+investigation
+l'istruttoria
+
+Manichean
+manicheo
+
+meaningless
+scontenuto
+
+to intervene downstream of the ordinary investigation
+intervenire a valle dell'istruttoria ordinaria
+
+loss (object); misplacement
+lo smarrimento
+
+rightness
+la giustezza
+
+what I said really rattled you
+quello che ho detto ti ha veramente scosso
+
+I was trying to be open and honest
+stavo cercando di essere aperto e sincero
+
+you should try it sometime
+dovresti provarlo qualche volta
+
+Appalachian Trail
+Sentiero degli Appalachi
+
+hiking trail
+il sentiero escursionistico
+
+sex drive
+il desiderio sessuale; la libido
+
+my twenties
+i miei vent'anni
+
+like in my twenties
+come nei miei vent'anni
+
+
