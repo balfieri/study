@@ -1651,7 +1651,7 @@ virtuoso
 deep
 profondo
 
-orgindary
+ordinary
 ordinario
 
 careful; attentive
