@@ -5836,9 +5836,6 @@ maschio
 masculine
 maschile
 
-to realize (an idea); to achieve; to accomplish
-realizzare; compiere
-
 to feel like; to wish to
 avere voglia di
 
@@ -7821,3 +7818,16 @@ l'avverbio
 
 toenail
 l'unghia del piede
+
+to notice (for the first time)
+accorgersi
+
+to notice (after an observation); to note; to observe
+notare
+
+to realize (understand)
+rendersi conto
+
+to realize (make real); to achieve; to accomplish
+realizzare; compiere
+
