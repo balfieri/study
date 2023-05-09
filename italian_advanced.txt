@@ -25282,9 +25282,6 @@ simbolico
 plurality
 la pluralità
 
-institute; institution
-l'istituito
-
 multiplicity
 la molteplicità
 
