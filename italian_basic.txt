@@ -6277,9 +6277,6 @@ la differenza
 argument; subject
 l'argomento
 
-argument (often negative)
-la discussione
-
 subject; topic; theme
 il soggetto
 
@@ -6878,7 +6875,7 @@ Vatican
 il Vaticano
 
 discussion; argument (dispute); disagreement
-discussione
+la discussione
 
 realized
 realizzato
