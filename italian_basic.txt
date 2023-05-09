@@ -4120,24 +4120,6 @@ il pacco
 headache
 il mal di testa
 
-toothache
-il mal di denti
-
-stomach ache
-il mal di stomaco
-
-belly ack
-il mal di pancia
-
-ear ache
-il mal di orecchie
-
-back ache
-il mal di schiena
-
-leg ache
-il mal di gambe
-
 to be sick
 essere malato
 

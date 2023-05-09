@@ -40020,3 +40020,22 @@ eiettare; espellere
 
 simplification
 la semplificazione
+
+toothache
+il mal di denti
+
+stomach ache
+il mal di stomaco
+
+belly ache
+il mal di pancia
+
+ear ache
+il mal di orecchie
+
+back ache
+il mal di schiena
+
+leg ache
+il mal di gambe
+
