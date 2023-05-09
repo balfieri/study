@@ -40026,3 +40026,6 @@ iniettare
 
 to eject
 eiettare; espellere
+
+simplification
+la semplificazione
