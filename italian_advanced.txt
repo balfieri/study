@@ -30532,7 +30532,7 @@ forestale
 promissory note; draft (financial)
 il cambiale
 
-terroism
+terrorism
 il terrorismo
 
 artifact
@@ -40030,3 +40030,5 @@ la palude
 to inject
 iniettare
 
+to eject
+eiettare; espellere
