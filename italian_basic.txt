@@ -1648,7 +1648,7 @@ normale
 virtuous
 virtuoso
 
-deep
+deep; profound
 profondo
 
 ordinary
