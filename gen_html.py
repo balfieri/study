@@ -76,11 +76,12 @@ html_s = '''<!DOCTYPE html>
   </head>
   <body>
     <h1>Italian Phrases</h1>
-    <p id="phrase_en"></p>
-    <p id="phrase_it"></p>
-    <button onclick="randomize()">Randomize</button>
+    <pre id="phrase_en"></pre>
+    <pre id="phrase_it"></pre>
+    <button id="button1" onclick="start_stop()">Randomize</button>
     
     <script>
+      var in_randomization = false;
       const phrases = [
 '''
 html_s += phrases_s
@@ -91,6 +92,8 @@ html_s += '''        ];
       }
       
       function randomize() {
+          if ( !in_randomization ) return;
+
           const phrase = getRandomPhrase();
           msg_en = new SpeechSynthesisUtterance(phrase[0]);
           msg_it = new SpeechSynthesisUtterance(phrase[1]);
@@ -107,6 +110,17 @@ html_s += '''        ];
 
           window.speechSynthesis.speak(msg_en);
           window.speechSynthesis.speak(msg_it);
+      }
+
+      function start_stop() {
+          if ( in_randomization ) {
+              document.getElementById('button1').innerHTML = 'Randomize';
+              in_randomization = false;
+          } else {
+              document.getElementById('button1').innerHTML = 'Stop';
+              in_randomization = true; 
+              randomize()
+          }
       }
     </script>
   </body>

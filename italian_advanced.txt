@@ -30769,9 +30769,6 @@ passività
 restriction
 la restrizione
 
-service
-il servigio
-
 colonial
 coloniale
 
