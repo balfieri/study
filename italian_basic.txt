@@ -3760,9 +3760,6 @@ attraversare la strada
 office (building)
 l'ufficio
 
-bar (to get food or coffee)
-il bar
-
 factory
 la fabbrica
 
@@ -6589,8 +6586,11 @@ attualmente
 next; near; close
 prossimo
 
-wall
-il muro; la parete
+wall (structural, solid)
+il muro; 
+
+wall (non-structural)
+la parete
 
 address
 l'indirizzo
@@ -7810,3 +7810,5 @@ rendersi conto
 to realize (make real an idea); to achieve; to accomplish
 realizzare; compiere
 
+cafe (coffee); bar (food, coffee)
+il bar

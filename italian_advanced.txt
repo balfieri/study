@@ -6622,9 +6622,6 @@ tratteggiare
 labyrinth; maze; warren
 il labirinto
 
-wall; fence; edge
-la parete
-
 notebook; notepad; jotter
 il taccuino
 
@@ -8605,7 +8602,7 @@ l'attimo
 hum; drone; buz
 il ronzio
 
-course; trend
+trend; progression
 l'andamento
 
 laden
@@ -12520,7 +12517,7 @@ seppellire; sotterrare
 to shut up
 azzittirsi
 
-bricklayer
+mason; bricklayer
 il muratore
 
 fruit vendor
@@ -31033,9 +31030,6 @@ solitario
 loner
 il solitario
 
-bearing; supporting
-portante
-
 to outline; to delineate
 delineare
 
@@ -40047,3 +40041,73 @@ la trasmissione televisiva
 
 contentment
 la contentezza; la soddisfazione
+
+stitches
+i punti
+
+beware of the wolf
+attento al lupo
+
+beware of dog
+attenti al cane
+
+consenting
+consenziente
+
+offsite meeting
+la riunione fuori sede
+
+onsite meeting
+la riunione in sede
+
+pioneer
+il pioniere
+
+exporter
+l'esportatore
+
+importer
+l'importatore
+
+twist
+la storcia
+
+glimpse; shortcut
+la scorcia
+
+to stock; to store
+stoccare
+
+to make a sexual advance
+fare un'avance sessuale
+
+what does it have to do with you?
+che c'entra con te?
+
+abruptly
+bruscamente; improvvisamente
+
+tapering
+affusolato
+
+to taper
+restringersi; affusolarsi
+
+divider; partition
+il divisorio
+
+dividing; partitioning
+divisorio
+
+bearing; load-bearing; supporting (structurally)
+portante
+
+Scottish
+scozzese
+
+koala
+koala
+
+that made my day
+mi ha fatto la giornata
+
