@@ -80,7 +80,7 @@ html_s = '''<!DOCTYPE html>
   </head>
   <body>
     <h1>''' + title + '''</h1>
-    <button id="button1" onclick="start_stop()">Randomize</button>
+    <button id="button1" style="font-size:24px" onclick="start_stop()">Randomize</button>
     <p><pre id="log" style="font-size:24px"></pre></p>
     
     <script>
@@ -97,9 +97,12 @@ html_s = '''<!DOCTYPE html>
       msg_en.lang = 'en-US';
       msg_it.lang = 'it-IT';
 
+      msg_en.rate = 0.8;
+      msg_it.rate = 0.8;
+
       //msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
       msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
-      msg_it.onend = speakPhrase; // continue loop
+      msg_it.onend = randomize; // continue loop
 
       function getRandomPhrase() {
         return phrases[Math.floor(Math.random() * phrases.length)];
