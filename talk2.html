@@ -6,9 +6,8 @@
   </head>
   <body>
     <h1>Italian Phrases</h1>
-    <pre id="phrase_en"></pre>
-    <pre id="phrase_it"></pre>
     <button onclick="speakPhrase()">Speak</button>
+    <p><pre id="log"></pre></p>
     
     <script>
       const phrases = [
@@ -17,24 +16,30 @@
         [ "My name is Giovanni", "Mi chiamo Giovanni" ],
       ];
       
+      var log_s = ""
+
+      var msg_en = new SpeechSynthesisUtterance("");
+      var msg_it = new SpeechSynthesisUtterance("");
+
+      msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
+      msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
+      msg_it.onend = speakPhrase; // continue loop
+
       function getRandomPhrase() {
         return phrases[Math.floor(Math.random() * phrases.length)];
       }
       
       function speakPhrase() {
           const phrase = getRandomPhrase();
-          msg_en = new SpeechSynthesisUtterance(phrase[0]);
-          msg_it = new SpeechSynthesisUtterance(phrase[1]);
+
+          msg_en.text = phrase[0];
+          msg_it.text = phrase[1];
 
           msg_en.lang = 'en-US';
           msg_it.lang = 'it-IT';
 
-          msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
-          msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
-          msg_it.onend = speakPhrase; // continue loop
-
-          document.getElementById("phrase_en").textContent = phrase[0];
-          document.getElementById("phrase_it").textContent = phrase[1];
+          log_s = phrase[0] + "\n" + phrase[1] + "\n\n" + log_s;
+          document.getElementById("log").textContent = log_s;
 
           window.speechSynthesis.speak(msg_en);
           window.speechSynthesis.speak(msg_it);

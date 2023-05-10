@@ -80,9 +80,8 @@ html_s = '''<!DOCTYPE html>
   </head>
   <body>
     <h1>''' + title + '''</h1>
-    <pre id="phrase_en" style="font-size:18px"></pre>
-    <pre id="phrase_it" style="font-size:18px"></pre>
     <button id="button1" onclick="start_stop()">Randomize</button>
+    <p><pre id="log" style="font-size:24px"></pre></p>
     
     <script>
       var in_randomization = false;
@@ -90,6 +89,18 @@ html_s = '''<!DOCTYPE html>
 ''' + phrases_s + '''
           ];
       
+      var log_s = ""
+
+      var msg_en = new SpeechSynthesisUtterance("");
+      var msg_it = new SpeechSynthesisUtterance("");
+
+      msg_en.lang = 'en-US';
+      msg_it.lang = 'it-IT';
+
+      //msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
+      msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
+      msg_it.onend = speakPhrase; // continue loop
+
       function getRandomPhrase() {
         return phrases[Math.floor(Math.random() * phrases.length)];
       }
@@ -98,18 +109,12 @@ html_s = '''<!DOCTYPE html>
           if ( !in_randomization ) return;
 
           const phrase = getRandomPhrase();
-          msg_en = new SpeechSynthesisUtterance(phrase[0]);
-          msg_it = new SpeechSynthesisUtterance(phrase[1]);
 
-          msg_en.lang = 'en-US';
-          msg_it.lang = 'it-IT';
+          msg_en.text = phrase[0];
+          msg_it.text = phrase[1];
 
-          msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
-          msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
-          msg_it.onend = randomize; // continue loop
-
-          document.getElementById("phrase_en").textContent = phrase[0]
-          document.getElementById("phrase_it").textContent = phrase[1]
+          log_s = phrase[0] + "\\n" + phrase[1] + "\\n\\n" + log_s;
+          document.getElementById("log").textContent = log_s;
 
           window.speechSynthesis.speak(msg_en);
           window.speechSynthesis.speak(msg_it);
