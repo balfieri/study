@@ -30,10 +30,6 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 1: die( 'usage: talk.py [options]', '' )
 subjects_s = 'italian_basic,italian_advanced,italian_expressions_common,italian_expressions_other,american_expressions_get,american_expressions_favorite,italian_vulgar,italian_passato_remoto'
-english_voice = 'Samantha'
-italian_voice = 'Alice'
-english_rate  = 180
-italian_rate  = 150
 
 i = 1
 while i < len( sys.argv ):
@@ -80,8 +76,9 @@ html_s = '''<!DOCTYPE html>
   </head>
   <body>
     <h1>Italian Phrases</h1>
-    <p id="phrase"></p>
-    <button onclick="speakPhrase()">Speak</button>
+    <p id="phrase_en"></p>
+    <p id="phrase_it"></p>
+    <button onclick="randomize()">Randomize</button>
     
     <script>
       const phrases = [
@@ -93,21 +90,23 @@ html_s += '''        ];
         return phrases[Math.floor(Math.random() * phrases.length)];
       }
       
-      function speakPhrase() {
-        const phrase = getRandomPhrase();
-        msg_en = new SpeechSynthesisUtterance(phrase[0]);
-        msg_it = new SpeechSynthesisUtterance(phrase[1]);
+      function randomize() {
+          const phrase = getRandomPhrase();
+          msg_en = new SpeechSynthesisUtterance(phrase[0]);
+          msg_it = new SpeechSynthesisUtterance(phrase[1]);
 
-        msg_en.lang = 'en-US';
-        msg_it.lang = 'it-IT';
+          msg_en.lang = 'en-US';
+          msg_it.lang = 'it-IT';
 
-        msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
-        msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
+          msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
+          msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
+          msg_it.onend = randomize; // continue loop
 
-        window.speechSynthesis.speak(msg_en);
-        window.speechSynthesis.speak(msg_it);
+          document.getElementById("phrase_en").textContent = phrase[0]
+          document.getElementById("phrase_it").textContent = phrase[1]
 
-        document.getElementById("phrase").textContent = phrase[1];
+          window.speechSynthesis.speak(msg_en);
+          window.speechSynthesis.speak(msg_it);
       }
     </script>
   </body>
