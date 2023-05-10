@@ -116,6 +116,7 @@ html_s = '''<!DOCTYPE html>
           msg_en.text = phrase[0];
           msg_it.text = phrase[1];
 
+          if ( log_s.length > 1000000 ) log_s.slice( 0, 1000000 );
           log_s = phrase[0] + "\\n" + phrase[1] + "\\n\\n" + log_s;
           document.getElementById("log").textContent = log_s;
 
