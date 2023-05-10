@@ -30,6 +30,7 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 1: die( 'usage: talk.py [options]', '' )
 subjects_s = 'italian_basic,italian_advanced,italian_expressions_common,italian_expressions_other,american_expressions_get,american_expressions_favorite,italian_vulgar,italian_passato_remoto'
+title = 'All Lists'
 
 i = 1
 while i < len( sys.argv ):
@@ -37,6 +38,9 @@ while i < len( sys.argv ):
     i += 1
     if   arg == '-subjects':
         subjects_s = sys.argv[i]
+        i += 1
+    elif arg == '-title': 
+        title = sys.argv[i]
         i += 1
     else:
         die( f'unknown option: {arg}' )
@@ -72,20 +76,19 @@ html_s = '''<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Italian Phrases</title>
+    <title>''' + title + '''</title>
   </head>
   <body>
-    <h1>Italian Phrases</h1>
-    <pre id="phrase_en"></pre>
-    <pre id="phrase_it"></pre>
+    <h1>''' + title + '''</h1>
+    <pre id="phrase_en" style="font-size:18px"></pre>
+    <pre id="phrase_it" style="font-size:18px"></pre>
     <button id="button1" onclick="start_stop()">Randomize</button>
     
     <script>
       var in_randomization = false;
       const phrases = [
-'''
-html_s += phrases_s
-html_s += '''        ];
+''' + phrases_s + '''
+          ];
       
       function getRandomPhrase() {
         return phrases[Math.floor(Math.random() * phrases.length)];
