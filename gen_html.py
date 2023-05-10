@@ -72,4 +72,46 @@ for subject in subjects:
 
     Q.close()
 
-print( phrases_s )
+html_s = '''<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Italian Phrases</title>
+  </head>
+  <body>
+    <h1>Italian Phrases</h1>
+    <p id="phrase"></p>
+    <button onclick="speakPhrase()">Speak</button>
+    
+    <script>
+      const phrases = [
+'''
+html_s += phrases_s
+html_s += '''        ];
+      
+      function getRandomPhrase() {
+        return phrases[Math.floor(Math.random() * phrases.length)];
+      }
+      
+      function speakPhrase() {
+        const phrase = getRandomPhrase();
+        msg_en = new SpeechSynthesisUtterance(phrase[0]);
+        msg_it = new SpeechSynthesisUtterance(phrase[1]);
+
+        msg_en.lang = 'en-US';
+        msg_it.lang = 'it-IT';
+
+        msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
+        msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
+
+        window.speechSynthesis.speak(msg_en);
+        window.speechSynthesis.speak(msg_it);
+
+        document.getElementById("phrase").textContent = phrase[1];
+      }
+    </script>
+  </body>
+</html>
+'''
+
+print( html_s )
