@@ -262,7 +262,7 @@ verde
 orange
 arrancio
 
-yello
+yellow
 giallo
 
 violet
