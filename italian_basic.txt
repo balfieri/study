@@ -4340,7 +4340,7 @@ level
 il livello
 
 well,
-beh,
+beh,; allora,
 
 to move (something from one place to anotherr)
 spostare
