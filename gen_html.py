@@ -100,9 +100,12 @@ html_s = '''<!DOCTYPE html>
       msg_en.rate = 0.8;
       msg_it.rate = 0.8;
 
-      //msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
-      msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
       msg_it.onend = randomize; // continue loop
+
+      window.speechSynthesis.addEventListener('voiceschanged', () => {
+          msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
+          msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
+      });
 
       function getRandomPhrase() {
         return phrases[Math.floor(Math.random() * phrases.length)];
