@@ -5452,7 +5452,7 @@ il carattere
 some
 alcuni
 
-side; parte
+side; part
 la parte
 
 ground; earth
