@@ -2785,7 +2785,7 @@ dimenticare
 to forget to (do something)
 dimenticarsi di
 
-to send; to submit (application)
+to send (general); to submit (application)
 inviare
 
 to help
