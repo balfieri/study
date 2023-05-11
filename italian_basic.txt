@@ -2737,8 +2737,8 @@ visitare
 to visit (someone)
 fare visita a
 
-to remember
-ricordare
+to remember (something)
+ricordare (qualcosa)
 
 to lunch; to have lunch
 pranzare
