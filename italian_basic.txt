@@ -5833,26 +5833,26 @@ accanto a; di fianco a
 outside of
 fuori da
 
-h (name)
-acca
+h (name of letter)
+la acca
 
-j (name)
-i lunga
+j (name of letter)
+la i lunga
 
-k (name)
-kappa
+k (name of letter)
+la kappa
 
-w (name)
-doppia vi; doppia vu
+w (name of letter)
+la doppia vi; la doppia vu
 
-x (name)
-ics
+x (name of letter)
+la ics
 
-y (name)
-ipsilon; i greca
+y (name of letter)
+la ipsilon; la i greca
 
-z (name)
-zeta
+z (name of letter)
+la zeta
 
 message
 il messaggio
