@@ -190,6 +190,10 @@ html_s = '''<!DOCTYPE html>
           randomize();
       }
 
+      window.onbeforeunload = function(event) {
+          window.speechSynthesis.cancel();
+      };
+
     </script>
   </body>
 </html>
