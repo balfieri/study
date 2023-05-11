@@ -6181,8 +6181,11 @@ cristiano
 soldier
 il soldato
 
-technique; technology
+technique
 la tecnica
+
+technology
+la tecnologia
 
 technical
 tecnico
