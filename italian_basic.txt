@@ -748,8 +748,11 @@ troppo
 too many
 troppi
 
-to send
-mandare; spedire
+to send (a person, thing)
+mandare
+
+to send (package); to ship
+spedire
 
 sauce
 il sugo

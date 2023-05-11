@@ -80,7 +80,9 @@ html_s = '''<!DOCTYPE html>
   </head>
   <body>
     <h1>''' + title + '''</h1>
-    <button id="button1" style="font-size:24px" onclick="start_stop()">Randomize</button>
+    <button id="button_randomize" style="font-size:24px" onclick="start_stop()">Randomize</button>
+    <button id="button_mute" style="font-size:24px" onclick="mute_unmute()">Mute</button>
+    <button id="button_first" style="font-size:24px" onclick="which_first()">Italian First</button>
     <p><pre id="log" style="font-size:24px"></pre></p>
     
     <script>
@@ -90,6 +92,10 @@ html_s = '''<!DOCTYPE html>
           ];
       
       var log_s = ""
+
+      var english_first = true;
+      var speech_enabled = true;
+      var quiet_timeout_id = 0;
 
       var msg_en = new SpeechSynthesisUtterance("");
       var msg_it = new SpeechSynthesisUtterance("");
@@ -101,6 +107,7 @@ html_s = '''<!DOCTYPE html>
       msg_it.rate = 0.8;
 
       msg_it.onend = randomize; // continue loop
+
 
       window.speechSynthesis.addEventListener('voiceschanged', () => {
           msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
@@ -120,23 +127,69 @@ html_s = '''<!DOCTYPE html>
           msg_it.text = phrase[1];
 
           if ( log_s.length > 1000000 ) log_s.slice( 0, 1000000 );
-          log_s = phrase[0] + "\\n" + phrase[1] + "\\n\\n" + log_s;
+          if ( english_first ) {
+              log_s = phrase[0] + "\\n" + phrase[1] + "\\n\\n" + log_s;
+          } else {
+              log_s = phrase[1] + "\\n" + phrase[0] + "\\n\\n" + log_s;
+          }
           document.getElementById("log").textContent = log_s;
 
-          window.speechSynthesis.speak(msg_en);
-          window.speechSynthesis.speak(msg_it);
+          if ( speech_enabled ) {
+              if ( english_first ) {
+                  window.speechSynthesis.speak(msg_en);
+                  window.speechSynthesis.speak(msg_it);
+              } else {
+                  window.speechSynthesis.speak(msg_it);
+                  window.speechSynthesis.speak(msg_en);
+              }
+          } else {
+              quiet_timeout_id = setTimeout( randomize, 3000 );
+          }
       }
 
       function start_stop() {
           if ( in_randomization ) {
-              document.getElementById('button1').innerHTML = 'Randomize';
+              window.speechSynthesis.cancel();
+              document.getElementById('button_randomize').innerHTML = 'Randomize';
               in_randomization = false;
           } else {
-              document.getElementById('button1').innerHTML = 'Stop';
+              document.getElementById('button_randomize').innerHTML = 'Stop';
               in_randomization = true; 
               randomize()
           }
       }
+
+      function mute_unmute() {
+          if ( speech_enabled ) {
+              document.getElementById('button_mute').innerHTML = 'Unmute';
+              speech_enabled = false;
+              if ( in_randomization ) {
+                  window.speechSynthesis.cancel();
+                  randomize();
+              }
+          } else {
+              if ( quiet_timeout_id ) clearTimeout( quiet_timeout_id );
+              document.getElementById('button_mute').innerHTML = 'Mute';
+              speech_enabled = true;
+              randomize();
+          }
+      }
+
+      function which_first() {
+          if ( english_first ) {
+              document.getElementById('button_first').innerHTML = 'English First';
+              english_first = false;
+              msg_en.onend = randomize; // continue loop
+              msg_it.onend = null;
+          } else {
+              document.getElementById('button_first').innerHTML = 'Italian First';
+              english_first = true;
+              msg_en.onend = null;
+              msg_it.onend = randomize; // continue loop
+          }
+          randomize();
+      }
+
     </script>
   </body>
 </html>
