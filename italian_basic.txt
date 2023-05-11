@@ -1906,10 +1906,10 @@ lo quadro
 remote control
 il telecomando
 
-room
+room (general term)
 la stanza
 
-bedroom; room; chamber
+bedroom; room (for sleeping); chamber
 la camera
 
 living room
