@@ -40156,3 +40156,6 @@ riattivare l'audio; togliere il silenzio
 perhaps you've heard about it?
 forse ne hai sentito parlare?
 
+little ball
+la pallina
+
