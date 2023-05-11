@@ -1856,7 +1856,7 @@ worker
 l'operaio; l'operaia; il lavoratore; la lavoratrice
 
 doctor (medical)
-medico
+il medico
 
 doctor (PhD)
 il dottore; la dottoressa
