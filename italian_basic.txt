@@ -1390,7 +1390,7 @@ l'orologio
 now
 ora; adesso
 
-the time
+the time (clock)
 l'ora
 
 I can't wait to; I'm dying to
@@ -5395,7 +5395,7 @@ lavorare da casa
 out of style
 fuori moda
 
-moment
+moment; the time (moment)
 il momento
 
 reality
