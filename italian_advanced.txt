@@ -4951,7 +4951,7 @@ pubblicizzare
 to point out; to highlight; to emphasize; to point out; to single out
 fare notare; indicare; sottolineare; evidenziare; fare presente
 
-to underline
+to underline; to underscore
 sottolineare
 
 inherent
@@ -40101,4 +40101,7 @@ koala
 
 that made my day
 mi ha fatto la giornata
+
+underscore character
+il carattere sottolineato
 
