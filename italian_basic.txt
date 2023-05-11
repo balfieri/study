@@ -358,7 +358,7 @@ l'autobus
 tip (bill)
 la mancia
 
-bill
+bill (restaurant)
 il conto
 
 table
