@@ -2071,9 +2071,6 @@ l'ufficio postale
 restaurant
 il ristorante
 
-market
-mercatino
-
 bookstore; bookshop; bookshelves
 la libreria
 
