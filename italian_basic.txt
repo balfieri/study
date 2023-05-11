@@ -7001,7 +7001,7 @@ typical
 tipico
 
 dollar
-dollaro
+il dollaro
 
 urgency
 l'urgenza
