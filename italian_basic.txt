@@ -2096,7 +2096,7 @@ theatre
 il teatro
 
 gas station; service station
-il benzinaio; il stazione di servizio; il distributore di benzina
+il benzinaio; la stazione di servizio; il distributore di benzina
 
 bank
 la banca
