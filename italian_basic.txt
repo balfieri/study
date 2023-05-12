@@ -748,7 +748,7 @@ troppo
 too many
 troppi
 
-to send (a person, thing)
+to send (a person, thing, informal)
 mandare
 
 to send (package); to ship
@@ -2782,7 +2782,7 @@ dimenticare
 to forget to (do something)
 dimenticarsi di
 
-to send (general); to submit (application)
+to send (general, slightly more formal); to submit (application)
 inviare
 
 to help
