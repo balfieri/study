@@ -1929,3 +1929,6 @@ la voce che gira per strada
 what's the word on the street?
 qual è la voce che gira per strada?
 
+what's the news on the street?
+quali sono le novità per strada?
+

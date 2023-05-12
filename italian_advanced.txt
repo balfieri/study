@@ -21592,7 +21592,7 @@ la mucca allevata a erba
 to raise (animals); to breed; to rear; to bring up
 allevare
 
-breading; farming; raising (animals); animal husbandry
+breeding; farming; raising (animals); animal husbandry
 l'allevamento
 
 cheesecloth
@@ -40230,3 +40230,16 @@ inevitabilmente
 
 crab
 il granchio
+
+make-or-break moment
+il momento decisivo
+
+do-or-die moment; moment of truth
+il momento della verità
+
+do-or-die situation
+la situazione di vita o di morte
+
+le tende
+the curtains
+
