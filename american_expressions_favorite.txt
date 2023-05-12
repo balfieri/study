@@ -165,9 +165,6 @@ allargarsi troppo
 to man-splain
 quando un uomo spiega (qualcosa) che la donna già capisce meglio
 
-to man-appropriate
-quando una donna ha un'idea e l'uomo più tardi avrà la stess'idea
-
 to nitpick
 pizzicare; stuzzicare
 
@@ -1602,11 +1599,11 @@ cosciente; forte progressista
 hip
 forte; progressista
 
-to mansplain (neo)
+to mansplain (neo.)
 uomospiegare 
 
-to manappropriate (neo)
-uommappropriare
+to manappropriate (neo.)
+uommappropriare (quando una donna ha un'idea e l'uomo più tardi avrà la stess'idea)
 
 to push the envelope
 superare i limiti
