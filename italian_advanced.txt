@@ -2128,7 +2128,7 @@ coetaneo
 to sit around; to lounge; to bum around
 ciondolare
 
-in retrospect
+in retrospect; in hindsight
 in retrospettiva; a posteriori
 
 in the first place
@@ -28891,9 +28891,6 @@ auspicato
 wear; attrition; wearing down
 il logoramento
 
-in hindsight
-col senno del poi
-
 ascertained
 constatato
 
@@ -40176,4 +40173,16 @@ attratto da (qualcuno); attratto da (qualcuno)
 
 and yet I'm quite drawn to you
 eppure sono piuttosto attratto da te
+
+operating system
+il sistema operativo
+
+developer
+lo sviluppatore
+
+generative AI
+Ai generative
+
+code red
+il codice rosso
 
