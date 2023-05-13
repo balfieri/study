@@ -5863,7 +5863,7 @@ il misto
 mixed
 misto; mescolato
 
-to mix (general); to blend
+to mix (general); to blend; to shuffle
 mescolare
 
 newspaper
@@ -7241,7 +7241,7 @@ unhappy
 infelice
 
 taxi
-il tassi
+il tassi; il taxi
 
 object
 l'oggetto

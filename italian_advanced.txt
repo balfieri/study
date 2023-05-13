@@ -14839,7 +14839,7 @@ comodamente
 bank transfer; wire transfer
 il bonifico bancario
 
-specially; deliberately
+specially; deliberately; specifically (in deliberate way)
 appositamente
 
 to impact; to hit; to bump; to impinge
@@ -20314,7 +20314,7 @@ il registro
 planned; expected; foreseen; scripted
 previsto
 
-master; maestro
+master; meister
 il maestro
 
 forum; hole; bore
@@ -40260,3 +40260,42 @@ la consulenza; l'avviso
 
 advisory (adj)
 consultivo; di consulenza
+
+talented (innately or predisposed)
+talentuoso
+
+arbitrary
+arbitrario
+
+at 12 o'clock
+alle ore 12
+
+x-ray
+i raggi X
+
+xenophobic
+xenofobo
+
+his hair is so out of control
+i suoi capelli sono così fuori controllo
+
+that's a stretch
+è un'esagerazionea; è un'esagerazione forzata
+
+that's quite a stretch
+è davvero un'esagerazione; è davvero un'esageraione forzata
+
+to diagnose
+diagnosticare
+
+specially marked and equipped
+appositamente contrassegnati e dotati
+
+taximeter
+il tassimetro
+
+a little communication goes a long way
+un po' di comunicazione fa molto
+
+out of service
+fuori servizio
