@@ -352,10 +352,10 @@ conosciuto anche come
 to update
 aggiornare
 
-rear (adj)
+rear (adjective)
 posteriore
 
-front (adj)
+front (adjective)
 anteriore
 
 tire
@@ -379,7 +379,7 @@ il sollevamento
 bad weather
 il brutto tempo
 
-to stall (intr)
+to stall (intransitive)
 mettersi in stallo
 
 barely; hardly
@@ -538,7 +538,7 @@ l'errore di battitura
 typing
 la battitura
 
-to board (intr)
+to board (intransitive)
 imbarcarsi su
 
 to board; to climb on board
@@ -610,7 +610,7 @@ la manica
 to roll up one's sleeves
 rimboccarsi le maniche
 
-drag (n)
+drag
 la resistenza; il trascinamento
 
 unpleasant
@@ -841,7 +841,7 @@ mi sa di no
 I doubt it; I doubt that
 ne dubito
 
-takeout (adj)
+takeout (adjective)
 d'asporto; da portare via
 
 for what?
@@ -895,10 +895,10 @@ farcire
 bakery
 il paneficio
 
-long-suffering (adj)
+long-suffering (adjective)
 longanime
 
-long-suffering (n)
+long-suffering (noun)
 la longanimità
 
 nonetheless
@@ -1084,7 +1084,7 @@ a distanza
 the sore; the plague
 la piaga
 
-rub (n)
+rub (noun)
 la stroffa
 
 fabric
@@ -1114,7 +1114,7 @@ la buca
 golf shot
 il colpo da golf; il tiro da golf
 
-amateur (adj)
+amateur (adjective)
 dilettantistico
 
 as well as; not to mention; let alone
@@ -1240,7 +1240,7 @@ deprimersi
 to adjust
 adeguare
 
-excess (n)
+excess (noun)
 l'eccesso
 
 to be annoying
@@ -1270,7 +1270,7 @@ il ricatto
 to loosen; to relax
 allentare
 
-to slow down (intr)
+to slow down (intransitive)
 rallentarsi
 
 reading
@@ -1345,7 +1345,7 @@ il gioco d'azzardo
 progressive
 progressivo
 
-progressive (n)
+progressive (noun)
 il progressista
 
 to raise kids
@@ -1441,7 +1441,7 @@ la disinvoltura
 even
 perfino; persino
 
-level (adj)
+level (adjective)
 pianeggiante
 
 track
@@ -1498,7 +1498,7 @@ imbardare
 yaw
 l'imbardata
 
-roll (n)
+roll (noun)
 il rollio
 
 axis
@@ -1555,7 +1555,7 @@ presto
 panel; tab
 il pannello
 
-novel (adj)
+novel (adjective)
 nuovo; originale
 
 to knock
@@ -1576,7 +1576,7 @@ la rubrica
 sign; warning; skirmish
 l 'avvisaglia
 
-shipbuilding (adj)
+shipbuilding (adjective)
 cantieristico
 
 ongoing; in progress; underway; afoot
@@ -2311,7 +2311,7 @@ rinunciare; abbandonare
 leap
 il balzo
 
-order (n)
+order (noun)
 la commessa
 
 to forecast; to forsee; to predict; to anticipate
@@ -2341,7 +2341,7 @@ di petto
 instantly; without thinking
 di pancia
 
-spare (adj)
+spare (adjective)
 di scorta
 
 very respectable
@@ -3109,7 +3109,7 @@ in scacco
 vanguard; avant-guarde
 l'avanguardia
 
-leverage (adj)
+leverage (adjective)
 di leva
 
 settlement
@@ -3421,7 +3421,7 @@ smentire
 before then
 prima di allora
 
-listen (n); listening
+listen (noun); listening
 l'ascolto
 
 you did it again!
@@ -3763,7 +3763,7 @@ il servizio clienti
 to suspect that
 sospettere che
 
-American; United States (adj)
+American; United States (adjective)
 statunitense
 
 to sneeze
@@ -3991,7 +3991,7 @@ il danneggiamento
 cultural assets
 i beni culturali
 
-landscape (adj)
+landscape (adjective)
 paesaggistico
 
 worsening
@@ -4303,7 +4303,7 @@ prediligere
 noisy; boisterous; rowdy
 chiassoso
 
-paper (adj)
+paper (adjective)
 cartaceo
 
 marathon
@@ -4825,7 +4825,7 @@ l'avvicinamento finale
 to adjust
 adattare; adeguare
 
-safe (n)
+safe (noun)
 la cassaforte
 
 jewelry
@@ -4864,7 +4864,7 @@ dell'Europa orientale
 layer
 lo strato
 
-spell (n)
+spell (noun)
 l'incantesimo
 
 porn
@@ -5059,7 +5059,7 @@ mansueto
 resource
 la risora
 
-working; work (adj)
+working; work (adjective)
 lavorativo
 
 work team
@@ -5077,7 +5077,7 @@ l'automatizzazione; l'automazione; la meccanizzazione
 to establish; to build up; to constitute
 costituire
 
-solo (n)
+solo (noun)
 l'assolo
 
 guitar solo
@@ -5359,7 +5359,7 @@ la schiavitù; lo schiavismo
 intersection; junction; cross; crossing
 l'incrocio
 
-airport (adj)
+airport (adjective)
 aeroportuale
 
 to taxi
@@ -5518,10 +5518,10 @@ controbilanciare la forza di gravità
 to watch over
 vegliare su
 
-atheist (adj)
+atheist (adjective)
 ateo
 
-atheist (n)
+atheist (noun)
 l'ateista; l'ateo
 
 agnostic
@@ -5737,7 +5737,7 @@ la giustaposizione; l’accostamento
 observation; statement; establishment; ascertainment
 la constatazione
 
-district (adj)
+district (adjective)
 distrettuale
 
 membership; affiliation; belonging
@@ -6049,7 +6049,7 @@ la dimostrazione di affetto
 to cuddle (trans)
 coccolare
 
-to cuddle (intr)
+to cuddle (intransitive)
 accoccolarsi
 
 unsettling
@@ -6508,7 +6508,7 @@ la serra
 need; requirement; demand
 il fabbisogno
 
-water (adj)
+water (adjective)
 idrico
 
 recycling; money laundering; re-use
@@ -6748,7 +6748,7 @@ il pizzetto
 sideburns
 le basette
 
-olive (adj)
+olive (adjective)
 olivastro
 
 pump
@@ -7057,10 +7057,10 @@ le lentiggini
 kerchief
 il foulard
 
-non-fiction (adj)
+non-fiction (adjective)
 di saggistica
 
-fiction (adj)
+fiction (adjective)
 di narativa
 
 I have no idea what you're talking about
@@ -7105,7 +7105,7 @@ la domanda scottante
 burning; pressing; scorching; hot
 scottante
 
-duplicate (n)
+duplicate (noun)
 il duplicato
 
 keep up the good work
@@ -7321,7 +7321,7 @@ a un certo punto
 cemetary
 il cimitero
 
-grave (n)
+grave (noun)
 la tomba
 
 bad blood
@@ -7573,7 +7573,7 @@ la repressione
 high-level training
 l'alta formazione
 
-museum (adj)
+museum (adjective)
 museale
 
 extension; postponement; prolongation
@@ -7942,7 +7942,7 @@ mi sta simpatico
 unfit; unsuitable
 disadatto
 
-misfit (adj); maladjusted; alienated
+misfit (adjective); maladjusted; alienated
 disadattato
 
 whenever possible
@@ -8098,7 +8098,7 @@ il polistirolo
 drought
 la siccità
 
-drought (adj)
+drought (adjective)
 siccitoso
 
 consumables
@@ -9010,7 +9010,7 @@ l'intervento
 of course; surely; certainly
 certo; certamente
 
-inside (n)
+inside (noun)
 l'interno
 
 golf swing
@@ -9487,7 +9487,7 @@ domattina
 totally agree
 d'accordissimo
 
-Christmas (adj)
+Christmas (adjective)
 natalizio
 
 windmill
@@ -11098,7 +11098,7 @@ questo è il massimo che posso fare; è il meglio che posso fare
 silly question
 la domanda stupida; la domanda sciocca; la domanda scema
 
-extreme (n)
+extreme (noun)
 l'estreme
 
 between the two extremes
@@ -11845,7 +11845,7 @@ spiacciare
 ghastly; chilling; bloodcurdling
 agghiacciante
 
-preschool (adj)
+preschool (adjective)
 prescuolare
 
 draconian
@@ -12124,7 +12124,7 @@ il carrattere
 mental lapse; slip of the tongue; brain fart
 il lapsus
 
-conservative (n)
+conservative (noun)
 il conservatore
 
 tax
@@ -12424,7 +12424,7 @@ i consueti ricorsi
 asbestos
 l'amianto
 
-manufacturing (adj)
+manufacturing (adjective)
 manifatturiero
 
 bed (garden)
@@ -12466,7 +12466,7 @@ a pois
 checkered
 scacchi
 
-plain (adj)
+plain (adjective)
 in tinta unita; semplice
 
 diving
@@ -13462,7 +13462,7 @@ il procedimento
 criteria
 i criteri
 
-steam (adj); steam-driven; steam-powered
+steam (adjective); steam-driven; steam-powered
 a vapore
 
 rifle; shotgun
@@ -13561,7 +13561,7 @@ la Guardia costiera
 pier; jetty; wharf
 il molo
 
-front (adj)
+front (adjective)
 antistante
 
 fishing boat; trawler; fishing vessel
@@ -13633,7 +13633,7 @@ il mattatoio
 so (adv); such (adv)
 talmente
 
-such (adj)
+such (adjective)
 tale
 
 confidentiality agreement
@@ -13702,7 +13702,7 @@ il fiato
 nape
 la nuca
 
-candlelight (adj)
+candlelight (adjective)
 a lume di candela
 
 blank check
@@ -13789,7 +13789,7 @@ a basso reddito
 to acquire; to gain; to obtain
 acquisire
 
-hotel (adj)
+hotel (adjective)
 alberghiero
 
 meeting; convention; conference
@@ -13903,7 +13903,7 @@ rissoso
 bank; dam; embankment
 l'argine
 
-sovereign (n)
+sovereign (noun)
 il sovranista
 
 challenger; competitor; rival
@@ -13954,7 +13954,7 @@ solenne
 chastity; celibacy
 la castità
 
-celibacy; bachelorhood; celibate (n)
+celibacy; bachelorhood; celibate (noun)
 il celibato
 
 frankness; sincerity; openness
@@ -14263,7 +14263,7 @@ la calca
 alley; lane; bystreet
 la viuzza
 
-spread (adj); extended; extensive; laid out
+spread (adjective); extended; extensive; laid out
 steso
 
 to revive; to resuscitate
@@ -14716,7 +14716,7 @@ lo strapotere
 overflowing
 straripante; traboccante
 
-media (adj); mass media (adj)
+media (adjective); mass media (adjective)
 mediatico
 
 eccentric; loony; outlandish
@@ -14911,7 +14911,7 @@ sommesso
 awkward; clumsy
 impacciato
 
-to blind (tr); to dazzle
+to blind (transitive); to dazzle
 accecare
 
 sycophant
@@ -16849,7 +16849,7 @@ lo scostamento
 to agree; to concur
 convenire
 
-income (adj)
+income (adjective)
 reddituale
 
 orchestra section; audience
@@ -16984,16 +16984,16 @@ rapire
 kidnapping; abduction
 il rapimento
 
-net (adj); clean; tidy
+net (adjective); clean; tidy
 netto
 
 to run away
 sgommare
 
-to starve (tr)
+to starve (transitive)
 affamare
 
-to starve (intr)
+to starve (intransitive)
 morire di fame
 
 of course; naturally; obviously
@@ -17815,7 +17815,7 @@ il Rinascimento
 deposit in the bank
 il deposito in banca
 
-present (n)
+present (noun)
 il contempo
 
 supply; procurement; provision
@@ -18670,7 +18670,7 @@ stendere
 incidentally
 incidentalmente; a proposito; tra parentesi
 
-paperback (adj)
+paperback (adjective)
 in brossura; tascabile
 
 baker
@@ -19030,13 +19030,13 @@ la paura dell'impegno
 I believe in you
 credo in te
 
-municipal; communal; town (adj)
+municipal; communal; town (adjective)
 comunale
 
-socialist (n)
+socialist (noun)
 il socialista
 
-socialist (adj)
+socialist (adjective)
 socialista
 
 inscription; lettering; notice sign
@@ -19387,10 +19387,10 @@ compiuto
 strongly
 fortemente
 
-each (pron); everyone (pron)
+each (pronoun); everyone (pronoun)
 ognuno
 
-each (pron or adj)
+each (pronoun or adjective)
 ciascuno
 
 composed
@@ -19420,7 +19420,7 @@ nobile
 fall; drop; downfall
 la caduta
 
-same (adj)
+same (adjective)
 medesimo
 
 to plot; to draw; to track; to trace
@@ -19429,7 +19429,7 @@ tracciare
 rafter
 la trave di legno
 
-childish; childhood (adj)
+childish; childhood (adjective)
 infantile
 
 memorabilia
@@ -19762,7 +19762,7 @@ l'organizzazione
 indication; sign; direction
 l'indicazione
 
-substantial; substantive; material (adj)
+substantial; substantive; material (adjective)
 sostanziale
 
 honorable; respectable
@@ -20140,7 +20140,7 @@ il deputato
 elevated; high; lofty
 elevato
 
-electoral; election (adj); elective
+electoral; election (adjective); elective
 elettorale
 
 mentioned; referenced
@@ -20857,7 +20857,7 @@ colare
 to consider oneself
 considerarsi
 
-state (adj); national (adj)
+state (adjective); national (adjective)
 statale
 
 conviction; belief
@@ -21238,7 +21238,7 @@ legislativo
 organism
 l'organismo
 
-fiscal; tax (adj); financial
+fiscal; tax (adjective); financial
 fiscale
 
 tragedy
@@ -21262,7 +21262,7 @@ la dialettica
 attack; assault; aggression
 l'attacco
 
-left (adj); sinister
+left (adjective); sinister
 sinistro
 
 case in point
@@ -21385,7 +21385,7 @@ ampiamente
 finance; finances
 la finanza
 
-content (n); contents
+content (noun); contents
 il contenuto
 
 have a good one; have a nice time
@@ -21541,7 +21541,7 @@ indipendentemente
 virgin
 la vergine
 
-right (adj)
+right (adjective)
 destro
 
 preserved; conserved
@@ -21913,7 +21913,7 @@ giuridico
 analogous
 analogo
 
-analog (n)
+analog (noun)
 l'analogo
 
 identification
@@ -22003,7 +22003,7 @@ l'alterazione
 edition
 l'edizione
 
-being (n)
+being (noun)
 l'essere
 
 fulfillment; completion
@@ -22120,7 +22120,7 @@ il mustardo
 to extort
 estorcere
 
-wind-up (adj)
+wind-up (adjective)
 a carica
 
 to feel like
@@ -22456,7 +22456,7 @@ la granita
 fruit cream
 cremolata di frutta
 
-to translate to (intr)
+to translate to (intransitive)
 tradurrsi
 
 to border; to abut
@@ -22690,7 +22690,7 @@ la trattativa
 contact
 il contatto
 
-uniform (adj)
+uniform (adjective)
 uniforme
 
 facing; turned; addressed
@@ -23155,7 +23155,7 @@ decisivo
 abbandoned
 abbandonato
 
-food (adj)
+food (adjective)
 alimentare (agg)
 
 to feed (food)
@@ -23203,7 +23203,7 @@ l'acquista
 courier
 il corriere
 
-school (adj); scolastic
+school (adjective); scolastic
 scolastico
 
 precious
@@ -23278,7 +23278,7 @@ incredibilmente; sorprendentemente
 to be somewhere in the house
 essere in casa da qualche parte
 
-banking (adj); bank (adj)
+banking (adjective); bank (adjective)
 bancario
 
 banker
@@ -23386,10 +23386,10 @@ ai tempi supplementari
 he turned 12 (age); he reached the age of 12
 ha compiuto 12 anni
 
-Jesuit (adj)
+Jesuit (adjective)
 gesuitico
 
-Jesuit (n)
+Jesuit (noun)
 il gesuita
 
 unbalanced
@@ -23563,7 +23563,7 @@ canonico
 coherent
 coerente
 
-lateral; side (adj)
+lateral; side (adjective)
 laterale
 
 concerning
@@ -23587,7 +23587,7 @@ priore
 systematic
 sistematico
 
-business (adj); corporate (adj)
+business (adjective); corporate (adjective)
 aziendale
 
 statistical
@@ -25174,10 +25174,10 @@ il vedovo
 repetition
 la ripetizione
 
-resident (adj)
+resident (adjective)
 residente
 
-resident (n); citizen; occupant
+resident (noun); citizen; occupant
 il residente
 
 duty (fee); tariff; excise
@@ -25435,16 +25435,16 @@ consapevole
 unaware; oblivious; clueless
 inconsapevole; ignaro
 
-conscious (adj)
+conscious (adjective)
 cosciente
 
-conscious (n)
+conscious (noun)
 il conscio
 
-unconscious (adj); reckless; irresponsible
+unconscious (adjective); reckless; irresponsible
 incosciente
 
-unconscious (n)
+unconscious (noun)
 l'inconscio
 
 tolerance
@@ -26125,7 +26125,7 @@ mi sbagliavo
 I think I made a mistake
 penso di aver fatto un errore; credo di aver fatto uno sbaglio
 
-street (adj)
+street (adjective)
 stradale
 
 shortage
@@ -26143,7 +26143,7 @@ nullo
 papal
 pontificio
 
-editorial; publishing (adj)
+editorial; publishing (adjective)
 editoriale
 
 absorption
@@ -26302,7 +26302,7 @@ efficace; efficiente
 existential
 esistenziale
 
-government (adj); governmental
+government (adjective); governmental
 governativo
 
 lent; loaned
@@ -26419,7 +26419,7 @@ preceduto
 tear (eye)
 la lacrima; la lagrima
 
-university (adj); academic; undergraduate
+university (adjective); academic; undergraduate
 universitario
 
 college student
@@ -26440,7 +26440,7 @@ investito
 pledge
 il pegno
 
-land (adj)
+land (adjective)
 fondiario
 
 scattered; disseminated; dispersed
@@ -26878,7 +26878,7 @@ promesso
 located; situated
 situato
 
-vegetable (adj)
+vegetable (adjective)
 vegetale
 
 contemplation
@@ -27052,7 +27052,7 @@ la valuta
 Christopher
 Cristoforo
 
-cerebral; brain (adj)
+cerebral; brain (adjective)
 cerebrale
 
 demeanor; composure; conduct
@@ -27139,7 +27139,7 @@ irraggiungibile
 to be on razor's edge
 essere sul filo del rasoio
 
-that (adj); this (adj)
+that (adjective); this (adjective)
 codesto
 
 Yugoslavia
@@ -27241,7 +27241,7 @@ sofferto
 tube; pipe
 il tubo
 
-parish (adj)
+parish (adjective)
 parrocchio
 
 fist
@@ -27478,7 +27478,7 @@ l'arrestato
 medieval
 medioevale
 
-customs (adj)
+customs (adjective)
 doganale
 
 perennial
@@ -27517,10 +27517,10 @@ accertato
 medal
 la medaglia
 
-subordinate (adj); subordinated
+subordinate (adjective); subordinated
 subordinato
 
-subordinate (n)
+subordinate (noun)
 il subordinato
 
 to calculate
@@ -27652,7 +27652,7 @@ la dinastia
 surviving (after death)
 superstite
 
-minute (adj); small; tiny
+minute (adjective); small; tiny
 minuto
 
 update
@@ -28471,10 +28471,10 @@ comprensibile
 traditionally
 tradizionalmente
 
-to cheer up (intr)
+to cheer up (intransitive)
 tirarsi su
 
-to cheer up (tr)
+to cheer up (transitive)
 tirare su; rallegrare
 
 to detour; to take a detour
@@ -29098,7 +29098,7 @@ avverso
 to ascertain; to comprise; to consist of
 constare
 
-to abbandon; to give up; to leave (tr)
+to abbandon; to give up; to leave (transitive)
 abbandonare
 
 to disappear
@@ -29116,7 +29116,7 @@ narrativo
 to elaborate; to process
 elaborare
 
-to bankrupt; bankruptcy (adj)
+to bankrupt; bankruptcy (adjective)
 fallimentare
 
 perogative
@@ -29254,7 +29254,7 @@ trasversale
 invisible
 invisibile
 
-mucous (adj)
+mucous (adjective)
 mucoso
 
 culprit; offender
@@ -29746,7 +29746,7 @@ c'è molto di cui parlare; avere molto di cui parlare
 you'd think that
 lo penseresti
 
-to wear out (intr)
+to wear out (intransitive)
 consumarsi
 
 to tear (cry)
@@ -29824,7 +29824,7 @@ avviato
 seal; stamp
 il sigillo
 
-representative (adj)
+representative (adjective)
 rappresentativo
 
 neglected; derelict
@@ -29857,7 +29857,7 @@ la centralità
 decreased; diminished
 diminuito
 
-parochial; parish (adj)
+parochial; parish (adjective)
 parrocchiale
 
 trinity
@@ -29971,7 +29971,7 @@ il predominio
 philology
 la filologia
 
-cross (adj); transverse
+cross (adjective); transverse
 traverso
 
 rejected
@@ -30178,10 +30178,10 @@ la gelosia
 alarm
 l'allarme
 
-fluid (adj)
+fluid (adjective)
 fluido
 
-fluid (n)
+fluid (noun)
 il fluido
 
 poison; venom
@@ -30301,7 +30301,7 @@ legalmente
 stipulation
 la stipulazione
 
-find (n); finding
+find (noun); finding
 il reperto
 
 dissolution
@@ -30400,7 +30400,7 @@ menzionato
 dilation; expansion
 la dilatazione
 
-pictorial; painting (adj)
+pictorial; painting (adjective)
 pittorico
 
 resolute
@@ -30466,7 +30466,7 @@ ungherese
 proponent; advocate; supporter
 il fautore
 
-funeral (adj)
+funeral (adjective)
 funebre
 
 maneuvers
@@ -30499,7 +30499,7 @@ il ricambio
 forester; ranger
 il forestale
 
-forest (adj)
+forest (adjective)
 forestale
 
 promissory note; draft (financial)
@@ -30559,7 +30559,7 @@ l'omicidio
 transaction
 la transazione
 
-real estate (adj); immovable
+real estate (adjective); immovable
 immobiliare
 
 to conspire; to plot
@@ -30586,7 +30586,7 @@ l'ego
 Byzantine
 bizantino
 
-to extend (intr); to spread (intr)
+to extend (intransitive); to spread (intransitive)
 estendersi
 
 poured out
@@ -30658,7 +30658,7 @@ l'assistente
 Dutch
 olandese
 
-railroad (adj); railway
+railroad (adjective); railway
 ferroviario
 
 bomb
@@ -30808,7 +30808,7 @@ agito
 objective; goal
 l'obbiettivo
 
-finished; over (adj); completed
+finished; over (adjective); completed
 terminato
 
 to turn oneself in; to constitute oneself
@@ -31003,7 +31003,7 @@ Gioacchino
 possibly
 possibilmente
 
-Renaissance (adj)
+Renaissance (adjective)
 rinascimentale
 
 gradually
@@ -31267,7 +31267,7 @@ rabbrividire a
 to ape; to mock; to mimic
 scimmiottare
 
-set (adj)
+set (adjective)
 settato
 
 to set
@@ -31309,7 +31309,7 @@ il tifoso; il fan
 sports fan
 il tifoso sportivo
 
-sports (adj); sporty
+sports (adjective); sporty
 sportivo
 
 to idle; to laze around; to loaf; to veg out
@@ -31363,7 +31363,7 @@ rovinare l'appetito
 additional information
 le informazioni supplementari
 
-run (n); running; track (sport)
+run (noun); running; track (sport)
 la corsa
 
 to go for a run; to go running
@@ -31516,7 +31516,7 @@ l'interezza
 nella sua interezza
 in its entirety
 
-to build up (intr)
+to build up (intransitive)
 accumularsi
 
 to pluck
@@ -32293,7 +32293,7 @@ la striscia pedonale; il passaggio pedonale
 to throw oneself into
 buttarsi in
 
-short film; short (n)
+short film; short (noun)
 il cortometraggio
 
 out of favore
@@ -32620,7 +32620,7 @@ la paura di perdere; la paura di essere tagliati fuori; il timore di lasciarsi s
 laptop display
 il display del portatile
 
-swell (adj)
+swell (adjective)
 bello; meraviglioso
 
 at the very least
@@ -33670,7 +33670,7 @@ il globo oculare; il bulbo oculare
 rabbi
 il rabbino
 
-brother (adj); brotherly
+brother (adjective); brotherly
 fratellare
 
 soupy
@@ -33787,7 +33787,7 @@ posticipata
 oblivion
 il dimenticatoio; l'oblio
 
-building (adj)
+building (adjective)
 edilizio
 
 chocoholic
@@ -35065,7 +35065,7 @@ molesto
 to molest
 abusare; molestare
 
-sunny (disposition); cheerful; of the sun; sun (adj)
+sunny (disposition); cheerful; of the sun; sun (adjective)
 solare
 
 card; tile
@@ -35122,13 +35122,13 @@ il percorso di carriera
 the visual arts
 le arti visive
 
-related to dance; dance (adj)
+related to dance; dance (adjective)
 coreutico
 
 choreography
 la coreografia
 
-related to pension; pension (adj)
+related to pension; pension (adjective)
 previdenziale
 
 supplementary pension
@@ -36064,7 +36064,7 @@ sporgente
 gothic
 gotico
 
-cast iron (adj)
+cast iron (adjective)
 in ghisa
 
 horse-drawn carriage
@@ -38821,7 +38821,7 @@ il scalino
 semi-utopia
 la semiutopia
 
-deductible (n)
+deductible (noun)
 la franchigia
 
 multifaceted; versatile
@@ -39280,7 +39280,7 @@ l'intenditore; l'intenditrice
 a good value for money
 un buon rapporto qualità/prezzo
 
-niche (adj)
+niche (adjective)
 di nicchia 
 
 intact packaging
@@ -39769,7 +39769,7 @@ il piromane
 alcoholic
 l'alcolizzato; l'alcomane; il dipendente dall'alcool
 
-alcoholic (adj)
+alcoholic (adjective)
 alcolizzato
 
 shopaholic
@@ -40258,10 +40258,10 @@ appianare le tensioni
 schernito
 mocked; ridiculed
 
-advisory (n)
+advisory (noun)
 la consulenza; l'avviso
 
-advisory (adj)
+advisory (adjective)
 consultivo; di consulenza
 
 talented (innately or predisposed)
@@ -40302,3 +40302,6 @@ un po' di comunicazione fa molto
 
 out of service
 fuori servizio
+
+conduct
+la condotta

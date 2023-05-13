@@ -178,16 +178,16 @@ veloce
 slow
 lento
 
-light (adj)
+light (adjective)
 leggero
 
 heavy
 pesante
 
-fat (adj)
+fat (adjective)
 grasso
 
-fat (n); grease
+fat (noun); grease
 il grasso
 
 thin; lean
@@ -877,7 +877,7 @@ la luna
 sun
 il sole
 
-light (n)
+light (noun)
 la luce
 
 key
@@ -1042,7 +1042,7 @@ la sfoglia
 to cut
 tagliare
 
-cut (n)
+cut (noun)
 la taglia
 
 piece
@@ -1333,13 +1333,13 @@ la catena
 wallet
 il portafoglio; il borsellino
 
-change (n)
+change (noun)
 il cambiamento
 
 slice
 la fetta
 
-bite (n)
+bite (noun)
 il mordo
 
 crowded
@@ -1465,7 +1465,7 @@ la tristezza
 chapel
 la capella
 
-common (adj)
+common (adjective)
 comune
 
 careful!
@@ -1486,13 +1486,13 @@ non posso farlo
 to want; to wish; to need
 volere
 
-will (n); desire
+will (noun); desire
 la voglia
 
 to kick
 calciare
 
-english (adj)
+english (adjective)
 inglese
 
 England
@@ -1588,7 +1588,7 @@ rumoroso
 corner
 l'angolo
 
-to hide (intr)
+to hide (intransitive)
 nascondersi
 
 then; well...; so; now; at that time
@@ -1942,7 +1942,7 @@ la lavanderia
 roof
 il tetto
 
-upstairs (n)
+upstairs (noun)
 il piano di sopra
 
 sky
@@ -1990,16 +1990,16 @@ la campagna
 city
 la città
 
-east (n)
+east (noun)
 l'est
 
-east (adj)
+east (adjective)
 orientale
 
-west (n)
+west (noun)
 l'ovest
 
-west (adj)
+west (adjective)
 occidentale
 
 Earth
@@ -3694,7 +3694,7 @@ la cartolina
 idea
 l'idea
 
-departure; start; leave (n)
+departure; start; leave (noun)
 la partenza
 
 stop; rest; break
@@ -3736,7 +3736,7 @@ il vaporetto
 kiss
 il baccio
 
-past (n)
+past (noun)
 il passato
 
 habit
@@ -4363,7 +4363,7 @@ la matematica
 biology
 la biologia
 
-right (n); law
+right (noun); law
 il diritto
 
 date
@@ -4420,10 +4420,10 @@ liberale
 pleased; delighted
 lieto
 
-better; best (adj)
+better; best (adjective)
 migliore
 
-worse; worst (adj)
+worse; worst (adjective)
 peggiore
 
 natural
@@ -4579,10 +4579,10 @@ nazionale
 civil
 civile
 
-public (n); audience
+public (noun); audience
 il pubblico
 
-public (adj)
+public (adjective)
 pubblico
 
 important
@@ -4594,7 +4594,7 @@ breve
 particular
 particolare
 
-human (adj)
+human (adjective)
 umano
 
 international
@@ -4615,7 +4615,7 @@ principale
 previous; preceding; prior; former
 precedente
 
-military (adj)
+military (adjective)
 militare
 
 personal
@@ -4624,7 +4624,7 @@ personale
 fundamental
 fondamentale
 
-current; topical; present (adj)
+current; topical; present (adjective)
 attuale
 
 remarkable; notable
@@ -4639,7 +4639,7 @@ relativo
 ancient; age-old
 antico
 
-total (adj)
+total (adjective)
 totale
 
 local
@@ -4648,10 +4648,10 @@ locale
 industrial
 industriale
 
-criminal (adj)
+criminal (adjective)
 penale; criminale
 
-criminal (n)
+criminal (noun)
 il criminale
 
 own
@@ -4675,7 +4675,7 @@ impossibile
 regional
 regionale
 
-fine (adj)
+fine (adjective)
 fino
 
 Roman
@@ -4693,10 +4693,10 @@ essenziale
 commercial
 commerciale
 
-world (adj)
+world (adjective)
 mondiale
 
-smaller (adj); minor; younger
+smaller (adjective); minor; younger
 minore
 
 traditional
@@ -4705,10 +4705,10 @@ tradizionale
 official
 ufficiale
 
-individual (adj)
+individual (adjective)
 individuale
 
-individual (n)
+individual (noun)
 l'individuo
 
 to obtain; to get
@@ -5269,7 +5269,7 @@ sempre
 year
 l'anno
 
-according to; second (adj)
+according to; second (adjective)
 secondo
 
 how much
@@ -5317,7 +5317,7 @@ il luogo; il posto; la locazione
 some
 alcuni; qualche
 
-generale (adj)
+generale (adjective)
 generale
 
 like that; of that kind
@@ -6286,7 +6286,7 @@ la copia
 pressure
 la pressione
 
-need (n)
+need (noun)
 il bisogno
 
 for example
@@ -6466,7 +6466,7 @@ la scoperta
 whole; entire; integer
 l'intero
 
-moral (adj)
+moral (adjective)
 morale
 
 single; individual
@@ -6541,7 +6541,7 @@ familiare
 to be interested in (finding out more about something)
 essersi curiosito di
 
-patient (adj)
+patient (adjective)
 paziente
 
 historic
@@ -6877,7 +6877,7 @@ firma
 Switzerland
 la Svizzera
 
-inner; internal; interior (adj)
+inner; internal; interior (adjective)
 interiore
 
 mental
@@ -7468,7 +7468,7 @@ lo spazzolino da denti
 hairbrush
 la spazzola per capelli
 
-stuff; ish (n)
+stuff; ish
 la roba
 
 to manage; to run; to operate
