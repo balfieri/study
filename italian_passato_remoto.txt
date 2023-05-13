@@ -1,271 +1,271 @@
 # italian_passato_remoto.txt - conjugations of passato remoto regular and irreglar verbs
 #
-I spoke (passato remoto)
+I spoke (remote past)
 parlai
 
-you spoke (passato remoto)
+you spoke (remote past)
 parlasti
 
-she spoke (passato remoto)
+she spoke (remote past)
 parlò
 
-we spoke (passato remoto)
+we spoke (remote past)
 parlammo
 
-you all spoke (passato remoto)
+you all spoke (remote past)
 parlaste
 
-they spoke (passato remoto)
+they spoke (remote past)
 parlarono
 
-I feared (passato remoto)
+I feared (remote past)
 temei; temetti
 
-she feared (passato remoto)
+she feared (remote past)
 temé; temette
 
-we feared (passato remoto)
+we feared (remote past)
 tememmo
 
-you all feared (passato remoto)
+you all feared (remote past)
 temeste
 
-they feared (passato remoto)
+they feared (remote past)
 temerono
 
-I slept (passato remoto) 
+I slept (remote past) 
 dormii
 
-you slept (passato remoto)
+you slept (remote past)
 dormisti
 
-she slept (passato remoto)
+she slept (remote past)
 dormì
 
-we slept (passato remoto)
+we slept (remote past)
 dormimmo
 
-you all slept (passato remoto)
+you all slept (remote past)
 dormiste
 
-they slept (passato remoto)
+they slept (remote past)
 dormirono
 
-I was (passato remoto)
+I was (remote past)
 fui
 
-you were (passato remoto)
+you were (remote past)
 fosti
 
-she was (passato remoto)
+she was (remote past)
 fu
 
-we were (passato remoto)
+we were (remote past)
 fummo
 
-you all were (passato remoto)
+you all were (remote past)
 foste
 
-they were (passato remoto)
+they were (remote past)
 furono
 
-I had (passato remoto)
+I had (remote past)
 ebbi
 
-you had (passato remoto)
+you had (remote past)
 avesti
 
-she had (passato remoto)
+she had (remote past)
 ebbe
 
-we had (passato remoto)
+we had (remote past)
 avemmo
 
-you all had (passato remoto)
+you all had (remote past)
 aveste
 
-they had (passato remoto)
+they had (remote past)
 ebbero
 
-I read (passato remoto)
+I read (remote past)
 lessi
 
-she read (passato remoto)
+she read (remote past)
 lesse
 
-they read (passato remoto)
+they read (remote past)
 lessero
 
-I ran (passato remoto) 
+I ran (remote past) 
 corsi
 
-she ran (passato remoto)
+she ran (remote past)
 corse
 
-they ran (passato remoto)
+they ran (remote past)
 corsero
 
-I answered (passato remoto)
+I answered (remote past)
 risposi
 
-she answered (passato remoto)
+she answered (remote past)
 rispose
 
-they answered (passato remoto)
+they answered (remote past)
 risposero
 
-I asked (passato remoto)
+I asked (remote past)
 chiesi
 
-she asked (passato remoto)
+she asked (remote past)
 chiese
 
-they asked (passato remoto)
+they asked (remote past)
 chiesero
 
-I pleased (passato remoto)
+I pleased (remote past)
 piacqui
 
-she pleased (passato remoto)
+she pleased (remote past)
 piacque
 
-they pleased (passato remoto)
+they pleased (remote past)
 piacquero
 
-I knew (someone/something, passato remoto)
+I knew (someone/something, remote past)
 conobbi
 
-she knew (someone/something, passato remoto)
+she knew (someone/something, remote past)
 conobbe
 
-they knew (someone/something, passato remoto)
+they knew (someone/something, remote past)
 conobbero
 
-I faked (passato remoto)
+I faked (remote past)
 finsi
 
-she faked (passato remoto)
+she faked (remote past)
 finse
 
 
-they faked (passato remoto)
+they faked (remote past)
 finsero
 
-I chose (passato remoto)
+I chose (remote past)
 scelsi
 
-she chose (passato remoto)
+she chose (remote past)
 scelse
 
-they chose (passato remoto)
+they chose (remote past)
 scelsero
 
-I immersed (passato remoto)
+I immersed (remote past)
 immersi
 
-she immersed (passato remoto)
+she immersed (remote past)
 immerse
 
-I fell (passato remoto)
+I fell (remote past)
 caddi
 
-she fell (passato remoto)
+she fell (remote past)
 cadde
 
-they fell (passato remoto)
+they fell (remote past)
 caddero
 
-I knew (fact, passato remoto)
+I knew (fact, remote past)
 seppi
 
-she knew (fact, passato remoto)
+she knew (fact, remote past)
 seppe
 
-they knew (fact, passato remoto)
+they knew (fact, remote past)
 seppero
 
-I went (passato remoto)
+I went (remote past)
 andai
 
-she went (passato remoto)
+she went (remote past)
 andò
 
-they went (passato remoto)
+they went (remote past)
 andarono
 
-I left (passato remoto)
+I left (remote past)
 partii
 
-she left (passato remoto)
+she left (remote past)
 partì
 
-they left (passato remoto)
+they left (remote past)
 partirono
 
-I understood (passato remoto)
+I understood (remote past)
 capii
 
-she understood (passato remoto)
+she understood (remote past)
 capì
 
-they understood (passato remoto)
+they understood (remote past)
 capirono
 
-I made (passato remoto)
+I made (remote past)
 feci
 
-you made (passato remoto)
+you made (remote past)
 facesti
 
-she made (passato remoto)
+she made (remote past)
 fece
 
-we made (passato remoto)
+we made (remote past)
 facemmo
 
-you all made (passato remoto)
+you all made (remote past)
 faceste
 
-they made (passato remoto)
+they made (remote past)
 fecero
 
-I said (passato remoto)
+I said (remote past)
 dissi
 
-you said (passato remoto)
+you said (remote past)
 dicesti
 
-she said (passato remoto)
+she said (remote past)
 disse
 
-we said (passato remoto)
+we said (remote past)
 dicemmo
 
-you all said (passato remoto)
+you all said (remote past)
 diceste
 
-they said (passato remoto)
+they said (remote past)
 dissero
 
-I drank (passato remoto)
+I drank (remote past)
 bevvi
 
-she drank (passato remoto)
+she drank (remote past)
 bevve
 
-they drank (passato remoto)
+they drank (remote past)
 bevvero
 
-I gave (passato remoto)
+I gave (remote past)
 detti; diedi
 
-you gave (passato remoto)
+you gave (remote past)
 desti
 
-she gave (passato remoto)
+she gave (remote past)
 dette; diede
 
-we gave (passato remoto)
+we gave (remote past)
 demmo
 
 you all gave
@@ -274,389 +274,389 @@ deste
 they gave
 dettero; diedero
 
-I stayed (passato remoto)
+I stayed (remote past)
 stetti
 
-you stayed (passato remoto)
+you stayed (remote past)
 stesti
 
-she stayed (passato remoto)
+she stayed (remote past)
 stette
 
-we stayed (passato remoto)
+we stayed (remote past)
 stemmo
 
-you all stayed (passato remoto)
+you all stayed (remote past)
 steste
 
-they stayed (passato remoto)
+they stayed (remote past)
 stettero
 
-I invaded (passato remoto)
+I invaded (remote past)
 invasi
 
-she invaded (passato remoto)
+she invaded (remote past)
 invase
 
-they invaded (passato remoto)
+they invaded (remote past)
 invasero
 
-I laughed (passato remoto)
+I laughed (remote past)
 risi
 
-she laughed (passato remoto)
+she laughed (remote past)
 rise
 
-they laughed (passato remoto)
+they laughed (remote past)
 risero
 
-I shared (something, passato remoto)
+I shared (something, remote past)
 divisi
 
-she shared (something, passato remoto)
+she shared (something, remote past)
 divise
 
-they shared (something, passato remoto)
+they shared (something, remote past)
 divisero
 
-I moved (passato remoto)
+I moved (remote past)
 mossi
 
-she moved (passato remoto)
+she moved (remote past)
 mosse
 
-they moved (passato remoto)
+they moved (remote past)
 mossero
 
-I wrote (passato remoto)
+I wrote (remote past)
 scrissi
 
-she wrote (passato remoto)
+she wrote (remote past)
 scrisse
 
-they all wrote (passato remoto)
+they all wrote (remote past)
 scrissero
 
-I translated (passato remoto)
+I translated (remote past)
 tradussi
 
-you translated (passato remoto)
+you translated (remote past)
 traducesti
 
-she translated (passato remoto)
+she translated (remote past)
 tradusse
 
-we translated (passato remoto)
+we translated (remote past)
 traducemmo
 
-you all translated (passato remoto)
+you all translated (remote past)
 traduceste
 
-they translated (passato remoto)
+they translated (remote past)
 tradussero
 
-I discussed (passato remoto)
+I discussed (remote past)
 discussi
 
-she discussed (passato remoto)
+she discussed (remote past)
 discusse
 
-they discussed (passato remoto)
+they discussed (remote past)
 discussero
 
-I happened (passato remoto)
+I happened (remote past)
 successi
 
-she happened (passato remoto)
+she happened (remote past)
 successe
 
-they happened (passato remoto)
+they happened (remote past)
 successero
 
-I lived (passato remoto)
+I lived (remote past)
 vissi
 
-she lived (passato remoto)
+she lived (remote past)
 visse
 
-they lived (passato remoto)
+they lived (remote past)
 vissero
 
-I waited (passato remoto)
+I waited (remote past)
 attesi
 
-she waited (passato remoto)
+she waited (remote past)
 attese
 
-they waited (passato remoto)
+they waited (remote past)
 attesero
 
-I took (passato remoto)
+I took (remote past)
 presi
 
-she took (passato remoto)
+she took (remote past)
 prese
 
 they took
 presero
 
-I closed (passato remoto)
+I closed (remote past)
 chiusi
 
-she closed (passato remoto)
+she closed (remote past)
 chiuse
 
-they closed (passato remoto)
+they closed (remote past)
 chiusero
 
-I killed (passato remoto)
+I killed (remote past)
 uccisi
 
-she killed (passato remoto)
+she killed (remote past)
 uccise
 
-they killed (passato remoto)
+they killed (remote past)
 uccisero
 
-I lost (passato remoto)
+I lost (remote past)
 persi; perdei; perdetti
 
-she lost (passato remoto)
+she lost (remote past)
 perse; perdé; perdette
 
-they lost (passato remoto)
+they lost (remote past)
 persero; perderono; perdettero
 
-I was born (passato remoto)
+I was born (remote past)
 nacqui
 
-she was born (passato remoto)
+she was born (remote past)
 nacque
 
-they were born (passato remoto)
+they were born (remote past)
 nacquero
 
-I pushed (passato remoto)
+I pushed (remote past)
 spinsi
 
-she pushed (passato remoto)
+she pushed (remote past)
 spinse
 
-they pushed (passato remoto)
+they pushed (remote past)
 spinsero
 
-I cried (passato remoto)
+I cried (remote past)
 piansi
 
-she cried (passato remoto)
+she cried (remote past)
 pianse
 
-they cried (passato remoto)
+they cried (remote past)
 piansero
 
-I caught (passato remoto)
+I caught (remote past)
 colsi
 
-she caught (passato remoto)
+she caught (remote past)
 colse
 
-they caught (passato remoto)
+they caught (remote past)
 colsero
 
-I came (passato remoto)
+I came (remote past)
 venni
 
-she came (passato remoto)
+she came (remote past)
 venne
 
-they came (passato remoto)
+they came (remote past)
 vennero
 
-I wanted (passato remoto)
+I wanted (remote past)
 volli
 
-she wanted (passato remoto)
+she wanted (remote past)
 volle
 
-they wanted (passato remoto)
+they wanted (remote past)
 vollero
 
-I remained (passato remoto)
+I remained (remote past)
 rimasi
 
-she remained (passato remoto)
+she remained (remote past)
 rimase
 
-they remained (passato remoto)
+they remained (remote past)
 rimasero
 
-I saw (passato remoto)
+I saw (remote past)
 vidi; vedetti
 
-she saw (passato remoto)
+she saw (remote past)
 vide; vedette
 
-they saw (passato remoto)
+they saw (remote past)
 videro; vederono; vedettero
 
-I put (passato remoto)
+I put (remote past)
 misi
 
-she put (passato remoto)
+she put (remote past)
 mise
 
-they put (passato remoto)
+they put (remote past)
 misero
 
-I broke (passato remoto)
+I broke (remote past)
 ruppi
 
-she broke (passato remoto)
+she broke (remote past)
 ruppe
 
-they broke (passato remoto)
+they broke (remote past)
 ruppero
 
-I became (passato remoto)
+I became (remote past)
 diventai
 
-she became (passato remoto)
+she became (remote past)
 diventò
 
 they became
 diventarono
 
-I sensed (passato remoto)
+I sensed (remote past)
 sentii
 
-she sensed (passato remoto)
+she sensed (remote past)
 sentì
 
-they sensed (passato remoto)
+they sensed (remote past)
 sentirono
 
-I went out (passato remoto)
+I went out (remote past)
 uscii
 
-she went out (passato remoto)
+she went out (remote past)
 uscì
 
-they went out (passato remoto)
+they went out (remote past)
 uscirono
 
-I had to (passato remoto)
+I had to (remote past)
 dovei; dovetti
 
-she had to (passato remoto)
+she had to (remote past)
 dové; dovette
 
-they had to (passato remoto)
+they had to (remote past)
 doverono; dovettero
 
-I distinguished (passato remoto)
+I distinguished (remote past)
 distinsi
 
-she distinguished (passato remoto)
+she distinguished (remote past)
 distinse
 
-they distiguished (passato remoto)
+they distiguished (remote past)
 distinsero
 
-I finished (passato remoto)
+I finished (remote past)
 finii
 
-she finished (passato remoto)
+she finished (remote past)
 finì
 
-they finished (passato remoto)
+they finished (remote past)
 finirono
 
-I died (passato remoto)
+I died (remote past)
 morii
 
-she died (passato remoto) 
+she died (remote past) 
 morì
 
-they died (passato remoto)
+they died (remote past)
 morirono
 
-I searched (passato remoto)
+I searched (remote past)
 cercai
 
-she searched (passato remoto)
+she searched (remote past)
 cercò
 
-they searched (passato remoto)
+they searched (remote past)
 cercarono
 
-I stopped (doing something, passato remoto)
+I stopped (doing something, remote past)
 smisi
 
-she stopped (doing something, passato remoto)
+she stopped (doing something, remote past)
 smise
 
-they stopped (doing something, passato remoto)
+they stopped (doing something, remote past)
 smisero
 
-I grew up (passato remoto)
+I grew up (remote past)
 crebbi
 
-she grew up (passato remoto)
+she grew up (remote past)
 crebbe
 
-they grew up (passato remoto)
+they grew up (remote past)
 crebbero
 
-I defeated (passato remoto)
+I defeated (remote past)
 sconfissi
 
-she defeated (passato remoto)
+she defeated (remote past)
 sconfisse
 
-they defeated (passato remoto)
+they defeated (remote past)
 sconfissero
 
-I introduced (passato remoto)
+I introduced (remote past)
 introdussi
 
-she introduced (passato remoto)
+she introduced (remote past)
 introdusse
 
-the introduced (passato remoto)
+the introduced (remote past)
 introdussero
 
-I opened (passato remoto)
+I opened (remote past)
 aprii; apersi
 
-she opened (passato remoto)
+she opened (remote past)
 aperse
 
-we opened (passato remoto)
+we opened (remote past)
 aprimmo
 
-they opened (passato remoto)
+they opened (remote past)
 aprirono; apersero
 
-I succeeded (passato remoto)
+I succeeded (remote past)
 riuscii
 
-she succeeded (passato remoto)
+she succeeded (remote past)
 riuscì
 
-we succeeded (passato remoto)
+we succeeded (remote past)
 riuscimmo
 
-they succeeded (passato remoto)
+they succeeded (remote past)
 riuscirono
 
-I built (passato remoto)
+I built (remote past)
 costruii
 
-she built (passato remoto)
+she built (remote past)
 costruì
 
-we built (passato remoto)
+we built (remote past)
 costruimmo
 
-they built (passato remoto)
+they built (remote past)
 costruirono
