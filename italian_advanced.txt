@@ -17171,7 +17171,7 @@ who do you think you are?!
 chi credi di essere?!
 
 look who's here
-guarda chi si vede; chi si rivede; chi se vede; guarda chi c'è
+guarda chi si vede; chi si rivede; chi si vede; guarda chi c'è
 
 it takes much more than that
 ci vuole altro
@@ -23396,7 +23396,10 @@ Jesuit (n)
 il gesuita
 
 unbalanced
-squilibrato
+squilibrato; sbilanciato
+
+deranged
+squilibrato; disturbato
 
 ambiguous; equivocal
 equivoco
@@ -29977,9 +29980,6 @@ respinto
 identified
 identificato
 
-nowadays; today
-oggidì
-
 notification; notice
 la notifica
 
@@ -36331,8 +36331,8 @@ il materiale di lettura
 to pass out pamphlets
 distribuire opuscoli
 
-fare i capricci
 to throw a tantrum; to be whimsical; to be capricious; to be moody; to be temperamental
+fare i capricci
 
 we can't bring this conversation to a proper ending without your apologizing first
 non possiamo concludere questa conversazione nel modo appropriato senza che tu ti scusi per prima
@@ -37622,7 +37622,7 @@ for my reading pleasure
 per il mio piacere di lettura
 
 general practitioner; family doctor
-medico di base; il medico di famiglia
+il medico di base; il medico di famiglia
 
 internist
 il medico di medicina generale; l'internista
@@ -38705,7 +38705,7 @@ flawless
 ineccepibile
 
 nowadays
-al giorno d'oggi
+al giorno d'oggi; oggidì
 
 indistiguishable
 indistinguibile
