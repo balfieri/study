@@ -35236,7 +35236,7 @@ la voce acuta
 loud voice
 la voce alta
 
-deep voice
+deep voice; low-pitched voice
 la voce grave
 
 low voice; quiet voice
