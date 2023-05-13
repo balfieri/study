@@ -24904,7 +24904,7 @@ ebbene
 isolation; insulation; seclusion
 l'isolamento
 
-seed
+seed; suit (card game)
 il seme
 
 learned
@@ -40305,3 +40305,4 @@ fuori servizio
 
 conduct
 la condotta
+

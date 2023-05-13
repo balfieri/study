@@ -68,7 +68,7 @@ for subject in subjects:
         if answer == '': die( f'question at {filename}:{line_num} is not followed by a non-blank answer on the next line: {question}' )
         line_num += 1
 
-        phrases_s += f'        [ "{question}", "{answer}" ],\n'
+        phrases_s += f'        [ "{question}", "{answer}", false ],\n'
 
     Q.close()
 
@@ -115,7 +115,21 @@ html_s = '''<!DOCTYPE html>
       });
 
       function getRandomPhrase() {
-        return phrases[Math.floor(Math.random() * phrases.length)];
+          idx_first = Math.floor(Math.random() * phrases.length);
+          idx = idx_first;
+          while( phrases[idx][2] ) { // already did this one
+              idx++;
+              if ( idx == phrases.length ) idx = 0;
+              if ( idx == idx_first ) {
+                  // did them all => mark all undone
+                  for( var i = 0; i < phrases.length; i++ )
+                  {
+                      phrases[i][2] = false;  
+                  }
+              }
+          }
+          phrases[idx][2] = true;
+          return phrases[idx];
       }
       
       function randomize() {
