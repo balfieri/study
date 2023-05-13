@@ -3655,7 +3655,7 @@ reggere
 to gnaw
 rodere
 
-to melt; to dissolve
+to melt; to dissolve; to untie
 sciogliere
 
 to spread
@@ -38729,7 +38729,10 @@ untied
 slegato
 
 to untie
-slegare
+sciogliere; slegare
+
+to untie one's shoes
+sciogliere le proprie scarpe; slegare le proprie scarpe
 
 sketched; drafted; roughly drawn
 abbozzato
