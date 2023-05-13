@@ -21820,9 +21820,6 @@ in società
 IQ test
 il test d'intelligenza
 
-never; never did
-giàmmai
-
 do you have any idea?
 hai qualch'idea?
 
@@ -22948,7 +22945,7 @@ condivido pienamente
 of course
 ci mancherebbe
 
-never ever
+never ever; never; never did
 giammai; mai mai
 
 servire il pasto
