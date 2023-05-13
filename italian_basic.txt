@@ -691,9 +691,6 @@ la trattoria; l'osteria
 store; shop
 il negozio
 
-to launch
-lanciare
-
 to beat; to pound; to hit
 battere
 
@@ -7690,8 +7687,11 @@ le ossa
 honesty
 l'onestà
 
-to throw
-gettare; lanciare
+to throw (uncontrolled, casual)
+gettare
+
+to throw (controlled, aimed); to launch
+lanciare
 
 treasure; sweetheart; darling
 il tesoro
