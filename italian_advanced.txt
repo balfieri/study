@@ -16106,7 +16106,7 @@ but I digress
 ma sto divagando
 
 salary
-il stipendio; il salario
+lo stipendio; il salario
 
 I would not change it for anything in the world
 non lo cambierei per niente al mondo
@@ -25504,8 +25504,8 @@ la giustificazione
 wonder
 la meraviglia
 
-brontolare
 to grumble
+brontolare
 
 prima e dopo
 before and after
@@ -26015,7 +26015,7 @@ vote; voting
 la votazione
 
 regulation
-il regolamentato
+il regolamentato; la normativa
 
 niche
 la nicchia
@@ -28707,9 +28707,6 @@ farfallone; donnaiolo; il sciupafemmine
 
 to follow through
 persevere; portare a termine
-
-metaverse
-il metaverso
 
 head-mounted display
 il display montato sulla testa
@@ -37282,7 +37279,7 @@ serve aiuto?
 to make a resolution
 fare del proposito
 
-game addiction; gambling addition
+game addiction; gambling addiction
 la dipendenza del gioco
 
 picnic; outing
@@ -40314,3 +40311,52 @@ contrassegnare
 
 mark; label
 il contrassegno
+
+a pretty girl on the back of the Vespa
+una ragazza carina sulla parte posteriore della Vespa
+
+from what I can tell,
+da quello che posso dire,
+
+from what I can surmise,
+da quello che posso dedurre,
+
+as far as I can tell,; as far as I know,
+per quanto ne so,
+
+to take its place; to take the place of it
+prenderne il posto
+
+gradually smaller
+via via minori
+
+promising direction
+la direzione promettente
+
+human-feedback reinforcement learning
+l'apprendimento per rinforzo con feedback umano
+
+cyberspace
+il cyberspazio
+
+metaverse
+il metaverso
+
+industrial metaverse
+il metaverso industriale
+
+it never waivered
+non ha mai vacillato
+
+to waiver; to vacillate
+vacillare
+
+schizophrenia
+la schizofrenia
+
+to cancel at the last minute
+disdire all'ultimo momento
+
+to put into perspective
+mettere in prospettiva
+
