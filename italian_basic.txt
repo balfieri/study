@@ -1166,7 +1166,7 @@ breast (female)
 il seno
 
 breakfast
-la colazione
+la colazione; la prima colazione (formale)
 
 lunch
 il pranzo
