@@ -344,7 +344,7 @@ to turn left
 girare a sinistra
 
 straight ahead
-sempre diritto
+sempre dritto
 
 to stop oneself
 fermarsi
@@ -3142,7 +3142,7 @@ spazzolare
 to brush one's hair
 spazzolarsi i capelli
 
-to introduce; to present
+to show up; to introduce; to present
 presentarsi
 
 to picture oneself
@@ -7005,9 +7005,6 @@ preparato
 
 consistent
 consistente
-
-pronunciation
-la prouncia
 
 started; initiated
 iniziato

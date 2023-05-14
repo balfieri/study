@@ -17921,7 +17921,7 @@ dab of butter
 la noce di burro
 
 age of consent
-l'etè del consenso
+l'età del consenso
 
 bingo card
 la scheda del bingo; la carta del bingo; la cartella del bingo
@@ -19465,8 +19465,8 @@ appassionare
 traitor; betrayer
 il traditore
 
-inate
-inato
+innate
+innato
 
 Serbian
 serbo
@@ -28208,7 +28208,7 @@ apparatus; machinery
 l'apparato
 
 form; module
-modulo
+il modulo
 
 punctual
 puntuale
@@ -38650,7 +38650,7 @@ l'intervista a
 uncomfortable
 indisponente
 
-shack;
+shack
 la baracca
 
 thrown
@@ -40360,3 +40360,29 @@ disdire all'ultimo momento
 to put into perspective
 mettere in prospettiva
 
+to get on
+montarsi
+
+towards them
+nei loro confronti
+
+carnation
+il garofano
+
+to show up
+presentarsi; farsi vedere
+
+veteran
+il veterano
+
+to modernize (make more effective)
+ammodernare (rendere più efficace)
+
+modernization
+l'ammodernamento
+
+to modernize (update according to new standards)
+modernizzare (aggiornare secondo i nuovi standard)
+
+testicle
+il testicolo
