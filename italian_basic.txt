@@ -343,9 +343,6 @@ tenere a sinistra
 to turn left
 girare a sinistra
 
-straight ahead
-sempre dritto
-
 to stop oneself
 fermarsi
 
@@ -1609,7 +1606,7 @@ la schiena
 homework
 i compiti per casa; i compiti
 
-straight; straight ahead
+straight
 dritto
 
 noise
@@ -1729,7 +1726,7 @@ brutto
 long
 lungo
 
-smooth; straight; sleek
+smooth; sleek
 liscio
 
 rich
@@ -4557,9 +4554,6 @@ diverso
 
 same
 stesso
-
-straight
-diritto
 
 present
 presente
