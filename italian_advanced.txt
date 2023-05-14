@@ -4480,7 +4480,7 @@ in piu'di un'occasione
 from now on; henceforth
 da ora in poi; da adesso in poi
 
-since then (beginning of sentence)
+since then; since that itme
 da allora
 
 since then (end of sentence)
@@ -40444,3 +40444,17 @@ emulare
 TV host
 il conduttore; il presentatore
 
+to stand in line
+fare la fila
+
+to fix up with (someeone)
+cambinare un appuntamento con (qualcuno)
+
+sabotage
+il sabotaggio
+
+to sabotage
+sabotare
+
+all things being equal
+tutto il resto è uguale
