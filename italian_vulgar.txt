@@ -96,9 +96,6 @@ il pezzente
 you are human scum; you are scum
 sei una feccia umana
 
-you're mother is a whore
-tua madre è una puttana
-
 petty person
 meschino
 
@@ -337,7 +334,7 @@ holy shit
 cazzarola
 
 shit happens
-la merda capita
+la merda capita; succede la merda
 
 bullshit; whore
 la puttanata
@@ -704,9 +701,6 @@ fare miracoli; trovare una soluzione
 
 your F.U. money
 abbastanza soldi per dire vaffanculo al tuo capo
-
-shit happens
-succede la merda
 
 shit happens and then you die
 succede la merda e poi si muore
