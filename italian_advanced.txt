@@ -12968,7 +12968,7 @@ witch-hunt; witch hunt
 la caccia alle streghe
 
 expansion
-l'espanazione
+l'espanzione
 
 to overuse; to abuse
 abusare
@@ -25504,8 +25504,8 @@ la meraviglia
 to grumble
 brontolare
 
-prima e dopo
 before and after
+prima e dopo
 
 foible
 la debolezza; il debole
@@ -32399,7 +32399,7 @@ club sport
 il club sportivo; lo sport di club
 
 athletic scholarship
-la borsa di studio atletica; la borsa di studio sportiva
+la borsa di studio atletica; la borsa di studio sportivo
 
 to make up for; to compensate
 compensare
@@ -40458,3 +40458,49 @@ sabotare
 
 all things being equal
 tutto il resto è uguale
+
+to dodge; to elude
+eludere; sfuggire
+
+to flatter; to adulate
+adulare; lusingare
+
+to manipulate
+manipolare
+
+flattery; adulation
+l'adulazione; la lusinga
+
+to file (physically); to smooth
+limare; levigare
+
+to be struck by; to be hit by
+essere colpito da; essere investito da
+
+to blackmail
+ricattare
+
+crusade
+la crociata
+
+earphones; earbuds
+gli auricolari; le cuffie
+
+drone
+il drone
+
+pavement; cobblestone
+il lastrico; il sampietrino
+
+to do without; to go without
+fare a meno di; rinunciare a
+
+hand (on a clock)
+la lancetta
+
+His Majesty
+Sua Maestà
+
+courtier; person who attends court of a sovereign
+il cortigiano
+
