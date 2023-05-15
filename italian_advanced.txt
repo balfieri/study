@@ -20623,9 +20623,6 @@ il legame
 to exclude
 escludere
 
-reader
-il lettore
-
 intensity
 l'intensità
 
@@ -40521,4 +40518,49 @@ andava in bicicletta; andava in bici
 
 divine; out of this world; godly
 divino
+
+awkward; clumsy; unsuitable
+scomodo; goffo; inadatto
+
+unsuitable
+poco adatto
+
+in bad taste; in poor taste
+di cattivo gusto
+
+morally questionable
+moralmente discutibile
+
+I don't like to draw attention to myself
+non mi piace attirare l'attenzione su di me
+
+contrary to popular belief
+contrariamente a quanto si crede
+
+it would not be my first choice
+non sarebbe la mia prima scelta
+
+optometrist
+l'optometrista
+
+research paper
+l'articolo di ricerca
+
+haunted house
+la casa infestata
+
+haunted
+infestato
+
+to haunt
+infestare; tormentare
+
+to look through a pile of CDs or records
+sfogliare una pila di CD o dischi
+
+audio cassette player
+il lettore di cassette audio
+
+reader; player (plays back something)
+il lettore
 
