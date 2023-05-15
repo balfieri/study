@@ -376,7 +376,7 @@ il coltello
 taste; scoop (of ice cream)
 il gusto
 
-flavore
+flavor
 il sapore
 
 traffic light
