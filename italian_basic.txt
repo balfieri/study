@@ -6857,7 +6857,7 @@ danger
 il pericolo
 
 signature
-firma
+la firma
 
 Switzerland
 la Svizzera
