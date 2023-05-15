@@ -80,9 +80,16 @@ html_s = '''<!DOCTYPE html>
   </head>
   <body>
     <h1>''' + title + '''</h1>
-    <button id="button_randomize" title="Start/stop randomized playback of list entries" style="font-size:20px;border-radius:15px" onclick="start_stop()">Randomize</button>
-    <button id="button_mute" title="Mute/unmute voices" style="font-size:20px;border-radius:15px" onclick="mute_unmute()">Mute</button>
-    <button id="button_first" title="Show Italian/English translation first" style="font-size:20px;border-radius:15px" onclick="which_first()">Italian First</button>
+    <button id="button_randomize" title="Start/stop randomized playback of list entries" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="start_stop()">Randomize</button>
+    <button id="button_mute" title="Mute/unmute voices" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="mute_unmute()">Mute</button>
+    <button id="button_first" title="Show Italian/English translation first" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="which_first()">Italian First</button>
+    <p style="font-size:20px">
+    English Rate: <input type="range" min="25" max="125" value="80" class="slider" id="slider_en" oninput="update_slider_en(this.value)">
+    <span id="slider_en_value">0.8</span>
+    Italian Rate: <input type="range" min="25" max="125" value="80" class="slider" id="slider_it" oninput="update_slider_it(this.value)">
+    <span id="slider_it_value">0.8</span>
+    </p>
+
     <p><pre id="log" style="font-size:24px"></pre></p>
     
     <script>
@@ -202,6 +209,18 @@ html_s = '''<!DOCTYPE html>
               msg_it.onend = randomize; // continue loop
           }
           randomize();
+      }
+
+      function update_slider_en( value ) {
+          value = value / 100.0;
+          document.getElementById('slider_en_value').innerText = value;
+          msg_en.rate = value;
+      }
+
+      function update_slider_it( value ) {
+          value = value / 100.0;
+          document.getElementById('slider_it_value').innerText = value;
+          msg_it.rate = value;
       }
 
       window.onbeforeunload = function(event) {
