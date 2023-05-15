@@ -28178,7 +28178,7 @@ dejected; depressed; blue
 abbacchiato
 
 break room
-la sala break; sala della pausa
+la sala break; la sala della pausa
 
 complement
 il complemento
