@@ -7067,7 +7067,7 @@ based
 basato
 
 verb
-verbo
+il verbo
 
 return
 il ritorno
