@@ -40564,3 +40564,5 @@ il lettore di cassette audio
 reader; player (plays back something)
 il lettore
 
+bridge (card game)
+il bridge
