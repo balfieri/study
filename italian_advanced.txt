@@ -7885,7 +7885,7 @@ dividere la differenza
 to discern
 discernere
 
-to satisfy; to please
+to satisfy (partially); to please
 accontentare
 
 misfortune of others
@@ -14042,7 +14042,7 @@ running shoes
 le scarpe da corsa
 
 walking shoes
-le scarpe da passeggio
+le scarpe da camminata
 
 I like you just the way you are
 mi piaci proprio come sei
@@ -15301,7 +15301,7 @@ riferire
 velvet
 il velluto
 
-to pause onself
+to pause oneself
 mettersi in pausa
 
 to get to the point
@@ -28657,8 +28657,8 @@ lavorare su; lavorare al
 oh yeah
 oh sì
 
-gironzolare per la casa
 to hang around the house; to putz around the house
+gironzolare per la casa
 
 unpleasant to the eye
 spiacevole alla vista
@@ -32399,7 +32399,7 @@ club sport
 il club sportivo; lo sport di club
 
 athletic scholarship
-la borsa di studio atletica; la borsa di studio sportivo
+la borsa di studio atletica; la borsa di studio sportiva
 
 to make up for; to compensate
 compensare
@@ -36160,8 +36160,8 @@ il pasto è stato preparato da un servizio di catering
 catering service
 il servizio di catering
 
-adolescenziale
 teenage
+adolescenziale
 
 voracious; extremely hungry
 vorace
@@ -40504,3 +40504,20 @@ Sua Maestà
 courtier; person who attends court of a sovereign
 il cortigiano
 
+diminutive
+diminutivo
+
+to come full circle
+tornare al punto di partenza
+
+I miss joking around with you
+mi manca scherzare con te
+
+microscope
+il microscopio
+
+microscopic
+microscopico
+
+he was riding his bike
+andava in bicicletta; andava in bici

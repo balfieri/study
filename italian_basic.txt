@@ -2146,8 +2146,11 @@ vicino
 behind
 dietro
 
-around; about
-attorno
+around (less precise); about
+attorno a
+
+around (more precise)
+intorno a
 
 on the right; to the right
 a destra
