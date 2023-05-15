@@ -2107,8 +2107,8 @@ la fermata dell’autobus
 car
 la macchina; l'auto
 
-moped; scooter
-il motorino; il monopattino
+moped; scooter; Vespa
+il motorino; il monopattino; lo scooter
 
 ship
 la nave
@@ -4803,9 +4803,6 @@ scrivere al computer
 
 miserable
 miserabile; misero
-
-vespa; scooter
-il motorino
 
 damaging
 dannoso
