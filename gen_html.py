@@ -80,9 +80,9 @@ html_s = '''<!DOCTYPE html>
   </head>
   <body>
     <h1>''' + title + '''</h1>
-    <button id="button_randomize" style="font-size:24px" onclick="start_stop()">Randomize</button>
-    <button id="button_mute" style="font-size:24px" onclick="mute_unmute()">Mute</button>
-    <button id="button_first" style="font-size:24px" onclick="which_first()">Italian First</button>
+    <button id="button_randomize" title="Start/stop randomized playback of list entries" style="font-size:20px;border-radius:15px" onclick="start_stop()">Randomize</button>
+    <button id="button_mute" title="Mute/unmute voices" style="font-size:20px;border-radius:15px" onclick="mute_unmute()">Mute</button>
+    <button id="button_first" title="Show Italian/English translation first" style="font-size:20px;border-radius:15px" onclick="which_first()">Italian First</button>
     <p><pre id="log" style="font-size:24px"></pre></p>
     
     <script>
