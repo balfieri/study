@@ -3556,9 +3556,6 @@ il ricupero
 roommate
 il compagno di stanza; la compagna di stanza
 
-to consumate
-consumare
-
 backyard
 il cortile
 
@@ -40566,3 +40563,7 @@ il lettore
 
 bridge (card game)
 il bridge
+
+consumer metaverse
+il metaverso dei consumatori
+
