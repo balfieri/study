@@ -7975,9 +7975,6 @@ fare il pieno
 pedometer
 il contapassi
 
-diet; nutrition
-l'alimentazione
-
 to strengthen
 potenziare
 
@@ -24220,9 +24217,6 @@ tolto
 unease; discomfort
 il disagio
 
-unity
-l'unità
-
 to ascertain
 accertare
 
@@ -29421,9 +29415,6 @@ il carteggio
 
 dominated
 dominato
-
-persuasive
-persuaso
 
 electronic
 elettronico
@@ -39766,8 +39757,8 @@ il maniaco; la maniaca
 his and hers
 suo e suo; per lui e per lei
 
-abbinati
 matched; paired
+abbinati
 
 ankle
 la caviglia
@@ -40567,3 +40558,92 @@ il metaverso dei consumatori
 it sucks
 fa schifo; è una seccatura
 
+glitch
+il malfunzionamento
+
+to strike gold
+trovare l'oro
+
+swerve
+la sbandata
+
+disavowal
+la ripudia
+
+to disavow
+repudiare
+
+in fact
+difatto
+
+good times
+la bell'epoca
+
+persuaded
+persuaso
+
+persuasive
+persuasivo
+
+counters
+i banchini
+
+platforms
+le banchine
+
+interdependent
+interdependente
+
+nationalized
+statalizzato
+
+to archive
+archiviare
+
+unity; unit
+l'unità
+
+power supply; diet; nutrition
+l'alimentazione
+
+bad weather
+l'intemperia
+
+shell
+l'involucro
+
+non-slip
+anti-scivolo
+
+archiving
+l'archiviazione
+
+the quantity
+il quantitativo
+
+it goes without saying
+va da sé
+
+to move around
+spostare in giro
+
+military draft
+la leva militare
+
+mini boot camp
+la mini naja
+
+following
+a seguito di
+
+disenchanted
+disincantato
+
+to burden
+sobbarcare
+
+shooter
+lo sparatutto
+
+first-person shooter
+lo sparatutto in prima persona
