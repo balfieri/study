@@ -10864,6 +10864,9 @@ la pinta
 ton
 la tonnellata
 
+tons of
+tonnellate di
+
 decency
 la decenza
 
@@ -40680,4 +40683,28 @@ staminale
 
 to practice a flight
 fare pratica di volo
+
+flood; inundation
+inondazione
+
+flooded; inundated
+inondato
+
+gust; burst
+la raffica
+
+to enlist; to recruit
+arruolare
+
+request for comment
+la richiesta di commento
+
+prolific
+prolifico
+
+estimated total
+il totale stimato
+
+deluge
+il diluvio
 
