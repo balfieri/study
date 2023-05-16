@@ -83,7 +83,7 @@ html_s = '''<!DOCTYPE html>
     <button id="button_randomize" title="Start/stop randomized playback of list entries" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="start_stop()">Randomize</button>
     <button id="button_mute" title="Mute/unmute voices" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="mute_unmute()">Mute</button>
     <button id="button_first" title="Show Italian/English translation first" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="which_first()">Italian First</button>
-    <p style="font-size:20px">
+    <p style="font-size:18px">
     English Rate: <input type="range" min="25" max="125" value="80" class="slider" id="slider_en" oninput="update_slider_en(this.value)">
     <span id="slider_en_value">0.8</span>
     Italian Rate: <input type="range" min="25" max="125" value="80" class="slider" id="slider_it" oninput="update_slider_it(this.value)">
