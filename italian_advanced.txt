@@ -5837,7 +5837,7 @@ slob-ish; slovenly
 malmesso; rasandato; disordinato; non a posto
 
 warning
-l'avviso
+l'avvertimento; l'avviso
 
 parachute
 la paracadute
