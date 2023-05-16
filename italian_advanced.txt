@@ -21082,7 +21082,7 @@ dominante
 empire; rule; kingdom
 l'impero
 
-preception
+perception
 la percezione
 
 speech; discourse
@@ -39959,7 +39959,7 @@ monosyllabic
 monosillabico
 
 Snickers bar
-barretta Snickers
+la barretta Snickers
 
 bar (candy)
 barretta
@@ -40650,3 +40650,21 @@ lo sparatutto in prima persona
 
 to have an unforseen event; to have an unexpected situation; to have something come up
 avere un imprevisto
+
+there's hope
+c'è speranza
+
+there's always hope
+c'è sempre speranza
+
+I was telling you about
+ti stavo parlando di
+
+she wants me to ask him out on a date
+lei vuole che io lo inviti a uscire per un appuntamento
+
+carefree lifestyle
+lo stile di vita spensierato
+
+carefree
+spensierato
