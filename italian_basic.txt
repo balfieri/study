@@ -7264,9 +7264,6 @@ muoversi
 location
 la locazione
 
-monthly
-mensile
-
 weight
 il peso
 

@@ -40668,3 +40668,7 @@ lo stile di vita spensierato
 
 carefree
 spensierato
+
+monthly
+mensile
+
