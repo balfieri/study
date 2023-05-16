@@ -197,6 +197,7 @@ html_s = '''<!DOCTYPE html>
       }
 
       function which_first() {
+          window.speechSynthesis.cancel();
           if ( english_first ) {
               document.getElementById('button_first').innerHTML = 'English First';
               english_first = false;
