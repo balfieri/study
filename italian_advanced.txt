@@ -40785,3 +40785,6 @@ il colosso
 
 ivory
 l'avorio
+
+throttle quadrant
+il quadrante del gas
