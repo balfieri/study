@@ -40782,3 +40782,6 @@ la livrea
 
 colossus; business giant; giant corporation
 il colosso
+
+ivory
+l'avorio
