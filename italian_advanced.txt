@@ -27913,7 +27913,7 @@ empatico
 deficient; insufficient
 deficiente
 
-to swear
+to swear (promise, affermation)
 giurare
 
 to get stressed
