@@ -25,9 +25,6 @@ gli imbrogli
 storage room; utility room
 il ripostiglio
 
-mess
-il pasticcio
-
 poppy
 il papavero
 
@@ -24820,9 +24817,6 @@ la geografia
 cessation; termination
 la cessazione
 
-configuration
-la configurazione
-
 presumption
 la presunzione
 
@@ -40788,3 +40782,51 @@ l'avorio
 
 throttle quadrant
 il quadrante del gas
+
+my hair will not surrender to old age
+i miei capelli non si arrenderanno alla vecchiaia
+
+I was getting good vibes from him
+ricevevo buone vibrazioni da lui
+
+I hit 60 this week; I turned 60 this week
+ho compiuto 60 anni questa settimana; ho fatto 60 anni questa settimana
+
+this is my set-up
+questa è la mia configurazione
+
+set-up; configuration
+la configurazione
+
+if I can remember, I'll take a photo of the same place tomorrow
+se riesco a ricordare, farò una foto dello stesso posto domani
+
+to accent
+accentare
+
+to accentuate
+accentuare
+
+Ethiopian
+etiope; etiopico
+
+ominous
+ominoso
+
+to reach a plateau
+raggiungere un plateau; raggiungere un altopiano
+
+plateau
+il plateau; l'altopiano
+
+hairdo; hairstyle
+l'acconciatura
+
+it's been downhill ever since
+è stato in discesa da allora; è andato tutto in discesa da quel momento
+
+coordinates
+le coordinate
+
+barycentric coordinates
+le coordinate baricentriche
