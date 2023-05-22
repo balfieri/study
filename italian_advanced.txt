@@ -40902,3 +40902,6 @@ l'inquadramento
 
 stubborn; obstinate
 pervicace
+
+cost calculation
+il calcolo dei costi
