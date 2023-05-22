@@ -14432,7 +14432,7 @@ how embarrassing
 che imbarazzo; che vergogna; com'è imbarazzante; è imbarazzante
 
 dubber; voice actor; dub actor
-il doppiatore
+il doppiatore; la doppiatrice
 
 to dub; to double; to lap
 doppiare
@@ -40830,3 +40830,75 @@ le coordinate
 
 barycentric coordinates
 le coordinate baricentriche
+
+flight path
+il percorso di volo
+
+low birth rate in Italy
+il basso tasso di natalità in Italia
+
+Haitian
+haitiano
+
+Moroccan
+marocchino
+
+regulatory framework
+il quadro normativo
+
+in case this happens
+nel caso in cui ciò accada
+
+autograph
+l'autografo
+
+to walk around aimlessly
+camminara senza meta
+
+wet t-shirt contest
+il concorso di magliette bagnate
+
+little sister
+la sorellina
+
+climate crisis
+la crisi del clima
+
+the fight against
+la lotta a
+
+environmental fundamentalism
+l'integralismo ambientalista
+
+wicked; unscrupulous
+scellerato
+
+trench
+la trincea
+
+global warming
+il surriscaldamento globale
+
+extremist
+oltranzista
+
+delegitimization
+la delegittimazione
+
+to criminalize
+criminalizzare
+
+paint
+la vernice
+
+to mask; to disguise
+mascherare
+
+traditional conservative
+il conservatorista tradizionale
+
+framing; classification
+l'inquadramento
+
+stubborn; obstinate
+pervicace
