@@ -7144,9 +7144,6 @@ digitare
 ground level
 il livello del terreno; il livello del suolo
 
-mass shooting
-la sparatoria di massa
-
 to get explained; to get an explanation about
 farsi spiegare
 
@@ -31559,7 +31556,7 @@ hanger (airplane)
 l'hanger
 
 I'll check it out
-andrò a dare un'occhiata; vado a controllare
+darò un'occhiata; andrò a dare un'occhiata; vado a controllare; lo controllerò; lo guarderò
 
 go-to meal
 il pasto preferito
@@ -31917,9 +31914,6 @@ la gomma
 
 inflammation
 l'inflammazione
-
-I'll check it out
-lo controllerò; lo guarderò; darò un'occhiata
 
 groundhog
 la marmotta
@@ -40935,3 +40929,24 @@ riavviare
 
 to reset the computer
 riavviare il computer; resettare il computer
+
+eagle (golf)
+eagle (nel golf)
+
+two strokes under par
+due colpi sotto il par
+
+vinyl record; vinyl album
+l'album in vinile
+
+following the heavy metal style
+seguendo lo stile metal
+
+mass shooting
+la sparatoria di massa
+
+mass killing
+l'uccisione di massa
+
+to consolidate
+consolidare
