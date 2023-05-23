@@ -22072,7 +22072,7 @@ ecco fatto
 ladle
 il mestolo
 
-even
+even (number)
 pari
 
 odd (number)
@@ -40953,3 +40953,9 @@ consolidare
 
 to grow apart
 allontonarsi
+
+to run north-south
+andare da nord a sud
+
+to run east-west
+andare da ovest a est
