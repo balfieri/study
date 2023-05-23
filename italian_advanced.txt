@@ -27776,7 +27776,7 @@ pharmacist
 il farmacista; la farmacista
 
 office worker
-l’impiegato; la impiegata
+l’impiegato; l'impiegata
 
 journalist
 il giornalista
