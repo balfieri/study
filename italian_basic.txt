@@ -613,8 +613,11 @@ qualcosa da bere
 something to eat
 qualcosa da mangiare
 
-drink
-la bevanda; la bibita
+drink (non-alcoholic)
+la bibita
+
+beverage; drink
+la bevanda
 
 to call
 chiamare
@@ -3522,9 +3525,6 @@ l'ananas
 
 plum
 la prugna
-
-drink
-la bibita
 
 coffee
 il caffè
