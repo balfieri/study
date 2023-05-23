@@ -5428,7 +5428,7 @@ la parte
 ground; earth
 la terra
 
-grade; degree
+grade (not school); degree
 il grado
 
 nevertheless
@@ -6214,7 +6214,7 @@ il movimento
 library
 la biblioteca
 
-vote; grade; vow
+vote; grade (school); vow
 il voto
 
 energy
