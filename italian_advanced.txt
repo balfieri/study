@@ -40959,3 +40959,6 @@ andare da nord a sud
 
 to run east-west
 andare da ovest a est
+
+interstate highway
+l'autostrada interstatale
