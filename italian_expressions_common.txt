@@ -397,7 +397,7 @@ cercare la quadratura del cerchio
 to search high and low
 cercare in lungo e in largo
 
-to close the barn door after the horse has bolted
+to close the barn door after the horse has bolted; to close the barn door after the horse has left
 chiudere la stalla dopo che i buoi sono scappati
 
 to seize the day; to seize the moment
