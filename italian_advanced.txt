@@ -2888,7 +2888,7 @@ torn
 strappato
 
 to blame
-biasimare; dare la colpa a
+biasimare; dare la colpa a; incolpare; colpevolizzare
 
 I love everything about
 amo tutto di
@@ -10192,9 +10192,6 @@ mi sembri familiare; hai un aspetto familiare
 fall guy
 il capro espiatorio
 
-to blame
-biasimare; incolpare
-
 to take the blame for
 prendersi la colpa di
 
@@ -13983,9 +13980,6 @@ il presupposto
 
 to emphasize; to highlight
 enfatizzare
-
-to blame
-colpevolizzare
 
 Darwinism
 il darwinismo
@@ -34312,9 +34306,6 @@ negoziabile
 scary stuff
 la roba da paura
 
-to blame me 
-darmi la colpa
-
 a small percentage
 una piccola percentuale
 
@@ -34348,14 +34339,8 @@ vanificare
 How crazy do you think I am?
 quanto pensi che io sia pazzo?
 
-to blame
-biasimare
-
 to stop playing; to stop playing games
 smettere di giocare
-
-to blame
-dare la colpa
 
 a judicial decision
 una decisione giudiziaria
@@ -34476,9 +34461,6 @@ disperdere
 
 unequal
 disuguale
-
-to disable
-disattivare
 
 extra large
 extralarge
@@ -36686,7 +36668,7 @@ manifested; revealed
 palesato
 
 to disable
-disabilitare
+disattivare; disabilitare
 
 to spend the night; to stay overnight
 pernottare
@@ -40920,3 +40902,31 @@ il whisky
 
 Yours Truly
 Cordiali saluti; Distinti saluti
+
+perishable skill
+l'abilità deperibile
+
+to perish
+perire
+
+to pull the circuit breaker
+staccare l'interruttore
+
+to disable the autopilot
+disattivare il pilota automatico
+
+glider
+l'aliante
+
+uneventful
+senza avvenimenti; senza particolari avvenimenti
+
+don't blame me
+non incolparmi; non darmi la colpa
+
+I'm not blaming you
+non ti sto incolpando
+
+I didn't work on my Italian this week
+non ho lavorato sul mio italiano questa settimana
+
