@@ -40930,3 +40930,8 @@ non ti sto incolpando
 I didn't work on my Italian this week
 non ho lavorato sul mio italiano questa settimana
 
+circuit breaker
+l'interruttore automatico; il salvavita
+
+to restart
+riavviare
