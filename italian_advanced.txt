@@ -40932,3 +40932,6 @@ l'interruttore automatico; il salvavita
 
 to restart
 riavviare
+
+to reset the computer
+riavviare il computer; resettare il computer
