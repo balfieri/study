@@ -1570,9 +1570,6 @@ il coetaneo
 column; address book; heading
 la rubrica
 
-sign; warning; skirmish
-l 'avvisaglia
-
 shipbuilding (adjective)
 cantieristico
 
