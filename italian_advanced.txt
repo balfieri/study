@@ -39953,7 +39953,7 @@ Snickers bar
 la barretta Snickers
 
 bar (candy)
-barretta
+la barretta
 
 swamp
 la palude
