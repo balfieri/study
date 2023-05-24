@@ -40969,3 +40969,12 @@ suicidarsi; togliersi la vita
 to attempt suicide
 tentare il suicidio
 
+white-collar
+colletto bianco
+
+blue-collar
+colletto blu
+
+yuppie
+lo yuppie
+
