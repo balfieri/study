@@ -34732,7 +34732,7 @@ nonmilitare
 to sweep
 spazzare
 
-to clear
+to clear; to vacate
 sgomberare
 
 to spread
@@ -40980,4 +40980,7 @@ lo yuppie
 
 shocking; startling
 scioccante; sorprendente
+
+social worker
+l'assistente sociale
 
