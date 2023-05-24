@@ -2812,7 +2812,7 @@ ascoltare
 to teach
 insegnare
 
-to return
+to return (go back)
 tornare
 
 to begin; to start
@@ -3103,7 +3103,7 @@ garantire
 to contribute
 contribuire
 
-to return
+to return (item)
 restituire
 
 to remember
