@@ -27259,9 +27259,6 @@ l'agitazione
 dome
 la cupola
 
-draft
-la tratta
-
 engraved
 inciso
 
@@ -40984,3 +40981,26 @@ scioccante; sorprendente
 social worker
 l'assistente sociale
 
+beating; thrashing
+il pestaggio
+
+pepper spray
+lo spray al pepe
+
+baton; truncheon
+il manganello
+
+trafficking; trade; draft (money)
+la tratta
+
+advertiser
+l'inserzionista
+
+equipo interdisciplinario
+la squadra interdisciplinare
+
+walk downtown; stroll in the city center
+la passeggiata in centro
+
+ibuprofen
+l'ibuprofene
