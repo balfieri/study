@@ -26878,8 +26878,8 @@ la compilazione
 calculated
 calcolato
 
-momento; impulse; impetus
-lo slancio
+momentum; impulse; boost; impetus
+lo slancio; l'impulso
 
 tax; tributary
 il tributario
