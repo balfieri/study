@@ -6673,7 +6673,7 @@ non appena; appena che; appena
 as soon as possible; ASAP
 al più presto; il più presto possibile
 
-to report; to note; to signal; to indicate
+to report; to note; to signal; to indicate; to notify
 segnalare
 
 designer; planner
@@ -41007,3 +41007,22 @@ l'ibuprofene
 
 as I get older,
 man mano che invecchio,
+
+favorite payment method; preferred method of payment
+il metodo preferito di pagamento
+
+you could drop me off
+potresti lasciarmi
+
+you could pick me up
+potresti venirmi a prendere
+
+I lost some momentum
+ho perso un po' di slancio
+
+low cost
+a basso costo
+
+let the sun in
+lascia entrare il sole
+
