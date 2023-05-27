@@ -3292,7 +3292,7 @@ goffo
 unforeseeable; unpredictable; unexpected
 imprevedibile
 
-peak, spike, summit
+peak; spike; summit
 il picco
 
 dregs; trash
