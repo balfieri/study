@@ -10678,9 +10678,6 @@ il tachimetro
 monkey
 la scimmia
 
-consistency; texture
-la cosistenza
-
 tombstone; gravestone; headstone
 la lapide
 
@@ -18520,7 +18517,7 @@ balbettare
 chocolate chips
 le scaglie di cioccolato; le gocce di cioccolato
 
-to be burdensom; to be oppressive
+to be burdensome; to be oppressive
 essere opprimenti
 
 to oppress
@@ -37042,8 +37039,8 @@ la cassetta delle lettere
 tax return
 la dichiarazione dei redditi; la dichiarazione dei bilanci
 
-fare la dichiarazione dei redditi
 to do the taxes
+fare le tasse; fare la dichiarazione dei redditi
 
 engagement (marriage)
 il fidanzamento
@@ -40067,7 +40064,7 @@ to rehearse
 provare; fare una prova
 
 over and over
-ancora e ancora; ripetutamente
+più e più volte; ancora e ancora; ripetutamente
 
 I have nothing to say to you at this point
 non ho nulla da dirti a questo punto
@@ -41031,4 +41028,40 @@ la lozione
 
 cavity; gap; space between
 l'intercapedine; lo spazio tra
+
+short-term memory
+la memoria a breve termine
+
+long-term memory
+la memoria a lungo termine
+
+to ask same questions over and over again
+fare le stesse domande più e più volte
+
+sexually-abused children
+i bambini abusati sessualmente
+
+to be as good as gold
+essere buono come il pane
+
+to do the accounting
+fare la contabilità
+
+HVAC
+riscaldamento, ventilazione e condizionamento dell'aria
+
+scrambled eggs
+le uova strapazzate
+
+liberal usage of the word 
+l'uso liberale della parola
+
+overwhelming presence of 
+la presenza travolgente di
+
+to grab some food
+prendere del cibo
+
+HVAC unit
+l'unità HVAC
 

@@ -7792,3 +7792,6 @@ consumare
 to pack; to pack for a trip; to pack bags
 fare le valigie; preparare i bagagli
 
+ben venuto; ben arrivato
+welcome
+
