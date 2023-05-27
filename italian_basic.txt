@@ -2131,8 +2131,8 @@ lontano
 here
 qui
 
+opposite; opposite to
 di fronte a
-opposite
 
 on the left; to the left
 a sinistra
@@ -4038,9 +4038,6 @@ il fianco
 
 in the middle of; in the center; downtown
 al centro
-
-opposite to
-di fronte a
 
 next to
 di fianco a
