@@ -6238,7 +6238,7 @@ la nascita
 difference
 la differenza
 
-argument; subject
+argument (of discussion); subject
 l'argomento
 
 subject; topic; theme
