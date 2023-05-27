@@ -23306,7 +23306,7 @@ dose
 la dose
 
 unemployment
-disoccupazione
+la disoccupazione
 
 exploitation
 lo sfruttamento
