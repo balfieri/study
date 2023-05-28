@@ -1073,7 +1073,7 @@ stairs
 le scale
 
 toy
-il gioccatolo
+il gioccattolo
 
 game
 il giocco
@@ -1430,7 +1430,7 @@ to worry
 preoccuparsi
 
 boring
-noiso
+noioso
 
 to bore
 annoiare
@@ -1680,9 +1680,6 @@ allegro
 
 nervous
 nervoso
-
-boring
-noioso
 
 bored
 annoiato
@@ -7030,9 +7027,6 @@ la miglia
 photo
 la foto
 
-international
-internationale
-
 radio
 la radio
 
@@ -7791,4 +7785,7 @@ fare le valigie; preparare i bagagli
 
 ben venuto; ben arrivato
 welcome
+
+money
+il denaro
 

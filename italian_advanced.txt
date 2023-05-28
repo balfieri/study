@@ -12292,7 +12292,7 @@ disinibito
 vacation home
 la casa per le vacanze
 
-to get the false impressione
+to get the false impression
 avere la falsa impressione
 
 strain; chopping block
@@ -17131,7 +17131,7 @@ bada come parli!
 lucky you!
 beato te
 
-lucky you! good for you!
+lucky you!; good for you!
 buon per te!
 
 sleep well
@@ -20129,7 +20129,7 @@ in the interests of marital harmony
 nell'interesse dell'armonia coniugale
 
 coffee table
-il tavolino di caffé
+il tavolino di caffè
 
 high (wasted); flipped out
 flippato
@@ -22827,9 +22827,6 @@ suddetto
 
 rhetorical
 retorico
-
-money
-il danaro
 
 directive
 la direttiva
@@ -34174,9 +34171,6 @@ a modo suo
 that's all we need; it's all we need
 è tutto ciò di cui abbiamo bisogno
 
-cucumber
-cetriolo
-
 that's the plan
 il programma è quello
 
@@ -36103,8 +36097,8 @@ vorace
 they left me in the dust
 mi hanno lasciato al palo; mi hanno superato di gran lunga
 
-consigliabile
 advisable
+consigliabile
 
 she's still smiling
 lei sta ancora sorridendo
@@ -41085,3 +41079,18 @@ il pellegrinaggio
 
 traffic jam
 l'ingorgo
+
+to consult; provide advice
+fornire consulenza
+
+check this out
+guarda questo
+
+get this
+prendi questo
+
+listen to this
+ascolta questo
+
+spare
+di riserva; di scorta
