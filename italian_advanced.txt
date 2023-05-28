@@ -19720,7 +19720,7 @@ la frequenza
 mostly
 maggiormente
 
-decrease; reduction; decline
+decrease (general); reduction; decline (general)
 la diminuzione
 
 painter; artist (paint)
@@ -27529,7 +27529,7 @@ l'oratore
 to equate; to equal
 equivalere
 
-decline
+decline (deterioration, loss of force etc.)
 il declino
 
 to appraise; to evaluate
@@ -41136,3 +41136,9 @@ il weekend di tre giorni
 
 Memorial Day
 il Memorial Day
+
+give me some examples of each
+dammi alcuni esempi di ciascuno
+
+decrease (economic, political); degrowth
+la decrescita
