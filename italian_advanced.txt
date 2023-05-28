@@ -11789,6 +11789,9 @@ chivalry
 la cavelleria
 
 deterioration
+il deterioramento; il degrado
+
+worsening
 l'aggravamento
 
 reliability
@@ -27529,7 +27532,7 @@ l'oratore
 to equate; to equal
 equivalere
 
-decline (deterioration, loss of force etc.)
+decline (gradual deterioration)
 il declino
 
 to appraise; to evaluate
