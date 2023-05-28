@@ -7786,3 +7786,5 @@ welcome
 money
 il denaro
 
+to get a job as
+tovare lavoro come
