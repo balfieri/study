@@ -41154,3 +41154,9 @@ il lavoretto; il lavoro occasionale
 
 part-time
 part-time; a tempo parziale
+
+standardized
+standardizzato
+
+standardized test
+il test standardizzato
