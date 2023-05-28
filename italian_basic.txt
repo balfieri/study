@@ -3587,7 +3587,7 @@ turist
 il turista
 
 mayor
-il sindaco
+il sindaco; la podestà
 
 pot
 la pentola

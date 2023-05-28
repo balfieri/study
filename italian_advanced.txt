@@ -10865,7 +10865,7 @@ ultimate goal
 l'obiettivo finale
 
 to be in pain
-essere nel dolore; stare soffrendo
+essere in dolore
 
 in the short-term
 nel breve periodo
@@ -24984,9 +24984,6 @@ la grande gioia
 
 too little, too late
 troppo poco, troppo tardi
-
-mayor
-podestà
 
 ideological
 ideologico
@@ -41169,3 +41166,15 @@ ti sei preso un
 
 to get oneself (something)
 prendersi (qualcosa); procurarsi (qualcosa)
+
+grade point average (GPA)
+la media del voto (GPA); la media matematica
+
+to be in a lot of pain
+essere in grande dolore
+
+to be in a little pain
+essere in un po' di dolore
+
+to be in some pain
+essere in un certo dolore
