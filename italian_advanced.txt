@@ -5281,7 +5281,7 @@ la mestruazione
 menstrual
 mestruale
 
-cycle
+cycle; period (menstrual)
 il ciclo
 
 inherently
@@ -17453,7 +17453,7 @@ that will do
 punto e basta
 
 well-heeled
-ricco, benestante
+ricco; benestante
 
 i'll call back later
 richiamo più tardi
@@ -18454,7 +18454,7 @@ il fritto misto
 to weave in and out between cars
 intrecciarsi tra le auto; intrecciare dentro e fuori tra le auto
 
-to weave in and out between cons
+to weave in and out between cones
 intrecciarsi tra i coni
 
 to go too fast around a corner
@@ -23060,7 +23060,7 @@ senator
 il senatore
 
 protest
-protesta
+la protesta
 
 lyrical
 lirico
@@ -35881,7 +35881,7 @@ ho perso il conto
 meaningless
 privo di significato; senza senso; insensato
 
-they always pick on my; they always target me
+they always pick on me; they always target me
 mi prendono sempre di mira
 
 they always bully me
@@ -41175,3 +41175,6 @@ essere in un po' di dolore
 
 to be in some pain
 essere in un certo dolore
+
+I got my period
+ho avuto il mio ciclo
