@@ -18214,9 +18214,6 @@ tenere in ballo
 to keep in check
 tenere in scacco
 
-to keep an eye on
-tenere sott'occhio
-
 to keep on a leash
 tenere sulla corda
 
@@ -31364,7 +31361,7 @@ to keep one's distance
 tenere le distanze 
 
 to keep an eye on
-tenere sottocchio
+tenere sott'occhio; tenere sottocchio
 
 deceit; deception; trickery
 l'inganno 
