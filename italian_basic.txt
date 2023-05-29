@@ -1898,7 +1898,7 @@ room (general term)
 la stanza
 
 bedroom; room (for sleeping); chamber
-la camera
+la camera; la camera da letto
 
 living room
 il salotto
