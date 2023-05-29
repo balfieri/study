@@ -1279,7 +1279,7 @@ la razza
 lane; track; aisle; passageway
 la corsia
 
-fine
+fine (penalty)
 la multa
 
 cable
