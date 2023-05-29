@@ -1412,7 +1412,7 @@ to happen
 capitare; succedere
 
 it takes; it requires
-ci vuole
+ci vuole; ci vogliono
 
 more or less
 più o meno
