@@ -5050,9 +5050,6 @@ il fornello; la piastra calda
 meek
 mansueto
 
-resource
-la risora
-
 working; work (adjective)
 lavorativo
 
@@ -6179,7 +6176,7 @@ point of view
 il punto di vista
 
 rectory
-canonica
+la canonica
 
 to overshadow; to obscure
 oscurare
@@ -23009,7 +23006,7 @@ accepted
 accettato
 
 publisher; editor
-l'editore; l'editrice
+l'editore; l'editrice; il redattore; la redattrice
 
 respective
 rispettivo
@@ -41185,3 +41182,68 @@ chi ha fatto uscire i cani?
 do the dogs need to go out?
 i cani devono uscire?
 
+alarming
+allarmante
+
+to bring closer
+riavvicinare
+
+to compensate
+risarcire
+
+compensation
+l'indennizzo
+
+rapprochement
+il riavvicinamento
+
+South Korean
+sudcoreano
+
+possible in the future
+futuribile
+
+landing; arrival
+l'approdo
+
+to tighten the forces
+stringere le forze
+
+staff
+gli addetti ai lavori
+
+to draft
+redigire
+
+to make available
+mettere a disposizione
+
+surcharge
+il sovrapprezzo
+
+obligatorily
+obbligatoriamente
+
+of legal age
+maggiorenne
+
+underage
+minorenne
+
+dam
+la diga
+
+to open the floodgates
+spalancare le paratie
+
+to defame
+diffamare
+
+race car
+l'auto da corsa
+
+race car driver
+il pilota di auto da corsa
+
+what is your level of Italian?
+qual è il tuo livello di italiano?

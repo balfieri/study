@@ -4357,7 +4357,7 @@ la data
 able
 abile
 
-accustomed
+accustomed; used to
 abituato
 
 attractive
@@ -7112,7 +7112,7 @@ immagination
 l'immaginazione
 
 customer; client
-il cliente
+il cliente; l'utanza
 
 dramatic
 drammatico
