@@ -586,7 +586,7 @@ occorrere
 challenge
 la sfida
 
-route
+route (air and maritime navigation)
 la rotta
 
 rather than
@@ -7897,7 +7897,7 @@ agevole
 paradigm
 la paradigma
 
-route; course; run; journey
+route (streets, paths); course; run; journey
 il percorso
 
 optimal route
