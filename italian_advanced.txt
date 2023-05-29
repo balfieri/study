@@ -11212,8 +11212,14 @@ l'indumento
 statesman
 lo statista
 
-to discredit; to debunk
+to discredit; to debunk; to dispel
 sfatare
+
+to dissipate
+dissipare
+
+to disperse
+disperdere
 
 to suppress; to put down
 sopprimere
@@ -34416,9 +34422,6 @@ decelerare
 
 to purify
 depurare
-
-to disperse
-disperdere
 
 unequal
 disuguale
