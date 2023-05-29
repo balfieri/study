@@ -41262,3 +41262,6 @@ il guanciale
 
 bone marrow
 il midollo osseo
+
+bone (adjective)
+osseo
