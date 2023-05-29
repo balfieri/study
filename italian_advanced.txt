@@ -10115,7 +10115,7 @@ harness
 l'imbrago
 
 trash can; trash bin
-il bidone
+il bidone; il cestino
 
 skydiving
 il paracadutismo
@@ -14199,9 +14199,6 @@ molto teso
 
 tense; tight; taught
 teso
-
-trash can
-il cestino
 
 kennel
 il canile
@@ -41253,3 +41250,15 @@ intrappolare; catturare
 
 worn out; shabby
 logoro; consunto
+
+to take out the trash
+portare fuori la spazzatura
+
+to take out the recycling
+portare fuori il riciclaggio
+
+separate waste collection
+la raccolta differenziata
+
+composting
+il compostaggio
