@@ -3235,8 +3235,8 @@ sapere
 to keep
 tenere
 
-to remove; to take away
-togliere
+to remove; to take away; to take off
+togliere; levare
 
 to hear
 udire
