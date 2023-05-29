@@ -5917,9 +5917,6 @@ la fonte di forza
 in May of '68
 nel maggio del '68
 
-pillow; cushion
-il guanciale
-
 cooking pot; pot; cauldron
 il paiolo
 
@@ -41265,3 +41262,7 @@ la raccolta differenziata
 
 composting
 il compostaggio
+
+cushion; pillow (oval, cylindrical)
+il guanciale
+
