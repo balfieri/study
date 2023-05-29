@@ -1658,7 +1658,7 @@ to disappear
 scompare
 
 plumbing
-impianto idraulico; l'acqua corrente in casa
+l'impianto idraulico; l'acqua corrente in casa
 
 to gift
 regalare
