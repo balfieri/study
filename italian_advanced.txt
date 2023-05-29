@@ -7900,6 +7900,9 @@ la paradigma
 route; course; run; journey
 il percorso
 
+optimal route
+il percorso ottimale
+
 to proceed; to progress; to advance
 procedere
 
