@@ -2665,9 +2665,6 @@ il segnalibro
 several; some; much
 parecchio
 
-investigation; inquiry
-l'indagine
-
 to conduct an investigation
 condurre un'indagine
 
@@ -24452,7 +24449,7 @@ to mean; to signify; to denote
 significare
 
 investigation; inquiry
-l'inchiesta
+l'indagine; l'inchiesta
 
 constitutional
 costituzionale
