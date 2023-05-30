@@ -35,7 +35,7 @@ hi (bye)
 ciao
 
 hello; good day
-buon giorno; buongiorno
+buon giorno; buongiorno; 'giorno
 
 good afternoon
 buon pomeriggio
@@ -44,7 +44,7 @@ good evening
 buona sera; buonosera
 
 good night
-buona notte; buonanotte
+buona notte; buonanotte; 'notte
 
 have a good day; have a good one
 buona giornata
