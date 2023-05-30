@@ -41308,3 +41308,6 @@ doppia prenotato
 duplicate appointment
 l'appuntamento duplicato
 
+to be charged for (something); to get charged for (something)
+essere addebitato per (qualcosa); farsi addebitare (qualcosa)
+
