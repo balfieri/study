@@ -39026,7 +39026,7 @@ employee badge
 il tesserino del dipendente
 
 ID card; badge
-la tessera d'identity; il distintivo
+la carta d'identità; la tessera d'identità; il distintivo
 
 needs
 le esigenze; le necessità
