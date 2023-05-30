@@ -41320,3 +41320,5 @@ la tariffa; l'addebito
 in limbo
 in sospeso; nel limbo
 
+check mark
+la segnalazione; la spunta
