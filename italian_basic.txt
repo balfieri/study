@@ -7791,3 +7791,6 @@ exactly; just like that
 
 no problem!
 nessun problema!
+
+to be (number) minutes late
+essere in ritardo di (numero) minuti
