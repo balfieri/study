@@ -1411,9 +1411,6 @@ un tiro di schioppo
 a white elephant
 una cattedrale nel deserto
 
-a bird in the hand is worth two in the bush
-una cosa certa vale due cose aleatorie
-
 scratch my back and I'll scratch yours; one hand washes the other
 una mano lava l'altra
 
@@ -2442,9 +2439,6 @@ la prima gallina che canta ha fatto l'uovo
 
 old hens make good soup
 gallina vecchia fa buon brodo
-
-a bird in the hand is worth two in the bush
-meglio un uovo oggi che una gallina domani
 
 to have a bird brain
 avere un cervello di gallina
