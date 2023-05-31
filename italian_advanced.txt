@@ -12961,8 +12961,14 @@ abusare
 colander
 il colino
 
-to moan; to groan
-lagnare
+to groan (negative); to moan (negative)
+gemere
+
+to moan (positive)
+gemere di piacere
+
+to complain; to whine
+lagnare; lamentarsi
 
 to bust; to ruin; to batter; to wreck
 scassare
