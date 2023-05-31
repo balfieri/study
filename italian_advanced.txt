@@ -41322,3 +41322,19 @@ in sospeso; nel limbo
 
 check mark
 la segnalazione; la spunta
+
+check; done
+controllo; fatto
+
+they operated on my mother
+hanno operato mia madre
+
+the surgery was planned
+l'intervento chirurgico era pianificato
+
+it calls for congratulations
+merita congratulazioni
+
+print statement; print command; print call; printf
+l'istruzione di stampa; il comando di stampa; la chiamata di stampa; il printf
+
