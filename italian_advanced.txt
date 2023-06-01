@@ -3799,9 +3799,6 @@ detenere
 together with
 assieme a
 
-first of all
-per prima cosa
-
 poisoner
 l'avvelenatore
 
@@ -4381,11 +4378,11 @@ ciò non toglie che
 furthermore; moreover
 inoltre
 
-firstly; first of all
-innanzitutto; per prima cosa
+in the first place; as a first step
+per prima cosa; in primo luogo; come primo passo
 
-first of all; above all
-prima di tutto; in primo luogo
+first of all; above all; first and foremost
+prima di tutto; innanzitutto; anzi tutto
 
 to start
 per iniziare
@@ -4692,9 +4689,6 @@ dal momento che
 
 firstly; first of all
 anzitutto
-
-first of all; above all
-prima di tutto
 
 to add to this
 si aggiunga il fatto che
@@ -14547,9 +14541,6 @@ spargere
 
 sing-song
 la cantilena
-
-first and foremost
-anzitutto; in primo luogo; prima di tutto
 
 to stomp; to pound; to trample
 pestare
