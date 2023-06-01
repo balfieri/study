@@ -41488,3 +41488,8 @@ il modello linguistico di grandi dimensioni
 doomsday scenario
 il scenario apocalittico
 
+garage door
+la porta del garage
+
+door lock
+la serratura della porta
