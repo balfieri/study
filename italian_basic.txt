@@ -1315,9 +1315,6 @@ mite
 to comb
 pettinare
 
-to install
-installare
-
 napkin
 il tovagliolo
 
