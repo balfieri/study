@@ -4354,7 +4354,7 @@ lo svolgimento
 to strangle
 strangolare; strozzare
 
-to spur; to stimulate
+to spur; to urge on; to stimulate
 spronare
 
 The Holocaust
@@ -41436,4 +41436,55 @@ il rancore
 
 surrogate motherhood
 la maternità surrogata
+
+the latter
+il secondo; quest'ultimo
+
+the latter is preferred
+si preferisce il secondo; si preferisce quest'ultimo
+
+embryo
+l'embrione
+
+exclusively
+in esclusiva
+
+antibiotic
+l'antibiotico
+
+concise
+stringato
+
+given free rein
+lasciato a briglia sciolta
+
+editor's note
+nota del redattore (ndr)
+
+apocalyptic
+apocalittico
+
+to press, to urge
+incalzare
+
+whip
+frusto
+
+schizo
+schizo
+
+to sign
+firmatare
+
+awarded; honored
+insignito
+
+non-profit
+non-profit; no-profit
+
+large language model (LLM)
+il modello linguistico di grandi dimensioni
+
+doomsday scenario
+il scenario apocalittico
 
