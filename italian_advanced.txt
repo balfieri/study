@@ -7828,7 +7828,7 @@ lo steccato
 to dictate
 dettare
 
-record player; phonograph
+record player; phonograph; turntable
 il giradischi
 
 xylophone
@@ -41484,3 +41484,61 @@ la porta del garage
 
 door lock
 la serratura della porta
+
+AV receiver
+ricevitore AV
+
+stereo receiver
+il ricevitore stereo
+
+CD player
+il lettore CD
+
+DVD player
+il lettore DVD
+
+to put up with; endure
+sorbirsi
+
+to be willing to; to be disposed to
+essere disposti a
+
+to be willing to put up with; to be willing to endure
+essere disposti a sorbirsi
+
+enjoyment; use
+la fruizione
+
+ad insertion; advertising insertion
+l'inserimento pubblicitario
+
+to figure out how to (do something)
+capire come (fare qualcosa)
+
+that feels so good
+si sente così bene
+
+that feels amazing
+si sente incredibile
+
+what's so great about (something)?
+cos'è di così fantastico in (qualcosa)?
+
+what's so funny about (something)?
+cos'è di così divertente in (qualcosa)?
+
+what's wrong with (something)?
+cosa c'è che non va in (qualcosa)?
+
+what's so wrong about (something)?
+cosa c'è di così sbagliato in (qualcosa)?
+
+why is it so hard to (fare qualcosa)?
+perché è così difficile (fare qualcosa)?
+
+why is it so hard to do the right thing?
+perché è così difficile fare la cosa giusta?
+
+manic care; obsessive care
+la maniacale cura
+
