@@ -41640,3 +41640,6 @@ raggirare
 
 desired result
 il risultato voluto
+
+day off; vacation day
+il giorno di ferie; il giorno libero

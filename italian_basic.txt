@@ -3376,8 +3376,11 @@ la villa
 chapel
 la cappella
 
-holiday; vacation
+vacation
 la vacanza
+
+holiday (official)
+le ferie
 
 snake
 il serpente
