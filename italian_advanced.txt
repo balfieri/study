@@ -14296,7 +14296,7 @@ abulico
 infamy; disgrace; ignominy
 l'infamia
 
-scrounging; sponging
+scrounging; sponging; deadbolt
 lo scrocco
 
 to scrounge; to mooch
@@ -41565,4 +41565,64 @@ capisci cosa intendo?; sai cosa voglio dire?
 
 ya know what I'm saying?; you know what I'm saying?
 capisci cosa sto dicendo?; sai cosa sto dicendo?
+
+dilation and curettage; D&C
+la dilatazione e raschiamento; la D&C
+
+padlock
+il lucchetto
+
+scraping
+il raschiamento
+
+gathering
+il raduno
+
+word about
+la parola in merito
+
+chaired committee
+il comitato presieduto
+
+chaired
+presieduto
+
+to disagree
+discordare
+
+a tomorrow
+un domani
+
+decision-making (adjective)
+decisionale
+
+city council resolution
+la delibera di giunta
+
+bold
+ardito
+
+retroactive
+reatroattivo
+
+swimming
+la balneazione
+
+ecosystem
+l'ecosistema
+
+remarkable
+rimarchevole
+
+electric oven
+il fornetto elettrico
+
+prophecy
+la profezia
+
+to require
+necessitare di
+
+washer-dryer
+il lavasciuga
 
