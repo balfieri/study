@@ -2419,7 +2419,7 @@ il bordello
 glassworks
 la cristalleria
 
-hindrance; obstacle; encumbrance
+hindrance; obstacle; encumbrance; trouble
 l'impaccio
 
 to meddle; to intrude; to intervene
@@ -41626,3 +41626,20 @@ necessitare di
 washer-dryer
 il lavasciuga
 
+to not be able to manage; to not be able to cope
+non sapersela cavare
+
+to get out of trouble
+trarsi d'impaccio
+
+to activate the mechanism
+azionare il meccanismo
+
+to despair
+disperarsi
+
+to deceive; to circumvent
+raggirare
+
+desired result
+il risultato voluto
