@@ -5851,8 +5851,8 @@ gardarsi bene
 short-term
 a breve termine
 
-to overwhelm
-travolgere
+to overwhelm; to overpower
+travolgere; sopraffare
 
 overwhelmed; overcome; crushed
 travolto
@@ -6666,9 +6666,6 @@ il progettista
 
 to attach; to enclose
 allegare
-
-merchandise
-la merce
 
 path; way; road
 il cammino
@@ -14870,7 +14867,7 @@ to giggle
 radacchiare
 
 giggle
-la risarella
+la risatina; la risarella
 
 brutally honest
 brutalmente onesto
@@ -31864,9 +31861,6 @@ al posto di; invece di
 to interfere
 interferire
 
-to overwhelm; to overpower
-sopraffare
-
 boxers
 i boxer
 
@@ -41760,4 +41754,40 @@ esaminare (qualcosa); approfondire (qualcosa)
 
 border-line
 al limite; borderline
+
+I feel used
+mi sento usato
+
+turned on (sexual)
+eccitato (sessuale)
+
+to land a joke
+far ridere con una battuta
+
+this broadcast has been interrupted in order to bring you
+questa trasmissione è stata interrotta per portarvi
+
+merchandise; merch (slang)
+la merce
+
+situational awareness
+la consapevolezza situazionale
+
+spicco
+la prominence
+
+spicchi
+gli segments
+
+established in 1970
+fondato nel 1970
+
+overwhelming
+travolgente
+
+underwhelming
+deludente
+
+unimpressive
+poco impressionante
 
