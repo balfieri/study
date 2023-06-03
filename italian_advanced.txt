@@ -28129,9 +28129,6 @@ abbacchiato
 break room
 la sala break; la sala della pausa
 
-complement
-il complemento
-
 task; duty
 la mansione
 
@@ -28238,7 +28235,7 @@ anonymous
 anonimo
 
 complement
-il completamento
+il complemento
 
 to manifest; to appear; to reveal oneself
 manifestarsi
@@ -41727,4 +41724,40 @@ monodimensionale
 
 unicycle
 il monociclo
+
+turned out to be; revealed to be
+rivelatesi
+
+counting; scrutiny; undressing
+lo spoglio
+
+to hoist; to raise
+issare
+
+small egg; little egg
+l'ovetto
+
+favorite; darling; golden boy
+il beniamino
+
+what a compliment!
+che complimento!
+
+compliment
+il complimento
+
+complementary
+complementare (aggettivo)
+
+complimentary
+gratuito; lusinghiero
+
+I was just looking at that the other day
+guardavo proprio quello l'altro giorno
+
+to look into (something)
+esaminare (qualcosa); approfondire (qualcosa)
+
+border-line
+al limite; borderline
 
