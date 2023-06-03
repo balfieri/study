@@ -1657,6 +1657,9 @@ nonostante ciò
 to disappear
 scompare
 
+to appear
+compare
+
 plumbing
 l'impianto idraulico; l'acqua corrente in casa
 
