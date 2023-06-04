@@ -6773,7 +6773,7 @@ pen case
 il portapenne; l'astuccio per penne
 
 kitchenette
-l'angolo cuttura
+l'angolo cottura; il cucinino
 
 gas cooker
 la cucina a gas
@@ -9284,7 +9284,7 @@ plumber
 l'idraulico
 
 which is fine
-il ché è bene
+il che è bene
 
 imagine the type
 figurati il tipo
@@ -16567,9 +16567,6 @@ rattoppare le pareti
 in the coming days
 nei prossimi giorni
 
-from rags to riches
-dalle stalle alle stelle
-
 I was not expecting to see
 non mi aspettevo di vedere
 
@@ -17156,7 +17153,7 @@ condolences (funeral)
 condoglianze
 
 congratulations
-congratulazióni
+congratulazioni
 
 cheer up!
 coraggio!
@@ -24322,7 +24319,7 @@ ignobile
 frankly
 francamente
 
-ridiculous (negative conotation); ludicrous
+ridiculous (negative connotation); ludicrous
 ridicolo
 
 what took you so long?
@@ -34129,7 +34126,7 @@ il pesce crudo
 branch
 la branca
 
-terminus, end of the line
+terminus; end of the line
 la capolinea
 
 splendor
@@ -40058,7 +40055,7 @@ input data
 i dati di input
 
 drawn to (somebody); attracted to (somebody)
-attratto da (qualcuno); attratto da (qualcuno)
+attratto da (qualcuno)
 
 and yet I'm quite drawn to you
 eppure sono piuttosto attratto da te
@@ -41790,4 +41787,46 @@ deludente
 
 unimpressive
 poco impressionante
+
+ground services
+i servizi a terra
+
+to fess up
+confessare; ammettere
+
+to ban
+bandire
+
+to cause; to bring about
+arrecare
+
+heat pump
+la pompa di calore
+
+luxury car tax
+il superbollo
+
+car insurance policies
+le polizze auto
+
+a pretty gutsy thing to do
+una cosa piuttosto coraggiosa da fare
+
+lunacy
+la pazzia
+
+connotation
+la connotazione
+
+denotation
+la denotazione
+
+I can see where you get your sense of humor
+capisco da dove viene il tuo senso dell'umorismo
+
+to criticize
+criticare
+
+to criticize unnecessarily
+criticare inutilmente
 

@@ -3451,7 +3451,7 @@ il freno
 wheel
 la ruota
 
-cute
+cute; sweet (person)
 carino
 
 house
