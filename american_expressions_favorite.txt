@@ -2046,3 +2046,11 @@ persona inaffidabile; persona incostante
 jacked (appearance)
 sbalorditivo; molto muscoloso
 
+loaded (wealth)
+ricco; pieno di soldi
+
+to trust one's gut
+fidarsi del proprio istinto
+
+to have baggage (emotional)
+avere un bagaglio (emotivo)

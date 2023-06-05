@@ -6539,7 +6539,7 @@ next; near; close
 prossimo
 
 wall (structural, solid)
-il muro; 
+il muro
 
 wall (non-structural)
 la parete

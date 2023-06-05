@@ -1277,7 +1277,7 @@ spicy
 speziato
 
 eventually; in the end
-infine; alla fine; 
+infine; alla fine
 
 at last; after all; finally (at last); ultimately
 finalmente
@@ -4034,7 +4034,7 @@ to keep an eye on
 tenere d'occhio
 
 register; registry
-albo
+l'albo
 
 to label; to pigeon hole; to tag
 etichettare
@@ -10538,7 +10538,7 @@ scale (weighing)
 la bilancia
 
 vacuum sealer
-la macchina per suttovuoto
+la macchina per sottovuoto
 
 vacuum packing
 il sottovuoto
@@ -13190,7 +13190,7 @@ nth; umpteenth
 ennesimo
 
 I'll give you a break
-to darò una pausa
+ti darò una pausa
 
 to take a break; to have a break
 fare una pausa
@@ -14387,7 +14387,7 @@ it's great to see you
 è bello vederti; è bello rivederti
 
 we broke up
-abbiamo rotto
+ci siamo lasciati
 
 sales assistant; clerk
 il commesso; la commessa
@@ -14851,7 +14851,7 @@ i capelli bianchi
 stand-up comedian
 il cabarettista; il comico stand-up
 
-to speak smoothly; 
+to speak smoothly
 parlare con dolcezza; parlare tranquillamente
 
 to speak fluidly
@@ -18572,7 +18572,7 @@ he gets on my nerves
 mi dà sui nervi; mi irrita; mi fa innervosire
 
 does he speak English as well as I speak Italian?
-parla inglese così come io parlo italiano;
+parla inglese così come io parlo italiano
 
 does he speak English as well as you?
 parla inglese bene come te?
@@ -22106,7 +22106,7 @@ latex
 il lattice
 
 don't mention it
-non c'é di che
+non c'è di che
 
 Megellan
 Megellano
@@ -26653,7 +26653,7 @@ il sonetto
 fully; wholly; completely
 integralmente
 
-albeti; although
+albeit; although
 seppure
 
 kindred; akin
@@ -28871,7 +28871,7 @@ triangle
 il triangolo
 
 county; countryside
-contado
+il contado
 
 sole
 la suola
@@ -31429,11 +31429,11 @@ consegnare; cedere
 evolving
 in evoluzione
 
-entirety; 
+entirety 
 l'interezza 
 
-nella sua interezza
 in its entirety
+nella sua interezza
 
 to build up (intransitive)
 accumularsi
@@ -34337,7 +34337,7 @@ little laugh
 il riderino
 
 to mock
-irridere
+deridere; irridere
 
 pantomime
 il panto
@@ -35390,7 +35390,7 @@ to do badly
 fare per male
 
 firecracker
-petardo
+il petardo
 
 money laundering
 il riciclaggio del denaro
@@ -38275,7 +38275,7 @@ conosco un tizio che conosce un altro tizio
 to rack one's brain
 spremersi il cervello
 
-to be of great help; 
+to be of great help
 essere di grande aiuto
 
 tarp
@@ -38443,7 +38443,7 @@ il servizio programmato; la riparazione programmata
 rehearsal room; rehearsal hall
 la sala prove; lo studio di registrazione
 
-to figure out;
+to figure out
 capire; trovare una soluzione
 
 amino acid
@@ -38458,7 +38458,7 @@ tornare sui propri passi; ritracciare i propri passi
 to get intimate with a problem
 approfondire un problema; conoscere a fondo un problema
 
-I don't have time to rehash this argument;
+I don't have time to rehash this argument
 non ho tempo di ripetere questa discussione
 
 dubbing session
@@ -38501,7 +38501,7 @@ when I got back to my desk at work
 quando sono tornato alla mia scrivania al lavoro
 
 the hole was filled
-la buca è stata riempita;
+la buca è stata riempita
 
 government agency
 l'agenzia governativa
@@ -38527,10 +38527,10 @@ trionfale
 small lever
 la levetta
 
-to cool down;
+to cool down
 freddare
 
-interview with;
+interview with
 l'intervista a
 
 uncomfortable
@@ -38911,19 +38911,19 @@ la memoria collettiva
 book club
 il club del libro
 
-dubbing director;
+dubbing director
 il direttore del doppiaggio
 
 source of entertainment
 la fonte di intrattenimento
 
-I made a big deal about that;
+I made a big deal about that
 ho fatto un gran casino per quello
 
 optometrist
 l'ottico
 
-eye doctor appointment;
+eye doctor appointment
 l'appuntamento dal medico degli occhi
 
 l'optometrist appointment
@@ -39088,7 +39088,7 @@ il gerundio
 I agree with you
 sono d'accordo con te
 
-starter; 
+starter
 il motorino d'avviamento; il motorino di avviamento
 
 fiefdom; feud; fief
@@ -41164,7 +41164,7 @@ risarcire
 compensation
 l'indennizzo
 
-rapprochement
+rapproachment
 il riavvicinamento
 
 South Korean
@@ -41838,4 +41838,58 @@ ottenere (qualcosa)
 
 corny
 sdolcinato; banale
+
+whatever works
+qualsiasi cosa funzioni
+
+if it's working, go with it
+se funziona, continua cosà
+
+I didn't get a good read on her
+non ho capito bene come è lei
+
+suffice to say
+basta dire che
+
+surfboard
+la tavola da surf
+
+to surf
+fare surf
+
+mealy-mouthed answer
+la risposta evasiva
+
+silver alert
+l'allerta argento
+
+amber alert
+l'allerta ambra
+
+to waste time in between meals
+perdere tempo tra i pasti
+
+non-committal
+indecisivo
+
+skittish
+nervoso; pauroso
+
+so much to talk about
+tanto di cui parlare
+
+limp (noun)
+la zoppia
+
+to enjoy
+fruire
+
+to surge
+aumentare rapidamente
+
+on a date
+a un appuntamento; in un appuntamento
+
+to flush out
+stanare
 
