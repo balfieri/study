@@ -8827,8 +8827,8 @@ il tasto
 surgical
 chiurgico
 
-surgery (profession)
-la chiurgia
+surgery (profession, specialty)
+la chirurgia
 
 surgery (room)
 l'ambulatorio
@@ -10434,9 +10434,6 @@ non piegarsi
 
 surgeon
 il chirugo
-
-surgery
-la chirurgia
 
 burp
 il rutto
@@ -27885,9 +27882,6 @@ necessariamente
 
 protection
 la protezione
-
-surgery (specialty)
-la chirugia
 
 vanilla bean
 la bacca di vaniglia
