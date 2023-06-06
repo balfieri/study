@@ -4630,8 +4630,11 @@ penale; criminale
 criminal (noun)
 il criminale
 
-own
-proprio
+precisely; exactly; really; truly
+proprio (avverbio)
+
+one's; own; typical; characteristic
+proprio (aggettivo)
 
 internal
 interno
@@ -7789,8 +7792,8 @@ trovare lavoro come
 actually
 in realtà; in effetti
 
-proprio così
 exactly; just like that
+proprio così
 
 no problem!
 nessun problema!

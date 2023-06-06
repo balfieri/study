@@ -8030,7 +8030,7 @@ rate
 il tasso
 
 hymn; anthem
-inno
+l'inno
 
 to enrapture; to rapture
 estasiare
@@ -18016,9 +18016,6 @@ andare coi piedi di piombo
 to dot the i's and cross the t's
 mettere i puntini sulle i
 
-to tempt fate
-mettere la paglia vicino al fuoco
-
 to not be able to hurt a fly
 non fare male a una mosca
 
@@ -20533,8 +20530,8 @@ il grano
 financial; fiscal; budgetary
 finanziario
 
-prevalentemente
 predominantly; mainly; chiefly
+prevalentemente
 
 transfer
 il trasferimento
@@ -21502,8 +21499,8 @@ conservato
 to apply
 applicare
 
-performance
-prestazione
+performance (speed, etc.)
+la prestazione
 
 post-war period
 il dopoguerra
@@ -22298,7 +22295,7 @@ spinal
 vertebrale; vertebral
 
 carcass
-carcassa
+la carcassa
 
 to incorporate; to mix in; to stir in
 incorporare
@@ -22418,7 +22415,7 @@ bro code
 il codice dei fratelli
 
 brotherhood; fraternity; fellowship
-fratellanza
+la fratellanza
 
 to put away
 riponilare
@@ -37412,7 +37409,7 @@ proton
 il protone
 
 electron
-il elettrone
+l'elettrone
 
 photon
 il fotone
@@ -38015,7 +38012,7 @@ off-the-record
 non ufficiale; in via confidenziale
 
 let me think about it
-fammici pensare; lascimici pensare; fammi pensarci su
+fammici pensare; lasciamici pensare; fammi pensarci su
 
 interjection
 l'interiezione
@@ -38324,7 +38321,7 @@ self-conscious
 insicuro; imbarazzato; autocosciente
 
 old age creeps up on you
-la vecchiaia ti sorprende; la terza etè arriva inaspettata
+la vecchiaia ti sorprende; la terza età arriva inaspettata
 
 in spirit
 nello spirito; di animo
@@ -39254,7 +39251,7 @@ you get what you pay for
 si ottiene quello che si paga
 
 let me back up
-lascimi tornare indietro; fammi fare un passo indietro
+lasciami tornare indietro; fammi fare un passo indietro
 
 to pick strawberries
 raccogliere fragole
@@ -40877,7 +40874,7 @@ to reset the computer
 riavviare il computer; resettare il computer
 
 eagle (golf)
-eagle (nel golf)
+l'eagle (nel golf)
 
 two strokes under par
 due colpi sotto il par
@@ -41266,8 +41263,8 @@ la pannocchia di mais
 ear of corn
 la spiga di mais
 
-sul momento
 on the spot; at the moment
+sul momento
 
 first year of college; freshman year
 il primo anno di università; il primo anno
@@ -41910,4 +41907,25 @@ avere buone intenzioni
 
 romance novel
 il romanzo rosa
+
+authentic; real
+vero e proprio
+
+to win a tender; to win a bid; to win a chance
+vincere un bando
+
+based on (something)
+a base di (qualcosa)
+
+neither of the two; neither
+nessuno dei due
+
+I like neither apples nor oranges
+Non mi piacciono né le mele né le arance
+
+maddening
+esasperante; infuriante
+
+mixed reality
+la realtà mista
 
