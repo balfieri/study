@@ -15262,7 +15262,7 @@ l'indugio
 wide range
 la vasta gamma; l'ampia gamma
 
-to stretch; to extend
+to tend; to stretch; to extend
 tendere
 
 house husband
@@ -41929,3 +41929,5 @@ esasperante; infuriante
 mixed reality
 la realtà mista
 
+to tend to be
+tendere a essere
