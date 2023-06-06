@@ -17762,7 +17762,7 @@ emblem
 il emblema
 
 anathema
-il anatema
+l'anatema
 
 cobra
 il cobra
@@ -29268,9 +29268,6 @@ per così dire
 
 to feel sexy
 sentirsi sexy
-
-backup plan
-il piano di reserva
 
 escape plan
 il piano di evasione; il piano di fuga
@@ -41926,3 +41923,62 @@ la realtà mista
 to tend to be
 tendere a essere
 
+to get stuff done
+fare le cose
+
+the hip
+l'anca
+
+laparoscope
+il laparoscopio
+
+minimally invasive surgery
+l'operazione poco invasiva
+
+to take a stand; to overextend oneself; to overcommit
+sbilanciarsi
+
+gross income
+i redditi lordi
+
+net income
+i redditi netti
+
+compressed work schedule
+part-time verticale
+
+part-time (work)
+part-time orizzontale
+
+company share; corporate share
+la quota societaria
+
+startup
+la start up; la startup
+
+to go public
+entrare in borsa
+
+be listed; be quoted
+essere quotata
+
+super discounted price
+il prezzo super scontato
+
+very low price
+il prezzo bassissimo
+
+planned child
+il bambino pensato
+
+checkmark; verification mark
+il segno di verifica
+
+to puncture; to pierce
+bucare
+
+pierced
+bucato (aggettivo)
+
+here's the thing
+ecco il punto
