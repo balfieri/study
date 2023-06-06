@@ -7800,3 +7800,9 @@ nessun problema!
 
 to be (number) minutes late
 essere in ritardo di (numero) minuti
+
+to go shopping
+fare shopping; andare a fare shopping
+
+to do the grocery shopping; to go grocery shopping
+fare la spesa; andare a fare la spesa
