@@ -1549,7 +1549,7 @@ intanto
 meanwhile
 nel frattempo
 
-fraud; scam
+fraud; scam; rip off
 la truffa
 
 educated
@@ -3637,7 +3637,7 @@ trovo che
 for me
 per me
 
-family
+family; fam (slang)
 la famiglia
 
 couple (two)

@@ -23417,7 +23417,7 @@ expiration; course; passage
 il decorso
 
 stimulus; incentive
-stimolo
+lo stimolo
 
 environmental
 ambientale
@@ -29083,6 +29083,9 @@ it's beyond me; it's beyond my comprehension
 to have it in the bag; to have it locked up
 avercelo nel sacco
 
+in the bag
+nel sacco
+
 he wouldn't hurt a fly
 non farebbe male a una mosca
 
@@ -32428,7 +32431,7 @@ ingrommare
 engrossing
 ingrommante; avvincente
 
-low-key; low-profile
+low-profile
 di basso profilo
 
 Valentine's Day

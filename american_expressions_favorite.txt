@@ -196,7 +196,7 @@ a party-pooper
 un guastafeste
 
 party animal
-un festaiolo
+il festaiolo
 
 bananas; bonkers; nuts
 matto; pazzo; fuori
@@ -205,7 +205,7 @@ red tape
 le scartoffie
 
 to pass the buck
-passare la palla
+passare la palla; fare a scaricabarile
 
 great minds think alike
 le grandi menti pensano allo stesso modo
@@ -591,7 +591,7 @@ smettila
 pick your poison
 non si sa di quale morte morire
 
-yes siree Bob!
+yas!; yes siree Bob!
 sì!
 
 no siree Bob!
@@ -1750,7 +1750,7 @@ yikes!
 accidenti!
 
 low-key
-sottovalutato
+sottovalutato; di basso profilo
 
 bae
 la bae
@@ -2041,7 +2041,7 @@ dude!
 amico!; ragazzo!
 
 flakey (person)
-persona inaffidabile; persona incostante
+incostante; indeciso; inaffidabile
 
 jacked (appearance)
 sbalorditivo; molto muscoloso
@@ -2054,3 +2054,129 @@ fidarsi del proprio istinto
 
 to have baggage (emotional)
 avere un bagaglio (emotivo)
+
+to be flex
+essere flessibili
+
+shook
+scosso; sconvolto
+
+hip (adjective)
+alla moda; figo
+
+chicken (person)
+il codardo; il fifone
+
+ex (relationship)
+l'ex
+
+to dump (somebody)
+lasciare (qualcuno)
+
+corny; cheesy
+sdolcinato; banale; melensaggine
+
+flick (film)
+il film; la pellicola
+
+wasted (slang)
+sprecato; ubriaco; strafatto
+
+you bet!
+certamente!; puoi scommetterci!
+
+I don't buy that
+non ci credo; non mi convince
+
+rad
+fico; fantastico
+
+keep in touch
+restiamo in contatto
+
+no biggie; no big deal; no sweat
+non c'è problema; niente di grave; senza problemi
+
+to tie the knot; to get hitched
+legare il nodo; sposarsi
+
+to be beat (tired)
+essere esausto; essere stanco
+
+to get under (someone's) skin
+dare fastidio a (qualcuno); infastidire (qualcuno)
+
+to turn off (displease)
+dispiacere; spegnere
+
+it sucked
+faceva schifo; era orribile
+
+I'm game; I'm down; I'm in
+sono pronto; ci sto; sono dentro
+
+to have a blast
+divertirsi un sacco; passare un momento fantastico
+
+to hit the books
+studiar duro; mettersi sui libri
+
+to have dibs on (something)
+avere la prenotazione su (qualcosa); avere la priorità su (qualcosa)
+
+loose cannon
+il cannone impazzito; la persona imprevedibile
+
+to take (someone) for granted
+dare per scontato (qualcuno); prendere (qualcuno) come acquisito
+
+to hit the spot
+andare a segno; soddisfare
+
+to wrap up (something)
+concludere (qualcosa); avvolgere (qualcosa)
+
+around the clock
+ventiquattro ore su ventiquattro; 24 ore su 24
+
+to take a rain check
+rimandare; prendere un appuntamento per un'altra volta
+
+you're telling me!
+mi stai dicendo!; lo sai anche tu!
+
+to open Pandora's box
+aprire il vaso di Pandora
+
+in the zone
+nella zona; concentrato; in forma
+
+to tune out
+ignorare; non prestare attenzione
+
+off the hook
+fuori dai guai; scagionato
+
+amped up
+eccitato; carico
+
+to spill the tea; to spill the beans
+spifferare; rivelare i segreti
+
+cancel culture
+la cultura dell'annullamento
+
+to break the law
+infrangere la legge
+
+to get one's head around (something)
+capire (qualcosa); mettere la testa a posto su (qualcosa)
+
+gland (man)
+l'uomo ossessionato dal sesso
+
+to oogle
+guardare con desiderio; sbirciare
+
+best-case scenario
+miglior scenario possibile
