@@ -2181,3 +2181,6 @@ guardare con desiderio; sbirciare
 best-case scenario
 miglior scenario possibile
 
+5-second rule
+la regola dei 5 secondi
+

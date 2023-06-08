@@ -6349,7 +6349,7 @@ l'età
 foreign
 straniero
 
-stranger; foreigner; alien
+foreigner; alien
 lo straniero; la straniera
 
 minimum; minimal

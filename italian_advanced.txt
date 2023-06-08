@@ -14212,9 +14212,6 @@ da così a così
 trainer; educator
 il formatore
 
-5-second rule
-la regola dei 5 secondi
-
 side job; second job
 il secondo lavoro
 
@@ -25073,7 +25070,7 @@ countless; innumerable
 innumerevole
 
 comfort
-il conforto
+il comfort
 
 fulfillment
 l'adempimento
@@ -42018,3 +42015,34 @@ il pranzo da Merritt
 
 kept woman
 la donna mantenuta; la mantenuta
+
+stranger
+lo sconosciuto; la sconosciuta
+
+very well; it's great
+fa benissimo
+
+lumbar (adjective)
+lombare
+
+back problems
+i problemi alla schiena
+
+adjustable
+regolabile
+
+wrist
+il polso
+
+work seat
+la seduta da lavoro
+
+tendinitis
+le tendiniti
+
+office workstation
+la postazione da ufficio
+
+tilting backrest
+la schienale bascula
+
