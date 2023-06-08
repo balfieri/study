@@ -7810,3 +7810,5 @@ fare la spesa; andare a fare la spesa
 pop; soda; soft drink
 la bibita gassata; la bevanda analcolica; la bevanda frizzante
 
+moved
+mosso
