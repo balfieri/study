@@ -16670,7 +16670,7 @@ statehood
 la statualità
 
 doctoral student
-lo studente dottorando
+lo studente dottorando; il dotorando; la studentessa dottoranda; la dottoranda
 
 parlamentary government
 il governo parlamentare
@@ -42048,3 +42048,15 @@ il campanello
 
 master bedroom
 la camera da letto principale
+
+financial deregulation
+la deregolamentazione finanziaria
+
+attracted
+attratto
+
+high finance; fintech
+l'alta finanza; il fintech
+
+market distortion
+la distorsione del mercato
