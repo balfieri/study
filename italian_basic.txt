@@ -5819,7 +5819,7 @@ message
 il messaggio
 
 text message
-il messaggio; il sms; il messaggino
+il messaggio di testo; il sms; il messaggino
 
 Great Britain; Britain
 la Gran Bretagna
@@ -7815,3 +7815,4 @@ mosso
 
 to get along well
 andare d'accordo
+
