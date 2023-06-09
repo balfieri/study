@@ -434,7 +434,7 @@ unfortunately
 purtroppo
 
 above all
-sopratutto
+soprattutto
 
 while (doing something)
 mentre
@@ -5359,9 +5359,6 @@ il momento
 reality
 la realtà
 
-above all
-soprattutto
-
 example
 l'esempio
 
@@ -5474,7 +5471,7 @@ person
 la persona
 
 culture
-la culture
+la cultura
 
 cause
 la causa
@@ -6753,9 +6750,6 @@ il sito
 
 arrival
 l'arrivo
-
-culture (soc.)
-la cultura
 
 sound
 il suono
