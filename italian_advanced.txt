@@ -17278,9 +17278,6 @@ lascia correre; lasica perdere; lasciare stare
 leave me alone!
 lasciami in pace!; lasciami stare!
 
-actions speak louder than words
-le parole contano meno dei fatti
-
 delighted to meet you
 lieto di conoscerti
 
@@ -27632,7 +27629,7 @@ necklace
 la collana
 
 bracelet
-il bracciale
+il braccialetto; il bracciale
 
 orthodontist
 l'ortodontista
@@ -42096,4 +42093,10 @@ la personalità forte
 
 opinionated
 di opinioni forti; assertivo
+
+passive smoking
+il fumo passivo
+
+phallic
+fallico
 
