@@ -37810,7 +37810,7 @@ i pro e contro
 4-day workweek
 la settimana lavorativa di 4 giorni
 
-unwell; not feeling well; sick
+unwell; not feeling well; sick; under the weather
 indisposto
 
 fighter jet
@@ -42190,3 +42190,5 @@ lasciare (qualcosa); consegnare (qualcosa)
 I feel you; I get you
 ti capisco; ti comprendo
 
+to break a 10 (dollar bill)
+cambiare un 10
