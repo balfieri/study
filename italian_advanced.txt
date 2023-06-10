@@ -36142,17 +36142,17 @@ la California settentrionale
 black beans
 i fagioli neri
 
-a sud di
 to the south of
+a sud di
 
-a nord di
 to the north of
+a nord di
 
-a est di
 to the east of
+a est di
 
-a ovest di
 to the west of
+a ovest di
 
 I am in the process of doing it
 sono nel processo di farlo; sto facendo questo al momento
@@ -42196,3 +42196,14 @@ cambiare un 10
 to be honest; TBH
 a dire il vero; sinceramente
 
+rich flavor
+il sapore ricco
+
+swinger
+lo scambista
+
+to proceed with caution; to look before you leap; to go slowly
+procedere con cautela
+
+Lazy Susan
+il Lazy Susan; il vassoio girevole
