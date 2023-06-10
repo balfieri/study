@@ -42207,3 +42207,6 @@ procedere con cautela
 
 Lazy Susan
 il Lazy Susan; il vassoio girevole
+
+rotating; swiveling
+girevole; rotante
