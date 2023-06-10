@@ -8537,7 +8537,7 @@ stacks
 gli scaffali
 
 dense; thick
-fitto
+denso; fitto
 
 Zurich
 Zurigo
@@ -42210,3 +42210,48 @@ il Lazy Susan; il vassoio girevole
 
 rotating; swiveling
 girevole; rotante
+
+developing nation
+la nazione in via di sviluppo
+
+roughly; more or less
+grossomodo
+
+to get in line; to queue up
+mettersi in fila
+
+sleeping bag
+il sacco a pelo
+
+to pass it off as; to sell it to us
+spacciarcelo
+
+big contraption; large device
+il grosso aggeggio
+
+to interpose; to stand between
+frapporsi; frapporre
+
+paradigm shift
+il cambiamento di paradigma
+
+clumsy; awkward
+imbranato
+
+muted; subdued
+smorzato
+
+dampener; shock absorber
+lo smorzatore
+
+daily regiment
+il reggimento quotidiano
+
+to outclass; to surpass
+surclassare
+
+in a nutshell; in short
+in soldoni
+
+to take the place of; to replace
+prendere il posto di
