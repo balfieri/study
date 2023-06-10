@@ -94,7 +94,7 @@ the game plan
 il progetto; il piano; la strategia
 
 let’s get the ball rolling
-pronti via 
+pronti via; iniziare (qualcosa); cominciare a fare qualcosa
 
 in the ballpark
 abbastanza
@@ -126,9 +126,6 @@ spolpato
 to do (something) on the cheap
 avere il braccino corto; essere tirchi
 
-to get (something) off your chest
-liberasi di (qualcosa)
-
 to let it all out; to vent
 vomitar fuori il proprio veleno
 
@@ -152,9 +149,6 @@ tenere la distanza di sicurezza
 
 to pick (someone's) brain
 approfittare di (qualcuno)
-
-to get nailed for (something)
-venir beccato a fare (qualcosa)
 
 I’m in denial
 sono ancora in una fase di negazione
@@ -948,9 +942,6 @@ solleticare la fantasia
 tickled pink
 felicissimo
 
-to get a kick out of (somebody)
-trovare (qualcuno) molto divertente
-
 to rip (somebody) a new asshole; to rip (somebody) a new one
 ridicolizzare duramente (qualcuno)
 
@@ -1209,9 +1200,6 @@ un gioco da ragazzi
 space cadet
 proprio fuori; completamente fuori
 
-to get medieval on someone's heiny
-punire duramente
-
 I'm beat; I'm spent
 sono esausto
 
@@ -1307,9 +1295,6 @@ allaccia le cinture, bellezza
 
 it's not a hill worth dying on
 non è una collina su cui vale la pena morire
-
-to get one's way
-ottenere sempre quello che vuole; avere sempre la propria strada
 
 that's no small feat
 non è da poco
@@ -1427,9 +1412,6 @@ bro bono
 
 bromance (neo)
 il bromanzo
-
-to get down to business
-mettersi al lavoro; darsi da fare; andare al sodo
 
 ok, girlfrand
 va bene, ragazza
@@ -2031,9 +2013,6 @@ entrare in modalità di massimo sfruttamento
 from rags to riches
 dalle stalle alle stelle
 
-to get one's hands dirty (work)
-sporcarsi le mani (lavoro)
-
 to bring your A-game
 dare il massimo; metterci tutto te stesso
 
@@ -2103,9 +2082,6 @@ legare il nodo; sposarsi
 to be beat (tired)
 essere esausto; essere stanco
 
-to get under (someone's) skin
-dare fastidio a (qualcuno); infastidire (qualcuno)
-
 to turn off (displease)
 dispiacere; spegnere
 
@@ -2168,9 +2144,6 @@ la cultura dell'annullamento
 
 to break the law
 infrangere la legge
-
-to get one's head around (something)
-capire (qualcosa); mettere la testa a posto su (qualcosa)
 
 gland (man)
 l'uomo ossessionato dal sesso
@@ -2294,3 +2267,201 @@ figurati!; lo so, vero?
 
 Monday-morning quarterback; hindsight expert
 l'esperto a posteriori; il sapientone del lunedì
+
+noob; newbie
+il principiante; il neofita
+
+to throw shade
+lanciare ombre; fare insinuazioni indirette
+
+tool (person)
+l'idiota; lo sfigato
+
+to beef up
+rafforzare; potenziare
+
+eager beaver
+il lavoratore entusiasta; la persona molto desiderosa
+
+hold your horses
+aspetta un momento; sii paziente
+
+on a fishing expedition
+cercando di scoprire informazioni in modo indiretto
+
+monkey business
+il comportamento dispettoso o ingannevole
+
+there's plenty of fish in the sea
+ci sono molti altri uomini; ci sono molte altre donne
+
+to put lipstick on a pg
+cercare di far sembrare buono qualcosa di brutto
+
+to quit cold turkey
+smettere improvvisamente e completamente
+
+to run around like a chicken with your head cut off
+agire in modo caotico; essere molto disorganizzato
+
+to smell a rat
+sospettare che qualcosa non vada
+
+straight from the horse's mouth
+direttamente dalla fonte; informazioni affidabili
+
+to be a fly on the wall
+essere un osservatore inosservato
+
+zebras don't change their stripes
+le persone non cambiano la loro natura di base
+
+to call the shots
+prendere decisioni; essere al comando
+
+a cheap shot
+un attacco o una critica ingiusta
+
+dead ringer for (somebody)
+il sosia di (qualcosa)
+
+down to the wire
+fino all'ultimo momento; molto vicino
+
+to drop the ball 
+fare un errore; fallire; ignorare un compito necessario
+
+the game plan
+la strategia; il piano
+
+to give it one's best shot
+fare del proprio meglio; dare il massimo impegno
+
+to hit the mark
+raggiungere un obiettivo; avere successo
+
+to hit below the belt
+agire in modo scorretto; essere meschino
+
+in the ballpark
+vicino all'importo corretto
+
+in the right ballpark
+approssimativamente corretto; vicino alla risposta giusta
+
+to make the cut
+essere selezionati; farcela
+
+to move the goalposts
+cambiare le regole o gli obiettivi
+
+out of my league
+oltre le mie capacità; troppo difficile per me; troppo bella per me
+
+political football
+una questione controversa utilizzata per guadagno politico
+
+to have skin in the game
+avere un interesse personale in qualcosa
+
+the ball is in your court
+tocca a te agire; sta a te
+
+to go to bat for (somebody)
+sostenere o difendere qualcuno
+
+to run interference
+creare una distrazione o un ostacolo
+
+to take sides
+scegliere una parte o una posizione
+
+to toe the line
+seguire le regole o le linee guida
+
+to apply some elbow grease
+lavorare sodo; mettere impegno
+
+bare-bones
+minimo; essenziale
+
+to be a bundle of nerves
+essere molto ansioso o teso
+
+by the skin of your teeth
+per un pelo; appena
+
+to give (somebody) a hand
+aiutare (qualcuno); assistere
+
+to go behind (somebody's) back
+agire di nascosto contro qualcuno
+
+to go belly up
+fallire; fallire finanziariamente
+
+it's like pulling teeth
+è molto difficile; è impegnativo
+
+joined at the hip
+amici molto stretti; inseparabili
+
+to keep (someone) at arm's length
+mantenere le distanze da qualcosa o qualcuno
+
+elbow room
+spazio per muoversi o lavorare
+
+no skin off my back
+non mi dà fastidio; non mi riguarda
+
+to pick (somebody's) brain
+chiedere il parere o le idee di qualcuno
+
+to play it by ear
+improvvisare; decidere come affrontare una situazione man mano che si sviluppa
+
+to stick one's neck out
+correre un rischio; mettersi in una posizione vulnerabile
+
+neck of the woods
+la zona locale o quartiere
+
+bought the farm
+morto; deceduto
+
+going forward
+d'ora in poi; in futuro
+
+to jump on the bandwagon
+seguire una tendenza o un'attività popolare
+
+to hold the line
+mantenere una posizione o rimanere fermi su una questione
+
+to give (something) a fair shake
+dare una possibilità a qualcosa; valutare qualcosa in modo equo
+
+looney tunes
+pazzo; folle
+
+to pass the buck
+scaricare la responsabilità o la colpa su qualcun altro
+
+to reach out to (somebody)
+contattare o comunicare con (qualcuno)
+
+that really knocks my socks off
+questo mi colpisce o mi stupisce davvero
+
+to take a rain check
+rimandare o posticipare qualcosa
+
+top of the line
+il meglio o la qualità più alta
+
+to touch base with (somebody)
+mettersi in contatto o fare il punto con (qualcuno)
+
+your John Handcock
+la tua firma
