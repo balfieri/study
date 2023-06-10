@@ -3541,7 +3541,7 @@ il recupero
 recovery (to prior status)
 il ricupero
 
-roommate
+roommate; roomie
 il compagno di stanza; la compagna di stanza
 
 backyard
@@ -15136,9 +15136,6 @@ andare fuori di testa
 great; awesome
 alla grande
 
-I'm psyched
-sto gasato
-
 end of story; and that is that; nothing more to say
 chi s'è visto s'è visto
 
@@ -17961,9 +17958,6 @@ grazie a Dio è venerdì; per fortuna è venerdì
 
 that's the spirit
 questo è lo spirito giusto; questo è lo spirito
-
-I don't know; I have no idea
-boh!
 
 I wish to do something
 mi va di
@@ -26149,7 +26143,7 @@ impartito
 to impart
 impartire
 
-roommate; flatmate; housemate; roomie
+roommate; roomie; flatmate; housemate; roomie
 il coinquilino; la coinquilina
 
 dilapidated; shabby; run-down
@@ -42168,4 +42162,31 @@ il rasoio di sicurezza
 
 car wash
 l'autolavaggio
+
+and then it stopped
+e poi si è fermato
+
+nice wheels!
+nice car!; nice vehicle!
+
+to bust (somebody)
+arrestare (qualcuno); sgamare (qualcuno)
+
+shady person
+la persona losca; la persona ombrosa
+
+hooked on (something)
+dipendente da (qualcosa); agganciato a (qualcosa)
+
+to do (somebody) a solid
+fare un favore a (qualcuno)
+
+to drop by
+passare; fare un salto
+
+to drop off (something)
+lasciare (qualcosa); consegnare (qualcosa)
+
+I feel you; I get you
+ti capisco; ti comprendo
 
