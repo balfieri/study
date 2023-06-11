@@ -16394,7 +16394,7 @@ to get wind of
 venire a sapere
 
 to be in denial
-non accettare la verità
+essere nel negazionismo; non accettare la verità; essere nel rifiuto di accettare la realtà
 
 pack of lies
 il mucchio di bugie
@@ -42258,3 +42258,21 @@ prendere il posto di
 
 inaccurately
 inaccuratamente
+
+imaginative
+fantasioso
+
+to paraphrase
+parafrasare
+
+to high five
+dare il cinque
+
+to fist bump
+toccare i pugni
+
+high five
+il dai cinque
+
+fist pump
+il pugno alzato
