@@ -3524,7 +3524,7 @@ squinting
 lo strobico; lo strabismo
 
 to squint
-strabicare
+strizzare; strabicare
 
 brick; tile
 il mattone
@@ -42301,3 +42301,5 @@ l'idrocolonterapia
 addirittura
 even; actually; directly
 
+left and right (adverb)
+a destra e a sinistra
