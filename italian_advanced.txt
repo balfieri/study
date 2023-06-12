@@ -42309,3 +42309,6 @@ scavare una tomba
 
 in return; as compensation
 in compenso
+
+dark brown
+marrone scuro
