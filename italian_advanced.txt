@@ -190,9 +190,6 @@ scuola di specializzazione
 musician
 il musicista
 
-to learn
-apprendere
-
 learning
 l'apprendimento
 
@@ -1511,7 +1508,7 @@ comedy sketch
 lo sketch comico; la scenetta comica
 
 funny streak
-la vena umoristica; la striscia divertenta
+la vena umoristica; la striscia divertente
 
 repulsive
 ripugnante; disgustoso; repellente
@@ -4884,6 +4881,9 @@ arruffare
 
 sperm
 lo sperma
+
+semen
+il seme; lo sperma
 
 X chromosome
 il cromosoma X
@@ -42315,4 +42315,58 @@ risorgere; resuscitare
 
 ice bath
 il bagno di ghiaccio
+
+to encrust; to crust
+incrostare
+
+milking (cow)
+la mungitura
+
+toothing
+la dentatura
+
+fart
+la scorreggia
+
+to be under a lot of stress
+essere sotto molta tensione; essere sotto molto stress
+
+stimulation
+la stimolazione
+
+clitoral stimulation
+la stimolazione clitoridea
+
+sensory stimulation
+la stimolazione sensoriale
+
+intellectual stimulation
+la stimolazione intellettuale
+
+physical stimulation
+la stimolazione fisica
+
+social interaction
+l'interazione sociale
+
+intercourse; sexual intercourse
+il rapporto sessuale
+
+interwoven
+intrecciato
+
+intertwined
+intrecciati
+
+emotional commitment
+l'impegno emotivo
+
+relationship commitment
+l'impegno nella relazione; l'impegno relazionale
+
+stoic
+stoico
+
+you already know
+lo sai già; tu già lo sai
 

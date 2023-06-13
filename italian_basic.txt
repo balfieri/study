@@ -2710,8 +2710,11 @@ Ferragosto
 to speak; to talk
 parlare
 
-to learn
+to learn (new skill, knowlege)
 imparare
+
+to learn (become more aware)
+apprendere
 
 to visit; to sightsee
 visitare
