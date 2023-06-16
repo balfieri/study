@@ -9370,7 +9370,7 @@ la sinogoga
 art history
 la storia dell'arte
 
-printer
+printer (person)
 lo stampatore
 
 hierarchy
@@ -32674,7 +32674,7 @@ la bronchite
 mustard
 la mostarda; la senape
 
-printer
+printer (device)
 la stampante
 
 stake-out
@@ -42515,10 +42515,10 @@ bike lock
 il lucchetto per bici
 
 informant; snitch; nark
-l'informatore; lo spione
+l'informatore; la spia; lo spione
 
 superintendent of schools
-il sovrintendente delle scuole; il dirigente scolastico
+l'ispettore scolastico; il dirigente scolastico
 
 highlight of my day
 il momento clou della mia giornata; il momento saliente della mia giornata
