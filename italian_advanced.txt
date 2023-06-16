@@ -42502,3 +42502,6 @@ la causa principale; la causa radice
 to start; to begin
 dare inizio a
 
+breathlessly; laboriously
+affannosamente
+
