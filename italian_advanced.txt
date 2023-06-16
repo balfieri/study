@@ -10322,7 +10322,7 @@ to come up with
 inventarsi
 
 time-consuming
-che richiede molto tempo
+dispendioso di tempo; che richiede molto tempo
 
 registry office
 l'anagrafe
@@ -42477,4 +42477,28 @@ a cosa stai lavorando in questi giorni?
 
 lunch date
 l'appuntamento per pranzo
+
+to board the dogs
+mettere i cani in pensione
+
+boarder
+il pensionante
+
+piloting; flying
+il pilotaggio; il volo
+
+disposable income
+il reddito disponibile
+
+for a change of pace
+per cambiare ritmo
+
+bug (computer)
+il bug (informatica)
+
+root cause
+la causa principale; la causa radice
+
+to start; to begin
+dare inizio a
 
