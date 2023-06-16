@@ -42518,8 +42518,10 @@ informant; snitch; nark
 l'informatore; la spia; lo spione
 
 superintendent of schools
-l'ispettore scolastico; il dirigente scolastico
+l'ispettore scolastico; il dirigente scolastico; il direttore scolastico; il dirigente dell'Ufficio Scolastico Regionale
 
 highlight of my day
 il momento clou della mia giornata; il momento saliente della mia giornata
 
+to turn out to be
+rivelarsi essere
