@@ -1432,7 +1432,7 @@ peace out
 pace
 
 fool's errand
-la missione impossibile; la sciocca missione
+l'impresa folle; la missione inutile; la missione impossibile
 
 ginormous
 ginormo
@@ -2501,4 +2501,13 @@ bere il proprio brodo
 
 she is super hot
 è super sexy; è super hot
+
+(something) on steroids
+(qualcosa) sotto steroidi
+
+she is not a dog
+non è un cane
+
+money pit; black hole of money
+il pozzo di denaro; il buco nero dei soldi
 
