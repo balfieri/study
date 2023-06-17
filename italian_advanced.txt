@@ -21328,9 +21328,6 @@ la brocca
 old-fashioned
 all'antica
 
-to open up
-aprirsi
-
 telegram
 il telegramma
 
@@ -42574,3 +42571,5 @@ la spada a doppio taglio
 to cut into line; to cut the line
 infilarsi nella fila; tagliare la coda; tagliare la fila
 
+to open up (emotionally)
+aprirsi

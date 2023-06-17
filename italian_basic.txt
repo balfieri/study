@@ -1192,7 +1192,7 @@ la verdura
 apple
 il mele
 
-dry
+dry (devoid of moisture)
 secco
 
 wet
@@ -2449,7 +2449,7 @@ innocente
 elegant
 elegante
 
-dry
+dry (after being previously wet)
 asciutto
 
 wrong; mistaken
