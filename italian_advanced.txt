@@ -2944,7 +2944,7 @@ prudere
 an old friend of mine
 un mio vecchio amico
 
-well-to-do; affluent
+well-off; well-to-do; affluent
 benestante; abbiente
 
 bite; morsel; mouthful
@@ -42552,4 +42552,7 @@ orario; ogni ora
 
 progress, not perfection
 progresso, non perfezione
+
+lake house
+la casa sul lago
 
