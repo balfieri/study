@@ -41705,7 +41705,7 @@ I was just looking at that the other day
 guardavo proprio quello l'altro giorno
 
 to look into (something)
-esaminare (qualcosa); approfondire (qualcosa)
+esaminare (qualcosa); approfondire (qualcosa); cercare (qualcosa); informarsi su (qualcosa)
 
 border-line
 al limite; borderline
@@ -42555,4 +42555,7 @@ progresso, non perfezione
 
 lake house
 la casa sul lago
+
+to look into flights
+cercare voli; informarsi sui voli
 
