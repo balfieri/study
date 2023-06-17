@@ -42564,3 +42564,6 @@ spargere semi d'erba
 
 grass seed
 i semi d'erba
+
+to book a flight to (city)
+prenotare un volo per (città)
