@@ -9268,7 +9268,7 @@ lungo la strada
 scoop of ice cream
 la pallina del gelato
 
-to extend (time)
+to extend (time); to prolong
 prolungare
 
 flush (of toilet)
@@ -13097,7 +13097,7 @@ adaptation; adjustment
 l'adattamento
 
 the date in which
-data in cui
+la data in cui
 
 melting pot
 il melting pot; il crogiolo
@@ -16609,8 +16609,8 @@ scienza, tecnologia, ingegneria e matematica
 major (school); specialization
 la specializzazione
 
-le discipline umanistiche
 the humanities
+le discipline umanistiche
 
 tuition
 la retta
@@ -18461,7 +18461,7 @@ to mother
 fare da madre; fare la mamma
 
 dirty thoughts
-gli pensieri sporchi
+i pensieri sporchi
 
 synonym
 il sinonimo
@@ -18650,7 +18650,7 @@ muggy
 afoso
 
 boxing gloves
-guantoni
+i guantoni
 
 sword
 la spada
@@ -21605,7 +21605,7 @@ recognized
 riconosciuto
 
 stability
-stabilità
+la stabilità
 
 judged
 giudicato
@@ -37684,8 +37684,8 @@ non ci si accorge del passare del tempo
 spleen
 la milza
 
-sbattere contro la porta
 to collide with the door
+sbattere contro la porta
 
 mi deprime
 it depresses me
@@ -42567,3 +42567,10 @@ i semi d'erba
 
 to book a flight to (city)
 prenotare un volo per (città)
+
+double-edged sword
+la spada a doppio taglio
+
+to cut into line; to cut the line
+infilarsi nella fila; tagliare la coda; tagliare la fila
+
