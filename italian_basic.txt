@@ -196,7 +196,7 @@ magro
 big; large
 grande
 
-small
+small; little; petite
 piccolo
 
 wide
