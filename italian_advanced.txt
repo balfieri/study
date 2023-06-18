@@ -17837,7 +17837,7 @@ attended; anticipated
 atteso
 
 nerd; geek; egghead
-il secchione
+il secchione; la secchiona
 
 mid-life
 di mezz'età
@@ -42640,9 +42640,6 @@ la spensieratezza
 McCarthyism
 il maccartismo
 
-bookworm
-la secchiona
-
 bigot
 il bigotto
 
@@ -42654,4 +42651,14 @@ stravolgersi
 
 struggling with
 in lotta con
+
+prude
+il pudico; la pudica; il bacchettone; la bacchettona
+
+black leather pants
+i pantaloni neri di pelle; i pantaloni di pelle nera
+
+black leather
+la pelle nera
+
 
