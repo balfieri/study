@@ -21548,10 +21548,10 @@ taste test
 la prova d'assaggio
 
 awkward situation
-la situazione imbarazzante
+la situazione imbarazzante e inquiete
 
 awkward moment
-il momento imbarazzante
+il momento imbarazzante e inquiete
 
 pension; retirement
 pensione
@@ -23459,7 +23459,7 @@ repeatedly; several times; many times
 più volte
 
 awkward; uncomfortable; ill at ease
-poco a mio agio
+poco a proprio agio
 
 indirectly
 indirettamente
