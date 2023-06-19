@@ -7636,8 +7636,8 @@ allontanarsi da
 to nod
 annuire
 
-to take advantage
-approffitare
+to take advantage of
+approffitare di
 
 to take advantage of (someone, something)
 approffitarsi
@@ -42783,3 +42783,55 @@ riprendersi per domani
 
 spend a day
 trascorrere una giornata; girare una giornata
+
+walls (house, building)
+i muri
+
+walls (city)
+le mura
+
+mummy
+la mummia
+
+mummified
+mummificato
+
+arranged
+sistemato
+
+to have a picnic
+fare un picnic
+
+funicular
+il funicolare
+
+soggy (food)
+impanato; inzuppato
+
+soggy (non-food)
+fradicio; bagnato
+
+the city is surrounded by walls
+la città è circondata da mura
+
+cholera
+la colera
+
+to cut off; to shape
+to mozzare
+
+juicy
+succoso
+
+from Ischia
+ischiatano
+
+chestnut tree
+il castagno
+
+to tie a knot
+fare un nodo
+
+hood
+lo scappuccio
+
