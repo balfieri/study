@@ -7591,7 +7591,7 @@ impastare
 counterpoint
 il contrappunto
 
-outline; step ladder
+outline; agenda; step ladder
 la scaletta
 
 full-time
@@ -42663,4 +42663,31 @@ la cougar; la panterona
 
 a 45-year-old woman
 una donna di 45 anni
+
+faded; withered
+smorto; appassito
+
+wall painting; mural
+la pittura murale; la murale
+
+editing
+il montaggio
+
+scallop
+la capasanta
+
+to review in view
+ripassare in vista
+
+polished
+lucidato
+
+to barter
+barratare
+
+to annihilate
+annientare
+
+salad spinner
+la centrifuga per insalata
 
