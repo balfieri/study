@@ -24982,9 +24982,6 @@ la correzione
 strict; rigorous
 rigoroso
 
-specifically
-specificamente
-
 save; salvo; volley
 la salva
 
@@ -40031,7 +40028,7 @@ to allocate; to destine
 destinare
 
 specifically
-specificatamente
+specificamente
 
 bay (horse color)
 baio
