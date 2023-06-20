@@ -4445,7 +4445,7 @@ defeated
 sconfitto
 
 secret
-segreto
+il segreto
 
 following; next
 seguente
@@ -5325,9 +5325,6 @@ l'odore
 
 wasp; hornet
 la vespa
-
-to get along
-andare d’accordo
 
 insect
 l'insetto
@@ -7813,7 +7810,7 @@ la bibita gassata; la bevanda analcolica; la bevanda frizzante
 moved
 mosso
 
-to get along well
+to get along; to get along well
 andare d'accordo
 
 dunno; I don't know; I have no idea; no idea
