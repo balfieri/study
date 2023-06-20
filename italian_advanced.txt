@@ -42979,14 +42979,17 @@ il nostro anniversario cade sempre durante questo viaggio
 most valuable player; MVP
 il giocatore più prezioso; MVP
 
-camper
-il campeggiatore; il camper
+camper (person)
+il campeggiatore
+
+camper (vehicle)
+il camper
 
 most valuable camper
-camper più prezioso
+il campeggiatore più prezioso
 
 least valuable camper
-camper meno prezioso
+il campeggiatore meno prezioso
 
 principled person
 la persona di principi
