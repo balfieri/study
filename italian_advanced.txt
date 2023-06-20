@@ -37799,7 +37799,7 @@ to defect; to desert; to leave a group or organization
 defezionare
 
 recruiter
-reclutatore
+il reclutatore
 
 aircraft
 il velivolo
