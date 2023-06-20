@@ -41713,8 +41713,8 @@ la consapevolezza situazionale
 spicco
 la prominence
 
-spicchi
-gli segments
+wedge; slice
+lo spicchio
 
 established in 1970
 fondato nel 1970
@@ -42915,4 +42915,7 @@ il sesso occasionale
 
 to quintuple
 quintuplicare
+
+to clear; to stand out
+spicchiare
 
