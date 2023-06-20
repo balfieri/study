@@ -41734,8 +41734,8 @@ i servizi a terra
 to fess up
 confessare; ammettere
 
-to ban
-bandire
+to banish; to exile
+bandire; esiliare
 
 to cause; to bring about
 arrecare
@@ -43017,3 +43017,28 @@ il vaso; la fioriera
 
 the average life expectancy is 75
 l'aspettativa di vita media è di 75 anni
+
+teething
+dentizione
+
+to donate
+donare
+
+legal person; juridical person
+la persona giuridica
+
+university; academy
+l'ateneo
+
+tender; public tender; procurement
+la gara di appalto
+
+tender notice; call for tenders
+il bando di gara
+
+call for bids
+l'invito a presentare offerte; la chiamata d'offerta
+
+request for proposal (RFP)
+la richiesta di proposta
+
