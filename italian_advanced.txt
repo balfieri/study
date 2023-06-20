@@ -37582,7 +37582,7 @@ pessimo
 everything is fine
 è tutto apposto
 
-company (a group of people working together)
+company (a group of people working together); companionship
 la compagnia
 
 limited liability company (LLC)
@@ -42942,3 +42942,7 @@ to uncover; to uncap
 
 of same-sex parents
 omogenitoriale
+
+to be too far
+essere troppo oltre
+
