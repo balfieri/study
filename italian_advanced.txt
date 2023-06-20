@@ -42922,3 +42922,5 @@ l'assistente di volo
 bud
 lo sbocchio
 
+control tower
+la torre di controllo
