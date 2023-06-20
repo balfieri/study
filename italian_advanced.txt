@@ -40417,7 +40417,7 @@ la sbandata
 disavowal
 la ripudia
 
-to disavow
+to repudiate; to disavow
 repudiare
 
 in fact
