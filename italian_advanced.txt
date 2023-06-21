@@ -43119,3 +43119,6 @@ le 10 domande principali; la lista delle prime 10 domande
 
 top 10 list
 la lista delle prime 10
+
+weather permitting
+se il tempo lo permette
