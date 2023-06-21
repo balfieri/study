@@ -157,9 +157,6 @@ l'arachide
 goal; objective
 l'obiettivo
 
-up front
-in anticipio
-
 although
 benché
 
@@ -34843,8 +34840,8 @@ la chiamaleggere
 pruner
 il potatore
 
-il patrimonio culturale
 cultural heritage
+il patrimonio culturale
 
 religious convictions
 le convinzioni religiose
@@ -43006,8 +43003,8 @@ vaccinare
 vaccinated
 vaccinato
 
-nefasto
 ominous; disastrous
+nefasto
 
 planter (person)
 il piantatore
@@ -43042,3 +43039,29 @@ l'invito a presentare offerte; la chiamata d'offerta
 request for proposal (RFP)
 la richiesta di proposta
 
+billing; invoicing
+la fatturazione
+
+auction
+l'asta
+
+sales competition
+la gara di vendita
+
+below threshold
+sotto soglia
+
+prompt; timely
+tempestivo
+
+accreditation; credit
+l'accreditamento
+
+co-conspirator
+il cospiratore
+
+to be party to (something)
+essere parte di (qualcosa)
+
+tireless; indefatigable
+infaticabile; instancabile
