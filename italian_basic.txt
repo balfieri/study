@@ -4762,8 +4762,11 @@ viaggiare
 to cancel; to annul
 annullare
 
-to delete; to erase
+to delete (written information); to erase
 cancellare
+
+to eliminate; to delete (permanently)
+eliminare
 
 to dance
 ballare
