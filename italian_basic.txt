@@ -826,11 +826,11 @@ artiginale
 police
 la polizia
 
-force
+force; strength
 la forza
 
 effort
-la sforza
+lo sforzo
 
 to avoid
 evitare
