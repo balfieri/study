@@ -1969,8 +1969,11 @@ mi stupisce sempre; mi sorprende sempre
 Mr. Right
 il signor Giusto; l'uomo ideale; il principe azzurro; l'uomo giusto
 
-to set; to set up
+to set 
 impostare
+
+to set up
+allestire; impostare
 
 to set an alarm for
 impostare una sveglia per
@@ -3349,7 +3352,7 @@ l'abilità; la capacità; la competenza
 engineering skills
 le abilità ingegneristiche; le capacità ingegneristiche
 
-set
+set (of things)
 l'insieme
 
 set of rules
@@ -43134,4 +43137,16 @@ il fondo della pagina
 
 top of the page
 la cima della pagina
+
+set (stage)
+la scenografia; il set
+
+peeping Tom
+il guardone
+
+I'm gonna shut up now
+ora mi zittisco
+
+the power of love
+il potere dell'amore
 
