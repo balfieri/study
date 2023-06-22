@@ -313,8 +313,11 @@ ruotare; rotare
 seafood
 i frutti di mare
 
+to warn; to notify; to inform
+avvisare; informare; notificare
+
 to warn; to caution; to alert
-avvisare; avvertire
+avvertire; avvisare
 
 dispute; argument (quarrel, formal)
 la disputa
