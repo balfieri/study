@@ -31,7 +31,7 @@ calmo
 white
 bianco
 
-hi (bye)
+hi; bye
 ciao
 
 hello; good day
@@ -95,7 +95,7 @@ go away
 vai via
 
 come here (informal you)
-vieni qui
+vieni qui; vieni qua
 
 come here (you all)
 venite qui
@@ -1720,9 +1720,6 @@ liscio
 rich (non-financial)
 riccio
 
-brunette
-brunetto
-
 bald
 calvo; pelato
 
@@ -2967,9 +2964,6 @@ dividere
 
 to own; to possess
 possedere
-
-to allow; to concede
-concedere
 
 to offend
 offendere
@@ -5248,7 +5242,7 @@ quanto
 how many
 quanti
 
-everything
+everything; all
 tutto
 
 everybody
@@ -5263,7 +5257,7 @@ dove
 who
 chi
 
-form
+shape; form
 la forma
 
 even (prep.)
@@ -7091,7 +7085,10 @@ immagination
 l'immaginazione
 
 customer; client
-il cliente; l'utanza
+il cliente
+
+user
+l'utente
 
 dramatic
 drammatico

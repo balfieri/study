@@ -25759,9 +25759,6 @@ promosso
 inspired
 ispirato
 
-user
-l'utente
-
 qualification
 la qualificazione
 
@@ -43431,4 +43428,10 @@ sull'aereo
 
 on the contrary
 invece
+
+brunette
+brunetto
+
+to allow; to concede
+concedere
 
