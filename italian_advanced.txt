@@ -19339,9 +19339,6 @@ nobile
 fall; drop; downfall
 la caduta
 
-same (adjective)
-medesimo
-
 to plot; to draw; to track; to trace
 tracciare
 
@@ -43290,4 +43287,10 @@ indirizzare la conversazione; guidare la conversazione; dirigere la conversazion
 
 workstation
 la postazione
+
+all around; in the round
+a tutto tondo
+
+same; identical
+medesimo
 
