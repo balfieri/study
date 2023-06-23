@@ -1576,7 +1576,7 @@ cantieristico
 ongoing; in progress; underway; afoot
 in corso
 
-shadow
+shadow; shade
 l'ombra
 
 hanging; suspended
@@ -43414,3 +43414,5 @@ il molo; il pontile
 umbrella
 l'ombrello
 
+shade; shading
+l'ombreggiatura
