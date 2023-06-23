@@ -15184,7 +15184,7 @@ baritono
 cop; pig (cop, derogatory)
 lo sbirro
 
-to warm up
+to warm up; to get warmed up
 riscaldarsi
 
 to repress; to stifle; to smother
@@ -23279,7 +23279,7 @@ overtime (work)
 il lavoro straordinario
 
 in overtime (game)
-ai tempi supplementari
+nei tempi supplementari
 
 he turned 12 (age); he reached the age of 12
 ha compiuto 12 anni
