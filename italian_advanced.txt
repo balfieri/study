@@ -32557,7 +32557,7 @@ il sale da tavola
 to fetch
 andare a prendere
 
-to review; to rehearse; to backtrack
+to review (study); to rehearse; to backtrack
 ripassare
 
 oh my God; OMG
@@ -33700,7 +33700,7 @@ il fucilo d'assalto
 probable cause
 la causa probante
 
-through the night
+all night; through the night
 tutta la notte
 
 in the dead of night
@@ -43353,3 +43353,64 @@ esitare a
 
 oral habit
 l'abitudine orale
+
+teeth cleaning
+la pulizia dei denti
+
+filling
+il riempimento
+
+text box
+casella di testo
+
+all year
+tutto l'anno
+
+all week
+tutta la settimana
+
+all month
+tutto il mese
+
+all morning
+tutta la mattina
+
+all evening
+tutta la sera
+
+to review the steps involved
+rivedere i passaggi coinvolti
+
+to review the rules
+rivedere le regole
+
+to review the list
+rivedere l'elenco; rivedere la lista
+
+dashed line; dash
+il tratteggio
+
+PowerPoint slide
+la diapositiva PowerPoint
+
+first notch of flaps
+la prima tacca dei flap
+
+notch
+la tacca
+
+field elevation
+l'altitudine del campo
+
+beach chair
+la sedia da spiaggia
+
+to push the limits
+spingere i limiti
+
+pier
+il molo; il pontile
+
+umbrella
+l'ombrello
+
