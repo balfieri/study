@@ -1033,6 +1033,9 @@ una cosa simile
 gusty
 rafficato; burrascoso
 
+stormy; rocky; gusty
+burrascoso
+
 crosswind
 il vento di traverso; il vento trasversale; il vento al traverso
 
@@ -43311,3 +43314,7 @@ l'igienista dentale
 
 dental hygiene
 l'igiene dentale
+
+rocky
+roccioso; accidentato
+
