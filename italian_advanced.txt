@@ -23935,7 +23935,7 @@ la sussistenza
 coal; charcoal
 il carbone
 
-mandatory; obligatory; compulsory
+required; mandatory; obligatory; compulsory
 obbligatorio
 
 developed
