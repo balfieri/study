@@ -1558,9 +1558,6 @@ istruito
 garden
 il giardino
 
-on the contrary
-invece
-
 instead of
 invece di; al posto di
 
@@ -2106,9 +2103,6 @@ la motocicletta; la moto
 
 train
 il treno
-
-ferry
-il traghetto
 
 plane; airplane
 l'aereo
@@ -3725,7 +3719,7 @@ show; play
 lo spettacolo
 
 ferry boat; steam boat
-il vaporetto
+il vaporetto; il traghetto
 
 past (noun)
 il passato
@@ -4032,9 +4026,6 @@ il fianco
 
 in the middle of; in the center; downtown
 al centro
-
-next to
-di fianco a
 
 at the end of; at the bottom of
 in fondo a
@@ -5113,9 +5104,6 @@ perdere tempo
 gorgeous (woman)
 splendida; stupenda; meravigliosa; magnifica; bellissima
 
-customs (airport)
-la dogana
-
 proud
 fiero
 
@@ -5689,9 +5677,6 @@ lo scherzo
 surprise
 la sorpresa
 
-on the plane
-sull'aereo
-
 often; thick
 spesso
 
@@ -5958,9 +5943,6 @@ la scuola media
 
 college; university
 l'università; l'istituto
-
-high school student
-lo studente liceale
 
 university student; undergraduate
 lo studente universitario
