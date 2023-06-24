@@ -2824,7 +2824,7 @@ diventare
 to demonstrate
 dimostrare
 
-to immagine
+to imagine
 immaginare
 
 to inform
@@ -7081,7 +7081,7 @@ arrivato
 conversation
 la conversazione
 
-immagination
+imagination
 l'immaginazione
 
 customer; client
