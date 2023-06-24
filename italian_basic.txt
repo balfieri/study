@@ -5510,7 +5510,10 @@ sacred
 sacro
 
 storm
-la tempesta; il temporale
+la tempesta
+
+thunderstorm
+il temporale
 
 seeds
 i semi
