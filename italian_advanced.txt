@@ -13414,7 +13414,7 @@ lasciare un po' a desiderare
 sometimes; occasionally; once in a while; now and then
 talvolta
 
-stroke; trait; feature
+trait; stretch; feature; stroke
 il tratto
 
 even; directly; absolutely; really
@@ -43434,3 +43434,22 @@ concedere
 
 giant step
 il passo da gigante
+
+to conduct an experiment
+condurre un esperimento; realizzare un esperimento
+
+autonomous driving level 3
+la guida autonoma di livello 3
+
+lack of funds
+la carenza di fondi
+
+draft (of boat)
+il pescaggio
+
+isthmus
+l'istmo
+
+hull (boat)
+lo scafo
+
