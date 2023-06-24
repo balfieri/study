@@ -17191,9 +17191,6 @@ fa attenzione a quello che dici!
 doesn't matter
 fa lo stesso
 
-hurry up!
-fa prèsto!
-
 be my guest; do as you please
 faccia pure
 
@@ -17411,7 +17408,7 @@ to get cold feet
 andarci con i piedi di piombo; prendersi paura
 
 hurry up!
-presto!; sbrigati!
+sbrigati!; presto!; fa presto!
 
 that will do
 punto e basta
