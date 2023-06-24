@@ -4069,8 +4069,8 @@ lo sportello
 allocation
 l'assegnazione
 
-classification
-tipologia
+type; kind; classification
+la tipologia
 
 to stimulate; to boost; to encourage; to incentivize
 incentivare
@@ -27055,7 +27055,7 @@ confederazione
 kingdom; reign; realm
 il regno
 
-shelter
+shelter; cover
 il riparo
 
 fiat
@@ -43452,4 +43452,40 @@ l'istmo
 
 hull (boat)
 lo scafo
+
+precipitation
+la precipitazione
+
+without a hitch; smoothly
+senza intoppi; agevolmente
+
+to take shelter; to find cover
+mettersi al riparo; trovare riparo
+
+to plump up; to beef up; to flesh out
+rimpolpare; ingrossare
+
+net worth
+il patrimonio netto
+
+delivery boy
+il fattorino
+
+to deliver
+recapitare
+
+takeaway food
+il cibo da asporto
+
+to lead; to bring forward
+addurre
+
+system of illegal hiring
+il caporalato
+
+deposit; caution
+la cauzione
+
+additional; extra
+aggiuntivo; supplementare
 
