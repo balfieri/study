@@ -2785,7 +2785,7 @@ scusare
 to search for; to look for
 cercare
 
-to try
+to try; to experience; to undergo
 provare
 
 to listen to
@@ -5100,9 +5100,6 @@ splendida; stupenda; meravigliosa; magnifica; bellissima
 
 proud
 fiero
-
-overly proud
-orgoglioso
 
 fastidious; fussy; picky
 pignolo
