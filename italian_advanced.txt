@@ -32804,7 +32804,7 @@ to shoot par (golf)
 tirare il par
 
 par-3
-un par 3
+il par 3
 
 world championship
 il campionato mondiale
