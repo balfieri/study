@@ -43593,3 +43593,6 @@ per conto suo
 
 on their own
 per conto loro
+
+based on
+in base a
