@@ -645,7 +645,7 @@ seriamente?
 for sure
 certamente 
 
-to put lipstick on a pig
+you can't judge a book by its cover
 l’abito non fa il monaco
 
 not a big fan
@@ -2292,8 +2292,8 @@ il comportamento dispettoso o ingannevole
 there's plenty of fish in the sea
 ci sono molti altri uomini; ci sono molte altre donne
 
-to put lipstick on a pg
-cercare di far sembrare buono qualcosa di brutto
+to try to put lipstick on a pg
+cercare di fare una torta di fango
 
 to quit cold turkey
 smettere improvvisamente e completamente
@@ -2588,3 +2588,10 @@ avere la bocca grande (grandezza)
 
 to get (something) out of one's system
 togliersi (qualcosa) di dosso; liberarsi di (qualcosa)
+
+to be on board with an idea
+essere d'accordo con un'idea
+
+to lay all the cards on the table
+mettere tutte le carte in tavola
+
