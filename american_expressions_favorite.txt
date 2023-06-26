@@ -1335,9 +1335,6 @@ essere pronto e desideroso di (fare qualcosa)
 I just don't get it
 proprio non capisco
 
-it's (something) 101
-(qualcosa) un gioco da ragazzi
-
 bingo!
 esatto!; precisamente!
 
@@ -2605,4 +2602,4 @@ thingamajig; whatchamacallit
 coso; roba
 
 it's (something) 101; (something) should be obvious, but apparently it's not
-(qualcosa) dovrebbe essere ovvio, ma non lo è; si dovrebbe imparare le basi di (qualcosa); non capisce nemmeno le nozioni fondamentali di (qualcosa)
+(qualcosa) dovrebbe essere ovvio, ma non lo è; (qualcosa) dovrebbe essere un gioco da ragazzi; si dovrebbe imparare le basi di (qualcosa); non capisce nemmeno le nozioni fondamentali di (qualcosa)
