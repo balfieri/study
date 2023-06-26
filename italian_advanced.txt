@@ -13184,7 +13184,7 @@ I'll give you a break
 ti darò una pausa
 
 to take a break; to have a break
-fare una pausa
+prendere una pausa; fare una pausa
 
 to propagate; to diffuse
 propagare; diffondere; trasmettere
@@ -21648,9 +21648,6 @@ prendere buone decisioni
 
 to make wise decisions
 prendere decisioni sagge
-
-to take a break
-prendere una pausa
 
 to take some time off
 prendere un po' di tempo libero
