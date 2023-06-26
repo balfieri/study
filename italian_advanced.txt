@@ -43752,3 +43752,7 @@ it's good practice
 
 lease
 il contratto d'affitto
+
+data structure
+la struttura dati
+
