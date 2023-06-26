@@ -26704,7 +26704,7 @@ riaprire le ferite
 enjoyable
 divertente; piacevole; gradevole
 
-full-speed
+full-speed; at full-speed
 a tutta velocità
 
 increased; augmented
@@ -43722,4 +43722,13 @@ faccio questo da oltre un anno
 
 over a year
 oltre un anno
+
+initially; at first
+inizialmente; all'inizio
+
+she refuses to fly with me
+le si rifiuta di volare con me
+
+moving target
+il bersaglio mobile
 
