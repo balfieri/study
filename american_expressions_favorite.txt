@@ -2607,3 +2607,6 @@ it's (something) 101; (something) should be obvious, but apparently it's not
 to fly too close to the sun
 volare troppo vicino al sole
 
+artsy-fartsy
+artistico in modo pretenzioso o affettato
+
