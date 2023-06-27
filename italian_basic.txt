@@ -1022,7 +1022,7 @@ daughter
 la figlia
 
 relative (personal)
-il parente; la parente; il familiare
+il parente; la parente; il familiare; la familiare
 
 bread
 il pane
