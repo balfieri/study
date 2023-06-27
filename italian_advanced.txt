@@ -11759,7 +11759,7 @@ to clear; to drain; to reclaim
 bonificare
 
 source; spring
-lo sorgente
+il sorgente
 
 why bother?
 perché disturbarsi
