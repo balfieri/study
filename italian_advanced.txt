@@ -9908,7 +9908,7 @@ helmet hook
 il gancio per casco
 
 fuel injection
-l'iniezione
+l'iniezione di carburante
 
 full-face helmet
 il casco integrale
@@ -27206,7 +27206,7 @@ sociable; social
 socievole
 
 do-it-yourself
-fai da te
+fai da te; fai-da-te
 
 shelf
 lo scaffalo
@@ -43773,3 +43773,49 @@ una ragazza carina sul retro della Vespa
 
 on the back of (a vehicle)
 sul retro di (un veicolo)
+
+ticking time bomb
+la bomba a orologeria
+
+pregnant pause
+la pausa pregnante
+
+skimming
+la scrematura
+
+irradiation
+l'irraggiamento
+
+credit (adjective)
+creditizio
+
+energy-consuming
+energivoro
+
+to intercept
+intercettare
+
+kilowatt-hour
+la chilowattora
+
+resemble
+somigliare a
+
+improper
+improprio
+
+overthrown
+spodestato
+
+price increase
+il rincaro
+
+grueling
+massacrante
+
+clear air
+l'aria limpida
+
+injection
+l'iniezione
+
