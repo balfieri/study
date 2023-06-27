@@ -23896,11 +23896,11 @@ era davvero cosà difficile?
 forgiving
 che perdona; indulgente; clemente; compassionevole
 
-consapevolmente
 knowingly
+consapevolmente
 
-inconsapevolmente
 unknowingly
+inconsapevolmente
 
 it occurred to me that
 mi è venuto in mente che
@@ -43842,3 +43842,6 @@ la sopressa
 
 mutt; mongrel; mixed-breed dog
 il bastardino; la bastardina; il cane meticcio
+
+length of the trip
+la durata del viaggio; la lunghezza del viaggio
