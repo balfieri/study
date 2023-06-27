@@ -43798,7 +43798,7 @@ intercettare
 kilowatt-hour
 la chilowattora
 
-resemble
+to resemble
 somigliare a
 
 improper
@@ -43847,7 +43847,7 @@ length of the trip
 la durata del viaggio; la lunghezza del viaggio
 
 sooner than later; sooner rather than later
-prima piuttosto che dopo; prima piuttosto che piÃ¹ tardi
+prima piuttosto che dopo; prima piuttosto che più tardi
 
 hockey stick
 il bastone da hockey
