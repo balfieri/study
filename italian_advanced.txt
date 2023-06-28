@@ -10057,8 +10057,8 @@ il palo
 mainland
 la terraferma
 
-seabed
-il fondale
+seabed; sea bed
+il fondale; il fondo marino
 
 wind power
 l'eolico
@@ -19401,9 +19401,6 @@ l'arciduca
 
 marquis
 il marchese
-
-submarine
-il sottomarino
 
 cheek; nerve (guts); brass
 la faccia tosta
@@ -43854,4 +43851,52 @@ il bastone da hockey
 
 hockey puck
 il disco da hockey
+
+it's difficult to grind the nuts fine enough
+è difficile macinare le noci abbastanza finemente
+
+fine (powder, etc.)
+finemente
+
+fine enough (powder, etc.)
+abbastanza finemente
+
+without the proper equipment
+senza l'attrezzatura adeguata
+
+as strange as it may seem
+per quanto sembrare strano
+
+to saturate
+saturare
+
+saturated
+saturato
+
+hydrophone
+l'idrofono
+
+submarine
+il sottomarino; il battiscafo
+
+finding; discovery
+il ritrovamento
+
+perpendicular
+perpendicolare
+
+alluvial
+alluvionale
+
+flood; inundation
+l'inondazione
+
+conceptually
+concettualmente
+
+it tends to be (adjective)
+tende a essere (aggettivo)
+
+geologist
+il geologo
 
