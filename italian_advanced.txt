@@ -1277,7 +1277,7 @@ spicy
 speziato
 
 eventually; in the end
-infine; alla fine
+alla fine; infine
 
 at last; after all; finally (at last); ultimately
 finalmente
@@ -2211,9 +2211,6 @@ i primi passi; i piccoli passi
 
 charge (like an electron); load; office; position; electric charge
 la carica
-
-eventually
-alla fine; infine
 
 1's and 0's
 gli 1 e gli 0
@@ -13057,8 +13054,8 @@ i media; i mass media
 biased; partial
 di parte; parziale; prevenuto
 
-so that eventually
-affinché eventually
+so eventually; so in the end
+così alla fine; quindi alla fine
 
 it just so happens that
 si dà il caso che (congiuntivo)
@@ -43956,4 +43953,16 @@ fare domanda per
 
 con trail; condensation trail
 la scia di condensazione; la scia di condensa
+
+glossy photo paper
+la carta fotografica lucida
+
+watermark
+la filigrana
+
+to get the role of a lifetime
+ottenere il ruolo della vita
+
+and then you'll be gone
+e poi sarai andato
 
