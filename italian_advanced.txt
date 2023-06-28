@@ -43900,3 +43900,20 @@ tende a essere (aggettivo)
 geologist
 il geologo
 
+to find bugs (computer)
+trovare bug
+
+software
+il software
+
+hardware
+l'hardware
+
+bug report
+il rapporto di bug
+
+to submit a bug report
+inviare un rapporto di bug; inviare un rapporto di errore
+
+root cause of the bug
+la causa radice del bug
