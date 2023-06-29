@@ -26006,7 +26006,7 @@ enhancement; appreciation
 la valorizzazione
 
 salesperson; vendor
-venditore
+il venditore
 
 null; void
 nullo
