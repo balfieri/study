@@ -3106,8 +3106,8 @@ l'avanguardia
 leverage (adjective)
 di leva
 
-settlement
-lo stanziamento
+settlement; allocation
+stanziamento
 
 old thing (fig.)
 il ferro vecchio
@@ -30700,9 +30700,6 @@ la ventura
 unemployed; jobless
 disoccupato
 
-come to think of it
-ora che ci penso
-
 cookbook
 il libro di cucina; il ricettario
 
@@ -42644,7 +42641,7 @@ to review in view
 ripassare in vista
 
 polished
-lucidato
+lucidato; pulito
 
 to barter
 barratare
@@ -43965,4 +43962,40 @@ ottenere il ruolo della vita
 
 and then you'll be gone
 e poi sarai andato
+
+that doesn't sound familiar
+non mi suona familiare
+
+all sorts of
+tutti i tipi di; vari tipi di
+
+now that I think about it; come to think of it
+ora che ci penso
+
+gross annual salary
+la retribuzione annua lorda
+
+to lump together with
+accomunare a
+
+wage-related
+salariale
+
+job advertisement; job posting
+l'annuncio di lavoro
+
+to make explicit; to clarify
+esplicitare
+
+hijacker
+il dirottatore
+
+to trace
+intracciare
+
+the software runs on our hardware
+il software funziona sul nostro hardware
+
+if you hadn't already noticed
+se non lo avessi già notato
 
