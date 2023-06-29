@@ -21311,7 +21311,7 @@ coat of arms; emblem
 lo stemma
 
 anagram
-l'anagramma (m)
+l'anagramma
 
 carisma
 il carisma
@@ -21323,7 +21323,7 @@ enigma
 l'enigma
 
 enzyme
-l'enzima (m)
+l'enzima
 
 ghost
 il fantasma
