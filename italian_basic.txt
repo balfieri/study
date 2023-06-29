@@ -64,8 +64,8 @@ ci vediamo
 see you tomorrow
 a domani
 
-see you soon
-ci vediamo al più presto
+see you soon; see you in a bit
+ci vediamo tra poco; a presto
 
 best wishes
 tanti auguri
@@ -7377,9 +7377,6 @@ per favore; per cortesia (formale)
 
 see you later
 a più tardi
-
-see you soon
-a presto
 
 see you in a little bit; see you in a few minutes
 a dopo
