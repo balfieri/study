@@ -27434,7 +27434,7 @@ Japanese
 giapponese
 
 stamp; seal
-il bollo
+il bollo; il timbro
 
 speaker; orator; lecturer
 l'oratore
@@ -39645,9 +39645,6 @@ la tessera elettorale personale
 
 travel concession
 l'agevolazione di viaggio
-
-stamp
-timbro
 
 notification postcard
 la cartolina-avviso
