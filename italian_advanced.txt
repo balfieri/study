@@ -82,9 +82,6 @@ blando; insipido; insapore
 surrender; to give up
 arrendersi
 
-to glide
-scivolare
-
 altitude
 l'altitudine
 
@@ -4346,7 +4343,10 @@ shrewdness
 l'accortezza
 
 to slip; to skid; to slide
-slittare
+slittare; scivolare
+
+to glide
+scivolare; planare
 
 development; carrying out; performance; conducting
 lo svolgimento
@@ -44007,4 +44007,10 @@ sessista
 
 gig economy
 l'economia gig
+
+to slur
+slurare
+
+to oscillate
+oscillare
 
