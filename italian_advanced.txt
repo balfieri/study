@@ -5230,8 +5230,8 @@ il riciclo
 to join; to adhere; to stick
 aderire
 
-plain; flat; lowland
-pianura
+plain (land); flat; lowland
+la pianura
 
 harmfulness; nuisance; noxiousness
 nocività
@@ -18285,9 +18285,6 @@ praticabile; plausibile
 
 viable option
 l'opzione praticabile
-
-plain (land)
-la pianura
 
 flash; gleam
 lo sprazzo
