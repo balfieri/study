@@ -44172,3 +44172,7 @@ disdetto; revocato
 
 wrapped; enclosed
 avvolto
+
+dangerousness
+la pericolosità
+
