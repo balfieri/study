@@ -44208,3 +44208,6 @@ proporzionato
 
 employer (adjective)
 datoriale
+
+to duplicate
+duplicare
