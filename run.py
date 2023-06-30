@@ -64,7 +64,7 @@ speak = False
 question_voice = 'Samantha'
 answer_voice = 'Alice'
 question_rate  = 180
-answer_rate  = 150
+answer_rate  = 160
 i = 2
 while i < len( sys.argv ):
     arg = sys.argv[i]
