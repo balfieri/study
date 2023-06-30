@@ -44088,3 +44088,6 @@ il vocabolario passivo
 
 active vocabulary
 il vocabolario attivo
+
+to alternate
+alternare
