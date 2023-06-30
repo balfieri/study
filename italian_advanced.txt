@@ -44083,3 +44083,8 @@ parlami del tuo lavoro
 a race against the clock
 una corsa contro il tempo
 
+passive vocabulary
+il vocabolario passivo
+
+active vocabulary
+il vocabolario attivo
