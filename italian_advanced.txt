@@ -44050,3 +44050,5 @@ avente
 manslaughter
 l'omicidio colposo
 
+close; near
+ravvicinato
