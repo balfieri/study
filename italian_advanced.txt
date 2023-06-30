@@ -3676,7 +3676,7 @@ sfuggire
 to season
 condire
 
-to distribute; to hand out; to pass out (water, etc.)
+to distribute; to hand out; to pass out (water, etc.); to give out
 distribuire
 
 to weaken
@@ -44091,3 +44091,4 @@ il vocabolario attivo
 
 to alternate
 alternare
+
