@@ -4903,7 +4903,7 @@ il collagamento
 connection (abstract)
 la connessione
 
-agent
+agent; officer
 l'agente
 
 to prohibit
@@ -23806,7 +23806,7 @@ la curva di apprendimento
 work in progress
 il lavoro in corso
 
-to invest; to run over (car)
+to invest; to run over (car); to hit (car)
 investire
 
 New Year's Eve
@@ -44019,4 +44019,34 @@ orgoglioso di essere americano
 
 to give blood; to donate blood
 donare sangue
+
+twice as much Bob
+due volte tanto Bob
+
+to cohabit; to live together
+convivere
+
+misdirection
+il depistaggio
+
+blatantly
+platealmente
+
+cockpit; cabin
+l'abitacolo
+
+resuscitation
+la rianimazione
+
+unharmed
+illeso
+
+to comply
+ottemperare
+
+having
+avente
+
+manslaughter
+l'omicidio colposo
 
