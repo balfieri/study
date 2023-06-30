@@ -44095,3 +44095,5 @@ alternare
 (something) in between them
 (qualcosa) tra di loro
 
+shot (gun)
+lo sparo
