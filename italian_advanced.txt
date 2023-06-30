@@ -3406,7 +3406,7 @@ il guardaroba; la guardaroba
 elsewhere; somewhere else; someplace else
 altrove; in qualche altro posto; da qualche altra parte
 
-to deny; to contradict
+to deny; to contradict; to refute
 smentire
 
 before then
@@ -44052,3 +44052,7 @@ l'omicidio colposo
 
 close; near
 ravvicinato
+
+denied; refuted; contradicted
+smentito; confutato
+
