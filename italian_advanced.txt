@@ -4123,6 +4123,12 @@ gestionale
 implementation; execution
 l'attuazione
 
+implementation (of a plan)
+l'implementazione
+
+to implement (a plan)
+implementare
+
 distribution; supply
 l'erogazione
 
@@ -41230,7 +41236,7 @@ votare all'unanimità
 agri-food
 agroalimentare
 
-implementation
+implementation (proposal into law)
 il recepimento
 
 exogenous origin
