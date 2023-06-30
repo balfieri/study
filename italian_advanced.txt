@@ -2288,7 +2288,7 @@ air traffic controller
 il controllore del traffico aereo
 
 respectful
-rispettoso
+rispettoso; rispettabile
 
 disrespectful
 irrispettoso
@@ -44161,3 +44161,8 @@ fare il tifo per (qualcuno, una squadra)
 I can't believe we ran into each other
 non posso credere che ci siamo incontrati
 
+periodically
+periodicamente
+
+dignified
+dignitoso
