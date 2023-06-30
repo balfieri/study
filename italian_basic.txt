@@ -1273,8 +1273,11 @@ il concorso; la competizione
 race; contest; competition
 la gara
 
-race (human); breed
+race (animal, not human); breed
 la razza
+
+ethnicity; race (human)
+l'etnicità
 
 lane; track; aisle; passageway
 la corsia
