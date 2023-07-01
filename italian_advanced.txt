@@ -8783,7 +8783,7 @@ on hold
 in attesa
 
 marital bliss
-la beatitudine coniugale; la gioia matrimoniale; la felicità matrimoniale
+la beatitudine coniugale; la felicità coniugale; la gioia matrimoniale; la felicità matrimoniale
 
 professional golf tour
 il tour professionistico di golf
@@ -44247,4 +44247,7 @@ lavorare molto duramente
 
 to work extremely hard
 lavorare estremamente duro
+
+to work as much; to work as well
+funzione quanto
 
