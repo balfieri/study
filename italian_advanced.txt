@@ -1429,9 +1429,6 @@ previso
 massive
 massiccio
 
-ease
-la disinvoltura
-
 even
 perfino; persino
 
@@ -28054,7 +28051,7 @@ abbacchiato
 break room
 la sala break; la sala della pausa
 
-task; duty
+task (related to role); duty
 la mansione
 
 technological
@@ -44304,4 +44301,16 @@ scalare
 
 to entrust to
 affidare a
+
+to give one's best; to do one's best
+dare il meglio di sé; fare del proprio meglio
+
+to handle; to manage
+maneggiare
+
+ease; aplomb
+la disinvoltura
+
+unparalleled; matchless
+impareggiabile; senza pari
 
