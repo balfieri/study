@@ -25303,7 +25303,7 @@ il gemello
 to demand
 esigire
 
-to require
+to demand; to require
 esigere
 
 aware
@@ -44256,3 +44256,10 @@ a casaccio; alla rinfusa
 
 quarantine
 la quarantena
+
+essentially; substantially
+sostanzialmente; essenzialmente
+
+to self-determine
+autodeterminarsi
+
