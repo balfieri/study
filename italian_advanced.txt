@@ -4306,9 +4306,6 @@ vivere di rendita
 makeshift; fallback
 il ripiego
 
-connoisseur; expert
-il conoscitore
-
 consumption; emaciation; wasting
 il deperimento
 
@@ -11929,7 +11926,7 @@ riluttante
 recalcitrant
 recalcitrante
 
-self-restraint
+self-restraint; self-control
 l'autocontrollo
 
 21st century
@@ -39073,8 +39070,11 @@ premetto che non sono un esperto
 scheduled delivery
 la consegna programmata 
 
-connoisseur
-l'intenditore; l'intenditrice
+connoisseur (refined)
+l'intenditore
+
+connoisseur (vast)
+il conoscitore
 
 a good value for money
 un buon rapporto qualità/prezzo
@@ -44320,3 +44320,17 @@ il colletto bianco
 white-collar worker
 l'impiegato d'ufficio
 
+manliness; virility
+la virilità
+
+stragrande
+huge; enormous
+
+disproportionate
+sproporzionato
+
+disproportionately
+sproporzionatamente
+
+proportionately
+proporzionalmente
