@@ -9995,7 +9995,7 @@ gas mileage
 il consumo di carburante; il chilometraggio di gas
 
 to work out
-allenarsi
+fare esercizio; allenarsi
 
 general relativity
 la relatività generale
@@ -17087,7 +17087,7 @@ a fair-weather friend
 un'amico della buona sorte
 
 to go for a walk; to go out for a walk
-andarsene a fare un giro
+andare a fare una passeggiata; andarsene a fare un giro
 
 hold on, please (formal)
 attèndere prègo; attènda prègo
@@ -44286,3 +44286,4 @@ la materia oscura
 
 river bed
 il letto del fiume; l'alveo del fiume
+
