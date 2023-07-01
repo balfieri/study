@@ -17911,9 +17911,6 @@ il tredici
 all roads lead to Rome
 tutte le strade portano a Roma
 
-last but not least
-ultimo ma non meno importante
-
 red herring
 l'elemento fuorviante
 
@@ -44298,4 +44295,13 @@ la prugna
 
 tagliatelle
 le tagliatelle
+
+gold rush
+la corsa all'oro
+
+to scale
+scalare
+
+to entrust to
+affidare a
 
