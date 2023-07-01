@@ -44338,3 +44338,6 @@ proporzionalmente
 brain teaser; puzzle
 il rompicapo
 
+enigmatic
+enigmistico
+
