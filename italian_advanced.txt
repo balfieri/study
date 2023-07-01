@@ -7819,7 +7819,7 @@ quanto sei pazzo?
 undesirable
 indesiderabile; indesiderato
 
-to dry (body part)
+to dry (instransitive)
 asciugarsi
 
 devoid; void; lacking
@@ -44281,3 +44281,8 @@ il coccolatore
 professional cuddler
 il coccolatore professionista
 
+dark matter
+la materia oscura
+
+river bed
+il letto del fiume; l'alveo del fiume
