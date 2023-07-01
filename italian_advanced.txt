@@ -44265,3 +44265,10 @@ autodeterminarsi
 
 panacea
 la panacea
+
+usability
+la fruibilità
+
+accessibility
+l'accessibilità
+
