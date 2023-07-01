@@ -3127,9 +3127,6 @@ spazzolarsi i capelli
 to show up; to introduce; to present
 presentarsi
 
-to picture oneself
-immaginarsi
-
 to make a mistake; to be mistaken; to be wrong
 sbagliarsi
 
@@ -3511,9 +3508,6 @@ la banana
 pineapple
 l'ananas
 
-plum
-la prugna
-
 coffee
 il caffè
 
@@ -3543,9 +3537,6 @@ la carne
 
 tuna
 il tonno
-
-tagliatelle
-le tagliatelle
 
 lasagna; lasagne
 le lasagne
