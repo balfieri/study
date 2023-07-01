@@ -44224,12 +44224,27 @@ il filo per stendere i panni
 rare (cooked)
 al sangue
 
-medium-rare
+medium-rare (cooked)
 a media cottura
+
+medium (cooked)
+a punto
+
+well-done (cooked)
+ben cotto
 
 you're worth it
 vali la pena
 
 I'm worth it
 valgo la pena
+
+one down, four to go
+uno giù, quattro da andare
+
+to work very hard
+lavorare molto duramente
+
+to work extremely hard
+lavorare estremamente duro
 
