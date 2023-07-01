@@ -6283,7 +6283,7 @@ la signora
 Mrs.
 Sig.ra
 
-successive; next; subsequent
+successive; subsequent; next (further away in time)
 successivo
 
 someone; somebody
@@ -6508,7 +6508,7 @@ il sogno
 currently; presently
 attualmente
 
-next; near; close
+next (close in time); near; close
 prossimo
 
 wall (structural, solid)
