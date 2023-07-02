@@ -25721,7 +25721,7 @@ dispute
 la contestazione
 
 argument; argumentation
-argomentazione
+l'argomentazione
 
 sonny; son
 il figliuolo
@@ -29284,7 +29284,7 @@ elettronico
 romanticism
 il romanticismo
 
-enciclopedia
+encyclopedia
 l'enciclopedia
 
 twenty years
@@ -38476,9 +38476,6 @@ marciare; camminare in modo cadenzato
 the protection of personal data
 la tutela dei dati personali
 
-truthfulness
-la veridicità
-
 Martian
 il marchiano
 
@@ -44497,3 +44494,14 @@ la festa bunga bunga
 to cry about it
 piangere per questo
 
+to attend a party
+partecipare a una festa
+
+on script
+sulla sceneggiatura
+
+I had to prove that I was capable of
+ho dovuto dimostrare di essere capace di
+
+veracity; truthfulness
+la veridicità
