@@ -3731,7 +3731,7 @@ emergency room
 il pronto soccorso
 
 bakery
-la panetteria; la pasticceria
+la panetteria; la pasticceria; il panificio
 
 to go on foot
 andare a piedi

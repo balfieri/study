@@ -2638,9 +2638,6 @@ rodersi
 well; shaft
 il pozzo
 
-to poison the well
-avvelenare il pozzo
-
 wand; rod; baton
 la bacchetta
 
@@ -44403,3 +44400,100 @@ la libera impresa
 
 fluffy dog
 il cane soffice; il cane peloso
+
+embassy
+l'ambasciata
+
+travel agency
+l'agenzia di viaggi
+
+firefighters
+i vigili del fuoco
+
+consulate
+il consolato
+
+car workshop
+l'officina auto
+
+avenue
+il viale
+
+taxi stand
+la fermata dei taxi
+
+flip-flops
+l'infradito
+
+undershirt
+la maglietta intima
+
+to engineer
+ingegnerizzare
+
+heartburn
+il bruciore di stomaco
+
+don't think about it too much
+non pensarci su troppo
+
+easier said than done
+più facile a dire che a fare
+
+did I catch you at a bad time?
+ti ho beccato in un brutto momento?
+
+mist
+la bruma
+
+to make a withdrawal
+fare un prelievo
+
+fraudulent
+fraudolento
+
+username
+il nome utente
+
+password
+il password
+
+van
+il furgoncino
+
+truck
+il camioncino
+
+the frost
+la gelata
+
+I imagined so
+lo immaginavo
+
+it was not well received
+non è stato ben accolto
+
+she's very protective of her personal space
+è molto protettiva del suo spazio personale
+
+comfortable environment
+l'ambiente comfortevole
+
+multifunctional
+polifunzionale
+
+wheelchair
+la carrozzina
+
+in a wheelchair
+in carrozzina
+
+amphitheater
+l'anfiteatro
+
+bunga bunga party
+la festa bunga bunga
+
+to cry about it
+piangere per questo
+
