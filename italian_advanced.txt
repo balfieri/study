@@ -44614,3 +44614,9 @@ cose da fare
 to put down one's cards
 mettere giù le proprie carte
 
+to lay down one's cards
+mettere in gioco le proprie carte
+
+to put one's cards on the table
+mettere le carte in tavola
+
