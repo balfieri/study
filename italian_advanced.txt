@@ -19633,7 +19633,7 @@ la valle
 lawn; grass; meadow
 il prato
 
-revolt; insurrection; uprising
+revolt
 la rivolta
 
 frequency
@@ -44631,4 +44631,10 @@ rivedere una registrazione audio
 
 games to play
 giochi da giocare
+
+to speculate
+speculare
+
+uprising
+la sollevazione 
 
