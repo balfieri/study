@@ -3296,7 +3296,7 @@ rank; mob; host
 la schiera
 
 to resign; to quit
-dimettersi
+dimettersi; licenziarsi
 
 to go around
 andare in giro
@@ -44640,4 +44640,7 @@ la sollevazione
 
 to fall off of
 cadere da
+
+to fire (someone); to sack (someone); to give (someone) the boot; to give (someone) the sack
+licenziare (qualcuno)
 
