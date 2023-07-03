@@ -24355,9 +24355,6 @@ l'ammissione
 genesis
 la genesi
 
-sequence
-la sequenza
-
 speaker; reporter; spokesman
 il relatore
 
@@ -40840,7 +40837,7 @@ la tratta
 advertiser
 l'inserzionista
 
-equipo interdisciplinario
+interdisciplanary team
 la squadra interdisciplinare
 
 walk downtown; stroll in the city center
@@ -44598,4 +44595,22 @@ quasi corretto
 
 I don't like to listen to my voice in English, let alone in Italian
 non mi piace ascoltare la mia voce in inglese, figuriamoci in italiano
+
+card game
+il gioco di carte
+
+sequence; run (card game)
+la sequenza
+
+people to see
+persone da vedere
+
+places to go
+posti da visitare
+
+things to do
+cose da fare
+
+to put down one's cards
+mettere giù le proprie carte
 
