@@ -719,7 +719,7 @@ with gusto
 con grande energia; con grande enthusiasmo
 
 neutral
-neutro
+neutro; neutrale
 
 to graduate (from high school)
 diplomare; prendere il diploma
