@@ -44644,3 +44644,6 @@ cadere da
 to fire (someone); to sack (someone); to give (someone) the boot; to give (someone) the sack
 licenziare (qualcuno)
 
+traffic pattern
+lo schema del traffico
+
