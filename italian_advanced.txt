@@ -44407,7 +44407,7 @@ il consolato
 car workshop
 l'officina auto
 
-avenue
+avenue; parkway
 il viale
 
 taxi stand
