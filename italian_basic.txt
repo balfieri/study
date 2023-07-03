@@ -2291,7 +2291,7 @@ pepper (vegetable)
 il peperone
 
 dessert
-il dolce
+il dolce; il dessert
 
 milk
 il latte
@@ -3522,9 +3522,6 @@ l'acqua
 
 croissant
 il cornetto
-
-dessert
-il dolce; il dessert
 
 meat
 la carne
