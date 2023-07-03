@@ -35653,9 +35653,6 @@ il grattacapi
 of course not
 certo che no
 
-of course yes
-certo che sì
-
 half measure
 la mezza misura
 
@@ -44571,3 +44568,10 @@ la situazione è peggio di quanto pensassi
 
 guess what?
 indovina un po'?
+
+of course yes; certainly yes
+certo che sì; sicuramente sì
+
+if I were to run for president, I'd run on a platform of
+se dovessi candidarmi alla presidenza, mi candiderei su una piattaforma di
+
