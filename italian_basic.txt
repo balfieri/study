@@ -109,9 +109,6 @@ mi mancano
 do you miss me?
 ti manco?
 
-strawberries
-le fragole
-
 may I have (or get)?
 posso prendere?
 
@@ -2403,9 +2400,6 @@ povero
 
 inexpensive; economic
 economico
-
-cheap; shoddy
-scadente
 
 empty
 vuoto

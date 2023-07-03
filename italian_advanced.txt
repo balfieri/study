@@ -23050,8 +23050,8 @@ dissociare; dissociarsi
 miracle
 il miracolo
 
-miracoloso
 miraculous
+miracoloso
 
 miraculously
 miracolosamente
@@ -40411,9 +40411,6 @@ l'alimentazione
 bad weather
 l'intemperia
 
-shell
-l'involucro
-
 non-slip
 anti-scivolo
 
@@ -44514,3 +44511,37 @@ essere stufo di (qualcuno); averne avuto abbastanza di (qualcuno)
 
 to instigate; to incite; to provoke; to stir up
 istigare; provocare; incitare
+
+cheap; shoddy
+scadente
+
+power outlet
+la presa di corrente
+
+wrapping; envelope; shell
+l'involucro
+
+person on the inside
+la persona all'interno
+
+to turn up again; to reappear
+ricapitare
+
+to advocate
+avvocare
+
+pancreas
+il pancreas
+
+pancreatic cancer
+il cancro al pancreas
+
+entertainer
+l'intrattenitore
+
+paycheck
+lo stipendio; l'assegno di paga
+
+to live paycheck-to-paycheck
+vivere alla giornata
+
