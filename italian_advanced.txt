@@ -44743,3 +44743,8 @@ l'addetto
 research strand; research thread
 il filone di ricerca; il filo di ricerca
 
+precursor; prodrome
+il prodromo; il precursore
+
+worn
+indossato
