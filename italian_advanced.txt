@@ -44748,3 +44748,10 @@ il prodromo; il precursore
 
 worn
 indossato
+
+leap forward
+il balzo in avanti
+
+jump forward
+il salto in avanti
+
