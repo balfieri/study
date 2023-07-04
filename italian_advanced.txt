@@ -9034,9 +9034,6 @@ ho bisogno di una pausa da lui
 to insight a rebellion
 inscenare una ribellione
 
-to sob
-singhiozzare
-
 to hike
 fare un'escursione
 
@@ -28249,7 +28246,7 @@ l'orrore
 theological
 teologico
 
-infantryman
+infantryman; jack (cards)
 il fante
 
 eloquence
@@ -44647,3 +44644,65 @@ licenziare (qualcuno)
 traffic pattern
 lo schema del traffico
 
+three of a kind
+il tris
+
+spade
+la picca
+
+joker
+il jolly
+
+curse
+la maledizione; l'imprecazione
+
+tell me about it!
+a chi lo dici!
+
+strength and courage
+forza e coraggio
+
+you're almost there
+ci sei quasi
+
+what a pity
+che peccato
+
+darn it!
+mannaggia!
+
+to startle
+soprassaltare
+
+on loan
+in prestito
+
+to hum
+canticchiare
+
+to whistle
+fischiare
+
+to grit
+digrignare
+
+to rub
+sfregare
+
+to hiccup; to sob
+singhiozzare
+
+hiccup
+il singhiozzo
+
+to slurp
+bere rumorosamente
+
+to jerk
+sussultare
+
+to pant
+ansimare
+
+to click one's tongue
+schioccare la lingua
