@@ -5479,8 +5479,11 @@ la ricerca
 place; seat
 il posto
 
-chair; seat; stool
+chair (usually in a house); seat; stool
 la sedia
+
+seat (car, train, plane)
+il sedile
 
 term
 il termine
