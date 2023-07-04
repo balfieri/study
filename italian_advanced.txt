@@ -44755,3 +44755,6 @@ il balzo in avanti
 jump forward
 il salto in avanti
 
+to play a role in (not acting)
+svolgere un ruolo in
+
