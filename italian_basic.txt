@@ -7803,3 +7803,6 @@ da mio padre
 
 to go to the gym
 andare in palestra
+
+are you ok?
+stai bene?
