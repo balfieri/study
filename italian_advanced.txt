@@ -24148,9 +24148,6 @@ seccante
 it's none of my business
 non sono affari miei
 
-unforseen circumstances
-le circostanze impreviste
-
 we all have problems
 tutti abbiamo problemi
 
@@ -40435,7 +40432,7 @@ lo sparatutto
 first-person shooter
 lo sparatutto in prima persona
 
-to have an unforseen event; to have an unexpected situation; to have something come up
+to have an unforeseen event; to have an unexpected situation; to have something come up
 avere un imprevisto
 
 there's hope
@@ -44817,4 +44814,19 @@ prolisso; prolungato
 
 to clear up a situation
 chiarire una situazione
+
+platonic 
+platonico
+
+platonic relationship
+la relazione platonica
+
+unforeseen circumstances
+le circostanze impreviste
+
+due to unforeseen circumstances
+a causa di circostanze impreviste
+
+I can't blame her
+non posso biasimarla
 
