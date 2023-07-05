@@ -44874,3 +44874,6 @@ rincarare
 
 rise; increase
 il rialzo
+
+to binge-watch
+guardare in binge
