@@ -581,7 +581,7 @@ challenge
 la sfida
 
 route (air and maritime navigation)
-la rotta
+la rotta; la tratta
 
 rather than
 anziché
@@ -36380,7 +36380,7 @@ indictment
 accusa; incriminazione; l'atto di accusa
 
 to indict
-incolpare; imputare un reato
+imputare un reato; incolpare
 
 criminal conduct
 il comportamento criminale
@@ -40819,9 +40819,6 @@ lo spray al pepe
 baton; truncheon
 il manganello
 
-trafficking; trade; draft (money)
-la tratta
-
 advertiser
 l'inserzionista
 
@@ -44866,3 +44863,14 @@ molto prima di raggiungere
 to follow one's dream
 seguire il proprio sogno
 
+on an annual basis
+su base annua
+
+increased (price); hiked up
+rincarato
+
+to increase (price); to raise; to hike up
+rincarare
+
+rise; increase
+il rialzo
