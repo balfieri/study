@@ -25246,7 +25246,7 @@ la crisi
 sentence; verdict
 la sentenza
 
-norm
+norm; rule
 la norma
 
 caffeinated
