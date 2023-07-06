@@ -6122,7 +6122,7 @@ argument at hand; proposed topic
 l'argomento proposto
 
 to volunteer
-fare il volontario; offrirsi volentario
+fare volontariato; fare il volontario; offrirsi volentario
 
 encouraging
 incoraggiante
@@ -10413,9 +10413,6 @@ grato; riconoscente
 
 deck of cards
 il mazzo di carte
-
-to volunteer
-fare volontariato
 
 to self-destruct
 autodistruggersi
