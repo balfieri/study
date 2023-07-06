@@ -94,6 +94,12 @@ while i < len( sys.argv ):
     elif arg == '-s':
         speak = int(sys.argv[i])
         i += 1
+    elif arg == '-av':
+        answer_voice = sys.argv[i]
+        i += 1
+    elif arg == '-ar':
+        answer_rate = int(sys.argv[i])
+        i += 1
     else:
         die( f'unknown option: {arg}' )
 
