@@ -44968,3 +44968,6 @@ da qualche parte tra
 to ungroup
 disaggruppare; separare
 
+the cup is half full
+la tazza è mezza piena
+
