@@ -44926,3 +44926,6 @@ le corde vocali
 naturalness
 la naturalezza
 
+dragged along; dragged
+trascinato; strascicato
+
