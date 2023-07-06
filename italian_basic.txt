@@ -7219,9 +7219,6 @@ la locazione
 weight
 il peso
 
-greeting; salutation; salute
-il saluto
-
 rock; fortress; rook
 la rocca
 
