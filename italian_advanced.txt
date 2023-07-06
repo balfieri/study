@@ -19406,7 +19406,7 @@ to save (money)
 risparmiare
 
 to save; to rescue
-salvare
+salvare; soccorrere
 
 sauna
 la sauna
@@ -44910,3 +44910,6 @@ la briglia
 
 the remains
 i resti
+
+to aid; to rescue
+soccorrere
