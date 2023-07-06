@@ -4072,9 +4072,6 @@ la salute
 sick person
 il malato; la malata
 
-sore throat
-il mal di gola
-
 medicine
 la medicina
 
@@ -4086,9 +4083,6 @@ il prodotto
 
 roll; sandwich
 il panino
-
-cured ham
-il prosciutto cotto
 
 salami
 il salame
@@ -4221,9 +4215,6 @@ la borsa
 
 skirt
 la gonna
-
-pigeon
-il piccione
 
 leaf
 la foglia
