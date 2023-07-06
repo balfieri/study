@@ -5983,7 +5983,7 @@ in edicola
 newsstand
 l'edicola
 
-to neglect; to overlook; to disregard
+to neglect; to overlook
 trascurare
 
 to leave out; to omit; to neglect
@@ -29647,7 +29647,7 @@ il sigillo
 representative (adjective)
 rappresentativo
 
-neglected; derelict
+neglected; overlooked
 trascurato
 
 thorough; in-depth; deepened
@@ -44913,3 +44913,4 @@ i resti
 
 to aid; to rescue
 soccorrere
+
