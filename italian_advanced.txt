@@ -13780,9 +13780,6 @@ spiacevole
 to impress; to make an impression
 far colpo su
 
-to slur one's words; to mangle one's words
-mangiarsi le parole
-
 reference point
 il punto di referimento
 
@@ -44916,4 +44913,10 @@ soccorrere
 
 to get hands on it
 metterci mano
+
+to eat one's words; to slur one's words; to mangle one's words
+mangiarsi le parole
+
+to spell
+compitare
 
