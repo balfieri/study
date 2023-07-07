@@ -6364,9 +6364,6 @@ fittizio
 so that
 acciocché
 
-not at all
-macché
-
 overweight
 sovrappeso; in sovrappeso; obeso
 
@@ -11535,9 +11532,6 @@ morire dalle risate; morire dal ridere
 
 joint
 la canna
-
-get lost!
-vattene!
 
 this is what you have to look forward to
 questo è quello che ti aspetta
@@ -17378,7 +17372,10 @@ for the love of God; for Pete's sake
 per l'amor di Dio
 
 not at all
-per niente
+per niente; macché; niente affatto
+
+no, not at all
+no, per niente
 
 stop it!
 piantala!
@@ -20800,9 +20797,6 @@ bel colpo!
 I don't think so
 non credo proprio
 
-not at all
-niente affatto
-
 answering machine
 la segreteria
 
@@ -21660,9 +21654,6 @@ spilorcio
 
 dirt; filth; grime
 la sporcizia
-
-no, not at all
-no, per niente
 
 I just can't; I really can't
 non posso proprio
@@ -28594,8 +28585,11 @@ la contessa
 weaving; plot; entanglement
 l'intreccio
 
-flue; exhaust pipe
-lo scarico
+flue
+lo scarico; la canna fumaria
+
+exhaust pipe
+il tubo di scarico
 
 buyer; purchaser
 il compratore
@@ -44970,4 +44964,28 @@ disaggruppare; separare
 
 the cup is half full
 la tazza è mezza piena
+
+do I sound like a girl today?
+oggi sembro una ragazza?
+
+later that evening
+più tardi quella sera
+
+cryptography
+la crittografia
+
+sometimes it is
+alcune volte lo è
+
+coup de grace; mercy stroke; finishing blow
+il colpo di grazia
+
+maturity level
+la livello di maturità
+
+the thing I have to get used to
+la cosa a cui devo abituarmi
+
+to relieve tension
+alleviare la tensione
 
