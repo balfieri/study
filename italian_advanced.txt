@@ -1429,7 +1429,7 @@ previso
 massive
 massiccio
 
-even
+even (also)
 perfino; persino
 
 level (adjective)
@@ -13399,8 +13399,11 @@ talvolta
 trait; stretch; feature; stroke
 il tratto
 
-even; directly; absolutely; really
+even (also); as far as; directly
 addirittura
+
+seriously?!; really?!; totally?!
+addirittura?!
 
 really!
 addirittura!
@@ -45015,3 +45018,40 @@ premenopausale
 
 test case
 il caso di prova
+
+to have a funny feeling
+avere una strana sensazione
+
+increduality
+l'incredulità
+
+directness
+la dirittura
+
+nothing less
+nientemeno
+
+to be cast in the air
+essere campato in aria
+
+calcium carbonate
+il carbonato di calcio
+
+hallucinogen
+l'allucinogeno
+
+to disguise; to camouflage
+camuffare
+
+disguised; camouflaged
+camuffati
+
+behind a chain
+dietro a catena
+
+lapel; cuff
+il risvolto
+
+implications; folds
+i risvolti
+
