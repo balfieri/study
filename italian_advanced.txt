@@ -18589,7 +18589,7 @@ l’elettricista
 vet; veterinarian
 il veterinario
 
-butcher
+butcher; slaughterer
 il macellaio
 
 jewler
