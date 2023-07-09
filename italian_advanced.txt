@@ -43897,7 +43897,7 @@ il ricongiungimento
 educator; pedagogue
 il pedagogo
 
-to dig; to carve
+to dig; to carve; to excavate
 scavare
 
 to apply for
@@ -45555,4 +45555,7 @@ l'accaduto; quello che è accaduto
 
 to sneak into
 intrufolarsi
+
+excavator
+escavatore
 
