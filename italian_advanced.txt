@@ -45526,3 +45526,5 @@ rinascere
 slaughter
 macellazione
 
+to access remotely
+accedere da remoto
