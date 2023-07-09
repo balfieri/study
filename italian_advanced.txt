@@ -28460,7 +28460,10 @@ carriage; coach (transportation); chariot
 la carrozza
 
 semolina
-il semolino; la semola
+il semolino
+
+semola (courser than semolina)
+la semola
 
 eyesore
 obbrobrio
@@ -45546,4 +45549,7 @@ posso farti vedere Londra
 
 grove; small woods
 il boschetto; il piccolo bosco
+
+the incident; what happened
+l'accaduto; quello che è accaduto
 
