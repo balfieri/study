@@ -25756,8 +25756,8 @@ fabbricato
 authorized
 autorizzato
 
-met
-incontrato
+encountered; met
+incontrato; riscontrato
 
 divorce
 il divorzio
@@ -45559,8 +45559,14 @@ intrufolarsi
 excavator
 escavatore
 
+return (of something)
+il reso
+
 returns
 i resi
+
+return label
+l'etichetta di reso
 
 to take a victory lap
 fare un giro di vittoria
@@ -45573,4 +45579,16 @@ sorpassare (qualcuno)
 
 to prepare; to get ready
 cingiare
+
+to deviate; to diverge; to stray
+discostarsi
+
+purchase receipt
+la ricevuta d'acquisto
+
+lack of conformity; non-compliance
+la mancanza di conformità; l'inadempienza
+
+under warranty
+in garanzia
 
