@@ -14446,7 +14446,7 @@ la retinopatia diabetica
 ophthalmology
 l'oftalmologia
 
-skirmish; sign; warning; heads-up
+omen; skirmish; sign; warning; heads-up
 l'avvisaglia
 
 diabetes
@@ -36505,7 +36505,7 @@ la doppia mansardata
 without having anything to do with
 senza avere a che fare
 
-the wording; the phrase
+wording
 la dicitura
 
 receptiveness; hospitality
@@ -45054,4 +45054,307 @@ il risvolto
 
 implications; folds
 i risvolti
+
+on lunch break
+in pausa pranzo
+
+to sentence
+sentenziare
+
+porch
+il porticato
+
+customer
+l'avventore
+
+to perch
+appollaiare
+
+to find oneself on the street
+trovarsi per strada
+
+intercom
+il citofono
+
+firstborn
+primogenito
+
+to join, to aggregate
+aggregarsi
+
+sparkling style
+lo stile frizzante
+
+it is said
+dicasi
+
+big dog
+il cagnone
+
+misadventure
+la disavventura
+
+picket
+il picchetto
+
+chair
+la seggiola
+
+released
+sprigionato
+
+thunderous
+fragoroso
+
+nonsense
+la fuffa
+
+to regurgitate
+rigurgitare
+
+tear; rip
+lo squarcio
+
+to probe
+scandagliare
+
+to walk the runway
+fare passerella
+
+organized crime
+la malavita organizzata
+
+to supersede
+soppiantare
+
+neighbour across the street
+il dirimpettaio
+
+realm
+il reame
+
+fallacy
+la fallacità
+
+imaginative
+immaginifico
+
+paroxysm
+il parossismo
+
+misandry
+la misandria
+
+statuesque
+statuario
+
+haughty
+impettito
+
+sleepy
+assonnato
+
+lanky
+spilungone
+
+slobbery
+bavoso
+
+hell
+l'infero
+
+to hurt
+ferire
+
+to make violent love; to have rough sex
+fare amore con violenza
+
+boulder
+il macigno
+
+to perpetrate
+perpetrare
+
+to overflow
+traboccare
+
+the Lega apprentice
+l'apprendista leghista
+
+supply
+il rifornimento
+
+veined
+venato
+
+to doze
+sonnecchiare
+
+paved
+lastricato
+
+sticks of brittle
+le stecche di croccante
+
+to nibble
+sbocconcellare
+
+sheepdog
+il tosone
+
+to suffer
+patire
+
+hustle and bustle
+il trambusto
+
+rickety old boat
+il trabiccolo
+
+artificer, bomb disposal expert
+artificiere
+
+carriage
+la calesse
+
+minstrel
+il menestrello
+
+fan
+il ventaglio
+
+childhood
+la fanciullezza
+
+to catalogue
+catalogare
+
+to strive
+adoperarsi
+
+to hover
+aleggiare
+
+fairytale-like
+fiabesco
+
+cloak and sword
+cappa e spada
+
+boarding gate
+la porta d'imbarco
+
+scoundrel
+il mascalzone
+
+to have a brain
+avere cervello
+
+to drill
+farare
+
+greyness
+il grigiore
+
+asthmatic
+asfittico
+
+cast iron
+il ferro fuso
+
+to nibble
+smangiucchiare
+
+to presage
+presagire
+
+mocking
+il beffardo
+
+to succumb
+soccombere
+
+adversity
+l'avversità
+
+holes
+i pertugi
+
+to scratch
+scalfire
+
+bloody
+cruento
+
+impetuosity
+l'irruenza
+
+married
+convolato
+
+undisputed
+indiscusso
+
+sharpness
+la spigolosità
+
+mastery
+la maestria
+
+handled
+maneggiato
+
+the steep climb
+l'impervia salita
+
+broken
+spezzato
+
+bristly
+irto
+
+brood
+la nidiata
+
+pot-bound
+invasato
+
+stammering
+balbuziente
+
+to reverberate
+ripercuotere
+
+hidden
+celato
+
+astonished
+sbigottito
+
+ineffable
+ineffabile
+
+studded
+costellato
+
+uphill
+in salita
+
+spur
+lo sprone
+
+grit
+la grinta
+
+to stack
+inpilare
+
+optical illusion
+l'illusione ottica
+
+malevolent
+malevolo
+
+jumpsuit
+la tuta
 
