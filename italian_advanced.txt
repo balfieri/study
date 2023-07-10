@@ -13516,9 +13516,6 @@ l'ustione
 Coast Guard
 la Guardia costiera
 
-pier; jetty; wharf
-il molo
-
 front (adjective)
 antistante
 
@@ -43342,7 +43339,7 @@ la sedia da spiaggia
 to push the limits
 spingere i limiti
 
-pier
+pier; jetty; wharf
 il molo; il pontile
 
 umbrella
@@ -45625,3 +45622,35 @@ la carne di cavallo
 I have to listen even better
 devo ascoltare ancora meglio
 
+to hear by ear
+sentire a orecchio
+
+accentuation
+l'accentazione
+
+atonement
+l'espiazione
+
+to overshadow
+adombrare
+
+sketch
+lo schizzo
+
+preacher
+il predicatore
+
+helpful
+servizievole
+
+docile
+docile
+
+I can't even
+non posso fare nemmeno
+
+to fail miserably
+fallire miseramente
+
+guess
+la supposizione; l'indovinello; l'ipotesi
