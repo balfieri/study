@@ -6259,7 +6259,7 @@ il concepimento
 to exclude
 estromettere
 
-to protect; to defend; to preserve
+to protect (formal, legal); to defend; to preserve
 tutelare
 
 to incur
@@ -45591,4 +45591,34 @@ la mancanza di conformità; l'inadempienza
 
 under warranty
 in garanzia
+
+ultimate frisbee
+il frisbee ultimo
+
+group conversation
+la conversazione di gruppo
+
+equine
+equino
+
+bypassed; circumvented
+aggirato
+
+falsified; counterfeited
+falsificato
+
+venison
+la carne di cervo
+
+dizziness; bewilderment
+lo stordimento
+
+mule
+il bardotto
+
+sly; cunning
+furbetto
+
+horse meat
+la carne di cavallo
 
