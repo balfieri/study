@@ -7800,3 +7800,6 @@ il migliore amico; la migliore amica
 
 close friend
 l'amico stretto; l'amica stretta
+
+daddy; dad
+il papà; il babbo
