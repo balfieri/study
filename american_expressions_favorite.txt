@@ -2658,3 +2658,6 @@ legittimo; autentico; reale; legittimamente
 get out of town! (you can't be serious)
 vattene dalla città!
 
+you have to pick your battles
+devi scegliere le tue battaglie
+
