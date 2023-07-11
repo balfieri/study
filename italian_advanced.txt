@@ -1972,9 +1972,6 @@ il signor Giusto; l'uomo ideale; il principe azzurro; l'uomo giusto
 to set 
 impostare
 
-to set up
-allestire; impostare
-
 to set an alarm for
 impostare una sveglia per
 
@@ -6527,7 +6524,7 @@ to reveal; to betray; to disclose
 rivelare
 
 to prepare; to stage; to set; to set up; to equip
-allestire
+allestire; impostare
 
 recreational
 ludico
