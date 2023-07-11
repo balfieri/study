@@ -7519,9 +7519,6 @@ la pietra per pizza
 receipt
 lo scontrino
 
-dish cloth; cloth
-lo strofinaccio
-
 idiocy; stupidity
 l'idiozia
 
@@ -10550,7 +10547,7 @@ colander
 il colapasta
 
 paper towel
-la carta assorbente
+il tovagliolo di carta; la carta assorbente
 
 to square
 fare squardare
@@ -16468,7 +16465,7 @@ trattanersi
 reel; spool
 la bobina
 
-stool; footstool; barstool
+stool; footstool
 lo sgabello
 
 director; filmmaker
@@ -45697,3 +45694,44 @@ il miscuglio; il guazzabuglio
 to drop the bomb
 far cadere la bomba
 
+to see up close
+vedere da vicino
+
+to see from afar
+vedere da lontano
+
+to get noticed
+farsi notare
+
+coffee table
+il tavolino da caffé
+
+TV console; audio-visual console
+il mobile per TV; il mobile per audio-video
+
+area rug
+il tappeto d'area
+
+stair railing
+il corrimano per scale
+
+bannister
+la balaustra
+
+barstool
+lo sgabello da bar
+
+placemat
+la tovaglietta
+
+wash cloth (kitchen)
+il panno da cucina
+
+wash cloth (shower)
+il panno da doccia
+
+dish towel; dish cloth; cloth
+lo strofinaccio
+
+dishwasher detergent
+il detersivo per lavastoviglie
