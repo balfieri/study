@@ -1969,9 +1969,6 @@ mi stupisce sempre; mi sorprende sempre
 Mr. Right
 il signor Giusto; l'uomo ideale; il principe azzurro; l'uomo giusto
 
-to set 
-impostare
-
 to set an alarm for
 impostare una sveglia per
 
@@ -6523,8 +6520,11 @@ insito
 to reveal; to betray; to disclose
 rivelare
 
-to prepare; to stage; to set; to set up; to equip
-allestire; impostare
+to prepare; to arrange; to stage; to set up (physical); to equip
+allestire
+
+to set (abstract); to set up
+impostare
 
 recreational
 ludico
@@ -40453,7 +40453,7 @@ fare pratica di volo
 flood; inundation
 inondazione
 
-flooded; inundated
+flooded (heavy, area, structure); inundated
 inondato
 
 gust; burst
@@ -40519,10 +40519,10 @@ non essere in vena di fare sesso
 accented
 accentato
 
-flooded; overflowed
+flooded (river); overflowed
 esondato
 
-flooded
+flooded (general)
 allagato
 
 wreck; relic
