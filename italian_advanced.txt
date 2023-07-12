@@ -4852,7 +4852,7 @@ non ha tutti i torti
 to shine; to glow; to gleam
 splendere
 
-dim
+obscure; dim; unclear; vague
 oscuro
 
 darkness
@@ -45760,3 +45760,5 @@ omologato
 sesame seed
 il seme di sesamo
 
+obtuse
+ottuso
