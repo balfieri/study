@@ -16774,7 +16774,7 @@ reddituale
 orchestra section; audience
 la platea
 
-demand-side response
+remodulation; demand-side response
 la rimodulazione
 
 skilled workers
@@ -45741,4 +45741,22 @@ indetto; annunciato
 
 commuter belt; commuter band
 la fascia pendolare
+
+dispute; contention
+la vertenza
+
+payment; disbursement
+la corresponsione
+
+connection
+allacciamento
+
+to remain; to persist
+permanere
+
+approved; homologated
+omologato
+
+sesame seed
+il seme di sesamo
 
