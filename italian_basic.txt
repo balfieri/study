@@ -1003,8 +1003,11 @@ la nipote
 uncle
 lo zio
 
-spouse
-lo sposo; la sposa
+groom; spouse
+lo sposo
+
+bride; spouse
+la sposa
 
 wife
 la moglie
