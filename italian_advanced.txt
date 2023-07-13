@@ -46029,3 +46029,6 @@ montare
 
 to assemble
 assemblare
+
+robot vacuum cleaner
+il robot aspirapolvere
