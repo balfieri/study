@@ -45994,3 +45994,6 @@ prima che io dimentichi
 sip of wine
 il sorso di vino
 
+average bottle of wine
+la bottiglia media di vino
+
