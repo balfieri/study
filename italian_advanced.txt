@@ -45970,4 +45970,8 @@ argilloso
 Thailand
 la Tailandia
 
+monitor
+il monitor
 
+computer monitor
+il monitor del computer
