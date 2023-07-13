@@ -3379,7 +3379,7 @@ il malinteso
 to rewind
 riavvolgere
 
-to wrap; to wind; to roll
+to wrap; to wrap up; to wind; to roll
 avvolgere
 
 outrage; insult; indignity
@@ -13819,7 +13819,7 @@ la redenzione
 landslide; slide
 lo smottamento
 
-live
+triggered
 innescato
 
 overwhelming; insurmountable
@@ -33925,8 +33925,8 @@ videobombare
 I added 50 percent more mozzarella
 ho aggiunto il 50 percento in più di mozzarella
 
-il momento più bello della mia vita
 the highlight of my life
+il momento più bello della mia vita
 
 librarian
 il bibliotecario; la bibliotecaria
@@ -37792,7 +37792,7 @@ l'occhio nudo
 yielded
 rendetto
 
-reclamation
+reclamation; remediation
 la bonifica
 
 be on guard
@@ -45356,7 +45356,7 @@ jumpsuit
 la tuta
 
 alimony
-assegno di mantenimento
+l'assegno di mantenimento
 
 distracting
 disatraente
@@ -45822,3 +45822,152 @@ viola
 
 headlong
 capofitto
+
+earthling
+il terrestre
+
+gentrification
+la gentrificazione
+
+to gentrify
+gentrificare
+
+financialization
+la finanziarizzazione
+
+to erode
+erodere
+
+large estate
+il latifondo
+
+thinned out
+diradato
+
+hilly
+collinare
+
+aesthetically pleasing
+esteticamente gradevole
+
+allegory
+l'allegoria
+
+to break the bank
+sbancare
+
+intensive farming
+l'allevamento intensivo
+
+oak
+il rovere
+
+this is exactly the kind of thing that would make (someone) laugh
+questo è esattamente il tipo di cosa che farebbe ridere (qualcuno)
+
+bosom friend
+l'amico per la pelle
+
+to devalue
+svilire
+
+chit-chat
+la ciancia
+
+inevitably
+immancabilmente
+
+to dilate
+dilatare
+
+entangled
+impigliato
+
+brethren
+i confratelli
+
+brain
+l'encefalo
+
+fireworks
+i fuochi d'artificio
+
+to whitewash
+imbiancare
+
+legacy
+il retaggio
+
+to change tack
+virare di bordo
+
+abyss
+il baratro
+
+to hole up
+rintanarmi
+
+tamed
+addomesticato
+
+suddenly
+a un tratto
+
+defeatist attitude
+l'atteggiamento sconfittista
+
+defeatist
+sconfittista
+
+motherboard
+il scheda madre
+
+tentacular
+tentacolare
+
+dismantling
+lo smantellamento
+
+drug trade; drug trafficking
+il commercio di droga; il traffico di droga
+
+plea bargain
+il patteggiamento
+
+resulted in
+sfociato
+
+obviously
+palesemente
+
+to be able to sleep at night
+riuscire a dormire di notte
+
+staged
+inscenato
+
+alleged despotic acts
+i presunti despotismi
+
+release from prison
+la scarcerazione
+
+unicorn
+l'unicorno
+
+nuclear reactor
+il reattore nucleare
+
+crude
+greggio
+
+withdrawn
+prelevato
+
+clayey
+argilloso
+
+Thailand
+la Tailandia
+
+
