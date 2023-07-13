@@ -45999,3 +45999,6 @@ la bottiglia media di vino
 
 sculpted; carved
 scolpito
+
+vineyard hectares
+gli ettari vitati
