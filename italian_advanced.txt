@@ -44837,7 +44837,7 @@ you ingrate
 sei un ingrato
 
 beggar
-il pezzente
+il mendicante; l'accattone; il pezzente
 
 midpoint; halfway point
 il punto medio; la metà del cammino
@@ -46021,3 +46021,5 @@ il gnomo
 I know it's easy for me to say
 so che è facile per me dirlo
 
+to beg
+supplicare; chiedere l'elemosina; mendicare
