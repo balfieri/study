@@ -46044,3 +46044,6 @@ il guadagno di capitale a breve termine
 
 capital gain
 il guadagno di capitale
+
+suspicion
+il sospetto
