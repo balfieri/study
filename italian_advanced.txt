@@ -28303,7 +28303,10 @@ queste cose non si possono inventare; non si può inventare cose così
 prop (scene)
 l'oggetto di scena
 
-to deliver a monolog
+monologue
+il monologo
+
+to deliver a monologue
 eseguire un monologo
 
 to perform on stage
