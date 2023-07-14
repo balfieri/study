@@ -12223,7 +12223,7 @@ il prodigio
 promiscuous
 promiscuo
 
-walkable
+walkable; explorable
 esplorabile
 
 in anticipation
