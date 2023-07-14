@@ -46047,3 +46047,7 @@ il guadagno di capitale
 
 suspicion
 il sospetto
+
+to prove a theorem
+dimostrare un teorema
+
