@@ -7381,7 +7381,7 @@ la spazzola per capelli
 stuff; ish
 la roba
 
-to manage; to run; to operate
+to manage; to run; to operate; to handle
 gestire
 
 vision
@@ -7797,3 +7797,6 @@ l'amico stretto; l'amica stretta
 
 daddy; dad
 il papà; il babbo (toscana)
+
+management; handling
+la gestione
