@@ -844,9 +844,6 @@ la sabbia
 swimming pool
 la piscina
 
-living room
-il salone
-
 bed
 il letto
 
@@ -1893,9 +1890,6 @@ la stanza
 
 bedroom; room (for sleeping); chamber
 la camera; la camera da letto
-
-living room
-il salotto
 
 study (room); office; studying
 lo studio
@@ -3463,8 +3457,8 @@ il fornello
 computer
 il computer
 
-living room
-la sala; il soggiorno
+living room; family room
+il salone; il salotto; la sala; il soggiorno
 
 plant
 la pianta
