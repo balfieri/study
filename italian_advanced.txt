@@ -7444,7 +7444,7 @@ il paracolpo
 shock absorber; damper; cushion
 l'ammortizzatore
 
-assumption; employment
+hiring; assumption; employment
 l'assunzione
 
 subordinate; subjected
@@ -22642,9 +22642,6 @@ fiancheggiare
 sensory
 sensoriale
 
-talent agency
-l'agenzia di talenti
-
 easy-going
 accomodante; alla mano
 
@@ -23777,7 +23774,7 @@ New Year's Eve
 la vigilia di Capodano
 
 talent agency
-l'azienda dei talenti
+l'agenzia di talenti; l'azienda dei talenti
 
 late-night
 in tarda serata
@@ -46114,3 +46111,26 @@ correre in giro
 hiring freeze
 il blocco delle assunzioni
 
+sheep farmer; shepherd
+il pecoraio; il pastore
+
+pompous
+pomposo
+
+sour cherry
+il visciolo
+
+what's happening with you?; what's going on with you?
+cosa succede con te?; cosa sta succedendo con te?
+
+what's happening with you these days?; what's going on with you these days?
+cosa sta succedendo con te in questi giorni?; cosa succede con te in questi giorni?
+
+she treats my sister badly
+tratta male mia sorella
+
+on the other end of the spectrum
+all'altro capo dello spettro
+
+I can take it either way; I can take it or leave it
+posso prenderlo in entrambi i modi; posso prenderlo o lasciarlo
