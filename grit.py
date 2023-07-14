@@ -20,7 +20,7 @@ def match( s, pattern ):
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 2: die( 'usage: grit.py <string> [options]', '' )
 string = sys.argv[1]
-subjects_s = 'italian_basic,italian_advanced,italian_expressions_common,italian_expressions_other,american_expressions_get,american_expressions_favorite,italian_vulgar,italian_passato_remoto'
+subjects_s = 'italian_basic,italian_advanced,italian_expressions_common,italian_expressions_other,american_expressions_get,american_expressions_favorite,italian_vulgar,italian_passato_remoto,italian_tongue_twisters'
 search_question = True
 search_answer = True
 out_file = ''

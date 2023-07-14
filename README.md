@@ -20,6 +20,7 @@ There are a few text files provided for various topics of my interest. Feel free
     italian_expressions_common.txt      -- common expressions 
     italian_expressions_other.txt       -- less-common expressions 
     italian_vulgar.txt                  -- vulgar phrases (parolacce)
+    italian_tongue_twisters.txt         -- tongue twisters (scioglilingua)
     american_expressions_favorite.txt   -- my favorite American expressions (translated to Italian)
     american_expressions_get.txt        -- American expressions with the word GET (ditto)
 

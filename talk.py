@@ -29,7 +29,7 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 # process command line args
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 1: die( 'usage: talk.py [options]', '' )
-subjects_s = 'italian_basic,italian_advanced,italian_expressions_common,italian_expressions_other,american_expressions_get,american_expressions_favorite,italian_vulgar,italian_passato_remoto'
+subjects_s = 'italian_basic,italian_advanced,italian_expressions_common,italian_expressions_other,american_expressions_get,american_expressions_favorite,italian_vulgar,italian_passato_remoto,italian_tongue_twisters'
 first = 0
 english_voice = 'Samantha'
 italian_voice = 'Alice'
