@@ -46422,3 +46422,6 @@ avere un'illuminazione
 
 manager; operator
 il gestore; l'operatore
+
+to deposit
+depositare
