@@ -40690,9 +40690,6 @@ bilingue
 multilingual
 multilingue
 
-engine oil
-l'olio motore
-
 rum
 il rum
 
@@ -46404,3 +46401,21 @@ la gomma a terra; il pneumatico a terra
 
 to bleed
 sanguinare; perdere sangue
+
+motor oil; engine oil
+l'olio motore
+
+syringe
+la siringa
+
+to yield to
+cedere a
+
+shed; molted
+messo; mutato
+
+you'd be surprised
+saresti sorpreso
+
+to have a realization
+avere un'illuminazione
