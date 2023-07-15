@@ -9277,7 +9277,7 @@ figurati il tipo
 unambiguous
 univoco
 
-platter
+cutting board; platter
 il tagliere
 
 garish
@@ -46203,4 +46203,88 @@ eutanasizzare
 
 euthanasia
 l'eutanasia
+
+rodent
+il roditore
+
+tip; lace
+il pizzo
+
+patch
+la pezza
+
+to sift
+setacciare
+
+sieve
+il setaccio
+
+sifted
+setacciato
+
+tired; worn out
+stracco
+
+to tire; to wear out
+straccare
+
+cripple
+lo storpo
+
+crippled
+storpe
+
+Apollo
+Apollo
+
+scarlet
+scarlatto
+
+purple
+paonazzo
+
+barbarically
+barbaramente
+
+protector
+il protettore; la protettrice
+
+collision
+il cozzo
+
+thud
+il tonfo
+
+to hook
+azzanare
+
+stick
+lo stecco
+
+plaice
+la platessa
+
+boiled
+lesso
+
+bait
+l'esca
+
+to reign
+regnare
+
+gravel
+la ghiaia
+
+gurgle
+il gorgoglio
+
+to calm down
+rasserenare
+
+to rhyme
+filastroccare
+
+horsehair
+il crine
 
