@@ -27551,7 +27551,7 @@ vcr/tape recorder
 il registratore
 
 fan
-il ventilatore
+il ventilatore; la ventola
 
 inhabitant
 l'abitante
@@ -46288,3 +46288,20 @@ filastroccare
 horsehair
 il crine
 
+by nature
+per natura
+
+to chat (computer)
+chattare
+
+migration
+la migrazione
+
+to hook up; to latch on
+agganciarsi
+
+tumble
+il capitombolo
+
+impedence
+l'impedenza
