@@ -46419,3 +46419,6 @@ saresti sorpreso
 
 to have a realization
 avere un'illuminazione
+
+manager; operator
+il gestore; l'operatore

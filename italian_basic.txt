@@ -6074,7 +6074,7 @@ gesture
 il gesto
 
 manager; director
-il direttore
+il direttore; la direttrice
 
 Christian
 cristiano
