@@ -83,7 +83,7 @@ surrender; to give up
 arrendersi
 
 altitude
-l'altitudine
+l'altitudine; la quota
 
 farm field
 il campo agricolo
@@ -1435,8 +1435,11 @@ perfino; persino
 level (adjective)
 pianeggiante
 
+the furrow; the groove
+il solco
+
 track
-il solco; la pista
+la pista
 
 thickness
 lo spessore
@@ -6568,7 +6571,7 @@ il sollievo
 string; rope; twine
 la cordicella
 
-quota; fee
+quota; fee; altitude
 la quota
 
 exchange; reciprocality
@@ -19469,7 +19472,10 @@ goods; commodities
 le merci
 
 inclusive; included; including
-compreso
+compreso (aggettivo)
+
+understood; comprehended
+compreso (pp)
 
 occupation; employment
 l'occupazione
@@ -40772,7 +40778,10 @@ cheater (relationship); unfaithful person; traitor; betrayer
 il traditore; la traditrice; la persona infedele
 
 to commit suicide
-suicidarsi; togliersi la vita
+suicidarsi
+
+to take one's life
+togliersi la vita
 
 to attempt suicide
 tentare il suicidio
@@ -46312,7 +46321,7 @@ il liquido dei freni
 to top up
 rabboccare
 
-reservoir
+reservoir; tank
 il serbatoio
 
 undergrowth
@@ -46467,3 +46476,141 @@ dal vivo
 
 as long as
 finché (tempo); poiché; purché (condizione)
+
+endeavor
+l'impegno; lo sforzo
+
+to undertake an endeavor
+impegnarsi in un'impresa
+
+molasses
+la melassa
+
+tread
+il battistrada
+
+hydroplaning
+l'acquaplaning
+
+precaution
+la precauzione
+
+to mill
+mulinare
+
+to reboil
+ribollire
+
+scrap
+il rottame
+
+to struggle
+dibattersi
+
+manganese
+il manganese
+
+disappearance
+la sparizione
+
+supernatural
+soprannaturale
+
+Gulf stream
+il corrente del Golfo
+
+jet stream
+il corrente a getto
+
+range of action
+il raggio d'azione
+
+paved
+asfaltato
+
+to pave
+asfaltare
+
+to inaugurate
+inaugurare
+
+rhetoric
+la retorica
+
+streak
+la striatura
+
+assaulted
+assalito
+
+hemorrhage
+l'emorragia
+
+to hammer; to pound
+martellare
+
+malaise; discomfort; unease
+il malessere
+
+entangled; mired
+invischiato
+
+self-destructive drive
+la pulsione autodistruttiva
+
+devoted; dedicated
+dedito
+
+symbiotic
+simbiotico
+
+executioner; tormentor
+il carnefice
+
+snowdrop
+il bucaneve
+
+to split; to cleave
+fendere
+
+exhausting; grueling
+estenuante
+
+perched; holed up
+arroccato
+
+mountainous
+montuoso
+
+mule track
+la mulattiera
+
+to lie; to be lying
+giacere
+
+trace; footprint
+l'orma
+
+setting; environment
+l'ambientazione
+
+blinded
+accecato
+
+evil; wickedness
+la malvagità
+
+firstly; in the first place
+in primis
+
+gang; group of friends
+la combriccola
+
+hypnotist
+l'ipnotizzatore; l'ipnotizzatrice
+
+outside of; beyond
+al di fuori di
+
+customer interaction
+l'interazione con i clienti
