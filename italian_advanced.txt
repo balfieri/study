@@ -7478,7 +7478,7 @@ audition
 il provino
 
 trantrum; fit; conniption
-la bizza
+la bizza; l'attacco d'ira
 
 to start; to begin; to debut
 esordire
@@ -11474,7 +11474,7 @@ my gosh; wow
 accipicchia
 
 first-world problem
-il problema da primo mondo
+il problema da primo mondo; il problema del mondo sviluppato
 
 nothing at all
 nulla di nulla
@@ -46428,3 +46428,40 @@ depositare
 
 Saudi Arabia
 l'Arabia Saudita
+
+password manager
+il gestore di password
+
+passive-aggressive
+passivo-aggressivo
+
+defenestration
+la defenestrazione
+
+please do
+per favore, fai
+
+analog
+analogico
+
+anglophone
+l'anglofono
+
+marrowed
+midollato
+
+so to speak; better said
+per meglio dire
+
+blossoming; blooming; flowering
+la fioritura; la sbocciatura
+
+seafront; promenade
+il lungomare
+
+anthropic
+antropico
+
+live (adjective)
+dal vivo
+
