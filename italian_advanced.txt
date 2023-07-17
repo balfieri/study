@@ -46629,3 +46629,7 @@ si affaccia a nord
 
 it faces the north side
 si affaccia sul lato nord
+
+dog passport; doggy passport
+il passaporto per cani
+
