@@ -433,7 +433,7 @@ purtroppo
 above all
 soprattutto
 
-while (doing something)
+while (doing something); whereas
 mentre
 
 ok; that's fine
