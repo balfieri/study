@@ -46642,3 +46642,5 @@ trattenere il riso
 to burst into laughter
 scoppiare a ridere
 
+opaque
+opaco
