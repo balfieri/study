@@ -7800,3 +7800,7 @@ il papà; il babbo (toscana)
 
 management; handling
 la gestione
+
+passport
+il passaporto
+
