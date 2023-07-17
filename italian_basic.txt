@@ -4906,8 +4906,8 @@ mordere
 to burn; to burn out
 bruciare
 
-to get burned; to get burned out
-bruciarsi
+to get burned; to get burned out; to get exhausted
+bruciarsi; esaurirsi
 
 definitely
 decisamente
@@ -7809,4 +7809,10 @@ la vocale
 
 consonant
 la consonante
+
+to exercise (physical)
+fare esercizio
+
+I weigh 60 kilos
+peso 60 chili
 
