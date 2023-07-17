@@ -33875,7 +33875,7 @@ mold
 la muffa
 
 holding; stock; stock share
-la quota azionaria
+la quota azionaria; l'azione
 
 to go with; to bet on; to focus on
 puntare su
