@@ -7804,3 +7804,9 @@ la gestione
 passport
 il passaporto
 
+vowel
+la vocale
+
+consonant
+la consonante
+
