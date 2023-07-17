@@ -37831,7 +37831,7 @@ la domanda caricata; la domanda insidiosa
 trick question
 la domanda trabocchetto
 
-pitfall; booby trap; trap
+pitfall; booby trap; trap; snare
 il trabocchetto
 
 at various speeds
@@ -46731,3 +46731,27 @@ il telegiornale serale
 
 to come across something that would make (somebody) laugh
 imbattersi in qualcosa che farebbe ridere (qualcuno)
+
+in economy class
+in classe economica
+
+in first class
+in prima classe
+
+to unmask
+smascherare
+
+it's nowhere near as good as
+non è neanche lontanamente buono come
+
+sheath
+la guaina
+
+to not be able to do without
+non poter fare a meno
+
+I can't do without
+non posso fare a meno
+
+to switch
+switchare
