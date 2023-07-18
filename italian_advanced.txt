@@ -46927,3 +46927,6 @@ quando sarà il mio turno
 madly; wildly
 follemente
 
+it will be my turn to decide
+sarà il mio turno di decidere
+
