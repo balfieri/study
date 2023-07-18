@@ -46984,3 +46984,9 @@ la ginecologa; il ginecologo
 obstetrician
 l'ostetrica; l'ostetrico
 
+naughty word; four-letter word
+la parolaccia
+
+pituitary gland
+la ghiandola pituitaria
+
