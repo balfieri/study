@@ -2843,7 +2843,10 @@ spark plug
 la candela di accensione
 
 spark
-la scintilla; scintillare; il lampo
+la scintilla; il lampo
+
+to sparkle
+scintillare
 
 to replace
 sostituire; cambiare
@@ -27278,7 +27281,7 @@ to conceive
 concepitare
 
 fervor
-fervore
+il fervore
 
 supor; astonishment
 lo stupore
@@ -34513,9 +34516,6 @@ il nonnismo
 non-nullity
 la nonnullità
 
-unrivaled
-nonpareille
-
 nonconformist
 il nonconformista
 
@@ -41530,9 +41530,6 @@ il palloncino di sterco
 feces
 le feci
 
-small piece of feces
-il piccolo pezzo di feci
-
 is there ever a moment when
 c'è mai un momento in cui
 
@@ -43587,9 +43584,6 @@ riconducibile
 
 percent
 per cento
-
-time-consuming
-che richiede tempo; dispendioso di tempo
 
 sexual dynamo
 il dinamo sessuale
@@ -46882,3 +46876,23 @@ leggendario
 discharged; drained
 scarico; svuotato
 
+man-hour; person-hour
+l'ora-uomo; l'ora-persona
+
+puzzle magazine
+la rivista enigmistica
+
+unrivaled
+senza rivali
+
+you do all the talking
+fai tu tutto il discorso
+
+I'll do all the talking
+farò io tutto il discorso
+
+there's always room for improvement
+c'è sempre spazio per migliorare
+
+security seminar
+il seminario sulla sicurezza
