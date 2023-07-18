@@ -46996,4 +46996,6 @@ potresti voler controllare
 adventurer
 l'avventuriero; l'avventuriera
 
+team leader; squad leader
+il caposquadra; il leader della squadra
 
