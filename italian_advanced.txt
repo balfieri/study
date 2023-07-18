@@ -40439,7 +40439,7 @@ carefree
 spensierato
 
 monthly
-mensile
+mensile; mensilmente
 
 rising rents; high rents
 il caro affitti
@@ -46966,5 +46966,3 @@ fare una gita di un giorno
 the possibilities are endless
 le possibilità sono infinite
 
-monthly
-mensilmente
