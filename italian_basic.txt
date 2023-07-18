@@ -3613,7 +3613,7 @@ la famiglia
 couple (two)
 la coppia
 
-marriage
+marriage; wedding
 il matrimonio
 
 father
