@@ -46978,3 +46978,9 @@ la Venezuela
 dog owner
 il proprietario del cane; il proprietario di cani
 
+gynecologist
+la ginecologa; il ginecologo
+
+obstetrician
+l'ostetrica; l'ostetrico
+
