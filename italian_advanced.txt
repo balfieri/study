@@ -46915,3 +46915,5 @@ accomodare
 to make changes
 effettuare modifiche
 
+tonic
+tonico
