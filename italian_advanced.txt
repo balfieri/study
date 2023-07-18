@@ -9647,7 +9647,7 @@ set-up
 il settaggio
 
 hesitant; tentative; indecisive
-titubante
+esitante; titubante
 
 tender; painful
 dolente
@@ -26185,7 +26185,7 @@ la battuta
 disciple
 il discepolo
 
-provisional
+provisional; tentative
 provvisorio
 
 invasion
@@ -46920,4 +46920,7 @@ tonico
 
 centrally located
 situato centralmente
+
+when it will be my turn
+quando sarà il mio turno
 
