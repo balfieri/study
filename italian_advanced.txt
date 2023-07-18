@@ -46956,3 +46956,7 @@ la finestra di disponibilità
 
 to reschedule the lesson
 riprogrammare la lezione; spostare la lezione
+
+fantastic location
+la posizione fantastica
+
