@@ -19066,7 +19066,7 @@ cattolico
 testimony; witness; evidence
 la testimonianza
 
-check; test; verification
+check; test; verification; audit
 la verifica
 
 essentially; fundamentally; basically
