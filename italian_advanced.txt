@@ -47062,3 +47062,5 @@ ecomostro
 blogosphere
 la blogosfera
 
+republic
+la repubblica
