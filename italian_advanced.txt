@@ -46954,3 +46954,5 @@ la lezione di gruppo
 window of availability
 la finestra di disponibilità
 
+to reschedule the lesson
+riprogrammare la lezione; spostare la lezione
