@@ -46999,3 +46999,63 @@ l'avventuriero; l'avventuriera
 team leader; squad leader
 il caposquadra; il leader della squadra
 
+Chile
+la Cile
+
+Finland
+la Finlandia
+
+Croatia
+la Croazia
+
+Slovenia
+la Slovenia
+
+Czech Republic
+la Repubblica Ceca
+
+Slovakia
+la Slovacchia
+
+Bulgaria
+la Bulgaria
+
+Ukraine
+la Ucraina
+
+South Africa
+la Sudafrica
+
+Stockholm
+Stoccolma
+
+St. Petersburg
+San Pietroburgo
+
+Lithuania
+la Lituania
+
+Lisbon
+Lisbona
+
+Hamburg
+Amburgo
+
+Toulouse
+Tolosa
+
+Lyon
+Lione
+
+Geneva
+Ginevra
+
+The Netherlands
+i paesi bassi
+
+Frankfurt
+Francoforte
+
+eyesore
+ecomostro
+
