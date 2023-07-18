@@ -46950,3 +46950,7 @@ sto cercando di convincere mia moglie a
 
 group class; group lesson
 la lezione di gruppo
+
+window of availability
+la finestra di disponibilità
+
