@@ -4945,9 +4945,6 @@ l'alloggio
 racist
 razista
 
-to participate
-partecipare
-
 to come to mind
 venire in mente
 
@@ -7645,7 +7642,7 @@ segnare
 video
 il video
 
-to participate in
+to participate in; to attend
 partecipare a
 
 to throw away
