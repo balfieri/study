@@ -46879,4 +46879,6 @@ mitico
 legendary
 leggendario
 
+discharged; drained
+scarico; svuotato
 
