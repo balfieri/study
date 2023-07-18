@@ -39748,7 +39748,7 @@ la barretta Snickers
 bar (candy)
 la barretta
 
-swamp
+swamp; marsh
 la palude
 
 to inject
