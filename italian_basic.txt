@@ -7813,3 +7813,5 @@ fare esercizio
 I weigh 60 kilos
 peso 60 chili
 
+in the middle of
+nel mezzo di
