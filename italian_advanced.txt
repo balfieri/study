@@ -47154,3 +47154,6 @@ vincolato
 
 over-constrained
 sovra-vincolato
+
+chainsaw
+la motosega
