@@ -33352,9 +33352,6 @@ la festa di fidanziamento; la festa prematrimoniale
 open house
 l'open house; i giorni di apertura
 
-bound
-vincolato
-
 unleashed; wild
 scatenato
 
@@ -47143,3 +47140,17 @@ asymptomatic
 surgelato
 frozen
 
+to cut down some trees
+tagliare alcuni alberi
+
+barge
+la chiatta
+
+restricted
+restretto
+
+constrained; bound
+vincolato
+
+over-constrained
+sovra-vincolato
