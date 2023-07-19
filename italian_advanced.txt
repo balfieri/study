@@ -24511,7 +24511,7 @@ l'eroe
 to find; to recover; to find again
 ritrovare
 
-married couple
+married couple; spouses
 i coniugi
 
 pay; salary
@@ -47079,4 +47079,7 @@ il piacimento
 
 yes, absolutely; absolutely
 assolutamente si
+
+newlyweds
+gli sposi novelli
 
