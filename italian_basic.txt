@@ -1294,9 +1294,6 @@ il faro
 hurricane
 l'uragano
 
-satellite
-il satellite
-
 engaged; busy
 impegnato
 
