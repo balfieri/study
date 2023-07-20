@@ -47172,3 +47172,6 @@ il lamentone; la lamentona
 
 to get pardoned (legal); to receive a pardon
 ricevere la grazia
+
+lightning (adjective)
+folgore
