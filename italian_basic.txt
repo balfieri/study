@@ -1334,7 +1334,7 @@ crowded
 affollato
 
 nurse
-l'infermiera
+l'infermiera; l'infermiere
 
 scissors
 i forbici
