@@ -2162,7 +2162,7 @@ bee
 l'ape
 
 cat
-il gatto
+il gatto; la gatta
 
 sheep
 la pecora
