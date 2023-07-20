@@ -2363,7 +2363,7 @@ clean; neat
 pulito
 
 fast
-rapido; veloce
+veloce; rapido
 
 old
 vecchio
@@ -4378,7 +4378,7 @@ popolare
 positive
 positivo
 
-swift
+swift; rapid
 rapido
 
 rare
