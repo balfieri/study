@@ -47205,3 +47205,6 @@ concedere la clemenza
 
 swindler; cheater; con artist
 il truffatore; l'imbroglione
+
+veto
+il veto
