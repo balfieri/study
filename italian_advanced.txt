@@ -46930,9 +46930,6 @@ il cambio di ritmo
 first name
 il nome di battesimo
 
-dog training school
-la scuola di addestramento per cani
-
 obedience school for dogs
 la scuola di obbedienza per cani
 
@@ -47257,3 +47254,5 @@ irreversibile
 cinque minutes before the hour
 cinque minuti prima dell'ora
 
+dog training school; obbedience school for dogs
+la scuola di addestramento per cani
