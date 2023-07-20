@@ -47254,3 +47254,6 @@ togliersi da una lista
 irreversible
 irreversibile
 
+cinque minutes before the hour
+cinque minuti prima dell'ora
+
