@@ -1810,7 +1810,7 @@ l'infermiere; l'infermiera
 dentist
 il dentista
 
-actor
+actor; thespian
 l'attore
 
 ballerina
