@@ -2194,9 +2194,6 @@ la tovaglia
 ham
 il prosciutto
 
-pork
-il maile
-
 sausage
 la salsiccia
 
