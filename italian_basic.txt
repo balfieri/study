@@ -1823,7 +1823,7 @@ policeman
 il poliziotto
 
 cook
-il cuoco
+il cuoco; la cuoca
 
 driver
 l'autista; il guidatore
