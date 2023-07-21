@@ -47410,3 +47410,6 @@ lo stile distintivo; il look distintivo; lo stile caratteristico; il look caratt
 I swear to God
 giuro a Dio
 
+airport diagram
+il diagramma dell'aeroporto
+
