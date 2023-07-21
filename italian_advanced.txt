@@ -26671,7 +26671,7 @@ operante
 seriousness
 la serietà
 
-individually
+individually; singularly
 singolarmente
 
 mutated; changed
