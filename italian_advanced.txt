@@ -8641,7 +8641,7 @@ appiccioso
 shocking; disconcerting
 sconvolgente
 
-to upset; to disturb; to perturb
+to upset; to disturb; to perturb; to throw off balance
 sconvolgere
 
 to cease
@@ -47505,4 +47505,7 @@ la bomba a grappolo
 
 wipeout; clean slate
 il colpo di spugna; la tabula rasa
+
+to send into a tailspin; to throw off balance
+mandare in tilt
 
