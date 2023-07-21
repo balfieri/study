@@ -47499,3 +47499,6 @@ furtivo
 
 spider
 il ragno
+
+cluster bomb
+la bomba a grappolo
