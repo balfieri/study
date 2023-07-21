@@ -30566,7 +30566,7 @@ undeniable
 innegabile
 
 passivity; liabilities; passiveness
-passività
+la passività
 
 restriction
 la restrizione
@@ -32788,7 +32788,7 @@ il cupolino
 perimeter
 il perimetrale
 
-chome-plated
+chrome-plated
 cromato
 
 neck warmer
@@ -35047,8 +35047,8 @@ la corsa alle banche
 creditworthiness; solvency
 la solvibilità
 
-cosa c'entra con noi?
 what does it have to do with us?
+cosa c'entra con noi?
 
 gamechanger
 il cambiamento epocale
@@ -47272,3 +47272,56 @@ clonare
 satellite
 il satellite
 
+square footage
+la metratura
+
+enjoyable
+godibile
+
+improvable
+migliorabile
+
+bed bugs
+i cimici da letto
+
+saving grace
+la grazia salvifica
+
+affordable price
+il prezzo conveniente
+
+unbeatable
+imbattibile
+
+to narrow down the choice of
+restringere la scelta di
+
+he's never going to be as good as you
+non sarà mai bravo quanto te
+
+double time
+il lavoro a tempo doppio
+
+certificate of achievement
+il certificato di conseguimento
+
+team spirit
+lo spirito di squadra
+
+certificate of recognition
+l'attestato di riconoscimento
+
+to work double shifts
+lavorare a doppio turno
+
+worthy recognition
+il degno riconoscimento
+
+for years to come
+per gli anni a venire
+
+all across Italy
+in tutta Italia
+
+non-verbal cue
+il segnale non verbale
