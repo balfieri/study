@@ -47437,6 +47437,9 @@ molti treni ad alta velocità passano per Bologna
 high-speed train
 il treno ad alta velocità
 
-to pass through (city)
+to pass through (city); to run through (city)
 passare per (città)
+
+the road runs right through that town
+la strada passa proprio per quella città
 
