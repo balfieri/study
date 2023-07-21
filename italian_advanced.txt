@@ -47338,3 +47338,6 @@ la comunità
 laundromat
 la lavanderia automatica
 
+airfield
+l'aviosuperficie
+
