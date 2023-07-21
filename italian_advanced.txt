@@ -47496,3 +47496,6 @@ surrettizio
 
 stealthy; furtive
 furtivo
+
+spider
+il ragno
