@@ -1165,7 +1165,7 @@ autodidatta
 to split; to cleave; to divide
 scindere
 
-to leave aside; to ignore
+to disregard; to set aside; to leave aside; to ignore
 prescindere
 
 license
@@ -33022,7 +33022,7 @@ non tollero il lattosio
 hearing aid
 l'apparecchio acustico 
 
-to set aside
+to set aside; to put asside
 accantonare; mettere da parte
 
 to sauté
@@ -47488,3 +47488,11 @@ l'instradamento
 to route
 instradare
 
+to object; to take exception
+eccepire; fare eccezione
+
+surreptitious
+surrettizio
+
+stealthy; furtive
+furtivo
