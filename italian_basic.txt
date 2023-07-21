@@ -1853,7 +1853,7 @@ architect
 l'architetto
 
 soccer player; footballer
-calciatore
+il calciatore; la calciatrice
 
 housewife
 la casalinga
