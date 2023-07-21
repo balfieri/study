@@ -47353,3 +47353,6 @@ inseguire il proprio sogno
 chase; pursuit
 l'inseguimento
 
+metro stop
+la fermata della metro
+
