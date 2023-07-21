@@ -4057,7 +4057,7 @@ lo sportello
 allocation
 l'assegnazione
 
-type; kind; classification
+type (technical, scientific); kind; classification
 la tipologia
 
 to stimulate; to boost; to encourage; to incentivize
@@ -47128,14 +47128,14 @@ l'eccitazione
 exciting times
 i tempi eccitanti
 
-inconcludente
 inconclusive
+inconcludente
 
-asintomatico
 asymptomatic
+asintomatico
 
-surgelato
 frozen
+surgelato
 
 to cut down some trees
 tagliare alcuni alberi
@@ -47442,4 +47442,10 @@ passare per (città)
 
 the road runs right through that town
 la strada passa proprio per quella città
+
+to pedal
+pedalare
+
+to taste (wine)
+degustare
 
