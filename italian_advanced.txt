@@ -21589,8 +21589,11 @@ frullare
 rich in flavor
 ricco di sapore
 
-pretentious; presumptious
-pretenzioso; presuntuoso
+pretentious; 
+pretenzioso
+
+presumptious
+presuntuoso
 
 for some reason
 per qualche ragione
@@ -47224,8 +47227,8 @@ it's a must
 guest host
 l'ospite conduttore; l'ospite conduttrice
 
-GenZ
-il GenZ
+Gen Z
+la Gen Z
 
 millennials
 i millenniali
@@ -47358,4 +47361,34 @@ la fermata della metro
 
 mill; grindstone
 il mulino; la mola
+
+to crown
+incoronare
+
+expanse
+la distesa
+
+snob
+lo snob
+
+snobby
+snob
+
+snobbish
+snobboso
+
+rock-star t-shirt
+la maglietta da rock-star
+
+leather motorcycle jacket
+la giacca di pelle da motociclista
+
+leather jacket
+la giacca di pelle
+
+signature jacket
+la giacca distintiva; la giacca caratteristica
+
+between now and then
+tra ora e poi
 

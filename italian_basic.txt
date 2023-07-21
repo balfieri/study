@@ -1772,7 +1772,7 @@ earings
 gli orecchini
 
 shorts
-i pantaloncini
+gli short; i pantaloni corti; i pantaloncini
 
 dress
 la skirt
