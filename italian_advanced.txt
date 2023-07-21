@@ -12694,7 +12694,7 @@ avversare
 unwelcome
 sgradito
 
-to settle; to locate
+to settle in; to settle; to locate
 insediarsi
 
 who; whom
@@ -47475,3 +47475,16 @@ oltreoceano
 
 across the ocean
 attraverso l'oceano
+
+to recharge; to refill
+ricalcare
+
+anti-competitive
+anticompetitivo
+
+routing
+l'instradamento
+
+to route
+instradare
+
