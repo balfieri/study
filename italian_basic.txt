@@ -1247,7 +1247,7 @@ sweatshirt
 la felpa
 
 money
-i soldi; il denaro; la moneta
+i soldi; il denaro; la moneta; il soldo
 
 to yell; to scream; to cry
 urlare
@@ -3810,9 +3810,6 @@ la settimana
 
 question
 la domanda
-
-money
-il soldo; i soldi
 
 table
 la tavola; il tavolo
@@ -7719,9 +7716,6 @@ fare le valigie; preparare i bagagli
 
 benvenuto; ben venuto; ben arrivato
 welcome
-
-money
-il denaro
 
 to get a job as
 trovare lavoro come
