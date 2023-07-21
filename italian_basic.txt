@@ -3427,7 +3427,7 @@ carino; tenero
 sweet (person)
 carino; dolce; gentile
 
-house
+house; home (any place one feels at home)
 la casa
 
 apartment
