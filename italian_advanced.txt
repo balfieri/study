@@ -47341,3 +47341,9 @@ la lavanderia automatica
 airfield
 l'aviosuperficie
 
+dusty
+polveroso
+
+to object
+obiettare
+
