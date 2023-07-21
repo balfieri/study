@@ -47454,3 +47454,7 @@ attestante; certificante
 
 certifier; attestor
 l'attestante
+
+we have a roof over our heads
+abbiamo un tetto sopra la testa
+
