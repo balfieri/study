@@ -7879,7 +7879,7 @@ agevole
 paradigm
 la paradigma
 
-route (streets, paths); course; run; journey
+route (streets, paths); path; course; run; journey
 il percorso
 
 optimal route
