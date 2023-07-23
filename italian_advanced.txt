@@ -47659,3 +47659,6 @@ rimodellare
 sequence; succession
 il susseguito
 
+the big news is that
+la grande notizia è che
+
