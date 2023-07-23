@@ -15253,9 +15253,6 @@ avere la testa fra le nuvole
 to hold one's breath
 trattenere il respiro
 
-to be on pins and needles
-stare sulle spine
-
 to get along in peace and harmony
 andare d'amore e d'accordo
 
@@ -35245,9 +35242,6 @@ ritengo che
 to feel all in pieces
 sentirsi a pezzi
 
-deep down
-in fondo
-
 relax!
 tranquillo!
 
@@ -47661,4 +47655,76 @@ il susseguito
 
 the big news is that
 la grande notizia è che
+
+newspaper article
+l'articolo sul giornale
+
+article in the newspaper
+l'articolo nel giornale
+
+item in the list
+l'elemento nella lista
+
+list item
+l'elemento della lista
+
+entry in the phonebook
+la voce nell'elenco telefonico
+
+phonebook entry
+la voce dell'elenco telefonico
+
+around 60 kilos
+sui 60 kili
+
+around 100 euros
+sui 100 euro
+
+around 37 years old
+sui 37 anni
+
+about 4 hours
+sulle 4 ore
+
+early
+sul presto
+
+late
+sul tardi
+
+two students out of thirty
+due studenti su trenta
+
+to focus on
+concentrarsi su
+
+to bet on
+scommettere su
+
+to overlook
+affacciarsi su
+
+to give onto
+dare su
+
+to swear by (someone)
+giurare su (qualcuno)
+
+to rely on (someone); to count on (someone)
+contare su (qualcuno)
+
+be on the edge
+essere in bilico
+
+more or less; roughly
+su per giù; suppergiù
+
+approximately
+all'incirca
+
+in the background
+sullo sfondo; in secondo piano
+
+at the bottom; on the bottom; deep down
+in fondo; sul fondo
 
