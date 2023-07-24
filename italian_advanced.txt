@@ -47841,3 +47841,6 @@ i neuroni si attivano
 
 to fire (activate)
 attivarsi
+
+to continue to
+continuare a
