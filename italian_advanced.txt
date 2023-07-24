@@ -7324,7 +7324,7 @@ la periferia
 small medieval part of a city
 il borgo
 
-old village
+old village; poor village
 il villaggio
 
 restrained
@@ -43750,7 +43750,7 @@ aggiungere; apporre
 beach trip
 la gita in spiaggia
 
-small village
+small town; village
 il paesino
 
 caregiver
@@ -47866,3 +47866,5 @@ tu per primo
 me first
 prima io
 
+better than you think
+meglio di quello pensi
