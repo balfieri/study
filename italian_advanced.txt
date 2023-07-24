@@ -47883,3 +47883,6 @@ il tagli-bulloni
 
 locking; blocking
 il bloccaggio
+
+my turn to choose
+il mio turno di scegliere
