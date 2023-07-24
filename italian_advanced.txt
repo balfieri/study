@@ -47904,3 +47904,10 @@ il foglio di calcolo Google
 
 spreadsheet
 il foglio di calcolo
+
+full refund
+il rimborso completo
+
+monthly rental
+il noleggio mensile
+
