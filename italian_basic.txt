@@ -1960,7 +1960,7 @@ l’oceano
 country; countryside; campaign
 la campagna
 
-city
+city; town
 la città
 
 east (noun)
