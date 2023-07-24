@@ -2026,7 +2026,7 @@ il centro storico
 bench
 la panchina
 
-main street; avenue
+course; main street; avenue
 il corso
 
 hospital
@@ -4261,7 +4261,7 @@ il livello
 well,
 beh,; allora,
 
-to move (something from one place to anotherr)
+to move (something from one place to another)
 spostare
 
 to get moved
@@ -6731,7 +6731,7 @@ perfection
 la perfezione
 
 author
-l'autore; l'attrice
+l'autore; l'autrice
 
 global
 globale

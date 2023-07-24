@@ -28018,7 +28018,7 @@ la mansione
 technological
 tecnologico
 
-illumination
+illumination; lighting (for a show)
 l'illuminazione
 
 apparatus; machinery
@@ -34585,8 +34585,11 @@ strutturare
 to flutter
 svolazzare
 
-to empty
+to empty (container)
 svuotare
+
+to empty (general, figurative)
+vuotare
 
 neophyte
 il neofita
@@ -42052,9 +42055,6 @@ l'autolavaggio
 and then it stopped
 e poi si è fermato
 
-nice wheels!
-nice car!; nice vehicle!
-
 to bust (somebody)
 arrestare (qualcuno); sgamare (qualcuno)
 
@@ -47739,3 +47739,105 @@ penso che questo sia quello
 
 to nest
 nidificare
+
+I am more experienced with
+sono più esperto con
+
+the wheels are in motion
+le ruote sono in movimento
+
+in motion
+in movimento
+
+romance is in the air
+l'amore è nell'aria
+
+the outdoor environment
+l'ambiente all'aperto
+
+the indoor environment
+l'ambiente interno
+
+mid-February
+metà febbraio
+
+to repair the car
+riparare la macchina
+
+the car is in the shop
+la macchina è in officina
+
+romantic notion
+l'idea romantica
+
+men's personal care
+la cura personale maschile
+
+dog grooming
+la toelettatura per cani
+
+grooming (animals)
+la toelettatura
+
+personal hygiene
+l'igiene personale
+
+female hygiene
+l'igiene femminile
+
+to take root
+prendere piede
+
+to blast
+blastare
+
+well-known
+risaputo
+
+sermon
+la predica
+
+to have a strong bond with (someone)
+avere un legame forte con (qualcuno)
+
+to bond with (someone)
+legare con (qualcuno)
+
+to watch a film on the big screen
+guardare un film sul grande schermo
+
+to be a little perturbed with (somebody)
+essere un po' turbato con (qualcuno)
+
+text messaging
+la messaggistica testuale
+
+to flush the toilet
+tirare lo sciacquone
+
+the toilet clogged
+la toilette si è intasato
+
+repairman
+il riparatore
+
+handyman; jack of all trades
+il tuttofare
+
+to disturb; to perturb
+turbare
+
+just north of
+appena a nord di
+
+to look one's best for the ladies
+essere al meglio per le signore
+
+to staff
+assumere personale
+
+neurons fire
+i neuroni si attivano
+
+to fire (activate)
+attivarsi
