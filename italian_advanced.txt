@@ -47886,3 +47886,7 @@ il bloccaggio
 
 my turn to choose
 il mio turno di scegliere
+
+historically significant
+storicamente significativo
+
