@@ -48013,3 +48013,5 @@ additare
 to protect the city against attackers
 proteggere la città dagli attaccanti
 
+to fortify
+fortificare
