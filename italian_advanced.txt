@@ -6895,7 +6895,7 @@ in modo che
 as if; as though; like
 come se
 
-without (expr)
+without (clause)
 senza che
 
 to brainwash
