@@ -48007,3 +48007,5 @@ fucilare
 sleepiness
 la sonnolenza
 
+to point at
+additare
