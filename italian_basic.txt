@@ -5581,7 +5581,7 @@ la sterlina
 ounce
 l'oncia
 
-enormouse; huge; humongous; gigantic
+enormous; huge; humongous; gigantic
 enorme; gigante; gigantesco
 
 diet soda
