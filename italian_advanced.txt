@@ -48043,3 +48043,7 @@ in concorso
 nation's capital
 la capitale della nazione
 
+to rent an apartment
+affittare un appartamento
+
+
