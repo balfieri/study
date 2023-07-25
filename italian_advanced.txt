@@ -43987,7 +43987,7 @@ ravvicinato
 denied; refuted; contradicted
 smentito; confutato
 
-the motion
+motion
 il moto
 
 driver
@@ -47982,3 +47982,6 @@ fare Facetime
 
 to originate; to stem
 originarsi
+
+hailstorm
+la grandinata
