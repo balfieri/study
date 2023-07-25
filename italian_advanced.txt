@@ -8875,9 +8875,6 @@ incarnare
 recording
 la registrazione
 
-performance (show)
-la performance
-
 live performance
 la performance dal vivo
 
@@ -31982,7 +31979,7 @@ drug
 la droga
 
 performance; show
-l'esibizione
+la performance; l'esibizione
 
 art exhibit
 la mostra d'arte
