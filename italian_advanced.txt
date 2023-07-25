@@ -47915,7 +47915,7 @@ oops
 ops
 
 pyramid
-il piramide
+la piramide
 
 dump
 la discarica
@@ -47931,9 +47931,6 @@ viscerale
 
 indifference; disregard
 la noncuranza
-
-diegetic
-diegetico
 
 fraught with problems; full of problems
 pieno di problemi
