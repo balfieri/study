@@ -47985,3 +47985,19 @@ originarsi
 
 hailstorm
 la grandinata
+
+phenomenon
+il fenomeno
+
+supercell
+la supercella
+
+microburst
+il microburst
+
+downburst
+il downburst
+
+to rip the wings off the airplane
+strappare le ali dall'aereo
+
