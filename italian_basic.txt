@@ -7588,11 +7588,14 @@ le ossa
 honesty
 l'onestà
 
-to throw (uncontrolled, casual)
+to throw (uncontrolled)
 gettare
 
 to throw (controlled, aimed); to launch
 lanciare
+
+to throw (informal)
+buttare
 
 treasure; sweetheart; darling
 il tesoro

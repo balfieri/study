@@ -22655,7 +22655,7 @@ intact
 intatto
 
 to expect a child
-aspettare un figlo
+aspettare un figlio
 
 godfather; buddy; pal; chum; crony
 il compare
@@ -39121,9 +39121,6 @@ meditare
 to scrutinize
 scrutare
 
-you get what you pay for
-si ottiene quello che si paga
-
 let me back up
 lasciami tornare indietro; fammi fare un passo indietro
 
@@ -47934,3 +47931,51 @@ la noncuranza
 
 fraught with problems; full of problems
 pieno di problemi
+
+to network
+fare rete
+
+sharing
+la condivisione
+
+allocated
+adibito
+
+to put into circulation
+mettere in circolo
+
+meeting room
+la stanza riunioni
+
+exchange
+l'interscambio
+
+mutual aid
+il reciproco ausilio
+
+startupper
+il startupper
+
+ductile
+duttile
+
+necessary discretion
+la riservatezza doverosa
+
+legal headquarters
+la domiciliazione sede legale
+
+work-from-home
+il lavoro da casa
+
+facilitation
+l'agevolazione
+
+to engage with the community
+coinvolgere la comunità
+
+to take part in the community
+partecipare alla comunità
+
+to Facetime
+fare Facetime

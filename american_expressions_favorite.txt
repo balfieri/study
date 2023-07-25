@@ -2784,3 +2784,6 @@ dimenticarsi di (fare qualcosa)
 (adjective) wasteland
 il deserto (aggettivo)
 
+you get what you pay for
+si ottiene quello che si paga
+
