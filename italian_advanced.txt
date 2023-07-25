@@ -4522,8 +4522,8 @@ la menzogna
 to live a lie
 vivere nella menzogna; vivere una menzogna
 
-somewhere
-in qualche posto; da qualche parte
+somewhere; some place
+in qualche posto; da qualche parte; in qualche luogo
 
 anywhere
 dovunque; ovunque
@@ -48015,3 +48015,7 @@ proteggere la città dagli attaccanti
 
 to fortify
 fortificare
+
+it leads right to (some place)
+porta direttamente a (qualche luogo)
+
