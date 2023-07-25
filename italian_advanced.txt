@@ -48037,3 +48037,6 @@ fare centro; colpire il segno; colpire il bersaglio
 accessory
 l'accessorio
 
+in competition
+in concorso
+
