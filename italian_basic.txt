@@ -4924,7 +4924,7 @@ derubare
 to rob (something)
 rubare
 
-to freeze (something)
+to freeze (slowly)
 congelare
 
 stage (theater)
@@ -7815,3 +7815,6 @@ ci vediamo più tardi
 
 well (adjective)
 ben (aggettivo)
+
+frozen (slowly)
+congelato

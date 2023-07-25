@@ -47125,8 +47125,11 @@ inconcludente
 asymptomatic
 asintomatico
 
-frozen
+frozen (rapidly)
 surgelato
+
+to freeze (rapidly)
+surgelare
 
 to cut down some trees
 tagliare alcuni alberi
