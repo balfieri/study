@@ -37387,7 +37387,7 @@ il medico di base; il medico di famiglia
 internist
 il medico di medicina generale; l'internista
 
-to do CT scans; to gete CT scans
+to do CT scans; to get CT scans
 fare delle tac
 
 MRI
