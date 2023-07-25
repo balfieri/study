@@ -26260,7 +26260,7 @@ i dolci
 Soviet
 sovietico
 
-invested
+invested; run over
 investito
 
 pledge
@@ -48046,4 +48046,6 @@ la capitale della nazione
 to rent an apartment
 affittare un appartamento
 
+to get run over
+essere investito
 
