@@ -13620,7 +13620,7 @@ l'ospitalità del sud
 
 alter boy
 il chierichetto
-        
+
 penis
 il pene
 
@@ -14227,7 +14227,7 @@ il soccorritore
 preview (film); thumbnail; teaser
 l'anteprima
 
-trailer; tow; towage        
+trailer; tow; towage
 il rimorchio
 
 to cross; to interbreed; to intersect
@@ -15495,7 +15495,7 @@ l'andatura
 
 urgent; pressing
 urgente; incalzante
-        
+
 to see eye to eye
 parlare la stessa lingua
 
@@ -19208,7 +19208,7 @@ light of approval
 la luce dell'approvazione
 
 debate; discussion; argument
-il dibattito 
+il dibattito
 
 debate; dispute; hearing
 il dibattimento
@@ -21326,7 +21326,7 @@ shovel
 la pala
 
 crying; weeping; cry
-il pianto 
+il pianto
 
 puddle; pool; pond
 la pozza
@@ -21586,7 +21586,7 @@ frullare
 rich in flavor
 ricco di sapore
 
-pretentious; 
+pretentious
 pretenzioso
 
 presumptious
@@ -21602,7 +21602,7 @@ to announce; to declare
 rendere noto
 
 to be embarassed
-venire messo in imbarazzo 
+venire messo in imbarazzo
 
 to get rid of; to dump
 disfarsi di
@@ -22333,7 +22333,7 @@ riponilare
 tara gum
 la gomma di tara
 
-to lend itself to 
+to lend itself to
 prestarsi ad essere
 
 to infuse
@@ -23993,7 +23993,7 @@ airforce
 l'aviazione militare
 
 navy
-la marina militare 
+la marina militare
 
 marines
 la fanteria di marina
@@ -24431,7 +24431,7 @@ pooch; mutt
 il cagnaccio
 
 coat hanger
-l'attaccapanni 
+l'attaccapanni
 
 from time to time
 di volta in volta; di tempo a tempo
@@ -25640,7 +25640,7 @@ as much as
 tanto quanto
 
 fungicide
-la fungicida 
+la fungicida
 
 Latvian
 lettone
@@ -26045,7 +26045,7 @@ I don't want to make you sad
 non voglio renderti triste
 
 to drive on the lefthand side
-guidare sul lato sinistro 
+guidare sul lato sinistro
 
 to drive on the righthand side
 guidare sul lato destro
@@ -26938,7 +26938,7 @@ le bacchette
 here's the thing
 ecco il punto; il fatto è questo
 
-emotional well-being 
+emotional well-being
 il benessere emotivo
 
 to second-guess
@@ -27197,7 +27197,7 @@ freaked out
 fuor di testa
 
 shocked
-scioccato 
+scioccato
 
 to cheat on (an exam)
 imbrogliare a
@@ -27805,7 +27805,7 @@ definitivamente
 psychic
 il sensitivo
 
-insatiable 
+insatiable
 insaziabile
 
 to cool off; to freshen up
@@ -28673,15 +28673,15 @@ programmable
 programmabile
 
 Easter egg hunt
-la caccia all'uovo di Pasqua 
+la caccia all'uovo di Pasqua
 
 to have the presence of mind
-avere la presenza di spirito 
+avere la presenza di spirito
 
 to rehearse a scene
 provare una scena
 
-key points 
+key points
 i punti chiave
 
 what is going on with you?
@@ -29003,7 +29003,7 @@ it holds up well
 reggere bene
 
 spectacular
-spettacolare; spettacoloso 
+spettacolare; spettacoloso
 
 moderate
 moderato
@@ -29332,8 +29332,8 @@ coinvolgente
 not so fast
 non così in fretta
 
-it makes me question how 
-mi fa dubbitare di quanto 
+it makes me question how
+mi fa dubbitare di quanto
 
 to make (someone) question
 far dubbitare a (qualcuno)
@@ -29590,7 +29590,7 @@ tirare avanti
 life support system
 il sistema di supporto vitale
 
-unproven 
+unproven
 non provato; indimostrato
 
 unsubstantiated
@@ -29963,7 +29963,7 @@ to recoil
 rinculare
 
 enclosed
-racchiuso 
+racchiuso
 
 foolishly; unwisely
 stoltamente
@@ -29972,7 +29972,7 @@ fool; loon
 lo stolto
 
 heinous; brutal; atrocious
-efferato 
+efferato
 
 to reap; to harvest
 mietere
@@ -31094,7 +31094,7 @@ anthill
 il formicaio
 
 superintendent
-il sovrintendente 
+il sovrintendente
 
 to supervise; to oversee
 sovrintendere
@@ -31108,7 +31108,7 @@ inflitto
 to self-medicate
 automedicarsi; curarsi; medicarsi
 
-fortune cookie 
+fortune cookie
 il biscotto della fortuna
 
 fan (of something)
@@ -31187,7 +31187,7 @@ to lose; to lose out
 rimetterci
 
 to make oneself useful to
-fare comodo a 
+fare comodo a
 
 to rehash
 rinvangare
@@ -31208,7 +31208,7 @@ one drip at a time
 con coltagocce
 
 brand new; good as new
-nuovo di pacca 
+nuovo di pacca
 
 to be at stake; to be in play
 essere in ballo; stare in ballo
@@ -31229,13 +31229,13 @@ elbow
 il gomito
 
 to keep one's distance
-tenere le distanze 
+tenere le distanze
 
 to keep an eye on
 tenere sott'occhio; tenere sottocchio
 
 deceit; deception; trickery
-l'inganno 
+l'inganno
 
 knowing all along; always knowing
 sempre sapendo
@@ -31315,8 +31315,8 @@ consegnare; cedere
 evolving
 in evoluzione
 
-entirety 
-l'interezza 
+entirety
+l'interezza
 
 in its entirety
 nella sua interezza
@@ -31574,7 +31574,7 @@ forewarning; notice; warning; advance warning
 il preavviso
 
 sorry for the short notice
-scusa per il breve preavviso 
+scusa per il breve preavviso
 
 I apologize for the short notice
 mi scuso per il breve preavviso
@@ -31934,7 +31934,7 @@ unionist
 il sindacalista
 
 all-encompassing
-totalizzante 
+totalizzante
 
 plenary
 plenario
@@ -31973,7 +31973,7 @@ to grieve; to pain
 addolorare
 
 willing; keen
-volenteroso 
+volenteroso
 
 to dispose of
 disporre di
@@ -31991,7 +31991,7 @@ from top to bottom
 da cima a fondo
 
 to flatten
-appiattire 
+appiattire
 
 gem; beauty; real find
 la chicca
@@ -32422,7 +32422,7 @@ bello; meraviglioso
 at the very least
 come minimo; almeno; il minimo che
 
-to take it to the next step 
+to take it to the next step
 portarlo al passo successivo
 
 to fear rejection
@@ -32585,7 +32585,7 @@ wafer; waffle (flat)
 la cialda
 
 tray; platter
-il vassoio 
+il vassoio
 
 drip tray; drip catcher; drip collector
 il raccogligoccia
@@ -32609,7 +32609,7 @@ caper
 il cappero
 
 tip; tip-off
-la soffiata 
+la soffiata
 
 to talk this through
 parlarne; ragionare sopra
@@ -32726,7 +32726,7 @@ best 2 out of 3
 facciamo due su tre
 
 drug addict
-il tossico dipendente 
+il tossico dipendente
 
 vented
 sfogato
@@ -32915,7 +32915,7 @@ fuse (explosive)
 la miccia
 
 public opinion
-l'opinione pubblica 
+l'opinione pubblica
 
 disengagement
 il disimpegno
@@ -33017,7 +33017,7 @@ I won't tolerate lactose
 non tollero il lattosio
 
 hearing aid
-l'apparecchio acustico 
+l'apparecchio acustico
 
 to set aside; to put asside
 accantonare; mettere da parte
@@ -33026,7 +33026,7 @@ to sauté
 soffriggere
 
 I thought this problem would have been solved by now
-pensavo che ormai questo problema sarebbe stato risolto 
+pensavo che ormai questo problema sarebbe stato risolto
 
 self-assembly
 l'autoassemblaggio
@@ -33194,7 +33194,7 @@ to gut; to eviscerate
 sventrare
 
 sympathizer
-il simpatizzante 
+il simpatizzante
 
 to sympathize
 simpatizzare
@@ -33395,7 +33395,7 @@ to fill out a form
 compilare un modulo
 
 instantaneously
-istantaneamente 
+istantaneamente
 
 playbill; poster
 la locandina
@@ -33452,7 +33452,7 @@ contact address; forwarding address
 il recapito
 
 contractor; contract worker
-il contrattista 
+il contrattista
 
 thanks for fitting me in
 grazie per aver trovato il tempo per me
@@ -34078,7 +34078,7 @@ sfilacciato
 I've never seen anything like it
 non ho mai visto nulla di simile
 
-I came in third place 
+I came in third place
 sono arrivato al terzo posto
 
 hashtag; pound sign
@@ -35092,7 +35092,7 @@ hai ragione su una cosa
 to twist
 torcere
 
-considering; considering that 
+considering; considering that
 considerando che
 
 cupcake
@@ -35569,7 +35569,7 @@ le donne sono migliori degli uomini
 I want to preface by saying that
 voglio premettere dicendo che
 
-to have a crush on 
+to have a crush on
 avere una cotta per
 
 we gave her control over the menu choices
@@ -36241,8 +36241,8 @@ ora sarebbe un buon momento per essere completamente sincero con me
 I have no desire to
 non ho nessun desiderio di; non ho alcun desiderio di
 
-it will take them three times longer to 
-ci metteranno tre volte più tempo a 
+it will take them three times longer to
+ci metteranno tre volte più tempo a
 
 to get sick of me
 stufarsi di me
@@ -38141,7 +38141,7 @@ it was the plan all along
 era il piano fin dall'inizio
 
 laparoscopy
-la laparoscopia 
+la laparoscopia
 
 I know a guy who knows a guy
 conosco un tizio che conosce un altro tizio
@@ -38306,7 +38306,7 @@ chameleon
 il camaleonte
 
 to camouflage oneself; to blend in
-mimetizzarsi 
+mimetizzarsi
 
 my car is in the shop
 la mia macchina è in officina
@@ -38528,7 +38528,7 @@ unmarked
 smarcato
 
 to deflower; to take someone's virginity
-deflorare; sverginare; togliere la verginità 
+deflorare; sverginare; togliere la verginità
 
 child rearing; raising children
 l'allevamento dei bambini; l'educazione dei figli
@@ -38984,49 +38984,49 @@ superlative
 superlativo
 
 intoxicating
-inebriante 
+inebriante
 
 unmistakable
-inconfondibile 
+inconfondibile
 
 unmistakably
-inconfondibilmente 
+inconfondibilmente
 
 to imprison
-impriogionare 
+impriogionare
 
 spout
-il beccuccio 
+il beccuccio
 
 each of us; every one of us
-ognuno di noi 
+ognuno di noi
 
 attached to this; in attachment
-in allegato 
+in allegato
 
 roasting
 la tostatura; la torrefazione
 
 packaging
-la confezione 
+la confezione
 
 rival
-il rival 
+il rival
 
 the moka pot
-la moka 
+la moka
 
 small discount
-lo sconticino 
+lo sconticino
 
 to deny oneself
-smentirsi 
+smentirsi
 
 I must admit I'm not an expert
 premetto che non sono un esperto
 
 scheduled delivery
-la consegna programmata 
+la consegna programmata
 
 connoisseur (refined)
 l'intenditore
@@ -39038,16 +39038,16 @@ a good value for money
 un buon rapporto qualità/prezzo
 
 niche (adjective)
-di nicchia 
+di nicchia
 
 intact packaging
-la confezione integra 
+la confezione integra
 
 qualitatively; in terms of quality
 qualitativamente
 
 to my liking
-di mio gradimento 
+di mio gradimento
 
 I don't want to overstay my visit
 non voglio prolungare troppo la mia visita
@@ -40867,10 +40867,10 @@ riscaldamento, ventilazione e condizionamento dell'aria
 scrambled eggs
 le uova strapazzate
 
-liberal usage of the word 
+liberal usage of the word
 l'uso liberale della parola
 
-overwhelming presence of 
+overwhelming presence of
 la presenza travolgente di
 
 to grab some food
@@ -43993,7 +43993,7 @@ ravvicinato
 denied; refuted; contradicted
 smentito; confutato
 
-the motion; 
+the motion
 il moto
 
 driver
@@ -44083,8 +44083,8 @@ il digiuno intermittente
 very capable person
 la persona molto capace
 
-to support (someone, a team); 
-sostenere (qualcuno, una squadra); 
+to support (someone, a team)
+sostenere (qualcuno, una squadra)
 
 to cheer on (someone, a team)
 fare il tifo per (qualcuno, una squadra)
@@ -44131,7 +44131,7 @@ l'ingestione
 additive
 additivo
 
-food additive 
+food additive
 l'additivo alimentare
 
 proportional
@@ -44591,7 +44591,7 @@ to speculate
 speculare
 
 uprising
-la sollevazione 
+la sollevazione
 
 to fall off of
 cadere da
@@ -44779,7 +44779,7 @@ prolisso; prolungato
 to clear up a situation
 chiarire una situazione
 
-platonic 
+platonic
 platonico
 
 platonic relationship
@@ -44807,7 +44807,7 @@ right from the start
 fin da subito
 
 as long as I can still
-finché riesco ancora a 
+finché riesco ancora a
 
 blabbermouth
 il quaquaraquà
@@ -45999,7 +45999,7 @@ il glossario
 
 gnome
 il gnomo
- 
+
 I know it's easy for me to say
 so che è facile per me dirlo
 
@@ -46930,7 +46930,7 @@ la scuola di obbedienza per cani
 over-protective
 iperprotettivo
 
-I'm trying to convince my wife to 
+I'm trying to convince my wife to
 sto cercando di convincere mia moglie a
 
 group class; group lesson
@@ -47092,7 +47092,7 @@ a sinistra di
 to the left of
 alla sinistra di
 
-right of; 
+right of
 a destra di
 
 to the right of
@@ -47257,7 +47257,7 @@ la scuola di addestramento per cani
 slippery
 sdrucciolevo
 
-theatrical 
+theatrical
 plateale
 
 ostentatious
@@ -47407,7 +47407,7 @@ giuro a Dio
 airport diagram
 il diagramma dell'aeroporto
 
-to tour the city; 
+to tour the city
 girare per la città
 
 to go around the city
@@ -47465,7 +47465,7 @@ bunch; cluster
 il grappolo
 
 overseas
-oltreoceano 
+oltreoceano
 
 across the ocean
 attraverso l'oceano
