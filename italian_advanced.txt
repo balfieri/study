@@ -3886,7 +3886,7 @@ postare
 to ensure that
 fare sì che
 
-remarkable
+amazing; wonderful; terrific; remarkable
 strepitoso
 
 to draft; to draw up
@@ -18725,7 +18725,7 @@ diffusion; spread
 la diffusione
 
 component
-il componente
+il componente; la componente
 
 but; except; save
 salvo
@@ -48078,3 +48078,33 @@ cerealicolo
 
 to learn to (do something)
 imparare a (fare qualcosa)
+
+time frame; period of time
+il lasso di tempo; l'intervallo di tempo; il periodo di tempo
+
+typist
+la dattilografa
+
+workforce; labor force
+la forza lavoro; la forza del lavoro
+
+order of magnitude
+l'ordine di grandezza
+
+shortly done; in short order
+a breve fatta
+
+deterministic
+deterministico
+
+stocastic
+stocastico
+
+exponentially
+esponenzialmente
+
+scissors
+la forbice
+
+to palm off; to fob off
+rifilare
