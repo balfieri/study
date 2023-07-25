@@ -48063,3 +48063,6 @@ devoto
 
 on two wheels; two-wheel
 a due ruote
+
+migrant
+il migrante
