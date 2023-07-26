@@ -48219,3 +48219,6 @@ appetibile
 
 at least; at the very least
 quantomeno
+
+dead battery; discharged battery
+la batteria scarica
