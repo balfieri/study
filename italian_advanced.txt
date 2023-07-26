@@ -48283,3 +48283,14 @@ semantico
 to perform a semantic check
 eseguire un controllo semantico
 
+to run a test
+fare un test
+
+to perform a test
+eseguire un test
+
+to execute a program
+eseguire un programma
+
+to abort a program
+interrompere un programma
