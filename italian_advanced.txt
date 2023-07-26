@@ -9115,7 +9115,7 @@ spettare
 to deserve; to merit
 meritarsi
 
-to contribute
+to contribute; to bring
 apportare
 
 hundreds
@@ -22750,7 +22750,7 @@ conseguire
 prevalent
 prevalente
 
-reflex
+reflection; reflex
 riflesso
 
 youth
@@ -48159,3 +48159,34 @@ cablare
 
 wired
 cablato
+
+frame (video)
+il fotogramma
+
+motion vector
+il vettore di movimento
+
+anomaly
+l'anomalia
+
+to render (draw)
+renderizzare
+
+game engine
+il motore gioco
+
+graphics engine
+il motore grafico
+
+rendering
+la renderizzazione
+
+polygon
+il poligono
+
+polygonal
+poligonale
+
+to remaster
+rimasterizzare
+
