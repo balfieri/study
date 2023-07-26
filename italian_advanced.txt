@@ -47095,6 +47095,9 @@ la civitteria
 to tip over
 ribaltare
 
+tipped overe
+ribaltato
+
 two trees tipped over
 due alberi si sono ribaltati
 
