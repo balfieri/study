@@ -48238,3 +48238,21 @@ il letto gemello
 queen-size bed
 il letto queen-size
 
+after breakfast
+dopo la colazione
+
+after lunch
+dopo pranzo
+
+after dinner
+dopo cena
+
+before breakfast
+prima della colazione
+
+before lunch
+prima del pranzo
+
+before dinner
+prima della cena
+
