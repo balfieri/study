@@ -4043,7 +4043,7 @@ doctor; physician
 il medico; il dottore
 
 quantity; amount
-la quantità
+la quantità; il quantitativo
 
 pack; parcel; package
 il pacco

@@ -7637,7 +7637,7 @@ to nod
 annuire
 
 to take advantage of
-approffitare di
+approffitare di; avvantaggiarsi di
 
 to take advantage of (someone, something)
 approffitarsi
@@ -12558,9 +12558,6 @@ il dimagrimento
 
 green light
 il via libera
-
-appetizing; palatable
-appetibile
 
 to drive easily
 andare facilmente in macchina
@@ -22691,7 +22688,7 @@ caution; prudence
 la prudenza
 
 breadth; amplitude; width
-ampiezza
+l'ampiezza
 
 programming; coding
 la programmazione
@@ -48190,3 +48187,35 @@ poligonale
 to remaster
 rimasterizzare
 
+triple A; AAA
+tipla A
+
+to rasterize
+rasterizzare
+
+rasterization
+la rasterizzazione
+
+without a shadow of a doubt
+senza ombra di dubbio
+
+performance increase
+l'incremento prestazionale
+
+energy absorbtion; energy consumption
+l'assorbimento energetico
+
+connector
+il connettore
+
+power connector
+il connettore di alimentazione
+
+dissipator
+il dissipatore
+
+desirable; appetizing; appealing; palatable
+appetibile
+
+at least; at the very least
+quantomeno
