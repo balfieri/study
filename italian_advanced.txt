@@ -21497,7 +21497,7 @@ gravity; severity; seriousness
 gravità
 
 liquidation; sale; clearance
-liquidazione
+la liquidazione
 
 legal; juridical
 giuridice
@@ -26446,7 +26446,7 @@ fuori questione; fuori discussione
 all everyone talked about
 tutto ciò di cui tutti parlavano
 
-makeshift
+makeshift; improvised
 improvvisato
 
 she catches me (doing something)
@@ -48312,3 +48312,4 @@ quali contorni desideri con il tuo pasto principale?
 
 pearl
 la perla
+
