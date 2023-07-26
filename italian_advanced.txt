@@ -48334,3 +48334,5 @@ equipaggiato; attrezzato
 intimidating
 intimidante
 
+to converge; to flow together
+confluire; fluire insieme
