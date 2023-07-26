@@ -3118,8 +3118,8 @@ sbagliarsi
 to rest; to take a rest
 riposarsi
 
-to meet (get together)
-incontrarsi
+to meet with; to get together with
+incontrarsi con
 
 to show interest in; to look out for somebody
 interessarsi
@@ -3127,7 +3127,7 @@ interessarsi
 to rise; to get up; to stand
 alzarsi
 
-to feel
+to feel (intransitive)
 sentirsi
 
 to kiss
