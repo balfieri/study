@@ -48153,3 +48153,9 @@ lo striscione
 
 primadonna
 la primadonna
+
+to wire
+cablare
+
+wired
+cablato
