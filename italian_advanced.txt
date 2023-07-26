@@ -48267,3 +48267,19 @@ aumentare il prezzo
 
 testbench; test bench
 il banco di prova
+
+syntax
+la sintassi
+
+syntactic
+sintattico
+
+to perform a syntax check
+eseguire un controllo della sintassi; eseguire un controllo sintattico
+
+semantic
+semantico
+
+to perform a semantic check
+eseguire un controllo semantico
+
