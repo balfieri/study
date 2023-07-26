@@ -5483,7 +5483,7 @@ lifestyle
 il stile di vita
 
 master (of slaves); task master
-il padrone
+il padrone; la padrona
 
 ancestor
 l'antenato
@@ -16084,7 +16084,7 @@ ingente
 to disguise oneself
 travestirsi
 
-outline; contour; side dish
+outline; contour; side dish; side
 il contorno
 
 interception; intercept; eavesdropping
@@ -31477,7 +31477,7 @@ galleggiare
 rosemary
 il rosmarino
 
-rosmary sprig
+rosemary sprig
 il rametto di rosmarino
 
 twig; sprig
@@ -48294,3 +48294,19 @@ eseguire un programma
 
 to abort a program
 interrompere un programma
+
+to return to the scene of the crime
+tornare alla scena del crimine
+
+complex aircraft
+l'aereo complesso
+
+high-performance aircraft
+l'aereo ad alte prestazioni
+
+two of my three children
+due dei miei tre figli
+
+what sides would you like with your main meal?
+quali contorni desideri con il tuo pasto principale?
+
