@@ -7390,7 +7390,7 @@ perdere il ritmo
 unlikely event
 il caso improbabile; l'evento improbabile
 
-overrated
+overrated; overhyped
 sopravvalutato
 
 underground garage
@@ -9396,9 +9396,6 @@ il punto culminante
 
 tasty
 gustoso; delizioso; soporito
-
-staycation
-la vacanza in casa
 
 Amalfi Coast
 la costa d'Amalfi; la Costiera Amalfitana
@@ -36127,7 +36124,7 @@ il cibo era incredibile; il cibo era fantastico; il cibo era eccezionale; il cib
 overstated
 sopravvalutato; esagerato; sovraesposto; enfatizzato eccessivamente
 
-understated
+understated; underhypted
 sottovalutato; minimizzato; sottostimato
 
 it has no bearing on it
@@ -40643,7 +40640,7 @@ trench
 la trincea
 
 global warming
-il surriscaldamento globale
+il riscaldimento globale; il surriscaldamento globale
 
 extremist
 oltranzista
@@ -48225,4 +48222,19 @@ la batteria scarica
 
 social media influencer
 l'influencer dei social
+
+apocalypse
+l'apocalisse
+
+double bed
+il letto matrimoniale
+
+single bed
+il letto singolo
+
+twin bed
+il letto gemello
+
+queen-size bed
+il letto queen-size
 
