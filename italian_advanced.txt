@@ -48360,3 +48360,7 @@ centro di infusione
 
 infusion
 l'infusione
+
+in short supply
+in corto rifornimento; in scarsa fornitura
+
