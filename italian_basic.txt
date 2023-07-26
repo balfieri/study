@@ -6953,7 +6953,10 @@ priest
 il prete
 
 mile
-la miglia
+il miglio
+
+miles
+i miglia
 
 photo
 la foto
