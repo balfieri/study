@@ -7830,3 +7830,6 @@ grazie mille; mille grazie; grazie tante
 
 here we go; here we are
 eccoci
+
+among; amongst
+tra; fra
