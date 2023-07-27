@@ -7833,3 +7833,7 @@ eccoci
 
 among; amongst
 tra; fra
+
+to anger; to make angry
+fare arrabbiare
+
