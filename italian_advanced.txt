@@ -20254,8 +20254,8 @@ appariscente
 careless
 disattento
 
-careless; reckless
-spericolato; incurante
+reckless
+spericolato; incurante; imprudente
 
 bachelor
 celibe
@@ -48529,3 +48529,5 @@ la nave madre
 to commit an error
 commettere un errore
 
+reckless person
+la persona spericolata; la persona sconsiderata; la persona avventata; la persona imprudente
