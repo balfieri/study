@@ -17735,7 +17735,7 @@ wholesale; approximately; roughly
 ingrosso
 
 notorious; infamous; of ill repute
-famigerato
+famigerato; infame
 
 deployment
 lo schierzamento
@@ -25573,7 +25573,7 @@ il quistione
 maturation
 la maturazione
 
-accademic
+academic
 accademico
 
 prevented; obstructed; impeded; blocked
@@ -48582,3 +48582,40 @@ la fauna selvatica
 
 megaton
 la megatonnellata
+
+notoriously
+notoriamente
+
+data hunting; data mining
+la caccia ai data
+
+cache
+la cache
+
+extrapolated
+estrapolato
+
+to extrapolate
+estrapolare
+
+to bring a lawsuit; to file a lawsuit
+intentare una causa; presentare una causa
+
+boundless; limitless; unbounded
+sconfinato; illimitato; senza confini
+
+confined; restricted
+confinato
+
+mattress
+il materasso
+
+blow-up mattress
+il materasso gonfiabile
+
+up for auction; at auction
+all'asta
+
+Allen wrench
+la chiave a brugola
+
