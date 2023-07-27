@@ -709,9 +709,6 @@ trovare
 fog
 la nebbia
 
-cloudy
-nevuloso
-
 snow
 la neve; la nevicata
 
