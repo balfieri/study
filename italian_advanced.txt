@@ -42733,7 +42733,7 @@ il via
 washcloth
 la salvietta
 
-ratio; relation
+report; ratio; relation
 il rapporto
 
 to personalize
