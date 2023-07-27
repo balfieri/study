@@ -48516,3 +48516,6 @@ l'addebito mensile
 
 landlord; lessor; renter
 il locatore
+
+furnished
+arredato; ammobiliato
