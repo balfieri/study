@@ -48423,3 +48423,7 @@ rivendicare la cittadinanza
 
 nickname
 il soprannome; il nomignolo
+
+falling; downward
+in ribasso
+
