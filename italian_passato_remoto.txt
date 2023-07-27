@@ -147,7 +147,6 @@ finsi
 she faked (remote past)
 finse
 
-
 they faked (remote past)
 finsero
 
@@ -397,7 +396,7 @@ presi
 she took (remote past)
 prese
 
-they took
+they took (remote past)
 presero
 
 I closed (remote past)
@@ -523,7 +522,7 @@ diventai
 she became (remote past)
 diventò
 
-they became
+they became (remote past)
 diventarono
 
 I sensed (remote past)
