@@ -4081,7 +4081,7 @@ il richiedente
 assignee
 l'assegnatario
 
-canon; standard
+canon; standard; fee
 il canone
 
 agreement
@@ -5110,7 +5110,7 @@ la bocciatura
 to fail; to flunk; to reject
 bocciare
 
-clash; crash; confrontation
+clash; confrontation
 lo scontro
 
 to bother; to disturb; to trouble
@@ -19447,9 +19447,6 @@ destinato
 current; stream; flow
 il corrente
 
-modification
-la modificazione
-
 cautious; considered; deemed
 ritenuto
 
@@ -22397,7 +22394,7 @@ instant
 l'istante
 
 change; modification
-la modifica
+la modifica; la modificazione
 
 branch
 la rama
@@ -48421,8 +48418,8 @@ rivendicare la cittadinanza
 nickname
 il soprannome; il nomignolo
 
-falling; downward
-in ribasso
+falling; downward; on the decline
+in ribasso; al ribasso
 
 North Carolina
 la Carolina del Nord
@@ -48565,3 +48562,23 @@ il Cipro
 to turn; to flip
 voltare
 
+intricate
+intricato
+
+unbundling
+lo scoporo
+
+to spin off; to separate; to unbundle
+scorporare
+
+under the scrutiny of; at the discretion of
+al vaglio di; alla discrezione di
+
+to raise some doubt
+sollevare qualche dubbio
+
+wildlife
+la fauna selvatica
+
+megaton
+la megatonnellata
