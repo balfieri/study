@@ -48471,3 +48471,24 @@ Lago ONtario
 
 Lake Erie
 Lago Erie
+
+North America
+America Settentrionale
+
+South America
+America Meridionale
+
+Puerto Rico
+il Portorico
+
+Jamaica
+la Giamaica
+
+Mexico City
+Città del Messico
+
+North Dakota
+la Dakota del Nord
+
+South Dakota
+la Sud Dakota
