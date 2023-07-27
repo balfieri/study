@@ -48544,3 +48544,9 @@ arreso
 you always do that!
 tu fai sempre così!
 
+corrosive
+corrosivo
+
+not removable
+non rimovibile
+
