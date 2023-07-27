@@ -48427,3 +48427,47 @@ il soprannome; il nomignolo
 falling; downward
 in ribasso
 
+North Carolina
+la Carolina del Nord
+
+South Carolina
+la Carolina del Sud
+
+West Virgina
+lo Stato della Virginia Occidentale
+
+Atlantic Ocean
+l'oceano Atlantico
+
+Pacific Ocean
+l'oceano Pacifico
+
+Dead Sea
+il Mar Morto
+
+Black Sea
+il Mar Nero
+
+Mediterranean Sea
+il Mar Mediterraneo
+
+Adriatic Sea
+il Mare Adriatico
+
+Caspian Sea
+il Mar Caspio
+
+North Sea
+il Mar del Nord
+
+English Channel
+La Manaca
+
+Hudson River
+il Fiume Hudson
+
+Lake Ontario
+Lago ONtario
+
+Lake Erie
+Lago Erie
