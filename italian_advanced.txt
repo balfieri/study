@@ -48526,3 +48526,6 @@ il paese natale
 the mother ship
 la nave madre
 
+to commit an error
+commettere un errore
+
