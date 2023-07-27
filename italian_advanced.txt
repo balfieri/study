@@ -48495,3 +48495,24 @@ la Sud Dakota
 
 dog park
 il parco per cani
+
+vehicle fleet
+il parco mezzi
+
+rental fee
+il canone di locazione
+
+security deposit
+il deposito cauzionale
+
+act of withdrawl
+l'atto di ritiro
+
+for the purpose of
+ai fini di
+
+montly charge
+l'addebito mensile
+
+landlord; lessor; renter
+il locatore
