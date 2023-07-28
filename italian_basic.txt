@@ -5002,9 +5002,6 @@ il protaganista
 to ask questions
 fare domande
 
-to take notes
-prendere note
-
 to disappoint (someone); to underwhelm
 deludere
 
@@ -5501,7 +5498,7 @@ notes
 gli appunti; le note
 
 to take notes
-prendere appunti
+prendere note; prendere appunti
 
 will; willingness
 la volontà
