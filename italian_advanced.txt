@@ -11252,7 +11252,7 @@ car
 la vettura
 
 to scan
-scannerizzare
+scannerizzare; scansionare
 
 to contract
 contrarre
