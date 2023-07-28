@@ -48856,3 +48856,6 @@ l'inquinamento da plastica
 to string together a bunch of words
 mettere insieme una serie di parole
 
+to be within reach
+essere a portata
+
