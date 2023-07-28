@@ -836,7 +836,7 @@ except
 tranne; eccetto
 
 beach
-la spiaggia
+la spiaggia; il lido
 
 sand
 la sabbia
