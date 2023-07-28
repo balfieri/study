@@ -11171,7 +11171,7 @@ gang leader
 il capobanda
 
 midwife
-la levatrice
+la levatrice; l'ostetrica
 
 garment
 l'indumento
@@ -37834,9 +37834,6 @@ questo non mi riguarda
 Vulkan
 Vulcano
 
-estate
-la tenuta
-
 gut; intestines
 il budello
 
@@ -48867,4 +48864,55 @@ romeno
 
 maternal instincts
 gli istinti materni
+
+bordering 
+confinante 
+
+anti-aircraft
+antiaereo
+
+catacomb
+la catacomba
+
+matron
+la matrona
+
+terrifying
+terrificante
+
+Constantinian
+costantiniano
+
+ruin
+il rudere
+
+shrewdness; cunning
+la fattezza
+
+to articulate; to develop
+articolarsi
+
+dreamlike
+onirico
+
+betwitched
+ammaliato
+
+to bewitch
+ammaliare
+
+estate; holding; outfit
+la tenuta
+
+noble; gentlemanly; stately
+signorile; nobile
+
+frescoed
+affrescato
+
+pavilion
+il padiglione
+
+brewery
+il birrificio
 
