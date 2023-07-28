@@ -15053,7 +15053,7 @@ to get close to; to approach
 avvicinarsi a
 
 to bless; to consecrate
-benedire
+benedire; consacrare
 
 distraught; upset
 sconvolto
@@ -21850,7 +21850,7 @@ l'edizione
 being (noun)
 l'essere
 
-fulfillment; completion
+fulfillment; completion; accomplishment
 il compimento
 
 misery
@@ -48783,4 +48783,70 @@ proprio accanto al parco
 
 nasty; filthy; repugnant
 lurido
+
+in parallel
+in parallelo
+
+succulent; juicy
+succulento
+
+cybercriminal
+il cybercriminale
+
+malicious; ill-intentioned
+malintenzionato
+
+to take care of meticulously; to look after carefully
+curare a puntino
+
+leak of news
+la fuga di notizie
+
+candidacy; application; applying (for a job)
+la candidatura
+
+nearly everywhere; virtually everywhere
+pressoché ovunque
+
+to do everything
+fare di tutto
+
+stutter; stammer
+il balbettio
+
+banner; standard
+il vessillo; lo stendardo
+
+interwoven; intertwined
+intessuto
+
+Risorgimento-related
+risorgimentale
+
+scrawny
+striminzito
+
+bluff
+il bluff
+
+to crucify
+crocifiggere
+
+to mend
+rammendare
+
+to sew up; to stitch up
+ricucire; cucire
+
+to retie; to re-knot
+riannodare; rifare un nodo
+
+consecrated
+consacrato
+
+to make responsible; to hold accountable
+responsabilizzare; rendere responsabile
+
+to savor the moment
+gustare il momento
 
