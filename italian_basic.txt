@@ -2140,7 +2140,7 @@ da nessuna parte
 dog
 il cane
 
-horse
+horse; knight (chess)
 il cavallo
 
 lamb
@@ -3811,7 +3811,7 @@ la domanda
 table
 la tavola; il tavolo
 
-tower
+tower; rook (chess)
 la torre
 
 song
@@ -6706,7 +6706,7 @@ richiesto
 added
 aggiunto
 
-thin; subtle
+thin (layer); subtle
 sottile
 
 believed
@@ -7830,4 +7830,7 @@ tra; fra
 
 to anger; to make angry
 fare arrabbiare
+
+take your work seriously, but don't take yourself seriously
+prendi sul serio il tuo lavoro, ma non prenderti troppo sul serio
 

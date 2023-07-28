@@ -1525,8 +1525,11 @@ trapelare
 to draw (profit)
 traiare
 
-installation; apparatus; plant
+installation (something that is already installed); apparatus; plant
 l'impianto
+
+installation (act of)
+l'installazione
 
 to install
 impiantare; installare
@@ -6808,7 +6811,7 @@ il campagnolo
 vegetables
 l'ortaggio; le verdure
 
-pedestrian
+pedestrian; pawn (chess)
 il pedone
 
 salad bowl
@@ -19573,7 +19576,7 @@ la riparazione
 it's time to talk
 è il momento di parlare; è ora di parlare; è ora che parliamo
 
-horseman; rider
+horseman; rider; knight
 il cavaliere
 
 fabric; cloth; tissue
@@ -27268,7 +27271,7 @@ concepitare
 fervor
 il fervore
 
-supor; astonishment
+amazement; astonishment; wonder; stupor
 lo stupore
 
 inventory
@@ -27541,7 +27544,7 @@ il tappeto; il tappetino
 vcr/tape recorder
 il registratore
 
-fan
+fan; blower
 il ventilatore; la ventola
 
 inhabitant
@@ -43552,7 +43555,7 @@ sottratto
 to maximize
 massimizzare
 
-traceable
+attributable; traceable; referable
 riconducibile
 
 percent
@@ -43969,7 +43972,7 @@ avente
 manslaughter
 l'omicidio colposo
 
-close; near
+close; nearby; close together
 ravvicinato
 
 denied; refuted; contradicted
@@ -48619,3 +48622,134 @@ all'asta
 Allen wrench
 la chiave a brugola
 
+vent
+la bocchetta di ventilazione
+
+loggia; arcade
+il loggiato
+
+valuable; commendable
+pregevole; lodevole
+
+aviary
+l'ucceliera; la voliera
+
+snowfield
+la neviera
+
+dealership
+la concessionaria
+
+possession
+il possedimento
+
+decoration
+l'addobbo
+
+renown
+la rinomanza
+
+brought; provided
+apportato
+
+rearrangement
+il riassestanento; il riassetto
+
+intersected
+intersecato
+
+to intersect
+intersecare
+
+vandalic
+vandalico
+
+depicted
+raffigurato
+
+strength of mind; fortitude
+la forza d'animo
+
+pedestal
+il piedistallo
+
+duck
+la papera; l'anatra
+
+reptile house
+il rettilario
+
+equestrian
+ippico; equestre
+
+bishop (chess); standardbearer; flagbearer
+l'alfiere
+
+overlooking
+prospiciente
+
+sponsored
+patrocinato
+
+set designer
+lo scenografo
+
+to undertake as a result
+interprendere a seguito; intraprendere come risultato
+
+to count among; to include
+annoverare
+
+summer heat
+la calura estiva
+
+cap; dome
+la calotta; la cupola
+
+World Environment Day
+la Giornata mondiale dell'ambiente
+
+bad weather
+il maltempo
+
+to delude oneself
+illudersi
+
+tornado
+la tromba d'aria
+
+rail traffic; railway traffic
+la circolazione ferroviaria
+
+storm surge
+la mareggiata
+
+to refer to oneself in the third person
+riferirsi a se stessi in terza persona
+
+the decorations
+gli addobbi
+
+chessboard
+il tabellone degli scacchi; la scacchiera
+
+chess pieces
+i pezzi degli scacchi
+
+meeting room
+la sala riunioni
+
+Tibetan
+tibetano
+
+Tibetan monk
+il monaco tibetano
+
+to make envy
+fare invidia a
+
+epic proportions
+le proporzioni epiche
+
+muggy day
+il giorno afoso
