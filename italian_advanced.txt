@@ -48852,3 +48852,7 @@ gustare il momento
 
 plastic pollution
 l'inquinamento da plastica
+
+to string together a bunch of words
+mettere insieme una serie di parole
+
