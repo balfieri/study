@@ -48680,7 +48680,10 @@ reptile house
 il rettilario
 
 equestrian
-ippico; equestre
+equestre
+
+horse (adjective, racing)
+ippico
 
 bishop (chess); standardbearer; flagbearer
 l'alfiere
