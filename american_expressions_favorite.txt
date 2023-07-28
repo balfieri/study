@@ -846,7 +846,7 @@ sfaldarsi; dare buca
 the 411; the deets
 i dettagli
 
-what's the 411?; give me the details
+what's the 411?; give me the details; give me the deets
 dammi i dettagli
 
 dough (money); moolah
@@ -868,7 +868,7 @@ yada, yada, yada
 e così via; ecc.
 
 your eyes are bigger than your stomach
-hai gli occhi piu'grandi dello stomaco
+hai gli occhi più grandi dello stomaco
 
 to see the world through rose-colored glasses
 vedere la vita in rosa; essere una Pollianna
