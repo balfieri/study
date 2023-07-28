@@ -24283,8 +24283,8 @@ linguistico
 congregation
 la congregazione
 
-modest
-modesto
+modest; unassuming; self-effacing
+modesto; senza pretese
 
 now; already; at this point
 oramai
