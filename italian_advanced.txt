@@ -24554,7 +24554,7 @@ convenience
 la convenienza
 
 panorama
-la panorama
+il panorama
 
 archbishop
 l'arcivescovo
@@ -49209,3 +49209,9 @@ ti serve una mano? hai bisogno di una mano?
 
 more information
 maggiori informazioni
+
+VAT exclusion
+l'esclusione IVA; lo scorporo IVA
+
+unbundling
+lo scorporo
