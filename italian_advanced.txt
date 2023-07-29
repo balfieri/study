@@ -49174,3 +49174,6 @@ la rozzezza
 leadership
 la dirigenza
 
+social person
+persona socievole
+
