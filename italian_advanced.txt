@@ -1574,7 +1574,7 @@ shipbuilding (adjective)
 cantieristico
 
 ongoing; in progress; underway; afoot
-in corso
+in corso; in progresso; in fieri
 
 shadow; shade
 l'ombra
@@ -8293,7 +8293,7 @@ lo scalpello
 graffiti
 il graffito
 
-clear; sharp; tight
+clear; bright; sharp; tight
 nitido
 
 unfortunate person; victim
@@ -45226,9 +45226,6 @@ smangiucchiare
 to presage
 presagire
 
-mocking
-il beffardo
-
 to succumb
 soccombere
 
@@ -48940,3 +48937,38 @@ la contaminazione
 to wound; to hurt
 ferire; piagare
 
+acumen; sharpness
+l'acume
+
+funny (person); witty; witty
+spiritoso; arguto
+
+high-ranking; high-level
+altolocato; di alto rango; di alto livello
+
+Seville
+Siviglia
+
+frank; straightforward
+schietto
+
+affectation; pretense
+la smanceria; l'affettazione; la pretesa
+
+obscenity; foul language
+il turpiloquio
+
+mocking; teasing
+il canzonatorio; il beffardo
+
+pinned; attributed
+affibbiato; attribuito
+
+unconsciousness
+l'incoscienza
+
+recklessness
+l'imprudenza
+
+pergola
+la pergola
