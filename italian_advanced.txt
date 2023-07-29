@@ -48719,7 +48719,7 @@ chess pieces
 i pezzi degli scacchi
 
 meeting room
-la sala riunioni
+la sala riunioni; la sala meeting
 
 Tibetan
 tibetano
@@ -49215,3 +49215,15 @@ l'esclusione IVA; lo scorporo IVA
 
 unbundling
 lo scorporo
+
+not having to think about anything; to not have to think about anything
+non dover pensare a nulla
+
+prestigious; of prestige
+di prestigio; prestigioso
+
+HDMI connection
+la connessione HDMI
+
+training course (knowledge)
+il corso di formazione
