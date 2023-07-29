@@ -19969,6 +19969,9 @@ la nozione
 temple; shrine
 il tempio
 
+temple (head)
+la tempia
+
 liberation
 la liberazione
 
