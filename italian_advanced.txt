@@ -48751,7 +48751,7 @@ le proporzioni epiche
 muggy day
 il giorno afoso
 
-this makes you
+this makes you; it makes you
 questo fa di te
 
 aw, shucks
@@ -48975,3 +48975,8 @@ l'imprudenza
 
 pergola
 la pergola
+
+it makes her; this makes her
+fa di lei
+
+
