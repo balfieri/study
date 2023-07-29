@@ -8608,7 +8608,7 @@ il pulcino
 muffled
 ovattato
 
-to tkae out; to extract; to pull out
+to take out; to extract; to pull out
 cavare
 
 little chestnuts
@@ -9217,7 +9217,7 @@ prorogare
 how are things going?
 come vanno le cose?
 
-what can you tell me?
+what can you tell me?; what can you tell me?
 cosa mi racconti?
 
 I would like to point out; I would like to emphasize
@@ -11983,7 +11983,7 @@ sollevato
 porn star; porn actor; porn actress
 la pornostar; la pornodiva; la pornoattrice; il pornoattore; l'attrice porno; l'attore porno
 
-to speed up
+to speed up; to accelerate
 accelerare
 
 chipmunk
@@ -20084,7 +20084,7 @@ breasts
 i seni; le poppe; le mammelle
 
 trillionaire
-il trilionario
+il bilionardo
 
 socialism
 il socialismo
@@ -32125,9 +32125,6 @@ sottomettere
 to invest time
 investire il tempo
 
-but get this
-ma senti questa; adesso ascolta bene; senti qua; ma guarda qua
-
 internal injury
 la lesione interna
 
@@ -37939,9 +37936,6 @@ a testa alta insieme
 to fall
 precipitare
 
-spare in arrivo
-spare in arrivo
-
 to despise
 disprezzare
 
@@ -40888,9 +40882,6 @@ fornire consulenza
 check this out
 guarda questo
 
-get this
-prendi questo
-
 listen to this
 ascolta questo
 
@@ -41043,9 +41034,6 @@ la diga
 
 to open the floodgates
 spalancare le paratie
-
-to defame
-diffamare
 
 race car
 l'auto da corsa
@@ -41840,7 +41828,7 @@ laparoscopic
 laparoscopico
 
 hernia
-ernia
+l'ernia
 
 within 24 hours
 nel giro di 24 ore
@@ -48987,4 +48975,202 @@ la lobotomia
 
 electroshock
 l'elettrochoc
+
+crime film
+il film giallo
+
+recrudescence; coming into existence again; growing again (often negative)
+la recrudescenza
+
+little else
+poco altro
+
+in itself
+di per sé
+
+anachronistic
+acronistico
+
+to agree
+mettersi d'accordo
+
+nonsense
+sproposito
+
+bipolarism
+il bipolarismo
+
+barbarization
+l'imbarbarimento
+
+tightrope
+il funambolico
+
+carefree
+zuzzurellone
+
+uninspiring
+inaspire
+
+consociativism
+il consociativismo
+
+to add; to sum
+sommare
+
+temporarily
+momentaneamente
+
+alignment
+lo schieramento
+
+subsidiarity
+la sussidiarietà
+
+jammed
+ingrippato
+
+in spite of
+a dispetto di
+
+to exasperate
+esasperare
+
+homeless
+senzatetto
+
+how's life?
+come va la vita?
+
+what are you up to?
+cosa fai di bello?
+
+just kidding!; I'm joking!
+scherzo!; sto scherzando!
+
+to put on (something)
+mettersi (qualcosa)
+
+to look at oneself in the mirror
+specchiarsi
+
+rioter
+il ciompo
+
+they have him dead to rights
+hanno prove schiaccianti contro di lui
+
+I wish!
+magari!
+
+denier
+il negazionista
+
+torpedoed
+silurato
+
+to slander; to defame
+diffamare
+
+slandered; defamed
+diffamato
+
+get a life!
+fatti una vita!
+
+the water boy
+il ragazzo dell'acqua
+
+to call out of the blue
+chiamare all'improvviso
+
+the end (objective)
+il fine
+
+to talk to no avail
+parlare a vuoto
+
+to become impoverished
+impoverirsi
+
+homelessness
+il senzatetto
+
+tanning
+la bronzatura
+
+cabin
+la cabina
+
+full board (lodging)
+la pensione completa
+
+polite smile
+il sorriso educato
+
+unbelievable
+da non crederci
+
+very first
+il primissimo
+
+a limit on the number of kilometers allowed
+un limite sul numero di chilometri consentiti
+
+the beautiful country (referring to Italy)
+il Belpaese
+
+lapidary; gem cutting; gem cutter
+il lapidario
+
+wildfire; forest fire
+l'incendio boschivo
+
+skiing
+lo sciistico
+
+weekday accessibility
+la fruibilità feriale
+
+beach resort
+il balneare
+
+replenishment
+il ripascimento
+
+inevitable
+ineluttabile
+
+stenographer
+lo stenografo
+
+stenography
+stenografia
+
+courtroom
+l'aula di tribunale
+
+jury box
+il posto della giuria
+
+courtroom reporter
+il cronista giudiziario
+
+luddite
+il luddista
+
+anchorage
+l'ancoraggio
+
+pragmatic
+pragmatico
+
+presupposition
+la presupposizione
+
+roughness
+la rozzezza
+
+leadership
+la dirigenza
 

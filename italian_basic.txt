@@ -1433,7 +1433,7 @@ sad
 triste
 
 angry
-arrabbiato
+arrabbiato; rabbioso
 
 anger; rage; rabies
 la rabbia
@@ -3816,9 +3816,6 @@ la canzone
 
 comic; comic strip
 il fumetto
-
-crime film
-il filmo giallo
 
 month
 il mese
@@ -6661,7 +6658,7 @@ l'unione
 ready
 pronto
 
-direct
+direct; directed
 diretto
 
 affection; love
@@ -7711,8 +7708,8 @@ consumare
 to pack; to pack for a trip; to pack bags
 fare le valigie; preparare i bagagli
 
-benvenuto; ben venuto; ben arrivato
 welcome
+benvenuto; ben venuto; ben arrivato
 
 to get a job as
 trovare lavoro come
