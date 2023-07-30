@@ -5263,7 +5263,7 @@ fare una lunga chiacchierata
 nothing similar
 niente di simile
 
-clitorus; clit
+clitorus; clit; the little man in the boat
 il clitoride
 
 menstruation
@@ -5900,7 +5900,7 @@ rear end
 il deretano; il sedere
 
 charity
-la carità
+la carità; la beneficenza
 
 instinctive
 istitivo
@@ -5917,8 +5917,8 @@ il paiolo
 to unhinge
 scardinare
 
-scardinato
 unhinged
+scardinato
 
 panther; leopard
 la pantera
@@ -11887,7 +11887,7 @@ la scoreggia
 to fart
 scoreggiare
 
-of course; naturally; necessarily; by force
+of course; naturally; obviously; necessarily; definitely; surely; for sure; by force
 per forza
 
 syndrome
@@ -14334,9 +14334,6 @@ sbadato; negligente
 
 it's great to see you
 è bello vederti; è bello rivederti
-
-we broke up
-ci siamo lasciati
 
 sales assistant; clerk
 il commesso; la commessa
@@ -25483,9 +25480,6 @@ registrato
 Lombardy
 il Lombardo
 
-charity
-la beneficenza
-
 precept
 il precetto
 
@@ -29841,9 +29835,6 @@ neppure
 
 monster
 il mostro
-
-history
-la historia
 
 word; term; entry
 il vocabolo
@@ -37433,7 +37424,7 @@ just outside
 appena fuori
 
 we broke up
-abbiamo chiuso
+ci siamo lasciati; abbiamo chiuso
 
 to have a lapse
 avere un lapsus
@@ -49497,3 +49488,18 @@ ad alta quota
 
 arm wrestling
 il braccio di ferro
+
+screwed; crazy
+svitato
+
+nepotism
+il nepotismo
+
+cooky
+pazzo; eccentrico
+
+fragment; shard
+il coccio
+
+call to arms
+l'appello alle armi
