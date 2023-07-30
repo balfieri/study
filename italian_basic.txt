@@ -7827,3 +7827,9 @@ prendi sul serio il tuo lavoro, ma non prenderti troppo sul serio
 
 at 8:30am
 alle otto e mezza del mattino
+
+is this seat taken?
+questo posto è occupato?
+
+is this seat available?
+è disponibile questo posto?
