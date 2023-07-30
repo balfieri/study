@@ -553,7 +553,7 @@ la bottiglia
 bag
 la busta; il sachetto
 
-handbag
+purse; handbag
 la borsetta
 
 choice
@@ -3768,12 +3768,6 @@ l'acciaio
 
 dryer
 l'asciugatrice
-
-apricot
-l'albicocca
-
-prune
-la prugna secca
 
 singular
 singolare

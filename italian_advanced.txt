@@ -26647,7 +26647,7 @@ a tutta velocità
 increased; augmented
 aumentato
 
-marked; reported
+marked; reported; signaled
 segnalato
 
 operating
@@ -49284,3 +49284,27 @@ il palio
 
 pole dancing
 la danza al palo
+
+confirmation code
+il codice di conferma
+
+apricot
+l'albicocca
+
+prune
+la prugna secca
+
+to gross out; to disgust; to repulse
+fare senso
+
+small pet
+l'animale domestico di piccola taglia
+
+to use with care
+utilizzare con cura
+
+to lie around
+stare sdraiato
+
+to lie around the house
+stare sdraiato in casa
