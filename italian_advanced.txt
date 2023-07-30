@@ -2017,7 +2017,7 @@ facoltativo
 quota; allotment
 il contingente
 
-excruciating; harrowing; agonizing
+excruciating; harrowing; agonizing; heartbreaking
 straziante
 
 means of transportation
@@ -5825,7 +5825,7 @@ slob-ish; slovenly
 malmesso; rasandato; disordinato; non a posto
 
 warning
-l'avvertimento; l'avviso
+l'avvertenza; l'avvertimento; l'avviso
 
 parachute
 la paracadute
@@ -5881,7 +5881,7 @@ intenzionalmente; deliberatamente; apposta
 put to the test
 messo alla prova
 
-madness; insanity
+madness; insanity; lunacy
 la follia; la pazzia
 
 university town
@@ -6196,7 +6196,7 @@ l'adesivo per paraurti; l'autoadesivo
 criminal; crook; gangster
 il malvivente
 
-scatterbrain; heedless
+scatterbrain; heedless; thwarted; foiled
 sventato
 
 to leak out; to rush out
@@ -22985,7 +22985,7 @@ clinician
 il clinico
 
 decisive
-decisivo
+decisivo; deciso
 
 abbandoned
 abbandonato
@@ -28183,9 +28183,6 @@ conquistare
 materialism
 il materialismo
 
-conduction
-la conduzione
-
 nominal
 nominale
 
@@ -32653,7 +32650,7 @@ sono un ragazzo grande; sono adulto
 to wobble
 oscillare; traballare; barcollare
 
-wobbly; shaky
+unsteady; wobbly; shaky; rickety
 traballante
 
 shh
@@ -41632,9 +41629,6 @@ le polizze auto
 a pretty gutsy thing to do
 una cosa piuttosto coraggiosa da fare
 
-lunacy
-la pazzia
-
 connotation
 la connotazione
 
@@ -42440,7 +42434,7 @@ don't even try it
 non ci provare neanche
 
 subversive
-sovversivo
+sovversivo; eversivo
 
 bigoted
 intollerante; fanatico
@@ -45418,8 +45412,11 @@ il bassotto
 groomer
 il toelettatore
 
-to groom; to spruce up
-toelettare; mettere in ordine
+to groom
+toelettare 
+
+to put in order; to tidy up
+mettere in ordine
 
 pivoted
 imperniato
@@ -49308,3 +49305,135 @@ stare sdraiato
 
 to lie around the house
 stare sdraiato in casa
+
+Italian language student; student of Italian
+lo studente di lingua italiana; la studentessa di lingua italiana
+
+oppressive
+opprimente
+
+arid; dry
+arido
+
+daytime
+il diurno
+
+cardiovascular
+cardiovascolare
+
+counterintuitive
+contrintuitivo
+
+water vapor
+il vapore acqueo
+
+to act as a caregiver
+fare da badante
+
+to work as a caregiver
+lavorare come badante
+
+street vendor; peddler
+il venditore ambulante; la venditrice ambulante; il venditore di strada; la venditrice di strada
+
+shattered; broken
+spangherato
+
+to shatter; to break
+spangherare
+
+dislocated
+lussato
+
+to dislocate
+lussare
+
+relief valve
+la volvola di sfogo
+
+to silt up; to sand up
+insabbiare
+
+removed
+rimosso
+
+resurrection
+la resurrezione
+
+punk; punk music
+il punk
+
+in ruins
+in rovina
+
+falling apart; falling
+cadente
+
+declining
+in declino
+
+Rastafarian
+rastafariano
+
+emphatic
+enfatico
+
+forceful
+deciso; potente; energetico
+
+twilight; crepuscular
+crepuscolare
+
+full-bodied
+corposo
+
+disavowel
+la sconfessione
+
+irritation
+l'irritazione
+
+the next day; the day after
+all'indomani
+
+to insinuate
+insinuare
+
+destabilization
+la destabilizzazione
+
+stabilization
+la stabilizzazione
+
+subversion
+la sottomissione; l'eversione
+
+neo-fascist
+neofascista
+
+to print (astratto); to imprint
+imprimire
+
+conduct; conduction
+la conduzione
+
+high office
+l'alta carica
+
+dumbfounded
+ammutolito
+
+to dumbfound; to become speechless
+ammutolire
+
+to finally confirm
+confermare da ultimo
+
+to confirm at last
+confermare in fine
+
+antifascism
+l'antifascismo
+
+overcrowded
+sovraffollato
