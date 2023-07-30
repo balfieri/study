@@ -15856,7 +15856,7 @@ a Broadway
 outrageous
 oltraggioso; scandaloso
 
-to trouble; to torment; to pain
+to toil; to struggle
 travagliare
 
 cart; wagon; handcart
@@ -34020,6 +34020,9 @@ la settimana scorsa
 
 to nag
 rimproverare; tormentare
+
+to torment
+tomentare
 
 user interface
 l'interfaccia utente
