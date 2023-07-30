@@ -26536,7 +26536,7 @@ seppure
 kindred; akin
 affine
 
-pole
+pole (endpoint of some axis)
 il polo
 
 hearing
@@ -49278,3 +49278,9 @@ il giardinaggio
 
 to garden
 giardinare
+
+prize; the Palio
+il palio
+
+pole dancing
+la danza al palo
