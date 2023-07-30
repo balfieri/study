@@ -368,7 +368,7 @@ lift
 il sollevamento
 
 bad weather
-il brutto tempo
+il brutto tempo; l'intemperia; il maltempo
 
 to stall (intransitive)
 mettersi in stallo
@@ -22039,7 +22039,7 @@ elementare
 cognition
 la cognizione
 
-condemned; convited
+condemned; convicted
 condannato
 
 Virgil
@@ -34444,7 +34444,7 @@ proclamare
 forecast
 il pronostico
 
-convicted
+convicted (noun)
 il condannato; il pregiudicato
 
 to withdraw
@@ -40345,9 +40345,6 @@ l'unità
 power supply; diet; nutrition
 l'alimentazione
 
-bad weather
-l'intemperia
-
 non-slip
 anti-scivolo
 
@@ -45491,7 +45488,7 @@ to sneak into
 intrufolarsi
 
 excavator
-escavatore
+l'escavatore
 
 return (of something)
 il reso
@@ -48688,9 +48685,6 @@ la calotta; la cupola
 World Environment Day
 la Giornata mondiale dell'ambiente
 
-bad weather
-il maltempo
-
 to delude oneself
 illudersi
 
@@ -49168,8 +49162,8 @@ la rozzezza
 leadership
 la dirigenza
 
-social person
-persona socievole
+social person; sociable person
+la persona socievole; la person sociale
 
 to check (something) off a list
 controllare (qualcosa) da un elenco
@@ -49485,3 +49479,10 @@ impedire a (fare qualcosa)
 
 to be distant; to be far away
 distare
+
+to vomit; to puke
+vomitare; rigettare
+
+to be found guilty
+essere trovato colpevole; essere riconosciuto colpevole
+
