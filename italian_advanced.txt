@@ -49276,3 +49276,5 @@ sfatare un mito
 gardening
 il giardinaggio
 
+to garden
+giardinare
