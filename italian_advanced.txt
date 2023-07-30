@@ -49440,3 +49440,6 @@ sovraffollato
 
 debatable; questionable
 discutibile
+
+to subscribe to
+abbonarsi a
