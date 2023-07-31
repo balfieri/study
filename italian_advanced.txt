@@ -4807,9 +4807,6 @@ il giogo di controllo
 final approach
 l'avvicinamento finale
 
-to adapt
-adattare; adattarsi
-
 safe (noun); vault
 la cassaforte
 
@@ -32356,8 +32353,11 @@ il mantenimento della casa
 home improvement
 il miglioramento della casa
 
-to adapt; to fit; to comply
-adattarsi
+to adapt
+adattare; adattarsi
+
+to adapt to; to fit with; to comply with
+adattarsi a
 
 to crumble
 crollare; sbriciolare; sgretolarsi; sbriciolarsi
@@ -35259,9 +35259,6 @@ al guinzaglio
 
 to become aware of; to find out; to discover; to learn (find out)
 venire a conoscenza di
-
-to adapt to
-adattarsi a
 
 high-quality house
 la casa di pregio
