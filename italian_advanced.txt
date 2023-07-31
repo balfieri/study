@@ -49633,3 +49633,5 @@ il moscerino
 fertilization
 la fecondazione
 
+fruit fly
+il moscerino della frutta
