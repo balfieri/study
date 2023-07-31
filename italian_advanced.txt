@@ -12446,7 +12446,7 @@ to draw; to deduce; to deceive
 trarre
 
 to agree; to consent
-acconsentire
+acconsentire; dare il consenso
 
 to digest; to stomach; to tolerate
 digerire
@@ -38692,7 +38692,7 @@ stare a cuore
 to be in the middle of nowhere
 stare in mezzo agli alberi
 
-remnant
+remnant; scrap
 lo scampolo
 
 cardboard
@@ -49669,3 +49669,56 @@ andare storto
 to look friendly
 sembrare amichevole
 
+sagacious; shrewd; astute
+sagace; astuto
+
+performative
+performativo
+
+to monetize
+monetizzare
+
+to reinvent oneself
+reinventarsi
+
+immersion
+l'immersività
+
+virtual reality headset
+il visore di realtà virtuale
+
+a sort of
+una sorta di
+
+rebranding
+il rebranding
+
+advertising (adjective)
+pubblicitario
+
+qualitative
+qualitativo
+
+probabilistic
+probabilistico
+
+to have a sure thing; to have sure shots
+avere colpi sicuri; avere una cosa sicura
+
+media-related; media (adjective)
+mediatico; dei media
+
+reconsideration; second thought; rethinking
+il ripensamento
+
+in an unprecedented measure
+in misura inedita
+
+decentralized
+decentralizzato
+
+to get caught; to let oneself be taken
+farsi prendere; lasciarsi prendere
+
+to get ready; to prepare oneself
+apprestarsi; prepararsi
