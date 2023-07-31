@@ -49533,3 +49533,6 @@ prefabbricato
 
 to prefabricate
 prefabbricare
+
+abroad
+all'estero
