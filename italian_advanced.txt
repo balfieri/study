@@ -37555,8 +37555,8 @@ la milza
 to collide with the door
 sbattere contro la porta
 
-mi deprime
 it depresses me
+mi deprime
 
 source of satisfaction
 la fonte di soddisfazione
@@ -49605,3 +49605,7 @@ la tariffa mensile
 
 annual rate
 la tariffa annuale
+
+squadron
+la squadriglia
+
