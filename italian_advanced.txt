@@ -49662,3 +49662,6 @@ storto
 
 to go wrong
 andare storto
+
+to look friendly
+sembrare amichevole
