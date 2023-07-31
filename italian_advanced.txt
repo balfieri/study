@@ -8221,8 +8221,8 @@ per così dire; tra virgolette
 mortgage
 il mutuo; l'ipoteca
 
-moot; irrelevant
-irrelevante; discutibile
+irrelevant; not pertinant; moot
+irrelevante; discutibile; nonluogo; nonpertinente
 
 attic
 la soffita; il sottotetto
@@ -34501,17 +34501,11 @@ noninfiammabile
 nonintervention
 il nonintervento
 
-irrelevant
-nonluogo
-
 nonresident
 nonresidente
 
 nonviolent
 nonviolento
-
-irrelevant; not pertinent
-nonpertinente
 
 unreal
 nonreale
