@@ -26957,7 +26957,7 @@ fighter
 il combattente
 
 witchcraft
-la stregua
+la stregua; la stregoneria
 
 in fact; as a matter of fact; indeed
 difatti
@@ -43012,8 +43012,11 @@ il solstizio
 bendable
 pieghevole
 
-choking; strangulation
-il soffocamento; lo strangolamento
+choking; suffocation
+il soffocamento
+
+strangulation
+lo strangolamento
 
 entrapment
 l'intrappolamento
