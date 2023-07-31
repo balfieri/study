@@ -49503,3 +49503,10 @@ il coccio
 
 call to arms
 l'appello alle armi
+
+mountaineer
+l'alpinista
+
+mountaineering
+l'alpinismo
+
