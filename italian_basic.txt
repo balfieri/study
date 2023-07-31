@@ -1606,7 +1606,7 @@ la regione
 countryside
 in campagna
 
-boss; head (organization)
+boss; head (organization); chief
 il capo
 
 delay
