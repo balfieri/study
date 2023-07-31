@@ -38192,7 +38192,10 @@ pat
 la pacca
 
 cross-country
-fuoristrada; cross-country
+cross-country
+
+offroad
+fruoristrada
 
 to spoil
 sciupare
@@ -49564,3 +49567,5 @@ addentrare
 online
 in linea; online
 
+transcontinental; cross-country
+transcontinentale
