@@ -49725,3 +49725,6 @@ apprestarsi; prepararsi
 
 acrobatics; stunts
 le acrobazie; i stunt
+
+furniture (adjective)
+mobiliare
