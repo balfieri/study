@@ -7830,3 +7830,6 @@ is this seat available?
 
 as (adjective) as (noun)
 tanto (aggettivo) quanto (sostentivo)
+
+email address
+l'indirizzo email
