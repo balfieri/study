@@ -5912,7 +5912,7 @@ to be interested in (doing something)
 essere interessato a (fare qualcosa)
 
 to be interested in (finding out more)
-essere curioso di
+essere curioso di; essere curiosito di
 
 airline ticket; plane ticket
 il biglietto aereo
@@ -6432,9 +6432,6 @@ l'indipendenza
 
 familiar; familial
 familiare
-
-to be interested in (finding out more about something)
-essersi curiosito di
 
 patient (adjective)
 paziente
