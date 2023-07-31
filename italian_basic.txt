@@ -727,7 +727,7 @@ ridere di
 to smile
 sorridere
 
-job; work
+job; work; labor
 il lavoro
 
 to work
