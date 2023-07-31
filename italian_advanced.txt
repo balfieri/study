@@ -21728,7 +21728,7 @@ brought back
 riportato
 
 staff; personnel
-l'organico
+il personale; gli addetti ai lavori
 
 official; officer; civil servent
 il funzionario
@@ -40980,9 +40980,6 @@ l'approdo
 
 to tighten the forces
 stringere le forze
-
-staff
-gli addetti ai lavori
 
 to draft
 redigire
