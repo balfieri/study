@@ -4453,9 +4453,6 @@ incapace
 round
 rotondo
 
-circular
-circolare
-
 square
 quadrato
 
@@ -7833,3 +7830,6 @@ questo posto è occupato?
 
 is this seat available?
 è disponibile questo posto?
+
+as (adjective) as (noun)
+tanto (aggettivo) quanto (sostentivo)

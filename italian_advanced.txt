@@ -4163,7 +4163,7 @@ reorganizing; restructuring
 la ristrutturazione
 
 to dangle; to hang; to sag
-penzolare
+pendere; oscillare; penzolare
 
 quiet; peace; calm; calmness
 la quiete
@@ -20071,7 +20071,7 @@ sbloccare
 to lean
 pendere
 
-leaning
+dangling; leaning
 pendente
 
 breasts
@@ -31261,7 +31261,7 @@ la filiera
 loyalty; customer loyalty
 la fidelizzazione
 
-popular
+educational; informative
 divulgativo
 
 spy
@@ -49536,3 +49536,46 @@ prefabbricare
 
 abroad
 all'estero
+
+dangling participle
+participio pendente
+
+inaugurated
+inaugurato
+
+up high
+in alto
+
+down low
+in basso
+
+in the cool; al fresco
+al fresco
+
+mixed salad greens
+la misticanza
+
+magnolia tree
+la magnolia
+
+to photograph
+fotografare
+
+constellation
+la costellazione
+
+to circulate
+circolare
+
+holy grail
+il sacro graal
+
+maximally; most of all
+massimamente
+
+to delve into; to penetrate
+addentrare
+
+online
+in linea; online
+
