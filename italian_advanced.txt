@@ -13747,8 +13747,11 @@ indurre
 the big lie
 la grande menzogna
 
-army; military
+army
 l'esercito
+
+military (noun)
+il militare
 
 unpleasant
 spiacevole
