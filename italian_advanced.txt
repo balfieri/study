@@ -7102,8 +7102,11 @@ fare fatica; faticare
 off limits
 oltre ogni limite; off limits
 
-supposed; alleged
-supposto; presunto
+supposed 
+supposto 
+
+alleged
+presunto
 
 dwarf; midget; gnome
 il nano
@@ -14482,7 +14485,7 @@ spargere
 sing-song
 la cantilena
 
-to stomp; to pound; to trample
+to stomp; to pound; to trample; to bludgeon
 pestare
 
 attributable
@@ -49926,3 +49929,61 @@ tardi la mattina
 
 late at night
 tardi la notta
+
+in the early evening
+nel primo pomeriggio; all'inizio della sera
+
+in the early morning
+nel primo mattino; all'alba
+
+to bludgeon
+pestare; colpire
+
+to balk at
+esistare a; tirarsi indietro da
+
+pressure campaign
+la campagna di pressione
+
+to lean on (somebody)
+fare pressione su (qualcuno); appoggiarsi a (qualcuno)
+
+to finalize
+finalizzare
+
+extremist group
+il gruppo estremista
+
+conspiracy theorist
+il teorico della cospirazione
+
+to hoard
+accumulare; ammassare
+
+hush money payment
+il pagamento di denaro per il silenzio
+
+to falsify
+falsificare
+
+business records
+i registri aziendali
+
+alleged affair
+la presunta relazione
+
+district attorney
+il procuratore distrettuale
+
+to overturn an election
+annullare un'elezione
+
+to convey
+trasmettere; comunicare
+
+intended to convey
+inteso a trasmettere; inteso a comunicare
+
+to keep contemporaneous notes
+tenere note contemporanee
+
