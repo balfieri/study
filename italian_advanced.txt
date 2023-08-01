@@ -11198,7 +11198,7 @@ president-elect
 il premier in pectore
 
 to mess up
-scombinare
+scombinare; fare un pasticcio; combinare un pasticcio
 
 to make (something) easy
 agevolare
@@ -42089,7 +42089,7 @@ to get over (someone/something)
 superare (qualcuno/qualcosa); superarsi (qualcuno/qualcosa)
 
 I need you to be 100 percent honest with me
-ho bisogno che tu sia onesto al 100 percent con me
+ho bisogno che tu sia onesto al 100 percento con me
 
 if you can't do that, then don't bother
 se non puoi farlo, allora non preoccuparti
@@ -49782,4 +49782,10 @@ l'acciottolato
 
 cobblestone (noun)
 il ciottolo; il sampietrino
+
+lover; mistress
+l'amante
+
+that's a good sign
+è un buon segno
 
