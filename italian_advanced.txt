@@ -40385,7 +40385,7 @@ flooded (heavy, area, structure); inundated
 inondato
 
 gust; burst; flurry
-la raffica
+la raffica; la fitta; la folata
 
 to enlist; to recruit
 arruolare
