@@ -8878,7 +8878,7 @@ la registrazione
 live performance
 la performance dal vivo
 
-bohemian
+Bohemian
 bohémien
 
 ice machine
@@ -49774,3 +49774,5 @@ questi pomodori hanno il sapore del cartone
 the best neighborhoods in Rome
 i migliori quartieri di Roma
 
+trendy neighborhood
+il quartiere alla moda
