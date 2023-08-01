@@ -2777,7 +2777,7 @@ to shed light on; to enlighten
 illuminare
 
 The Netherlands
-I Paesi Bassi
+i Paesi Bassi
 
 Holland
 l'Olanda
@@ -18382,9 +18382,6 @@ a grandezza naturale
 to be with my cousins
 stare con i miei cugini
 
-I miss you terribly
-mi manchi terribilmente
-
 secular
 laico; secolare
 
@@ -18510,9 +18507,6 @@ come hai potuto?
 
 how could you do that?
 come hai potuto farlo?
-
-I think about you every day
-ti penso ogni giorno
 
 detailed explanation
 la spiegazione dettagliata
@@ -19632,12 +19626,6 @@ l'attività
 
 to get curious; to get interested in (finding out more)
 incuriosirsi
-
-I thought we were friends
-pensavo fossimo amici
-
-were we ever friends?
-siamo mai stati amici?
 
 only one word
 una parola sola
@@ -22789,9 +22777,6 @@ e che sia buono
 who really are you?
 chi sei veramente?
 
-I thought we were friends
-pensavo che fossimo amici
-
 to introduce
 introdurre
 
@@ -24208,8 +24193,8 @@ mi sento malissimo
 to have closure
 avere la chiusura
 
-I wish I could go back and undo it
-vorrei poter tornare indietro e annullarlo
+to wish to be able to go back and undo it
+voler poter tornare indietro e annullarlo
 
 to go back
 tornare indietro
@@ -26008,8 +25993,8 @@ aromatico
 flavored
 aromatizzato
 
-I don't want to make you sad
-non voglio renderti triste
+to make (someone) sad
+rendere triste (qualcuno)
 
 to drive on the lefthand side
 guidare sul lato sinistro
@@ -35659,8 +35644,8 @@ l'indignazione giusta
 despicable
 spregevole
 
-I tried to patch things up between us
-ho cercato di aggiustare le cose tra noi
+to patch things up
+aggiustare le cose
 
 to reconsider
 riconsiderare
@@ -36397,7 +36382,7 @@ mi ricorda mio padre
 to go on the field trip
 andare alla gita scolastica
 
-I can't really tell how old she is
+I can't really tell how old he is
 non riesco davvero a capire quanti anni abbia
 
 supportive family
@@ -37912,8 +37897,8 @@ disprezzare
 to maintain a positive attitude
 mantenere un atteggiamento positivo
 
-I hate myself
-mi detesto
+to hate oneself
+detestarsi
 
 shady; suspicious
 losco
@@ -39304,8 +39289,8 @@ indelebile
 indelible mark
 il segno indelebile
 
-I bet you don't get advice like this from your agent
-scommetto che non ricevi consigli come questo dal tuo agente
+I bet you don't get advice like this from
+scommetto che non ricevi consigli come questo da
 
 ridge
 il ricosso
@@ -39610,8 +39595,8 @@ la giustezza
 what I said really rattled you
 quello che ho detto ti ha veramente scosso
 
-I was trying to be open and honest
-stavo cercando di essere aperto e sincero
+to be open and honest
+essere aperto e sincero
 
 you should try it sometime
 dovresti provarlo qualche volta
@@ -40207,8 +40192,8 @@ diminutivo
 to come full circle
 tornare al punto di partenza
 
-I miss joking around with you
-mi manca scherzare con te
+to joke around with (somebody)
+scherzare con (qualcuno)
 
 microscope
 il microscopio
@@ -41542,8 +41527,8 @@ esaminare (qualcosa); approfondire (qualcosa); cercare (qualcosa); informarsi su
 border-line
 al limite; borderline
 
-I feel used
-mi sento usato
+to feel used
+sentirsi usato
 
 turned on (sexual)
 eccitato (sessuale)
@@ -41689,11 +41674,11 @@ abbiamo l'un l'altro
 to have each other
 avere l'un l'altro
 
-I can't get you out of my head
-non riesco a toglierti dalla testa
+to get (someone) out of one's head
+togliere (qualcuno) dalla testa
 
-I can't stop thinking about you
-non riesco a smettere di pensare a te
+to think about (somebody)
+pensare a (qualcuno)
 
 to mean well
 avere buone intenzioni
@@ -42112,8 +42097,8 @@ se non puoi farlo, allora non preoccuparti
 that's quite an accomplishment
 è un bel traguardo; è un'impresa notevole; è un bel raggiungimento
 
-I can't get you out of my mind
-non riesco a toglierti dalla mente; non riesco a farti uscire dalla mente
+to get (somebody) out of one's mind
+togliere (qualcuno) dalla mente; fare uscire (qualcuno) dalla mente
 
 colonics
 l'idrocolonterapia
@@ -42997,8 +42982,11 @@ il potere dell'amore
 screen sharing
 la condivisione schermo
 
-I had an epiphany; I had a revelation
-ho avuto un'illuminazione; ho avuto una rivelazione
+I had an epiphany 
+ho avuto un'illuminazione
+
+I had a revelation
+ho avuto una rivelazione
 
 escaped from
 evaso da
@@ -44728,8 +44716,8 @@ le circostanze impreviste
 due to unforeseen circumstances
 a causa di circostanze impreviste
 
-I can't blame her
-non posso biasimarla
+I can't blame him
+non posso biasimarlo
 
 to get caught up with what's going on in each others' lives
 rimanere aggiornati su ciò che sta succedendo nelle rispettive vite
