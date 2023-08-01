@@ -23371,7 +23371,7 @@ federale
 canonical
 canonico
 
-coherent
+coherent; consistent
 coerente
 
 lateral; side (adjective)
@@ -49791,4 +49791,7 @@ that's a good sign
 
 here's what's new
 ecco cosa c'è di nuovo
+
+this is not consistent with my experience
+questo non è coerente con la mia esperienza
 
