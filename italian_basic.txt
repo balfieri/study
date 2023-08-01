@@ -52,7 +52,7 @@ buona giornata
 have a good evening
 buona serata
 
-good-bye
+good-bye; goodbye
 arrivederci
 
 so long
@@ -1033,7 +1033,7 @@ la carta
 sheet
 la sfoglia
 
-to cut
+to cut; to cut down
 tagliare
 
 cut (noun)
@@ -7833,3 +7833,7 @@ tanto (aggettivo) quanto (sostentivo)
 
 email address
 l'indirizzo email
+
+pizza by the slice
+la pizza al taglio
+
