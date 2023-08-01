@@ -280,7 +280,7 @@ buono
 bad
 cattivo
 
-well (adv)
+well (adv); fine
 bene
 
 badly
