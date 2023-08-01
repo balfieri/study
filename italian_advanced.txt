@@ -6533,7 +6533,7 @@ to set (abstract); to set up
 impostare
 
 recreational
-ludico
+ricreativo; ludico
 
 humanistic; humanist
 umanistico
@@ -7698,9 +7698,6 @@ il pugilato
 
 to listen closely
 ascoltare attentamente
-
-recreational
-ricreativo
 
 bank teller
 l'impiegato di banco
@@ -16840,6 +16837,12 @@ avere una relazione
 demonstration; rally; event (gathering); manifestation
 la manifestazione
 
+promotional offer
+l'offerta promozionale
+
+promoted product; featured product; showcased project
+il prodotto in promozione
+
 projectionist
 l'addetto alla proiezione
 
@@ -20665,7 +20668,7 @@ straordinario
 friendship
 l'amicizia
 
-to detect; to spot; to identify
+to spot; to identify
 individuare
 
 executive; leader; head
@@ -41347,9 +41350,6 @@ la parola in merito
 chaired committee
 il comitato presieduto
 
-chaired
-presieduto
-
 to disagree
 discordare
 
@@ -49864,3 +49864,53 @@ sancito; consacrato
 sliced bread
 il pane a fette
 
+urban layout; urban setup
+l'assetto urbano; la struttura urbana
+
+mineral (adjective)
+minerario
+
+synergistically
+in sinergia; sinergicamente
+
+18 years old and older
+dai 18 anni in su
+
+leisure activity
+l'attività di svago
+
+recreational activity
+l'attività ricreativa
+
+the immediate future
+l'immediato futuro
+
+to exceed; to go over
+sforare
+
+revenue
+il ricavo
+
+presided over; chaired
+presieduto
+
+to lead the ranking; to top the leaderboard
+guidare la classifica
+
+ranking; leaderboard
+la classifica; la graduatoria
+
+to dominate the market
+farla da padrone sul mercato; dominare il mercato
+
+special ranking
+la speciale classifica
+
+sub-brand
+il sottomarchio
+
+global downturn
+la flessione globale
+
+downward cycle; bearish cycle
+il ciclo di ribasso
