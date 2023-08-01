@@ -40384,7 +40384,7 @@ inondazione
 flooded (heavy, area, structure); inundated
 inondato
 
-gust; burst
+gust; burst; flurry
 la raffica
 
 to enlist; to recruit
@@ -49839,3 +49839,9 @@ Festa della Liberazione
 
 Easter Monday
 Lunedì dell'Angelo
+
+sturgeon
+lo storione
+
+you still have time
+hai ancora tempo
