@@ -50017,3 +50017,5 @@ la farsa
 wider question
 la domanda più ampia
 
+let me ask you a question
+lasciami farti una domanda
