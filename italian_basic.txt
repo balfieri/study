@@ -7840,3 +7840,5 @@ dare del lei
 to use the informal 'you'
 dare del tu
 
+public transportation
+il trasporto pubblico; i mezzi

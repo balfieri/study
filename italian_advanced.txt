@@ -24767,7 +24767,7 @@ drawer; box
 la cassetta
 
 mailbox
-la cassetta della posta
+la cassetta della posta; la casella di posta
 
 full price
 il prezzo pieno
@@ -50019,3 +50019,9 @@ la domanda più ampia
 
 let me ask you a question
 lasciami farti una domanda
+
+Californian
+californiano
+
+12 kilos per year
+12 chili all'anno; 12 chili l'anno
