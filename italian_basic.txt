@@ -655,7 +655,7 @@ aperto
 closed
 chiuso
 
-outside
+outside; out
 fuori
 
 flower
@@ -7833,4 +7833,10 @@ l'indirizzo email
 
 pizza by the slice
 la pizza al taglio
+
+to use the formal 'you'
+dare del lei
+
+to use the informal 'you'
+dare del tu
 
