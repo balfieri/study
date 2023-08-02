@@ -9214,8 +9214,8 @@ prorogare
 how are things going?
 come vanno le cose?
 
-what can you tell me?; what can you tell me?
-cosa mi racconti?
+what can you tell me?
+cosa mi racconti?; che mi racconti?
 
 I would like to point out; I would like to emphasize
 vorrei sottolineare
@@ -11436,9 +11436,6 @@ ho visto giorni migliori
 
 what do you say?
 che si dice?
-
-what can you tell me?
-che mi racconti?
 
 the usual
 il solito; la solita
@@ -30625,7 +30622,7 @@ il libro di cucina; il ricettario
 Italian cookbook
 il libro di cucina italiana
 
-baroque
+Baroque
 barocco
 
 founder
@@ -42576,9 +42573,6 @@ Singapore
 
 well-groomed; very tidy
 supercurato
-
-Baroque
-barocco
 
 overlying; overhanging
 sovrapposto; sporgente
