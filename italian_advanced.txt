@@ -50044,3 +50044,6 @@ sgualcire; increspare
 stutter; stammer
 la balbuzia
 
+babbling
+la lallazione
+
