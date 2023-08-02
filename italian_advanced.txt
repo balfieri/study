@@ -18403,7 +18403,7 @@ il sinonimo
 to break the record
 battere il record
 
-to stutter
+to stutter; to stammer
 balbettare
 
 chocolate chips
@@ -50040,4 +50040,7 @@ i vestiti sgualciti
 
 to crease; to wrinkle
 sgualcire; increspare
+
+stutter; stammer
+la balbuzia
 
