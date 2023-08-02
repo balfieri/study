@@ -1726,7 +1726,7 @@ l'ipocrita
 unhealthy
 malsano
 
-backwards; reactionary
+backwards; reactionary; retrograde
 retrogrado
 
 specification; spec
@@ -50061,3 +50061,5 @@ la parte del fascino di; la parte dell'attrazione di
 
 well, so be it
 beh, sia così
+
+
