@@ -7948,9 +7948,6 @@ fare il pieno
 pedometer
 il contapassi
 
-to strengthen
-potenziare
-
 branded
 brandizzato
 
@@ -41416,8 +41413,8 @@ il tempo del quiz
 indoor; indoors
 al chiuso
 
-outdoor; outdoors
-all'aperto
+outdoor; outdoors; in the open air
+all'aperto; a cielo aperto
 
 juggler
 il giocoliere
@@ -50086,3 +50083,26 @@ la classe media
 commercialized
 mercificato
 
+it's not a lie if you believe it
+non è una bugia se ci credi
+
+indispensible; essential
+irrinunciabile
+
+innovation hub; innovation center
+il polo dell'innovazione; il centro dell'innovazione
+
+circular economy
+l'economia circolare
+
+digital twin
+il gemello digitale
+
+educational path; training course
+il percorso formativo
+
+to enhance; to strengthen; to boost
+potenziare
+
+traced; plotted; laid out
+tracciato
