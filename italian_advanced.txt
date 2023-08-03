@@ -1754,7 +1754,7 @@ to combine; to join
 congiungere
 
 profitable; lucrative
-lucroso
+lucroso; profittevole
 
 matter; affair (something to be done)
 la faccenda; l'affare
@@ -15152,7 +15152,7 @@ to repress; to stifle; to smother
 reprimere
 
 noxious; harmful; injurous
-nocivo
+nocivo; nuociuto
 
 to contrast; to tackle; to counter
 contrastare
@@ -37342,8 +37342,8 @@ essere tutto al completo
 coil; spiral
 la spirale
 
-eliminare una variabile
 eliminate a variable
+eliminare una variabile
 
 laurearsi
 to graduate
@@ -46771,9 +46771,6 @@ omofobo
 homophobe
 l'omofobo
 
-attempato
-elderly; aged
-
 to resonate
 risuonare
 
@@ -50067,3 +50064,25 @@ la cavalletta
 
 locust
 la locusta
+
+dichotomous
+dicotomico
+
+upheaval
+il sommovimento
+
+low-skilled labor
+la bassa manovalanza
+
+paid
+retribuito
+
+to dequalify
+dequalificare
+
+middle class
+la classe media
+
+commercialized
+mercificato
+
