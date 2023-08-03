@@ -4744,7 +4744,7 @@ il basso acustico
 tuba
 la tuba
 
-loser
+loser; dweeb
 il perdente; lo sfigato
 
 weather forecast
@@ -34549,7 +34549,7 @@ il neoliberismo
 overpopulation
 la sovrappopolazione
 
-superimposition
+overlap; superimposition
 la sovrapposizione
 
 overload
@@ -38812,10 +38812,10 @@ preoccupazione in merito; preoccupazione riguardo a
 robotics
 la robotica
 
-employee badge
+employee badge; work badge
 il tesserino del dipendente
 
-ID card; badge
+ID card; id card; badge
 la carta d'identità; la tessera d'identità; il distintivo
 
 needs
@@ -41398,7 +41398,7 @@ azionare il meccanismo
 to despair
 disperarsi
 
-to deceive; to circumvent
+to deceive; to trick
 raggirare
 
 desired result
@@ -50115,4 +50115,67 @@ falsamente affermare; rivendicare falsamente
 
 in pairs
 in coppia
+
+fish store
+la pescheria
+
+sadness
+la tristezza
+
+to stupify; to be amazed
+stupire
+
+starting from
+a partire da
+
+top questions; main questions
+le domande principali
+
+deviant
+aberrante
+
+audible
+udibile
+
+to be due to the fact that
+essere dovuto al fatto che
+
+to put away the dishes
+mettere via i piatti
+
+debit card
+la carta di debito
+
+insurance card
+la carta assicurativa
+
+green card
+il green card
+
+badge
+il tesserino; il distintivo
+
+badge of honor
+il distintivo d'onore
+
+realtor
+l'agente immobiliare
+
+real estate agency
+l'agenzia immobiliare
+
+frigid woman
+la donna frigida
+
+once in a while, I manage to guess right
+ogni tanto, riesco a indovinare
+
+to overlap
+sovrapporsi; sovrapporre
+
+there's a lot of overlap
+c'è molta sovrapposizione
+
+average Italian
+l'italiano medio
 

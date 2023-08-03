@@ -1444,9 +1444,6 @@ la bellezza
 ugly
 brutto; bruttino
 
-sadness
-la tristezza
-
 chapel
 la capella
 
@@ -2404,8 +2401,8 @@ pochi
 useless
 inutile
 
-unnecessary; superfluous
-superfluo
+unnecessary; not necessary; superfluous
+non necessario; superfluo
 
 peaceful; quiet; mellow; chill
 tranquillo
@@ -3036,9 +3033,6 @@ agire
 
 to suggest
 suggerire
-
-to stupify; to be amazed
-stupire
 
 to construct; to build; to build up
 costruire; edificare
@@ -3750,9 +3744,6 @@ francese
 
 grocery store
 il negozio di alimentari; la drogheria
-
-fish store
-la pescheria
 
 supermarket
 il supermercato
@@ -7812,9 +7803,6 @@ tra; fra
 
 to anger; to make angry
 fare arrabbiare
-
-take your work seriously, but don't take yourself seriously
-prendi sul serio il tuo lavoro, ma non prenderti troppo sul serio
 
 at 8:30am
 alle otto e mezza del mattino
