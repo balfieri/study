@@ -9160,8 +9160,11 @@ ancora peggio
 bug (electronic spy device)
 la cimice
 
-bill (law proposal)
+bill (law)
 il disegno di legge
+
+bill proposal (law)
+la proposta di legge
 
 patriarchy
 il patriarcato
