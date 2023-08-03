@@ -6394,7 +6394,7 @@ la massa
 drawing; design
 il disegno
 
-owner; proprieter; landlord
+owner; proprietor; landlord
 il proprietario
 
 affectionate; loving
