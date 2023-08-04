@@ -3362,7 +3362,7 @@ deer
 il cervo; il daino
 
 bear
-l'orso
+l'orso; l'orsa
 
 squirrel
 lo scoiattolo
