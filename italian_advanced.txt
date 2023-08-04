@@ -21367,8 +21367,8 @@ compenso
 double; twofold; dual; duplicate
 duplice
 
-independently
-indipendentemente
+independently; regardless; irrespective
+indipendentemente; a prescindere
 
 virgin
 la vergine
@@ -50419,3 +50419,8 @@ la dengue
 to lay; to pose; to set down
 posare; mettere giù
 
+to suck; to drain
+risucchiare; drenare
+
+regardless of
+indipendentemente da
