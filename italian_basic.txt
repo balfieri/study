@@ -1414,8 +1414,8 @@ affitarsi
 to rent (car)
 noleggiare
 
-to worry
-preoccuparsi
+to worry about; to bother to
+preoccuparsi di
 
 boring
 noioso
