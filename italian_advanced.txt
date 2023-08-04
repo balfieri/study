@@ -11269,7 +11269,7 @@ marchiare
 ruthlessness; mercilessness
 la spietatezza
 
-to swallow; to devour; to gulp
+to swallow; to gulp
 ingoiare
 
 softness
@@ -50424,3 +50424,9 @@ risucchiare; drenare
 
 regardless of
 indipendentemente da
+
+I felt like I was in the United States
+sembrava che fossi negli Stati Uniti
+
+to devour
+divorare

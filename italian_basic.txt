@@ -7830,3 +7830,6 @@ dare del tu
 
 public transportation
 il trasporto pubblico; i mezzi
+
+to go on vacation
+andare in vacanza
