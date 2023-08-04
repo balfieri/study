@@ -28198,9 +28198,6 @@ sanitario
 spear; lance
 la lancia
 
-settlement
-l'insediamento
-
 to honor; to respect; to value
 pregiare
 
@@ -33415,7 +33412,7 @@ il rabbino
 brother (adjective); brotherly
 fratellare
 
-soupy
+soupy; watery
 brodoso
 
 to investigate a problem
@@ -50355,3 +50352,60 @@ it's better than I remember it being
 
 it's even better than I remembered
 è ancora meglio di quanto ricordassi
+
+mama bear; mother bear
+mamma orsa
+
+settlement (land)
+l'insediamento
+
+invader
+l'invasore
+
+The Crusades
+Le Crociate
+
+to have a connection with; to relate to
+avere una connessione con
+
+doge
+il dogio
+
+redemption
+la riscossa
+
+warrior
+il guerriero
+
+order of the day
+l'ordine del giorno
+
+porchetta
+la porchetta
+
+young female beef
+la scottona
+
+wheelbarrow
+la carriola
+
+to take away
+portare via
+
+feel at home
+sentire a casa
+
+shady
+ombroso
+
+flamingo
+il fenicottero
+
+at the top of the stairs
+in cima alle scale
+
+the sun is rising
+il sole sta sorgendo
+
+the sun is setting
+il sole sta tramontando; il sole sta descendendo
