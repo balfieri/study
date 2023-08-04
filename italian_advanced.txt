@@ -50445,3 +50445,6 @@ riavviare il computer
 
 when in doubt, reboot
 quando sei in dubbio, riavvia
+
+to be in doubt
+essere in dubbio
