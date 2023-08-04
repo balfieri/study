@@ -50440,3 +50440,8 @@ lasciami porre la domanda in un modo un po' diverso
 let me pose the question in a different way
 permettimi di porre la domanda in un modo diverso
 
+to reboot the computer
+riavviare il computer
+
+when in doubt, reboot
+quando sei in dubbio, riavvia
