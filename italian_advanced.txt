@@ -598,9 +598,6 @@ rimboccarsi
 sleeve
 la manica
 
-to roll up one's sleeves
-rimboccarsi le maniche
-
 drag
 la resistenza; il trascinamento
 
@@ -21326,7 +21323,7 @@ paragraph
 il paragrafo; il capoverso
 
 claim; demand
-pretesa
+la pretesa
 
 explicitly
 esplicitamente
@@ -24222,9 +24219,6 @@ il supero
 
 frank
 franco
-
-claim
-la pretesa
 
 the 1900's; the 19th century
 l'Ottocento
@@ -50460,3 +50454,37 @@ la rosa
 
 rose garden
 il giardino di rose
+
+shave
+la rasaia
+
+big buddy
+il companone
+
+schooled
+scolarizzato
+
+in a certain sense
+in un certo senso
+
+to retry
+ritentare
+
+tangible
+tangibile
+
+out of spite
+per cattiveria
+
+technological output
+l'output tecnologico
+
+bourgeoisie
+la borghesia
+
+ruralization
+la ruralizzazione
+
+to maintain a website
+mantenere un sito web
+
