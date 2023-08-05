@@ -50575,3 +50575,9 @@ muovere un'accusa
 vast extent
 la vasta estensione
 
+birthright
+il diritto di nascita
+
+birthright citizenship
+la cittadinanza per diritto di nascita
+
