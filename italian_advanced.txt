@@ -18913,7 +18913,7 @@ l'autonomia
 administrative
 amministrativo
 
-extension
+extension; extent
 l'estensione
 
 utility; benefit; usefulness
@@ -50568,4 +50568,10 @@ il rimbalzo morto
 
 to edge one's way; to make one's way slowly; to advance cautiously
 farsi strada lentamente; avanzare con cautela
+
+to level an accusation
+muovere un'accusa
+
+vast extent
+la vasta estensione
 
