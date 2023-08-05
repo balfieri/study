@@ -52,9 +52,6 @@ guardarsi bene
 almond
 la mandorla
 
-to rent (an apartment)
-affittare
-
 trickster
 l'imbroglione
 
@@ -16136,7 +16133,7 @@ to learn by heart; to commit to memory
 imparare a memoria
 
 to keep in mind
-tenere a mente
+tenere a mente; tenere in ballo
 
 word for word
 parola per parola
@@ -18111,9 +18108,6 @@ scoprire l'acqua calda; scoprire l'America
 
 Achille's heal
 il tallone d'Achille
-
-to keep in mind
-tenere in ballo
 
 to keep in check
 tenere in scacco
@@ -43363,6 +43357,9 @@ aggirare la legge; eludere la legge
 to rent out
 affittare; dare in affitto
 
+to rent (as lessor)
+prendere in affitto
+
 desperate financial situation
 la situazione finanziaria disperata
 
@@ -47953,7 +47950,7 @@ in concorso
 nation's capital
 la capitale della nazione
 
-to rent an apartment
+to rent out an apartment
 affittare un appartamento
 
 to get run over
@@ -50625,3 +50622,31 @@ l'avocado
 
 expat; expatriate
 l'espatriato
+
+to stand out
+stagliarsi
+
+welcome
+benaccetto
+
+deposit
+il giacimento
+
+on paper
+su carta; sulla carta
+
+finire con un vecchio
+to end up with some old man
+
+baptist
+il battista
+
+mi dispiace per lui
+I feel sorry for him
+
+mi dispiace per te
+I feel sorry for you
+
+I feel sorry for myself
+mi dispiace per me stesso
+
