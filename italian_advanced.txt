@@ -77,7 +77,7 @@ propeller
 l'elica
 
 bland; tasteless
-blando; insipido; insapore
+blando; insipido; insapore; scialbo
 
 surrender; to give up
 arrendersi
@@ -50496,4 +50496,64 @@ aggiungere rilassatezza; aggiungere allentamento
 
 slackening; slack
 l'allentamento; il rilassamento; il rallentamento
+
+to recuse oneself
+ricusarsi
+
+grandiloquent; bombastic
+magniloquente; pomposo
+
+flirtatious; coquettish
+civettuolo
+
+phenomenal
+fenomenale
+
+Lucite
+la lucite
+
+plexiglass
+il plexiglass
+
+flourishing; blooming
+florido; in fiore
+
+well-known; famous
+arcinoto
+
+reinterpretation; revisiting
+la reinterpretazione; la rivisitazione
+
+suitor; admirer
+lo spasimante; l'ammiratore
+
+eyeshadow
+l'ombretto
+
+smooth; hairless
+liscio; glabro
+
+daydreaming
+trasognato
+
+to daydream
+sognare a occhi aperti; fantasticare
+
+saga
+la saga
+
+tremor; thrill
+il fremito
+
+dazed; stunned
+intontito; stordito
+
+breath
+l'alito
+
+marker
+il pennarello
+
+outfit
+il completino
 
