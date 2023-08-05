@@ -919,7 +919,7 @@ mi raccomando!; ti prego!
 by chance; by any chance; by luck
 per caso
 
-yet; nevertheless; still
+and yet; yet; nevertheless; still
 eppure
 
 but rather; but; rather; however
@@ -6368,7 +6368,7 @@ bliss
 la beatitudine
 
 replacement; substitute
-il rimpiazzo; il sostituto; la sostituzione
+il sostituto; la sostituzione; il rimpiazzo
 
 to replace
 rimpiazzare
@@ -18253,8 +18253,8 @@ stentare a
 interpretation
 l'interpretazione
 
-sharp; poignant; keen
-affilato
+sharp; poignant; keen; cutting
+affilato; tagliente; mordace
 
 razor-sharp
 affilato come un rasoio
@@ -38138,7 +38138,7 @@ meta observation
 l'osservazione meta
 
 sharp sense of humor; biting sense of humor
-il senso dell'umorismo acuto; il senso dell'umorismo mordace
+il senso dell'umorismo acuto; il senso dell'umorismo mordace; il senso dell'umorismo pungente
 
 sarcastic sense of humor
 l'umorismo sarcastico
@@ -44881,9 +44881,6 @@ la cosa a cui devo abituarmi
 to relieve tension
 alleviare la tensione
 
-sharp sense of humor
-il senso dell'umorismo pungente
-
 volunteering
 il volontariato
 
@@ -50580,4 +50577,34 @@ il diritto di nascita
 
 birthright citizenship
 la cittadinanza per diritto di nascita
+
+atrocity
+l'atrocità
+
+to baby talk
+parlare da bambino
+
+baby talk
+il linguaggio infantile
+
+bau bau
+woof woof; bow wow
+
+wicked
+malvagio
+
+I can't remember any of them
+non me ne ricordo nessuno
+
+sharp; biting
+mordace
+
+undesirables list
+la lista degli indesiderabili
+
+is it possible that you overreacted?
+è possibile che tu abbia reagito in modo eccessivo?
+
+thanks for asking
+grazie per aver chiesto
 
