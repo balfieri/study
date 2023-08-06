@@ -50683,3 +50683,9 @@ la persona pignola
 sawed-off shotgun
 il fucile a canna mozzata
 
+branded product
+il prodotto a marchio
+
+brand-name product
+il prodotto di marca
+
