@@ -29830,7 +29830,7 @@ celare
 epigraph
 l'epigrafe
 
-valued; respected
+estimated; valued; respected
 stimato
 
 doctrinal
@@ -50818,3 +50818,17 @@ dimagrante
 mouthful
 la boccata; il boccone
 
+cigarette
+la sigaretta
+
+smoking
+il tabagismo; fumare
+
+smoker
+il fumatore; il tabagista
+
+vaping
+lo svapare; il vaping
+
+to vape
+svapare; fare il vaping
