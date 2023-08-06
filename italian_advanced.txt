@@ -50692,3 +50692,6 @@ la richiamabilità
 numbering
 la numerazione
 
+indirectly; in an indirect way
+in via indiretta
+
