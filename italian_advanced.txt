@@ -23831,7 +23831,7 @@ subsistence
 la sussistenza
 
 coal; charcoal
-il carbone
+il carbone; il carboncino
 
 required; mandatory; obligatory; compulsory
 obbligatorio
@@ -50838,3 +50838,46 @@ precario
 
 special sauce
 la salsa speciale
+
+ink
+l'inchiostro
+
+excommunication
+la scomunica
+
+enriched
+arricchito
+
+late-renaissance
+tardorinascimentale; di tardo rinascimento
+
+from there o; 
+da lì in poi
+
+from that point forward
+da quel punto in avanti
+
+to plunder; to loot
+saccheggiare; depredare
+
+spoliation
+la spoliazione
+
+safe from predators
+al riparo da predoni
+
+safe from
+al ripare da
+
+to dismember; to break up
+smembrare
+
+occurrence
+l'occorrenza
+
+to bind; to rebind
+rilegare; rilegare di nuovo
+
+to dredge up the past
+rivangare il passato; rievocare il passato
+
