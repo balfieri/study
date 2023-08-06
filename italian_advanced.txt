@@ -23557,7 +23557,7 @@ conferire
 to prepare for; to get ready
 prepararsi
 
-to get thinner
+to get thinner; to slim down
 dimagrire
 
 to insert
@@ -50811,3 +50811,7 @@ evincere
 
 to infer
 inferire
+
+slimming; weight-loss-inducing
+dimagrante
+
