@@ -2344,8 +2344,8 @@ necessario
 right; just
 giusto
 
-early; in advance; up front
-in anticipo
+early; in advance; up front 
+in anticipo; anticipatamente
 
 on time
 in orario; in tempo
