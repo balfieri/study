@@ -5522,7 +5522,7 @@ ridiculous scheme
 il piano ridicolo; il ridicolo piano; lo schemo ridicolo
 
 airline
-la compagnia aerea
+ia compagnia aerea; l'aviolinea
 
 gospel
 il vangelo
@@ -7435,7 +7435,7 @@ al seguito
 following day; next day
 l'indomani
 
-held up
+held up; straight
 retto
 
 bumper
@@ -18013,7 +18013,7 @@ sapere il fatto suo
 to have the end in sight
 vedere il fondo
 
-heart-to-heart
+heart-to-heart; with an open heart
 a cuore aperto
 
 to have (something) on the tip of one's tongue
@@ -50401,7 +50401,7 @@ la dengue
 to lay; to pose; to set down
 posare; mettere giù
 
-to suck; to drain
+to suck; to drain; to suck back in
 risucchiare; drenare
 
 regardless of
@@ -50709,4 +50709,58 @@ sfidare; ignorare
 
 I'm so proud of you
 sono così orgoglioso di te
+
+to bring back to the surface; to dredge up
+riportare a galla; riportare su
+
+the gall
+la galla
+
+overbooked flight
+il volo in overbooking
+
+long range
+lungo raggio
+
+short-medium
+breve-medio
+
+failure to appear; non-appearance
+la mancata presentazione; la non comparizione
+
+monetary compensation
+la compensazione pecuniaria
+
+amount
+l'ammontare
+
+fainting
+lo svenimento
+
+collateral
+collaterale
+
+convalescence
+la convalescenza
+
+darkness (mind)
+la tenebra
+
+laboriously
+faticosamente
+
+nonconformist
+l'anticonformista
+
+abyss
+l'abisso
+
+uprooting; eradication
+lo sradicamento; l'estirpazione
+
+to dwell ont
+soffermarsi su
+
+eightfold
+ottuplice
 
