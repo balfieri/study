@@ -50263,8 +50263,11 @@ sostitutivo
 employable
 occupabile
 
-to limit
+to limit; to calm down; to pacify
 calmierare
+
+calmed down; pacified
+calmierato
 
 in contrast
 di contrasto
