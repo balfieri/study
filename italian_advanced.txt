@@ -50689,3 +50689,6 @@ il prodotto a marchio
 brand-name product
 il prodotto di marca
 
+recallability
+la richiamabilità
+
