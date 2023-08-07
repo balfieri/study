@@ -22543,9 +22543,6 @@ senza fiato
 to be on the road
 essere per la strada
 
-to apologize
-chiedere scusa
-
 Dublin
 Dublino
 
@@ -50943,4 +50940,13 @@ la stagionatura media
 
 serious cook
 il cuoco serio; la cuoca seria
+
+resume; curriculum vitae
+il curriculum; il curriculum vitae
+
+something similar; a similar thing
+una cosa simile; qualcosa di simile
+
+I like to think of myself as (something)
+mi piace pensare a me stesso come (qualcosa)
 
