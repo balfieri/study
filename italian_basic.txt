@@ -3784,7 +3784,7 @@ il fine settimana; il weekend
 week
 la settimana
 
-question
+question; demand; application
 la domanda
 
 table
