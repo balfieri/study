@@ -2500,9 +2500,6 @@ fa caldo
 it's warm (weather)
 fa bel tempo
 
-thunder
-il tuono
-
 it's raining
 piove
 
@@ -5440,9 +5437,6 @@ la tempesta
 thunderstorm
 il temporale
 
-seeds
-i semi
-
 cushion; pillow (rectangular)
 il cuscino
 
@@ -5610,9 +5604,6 @@ fluentemente; speditamente; in modo scorrevole
 
 bikini
 il bikini
-
-tool (repair)
-l'attrezzo
 
 instrument; tool (abstract)
 lo strumento

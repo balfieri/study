@@ -50920,3 +50920,12 @@ l'importanza
 photovoltaic
 fotovoltaico
 
+thunder
+il tuono
+
+seeds
+i semi
+
+tool (repair)
+l'attrezzo
+
