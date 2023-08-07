@@ -50916,3 +50916,7 @@ il momento di picco
 
 importance; import (formal)
 l'importanza
+
+photovoltaic
+fotovoltaico
+
