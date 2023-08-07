@@ -50929,3 +50929,6 @@ i semi
 tool (repair)
 l'attrezzo
 
+wild card
+la carta selvaggia
+
