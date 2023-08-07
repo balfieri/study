@@ -50896,3 +50896,9 @@ lo sciatto; il trasandato
 dress like a slob
 vestirsi come uno sciatto; vestirsi in modo trasandato
 
+to import
+importare
+
+to export
+esportare
+
