@@ -50913,3 +50913,6 @@ il repellente per insetti; lo spray contro gli insetti
 
 peak moment
 il momento di picco
+
+importance; import (formal)
+l'importanza
