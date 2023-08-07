@@ -7837,7 +7837,7 @@ il giro di basso
 draft; proof
 la bozza
 
-adamant; obstinate
+adamant; obstinate; pig-headed
 ostinato
 
 to split the difference
@@ -47860,8 +47860,8 @@ l'interscambio
 mutual aid
 il reciproco ausilio
 
-startupper
-il startupper
+startup founder; startup entrepreneur
+il fondatore di startup; l'imprenditore di startup; lo startupper
 
 ductile
 duttile
@@ -50904,4 +50904,7 @@ esportare
 
 to besmirch
 infangare; macchiare
+
+stubborn; pig-headed
+testardo; caparbio
 
