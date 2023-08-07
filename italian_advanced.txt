@@ -2593,6 +2593,9 @@ premuto
 to serve; to function; to act
 fungere
 
+to serve as; to function as; to act as
+fungere da
+
 to make; to execute; to accomplish; to place
 effettuare
 
@@ -50967,3 +50970,9 @@ inserirsi
 
 screaming; yelling
 le urla; il grido; lo strillare
+
+stylized
+stilizzato
+
+human face
+il volto umano
