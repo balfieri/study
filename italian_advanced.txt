@@ -40291,8 +40291,11 @@ archiviare
 unity; unit
 l'unità
 
-power supply; diet; nutrition
+power supply; diet; nutrition; feeding
 l'alimentazione
+
+nutrition
+la nutrizione; l'alimentazione
 
 non-slip
 anti-scivolo
@@ -50982,3 +50985,24 @@ prendersi un posto; ottenere un posto
 
 deforestation
 la deforestazione
+
+to go towards; to meet
+andare incontro
+
+chloroform
+il cloroformio
+
+mitochondrio
+il mitocondrio
+
+top importer
+il primo importatore
+
+advanced placement
+il collocamento avanzato
+
+advanced placement exam
+l'esame di collocamento avanzato
+
+advanced placement course
+il corso di collocamento avanzato
