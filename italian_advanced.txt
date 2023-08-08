@@ -51082,3 +51082,5 @@ riepilogare
 workforce
 la forza lavoro
 
+biweekly (twice a week)
+bisettimanale
