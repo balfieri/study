@@ -5626,7 +5626,7 @@ la didattica
 summery
 estivo
 
-student
+course participant; trainee
 il corsista
 
 waiver; exemption; exoneration
@@ -30928,7 +30928,7 @@ denominare
 voluntarily
 volontariamente
 
-conscience; consicousness
+conscience; consciousness
 la coscienza
 
 cinematic; cinematographic
@@ -46357,7 +46357,7 @@ il lungomare
 anthropic
 antropico
 
-live (adjective)
+live (adverb)
 dal vivo
 
 as long as
@@ -51045,3 +51045,10 @@ la tavola dei poveri
 
 to successfully convince
 convincere con successo
+
+remote microphone
+il microfono in remoto
+
+case in point
+l'esempio lampante; il caso specifico
+
