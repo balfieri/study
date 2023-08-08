@@ -29488,7 +29488,7 @@ lo stato mentale
 to keep going
 andare avanti; continuare
 
-articulate
+to articulate
 articolare
 
 there's a lot to talk about
@@ -51066,4 +51066,19 @@ verboso
 
 connectivity
 la connettività
+
+by return mail
+a strettissimo giro
+
+fateful
+fatidico
+
+fateful date
+la data fatidica
+
+to recap; to summarize
+riepilogare
+
+workforce
+la forza lavoro
 
