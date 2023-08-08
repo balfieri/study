@@ -51064,3 +51064,6 @@ il preservativo
 verbose
 verboso
 
+connectivity
+la connettività
+
