@@ -13456,7 +13456,7 @@ la persona notturna
 I don't know what to say
 non so cosa dire
 
-to bond; to tie; to bind
+to bond; to tie; to bind; to tether
 legare
 
 to test oneself; to prove oneself
@@ -51084,3 +51084,6 @@ la forza lavoro
 
 biweekly (twice a week)
 bisettimanale
+
+tethered
+legato; fissato; connesso
