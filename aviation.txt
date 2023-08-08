@@ -5725,7 +5725,7 @@ pilot must establish communications with the tower beyond 4nm from the airport, 
 the airspeed of an aircraft relative to undisturbed air at standard pressure and temperature
 
 {perf,critical} general airspeeds
-indicated airspeed (IAS) - what you see on the airspeed indicator; calibrated airspeed (CAS) - IAS corrected for instrument error; true airspeed (TAS) - speed relative to undisturbed air at standard pressure and temperature; ground speed (GS) - speed relative to the ground
+indicated airspeed (IAS) - what you see on the airspeed indicator; calibrated airspeed (CAS) - IAS corrected for instrument error; true airspeed (TAS) - speed relative to undisturbed air at standard pressure and temperature (i.e., speed you are passing by clouds); ground speed (GS) - speed relative to the ground
 
 {sop,critical} GIFT post-takeoff checklist
 Gear Up; Indicated airspeed; Flaps Up; Transponder on, Throttles set for climb
