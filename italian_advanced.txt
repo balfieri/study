@@ -442,7 +442,7 @@ l'alloro
 to return; to restore; to give back
 restituire; ritornare
 
-bossy
+bossy; arrogant; overbearing
 prepotente
 
 catchy
@@ -12986,7 +12986,7 @@ hazardous; risky
 azzardato
 
 to take care of; to deal with
-occuparsi di; prendersi cura di
+occuparsi di; prendersi cura di; avere cura di
 
 mirror ball
 la palla a specchi
@@ -51006,3 +51006,30 @@ l'esame di collocamento avanzato
 
 advanced placement course
 il corso di collocamento avanzato
+
+campaign manager
+il direttore della campagna
+
+it's terrible
+è pessissimo
+
+housekeeper; ruler
+il governante
+
+indiscriminately
+indistintamente
+
+right now as it is
+adesso come adesso
+
+to be fond of
+essere affezionato di
+
+hole
+il buso
+
+abdominal fat; stomach fat; tummy fat
+il grasso addominale
+
+forkful
+la forchettata
