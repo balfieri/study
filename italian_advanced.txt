@@ -45002,7 +45002,7 @@ to walk the runway
 fare passerella
 
 organized crime
-la malavita organizzata
+la criminalità organizzata; la malavita organizzata
 
 to supersede
 soppiantare
@@ -47818,7 +47818,7 @@ ops
 pyramid
 la piramide
 
-dump
+dump; landfill
 la discarica
 
 to lecture
@@ -51249,4 +51249,16 @@ il rogo
 
 the bonfire
 il falò
+
+to fall ill
+cadere malato
+
+sweating
+la sudorazione
+
+aggressiveness
+l'aggressività
+
+wet bulb
+il bulbo umido
 
