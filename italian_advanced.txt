@@ -307,7 +307,7 @@ ruotare; rotare
 seafood
 i frutti di mare
 
-to warn; to notify; to inform
+to notify; to inform; to warn
 avvisare; informare; notificare
 
 to warn; to caution; to alert
@@ -51183,4 +51183,7 @@ fagli parlare; portalo a parlare
 
 you're about to find out why
 stai per scoprire perchè
+
+kitchen scale
+la bilancia da cucina
 
