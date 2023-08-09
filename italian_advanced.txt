@@ -39524,7 +39524,7 @@ I've had those thoughts, but I'd never act upon them
 ho avuto quei pensieri, ma non agirei mai su di essi
 
 obsolete
-obsolete; superato; desueto
+obsoleto; superato; desueto
 
 a minor miracle
 un piccolo miracolo
@@ -51234,4 +51234,7 @@ prosciugare
 
 inane; empty; pointless
 vuoto; inutile; stupido
+
+planned obsolescence
+l'obsolescenza programmata
 
