@@ -51226,3 +51226,9 @@ arrogante
 loot
 il bottino
 
+dried up; drained
+prosciugato
+
+to dry up; to drain
+prosciugare
+
