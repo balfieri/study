@@ -51238,3 +51238,9 @@ vuoto; inutile; stupido
 planned obsolescence
 l'obsolescenza programmata
 
+fire fighting
+antincendio
+
+fire prevention
+la prevenzione degli incendi
+
