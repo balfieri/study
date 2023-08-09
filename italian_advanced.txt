@@ -51223,3 +51223,6 @@ eroico
 arrogant
 arrogante
 
+loot
+il bottino
+
