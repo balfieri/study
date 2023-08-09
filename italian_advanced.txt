@@ -13174,7 +13174,7 @@ il giuramento
 mess
 il pasticcio; il casino
 
-surrender; capitulation; yield
+yield; surrender; capitulation
 la resa
 
 plunder; pillage
@@ -19323,9 +19323,6 @@ sorpassare
 
 fleet; navy
 la flotta
-
-armore
-corazzato
 
 limelight; spotlight
 la ribalta
@@ -51087,4 +51084,40 @@ bisettimanale
 
 tethered
 legato; fissato; connesso
+
+arsenal
+l'arsenal
+
+armored; tank (adjective)
+corazzato
+
+smodato
+eccessivo; spropositato; scandaloso
+
+scandalous
+scandaloso
+
+excessive; disproportionate
+spropositato
+
+Caucasus
+Caucaso
+
+to exaggerate; to overdo
+dismisurare
+
+who is responsible for checking
+a chi spetta controllare
+
+residential; housing (adjective)
+residenziale; abitativo
+
+implementable
+implementabile
+
+unprovided
+sprovvisto
+
+to rely on; to depend on
+fare affidamento su
 
