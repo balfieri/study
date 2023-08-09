@@ -51193,3 +51193,6 @@ spiacenti
 to deny access
 negare l'accesso
 
+to amplify
+amplificare
+
