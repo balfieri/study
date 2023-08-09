@@ -7927,9 +7927,6 @@ la pillola abortiva
 to undertake
 intraprendere
 
-deforestation
-il disboscamento
-
 actionable
 attuabile
 
@@ -50981,7 +50978,7 @@ to take a seat; to get a place
 prendersi un posto; ottenere un posto
 
 deforestation
-la deforestazione
+il disboscamento; la deforestazione
 
 to go towards; to meet
 andare incontro
