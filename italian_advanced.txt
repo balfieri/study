@@ -51175,3 +51175,6 @@ catalitico
 to range
 spaziare
 
+quick lunch
+il pranzo veloce
+
