@@ -15956,7 +15956,7 @@ appropriate; fitting; dutiful; proper
 doveroso
 
 to be funny; to be clever
-fare lo spiritoso
+fare lo spiritoso; fare la spiritosa
 
 silicon
 il silicio
@@ -51386,5 +51386,8 @@ already registered
 già immatricolato
 
 ready for pickup
-pronti al ritiro
+pronto al ritiro
+
+goalpost
+il palo della porta
 
