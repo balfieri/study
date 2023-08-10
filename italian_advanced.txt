@@ -23827,7 +23827,7 @@ obbligatorio
 developed
 sviluppato
 
-to limit
+to limit; to rein in
 limitare
 
 God
@@ -31111,8 +31111,8 @@ rinvangare
 to dig up the past
 rinvangare il passato
 
-to turn upside down
-mettere sottosopra
+to turn (something) upside down
+girare (qualcosa) sottosopra; mettere (qualcosa) sottosopra
 
 to gorge oneself
 ingozzarsi
@@ -51423,4 +51423,19 @@ terminare il dramma
 
 to inflict cruelty
 infliggere crudeltà
+
+high voter turnout
+l'alta affluenza alle urne
+
+voter turnout
+l'affluenza alle urne
+
+walled in
+circondato da mura; racchiuso da mura
+
+high crimes and misdemeanors
+i reati gravi e illeciti
+
+power grid
+la rete elettrica
 
