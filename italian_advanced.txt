@@ -1712,7 +1712,7 @@ bully
 il bravaccio
 
 braggart; bully; boaster
-il spaccone; il gradasso
+lo spaccone; il gradasso
 
 hypocrite
 l'ipocrita
@@ -2984,7 +2984,7 @@ to foam; to sizzle; to form bubbles
 spumare
 
 drug dealer; pusher
-il spacciatore
+lo spacciatore
 
 drug trafficker
 il narcotrafficante
@@ -16070,7 +16070,7 @@ to corroborate; to support; to validate; to substantiate
 avvalorare
 
 prominence; distinction; eminence
-il spicco
+lo spicco
 
 prominent; eminent; distinctive
 di spicco
@@ -24625,9 +24625,6 @@ identificare
 participant
 il partecipante
 
-splendor
-il splendore
-
 particolarity; peculiarity; characteristic
 la particolarità
 
@@ -28850,7 +28847,7 @@ regulated
 regolato
 
 specialist
-il specialista
+lo specialista
 
 narrative
 narrativo
@@ -51351,3 +51348,13 @@ ruotare attorno a
 
 to monopolize
 monopolizzare
+
+supersonic
+supersonico
+
+I won't give up on you
+non rinuncerò a te
+
+to not be able to afford anything else
+non potersi permettere altro
+
