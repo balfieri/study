@@ -51370,6 +51370,6 @@ il carico di lavoro
 timetable
 la tabella di marcia
 
-to do an encore
+to do an encore; to give a repeat performance
 fare il bis
 
