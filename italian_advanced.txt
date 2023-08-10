@@ -28619,7 +28619,7 @@ traceable; detectable; trackable
 rintracciabile
 
 spite; bitterness; resentment
-il livore
+il livore; l'amaritudine
 
 enrichment
 l'arricchimento
@@ -51402,3 +51402,10 @@ rigoglioso
 
 keenly interested
 profondamente interessato; molto interessato
+
+supercilious
+supercilioso
+
+superciliousness
+la superciliosità
+
