@@ -51376,3 +51376,15 @@ fare il bis
 passable; practicable; negotiable
 percorribile
 
+in stock; ready for delivery
+in pronta consegna
+
+registered
+immatricolato
+
+already registered
+già immatricolato
+
+ready for pickup
+pronti al ritiro
+
