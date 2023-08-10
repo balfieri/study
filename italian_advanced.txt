@@ -10795,9 +10795,6 @@ aver bisogno di un favore; servirsi un favore
 succession
 il susseguirsi
 
-to stain; to blot
-macchiare
-
 quart
 la quarta
 
@@ -50899,8 +50896,11 @@ importare
 to export
 esportare
 
-to besmirch
-infangare; macchiare
+to muddy
+infangare
+
+to smear; to stain; to blot; to spot; to besmirch
+macchiare
 
 stubborn; pig-headed
 testardo; caparbio
@@ -51274,3 +51274,8 @@ lo scarafaggio
 firearm
 l'arma da fuoco
 
+to swarm
+pullulare
+
+muddied; muddy
+infangato
