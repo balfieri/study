@@ -433,8 +433,8 @@ soprattutto
 while (doing something); whereas
 mentre
 
-ok; that's fine
-va bene; ok
+ok; that's fine; it's acceptable
+va bene; ok; ci sta
 
 how goes it?
 come va?

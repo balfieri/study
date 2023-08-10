@@ -15094,9 +15094,6 @@ frà; frate
 to be full of energy; to be revved up
 essere pieno d'energia; essere supergasato; essere in piena
 
-ok; it's acceptable
-va bene; ci sta
-
 in full stride
 a gambe levate
 
@@ -15458,7 +15455,7 @@ pace; gait; stride
 l'andatura
 
 urgent; pressing
-urgente; incalzante
+urgente; incalzante; impellente
 
 to see eye to eye
 parlare la stessa lingua
@@ -22693,7 +22690,7 @@ delegato
 sufficiently
 sufficientemente
 
-to achieve; to attain; to ensue; to obtain
+to achieve; to attain; to ensue; to obtain; to get
 conseguire
 
 prevalent
@@ -37861,8 +37858,8 @@ in contrapposizione
 to oppose; to be opposed
 opporsi
 
-with our heads held high together
-a testa alta insieme
+with our heads held high
+a testa alta
 
 to fall
 precipitare
@@ -38427,9 +38424,6 @@ premurarsi
 
 bogeyman
 lo spauracchio
-
-urgent
-impellente
 
 obligation
 l'obligo
@@ -51279,3 +51273,76 @@ pullulare
 
 muddied; muddy
 infangato
+
+pet store
+il negozio di animali
+
+voicemail message
+il messaggio di segreteria telefonica
+
+I'll call you back as soon as possible
+ti richiamerò appena possibile
+
+thank you for calling
+grazie per aver chiamato
+
+in particular
+in particolare modo; in modo particulare
+
+to obtain a degree
+conseguire una laurea
+
+to crowd
+accalcarsi
+
+thumbs up
+pollice in su
+
+thumbs down
+pollice in giù
+
+to badmouth
+sparlare
+
+naive girl
+l'ingenuotta
+
+to declutter
+fare pulizia; sbarazzarsi delle cose inutili; fare il decluttering
+
+glittered
+glitterato
+
+routineness
+la routinerità
+
+pot pie; savory pie
+la torta salata
+
+to garnish
+guarnire
+
+to get stuck
+impappinarsi
+
+to intrigue
+intrigare
+
+to self-produce
+autoprodurre
+
+stove
+la stufa
+
+succinct
+succinto
+
+acculturated; cultured
+acculturato
+
+belonging
+l'appartanenza
+
+America is going backward; America is regressing
+l'America sta regredendo
+
