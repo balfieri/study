@@ -39112,8 +39112,11 @@ resistere alla vecchiaia; rallentare la vecchiaia
 feel free to ask
 sentiti libero di chiedere
 
-to soften; to tenderize
-intenerire; ammorbidire
+to soften 
+intenerire
+
+to tenderize
+ammorbidire
 
 satisfaction; approval; preference
 il gradimento
@@ -51489,3 +51492,13 @@ scagionare
 
 to have you read
 farti leggere
+
+kitchen hammer
+il martello da cucina
+
+meat tenderizer hammer
+il martelletto per ammorbidire la carne
+
+kitchen thermometer
+il termometro da cucina
+
