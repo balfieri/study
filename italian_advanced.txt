@@ -27187,7 +27187,7 @@ concepitare
 fervor
 il fervore
 
-amazement; astonishment; wonder; stupor
+amazement; astonishment; wonder; stupor; awe
 lo stupore
 
 inventory
@@ -51519,4 +51519,10 @@ terrorizzato
 
 to terrify; to terrorize
 terrorizzare
+
+act of overwhelming; act of overpowering
+la sopraffazione
+
+shock and awe
+lo shock e stupore
 
