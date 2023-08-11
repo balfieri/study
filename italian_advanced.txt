@@ -20644,7 +20644,7 @@ il collegio
 gift; present; donation
 il dono
 
-protagonist; hero
+protagonist; main character; lead
 il protagonista
 
 to strain
@@ -51525,4 +51525,7 @@ la sopraffazione
 
 shock and awe
 lo shock e stupore
+
+it will not be done; it will not be made
+non si farà
 
