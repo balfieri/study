@@ -1396,9 +1396,6 @@ i primi segni di vecchiaia
 to terrify
 terrificare
 
-to terrorize
-terrorizzare
-
 not quite ready
 non del tutto pronto
 
@@ -51518,8 +51515,8 @@ grandparenthood
 la nonnità
 
 terrified
-terrorizzato; impaurito
+terrorizzato
 
-to terrify
-spaventare; terrorizzare
+to terrify; to terrorize
+terrorizzare
 
