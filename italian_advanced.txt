@@ -9635,7 +9635,7 @@ flaw; fault; defect
 la pecca
 
 stainless steel
-l'acciaio inox
+l'acciaio inox; l'acciaio inossidabile
 
 to roll (pasta)
 arrotolare
@@ -51507,4 +51507,10 @@ lo stendipasta
 
 strainer ladle
 il mestolo colino
+
+foam skimmer
+la schiumarola
+
+foam maker; frother
+lo schiumatoio; il montalatte
 
