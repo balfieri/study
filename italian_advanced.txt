@@ -6089,7 +6089,7 @@ they are at odds with each other
 sono in contrasto tra loro
 
 claustrophobic
-claustrofobo
+claustrophobic
 
 home town
 la città natale
@@ -7025,7 +7025,7 @@ non-fiction (adjective)
 di saggistica
 
 fiction (adjective)
-di narativa
+di narrativa
 
 I have no idea what you're talking about
 non ho idea di cosa stai parlando
@@ -15285,9 +15285,6 @@ ritenere qualcuno responsabile
 
 to look the other way
 far finta di non vedere
-
-to let someone off the hook
-scagionare
 
 to gather up one's courage; to put a brave face (on it)
 farsi coraggio
@@ -51447,3 +51444,45 @@ arriverà in seguito
 
 to talk (someone) into; to persude (someone) to
 persuadere (qualcuno) a
+
+reading comprehension
+la comprensione della lettura
+
+in all fairness; to be honest
+a onor del vero
+
+to hail from; to come from; to originate from
+provenire da
+
+at some point in the future
+ad un certo punto nel futuro
+
+which region of Italy are you from?
+da quale regione d'Italia vieni?
+
+dystopian
+distopico
+
+dystopia
+la distopia
+
+supernatural
+supernaturale
+
+macabre
+macabro
+
+to detach the head from; to get one's head away from
+staccare la testa da
+
+typewriter
+la macchina da scrivere
+
+renamed
+rinominato
+
+to take out; to kill
+fare fuori
+
+to exonerate; to clear; to let (someone) off the hook
+scagionare
