@@ -19541,7 +19541,7 @@ base
 la base
 
 valley
-la valle
+la valle; la val
 
 lawn; grass; meadow
 il prato
