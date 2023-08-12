@@ -30007,7 +30007,7 @@ legalmente
 stipulation
 la stipulazione
 
-find (noun); finding
+find (noun); finding; artifact
 il reperto
 
 dissolution
@@ -30215,7 +30215,7 @@ terrorism
 il terrorismo
 
 artifact
-il manufatto
+l'artefatto; il reperto; il manufatto
 
 to practice (belief)
 praticare
