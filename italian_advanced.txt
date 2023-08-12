@@ -51730,3 +51730,6 @@ la lattina; la scatoletta
 jar; can
 il barattolo
 
+to be tied down
+essere legato; essere vincolato
+
