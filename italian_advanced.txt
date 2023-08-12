@@ -51775,3 +51775,6 @@ lo sbadiglio
 to yawn
 sbadigliare
 
+diffident
+carente di fiducia in se stesso
+
