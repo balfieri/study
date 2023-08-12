@@ -346,9 +346,6 @@ posteriore
 front (adjective)
 anteriore
 
-tire
-lo pneumatico
-
 flaps
 i lembi; i flap
 
@@ -12434,7 +12431,7 @@ fruit vendor
 il fruttivendolo
 
 bookseller
-il libraio
+il libraio; la libraia
 
 carpenter
 il falegname
@@ -22585,7 +22582,7 @@ aspettare un figlio
 godfather; buddy; pal; chum; crony
 il compare
 
-curiosity
+curiosity; interesting thing
 la curiosità
 
 above
@@ -27518,7 +27515,7 @@ surroundings (just outside neighborhood)
 i dintorni
 
 tire (car)
-il pneumatico
+lo pneumatico
 
 pharmacist
 il farmacista; la farmacista
@@ -28039,7 +28036,7 @@ brigare
 terminology
 la terminologia
 
-to recuperate
+to recuperate; to retrieve
 recuperare
 
 some; someone; anybody
@@ -30083,7 +30080,7 @@ sociopathic
 sociopatico
 
 psychopath; psycho
-il psicopatico
+lo psicopatico
 
 psychopathic; psycho
 psicopatico
@@ -34337,7 +34334,7 @@ pseudoscience
 la pseudoscienza
 
 pseudocode
-il pseudocodice
+lo pseudocodice
 
 to reinvent
 reinventare
@@ -45854,7 +45851,7 @@ glossary
 il glossario
 
 gnome
-il gnomo
+lo gnomo
 
 I know it's easy for me to say
 so che è facile per me dirlo
@@ -46241,7 +46238,7 @@ to purge
 spurgare
 
 flat tire
-la gomma a terra; il pneumatico a terra
+la gomma a terra; lo pneumatico a terra
 
 to bleed
 sanguinare; perdere sangue
@@ -51624,4 +51621,100 @@ prendere iniziativa
 
 chain effect
 l'effetto a catena
+
+to swim laps
+nuotare le vasche; fare vasche
+
+to run laps
+correre dei giri; fare giri
+
+whirlpool
+il gorgo; la vortice
+
+jacuzzi
+la vasca idromassaggio
+
+beating around the bush
+il giro di parole
+
+comfort
+il conforto
+
+aggravating
+aggravante
+
+panic attack
+l'attacco di panico
+
+small bottle
+la boccetta
+
+braggart
+lo sciaccone
+
+recovered; retrieved
+recuperato
+
+clumsy
+impatonato
+
+to be able to do it
+potercela fare
+
+savior
+il salvatore; la salvatrice
+
+unpopular
+impopolare
+
+meat; fat
+la ciccia
+
+expelled
+espulso
+
+atavistic
+attavico
+
+Kafkaesque
+kafkiano
+
+to botch
+bottare
+
+archipelago
+l'arcipelago
+
+puppet show
+l'opera dei pupi
+
+from Palermo
+palermitano
+
+to lap (someone)
+doppiare (qualcuno)
+
+nasty
+cattivo; brutto
+
+to make new friends
+farsi nuovi amici
+
+why do I bother (doing something)?
+perché mi preoccupo di (fare qualcosa)?
+
+reminiscent of
+che ricorda
+
+to be a good person; to be a nice person
+essere una brava persona
+
+be a good person; to be a moral person
+essere una buona persona
+
+absorbent
+assorbente
+
+exorbitant
+esorbitante
 

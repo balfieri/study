@@ -7667,7 +7667,10 @@ to pack; to pack for a trip; to pack bags
 fare le valigie; preparare i bagagli
 
 welcome
-benvenuto; ben venuto; ben arrivato
+benvenuto; benvenuti; ben venuto; ben venuti; ben arrivato; ben arrivati
+
+welcome back
+ben tornato; ben tornati
 
 to get a job as
 trovare lavoro come
