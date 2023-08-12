@@ -7570,7 +7570,7 @@ fermato
 pope
 il papa
 
-to mark
+to mark; to signal
 segnare
 
 video
