@@ -28036,7 +28036,7 @@ brigare
 terminology
 la terminologia
 
-to recuperate; to retrieve
+to recuperate; to retrieve; to recover; to undelete
 recuperare
 
 some; someone; anybody
@@ -51766,4 +51766,5 @@ finanziato collettivamente
 crowdfunding
 il finanziamento collettivo
 
-
+it's not clear that
+non è chiaro che
