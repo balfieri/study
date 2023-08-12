@@ -1402,7 +1402,7 @@ non del tutto pronto
 false friend
 il falso amico
 
-outwardly
+apparently; outwardly
 apparentemente
 
 bet
@@ -46564,7 +46564,7 @@ non sono pazzo di quello
 I don't know what's wrong with this person
 non so cosa c'è che non va in questa persona
 
-nightly news
+evening news; nightly news
 il telegiornale serale
 
 to come across something that would make (somebody) laugh
@@ -48326,10 +48326,10 @@ Lake Erie
 Lago Erie
 
 North America
-America Settentrionale
+America Settentrionale; Nordamerica
 
 South America
-America Meridionale
+America Meridionale; Sudamerica
 
 Puerto Rico
 il Portorico
@@ -51528,4 +51528,100 @@ lo shock e stupore
 
 it will not be done; it will not be made
 non si farà
+
+to break a rule
+infrangere una norma
+
+circadian
+circadiano
+
+summarizable
+riassumibile
+
+demotivated
+demotivato
+
+chain reaction
+la reazione a catena
+
+shift worker
+il turnista; lavoratore a turni
+
+under development
+in via di sviluppo
+
+lack of coordination; discoordination
+lo scoordinamento; la mancanza di coordinazione
+
+in tune; in sync
+in sintonia
+
+tortuous; winding
+tortuoso
+
+brick wall
+il muretto di mattoni
+
+unmanageable; uncontrollable
+ingestibile
+
+chronically
+cronicamente
+
+evening (adjective)
+serale
+
+to be subject to criticism
+essere soggetti a critiche
+
+behavioral problem
+il problema comportamentale
+
+behavioral
+comportamentale
+
+considerable
+considerevole
+
+considerably
+notevolmente; considerevolmente
+
+to take advantage; to benefit
+trarre vantaggio
+
+technocratic
+tecnocratico
+
+technocracy
+la tecnocrazia
+
+psychoanalist
+lo psicanalista
+
+resignation
+la rassegnazione
+
+suggestible
+suggestionabile
+
+gathered; assembled
+adunato; assemblato
+
+self-care
+la cura di sé
+
+a say in the matter
+una voce in capitolo
+
+to imply
+implicare
+
+terraced house; townhouse
+la villetta a schiera
+
+to take the initiative
+prendere iniziativa
+
+chain effect
+l'effetto a catena
 

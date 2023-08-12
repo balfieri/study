@@ -4982,7 +4982,7 @@ believable
 credibile
 
 24/7
-24 ore su 24
+24 ore su 24; 7 giorni su 7
 
 creature
 la creatura
@@ -5950,7 +5950,7 @@ la corda
 cross
 la croce
 
-private
+private; deprived
 privato
 
 hope
