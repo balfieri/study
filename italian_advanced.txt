@@ -38066,7 +38066,10 @@ casting director
 il direttore del casting; il responsabile del casting
 
 self-conscious
-insicuro; imbarazzato; autocosciente
+insicuro; imbarazzato
+
+self-aware
+autocosciente
 
 old age creeps up on you
 la vecchiaia ti sorprende; la terza età arriva inaspettata
@@ -51741,4 +51744,11 @@ avveniristico; futuristico
 
 I have no idea where it is
 non ho idea di dove sia
+
+overnight camp; sleepaway camp
+il campo notturno
+
+day camp
+il campo diurno
+
 
