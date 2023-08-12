@@ -51751,4 +51751,19 @@ il campo notturno
 day camp
 il campo diurno
 
+wool trade
+il commercio di lana
+
+fur trade
+il commercio di pellicce
+
+to crowdfund
+finanziare collettivamente
+
+crowdfunded
+finanziato collettivamente
+
+crowdfunding
+il finanziamento collettivo
+
 

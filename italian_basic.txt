@@ -7816,3 +7816,6 @@ spaventare; impaurire
 remarkable; notable
 notevole
 
+lentils
+le lenticchie
+
