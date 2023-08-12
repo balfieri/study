@@ -9829,7 +9829,7 @@ l'avvenimento
 partner (business); associate
 il socio; la socia
 
-lock
+lock (built-in)
 la serratura
 
 front door
@@ -41272,7 +41272,7 @@ capisci cosa sto dicendo?; sai cosa sto dicendo?
 dilation and curettage; D and C
 la dilatazione e raschiamento; la D and C
 
-padlock
+lock (removable); padlock
 il lucchetto
 
 scraping
@@ -51777,4 +51777,7 @@ sbadigliare
 
 diffident
 carente di fiducia in se stesso
+
+combination lock
+il lucchetto a combinazione
 
