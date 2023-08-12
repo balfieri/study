@@ -25864,7 +25864,7 @@ penso di aver fatto un errore; credo di aver fatto uno sbaglio
 street (adjective)
 stradale
 
-shortage
+shortage; deficiency; lack
 la carenza; la scarsità
 
 enhancement; appreciation
@@ -47800,7 +47800,7 @@ fare rete
 sharing
 la condivisione
 
-allocated
+allocated; used for
 adibito
 
 to put into circulation
@@ -51789,4 +51789,40 @@ più di qualsiasi altra persona che tu possa mai incontrare
 
 to count how many times
 contare quante volte
+
+Hawaii
+le Hawaii
+
+illegal building; unauthorized construction
+l'abusivismo; l'abusivismo edilizio
+
+inspected
+ispezionato
+
+to inspect
+ispezionare
+
+non-compliance; non-observance
+l'inosservanza
+
+sanitization
+la sanificazione
+
+rat extermination
+la derattizzazione
+
+to go bad; to spoil
+andare a male
+
+to smuggle; to embezzle
+trafugare; sottrarre illegalmente
+
+smuggled; embezzled
+trafugato
+
+dating back to
+risalente a
+
+bankruptcy
+la bancarotta
 
