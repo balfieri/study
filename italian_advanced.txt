@@ -22333,7 +22333,7 @@ l'istante
 change; modification
 la modifica; la modificazione
 
-branch
+branch (tree, plant)
 la rama
 
 conformity; compliance
@@ -33895,7 +33895,7 @@ bluffare
 raw fish; sushi
 il pesce crudo
 
-branch
+branch (abstract)
 la branca
 
 terminus; end of the line
