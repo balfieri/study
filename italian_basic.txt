@@ -3091,9 +3091,6 @@ spazzolare
 to brush one's hair
 spazzolarsi i capelli
 
-to show up; to introduce; to present
-presentarsi
-
 to make a mistake; to be mistaken; to be wrong
 sbagliarsi
 
@@ -3365,7 +3362,7 @@ squirrel
 lo scoiattolo
 
 brown
-castano; marrone
+marrone; castano
 
 sky blue
 azzurro
@@ -4189,12 +4186,6 @@ portare gli occhiali
 pasta
 la pasta
 
-can
-la lattina; la scatoletta
-
-jar; can
-il barattolo
-
 bag
 il sacchetto
 
@@ -4515,9 +4506,6 @@ fondamentale
 
 current; topical; present (adjective)
 attuale
-
-remarkable; notable
-notevole
 
 lower
 inferiore
@@ -7824,4 +7812,7 @@ l'antipasto; lo stuzzichino
 
 to scare; to frighten
 spaventare; impaurire
+
+remarkable; notable
+notevole
 

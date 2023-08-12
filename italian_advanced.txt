@@ -25213,7 +25213,7 @@ l'osservazione
 to contain
 contenere
 
-loss
+loss; leak
 la perdita
 
 reflection
@@ -51717,4 +51717,16 @@ assorbente
 
 exorbitant
 esorbitante
+
+to fix the leak
+riparare la perdita
+
+to show up; to introduce; to present
+presentarsi
+
+can
+la lattina; la scatoletta
+
+jar; can
+il barattolo
 
