@@ -52032,3 +52032,6 @@ la Bielorussia
 
 bitterness; resentment
 la marrazza; l'amaro; il risentimento
+
+to parse
+analizzare; scomporre
