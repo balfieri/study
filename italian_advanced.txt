@@ -2251,7 +2251,7 @@ ingrandire
 no parking zone
 il divieto di sosta
 
-bandage; band (wrapped); sash
+bandage; band; belt; sash; group; slot; range
 la fascia
 
 tablet (pill)
@@ -48361,9 +48361,6 @@ il deposito cauzionale
 act of withdrawl
 l'atto di ritiro
 
-for the purpose of
-ai fini di
-
 montly charge
 l'addebito mensile
 
@@ -51879,3 +51876,114 @@ allegorico
 
 to cost oneself
 costarsi
+
+to index
+indicizzare
+
+indexing
+l'indicizzazione
+
+for the purpose of; in the interests of
+ai fini di
+
+to take cover with
+correre ai ripari con
+
+to avoid misunderstandings; let there be no misunderstanding; let there be no mistake
+a scanso di equivoci
+
+to avoid confusion
+per evitare confusioni
+
+in the interest of transparency
+in ottica di trasparenza
+
+for their benefit
+a beneficio loro
+
+for your benefit
+a beneficio tuo
+
+the distress caused by environmental change; a form of homesickness one gets when one is still at home
+la solastalgia
+
+ecological grief
+il lutto ecologico
+
+environmental grief
+il lutto ambientale
+
+regardless of
+a prescindere da
+
+anxiety disorder
+il disturbo d'ansia
+
+existential malaise
+il malessere esistenziale
+
+irrational
+irrazionale
+
+irrationality
+l'irrazionalità
+
+a little while ago
+poc'anzi; poco fa
+
+insomnia
+l'insonnia
+
+psychopathology
+la psicopatologia
+
+cognitive
+cognitivo
+
+cognitive dissonance
+dissonanza cognitiva
+
+cognitive dissonance theory
+la teoria della dissonanza cognitiva
+
+discontent
+il malcontento
+
+to degenerate into
+degenerare in
+
+ecologist
+l'ecologista
+
+sustainability
+l'ecosostenibilità
+
+Guinea
+la Guinea
+
+prefecture
+la prefettura
+
+hit; strike
+la percossa; il colpo
+
+Tunisian
+tunisino
+
+Ministry of the Interior
+il ministero dell'interno
+
+Tunis
+Tunisi
+
+Tunisia
+la Tunisia
+
+board; food
+il vitto
+
+senior citizen
+il cittadino anziano
+
+senior (person 65+ years old)
+l'anziano
