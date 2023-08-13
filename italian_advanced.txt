@@ -6010,7 +6010,7 @@ la dimostrazione di affetto
 to cuddle (trans)
 coccolare
 
-to cuddle (intransitive)
+to cuddle; to cuddle up; to curl up
 accoccolarsi
 
 unsettling
@@ -6250,7 +6250,7 @@ incorrere
 to resort; to recur; to appeal
 ricorrere a
 
-to subtract; to take away
+to subtract; to take away; to remove; to separate
 sottrarre
 
 taboo
@@ -15019,9 +15019,6 @@ avvicinarsi a
 to bless; to consecrate
 benedire; consacrare
 
-distraught; upset
-sconvolto
-
 tenacity
 la tenacia
 
@@ -16060,7 +16057,7 @@ lo spicco
 prominent; eminent; distinctive
 di spicco
 
-to line up; to align; to marshal
+to line up; to align; to marshal; to deploy
 schierare
 
 discontent; displeasure
@@ -51990,3 +51987,48 @@ l'anziano; il pensionato; il senior (formale)
 
 to rape
 stuprare
+
+to submit; to abide by
+sottostare
+
+submitted
+sottostato
+
+nape of the neck
+la nucca
+
+inexplicably
+inspiegabilmente
+
+loafing; idleness
+il boseggio; l'ozio; l'inattività
+
+to rob; to mug
+rapinare
+
+tugboat; tug
+il rimorchiatore
+
+harasser; stalker
+il sessatore; il molestatore; il perseguitatore
+
+to score; to pick up
+cuccare; rimorchiare
+
+to keep pace with; to keep up with
+tenere il passo con
+
+fantasy soccer
+il fantacalcio
+
+deployability
+la schierabilità
+
+to have a following
+avere un seguito
+
+Belarus
+la Bielorussia
+
+bitterness; resentment
+la marrazza; l'amaro; il risentimento
