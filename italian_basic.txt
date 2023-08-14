@@ -1882,7 +1882,7 @@ la stanza
 bedroom; room (for sleeping); chamber
 la camera; la camera da letto
 
-study (room); office; studying
+study; office; studying
 lo studio
 
 garage

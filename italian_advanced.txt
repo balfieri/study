@@ -3131,7 +3131,7 @@ aside from this
 a parte questo
 
 to fascinate
-affascinare
+affascinare; fascinare
 
 fascinating
 affascinante
@@ -52047,4 +52047,8 @@ la raccolta firme; la raccolta di firme
 
 phrase book
 il frasario; il libro di frasi
+
+explusion
+la cacciata
+
 
