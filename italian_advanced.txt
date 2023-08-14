@@ -800,7 +800,7 @@ to discourage
 scraggiare
 
 chit chat; chatter
-il chiacchiericcio
+il chiacchiericcio; la chiacchierata
 
 lumberjack
 il taglialegna
@@ -52125,4 +52125,10 @@ il nube di fumo
 
 to take a step back
 fare un passo indietro
+
+to sharply question
+interrogare aspramente
+
+gambit
+il gambetto
 
