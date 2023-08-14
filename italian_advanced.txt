@@ -3311,7 +3311,7 @@ chocolate chip
 la goccia di cioccolato
 
 to drip
-gocciare
+gocciare; colare
 
 not to miss
 da non perdere
@@ -30218,7 +30218,7 @@ didactic; educational
 didattico
 
 rector
-il rettore
+il rettore; la rettrice
 
 to survive
 sopravvivere
@@ -52084,3 +52084,29 @@ non voglio saperne di più
 to write by hand
 scrivere a mano
 
+dripping; oozing
+grondante; traboccante
+
+to ooze
+sgorgare; trasudare; grondare
+
+furious; raging
+furibondo; infuriato
+
+unlucky; inauspicious
+infausto; sfortunato
+
+natural-born
+nato naturale
+
+natural-born killer
+l'assassino nato
+
+fleeting; transient; ephemeral
+fugace; effimero
+
+you read that right
+hai letto bene
+
+you heard that right
+hai sentito bene
