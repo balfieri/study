@@ -20131,9 +20131,6 @@ il foro
 vase; vessel
 il vaso
 
-harvest; crop; yield
-il raccolto
-
 section; division
 la sezione
 

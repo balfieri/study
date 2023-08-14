@@ -7819,3 +7819,8 @@ notevole
 lentils
 le lenticchie
 
+collection; gathering
+la raccolta
+
+harvest; crop; yield
+il raccolto
