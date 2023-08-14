@@ -8512,7 +8512,7 @@ l'erede
 stacks
 gli scaffali
 
-dense; thick
+dense
 denso; fitto
 
 Zurich
@@ -11851,7 +11851,7 @@ la scoreggia
 to fart
 scoreggiare
 
-of course; naturally; obviously; necessarily; definitely; surely; for sure; by force
+necessarily; of course; naturally; obviously; definitely; surely; for sure; by force
 per forza
 
 syndrome
@@ -45200,7 +45200,7 @@ distraction
 la distrazione
 
 weaver
-il tessitore
+il tessitore; la tessitrice
 
 on the dock
 sul molo
@@ -52035,3 +52035,13 @@ analizzare; scomporre
 
 restaurateur; caterer
 il ristoratore; la ristoratrice
+
+tailor
+il sarto; la sarta
+
+timely
+tempestivamente
+
+overly-apologetic
+eccessivamente scusante
+
