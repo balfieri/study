@@ -4615,7 +4615,7 @@ similmente
 in other words
 in altre parole
 
-for that reason; therefore; thus; hence; for that
+for that; for that reason; therefore; thus; hence; for that
 perciò
 
 finally
@@ -52110,3 +52110,6 @@ hai letto bene
 
 you heard that right
 hai sentito bene
+
+for that reason
+per questo motivo
