@@ -20542,9 +20542,6 @@ addensarsi; ispessirsi
 double broiler
 il bagnomaria
 
-to pull the plug; to get away from everything
-staccare la spina
-
 coat; blouse; jacket; tunic
 la casacca
 
@@ -52035,3 +52032,6 @@ la marrazza; l'amaro; il risentimento
 
 to parse
 analizzare; scomporre
+
+restaurateur; caterer
+il ristoratore; la ristoratrice
