@@ -52122,3 +52122,7 @@ i lipilli; il cenere vulcanica; il polvere vulcanica
 
 cloud of smoke
 il nube di fumo
+
+to take a step back
+fare un passo indietro
+
