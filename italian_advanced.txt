@@ -28057,7 +28057,7 @@ feroce
 earthquake
 il terremoto
 
-seminary
+seminary; seminar
 il seminario
 
 usual; customary
@@ -52183,3 +52183,5 @@ carismatico
 grief; sorrow
 il cordoglio
 
+disseminator
+il divulgatore; la divulgatrice
