@@ -35866,9 +35866,6 @@ l'affetto genuino
 stuck
 incollato
 
-to rape
-violentare
-
 to frame; to set up
 incastrare
 
@@ -51980,7 +51977,7 @@ senior (person 65+ years old)
 l'anziano; il pensionato; il senior (formale)
 
 to rape
-stuprare
+stuprare; violentare; violare
 
 to submit; to abide by
 sottostare
@@ -52202,5 +52199,10 @@ group think
 il pensiero di gruppo
 
 is everything ok?
-Tutto a posto?
+tutto a posto?
 
+concubine
+la concubina
+
+unheard of
+inaudito
