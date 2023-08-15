@@ -4897,8 +4897,8 @@ il matrimonio gay
 leak; flight; escape
 la fuga
 
-down to earth
-con i piedi per terra
+down-to-earth
+con i piedi per terra; pratico
 
 to play a role in a film
 interpretare un ruolo in un film
@@ -8089,7 +8089,7 @@ soffermarsi
 grimace; smirk
 la smorfia
 
-molancholy; blues
+melancholy; blues
 la malinconia
 
 of Giuseppe Verdi
@@ -16419,9 +16419,6 @@ indissolubilmente
 
 excruciating; poignant
 struggente
-
-melancholy
-malinconico
 
 mix; mixing (audio, film,  TV)
 il missaggio
@@ -41782,9 +41779,6 @@ la distorsione del mercato
 gnarly
 difficile; complicato
 
-down-to-earth
-con i piedi per terra; pratico
-
 wholesome
 salutare; sano; genuino
 
@@ -52215,3 +52209,16 @@ pignolo; pignoso
 
 second chance
 la seconda chance; la seconda possibilità
+
+mindfulness
+la consapevolezza; il mindfulness; l'attenzione plena
+
+to do calculations; to make accounts
+fare conti
+
+melancholic
+malinconico
+
+to taint
+contaminare; macchiare
+
