@@ -256,8 +256,8 @@ blu
 green
 verde
 
-orange
-arrancio
+orange (adjective)
+arancione
 
 yellow
 giallo
@@ -2191,7 +2191,7 @@ il prosciutto
 sausage
 la salsiccia
 
-orange
+orange (fruit)
 l'arancia
 
 strawberry
@@ -7824,3 +7824,6 @@ la raccolta
 
 harvest; crop; yield
 il raccolto
+
+soda
+la soda; la bibita gassata

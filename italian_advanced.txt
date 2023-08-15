@@ -7570,7 +7570,7 @@ l'alieno
 dough; batter
 l'impasto
 
-to knead
+to knead (pasta dough)
 impastare
 
 counterpoint
@@ -52200,4 +52200,7 @@ il pensiero collettivo
 
 group think
 il pensiero di gruppo
+
+is everything ok?
+Tutto a posto?
 
