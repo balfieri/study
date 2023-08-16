@@ -6322,7 +6322,7 @@ assordante
 legislature
 la legislatura
 
-to reiterate; to stress; to confirm; to reaffirm; to affirm
+to reiterate; to reaffirm; to stress; to confirm; to affirm
 ribadire
 
 indirect
@@ -52222,3 +52222,8 @@ malinconico
 to taint
 contaminare; macchiare
 
+to settle one's accounts
+chiudere i propri conti
+
+slanting; stressed on the penultimate syllable
+sdrucciolo
