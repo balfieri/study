@@ -4889,7 +4889,7 @@ agent; officer
 l'agente
 
 to prohibit
-proibire; vietare
+proibire; vietare; interdire
 
 gay marriage
 il matrimonio gay
@@ -52282,3 +52282,23 @@ sarà un viaggio accidentato
 margin loan
 il prestito a margine
 
+mundane
+mondano
+
+prohibited
+interdetto
+
+crazy; mad
+scansonato
+
+value-add; added value
+il valore aggiunto
+
+to coincide; to match
+colimare
+
+I wouldn't be at all surprised; I wouldn't be surprised at all
+non mi sorprenderebbe affatto; non mi sorprenderebbe per niente
+
+at the very least; at a minimum
+a quanto meno
