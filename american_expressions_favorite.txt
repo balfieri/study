@@ -2280,7 +2280,7 @@ il comportamento dispettoso o ingannevole
 there's plenty of fish in the sea
 ci sono molti altri uomini; ci sono molte altre donne
 
-to try to put lipstick on a pg
+to try to put lipstick on a pig
 cercare di fare una torta di fango
 
 to quit cold turkey
@@ -3026,4 +3026,7 @@ hai quello come riserva; hai quello nella tua tasca posteriore
 
 opposites attract
 gli opposti si attraggono
+
+when you have a hammer, everything looks like a nail
+quando hai un martello, tutto sembra un chiodo
 
