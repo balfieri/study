@@ -31606,9 +31606,6 @@ raddoppiare di volume
 in my humble opinion
 a mio modesto parere
 
-miracles do happen
-i miracoli accadono
-
 at low speed
 a bassa velocità
 
@@ -52467,3 +52464,7 @@ stare all'angolo della strada
 
 madman; crazy man; crazy person
 il pazzo
+
+mumbler
+il borbottatore; il mormoratore
+
