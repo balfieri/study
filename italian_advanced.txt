@@ -17719,7 +17719,7 @@ il tallone
 heel (shoe, boot, Italy)
 il tacco
 
-mailman; postman
+mailman; postman; postal worker
 il postino
 
 an insane amount
@@ -52521,4 +52521,7 @@ chiamami la mattina
 
 heated discussion
 la discussione accesa
+
+to not being able to take it anymore
+non essere più in grado di sopportarlo
 
