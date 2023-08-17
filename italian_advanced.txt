@@ -24574,7 +24574,7 @@ la cessazione
 presumption
 la presunzione
 
-combat
+combat; fight (physical)
 il combattimento
 
 to identify
