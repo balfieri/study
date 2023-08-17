@@ -52534,3 +52534,6 @@ ho appena preparato qualcosa
 net difference
 la differenza netta
 
+reference point; point of reference
+il punto di riferimento
+
