@@ -1669,7 +1669,7 @@ annoiato
 weird; strange
 strano
 
-shy
+shy; timid
 timido
 
 strong
