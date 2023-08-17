@@ -42955,7 +42955,7 @@ prediletto
 television ratings
 l'auditel
 
-attitude; demeanor
+grip; attitude; demeanor
 il piglio
 
 clear; limpid
@@ -52305,4 +52305,19 @@ a quanto meno
 
 incontrovertible
 inconfutabile
+
+diatribe
+la diatriba
+
+titanic
+titanico
+
+core drilling
+il carotaggio
+
+until the end
+fino alla fine
+
+jockey
+il fantino
 
