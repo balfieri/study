@@ -20560,7 +20560,7 @@ scottato
 persistent
 persistente
 
-to fidget; to fuss; to be agitated; to stir
+to fidget; to fuss; to be agitated; to stir; to get worked up
 agitarsi
 
 relocation; move
@@ -52515,4 +52515,7 @@ inducente al sonno; che ti fa sentire sonnolento
 
 to roll one's eyes
 rotolare gli occhi
+
+you're getting worked up over nothing
+ti stai agitando per niente
 
