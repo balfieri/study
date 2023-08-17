@@ -3830,7 +3830,7 @@ to take place; to be set
 ambientare
 
 screenwriter
-il sceneggiatore
+lo sceneggiatore
 
 broken (dreams); shattered; infringed
 infranto
@@ -5465,7 +5465,7 @@ appearance; likeness
 l'apparenza
 
 lifestyle
-il stile di vita
+lo stile di vita
 
 master (of slaves); task master
 il padrone; la padrona
@@ -14957,7 +14957,7 @@ drunk; pissed; boozy
 sbronzo; ubriaco
 
 shawl; wrap; scarf
-il scialle
+lo scialle
 
 to defrost; to thaw; to deice
 sbrinare
@@ -21581,7 +21581,7 @@ in quotes
 fra virgolette
 
 chess player
-il scacchista
+lo scacchista
 
 New Year's resolution
 il proposito per l'anno nuovo
@@ -28403,7 +28403,7 @@ flirt
 la civetta
 
 womanizer; philanderer
-farfallone; donnaiolo; il sciupafemmine
+farfallone; donnaiolo; lo sciupafemmine
 
 to follow through
 persevere; portare a termine
@@ -31334,7 +31334,7 @@ to indulge
 indulgere
 
 songwriting
-la scrittura di canzoni; il scrivere canzoni
+la scrittura di canzoni; lo scrivere canzoni
 
 double album
 il doppio album
@@ -33086,7 +33086,7 @@ to take sides; to align
 schierarsi
 
 gimmick
-il trucco; l'espediente; il stratagemma
+il trucco; l'espediente; lo stratagemma
 
 instantaneous
 istantaneo
@@ -33858,9 +33858,6 @@ abbottonato
 
 safety (physical, object)
 incolumità
-
-lifestyle
-lo stile di vita
 
 to change lifestyle
 cambiare stile di vita
@@ -38039,7 +38036,7 @@ slide (part of presentation)
 la diapositiva
 
 ponzi scheme
-il schema Ponzi; il sistema Ponzi
+lo schema Ponzi; il sistema Ponzi
 
 casting
 il casting; la selezione degli attori
@@ -38426,7 +38423,7 @@ prompt
 il sollecito
 
 step; stair tread
-il scalino
+lo scalino
 
 semi-utopia
 la semiutopia
@@ -38669,7 +38666,7 @@ lightning cable (Apple)
 il cavo Lightning
 
 gnashing of teeth
-il digrignare di denti; il stridore di denti
+il digrignare di denti; lo stridore di denti
 
 photographer
 il fotografo
@@ -41162,7 +41159,7 @@ large language model (LLM)
 il modello linguistico di grandi dimensioni
 
 doomsday scenario
-il scenario apocalittico
+lo scenario apocalittico
 
 garage door
 la porta del garage
@@ -45734,7 +45731,7 @@ defeatist
 sconfittista
 
 motherboard
-il scheda madre
+lo scheda madre
 
 tentacular
 tentacolare
@@ -48209,7 +48206,7 @@ kinetic
 cinetico
 
 swarm
-il sciame
+lo sciame
 
 uranium
 l'uranio
@@ -52473,3 +52470,9 @@ non ho idea di come sia finita con me
 
 to end up with
 finire con
+
+to disown
+rinnegare; diseredare
+
+remote possibility
+la possibilità remota; la possibilità lontana

@@ -5693,7 +5693,7 @@ message
 il messaggio
 
 text message
-il messaggio di testo; il sms; il messaggino
+il messaggio di testo; l'sms; il messaggino
 
 Great Britain; Britain
 la Gran Bretagna
