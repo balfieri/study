@@ -24325,9 +24325,6 @@ Suor
 big man
 l'omone
 
-wit
-l'arguzia
-
 hand kiss; hand-kissing
 il baciamano
 
@@ -24538,7 +24535,7 @@ inconveniente
 emigration
 l'emigrazione
 
-primacy; supremacy; record
+primacy; supremacy; record; leading position
 il primato
 
 contraposition; contrast
@@ -52326,3 +52323,136 @@ il casato
 
 proportional part
 l'aliquota
+
+to indulge oneself; to treat oneself
+concedersi
+
+to combine business and leisure
+coniugare business e svago; coniugare business e leisure
+
+deseasonalization
+la destagionalizzazione
+
+more so
+tanto più
+
+highland; plateau
+l'altopiano; il tavolato
+
+transhumance
+la transumanza
+
+flora
+la flora
+
+fauna
+la fauna
+
+to safeguard
+salvaguardare
+
+under the sign of; in the name of
+all'insegna di; in nome di
+
+to seize the moment; to catch the moment
+cogliere l'attimo; afferrare il momento; catturare il momento
+
+food-and-wine (adjective)
+enogastronomico
+
+overall quality
+la qualità complessiva
+
+the basics
+le basi
+
+to go into debt
+indebitarsi
+
+to get out of debt
+uscire dal debito
+
+to get out of jail
+uscire di prigione
+
+get-out-of-jail-free card
+la carta "uscita di prigione gratuita"; la carta "uscita di prigione gratis"
+
+circuitous
+circonvoluto; indiretto
+
+adulteration
+l'adulterazione
+
+between one thing and another
+tra una cosa all'altra
+
+reading group
+il gruppo di lettura
+
+ingot
+l'ingotto
+
+railing
+la ringhiera
+
+gutter (roof)
+il canale di scolo
+
+gutter (street)
+il gutter
+
+walkway
+il passaggio; il camminamento
+
+shingles (roof)
+le tegole
+
+shingles (illness)
+il fuoco di Sant'Antonio
+
+downspout
+il pluviale; il discendente
+
+game changer
+il fattore di svolta
+
+to keep (something) alive
+mantenere vivo (qualcosa)
+
+quanto piuttosto che
+as much as rather than
+
+to earn a leading position; to earn the lead
+guadagnarsi un primato
+
+to animate life
+animare la vita
+
+engaging
+ingaggiante; coinvolgente
+
+engaged
+ingaggiato; impegnato
+
+to lead the race
+guidare la corsa
+
+at the bottom of the sea
+in fondo al mare
+
+wit
+l'arguzia; lo spirito
+
+to outwit
+superare in astuzia
+
+wise beyond one's years
+saggio oltre i propri anni
+
+I guess I am willing to (do something)
+immagino di essere disposto a (fare qualcosa)
+
+mixture
+la miscetta
+
