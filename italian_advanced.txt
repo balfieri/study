@@ -7774,9 +7774,6 @@ il servizio di prato
 to enroll
 iscriversi
 
-to attract
-attrarre; attarire
-
 potential
 potenziale
 
@@ -52488,3 +52485,7 @@ perdonabile
 
 to erupt
 eruttare (vulcano); erompere; esplodere
+
+fallback position; fallback
+la posizione di riserva; il fallback
+
