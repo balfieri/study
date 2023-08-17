@@ -7831,3 +7831,8 @@ fare alcune domande; fare qualche domanda
 zoo
 lo zoo
 
+I need it
+ne ho bisogno; mi serve
+
+he needs it; she needs it; it needs it
+ne ha bisogno; gli serve; le serve
