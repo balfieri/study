@@ -52732,3 +52732,6 @@ risorto
 to rise again; to resurrect
 risorgere
 
+embryonic
+embrionale
+
