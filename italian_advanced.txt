@@ -36236,7 +36236,7 @@ I've heard good things about
 ho sentito parlare bene di
 
 about to; on the verge of; in the process of
-in procinto
+in procinto di
 
 unleaded
 senza piombo
@@ -52725,4 +52725,10 @@ la domanda insaziabile
 
 to survive the inconvenience
 sopravvivere all'inconveniente
+
+risen; resurrected
+risorto
+
+to rise again; to resurrect
+risorgere
 
