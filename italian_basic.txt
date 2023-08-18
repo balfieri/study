@@ -7848,3 +7848,6 @@ far sapere a (qualcuno)
 
 to let (somebody) see
 far vedere a (qualcuno)
+
+in love
+innamorato
