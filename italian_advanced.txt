@@ -52355,7 +52355,7 @@ to get out of jail
 uscire di prigione
 
 get-out-of-jail-free card
-la carta "uscita di prigione gratuita"; la carta "uscita di prigione gratis"
+la carta uscita di prigione gratuita; la carta uscita di prigione gratis
 
 circuitous
 circonvoluto; indiretto
