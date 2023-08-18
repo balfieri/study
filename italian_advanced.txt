@@ -9946,8 +9946,8 @@ l'efficienza del carburante
 gas mileage
 il consumo di carburante; il chilometraggio di gas
 
-to work out
-fare esercizio; allenarsi
+to train
+allenarsi
 
 general relativity
 la relatività generale
@@ -52740,3 +52740,7 @@ embrionale
 
 to let out
 lasciare uscire
+
+shadow of doubt; shadow of a doubt
+l'ombra di dubbio
+
