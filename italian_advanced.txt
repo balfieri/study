@@ -14459,7 +14459,7 @@ without missing a beat
 senza perdere un colpo
 
 to tell the truth
-a dire la verità
+a dire la verità; per dire la verità
 
 historic event
 l'avvenimento storico
@@ -32861,7 +32861,7 @@ scratch
 il graffio
 
 to scratch
-graffiare
+graffiare; scalfire
 
 scratch-resistant
 antigraffio
@@ -44068,7 +44068,7 @@ scalare
 to entrust to
 affidare a
 
-to give one's best; to do one's best
+to give one's best; to do one's best; to put one's best foot forward
 dare il meglio di sé; fare del proprio meglio
 
 to handle; to manage
@@ -52776,4 +52776,13 @@ stare al passo; mantenere il ritmo
 
 false eyelashes; fake eyelashes
 le ciglia finte
+
+I don't let it get to me
+non lo lascio arrivare a me
+
+I don't let it bother me
+non lo lascio disturbarmi
+
+to prevent from; to stop from
+impedire di
 

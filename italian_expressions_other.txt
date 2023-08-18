@@ -856,9 +856,6 @@ fammi tacere!
 to make someone's hair stand on end
 far rizzare i capelli a qualcuno
 
-to put one's best foot forward
-fare del proprio meglio
-
 to make a mountain out of a molehill
 fare d'una mosca un elefante
 
@@ -2445,3 +2442,6 @@ staccare la spina
 
 old-fashioned
 vecchio stampo
+
+it doesn't bother me; it doesn't affect me
+non mi scalfisce
