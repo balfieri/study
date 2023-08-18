@@ -7839,3 +7839,6 @@ ne ha bisogno; gli serve; le serve
 
 on Fridays
 il venerdì
+
+every Friday
+ogni venerdì
