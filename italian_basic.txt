@@ -7836,3 +7836,6 @@ ne ho bisogno; mi serve
 
 he needs it; she needs it; it needs it
 ne ha bisogno; gli serve; le serve
+
+on Fridays
+il venerdì
