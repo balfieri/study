@@ -595,9 +595,6 @@ la manica
 drag
 la resistenza; il trascinamento
 
-unpleasant
-sgradevole
-
 sated; full
 sazio
 
@@ -15484,9 +15481,6 @@ combattere una battaglia persa
 a chance in hell; no chance at all
 straccio di possibilità
 
-in the worst-case scenario
-nel peggiore dei casi
-
 long face
 il muso lungo
 
@@ -25071,9 +25065,6 @@ indimenticabile
 
 to convert
 convertire
-
-to persuade
-persuadere
 
 flawed; defective
 difettoso
@@ -47062,8 +47053,8 @@ scacciare via
 quite another thing
 una ben altra cosa
 
-to have a tendency to be
-avere una tendenza a essere
+to have a tendency to (do something)
+avere una tendenza a (fare qualcosa)
 
 to get oneself off a list; to remove oneself from a list
 togliersi da una lista
@@ -52540,3 +52531,56 @@ il punto di riferimento
 ruble
 il rublo
 
+I didn't come back until this year
+non sono tornato fino a quest'anno
+
+things I regret
+cose di cui mi pento
+
+in the worst case; in the worst-case scenario
+nel peggiore dei casi
+
+solid food
+il cibo solido
+
+summary
+il summario
+
+dozen
+la dozzina
+
+little meat on the arms
+poca carne sulle braccia
+
+to be on one's period
+essere nel periodo
+
+brick
+il mattonazo
+
+street map
+lo stradario
+
+to discharge
+disgragare
+
+to crush
+schiaggiare
+
+goldfish
+il pesce rosso
+
+swordfish
+il pesce spada
+
+felony count
+il conto del crimine
+
+persuadable
+persuadibile
+
+disagreement
+il disaccordo
+
+disagreeable; unpleasant
+sgradevole
