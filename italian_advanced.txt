@@ -18739,8 +18739,11 @@ incontrollabile; irrefrenabile
 uncontrollable urge
 l'impulso incontrollabile; il bisogno irrefrenabile
 
-irrepressible; unstoppable; uncontrollable
-irrefrenabile; incontrollabile
+unstoppable; irrepressible
+irrefrenabile; inarrestabile
+
+uncontrollable
+incontrollabile
 
 to tie a string
 legare una corda
