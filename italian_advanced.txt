@@ -35108,7 +35108,7 @@ little by little
 poco a poco
 
 shameless
-svergognato
+svergognato; senza vergogna
 
 to do it well
 farlo per bene
@@ -52651,3 +52651,23 @@ permanentemente
 permanently attached
 permanentemente attaccato
 
+crane
+il gru
+
+backhoe
+l'escavatore retroescavatore
+
+loader
+il caricatore
+
+dump truck
+il camion ribaltabile
+
+cement truck
+il camion del cemento
+
+intentional
+intenzionale
+
+malicious; intenzionale
+doloso

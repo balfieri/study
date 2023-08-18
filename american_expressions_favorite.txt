@@ -454,7 +454,7 @@ to marry up
 sposarsi bene
 
 donkeys must suffer (DMS)
-gli asini devono soffrire
+gli muli devono soffrire; gli asini devono soffrire
 
 I’m gonna tell it to you straight
 te lo dico chiaro e tondo
@@ -1742,6 +1742,9 @@ i conforti della vita quotidiana; le piccole commodità della vita
 
 positive halo effect
 l'effetto alone positivo
+
+negative halo effect
+l'effetto alone negativo
 
 fuggeddaboudit; fuhgeddaboudit
 lascia stare; non preoccuparti di quello; non importa; figurati
