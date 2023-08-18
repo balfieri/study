@@ -52677,3 +52677,8 @@ la persona superficiale; la persona poco profonda
 
 NOT joke
 lo scherzo NOT
+
+I do not dare say
+non oso dire
+
+
