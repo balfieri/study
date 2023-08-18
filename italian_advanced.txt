@@ -52671,3 +52671,7 @@ intenzionale
 
 malicious; intenzionale
 doloso
+
+superficial person; shallow person
+la persona superficiale; la persona poco profonda
+
