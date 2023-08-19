@@ -38590,7 +38590,7 @@ il cartoncino
 polyphonic chatter
 il chiacchiericcio polifonico
 
-to teem
+to teem; to swarm; to crawl
 brulicare
 
 civil disobedience
@@ -45994,6 +45994,9 @@ il rilevatore di monossido di carbonio
 vicinity; proximity
 le vicinanze
 
+impeccable; flawless
+impeccabile; senza difetti; inappuntabile
+
 impeccable
 impeccabile
 
@@ -52792,3 +52795,23 @@ assumersi
 grenade
 la granata
 
+comparable
+paragonabile
+
+to be surrounded
+farsi circondare
+
+unequivocal
+inequivocabile
+
+gift of the gab
+la parlantina; le doti di eloquenza
+
+vivid
+vivido
+
+burning passion
+la bruciante passione
+
+anti-tank
+controcarro
