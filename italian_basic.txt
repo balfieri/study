@@ -3463,7 +3463,7 @@ la fava
 sweetcorn
 il mais
 
-pumpkin
+pumpkin; squash
 la zucca
 
 banana
