@@ -38077,7 +38077,7 @@ essere in pausa
 at this rate
 a questo ritmo; a questo tasso
 
-range
+range (distance); reach
 la portata
 
 pat
@@ -52785,4 +52785,10 @@ non lo lascio disturbarmi
 
 to prevent from; to stop from
 impedire di
+
+to take on; to assume
+assumersi
+
+grenade
+la granata
 
