@@ -52932,3 +52932,9 @@ i bicipiti
 
 to hospitalize
 ospedalizzare
+
+to intern
+internare
+
+interned
+internato
