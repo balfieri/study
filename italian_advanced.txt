@@ -6244,7 +6244,7 @@ tutelare
 to incur
 incorrere
 
-to resort; to recur; to appeal
+to resort to; to appeal to
 ricorrere a
 
 to subtract; to take away; to remove; to separate
@@ -52884,3 +52884,19 @@ concitato
 
 let's keep going
 continuiamo; andiamo avanti
+
+beyond
+aldilà di
+
+protective action
+l'azione di tutela
+
+to do virtually anything they are told
+fare praticamente tutto ciò che gli viene detto
+
+look out!
+attento!
+
+look out for the car!
+attento alla macchina!
+
