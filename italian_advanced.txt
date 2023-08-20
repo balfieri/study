@@ -6304,7 +6304,7 @@ la coglienza
 to sensitize; to awaken
 sensibilizzare
 
-event (macro); matter
+event (macro); matter; affair
 la vicenda
 
 glimpse; spot
