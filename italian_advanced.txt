@@ -12029,7 +12029,10 @@ mental lapse; slip of the tongue; brain fart
 il lapsus
 
 conservative (noun)
-il conservatore
+il conservatore; la conservatrice
+
+conservative (adjective)
+conservatore; conservatrice
 
 tax
 la tassa
@@ -52902,3 +52905,7 @@ attento alla macchina!
 
 sanitarium; health resort
 il sanatorio; il centro di salute
+
+iron fist
+il pugno di ferro
+
