@@ -52900,3 +52900,5 @@ attento!
 look out for the car!
 attento alla macchina!
 
+sanitarium; health resort
+il sanatorio; il centro di salute
