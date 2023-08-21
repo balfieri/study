@@ -13091,7 +13091,7 @@ isolationalist
 isolazionista
 
 pricey
-caruccio
+caruccio; costoso; caro
 
 head down
 la testa in giù
@@ -50501,7 +50501,7 @@ bau bau
 woof woof; bow wow
 
 wicked
-malvagio
+malvagio; cattivo
 
 I can't remember any of them
 non me ne ricordo nessuno
@@ -53025,4 +53025,19 @@ onnisciente
 
 dealing with; struggling with
 alle prese con; lottando con
+
+halfway between
+a metà strada tra
+
+my plan is finally coming together
+il mio piano sta finalmente venendo insieme
+
+America's best days are behind it
+i giorni migliori dell'America sono alle sue spalle
+
+in reality
+in realtà
+
+the buffer underruns
+il buffer va in underflow
 
