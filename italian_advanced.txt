@@ -34708,8 +34708,8 @@ il fazzoletto
 host
 l'ospitante; l'ospite
 
-dinner jacket; tuxedo
-lo smoking
+dinner jacket; tuxedo; tux
+lo smoking; il pinguino
 
 smoking
 fumare; il fumo
