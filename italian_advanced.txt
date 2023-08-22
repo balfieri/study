@@ -53085,3 +53085,6 @@ chiacchierone; chiacchierona
 
 your own mother
 tua madre propria
+
+the day before
+il giorno prima
