@@ -454,7 +454,7 @@ voglio farti sapere
 in general (when talking about the totality of something)
 in generale
 
-to edit (on a computer)
+to edit (on a computer); to modify
 modificare
 
 to rewrite
@@ -22939,7 +22939,7 @@ la rovina
 basin
 il bacino
 
-modified; edited; amended
+edited; modified; amended
 modificato
 
 prejudice
@@ -53098,3 +53098,5 @@ la giustizia segua il suo corso
 insurance bill
 la fattura dell'assicurazione
 
+to amend
+emendare
