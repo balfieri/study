@@ -409,13 +409,10 @@ divertente
 to have fun; to enjoy oneself; to have a good time
 divertirsi
 
-silly (person)
-buffo
-
 sense of humor
 il senso d'umore
 
-marvelous
+wonderful; marvelous
 meraviglioso
 
 station (radio, tv); channel
@@ -945,9 +942,6 @@ pazzo
 
 brain
 il cervello
-
-clown; silly person
-il buffone
 
 seriously; for real
 sul serio
@@ -1641,9 +1635,6 @@ prudente
 
 cautious
 cauto
-
-talkative
-chiacchierone
 
 talkative person; motor mouth; chatterbox
 il chiacchierone; la chiacchierona; il pettegolo; la pettegola
@@ -2488,7 +2479,7 @@ nevicare
 cloud
 la nuvola; la nube
 
-it's nice (weather)
+it's nice (weather); it's warm
 fa bello; fa bel tempo
 
 humid; moist; damp
@@ -2496,9 +2487,6 @@ umido
 
 it's hot (weather)
 fa caldo
-
-it's warm (weather)
-fa bel tempo
 
 it's raining
 piove
