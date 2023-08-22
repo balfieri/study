@@ -1309,9 +1309,6 @@ instaurare
 commitment; obligation
 l'impegno
 
-opportunity cost
-il costo-opportunità
-
 late 60's
 alla fine degli anni Sessanta
 
@@ -5507,7 +5504,7 @@ black hole
 il buco nero
 
 opportunity cost
-il costo di opportunità
+il costo-opportunità; il costo di opportunità
 
 ridiculous scheme
 il piano ridicolo; il ridicolo piano; lo schemo ridicolo
@@ -53100,3 +53097,10 @@ la fattura dell'assicurazione
 
 to amend
 emendare
+
+another way to say it
+un altro modo per dirlo
+
+end-to-end
+da un capo all'altro; da estremità a estremità
+
