@@ -53104,3 +53104,6 @@ un altro modo per dirlo
 end-to-end
 da un capo all'altro; da estremità a estremità
 
+if I don't understand you, I'll tell you
+se non ti capisco, te lo dirò
+
