@@ -21254,7 +21254,7 @@ treatment
 trattazione
 
 prison; jail
-il carcere
+il prigione; il carcere
 
 behavior; conduct
 il comportamento
@@ -53190,3 +53190,12 @@ l'impiegato postale scontento
 
 disgruntled
 scontento; insoddisfatto; infelice
+
+despite everything; in spite of everything
+nonostante tutto; malgrado tutto
+
+end of message; EOM
+la fine del messaggio
+
+in prison
+in prigione
