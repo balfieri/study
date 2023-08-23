@@ -53143,3 +53143,6 @@ la stroncatura; il taglio; il troncamento
 to cut off; to truncate
 stroncare; tagliare; troncare
 
+crosshair; sight
+il mirino
+
