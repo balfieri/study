@@ -14854,9 +14854,6 @@ l'acquirente
 sink; washbasin; kitchen sink
 l'acquaio
 
-to tend; to heed; to look after
-accudire
-
 shower (of rain); downpour; cloudburst
 l'acquazzone
 
@@ -53145,4 +53142,10 @@ stroncare; tagliare; troncare
 
 crosshair; sight
 il mirino
+
+nursed; taken care of
+accudito
+
+to take care of; to look after
+accudire
 
