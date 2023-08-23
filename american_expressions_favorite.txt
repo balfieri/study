@@ -3057,3 +3057,6 @@ essere in un mare di guai; essere in grande difficoltà
 what happens in (city), stays in (city)
 quello che succede a (città), resta a (città)
 
+to cat-call
+fare apprezzamenti volgari
+
