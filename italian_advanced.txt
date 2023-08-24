@@ -53283,3 +53283,6 @@ la riunione aziendale; l'assemblea dei soci
 
 shinanigans
 gli scherzi; il comportamento ingannevole o disonesto
+
+stochastic terrorism
+il terrorismo stocastico
