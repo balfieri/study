@@ -53281,8 +53281,17 @@ invadere
 company meeting
 la riunione aziendale; l'assemblea dei soci
 
-shinanigans
+shenanigans
 gli scherzi; il comportamento ingannevole o disonesto
 
 stochastic terrorism
 il terrorismo stocastico
+
+countdown
+il conto alla rovescia
+
+to count down
+contare alla rovescia
+
+timer
+il timer
