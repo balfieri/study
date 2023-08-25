@@ -1036,7 +1036,10 @@ in via di guarigione
 piuttosto (qualcosa)
 
 it just works
-funziona e basta; funziona
+funziona semplicemente; funziona e basta; funziona
+
+nothing just works
+niente funziona solo; niente funziona semplicemente
 
 no rush!
 senza fretta!
