@@ -102,9 +102,6 @@ abbastanza
 to make the cut
 passare alla fase successiva
 
-out of my league
-fuori dalla mia portata
-
 above my pay grade
 sopra del mio livello
 
@@ -2344,7 +2341,7 @@ to move the goalposts
 cambiare le regole o gli obiettivi per ingannare un avversario
 
 out of my league
-oltre le mie capacità; troppo difficile per me; troppo bella per me
+fuori dalla mia portata; oltre le mie capacità; troppo difficile per me; troppo bella per me
 
 political football
 una questione controversa utilizzata per guadagno politico
