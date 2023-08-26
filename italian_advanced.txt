@@ -24265,9 +24265,6 @@ l'omosessualità
 unnecessarily
 inutilmente
 
-hilly
-collinoso
-
 to promote
 promuovere
 
@@ -45647,7 +45644,7 @@ thinned out
 diradato
 
 hilly
-collinare
+collinoso; collinare
 
 aesthetically pleasing
 esteticamente gradevole
