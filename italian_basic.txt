@@ -7839,3 +7839,6 @@ far vedere a (qualcuno)
 
 in love
 innamorato
+
+microphone; mic
+il microfono

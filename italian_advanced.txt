@@ -36238,7 +36238,7 @@ senza piombo
 to snap a photo
 scattare una foto
 
-handle; doorknob
+handle
 la maniglia
 
 Ash Wednesday
@@ -53318,7 +53318,7 @@ electrode
 l'elettrode
 
 mug shot
-il fotosegnalamento
+il fotosegnalamento; la foto segnaletica
 
 pristine
 pristino; immacolato
@@ -53373,4 +53373,46 @@ accannare
 
 bad eater
 il mangia male
+
+door knob
+il pomello della porta
+
+Pontius Pilate
+Ponzio Pilato
+
+the Huns
+Gli Unni
+
+basket
+la cesta
+
+heart throb
+l'idolo; il colpo di fulmine
+
+to throb
+palpitare; battere
+
+throbbing
+palpitante; battito
+
+district attorney
+il procuratore distrettuale; la procuratrice distrettuale
+
+unfading
+immarcescibile
+
+faded
+sbiadito
+
+tampered
+manomesso
+
+unstuck; detached
+scollato
+
+external microphone; external mic
+il microfono esterno
+
+to tamper with; to interfere with
+manomettere; interferire con
 
