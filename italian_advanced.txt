@@ -31429,8 +31429,11 @@ non sembrare il suo solito sé
 to brush (food)
 spennellare
 
-there isn't already enough oil
-non c'è già abbastanza olio
+there isn't already enough milk
+non c'è già abbastanza latte
+
+there's no more milk
+non c'è più latte
 
 forewarning; notice; warning; advance warning
 il preavviso
