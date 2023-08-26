@@ -2992,8 +2992,8 @@ scoprire
 to dress
 vestire
 
-to allow; to permit; to consent
-consentire
+to allow to (do something); to permit to (do something); to consent to (do something)
+consentire di (fare qualcosa)
 
 to execute; to perform
 eseguire

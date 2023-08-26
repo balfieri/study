@@ -8816,7 +8816,7 @@ pickup truck
 il pick up
 
 to piss; to pee
-pisciare; fare pipì
+pisciare; fare pipì; bidonare; dare buca
 
 vindictive
 vendicativo
@@ -17160,9 +17160,6 @@ irritare (qualcuno)
 
 the shoe is on the other foot; the tables are turned
 la situazione è rovesciata
-
-crocodile tears
-le lacrime di coccodrillo
 
 forget it
 lascia correre; lasica perdere; lasciare stare
@@ -45067,8 +45064,8 @@ il ferro fuso
 to nibble
 smangiucchiare
 
-to presage
-presagire
+to portend; to presage
+presagire; preannunciare
 
 to succumb
 soccombere
@@ -53349,4 +53346,31 @@ il recluso
 
 just because you can do something, doesn't mean you should
 solo perché puoi fare qualcosa, non significa che dovresti
+
+gender neutral
+neutro al genere
+
+mendacious
+mendace
+
+lopsided
+sbilanciato; asimmetrico
+
+topsy-turvey
+sottosopra; alla rovescia
+
+embittered
+amareggiato
+
+deferential
+rispettoso; deferente
+
+braggart
+la bauscia
+
+to snatch
+accannare
+
+bad eater
+il mangia male
 
