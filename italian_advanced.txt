@@ -4727,7 +4727,7 @@ loser; dweeb
 il perdente; lo sfigato
 
 weather forecast
-le previsioni del tempo
+le previsioni del tempo; le previsioni meteo
 
 Supreme Court
 la Corte Suprema
@@ -53421,4 +53421,19 @@ al meglio delle mie conoscenze
 
 state chancellor
 il cancelliere di stato
+
+to be hunting for; to be on the hunt for
+essere a caccia di; essere alla ricerca di
+
+computational
+computazionale
+
+excessively; immeasurably
+a dismisura
+
+ram's head
+la testa d'ariete
+
+ram (animal)
+l'ariete
 
