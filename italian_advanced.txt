@@ -36935,7 +36935,7 @@ to delve into the past
 frugare nel passato
 
 tight-fitting; barely on
-appena adosso
+appena addosso
 
 who cares what I think?
 a chi importa quello che penso io?
@@ -53652,4 +53652,10 @@ il saggio; il sapiente
 
 sample; sampler
 il campionario
+
+to put on
+mettersi addosso
+
+tactical mistake; tactical error
+l'errore tattico; lo sbaglio tattico
 
