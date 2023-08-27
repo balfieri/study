@@ -4340,7 +4340,7 @@ The Holocaust
 la Shoah
 
 imposing
-imponente
+imponente; prestante
 
 impotent
 impotente
@@ -27257,7 +27257,7 @@ to compete
 concorrere
 
 Japanese
-giapponese
+giapponese; nipponico
 
 stamp; seal
 il bollo; il timbro
@@ -50416,7 +50416,7 @@ il plexiglass
 flourishing; blooming
 florido; in fiore
 
-well-known; famous
+well-known; famous; overbearing
 arcinoto
 
 reinterpretation; revisiting
@@ -53499,4 +53499,34 @@ azionare
 
 foldable
 richiudibile
+
+a bit more; a little more
+un po' di più; un poco più
+
+to debut
+debuttare
+
+attributable; chargeable
+imputabile
+
+to peep out
+fare capolino
+
+because of; due to; by way of
+per via di
+
+telephoto lens
+il teleobiettivo; l'obiettivo tele
+
+optical stabilization
+la stabilizzazione ottica
+
+wide angle
+grandangolo
+
+ultra wide angle
+ultragrandangolo
+
+overbearing presence
+l'arcinota presenza; la presenza prepotente
 
