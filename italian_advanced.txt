@@ -11620,7 +11620,7 @@ schiantare
 to implement; to actualize
 attuare
 
-outcome
+outcome; result
 l'esito
 
 re-count
