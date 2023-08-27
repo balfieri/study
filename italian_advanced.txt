@@ -2209,7 +2209,7 @@ l'atteggiamento
 to pose
 atteggiare
 
-ulterior; further; additional
+additional; further; ulterior
 ulteriore
 
 the time before last
@@ -35044,9 +35044,6 @@ la chiave inglese
 spare tire
 la ruota di scorta
 
-trunk
-il bagagliaio
-
 to loosen the nuts
 allentare i dadi
 
@@ -53436,4 +53433,70 @@ la testa d'ariete
 
 ram (animal)
 l'ariete
+
+to come to terms; to compromise
+scendere a patti
+
+age group
+la fascia di età
+
+little big one
+il grandicello
+
+production house; manufacturer
+la casa produttrice
+
+luggage carrier
+il portabagagli
+
+anti-abandonment
+antiabbandono
+
+reclinable
+reclinabile
+
+headrest
+il poggiatesta
+
+reducer
+il riduttore
+
+in the opposite direction
+in senso contrario
+
+perspiration; sweat
+la traspirazione
+
+lining
+il rivestimento interno
+
+removable; detachable
+sfoderabile
+
+washable
+lavabile
+
+direction of travel
+il senso di marcia
+
+inclined
+inclinato
+
+anatomical
+anatomico
+
+trunk; boot
+il bagagliaio
+
+to the trunk; to the boot
+al vano bagagliaio
+
+padding; stuffing
+l'imbottitura
+
+to activate
+azionare
+
+foldable
+richiudibile
 
