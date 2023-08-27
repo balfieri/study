@@ -6736,7 +6736,7 @@ il condominio
 apartment building
 il caseggiato
 
-tap (water)
+faucet; tap
 il rubinetto
 
 bedside table
@@ -53586,4 +53586,10 @@ navigare in yacht
 
 hard worker
 il lavoratore instancabile; il lavoratore duro
+
+water hose
+il tubo dell'acqua
+
+water faucet
+il rubinetto dell'acqua
 
