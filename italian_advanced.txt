@@ -34327,9 +34327,6 @@ il pronostico
 convicted (noun)
 il condannato; il pregiudicato
 
-to withdraw
-prelevare
-
 withdrawal
 il prelievo
 
@@ -53593,3 +53590,11 @@ il tubo dell'acqua
 water faucet
 il rubinetto dell'acqua
 
+usable
+utilizzabile
+
+to withdraw the registration fee
+prelevare la quota di iscrizione
+
+to withdraw; to take out
+prelevare
