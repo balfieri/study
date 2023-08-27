@@ -53551,5 +53551,18 @@ ventilare
 plate; flat iron
 la piastra
 
+waffle iron
+la piastra per waffle
+
 plaque
 la placca
+
+temperature probe
+la sonda di temperatura
+
+thermoprobe
+la termosonda
+
+support panel
+il pannello di appoggio
+
