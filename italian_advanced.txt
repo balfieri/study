@@ -53605,3 +53605,9 @@ fare cosplay
 undone; defeated
 disfatto
 
+the sun rises in the east
+il sole sorge a est
+
+the sun sets in the west
+il sole tramonta a ovest
+
