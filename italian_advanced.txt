@@ -397,7 +397,7 @@ accostare
 to stem
 arginare
 
-artificial
+artificial; contrived
 artificioso
 
 genuine
@@ -13702,7 +13702,7 @@ l'apicale
 congressional
 congressuale
 
-to induce; to cuse; to lead
+to induce; to cause; to lead
 indurre
 
 the big lie
@@ -53610,4 +53610,46 @@ il sole sorge a est
 
 the sun sets in the west
 il sole tramonta a ovest
+
+to have to do with; to deal with
+avere a che fare
+
+it makes me think
+mi fa pensare
+
+tangled; convoluted
+faraginoso
+
+muddled; jumbled; tangled up
+ingarbagliato
+
+interlocking
+incastro
+
+up to the task; at the height
+all'altezza
+
+euphoria
+l'euforia
+
+eurphoric
+euforico
+
+to do a live stream
+fare una diretta
+
+live stream
+la diretta
+
+iguana
+l'iguana
+
+reincarnation
+la reincarnazione
+
+essay; wise man; the sage
+il saggio; il sapiente
+
+sample; sampler
+il campionario
 
