@@ -5375,7 +5375,7 @@ master's degree
 il master
 
 Balkan
-balcanica
+balcanico
 
 to undo
 disfare; annullare
@@ -49276,9 +49276,6 @@ la disillusione
 Libyan
 libico
 
-Balkan
-balcanico
-
 anything but; far from
 tutt'altro che
 
@@ -53667,4 +53664,34 @@ lo smog
 
 I'd rather not
 preferirei di no
+
+prior consent
+il previo consenso
+
+on site
+in loco
+
+here we are
+eccoci qua
+
+cloud service
+il servizio cloud
+
+demand exceeds supply
+la domanda supera l'offerta
+
+central processing unit; CPU
+l'unità di elaborazione centrale; la CPU
+
+graphics processing unit; GPU
+l'unità di elaborazione grafica; la GPU
+
+massively parallel
+massicciamente parallelo
+
+prep school; preparatory school; private school
+la scuola preparatoria; la scuola privata
+
+business competitor
+il concorrente commerciale
 
