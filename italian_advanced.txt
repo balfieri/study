@@ -45301,7 +45301,7 @@ esfoliare
 to hydrate
 idratare
 
-to polish
+to polish; to shine (transitive)
 lucidare
 
 asymmetric
@@ -53698,3 +53698,5 @@ il concorrente commerciale
 I was expecting him to be afraid
 mi aspettavo che lui avesse paura
 
+to shine (intransitive)
+brillare
