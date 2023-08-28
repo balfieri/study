@@ -6745,8 +6745,11 @@ chiamato
 promise
 la promessa
 
-comedy
-la commedia
+comedy (general)
+la comicità
+
+comedy (theatrical, literary)
+la commedia 
 
 average; mean
 medio
