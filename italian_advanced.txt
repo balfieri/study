@@ -16394,7 +16394,7 @@ stool; footstool
 lo sgabello
 
 director; filmmaker
-il regista
+il regista; la regista
 
 editing of the film
 il montaggio del film
