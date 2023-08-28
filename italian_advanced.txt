@@ -53681,7 +53681,7 @@ demand exceeds supply
 la domanda supera l'offerta
 
 central processing unit; CPU
-l'unità di elaborazione centrale; la CPU
+l'unità di elaborazione centrale; la CPU
 
 graphics processing unit; GPU
 l'unità di elaborazione grafica; la GPU
