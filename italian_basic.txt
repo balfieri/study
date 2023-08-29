@@ -3373,9 +3373,6 @@ la pelle
 clear
 chiaro
 
-eyebrows
-le sopraciglie
-
 eyelashes
 le ciglia
 
