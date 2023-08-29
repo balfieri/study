@@ -7270,8 +7270,8 @@ la residenza assistita
 at one point; at a certain point
 a un certo punto
 
-cemetary
-il cimitero
+cemetary; graveyard
+il cimitero; il camposanto
 
 grave; tomb
 la tomba
@@ -31024,7 +31024,7 @@ affidabile; attendibile
 reliably
 affidabilmente; attendibilmente; fedelmente; in modo affidabile
 
-spoil one's appetite
+to spoil one's appetite
 rovinare l'appetito
 
 additional information
