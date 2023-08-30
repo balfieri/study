@@ -7933,7 +7933,7 @@ tenere traccia
 surge; soaring
 l'impennata
 
-congested
+congested; clogged
 intasato
 
 familiarity
@@ -40160,7 +40160,7 @@ it sucks
 fa schifo; è una seccatura
 
 malfunction; failure; glitch
-la malfunzionamento; il guasto
+il malfunzionamento; il guasto
 
 to strike gold
 trovare l'oro
@@ -53881,3 +53881,23 @@ il posto di guardia
 guard station
 la stazione di guardia
 
+Bethlehem
+Betlemme
+
+brave; valient
+valente
+
+kaleidoscope
+il caleidoscopio
+
+to change pace
+cambiare passo
+
+to bring to the surface
+portare a galla
+
+to talk to myself
+parlare con me stesso
+
+to talk to oneself
+parlare con se stesso
