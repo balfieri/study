@@ -7842,3 +7842,7 @@ innamorato
 
 microphone; mic
 il microfono
+
+calendar
+il calendario
+
