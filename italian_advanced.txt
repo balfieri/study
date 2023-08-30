@@ -53901,3 +53901,6 @@ parlare con me stesso
 
 to talk to oneself
 parlare con se stesso
+
+where were we?
+dove eravamo?
