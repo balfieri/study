@@ -53941,3 +53941,6 @@ la scena d'inseguimento
 job; job position
 il posto di lavoro; il lavoro
 
+playful
+giocoso
+
