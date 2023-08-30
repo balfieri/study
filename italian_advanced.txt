@@ -418,7 +418,7 @@ la fiacca
 to plant
 piantare
 
-to get by
+to get by; to get away with it
 cavarsela
 
 draw; tie
@@ -53967,4 +53967,7 @@ la persona ragionevole
 
 but I'm not
 ma non lo sono
+
+to have gotten away with it
+essersela cavato
 
