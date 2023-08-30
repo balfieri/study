@@ -38780,7 +38780,7 @@ gelato is very filling
 il gelato sazia molto
 
 acronym
-l'acronimo
+la sigla; l'acronimo
 
 gerund
 il gerundio
@@ -53904,4 +53904,7 @@ parlare con se stesso
 
 where were we?
 dove eravamo?
+
+the connection to the internet
+la connessione a internet
 
