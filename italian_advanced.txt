@@ -4442,7 +4442,7 @@ on more than one occasion
 in piu'di un'occasione
 
 from now on; henceforth
-da ora in poi; da adesso in poi
+d'ora in poi; da ora in poi; d'adesso in poi; da adesso in poi
 
 since then; since that itme
 da allora
@@ -53943,4 +53943,7 @@ il posto di lavoro; il lavoro
 
 playful
 giocoso
+
+she doesn't seem to be available from now on
+non sembra essere disponibile d'ora in poi
 
