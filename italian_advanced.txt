@@ -53992,4 +53992,6 @@ il bit più significativo
 least significant bit
 il bit meno significativo
 
+tight body; toned body
+il corpo tonico
 
