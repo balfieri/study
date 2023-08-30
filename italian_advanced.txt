@@ -53929,3 +53929,6 @@ la persona realizzata; la persona raggiunta
 unfocused; not focused; lacking concentration
 non concentrato; privo di concentrazione
 
+unfocused person; distracted person
+la persona non concentrata; la persona distratta
+
