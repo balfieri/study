@@ -48805,7 +48805,7 @@ la recrudescenza
 little else
 poco altro
 
-in itself
+in itself; in and of itself
 di per sé
 
 anachronistic
@@ -53991,4 +53991,5 @@ il bit più significativo
 
 least significant bit
 il bit meno significativo
+
 
