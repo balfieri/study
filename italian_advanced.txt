@@ -54142,3 +54142,9 @@ malevolo; malvagio; cattivo
 to lure (someone) into a trap
 attirare (qualcuno) in una trappola
 
+student loan
+il prestito studentesco
+
+student (adjective)
+studentesco
+
