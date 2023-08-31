@@ -49816,9 +49816,6 @@ finalizzare
 extremist group
 il gruppo estremista
 
-conspiracy theorist
-il teorico della cospirazione
-
 to hoard
 accumulare; ammassare
 
@@ -54168,4 +54165,8 @@ il film-concerto
 
 to laugh at my expense
 ridere a mie spese
+
+conspiracy theorist
+il complottista; il teorico del complotto; il teorico della cospirazione
+
 
