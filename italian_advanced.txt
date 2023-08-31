@@ -12070,7 +12070,7 @@ abbondante
 garbage; rubbish; trash
 l'immondizia
 
-to attract; to draw
+to attract; to draw; to lure
 attirare
 
 for all to see
@@ -54135,4 +54135,10 @@ la denuncia alla polizia
 
 Oscar-worthy; Oscar-material
 il materiale da Oscar?
+
+evil
+malevolo; malvagio; cattivo
+
+to lure (someone) into a trap
+attirare (qualcuno) in una trappola
 
