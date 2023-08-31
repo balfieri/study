@@ -54169,4 +54169,6 @@ il complottista; il teorico del complotto; il teorico della cospirazione
 extra (actor); bit player
 il figurante; la figurante
 
+lifeless
+privo di vita; senza vita
 
