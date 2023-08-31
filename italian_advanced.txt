@@ -4993,9 +4993,6 @@ maltrattare
 petrified
 pietrificato; impietrito
 
-bit player
-il figurante
-
 arrangement; accommodation
 la sistemazione
 
@@ -54168,5 +54165,8 @@ ridere a mie spese
 
 conspiracy theorist
 il complottista; il teorico del complotto; il teorico della cospirazione
+
+extra (actor); bit player
+il figurante; la figurante
 
 
