@@ -54148,3 +54148,6 @@ il prestito studentesco
 student (adjective)
 studentesco
 
+the probability is close to zero
+la probabilità è vicina a zero
+
