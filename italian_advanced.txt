@@ -39382,8 +39382,8 @@ la caviglia
 stubby; chunky
 tozzo
 
-inquieto; a disagio
 uneasy
+inquieto; a disagio
 
 easy rider
 il facile cavaliere; il motociclista rilassato
@@ -54165,3 +54165,7 @@ il mobile da cucina
 
 concert film
 il film-concerto
+
+to laugh at my expense
+ridere a mie spese
+
