@@ -565,7 +565,7 @@ it's on me
 offro io
 
 been there, done that
-è capitato anche a me
+già visto, già fatto
 
 I won't tell a soul
 non lo dico ad anima viva
@@ -3074,4 +3074,7 @@ le montagne russe di emozioni
 
 every man for himself
 l'uomo che se la cava da sé
+
+frazzled
+stressato; logorato
 
