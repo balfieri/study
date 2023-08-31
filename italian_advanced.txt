@@ -18763,7 +18763,7 @@ la cellula
 synthesis; summary; abstract
 la sintesi
 
-tale; story; short story
+tale; story; short story; telling
 il racconto
 
 absence
