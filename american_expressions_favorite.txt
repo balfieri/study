@@ -3087,3 +3087,6 @@ non sta facendo nulla di particolarmente impressionante; non sta avendo un grand
 bigshot
 il grande pezzo
 
+the difference between theory and practice is often greater in practice than in theory
+la differenza tra teoria e pratica è spesso maggiore nella pratica che nella teoria
+
