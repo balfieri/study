@@ -54283,5 +54283,9 @@ organizzare una festa
 to throw on the ground
 gettare per terra
 
+to throw on the table
+gettare sul tavolo
+
 robot
 il robot
+
