@@ -8297,7 +8297,7 @@ foster child
 bambino in affido; il bambino affidato; il bambino in affidamento
 
 bar; pub
-la taverna
+il bar; il pub; la taverna
 
 vasectomy
 la vasectomia
@@ -29380,7 +29380,7 @@ senza dubbio
 to break one's leg
 rompersi la gamba
 
-to give a speech
+to give a speech; to give a talk
 fare un discorso
 
 in poor visibility
@@ -54247,3 +54247,11 @@ a questo punto, è tutto nella mia testa
 to get reacquainted with
 riprendere conoscenza con; riavvicinarsi a
 
+to pick one's nose
+grattarsi il naso; ficcare il dito nel naso
+
+everyone at the table
+tutti a tavola
+
+CERN
+la CERN

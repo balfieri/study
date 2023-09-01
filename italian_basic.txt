@@ -7846,3 +7846,9 @@ il microfono
 calendar
 il calendario
 
+to get on the train
+salire sul treno
+
+to get off the train
+scendere dal treno
+
