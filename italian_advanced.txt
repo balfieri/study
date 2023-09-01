@@ -54280,3 +54280,6 @@ lo sfavorito; la sfavorita
 to throw a party
 organizzare una festa
 
+to throw on the ground
+gettare per terra
+
