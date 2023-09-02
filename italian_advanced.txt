@@ -54348,3 +54348,22 @@ la bocchetta d'aria
 
 nozzle; spout; vent
 la bocchetta
+
+semi-weekly; twice a week
+semisettimanal
+
+semi-annual; twice a year
+semiannuale
+
+estate tax
+la tassa di successione
+
+exemption
+l'esenzione
+
+exempt from estate tax
+esente da tassa di successione
+
+exempt from paying taxes
+esente dal pagamento delle tasse
+
