@@ -1852,7 +1852,7 @@ la lampada
 wardrobe; closet
 l'armadio
 
-keyboard
+keyboard; keyboards (music)
 la tastiera
 
 blackboard
