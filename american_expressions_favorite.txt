@@ -3090,3 +3090,6 @@ il grande pezzo
 the difference between theory and practice is often greater in practice than in theory
 la differenza tra teoria e pratica è spesso maggiore nella pratica che nella teoria
 
+tempest in a teapot
+la tempesta in una teiera
+
