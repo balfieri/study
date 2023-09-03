@@ -54433,3 +54433,6 @@ la tavola; la pianta
 pasta dough
 l'impasto per la pasta
 
+belongings; personal possessions
+i beni personali
+
