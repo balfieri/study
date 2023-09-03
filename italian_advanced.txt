@@ -20675,7 +20675,7 @@ this Wednesday
 mercoledà prossimo
 
 postponed; suspended
-rimandato
+rimandato; posticipato
 
 to go back
 tornarsi indietro
@@ -33427,9 +33427,6 @@ l'apprendimento automatico; l'apprendimento macchina; il machine learning
 the world is passing me by
 il mondo mi sta passando accanto
 
-postponed
-posticipata
-
 oblivion
 il dimenticatoio; l'oblio
 
@@ -39448,7 +39445,7 @@ un piccolo miracolo
 nooks and crannies
 angoli nascosti; fessure e anfratti
 
-slot; crevice
+slot; crevice; gap
 la fessura; l'anfratto
 
 videocall
@@ -54373,3 +54370,59 @@ il disturbo da deficit di attenzione/iperattività
 mental disorder
 il disturbo mentale
 
+to let see; to show; to make see
+fare vedere
+
+to let know
+fare sapere
+
+ladies and gentlemen
+signore e signori
+
+to adjourn
+rimandare; sospendere
+
+adjourned
+rimandato; sospeso
+
+culprit
+il colpevole
+
+séance
+la seduta spiritica; la seduta
+
+to make (somebody) do (something)
+fare fare (qualcosa) a (qualcuno)
+
+accomplice
+il complice
+
+to drop the knife
+lasciare cadere il coltello
+
+vertigo
+le vertigini
+
+I am so glad you two had some laughs at my expense
+sono così contento che voi due vi siate divertiti a mie spese
+
+well, isn't that special? (sarcastic)
+beh, non è speciale? (sarcastico)
+
+hurray for you
+evviva per te
+
+sharp blade
+la lama affilata
+
+to act as a wedge
+fare da cuneo
+
+pick (guitar)
+il plettro
+
+guitar pick
+il plettro della chitarra
+
+entertaining
+divertente; intrattenente
