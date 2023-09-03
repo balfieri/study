@@ -54439,3 +54439,6 @@ i beni personali
 cheater
 il baro
 
+screenshot
+la schermata
+
