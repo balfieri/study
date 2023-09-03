@@ -4216,7 +4216,7 @@ spostare
 to get moved
 spostarsi
 
-to move (somewhere)
+to move (new residence, new city)
 trasferirsi
 
 relaxing
