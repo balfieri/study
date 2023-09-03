@@ -54430,3 +54430,6 @@ divertente; intrattenente
 board; plank
 la tavola; la pianta
 
+pasta dough
+l'impasto per la pasta
+
