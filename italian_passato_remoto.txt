@@ -659,3 +659,15 @@ costruimmo
 
 they built (remote past)
 costruirono
+
+I cooked (remote past)
+cossi
+
+she cooked (remote past)
+cosse
+
+we cooked (remote past)
+cuocemmo; cocemmo
+
+they cooked (remote past)
+cossero
