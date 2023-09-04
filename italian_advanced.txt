@@ -5629,7 +5629,7 @@ disinvolto
 portable; laptop
 portatile; portabile
 
-to detach; to tear off; to tear; to rip
+to detach; to tear off; to tear; to rip; to unplug
 staccare
 
 to kindle; to provoke; to cause; to arouse
@@ -54457,3 +54457,29 @@ la stela
 to plan on (doing something)
 pianificare di (fare qualcosa)
 
+unhooked; detached
+sganciato; staccato
+
+to unhook
+sganciare
+
+to have every right to be angry with
+avere ogni diritto di essere arrabbiato con
+
+I give up
+Mi arrendo
+
+at the same time
+al contempo
+
+make up your mind!
+deciditi!
+
+that's a good idea
+è una buona idea
+
+rogue (adjective)
+incontrollato; imprevedibile
+
+rogue (noun); scoundrel
+la canaglia; il furfante
