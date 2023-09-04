@@ -4516,8 +4516,8 @@ da qua a là
 for each
 per ciascuno
 
-zealous
-zelante
+zealous; fervent
+zelante; fervente
 
 zeal
 lo zelo
@@ -54507,4 +54507,10 @@ il lavapiatti; la lavapiatti
 
 dishwasher (machine)
 la lavastoviglie
+
+it's on me (paying); this one's on me
+pago io; questa è per me
+
+pliers; tongs
+le pinze
 
