@@ -54454,3 +54454,6 @@ fosco
 slab
 la stela
 
+to plan on (doing something)
+pianificare di (fare qualcosa)
+
