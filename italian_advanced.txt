@@ -54514,3 +54514,6 @@ pago io; questa è per me
 pliers; tongs
 le pinze
 
+numb (extremities)
+intorpidito
+
