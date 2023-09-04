@@ -54442,3 +54442,15 @@ il baro
 screenshot
 la schermata
 
+plaque (engraved)
+il cippo
+
+commemorative plaque
+il cippo commemorativo
+
+gloomy; dark
+fosco
+
+slab
+la stela
+
