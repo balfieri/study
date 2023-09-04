@@ -54490,3 +54490,21 @@ il portacandele
 dishware
 la stoviglia
 
+vacuum cleaner
+l'aspirapolvere
+
+paper cutter
+la tagliacarte
+
+snow blower
+la spazzaneve
+
+icebreaker
+il rompighiaccio
+
+dishwasher (person)
+il lavapiatti; la lavapiatti
+
+dishwasher (machine)
+la lavastoviglie
+
