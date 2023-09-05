@@ -54595,3 +54595,6 @@ il professore associato; la professoressa associata
 action film
 il film d'azione
 
+to leave out a lot of details
+tralasciare un sacco di dettagli
+
