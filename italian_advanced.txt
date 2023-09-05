@@ -6709,8 +6709,11 @@ la sella
 mudguard
 il parafango
 
-handlebars
+handlebar
 il manubrio
+
+handlebars
+i manubri
 
 pedals
 i pedali
