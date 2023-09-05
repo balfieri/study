@@ -24124,7 +24124,7 @@ avere la chiusura
 to wish to be able to go back and undo it
 voler poter tornare indietro e annullarlo
 
-to go back
+to go back; to come back
 tornare indietro
 
 what a waste
@@ -54552,3 +54552,18 @@ l'astronave stellare
 
 absent-minded
 sbadato
+
+to fly away from
+volare via da
+
+to go away from
+andare via da
+
+it was making me nervous
+mi stava mettendo ansia
+
+I was getting nervous about her safety
+stavo diventando nervoso per la sua sicurezza
+
+to come off
+venire via da
