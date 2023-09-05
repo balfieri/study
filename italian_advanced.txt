@@ -54544,3 +54544,11 @@ rinunce a serate con gli amici
 renunciation
 la rinuncia
 
+spaceship
+l'astronave
+
+starship
+l'astronave stellare
+
+absent-minded
+sbadato
