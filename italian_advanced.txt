@@ -54622,3 +54622,12 @@ non essere in grado di seguire le trame
 muntin
 il tramezzo
 
+professorship
+la professura
+
+associate professorship
+il professore associato
+
+none of his colleagues
+nessun suo collega
+
