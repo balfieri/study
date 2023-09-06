@@ -54690,3 +54690,7 @@ la farfalla; il nuoto a farfalla
 
 to run an errand
 fare una commissione; sbrigare un'impegno
+
+duty; obligation
+il dovere; l'obbligo
+
