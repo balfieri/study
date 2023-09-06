@@ -9889,9 +9889,6 @@ di primo piano
 spokesperson
 il portavoce
 
-summary
-il sommario
-
 good-for-nothing
 il buono a nulla
 
@@ -47737,7 +47734,7 @@ la committenza
 visceral
 viscerale
 
-indifference; disregard
+indifference; disregard; nonchalance
 la noncuranza
 
 fraught with problems; full of problems
@@ -52531,9 +52528,6 @@ nel peggiore dei casi
 solid food
 il cibo solido
 
-summary
-il summario
-
 dozen
 la dozzina
 
@@ -54637,3 +54631,20 @@ condurre una vita molto equilibrata
 unbeknownst to him; without his knowledge
 senza che lui lo sappia
 
+sharable
+condivisibile
+
+the ridicule
+il ridicolo
+
+mockery; derision; ridicule
+lo scherno; la derisione
+
+to double-major
+fare una doppia laurea
+
+he's about to find out
+sta per scoprirlo
+
+we're about to find out
+stiamo per scoprirlo
