@@ -2524,9 +2524,6 @@ il pellegrino
 caution
 la cautela
 
-appeared
-comparso
-
 convoluted
 convolto
 
@@ -25243,8 +25240,8 @@ la mala
 booklet; libretto
 il libretto
 
-appeared
-apparso
+appeared; showed up
+comparso; apparso
 
 similarity
 la somiglianza
