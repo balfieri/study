@@ -54655,3 +54655,6 @@ la creazione di parole; la lavorazione delle parole
 to wordsmith; to craft words; to work on words
 lavorare su parole; creare parole
 
+evergreen
+sempreverde
+
