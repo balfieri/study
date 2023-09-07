@@ -27049,7 +27049,7 @@ rimanere a bocca aperta
 playground
 il parco giochi
 
-raise; increase
+raise; increase; augmentation
 l'aumento
 
 freaked out
@@ -54756,4 +54756,19 @@ la musica country
 
 bluegrass music
 la musica bluegrass
+
+power adapter
+l'adattatore di corrente
+
+plastic surgery
+la chirurgia plastica
+
+nothing comes to mind
+non mi viene in mente niente
+
+stand; stall
+la bancarella
+
+to haggle
+contrattare; mercanteggiare
 
