@@ -41779,6 +41779,12 @@ fallico
 a lot of; lots of; gobs of
 un sacco di
 
+upstairs (adjective)
+al piano di sopra
+
+upstairs (noun)
+il piano di sopra
+
 to be upstairs
 essere al piano di sopra
 
@@ -54735,4 +54741,7 @@ senza tempo
 
 enduring
 duraturo; resistente
+
+guest bedroom
+la camera degli ospiti; la camera per gli ospiti
 

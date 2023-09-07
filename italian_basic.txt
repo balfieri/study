@@ -1897,9 +1897,6 @@ la lavanderia
 roof
 il tetto
 
-upstairs (noun)
-il piano di sopra
-
 sky
 il cielo
 
