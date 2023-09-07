@@ -31561,9 +31561,6 @@ il mondo sta finendo; il mondo sta per finire
 it feels like the world is ending; it seems like the end of the world
 sembra la fine del mondo
 
-out of spite
-per ripicca
-
 under (influence); in accordance with; by force of
 in forza di
 
@@ -50351,7 +50348,7 @@ tangible
 tangibile
 
 out of spite
-per cattiveria
+per dispetto; per ripicca; per cattiveria
 
 technological output
 l'output tecnologico
@@ -54693,4 +54690,40 @@ fare una commissione; sbrigare un'impegno
 
 duty; obligation
 il dovere; l'obbligo
+
+childhood home
+la casa d'infanzia
+
+it's meant to be inspiring
+è destinato ad ispirare
+
+out of necessity
+per necessità
+
+dog bowl
+la ciotola per cani
+
+cereal bowl
+la ciotola per cereali
+
+out of respect for
+per rispetto per
+
+out of concern for
+per preoccupazione per
+
+to compete with
+competere con
+
+in competition with
+in competizione con
+
+fierce competitors
+i concorrenti feroci
+
+in a joking way
+in modo scherzoso
+
+to visit (someone)
+visitare (qualcuno)
 
