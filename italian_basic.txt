@@ -442,10 +442,10 @@ il volo
 to fly
 volare
 
-entrance
+entrance; ingress
 l'ingresso
 
-exit
+exit; way out; egress
 l'uscita
 
 to enter; to go in
