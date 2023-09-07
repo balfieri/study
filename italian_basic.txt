@@ -5657,7 +5657,7 @@ k (name of letter)
 la kappa
 
 w (name of letter)
-la doppia vi; la doppia vu
+la doppia vu; la doppia vi
 
 x (name of letter)
 la ics
