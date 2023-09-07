@@ -33856,7 +33856,7 @@ la capolinea
 splendor
 lo splendore
 
-cheeky; impudent
+snarky; cheeky; impudent
 sfacciato
 
 in one's own way
@@ -54726,4 +54726,7 @@ in modo scherzoso
 
 to visit (someone)
 visitare (qualcuno)
+
+sarcasm
+il sarcasmo
 
