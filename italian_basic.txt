@@ -3472,7 +3472,7 @@ l'acqua
 croissant
 il cornetto
 
-meat
+meat; flesh
 la carne
 
 tuna

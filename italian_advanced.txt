@@ -12890,7 +12890,7 @@ demanding; picky; exacting
 esigente
 
 demanding; challenging
-impegnativo
+impegnativo; sfidante
 
 I'm in the middle of
 sono nel bel mezzo di
@@ -54771,4 +54771,10 @@ la bancarella
 
 to haggle; to deal; to negotiate
 contrattare; mercanteggiare
+
+memory foam mattress
+il materasso in schiuma di memoria
+
+to move something up (in time)
+spostare qualcosa avanti (nel tempo)
 
