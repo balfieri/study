@@ -36347,7 +36347,7 @@ to skip school; to play hooky
 scappare da scuola
 
 matchmaker
-l'intermediario di matrimoni; l'appaiatore; il cupido; il combinatore
+l'appaiatore; l'appaiatrice; il faccendiere; la faccendiere
 
 to bring near; to bring closer; to put closer
 avvicinare
@@ -54777,4 +54777,7 @@ il materasso in schiuma di memoria
 
 to move something up (in time)
 spostare qualcosa avanti (nel tempo)
+
+logorrhea
+la logorrea
 
