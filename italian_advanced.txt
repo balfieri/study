@@ -54866,7 +54866,14 @@ screensaver
 lo salvaschermo
 
 it was making me nervous
-mi mettava nervoso
+mi metteva nervoso
 
 mountain obscuration
 l'oscuramento della montagna; l'oscuramento montano
+
+low-pressure system
+il sistema di bassa pressione
+
+high-pressure system
+il sistema di alta pressione
+
