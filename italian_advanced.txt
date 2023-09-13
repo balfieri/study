@@ -54889,6 +54889,9 @@ ragrinare
 Munich
 Monaco di Baviera
 
+Bavaria
+la Baviera
+
 university recruiting
 il reclutamento universitario
 
@@ -54899,4 +54902,4 @@ to target-shoot
 sparare a piatello
 
 recoil; kickback
-rinculo
+il rinculo
