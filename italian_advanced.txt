@@ -15587,7 +15587,7 @@ to start from scratch
 ripartire da zero
 
 bookworm
-il mangialibri; il topo di biblioteca
+il mangialibri; il topo di biblioteca; il bibliomane
 
 to miss the point
 non capire
@@ -55032,3 +55032,7 @@ conflittuale
 
 versatile
 versatile
+
+versatility
+la versatilità
+
