@@ -99,9 +99,6 @@ pronti via; iniziare (qualcosa); cominciare a fare qualcosa
 in the ballpark
 abbastanza
 
-to make the cut
-passare alla fase successiva
-
 above my pay grade
 sopra del mio livello
 
@@ -2335,7 +2332,7 @@ in the right ballpark
 approssimativamente corretto; vicino alla risposta giusta
 
 to make the cut
-essere selezionati; farcela
+passare alla fase successiva; essere selezionati; farcela
 
 to move the goalposts
 cambiare le regole o gli obiettivi per ingannare un avversario
@@ -3132,3 +3129,5 @@ le manette d'oro
 it's not in the cards
 non è nelle carte
 
+to give a shout-out
+fare un saluto; dare un riconoscimento
