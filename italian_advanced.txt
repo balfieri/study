@@ -54999,3 +54999,7 @@ arrivare con 15 minuti di ritardo
 
 to arrive 15 minutes early
 arrivare con 15 minuti di anticipo
+
+to fixate on
+fissarsi su
+
