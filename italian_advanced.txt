@@ -11200,7 +11200,7 @@ fare i conti
 to rig; to equip
 attrezzare
 
-car
+car (train)
 la vettura
 
 to scan
@@ -12847,7 +12847,7 @@ sfamare
 militia squad
 li squadrismo
 
-bunk bed
+bunk bed; bunk
 la cuccetta
 
 truthful; honest
@@ -53605,7 +53605,7 @@ faraginoso
 muddled; jumbled; tangled up
 ingarbagliato
 
-interlocking
+interlocking; joint
 incastro
 
 up to the task; at the height
@@ -54916,3 +54916,86 @@ quotarsi; essere quotato
 to list oneself on the stock exchange
 quotarsi in borsa
 
+which is true
+il che è vero
+
+reshuffle
+il rimpasto
+
+to incorporate
+incamerare
+
+journey
+la percorrenza
+
+pro-European
+europeista
+
+vertiginously
+vertiginosamente
+
+cross-border
+transfrontaliere
+
+small table
+il tavolinetto
+
+far-sighted
+lungimirante
+
+to give it refresh; to freshen it up
+darci una ravvivata
+
+marshy
+paludoso
+
+Nigerian
+nigeriano
+
+coined
+coniato
+
+beech
+il fagico
+
+consanguineous
+consanguineo
+
+to fiddle
+smanettare
+
+to manifest
+palesare
+
+to harass
+assillare
+
+sensor
+il sensore
+
+motion sensor
+il sensore di movimento
+
+motion detector
+il rilevatore di movimento
+
+rack
+la rastrelliera
+
+front rack
+il portapacchi anteriore
+
+rear rack
+il portapacchi posteriore
+
+to be busy with family stuff
+essere occupato con cose di famiglia
+
+family stuff
+le cose di famiglia
+
+to arrive 15 minutes late
+arrivare con 15 minuti di ritardo
+
+to arrive 15 minutes early
+arrivare con 15 minuti di anticipo
