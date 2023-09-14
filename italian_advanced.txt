@@ -4408,7 +4408,7 @@ appieno
 combination; match
 l'abbinamento
 
-as
+as; since; in as much as
 in quanto
 
 excavation; dig
@@ -55023,3 +55023,10 @@ prendere in prestito un libro
 
 indefinite; undefined
 indefinito; non definito
+
+to incorporate; to include
+inglobare
+
+conflictual
+conflittuale
+
