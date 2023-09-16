@@ -7591,7 +7591,7 @@ l'imbroglio
 to cheat (someone out of something); to fool
 ingannare; truffare
 
-to postpone; to delay
+to postpone; to delay; to hold off on
 rimandare; rinviare; posporre
 
 handful; fistful
@@ -55320,4 +55320,7 @@ il promotore; la promotrice
 
 expansionist
 espansionista; espansionistico
+
+to minimize; to downplay; to sandbag
+minimizzare; sminuire
 
