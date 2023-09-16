@@ -55222,3 +55222,5 @@ seminudo
 to dissect
 disettare
 
+flash drive
+la chiavetta USB
