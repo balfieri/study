@@ -12568,7 +12568,7 @@ sbalorditivo
 rich in culture
 ricco di cultura
 
-majestic
+majestic; grand
 maestoso
 
 police station; police headquarters
@@ -55179,4 +55179,46 @@ prodigioso
 
 a hit (success)
 un successo
+
+tram driver
+l'autoferrotranviere
+
+customs duties
+i dazi
+
+lagoon
+la laguna
+
+lagoon (adjective)
+lagunare
+
+optoelectronic
+optoelettronico
+
+silicon photonics
+la fotonica del silicio
+
+unprepared
+impreparato
+
+photonic chip
+il chip fotonico
+
+Taiwanese
+taiwanese
+
+silicon carbide
+in carburo di silicio
+
+foresight
+la lungimiranza
+
+available; reachable; findable; contactable
+reperibile
+
+half-naked; seminude
+seminudo
+
+to dissect
+disettare
 
