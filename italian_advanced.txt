@@ -5509,7 +5509,7 @@ il vangelo
 to reverse; to invert
 invertire
 
-to overturn; to capsize; to turn over; to reverse
+to overturn; to capsize; to turn over; to reverse; to tip over
 capovolgere; ribaltare
 
 rosary; rosary beads
@@ -46906,9 +46906,6 @@ ascoltabile
 chatter
 la civitteria
 
-to tip over
-ribaltare
-
 tipped overe
 ribaltato
 
@@ -55302,3 +55299,25 @@ spruzzato
 
 leavening
 la levatura
+
+sapphire
+lo zaffiro
+
+back shop
+la retrobottega
+
+disunited
+disunito
+
+to regain; to recover
+riguadagnare
+
+annihilation
+l'annientamento
+
+promoter
+il promotore; la promotrice
+
+expansionist
+espansionista; espansionistico
+
