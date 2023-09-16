@@ -21242,7 +21242,7 @@ prison; jail
 il prigione; il carcere
 
 behavior; conduct
-il comportamento
+il comportamento; il portamento
 
 paragraph
 il paragrafo; il capoverso
@@ -55291,3 +55291,14 @@ appesantito; sopraffatto
 anticipatory
 anticipatorio
 
+overcoat
+il giaccone
+
+to shrug one's shoulders
+stringersi nelle spalle
+
+sprayed
+spruzzato
+
+leavening
+la levatura
