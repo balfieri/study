@@ -571,9 +571,6 @@ il pachetto
 to require
 occorrere
 
-challenge
-la sfida
-
 route (air and maritime navigation)
 la rotta; la tratta
 
@@ -55291,4 +55288,6 @@ dilungarsi nelle spiegazioni
 weighed down; burdened
 appesantito; sopraffatto
 
+anticipatory
+anticipatorio
 
