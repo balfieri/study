@@ -51562,7 +51562,7 @@ la villetta a schiera
 to take the initiative
 prendere iniziativa
 
-chain effect
+chain effect; chain reaction
 l'effetto a catena
 
 to swim laps
@@ -54931,7 +54931,7 @@ la percorrenza
 pro-European
 europeista
 
-vertiginously
+dizzyingly
 vertiginosamente
 
 cross-border
@@ -55233,4 +55233,22 @@ il groviglio
 
 battery charger
 la caricabatteria
+
+USB-C cable
+il cavetto USB-C
+
+political training
+la formazione politica
+
+David vs. Goliath
+David contro Golia
+
+laborer
+il laburista
+
+plug (electrical)
+lo spinotto
+
+co-founder
+il cofondatore
 
