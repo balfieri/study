@@ -20014,9 +20014,6 @@ imperiale
 crime; felony; offence
 il delitto
 
-debtor
-il debitore
-
 to excercise; to practice; to drill
 esercitare
 
@@ -55386,3 +55383,16 @@ vespizzare
 
 converter
 il convertitore
+
+sugar-free
+senza zucchero
+
+there's nothing available
+non c'è nulla disponibile
+
+lender
+il prestatore
+
+borrower; debtor
+il debitore
+
