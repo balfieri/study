@@ -3289,6 +3289,9 @@ sveglio
 suitcase
 la valigia
 
+luggage (general)
+il bagaglio
+
 hairdryer
 il fon; l'asciugacapelli
 
