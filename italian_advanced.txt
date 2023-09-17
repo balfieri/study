@@ -34373,7 +34373,7 @@ visually impaired
 nonvedente
 
 non-assertion
-nonaffermazione
+l'nonaffermazione
 
 non-commissioned
 noncommissionato
@@ -47422,7 +47422,7 @@ il campo sportivo
 numerous; large
 nutrito
 
-neighboring; adjacent
+neighboring; adjacent; bordering
 limitrofo
 
 to rent out
@@ -55462,3 +55462,17 @@ sepulcroso
 to bring into play
 ritirare in ballo
 
+awareness; knowledge
+la contezza
+
+warning; admonition
+l'ammonimento
+
+to exacerbate; to make harsher
+inasprire
+
+otherism; elsewhereism
+il benaltrismo
+
+bag; pouch; sac
+la sacca
