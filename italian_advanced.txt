@@ -55504,3 +55504,9 @@ avvantaggiare
 biorefinery
 la bioraffineria
 
+biofuel
+il biocarburante
+
+reactor
+il reattore
+
