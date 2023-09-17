@@ -3964,8 +3964,11 @@ in cima di
 manual laborer
 l’operaio; l'operaia
 
-teacher
-l’insegnante; il docente
+teacher (general)
+l’insegnante
+
+teacher (higher education)
+il docente; la docente
 
 nurse
 l’infermiere; l’infermiera

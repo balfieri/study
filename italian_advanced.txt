@@ -26968,8 +26968,8 @@ l'obbedienza
 leader
 il duce
 
-shepherd
-il pastore
+shepherd; pastor
+il pastore; la pastora
 
 researcher
 il ricercatore
@@ -55341,4 +55341,37 @@ accaparrare; accaparrarsi
 
 income; revenue; intake
 l'introito
+
+starchy
+farinaceo
+
+homemade
+caserecco
+
+starchy foods
+gli alimenti amidacei
+
+backside
+la detanalità
+
+completely full
+zeppo
+
+scattered
+sperticato
+
+fertility rate
+il tasso di fecondità
+
+to allocate
+allocare; stanziare; assegnare
+
+to praise
+elogiare
+
+to come up to (somebody); to go up to (somebody); to get close to (somebody)
+avvicinarsi a (qualcuno)
+
+to think nothing of it
+non pensarci due volte
 
