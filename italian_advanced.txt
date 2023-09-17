@@ -55381,3 +55381,6 @@ il mullet; il caspuglio
 mullet (fish)
 il muggine
 
+to vespa-ize
+vespizzare
+
