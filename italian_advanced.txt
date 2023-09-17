@@ -55393,3 +55393,9 @@ il prestatore
 borrower; debtor
 il debitore
 
+liability insurance
+l'assicurazione RC (responsabilità civile)
+
+civil liability
+la responsabilità civile
+
