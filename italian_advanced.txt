@@ -34135,9 +34135,6 @@ infrarosso
 infrasound
 l'infrasuono
 
-timeless
-intramontabile
-
 bad mood
 il malumore
 
@@ -55404,4 +55401,64 @@ sterminato
 
 sense of smell
 l'olfatto
+
+ungraspable
+inafferrabile
+
+projectuality
+la progettualità
+
+herbal tea
+la tisana
+
+Nobel Prize
+il Premio Nobel; il Nobel
+
+assayer
+il saggiatore
+
+restart
+la ripartenza
+
+on the subject
+in merito
+
+if I'm not mistaken
+se non mi sbaglio
+
+from; starting from
+a partire di
+
+wretched
+sciagurato
+
+heartwarming
+scaldacuore
+
+in a box set
+in cofanetto
+
+set (adjective)
+incastonato
+
+timeless; endless
+intramontabile
+
+stony
+pietroso
+
+gloomy
+lugubre
+
+mourning
+luttuoso
+
+tomb
+il sepulcro
+
+sepulchral
+sepulcroso
+
+to bring into play
+ritirare in ballo
 
