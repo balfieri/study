@@ -23752,8 +23752,11 @@ il colonnello
 subsistence
 la sussistenza
 
-coal; charcoal
-il carbone; il carboncino
+coal
+il carbone
+
+charcoal
+la carbonella; il carboncino
 
 required; mandatory; obligatory; compulsory
 obbligatorio
@@ -33646,7 +33649,7 @@ l'accondiscendenza
 stand-out; distinct
 spiccato
 
-posterità
+posterity
 la posterità; i posteri
 
 breakthrough
@@ -37529,7 +37532,7 @@ to defect; to desert; to leave a group or organization
 defezionare
 
 recruiter
-il reclutatore
+il reclutatore; la reclutatrice
 
 aircraft
 il velivolo
@@ -41167,7 +41170,7 @@ cosa c'è che non va in (qualcosa)?
 what's so wrong about (something)?
 cosa c'è di così sbagliato in (qualcosa)?
 
-why is it so hard to (fare qualcosa)?
+why is it so hard to (do something)?
 perché è così difficile (fare qualcosa)?
 
 why is it so hard to do the right thing?
@@ -53494,9 +53497,6 @@ senza sbattimenti
 to scrape off
 scrostare
 
-charcoal
-la carbonella
-
 ventilated
 ventilato
 
@@ -55509,3 +55509,10 @@ l'attrezzatura da caccia
 
 equipment; gear
 l'attrezzatura
+
+convoy
+il convoglio
+
+moving walkway
+il tapis roulant; il marciapiede mobile
+
