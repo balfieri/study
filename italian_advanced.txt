@@ -1117,9 +1117,6 @@ la sacca da golf
 to conjugate
 coniugere
 
-equipment
-l'attrezzatura
-
 outside
 al di fuori
 
@@ -29897,7 +29894,7 @@ exterior
 esteriore
 
 ammunition
-la munizione
+la munizione; l'ammunitamento
 
 pseudo
 pseudo
@@ -41548,9 +41545,6 @@ avere l'un l'altro
 to get (someone) out of one's head
 togliere (qualcuno) dalla testa
 
-to think about (somebody)
-pensare a (qualcuno)
-
 to mean well
 avere buone intenzioni
 
@@ -44082,9 +44076,6 @@ la ricetta segreta
 
 jury trial; trial by jury
 il processo con giuria
-
-ammunition
-l'ammunitamento
 
 to appreciate good irony
 apprezzare una buona ironia
@@ -55510,3 +55501,11 @@ il biocarburante
 reactor
 il reattore
 
+sporting goods store
+il negozio di articoli sportivi
+
+hunting gear
+l'attrezzatura da caccia
+
+equipment; gear
+l'attrezzatura
