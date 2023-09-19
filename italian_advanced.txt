@@ -54128,7 +54128,7 @@ kitchen cabinet
 il mobile da cucina
 
 concert film
-il film-concerto
+il film concerto
 
 to laugh at my expense
 ridere a mie spese
@@ -55566,3 +55566,6 @@ la catena di ristoranti
 
 big box store; large-scale retail store
 il grande magazzino; il grande negozio al dettaglio
+
+to head without delay to
+dirigere senza indugio a
