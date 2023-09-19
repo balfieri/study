@@ -25268,7 +25268,7 @@ farmer; agriculturist; agrarian
 l'agricoltore
 
 abundance
-l'abbondanza
+l'abbondanza; la dovizia
 
 participated
 partecipato
@@ -37793,7 +37793,7 @@ spare; replacement
 di ricambio
 
 CEO
-l'amministratore delegato
+l'amministratore delegato; l'ad
 
 command line
 la riga di comando
