@@ -11833,7 +11833,7 @@ l'impostatore
 imposter syndrome
 la sindrome dell'impostatore
 
-reluctant
+reluctant; reluctantly
 riluttante
 
 recalcitrant
@@ -55527,4 +55527,13 @@ l'enorme quantità; il grande numero
 
 scam video
 il video truffa
+
+to reluctantly agree
+accettare controvoglia
+
+alcoholic drink
+la bevanda alcolica
+
+to keep company
+fare compagnia; tenere compagnia
 
