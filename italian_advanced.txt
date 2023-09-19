@@ -9656,7 +9656,7 @@ I don't feel like it
 non me la sento; non ho voglia; non mi va; non ne ho voglia
 
 on a positive note
-con una nota positiva
+su una nota positiva; con una nota positiva
 
 oxymoron
 l'ossimoro
@@ -55561,3 +55561,8 @@ il manometro per la pressione degli pneumatici
 pressure gauge
 il manometro
 
+restaurant chain; chain of restaurants
+la catena di ristoranti
+
+big box store; large-scale retail store
+il grande magazzino; il grande negozio al dettaglio
