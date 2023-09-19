@@ -55608,3 +55608,7 @@ la sezione ritmica
 
 climb; ascent
 la scalata; l'ascesa
+
+bitten apple
+la mela morsicata
+
