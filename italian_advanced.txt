@@ -20764,7 +20764,7 @@ serviti pure
 help yourselves
 servitevi pure
 
-to do without
+to do without; to go without
 fare di meno
 
 rounded; roundish
@@ -55545,4 +55545,19 @@ tenere la conferenza principale
 
 nearby; in the vicinity
 nelle vicinanze
+
+to mumble something under one's breath
+momorare qualcosa sotto voce
+
+rudimentary
+rudimentale
+
+tire pressure
+la pressione degli pneumatici
+
+tire pressure gauge
+il manometro per la pressione degli pneumatici
+
+pressure gauge
+il manometro
 
