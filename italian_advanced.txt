@@ -55732,3 +55732,6 @@ la colata
 yielding
 il cedimento
 
+to parameterize
+parametrare
+
