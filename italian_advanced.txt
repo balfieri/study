@@ -42673,9 +42673,6 @@ il giocatore più prezioso; MVP
 camper (person)
 il campeggiatore
 
-camper (vehicle)
-il camper
-
 most valuable camper
 il campeggiatore più prezioso
 
@@ -46575,9 +46572,6 @@ la traversata; l'attraversamento
 
 tutor; guardian
 il tutore; la tutrice; il guardiano
-
-caravan
-la roulotte
 
 riddled
 crivellato
@@ -55579,8 +55573,11 @@ la sorellanza
 sogno del cassetto
 sogno realizzato; sogno tanto atteso
 
-RV; recreational vehicle
-l'RV; il veicolo ricreativo
+caravan; camper (towed)
+il caravan; la roulotte
+
+RV; recreational vehicle (all-in-one)
+il camper; l'RV; il veicolo ricreativo
 
 we basically laugh the whole time
 ridiamo sostanzialmente tutto il tempo
@@ -55621,7 +55618,7 @@ avere pretese eccessive
 leopard cat
 il gattopardo
 
-always on; exclusively on; still on; once again on
+always on; once again on; still on; exclusively on
 sempre su
 
 release date
@@ -55825,3 +55822,5 @@ la sala della colazione
 lunch room
 la sala del pranzo
 
+to take a breath
+prendere un fiato
