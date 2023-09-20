@@ -55735,3 +55735,5 @@ il cedimento
 to parameterize
 parametrare
 
+for informational purposes; for knowledge purposes
+a scopo informativo; a scopo conoscitivo
