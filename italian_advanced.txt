@@ -22837,9 +22837,6 @@ costoro
 establishment
 lo stabilimento
 
-rarely
-di rado
-
 obliged; obligated
 obbligato
 
@@ -55620,3 +55617,7 @@ inorridire
 
 rarely; seldom
 di rado
+
+video camera
+la videocamera
+
