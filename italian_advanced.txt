@@ -54629,7 +54629,7 @@ to wordsmith; to craft words; to work on words
 lavorare su parole; creare parole
 
 evergreen
-sempreverde
+sempreverde; sempre verde
 
 knowing you
 conoscendoti
@@ -55627,9 +55627,23 @@ avere pretese eccessive
 leopard cat
 il gattopardo
 
-always on; exclusively on
+always on; exclusively on; still on; once again on
 sempre su
 
 release date
 la data d'uscita
 
+as usual
+come sempre
+
+it's always like this now
+ormai è sempre così
+
+less and less
+sempre meno
+
+better and better
+sempre meglio
+
+still relevant
+sempre attuale
