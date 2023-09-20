@@ -27922,10 +27922,10 @@ la tentazione
 orchestra
 l'orchestra
 
-renewed; revamped
+renewed; renovated; revamped
 rinnovato
 
-renovated
+refurbished
 ristrutturato
 
 plebe
@@ -55827,3 +55827,4 @@ prendere un fiato
 
 helpful
 aiutevole
+
