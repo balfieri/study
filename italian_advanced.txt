@@ -39442,7 +39442,7 @@ svincolarsi
 end-to-end encryption
 la crittografia end-to-end
 
-investigation
+investigation; inquiry
 l'istruttoria
 
 Manichean
