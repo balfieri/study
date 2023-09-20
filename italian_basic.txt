@@ -7454,7 +7454,7 @@ offensive
 offensivo
 
 courteous; polite; kind
-cortese
+cortese; garbato
 
 sold
 venduto

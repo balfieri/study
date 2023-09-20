@@ -391,7 +391,7 @@ la cuffia
 to wander
 vagare
 
-to pull over
+to approach; to dock; to pull over
 accostare
 
 to stem
@@ -1340,7 +1340,7 @@ ire; wrath; extreme anger
 l'ira
 
 greed; avarice
-l'avarizia
+l'avarizia; l'avidità
 
 oasis
 l'oasi
@@ -12260,7 +12260,7 @@ to spice
 speziare
 
 axe; cleaver
-la mannaia
+la mannaia; l'accetta
 
 followers
 i seguaci
@@ -14456,7 +14456,7 @@ to sculpt; to carve
 scolpire
 
 ditch; trench; moat
-il fosso
+il fosso; il fossato
 
 Venus
 Venere
@@ -30685,7 +30685,7 @@ l'applauso
 cortex
 la corteccia
 
-parabola
+parabola; parable
 la parabola
 
 designation
@@ -33042,9 +33042,6 @@ attempato
 
 quack; huckster; hustler
 l'imbonitore
-
-to take sides; to align
-schierarsi
 
 gimmick
 il trucco; l'espediente; lo stratagemma
@@ -55647,3 +55644,91 @@ sempre meglio
 
 still relevant
 sempre attuale
+
+multiplanetary
+multiplanetario
+
+Mars
+Marte
+
+established; settled
+insediato
+
+single-engine
+monomotore
+
+gasoline can; can of gasoline
+la tanica di benzina
+
+adrenaline
+l'adrenalina
+
+bloodbath
+il bagno di sangue
+
+antithetical
+antitetico
+
+cynicism
+il cinismo
+
+antipathy
+l'antipatia
+
+ostentatious; showy
+ostentato
+
+to take sides; to align oneself
+schierarsi
+
+rich man; wealthy man
+il riccone
+
+to spoil; to damage; to break
+guastare
+
+all-encompassing
+omnicomprensivo
+
+magnate
+il magnate
+
+to desist
+desistere
+
+management style
+lo stile manageriale
+
+dense cross-section
+lo spaccato denso
+
+meritocracy
+la meritocrazia
+
+to dislocate 
+dislocare
+
+to relocate
+rilocare
+
+scourge
+il flagello
+
+self-satisfaction; self-complacency
+l'autocompiacimento
+
+womanizer; ladies' man
+il donnaiolo
+
+to reverberate
+riverberare
+
+to get pregnant; to impregnate
+mettere incinta; impregnare
+
+casting; pouring
+la colata
+
+yielding
+il cedimento
+
