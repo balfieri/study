@@ -55768,8 +55768,11 @@ la duchessa
 carpenter
 il carpentiere; la carpentiera
 
-half-brother
+half-brother; stepbrother
 il fratellastro
+
+half-sister; stepsister
+la sorellastra
 
 since childhood
 fin da piccolo; fin da piccola
