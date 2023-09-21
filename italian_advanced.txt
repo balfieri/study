@@ -55567,9 +55567,6 @@ la corista; il corista
 sorority; sisterhood
 la sorellanza
 
-sogno del cassetto
-sogno realizzato; sogno tanto atteso
-
 caravan; camper (towed)
 il caravan; la roulotte
 
@@ -55879,3 +55876,5 @@ il chili con carne
 as many as you can carry
 quanti ne puoi portare
 
+roller
+il rullo
