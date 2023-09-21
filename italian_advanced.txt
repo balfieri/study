@@ -55859,7 +55859,7 @@ to hold each others' hands
 tenersi per mano
 
 multi-point
-multipunto
+multi-punto; multipunto
 
 state inspection
 l'ispezione statale
