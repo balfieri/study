@@ -21911,7 +21911,7 @@ classification
 la classificazione
 
 colony
-colonia
+la colonia
 
 symptom
 il sintomo
@@ -38563,7 +38563,7 @@ da un estremo all'altro
 to show up in person
 presentarsi di persona
 
-to make up (after an argument)
+to make up (after an argument); to mend fences
 riappacificarsi
 
 no stress
@@ -55893,3 +55893,10 @@ palpare
 
 groper
 il palpatore
+
+acetaminophen
+il paracetamolo
+
+to make amends
+fare ammenda
+
