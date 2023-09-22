@@ -55909,3 +55909,6 @@ il kit di pronto soccorso
 dead on arrival
 morto all'arrivo
 
+telemarketer
+il televenditore
+

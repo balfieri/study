@@ -7858,3 +7858,9 @@ scendere dal treno
 challenge
 la sfida
 
+I'm cold
+ho freddo
+
+I'm freezing
+sto congelando
+
