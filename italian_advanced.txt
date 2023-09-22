@@ -10757,7 +10757,7 @@ succession
 il susseguirsi
 
 quart
-la quarta
+il quarto
 
 pint
 la pinta
@@ -55897,9 +55897,12 @@ il palpatore
 acetaminophen
 l'acetaminofene; il paracetamolo
 
-ibuprofen
-l'ibuprofene
-
 to make amends
 fare ammenda
+
+first aid
+il primo soccorso
+
+first aid kit
+il kit di pronto soccorso
 
