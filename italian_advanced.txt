@@ -55912,3 +55912,6 @@ morto all'arrivo
 telemarketer
 il televenditore
 
+the stock market is down
+la borsa è in calo
+
