@@ -55906,3 +55906,6 @@ il primo soccorso
 first aid kit
 il kit di pronto soccorso
 
+dead on arrival
+morto all'arrivo
+
