@@ -13156,9 +13156,6 @@ la pozzanghera
 puppy; kitten; small animal
 il cucciolo
 
-appetizer
-lo stuzzichino
-
 to gossip
 spettegolare
 
@@ -27004,9 +27001,6 @@ socievole
 do-it-yourself
 fai da te; fai-da-te
 
-shelf
-lo scaffalo
-
 workbench
 il banco da lavoro; il banco di lavoro
 
@@ -35825,7 +35819,7 @@ double espresso
 il doppio espresso
 
 to pick one's nose in public
-mettersi il dito nel naso in pubblico; pulirsi il naso in pubblico
+ficcarsi il dito nel naso in pubblico; pulirsi il naso in pubblico
 
 he doesn't pay attention when others are speaking
 lui non presta attenzione quando gli altri parlano
@@ -54200,7 +54194,7 @@ to get reacquainted with
 riprendere conoscenza con; riavvicinarsi a
 
 to pick one's nose
-mettere le dita nel naso; ficcare il dito nel naso; scaccolarsi
+ficcarsi il dito nel naso; mettere il dito nel naso; scaccolarsi
 
 to scratch one's nose; to pick the outside of one's nose
 grattarsi il naso
@@ -55947,4 +55941,13 @@ che paura
 
 this is why
 questo è il motivo per cui
+
+perceived temperature
+la temperatura percepita
+
+radiator (heater)
+il calorifero
+
+radiator (car)
+il radiatore
 
