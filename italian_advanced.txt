@@ -10219,7 +10219,7 @@ la leggera angolazione
 we'll see how long it lasts
 vedremo quanto durerà
 
-die (metal); process
+die (metal); process; drawplate; ordeal
 la trafila
 
 fertilizer
@@ -34162,9 +34162,6 @@ il semianalfabeta; l'esmianalfabeta
 semi-permanent
 semipermanente
 
-to tower over
-sovrastare
-
 to subscribe
 sottoscrivere
 
@@ -47501,7 +47498,7 @@ I think this is the one; I think this is it
 penso che questo sia quello
 
 to nest
-nidificare
+annidare; nidificare
 
 I am more experienced with
 sono più esperto con
@@ -55965,3 +55962,33 @@ il sorpasso
 
 bit part
 la piccola parte
+
+toilette 
+la toeletta 
+
+dressing table
+il tavolo da trucco
+
+mobile scaffold
+il trabatello mobile
+
+dusting
+la spolveratura
+
+settled; established
+assestato
+
+scrutinized
+scrutato
+
+skylight
+lucernario
+
+to tower over; to overshadow
+sovrastare
+
+buttress
+il contrafforte
+
+immense
+immane
