@@ -56040,3 +56040,7 @@ il sedere; il posteriore
 
 language journey
 il viaggio linguistico
+
+favorable wind
+il vento favorevole
+
