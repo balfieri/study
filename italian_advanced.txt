@@ -54178,7 +54178,7 @@ il piacere per gli occhi
 to give a hint
 dare un indizio
 
-dark person
+dark person (attitude)
 la persona oscura
 
 the mother is struggling to support her family
@@ -56061,3 +56061,7 @@ buono a sentire
 
 to threaten to
 minacciare di
+
+dark sense of humor
+il senso dell'umorismo oscuro
+
