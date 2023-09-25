@@ -38473,7 +38473,10 @@ la costola
 ultralight
 ultraleggero
 
-mugged
+to mug
+rapinare; aggredire
+
+mugged; snatched
 scippato
 
 feverish negotiations
@@ -51901,7 +51904,7 @@ inspiegabilmente
 loafing; idleness
 il boseggio; l'ozio; l'inattività
 
-to rob; to mug
+to rob
 rapinare
 
 tugboat; tug
@@ -56065,3 +56068,5 @@ minacciare di
 dark sense of humor
 il senso dell'umorismo oscuro
 
+robbed
+rapinato
