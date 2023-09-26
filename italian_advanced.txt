@@ -56266,3 +56266,11 @@ pensieroso; riflessivo
 I have to watch it again
 devo guardarlo di nuovo
 
+mentor
+il mentore
+
+father figure
+la figura paterna
+
+mother figure
+la figura materna
