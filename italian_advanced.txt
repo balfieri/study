@@ -56245,3 +56245,6 @@ fare contatto visivo
 to drop a bomb
 lasciare cadere una bomba
 
+the next person in line
+la prossima persona in fila
+
