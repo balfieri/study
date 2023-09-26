@@ -6286,7 +6286,7 @@ la coglienza
 to sensitize; to awaken
 sensibilizzare
 
-event (macro); matter; affair
+event (one in a series); matter; affair
 la vicenda
 
 glimpse; spot
@@ -9802,7 +9802,7 @@ il masso
 rather; somewhat; pretty
 alquanto
 
-event (micro); occurrence; happening
+event (singular, significant); occurrence; happening
 l'avvenimento
 
 partner (business); associate
@@ -56154,3 +56154,30 @@ la capacità di mutuo
 
 why are you so mean to me?
 perché sei così cattivo con me?
+
+it makes her feel
+la fa sentire
+
+it makes me feel
+mi fa sentire
+
+prednisone
+il prednisone
+
+to reduce the dosage
+ridurre il dosaggio
+
+runner (athletic)
+il corridore; la corridora
+
+to stun; to daze
+stordire; abbagliare
+
+light-headed
+stordito; stunned; dazed
+
+I would remain
+rimarrei
+
+it has to get better from here
+deve migliorare da qui
