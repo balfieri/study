@@ -56280,3 +56280,10 @@ mi dispiace disturbarti
 
 ironic; ironical (person)
 ironico
+
+he knows what he's doing
+sa cosa sta facendo
+
+he knew what he was doing
+sapeva cosa stava facendo
+
