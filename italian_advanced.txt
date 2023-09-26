@@ -45070,7 +45070,7 @@ balbuziente
 to reverberate
 ripercuotere
 
-hidden
+concealed; hidden
 celato
 
 astonished
@@ -56223,3 +56223,4 @@ l'arma nascosta; l'arma celata
 
 concealed carry permit
 il permesso per porto occulto
+
