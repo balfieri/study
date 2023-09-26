@@ -16763,7 +16763,7 @@ promoted product; featured product; showcased project
 il prodotto in promozione
 
 projectionist
-l'addetto alla proiezione
+il proiezionista; l'addetto alla proiezione
 
 insider
 l'addetto ai lavori
@@ -20847,9 +20847,6 @@ il commandante
 
 to conserve
 conservare
-
-bourgeoisie; middle class
-la borchesia
 
 described
 descritto
@@ -50317,8 +50314,8 @@ per dispetto; per ripicca; per cattiveria
 technological output
 l'output tecnologico
 
-bourgeoisie
-la borghesia
+bourgeoisie; middle class
+la borghesia; la class media
 
 ruralization
 la ruralizzazione
