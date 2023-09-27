@@ -7864,3 +7864,8 @@ ho freddo
 I'm freezing
 sto congelando
 
+to try to (for the first time, uncertain result)
+provare a
+
+to try to (persistently, with a certain result in mind)
+cercare di

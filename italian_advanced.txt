@@ -7729,7 +7729,7 @@ il tagliaerba a spinta
 supporter
 il sostenitore
 
-to raise; to lift
+to raise; to lift; to relieve (duties)
 sollevare
 
 crab grass
@@ -10656,9 +10656,6 @@ il peperoncino tritato; il peperoncino rosso tritato
 
 glide path
 il sentiero di discesa
-
-to alleviate
-alleviare
 
 thoroughbred
 purosangue
@@ -56286,4 +56283,16 @@ sa cosa sta facendo
 
 he knew what he was doing
 sapeva cosa stava facendo
+
+to lose one's cool
+perdere la propria calma
+
+people behind me
+le persone dietro di me
+
+warlike; bellicose
+bellico
+
+to relieve; to alleviate
+alleviare
 
