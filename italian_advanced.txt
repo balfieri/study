@@ -28748,7 +28748,7 @@ to disappear
 scomparire
 
 regulated
-regolato
+regolato; regolamentato
 
 specialist
 lo specialista
