@@ -56326,3 +56326,6 @@ insuperabile
 4-stroke engine
 il motore a quattro tempi
 
+declination; declension
+la declinazione
+
