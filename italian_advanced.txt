@@ -56365,5 +56365,5 @@ l'annata
 repository
 il repository
 
-cricket
+cricket (insect, sport)
 il grillo
