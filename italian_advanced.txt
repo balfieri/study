@@ -56367,3 +56367,7 @@ il repository
 
 cricket (insect, sport)
 il grillo
+
+detector
+il rilevatore
+
