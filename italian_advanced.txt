@@ -2341,8 +2341,8 @@ musone; burbero; bisbetico
 out there
 là fuori; lì fuori
 
-thorough
-accurato; completo; minuzioso
+thorough; meticulous
+meticoloso; accurato; completo; minuzioso
 
 to get out of control
 sfuggire al controllo
@@ -56343,3 +56343,18 @@ l'antistaminico
 
 to injure oneself; to hurt oneself
 farsi male
+
+classic look
+il look classico
+
+to review endlessly
+rivedere all'infinito
+
+to restore a vintage Vespa
+restaurare una Vespa d'epoca
+
+uninterested; unenthusiastic
+svogliato
+
+to lose interest; to lose enthusiasm
+svogliarsi
