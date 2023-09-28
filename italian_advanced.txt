@@ -10784,7 +10784,7 @@ tell me a little about yourself
 dimmi un po' di te; raccontami qualcosa di te
 
 acquaintance
-il conoscente
+il conoscente; la conoscente
 
 rationalization
 la razionalizzazione
