@@ -56371,3 +56371,9 @@ il grillo
 detector
 il rilevatore
 
+seal (animal)
+il foca
+
+to break the seal
+rompere il sigillo
+
