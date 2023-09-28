@@ -46081,9 +46081,6 @@ annoverato
 goblet
 il calice
 
-vintage (noun)
-l'annata
-
 enveloping
 avvolgente
 
@@ -56358,3 +56355,9 @@ svogliato
 
 to lose interest; to lose enthusiasm
 svogliarsi
+
+vintage wine
+il vino d'annata
+
+vintage (noun, wine)
+l'annata
