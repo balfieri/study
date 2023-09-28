@@ -1741,7 +1741,7 @@ invano
 to reset; to restore; to rehabilitate
 ripristinare
 
-to restore; to reinstate; to re-establish
+to re-establish; to restore; to reinstate
 ristabilire
 
 eminent; outstanding; distinguished
@@ -42112,7 +42112,7 @@ bocciato
 to screech; to squeak; to creak
 stridere
 
-to reset; to zero; to zero out
+to zero; to zero out; to reset
 azzerare
 
 construction sector
