@@ -56421,3 +56421,15 @@ o addirittura meno
 
 to skip ahead
 saltare avanti
+
+to dry-clean
+lavare a secco
+
+drycleaning
+il lavaggio a secco
+
+expected answer
+la risposta attesa
+
+more test cases
+altri casi di prova; altri casi di test
