@@ -9926,7 +9926,7 @@ fuel efficiency
 l'efficienza del carburante
 
 gas mileage
-il consumo di carburante; il chilometraggio di gas
+il consumo di carburante; l'efficienza del carburante; il chilometraggio di gas
 
 to train
 allenarsi
