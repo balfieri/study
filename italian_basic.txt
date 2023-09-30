@@ -928,8 +928,11 @@ farsi la coda
 dangerous
 pericoloso
 
-to check; to control
+to check (monitor); to control
 controllare
+
+to check (confirm); to verify
+verificare
 
 healthy; sane
 sano
