@@ -671,3 +671,13 @@ cuocemmo; cocemmo
 
 they cooked (remote past)
 cossero
+
+I appeared (remote past)
+apparvi
+
+she appeared (remote past)
+apparve
+
+they appeared (remoted past)
+apparvero
+

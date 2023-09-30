@@ -571,7 +571,7 @@ aggiungere
 salted; salty
 salato
 
-cooked
+cooked; baked
 cotto
 
 to take the second exit
