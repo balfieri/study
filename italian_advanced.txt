@@ -38389,9 +38389,6 @@ l'olio di gomito
 dirt; dirtiness; filth
 la sporchizia
 
-eager
-desideroso
-
 text-to-speech; speech synthesis
 la sintesi vocale
 
@@ -56577,3 +56574,13 @@ la dettagliatura dell'auto
 
 detailing (polishing)
 la dettagliatura
+
+computer industry
+l'industria informatica
+
+eager; desirous
+desideroso
+
+to jailbreak
+fare il jailbreak
+
