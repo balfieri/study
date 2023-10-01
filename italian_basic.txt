@@ -1894,9 +1894,6 @@ la terrazza
 dining room
 la sala da pranzo
 
-laundry room
-la lavanderia
-
 roof
 il tetto
 

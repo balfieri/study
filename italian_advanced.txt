@@ -3208,9 +3208,6 @@ vociferare
 drums
 la batteria; i tamburi
 
-laundry
-il bucato
-
 perfect-ten
 da dieci e lode
 
@@ -9328,8 +9325,11 @@ lo stampatore
 hierarchy
 la gerarchia
 
-laundry
-la lavanderia; la biancheria
+laundry (clothes)
+il bucato; la biancheria
+
+laundry place; laundry (place)
+la lavanderia
 
 to make a U-turn
 fare inversione
@@ -56627,3 +56627,8 @@ aerodinamicamente
 orgy
 l'orgia
 
+to sort the laundry
+ordinare la biancheria; ordinare il bucato
+
+to do the laundry
+fare il bucato; fare la biancheria
