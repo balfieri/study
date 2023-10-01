@@ -19747,9 +19747,6 @@ spogliere
 doughnut; bundt cake; bagel
 la ciambella
 
-orgy
-l'orgia
-
 life expectancy
 la speranza di vita; l'aspettativa di vita
 
@@ -31105,7 +31102,7 @@ senziente
 demolition; felling
 l'abbattimento
 
-production chain
+supply chain; production chain
 la filiera
 
 loyalty; customer loyalty
@@ -56583,4 +56580,50 @@ desideroso
 
 to jailbreak
 fare il jailbreak
+
+
+habitability
+l'abitabilità
+
+badge
+il fregio
+
+to wobble
+todeggiare
+
+angular
+spigoloso
+
+progenitor
+il capostipite; la capostipite
+
+pasta grammar
+la grammatica della pasta
+
+background check
+il controllo dei precedenti
+
+shiny
+lucido; brillante
+
+gray space
+lo spazio grigio
+
+yogurt maker
+la yogurtiera
+
+jar
+il vasetto
+
+identity-related
+identitario
+
+aerodynamic
+aerodinamico
+
+aerodynamically
+aerodinamicamente
+
+orgy
+l'orgia
 
