@@ -56377,8 +56377,14 @@ venerare
 as much as
 quanto più
 
+landing gear
+il carrello di atterraggio
+
 retractable landing gear
 il carrello di atterraggio retrattile
+
+retractable
+retrattile; retraibile; richiudibile
 
 propeller blade
 la pala dell'elica
