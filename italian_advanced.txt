@@ -38245,7 +38245,7 @@ indistinguibile
 to get intimate with the problem
 approfondire un problema
 
-to veer
+to veer; to tack
 virare
 
 grotesque
@@ -56675,3 +56675,5 @@ il deumidificatore
 to dehumidify
 deumidificare
 
+turn; tack; veering
+la virata
