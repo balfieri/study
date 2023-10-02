@@ -1673,7 +1673,7 @@ to strain; to struggle
 fare fatica
 
 to find easy
-aver facilità
+avere facilità
 
 gossip
 il pettegolezzo; i pettegolezzi
@@ -8075,7 +8075,7 @@ nice singing
 il belcanto
 
 I would like to confirm; I would like to have confirmation
-vorrei aver conferma
+vorrei avere conferma
 
 to take into account; to bear in mind
 tenere conto
@@ -10748,7 +10748,7 @@ massive quantity
 la quantità grande; la quantità enorme
 
 to need a favor
-aver bisogno di un favore; servirsi un favore
+avere bisogno di un favore; servirsi un favore
 
 succession
 il susseguirsi

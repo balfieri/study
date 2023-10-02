@@ -623,7 +623,7 @@ rough and ready
 approssimativo; basilare
 
 to have a chip on one's shoulder; to hold a grudge
-aver voglia di litigare; portare rancore
+avere voglia di litigare; portare rancore
 
 to have an axe to grind
 avere un interesse personale; tirare acqua al proprio mulino
@@ -1208,7 +1208,7 @@ the nature of the beast
 la natura della bestia
 
 to be like water off one's back
-non aver effetto; rimbalzare
+non avere effetto; rimbalzare
 
 to be off-putting
 avere maniere scostanti
@@ -1505,7 +1505,7 @@ to go fancy
 andare di lusso
 
 to be dirt poor; to not have a pot to piss in
-non avere il becco di un quattrino; non aver niente da metter sotto i denti
+non avere il becco di un quattrino; non avere niente da metter sotto i denti
 
 to pass the hot potato
 passare la patata bollente
@@ -1680,9 +1680,6 @@ avere le gambe che fanno giacomo giacomo
 
 to have one's hair on fire
 avere un diavolo per capello
-
-to have a say
-aver voce in capitolo
 
 to be brewing
 bollire in pentola
