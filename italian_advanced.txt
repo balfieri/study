@@ -56668,3 +56668,10 @@ il serbatoio del carburante; il serbatoio di carburante
 
 to tan; to curry; to skin
 coriare
+
+dehumidifier
+il deumidificatore
+
+to dehumidify
+deumidificare
+
