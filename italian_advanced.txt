@@ -56792,3 +56792,9 @@ nerdoso; da secchione
 faith in humanity
 la fiducia nell'umanità
 
+did I tell you about (something)?
+ti ho parlato di (qualcosa)?
+
+I'd like to tell you about (something)
+mi piacerebbe parlarti di (qualcosa)
+
