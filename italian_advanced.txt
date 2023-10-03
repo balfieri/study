@@ -17842,9 +17842,6 @@ essere una palla al piede
 a-gogo
 a gogo
 
-to lose one's train of thought
-andar per rane
-
 to tread lightly
 andare coi piedi di piombo
 
@@ -32422,7 +32419,7 @@ strampolante
 caper
 il cappero
 
-tip; tip-off
+tip; tip-off; leak
 la soffiata
 
 to talk this through
@@ -32583,9 +32580,6 @@ il grembo; il grembo materno; l'utero
 
 in the womb
 nell'utero; nel grembo; nel grambo materno; nella pancia
-
-easel
-il cavalletto
 
 anti-theft
 antifurto
@@ -56699,3 +56693,80 @@ farti lezione
 at the same time as always
 allo stesso orario di sempre
 
+torpedo
+il siluro
+
+footrest
+il poggiapiedi
+
+route
+il tragitto
+
+carabiner
+il moschettone
+
+block letters
+lo stampatello
+
+moulding
+la modanatura
+
+modular
+scomponibile
+
+to kick
+scalciare
+
+detachable
+smontabile
+
+corsair
+il corsaiolo
+
+electronic ignition
+l'accensione elettronica
+
+decanting; transferring
+il travaso
+
+fingertip
+la punta del dito
+
+to set aside
+mettere a parte
+
+to drain
+scoliare
+
+carburator
+il carburatore
+
+wire drawing
+lo strafilaggio
+
+kickstand; easel
+il cavalletto
+
+to denature; to distort
+snaturare
+
+dismantling
+lo smontaggio
+
+varnishing
+la vernicetura
+
+sandblasted
+sabbiato
+
+to sandblast
+sabbiare
+
+racing (adjective)
+da gara
+
+hodgepodge; mixture
+la massellanza
+
+to lose one's train of thought
+perdere il filo del discorso; andare per rane
