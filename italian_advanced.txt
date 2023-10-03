@@ -56810,3 +56810,5 @@ sentirsi di avere 26 anni
 I act like an adolescent
 comportarsi come un adolescente
 
+except for
+tranne per
