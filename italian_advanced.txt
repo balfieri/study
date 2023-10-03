@@ -56812,3 +56812,10 @@ comportarsi come un adolescente
 
 except for
 tranne per
+
+what age do you feel?
+quanti anni ti senti?
+
+it could, but it probably won't
+potrebbe, ma probabilmente non lo farà
+
