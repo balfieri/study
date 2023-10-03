@@ -2335,8 +2335,8 @@ eventualmente
 obnoxious
 insopportabile; odioso; detestabile; ripugnante
 
-curmudgeon; grouch
-musone; burbero; bisbetico
+curmudgeon; grouch; old stick in the mud
+burbero; brontolone; bisbetico; musone
 
 out there
 là fuori; lì fuori
@@ -56821,4 +56821,7 @@ potrebbe, ma probabilmente non lo farà
 
 I don't remember how we got started on this subject
 non ricordo come abbiamo iniziato a parlare di questo argomento
+
+on the way to the cinema
+sulla strada per il cinema
 
