@@ -5416,9 +5416,6 @@ entrare nella sua testa
 multiple myeloma
 il mieloma multipla
 
-Venezuelan
-venezuelana
-
 bucket; pail; container
 il secchio
 
@@ -5843,7 +5840,7 @@ university town
 la città universitaria
 
 presenter; announcer
-il presentatore
+il presentatore; la presentatrice
 
 it's on the tip of my tongue
 ce l'ho sulla punta della lingua
