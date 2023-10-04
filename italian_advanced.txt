@@ -56897,3 +56897,6 @@ l'espulsione; la cacciata
 for lack of a better choice
 per mancanza di una scelta migliore
 
+group meeting
+la riunione di gruppo
+
