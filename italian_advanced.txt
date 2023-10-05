@@ -18283,9 +18283,6 @@ defunto
 nativity scene
 il presepe
 
-full-size
-a grandezza naturale
-
 to be with my cousins
 stare con i miei cugini
 
@@ -36424,8 +36421,8 @@ immergersi in
 several minutes
 alcuni minuti
 
-tingere i capelli
 to dye one's hair
+tingere i capelli
 
 gusty wind
 il vento rafficato; il vento forte e irregolare
@@ -56926,3 +56923,22 @@ il negozio di conto vendita
 
 consignment
 il conto vendita
+
+life-size; full-size
+a grandezza naturale
+
+life-size replica; full-size replica
+la replica a grandezza naturale
+
+LEGO brick
+il mattoncino LEGO
+
+that's good to know
+è buono saperlo
+
+I don't find that relaxing
+non lo trovo rilassante
+
+begrudgingly; reluctantly; unwillingly
+malvolentieri; controvoglia
+
