@@ -2994,9 +2994,6 @@ non fare prigionieri
 God forbid I should ever (do something)
 Dio non voglia che io debba mai (fare qualcosa)
 
-schadenfreude
-il piacere derivato da qualcuno dalla sfortuna di un'altra persona
-
 orange Mussolini (Trump)
 l'arancione Mussolini
 
@@ -3215,3 +3212,7 @@ andare a letto in giro
 
 everything's gonna be ok
 andrà tutto bene
+
+to go with the flow
+andare con il flusso
+

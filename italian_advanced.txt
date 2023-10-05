@@ -15878,7 +15878,7 @@ zeitgeist
 lo Zeitgeist; lo spirito dei tempi
 
 schadenfreude
-la Schadenfreude; la gioia maligna
+la Schadenfreude; la gioia maligna; il piacere derivato dalla sfortuna di un'altra persona
 
 to digress; to wander (conversation); to ramble
 divagare
@@ -56944,3 +56944,7 @@ malvolentieri; controvoglia
 
 overheating
 il surriscaldamento
+
+unisex term
+il termine non specifico per il sesso; il termine applicabile a entrambi i sessi
+
