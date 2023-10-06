@@ -1236,7 +1236,7 @@ smettila; lascia perdere
 you get only one chance to make a first impression
 hai solo una possibilità per fare una buona prima impressione
 
-to suck the bone marrow out of life
+to suck the bone marrow out of life; to live life to the fullest
 vivere la vita al massimo
 
 off limits
@@ -3224,3 +3224,7 @@ la vita passa come un treno
 
 to feel out of sorts
 sentirsi scombussolato
+
+live life in the fast lane
+vivere a tutta birra
+
