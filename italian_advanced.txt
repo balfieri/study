@@ -31735,9 +31735,6 @@ vincolante
 unionist
 il sindacalista
 
-all-encompassing
-totalizzante
-
 plenary
 plenario
 
@@ -55634,7 +55631,7 @@ to spoil; to damage; to break
 guastare
 
 all-encompassing
-omnicomprensivo
+omnicomprensivo; totalizzante
 
 magnate
 il magnate
@@ -56962,4 +56959,55 @@ ci tengo; mi importa
 
 to meander
 vagare; girovagare
+
+unstoppable; irrepressible
+incontenibile; irresistibile
+
+autonomous sensory meridian response (ASMR)
+la risposta autonoma del meridiano sensoriale
+
+slime
+la slima
+
+unintentional
+non intenzionale
+
+status report
+il rapporto di stato
+
+to give a status report
+dare un rapporto di stato; fornire un aggiornamento
+
+flock
+il gregge
+
+to join a club
+unirsi a un club; entrare in un club; iscriversi a un club
+
+to be part of a club; to take part in a club
+far parte di un club
+
+to put (something) on the ground
+mettere (qualcosa) per terra
+
+to vex
+turbare; infastidire
+
+vexing
+infuriante; fastidioso
+
+mainstream
+il mainstream; il corrente principale
+
+to suspect
+sospettare
+
+suspected
+sospettato
+
+Belgian
+belga
+
+earpiece
+l'auricolare
 
