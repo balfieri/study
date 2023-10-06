@@ -54571,6 +54571,9 @@ lavorare su parole; creare parole
 evergreen
 sempreverde; sempre verde
 
+evergreen (tree)
+il sempreverde
+
 knowing you
 conoscendoti
 
