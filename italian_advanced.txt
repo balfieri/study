@@ -47350,7 +47350,7 @@ la scappatoia
 to rebound; to have repercussions
 ripercuotersi
 
-wandering; roaming
+wandering; roaming; meandering
 vagante
 
 sports field
@@ -56959,3 +56959,7 @@ sfitto
 
 I care about it; it matters to me; I consider it important
 ci tengo; mi importa
+
+to meander
+vagare; girovagare
+
