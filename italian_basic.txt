@@ -7372,7 +7372,7 @@ il tempo
 gender
 il genere; il sesso
 
-paint; painting
+paint; painting (act of)
 la pittura
 
 lover
