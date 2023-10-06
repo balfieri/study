@@ -27604,9 +27604,6 @@ la bacca di vaniglia
 pod
 il baccello
 
-good to know
-buono a sapersi
-
 to stock; to provision; to supply
 approvvigionare
 
@@ -56932,6 +56929,9 @@ la replica a grandezza naturale
 
 LEGO brick
 il mattoncino LEGO
+
+good to know
+buono a sapersi
 
 that's good to know
 è buono saperlo; è bello saperlo
