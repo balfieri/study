@@ -9913,7 +9913,7 @@ il divulgatore scientifico
 dinghy
 il canotto
 
-body (auto)
+body (vehicle)
 la scocca
 
 to shell
