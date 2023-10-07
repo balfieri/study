@@ -12622,8 +12622,11 @@ sgradito
 to settle in; to settle; to locate
 insediarsi
 
-who; whom
+who; whom; which (referring to a prior noun)
 il quale; la quale
+
+which (referring to a prior clause)
+il che
 
 whose; which
 il cui; la cui
@@ -57043,3 +57046,7 @@ sparare ovunque
 
 to happen often enough that
 succedere abbastanza spesso che
+
+leaked; transpired
+trapelato
+
