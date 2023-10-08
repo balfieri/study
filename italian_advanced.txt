@@ -5884,7 +5884,7 @@ scardinato
 panther; leopard
 la pantera
 
-pin cushion; pad
+pin cushion; pad; bearing (ball)
 il cuscinetto
 
 papier-maché
@@ -57250,3 +57250,10 @@ arricciare il naso
 
 to wriggle one's nose
 torcere il naso
+
+to gear up; to mesh
+ingranare
+
+ball bearing
+il cuscinetto a sfere
+
