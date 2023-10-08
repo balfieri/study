@@ -25675,8 +25675,11 @@ il regolamentato; la normativa
 niche
 la nicchia
 
-steep
-scosceso; ripido
+steep (natural, rugged)
+scosceso
+
+steep (general)
+ripido
 
 husk
 il mallo
