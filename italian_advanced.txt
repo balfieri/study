@@ -40429,9 +40429,6 @@ la delegittimazione
 to criminalize
 criminalizzare
 
-paint
-la vernice
-
 to mask; to disguise
 mascherare
 
@@ -56750,7 +56747,7 @@ snaturare
 dismantling
 lo smontaggio
 
-varnishing
+varnishing; painting (surface of object)
 la vernicetura
 
 sandblasted
@@ -57293,3 +57290,17 @@ impraticable
 to be so much fun
 essere così divertente
 
+I purposely did not want to (do something)
+ho fatto apposta a non voler (fare qualcosa)
+
+valve spacing
+il distanziamento delle valvole
+
+spacing (physical)
+il distanziamento
+
+spacing (abstract)
+la spaziatura
+
+to paint (surface of object)
+verniciare
