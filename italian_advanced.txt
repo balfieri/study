@@ -3854,7 +3854,7 @@ to post; to place
 postare
 
 to ensure that
-fare sì che
+fare sì che; assicurarsi che
 
 amazing; wonderful; terrific; remarkable
 strepitoso
@@ -25676,7 +25676,7 @@ niche
 la nicchia
 
 steep
-scosceso
+scosceso; ripido
 
 husk
 il mallo
@@ -25743,9 +25743,6 @@ collazionare
 
 tasteful
 di buon gusto; raffinato; elegante
-
-herbal tea
-il tisano
 
 infusion; brew
 l'infuso
@@ -45020,7 +45017,7 @@ handled
 maneggiato
 
 the steep climb
-l'impervia salita
+la salita ripida
 
 broken
 spezzato
@@ -57139,3 +57136,31 @@ fuori posto
 
 large distillery
 lo stillone
+
+medicinal
+medicinale
+
+potassium
+il potassio
+
+blue zone
+la zona blu
+
+nutritional
+nutrizionale
+
+magnesium
+il magnesio
+
+blood pressure
+la pressione sanguigna
+
+to take (someone's) blood pressure
+prendere la pressione sanguigna (di qualcuno)
+
+to nudge
+spingere leggermente; dare un colpetto
+
+traffic jam
+l'ingorgo stradale
+
