@@ -1153,8 +1153,17 @@ la licenza; il brevetto
 shortcut
 la scorciatoia
 
-to mumble
-mormorare; borbottare; biascicare; farfugliare
+to murmur; to whisper; to mumble
+mormorare
+
+to mutter; to grumble; to mumble
+borbottare
+
+to mumble; to mutter (hurried, nervous)
+biascicare
+
+to mumble; to mutter (hurried, nervous, embarrassed, lower voice)
+farfugliare
 
 safety
 la sicurezza
@@ -11343,9 +11352,6 @@ il raggio di sole
 
 sunshine
 la luce di sole
-
-to murmer; to mutter
-mormorare
 
 drama queen
 la regina del dramma; la reginetta del dramma; la drammatica
