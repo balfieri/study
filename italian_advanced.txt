@@ -499,7 +499,7 @@ il mittente
 brochure
 l'opuscolo
 
-leaflet
+leaflet; flyer
 il volantino
 
 leaflet; brochure
@@ -57173,3 +57173,26 @@ la bestialità
 to detail
 dettagliare
 
+sandblaster
+la sabbiatrice
+
+little polish
+la lucidatina
+
+crisp
+rospante
+
+grasshopper; locust
+la cavaletta
+
+physical examination; medical examination
+l'esame fisico
+
+I remind them of
+li ricordo di
+
+it's a long story how we ended up (doing something)
+è una lunga storia come abbiamo finito per (fare qualcosa)
+
+to hang out together
+passare del tempo insieme
