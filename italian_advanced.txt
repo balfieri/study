@@ -43184,7 +43184,7 @@ for the protection of; in defense of
 a tutela di
 
 vintage Vespa
-la vintage Vespa
+la Vespa d'epoca; la vintage Vespa
 
 provare rancore verso
 to hold a grudge against; to harbor resentment towards
@@ -46467,9 +46467,6 @@ smascherare
 
 it's nowhere near as good as
 non è neanche lontanamente buono come
-
-sheath
-la guaina
 
 to not be able to do without
 non poter fare a meno
@@ -57274,3 +57271,21 @@ calzare
 
 lead weight; sinker (fishing)
 il peso di piombo
+
+at a later time
+in un secondo momento
+
+sheath; casing
+la guaina
+
+throttle cable
+il cavo dell'acceleratore
+
+brake cable
+il cavo del freno
+
+totally impractical
+totalmente impraticabile; completamente non pratico
+
+impractical
+impraticable
