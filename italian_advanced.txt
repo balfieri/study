@@ -57296,7 +57296,7 @@ il distanziamento
 spacing (abstract)
 la spaziatura
 
-to paint (surface of object)
+to paint (surface of object); to varnish
 verniciare
 
 to experience the environment
