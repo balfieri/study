@@ -57316,3 +57316,6 @@ respirare l'ambiente
 
 to go out in the evening
 uscire la sera
+
+train car
+il vagone
