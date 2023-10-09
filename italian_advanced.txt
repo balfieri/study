@@ -43894,9 +43894,6 @@ datoriale
 to duplicate
 duplicare
 
-to live to 90
-vivere fino a 90
-
 to hang up clothes to dry; to hang clothes out to dry
 appendere i vestiti per asciugarli; stendere i vestiti per asciugarli
 
@@ -57338,3 +57335,5 @@ il frigolo
 I'll leave you alone
 ti lascio in pace; ti lascio stare
 
+to live to (number of years); to live to be (number of years)
+vivere fino a (numero di anni)
