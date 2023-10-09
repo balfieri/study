@@ -17615,7 +17615,7 @@ schoolboy
 lo scolaretto
 
 emblem
-il emblema
+l'emblema
 
 anathema
 l'anatema
@@ -57304,3 +57304,15 @@ la spaziatura
 
 to paint (surface of object)
 verniciare
+
+to experience the environment
+sperimentare l'ambiente
+
+thigh
+la coscera
+
+to breathe in the environment
+respirare l'ambiente
+
+to go out in the evening
+uscire la sera

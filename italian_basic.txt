@@ -1861,9 +1861,6 @@ la lavagna
 whiteboard
 la lavagna bianca
 
-painting
-lo quadro
-
 remote control
 il telecomando
 
