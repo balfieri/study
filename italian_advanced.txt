@@ -3700,7 +3700,7 @@ lassù; là sopra; lì sopra
 down there
 laggiù; lì; là
 
-to pass a test
+to pass a test; to pass an exam
 superare un esame
 
 to encourage
@@ -14707,7 +14707,7 @@ impattante
 delivered; distributed; provided
 erogato
 
-to supply; to distribute; to provide
+to supply; to provide; to distribute
 erogare
 
 play; drama; dramatic play
@@ -57346,4 +57346,10 @@ fare clic su un'icona
 
 to click on a button
 fare clic su un pulsante
+
+to provide services
+erogare servizi
+
+to fail an exam; to fail a test
+fallire un esame
 
