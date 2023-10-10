@@ -16735,7 +16735,7 @@ snodare
 relay race
 la staffetta
 
-to parade; to march (in a parade)
+to thread (needle); to parade; to march (in a parade)
 sfilare
 
 parade
@@ -57383,3 +57383,29 @@ il folletto
 impish
 birichino; dispettoso
 
+gazebo
+il gazebo
+
+unlocking
+sbloccante
+
+nut loosener
+lo sbloccante
+
+bleaching
+la sbiancatura
+
+crankcase
+il carter
+
+to make a bushing
+fare una boccola
+
+bushing
+la boccola
+
+to make do with what we has
+accontentarci di quello che abbiamo
+
+leasing agency; letting agency
+l'agenzia di affitto
