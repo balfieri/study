@@ -7866,3 +7866,6 @@ provare a
 
 to try to (persistently, with a certain result in mind)
 cercare di
+
+soon; quickly; early
+presto

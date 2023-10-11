@@ -1528,9 +1528,6 @@ l'immagine
 exhibition
 espositivo
 
-quick
-presto
-
 panel; tab
 il pannello
 
@@ -57442,4 +57439,16 @@ mantenere coerenti
 
 I almost forgot
 quasi me ne sono dimenticato
+
+to improvise
+improvvisarsi
+
+feeling
+il feeling
+
+I'm not dead yet
+non sono ancora morto
+
+the cancer was caught early
+il cancro è stato scoperto presto
 
