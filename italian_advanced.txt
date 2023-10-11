@@ -3910,9 +3910,6 @@ il cruciverba; le parole crociate
 slowly
 pian piano; adagio
 
-doctor's appointment
-l'appuntamento dal dottore
-
 anecdote
 l'aneddoto
 
@@ -13955,7 +13952,7 @@ unusual
 inusuale; insolito
 
 doctor's appointment
-l'appuntamento medico
+l'appuntamento dal dottore; l'appuntamento medico
 
 hectic
 frenetico
