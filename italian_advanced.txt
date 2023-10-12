@@ -43846,7 +43846,7 @@ avvolto
 dangerousness
 la pericolosità
 
-carcinogenic
+cancerous; carcinogenic
 cancerogeno
 
 carcinogen
@@ -57479,3 +57479,11 @@ ci sono molte cose a cui pensare
 life is easier when you view it as a comedy rather than a drama
 la vita è più facile quando la vedi come una commedia piuttosto che un dramma
 
+frying
+la frittura
+
+precancerous
+precanceroso; precancerogeno
+
+health issue; health problem
+il problema di salute
