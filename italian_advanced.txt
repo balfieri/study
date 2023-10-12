@@ -57108,7 +57108,7 @@ in the recent past
 in recente passato
 
 alma mater
-l'alma mater
+l'università di provenienza
 
 upcoming innovation
 l'innovazione di ventura
@@ -57475,4 +57475,7 @@ eufemistico
 
 I haven't practiced pronunciation as much as I had wanted
 non ho esercitato la pronuncia tanto quanto avrei voluto
+
+there are a lot of things to think about
+ci sono molte cose a cui pensare
 
