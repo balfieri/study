@@ -575,7 +575,7 @@ route (air and maritime navigation)
 la rotta; la tratta
 
 rather than
-anziché
+anziché; piuttosto che
 
 to beat; to hit; to strike; to beat up
 picchiare
@@ -33340,9 +33340,6 @@ risalire a
 braking
 la frenata
 
-rather than
-piuttosto che
-
 only if
 solo se
 
@@ -57478,4 +57475,7 @@ non ho esercitato la pronuncia tanto quanto avrei voluto
 
 there are a lot of things to think about
 ci sono molte cose a cui pensare
+
+life is easier when you view it as a comedy rather than a drama
+la vita è più facile quando la vedi come una commedia piuttosto che un dramma
 
