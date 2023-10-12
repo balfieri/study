@@ -5188,7 +5188,7 @@ l'odore
 wasp; hornet
 la vespa
 
-insect
+insect; bug
 l'insetto
 
 wealth
