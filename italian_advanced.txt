@@ -604,7 +604,7 @@ spezzare
 basket; hamper; handbasket
 il paniere
 
-to fall; to tumble
+to fall (clumsily); to tumble
 cascare
 
 to satisfy; to gratify; to please
@@ -57511,4 +57511,16 @@ mettere voglia
 
 chosen one
 la prescelta
+
+scrap paper; waste paper
+il cartaccio; la carta da macero; la carta di scarto
+
+astonished; amazed; astounded
+sbalordito; stupito
+
+astonishing; amazing; stunning
+sbalordente; incredibile; stupefacente
+
+to astonish; to amaze; to astound
+sbalordire; stupire
 
