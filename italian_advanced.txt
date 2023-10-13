@@ -39751,8 +39751,11 @@ le tende
 video montage
 il video montaggio
 
-lightning
+lightning (eletrical discharge in cloud)
 il fulmine
+
+lightning (light part)
+il lampo
 
 to smooth over tensions
 appianare le tensioni
@@ -57496,3 +57499,16 @@ ostracizzare
 
 to get to the bottom of
 arrivare al fondo di
+
+monoclonal gammopathy of undetermined significance (MGUS)
+la gammopatia monoclonale di significato indeterminato (MGUS)
+
+discharge; download
+la scarica
+
+to whet (the appetite); to make one feel like
+mettere voglia
+
+chosen one
+la prescelta
+
