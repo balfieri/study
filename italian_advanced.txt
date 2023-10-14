@@ -57608,3 +57608,9 @@ colmare il vuoto
 obsequious
 ossequioso
 
+cowling
+la cappottatura
+
+cowl flaps
+i flaps del cofano
+
