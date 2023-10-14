@@ -57586,3 +57586,9 @@ il pianificatore finanziario; la pianificatrice finanziaria
 
 to lull to sleep
 assopire
+
+bib
+la bavetta
+
+vice (tool)
+la morsa
