@@ -5411,7 +5411,7 @@ catchy tune
 la canzone orecchiabile; la melodia orecchiabile
 
 strategem; ruse; gimmick
-la stratagemma
+lo stratagemma
 
 to get inside someone's head
 entrare nella sua testa
@@ -13642,7 +13642,7 @@ in manette
 automobile; car; motor car
 l'autovettura
 
-outcome; finding; result
+outcome; finding; result (formal)
 la risultanza
 
 circumstantial
@@ -52078,7 +52078,7 @@ la seconda chance; la seconda possibilità
 mindfulness
 la consapevolezza; il mindfulness; l'attenzione plena
 
-to do the math; to figure things out; to crunch the numbers
+to do the math; to figure things out; to crunch the numbers; to face up to
 fare i conti
 
 melancholic
@@ -57634,3 +57634,30 @@ in morsa
 
 the fanatic; the obsessed
 l'invasato; il fanatico; l'ossessionato
+
+to attend; to assist
+assistere a; partecipare a
+
+to face up to the fact
+affrontare il fatto; fare i conti con il fatto
+
+recomposable
+ricomponibile
+
+reassemblable
+riassamblabile
+
+the years of lead (60's to 80's in Italy)
+gli anni di piombo
+
+almanac
+l'almanacco
+
+set; established
+impostato; stabilito
+
+affected voice
+la voce impostata; la voce affettata
+
+OEM (Original Equipment Manufacturer)
+l'OEM
