@@ -11182,9 +11182,6 @@ le redini
 to chant; to articulate; to call out; to scan
 scandire
 
-to do the math; to crunch the numbers
-fare i conti
-
 to rig; to equip
 attrezzare
 
@@ -52081,8 +52078,8 @@ la seconda chance; la seconda possibilità
 mindfulness
 la consapevolezza; il mindfulness; l'attenzione plena
 
-to do calculations; to make calculations; to make accounts
-fare conti
+to do the math; to figure things out; to crunch the numbers
+fare i conti
 
 melancholic
 malinconico
