@@ -21493,7 +21493,7 @@ il controllo fiscale; la revisione fiscale; la verifica fiscale
 laxative; purge
 la purga
 
-to resume; to take up again; to return (to); to regain
+to resume; to take up again; to return (to); to regain; to recover
 riprendere
 
 mannequin; dummy
@@ -24664,7 +24664,7 @@ non posso rimanere arrabbiato con te
 retreat (meeting)
 il ritiro
 
-retreat (troups)
+retreat (troups); withdrawl
 la ritirata
 
 hardwood floors
@@ -57529,3 +57529,39 @@ tutto dopo la firma
 
 foreign affairs
 gli affari esteri
+
+stethoscope
+lo stetoscopo
+
+sign of recovery
+il segno di ripresa
+
+bombardment
+il bombardamento
+
+Gaza Strip
+la Striscia di Gaza
+
+paramedic
+il paramedico; la paramedica
+
+dense network
+la fitta rete
+
+burrow; rabbit hole
+il cunicolo
+
+militiaman
+il miliziano
+
+to slaughter; to massacre
+fare strage; massacrare
+
+barbed wire
+il filo spinato
+
+fundamentalist
+il fondamentalista
+
+prominent figure; leading figure
+la figura di spicco; la figura prominente
