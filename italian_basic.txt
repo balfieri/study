@@ -685,7 +685,7 @@ la trattoria; l'osteria
 store; shop
 il negozio
 
-to beat; to pound; to hit
+to beat; to pound; to hit (general)
 battere
 
 to fish
@@ -3001,7 +3001,7 @@ capire
 to prefer
 preferire
 
-to hit; to strike; to knock
+to hit (stronger, figurative); to strike; to knock
 colpire
 
 to vanish; to disappear; to vanquish; to go away

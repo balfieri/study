@@ -57614,3 +57614,21 @@ la cappottatura
 cowl flaps
 i flaps del cofano
 
+service station
+la stazione di servizio
+
+mechanics
+la meccanica
+
+gear shift
+l'albero del cambio
+
+drum
+il tamburo
+
+spacer
+il distanziale
+
+in a vice
+in morsa
+
