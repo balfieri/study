@@ -52081,7 +52081,7 @@ la seconda chance; la seconda possibilità
 mindfulness
 la consapevolezza; il mindfulness; l'attenzione plena
 
-to do calculations; to make accounts
+to do calculations; to make calculations; to make accounts
 fare conti
 
 melancholic
@@ -57524,3 +57524,11 @@ sbalordente; incredibile; stupefacente
 to astonish; to amaze; to astound
 sbalordire; stupire
 
+thriller
+il thriller
+
+everything after the signature
+tutto dopo la firma
+
+foreign affairs
+gli affari esteri
