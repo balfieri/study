@@ -29414,7 +29414,7 @@ to get a second opinion
 chiedere un secondo parere; chiedere una seconda opinione
 
 piano (music)
-il pianoforte
+il pianoforte; il piano
 
 skepticism
 lo scetticismo
@@ -57694,4 +57694,7 @@ a corto raggio
 
 to detach from the ground; to take off; to lift off
 staccarsi da terra
+
+to retrain
+riaddestrare
 
