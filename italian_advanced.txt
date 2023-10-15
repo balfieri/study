@@ -12238,9 +12238,6 @@ il degrado
 to exempt
 esentare
 
-essential; indispensable; vital
-imprescindibile
-
 favorite dishes
 i piatti del cuore
 
@@ -49858,7 +49855,7 @@ mercificato
 it's not a lie if you believe it
 non è una bugia se ci credi
 
-indispensible; essential
+indispensable; essential
 irrinunciabile
 
 innovation hub; innovation center
@@ -57853,4 +57850,7 @@ il cervello in uno stato di nebbia
 
 brain fog
 la nebbia cerebrale
+
+essential; indispensable; vital
+imprescindibile
 
