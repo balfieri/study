@@ -57689,3 +57689,6 @@ il calcio di rigore
 suitability; fitness; eligibility
 l'idoneità; l'adeguatezza; l'ammissibilità
 
+short-range
+a corto raggio
+
