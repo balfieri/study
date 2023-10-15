@@ -57848,3 +57848,9 @@ deviare l'attenzione
 heartbeat
 il battito cardiaco
 
+brain in a state of fog
+il cervello in uno stato di nebbia
+
+brain fog
+la nebbia cerebrale
+
