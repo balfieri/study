@@ -50153,7 +50153,7 @@ redemption
 la riscossa
 
 warrior
-il guerriero
+il guerriero; la guerriera
 
 order of the day
 l'ordine del giorno
@@ -57814,3 +57814,34 @@ he has aged
 
 lexical expansion; improvement of vocabulary
 l'ampliamento del lessico
+
+prolactin
+la prolattina
+
+fine motor skills
+la manualitè fine
+
+dexterity
+la destrezza
+
+implied; understood; implicit
+sotteso
+
+prophesied
+profetizzato
+
+avoidance
+l'evitamento
+
+temptress
+la tentatrice
+
+blinkers; blinders
+i paraocchi
+
+to distract attention
+distogliere l'attenzione
+
+to divert attention
+deviare l'attenzione
+
