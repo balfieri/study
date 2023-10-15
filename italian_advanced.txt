@@ -31136,7 +31136,7 @@ airline pilot
 il pilota di linea
 
 cockpit
-la cabina di pilotaggio; la cabina del pilota
+la cabina di pilotaggio; la cabina del pilota; l'abitacolo
 
 bumpy
 accidentato
@@ -57691,4 +57691,7 @@ l'idoneità; l'adeguatezza; l'ammissibilità
 
 short-range
 a corto raggio
+
+to detach from the ground; to take off; to lift off
+staccarsi da terra
 
