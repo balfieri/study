@@ -57722,3 +57722,6 @@ la vestibilità
 wearable
 vestibile
 
+to lie down; to settle; to rest
+adagiarsi
+
