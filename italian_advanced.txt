@@ -57845,3 +57845,6 @@ distogliere l'attenzione
 to divert attention
 deviare l'attenzione
 
+heartbeat
+il battito cardiaco
+
