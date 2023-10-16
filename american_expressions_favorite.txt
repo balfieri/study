@@ -3269,3 +3269,6 @@ il disastro totale; il casino totale
 
 tweak (small change)
 il piccolo cambiamento
+
+to tweak (something)
+modificare leggermente (qualcosa)
