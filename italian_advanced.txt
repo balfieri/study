@@ -6058,9 +6058,6 @@ ricollegarsi con
 they are at odds with each other
 sono in contrasto tra loro
 
-claustrophobic
-claustrophobic
-
 home town
 la città natale
 
@@ -8605,7 +8602,7 @@ astenersi
 to trigger; to prime
 innescare
 
-lasting; durable
+lasting; durable; enduring
 duraturo
 
 downward spiral
@@ -29428,9 +29425,6 @@ la sommità
 reciprocally
 reciprocamente
 
-to cross; to traverse
-attraversare
-
 started; assigned
 avviato
 
@@ -34410,9 +34404,6 @@ sottovalutare
 
 underestimation
 la sottovalutazione
-
-in a low voice
-sottovoce
 
 subculture
 la sottocultura
@@ -54640,9 +54631,6 @@ il sarcasmo
 timeless
 senza tempo
 
-enduring
-duraturo; resistente
-
 guest bedroom
 la camera degli ospiti; la camera per gli ospiti
 
@@ -57853,4 +57841,94 @@ la nebbia cerebrale
 
 essential; indispensable; vital
 imprescindibile
+
+side effect
+l'effetto collaterale
+
+common side effect
+l'effetto collaterale comune
+
+to go through a difficult time
+attraversare un momento difficile
+
+to cross the crowd
+attraversare la folla
+
+to go through a phase
+attraversare una fase
+
+to cross time
+attraversare il tempo
+
+to cross one's mind
+attraversare la mente
+
+to transcend time
+trascendere il tempo
+
+sonic boom
+il boom sonico
+
+to transcend
+trascendere
+
+transcendental meditation
+la meditazione trascendentale
+
+dumpster
+il cassonetto
+
+fringes
+i freggi
+
+tag
+la targhetta
+
+to toil
+tribolare
+
+tribulation
+la tribolazione
+
+recoverable
+recuperabile
+
+control unit
+la centralina
+
+comparator
+il comparatore
+
+it shows; you can see
+si vede
+
+before Christ
+avanti Cristo
+
+after Christ
+dopo Cristo
+
+enviable
+invidiabile
+
+crossroads
+il crocevia
+
+banner
+il vessillo
+
+solar system
+il sistema solare
+
+in a whisper (sharing a secret); in a low voice
+sottovoce
+
+to time-travel
+viaggiare nel tempo
+
+what do you want from me?
+cosa vuoi da me?
+
+claustrophobic
+claustrofobico
 
