@@ -715,9 +715,6 @@ il diplomatico
 among others; in addition to others
 tra altro; oltre ad altro
 
-as long as; because (formal)
-poiche'
-
 with the goal of
 allo scopo di; al fine di
 
@@ -10672,7 +10669,7 @@ il quadricipite
 hamstring muscle
 il muscolo di tendine
 
-to interview
+to interview (general)
 intervistare
 
 pilot review
@@ -13919,7 +13916,7 @@ you’ll need to use your imagination
 dovrai usare l’immaginazione
 
 prescription
-la prescrizione
+la ricetta; la prescrizione
 
 pharmacist
 il farmacista; il droghiere
@@ -16732,7 +16729,7 @@ il corteo
 cobblestones; pavement
 il selciato
 
-to highlight; to stand out
+to highlight; to stand out; to stick out
 spiccare
 
 to have an affair
@@ -22705,8 +22702,11 @@ primitivo
 analogy
 l'analogia
 
-interview
+interview (work)
 il colloquio
+
+to interview (work)
+fare un colloquio
 
 personally
 personalmente
@@ -33337,7 +33337,7 @@ prima che
 although; even if; even though
 anche se
 
-as long as; since; because
+as long as; since; because (formal)
 poiché
 
 my ears are plugged
@@ -40783,9 +40783,6 @@ il sovrapprezzo
 obligatorily
 obbligatoriamente
 
-of legal age
-maggiorenne
-
 underage
 minorenne
 
@@ -43159,8 +43156,8 @@ a tutela di
 vintage Vespa
 la Vespa d'epoca; la vintage Vespa
 
-provare rancore verso
 to hold a grudge against; to harbor resentment towards
+provare rancore verso
 
 air conditioning unit
 l'unità di condizionamento dell'aria
@@ -57943,4 +57940,82 @@ la pressione alta; la pressione singuigna alta
 
 in range
 nel raggio d'azione; in gamma; nel range
+
+Spanishness
+la spagnolità
+
+leftist
+di sinistra
+
+to apply for (job); to run for (office)
+candidarsi
+
+to apply for a job
+candidarsi per un lavoro
+
+refill
+la ricarica
+
+at the pharmacy
+in farmacia
+
+cannabis
+la cannabis
+
+increase
+l'accresciuta
+
+of age; adult; of legal age
+maggiorenne
+
+dried inflorescence
+l'infiorescenza essiccata
+
+sinsemilla cannabis
+la cannabis sinsemilla
+
+to make a claim
+fare un sinistro
+
+control knob
+la manopola di controllo
+
+barometer
+barometro
+
+the Old West
+il Vecchio West
+
+to refill a prescription
+ricaricare una prescrizione
+
+overall the school is ranked tenth in the country
+nel complesso la scuola è classificata decima nel paese
+
+to press a button
+premere un pulsante
+
+to sing one's part in a choir
+cantare la propria parte in un coro
+
+no flavor sticks out too much
+nessun sapore spicca troppo
+
+A divided by B
+A diviso B
+
+blood (adjective)
+sanguigno
+
+mercy
+la miseracordia
+
+to scrape up some money
+raschiare un po' di soldi
+
+to lay low
+stare alla larga; mantenersi basso
+
+to lay low for a while
+stare alla larga per un po'
 
