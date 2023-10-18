@@ -3070,7 +3070,7 @@ calpestare
 in check
 in scacco
 
-vanguard; avant-guarde
+forefront; vanguard; avant-guarde
 l'avanguardia
 
 leverage (adjective)
@@ -22001,7 +22001,7 @@ alcohol
 l'alcool
 
 to quantify
-quantitare
+quantificare
 
 quantitative
 quantitativo
@@ -58024,4 +58024,25 @@ non è un male
 
 it's not a good thing
 non è un bene; non è una cosa buona
+
+to reset
+reimpostare
+
+expense report
+il rapporto di spesa
+
+to fill out an expense report for reimbursement
+compilare un rapporto di spesa per il rimborso
+
+flooding (engine)
+l'ingolfamento
+
+to climb over; to bypass
+scavalare
+
+reflective
+riflettente
+
+life's goal; life goal
+l'obiettivo della vita; la meta della vita
 
