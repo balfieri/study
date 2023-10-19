@@ -58096,3 +58096,7 @@ inviare un rapporto di spesa
 
 to end in
 terminare in
+
+one word at a time
+una parola alla volta
+
