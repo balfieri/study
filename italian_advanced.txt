@@ -22598,7 +22598,7 @@ juvenile; youthful
 giovanile
 
 nap
-il pisolino
+il pisolino; il sonnolino
 
 to take a nap
 fare un pisolino
