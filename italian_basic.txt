@@ -433,7 +433,7 @@ mentre
 ok; that's fine; it's acceptable
 va bene; ok; ci sta
 
-how goes it?
+how goes it?; how's it going?
 come va?
 
 flight
