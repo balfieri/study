@@ -19928,7 +19928,7 @@ inner workings
 i meccanismi interni; il funzionamento interno
 
 suddenly; all of a sudden; abruptly; all at once
-all'improvviso; a un tratto
+all'improvviso; a un tratto; di colpo; improvvisamente
 
 preexisting condition
 la condizione preesistente
@@ -39569,7 +39569,7 @@ what does it have to do with you?
 che c'entra con te?
 
 abruptly
-bruscamente; improvvisamente
+bruscamente 
 
 tapering
 affusolato
