@@ -19928,7 +19928,7 @@ inner workings
 i meccanismi interni; il funzionamento interno
 
 suddenly; all of a sudden; abruptly; all at once
-all'improvviso
+all'improvviso; a un tratto
 
 preexisting condition
 la condizione preesistente
@@ -29374,8 +29374,11 @@ caspita
 to raise the question; to raise the issue
 sollevare la questione
 
-belief; dresser
+belief; dresser (ornate)
 la credenza
+
+dresser (bedroom)
+il comò
 
 palpable
 palpabile
@@ -45595,9 +45598,6 @@ rintanarmi
 tamed
 addomesticato
 
-suddenly
-a un tratto
-
 defeatist attitude
 l'atteggiamento sconfittista
 
@@ -58159,4 +58159,10 @@ riparare la parete; riparare il muro
 
 Mediterranean diet
 la dieta mediterranea
+
+I was and still am (something)
+sono rimasto (qualcosa)
+
+nightstand; bedside table
+il comodino; il tavolino da notte
 
