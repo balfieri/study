@@ -58258,3 +58258,7 @@ resistere a (qualcosa); opporsi a (qualcosa)
 
 to tour Italy
 girare l'Italia
+
+to stop the work
+arrestare il lavoro
+
