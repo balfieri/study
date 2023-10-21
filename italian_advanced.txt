@@ -27340,7 +27340,7 @@ imparziale
 disinterested
 disinteressato
 
-necklace
+necklace; book series
 la collana
 
 bracelet
