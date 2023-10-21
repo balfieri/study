@@ -922,8 +922,8 @@ il divano
 line; tail; queue
 la coda
 
-to get in line
-farsi la coda
+to get in line; to get in line; to queue up
+mettersi in fila; farsi la coda
 
 dangerous
 pericoloso
@@ -5908,9 +5908,6 @@ i biscotti al cioccolato
 Christmas Eve
 la Vigilia di Natale
 
-to breath
-respirare
-
 string
 la stringa
 
@@ -7875,3 +7872,7 @@ sei ore e mezza
 
 immediately; right away; at once
 subito
+
+to breathe
+respirare
+

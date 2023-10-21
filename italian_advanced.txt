@@ -14923,8 +14923,8 @@ lo spaccone
 despot
 il despote
 
-to inspire; to inhale; to prompt
-ispirare; inalare
+to inspire; to breathe in; to inhale; to prompt
+inspirare; inalare
 
 to digust; to sicken; to nauseate
 schifare
@@ -22867,7 +22867,7 @@ il sacerdote
 ruin
 la rovina
 
-basin
+basin; bottom (of body)
 il bacino
 
 edited; modified; amended
@@ -33220,9 +33220,6 @@ il rumore di fondo
 the overall goal
 l'obiettivo generale
 
-to inhale; to breathe in
-inspirare
-
 beach house
 casa al mare; casa sulla spiaggia
 
@@ -41823,9 +41820,6 @@ la nazione in via di sviluppo
 
 roughly; more or less
 grossomodo
-
-to get in line; to queue up
-mettersi in fila
 
 sleeping bag
 il sacco a pelo
@@ -58165,4 +58159,91 @@ sono rimasto (qualcosa)
 
 nightstand; bedside table
 il comodino; il tavolino da notte
+
+for the better
+in meglio
+
+the glutes
+i gluti
+
+pelvis
+i pelvi; il pelvico
+
+pelvic
+pelvico
+
+scapulae
+le scapole
+
+abdomen
+l'addomo
+
+pelvic floor
+il suolo pelvico
+
+postpartum
+post parto
+
+stop button
+il pulsantino dello stop
+
+stick; cue (in billiards)
+la stecca
+
+front axle
+l'avantreno; l'asse anteriore
+
+rear axel
+l'asse posteriore
+
+unboxing
+l'unboxing
+
+to unbox
+fare l'unboxing
+
+in line
+in fila
+
+in queue
+in coda
+
+to go off the rails; to go awry
+sballare
+
+esquire
+l'esquire
+
+malnutrition; under-nutrition
+denutrizione
+
+rickshaw
+il risciò
+
+ever increasing amount
+la quantità sempre maggiore
+
+ever greater; ever increasing
+sempre maggiore
+
+in the long run
+a lungo andare
+
+obesity rate
+il tasso di obesità
+
+snack cake
+la merendina
+
+in the process of
+in via di
+
+inner city
+il centro città
+
+atrophy
+l'atrofia
+
+gastrointestinal
+gastrointestinale
 
