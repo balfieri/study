@@ -39856,8 +39856,11 @@ nei loro confronti
 carnation
 il garofano
 
-to show up
-presentarsi; farsi vedere
+to show up; to introduce oneself; to present oneself
+presentarsi
+
+to be seen
+farsi vedere
 
 veteran
 il veterano
@@ -51547,9 +51550,6 @@ esorbitante
 to fix the leak
 riparare la perdita
 
-to show up; to introduce; to present
-presentarsi
-
 can
 la lattina; la scatoletta
 
@@ -58249,3 +58249,6 @@ gastrointestinale
 
 Allen key; hex key
 la chiave a brucola
+
+to get help
+farsi aiutare
