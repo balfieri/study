@@ -58277,3 +58277,6 @@ garare
 agitator
 l'agitatore; l'agitatrice
 
+regurgitation
+il rigurgito
+
