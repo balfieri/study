@@ -58280,3 +58280,9 @@ l'agitatore; l'agitatrice
 regurgitation
 il rigurgito
 
+nauseated
+nauseato
+
+nauseous
+nauseabondo
+
