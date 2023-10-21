@@ -37381,7 +37381,7 @@ soffrire in silenzio
 dormant
 dormiente; inattivo
 
-disgust; awfulness
+disgust; awfulness; revulsion
 lo schifo
 
 Python script
@@ -58268,3 +58268,5 @@ fare allenamento
 to work out ok; to end up ok; to go well
 andare bene
 
+to blow off; to blow away (dirt)
+soffiare via (sporcizia)
