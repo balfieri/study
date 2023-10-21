@@ -58265,3 +58265,6 @@ arrestare il lavoro
 to workout
 fare allenamento
 
+to work out ok; to end up ok; to go well
+andare bene
+
