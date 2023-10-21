@@ -26965,8 +26965,8 @@ monocorde
 sociable; social
 socievole
 
-do-it-yourself
-fai da te; fai-da-te
+do-it-yourself; DIY
+fai da te; fai-da-te; il bricolage
 
 workbench
 il banco da lavoro; il banco di lavoro
