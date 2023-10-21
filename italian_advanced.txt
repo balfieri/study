@@ -58262,3 +58262,6 @@ girare l'Italia
 to stop the work
 arrestare il lavoro
 
+to workout
+fare allenamento
+
