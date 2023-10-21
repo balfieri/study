@@ -58273,3 +58273,7 @@ soffiare via (sporcizia)
 
 to park
 garare
+
+agitator
+l'agitatore; l'agitatrice
+
