@@ -5681,7 +5681,7 @@ district (adjective)
 distrettuale
 
 membership; affiliation; belonging
-l’appartenenza
+l’appartenenza; il tesseramento
 
 to enrich; to endow; to fortify
 arricchire
@@ -31636,7 +31636,7 @@ lo watt
 kilowatt
 il chilowatt; il kilowatt
 
-amp
+amp; ampere
 l'ampere
 
 volt
@@ -58285,4 +58285,16 @@ nauseato
 
 nauseous
 nauseabondo
+
+glucose
+il glucosio
+
+to lodge
+alloggiare
+
+oxidase
+ossidasi
+
+chlorine
+il cloro
 
