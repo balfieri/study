@@ -1420,7 +1420,7 @@ il solco
 track
 la pista
 
-thickness
+thickness; spacer
 lo spessore
 
 to assign
@@ -9326,7 +9326,7 @@ laundry place; laundry (place)
 la lavanderia
 
 to make a U-turn
-fare inversione
+fare inversione; fare dietrofront
 
 gender is a construct
 il genere è un costrutto
@@ -44965,9 +44965,6 @@ l'avversità
 holes
 i pertugi
 
-to scratch
-scalfire
-
 bloody
 cruento
 
@@ -58298,3 +58295,83 @@ ossidasi
 chlorine
 il cloro
 
+loving wife
+la moglie amorevole
+
+to chase girls
+inseguire le ragazze
+
+rosette
+la rosetta
+
+rack and pinion
+il pignone corolla
+
+to reassemble
+rimontare
+
+reassembly
+il rimontaggio
+
+sleeve
+il manicotto
+
+toothlet
+il dentino
+
+roller bearing
+il cuscinetto a rullo
+
+all well
+tutto per bene
+
+cotter pin
+lo spillo a molla
+
+cut
+la mozza
+
+to review (quality)
+rivisionare
+
+double-barreled shotgun
+la doppietta
+
+nutritionist
+il nutrizionista; la nutrizionista
+
+to pierce
+bucarsi
+
+card-carrying member
+il tesserato; la tesserata
+
+it brings me back to my childhood
+mi riporta alla mia infanzia
+
+at the limit
+allo stremo
+
+to resign oneself
+riassegnarsi
+
+slaughterhouse
+il carneficio
+
+alienating
+estraniante
+
+to keep the commitment
+mantenere l'impegno
+
+to dissemble
+dissimulare
+
+eyelid
+la palpebra
+
+impatient
+spazientito
+
+to eat half of it
+mangiare la metà
