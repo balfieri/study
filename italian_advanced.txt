@@ -58472,4 +58472,18 @@ il limite superiore
 lower limit
 il limite inferiore
 
+passing grade
+il voto di sufficienza
+
+failing grade
+il voto insufficiente
+
+takeoff from a soft field
+il decollo da un campo morbido
+
+short-field landing
+l'atterraggio in campo corto
+
+soft-field landing
+l'atterraggio in campo morbido
 
