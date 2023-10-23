@@ -20084,7 +20084,7 @@ lowercase; tiny
 minuscolo
 
 helmet
-il casco
+il casco; l'elmetto
 
 vents
 la sfoga
@@ -22867,7 +22867,7 @@ il sacerdote
 ruin
 la rovina
 
-basin; bottom (of body)
+basin; pelvis; hip
 il bacino
 
 edited; modified; amended
@@ -38017,8 +38017,11 @@ la medicina sportiva
 to have a chat
 fare due chiacchere
 
-social security number
+social security number (USA)
 il numero di previdenza sociale; il numero di sicurezza sociale
+
+social security number (Italy)
+il codice fiscale
 
 this is not a good time
 non è un buon momento
@@ -58390,3 +58393,70 @@ in condizioni originali; originale
 
 cliffhanger; suspenseful situation
 la situazione sospesa; il finale aperto
+
+to catalyze
+scatalizzare
+
+to hold the nose up
+tenere il naso su
+
+she turns to her friend and she says
+si gira verso la sua amica e dice; si volta verso la sua amica e dice
+
+I know what you're thinking
+so cosa stai pensando
+
+upper-right
+in alto a destra
+
+upper-left
+in alto a sinistra
+
+lower-right
+in basso a destra
+
+lower-left
+in basso a sinistra
+
+this helmet fits well
+questo elmetto va bene
+
+fiscal domicile
+il domicilio fiscale
+
+foreign state
+lo stato estero
+
+federated state
+lo stato federato
+
+il certificate of attribution
+certificato di attribuzione
+
+act registration
+la registrazione atti
+
+junk food
+cibo spazzatura
+
+purposefully; specifically
+appostamente
+
+to let oneself go to the purchase
+lasciarsi andare all'acquisto
+
+to slip up; to make a mistake
+sgarrare
+
+to encourage each other
+incoraggiarsi a vicenda
+
+to bury the lead
+nascondere l'informazione principale
+
+movie ticket
+il biglietto del cinema
+
+to do a lot of things around the house
+fare un sacco di cose in casa
+
