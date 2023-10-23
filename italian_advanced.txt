@@ -40442,7 +40442,7 @@ Yours Truly
 Cordiali saluti; Distinti saluti
 
 perishable skill
-l'abilità deperibile
+l'abilità deperibile; la competenza peribile
 
 to perish
 perire
@@ -58492,4 +58492,7 @@ fai quello che ti sembra giusto
 
 line of people
 la fila di persone
+
+perishable
+deperibile; peribile
 
