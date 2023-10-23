@@ -58466,3 +58466,10 @@ il lavoro pertinente
 high cholesterol
 il colesterol alto
 
+upper limit
+il limite superiore
+
+lower limit
+il limite inferiore
+
+
