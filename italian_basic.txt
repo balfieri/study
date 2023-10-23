@@ -661,7 +661,7 @@ il fiore
 inside
 dentro
 
-on; up (prep)
+on; up
 su
 
 over; above
@@ -1546,7 +1546,7 @@ il giardino
 instead of
 invece di; al posto di
 
-instead of (adj/prep)
+instead of
 invece che
 
 rather; better yet; in fact; to the contrary
@@ -5140,7 +5140,7 @@ chi
 shape; form
 la forma
 
-even (prep.)
+even (preposition)
 pure
 
 ever; never

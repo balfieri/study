@@ -24559,7 +24559,7 @@ identico
 to change
 mutare
 
-well (prep.)
+well (preposition)
 ebbene
 
 isolation; insulation; seclusion
@@ -26092,7 +26092,7 @@ il carro
 equality
 l'eguaglianza
 
-favored (adj, to win)
+favored (adjective, to win)
 favorito
 
 favorite (n, to win)
