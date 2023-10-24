@@ -22867,7 +22867,7 @@ il sacerdote
 ruin
 la rovina
 
-basin; pelvis; hip
+pelvis; basin
 il bacino
 
 edited; modified; amended
@@ -58170,7 +58170,7 @@ the glutes
 i gluti
 
 pelvis
-i pelvi; il pelvico
+le pelvi; il bacino; il pelvico
 
 pelvic
 pelvico
@@ -58621,3 +58621,13 @@ le cose iniziano a rompersi
 
 after having turned 60
 dopo aver compiuto 60 anni
+
+in front of me
+davanti a me
+
+forward; ahead
+in avanti
+
+metabolism
+il metabolismo
+
