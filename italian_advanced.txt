@@ -58610,3 +58610,5 @@ la pistola
 within reason
 entro certi limiti
 
+to spend some time working on
+passare del tempo a lavorare su
