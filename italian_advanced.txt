@@ -58580,3 +58580,6 @@ lo sgarro
 to show; to reveal
 dare a vedere
 
+to hear (physical)
+udire
+
