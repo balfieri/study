@@ -58568,3 +58568,6 @@ incastonare
 I was biting my fingernails
 stavo mordendomi le unghie
 
+if we run out of things to talk about
+se ci finiscono le cose di cui parlare
+
