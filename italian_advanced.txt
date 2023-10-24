@@ -39064,8 +39064,11 @@ il dolciario
 question mark
 il punto interrogativo
 
+apostrophe
+l'apostrofo
+
 single quote
-l'apostrofo; la virgoletta singola
+la virgoletta singola
 
 double quote
 la virgoletta; la virgoletta doppia
