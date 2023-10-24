@@ -4399,7 +4399,7 @@ appieno
 combination; match
 l'abbinamento
 
-as; since; in as much as
+as; since; in as much as; in that
 in quanto
 
 excavation; dig
@@ -29551,7 +29551,7 @@ designato
 discrimination
 la discriminazione
 
-premised
+premised; prefaced
 premesso
 
 synthetic
@@ -58552,4 +58552,16 @@ la sinagoga
 
 antisemitism
 l'antisemitismo
+
+core (engine)
+il mezzo (motore)
+
+cervical spine
+il cervicale
+
+radio flash
+il lampo radio
+
+to set
+incastonare
 
