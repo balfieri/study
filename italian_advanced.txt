@@ -46624,7 +46624,7 @@ il nome di battesimo
 obedience school for dogs
 la scuola di obbedienza per cani
 
-over-protective
+overprotective; over-protective
 iperprotettivo
 
 I'm trying to convince my wife to
@@ -58597,3 +58597,4 @@ il termine correlato
 
 frugal
 frugale
+
