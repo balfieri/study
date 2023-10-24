@@ -26321,7 +26321,7 @@ transformed
 trasformato
 
 policeman
-il carabiniere
+il carabiniere; il gendarme
 
 donated
 donato
