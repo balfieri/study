@@ -85,7 +85,7 @@ l'altitudine; la quota
 farm field
 il campo agricolo
 
-to land
+to land; to touch down
 atterrare
 
 to take off
@@ -58603,4 +58603,10 @@ le plusvalenze
 
 capital gains tax
 l'imposta sulle plusvalenze
+
+gun; pistol
+la pistola
+
+within reason
+entro certi limiti
 
