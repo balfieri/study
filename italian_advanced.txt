@@ -24655,7 +24655,7 @@ la punteggiatura
 I can't stay mad at you
 non posso rimanere arrabbiato con te
 
-retreat (meeting)
+withdrawal; retreat (meeting)
 il ritiro
 
 retreat (troups); withdrawl
@@ -58531,4 +58531,13 @@ lo scaglione
 
 creepy man
 l'uomo inquietante; l'uomo spaventoso
+
+flame; blaze
+il fiamma; la fiamata
+
+toss
+il gettito
+
+consumer goods
+i prodotti di largo consumo
 
