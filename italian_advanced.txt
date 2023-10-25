@@ -58718,3 +58718,6 @@ il multitasking
 poor section
 il quartiere povero
 
+bad habit
+la cattiva abitudine
+
