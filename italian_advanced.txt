@@ -58733,3 +58733,6 @@ il motore ricostruito
 I'll let the mechanic look at it
 lascio che il meccanico lo guardi
 
+oil leak
+la perdita di olio
+
