@@ -58742,3 +58742,6 @@ l'ispezione approfondita
 fungible; interchangeable; mutually substitutable
 fungibile; sostituibile reciprocamente
 
+regardless of how small
+indipendentemente da quanto sia piccola
+
