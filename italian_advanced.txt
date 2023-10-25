@@ -58721,3 +58721,6 @@ il quartiere povero
 bad habit
 la cattiva abitudine
 
+perishable skill
+l'abilità deperibile
+
