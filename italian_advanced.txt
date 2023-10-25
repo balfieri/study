@@ -2986,8 +2986,8 @@ i dominali
 to chase; to run after; to pursue
 rincorrere
 
-these days
-oggi come oggi
+these days,
+oggi come oggi,
 
 wall; wall hanging
 il parato
@@ -6392,7 +6392,7 @@ act of God
 la forza maggiore
 
 these days
-in questo periodo
+in questo periodo; in questi giorni
 
 move; movement; gesture
 la mossa
