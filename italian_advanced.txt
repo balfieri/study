@@ -6148,7 +6148,7 @@ il malvivente
 scatterbrain; heedless; thwarted; foiled
 sventato
 
-to leak out; to rush out
+to leak out; to rush out; to spill out
 fuoriuscire
 
 vicinity
@@ -9157,7 +9157,7 @@ affinchiare
 to alert
 mettere in guardia
 
-to extend; to postpone
+to postpone; to defer; to extend
 prorogare
 
 how are things going?
@@ -11170,7 +11170,7 @@ le trincee
 to dredge up
 ripescare
 
-the reins
+reins
 le redini
 
 to chant; to articulate; to call out; to scan
@@ -16028,7 +16028,7 @@ there's no reception; there's no signal
 non c'è campo
 
 reins of government
-le redine del governo
+le redini del governo
 
 to cajole
 blandire
@@ -19123,7 +19123,7 @@ contemporaneo
 represented
 rappresentato
 
-contribution
+contribution; grant
 il contributo
 
 treaty; pact
@@ -45646,7 +45646,7 @@ il reattore nucleare
 crude
 greggio
 
-withdrawn
+withdrawn; taken
 prelevato
 
 clayey
@@ -58639,4 +58639,46 @@ la banalità del male
 
 helium
 l'elio
+
+injested
+ingerito
+
+startup project
+il progetto di avviamento
+
+to boast; to brag
+vantare
+
+in the pay slip
+nella busta paga
+
+provided
+provveduto
+
+typographical errors; misprints
+gli errori di stampa; i refusi
+
+pro-rector
+il prorettore; la prorettrice
+
+on the matter
+in materia
+
+equivalent (noun)
+il corrispettivo
+
+obbligation of manual verification
+l'obbligo di verifica manuale
+
+opposition; adversity
+la contrarietà
+
+net of
+al netto di
+
+swamp; marsh
+il pantano
+
+bureaucratization
+la burocratizzazione
 
