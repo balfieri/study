@@ -15409,7 +15409,7 @@ comportarsi da persona matura
 brand new; good as new; brand-spanking new; completely new
 nuovissimo; completamente nuovo; nuovo di pacca; nuovo di zecca
 
-in mint condition
+in mint condition; like new
 come nuovo
 
 old hat
@@ -58726,4 +58726,7 @@ l'abilità deperibile
 
 to plot; to scheme
 tramare
+
+rebuilt engoine
+il motore ricostruito
 
