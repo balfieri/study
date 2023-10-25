@@ -5152,8 +5152,11 @@ meno
 society; company; corporation (European)
 la società
 
-place
-il luogo; il posto; la locazione
+place (larger area)
+il luogo; la locazione
+
+place (specific); seat
+il posto
 
 some
 alcuni; qualche
@@ -5370,9 +5373,6 @@ Napoli
 
 research; search; quest
 la ricerca
-
-place; seat
-il posto
 
 chair (usually in a house); seat; stool
 la sedia
