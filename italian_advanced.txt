@@ -9976,7 +9976,7 @@ la mentalità
 gripping; riveting; absorbing; exciting; addictive
 avvincente
 
-to shriek
+to shriek; to squeal; to squawk
 strillare
 
 better looking
@@ -56792,9 +56792,6 @@ allettare
 distinguished
 contraddistinta
 
-to croak
-gracchiare
-
 gramophone
 il grammofono
 
@@ -58745,3 +58742,5 @@ fungibile; sostituibile reciprocamente
 regardless of how small
 indipendentemente da quanto sia piccola
 
+to caw; to croak (sound)
+gracchiare
