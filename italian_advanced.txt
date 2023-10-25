@@ -436,8 +436,11 @@ i buoi
 laurel
 l'alloro
 
-to return; to restore; to give back
-restituire; ritornare
+to return (something); to restore; to give back
+restituire
+
+to return (act, metaphorically)
+ritornare
 
 bossy; arrogant; overbearing
 prepotente
@@ -58693,3 +58696,7 @@ sopra la mia spalla
 
 to think; to ponder; to consider
 cogitare
+
+refund; reimbursement
+il rimborso
+

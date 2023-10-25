@@ -2746,7 +2746,7 @@ ascoltare
 to teach
 insegnare
 
-to return (go back)
+to return (go back to a specific place)
 tornare
 
 to begin; to start
@@ -3033,9 +3033,6 @@ garantire
 
 to contribute
 contribuire
-
-to return (item)
-restituire
 
 to remember
 ricordarsi di
@@ -4932,9 +4929,6 @@ fare domande
 
 to disappoint (someone); to underwhelm
 deludere
-
-refund; reimbursement
-il rimborso
 
 to host
 ospitare
