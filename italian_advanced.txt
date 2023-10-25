@@ -27799,9 +27799,6 @@ essere in torto; essere nel torto
 wrong question
 la domanda sbagliata
 
-senile
-rimbambito
-
 rolling up; rolling; winding
 l'arrotolamento
 
@@ -35747,7 +35744,7 @@ shaken by the truth
 sconvolto dalla verità
 
 senile
-senile
+senile; rimbambito
 
 gap year
 l'anno sabbatico
