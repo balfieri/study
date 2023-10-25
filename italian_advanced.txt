@@ -23857,7 +23857,7 @@ la collettività
 disciplinary
 disciplinare
 
-dissolution; dissolving
+dissolution; dissolving; melting
 lo scioglimento
 
 amount; sum
@@ -58630,4 +58630,7 @@ in avanti
 
 metabolism
 il metabolismo
+
+to enter little by little
+entrare poco per volta
 
