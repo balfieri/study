@@ -41045,7 +41045,7 @@ non-profit
 non-profit; no-profit
 
 large language model (LLM)
-il modello linguistico di grandi dimensioni
+il modello linguistico di grandi dimensioni; il grande modello di linguaggio
 
 doomsday scenario
 lo scenario apocalittico
