@@ -18037,8 +18037,8 @@ vivere in un limbo
 to come to the fore
 venire alla ribalta
 
-to make a mess; to mess things up
-fare un casino; fare casino
+to make a mess; to mess things up; to bungle
+fare un casino; fare casino; fare un pasticcio
 
 behind his back
 alle sue spalle
@@ -58883,3 +58883,5 @@ imbranare
 have I already told you that?
 te l'ho già detto?
 
+workflow
+il flusso di lavoro
