@@ -58841,3 +58841,12 @@ in giro per il centro
 around the streets
 in giro per le strade
 
+fishing boat
+la barca da pesca
+
+fishing pole
+la canna da pesca
+
+fishing gear
+l'attrezzatura da pesca
+
