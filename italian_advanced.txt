@@ -6379,7 +6379,7 @@ imporre
 delivery
 la consegna
 
-ban; notice
+ban; notice; ban
 il bando
 
 scholarship; grant
