@@ -58871,3 +58871,5 @@ spolverare con lo straccio
 to dry mop
 passare l'asciugamano a terra
 
+to ask (somebody) to (do something)
+chiedere a (qualcuno) di (fare qualcosa)
