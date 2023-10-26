@@ -2083,7 +2083,7 @@ stare in piedi
 to cope; to manage; to get on; to be able to do it
 farcela
 
-outlet; socket; hold; grip
+outlet; socket; hold; grip; taking
 la presa
 
 thermal underwear
@@ -29494,7 +29494,7 @@ la lastra
 apostolic
 apostolico
 
-massacre
+massacre; carnage
 la strage
 
 generosity
@@ -38858,7 +38858,7 @@ to meditate
 meditare
 
 to scrutinize
-scrutare
+scrutinare; scrutare
 
 let me back up
 lasciami tornare indietro; fammi fare un passo indietro
@@ -58897,3 +58897,18 @@ arricciare
 
 to enrich
 arricchiare
+
+to wander the streets
+girare per le strade; fare un giro per le strade
+
+to tour the city; to go around the city
+girare per la città; fare un giro per la cittã
+
+to travel around the world
+girare per il mondo; fare un giro per il mondo
+
+to travel around the country
+girare per il paese; fare un giro per il paese
+
+to walk around the neighborhood; to tour the neighborhood; to go around the neighborhood
+girare per il quartiere; fare un giro per il quartiere
