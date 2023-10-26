@@ -2731,7 +2731,7 @@ inquinare
 fossil fuels
 i combustibili fossili
 
-at first glance; at first sight
+at first sight
 a prima vista
 
 in the short term
@@ -58804,4 +58804,7 @@ pedinato
 
 to kick
 prendere a calci
+
+at a glance
+a colpo d'occhio
 
