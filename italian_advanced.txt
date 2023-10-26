@@ -241,9 +241,6 @@ al volgere del secolo
 time zone
 il fuso orario
 
-to turn
-volgere
-
 to involve
 convolgere
 
