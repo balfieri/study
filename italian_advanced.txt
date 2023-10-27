@@ -5408,7 +5408,7 @@ catchy tune
 la canzone orecchiabile; la melodia orecchiabile
 
 strategem; ruse; gimmick
-lo stratagemma
+lo stratagemma; lo stratabagista
 
 to get inside someone's head
 entrare nella sua testa
@@ -5716,7 +5716,7 @@ Pesach
 to mention; to hint at
 citare; accennare; menzionare
 
-acceptable; effective; valid
+acceptable; effective; valid; efficacious
 efficace; accettabile
 
 valuable
@@ -6376,7 +6376,7 @@ imporre
 delivery
 la consegna
 
-ban; notice; ban
+open call; call for applications; public notice; ban
 il bando
 
 scholarship; grant
@@ -25937,7 +25937,7 @@ lesbianism
 il lesbismo
 
 efficient
-efficace; efficiente
+efficiente; efficace
 
 existential
 esistenziale
@@ -34049,7 +34049,7 @@ to decelerate
 decelerare
 
 to purify
-depurare
+purificare; depurare
 
 unequal
 disuguale
@@ -58924,4 +58924,82 @@ a stretto giro
 
 flat tax
 la cedolare Secca
+
+seizure; foreclosure
+il pignoramento
+
+replicable
+replicabile; riproducibile
+
+car sickness
+il mal d'auto
+
+shootout; shooting
+la sparatoria
+
+to command respect
+comandare rispetto
+
+to earn respect
+farsi rispettato
+
+house on the hill
+la casa sulla collina
+
+earthworm
+il lombrico
+
+killer whale
+l'orca
+
+humpback whale
+la megattera
+
+kelp
+il kelp
+
+saber
+la sciabola
+
+roar
+il ruggito
+
+beaked whale
+lo zifio
+
+sloth
+il bradipo
+
+to feel carsick
+sentirsi mal d'auto
+
+monstrous
+mostruoso
+
+mountain hut
+la baita montana
+
+hut
+la baita
+
+imbalance
+lo scompenso
+
+visually impaired
+ipovedente
+
+self-assertion
+l'autoaffermazione
+
+to lean towards
+propendere
+
+cornerstone
+il caposaldo
+
+to become familiar with (something)
+diventare familiare con (qualcosa)
+
+indescribable
+indescrivibile
 
