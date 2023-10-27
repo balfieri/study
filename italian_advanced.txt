@@ -58902,7 +58902,7 @@ to wander the streets
 girare per le strade; fare un giro per le strade
 
 to tour the city; to go around the city
-girare per la città; fare un giro per la cittã
+girare per la città; fare un giro per la città
 
 to travel around the world
 girare per il mondo; fare un giro per il mondo
@@ -59002,4 +59002,13 @@ diventare familiare con (qualcosa)
 
 indescribable
 indescrivibile
+
+world record
+il record mondiale
+
+to go for the world record
+cercare di ottenere il record mondiale
+
+the most (number)
+il maggior numero
 
