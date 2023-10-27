@@ -42292,7 +42292,7 @@ smorto; appassito
 wall painting; mural
 la pittura murale; la murale
 
-editing
+editing; assembly
 il montaggio
 
 scallop
