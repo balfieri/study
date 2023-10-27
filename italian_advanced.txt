@@ -59032,3 +59032,9 @@ l'aterosclerosi
 
 arterial
 arterioso
+
+at worst
+al peggio
+
+at best
+al meglio
