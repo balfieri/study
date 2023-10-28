@@ -445,7 +445,7 @@ volare
 entrance; ingress
 l'ingresso
 
-exit; way out; egress
+exit; way out; egress; outing
 l'uscita
 
 to enter; to go in
@@ -5854,7 +5854,7 @@ il compagno; la compagna
 partner
 il partner; la partner
 
-fiancé
+fiancé; serious boyfriend; serious girlfriend
 il fidanzato; la fidanzata
 
 it is supposed to be; it should be
