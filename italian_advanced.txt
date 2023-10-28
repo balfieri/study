@@ -59054,7 +59054,7 @@ l'ossitocina
 thalamus
 il talamo
 
-moan
+moan; groan
 il gemito
 
 erectile
@@ -59194,3 +59194,7 @@ predicare
 
 ex-fiancé; ex-serious boyfriend; ex-serious girlfriend
 lo sfidanzato; la sfidanzata
+
+grumble
+il brontolio
+
