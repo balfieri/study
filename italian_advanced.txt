@@ -9493,7 +9493,7 @@ la ceramica
 collision
 la collisione; il tamponamento
 
-ride
+ride; passage
 il passaggio
 
 perfect storm
@@ -27605,7 +27605,7 @@ finally; permanently; forever
 definitivamente
 
 psychic
-il sensitivo
+il sensitivo; la sensitiva
 
 insatiable
 insaziabile
@@ -42565,8 +42565,8 @@ come ti fa sentire?
 there are a lot of moving parts
 ci sono molte parti in movimento
 
-scappottare
 to uncover; to uncap
+scappottare
 
 of same-sex parents
 omogenitoriale
@@ -59227,4 +59227,19 @@ la canna del fiume
 
 pastry chef
 il pasticcere; la pasticcera
+
+to pick up (an object)
+raccogliere (un oggetto)
+
+dissonance
+la dissonanza
+
+ad nauseum
+ad nauseam
+
+I don't know what to say about him
+non so cosa dire su di lui
+
+I don't know what to think about him
+non so cosa pensare di lui
 
