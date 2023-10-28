@@ -6062,7 +6062,7 @@ to identify with (a character)
 immedesimarsi in
 
 container
-il contenitore
+il contenitore; il recipiente
 
 organic vegetables
 le verdure biologiche
@@ -59206,4 +59206,19 @@ la lingua a penzoloni
 
 mutton chops; big sideburns
 i baffoni
+
+jug; pot
+il bricco
+
+Capuchin friar
+il frate cappuccino
+
+long robe worn by Capuchin friars
+il saio
+
+container; recipient
+il recipiente
+
+off schedule; outside the usual time
+fuori orario
 
