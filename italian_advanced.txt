@@ -26266,7 +26266,7 @@ fuori questione; fuori discussione
 all everyone talked about
 tutto ciò di cui tutti parlavano
 
-makeshift; improvised
+makeshift; improvised; impromptu
 improvvisato
 
 she catches me (doing something)
@@ -59038,4 +59038,109 @@ al peggio
 
 at best
 al meglio
+
+breastfeeding
+l'allattamento
+
+a baby's cry
+il pianto di un neonato
+
+urgent
+impellente
+
+oxytocin
+l'ossitocina
+
+thalamus
+il talamo
+
+moan
+il gemito
+
+erectile
+erettile
+
+attenuated
+attenuto
+
+alignment
+l'allineamento
+
+centralization
+l'accentramento
+
+sleight of hand
+il gioco di prestigio
+
+downgrading
+il depotenziamento
+
+to do calculation
+fare di calcolo
+
+deep learning
+l'apprendimento profondo
+
+multilayer
+multistrato
+
+desolate
+desolante
+
+heinousness
+la nefandezza
+
+withdrawal method
+il metodo del ritiro
+
+coitus interruptus
+il coito interrotto
+
+counterproof
+la controprova
+
+please accept my apology
+per favore accetta le mie scuse
+
+jammed
+inceppato
+
+fulfillment
+l'appagamento
+
+committed to choosing
+impegnato a scegliere
+
+what has been learned
+quanto appreso
+
+to counterattack
+contrattaccare
+
+to keep silent; to hush
+tacere; zittire
+
+cervix
+il collo dell'utero
+
+breast tumor
+il tumore alla mammella
+
+mammography
+la mammografia
+
+early diagnosis
+la diagnosi precoce
+
+extemporaneous
+estemporaneo
+
+ultrasound
+l'ecografia
+
+diagnostic power
+il potere diagnostico
+
+breast
+la mammella
 

@@ -2095,10 +2095,10 @@ vicino
 behind
 dietro
 
-around (less precise); about
+around (circling a point); about
 attorno a
 
-around (more precise)
+around (more flexible)
 intorno a
 
 on the right; to the right
@@ -3160,7 +3160,7 @@ rimanere
 to go up; to ascend; to get into; to mount
 salire
 
-to know
+to know; to know how (to do something)
 sapere
 
 to keep
