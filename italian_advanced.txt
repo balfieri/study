@@ -38237,7 +38237,7 @@ string of errors
 la sfilza di errori
 
 relaxation
-la distensione
+il rilassamento; il relax; la distensione
 
 to feed
 dare in pasto
@@ -55429,8 +55429,8 @@ accettare controvoglia
 alcoholic drink
 la bevanda alcolica
 
-to keep company
-fare compagnia; tenere compagnia
+to keep (somebody) company
+fare compagnia a (qualcuno); tenere compagnia a (qualcuno)
 
 clumsy driver
 l'imbranato alla guida
@@ -59167,3 +59167,13 @@ il contratto a tempo determinato
 
 mansion; big detached house
 il villone
+
+safety shoes
+le scarpe di sicurezza
+
+to let one's imagination fly; to let your mind wander
+fare volare con la fantasia; lasciare volare la propria immaginazione; lasciare vagare la mente
+
+moment of serenity
+il momento di serenità
+
