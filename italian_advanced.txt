@@ -58110,7 +58110,7 @@ memory block; block of memory
 il blocco di memoria
 
 bodyweight exercise; exercise based on body weight
-l'esercizio basato sul peso corporeo
+l'esercizio con il peso corporeo; l'esercizio basato sul peso corporeo
 
 snoring
 il russare
