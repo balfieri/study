@@ -20209,7 +20209,10 @@ la grande apertura; l'inaugurazione
 to exceed
 eccedere
 
-exhausted
+exhausted (physical)
+esausto
+
+exhausted (mental); depleted; sold out
 esaurito
 
 bad habit; vice
