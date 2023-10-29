@@ -1526,7 +1526,7 @@ to spend (money)
 spendere
 
 lens
-il lente
+la lente
 
 in the meantime
 intanto

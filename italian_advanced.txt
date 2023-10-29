@@ -26767,7 +26767,7 @@ la sbarra
 discoverer
 lo scopritore
 
-unreachable
+unreachable; unattainable
 irraggiungibile
 
 to be on razor's edge
@@ -42457,7 +42457,7 @@ lo scappuccio
 trendy
 alla moda; di tendenza
 
-start; way (start)
+start; beginning; the way (start)
 il via
 
 washcloth
@@ -59362,4 +59362,25 @@ la discriminazione di genere
 
 parody
 la parodia
+
+over 60 years old
+oltre i 60 anni
+
+running (adjective)
+in corsa
+
+under 30 years old
+sotto i 30 anni
+
+I want to reach midway between here and there
+voglio raggiungere a metà strada tra qui e là
+
+reachable; attainable
+raggiungibile
+
+halfway
+a metà strada
+
+midpoint
+il punto medio
 
