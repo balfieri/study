@@ -3333,3 +3333,6 @@ stupido; tonto
 high five!; give me five!
 dammelo cinque!
 
+happy as a clam
+contento come una pasqua
+
