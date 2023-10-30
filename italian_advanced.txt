@@ -13996,7 +13996,7 @@ l'agorafobia
 bocce
 le bocce
 
-cue ball
+cue ball; bocce ball
 il pallino
 
 billiards
@@ -21085,7 +21085,7 @@ allorché
 nonentity; zero
 la nullità
 
-maintenance
+maintenance; support (financial)
 il mantenimento
 
 competent; qualified
@@ -57107,7 +57107,7 @@ nutrizionale
 magnesium
 il magnesio
 
-blood pressure
+blood pressure; BP
 la pressione sanguigna
 
 to take (someone's) blood pressure
@@ -59389,4 +59389,82 @@ il punto medio
 
 self-storage
 il self-storage
+
+exhausted
+strenato
+
+to exhaust
+strenare
+
+obsolete
+desueto
+
+brain teaser
+il grattacapo
+
+impending
+incombente
+
+wrapped
+incartato
+
+subsidy
+il sovvenzionamento
+
+to fade
+affievolirsi
+
+rejected
+rigettato
+
+to endorse
+avallare
+
+type A personality
+la personalità di tipo A
+
+I have a 2023 Vespa Primavera S 150
+ho una Vespa Primavera S 150 del 2023
+
+bowling ball
+la palla da bowling
+
+baseball
+la palla da baseball
+
+bocce ball
+la palla di bocce
+
+clay court
+la terra battuta
+
+in the normal range
+nella gamma normale
+
+child molester
+il molestatore di bambini
+
+male grooming
+la cura della persona maschile
+
+hair conditioner
+il balsamo per capelli
+
+shampoo
+lo shampoo
+
+hand soap
+il sapone per le mani
+
+dish soap
+il detersivo per piatti
+
+body soap
+il sapone per il corpo
+
+lip balm
+il balsamo per le labbra
+
+incense
+l'incenso
 
