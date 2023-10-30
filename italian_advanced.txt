@@ -236,7 +236,10 @@ to fall for it
 cascarci
 
 at the turn of the century
-al volgere del secolo
+al cambio del secolo; al volgere del secolo
+
+around the turn of the century
+intorno al cambio del secolo
 
 time zone
 il fuso orario
