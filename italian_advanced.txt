@@ -59506,3 +59506,6 @@ sì, lo sono
 
 just as good
 altrettanto buono
+
+to vacuum-seal
+sigillare sottovuoto
