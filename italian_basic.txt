@@ -7870,3 +7870,5 @@ subito
 to breathe
 respirare
 
+pink
+rosa
