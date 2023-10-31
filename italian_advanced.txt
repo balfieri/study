@@ -59596,3 +59596,6 @@ l'islamofobia
 
 allied
 alleato
+
+grail
+il graal
