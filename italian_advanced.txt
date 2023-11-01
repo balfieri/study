@@ -59726,3 +59726,6 @@ dichiararsi innocente
 worldly
 mondano
 
+to plead
+implorare; supplicare
+
