@@ -7754,7 +7754,10 @@ potential
 potenziale
 
 to read minds
-leggere nel pensiero; leggere nelle menti; leggere il pensiero
+leggere la mente; leggere nel pensiero; leggere nelle menti; leggere il pensiero
+
+mind-reader
+il lettore di menti; la lettrice di menti
 
 how crazy are you?
 quanto sei pazzo?
@@ -59729,3 +59732,5 @@ implorare; supplicare
 encore
 il bis
 
+reader
+il lettore; la lettrice
