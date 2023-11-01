@@ -59740,3 +59740,6 @@ prima ancora di; ancora prima di
 
 duration
 la durata
+
+a few moments
+alcuni momenti
