@@ -59762,3 +59762,5 @@ la frattura da stress
 service animal
 l'animale di servizio
 
+deviousness; malice
+la malizia
