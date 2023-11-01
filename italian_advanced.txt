@@ -26005,6 +26005,9 @@ il discepolo
 provisional; tentative
 provvisorio
 
+tentatively; provisionally
+in modo provvisorio
+
 invasion
 l'invasione
 
@@ -59743,3 +59746,9 @@ la durata
 
 a few moments
 alcuni momenti
+
+tentative offer
+l'offerta provvisoria
+
+tentative plan
+il piano provvisorio
