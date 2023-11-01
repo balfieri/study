@@ -1675,8 +1675,11 @@ affabile
 standoffish
 scostante
 
-to strain; to struggle
+to strain; to struggle; to labor
 fare fatica
+
+to work hard (struggling)
+faticare
 
 to find easy
 avere facilità
@@ -7053,9 +7056,6 @@ sig.a (pronunciata signora)
 
 cheap
 di bidone
-
-to labor; to work
-fare fatica; faticare
 
 off limits
 oltre ogni limite; off limits
@@ -52121,7 +52121,7 @@ margin loan
 il prestito a margine
 
 mundane
-mondano
+quotidiano; banale
 
 prohibited
 interdetto
@@ -59602,4 +59602,127 @@ il graal
 
 pointed at; singled out
 additato
+
+potato masher; potato ricer
+lo schiacciapatate
+
+to behave yourself; to be a good boy
+fare il bravo
+
+to behave yourself; to be a good girl
+fare la bravo
+
+translucent
+traslucido
+
+dishing out; serving on plates
+l'impiattamento
+
+cartridge case
+il bossolo
+
+upside down
+capovolto
+
+bullet
+la pallottola
+
+paleness
+il pallore
+
+motion sickness
+la cinetosi
+
+receptor
+il recettore
+
+to come to conclusions
+giungere a conclusioni
+
+budget law
+la legge di bilancio
+
+whimsical
+bizzarro; capriccioso
+
+on a whim
+su un capriccio
+
+to push (violently)
+spintonare
+
+to become stubborn
+intestardire
+
+to harden
+indurirsi
+
+smug
+tronfio
+
+to hope (archaic)
+spererare
+
+financial income
+le entrate finanziarie
+
+to settle
+dirimere
+
+hedonic
+edonico
+
+hedonic adaptation
+l'adattamento edonico
+
+to knock out
+mettere KO
+
+out of combat
+fuori combattimento
+
+in relief
+in rilievo
+
+precipitous
+precipitevole
+
+esophagus
+l'esofago
+
+expatriation
+l'espatrio
+
+to cross the border
+varcare il confine
+
+to cross the limit
+varcare il limite
+
+disempowered
+esautorato
+
+amnesty
+l'amnistia
+
+public property
+il demanio
+
+motorboat
+il motoscafo
+
+complication
+la complicanza
+
+ducilation
+la ducilazione
+
+to reunite
+ricongiungersi
+
+to plead innocent
+dichiararsi innocente
+
+worldly
+mondano
 
