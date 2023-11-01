@@ -59726,3 +59726,6 @@ mondano
 to plead
 implorare; supplicare
 
+encore
+il bis
+
