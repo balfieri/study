@@ -59734,3 +59734,7 @@ il bis
 
 reader
 il lettore; la lettrice
+
+before even; even before
+prima ancora di; ancora prima di
+
