@@ -59846,3 +59846,6 @@ riesumare; riesumare
 gym membership
 l'abbonamento alla palestra
 
+voiceover
+la voce fuori campo
+
