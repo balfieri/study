@@ -2791,11 +2791,11 @@ rifiutare
 to play (instrument)
 suonare
 
-to think about (something/somebody)
-pensare a (qualcosa/qualcuno)
+to think about (have someone/something in your thoughts, pondering whether to do something)
+pensare a
 
-to think about (doing something)
-pensare di (fare qualcosa)
+to think about (opinion on someone/something, intending to do something)
+pensare di
 
 to continue
 continuare
