@@ -12847,7 +12847,7 @@ l'espanzione
 to overuse; to abuse
 abusare
 
-colander
+strainer
 il colino
 
 to groan (negative); to moan (negative)
@@ -47413,7 +47413,7 @@ essere in bilico
 more or less; roughly
 su per giù; suppergiù
 
-approximately
+approximately; roughly
 all'incirca
 
 in the background
@@ -59764,3 +59764,49 @@ l'animale di servizio
 
 deviousness; malice
 la malizia
+
+relaxing
+rilassante; riposante
+
+weak; feeble
+sciappo
+
+to decant; to pour
+travasare
+
+absorbed
+assorbito
+
+savoriness
+la sapidità
+
+bitterish
+amarognolo
+
+to smash; to pulp
+spappolare
+
+smashed; pulped
+spappolato
+
+botanical garden
+l'orto botanico
+
+wine-growing
+il vitivinicolo
+
+flair
+il fiuto
+
+concrete
+il calcestruzzo
+
+ostrich
+lo struzzo
+
+to disregard
+apprescindere
+
+to presume
+presumere
+
