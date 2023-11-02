@@ -976,7 +976,7 @@ la perseveranza
 contestant
 il concorrente
 
-royalty (artist); royalties
+royalty (artist); royalties; authors' rights
 i diritti d'autore
 
 picky; fussy; choosy
@@ -59882,3 +59882,11 @@ la mastectomia
 conflation
 la conflazione
 
+to sideline (somebody)
+mettere in disparte (qualcuno)
+
+to be on the sidelines
+stare in disparte
+
+on the sidelines
+in disparte
