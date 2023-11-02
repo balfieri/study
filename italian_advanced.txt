@@ -191,7 +191,7 @@ to stare at; to gaze at; to establish; to secure
 fissare
 
 to face; to tackle; to confront
-affrontare; fare fronte a
+affrontare; fare fronte a; fronteggiare
 
 diagram; sketch
 lo schema
@@ -59809,4 +59809,3 @@ apprescindere
 
 to presume
 presumere
-
