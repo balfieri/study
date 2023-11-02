@@ -59893,3 +59893,7 @@ in disparte
 
 mix (audio)
 il mix
+
+compound annual growth rate (CAGR)
+il tasso di crescita annuo composto (CAGR)
+
