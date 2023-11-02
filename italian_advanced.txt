@@ -59897,3 +59897,6 @@ il mix
 compound annual growth rate (CAGR)
 il tasso di crescita annuo composto (CAGR)
 
+geometric average
+la media geometrica
+
