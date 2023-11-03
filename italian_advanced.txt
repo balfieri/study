@@ -14197,9 +14197,6 @@ concretizzare
 to solidify; to make solid
 solidificare
 
-to rack one's brain
-scervellare
-
 strongly; keenly
 vivamente
 
@@ -37885,9 +37882,6 @@ la laparoscopia
 I know a guy who knows a guy
 conosco un tizio che conosce un altro tizio
 
-to rack one's brain
-spremersi il cervello
-
 to be of great help
 essere di grande aiuto
 
@@ -59905,4 +59899,22 @@ non ci resta che piangere; non c'è altro per noi se non piangere
 
 we have nothing left; there is nothing left for us
 non ci resta; non ci rimane
+
+to lean against (something)
+appoggiarsi a (qualcosa)
+
+jot down some notes
+buttare giù alcune note; annotare alcune note
+
+kite
+l'aquilone
+
+box kite
+l'aquilone a scatola
+
+in defiance of; in spite of
+in barba a
+
+olive oil cake
+la torta all'olio d'oliva
 
