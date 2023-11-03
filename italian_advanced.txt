@@ -1079,7 +1079,7 @@ certainly; without doubt
 senzaltro; senz'altro
 
 golf hole
-il percorso da golf
+la buca da golf; il percorso da golf
 
 golf ball
 la palla da golf; la pallina
@@ -59868,7 +59868,7 @@ to give the evil eye
 fare il malocchio
 
 to swing a golf club
-oscillare un bastone da golf
+oscillare una mazza da golf
 
 mastectomy
 la mastectomia
@@ -59947,4 +59947,10 @@ ridursi a
 
 they never ask us how we are doing
 non ci chiedono mai come stiamo
+
+to putt
+mettere in buca; fare un putt
+
+putter
+il putter
 
