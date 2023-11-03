@@ -3101,7 +3101,7 @@ to get used to
 abituarsi a
 
 to be used to
-essere abituato a
+essere abituati a
 
 to fall in love
 innamorarsi
@@ -4001,7 +4001,7 @@ headache
 il mal di testa
 
 to be sick
-essere malato
+essere malati
 
 health
 la salute
@@ -5840,10 +5840,10 @@ hobby
 l'hobby; il passatempo
 
 to be interested in (doing something)
-essere interessato a (fare qualcosa)
+essere interessati a (fare qualcosa)
 
 to be interested in (finding out more)
-essere curioso di; essere curiosito di
+essere curiosi di; essere curiositi di
 
 airline ticket; plane ticket
 il biglietto aereo
@@ -7610,10 +7610,10 @@ cafe (coffee place); bar (food, coffee)
 il bar
 
 to be good at (doing something)
-essere bravo a
+essere bravi a
 
 to be good in (a school subject)
-essere bravo in
+essere bravi in
 
 pronunciation
 la pronuncia

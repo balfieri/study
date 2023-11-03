@@ -229,7 +229,7 @@ to poo-poo (something)
 scagazzare sopra (qualcosa)
 
 to be under the weather
-essere indisposto (formale); non sentirsi bene
+essere indisposti (formale); non sentirsi bene
 
 it's not rocket science; you don't have to be a rocket scientist (or brain surgeon); it's a piece of cake; it's a no-brainer
 è un gioco da ragazzi
@@ -991,7 +991,7 @@ to peel the onion
 pelare la cipolla; sbucciare la cipolla
 
 to be born with a silver spoon in one's mouth
-essere nato con la camicia
+essere nati con la camicia
 
 back in the saddle
 tornato in sella
@@ -1099,7 +1099,7 @@ the lights are on upstairs but nobody's home
 è completamente pazzo
 
 to not be the sharpest tool in the shed
-essere stupido
+essere stupidi
 
 right on!
 assolutamente!; esatto!; perfetto!
@@ -1207,7 +1207,7 @@ factoid
 la notiziola
 
 to talk a good game
-essere bravo a parole; essere bravo a chiacchierare; parlare un buon gioco
+essere bravi a parole; essere bravi a chiacchierare; parlare un buon gioco
 
 bring it in for a hug
 dammi un abbraccio
@@ -1276,7 +1276,7 @@ that's no small feat
 non è da poco
 
 to steamroll
-essere delicato come un bulldozer; andare a rullo
+essere delicati come un bulldozer; andare a rullo
 
 the real deal
 quello autentico
@@ -1309,7 +1309,7 @@ parallel play
 il gioco parallelo
 
 to be up for (something)
-essere pronto e desideroso di (fare qualcosa)
+essere pronti e desiderosi di (fare qualcosa)
 
 I just don't get it
 proprio non capisco
@@ -1441,7 +1441,7 @@ humor me for a second
 dammi corda per un secondo
 
 to be pumped
-essere carico
+essere carichi
 
 to have it all figured out
 avere tutto sotto controllo
@@ -2053,7 +2053,7 @@ to tie the knot; to get hitched
 legare il nodo; sposarsi
 
 to be beat (tired)
-essere esausto; essere stanco
+essere esausti; essere stanchi
 
 to turn off (displease)
 dispiacere; spegnere
@@ -2275,7 +2275,7 @@ to quit cold turkey
 smettere improvvisamente e completamente
 
 to run around like a chicken with your head cut off
-agire in modo caotico; essere molto disorganizzato
+agire in modo caotico; essere molto disorganizzati
 
 to smell a rat
 sospettare che qualcosa non vada
@@ -2314,7 +2314,7 @@ to hit the mark
 raggiungere un obiettivo; avere successo
 
 to hit below the belt
-agire in modo scorretto; essere meschino
+agire in modo scorretto; essere meschini
 
 in the ballpark
 vicino all'importo corretto
@@ -2359,7 +2359,7 @@ bare-bones
 minimo; essenziale
 
 to be a bundle of nerves
-essere molto ansioso o teso
+essere molto ansiosi o tesi
 
 by the skin of your teeth
 per un pelo; appena
@@ -2884,10 +2884,10 @@ I have them eating out of the palm of my hand
 li ho nel palmo della mia mano
 
 to be rough around the edges
-essere grezzo nei modi
+essere grezzi nei modi
 
 to go postal
-perdere il controllo; diventare estremamente arrabbiato, possibilmente violente
+perdere il controllo; diventare estremamente arrabbiati, possibilmente violente
 
 to be a handful
 essere un pugno in un occhio
@@ -3307,7 +3307,7 @@ to go back to the well
 tornare al pozzo
 
 to have the hots for (somebody)
-essere molto attratto da (qualcuno); provare un forte desiderio sessuale per (qualcuno)
+essere molto attratti da (qualcuno); provare un forte desiderio sessuale per (qualcuno)
 
 to sour on (somebody)
 perdere interesse o pazienza per (qualcuno); iniziare a non piacere (qualcuno)

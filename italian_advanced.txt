@@ -1226,7 +1226,7 @@ excess (noun)
 l'eccesso
 
 to be annoying
-essere fastidioso
+essere fastidiosi
 
 silly; goofy
 sciocco
@@ -1241,7 +1241,7 @@ to keep score
 mantenere il punteggio
 
 to be masachistic
-essere masachista
+essere masachisti
 
 to evaluate; to grade; to rate
 valutare
@@ -1848,9 +1848,6 @@ rimproverare
 
 store owner
 il negoziante
-
-to be willing to
-essere disposto a
 
 even though
 benché; nonostante; sebbene
@@ -3347,7 +3344,7 @@ good enough; good enough for me
 tanto basta
 
 to be exposed to
-essere esposto a
+essere esposti a
 
 psychosis
 la psicosi
@@ -5105,7 +5102,7 @@ thoughtful (careful consideration)
 pensieroso
 
 to come true; to be fulfilled
-realizzarsi; essere avverato
+realizzarsi; essere avverati
 
 to make one's dreams come true
 far avverare i suoi sogni
@@ -10121,7 +10118,7 @@ scapegoat
 l'espiatorio
 
 to be framed
-essere incastrato
+essere incastrati
 
 set up; framed
 incastrato
@@ -10640,7 +10637,7 @@ wake turbulence
 la turbolenza di scia
 
 to be ready to
-essere pronto a; essere pronto per
+essere pronti a; essere pronti per
 
 I got talked into
 mi hanno convinto a
@@ -10823,7 +10820,7 @@ private investigator
 l'investigatore privato
 
 to be fed up
-essere stufo
+essere stufi
 
 comprehensive; exhaustive
 esauriente; completo; esaustivo
@@ -12677,7 +12674,7 @@ college basketball
 il basket universitario
 
 to be crazy about
-essere pazzo per
+essere pazzi per
 
 either you're with me or you're against me
 o sei con me o sei contro di me
@@ -12953,7 +12950,7 @@ advent
 l'avvento
 
 to become ubiquitous
-diventare onnipresente; raggiungere ogni angolo del mondo
+diventare onnipresenti; raggiungere ogni angolo del mondo
 
 the media
 i media; i mass media
@@ -13532,7 +13529,7 @@ to strike up a conversation
 iniziare una conversazione; avviare una conversazione; attaccare conversazione; attaccare discorso
 
 to be inclined to
-essere propenso a
+essere propensi a
 
 southern hospitality
 l'ospitalità del sud
@@ -13694,7 +13691,7 @@ drag; dragging
 il trascinamento
 
 to be lucky to
-essere fortunato a
+essere fortunati a
 
 to have to necessarily
 dovere per forza
@@ -14033,7 +14030,7 @@ the rest is history
 il resto è la storia
 
 to be impressed by
-essere colpito da; essere impressionato da; essere stupito da
+essere colpiti da; essere impressionato da; essere stupiti da
 
 to awaken; to revive
 risvegliarsi
@@ -15023,13 +15020,13 @@ bummer; how disappointing
 che disdetta
 
 to be in a bad mood
-essere preso male; essere in un cattivo umore
+essere presi male; essere in un cattivo umore
 
 bro; bruv
 frà; frate
 
 to be full of energy; to be revved up
-essere pieno d'energia; essere supergasato; essere in piena
+essere pieni d'energia; essere supergasati; essere in piena
 
 in full stride
 a gambe levate
@@ -15137,7 +15134,7 @@ to get to the point
 venire al punto
 
 to be a nervous wreck
-essere molto ansioso
+essere molto ansiosi
 
 to have butterflies in one's stomach
 avere farfalle nello stomaco
@@ -15221,7 +15218,7 @@ to stand one's ground
 mantenere la propria posizione
 
 to be stubborn as a mule
-essere testardo come un mulo
+essere testardi come un mulo
 
 to hit below the belt
 fare un colpo basso
@@ -15326,7 +15323,7 @@ to make no difference
 non avere importanza
 
 to be out of one's element
-essere spaesato
+essere spaesati
 
 frost
 il gelo
@@ -15473,7 +15470,7 @@ to make someone's day
 rallegrare la giornata
 
 to be in luck
-essere fortunato
+essere fortunati
 
 beginner's luck
 la fortuna del principiante
@@ -15959,7 +15956,7 @@ the best of
 il meglio di
 
 to be intended for
-essere rivolto a
+essere rivolti a
 
 you're a real class act
 sei proprio di classe; sei una persona di classe; sei un atto di classe
@@ -16265,7 +16262,7 @@ tip of the iceberg
 la punta dell'iceberg
 
 to tell you the truth
-a essere sincero
+a essere sinceri
 
 the walls have ears
 i muri hanno le orecchie
@@ -16532,7 +16529,7 @@ principal investigator
 il ricercatore principale
 
 to get paid
-essere pagato
+essere pagati
 
 to enact; to promulgate
 promulgare; emanare
@@ -16975,8 +16972,8 @@ buone vacanze
 what happened to you?; what's wrong with you?
 che ti è preso?; che ti è successo
 
-who do you think you are?!
-chi credi di essere?!
+who do you think you are?
+chi credi di essere?
 
 look who's here
 guarda chi si vede; chi si rivede; chi si vede; guarda chi c'è
@@ -17360,7 +17357,7 @@ to put two and two together
 tirare delle conclusioni
 
 to be head over heels in love
-essere innamorato pazzo
+essere innamorati pazzo
 
 to date (somebody)
 uscire regolarmente con (qualcuno)
@@ -20792,7 +20789,7 @@ data structure
 la struttura dei dati; la struttura dati
 
 to be good at listening
-essere bravo ad ascoltare
+essere bravi ad ascoltare
 
 to be one of them
 essere uno di loro
@@ -22193,7 +22190,7 @@ in place of
 al posto di
 
 to be engrossed; to be absorbed
-essere tutto preso
+essere tutti presi
 
 spoonable
 cucchiabile
@@ -25445,7 +25442,7 @@ to devise a plan
 escogitare un piano
 
 don't be sillly
-non dire sciocchezze; non essere sciocco
+non dire sciocchezze; non essere sciocci
 
 itsy-bitsy; miniscule
 piccolissimo
@@ -26177,7 +26174,7 @@ no more talk of; stop talking about
 basta parlare di
 
 to be sick of; to be tired of
-essere stufo di
+essere stufi di
 
 how frustrating!
 che stress!
@@ -32213,7 +32210,7 @@ to take it to the next step
 portarlo al passo successivo
 
 to fear rejection
-temere il rifiuto; avere paura di essere rifiuto
+temere il rifiuto; avere paura di essere rifiuti
 
 fear of rejection
 la paura del rifiuto; la paura di essere rispinti; la paura di essere rifiutati
@@ -32330,7 +32327,7 @@ folder; file
 la cartella
 
 to be past that point
-avere superato quel punto; avere passato quel punto; essere passato oltre
+avere superato quel punto; avere passato quel punto; essere passati oltre
 
 temporarily
 temporaneamente
@@ -34892,7 +34889,7 @@ strong wi-fi connection
 la connessione wi-fi forte
 
 to be hopeful
-essere pieno di speranza
+essere pieni di speranza
 
 have a great day!; have a great rest of the day!
 buona continuazione!
@@ -34913,7 +34910,7 @@ to yell from the other side of the room
 urlare dall'altra parte della stanza
 
 to get disciplined; to be disciplined
-essere punito; essere disciplinato
+essere puniti; essere disciplinati
 
 frigid
 frigido
@@ -35951,7 +35948,7 @@ in writing; in written form
 per iscritto; per scritto
 
 to be willing to resign; to want to step down
-essere disposto a dimettersi; voler dimettersi
+essere disposti a dimettersi; voler dimettersi
 
 the average duration; the mean length
 la durata media; la lunghezza media
@@ -36251,7 +36248,7 @@ dizziness; giddiness
 il capigiro
 
 to be terribly disappointed
-essere terribilmente deluso
+essere terribilmente delusi
 
 tip of the iceberg
 il picco dell'iceberg
@@ -36299,7 +36296,7 @@ my job is a grind
 il mio lavoro è una fatica; il mio lavoro è pesante
 
 to become such a grind
-diventare così pesante; diventare una fatica
+diventare così pesanti; diventare una fatica
 
 product group
 il gruppo di prodotti
@@ -36329,7 +36326,7 @@ once you accept this fact
 una volta che accetti questo fatto
 
 to be inferior to
-essere inferiore a
+essere inferiori a
 
 to play the drums
 suonare la batteria
@@ -36560,7 +36557,7 @@ to soothe; to calm down; to mollify
 calmare; placare; lenire; mitigare
 
 to be scared to death
-essere spaventato a morte
+essere spaventati a morte
 
 liquified
 liquefatto
@@ -36989,7 +36986,7 @@ protestor; demonstrator
 il manifestante
 
 to be burdened
-essere gravato; essere oppresso
+essere gravati; essere oppressi
 
 insolvent
 insolvente
@@ -37097,10 +37094,10 @@ I'm not happy with you right now
 non sono contento di te in questo momento
 
 to be held
-essere preso in braccio
+essere presi in braccio
 
 he doesn't like to be held
-non gli piace essere preso in braccio
+non gli piace essere presi in braccio
 
 to run into the door
 correre contro la porta
@@ -37313,7 +37310,7 @@ to bully
 bullizzare
 
 to be familiar with
-essere a conoscenza di; essere familiare con
+essere a conoscenza di; essere familiari con
 
 to privatize
 privatizzare
@@ -38561,7 +38558,7 @@ to submit an application
 presentare la domanda
 
 to hit the big time
-diventare famoso; raggiungere il successo
+diventare famosi; raggiungere il successo
 
 to move to a new location; to relocate
 trasferirsi; cambiare residenza
@@ -39404,7 +39401,7 @@ what I said really rattled you
 quello che ho detto ti ha veramente scosso
 
 to be open and honest
-essere aperto e sincero
+essere aperti e sinceri
 
 you should try it sometime
 dovresti provarlo qualche volta
@@ -39971,7 +39968,7 @@ to file (physically); to smooth
 limare; levigare
 
 to be struck by; to be hit by
-essere colpito da; essere investito da
+essere colpiti da; essere investiti da
 
 to blackmail
 ricattare
@@ -40598,7 +40595,7 @@ sexually-abused children
 i bambini abusati sessualmente
 
 to be as good as gold
-essere buono come il pane
+essere buoni come il pane
 
 to do the accounting
 fare la contabilità
@@ -40877,7 +40874,7 @@ duplicate appointment
 l'appuntamento duplicato
 
 to be charged for (something); to get charged for (something)
-essere addebitato per (qualcosa); farsi addebitare (qualcosa)
+essere addebitati per (qualcosa); farsi addebitare (qualcosa)
 
 master password
 il password principale
@@ -41549,7 +41546,7 @@ to go public
 entrare in borsa
 
 be listed; be quoted
-essere quotata
+essere quotati
 
 super discounted price
 il prezzo super scontato
@@ -44174,7 +44171,7 @@ in person (more formal); physically present
 di presenza
 
 to be fed up with (somebody); to have had enough of (somebody); to have had it with (somebody)
-essere stufo di (qualcuno); averne avuto abbastanza di (qualcuno)
+essere stufi di (qualcuno); averne avuto abbastanza di (qualcuno)
 
 to instigate; to incite; to provoke; to stir up
 istigare; provocare; incitare
@@ -44723,7 +44720,7 @@ nothing less
 nientemeno
 
 to be cast in the air
-essere campato in aria
+essere campati in aria
 
 calcium carbonate
 il carbonato di calcio
@@ -47492,7 +47489,7 @@ to watch a film on the big screen
 guardare un film sul grande schermo
 
 to be a little perturbed with (somebody)
-essere un po' turbato con (qualcuno)
+essere un po' turbati con (qualcuno)
 
 text messaging
 la messaggistica testuale
@@ -47531,7 +47528,7 @@ to continue to
 continuare a
 
 to become too mechanical
-diventare troppo meccanico
+diventare troppo meccanici
 
 to drop the atomic bomb
 lanciare la bomba atomica
@@ -47735,7 +47732,7 @@ to rent out an apartment
 affittare un appartamento
 
 to get run over
-essere investito
+essere investiti
 
 to avoid (doing something)
 evitare di (fare qualcosa)
@@ -48923,7 +48920,7 @@ training course (knowledge)
 il corso di formazione
 
 to be in charge of; to be responsible for
-avere in carico; essere responsabile di; avere la responsabilità di
+avere in carico; essere responsabili di; avere la responsabilità di
 
 what's more
 oltretutto
@@ -49184,7 +49181,7 @@ to vomit; to puke
 vomitare; rigettare
 
 to be found guilty
-essere trovato colpevole; essere riconosciuto colpevole
+essere trovati colpevoli; essere riconosciuti colpevoli
 
 anti-inflammatory
 l'antinfiammatorio
@@ -49790,7 +49787,7 @@ I got lazy
 mi sono fatto pigro; sono diventato pigro
 
 to get lazy
-diventare pigro
+diventare pigri
 
 all next week
 tutta la prossima settimana
@@ -49883,7 +49880,7 @@ audible
 udibile
 
 to be due to the fact that
-essere dovuto al fatto che
+essere dovuti al fatto che
 
 to put away the dishes
 mettere via i piatti
@@ -50429,7 +50426,7 @@ speech therapist
 il logopedista
 
 to be open to learning
-essere aperto all'apprendimento
+essere aperti all'apprendimento
 
 palm (hand)
 il palmo
@@ -50702,7 +50699,7 @@ to lose control
 perdere il controllo
 
 to become extremely angry
-diventare estremamente arrabbiato
+diventare estremamente arrabbiati
 
 medium aging
 la stagionatura media
@@ -50726,7 +50723,7 @@ starting in 2024
 a partire dal 2024
 
 to reflect; to be reflected
-riflettersi; essere riflesso
+riflettersi; essere riflessi
 
 I struggle with this
 faccio fatica con questo
@@ -50786,7 +50783,7 @@ right now as it is
 adesso come adesso
 
 to be fond of
-essere affezionato di
+essere affezionati di
 
 hole
 il buso
@@ -51551,7 +51548,7 @@ jar; can
 il barattolo
 
 to be tied down
-essere legato; essere vincolato
+essere legati; essere vincolati
 
 the last frontier
 l'ultima frontiera
@@ -54332,7 +54329,7 @@ to unhook
 sganciare
 
 to have every right to be angry with
-avere ogni diritto di essere arrabbiato con
+avere ogni diritto di essere arrabbiati con
 
 I give up
 Mi arrendo
@@ -54782,7 +54779,7 @@ to velcro (something)
 attaccare con il velcro (qualcosa)
 
 to list oneself; to be listed
-quotarsi; essere quotato
+quotarsi; essere quotati
 
 to list oneself on the stock exchange
 quotarsi in borsa
@@ -54860,7 +54857,7 @@ rear rack
 il portapacchi posteriore
 
 to be busy with family stuff
-essere occupato con cose di famiglia
+essere occupati con cose di famiglia
 
 family stuff
 le cose di famiglia
@@ -56345,7 +56342,7 @@ to reach a new plateau
 raggiungere un nuovo altipiano
 
 to be brief
-essere breve
+essere brevi
 
 even less
 ancora meno
@@ -57237,7 +57234,7 @@ impractical
 impraticable
 
 to be so much fun
-essere così divertente
+essere così divertenti
 
 I purposely did not want to (do something)
 ho fatto apposta a non voler (fare qualcosa)
@@ -58113,7 +58110,7 @@ snoring
 il russare
 
 to be impressed by
-essere impressionato da
+essere impressionati da
 
 Q&A
 domande e risposte
@@ -58995,7 +58992,7 @@ cornerstone
 il caposaldo
 
 to become familiar with (something)
-diventare familiare con (qualcosa)
+diventare familiari con (qualcosa)
 
 indescribable
 indescrivibile
@@ -59556,7 +59553,7 @@ pescatarian
 pescetariano
 
 to be failed by the teacher
-essere bocciato dall'insegnante
+essere bocciati dall'insegnante
 
 I have a special treat in store for you
 ho una sorpresa speciale per te
