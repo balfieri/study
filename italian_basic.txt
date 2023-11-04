@@ -2299,8 +2299,11 @@ caro
 full
 pieno
 
-comfortable; convenient
+comfortable; convenient (creating ease)
 comodo
+
+comfortable (living conditions, situation)
+confortevole
 
 easy
 facile

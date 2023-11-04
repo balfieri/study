@@ -21751,7 +21751,7 @@ l'ispirazione
 referred; reported; baseline
 riferito
 
-cheap; appropriate; advantageous
+economical; appropriate; advantageous
 conveniente
 
 scheme; pattern
@@ -60193,3 +60193,13 @@ l'attrezzatura per l'esercizio
 
 to free up; to be free
 essere liberi
+
+and what's with the (something)?
+e cosa c'è con il (qualcosa)?
+
+let's do this right
+facciamo questo correttamente
+
+rain-drenched
+inondato dalla pioggia
+
