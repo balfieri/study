@@ -11797,7 +11797,7 @@ il lasso momentaneo
 to make a long story short
 per farla breve
 
-to fertilize
+to fertilize; to impregnate
 fecondare; fertilizzare
 
 significant other
@@ -15570,9 +15570,6 @@ giocare bene le proprie carte
 
 to read between the lines
 leggere tra le righe
-
-to take for granted
-dare per scontato
 
 to do the dirty work
 fare il lavoro sporco
@@ -26761,7 +26758,7 @@ la vita è breve
 kiddo
 ragazzino
 
-bar
+bar; barrier
 la sbarra
 
 discoverer
@@ -42425,7 +42422,7 @@ soggy (food)
 impanato; inzuppato
 
 soggy (non-food)
-fradicio; bagnato
+fradicio; bagnato; impregnato d'acqua; zuppo
 
 the city is surrounded by walls
 la città è circondata da mura
@@ -48080,7 +48077,7 @@ rationing
 il razionamento
 
 stranded
-bloccato; abbandonato
+arenato; bloccato; abbandonato
 
 hairy armpits
 le ascelle pelose
@@ -59968,4 +59965,43 @@ stare sopra (qualcosa)
 
 to renovate; to renew
 mettere a nuovo
+
+bachelor
+lo scapolo
+
+used; worn
+usurato
+
+to strand
+lasciare arenato
+
+to rebuild one's life
+ricostruirsi la vita
+
+I'm in a little bit of a rut careerwise
+sono un po' in una situazione di stallo per quanto riguarda la carriera
+
+to take for granted
+prendere per scontato; dare per scontato
+
+aloof
+distante; freddo; riservato
+
+predilection
+la predilezione; la preferenza
+
+to soak
+inzuppare; ammollare
+
+to drench
+infradiciare; bagnare completamente
+
+soaking wet
+fradicio; zuppo d'acqua
+
+cauliflower
+il cavolfiore
+
+to get (someone) pregnant
+mettere incinta (qualcuna)
 
