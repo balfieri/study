@@ -20440,7 +20440,7 @@ vivere per vedere un altro giorno
 rudder pedals
 i pedali di timone
 
-to go ahead; to go on
+to move on; to go ahead; to go on
 andare avanti
 
 idiot
@@ -25134,6 +25134,9 @@ la pietà
 
 dependence
 la dipendenza
+
+dependence on
+la dipendenza da
 
 guard; watch; sentry
 la guardia
@@ -30043,7 +30046,7 @@ lordo
 language; lingo; jargon
 il linguaggio
 
-to cloth; to coat; to line; to cover
+to cloth; to coat; to line; to cover; to play (role)
 rivestire
 
 constitution
@@ -35224,9 +35227,6 @@ la persona disponibile
 sightseeing; tourist visits
 le visite turistiche
 
-only so much
-solo fino a un certo punto
-
 auxiliary verb
 il verbo ausiliare
 
@@ -37397,7 +37397,7 @@ foregone conclusion
 la conclusione scontata; l'esito scontato; la conclusione già scritta
 
 through which
-attraverso cui; tramite il quale
+attraverso cui; attraverso il quale; tramite cui; tramite il quale
 
 it's not my department (figurative)
 non è il mio campo; non è di mia competenza
@@ -60010,3 +60010,94 @@ il numero di matricola
 
 to give birth; to deliver (baby)
 partorire
+
+to play a role
+rivestire un ruolo
+
+I'd like to take it a little further
+mi piacerebbe andare un po' più avanti
+
+to take it a little further
+andare un po' più avanti
+
+to be able to take us only so far
+poter portarci solo fino a un certo punto
+
+only so far; only so much
+solo fino a un certo punto
+
+at least as good as ours
+almeno buono quanto il nostro; almeno buona come la nostra
+
+brought about by; caused by; resulted from
+causato da; risultato da
+
+much further apart from each other
+molto più lontani l'uno dall'altro
+
+sensitized
+sensibilizzato
+
+ardent passion
+la passione ardente
+
+to put in the extra hours to finish it
+mettere le ore extra per finirlo
+
+lavorare a malapena
+to barely work
+
+mettere a parlare
+to put to talk
+
+the SIM card
+la sim; la scheda SIM
+
+to be at a disadvantage
+essere svantaggiati
+
+I can see it both ways
+posso vederlo in entrambi i modi
+
+language of origin
+la lingua d'origine
+
+to dwell; to linger
+soffermare
+
+dove ci si sofferma sulla
+where one dwells on
+
+additional experience
+l'esperienza aggiuntiva
+
+chief scientist
+il capo scienziato
+
+to get emotionally attached to (someone)
+attaccarsi emotivamente a (qualcuno)
+
+emotionally involved
+emotivamente coinvolto
+
+emotionally wrapped up in
+completamente coinvolto emotivamente in
+
+social duty of the individual
+il dovere sociale del singolo
+
+social duty
+il dovere sociale
+
+on the other hand
+per contro
+
+drug trial
+la sperimentazione di farmaci
+
+il 31 ottobre compreso
+including October 31st
+
+by October 31st inclusive
+entro il 31 ottobre compreso
+
