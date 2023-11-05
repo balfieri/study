@@ -60239,3 +60239,8 @@ cancellato; estinto
 therapist
 il terapista; la terapista
 
+deprogrammed
+deprogrammato
+
+to deprogram
+deprogrammare
