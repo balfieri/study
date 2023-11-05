@@ -38291,7 +38291,7 @@ while we're at it
 visto che ci siamo
 
 blood type
-il tipo di sangue
+il tipo di sangue; il gruppo di sangue
 
 tendentially
 tendenzionalmente
@@ -38863,7 +38863,7 @@ raccogliere fragole
 strawberry patch
 la coltivazione di fragole; il campo di fragole
 
-all things considered
+all things considered; all in all
 tutto sommato
 
 this time was better
@@ -60202,4 +60202,40 @@ facciamo questo correttamente
 
 rain-drenched
 inondato dalla pioggia
+
+antibody
+l'anticorpo
+
+abstinence
+l'astinenza
+
+support group
+il gruppo di sostegno
+
+beyond the pale; unacceptable; out of bounds
+oltre il limite accettabile
+
+skull
+il cranio; il teschio
+
+rely on someone
+contare su di qualcuno
+
+he did my shopping
+mi ha fatto la spesa
+
+clavicle
+la clavicola
+
+antidepressant
+l'antidepressivo
+
+to have a long way to go
+avere tanta strada da fare
+
+expunged
+cancellato; estinto
+
+therapist
+il terapista; la terapista
 
