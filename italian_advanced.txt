@@ -60298,3 +60298,12 @@ il badminton
 
 flywheel; shuttlecock; badminton birdie
 il volano
+
+my flight has been delayed
+il mio volo è stato ritardato
+
+to restore a lesson to its original time
+ripristinare una lezione al suo orario originale
+
+to be delayed due to weather
+essere ritardati a causa del tempo
