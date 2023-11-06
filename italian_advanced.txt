@@ -6907,7 +6907,7 @@ il ceto politico
 to dismantle; to decomission
 smantellare
 
-pattern; model
+guideline; rule; principle
 la falsariga
 
 lay person
@@ -60268,4 +60268,10 @@ il tempo sarà brutto
 
 apprenticeship path
 il percorso di apprendistato
+
+performance bar
+l'asticella prestazionale
+
+black swan
+il cigno nero
 
