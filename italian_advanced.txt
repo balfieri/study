@@ -53971,9 +53971,6 @@ tutto d'un fiato
 zero-shot capability
 la capacità zero-shot
 
-flywheel
-il volano
-
 to permeate
 permeare
 
@@ -58101,7 +58098,7 @@ memory block; block of memory
 il blocco di memoria
 
 bodyweight exercise; exercise based on body weight
-l'esercizio con il peso corporeo; l'esercizio basato sul peso corporeo
+l'esercizio a corpo libero; l'esercizio con il peso corporeo; l'esercizio basato sul peso corporeo
 
 snoring
 il russare
@@ -60286,3 +60283,18 @@ cosa c'è di nuovo nella tua vita?
 
 bocce court
 il campo di bocce
+
+young urban professional (yuppie)
+il giovane professionista urbano
+
+in accordance with; standard
+a norma
+
+packed lunch
+la schiscetta; il pranzo al sacco
+
+badminton
+il badminton
+
+flywheel; shuttlecock; badminton birdie
+il volano
