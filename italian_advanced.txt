@@ -58043,7 +58043,7 @@ lucicante
 focus
 il focus; la focalizzazione; il fuoco
 
-parsimonious
+thrifty; parsimonious
 parsimonioso
 
 absorbed
@@ -60244,3 +60244,19 @@ deprogrammato
 
 to deprogram
 deprogrammare
+
+spendthrift
+lo spendaccione; la spendacciona
+
+squanderer; waster
+lo scialacquatore; la scialacquatrice
+
+to get there on time; to arrive there on time
+arrivare lì in tempo
+
+palliative care
+la cura palliativa
+
+hospice
+l'hospice
+
