@@ -60347,3 +60347,5 @@ risaltare
 stopwatch
 il cronometro
 
+to declare bankruptcy
+dichiarare bancarotta
