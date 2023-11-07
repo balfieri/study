@@ -15478,9 +15478,6 @@ la fortuna del principiante
 to hit the jackpot
 vincere alla lotteria
 
-out of luck
-sfortunato
-
 to push one's luck
 tentare la sorte
 
@@ -33374,7 +33371,10 @@ serendipity
 la serendipità
 
 serendipitous
-fortuito; fortunato
+serendipito
+
+fortuitous
+fortuito
 
 on a scale from 1 to 10
 su una scala da 1 a 10
@@ -51910,8 +51910,8 @@ sgorgare; trasudare; grondare
 furious; raging
 furibondo; infuriato
 
-unlucky; inauspicious
-infausto; sfortunato
+unlucky; unfortunate; inauspicious
+infausto
 
 natural-born
 nato naturale

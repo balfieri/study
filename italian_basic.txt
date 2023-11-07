@@ -7878,3 +7878,9 @@ rosa
 
 gladly; I'd love to; willingly; with great pleasure
 volentieri
+
+lucky; in luck
+fortunato
+
+unlucky; out of luck
+sfortunato
