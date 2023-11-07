@@ -26005,7 +26005,7 @@ lo scrollamento
 based on
 basato su
 
-to tolerate; to put up with; to bear
+to tolerate; to put up with; to bear; to endure
 tollerare; sopportare
 
 wary; distrustful; suspicious
@@ -45487,9 +45487,6 @@ cocente
 burning
 bruciante
 
-to endure
-sopportare
-
 purple; violet
 viola
 
@@ -60368,3 +60365,5 @@ l'estrogene
 to not let anything slip away; to not let anything slip past
 non lasciare scappare nulla
 
+she puts up with me
+lei mi sopporta
