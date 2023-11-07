@@ -7481,7 +7481,7 @@ pizza stone
 la pietra per pizza
 
 receipt
-lo scontrino
+lo scontrino; la ricevuta
 
 idiocy; stupidity
 l'idiozia
@@ -17787,9 +17787,6 @@ il brutto momento; il brutto colpo
 
 to cheat on one's significant other
 fare le corna
-
-to knock on wood
-toccare ferro
 
 it's none of their business
 non sono affari loro
@@ -60307,3 +60304,13 @@ ripristinare una lezione al suo orario originale
 
 to be delayed due to weather
 essere ritardati a causa del tempo
+
+weekend flight
+il volo del fine settimana; il volo del weekend
+
+in real time
+in tempo reale
+
+TODO list
+la lista di cose da fare
+
