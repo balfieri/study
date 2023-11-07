@@ -60349,3 +60349,12 @@ il cronometro
 
 to declare bankruptcy
 dichiarare bancarotta
+
+the battery is discharged
+la batteria è scarica
+
+the battery has low charge
+la batteria ha poca carica
+
+self-test
+l'auto-test
