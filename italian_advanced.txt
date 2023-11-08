@@ -490,9 +490,6 @@ il pernottamento
 cruise; voyage
 la crociera
 
-drafting
-la stesura
-
 line (of text)
 la riga
 
@@ -14591,7 +14588,7 @@ modesty; shame; purity
 il pudore
 
 wording; drafting
-stesura
+la stesura
 
 concealment; hiding
 l'occultamento
