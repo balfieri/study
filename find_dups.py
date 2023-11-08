@@ -33,6 +33,9 @@ while i < len( sys.argv ):
 # read in <subject>.txt files
 #-----------------------------------------------------------------------
 uniques_s = ''
+question_to_filename = {}
+question_to_line_num = {}
+question_to_answer   = {}
 answer_to_filename = {}
 answer_to_line_num = {}
 answer_to_question = {}
@@ -55,9 +58,23 @@ for subject in subjects:
         line_num += 1
 
         is_unique = True
+
+        if False and question in question_to_answer:
+            prev_answer = question_to_answer[question]
+            print( f'\n{question}' )
+            if answer == prev_answer:
+                is_unique = False
+            first = f'{question_to_filename[question]}:{question_to_line_num[question]}'
+            second = f'{filename}:{line_num}'
+            print( f'    {first:40s}: {prev_answer}' )
+            print( f'    {second:40s}: {answer}' )
+        else:
+            question_to_filename[question] = filename
+            question_to_line_num[question] = line_num
+            question_to_answer[question]   = answer
+
         if answer in answer_to_question:
             prev_question = answer_to_question[answer]
-            same_question = prev_question == question
             print( f'\n{answer}' )
             if question == prev_question:
                 is_unique = False
