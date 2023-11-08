@@ -547,7 +547,7 @@ ossia
 advertisement
 l'inserzione
 
-to carry out; to fulfill; to accomplish
+to carry out; to perform; to fulfill; to accomplish
 svolgere
 
 to pack; to wrap; to package
@@ -5171,7 +5171,7 @@ publishing; publishing industry
 l'editoria
 
 to access; to accede; to approach
-accedere
+accedere a
 
 building; construction; building trade
 l'edilizia
@@ -6219,6 +6219,9 @@ incorrere
 
 to resort to; to appeal to
 ricorrere a
+
+to recur; to resort; to appeal
+ricorrere
 
 to subtract; to take away; to remove; to separate
 sottrarre
@@ -14083,7 +14086,7 @@ il canile
 dog hotel; dog resort; pet resort
 la pensione per cani; l'albergo per cani
 
-languid; unstressed; voiceless; apathetic; monotono
+languid; unstressed; voiceless; apathetic; monotone
 atono
 
 it's not enough for you
@@ -14398,7 +14401,7 @@ il tendone
 front porch
 il portiere anteriore; la veranda anteriore
 
-to spread; to scatter; to sprinkle
+to spread; to scatter; to sprinkle; to smear
 spargere
 
 sing-song
@@ -52033,7 +52036,7 @@ la seconda chance; la seconda possibilità
 mindfulness
 la consapevolezza; il mindfulness; l'attenzione plena
 
-to do the math; to figure things out; to crunch the numbers; to face up to
+to face up to; to do the math; to figure things out; to crunch the numbers
 fare i conti
 
 melancholic
@@ -52833,9 +52836,6 @@ l'apripista
 
 auditory
 uditivo
-
-then
-per poi
 
 dazzling; brilliant
 folgorante
@@ -60373,3 +60373,49 @@ la peste bubbonica
 
 sacrificial lamb
 l'agnello sacrificale
+
+the rise and fall of
+l'ascesa e caduta di
+
+then; later; afterwards
+per poi
+
+to recover (intransitive)
+rimettersi
+
+sudden
+ripentino
+
+lease contract
+il contratto di locazione
+
+unsustainable
+insostenibile
+
+to sublet
+subaffittare
+
+rental obligation
+l'onere di locazione
+
+to eclipse
+eclissare
+
+to happen again
+riaccadere
+
+Northern lights
+l'aurora boreale
+
+to make lazy
+fare impigrire; rendere pigri
+
+to call into question
+chimare in causa; mettere in discussione
+
+to meet; to encounter; to find
+riscontare
+
+to break down
+guastarsi
+
