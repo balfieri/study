@@ -26984,7 +26984,7 @@ pretty unlikely
 abbastanza improbabile; piuttosto improbabile
 
 to be left speechless; to be amazed; to be astounded
-rimanere a bocca aperta
+essere lasciato senze parole; rimanere a bocca aperta
 
 playground
 il parco giochi
@@ -48697,7 +48697,7 @@ inaspire
 consociativism
 il consociativismo
 
-to add; to sum
+to add; to sum; to add up
 sommare
 
 temporarily; momentarily
@@ -60437,3 +60437,53 @@ la pendice
 misstep
 il falso passo
 
+please speak up!
+per favore, parla piÃ¹ forte!
+
+to alert the authorities
+avvisare le autoritÃ 
+
+this can add up
+questo può sommare
+
+these costs can add up
+questi costi possono sommare
+
+to err
+sbagliare; errare
+
+to feel disgust for
+provare schifo per; provare disgusto per; sentire disgusto per
+
+to be disgusted by
+essere disgustato da
+
+TV show
+il programma televisivo
+
+recurring character
+il personaggio ricorrente
+
+to loot; to plunder
+saccheggiare
+
+first,
+prima,
+
+recruited
+reclutato
+
+to slaughter; to butcher
+trucidare; macellare
+
+to bar; to block
+sbarrare; bloccare
+
+to blurt out; to blab
+sbacciolare
+
+to squirt; to spurt
+schizzare; spruzzare
+
+I can't speak as fast as he
+non posso parlare veloce come lui
