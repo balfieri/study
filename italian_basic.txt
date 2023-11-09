@@ -169,9 +169,6 @@ molti
 good at something; talented (after putting work into it)
 bravo
 
-fast
-veloce
-
 slow
 lento
 
@@ -342,9 +339,6 @@ la mancia
 
 bill (restaurant)
 il conto
-
-table
-il tavolo
 
 spoon; tablespoon
 il cucchiaio
@@ -535,7 +529,7 @@ la bottiglia
 envelope; small bag
 la busta
 
-bag; sack
+bag
 il sacchetto
 
 purse; handbag
@@ -2029,9 +2023,6 @@ di fronte a
 on the left; to the left
 a sinistra
 
-everywhere
-dappertutto
-
 near
 vicino
 
@@ -2281,11 +2272,8 @@ pulito
 fast
 veloce
 
-quick; fast
+quick; fast; swift; rapid
 rapido
-
-old
-vecchio
 
 off; turned off
 spento
@@ -3706,7 +3694,7 @@ la settimana
 question; demand; application
 la domanda
 
-table (concept); board; plank
+table (concept); board; plank; surf board
 la tavola 
 
 table (physical object)
@@ -3898,8 +3886,8 @@ vicino a
 far from
 lontano da
 
-behind
-dietro a
+behind (something)
+dietro a (qualcosa)
 
 between
 fra; tra
@@ -4114,9 +4102,6 @@ portare gli occhiali
 pasta
 la pasta
 
-bag
-il sacchetto
-
 anniversary
 l'anniversario
 
@@ -4264,9 +4249,6 @@ popolare
 positive
 positivo
 
-swift; rapid
-rapido
-
 rare
 raro
 
@@ -4290,9 +4272,6 @@ tollerante; indulgente
 
 old
 vecchio
-
-ancient
-antico
 
 alive
 vivo
@@ -7009,7 +6988,7 @@ nascosto
 loved
 amato
 
-bag; sack
+sack
 il sacco
 
 Tuscan

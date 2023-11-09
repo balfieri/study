@@ -59,7 +59,7 @@ for subject in subjects:
 
         is_unique = True
 
-        if question in question_to_answer:
+        if False and question in question_to_answer:
             prev_answer = question_to_answer[question]
             print( f'\n{question}' )
             if answer == prev_answer:

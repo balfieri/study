@@ -20113,9 +20113,6 @@ la canoa
 foil
 il fioretto
 
-surf board
-la tavola
-
 variable; changeable
 variabile
 
@@ -53616,9 +53613,6 @@ dare da testimonia
 
 you are angry
 ti va rabbia
-
-envelope
-la busta
 
 there has to be some build-up
 deve esserci un certo accumulo
