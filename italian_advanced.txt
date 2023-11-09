@@ -13162,7 +13162,7 @@ essere a conoscenza di; essere al corrente di
 windbag; gasbag
 il parolaio
 
-to play a video
+to play a video; to play back a video
 partire un video; riprodurre un video
 
 to play a song (previously recorded)
@@ -15727,7 +15727,7 @@ l'album anticipatore
 the next generation
 la nostra prossima generazione
 
-to recreate; to reproduce
+to recreate; to reproduce; to play (video, song); to play back
 riprodurre; ricreare
 
 to overload; to overcharge
@@ -21649,7 +21649,7 @@ il compimento
 misery
 la miseria
 
-reproduction
+reproduction; playback
 la riproduzione
 
 mild; light; slight
@@ -60445,3 +60445,6 @@ perduto
 
 to happen; to occur (formal)
 accadere
+
+couple date
+l'appuntamento di coppia
