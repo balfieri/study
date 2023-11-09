@@ -262,9 +262,6 @@ arancione
 yellow
 giallo
 
-violet
-violeta
-
 black
 nero
 
@@ -325,17 +322,8 @@ la sveglia
 highway
 l'autostrada
 
-service area
-l'area servizio
-
 to turn right
 girare a destra
-
-to keep right
-tenere a destra
-
-to keep left
-tenere a sinistra
 
 to turn left
 girare a sinistra
@@ -385,7 +373,7 @@ la rampa
 toward
 verso
 
-behind
+back; backwards
 indietro
 
 directions
@@ -420,9 +408,6 @@ il canale
 
 station (bus, train)
 la stazione
-
-unfortunately
-purtroppo
 
 above all
 soprattutto
@@ -547,8 +532,11 @@ gli specchi
 bottle
 la bottiglia
 
-bag
-la busta; il sachetto
+envelope; small bag
+la busta
+
+bag; sack
+il sacchetto
 
 purse; handbag
 la borsetta
@@ -633,9 +621,6 @@ tirare
 
 discount
 lo sconto
-
-sale
-la salda
 
 on vacation (flexible); on holiday
 in vacanza
@@ -853,7 +838,7 @@ pulire
 dirty
 sporco
 
-dark
+dark (color, shade)
 scuro
 
 star
@@ -888,9 +873,6 @@ toccare
 
 fruit
 la frutta
-
-seafood
-la frutta di mare
 
 fish
 il pesce
@@ -937,8 +919,11 @@ verificare
 healthy; sane
 sano
 
-unhealthy
+unhealthy (mentally, morally)
 insano
+
+unhealthy (physically)
+malsano
 
 crazy
 pazzo
@@ -949,7 +934,7 @@ il cervello
 seriously; for real
 sul serio
 
-serious
+serious (person)
 serio
 
 face
@@ -1057,17 +1042,8 @@ il piano
 pavement; floor
 il pavimento
 
-sidewalk
-la marciapiedi
-
 stairs
 le scale
-
-toy
-il gioccattolo
-
-game
-il giocco
 
 elevator
 l'ascensore
@@ -1113,9 +1089,6 @@ bagnarsi
 
 to take a bath
 fare il bagno
-
-toothbrush
-lo spazzolino
 
 to get married
 sposarsi
@@ -1174,14 +1147,8 @@ il nord
 south
 il sud
 
-tree
-l'albero
-
 vegetable
 la verdura
-
-apple
-il mele
 
 dry (devoid of moisture)
 secco
@@ -1210,7 +1177,7 @@ il buco
 belt (waist)
 la cintura
 
-socks
+stockings
 le calze
 
 ticket; note (greeting card)
@@ -1325,7 +1292,7 @@ crowded
 affollato
 
 nurse
-l'infermiera; l'infermiere
+l'infermiere; l'infermiera
 
 scissors
 i forbici
@@ -1438,9 +1405,6 @@ la bellezza
 ugly
 brutto; bruttino
 
-chapel
-la capella
-
 common (adjective)
 comune
 
@@ -1543,10 +1507,10 @@ istruito
 garden
 il giardino
 
-instead of
+instead of (noun, infinitive)
 invece di; al posto di
 
-instead of
+instead of (alternative)
 invece che
 
 rather; better yet; in fact; to the contrary
@@ -1690,9 +1654,6 @@ atletico
 muscular
 muscoloso
 
-ugly
-brutto
-
 long
 lungo
 
@@ -1727,7 +1688,7 @@ complete
 completo; compiuto
 
 dress
-il vestito
+il vestito; l'abito
 
 sweater
 il maglione
@@ -1759,9 +1720,6 @@ gli orecchini
 shorts
 gli short; i pantaloni corti; i pantaloncini
 
-dress
-la skirt
-
 t-shirt
 la maglietta
 
@@ -1786,9 +1744,6 @@ i sandali
 bathing suit; swimsuit
 il costume da bagno
 
-nurse
-l'infermiere; l'infermiera
-
 dentist
 il dentista
 
@@ -1800,9 +1755,6 @@ la ballerina
 
 engineer
 l'ingegnere
-
-waiter
-il cameriere
 
 policeman
 il poliziotto
@@ -1821,9 +1773,6 @@ il medico; la medica
 
 doctor (PhD)
 il dottore; la dottoressa
-
-actress
-l'attrice
 
 student
 lo studente; la studentessa
@@ -1876,9 +1825,6 @@ lo studio
 garage
 il garage
 
-bathroom
-il bagno
-
 guest; host
 l'ospite
 
@@ -1919,7 +1865,7 @@ summit; top
 la cima
 
 tree
-l’albero
+l'albero
 
 coast
 la costa
@@ -1964,7 +1910,7 @@ country; village
 il paese
 
 building
-l'edificio; l'edilizio
+l'edificio
 
 statue
 la statua
@@ -2028,9 +1974,6 @@ la biglietteria
 
 bus station
 la stazione degli autobus
-
-movie theater
-cinema
 
 airport
 l'aeroporto
@@ -2109,9 +2052,6 @@ all’angolo
 
 turn
 giro
-
-nowhere
-da nessuna parte
 
 dog
 il cane
@@ -2339,7 +2279,10 @@ clean; neat
 pulito
 
 fast
-veloce; rapido
+veloce
+
+quick; fast
+rapido
 
 old
 vecchio
@@ -2449,7 +2392,7 @@ la bici
 sail
 la vela
 
-ball
+ball (larger)
 il pallone
 
 weights
@@ -2512,7 +2455,7 @@ fa freddo
 it's freezing
 si gela
 
-dark
+dark (absence of light)
 buio
 
 head
@@ -3052,7 +2995,7 @@ mettersi
 to go to sleep; to fall asleep; to get to sleep
 addormentarsi
 
-to hug
+to hug (each other)
 abbracciarsi
 
 to love each other; to love oneself
@@ -3094,7 +3037,7 @@ alzarsi
 to feel (intransitive)
 sentirsi
 
-to kiss
+to kiss (each other)
 baciarsi
 
 to get bored
@@ -3115,7 +3058,7 @@ truccarsi
 to relax; to get a grip; to lighten up
 rilassarsi
 
-to comb
+to comb one's hair
 pettinarsi
 
 to turn around
@@ -3154,7 +3097,7 @@ morire
 to appear; to seem
 parere
 
-to put; to place
+to pose; to set; to put; to place (formal)
 porre
 
 to stay; to remain; to be
@@ -3542,7 +3485,7 @@ overcooked (pasta)
 scotto
 
 to come to mind
-venire a mente
+venire a mente; venire in mente
 
 in my opinion
 secondo me; a mio parere
@@ -3763,8 +3706,11 @@ la settimana
 question; demand; application
 la domanda
 
-table
-la tavola; il tavolo
+table (concept); board; plank
+la tavola 
+
+table (physical object)
+il tavolo
 
 tower; rook (chess)
 la torre
@@ -3778,7 +3724,7 @@ il fumetto
 month
 il mese
 
-dance
+dance (social event, type)
 il ballo
 
 expense; expenditure; cost; shopping
@@ -3973,9 +3919,6 @@ l’insegnante
 teacher (higher education)
 il docente; la docente
 
-nurse
-l’infermiere; l’infermiera
-
 waiter
 il cameriere; la cameriera
 
@@ -3983,7 +3926,7 @@ actor
 l’attore
 
 actress
-l’attrice
+l'attrice
 
 writer
 lo scrittore; la scrittrice
@@ -4006,7 +3949,7 @@ il mal di testa
 to be sick
 essere malati
 
-health
+health (state of being)
 la salute
 
 sick person
@@ -4123,7 +4066,7 @@ comprare
 my day
 la mia giornata
 
-to wash
+to wash (oneself, one's)
 lavarsi
 
 to have breakfast
@@ -4273,7 +4216,7 @@ geloso
 joyful
 gioioso
 
-serious
+serious (situation)
 grave
 
 huge; massive
@@ -4346,7 +4289,10 @@ tolerant
 tollerante; indulgente
 
 old
-vecchio; antico
+vecchio
+
+ancient
+antico
 
 alive
 vivo
@@ -4706,7 +4652,7 @@ purple
 porpora
 
 violet
-violetto
+violetto; violeta
 
 bureaucracy
 la burocrazia
@@ -4816,7 +4762,7 @@ la scrittura
 to threaten
 minacciare
 
-note
+note (general)
 la nota
 
 to cure; to treat
@@ -4846,9 +4792,6 @@ lo schermo
 movie theater
 il cinema; il cinematografo
 
-secretly
-segretamente
-
 to rob (a person)
 derubare
 
@@ -4869,9 +4812,6 @@ l'alloggio
 
 racist
 razista
-
-to come to mind
-venire in mente
 
 thus; therefore; then
 quindi
@@ -4900,10 +4840,13 @@ il 4 di ogni mese
 everywhere
 dappertutto; ovunque
 
-nowhere
-in nessun posto; da nessuna parte
+everwhere; anywhere
+ovunque
 
-behind
+nowhere
+da nessuna parte; in nessun posto; da nessuna parte
+
+behind (pronoun)
 dietro di
 
 forward
@@ -4960,7 +4903,7 @@ la creatura
 aspect; appearance; look; looks
 l'aspetto
 
-sense of humor
+humor
 l'umorismo
 
 wild
@@ -5410,10 +5353,7 @@ la plastica
 some day
 un giorno o l'altro; un giorno
 
-precisely; exactly
-appunto
-
-note
+note (short, memo)
 l'appunto
 
 notes
@@ -5436,9 +5376,6 @@ l'economia
 
 market
 il mercato
-
-wave
-l'onde
 
 theory
 la teoria
@@ -5558,7 +5495,7 @@ to disagree
 non essere d'accordo
 
 service area
-l'area di servizio
+l'area servizio; l'area di servizio
 
 fluently
 fluentemente; speditamente; in modo scorrevole
@@ -6260,7 +6197,7 @@ outside; external; outer
 esterno
 
 precisely; exactly
-precisamente
+appunto; precisamente
 
 citizen
 il cittadino; la cittadina
@@ -6439,7 +6376,7 @@ la popolazione
 failure
 il fallimento
 
-known
+known (familiar with)
 conosciuto
 
 opportunity
@@ -6490,7 +6427,7 @@ il fisico
 frequent
 frequente
 
-known
+known (information)
 saputo
 
 surely; sure; certainly
@@ -6501,12 +6438,6 @@ l'intelligenza
 
 Greece
 la Grecia
-
-lost
-perduto
-
-intellectual
-intelletuale
 
 expression; phrase
 l'espressione
@@ -7021,7 +6952,7 @@ la direzione
 dialect
 il dialetto
 
-health
+health (institutional)
 la sanità
 
 brought
@@ -7168,7 +7099,7 @@ lasciato
 sweetness
 la dolcezza
 
-dance
+dance (art form)
 la danza
 
 typically
@@ -7277,7 +7208,7 @@ dental floss
 il filo interdentale
 
 toothbrush
-lo spazzolino da denti
+lo spazzolino da denti; lo spazzolino
 
 hairbrush
 la spazzola per capelli
@@ -7350,9 +7281,6 @@ il suggerimento
 
 advice
 il consiglio
-
-except
-tranne
 
 time; weather; tense (verb)
 il tempo
@@ -7574,7 +7502,7 @@ selfish
 egoista
 
 unfortunately
-purtroppo; sfortunatamente
+purtroppo; sfortunatamente (formale)
 
 to experiment; to experience
 sperimentare

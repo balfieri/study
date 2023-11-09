@@ -544,7 +544,7 @@ pertanto
 namely; i.e.; that is
 ossia
 
-advertisement
+classified ad
 l'inserzione
 
 to carry out; to perform; to fulfill; to accomplish
@@ -643,26 +643,17 @@ la precisazione; il chiaramento; la chiarificazione
 throttle
 l'acceleratore
 
-to replace
-sostituire
-
 fuel
 il combustibile; il carburante
 
 to master
 padroneggiare
 
-notebook
-lo quaderno
-
 sponge
 la spugna
 
 to bark
 abbaiare
-
-weekend
-il fine settimana
 
 hungry (single word)
 affamato
@@ -717,9 +708,6 @@ tra altro; oltre ad altro
 
 with the goal of
 allo scopo di; al fine di
-
-comparison
-il confronto
 
 to buckle; to fasten; to lace up
 allacciare
@@ -862,7 +850,7 @@ la teglia da pizza
 to stuff
 farcire
 
-bakery
+bread bakery; bread factory
 il paneficio
 
 long-suffering (adjective)
@@ -1105,8 +1093,11 @@ la piazzola di partenza
 approach area of green
 l'avangreen
 
-to shave
-farsi la barba; rasare
+to shave (onself)
+farsi la barba
+
+to shave (general)
+rasare
 
 golf bag
 la sacca da golf
@@ -1173,9 +1164,6 @@ conseguirsi
 
 completed years
 gli anni compiuti
-
-to stuff
-farciare
 
 to chop
 tritare
@@ -1399,8 +1387,8 @@ apparentemente
 bet
 la scommessa
 
-to hope
-auguriaresi
+to wish; to hope
+auguriarsi
 
 foreseen; predicted; expected
 previso
@@ -1513,7 +1501,7 @@ l'installazione
 to install
 impiantare; installare
 
-income
+proceeds; earnings (formal)
 il provento
 
 soil
@@ -1633,9 +1621,6 @@ nonostante ciò
 to disappear
 scompare
 
-to appear
-compare
-
 plumbing
 l'impianto idraulico; l'acqua corrente in casa
 
@@ -1693,17 +1678,11 @@ pallido
 gaudy; loud; flamboyant
 sgargiante
 
-bully
-il bravaccio
-
 braggart; bully; boaster
 lo spaccone; il gradasso
 
 hypocrite
 l'ipocrita
-
-unhealthy
-malsano
 
 backwards; reactionary; retrograde
 retrogrado
@@ -2317,11 +2296,11 @@ di tutto rispetto
 in a hurry
 di fretta
 
-perfectly
+perfectly (dressed, prepared carefully)
 di tutto punto
 
 secretly
-di nascosto
+di nascosto; segretamente (formale)
 
 substantial; common-law; de facto
 di fatto
@@ -2666,7 +2645,7 @@ to vacuum
 passare l'aspirapolvere
 
 bully
-il bullo; il prepotente
+il bullo; il prepotente; il bravaccio
 
 bullying
 il bullismo; la prepotenza
@@ -2826,9 +2805,6 @@ la scintilla; il lampo
 
 to sparkle
 scintillare
-
-to replace
-sostituire; cambiare
 
 to reconstruct
 ricostrire
@@ -3094,11 +3070,14 @@ sovrastimare; sopravvalutare
 to inflict
 infliggere
 
-to pay attention
-prestare attenzione
-
 sadistic
 sadico
+
+to keep right; to turn right
+tenere a destra
+
+to keep left; to turn left
+tenere a sinistra
 
 to get into Heaven
 andare in Paradiso
@@ -3129,6 +3108,9 @@ il riscaldamento
 
 to keep right
 tenere la destra
+
+to keep left
+tenere la sinistra
 
 to crush; to squeeze; to squash
 schiacciare
@@ -3511,9 +3493,6 @@ il ricupero
 roommate; roomie
 il compagno di stanza; la compagna di stanza
 
-backyard
-il cortile
-
 delivered
 consegnato
 
@@ -3568,7 +3547,7 @@ comprimere
 to flex
 flettere
 
-to shave
+to shave off; to remove completely
 radere
 
 to dye
@@ -4018,7 +3997,7 @@ seppur
 to restructure; to renovate
 ristrutturare
 
-building
+building (formal, old-fashioned)
 lo stabile
 
 kiosk; door; window; gate
@@ -4044,9 +4023,6 @@ la premessa
 
 to attest; to substantiate
 comprovare
-
-applicant
-il richiedente
 
 assignee
 l'assegnatario
@@ -6332,7 +6308,7 @@ replacement; substitute
 il sostituto; la sostituzione; il rimpiazzo
 
 to replace
-rimpiazzare
+rimpiazzare; sostituire
 
 to tweet
 twittare
@@ -60493,3 +60469,7 @@ le porte del cielo
 
 to speak up
 parlare più forte
+
+lost (formal)
+perduto
+
