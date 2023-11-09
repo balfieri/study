@@ -20617,8 +20617,11 @@ il clero
 tip; point
 la punta
 
-performance (quality measurement)
+performance (quality measurement, multiple aspects)
 le prestazioni
+
+performance (quality measurement, single aspect)
+la prestazione
 
 concentration
 la concentrazione
@@ -21195,9 +21198,6 @@ conservato
 
 to apply
 applicare
-
-performance (speed, etc.)
-la prestazione
 
 post-war period
 il dopoguerra
