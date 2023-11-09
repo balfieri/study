@@ -484,7 +484,7 @@ la prenotazione
 plate; dish
 il piatto
 
-agreement
+agreement; pact
 il patto
 
 agreed
@@ -1354,8 +1354,11 @@ il pomodoro
 it's enough
 basta
 
-to happen
-capitare; succedere
+to happen (by chance)
+capitare
+
+to happen (general)
+succedere
 
 it takes; it requires
 ci vuole; ci vogliono
@@ -5527,8 +5530,11 @@ il film
 magazine
 la rivista
 
-female
+female (adjective)
 femmina
+
+female (noun)
+la femmina
 
 feminine; womanly
 femminile
@@ -6058,7 +6064,7 @@ mantenere
 fault; guilt; blame
 la colpa
 
-step
+step (walking)
 il passo
 
 fear

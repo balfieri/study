@@ -1876,9 +1876,6 @@ stendersi; sdraiarsi
 to shine
 risplendere
 
-to impeach
-mettere sotto accusa; incriminare
-
 haughty; stuffy
 altezzoso
 
@@ -4030,7 +4027,7 @@ l'assegnatario
 canon; standard; fee
 il canone
 
-agreement
+agreement (Vatican, legal)
 il concordato
 
 to provide; to supply
@@ -4038,9 +4035,6 @@ provvedere
 
 to carry out; to perform; to fulfll
 espletare
-
-provision
-la dispozione
 
 in force; current
 vigente
@@ -4090,7 +4084,7 @@ il pregio
 to glimpse; to perceive
 intravedere
 
-step
+step (stairs)
 il gradino
 
 cottage; farmhouse
@@ -4144,7 +4138,7 @@ incriminare; mettere sotto accusa
 maybe; perhaps; possibly; it could be; it might be
 può darsi
 
-to happen
+to happen; to take place (self-causation)
 darsi
 
 the present; timeliness; current events; current affairs
@@ -4585,9 +4579,6 @@ in breve; in sintesi
 in conclusione; eventually; ultimately
 in conclusione
 
-in conclusion
-concluendo
-
 alternatively
 in alternativa; alternativamente
 
@@ -4664,7 +4655,7 @@ in the event that
 nel caso in cui
 
 assuming that
-partendo dal presupposto che
+partendo dal presupposto che; supponendo che
 
 hypothetically
 ipoteticamente
@@ -4812,9 +4803,6 @@ un altro strato di cipolla
 
 disheveled
 arruffato; scapigliato
-
-female
-la femmina
 
 feather
 la piuma
@@ -5053,9 +5041,6 @@ lo scontro
 to bother; to disturb; to trouble
 scomodare
 
-confusing
-che confonde
-
 meanwhile, for starters
 intanto, per cominciare
 
@@ -5106,9 +5091,6 @@ tra parentesi
 
 consistency; texture
 la consistenza
-
-assuming that
-supponendo che
 
 slight difference
 la leggera differenza
@@ -5731,9 +5713,6 @@ la controparte
 squeezable
 comprimibile
 
-kissable
-baciabile
-
 employer
 il datore di lavoro; il padrone
 
@@ -5942,7 +5921,7 @@ good hugger
 l'abbracciatore professionista; l'abbracciatrice professionista
 
 kissable
-da baciare; da sbaciucchiare
+baciabile; da baciare; da sbaciucchiare
 
 squeezable cheeks
 le guance da pizzicare; le guanciotte da pizzicare
@@ -9285,9 +9264,6 @@ ortodosso
 
 it melts in your mouth
 si scioglie in bocca
-
-synagogue
-la sinogoga
 
 art history
 la storia dell'arte
@@ -60467,3 +60443,5 @@ parlare più forte
 lost (formal)
 perduto
 
+to happen; to occur (formal)
+accadere
