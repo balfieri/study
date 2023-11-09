@@ -1117,7 +1117,7 @@ ieri
 day before yesterday
 l'altro ieri
 
-breast (of chicken); chest
+chest; breast (chicken, turkey)
 il petto
 
 breast (female)
@@ -7797,3 +7797,6 @@ fortunato
 
 unlucky; out of luck
 sfortunato
+
+data
+i dati
