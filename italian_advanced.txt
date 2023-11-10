@@ -199,7 +199,7 @@ lo schema
 improperly
 impropriamente
 
-cell
+cell (room)
 la cella
 
 speech therapist
@@ -247,7 +247,7 @@ il fuso orario
 to involve
 convolgere
 
-to get involved
+to convolve; to roll together
 convolgersi
 
 to address
@@ -790,7 +790,7 @@ sarà per la prossima volta
 I'm afraid I can't
 temo di no
 
-I don't think so
+I don't think so; I doubt it
 mi sa di no
 
 I doubt it; I doubt that
@@ -1109,7 +1109,7 @@ spulciare
 to defile
 
 gypsy
-la zingariola; la zingara
+lo zingaro; la zingara; la zingariola
 
 review (of subject)
 il ripasso
@@ -1214,7 +1214,7 @@ shocked
 scioccato; dazed; stunned
 
 stop it!
-smettila!
+smettila!; piantala!
 
 to keep score
 mantenere il punteggio
@@ -2623,7 +2623,7 @@ ruggire
 beast; wild animal
 la belva
 
-sovereign
+sovereign (advocating)
 sovranista
 
 beaten; hit
@@ -3676,9 +3676,6 @@ addorare Satana
 customer service
 il servizio clienti
 
-to suspect that
-sospettere che
-
 American; United States (adjective)
 statunitense
 
@@ -3808,7 +3805,7 @@ cocciutamente
 in anything in
 in alcunché in
 
-to appear
+to appear; to come up; to show up
 comparare
 
 kinship
@@ -3891,9 +3888,6 @@ incorreggibile
 
 in the early days; at first
 i primi tempi
-
-celebration
-la celebrazione
 
 damage; deterioration
 il danneggiamento
@@ -4295,7 +4289,7 @@ no rush; there's no rush
 senza fretta; non c'è fretta
 
 take your time
-fai con calma; fai con comodo
+fai con calma; fai con comodo; con comodo
 
 the fact remains that
 ciò non toglie che
@@ -5187,9 +5181,6 @@ olisticamente
 
 a little bit
 un po' poco
-
-inner workings
-i meccanismi interni
 
 inappropriate
 inopportuno; inappropriato; inadatto; improprio; inadeguato
@@ -6148,7 +6139,7 @@ e allora?
 conception
 il concepimento
 
-to exclude
+to expel; to eject (formal)
 estromettere
 
 to protect (formal, legal); to defend; to preserve
@@ -6293,7 +6284,7 @@ in person
 di persona; in presenza
 
 cartoon
-la vignetta; la caricatura
+il cartone animato; la vignetta; la caricatura
 
 vignette; cartoon
 la vignetta
@@ -7063,8 +7054,8 @@ in senso orario
 counterclockwise
 in senso antiorario
 
-disruptive
-dirompente; turbolente
+disruptive (innovative)
+dirompente
 
 fulfilling
 che far sentire realizzato; gratificante
@@ -7528,7 +7519,7 @@ la manciata
 to rely on
 affidarsi a
 
-to look out
+to look out t; to overlook
 affacciarsi a
 
 to step away from
@@ -7758,9 +7749,6 @@ accontentare
 
 misfortune of others
 la sfortuna altrui
-
-who cares?
-che importa?; che se ne frega?
 
 it makes no difference
 non importa niente; non fa differenza; non fa alcuna differenza
@@ -10315,7 +10303,7 @@ promettere poco e mantenere di più
 coffin; casket
 la bara; il feretro
 
-as usual
+to the usual
 al solito
 
 clear blue skies; blue skies
@@ -11140,8 +11128,11 @@ il negazionismo
 filthy; dirty; foul
 immondo
 
-to breach; to break through
+to breach; to make a breach
 fare breccia
+
+to break through
+sfondare
 
 wayward children
 i figli ribelli
@@ -11358,9 +11349,6 @@ essere delicati come un bulldozer
 
 to take with a grain of salt
 prendere con le pinze
-
-be serious!
-sìi sèrio!
 
 sweet dreams
 sogni d'oro
@@ -11999,7 +11987,7 @@ to fight like cats and dogs
 essere come cane e gatto
 
 to be an open book
-essere come un libro aperto
+essere come un libro aperto; essere un libro aperto
 
 to be two peas in a pod
 essere due anime in un nocciolo
@@ -12754,9 +12742,6 @@ nel quotidiano
 witch-hunt; witch hunt
 la caccia alle streghe
 
-expansion
-l'espanzione
-
 to overuse; to abuse
 abusare
 
@@ -13211,7 +13196,7 @@ to throw in the towel
 gettare la spugna
 
 to leave (something) to be desired
-lasciare un po' a desiderare
+lasciare a desiderare; lasciare un po' a desiderare
 
 sometimes; occasionally; once in a while; now and then
 talvolta
@@ -13672,7 +13657,7 @@ rissoso
 bank; dam; embankment
 l'argine
 
-sovereign (noun)
+sovereign (noun, ideologue)
 il sovranista
 
 challenger; competitor; rival
@@ -14197,9 +14182,6 @@ il doppiaggio
 consumerism
 il consumismo
 
-purchase
-l'acquisito
-
 purchase history
 lo storico acquisiti
 
@@ -14503,7 +14485,7 @@ appresso
 skirmish; clash
 la schermaglia
 
-vain
+vain; superficial
 vanesio
 
 hinge; pivot; foundation
@@ -15206,7 +15188,7 @@ to go out of one's way
 darsi molto da fare
 
 to tighten one's belt
-stringere la cinghia
+tirare la cinghia; stringere la cinghia
 
 to be in the same boat
 essere sulla stessa barca
@@ -15447,9 +15429,6 @@ di nuovo in azione
 
 to keep track of
 tenere traccia di
-
-to start from scratch
-ripartire da zero
 
 bookworm
 il mangialibri; il topo di biblioteca; il bibliomane
@@ -15946,7 +15925,7 @@ tenere a mente; tenere in ballo
 word for word
 parola per parola
 
-to bite one's tongue
+to keep one's tongue in check
 tenere a freno la lingua
 
 control freak
@@ -16158,9 +16137,6 @@ a essere sinceri
 
 the walls have ears
 i muri hanno le orecchie
-
-white lie
-la bugia a fin di bene
 
 green with envy
 verde di invidia
@@ -16721,7 +16697,7 @@ voter fraud
 la frode elettorale
 
 white lie
-la bugia bianca; la bugia pietosa; la piccola bugia
+la bugia bianca; la bugia pietosa; la piccola bugia; la bugia a fin di bene
 
 merciful; pitiful; compassionate
 pietoso; misericordioso
@@ -16743,9 +16719,6 @@ l'esercizio di riscaldimento
 
 custom; habit
 la consuetudine
-
-cartoon
-il cartone animato
 
 comics (cartoon)
 i fumetti
@@ -16819,9 +16792,6 @@ guadagnarsi il consenso
 tatters; rags; duds
 gli stracci
 
-not too bad
-alla méno pèggio
-
 attack!
 all'attacco
 
@@ -16845,9 +16815,6 @@ avanti!
 
 mind your own business!
 bada ai fatti tuoi!
-
-watch your mouth!
-bada come parli!
 
 lucky you!
 beato te
@@ -16874,10 +16841,7 @@ it takes much more than that
 ci vuole altro
 
 to start from scratch
-cominciare da zero
-
-take your time
-con comodo
+ripartire da zero; cominciare da zero
 
 my pleasure
 con piacere
@@ -16885,11 +16849,8 @@ con piacere
 condolences (funeral)
 condoglianze
 
-congratulations
-congratulazioni
-
 cheer up!
-coraggio!
+coraggio!; su con la vita!
 
 so-so
 così cosà
@@ -16937,7 +16898,7 @@ to make way (room)
 fare largo; fare strada
 
 watch your mouth!
-fa attenzione a quello che dici!
+bada come parli!; fa attenzione a quello che dici!
 
 doesn't matter
 fa lo stesso
@@ -16947,9 +16908,6 @@ faccia pure
 
 bear in mind that
 faccio presente che
-
-make yourself at home
-fai come se fossi a casa tua
 
 do your best
 fai del tuo meglio
@@ -17045,7 +17003,7 @@ how many times do I have to tell you?
 ma quante volte ti devo ripetere?
 
 be serious!
-ma sii serio!
+ma sii serio!; sii serio!
 
 are you kidding?
 ma stai scherzando?
@@ -17087,7 +17045,7 @@ resign yourself
 mettiti il cuore in pace
 
 make yourself at home
-mettiti in libertà
+mettiti in libertà; fai come se fossi a casa tua
 
 to work around; to manage; to make due
 arrangiarsi
@@ -17110,8 +17068,11 @@ non c'è fumo senza arrosto
 not too bad
 non c'è male
 
+the lesser of two evils
+alla meno peggio
+
 to play hard to get
-farsi desiderare; fare il difficile; fare il prezioso; fare pregare; giocare a essere da ottenere
+farsi desiderare; fare il difficile; fare il prezioso; fare pregare; giocare a essere da ottenere; far finta di non essere coinvolti
 
 don't dare
 non ti permettere
@@ -17146,11 +17107,8 @@ per niente; macché; niente affatto
 no, not at all
 no, per niente
 
-stop it!
-piantala!
-
 the more the merrier
-più si è, meglio è
+più si è, meglio è; più siamo, più ci divertiamo
 
 poor thing
 poveretto
@@ -17203,7 +17161,7 @@ la sinecura
 to keep out
 stare alla larga; stare in campana
 
-to look out
+to be on guard; to vigilant; to be on the look out
 stare in guardia
 
 watch your words!
@@ -17224,9 +17182,6 @@ i rapporti tesi
 don't give up!
 stringi i denti!
 
-cheer up!
-su con la vita!
-
 to get out of here
 tagliare la corda
 
@@ -17238,9 +17193,6 @@ tanto peggio
 
 knight in shining armour
 il principe azzurro
-
-the more the merrier
-più siamo, più ci divertiamo
 
 bear in mind
 tieni presente
@@ -17284,9 +17236,6 @@ far colpo su (qualcuno)
 to part as good friends
 lasciarsi da buoni amici
 
-to play hard to get
-far finta di non essere coinvolti
-
 to play (something) by ear
 decidere all'ultimo momento
 
@@ -17305,7 +17254,7 @@ la sponda; la riva
 stream; creek
 il ruscello
 
-pond
+small lake
 il laghetto
 
 block (buildings surrounded by streets)
@@ -17377,7 +17326,7 @@ il giudice della Corte Suprema
 it has neither of these
 non ha nessuno dei due
 
-representation
+representation (legal, formal)
 la rappresentanza
 
 taxation without representation
@@ -17737,9 +17686,6 @@ perdere la faccia
 to preach to the choir
 sfondare una porta aperta
 
-to breach; to break through
-sfondare
-
 to wait with bated breath
 stare col fiato sospeso
 
@@ -17854,14 +17800,8 @@ essere in prima linea
 to be a closed book
 essere un libro chiuso
 
-to be an open book
-essere un libro aperto
-
 to take a leap of faith
 fare atto di fede
-
-to leave (something) to be desired
-lasciare a desiderare
 
 to wash one's hands of (something)
 lavarsene le mani di
@@ -17901,9 +17841,6 @@ tenere in scacco
 
 to keep on a leash
 tenere sulla corda
-
-to tighten one's belt
-tirare la cinghia
 
 to press one's luck
 tirare troppo la corda
@@ -18211,9 +18148,6 @@ cosa pensi che sia?
 twine
 lo spago
 
-absolute
-asoluto
-
 transformation
 la trasformazione
 
@@ -18466,7 +18400,7 @@ precipitevolissimevolmente
 foundation; basis
 il fondamento
 
-representation
+representation (general)
 la rappresentazione
 
 method
@@ -18574,9 +18508,6 @@ l'impulso incontrollabile; il bisogno irrefrenabile
 unstoppable; irrepressible
 irrefrenabile; inarrestabile
 
-uncontrollable
-incontrollabile
-
 to tie a string
 legare una corda
 
@@ -18598,7 +18529,7 @@ il culto
 exception
 l'eccezione
 
-cell
+cell (biology)
 la cellula
 
 synthesis; summary; abstract
@@ -18762,9 +18693,6 @@ noto
 
 order; arrangement
 l'ordinamento
-
-ship
-il navo
 
 willing; inclined; disposed
 disposto
@@ -19171,7 +19099,7 @@ versare sale sulla ferita
 mosquito
 la zanzara
 
-sometimes
+sometimes (formal)
 talora
 
 to detect; to note; to observe; to notice
@@ -19399,9 +19327,6 @@ onorevole
 rational
 razionale
 
-activity
-l'attività
-
 to get curious; to get interested in (finding out more)
 incuriosirsi
 
@@ -19564,9 +19489,6 @@ maledetto
 to insult
 insultare
 
-gypsy
-lo zingaro
-
 the Virgin Mary
 la Vergine Maria
 
@@ -19618,7 +19540,7 @@ la speranza di vita; l'aspettativa di vita
 decay; decline; putrification
 il decadimento
 
-disruptive
+fragmenting
 disgregativo
 
 fragmentation
@@ -20209,7 +20131,7 @@ immediato
 appointed
 nominato
 
-to appear
+to appear (out of nowhere)
 apparire
 
 mixer (kitchen)
@@ -20344,7 +20266,7 @@ percepire
 superhero
 il supereroe
 
-as usual
+as usual; customarily
 di consueto
 
 to thicken
@@ -20400,9 +20322,6 @@ non è per niente male
 
 horn (car)
 il clacson
-
-sense of humor
-il senso dell'umorismo
 
 foreseeable future
 il futuro prevedibile
@@ -20521,7 +20440,7 @@ tornarsi indietro
 nice shot!
 bel colpo!
 
-I don't think so
+I really don't think so; I really don't believe so
 non credo proprio
 
 answering machine
@@ -22763,7 +22682,7 @@ even; as well; too
 eziandio
 
 purchase
-l'acquista
+l'acquisto
 
 courier
 il corriere

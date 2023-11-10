@@ -392,7 +392,7 @@ to have fun; to enjoy oneself; to have a good time
 divertirsi
 
 sense of humor
-il senso d'umore
+il senso dell'umorismo
 
 wonderful; marvelous
 meraviglioso
@@ -3671,7 +3671,7 @@ plural
 plurale
 
 activity
-l’attività
+l'attività
 
 gym
 la palestra
