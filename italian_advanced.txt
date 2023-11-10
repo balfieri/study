@@ -57674,12 +57674,6 @@ il comparatore
 it shows; you can see; one can see
 si vede
 
-before Christ
-avanti Cristo
-
-after Christ
-dopo Cristo
-
 enviable
 invidiabile
 
@@ -60346,3 +60340,9 @@ essere il centro del discorso di oggi
 
 among many things
 fra tante cose
+
+before Crist; B.C.
+avanti Cristo; prima di Cristo
+
+after Christ; A.D.
+dopo Cristo
