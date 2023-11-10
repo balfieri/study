@@ -806,7 +806,7 @@ to avoid
 evitare
 
 except
-tranne; eccetto
+tranne
 
 beach
 la spiaggia; il lido
@@ -1942,9 +1942,6 @@ il centro
 historic center
 il centro storico
 
-bench
-la panchina
-
 course; main street; avenue
 il corso
 
@@ -2275,7 +2272,7 @@ pulito
 fast
 veloce
 
-quick; fast; swift; rapid
+quick; fast; swift; rapid; brisk
 rapido
 
 off; turned off
@@ -3001,7 +2998,7 @@ chiamarsi
 to meet
 conoscersi
 
-to complain; to whine
+to complain
 lamentarsi
 
 to brush (hair)
@@ -4070,7 +4067,7 @@ to finish working
 finire di lavorare
 
 to go back home
-tornare a casa
+tornare a casa; ritornare a casa
 
 to go out with friends
 uscire con gli amici
@@ -4326,9 +4323,6 @@ unico
 
 used
 usato
-
-adorable; lovable; lovely
-adorabile
 
 incapable
 incapace
@@ -4603,7 +4597,7 @@ avere successo
 to swim
 nuotare
 
-to type
+to write on the computer; to type on the computer
 scrivere al computer
 
 miserable
@@ -4765,8 +4759,11 @@ bruciarsi; esaurirsi
 definitely
 decisamente
 
-lovable
-amabile; adorabile
+amiable; lovable
+amabile
+
+adorable
+adorabile
 
 screen
 lo schermo
@@ -4889,7 +4886,7 @@ humor
 l'umorismo
 
 wild
-selvaggio; scatenato
+selvaggio
 
 to land
 atterare
@@ -6253,8 +6250,11 @@ la visita
 poetic
 poetico
 
-mass
+mass (matter)
 la massa
+
+mass (Christian)
+la messa
 
 drawing; design
 il disegno

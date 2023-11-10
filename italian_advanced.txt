@@ -271,9 +271,6 @@ la pista di decollo
 wing
 l'ala
 
-day trip
-la gita di un giorno
-
 timing
 il tempismo
 
@@ -343,7 +340,7 @@ aggiornare
 rear (adjective)
 posteriore
 
-front (adjective)
+front (adjective); anterior
 anteriore
 
 flaps
@@ -552,9 +549,6 @@ svolgere
 
 to pack; to wrap; to package
 imballare
-
-to reject
-rifiutare; rispingere
 
 altogether different
 del tutto diverso
@@ -916,7 +910,7 @@ umile; domestico
 vinyl record
 il disco in vinile
 
-to drain
+to drain (cooking)
 scolare
 
 jury
@@ -1826,7 +1820,7 @@ store owner
 il negoziante
 
 even though
-benché; nonostante; sebbene
+sebbene; anche se; benché; nonostante
 
 calculation; count; counting
 il conteggio
@@ -2348,7 +2342,7 @@ to shoulder; to undertake; to absorb
 addossarsi
 
 to swallow; to gulp
-inghiottire; ingoiare; degerire
+inghiottire; ingoiare
 
 toad
 il rospo
@@ -2526,9 +2520,6 @@ naufragare
 
 to marry; to fly together
 convolare
-
-threshold; sill; doorstep
-la stoglia
 
 inconvenience; bother; trouble
 l'incomodo
@@ -2789,7 +2780,7 @@ emotionally intelligent
 emotivamente intelligente
 
 on a good day
-in una buona giornata; in un buon giorno
+in una giornata buona; in una buona giornata; in un buon giorno
 
 happy viewing!; happy watching!
 buona visione!
@@ -3307,9 +3298,6 @@ l'insieme
 set of rules
 l'insieme di regola
 
-on second thought
-ripensandoci
-
 He rises again
 Si alza di nuovo
 
@@ -3754,7 +3742,7 @@ agghiacciare
 to collapse; to crumble
 crollare
 
-harrassment
+harrassment; bullying; ill-treatment
 le angherie
 
 step-by-step
@@ -3916,7 +3904,7 @@ i beni culturali
 landscape (adjective)
 paesaggistico
 
-worsening
+hardening; toughening
 l'inasprimento
 
 humorous (book)
@@ -4227,9 +4215,6 @@ chiassoso
 
 paper (adjective)
 cartaceo
-
-marathon
-il maratone
 
 drying up; dessication
 l'inaridimento
@@ -4582,7 +4567,7 @@ in conclusione
 alternatively
 in alternativa; alternativamente
 
-previously
+before now; earlier
 in precedenza
 
 a few days ago
@@ -5347,8 +5332,11 @@ cavalcare
 exhaustion; depletion; weariness
 l'esaurimento
 
+mutual understanding
+l'intendimento
+
+understanding; comprehension
 understanding
-l'intendimento; la comprensione
 
 insight; shrewdness; acumen
 la perspicacia
@@ -5382,9 +5370,6 @@ più fondo del fondo
 
 to make sense of
 dare un senso a
-
-unusual
-inusuale
 
 great command of
 la grande padronanza di
@@ -6241,7 +6226,7 @@ la vicenda
 glimpse; spot
 la scorgia
 
-brisk
+quick; efficient (person)
 spiccio
 
 deafening; blatant
@@ -6494,7 +6479,10 @@ scrawl; doodle; scribble
 lo scarabocchio
 
 department; unit; ward
-il reparto; il dipartimento
+il reparto
+
+department (company, government, university)
+il dipartimento
 
 to scrawl; to doodle; to scribble
 scaraboccchiare
@@ -6784,7 +6772,7 @@ una volta che
 so much that
 tanto che; così tanto che
 
-except
+only that; just that
 solo che
 
 in case; if; in the event that
@@ -7045,7 +7033,7 @@ farsi spiegare
 parenthood
 la genitorialità
 
-to reject; to decline; to turn down; to push back
+to reject; to repel; to decline; to turn down; to push back
 rispingere
 
 secrecy
@@ -7279,8 +7267,8 @@ la fermezza
 tough love
 l'affettuosa fermezza; l'amore severo
 
-lovable
-amabile; incantevole
+enchanting; charming
+incantevole
 
 splendid
 splendido
@@ -7375,7 +7363,7 @@ la finalità
 gross; total; overall
 complessivo
 
-also; too
+also; furthermore (formal)
 altresì
 
 preemptively; beforehand; ahead
@@ -7687,8 +7675,8 @@ l'acqua di pozzo
 drinking water
 l'acqua potabile
 
-wild
-selvaggio; selvetico
+wild (plant, place)
+selvetico
 
 to reorganize
 riorganizzare
@@ -7960,7 +7948,7 @@ il senso completo
 antonynm
 il contrario; l'antonimo
 
-opposite
+opposite (noun)
 il contrario; l'opposto
 
 styrofoam
@@ -8185,9 +8173,6 @@ la facciata
 statuesque
 scultoreo
 
-mallet
-il mazzuolo
-
 chisel; scalpel
 lo scalpello
 
@@ -8302,7 +8287,7 @@ l'album live
 unlike you
 a differenza di te
 
-previously
+previously; beforehand; prior to this
 precedentemente
 
 talent
@@ -8368,17 +8353,14 @@ una brutta giornata per i capelli
 dementia
 la demenza
 
-attachment
-l'attaccamento; l'allegato
+attachment (personal)
+l'attaccamento
 
 hide-and-seek; hide-and-go-seek
 il nascondino
 
-millionaire
-il millionario
-
 multimillionaire
-il multimillionario
+il multimilionario
 
 billionaire
 il miliardario
@@ -8890,7 +8872,7 @@ l'allenamento
 glimpse
 lo scorcio
 
-to skin
+to skin; to flay
 scorticare
 
 district; quarter; slum
@@ -8932,7 +8914,7 @@ ho bisogno di una pausa da lui
 to insight a rebellion
 inscenare una ribellione
 
-to hike
+to go on an escursion; to go on a trip
 fare un'escursione
 
 rock climing
@@ -9027,9 +9009,6 @@ le centinaia
 
 projection; showing
 la proiezione
-
-on a good day
-in una giornata buona
 
 as long as possible
 il più a lungo possibile
@@ -9400,9 +9379,6 @@ il sedile anteriore
 back seat
 il sedile posteriore
 
-breakfast
-la colazione; la prima colazione
-
 highlights
 i momenti salienti; gli aspetti salienti
 
@@ -9530,7 +9506,7 @@ coffee bean
 il chicco di caffè
 
 coffee maker
-la macchina da caffè
+la macchina da caffè; la caffettiera
 
 removable
 asportabile; rimovibile
@@ -9835,9 +9811,6 @@ l'arancio
 apple tree
 il melo
 
-coffee maker
-la caffettiera
-
 flute
 il flauto
 
@@ -9982,8 +9955,11 @@ la stretta di mano
 bulky; cumbersome
 ingombrante
 
-bench
+bench (indoor or outdoor)
 la panca
+
+bench (outdoor)
+la panchina
 
 harness
 l'imbrago
@@ -10000,7 +9976,7 @@ fare paracadutismo
 firm (substance)
 compatto
 
-firmness
+compactness
 la compattezza
 
 stalker
@@ -10090,9 +10066,6 @@ il dolore al petto; il male al petto
 water-cooled
 raffreddato ad acqua
 
-string theory
-teoria delle stringhe
-
 sticker
 l'adesivo
 
@@ -10129,7 +10102,7 @@ dare via
 volcanic ash
 la cenere vulcanica
 
-to channel
+to convey; to route; to channel
 convogliare
 
 slope; mountainside
@@ -10765,6 +10738,9 @@ in pericolo immediato
 I care about you
 ci tengo a te; mi importa di te
 
+I care about you; you matter to me
+mi importa di te
+
 to assume; to hire (somebody); to take on
 assumere
 
@@ -10846,9 +10822,6 @@ posticipare
 to delve into; to deepen one's knowledge of; to elaborate on; to deepen; to go deeper on
 approfondire
 
-understanding
-la comprensione
-
 greater understanding
 la migliore comprensione
 
@@ -10861,9 +10834,6 @@ la pattuglia
 stripped; leafless; bare
 spoglio
 
-to start; to begin; to debut
-esorbire
-
 to match; to couple; to pair; to combine; to lace
 abbinare
 
@@ -10873,7 +10843,7 @@ l'allagamento
 leg; stop; stage
 la tappa
 
-to reject
+to reject (formal, legal)
 rigettare
 
 electoral campaign
@@ -10963,7 +10933,7 @@ vergognoso
 trashy novel
 il romanzo spazzatura
 
-movie theater
+movie theater (room); movie screening room
 la sala cinema
 
 to narrate
@@ -11209,9 +11179,6 @@ il fornitore
 cumbersome
 farraginoso
 
-alternatively
-in alternativa
-
 equipment
 le apparecchiature
 
@@ -11423,7 +11390,7 @@ it's the thought that counts
 è il pensiero che conta
 
 among other things
-fra l'altro
+fra l'altro; tra le altre cose; fra le altre cose
 
 friends and acquaintances
 amici e conoscenti
@@ -11548,8 +11515,11 @@ l'esito
 re-count
 il riconteggio
 
-mallet
-il maglio; il mazzuolo
+mallet; sledgehammer
+il maglio
+
+mallet (smaller)
+il mazzuolo
 
 at the top
 in vetta
@@ -11626,7 +11596,7 @@ la cavelleria
 deterioration
 il deterioramento; il degrado
 
-worsening
+worsening; aggravation
 l'aggravamento
 
 reliability
@@ -11805,9 +11775,6 @@ la spedizione
 
 to err on the side of
 sbagliare per eccesso di
-
-attachment
-l'attaccamento
 
 fairness
 l'equità
@@ -12118,7 +12085,7 @@ mi scuso per il ritardo
 out of town
 fuori città
 
-darkness
+darkness (poetic, dramatic)
 le tenebre
 
 imposed
@@ -12178,7 +12145,7 @@ portare il pannolino
 diapers
 il pannolino; i pannolini
 
-headache
+headache (technical, medical)
 la cefalea
 
 deterioration; decay; degredation
@@ -12304,9 +12271,6 @@ l'automobilismo
 skates
 i pattini
 
-hail
-il grandine
-
 dizziness
 il capogiro
 
@@ -12430,7 +12394,7 @@ il rimbalzo
 weight loss
 il dimagrimento
 
-green light
+green light (permission)
 il via libera
 
 to drive easily
@@ -12439,8 +12403,11 @@ andare facilmente in macchina
 barrier island
 l'isola barriera; l'isola di barriera
 
-to hike
-fare escursioni; fare trekking
+to go on excursions
+fare escursioni
+
+to go hiking; to hike; to go trekking
+fare trekking
 
 coastal plain
 la pianura costiera
@@ -12544,7 +12511,7 @@ lo scaramuccio
 numbness
 il torpore
 
-to refresh
+to refresh; to revive
 rifocillare
 
 din; clamor
@@ -12691,7 +12658,7 @@ scocciante
 I was thinking more along the lines of
 stavo pensando a qualcosa più su; stavo pensando a qualcosa come
 
-godmother
+godmother; close family friend or neighbor
 la comare
 
 broadband
@@ -12781,9 +12748,6 @@ li squadrismo
 bunk bed; bunk
 la cuccetta
 
-truthful; honest
-veriterio
-
 in everyday life
 nel quotidiano
 
@@ -12806,7 +12770,7 @@ to moan (positive)
 gemere di piacere
 
 to complain; to whine
-lagnare; lamentarsi
+lagnare
 
 to bust; to ruin; to batter; to wreck
 scassare
@@ -12840,9 +12804,6 @@ sbocciare
 
 to exhaust; to wear
 stremare
-
-department; unit; ward
-il reparto
 
 fatigue; tiredness
 l'affaticamento
@@ -13138,9 +13099,6 @@ bussare alla porta
 for sure; certainly; all right
 di sicuro
 
-even though
-sebbene; anche se; benché
-
 scarecrow; straw man
 lo spaventapasseri
 
@@ -13215,9 +13173,6 @@ a mattina
 
 you feel like
 ti va
-
-I care about you
-ci tengo a te
 
 just as well; it might as well; may as well
 tanto vale
@@ -13381,7 +13336,7 @@ l'ustione
 Coast Guard
 la Guardia costiera
 
-front (adjective)
+opposite; facing
 antistante
 
 fishing boat; trawler; fishing vessel
@@ -13527,9 +13482,6 @@ a lume di candela
 
 blank check
 l'assegno in bianco
-
-to be on one's best behavior
-comportarsi al neglio
 
 to be on one's best behavior
 comportarsi al meglio
@@ -13798,7 +13750,7 @@ inorridito
 to delude oneself
 illudarsi
 
-harrassment
+sexual harrassment
 le molestie
 
 remake; remaking; makeover
@@ -13891,8 +13843,11 @@ il circhiamento
 resurgence
 il risorgimento
 
-unusual
-inusuale; insolito
+unusual (uncommon, rare)
+inusuale
+
+unusual (strange, peculiar)
+insolito
 
 doctor's appointment
 l'appuntamento dal dottore; l'appuntamento medico
@@ -14001,9 +13956,6 @@ tenere un corso come docente
 
 only one week
 una sola settimana
-
-to go back home
-ritornare a casa
 
 with a loved one next to her/him
 con accanto un proprio caro
@@ -14250,9 +14202,6 @@ l'acquisito
 
 purchase history
 lo storico acquisiti
-
-mass
-la messa
 
 skeptical
 scettico
@@ -14881,9 +14830,6 @@ inspirare; inalare
 to digust; to sicken; to nauseate
 schifare
 
-typically
-tipetutamente
-
 checkmate
 lo scacco matto
 
@@ -14896,7 +14842,7 @@ lo stallo; la situazione di stallo
 to bridge the gap
 colmare il divario
 
-both
+both (formal, old-fashioned)
 ambedue
 
 to aerate; to air out; to ventilate
@@ -15217,7 +15163,7 @@ una piccola fortuna
 to cost an arm and a leg
 costare un occhio della testa
 
-to cut corners
+to economize; to save money
 fare economia
 
 to go Dutch
@@ -15277,7 +15223,7 @@ non avere importanza
 to be out of one's element
 essere spaesati
 
-frost
+freeze; frost
 il gelo
 
 to hold up well
@@ -15481,8 +15427,11 @@ il male minore
 to make up one's mind
 decidersi
 
-on second thought
-a pensarci bene; ripensandoci
+on second thought; come to think of it
+a pensarci bene
+
+thinking it over again; upon reconsideration
+ripensandoci
 
 to be on the safe side
 per stare tranquilli
@@ -15535,10 +15484,10 @@ controllo totale
 to give carte blanche
 dare carta bianca
 
-to go too far
-superare il limite; esagerare
+to exceed the limit
+superare il limite
 
-green light
+blank check; carte blanche
 la carta bianca
 
 to have your hands tied
@@ -15667,8 +15616,8 @@ medievale
 flower child
 il figlio dei fiori
 
-brisk
-svelto; rapido
+quick; swift; brisk
+svelto
 
 hygiene
 l'igiene
@@ -15705,9 +15654,6 @@ travagliare
 
 cart; wagon; handcart
 il carretto
-
-privilege
-il privileggio
 
 nun
 la monaca
@@ -16159,7 +16105,7 @@ sottosuolo
 kitchen counter; kitchen countertop
 il balcone della cucina; il piano della cucina
 
-to cross; to traverse
+to cross; to traverse (boundary, limit, difficult)
 valicare
 
 day trip
@@ -16429,7 +16375,7 @@ precorrere; procedere
 to proceed
 procorrere
 
-to postpone
+to postpone (indefinitely)
 rinviare
 
 blind and deaf
@@ -16534,7 +16480,7 @@ pulito come un bambino; pulito come un fischio
 squeaky clean
 immacolato
 
-to drain
+to drain (medical, scientific)
 drenare
 
 she has a lot of attitude
@@ -28582,7 +28528,7 @@ la pendenza
 provoked; aroused
 suscitato
 
-attachment
+attachment (document, file)
 l'allegato
 
 attached; annexed
@@ -33073,7 +33019,7 @@ la festa di fidanziamento; la festa prematrimoniale
 open house
 l'open house; i giorni di apertura
 
-unleashed; wild
+unleashed; unbridled
 scatenato
 
 to collide
@@ -60458,3 +60404,11 @@ la carne scura
 buttermilk biscuit
 il biscotto al latticello
 
+watershed moment
+il momento di cruciale importanza
+
+turning point
+il punto di svolta
+
+except for; with the exception of
+eccetto

@@ -19,15 +19,18 @@ def die( msg, prefix='ERROR: ' ):
 if len( sys.argv ) < 2: die( 'usage: find_dups.py <subjects> [options]', '' )
 subjects = sys.argv[1].split( ',' )
 out_file = ''
+ques_dedup = False
 i = 2
 while i < len( sys.argv ):
     arg = sys.argv[i]
     i += 1
     if   arg == '-out':           
         out_file = sys.argv[i]
-        i += 1
+    elif arg == '-q':
+        ques_dedup = int(sys.argv[i]) != 0
     else:
         die( f'unknown option: {arg}' )
+    i += 1
 
 #-----------------------------------------------------------------------
 # read in <subject>.txt files
@@ -59,7 +62,7 @@ for subject in subjects:
 
         is_unique = True
 
-        if False and question in question_to_answer:
+        if ques_dedup and question in question_to_answer:
             prev_answer = question_to_answer[question]
             print( f'\n{question}' )
             if answer == prev_answer:
