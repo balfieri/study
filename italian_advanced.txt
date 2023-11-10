@@ -169,9 +169,6 @@ che problema c'è?
 public health
 la salute pubblica
 
-to infect
-infettare
-
 epidemiologist
 l'epidemiologo
 
@@ -803,7 +800,7 @@ for what?
 e di che?
 
 don't mention it
-figurati; non ma; ma ti pare; di nulla; non c'è di che
+non c'è di che; figurati; non ma; ma ti pare; di nulla
 
 it's the least I could do
 è il minimo che avrei potuto fare
@@ -1333,7 +1330,7 @@ l'avarizia; l'avidità
 oasis
 l'oasi
 
-alcohol
+alcoholic drinks
 gli alcolici
 
 pride; arrogance
@@ -2341,8 +2338,11 @@ in bilico
 to shoulder; to undertake; to absorb
 addossarsi
 
-to swallow; to gulp
-inghiottire; ingoiare
+to swallow
+ingoiare
+
+to swallow (something large); to gulp 
+inghiottire
 
 toad
 il rospo
@@ -3132,9 +3132,6 @@ la banda
 
 to group; to form a group
 raggruppare
-
-among other things
-fra altro
 
 8 out of 10 italians
 8 italiani su 10
@@ -4021,7 +4018,7 @@ espletare
 in force; current
 vigente
 
-inspiration
+inspirer
 l'ispiratore
 
 incumbant; owner
@@ -9538,8 +9535,11 @@ il raccordo
 hydrated
 idratato
 
-to infect
-contaggiare; infettare
+to infect (bacteria, virus)
+infettare
+
+to infect (transmission, contagion)
+contaggiare
 
 leak; indiscretion
 l'indiscrezione
@@ -11116,9 +11116,6 @@ marchiare
 ruthlessness; mercilessness
 la spietatezza
 
-to swallow; to gulp
-ingoiare
-
 softness
 la morbidezza
 
@@ -11378,7 +11375,7 @@ it's the thought that counts
 è il pensiero che conta
 
 among other things
-fra l'altro; tra le altre cose; fra le altre cose
+fra l'altro; tra l'altro; tra le altre cose; fra le altre cose; fra altro
 
 friends and acquaintances
 amici e conoscenti
@@ -13858,9 +13855,6 @@ il più delle volte
 to move on to a new idea
 passare a un’idea successiva
 
-among other things
-tra l’altro
-
 exhilarating
 esilarante
 
@@ -14161,7 +14155,7 @@ la persona di parola
 you are a person of your word
 sei una persona di parola
 
-to do some research
+to do some research; to do research
 fare delle ricerche
 
 how embarrassing
@@ -17356,10 +17350,10 @@ in aumento
 hate is on the rise
 l'odio è in aumento
 
-to support; to hold; to prop up
+to support (physically); to hold; to prop up
 sorreggere
 
-supported
+supported (physically)
 sorretto
 
 bombshell
@@ -19906,8 +19900,11 @@ il comune
 unpleasant; not nice
 antipatico
 
-stingy
-avaro; tirchio
+stingy; extremely frugal
+avaro
+
+stingy; cheap (informal)
+tirchio
 
 rude; impolite
 scortese
@@ -20374,7 +20371,7 @@ il protagonista
 to strain
 colare
 
-to consider oneself
+to consider oneself; to regard oneself
 considerarsi
 
 state (adjective); national (adjective)
@@ -20818,7 +20815,7 @@ il deposito
 prose
 la prosa
 
-supported
+supported (general)
 sostenuto
 
 change; alteration; modification
@@ -21019,7 +21016,7 @@ esplicitamente
 remarkably; noticeably; significantly; considerably; substantially
 notevolmente
 
-to consider oneself
+to consider oneself (stronger belief)
 ritenersi
 
 allowance; indemnity; compensation
@@ -21295,7 +21292,7 @@ riprendere
 mannequin; dummy
 il manichino
 
-stingy
+stingy; tight-fisted with money (negative connotation)
 spilorcio
 
 dirt; filth; grime
@@ -21304,7 +21301,7 @@ la sporcizia
 I just can't; I really can't
 non posso proprio
 
-already
+already (emphatically)
 di già
 
 remorse
@@ -21634,7 +21631,7 @@ is this how you treat your friends?
 zero-sum game
 il gioco a somma zero
 
-to do some research
+to get informed; to educate oneself; to gather information
 documentarsi
 
 approximate; rough (guess)
@@ -21657,9 +21654,6 @@ la ragazza cattiva; la ragazzaccia
 
 latex
 il lattice
-
-don't mention it
-non c'è di che
 
 Megellan
 Megellano
@@ -21859,7 +21853,7 @@ incorporare
 shelf life
 la shelf life
 
-ball
+ball of yarn
 il gomitolo
 
 to unroll; to unwind; to unfurl
