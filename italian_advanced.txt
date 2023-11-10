@@ -60331,3 +60331,7 @@ il punto di svolta
 
 except for; with the exception of
 eccetto
+
+hitchhiker
+l'autostoppista
+
