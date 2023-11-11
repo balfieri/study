@@ -1606,9 +1606,6 @@ il necrologio
 that not withstanding
 nonostante ciò
 
-to disappear
-scompare
-
 plumbing
 l'impianto idraulico; l'acqua corrente in casa
 
@@ -1957,7 +1954,7 @@ il contingente
 excruciating; harrowing; agonizing; heartbreaking
 straziante
 
-means of transportation
+means of transportation (single)
 il mezzo di trasporto
 
 article of clothing
@@ -2065,7 +2062,10 @@ in retrospettiva; a posteriori
 in the first place
 in primo luogo
 
-tens
+about ten; a dozen
+la dicena
+
+tens; dozens
 le dicene
 
 to entrust; to submit (a draft)
@@ -2589,9 +2589,6 @@ grattarsi
 
 stone; rock; pebble
 il sasso; la pietra
-
-to sigh
-sospire
 
 bookmark; marker
 il segnalibro
@@ -3631,7 +3628,7 @@ sfiorire
 to transgress
 trasgredire
 
-to obey
+to obey (old, literary)
 ubbidire
 
 to hush; to shut up; to silence
@@ -4690,8 +4687,11 @@ non so se; non capisco se; non riesco a capire
 to hearten; to encourage; to cheer up
 rincuorare
 
-to compete
-competere; gareggiare
+to compete (general)
+competere
+
+to compete (sports, game)
+gareggiare
 
 record company
 la casa discografica
@@ -9982,9 +9982,6 @@ il farmacio
 fastening; fixing
 il fissaggio
 
-to stick one's nose in other peoples' business
-ficcare il naso negli affari degli altri
-
 to poke; to stick
 ficcare
 
@@ -10777,8 +10774,11 @@ macellare
 razor blade
 la lametta
 
-grocer; druggist
+grocer (old-fashioned)
 il droghiere
+
+grocery (old-fashioned); drugstore
+la droghiera
 
 lifeguard; lifesaver
 il bagnino
@@ -11246,7 +11246,7 @@ nothing special
 niente di speciale; niente di che
 
 I can't complain
-non mi posso lamentare; non mi lamento; si tira avanti
+non mi posso lamentare; non mi lamento; si tira avanti; non posso lamentarmi
 
 so so
 così e così; insomma; da quanto tempo
@@ -13105,8 +13105,8 @@ appassionato; entusiasta
 to specify; to make clear; to state
 precisare
 
-recognition
-il riconosciamento; il riconoscimento
+recognition; acknowledgement
+il riconoscimento
 
 proficiency; competence
 la competenza; l'abilità; la conoscenza
@@ -16486,7 +16486,7 @@ il cuneo fiscale
 deviation; deviance
 lo scostamento
 
-to agree; to concur
+to agree (on a decision); to concur
 convenire
 
 income (adjective)
@@ -16591,8 +16591,8 @@ il proiezionista; l'addetto alla proiezione
 insider
 l'addetto ai lavori
 
-Thanksgiving
-il Ringraziamento
+thanksgiving; gratitude
+il ringraziamento
 
 fairness doctrine
 la dottrina di equità
@@ -17236,8 +17236,8 @@ l'isolato
 all too; far too; more than enough; only too
 fin troppo
 
-presence
-il cospetto
+in the presence of (formal, literary)
+al cospetto di
 
 filmmaker
 il cineasta
@@ -22024,7 +22024,7 @@ la rama
 conformity; compliance
 la conformità
 
-alternative
+alternative (adjective)
 alternativo
 
 discipline
@@ -23067,9 +23067,6 @@ geografico
 
 promotion
 la promozione
-
-peanut butter
-il burro di noccioline
 
 misprint
 l'errore di stampa
@@ -25475,7 +25472,7 @@ to externalize; to speak out; to express
 esternare
 
 to internalize
-internalizzare; interrorizzare
+internalizzare
 
 to breakfast (neo.)
 colazionare
@@ -25534,7 +25531,7 @@ il venditore
 null; void
 nullo
 
-papal
+papal (institutional); pontifical
 pontificio
 
 editorial; publishing (adjective)
@@ -26188,7 +26185,7 @@ sporcarsi la faccia
 stew
 lo spezzatino
 
-sole
+sole (fish)
 la sogliola
 
 it's no longer true
@@ -26356,7 +26353,7 @@ risottare
 dusting
 la spolverata
 
-delight
+delight (thing)
 la delizia
 
 easily
@@ -26941,7 +26938,7 @@ ritirato
 spirituality
 la spiritualità
 
-to compete
+to compete; to run; to contribute (to a common goal)
 concorrere
 
 Japanese
@@ -27052,7 +27049,7 @@ trasferito
 basically; fundamentally
 fondamentalmente
 
-papal
+papal (related to Pope himself)
 papale
 
 segment
@@ -27067,7 +27064,7 @@ privilegiato
 bearer; carrier
 il portatore
 
-when
+when (formal, archaic); whenever
 allorquando
 
 alienation
@@ -27193,8 +27190,8 @@ il telegiornale
 variety show; variety
 il varietà
 
-advertisement
-la pubblicità; lo spot
+TV commercial; radio commercial
+lo spot
 
 cap
 il berretto
@@ -27389,7 +27386,7 @@ brand
 la marca
 
 peanut butter
-burro di arachidi
+il burro di arachidi; il burro di noccioline
 
 ark
 l'arca
@@ -27418,7 +27415,7 @@ qualificare
 to qualify for
 qualificarsi per
 
-to agree; to concur
+to agree (having same opinion)
 concordare
 
 to sigh
@@ -27457,7 +27454,7 @@ che mi piace di più
 daring; incredible; extraordinary
 rocambolesco
 
-means of transportation
+means of transportation (multiple)
 i mezzi di trasporto
 
 to go by horse
@@ -27754,8 +27751,8 @@ nominale
 illegitimacy
 l'illegittimità
 
-colorful
-colorito
+color (of skin)
+il colorito
 
 turn; shift (work)
 il turno
@@ -27934,7 +27931,7 @@ l'insistenza
 Lombardic
 lombardo
 
-suggestion
+suggestion (psychological); influence; impression
 la suggestione
 
 coloring
@@ -28042,7 +28039,7 @@ per qualche ragione; per qualsiasi ragione
 cohabitant; partner
 il convivente; la convivente
 
-companion
+comrade; close associate (old-fashioned)
 il sodale
 
 comrade
@@ -28114,7 +28111,7 @@ la serva
 oxygen
 l'ossigeno
 
-used
+used; employed (formal)
 adoperato
 
 previously
@@ -28150,7 +28147,7 @@ dorsale
 erudition; learning; scholarship
 l'erudizione
 
-psychic
+psychic (adjective, psychological)
 psichico
 
 winner
@@ -28210,9 +28207,6 @@ il gobbo
 sequence of events
 la sequenza di eventi
 
-to stick one's nose in other peoples' business
-mettere il naso dappertutto
-
 programmable
 programmabile
 
@@ -28255,7 +28249,7 @@ auspicato
 wear; attrition; wearing down
 il logoramento
 
-ascertained
+noted; observed; acknowledged
 constatato
 
 assaulted; attacked
@@ -28312,8 +28306,11 @@ il triangolo
 county; countryside
 il contado
 
-sole
+sole (shoe)
 la suola
+
+forehead
+la fronte
 
 Pisan; of Pisa
 pisano
@@ -28333,7 +28330,7 @@ sterile
 frontal
 frontale
 
-front
+front (building); head-on collision
 il frontale
 
 attribute
@@ -28405,7 +28402,7 @@ la convergenza
 intermediate
 intermedio
 
-recognition
+reconnaissance
 la ricognizione
 
 differential
@@ -28444,9 +28441,6 @@ asceso
 expropiration
 l'espropriazione
 
-martyrdom
-il martiro
-
 Pacific; peaceful; tranquil
 pacifico
 
@@ -28483,7 +28477,7 @@ fallimentare
 perogative
 la prerogativa
 
-contract
+contract for works; contract for servies
 l'appalto
 
 poker face
@@ -28552,7 +28546,7 @@ spettacolare; spettacoloso
 moderate
 moderato
 
-educational
+educational (mind, character, physical ability)
 educativo
 
 labor; travail
@@ -28648,9 +28642,6 @@ interrotto
 performance anxiety; stage fright
 l'ansia da prestazione
 
-I can't complain
-non posso lamentarmi
-
 comma; decimal point
 la virgola
 
@@ -28702,7 +28693,7 @@ tricolore
 unnatural
 innaturale
 
-alternative
+alternative (noun)
 l'alternativa
 
 in the middle; amidst
@@ -28713,9 +28704,6 @@ grandinare
 
 to praise; to hail; to applaud
 osannare
-
-so to speak
-per così dire
 
 to feel sexy
 sentirsi sexy
@@ -28738,7 +28726,7 @@ dialettico
 paternal
 paterno
 
-delight
+delight (broader sense)
 il diletto
 
 delighted
@@ -28786,13 +28774,19 @@ il biennio
 infirmity; sickness; illness; disability
 l'infermità
 
-stopped
+stopped (state)
 fermo
+
+stop (noun)
+il fermo
+
+stop!
+fermo!
 
 degeneration
 la degenerazione
 
-correspondence
+correspondence (letters, historical)
 il carteggio
 
 dominated
@@ -28993,7 +28987,7 @@ that's all you need to know
 to internalize it and accept it
 interiorizzarlo e accettarlo
 
-to internalize
+to internalize (deeper)
 interiorizzare
 
 I have a greater appreciation for it

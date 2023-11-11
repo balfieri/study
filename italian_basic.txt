@@ -376,7 +376,7 @@ le indicazioni
 instructions
 le istruzioni
 
-educational
+educational; instructive
 istrutivo
 
 well-behaved
@@ -5283,9 +5283,6 @@ la questione
 
 at least
 almeno; per lo meno
-
-front
-la fronte
 
 Naples
 Napoli
