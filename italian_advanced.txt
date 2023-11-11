@@ -12724,9 +12724,6 @@ abbellarsi; farsi bello
 to feed (the world)
 sfamare
 
-militia squad
-li squadrismo
-
 bunk bed; bunk
 la cuccetta
 
@@ -15868,8 +15865,8 @@ schierare
 discontent; displeasure
 lo scontento
 
-policy of violence by squads of fascists after World War I
-squadrismo
+militia squad; policy of violence by squads of fascists after World War I
+lo squadrismo
 
 to violate; to rape; to infringe
 violare
