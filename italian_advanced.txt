@@ -1975,7 +1975,7 @@ il pedalò
 to make the bed
 fare il letto
 
-vest
+sleeveless undershirt; tank top
 la canottiera
 
 floor lamp
@@ -5642,7 +5642,7 @@ leavened bread
 il pane lievitato
 
 Passover
-Pesach
+Pesach; la pascqua ebraica
 
 to mention; to hint at
 citare; accennare; menzionare
@@ -9469,9 +9469,6 @@ la disidratazione
 sunny
 soleggiato
 
-grinding
-la macinatura
-
 ice cream maker (machine)
 la gelatiera
 
@@ -11155,7 +11152,7 @@ la bolletta
 surge
 l’impennata
 
-merchant
+trader; dealer; merchant
 il commerciante
 
 price increases; higher prices
@@ -15658,7 +15655,7 @@ la mandibola
 suave; persuasive
 suadente
 
-to spell
+to divide into syllables
 sillabare
 
 weirdness
@@ -16789,7 +16786,7 @@ gli stracci
 attack!
 all'attacco
 
-of course
+far from it!; anything but!
 altro che!
 
 keep out; stay away
@@ -17239,7 +17236,7 @@ fare una gaffe
 to tickle (someone's) fancy
 solleticare l'interesse di
 
-vain
+vain; conceited
 vanitoso
 
 bank (of river); shore; edge
@@ -18967,9 +18964,6 @@ indicato
 contents; table of contents
 i contenuti
 
-acidic
-acido
-
 carried out; unwound; performed; done
 svolto
 
@@ -19150,9 +19144,6 @@ l'occupazione
 favorable
 favorevole
 
-purchase
-l'aquisto
-
 destiny; fate
 il destino
 
@@ -19270,7 +19261,7 @@ dananzi
 circulation
 la circolazione
 
-support
+support (abstract, emotional)
 il sostegno
 
 impression
@@ -19825,9 +19816,6 @@ la traccia
 completely; fully; entirely
 pienamente
 
-academy
-l'academia
-
 regard; with regard to
 riguardo
 
@@ -20266,7 +20254,7 @@ il supereroe
 as usual; customarily
 di consueto
 
-to thicken
+to thicken; to become thicker; to become dense
 addensarsi; ispessirsi
 
 double broiler
@@ -20734,7 +20722,7 @@ presentato
 collective
 collettivo
 
-marine
+marine (noun)
 la marina
 
 theoretical
@@ -21376,7 +21364,7 @@ il collega
 diameter
 il diametro
 
-supreme
+supreme; highest
 supremo
 
 offence; crime (any)
@@ -21913,7 +21901,7 @@ la buccia
 thickener
 l'addensante
 
-to thicken
+to thicken (transitive)
 addensare
 
 to make viscous
@@ -21940,7 +21928,7 @@ il dosaggio
 dispersibility
 dispersibilità
 
-to speed up; to accelerate
+to quicken; to speed up (process)
 velocizzare
 
 use of product; administration
@@ -22075,7 +22063,7 @@ ordinato
 whence; hence
 donde
 
-lost
+lost (old-fashioned, archaic)
 perdito
 
 praline
@@ -22207,8 +22195,11 @@ fisso; fissato
 forumulation
 la formulazione
 
-vain
+empty; hollow; futile
 vano
+
+in vain
+in vano
 
 used; utilized
 utilizzato
@@ -22390,10 +22381,13 @@ prevalente
 reflection; reflex
 riflesso
 
-youth
+youth (period of life)
+la gioventù
+
+youth (person)
 il giovanile
 
-juvenile; youthful
+youthful; young; juvenile
 giovanile
 
 nap
@@ -22411,9 +22405,6 @@ l'esperto
 spare me your sarcasm
 non fare l'ironico
 
-Passover
-la pascqua ebraica
-
 pamphlet
 l'opuscolo; il volantino; il depliant; il manifesto pubblicitario
 
@@ -22423,7 +22414,7 @@ non dire sciochezze; non dire stupidagini
 I totally agree
 condivido pienamente
 
-of course
+of course; it goes without saying
 ci mancherebbe
 
 never ever; never; never did
@@ -22477,7 +22468,7 @@ la qualifica
 fiber
 la fibra
 
-annual
+annual (once per year)
 annuale
 
 address; domicile
@@ -22774,8 +22765,8 @@ riaccendere; ravvivare
 machinery
 macchinario
 
-grinding
-la macinazione
+grinding; milling
+la macinatura; la macinazione
 
 to grind; to mince; to pulverize
 macinare
@@ -22831,7 +22822,7 @@ brevemente
 hit; affected
 colpito
 
-supreme
+highest; greatest (literary form)
 sommo
 
 circle
@@ -23008,9 +22999,6 @@ l'elettrodomestico da cucina; l'apparecchio da cucina
 to turn into; to transform
 trasformare
 
-to feel disrespected
-sentire mancato di respetto
-
 enforcer
 l'imponitore
 
@@ -23086,7 +23074,7 @@ il bestiame
 adequate
 adeguato
 
-annual
+yearly (over period of year)
 annuo
 
 nexus; link
@@ -23167,10 +23155,10 @@ la densità
 parity; equality
 la parità
 
-support
+support (physical, technical)
 il supporto
 
-disorder
+disorder (medical, psychological)
 il disturbo
 
 status
@@ -23197,7 +23185,7 @@ l'altare
 ignorance
 l'ignoranza
 
-seen
+seen (older, literary)
 veduto
 
 to rebuild; to reconstruct; to restore
@@ -23217,9 +23205,6 @@ la rivelazione
 
 there; thither
 colà
-
-on the corner
-all’angolo con
 
 smoke shop
 la tabaccheria
@@ -23311,7 +23296,7 @@ involontario
 use your head
 usa il cervello
 
-disorder
+disorder (chaos); mess
 il disordine
 
 ideology
@@ -23425,9 +23410,6 @@ non vado da nessuna parte
 the whole truth
 tutta la verità
 
-one-way street
-la strada a unico senso
-
 trite; commonplace; banal
 banale
 
@@ -23524,7 +23506,7 @@ sviluppato
 to limit; to rein in
 limitare
 
-God
+God (archaic)
 Iddio
 
 survival
@@ -23801,7 +23783,7 @@ exorcist
 l'esorcista
 
 vest
-il gilè
+il gilet
 
 haunted; bewitched
 stregato
@@ -23878,7 +23860,7 @@ che spreco
 manufacturing
 la fabbricazione
 
-became
+became (older, literary)
 divenuto
 
 great; huge; very big
@@ -23902,7 +23884,7 @@ armato
 confession
 la confessione
 
-marine
+marine (adjective)
 marino
 
 aesthetic; esthetic
@@ -23935,7 +23917,7 @@ oramai
 proportional
 proporzionale
 
-merchant
+merchant (old-fashioned, historical)
 il mercante
 
 residual
@@ -23977,8 +23959,11 @@ furbo
 sour
 aspro
 
-acidic
-acerbo; acido
+acidic; sour
+acido
+
+unripe; immature
+acerbo
 
 to spell
 fare lo spelling

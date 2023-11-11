@@ -6691,9 +6691,6 @@ la menzione
 begun; started
 cominciato
 
-youth
-la gioventù
-
 sent
 inviato
 
@@ -6856,7 +6853,7 @@ Buon Compleanno
 Merry Christmas
 Buon Natale
 
-to be able to
+to be able to; to be capable of
 essere in grado di
 
 wine
