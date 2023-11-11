@@ -5320,7 +5320,7 @@ la tempesta
 thunderstorm
 il temporale
 
-cushion; pillow (rectangular)
+cushion; pillow (general)
 il cuscino
 
 all good; everything's fine

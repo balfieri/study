@@ -35006,7 +35006,7 @@ pillowcase
 la federa del cuscino
 
 memory foam pillow
-il cuscino in memory foam
+il guanciale in memory foam
 
 helpful person
 la persona disponibile
@@ -40603,7 +40603,7 @@ la raccolta differenziata
 composting
 il compostaggio
 
-cushion; pillow (oval, cylindrical)
+bed pillow (rectangular)
 il guanciale
 
 bone marrow
