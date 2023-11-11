@@ -772,9 +772,6 @@ senza
 with
 con
 
-dome
-il duomo
-
 museum
 il museo
 
@@ -1753,7 +1750,7 @@ la ballerina
 engineer
 l'ingegnere
 
-policeman
+policeman; police officer
 il poliziotto
 
 cook
@@ -3139,7 +3136,7 @@ fatto
 read (past participle)
 letto
 
-placed
+placed; put
 messo
 
 dead
@@ -6190,7 +6187,7 @@ perfetto
 perfectly
 perfettamente
 
-professional
+professional (job, profession)
 professionale
 
 solution
@@ -6463,7 +6460,7 @@ il dramma
 opposite
 opposto; contrario
 
-Venetian
+of the region of Veneto
 veneto
 
 continually
@@ -6820,8 +6817,11 @@ il verbo
 return
 il ritorno
 
-excellent
-ottimo; eccellente
+excellent; very good
+ottimo
+
+outstanding; excellent
+eccellente
 
 angel
 l'angelo
@@ -7337,7 +7337,7 @@ to suffice; to be enough
 bastare
 
 violent
-violente
+violento
 
 including; included; inclusive
 incluso
@@ -7471,7 +7471,7 @@ gettare via; buttare via
 to take a photo
 fare una foto
 
-romance
+romance novel
 il romanzo d'amore; la storia d'amore
 
 to combine

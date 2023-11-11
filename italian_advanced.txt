@@ -892,7 +892,7 @@ vabbè
 at the top of one's lungs
 a squarciagola
 
-shame
+shame (formal, literary)
 l'onta
 
 mischief; prank
@@ -1206,9 +1206,6 @@ essere fastidiosi
 
 silly; goofy
 sciocco
-
-shocked
-scioccato; dazed; stunned
 
 stop it!
 smettila!; piantala!
@@ -1710,9 +1707,6 @@ la faccenda; l'affare
 
 excessively; very
 oltremodo
-
-in vain
-invano
 
 to reset; to restore; to rehabilitate
 ripristinare
@@ -2854,8 +2848,14 @@ i comuni mortali
 the great people of
 il grande popolo di
 
-comparison
-il confronto; il paragone; la comparazione
+comparison (competitive)
+il confronto
+
+comparison (general)
+il paragone
+
+comparison (more formal, scientific)
+la comparazione
 
 assault
 l'assalto
@@ -3922,7 +3922,7 @@ si fa simpatia
 liking; sympathy
 la simpatia
 
-to cheat on (an exam)
+to cheat on (game)
 barare a
 
 disappointing
@@ -5488,9 +5488,6 @@ assolvere
 confidence; reliance; trust
 l’affidamento
 
-achievement; attainment; accomplishment
-il conseguimento
-
 new recruit
 il neoassunto
 
@@ -6226,7 +6223,7 @@ la legislatura
 to reiterate; to reaffirm; to stress; to confirm; to affirm
 ribadire
 
-indirect
+indirect (through an intervening factor); mediated
 mediato
 
 hostage
@@ -6244,7 +6241,7 @@ il provvedimento
 fictitious
 fittizio
 
-so that
+so that; in order that (archaic)
 acciocché
 
 overweight
@@ -7231,9 +7228,6 @@ il fieno; la paglia
 wand; rod
 la bachetta
 
-chopsticks
-le bachette cinesi
-
 on average
 in media; mediamente
 
@@ -7357,7 +7351,7 @@ altresì
 preemptively; beforehand; ahead
 preventivamente
 
-equivalent
+equivalent (math, physics)
 equipollente
 
 committee; board; commission
@@ -8194,8 +8188,11 @@ la milizia
 to skin
 scuoiare
 
-to channel
-incanalare; canalizzare
+to direct; to divert; to channel
+incanalare
+
+to channel; to create channels
+canalizzare
 
 without filter
 senza filtri
@@ -8538,9 +8535,6 @@ ravvicinare
 
 involuntarily; unintentionally
 involontariamente
-
-spouse
-il congiuge
 
 sexually suggestive
 sessualmente suggestivo
@@ -9676,9 +9670,6 @@ saltare la recinzione
 to appreciate; to welcome (idea)
 gradire
 
-face; look
-la faccia; il volto
-
 survey; poll
 il sondaggio
 
@@ -10182,9 +10173,6 @@ risistemare
 
 hardwood floor
 il pavimento di legno
-
-stoned
-rincoglionito
 
 stonedness
 il rincoglionimento
@@ -11473,7 +11461,7 @@ lo stravolgimento
 to unravel
 dipanarsi
 
-overwhelming
+overwhelming (excessively dominant, superior)
 soverchiante
 
 more than ever
@@ -12505,7 +12493,7 @@ la cornice
 to drizzle
 piovigginare
 
-to oppose
+to oppose; to be averse to (formal0
 avversare
 
 unwelcome
@@ -15577,9 +15565,6 @@ la grande tosta
 the Middle Ages
 il Medioevo
 
-medieval
-medievale
-
 flower child
 il figlio dei fiori
 
@@ -15874,7 +15859,7 @@ violare
 nurse; wet nurse; nanny
 la balia
 
-the whole thing
+all this
 tutto questo
 
 this kind of thinking
@@ -17639,7 +17624,7 @@ cool (Sicilian)
 spacchuiso
 
 awesome
-che bello; bellissimo
+strapitoso; fantastico; meraviglioso; che bello; bellissimo
 
 very cool
 fichissimo
@@ -19198,7 +19183,7 @@ mi devi una spiegazione
 basketball player
 il cestista
 
-firmly
+firmly (secure, strong)
 saldamente
 
 fellow citizen; compatriot; fellow countryman
@@ -21743,7 +21728,7 @@ mushy; pasty; doughy
 pastoso; molle
 
 remaining
-restante
+restante; rimanente
 
 emulsion
 l'emulsione
@@ -21766,7 +21751,7 @@ la sinergia
 buttery
 burroso
 
-similarity
+similarity (abstract)
 la similitudine
 
 accumulation
@@ -22196,7 +22181,7 @@ empty; hollow; futile
 vano
 
 in vain
-in vano
+invano; in vano
 
 used; utilized
 utilizzato
@@ -22459,7 +22444,7 @@ la comunione
 structural
 strutturale
 
-qualification
+qualification (job title, role)
 la qualifica
 
 fiber
@@ -22516,7 +22501,7 @@ l'editore; l'editrice; il redattore; la redattrice
 respective
 rispettivo
 
-preliminary
+preliminary (comes before)
 preliminare
 
 icy
@@ -22675,7 +22660,7 @@ scolastico
 precious
 prezioso
 
-judicial
+judicial (relating to judiciary)
 giudiziario
 
 format
@@ -22822,7 +22807,7 @@ colpito
 highest; greatest (literary form)
 sommo
 
-circle
+circle (shape)
 il cerchio
 
 prisoner
@@ -23974,9 +23959,6 @@ l'introverso
 strip
 la striscia
 
-comparison
-il paragone
-
 homophobic
 omofobico
 
@@ -24007,7 +23989,7 @@ l'ultimo saluto; l'ultimo addio
 collar
 il colletto
 
-satisfied
+satisfied (deeper, spiritual); fulfilled
 appagato
 
 plaintain
@@ -24121,7 +24103,7 @@ i coniugi
 pay; salary
 la retribuzione
 
-equivalent
+equivalent (general)
 equivalente
 
 prevention
@@ -24142,17 +24124,11 @@ partigiano
 doubling
 il raddoppiamento
 
-to channel
-canalizzare
-
 sound quality
 la qualità del suono; la qualità sonora
 
 cadence
 la cadenza
-
-game
-il giuoco
 
 indifferent
 indifferente
@@ -24307,9 +24283,6 @@ il servo
 morality
 la moralità
 
-violent
-violento
-
 vertex; summit
 il vertice
 
@@ -24334,7 +24307,7 @@ la vicinanza
 identical
 identico
 
-to change
+to change (formal, scientific, legal)
 mutare
 
 well (preposition)
@@ -24346,7 +24319,7 @@ l'isolamento
 seed; suit (card game)
 il seme
 
-learned
+learned (person); erudite
 dotto
 
 devotion
@@ -24384,9 +24357,6 @@ il pasto leggero
 
 oven mitt
 il guanto da forno
-
-awesome
-strapitoso; fantastico; meraviglioso
 
 draped
 addrappato
@@ -24583,7 +24553,7 @@ l'adempimento
 literate
 letterato
 
-scholar
+scholar (literature); literary scholar
 il letterato
 
 conceived
@@ -24637,7 +24607,7 @@ dominare
 cured; cared for
 curato
 
-face; look
+face (formal, poetic); look
 il volto
 
 to coincide
@@ -24700,7 +24670,7 @@ la molteplicità
 to vary
 variare
 
-so that
+so that; thus
 cosicché
 
 to frolic; to have a good time; to paint the town red
@@ -24953,7 +24923,7 @@ tipsy; high (on drugs)
 alticcio
 
 stoned
-strafatto; sballato
+strafatto; sballato; rincoglionito
 
 to talk to onself
 parlare da solo
@@ -24976,7 +24946,7 @@ il libretto
 appeared; showed up
 comparso; apparso
 
-similarity
+similarity (physical)
 la somiglianza
 
 periodic
@@ -25081,10 +25051,13 @@ indiretto
 conceptual
 concettuale
 
-achievement; attainment; accomplishment
+achievement; attainment (physical location, level, status)
 il raggiungimento
 
-placed
+achievement; attainment; accomplishment (goal)
+il conseguimento
+
+placed (careful, deliberate, in a suitable location)
 collocato
 
 mask
@@ -25096,8 +25069,8 @@ politicamente
 registered; recorded
 registrato
 
-Lombardy
-il Lombardo
+person from Lombardy
+il lombardo; la lombarda
 
 precept
 il precetto
@@ -25249,7 +25222,7 @@ saltare di gioia
 checking account
 il conto corrente
 
-firmly
+firmly (resolve, determination)
 fermamente
 
 nosy
@@ -25297,7 +25270,7 @@ promosso
 inspired
 ispirato
 
-qualification
+qualification (process, certification)
 la qualificazione
 
 to delegate
@@ -25351,17 +25324,14 @@ incontrato; riscontrato
 divorce
 il divorzio
 
-romance
-la romanza; la storia d'amore
+romance (song, ballad)
+la romanza
 
 abuse
 l'abuso
 
 defender
 il difensore
-
-excellent
-eccellente
 
 accident; incident; crash
 l'incidente
@@ -25408,7 +25378,7 @@ unitamente
 to deliberate
 deliberare
 
-preliminary
+preliminary (scientific, technical, results)
 preliminario
 
 repeated
@@ -25474,7 +25444,7 @@ la tirannia
 tyrant
 il tiranno
 
-overwhelming
+overwhelming (decisive, crushing)
 schiacciante
 
 Moses
@@ -25708,7 +25678,7 @@ l'uccellino
 little sparrow
 il passerotto
 
-so much
+so much; this much
 così tanto
 
 I can relate to that
@@ -25834,7 +25804,7 @@ la formalità
 tumor
 il tumore
 
-professional
+professional (person)
 professionista
 
 preceded
@@ -25872,9 +25842,6 @@ sparso
 
 wagon; cart
 il carro
-
-equality
-l'eguaglianza
 
 favored (adjective, to win)
 favorito
@@ -25975,7 +25942,7 @@ ancorché
 integrity
 l'integrità
 
-judicial
+judicial (within legal system)
 giudiziale
 
 muscolar
@@ -26059,7 +26026,7 @@ mi becca a
 steering; steering wheel
 lo sterzo
 
-the whole thing
+entire thing; whole thing
 l'intera cosa
 
 superset
@@ -26104,8 +26071,11 @@ la sessione
 transformed
 trasformato
 
-policeman
-il carabiniere; il gendarme
+policeman (military)
+il carabiniere
+
+policeman (French military)
+il gendarme
 
 donated
 donato
@@ -26287,7 +26257,7 @@ il versamento
 constituent
 il costituente
 
-circle
+circle (of people)
 la cerchia
 
 promised
@@ -26319,9 +26289,6 @@ il risalto
 
 consultation
 la consultazione
-
-remaining
-rimanente
 
 remainder; rest
 il rimanente
@@ -26620,7 +26587,7 @@ l'imputato; il convenuto
 variously
 variamente
 
-district
+district (traditional, Siena)
 la contrada
 
 publically
@@ -26668,7 +26635,7 @@ il pugno
 architectural
 architettonico
 
-to descend
+to descend (historical, geneological)
 discendere
 
 to transmit; to broadcast
@@ -26701,7 +26668,7 @@ il consorzio
 obbedience
 l'obbedienza
 
-leader
+leader (dictator)
 il duce
 
 shepherd; pastor
@@ -26713,7 +26680,10 @@ il ricercatore
 unrest; agitation
 l'agitazione
 
-dome
+dome (entire church)
+il duomo
+
+dome (part of building)
 la cupola
 
 engraved
@@ -26785,10 +26755,10 @@ l'aumento
 freaked out
 fuor di testa
 
-shocked
+shocked; dazed; stunned
 scioccato
 
-to cheat on (an exam)
+to cheat on (general)
 imbrogliare a
 
 I rest my case
@@ -26866,9 +26836,6 @@ la contrazione
 restoration
 la restaurazione
 
-to conceive
-concepitare
-
 fervor
 il fervore
 
@@ -26888,7 +26855,7 @@ arrested person; prisoner
 l'arrestato
 
 medieval
-medioevale
+medioevale; medievale
 
 customs (adjective)
 doganale
@@ -41140,7 +41107,7 @@ lo spicchio
 established in 1970
 fondato nel 1970
 
-overwhelming
+overwhelming (powerful, strong)
 travolgente
 
 underwhelming
