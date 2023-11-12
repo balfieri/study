@@ -313,7 +313,7 @@ portare
 to wake up
 svegliarsi
 
-alarm
+alarm clock; alarm
 la sveglia
 
 highway
@@ -1489,8 +1489,8 @@ la lente
 in the meantime
 intanto
 
-meanwhile
-nel frattempo; nel mentre
+meanwhile; in the meantime
+nel frattempo
 
 fraud; scam; rip off
 la truffa
@@ -3865,7 +3865,7 @@ ventesimo
 hundreth
 centesimo
 
-thousandth
+thousandth (adjective)
 millesimo
 
 side; hip (body)
@@ -3928,7 +3928,7 @@ la quantità; il quantitativo
 pack; parcel; package
 il pacco
 
-headache
+headache (physical)
 il mal di testa
 
 to be sick
@@ -6620,7 +6620,7 @@ visible
 visibile
 
 Mediterranean
-Mediterraneo
+mediterraneo
 
 poem
 il poema
@@ -6862,7 +6862,7 @@ comunicare
 match (sports)
 la partita
 
-marked
+marked; scored; denoted
 segnato
 
 arrived

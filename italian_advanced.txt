@@ -46,9 +46,6 @@ arrugginire; arrugginirsi
 cozy; welcoming
 accogliente; caloroso
 
-to look good; to take a good look
-guardarsi bene
-
 almond
 la mandorla
 
@@ -96,9 +93,6 @@ ascendere
 
 to descend
 scendere
-
-sea salt
-il sale marino
 
 coarse sea salt
 il sale marino grosso
@@ -571,7 +565,7 @@ anziché; piuttosto che
 to beat; to hit; to strike; to beat up
 picchiare
 
-bracket
+bracket (general)
 la staffa
 
 to roll up
@@ -765,9 +759,6 @@ starci; fare parte di
 
 to not tolerate
 non tollerare; non starci
-
-to discourage
-scraggiare
 
 chit chat; chatter
 il chiacchiericcio; la chiacchierata
@@ -1402,7 +1393,10 @@ lo spessore
 to assign
 assegnare
 
-reminder
+meanwhile; in the meantime (formal, literary)
+nel mentre; frattanto
+
+preliminary report; draft document; briefing note
 la prememoria
 
 at the same time
@@ -2242,7 +2236,7 @@ il balzo
 order (noun)
 la commessa
 
-to forecast; to forsee; to predict; to anticipate
+to forecast; to foresee; to predict; to anticipate
 prevedere
 
 in competition
@@ -2836,7 +2830,7 @@ abbassare la cresta; ritirarsi
 missy
 la signorinella
 
-to break down the door
+to break down the door; to throw down the door
 buttare giù la porta
 
 mere mortals; little people
@@ -3568,7 +3562,7 @@ rodere
 to melt; to dissolve; to untie
 sciogliere
 
-to spread
+to spread; to scatter (general)
 spandere
 
 to wipe
@@ -3942,9 +3936,6 @@ la fisarmonica
 
 to succeed; to follow
 susseguire
-
-to keep an eye on
-tenere d'occhio
 
 register; registry
 l'albo
@@ -4916,7 +4907,10 @@ to mistreat
 maltrattare
 
 petrified
-pietrificato; impietrito
+pietrificato
+
+turned to stone; stunned; paralyzed with fear
+impietrito
 
 arrangement; accommodation
 la sistemazione
@@ -5453,7 +5447,7 @@ Sahara desert
 il deserto del Sahara
 
 dry sense of humor
-l’umorismo asciutto
+il senso dell'umorismo secco; l’umorismo asciutto
 
 charm; allure; fascination
 il fascino
@@ -5725,9 +5719,6 @@ il razzo
 competition; rivalry
 la concorrenza
 
-to look good
-gardarsi bene
-
 short-term
 a breve termine
 
@@ -5834,7 +5825,7 @@ sentence; conviction; condemnation
 la condanna
 
 trick question
-la domanda a trabocchetto
+la domanda trabocchetto; la domanda a trabocchetto
 
 to convert to (a religion)
 convertirsi a
@@ -6850,7 +6841,7 @@ il pubblico ministero
 to become uncoupled; to disengage
 sganciarsi
 
-subdivision
+subdivision (land)
 la lottizzazione
 
 to parcel; to subdivide
@@ -7327,7 +7318,7 @@ l'indomani
 held up; straight
 retto
 
-bumper
+bumper; shock absorber
 il paracolpo
 
 shock absorber; damper; cushion
@@ -7762,7 +7753,7 @@ il percorso
 optimal route
 il percorso ottimale
 
-to proceed; to progress; to advance
+to proceed; to progress; to advance; to go forward
 procedere
 
 drafter; compiler
@@ -7840,8 +7831,11 @@ l'impennata
 congested; clogged
 intasato
 
-familiarity
-la dimestichezza
+familiarity (from frequent use or practice)
+la dimestichezza; la domestichezza
+
+familiarity (general)
+la familiarità
 
 enclosure
 la clausura
@@ -8020,9 +8014,6 @@ maniaco-depressivo
 prediction; forecast; foresight
 la previsione
 
-to make predictions
-fare previsioni
-
 pitcher (baseball)
 il lanciatore
 
@@ -8086,8 +8077,11 @@ tra virgolette
 so to speak
 per così dire; tra virgolette
 
-mortgage
-il mutuo; l'ipoteca
+mortgage loan
+il mutuo
+
+mortgage (legal agreement)
+l'ipoteca
 
 irrelevant; not pertinant; moot
 irrelevante; discutibile; nonluogo; nonpertinente
@@ -8667,9 +8661,6 @@ non so da dove cominciare
 
 to reveal; to unveil; to unravel
 svelare; rivelare
-
-pros and cons
-i pro a contro
 
 on guard
 in guardia
@@ -9409,9 +9400,6 @@ il passaggio
 perfect storm
 la tempesta perfetta
 
-gene pool
-il pool genetico
-
 lobby
 l'atrio
 
@@ -9730,7 +9718,7 @@ azzeccare
 ABS braking system
 il sistema frenante ABS
 
-braking
+braking (process)
 la frenatura
 
 traction control
@@ -9790,7 +9778,7 @@ il melo
 flute
 il flauto
 
-to put back together
+to put back together; to reassemble
 rimettere insieme
 
 pork chop
@@ -11603,7 +11591,7 @@ to simmer
 sobbollire
 
 last resort
-l'ultima spiaggia
+l'ultima spiaggia; l'ultima risorsa
 
 to deal; to push; to peddle
 spiacciare
@@ -11757,9 +11745,6 @@ l'interesse pubblico
 
 what's more; too; on top of all that
 per giunta
-
-to the detriment of; at the expense of
-a scapito di
 
 country house
 la casa di campagna
@@ -14126,7 +14111,10 @@ sales assistant; clerk
 il commesso; la commessa
 
 self-aware
-autoconsapevole; consapevole di sé; autocosciente
+autoconsapevole; consapevole di sé; 
+
+self-conscious
+autocosciente
 
 self-awareness
 l'autoconsapevolezza; la consapevolezza di sé
@@ -14416,7 +14404,7 @@ straripante; traboccante
 media (adjective); mass media (adjective)
 mediatico
 
-eccentric; loony; outlandish
+eccentric; quirky; scatterbrained; loony; outlandish
 strampalato
 
 task; errand; job
@@ -14431,7 +14419,7 @@ l'innesco
 to presuppose; to assume
 presupporre
 
-hybrid
+hybrid (adjective)
 ibrido
 
 incident; event; occurrence
@@ -14485,7 +14473,7 @@ sconfinare
 rewarding
 premiante
 
-basic; fundamental
+basic; fundamental; essential
 basilare
 
 round; rotund
@@ -15706,9 +15694,6 @@ tanto per dirne una
 just for; only to; so much for
 tanto per
 
-zeitgeist
-lo Zeitgeist; lo spirito dei tempi
-
 schadenfreude
 la Schadenfreude; la gioia maligna; il piacere derivato dalla sfortuna di un'altra persona
 
@@ -15979,9 +15964,6 @@ la cosa migliore da fare
 in small doses
 a piccole dosi
 
-once and for all
-una volta per tutte; per sempre
-
 time and time again
 a ripetizione
 
@@ -16051,7 +16033,7 @@ appendere i vestiti
 clothes drawer
 il cassetto dei vestiti
 
-underground
+underground; subsoil (below surface soil)
 sottosuolo
 
 kitchen counter; kitchen countertop
@@ -16318,10 +16300,10 @@ accumulare gli errori
 to stretch out; to extend
 protendere
 
-to anticipate
-precorrere; procedere
+to run before; to go before
+precorrere
 
-to proceed
+to run along; to traverse
 procorrere
 
 to postpone (indefinitely)
@@ -16564,7 +16546,7 @@ sfilare
 parade
 la parata
 
-procession
+procession; parade (formal, ceremonial)
 il corteo
 
 cobblestones; pavement
@@ -17801,7 +17783,7 @@ to go back on one's word
 rimangiarsi la parola
 
 breakthrough
-il salto di qualità
+lo sfondamento; il salto di qualità
 
 to reinvent the wheel
 scoprire l'acqua calda; scoprire l'America
@@ -20179,7 +20161,7 @@ l'investimento
 awareness; consciousness
 la consapevolezza
 
-sovereign
+sovereign (adjective)
 sovrano
 
 it's not at my standards level
@@ -21583,9 +21565,6 @@ il chicco
 blown; blasted
 soffiato
 
-mustard
-il mustardo
-
 to extort
 estorcere
 
@@ -21898,7 +21877,7 @@ stabilizzare
 stabilizer
 lo stabilizzante
 
-cutter
+utility knife; box cutter
 il cutter
 
 to emulsify
@@ -22000,7 +21979,7 @@ tentato
 worry; concern
 la preoccupazione
 
-equal
+equal (general)
 eguale
 
 mirror
@@ -23773,9 +23752,6 @@ la presidenza
 what are you up to these days?
 cosa fai in questo periodo?
 
-wheelchair
-la sedia rotelle
-
 karma
 il karma
 
@@ -24901,7 +24877,7 @@ la giustificazione
 wonder
 la meraviglia
 
-to grumble
+to grumble; to complain (in low, rumbling voice)
 brontolare
 
 before and after
@@ -24910,7 +24886,7 @@ prima e dopo
 foible
 la debolezza; il debole
 
-to slaughter
+to slaughter; to massacre
 trucidare
 
 life jacket; life vest
@@ -26050,7 +26026,7 @@ polmonare
 chronological
 cronologico
 
-to rebel
+to incite; to stir up a rebellion
 ribellare
 
 separately
@@ -26182,7 +26158,7 @@ sporcarsi la bocca
 to get one's face dirty
 sporcarsi la faccia
 
-stew
+stew (small pieces of meat)
 lo spezzatino
 
 sole (fish)
@@ -26860,7 +26836,7 @@ doganale
 perennial
 perenne
 
-farmhouse
+country house; rural building (southern Italy)
 il casale
 
 suggested
@@ -29083,7 +29059,7 @@ inaspettato
 to impress the ladies
 impressionare le signore
 
-state of mind
+state of mind (overall)
 lo stato mentale
 
 to keep going
@@ -29140,9 +29116,6 @@ infondated; malfondato; non giustificato
 psychological thriller
 il thriller psicologico
 
-dry sense of humor
-il senso dell'umorismo secco
-
 prosperous; shapely; flourishing
 prosperoso; prospero
 
@@ -29158,7 +29131,7 @@ lo scetticismo
 relic; remains
 reliquia
 
-fury
+furor
 il furore
 
 summit
@@ -29221,7 +29194,7 @@ la proteine
 approximation
 l'approssimazione
 
-especially
+specifically; in particular
 ispecie
 
 to transport; to carry
@@ -29461,8 +29434,8 @@ la deviazione
 if anything; I mean
 semmai
 
-absent
-assento
+seat
+l'assento
 
 across the hall
 dall'altra parte del corridoio
@@ -29521,7 +29494,7 @@ la crudeltà
 jealousy
 la gelosia
 
-alarm
+alarm (alert, warning, burglar, fire)
 l'allarme
 
 fluid (adjective)
@@ -29629,7 +29602,7 @@ geniale
 Jesuit
 gesuito
 
-procession
+procession (religious)
 la processione
 
 primier; prime minister
@@ -29995,9 +29968,6 @@ l'annotazione
 reorganization
 la riorganizzazione
 
-to exempt
-esentire
-
 obscurity
 l'oscurità
 
@@ -30046,7 +30016,7 @@ l'emigrato
 solemnly
 solennemente
 
-rejected
+refused; rejected
 rifiutato
 
 specialty
@@ -30124,7 +30094,7 @@ assunto
 assumption; employee
 l'assunto
 
-that
+that (olf-fashioned, rare)
 cotesto
 
 inverse; reverse
@@ -30190,10 +30160,7 @@ il carbonio
 detention
 la detenzione
 
-to acquire; to purchase
-acquisitare
-
-learned
+learned (formal)
 appreso
 
 fortune; luck
@@ -30214,11 +30181,8 @@ barocco
 founder
 il fondatore
 
-subdivision
+subdivision (general)
 la suddivisione
-
-formula
-la formola
 
 moderation
 la moderazione
@@ -30286,7 +30250,7 @@ l'emendamento
 comparison; comparing; calibration
 il raffronto
 
-marked
+marked; stressed
 marcato
 
 rigidity
@@ -30445,9 +30409,6 @@ tinto
 repercussion
 la ripercussione
 
-Mediterranean
-mediterraneo
-
 revaluation; reassessment
 la rivalutazione
 
@@ -30474,9 +30435,6 @@ la demolizione
 
 supremacy
 la supremazia
-
-ghost
-il fantasmo
 
 industralization
 l'industrializzazione
@@ -30767,7 +30725,7 @@ to keep one's distance
 tenere le distanze
 
 to keep an eye on
-tenere sott'occhio; tenere sottocchio
+tenere d'occhio; tenere sott'occhio; tenere sottocchio
 
 deceit; deception; trickery
 l'inganno
@@ -30862,7 +30820,7 @@ accumularsi
 to pluck
 spennare; spiumare
 
-to peel
+to peel; to strip; to plunder
 pelare
 
 airline pilot
@@ -31085,7 +31043,7 @@ to rededicate oneself to
 ridedicarsi a
 
 to look good
-avere un bel'aspetto; sembrare stare bene; parere andare bene
+guardarsi bene; avere un bel'aspetto; sembrare stare bene; parere andare bene
 
 wake (funeral)
 la veglia funebre
@@ -31441,7 +31399,7 @@ l'esercizio aerobico
 off the coast of
 al largo della costa di; al largo delle coste di
 
-hybrid
+hybrid (noun)
 l'ibrido
 
 to impose constraints
@@ -32122,17 +32080,17 @@ il raccogligoccia
 bronchitis
 la bronchite
 
+condiment made of candied fruit and mustart-flavored syrup
+la mostarda 
+
 mustard
-la mostarda; la senape
+la senape
 
 printer (device)
 la stampante
 
 stake-out
 il picchettamento
-
-extravagant
-strampolante
 
 caper
 il cappero
@@ -32587,9 +32545,6 @@ il gancio di traino
 to leave to chance
 lasciare al caso
 
-don't leave anything to chance
-non lasciare nulla al caso
-
 to go for a ride
 andare a fare un giro
 
@@ -32641,7 +32596,7 @@ il caseificio
 dairy (milk)
 il lattificio
 
-farmhouse
+farmhouse (northern Italy)
 la cascina
 
 underhand
@@ -32698,7 +32653,7 @@ strisciante
 disenchantment
 il disincanto
 
-advantage; benefit; gain
+profit; gain
 il tornaconto
 
 belligerent
@@ -32724,9 +32679,6 @@ il simpatizzante
 
 to sympathize
 simpatizzare
-
-to annex
-annettersi
 
 ederly; aged; old
 attempato
@@ -32929,9 +32881,6 @@ il manifesto; il poster; il cartellone
 windsock
 la manica a vento
 
-last resort
-l'ultima risorsa
-
 at your convenience
 con tuo comodo; a tua discrezione
 
@@ -33064,7 +33013,7 @@ rimuovere
 to date back to
 risalire a
 
-braking
+braking (instance)
 la frenata
 
 only if
@@ -33217,8 +33166,14 @@ grattugiato grossolanamente
 coarsely; roughly; crudely
 grossolanamente
 
-shredded
-triturato; ridotto a brandelli; stracciato
+crushed; grinded (into small pieces)
+triturato
+
+reduced to shreds; shredded
+ridotto a brandelli
+
+torn apart; ripped apart
+stracciato
 
 air pressure
 la pressione dell'aria
@@ -33274,7 +33229,7 @@ in lussuria
 it's just as important; it's equally important
 è altrettanto importante
 
-circle (of people)
+ring around the rosie
 il girotondo
 
 warehouse; shed; hanger
@@ -33325,7 +33280,7 @@ scheggiato
 shrink (psychologist)
 lo strizzacervelli
 
-condescension
+acquiescence
 l'accondiscendenza
 
 stand-out; distinct
@@ -33333,9 +33288,6 @@ spiccato
 
 posterity
 la posterità; i posteri
-
-breakthrough
-lo sfondamento
 
 cost-reporting
 la rendicontazione
@@ -33367,7 +33319,7 @@ spogliare
 ignition (car key socket)
 il blocco dell'accensione
 
-to slaughter
+to slit the throat; to cut the throat
 sgozzare
 
 to flood
@@ -33541,9 +33493,6 @@ that's all we need; it's all we need
 that's the plan
 il programma è quello
 
-meanwhile
-frattanto
-
 one lie after another
 una bugia dopo l'altra
 
@@ -33589,7 +33538,7 @@ terminare la cottura
 to reduce the flame to a minimum
 ridurre la fiamma al minimo
 
-shredded
+frayed; unraveled
 sfilacciato
 
 I've never seen anything like it
@@ -33609,9 +33558,6 @@ il logo
 
 to debug
 debuggare
-
-shortcut
-lo scorciatoio
 
 love nest
 il nido d'amore
@@ -33745,7 +33691,7 @@ il panto
 whining
 il piagnisteo
 
-to grumble
+to grumble (in Tuscany)
 pagnucolare
 
 to whine
@@ -33826,7 +33772,7 @@ multiplo
 multivitamin
 il multivitaminico
 
-indifferent
+unconcerned; careless; non-caring
 noncurante
 
 unborn
@@ -33834,9 +33780,6 @@ il nonnato
 
 nonviolence
 la nonviolenza
-
-bumper
-il paracolpi
 
 postmodern
 postmoderno
@@ -33912,9 +33855,6 @@ l'ipermercato
 
 hypothermia
 l'ipotermia
-
-mortgage
-l'ipoteca
 
 low-calorie
 ipocalorico
@@ -34009,7 +33949,7 @@ il preludio
 delicious
 prelibato
 
-some
+some (formal, literary)
 nonnulli
 
 non plus ultra
@@ -34063,13 +34003,10 @@ noncorrosivo
 non-military
 nonmilitare
 
-to sweep
-spazzare
-
 to clear; to vacate
 sgomberare
 
-to spread
+to spread (substance)
 spalmare
 
 to eradicate; to unroot
@@ -34114,22 +34051,16 @@ la sovrapposizione
 overload
 il sovraccarico
 
-sovereign
+sovereign (noun)
 il sovrano
-
-overweight
-sovrappeso
 
 to supervise
 sovraintendere
 
-superintendent
-il sovraintendente
-
 underpass
 il sottopassaggio
 
-underground
+underground; below ground
 sottoterra
 
 subclass
@@ -34191,9 +34122,6 @@ la musica di sottofondo
 
 inconsiderate
 sconsiderato
-
-indifferent
-noncurante; indifferente
 
 unconcerned
 incurante
@@ -34258,9 +34186,6 @@ il capone
 to file a complaint
 sporgere denuncia
 
-cutter
-lo scorciatore
-
 I don't want to have anything to do with you
 non voglio avere niente a che fare con te
 
@@ -34320,12 +34245,6 @@ la posizione; l'atteggiamento
 
 vacancy
 il posto vacante; la disponibilità
-
-intimacy; closeness
-la familiarità
-
-familiarity
-la domestichezza; la conoscenza
 
 annoying; bothersome
 molesto
@@ -34441,9 +34360,6 @@ la quota pro rata
 private pilot certificate
 il certificato di pilota privato
 
-visual flight rules
-le regole del volo a vista
-
 to fly through the clouds
 pilotare tra le nuvole
 
@@ -34472,7 +34388,7 @@ instrument meteorological conditions
 le condizioni meteorologiche strumentali
 
 visual flight rules
-le condizioni meteorologiche visive
+le condizioni meteorologiche visive; le regole del volo a vista
 
 in the vicinity of an airport; near an airport
 nelle vicinanze di un aeroporto
@@ -34672,7 +34588,7 @@ bar; caffetteria
 carafe
 la caraffa
 
-bracket
+bracket; small arm
 il braccetto
 
 steamed milk
@@ -34705,7 +34621,7 @@ il telaio
 stubbornness
 la testardaggine
 
-to put back together
+to put back together (in original position)
 riporre insieme
 
 to maintain posture
@@ -34735,7 +34651,7 @@ allungato
 edgy (non-conformist)
 di tendenza; non conformista
 
-I believe that
+I consider that; I think that (more considered opinion)
 ritengo che
 
 to feel all in pieces
@@ -34743,9 +34659,6 @@ sentirsi a pezzi
 
 relax!
 tranquillo!
-
-money laundering
-il lavaggio del denaro
 
 little by little
 poco a poco
@@ -34769,7 +34682,7 @@ firecracker
 il petardo
 
 money laundering
-il riciclaggio del denaro
+il lavaggio del denaro; il riciclaggio del denaro
 
 to pull the hamstring muscle
 stirare il muscolo bicipite femorale
@@ -35092,7 +35005,7 @@ appuntito
 strong enough
 abbastanza in forza
 
-stew
+stew (general)
 lo stufato
 
 it doesn't change a thing
@@ -35107,7 +35020,7 @@ la gruccia
 let's sit for a moment
 sediamoci un momento
 
-headache
+headache (figurative); difficult problem
 il grattacapi
 
 of course not
@@ -35128,8 +35041,8 @@ in proposito
 on the subject
 al proposito
 
-to refer to
-fare riferimento
+to refer to (formal)
+fare riferimento a
 
 it remains to be seen
 è da vedere
@@ -35269,7 +35182,7 @@ ti tiene al guinzaglio
 I'm such a fool for you
 sono un pazzo per te
 
-state of mind
+state of mind; mood (emotional)
 lo stato d'animo
 
 to escape from reality
@@ -35347,7 +35260,7 @@ l'alimento speziato
 to keep warm (person, temperature)
 tenere al caldo
 
-petrified
+petrified (less common)
 petrificato
 
 I have some questions to ask you
@@ -35461,7 +35374,7 @@ le forze dell'ordine
 sensitive heart
 il cuore sensibile
 
-significantly
+in a significant way
 in modo significativo
 
 to struggle to find
@@ -35476,7 +35389,7 @@ a tratti
 genuine affection
 l'affetto genuino
 
-stuck
+glued
 incollato
 
 to frame; to set up
@@ -35773,7 +35686,7 @@ il milardesimo
 millionth
 il milionesimo
 
-thousandth
+thousandth (noun)
 il millesimo
 
 at the nanometer scale
@@ -35815,7 +35728,7 @@ la persona abitudinaria
 obsessive-compulsive disorder (OCD)
 il disturbo ossessivo-compulsivo (DOC)
 
-habitual
+habitual (negative)
 abitudinario
 
 mugshot
@@ -35962,7 +35875,7 @@ l'informativa
 legal basis
 la base giuridica
 
-manifested; revealed
+made plain; made clear; shown
 palesato
 
 to disable
@@ -35995,7 +35908,7 @@ il capigiro
 to be terribly disappointed
 essere terribilmente delusi
 
-tip of the iceberg
+tip of the iceberg (less common)
 il picco dell'iceberg
 
 to fit in the frame
@@ -36053,7 +35966,7 @@ cushy job
 il lavoro comodo; il lavoro facile
 
 to retire
-andare in pensione
+andare in pensione; pensionarsi
 
 there's hope
 c'è speranza
@@ -36089,7 +36002,10 @@ it was nice of you to say that
 è stato gentile da parte tua dirlo
 
 to anticipate
-anticipare; prevedere; fare previsioni
+anticipare
+
+to make predictions
+fare previsioni
 
 what did I do that was so bad?
 cosa ho fatto di così brutto?
@@ -36532,13 +36448,13 @@ la dipendenza del gioco
 picnic; outing
 il pic-nic; la scampagnata
 
-bodyguard
+bodyguard (colloquial, less common)
 il guardaspalle
 
 staging; performance
 la messa in scena
 
-to break down the door
+to break through the door; to bust the door
 sfondare la porta
 
 backbone
@@ -36682,7 +36598,7 @@ il vaso sanguigno
 summer school
 la scuola estiva
 
-basic; fundamental
+basic; base; foundational
 di base
 
 prisoner of war
@@ -36719,7 +36635,7 @@ under attack
 sotto attacco
 
 to the detriment of; at the expense of
-a discapito di
+a scapito di; a discapito di
 
 pace of innovation
 il ritmo dell'innovazione
@@ -36738,9 +36654,6 @@ insolvente
 
 as a result of; following
 in seguito a
-
-to retire
-pensionarsi
 
 dropout; dropping out
 la fuga dall'apprendimento
@@ -36775,7 +36688,7 @@ il fotone
 phonon
 il fonone
 
-personality
+personality (person of importance)
 la personatura
 
 recapped; summarized
@@ -36789,9 +36702,6 @@ buon divertimento a (città)
 
 CT scan
 la TAC (Tomografia Assiale Computerizzata)
-
-MRI
-l'RM (Risonanza Magnetica)
 
 aortic dissection
 la dissezione aortica
@@ -36872,7 +36782,7 @@ to do CT scans; to get CT scans
 fare delle tac
 
 MRI
-la risonanza magnetica; la risonanza
+l'RM (Risonanza Magnetica); la risonanza magnetica; la risonanza
 
 to be fully booked
 essere tutto al completo
@@ -37075,7 +36985,7 @@ non ci si accorge del passare del tempo
 spleen
 la milza
 
-to collide with the door
+to slam against the door
 sbattere contro la porta
 
 it depresses me
@@ -37297,17 +37207,14 @@ lo spionaggio
 accept a bribe
 accettare una tangente
 
-equal
-paritario; settale
+equal (legal, rights)
+paritario
 
 fundraiser
 la raccolta di fondi
 
 loaded question
 la domanda caricata; la domanda insidiosa
-
-trick question
-la domanda trabocchetto
 
 pitfall; booby trap; trap; snare
 il trabocchetto
@@ -37444,7 +37351,7 @@ detestarsi
 shady; suspicious
 losco
 
-to take a walk
+to take a few steps; to take a short walk; to stretch one's legs
 dare due passi
 
 yellow tooth; yellow fang
@@ -37636,10 +37543,10 @@ il comportamento educato
 in big trouble
 in quarantotto
 
-return
+re-entrance; return (specific place)
 il rientro
 
-to calm down
+to calm down; to settle down; to become quiet (poetic, literary)
 sosseggere
 
 methodical
@@ -37665,12 +37572,6 @@ il casting; la selezione degli attori
 
 casting director
 il direttore del casting; il responsabile del casting
-
-self-conscious
-insicuro; imbarazzato
-
-self-aware
-autocosciente
 
 old age creeps up on you
 la vecchiaia ti sorprende; la terza età arriva inaspettata
@@ -60370,4 +60271,7 @@ essere consentiti
 
 young man; lad
 il giovanotto
+
+counterproductive
+contraproducente
 
