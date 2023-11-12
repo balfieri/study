@@ -60355,3 +60355,9 @@ la chat di gruppo
 
 to videocall (somebody)
 fare una videochiamata a (qualcuno)
+
+to see through (something)
+vedere attraverso (qualcosa)
+
+ice cube
+il cubetto di ghiaccio

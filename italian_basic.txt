@@ -4648,6 +4648,9 @@ audace
 exact
 esatto
 
+exactly!; that's right!
+esatto!
+
 accurate
 accurato
 
