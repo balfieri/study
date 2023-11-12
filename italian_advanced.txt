@@ -3577,7 +3577,7 @@ l'incarico
 to arrange; to lay; to provide; to put in order
 disporre
 
-to test; to try
+to test (product, system, method, performance)
 testare
 
 to propose; to suggest
@@ -60274,4 +60274,67 @@ il giovanotto
 
 counterproductive
 contraproducente
+
+lizard
+la lucertola
+
+to abstain from; to refrain from
+astenersi da
+
+long, black robe
+la lunga, nera veste
+
+papacy
+il papato
+
+third degree murder
+l'omicidio di terzo grado
+
+second degree murder
+l'omicidio di secondo grado
+
+first degree murder
+l'omicidio di primo grado
+
+time waits for no one
+il tempo non aspetta nessuno
+
+august (adjective)
+augusto
+
+cliff
+il dirupo
+
+scassato
+broken; worn out
+
+knee ligaments
+il crociato (corpo)
+
+slight drop
+il lieve calo
+
+drop
+il calo
+
+Q-tip
+il cotton fioc
+
+lofty
+elevato; nobile
+
+lofty dream
+il sogno elevato; il sogno nobile
+
+lofty goal
+l'obiettivo elevato; l'obiettivo nobile
+
+sordid
+sordido
+
+hefty fine
+la multa salata
+
+leap second
+il secondo intercalare
 
