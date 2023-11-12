@@ -15628,7 +15628,7 @@ suadente
 to divide into syllables
 sillabare
 
-weirdness
+weirdness; strangeness
 la stranezza
 
 onomatopoeia
@@ -60361,3 +60361,7 @@ vedere attraverso (qualcosa)
 
 ice cube
 il cubetto di ghiaccio
+
+oddity; peculiarity; anomaly
+la peculiarità; l'anomalia
+
