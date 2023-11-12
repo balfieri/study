@@ -39007,9 +39007,6 @@ angoli nascosti; fessure e anfratti
 slot; crevice; gap
 la fessura; l'anfratto
 
-videocall
-la videochiamata
-
 Facetime call
 la chiamata Facetime
 
@@ -60341,3 +60338,20 @@ il secondo intercalare
 casino; mess; chaos; disorder; brothel; hell of a mess
 il casino
 
+video call; videocall; Facetime call
+la videochiamata
+
+phone call
+la telefonata; la chiamata telefonica
+
+telephone (adjective)
+telefonico
+
+chat (computer)
+la chat
+
+group chat (computer)
+la chat di gruppo
+
+to videocall (somebody)
+fare una videochiamata a (qualcuno)
