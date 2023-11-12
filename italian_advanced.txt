@@ -12979,8 +12979,8 @@ il cappuccio; il cofano
 oath; pledge; swearing-in; vow; vows
 il giuramento
 
-mess
-il pasticcio; il casino
+baked pasta dish; messy situation
+il pasticcio
 
 yield; surrender; capitulation
 la resa
@@ -60337,4 +60337,7 @@ la multa salata
 
 leap second
 il secondo intercalare
+
+casino; mess; chaos; disorder; brothel; hell of a mess
+il casino
 
