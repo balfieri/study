@@ -6694,9 +6694,6 @@ le posate
 to particpate in
 prendere parte a
 
-adopted child (son)
-il figlio adottivo
-
 step-son
 il figliastro
 
@@ -60460,3 +60457,10 @@ ti incoraggio a unirti a noi
 
 you guys are next
 voi siete i prossimi
+
+adopted son; adopted child
+il figlio adottivo
+
+adopted daughter
+la figlia adottiva
+
