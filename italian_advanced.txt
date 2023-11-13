@@ -21955,7 +21955,7 @@ contrario
 antonym
 il contrario
 
-whereas; where
+whereas; where; wherever
 laddove
 
 royal
