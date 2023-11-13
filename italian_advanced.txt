@@ -60464,3 +60464,5 @@ il figlio adottivo
 adopted daughter
 la figlia adottiva
 
+prompt (computer)
+il prompt
