@@ -27238,7 +27238,7 @@ pauroso
 possessive
 possessivo
 
-scarce; scant; low; scanty
+scarce; scant; low; scanty; poor (in ability)
 scarso
 
 discreet
@@ -60433,3 +60433,15 @@ allentato
 
 to loosen up; to get loose
 allentarsi
+
+strategist
+lo stratega
+
+untalented
+privo di talento
+
+it's a good thing (abstract)
+è un bene
+
+it's a good thing (specific)
+è una buona cosa
