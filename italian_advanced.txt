@@ -29317,7 +29317,7 @@ enunciato
 flowering
 la fioritura
 
-reinforcement
+reinforcement; strengthening
 il rafforzamento
 
 to prescribe
@@ -60394,3 +60394,6 @@ verissimo
 
 to materialize; to appear
 materializzarsi
+
+weakening
+indebolimento
