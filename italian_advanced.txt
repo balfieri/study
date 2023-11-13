@@ -31465,7 +31465,7 @@ volenteroso
 to dispose of
 disporre di
 
-drug
+drug (illegal, controlled)
 la droga
 
 performance; show
@@ -60410,3 +60410,5 @@ nutrirsi
 waiting list
 la lista d'attesa
 
+drug (medicinal)
+lo farmaco

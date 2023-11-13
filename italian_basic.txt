@@ -3937,7 +3937,7 @@ la salute
 sick person
 il malato; la malata
 
-medicine
+medicine (field); medicine (drug)
 la medicina
 
 recipe
