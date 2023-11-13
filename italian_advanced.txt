@@ -32306,7 +32306,7 @@ let me know if I'm talking too much
 fammi sapere se sto parlando troppo
 
 contender
-il contendente
+il contendente; la contendente
 
 to contend (compete)
 contendere
@@ -53581,9 +53581,6 @@ l'accesso di; l'attacco di
 seizure (brain)
 l'attacco epilettico
 
-disagreement
-lo screzio
-
 inadequacy
 l'inadeguatezza
 
@@ -60358,4 +60355,22 @@ raccogliare; radunare
 
 to be mistaken for (something)
 essere scambiato per (qualcosa)
+
+in the medium term
+nel mediato
+
+originator; inventor
+l'ideatore; l'ideatrice
+
+thank you from the bottom of my heart
+grazie di cuore
+
+quarrel; dispute; disagreement
+lo screzio
+
+moved (emotionally); touched
+commosso
+
+aerobics
+l'aerobica
 
