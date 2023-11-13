@@ -718,9 +718,6 @@ la stiva
 layover
 lo scalo
 
-surcharge
-il sovraprezzo
-
 how much does it cost?
 a quanto ammonta?
 
@@ -14711,7 +14708,7 @@ multiplication
 la moltiplicazione
 
 alas
-ohimè
+ahimè; ohimè
 
 barley; cereal
 l'orzo
@@ -19873,8 +19870,17 @@ appariscente
 careless
 disattento
 
-reckless
-spericolato; incurante; imprudente
+reckless (fearless)
+spericolato
+
+extremely reckless (fearless)
+temerario
+
+negligent; reckless; indifferent; unconcerned
+incurante
+
+reckless (lacking caution or judgment); imprudent
+imprudente
 
 bachelor
 celibe
@@ -20488,7 +20494,7 @@ serviti pure
 help yourselves
 servitevi pure
 
-to do without; to go without
+to do less; to reduce the quantity
 fare di meno
 
 rounded; roundish
@@ -28570,7 +28576,7 @@ chiarito
 Syria
 Siria
 
-compensation
+compensation (offsetting payment)
 la compensazione
 
 mobilization
@@ -34123,9 +34129,6 @@ la musica di sottofondo
 inconsiderate
 sconsiderato
 
-unconcerned
-incurante
-
 apathetic
 apatico
 
@@ -35125,8 +35128,14 @@ il brio
 I've lost count
 ho perso il conto
 
-meaningless
-privo di significato; senza senso; insensato
+meaningless (without any meaning)
+privo di significato
+
+meaningless; incomprehensible; che non ha logica
+senza senso
+
+meaningless; incomprehensible; absurd
+insensato
 
 they always pick on me; they always target me
 mi prendono sempre di mira
@@ -38167,7 +38176,7 @@ la fonte di intrattenimento
 I made a big deal about that
 ho fatto un gran casino per quello
 
-optometrist
+optician
 l'ottico
 
 eye doctor appointment
@@ -39016,7 +39025,7 @@ l'istruttoria
 Manichean
 manicheo
 
-meaningless
+superficial; empty; devoid of substance
 scontenuto
 
 to intervene downstream of the ordinary investigation
@@ -39066,9 +39075,6 @@ sfrontato
 
 impressive
 impressionante
-
-reckless
-temerario
 
 The Almighty
 l'Onnipotente
@@ -39282,9 +39288,6 @@ la pallina
 
 eccentric
 eccentrico
-
-alas
-ahimè
 
 easy woman (sexually available)
 la donna facile; la ragazza facile
@@ -39547,7 +39550,7 @@ il riserbo
 at the top; in the lead
 in testa
 
-compromise
+compromise; compromising (in negative sense)
 la compromissione
 
 dashboard
@@ -39617,7 +39620,7 @@ pavement; cobblestone
 il lastrico; il sampietrino
 
 to do without; to go without
-fare a meno di; rinunciare a
+fare a meno di
 
 hand (on a clock)
 la lancetta
@@ -40258,7 +40261,7 @@ appartarsi
 to quack
 starnazzare
 
-cheese
+semi-hard cheese from Piedmont
 la toma
 
 vehemence
@@ -40384,7 +40387,7 @@ riavvicinare
 to compensate
 risarcire
 
-compensation
+compensation (for damage, loss, injury)
 l'indennizzo
 
 rapproachment
@@ -40409,7 +40412,7 @@ to make available
 mettere a disposizione
 
 surcharge
-il sovrapprezzo
+il sovrapprezzo; il sovraprezzo
 
 obligatorily
 obbligatoriamente
@@ -40585,7 +40588,7 @@ il conto di risparmio
 brokerage account
 il conto di intermediazione
 
-to clarify
+to point out in detail; to punctuate
 puntualizzare
 
 to make enemies
@@ -40662,9 +40665,6 @@ frusto
 
 schizo
 schizo
-
-to sign
-firmatare
 
 awarded; honored
 insignito
@@ -40783,7 +40783,7 @@ la parola in merito
 chaired committee
 il comitato presieduto
 
-to disagree
+to disagree (formal)
 discordare
 
 a tomorrow
@@ -40801,7 +40801,7 @@ ardito
 retroactive
 reatroattivo
 
-swimming
+bathing; swimming (any body of water)
 la balneazione
 
 ecosystem
