@@ -60412,3 +60412,6 @@ la lista d'attesa
 
 drug (medicinal)
 lo farmaco
+
+to proceed to (do something)
+procedere a (fare qualcosa)
