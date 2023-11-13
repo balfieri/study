@@ -886,9 +886,6 @@ sedere
 to sit down
 sedersi
 
-seat
-il sede
-
 sofa; couch
 il divano
 

@@ -262,7 +262,7 @@ la pista di decollo
 wing
 l'ala
 
-timing
+timing (chooing the right moment)
 il tempismo
 
 to uncork
@@ -17881,7 +17881,7 @@ inquinare; contaminare
 condescension
 la condiscendenza
 
-workaholic
+excessively productive worker
 lo stacanovista
 
 have a good time; enjoy yourself
@@ -23083,7 +23083,7 @@ vorrei aver riconosciuto
 non-obvious
 non ovvio
 
-assembly
+assembly (gathering)
 l'assemblea
 
 authority
@@ -23902,8 +23902,11 @@ l'accenno
 to mean; to signify; to denote
 significare
 
-investigation; inquiry
-l'indagine; l'inchiesta
+investigation; inquiry (general
+l'indagine
+
+investigation; inquiry (journalistic)
+l'inchiesta
 
 constitutional
 costituzionale
@@ -29434,9 +29437,6 @@ la deviazione
 if anything; I mean
 semmai
 
-seat
-l'assento
-
 across the hall
 dall'altra parte del corridoio
 
@@ -30833,7 +30833,7 @@ bumpy
 accidentato
 
 bumpy ride
-la corsa accidentata; il percorso accidentato; il viaggio accidentato
+la corsa accidentata; il percorso accidentato; il viaggio accidentato; il tragitto accidentato
 
 differently; in a different way
 in modo diverso
@@ -35029,7 +35029,7 @@ certo che no
 half measure
 la mezza misura
 
-to cool down
+to get cold; to cool down; to catch a cold
 freddarsi
 
 something to say about it
@@ -37765,9 +37765,6 @@ l'agenzia governativa
 after only one day
 dopo solo un giorno
 
-bumpy ride
-il tragitto accidentato
-
 and sure enough; sure enough
 e infatti
 
@@ -37783,13 +37780,13 @@ trionfale
 small lever
 la levetta
 
-to cool down
+to cool; to chill
 freddare
 
 interview with
 l'intervista a
 
-uncomfortable
+annoying; irritating (less common)
 indisponente
 
 shack
@@ -37873,8 +37870,8 @@ abbozzato
 the thermal water bottle
 la borraccia termica
 
-string
-la sfilza
+string of
+la sfilza di
 
 string of errors
 la sfilza di errori
@@ -37897,7 +37894,7 @@ premurarsi
 bogeyman
 lo spauracchio
 
-obligation
+duty; obligation (archaic)
 l'obligo
 
 to shake off a defender
@@ -38029,7 +38026,7 @@ l'intonazione
 tone; pitch (tone)
 il tono
 
-assembly
+assembly; setup
 l'assemblaggio; il montaggio
 
 to access the app
@@ -38119,7 +38116,7 @@ stare in mezzo agli alberi
 remnant; scrap
 lo scampolo
 
-cardboard
+cardstock; heavy paper
 il cartoncino
 
 polyphonic chatter
@@ -38199,9 +38196,6 @@ il fotografo
 
 to clarify; to make clear
 fare chiarezza su
-
-to submit an application
-presentare la domanda
 
 to hit the big time
 diventare famosi; raggiungere il successo
@@ -38388,9 +38382,6 @@ la tostatura; la torrefazione
 
 packaging
 la confezione
-
-rival
-il rival
 
 the moka pot
 la moka
@@ -38590,7 +38581,7 @@ in concomitanza
 security policies
 le politiche di sicurezza
 
-detection
+detection (surveying, measuring)
 il rilevamento
 
 public disclosure
@@ -38641,7 +38632,7 @@ la maitresse
 faint; weak
 flebile
 
-adjacent
+adjacent; side-by-side (plural)
 attigui
 
 to grill
@@ -38725,7 +38716,7 @@ la casa automobilistica
 concept car
 l'auto concept; il concept car
 
-timing
+timing (of events or actions, duration)
 la tempistica
 
 to type a random character
@@ -38878,9 +38869,6 @@ girare il mondo
 the derivative
 la derivata
 
-to ride into town on a Vespa
-andare in città con una Vespa
-
 to meet a problem head-on; to confront a problem head-on
 affrontare un problema di petto; affrontare direttamente un problema
 
@@ -38891,7 +38879,7 @@ to get on the motorcycle
 salire sulla moto
 
 to ride into town on a Vespa
-entrare in città su una Vespa
+andare in città in Vespa; andare in città con una Vespa; entrare in città su una Vespa
 
 overcautious
 eccessivamente cauto
@@ -39022,7 +39010,7 @@ svincolarsi
 end-to-end encryption
 la crittografia end-to-end
 
-investigation; inquiry
+preliminary investigation (legal)
 l'istruttoria
 
 Manichean
