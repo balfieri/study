@@ -60466,3 +60466,6 @@ la figlia adottiva
 
 prompt (computer)
 il prompt
+
+potion
+la pozione
