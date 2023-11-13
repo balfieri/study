@@ -7201,8 +7201,8 @@ il villaggio
 restrained
 trattenuto
 
-wide array
-la vasta gamma
+wide array of; whole array of
+la vasta gamma di
 
 taxi driver
 il tassista
@@ -16315,7 +16315,7 @@ le orecchie vergini
 to authenticate
 autenticare
 
-range
+range; array
 la gamma
 
 psychologist
@@ -60469,3 +60469,4 @@ il prompt
 
 potion
 la pozione
+
