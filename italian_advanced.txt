@@ -9893,7 +9893,7 @@ paper airplane
 l'aereoplano di carta
 
 moody
-lunatico; capriccioso
+malinconico; lunatico; capriccioso
 
 grief
 il dolore
@@ -60367,3 +60367,7 @@ la peculiarità; l'anomalia
 
 to corral
 raccogliare; radunare
+
+to be mistaken for (something)
+essere scambiato per (qualcosa)
+
