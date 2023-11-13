@@ -60422,5 +60422,14 @@ raccapricciante
 to horrify; to creep out
 raccapricciare
 
-to detach from; to come loose from
+to detach from
 staccarsi da
+
+to come loose from (object)
+allentarsi da
+
+loose (piece)
+allentato
+
+to loosen up; to get loose
+allentarsi
