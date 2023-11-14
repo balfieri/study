@@ -4642,7 +4642,7 @@ le previsioni del tempo; le previsioni meteo
 Supreme Court
 la Corte Suprema
 
-to regret
+to regret (for something not done)
 rimpiangere
 
 regret (for something not done)
@@ -36178,7 +36178,7 @@ il quadro giuridico
 desirable; advisable
 auspicabile
 
-to regret; to repent
+to regret; to repent (for something done)
 pentirsi
 
 opening; opportunity
