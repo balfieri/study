@@ -58115,9 +58115,6 @@ in forma fisica
 shipowner
 l'armatore
 
-to share
-spartire
-
 Ivory Coast
 la Costa d'Avorio
 
@@ -60491,3 +60488,5 @@ può dire la sua
 say in the matter; opinion on the matter; input on the matter
 l'opinione sulla questione; il contributo alla questione
 
+to divide (equitably); to share
+spartire
