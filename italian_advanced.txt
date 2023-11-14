@@ -60470,3 +60470,12 @@ il prompt
 potion
 la pozione
 
+I'm on your team
+sono nella tua squadra
+
+I'm on your side
+sono dalla tua parte
+
+album artwork
+la copertina dell'album
+
