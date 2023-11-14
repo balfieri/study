@@ -41983,8 +41983,11 @@ ti penso come
 push-button
 pulsante
 
-broom
+toilet brush
 lo scopino
+
+broom
+la scopa
 
 balcony
 il balcone
@@ -60500,3 +60503,5 @@ il morsetto
 to make some good points
 fare alcuni buoni punti
 
+my stocks are way up
+le mie azioni sono molto aumentate; le mie azioni sono molto in aumento

@@ -4535,7 +4535,10 @@ to hide (oneself) from
 nascondersi da
 
 to apologize; to excuse oneself
-scusarsi; chiedere scusa
+scusarsi
+
+to apologize; to ask for forgiveness
+chiedere scusa
 
 to displease; to mind
 dispiacere
