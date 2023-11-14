@@ -60494,3 +60494,5 @@ spartire
 prostate (body part)
 la prostata
 
+clamp
+il morsetto
