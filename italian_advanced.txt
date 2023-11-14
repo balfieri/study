@@ -553,7 +553,7 @@ nelle nuvole; tra le nuvole
 package
 il pachetto
 
-to require
+to require; to be necessary (general)
 occorrere
 
 route (air and maritime navigation)
@@ -2553,9 +2553,6 @@ ricambiare
 
 stake; picket; pole
 il paletto
-
-razor; shaver; razor blade
-il rasoio
 
 to spin; to flirt
 filare
@@ -8761,9 +8758,6 @@ gli amici stretti
 tools
 gli utensili
 
-root cause
-la causa radice; la causa principale
-
 crybaby; whiner
 il piagnone
 
@@ -9640,8 +9634,11 @@ la rivoltella; il revolver
 ghost town
 la città fantasma
 
-cliff
-la scogliera; il dirupo
+cliff; reef
+la scogliera
+
+precipice; very steep cliff
+il dirupo
 
 still (moonshine)
 l'alambicco
@@ -10204,7 +10201,7 @@ il vestiario
 soaking
 l'ammollo
 
-to soak
+to soak (to soften or remove dirt)
 mettere in ammollo
 
 fuel-efficient
@@ -11681,7 +11678,7 @@ significant other
 il partner; la partner; il compagno; la compagna
 
 fart
-la scoreggia
+la scorreggia; la scoreggia
 
 to fart
 scoreggiare
@@ -12967,8 +12964,11 @@ il tempo vola; il tempo fugge
 sad, but true
 triste, ma vero
 
-hood
-il cappuccio; il cofano
+hood (clothing)
+il cappuccio
+
+hood (car)
+il cofano
 
 oath; pledge; swearing-in; vow; vows
 il giuramento
@@ -25741,7 +25741,7 @@ insistere
 shaking
 lo scrollamento
 
-based on
+based on; founded upon; built upon
 basato su
 
 to tolerate; to put up with; to bear; to endure
@@ -29473,9 +29473,6 @@ la privazione
 to recoil
 rinculare
 
-enclosed
-racchiuso
-
 foolishly; unwisely
 stoltamente
 
@@ -30109,8 +30106,8 @@ l'umiltà
 adjustment; adaptation; accomodation
 l'adeguamento
 
-to need; to require; to necessitate
-necessitare
+to need; to require; to necessitate (formal)
+necessitare di
 
 morphology
 la morfologia
@@ -39434,7 +39431,7 @@ mark; label
 il contrassegno
 
 a pretty girl on the back of the Vespa
-una ragazza carina sulla parte posteriore della Vespa
+una ragazza carina sul retro della Vespa; una ragazza carina sulla parte posteriore della Vespa
 
 from what I can surmise,
 da quello che posso dedurre,
@@ -39819,9 +39816,6 @@ staminale
 
 to practice a flight
 fare pratica di volo
-
-flood; inundation
-inondazione
 
 flooded (heavy, area, structure); inundated
 inondato
@@ -40813,9 +40807,6 @@ il fornetto elettrico
 prophecy
 la profezia
 
-to require
-necessitare di
-
 washer-dryer
 il lavasciuga
 
@@ -41083,7 +41074,7 @@ tanto di cui parlare
 limp (noun)
 la zoppia
 
-to enjoy
+to enjoy (from service, right, or good)
 fruire
 
 to surge
@@ -41110,7 +41101,7 @@ togliere (qualcuno) dalla testa
 to mean well
 avere buone intenzioni
 
-romance novel
+romance novel (written for women)
 il romanzo rosa
 
 authentic; real
@@ -41193,9 +41184,6 @@ bucare
 
 pierced
 bucato (aggettivo)
-
-here's the thing
-ecco il punto
 
 laparoscopic surgery
 la chirurgia laparoscopica
@@ -41392,8 +41380,8 @@ la premenopausa
 wet shaving
 la rasatura umida
 
-razor blade
-il rasoio a lama
+razor
+il rasoio; il rasoio a lama
 
 safety razor
 il rasoio di sicurezza
@@ -41559,9 +41547,6 @@ la mungitura
 
 toothing
 la dentatura
-
-fart
-la scorreggia
 
 to be under a lot of stress
 essere sotto molta tensione; essere sotto molto stress
@@ -42079,9 +42064,6 @@ il castagno
 to tie a knot
 fare un nodo
 
-hood
-lo scappuccio
-
 trendy
 alla moda; di tendenza
 
@@ -42115,7 +42097,7 @@ l'affondamento
 to resurface
 risalire a galla
 
-to alert
+to alert; to raise an alarm (formal)
 allertare
 
 mechatronics
@@ -42142,7 +42124,7 @@ il ficus
 papyrus
 il papiro
 
-cliff
+tall, vertical cliff formed by erosion; sea-cliff
 la falesia
 
 suggestive; evocative; picturesque
@@ -42325,7 +42307,7 @@ infaticabile; instancabile
 sleep schedule
 il programma del sonno
 
-to soak
+to soak (general)
 mettere a bagno
 
 faultfinder; nitpicker
@@ -42448,13 +42430,13 @@ l'ambientazione verace
 intriguing
 intrigante
 
-counterpart
+counterbalance; compensation
 il contraltare
 
-pregnancy
+degree to which a sign or symbol is full of meaning
 la pregnanza
 
-favorite; preferred
+preferred; cherished; beloved
 prediletto
 
 television ratings
@@ -42619,7 +42601,7 @@ l'abitudine orale
 teeth cleaning
 la pulizia dei denti
 
-filling
+filling (act, general)
 il riempimento
 
 text box
@@ -42678,9 +42660,6 @@ l'ombrello
 
 shade; shading
 l'ombreggiatura
-
-next to
-di fianco a
 
 customs (airport)
 la dogana
@@ -42865,7 +42844,7 @@ per conto suo
 on their own
 per conto loro
 
-based on
+based on; according to; depending on
 in base a
 
 to wait and see
@@ -43021,14 +43000,8 @@ ipocondriaco
 to have a long way to go
 avere ancora molta strada da fare
 
-it's good practice
-è una buona pratica
-
 lease
 il contratto d'affitto
-
-data structure
-la struttura dati
 
 I would be very happy to reach 80 (years old)
 sarei molto felice di raggiungere gli 80 (anni)
@@ -43041,9 +43014,6 @@ quando meno te lo aspetti
 
 amateur pilot
 il pilota dilettante
-
-a pretty girl on the back of the Vespa
-una ragazza carina sul retro della Vespa
 
 on the back of (a vehicle)
 sul retro di (un veicolo)
@@ -60280,9 +60250,6 @@ il tempo non aspetta nessuno
 
 august (adjective)
 augusto
-
-cliff
-il dirupo
 
 scassato
 broken; worn out
