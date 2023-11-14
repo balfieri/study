@@ -52318,7 +52318,7 @@ il sessuologo; la sessuologa; il terapista del sesso
 to kick off; to start
 dare il via
 
-wall
+wall (large, fortified, city)
 la muraglia
 
 mirage
