@@ -60493,3 +60493,6 @@ esperto; competente
 
 oxygen mask
 la maschera di ossigeno
+
+lost (metaphorical)
+sperduto
