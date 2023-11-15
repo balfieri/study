@@ -13783,7 +13783,7 @@ l'armata
 circlement
 il circhiamento
 
-resurgence
+resurgence; rebirth; resurrection
 il risorgimento
 
 unusual (uncommon, rare)
@@ -28492,7 +28492,7 @@ inavvicinabile
 white whale
 la ballena bianca
 
-I wouldn't say tht
+I wouldn't say that
 non direi proprio
 
 outlaw
@@ -48094,7 +48094,7 @@ il vessillo; lo stendardo
 interwoven; intertwined
 intessuto
 
-Risorgimento-related
+resurgant
 risorgimentale
 
 scrawny
@@ -60532,3 +60532,6 @@ la porta IP
 
 router (computer)
 il router
+
+heater
+il riscaldatore
