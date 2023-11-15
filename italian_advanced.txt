@@ -58988,8 +58988,11 @@ affievolirsi
 rejected
 rigettato
 
+imagery
+l'immaginario; le immagini
+
 to endorse
-avallare
+approvare; sostenere; endossare; avallare
 
 type A personality
 la personalità di tipo A
