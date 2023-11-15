@@ -60527,3 +60527,8 @@ it changed for the better
 it changed for the worse
 è cambiato in peggio
 
+IP port
+la porta IP
+
+router (computer)
+il router
