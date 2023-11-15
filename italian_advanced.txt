@@ -1829,7 +1829,7 @@ dated
 datato
 
 to make sure that
-assicurarsi che; far sì che
+far sì che; assicurarsi che
 
 word game
 il gioco di parole
@@ -60511,4 +60511,7 @@ parigino
 
 to be based on
 basarsi su
+
+he goes on to mention that
+prosegue a menzionare che
 
