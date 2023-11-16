@@ -13795,8 +13795,11 @@ insolito
 doctor's appointment
 l'appuntamento dal dottore; l'appuntamento medico
 
-hectic
+hectic; uncontrollably excited; panicked; frenzied (general state)
 frenetico
+
+hectic
+frenetico; agitato
 
 feverish
 febbrile
@@ -44395,7 +44398,7 @@ sprigionato
 thunderous
 fragoroso
 
-nonsense
+nonsense; rubbish; bluff
 la fuffa
 
 to regurgitate
@@ -52321,7 +52324,7 @@ trasudare sessualità
 disarming
 disarmante
 
-hectic; frantic
+frantic; hurried; rushed (caused by a specific event)
 concitato
 
 let's keep going
@@ -60535,3 +60538,22 @@ il router
 
 heater
 il riscaldatore
+
+engine coolant
+il liquido di raffreddamento del motore
+
+27 dollars per ticket
+27 dollari per biglietto
+
+just between you and me
+solo tra te e me
+
+to develop a disease
+sviluppare a malattia
+
+regardless of what we do
+indipendentemente da quello che facciamo
+
+I'm not crazy about it (it's not that good)
+non ne vado matto (non è un granché)
+
