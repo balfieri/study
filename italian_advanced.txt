@@ -30349,7 +30349,7 @@ la lealtà
 applause
 l'applauso
 
-cortex
+cortex; bark (tree)
 la corteccia
 
 parabola; parable
@@ -60601,3 +60601,7 @@ mimetizzare
 
 camouflage
 la mimetizzazione
+
+to move up (in time); to advance; to bring forward
+avanzare; portare avanti
+
