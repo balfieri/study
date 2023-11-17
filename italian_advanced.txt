@@ -12680,7 +12680,7 @@ prearranged; preordained
 prestabilito
 
 basket (container)
-il cesto; il cestino; il cestello
+il cesto; la cesta; il cestino; il cestello
 
 basket (sport)
 il canestro
@@ -52830,9 +52830,6 @@ Ponzio Pilato
 
 the Huns
 Gli Unni
-
-basket
-la cesta
 
 heart throb
 l'idolo; il colpo di fulmine
