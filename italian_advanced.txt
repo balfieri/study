@@ -60611,3 +60611,15 @@ bloccarsi
 vegetable shortening
 lo strutto vegetale
 
+low-risk
+a basso rischio
+
+high-risk
+ad alto rischio
+
+cancer scare
+lo spavento per il cancro
+
+bone marrow biopsy
+la biopsia del midollo osseo
+
