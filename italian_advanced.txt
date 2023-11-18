@@ -1156,7 +1156,7 @@ il dipendente; l'impiegato; il lavoratore
 refugee
 il profugo
 
-supply
+supply (act of supplying)
 la fornitura
 
 cabinet; toilet
@@ -1252,7 +1252,7 @@ la salvaguardia
 within (some time)
 entro
 
-to scale
+to scale (fish)
 sguamire
 
 to leap; to pounce
@@ -4465,8 +4465,11 @@ può capitare che
 I write to you in regard to
 Vi scrivo riguardo a
 
-pigeon
-il colombo; il piccione
+pigeon (domesticated)
+il colombo
+
+pigeon (wild, feral)
+il piccione
 
 aboveground; on the surface
 in superficie
@@ -4785,9 +4788,6 @@ non aspettarti miracoli
 
 connection (concrete)
 il collagamento
-
-connection (abstract)
-la connessione
 
 agent; officer
 l'agente
@@ -8137,7 +8137,7 @@ l'usura
 facade
 la facciata
 
-statuesque
+sculptural
 scultoreo
 
 chisel; scalpel
@@ -8999,7 +8999,10 @@ once-in-a-lifetime experience
 un'esperienza unica nella vita; un'esperienza che capita una volta nella vita
 
 connection
-il collegamento; la connessione
+il collegamento
+
+connection (network, internet)
+la connessione
 
 even worse
 ancora peggio
@@ -9382,8 +9385,11 @@ la piastrella
 ceramic
 la ceramica
 
-collision
-la collisione; il tamponamento
+collision (general)
+la collisione
+
+collision (rear-end)
+il tamponamento
 
 ride; passage
 il passaggio
@@ -11803,7 +11809,7 @@ i troppi impegni
 to seal
 sigilare
 
-scrap
+scrap; waste
 lo scarto
 
 to scream
@@ -12410,7 +12416,7 @@ even more
 anche di più
 
 amazing; astounding; staggering
-sbalorditivo
+sbalorditivo; strabiliante
 
 rich in culture
 ricco di cultura
@@ -12891,9 +12897,6 @@ il sapientone; il saccente
 
 one way or another
 in un modo o nell'altro
-
-best friend from high school
-il miglor amico del liceo
 
 Freudian slip
 il lapsus freudiano
@@ -15070,7 +15073,7 @@ fare un colpo basso
 to hold someone accountable
 ritenere qualcuno responsabile
 
-to look the other way
+to pretend not to see
 far finta di non vedere
 
 to gather up one's courage; to put a brave face (on it)
@@ -15146,7 +15149,7 @@ to add fuel to the fire
 gettare benzina sul fuoco
 
 easier said than done
-più facile a dirsi che a farsi
+più facile a dire che a fare; più facile a dirsi che a farsi
 
 to go out of one's way
 darsi molto da fare
@@ -21877,7 +21880,7 @@ addensare
 to make viscous
 viscosizzare
 
-additive
+additive (noun)
 l'additivo
 
 to stabilize
@@ -22957,9 +22960,6 @@ l'accademia
 procedural; trial-like
 processuale
 
-deservedly
-meriatamente
-
 good-looking
 di bell'aspetto
 
@@ -23944,7 +23944,7 @@ l'introverso
 strip
 la striscia
 
-homophobic
+homophobic (less common)
 omofobico
 
 homosexuality
@@ -25066,8 +25066,8 @@ la clausola
 click
 il clic
 
-community
-il comunitario
+community (adjective)
+communitario
 
 prosperity
 la prosperità
@@ -25441,7 +25441,7 @@ tornare a letto
 breeder; rearer; farmer
 l'allevatore
 
-chatter
+chatter; gossip
 la chiacchiere
 
 pancake; fritter
@@ -26201,7 +26201,7 @@ to reopen the wounds
 riaprire le ferite
 
 enjoyable
-divertente; piacevole; gradevole
+divertente; piacevole; gradevole; godibile
 
 full-speed; at full-speed
 a tutta velocità
@@ -27991,7 +27991,7 @@ il semolino
 semola (courser than semolina)
 la semola
 
-eyesore
+disgraceful; shameful; scandalous; dishonorable
 obbrobrio
 
 to go out; to turn off; to burn out
@@ -28158,9 +28158,6 @@ l'Argentina
 
 invention; discovery
 il ritrovato
-
-found again
-retrovato
 
 to put back; to remit
 rimettere
@@ -29992,7 +29989,7 @@ la bomba
 who knows
 chissà
 
-burial
+burial (physical)
 la sepoltura
 
 to fulfil; to fulfil
@@ -30484,7 +30481,7 @@ la compassione
 generated
 generato
 
-stick
+stick; rod (large, thicker)
 il bastone
 
 denominated; named; called
@@ -33004,7 +33001,7 @@ reagire in modo eccessivo
 sand dune
 la duna di sabbia
 
-inland
+inland (adjective)
 nell'entroterra
 
 hang gliding
@@ -36034,7 +36031,7 @@ ho lasciato il mio lavoro; ho mollato il mio lavoro
 to resign
 dare le dimissioni
 
-wheelchair
+wheelchair (formal)
 la sedia a rotelle
 
 at a faster rate
@@ -36553,9 +36550,6 @@ forse caso
 human body
 il corpo umano
 
-carcinogen
-il carcinogeno
-
 hospital ward
 il reparto di degenza
 
@@ -36673,9 +36667,6 @@ districarsi
 strain; forcing
 la forzatura
 
-to not be able to do without
-non si può fare a meno
-
 barrage of questions
 la voragine di domande
 
@@ -36726,9 +36717,6 @@ non sto vedendo nessuno in questo momento
 
 you really hurt me
 mi hai fatto veramente male
-
-to stack
-impilare
 
 stacking game
 il gioco da impilare
@@ -36826,7 +36814,7 @@ se fossi intelligente, cosa che non sono
 work-study program
 il programma di lavoro-studio
 
-to probe
+to probe; to sound out
 sondare
 
 down below
@@ -40898,7 +40886,7 @@ forward; attacker
 l'attaccante
 
 fraudulent
-fraudolente
+fraudolento; fraudolente
 
 against the trend
 in controtendenza
@@ -42139,7 +42127,7 @@ suggestivo; evocativo; pittoresco
 salt pan
 la salina
 
-mist
+mist (light, thin)
 la foschia
 
 small cove
@@ -43324,7 +43312,7 @@ smentito; confutato
 motion
 il moto
 
-driver
+driver (formal)
 il conducente; la conducente
 
 to slump down
@@ -43334,10 +43322,7 @@ voluntary homicide
 l'omicidio volontario
 
 Algerian
-Algerino
-
-Moroccan
-Marocchino
+algerino
 
 five times as much
 cinque volte tanto
@@ -43456,13 +43441,13 @@ sollevare dubbi
 ingestion
 l'ingestione
 
-additive
+additive (adjective)
 additivo
 
 food additive
 l'additivo alimentare
 
-proportional
+proportional (balanced); proportioned
 proporzionato
 
 employer (adjective)
@@ -43558,7 +43543,7 @@ le tagliatelle
 gold rush
 la corsa all'oro
 
-to scale
+to scale (climb)
 scalare
 
 to entrust to
@@ -43600,7 +43585,7 @@ proporzionalmente
 brain teaser; puzzle
 il rompicapo
 
-enigmatic
+puzzle (adjective); riddle (adjective)
 enigmistico
 
 secret recipe
@@ -43702,20 +43687,14 @@ il bruciore di stomaco
 don't think about it too much
 non pensarci su troppo
 
-easier said than done
-più facile a dire che a fare
-
 did I catch you at a bad time?
 ti ho beccato in un brutto momento?
 
-mist
+mist (thick); fog
 la bruma
 
 to make a withdrawal
 fare un prelievo
-
-fraudulent
-fraudolento
 
 username
 il nome utente
@@ -43747,7 +43726,7 @@ l'ambiente comfortevole
 multifunctional
 polifunzionale
 
-wheelchair
+wheelchair; baby stroller
 la carrozzina
 
 in a wheelchair
@@ -44176,9 +44155,6 @@ l'allegarimento
 to take into account
 mettere in conto
 
-amazing
-strabiliante
-
 labeling
 l'etichettatura
 
@@ -44209,7 +44185,7 @@ metterci mano
 to eat one's words; to slur one's words; to mangle one's words
 mangiarsi le parole
 
-to spell
+to spell (traditional); to read aloud in slow manner
 compitare
 
 vocal chords
@@ -44238,9 +44214,6 @@ il mal di gola
 
 cured ham
 il prosciutto cotto
-
-pigeon
-il piccione
 
 birthday card
 il biglietto di compleanno
@@ -44407,10 +44380,10 @@ la fuffa
 to regurgitate
 rigurgitare
 
-tear; rip
+tear; rip (large, violent)
 lo squarcio
 
-to probe
+to plumb; to fathom; to probe
 scandagliare
 
 to walk the runway
@@ -44431,7 +44404,7 @@ il reame
 fallacy
 la fallacità
 
-imaginative
+imaginative; fantasitic (not commonly used)
 immaginifico
 
 paroxysm
@@ -44458,13 +44431,13 @@ bavoso
 hell
 l'infero
 
-to hurt
+to wound; to injure
 ferire
 
 to make violent love; to have rough sex
 fare amore con violenza
 
-boulder
+boulder (large, heavy)
 il macigno
 
 to perpetrate
@@ -44476,7 +44449,7 @@ traboccare
 the Lega apprentice
 l'apprendista leghista
 
-supply
+refueling; restocking; replenishing
 il rifornimento
 
 veined
@@ -44491,7 +44464,7 @@ lastricato
 sticks of brittle
 le stecche di croccante
 
-to nibble
+to nibble (in little bites)
 sbocconcellare
 
 sheepdog
@@ -44518,7 +44491,7 @@ il menestrello
 fan
 il ventaglio
 
-childhood
+period of adolescence; teenage years (old-fashioned)
 la fanciullezza
 
 to catalogue
@@ -44545,8 +44518,8 @@ il mascalzone
 to have a brain
 avere cervello
 
-to drill
-farare
+to pierce; to perforate
+forare
 
 greyness
 il grigiore
@@ -44554,10 +44527,10 @@ il grigiore
 asthmatic
 asfittico
 
-cast iron
+molten iron
 il ferro fuso
 
-to nibble
+to nibble; to snack
 smangiucchiare
 
 to portend; to presage
@@ -44578,8 +44551,8 @@ cruento
 impetuosity
 l'irruenza
 
-married
-convolato
+rushed into married; married (formal)
+convolato a nozze
 
 undisputed
 indiscusso
@@ -44596,7 +44569,7 @@ maneggiato
 the steep climb
 la salita ripida
 
-broken
+snapped; broken in two
 spezzato
 
 bristly
@@ -44636,7 +44609,7 @@ grit
 la grinta
 
 to stack
-inpilare
+impilare; inpilare
 
 optical illusion
 l'illusione ottica
@@ -44725,8 +44698,8 @@ inguinale
 flagship product
 il prodotto di punta
 
-found again
-ritrovato
+found again; rediscovered
+ritrovato; retrovato (meno comune)
 
 anthropomorphic
 antropomorfe
@@ -44743,7 +44716,7 @@ il superutilizzatore
 to intuit
 intuire
 
-bottle
+flask; vial
 il flacone
 
 to slip into
@@ -44776,7 +44749,7 @@ imperniato
 to pivot
 imperniare
 
-to rant
+to shout; to yell (aggressive)
 sbraitare
 
 rascal
@@ -44896,7 +44869,7 @@ la carne di cervo
 dizziness; bewilderment
 lo stordimento
 
-mule
+hinny
 il bardotto
 
 sly; cunning
@@ -44953,7 +44926,7 @@ dare parere negativo
 auspicious
 favorevole; propizio; di buon auspicio
 
-currently; presently
+fluently; commonly; ordinarily
 correntemente
 
 usually; normally
@@ -45037,8 +45010,11 @@ la vertenza
 payment; disbursement
 la corresponsione
 
-connection
+connection (to supply line)
 allacciamento
+
+connection to the electrical grid
+l'allacciamento alla rete elettrica
 
 to remain; to persist
 permanere
@@ -45157,7 +45133,7 @@ svilire
 chit-chat
 la ciancia
 
-inevitably
+unfailingly; without fail
 immancabilmente
 
 to dilate
@@ -45169,7 +45145,7 @@ impigliato
 brethren
 i confratelli
 
-brain
+entire structure within the skull
 l'encefalo
 
 fireworks
@@ -45217,7 +45193,7 @@ il patteggiamento
 resulted in
 sfociato
 
-obviously
+clearly; evidently
 palesemente
 
 to be able to sleep at night
@@ -45403,7 +45379,7 @@ il pecoraio; il pastore
 pompous
 pomposo
 
-sour cherry
+wild cherry
 il visciolo
 
 what's happening with you?; what's going on with you?
@@ -45529,16 +45505,13 @@ Apollo
 scarlet
 scarlatto
 
-purple
-paonazzo
-
 barbarically
 barbaramente
 
 protector
 il protettore; la protettrice
 
-collision
+minor collision; bump
 il cozzo
 
 thud
@@ -45547,7 +45520,7 @@ il tonfo
 to hook
 azzanare
 
-stick
+stick (smaller, thinner); twig
 lo stecco
 
 plaice
@@ -45568,10 +45541,10 @@ la ghiaia
 gurgle
 il gorgoglio
 
-to calm down
+to soothe; to calm
 rasserenare
 
-to rhyme
+to recite nursery rhyme or jingle
 filastroccare
 
 horsehair
@@ -45781,7 +45754,7 @@ mulinare
 to reboil
 ribollire
 
-scrap
+scrap metal (often from a vehicle)
 il rottame
 
 to struggle
@@ -45805,7 +45778,7 @@ il corrente a getto
 range of action
 il raggio d'azione
 
-paved
+paved; asphalted; tarmacked
 asfaltato
 
 to pave
@@ -45850,7 +45823,7 @@ il carnefice
 snowdrop
 il bucaneve
 
-to split; to cleave
+to split; to cleave (along natural line of division)
 fendere
 
 exhausting; grueling
@@ -46063,7 +46036,7 @@ l'antipatia; l'avversione
 pine forest
 la pineta
 
-inland
+inland (noun)
 l'entroterra; nell'entroterra
 
 tachycardia
@@ -46324,9 +46297,6 @@ Lione
 Geneva
 Ginevra
 
-The Netherlands
-i paesi bassi
-
 Frankfurt
 Francoforte
 
@@ -46390,8 +46360,8 @@ alla destra di
 listenable
 ascoltabile
 
-chatter
-la civitteria
+coquetry; flirtation
+la civetteria
 
 tipped overe
 ribaltato
@@ -46471,7 +46441,7 @@ potare
 electrocution
 l'elettrocuzione
 
-burial
+burial (broader)
 l'interramento
 
 to bury
@@ -46540,10 +46510,10 @@ cinque minuti prima dell'ora
 dog training school; obbedience school for dogs
 la scuola di addestramento per cani
 
-slippery
+slippery (figurative)
 sdrucciolevo
 
-theatrical
+obvious; clear; blatant; in full view
 plateale
 
 ostentatious
@@ -46557,9 +46527,6 @@ il satellite
 
 square footage
 la metratura
-
-enjoyable
-godibile
 
 improvable
 migliorabile
@@ -46738,7 +46705,7 @@ l'attestante
 we have a roof over our heads
 abbiamo un tetto sopra la testa
 
-sticker
+sticker; seal (official purposes)
 il bollino
 
 to self-repair
@@ -46846,9 +46813,6 @@ a quattro zampe
 terrific
 fantastico; terrificante
 
-to calm down
-calmare; calmarsi
-
 bistro
 il bistrò
 
@@ -46921,10 +46885,10 @@ nutrito
 neighboring; adjacent; bordering
 limitrofo
 
-to rent out
+to rent out (archaic)
 affituare
 
-to rant
+to rant; to rail against
 inveire
 
 fragmentary; incomplete
@@ -46975,7 +46939,7 @@ sulle 4 ore
 early
 sul presto
 
-late
+late; later part of a period of time
 sul tardi
 
 two students out of thirty

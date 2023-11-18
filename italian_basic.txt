@@ -1753,8 +1753,11 @@ il poliziotto
 cook
 il cuoco; la cuoca
 
-driver
-l'autista; il guidatore
+driver (professional)
+l'autista
+
+driver (personal use)
+il guidatore
 
 worker
 l'operaio; l'operaia; il lavoratore; la lavoratrice
@@ -4576,7 +4579,7 @@ disegnare
 to fix; to repair
 aggiustare
 
-to hurt
+to do harm
 fare del male
 
 to organize
@@ -4927,7 +4930,7 @@ baciare
 to calm
 calmare
 
-to calm down
+to calm oneself; to calm oneself down
 calmarsi
 
 to chat; to chit-chat; to shoot the breeze
@@ -6304,7 +6307,7 @@ il professore; la professoressa
 dream
 il sogno
 
-currently; presently
+currently; presently; at present
 attualmente
 
 next (close in time); near; close
