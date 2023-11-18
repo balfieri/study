@@ -60652,3 +60652,18 @@ essere terrorizzato da (qualcosa)
 
 to round
 arrotondare
+
+to crave (something)
+desiderare ardentemente (qualcosa); avere un forte desiderio di (qualcosa)
+
+to deescalate
+deescalare; calmare la situazione
+
+to escalate
+escalare; intensificare
+
+escalation
+l'escalation; l'intensificazione; l'escalazione
+
+deescalation; de-escalation
+la de-escalation; la diminuzione dell'intensità; la deescalazione
