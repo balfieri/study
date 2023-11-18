@@ -7,10 +7,23 @@ import time
 import random
 import string
 import re
+import subprocess
+
+cmd_en = True
 
 def die( msg, prefix='ERROR: ' ):
     print( prefix + msg )
     sys.exit( 1 )
+
+def cmd( c, echo=True, echo_stdout=False, can_die=True ):  
+    if echo: print( c )
+    if cmd_en:
+        info = subprocess.run( c, shell=True, text=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT )
+        if echo_stdout: print( info.stdout )
+        if can_die and info.returncode != 0: die( f'command failed: {c}' )
+        return info.stdout
+    else:
+        return ''
 
 def match( s, pattern ): 
     return re.compile( pattern ).match( s )
@@ -23,6 +36,7 @@ string = sys.argv[1]
 subjects_s = 'italian_basic,italian_advanced,italian_expressions_common,italian_expressions_other,american_expressions_get,american_expressions_favorite,italian_vulgar,italian_passato_remoto,italian_tongue_twisters'
 search_question = True
 search_answer = True
+speak = False
 out_file = ''
 i = 2
 while i < len( sys.argv ):
@@ -30,15 +44,15 @@ while i < len( sys.argv ):
     i += 1
     if   arg == '-subjects':
         subjects_s = sys.argv[i]
-        i += 1
     elif arg == '-q':
         search_question = int(sys.argv[i])
-        i += 1
     elif arg == '-a':
         search_answer = int(sys.argv[i])
-        i += 1
+    elif arg == '-s':
+        speak = int(sys.argv[i])
     else:
         die( f'unknown option: {arg}' )
+    i += 1
 
 #-----------------------------------------------------------------------
 # read in <subject>.txt files
@@ -67,6 +81,9 @@ for subject in subjects:
             print()
             print( f'{filename}:{ques_line_num}:    {question}' )
             print( f'{filename}:{line_num}:    {answer}' )
+            if speak:
+                #cmd( f'say {question}' )
+                cmd( f'say -v Alice {answer}', echo=False )
 
     Q.close()
 
