@@ -60608,3 +60608,6 @@ la de-escalation; la diminuzione dell'intensità; la deescalazione
 to get stuck; to get blocked; to jam up; to lock up; to freeze up
 bloccarsi
 
+vegetable shortening
+lo strutto vegetale
+
