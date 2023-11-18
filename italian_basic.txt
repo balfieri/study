@@ -5200,7 +5200,7 @@ il carattere
 side; part
 la parte
 
-ground; earth
+earth; ground; dirt (general)
 la terra
 
 grade (not school); degree
