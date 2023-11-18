@@ -19018,11 +19018,11 @@ il risparmio
 savings; nest egg; life savings
 i risparmi
 
-to save (money)
+to save (money, resources)
 risparmiare
 
-to save; to rescue
-salvare; soccorrere
+to save (life)
+salvare
 
 sauna
 la sauna
@@ -60625,4 +60625,7 @@ la biopsia del midollo osseo
 
 indicative
 indicativo
+
+transformative
+trasformativo
 
