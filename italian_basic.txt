@@ -1283,7 +1283,7 @@ nurse
 l'infermiere; l'infermiera
 
 scissors
-i forbici
+le forbici
 
 cone
 il cono

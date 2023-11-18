@@ -193,9 +193,6 @@ impropriamente
 cell (room)
 la cella
 
-speech therapist
-il legopedista
-
 simultaneously
 in contemporanea
 
@@ -785,7 +782,7 @@ for what?
 e di che?
 
 don't mention it
-non c'è di che; figurati; non ma; ma ti pare; di nulla
+non c'è di che; figurati; non ma; ma ti pare; di nulla; ma figurati
 
 it's the least I could do
 è il minimo che avrei potuto fare
@@ -922,7 +919,7 @@ la pillola
 to sweep
 spazzare; scopare (ma può essere volgare)
 
-redemption
+recovery; resurgence
 il riscolamento
 
 pandemic
@@ -2233,7 +2230,7 @@ la commessa
 to forecast; to foresee; to predict; to anticipate
 prevedere
 
-in competition
+in competition (competing)
 in concorrenza
 
 to occur; to happen; to take place
@@ -3817,7 +3814,7 @@ assestarsi
 through July
 a tutto luglio
 
-to agree
+to agree (general)
 accordarsi
 
 to shake off
@@ -9556,8 +9553,11 @@ viceversa
 cutlet
 la cotoletta
 
-in the background
-sullo sfondo; in sottofondo
+in the background (painting, photo)
+sullo sfondo
+
+in the background (sound, music)
+in sottofondo
 
 flight crew
 l'equipaggio di condotta
@@ -11509,7 +11509,7 @@ sporgere
 break-in
 l'irruzione
 
-intimidating
+intimidating (behavior, action)
 intimidatorio
 
 inexorably
@@ -12089,7 +12089,10 @@ alley; lane
 il vicolo
 
 to make friends
-fare amicizia; farsi degli amici
+fare amicizia
+
+to make some friends
+farsi degli amici
 
 diaper
 il pannolino
@@ -12313,7 +12316,7 @@ più netto
 rioter; insurgent
 il rivoltoso
 
-upheaval
+turning; overturning
 il rivolgimento
 
 claim; demand; vindication
@@ -13695,9 +13698,6 @@ porre fine
 
 horrified
 inorridito
-
-to delude oneself
-illudarsi
 
 sexual harrassment
 le molestie
@@ -17768,7 +17768,7 @@ to lick one's wounds
 leccarsi le ferite
 
 to crucify
-mettere in croce
+mettere in croce; crocifiggere
 
 to highlight
 mettere in luce
@@ -18961,7 +18961,7 @@ la porcata
 to censure
 censurare
 
-deviant
+deviant (noun)
 il deviato
 
 to fade; to vanish
@@ -20749,7 +20749,7 @@ la metafisica
 metaphysical
 metafisico
 
-detected
+detected; identified
 rilevato
 
 guru; holy man
@@ -21691,7 +21691,7 @@ la prevalenza
 duchy
 il ducato
 
-decoration
+decoration (general)
 la decorazione
 
 containing
@@ -27460,9 +27460,6 @@ non se la mena
 to the best of my ability; as best as I could
 alla bell'e meglio
 
-to blush
-arronzare
-
 as if nothing had happened
 come se niente fosse; come se non fosse successo niente
 
@@ -28495,7 +28492,7 @@ la ballena bianca
 I wouldn't say that
 non direi proprio
 
-outlaw
+outlaw (noun)
 il fuorilegge
 
 to confess
@@ -30193,7 +30190,7 @@ imprenditoriale
 to grant; to tune; to accord
 accordare
 
-in parallel
+in parallel; concurrently (formal)
 parallelamente
 
 enchantment; charm
@@ -40756,7 +40753,7 @@ il lucchetto
 scraping
 il raschiamento
 
-gathering
+gathering; rally
 il raduno
 
 word about
@@ -41758,8 +41755,11 @@ Non riesco a vedere il mio corpo
 I am in awe of
 sono sbalordito da; sono meravigliato da
 
-to network
-fare networking; creare una rete di contatti
+to network (professional)
+fare networking
+
+to create a network of contacts
+creare una rete di contatti
 
 hourly
 orario; ogni ora
@@ -42913,7 +42913,7 @@ l'agopuntura
 earplugs
 i tappi per orecchie
 
-summer heat
+summer heat (muggy, humid)
 l'afa estiva
 
 labial; lip (adjective)
@@ -45610,7 +45610,7 @@ primaverile
 autumnal; autumn (adjective); fall
 autunnale
 
-roughness
+roughness; hardness
 l'asperità
 
 aging
@@ -46969,9 +46969,6 @@ su per giù; suppergiù
 approximately; roughly
 all'incirca
 
-in the background
-sullo sfondo; in secondo piano
-
 at the bottom; on the bottom; deep down
 in fondo; sul fondo
 
@@ -47182,7 +47179,7 @@ la noncuranza
 fraught with problems; full of problems
 pieno di problemi
 
-to network
+to network (genral, not just professional)
 fare rete
 
 sharing
@@ -47194,7 +47191,7 @@ adibito
 to put into circulation
 mettere in circolo
 
-meeting room
+meeting room (general)
 la stanza riunioni
 
 exchange
@@ -47287,7 +47284,7 @@ fare centro; colpire il segno; colpire il bersaglio
 accessory
 l'accessorio
 
-in competition
+in competition (right now)
 in concorso
 
 nation's capital
@@ -47349,9 +47346,6 @@ stocastico
 
 exponentially
 esponenzialmente
-
-scissors
-la forbice
 
 to palm off; to fob off
 rifilare
@@ -47578,7 +47572,7 @@ in segno di protesta; come protesta; in un atto di protesta
 equipped; fitted out
 equipaggiato; attrezzato
 
-intimidating
+intimidating (person, object, situation)
 intimidante
 
 to converge; to flow together
@@ -47632,7 +47626,7 @@ l'uranio
 plutonium
 il plutonio
 
-to make friends
+to forge a friendship; to establish a friendship
 stringere amicizia
 
 electric field
@@ -47812,9 +47806,6 @@ voltare
 intricate
 intricato
 
-unbundling
-lo scoporo
-
 to spin off; to separate; to unbundle
 scorporare
 
@@ -47887,7 +47878,7 @@ la concessionaria
 possession
 il possedimento
 
-decoration
+decoration (festive, temporary)
 l'addobbo
 
 renown
@@ -47947,7 +47938,7 @@ interprendere a seguito; intraprendere come risultato
 to count among; to include
 annoverare
 
-summer heat
+summer heat (general)
 la calura estiva
 
 cap; dome
@@ -47980,7 +47971,7 @@ il tabellone degli scacchi; la scacchiera
 chess pieces
 i pezzi degli scacchi
 
-meeting room
+conference room
 la sala riunioni; la sala meeting
 
 Tibetan
@@ -48001,7 +47992,7 @@ il giorno afoso
 this makes you; it makes you
 questo fa di te
 
-to blush
+to blush; to turn red
 arrossire
 
 to pack; to crowd; to fill
@@ -48025,7 +48016,7 @@ proprio accanto al parco
 nasty; filthy; repugnant
 lurido
 
-in parallel
+in parallel; simultaneously; at the same time
 in parallelo
 
 succulent; juicy
@@ -48052,9 +48043,6 @@ pressoché ovunque
 to do everything
 fare di tutto
 
-stutter; stammer
-il balbettio
-
 banner; standard
 il vessillo; lo stendardo
 
@@ -48069,9 +48057,6 @@ striminzito
 
 bluff
 il bluff
-
-to crucify
-crocifiggere
 
 to mend
 rammendare
@@ -48127,7 +48112,7 @@ terrificante
 Constantinian
 costantiniano
 
-ruin
+ruin; wreck (building, structure)
 il rudere
 
 shrewdness; cunning
@@ -48214,7 +48199,7 @@ affibbiato; attribuito
 unconsciousness
 l'incoscienza
 
-recklessness
+imprudence; carelessness
 l'imprudenza
 
 pergola
@@ -48247,7 +48232,7 @@ di per sé
 anachronistic
 acronistico
 
-to agree
+to agree (people)
 mettersi d'accordo
 
 nonsense
@@ -48307,7 +48292,7 @@ scherzo; sto scherzando
 to put on (something)
 mettersi (qualcosa)
 
-to look at oneself in the mirror
+to look at oneself in the mirror (can also be figurative)
 specchiarsi
 
 rioter
@@ -48379,8 +48364,8 @@ il lapidario
 wildfire; forest fire
 l'incendio boschivo
 
-skiing
-lo sciistico
+skiing (adjective)
+sciistico
 
 weekday accessibility
 la fruibilità feriale
@@ -48421,7 +48406,7 @@ pragmatico
 presupposition
 la presupposizione
 
-roughness
+coarseness; crudeness
 la rozzezza
 
 leadership
@@ -48490,9 +48475,6 @@ avere in carico; essere responsabili di; avere la responsabilità di
 what's more
 oltretutto
 
-to offer
-offire
-
 ghetto
 il ghetto
 
@@ -48517,7 +48499,7 @@ il punto di non ritorno
 co-author
 il coautore; la coautrice
 
-detected
+found; encountered (often unexpectedly)
 riscontrato
 
 loose cannon
@@ -48580,9 +48562,6 @@ il diurno
 cardiovascular
 cardiovascolare
 
-counterintuitive
-contrintuitivo
-
 water vapor
 il vapore acqueo
 
@@ -48622,7 +48601,7 @@ la resurrezione
 punk; punk music
 il punk
 
-in ruins
+in ruin (deteriorating)
 in rovina
 
 falling apart; falling
@@ -49343,7 +49322,7 @@ to crease; to wrinkle
 sgualcire; increspare
 
 stutter; stammer
-la balbuzia
+il balbettio; la balbuzia
 
 babbling
 la lallazione
@@ -49372,13 +49351,13 @@ la locusta
 dichotomous
 dicotomico
 
-upheaval
+commotion; upheaval
 il sommovimento
 
 low-skilled labor
 la bassa manovalanza
 
-paid
+remunerated
 retribuito
 
 to dequalify
@@ -49438,7 +49417,7 @@ a partire da
 top questions; main questions
 le domande principali
 
-deviant
+aberrant; deviant (adjective)
 aberrante
 
 audible
@@ -49534,9 +49513,6 @@ perché no
 affirmative
 affermativo
 
-don't mention it
-ma figurati
-
 what are you saying
 ma cosa dici
 
@@ -49603,7 +49579,7 @@ la chiave di lettura
 harming
 vulnerante
 
-gathering
+crowding; congregation
 l'assembramento
 
 torch
@@ -49639,7 +49615,7 @@ smobilitare
 scattered
 sparpagliato
 
-pride
+pride; fierceness
 la fierezza
 
 caravan
@@ -49648,7 +49624,7 @@ la carovana
 middle of June
 la metà di giugno
 
-outlaw
+outlaw (adjective)
 fuori legge
 
 facilitated
@@ -49684,7 +49660,7 @@ avere una connessione con
 doge
 il dogio
 
-redemption
+redemption; comeback
 la riscossa
 
 warrior
@@ -49870,10 +49846,10 @@ il fremito
 dazed; stunned
 intontito; stordito
 
-breath
+breath (outgoing)
 l'alito
 
-marker
+marker (finer)
 il pennarello
 
 outfit
@@ -49954,7 +49930,7 @@ l'espatriato
 to stand out
 stagliarsi
 
-welcome
+well-received; favorably received
 benaccetto
 
 deposit
