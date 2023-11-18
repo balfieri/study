@@ -721,10 +721,13 @@ mandare
 to send (package); to ship
 spedire
 
-sauce
+sauce (generic)
+la salsa
+
+sauce (slow-cooked with tomatoes, meat, onions)
 il sugo
 
-meat sauce
+meat sauce; Bolognese sauce
 il ragù
 
 cream
