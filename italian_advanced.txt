@@ -247,9 +247,6 @@ rivolgere
 to call on; to turn to; to face
 rivolgersi
 
-to get stuck
-bloccarsi
-
 to equip
 equipaggiare
 
@@ -60631,3 +60628,7 @@ l'escalation; l'intensificazione; l'escalazione
 
 deescalation; de-escalation
 la de-escalation; la diminuzione dell'intensità; la deescalazione
+
+to get stuck; to get blocked; to jam up; to lock up; to freeze up
+bloccarsi
+
