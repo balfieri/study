@@ -1762,9 +1762,6 @@ antisociale; asociale; misantropo
 to give oneself time; to kick it down the road; to kick the can down the road
 temporeggiare
 
-can; tin
-la lattina
-
 down the road
 in fondo alla strada; in fondo a questa strada; lungo la strada
 
@@ -5477,7 +5474,7 @@ new recruit
 il neoassunto
 
 resignation; discharge; dismissal
-la dimissione
+la dimissione; le dimissioni
 
 to take advantage of; to use; to exploit
 usufruire
@@ -11409,9 +11406,6 @@ lo spinto
 
 to lock oneself up
 rinchiudersi
-
-resignation
-le dimissioni
 
 stint; bowl
 la gavetta
@@ -17443,9 +17437,6 @@ discorrere
 decoupling
 il disaccoppiamento
 
-can
-la scatoletta
-
 sour cream
 la panna acida
 
@@ -19609,7 +19600,7 @@ distinguere
 member
 l'appartenente
 
-belonging
+belonging (adjective)
 appartenente
 
 radical
@@ -20743,7 +20734,7 @@ l'attacco
 left (adjective); sinister
 sinistro
 
-case in point
+case in point (legal)
 la fattispecie
 
 metaphysics
@@ -20977,7 +20968,7 @@ la pretesa
 explicitly
 esplicitamente
 
-remarkably; noticeably; significantly; considerably; substantially
+notably; remarkably; noticeably; significantly; considerably; substantially
 notevolmente
 
 to consider oneself (stronger belief)
@@ -24439,7 +24430,7 @@ predetto
 Marxism
 il marxismo
 
-gathered; assembled
+riunited; gathered; assembled (meeting)
 riunito
 
 correlation
@@ -24529,7 +24520,7 @@ la metafora
 countless; innumerable
 innumerevole
 
-comfort
+comfort (ease, relaxation)
 il comfort
 
 fulfillment
@@ -32701,7 +32692,7 @@ nascondersi in pieno giorno
 broad daylight
 il pieno giorno
 
-to suck
+to suck (slowly, baby)
 ciucciare
 
 in the hand; in his hand
@@ -33961,7 +33952,7 @@ il nonnismo
 non-nullity
 la nonnullità
 
-nonconformist
+nonconformist (neutral)
 il nonconformista
 
 unnamed
@@ -37039,7 +37030,7 @@ il linguaggio di programmazione
 steroid
 lo steroide
 
-cognitive
+knowlegeable; familiar
 conoscitivo
 
 headwind; adverse wind
@@ -37148,7 +37139,7 @@ loose change
 gli spiccioli
 
 crumb
-la briciola
+la briciola; lo briciolo
 
 partition
 la spartizione
@@ -45160,9 +45151,6 @@ il retaggio
 to change tack
 virare di bordo
 
-abyss
-il baratro
-
 to hole up
 rintanarmi
 
@@ -49588,7 +49576,7 @@ l'assembramento
 torch
 la fiaccola
 
-renamed
+renamed; rebaptized; rebranded
 ribattezzato
 
 Peruvian
@@ -49712,7 +49700,7 @@ to suck; to drain; to suck back in
 risucchiare; drenare
 
 regardless of
-indipendentemente da
+indipendentemente da; a prescindere da
 
 I felt like I was in the United States
 sembrava che fossi negli Stati Uniti
@@ -50056,11 +50044,11 @@ la tenebra
 laboriously
 faticosamente
 
-nonconformist
+nonconformist (rebellious)
 l'anticonformista
 
 abyss
-l'abisso
+il baratro; l'abisso
 
 uprooting; eradication
 lo sradicamento; l'estirpazione
@@ -50128,8 +50116,11 @@ la boccata; il boccone
 cigarette
 la sigaretta
 
-smoking
-il tabagismo; fumare
+smoking; act of smoking
+il fumare
+
+smoking addiction
+il tabagismo
 
 smoker
 il fumatore; il tabagista
@@ -50329,7 +50320,7 @@ adesso come adesso
 to be fond of
 essere affezionati di
 
-hole
+hole (Veneto)
 il buso
 
 abdominal fat; stomach fat; tummy fat
@@ -50455,11 +50446,8 @@ meteorologico
 plethora
 la pletora
 
-Swiss
-svizzero; elvetico
-
-crumb
-il briciolo
+Swiss (formal)
+elvetico
 
 Francophone
 francofono
@@ -50605,7 +50593,7 @@ in particolare modo; in modo particulare
 to obtain a degree
 conseguire una laurea
 
-to crowd
+to crowd together
 accalcarsi
 
 thumbs up
@@ -50644,7 +50632,7 @@ intrigare
 to self-produce
 autoprodurre
 
-stove
+stove; heater
 la stufa
 
 succinct
@@ -50827,7 +50815,7 @@ distopico
 dystopia
 la distopia
 
-supernatural
+supernatural (formal)
 supernaturale
 
 macabre
@@ -50944,9 +50932,6 @@ comportamentale
 considerable
 considerevole
 
-considerably
-notevolmente; considerevolmente
-
 to take advantage; to benefit
 trarre vantaggio
 
@@ -50959,7 +50944,7 @@ la tecnocrazia
 psychoanalist
 lo psicanalista
 
-resignation
+resignation (acceptance)
 la rassegnazione
 
 suggestible
@@ -51001,7 +50986,7 @@ la vasca idromassaggio
 beating around the bush
 il giro di parole
 
-comfort
+comfort (solice)
 il conforto
 
 aggravating
@@ -51085,8 +51070,11 @@ esorbitante
 to fix the leak
 riparare la perdita
 
-can
-la lattina; la scatoletta
+can (cylindrical); tin
+la lattina
+
+can (small, box-shape)
+la scatoletta
 
 jar; can
 il barattolo
@@ -51199,7 +51187,7 @@ decostruire
 to harm; to affect
 prejudicare; danneggiare; influenzare
 
-precarious
+made precarious
 precarizzato
 
 hummingbird
@@ -51212,7 +51200,10 @@ nectar
 il nettare
 
 to suck
-succhiare; suggere
+succhiare
+
+to suck (formal)
+suggere
 
 nice to see you; well found
 ben trovato
@@ -51271,9 +51262,6 @@ il lutto ecologico
 environmental grief
 il lutto ambientale
 
-regardless of
-a prescindere da
-
 anxiety disorder
 il disturbo d'ansia
 
@@ -51327,9 +51315,6 @@ la percossa; il colpo
 
 Tunisian
 tunisino
-
-Ministry of the Interior
-il ministero dell'interno
 
 Tunis
 Tunisi
