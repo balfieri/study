@@ -3967,7 +3967,7 @@ incentivare
 consolidation
 il consolidamento
 
-concerned; loyal; supportive
+supportive; concerned; loyal
 solidale
 
 premise; prelude
@@ -34208,7 +34208,7 @@ rat
 il ratto
 
 sympathetic
-compassionevole; solidale
+compassionevole; simpatico
 
 to compare
 paragonare; confrontare
