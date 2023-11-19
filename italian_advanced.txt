@@ -2422,6 +2422,9 @@ il soffio
 worthy; worth; dignified
 degno
 
+deserving
+meritevole
+
 to sharpen; to whet
 aguzzare
 
@@ -60643,4 +60646,10 @@ sistemare
 
 to realign
 riallineare
+
+to agree with (someone)
+dare ragione a (qualcuno)
+
+to bloviate
+bloviare
 
