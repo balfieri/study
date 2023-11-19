@@ -19591,7 +19591,7 @@ la tempia
 liberation
 la liberazione
 
-properly; correctly
+properly
 propriamente
 
 to distinguish; to differentiate; to discern
@@ -50872,7 +50872,7 @@ terrorizzato
 to terrify; to terrorize
 terrorizzare
 
-act of overwhelming; act of overpowering
+act of overwhelming; act of overpowering; oppression
 la sopraffazione
 
 shock and awe
@@ -54673,7 +54673,7 @@ adagiato; reclinato
 to go on with explanations
 dilungarsi nelle spiegazioni
 
-weighed down; burdened
+weighed down; burdened; overwhelmed
 appesantito; sopraffatto
 
 anticipatory
@@ -60655,3 +60655,4 @@ il climax
 
 smash hit
 il grande successo; il grande hit
+
