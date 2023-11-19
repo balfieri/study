@@ -12937,7 +12937,7 @@ l'italianità
 humiliating; disheartening; degrading
 avvilente
 
-nth; umpteenth
+umpteenth; nth
 ennesimo
 
 I'll give you a break
@@ -60655,4 +60655,16 @@ il climax
 
 smash hit
 il grande successo; il grande hit
+
+it does not weigh on me; I don't mind
+non mi pesa
+
+brooding; rumination
+il rimuginio
+
+to juggle; to bounce; to dribble
+palleggiare
+
+for the umpteenth time
+per l'ennesima volta
 
