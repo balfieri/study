@@ -13354,7 +13354,7 @@ il soccorso
 slaughterhouse; butchery
 il mattatoio
 
-so (adv); such (adv)
+so (adv); such (adv) (so much that it leads to a desired result)
 talmente
 
 such (adjective)
@@ -24030,6 +24030,9 @@ l'imitazione
 
 proletariat
 il proletariato
+
+proletarian
+proletario
 
 concluded
 concluso
@@ -60649,3 +60652,6 @@ to silence; to hush
 
 climax (film, story)
 il climax
+
+smash hit
+il grande successo; il grande hit
