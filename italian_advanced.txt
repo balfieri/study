@@ -40948,9 +40948,6 @@ la merce
 situational awareness
 la consapevolezza situazionale
 
-spicco
-la prominence
-
 wedge; slice
 lo spicchio
 
@@ -60670,3 +60667,4 @@ non ha smesso di parlare da quando è arrivata
 
 she's very entertaining
 è molto divertente
+
