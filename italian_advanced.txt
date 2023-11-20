@@ -5710,10 +5710,13 @@ la concorrenza
 short-term
 a breve termine
 
-to overwhelm; to overpower
-travolgere; sopraffare
+to overwhelm (physical); to overrun; to overpower
+travolgere
 
-overwhelmed; overcome; crushed
+to overwhelm (mental, emotional)
+sopraffare
+
+overwhelmed; overcome; overrun; crushed
 travolto
 
 sect; cult
