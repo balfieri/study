@@ -3865,7 +3865,7 @@ undicesimo
 twentieth
 ventesimo
 
-hundreth
+hundreth; cent
 centesimo
 
 thousandth (adjective)
