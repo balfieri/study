@@ -2935,7 +2935,7 @@ l'impiego
 trend; tendancy
 la tendenza
 
-plot
+plot; storyline
 la trama
 
 theme
@@ -60710,3 +60710,5 @@ avere perfettamente senso
 nevermind!
 non importa!
 
+to spoil (storyline)
+spoilare
