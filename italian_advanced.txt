@@ -19,7 +19,7 @@ il telo mare
 knoll
 il poggio
 
-shenanigans
+chats; scames; fraudulent actions
 gli imbrogli
 
 storage room; utility room
@@ -1734,9 +1734,6 @@ sfruttare
 
 insane; crazy; mad
 pazzo; folle; impazzito; insano
-
-disagreement
-il discordo
 
 by default
 per impostazione predefinita; per default; automaticamente considerato
@@ -8930,7 +8927,10 @@ in case you were wondering
 nel caso te lo stessi chiedendo
 
 to roll one's eyes
-rollare gli occhi; stropicciare gli occhi
+fare gli occhi al cielo
+
+to rub one's eyes
+stropicciare gli occhi
 
 steamroller
 il rullo compressore
@@ -11500,9 +11500,6 @@ la scossa
 skirmish; squabble
 la scaramuccia
 
-faded
-sbiadato
-
 to protrude; to jut; to project
 sporgere
 
@@ -12571,7 +12568,7 @@ la mitraglia
 tambourine
 il tamburello
 
-goldfish
+little golden fish
 il pesciolino d'oro
 
 back; lump
@@ -33289,7 +33286,7 @@ la posterità; i posteri
 cost-reporting
 la rendicontazione
 
-to let out
+to make go out
 far uscire
 
 handrail
@@ -35746,7 +35743,7 @@ il galeotto
 in the prosecutor's office
 in procura
 
-charge (legal)
+specific charge; count (legal)
 il capo di imputazione
 
 not to mention
@@ -37573,9 +37570,6 @@ nello spirito; di animo
 to put the question to (somebody)
 porgere la domanda a (qualcuno)
 
-to take care of; to look after
-badire
-
 meta observation
 l'osservazione meta
 
@@ -37699,7 +37693,7 @@ l'aminoacido
 first servicing; first check
 il primo controllo; il primo servizio
 
-to retrace the steps
+to retrace one's steps
 tornare sui propri passi; ritracciare i propri passi
 
 to get intimate with a problem
@@ -38371,7 +38365,7 @@ in allegato
 roasting
 la tostatura; la torrefazione
 
-packaging
+package; container
 la confezione
 
 the moka pot
@@ -41521,8 +41515,11 @@ in compenso
 dark brown
 marrone scuro
 
-to rise again; to resurrect
-risorgere; resuscitare
+to rise again
+risorgere
+
+to resurrect; to bring back to life
+resuscitare
 
 ice bath
 il bagno di ghiaccio
@@ -49243,9 +49240,6 @@ i registri aziendali
 alleged affair
 la presunta relazione
 
-district attorney
-il procuratore distrettuale
-
 to overturn an election
 annullare un'elezione
 
@@ -51004,7 +50998,7 @@ l'attacco di panico
 small bottle
 la boccetta
 
-braggart
+braggart; show-off (southern Italy)
 lo sciaccone
 
 recovered; retrieved
@@ -51496,7 +51490,7 @@ il millimetro
 beam
 la trave
 
-packaging
+packaging; protective shipping materials
 l'imballaggio
 
 place suitable for recovery
@@ -51612,9 +51606,6 @@ far fare (qualcuno)
 
 lime scale
 calcinaccio
-
-so much
-talemente
 
 so very much
 talemente tanto
@@ -51823,7 +51814,7 @@ saggio oltre i propri anni
 I guess I am willing to (do something)
 immagino di essere disposto a (fare qualcosa)
 
-mixture
+mixture (less common)
 la miscetta
 
 I knew it was inevitable
@@ -51891,9 +51882,6 @@ l'archeologia
 
 sleep-inducing inducing sleep; making you feel sleepy
 inducente al sonno; che ti fa sentire sonnolento
-
-to roll one's eyes
-rotolare gli occhi
 
 you're getting worked up over nothing
 ti stai agitando per niente
@@ -51967,7 +51955,7 @@ il conto del crimine
 persuadable
 persuadibile
 
-disagreement
+disagreement; discord
 il disaccordo
 
 disagreeable; unpleasant
@@ -52111,9 +52099,6 @@ sopravvivere all'inconveniente
 risen; resurrected
 risorto
 
-to rise again; to resurrect
-risorgere
-
 embryonic
 embrionale
 
@@ -52149,9 +52134,6 @@ mettere in gioco con altre persone
 
 to put oneself out there with other people
 mettersi là fuori con altre persone
-
-out there
-là fuori
 
 to keep up; to stay up to speed
 stare al passo; mantenere il ritmo
@@ -52264,8 +52246,8 @@ concitato
 let's keep going
 continuiamo; andiamo avanti
 
-beyond
-aldilà di
+beyond (formal, literary)
+ladilà di
 
 protective action
 l'azione di tutela
@@ -52660,8 +52642,11 @@ invadere
 company meeting
 la riunione aziendale; l'assemblea dei soci
 
-shenanigans
-gli scherzi; il comportamento ingannevole o disonesto
+shenanigans; jokes; pranks
+gli scherzi
+
+deceptive behavior
+il comportamento ingannevole; il comportamento disonesto
 
 stochastic terrorism
 il terrorismo stocastico
@@ -52690,7 +52675,7 @@ l'arretrato; il lavoro arretrato
 hourglass
 la clessidra
 
-rope; cord
+thin cord; twine
 la sagola
 
 electrode
@@ -52744,7 +52729,7 @@ amareggiato
 deferential
 rispettoso; deferente
 
-braggart
+braggart; show-off (northern Italy)
 la bauscia
 
 to snatch
@@ -52778,7 +52763,7 @@ unfading
 immarcescibile
 
 faded
-sbiadito
+sbiadato; sbiadito
 
 tampered
 manomesso
@@ -52846,7 +52831,7 @@ in senso contrario
 perspiration; sweat
 la traspirazione
 
-lining
+interior covering; lining (general)
 il rivestimento interno
 
 removable; detachable
@@ -53251,7 +53236,7 @@ il prurito
 ho prurito
 I have an itch
 
-sweater
+small sweater; lightweight sweater
 il maglioncino
 
 to cover for somebody
@@ -53455,7 +53440,7 @@ brizzolato
 frizzy hair
 i capelli crespi
 
-refreshing
+refreshing; reviving; reinvigorating
 rinfrancante
 
 to sag
@@ -53836,7 +53821,7 @@ il cippo commemorativo
 gloomy; dark
 fosco
 
-slab
+upright stone; wooden slab; wooden pillar
 la stela
 
 to plan on (doing something)
@@ -53851,10 +53836,7 @@ sganciare
 to have every right to be angry with
 avere ogni diritto di essere arrabbiati con
 
-I give up
-Mi arrendo
-
-at the same time
+at the same time (formal, literary)
 al contempo
 
 make up your mind!
@@ -54051,9 +54033,6 @@ il sempreverde
 
 knowing you
 conoscendoti
-
-charge (legal)
-l'accusa; la carica legale
 
 car inspection
 l'ispezione dell'auto
