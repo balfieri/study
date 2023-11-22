@@ -49,9 +49,6 @@ accogliente; caloroso
 almond
 la mandorla
 
-trickster
-l'imbroglione
-
 to receive; to welcome; to accept
 accogliere
 
@@ -46444,9 +46441,6 @@ la clemenza
 to grant clemency
 concedere la clemenza
 
-swindler; cheater; con artist
-il truffatore; l'imbroglione
-
 veto
 il veto
 
@@ -60797,3 +60791,5 @@ ben informato; esperto; competente
 to settle old scores
 regolare vecchi conti
 
+trickster; swindler; cheater; con artist
+l'imbroglione; il truffatore
