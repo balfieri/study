@@ -60404,9 +60404,6 @@ all'inizio dell'ora
 he really knows his stuff
 lui conosce davvero le sue cose
 
-knowledgeable
-esperto; competente
-
 oxygen mask
 la maschera di ossigeno
 
@@ -60781,4 +60778,19 @@ risolvere tutta questa faccenda
 
 this whole thing (situation)
 questa faccenda
+
+my heart is just not into it
+il mio cuore non è proprio dentro
+
+to extinguish (somebody); to snuff out (somebody)
+spegnere (qualcuno)
+
+useless knowledge
+la conoscenza inutile
+
+obscure knowledge
+la conoscenza oscura
+
+knowledgeable
+ben informato; esperto; competente
 
