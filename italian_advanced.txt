@@ -60793,3 +60793,6 @@ regolare vecchi conti
 
 trickster; swindler; cheater; con artist
 l'imbroglione; il truffatore
+
+after-meal
+post-prandiale
