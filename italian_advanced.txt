@@ -35891,7 +35891,7 @@ double attic room
 la doppia mansardata
 
 without having anything to do with
-senza avere a che fare
+senza avere a che fare con
 
 wording
 la dicitura
@@ -52970,7 +52970,7 @@ the sun sets in the west
 il sole tramonta a ovest
 
 to have to do with; to deal with
-avere a che fare
+avere a che fare con
 
 it makes me think
 mi fa pensare
@@ -60796,3 +60796,10 @@ l'imbroglione; il truffatore
 
 after-meal
 post-prandiale
+
+pacifier
+il ciuccio
+
+stuff like that
+cose del genere; roba così
+
