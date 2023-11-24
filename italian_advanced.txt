@@ -4012,7 +4012,7 @@ l'implementazione
 to implement (a plan)
 implementare
 
-distribution; supply
+distribution; dispensing
 l'erogazione
 
 subsidy; financing
@@ -24586,7 +24586,7 @@ dominare
 cured; cared for
 curato
 
-face (formal, poetic); look
+face (formal, literary); look
 il volto
 
 to coincide
@@ -45002,7 +45002,7 @@ payment; disbursement
 la corresponsione
 
 connection (to supply line)
-allacciamento
+l'allacciamento
 
 connection to the electrical grid
 l'allacciamento alla rete elettrica
@@ -60817,3 +60817,75 @@ momentaneo
 
 to memorize
 memorizzare
+
+in every practical sense
+in ogni senso pratico
+
+the public face of
+il volto pubblico di
+
+to be on the same page
+essere sulla stessa pagina
+
+moth ball
+la palla di naftalina
+
+interrogated; questioned
+interpellato
+
+to express oneself; to explain oneself
+esplicitarsi
+
+economic deprivation
+la privazione economica
+
+gender role
+il ruolo di genere
+
+femicide
+il femminicidio
+
+demonstrator; protester
+il dimostratore; la dimostratrice
+
+softening
+l'ammorbidimento
+
+stab
+la coltellata
+
+harassing; nagging
+assillante
+
+to change course; to reverse course
+invertire la rotta
+
+it goes to her head
+le sale alla testa
+
+corporate
+societario
+
+anguishing; distressing
+angosciante
+
+hammering of news
+il martellamento di notizie
+
+to get one's sums wrong; to miscalculate
+sbagliare i propri conti
+
+to undergo; to submit to
+sottoporsi a
+
+to re-hook; to reconnect
+riagganciare
+
+to put into play; to field
+mettere in campo
+
+at odds with
+in disaccordo con; in contrasto con
+
+to take a position
+prendere una posizione

@@ -1246,9 +1246,6 @@ il faro
 hurricane
 l'uragano
 
-engaged; busy
-impegnato
-
 in cash
 in contanti
 
@@ -2215,8 +2212,11 @@ nuovo
 valid
 valido
 
-busy; occupied; employed
-occupato; impegnato
+busy; engaged (at moment); occupied
+occupato
+
+committed; busy (with lots of responsibilities)
+impegnato
 
 hot; warm
 caldo
