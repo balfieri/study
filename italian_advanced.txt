@@ -30764,7 +30764,7 @@ autocracy
 l'autocrazia
 
 to sue; to prosecute
-fare causa
+fare causa; citare in giudizio
 
 to bestow; to endow
 elargire
@@ -61048,4 +61048,28 @@ la graffetta
 
 to ascribe
 ascrivere
+
+in trim
+in assetto
+
+sinuous
+sinuoso
+
+to crash
+andare in crash
+
+to dance in defiance
+ballare a sfregio
+
+to fail part of a test
+fallire una parte del test
+
+I don't expect to pass the test
+non mi aspetto di passare il test
+
+to drag the increases
+trascinare i rialzi
+
+to rival, to compete
+rivaleggiare
 
