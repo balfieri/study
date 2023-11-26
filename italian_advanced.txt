@@ -60928,3 +60928,6 @@ sacrale
 
 to come to this; to be reduced to this
 essersi ridotti
+
+to be too easy
+essere fin troppo facili
