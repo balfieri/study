@@ -4417,8 +4417,11 @@ da qua a là
 for each
 per ciascuno
 
-zealous; fervent
-zelante; fervente
+zealous
+zelante
+
+fervent
+fervente
 
 zeal
 lo zelo
@@ -7852,7 +7855,10 @@ non è da poco; non è una cosa da poco
 funny; unusual; abnormal
 inconsueto
 
-lexicon
+vocabulary (words)
+il vocabolario
+
+lexicon (words, expressions)
 il lessico
 
 pink quotas (female representation)
@@ -56678,7 +56684,7 @@ masticare il ghiaccio
 ice chewing
 il masticare il ghiaccio
 
-to scrunch one's nose; to curl one's nose
+to scrunch one's nose; to curl one's nose (usually in disapproval)
 arricciare il naso
 
 to wriggle one's nose
@@ -60931,3 +60937,25 @@ essersi ridotti
 
 to be too easy
 essere fin troppo facili
+
+bottled; bottled up
+imbottigliato
+
+dazed; bewildered
+imbambolato
+
+estranged; alienated
+estraniato
+
+to have an ace up one's sleeve
+avere l'asso nella manica
+
+to have a fixation on; to be obsessed with
+avere il pallino di
+
+to bear a grudge about
+avere il dente avvelenato di
+
+thick; dense (forest)
+fitto
+
