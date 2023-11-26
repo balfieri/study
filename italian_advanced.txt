@@ -5149,7 +5149,7 @@ mestruale
 cycle; period (menstrual)
 il ciclo
 
-inherently
+inherently; intrinsically
 intrinsicamente
 
 holistic
@@ -23887,8 +23887,11 @@ residuo
 frontier
 la frontiera
 
-leader
+leader (general)
 il leader
+
+leader; front-runner (at the forefront of something)
+il capofila
 
 admission
 l'ammissione
@@ -61018,4 +61021,31 @@ stempiato
 
 talkative; verbose
 logorroico
+
+intrinsic; inherent
+intrinsico
+
+utopian
+utopista
+
+ethicist
+l'eticista
+
+demon; devil
+il demonio
+
+existential risk
+il rischio esistenziale
+
+science-fiction (adjective)
+fantascientifico
+
+to contextualize
+contestualizzare
+
+paperclip
+la graffetta
+
+to ascribe
+ascrivere
 
