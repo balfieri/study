@@ -61084,3 +61084,6 @@ il porco
 
 to accidentally reveal a secret
 rivelare un segreto per sbaglio
+
+to claim to be
+sostenere di essere
