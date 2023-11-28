@@ -61169,3 +61169,6 @@ il cremino
 lectern; music stand
 il leggio
 
+threatening
+minaccioso
+
