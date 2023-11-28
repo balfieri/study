@@ -31618,7 +31618,7 @@ il materassino
 mat (foot wiping)
 la stuoia
 
-submissive
+submissive; subdued
 sottomesso
 
 to submit; to subject; to subdue
@@ -61180,3 +61180,16 @@ il pixel
 
 to propose again; to reintroduce
 riproporre
+
+external drive
+il disk esterno
+
+internal drive
+il disk interno
+
+fake
+fasullo
+
+louse
+il pidocchio
+
