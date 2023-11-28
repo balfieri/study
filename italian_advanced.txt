@@ -61193,3 +61193,5 @@ fasullo
 louse
 il pidocchio
 
+to barely pass a test
+appena superare un test; appena passare un test
