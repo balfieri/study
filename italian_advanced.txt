@@ -6538,7 +6538,7 @@ il cammino
 hand gesture
 il gesto della mano
 
-by mistake
+by mistake; accidentally
 per sbaglio
 
 to unfreeze
@@ -61210,4 +61210,7 @@ la trepidazione
 
 good deed
 la buona azione
+
+how did we end up like this?
+come ci siamo ridotti?; come siamo finiti così?
 
