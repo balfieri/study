@@ -60911,6 +60911,9 @@ lei si incolpa
 in vitro fertilization
 la fecondazione in vitro
 
+artificial insemination
+la fecondazione artificiale
+
 test tube baby
 il bambino provetta
 
@@ -61074,10 +61077,10 @@ to rival, to compete
 rivaleggiare
 
 identical twin
-il gemello identico
+il gemello identico; il gemello omozigote
 
 fraternal twin
-il gemello fraterno
+il gemello fraterno; il gemello eterozigote
 
 pig (colloquial)
 il porco
