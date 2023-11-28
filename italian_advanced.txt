@@ -38512,7 +38512,7 @@ richiudersi
 tub; vat
 la tinozza
 
-eagerness; restlessness; desire; craving
+eagerness; restlessness; impatience; desire; craving
 la smania
 
 tick; mint
@@ -61165,3 +61165,7 @@ il cioccolato al gianduia
 
 3-layer Piemontese chocolate treat
 il cremino
+
+lectern; music stand
+il leggio
+
