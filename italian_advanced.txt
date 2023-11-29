@@ -61262,3 +61262,6 @@ something urgent has come up
 I have to deal with something urgent
 devo occuparmi di qualcosa di urgente
 
+nothing serious
+nulla di grave
+
