@@ -5213,7 +5213,7 @@ slavery
 la schiavitù; lo schiavismo
 
 intersection; junction; cross; crossing
-l'incrocio
+l'incrocio; l'intersezione
 
 airport (adjective)
 aeroportuale
@@ -5758,8 +5758,11 @@ la cambusa
 rear end
 il deretano; il sedere
 
-charity
-la carità; la beneficenza
+charity (act of generosity or kindness)
+la carità
+
+charity (donation)
+la beneficenza
 
 instinctive
 istitivo
@@ -9671,7 +9674,7 @@ adapter
 l'adattatore
 
 room to spare
-spazio libero
+lo spazio libero
 
 to detect; to find
 riscontrare
@@ -37819,9 +37822,6 @@ la tutela dei dati personali
 Martian
 il marchiano
 
-for charity
-per benificienza
-
 for the purpose of
 l'uso per finalità di
 
@@ -42868,7 +42868,7 @@ pandemico
 noose; halter
 il cappio; il capestro
 
-the legacy
+part of inheritance given to a particular person
 il lascito
 
 meteorite
@@ -46333,8 +46333,11 @@ aspetterò di programmare una lezione; aspetterò di fissare una lezione
 stunningly beautiful; breathtakingly beautiful
 di una bellezza mozzafiato
 
-to leave a legacy
+to leave a legacy; to leave an inheritance
 lasciare un'eredità
+
+to leave a legacy (figurative, cultural)
+lasciare un retaggio
 
 tempting
 tentante
@@ -61216,4 +61219,46 @@ come ci siamo ridotti?; come siamo finiti così?
 
 for future reference
 per riferimento futuro
+
+to start off on the wrong foot
+partire con il piede sbagliato
+
+to bob (up and down)
+oscillare (su e giù)
+
+essere preso
+to be taken
+
+to give to charity
+dare in beneficenza
+
+favorite charity
+la beneficenza preferita
+
+to spike
+spigare
+
+digitalization
+la digitalizzazione
+
+to increase (formal)
+incrementare
+
+strategic ally
+l'alleato strategico
+
+unstructured
+destrutturato
+
+empennage
+l'impennaggio
+
+it just came up
+è appena sorto
+
+something urgent has come up
+è sorto qualcosa di urgente
+
+I have to deal with something urgent
+devo occuparmi di qualcosa di urgente
 
