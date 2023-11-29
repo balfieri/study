@@ -34054,7 +34054,7 @@ la sovrappopolazione
 overlap; superimposition
 la sovrapposizione
 
-overload
+overload; overhead
 il sovraccarico
 
 sovereign (noun)
@@ -61270,3 +61270,4 @@ il matrimonio da fiaba
 
 binge
 l'abbuffata
+
