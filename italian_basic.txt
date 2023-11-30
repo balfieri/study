@@ -2590,11 +2590,14 @@ imparare
 to learn (become more aware, formal)
 apprendere
 
-to visit; to sightsee
+to visit (usually a place); to sightsee
 visitare
 
-to visit (someone)
-fare visita a
+to visit (someone, informal)
+andare a trovare (qualcuno)
+
+to visit (someone, more formal)
+fare visita a (qualcuno)
 
 to remember (something); to remind (someone)
 ricordare (qualcosa/qualcuno)
