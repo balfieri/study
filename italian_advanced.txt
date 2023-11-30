@@ -61282,3 +61282,6 @@ l'esibizionista
 
 false teeth; dentures
 i denti falsi; il dentiere
+
+overhead (costs)
+le spese generali
