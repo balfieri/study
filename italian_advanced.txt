@@ -14296,7 +14296,7 @@ il fosso; il fossato
 Venus
 Venere
 
-spliter; sliver; chip; fragment
+chip; splinter; sliver; fragment
 la scheggia
 
 to chip; to splinter
@@ -15457,7 +15457,7 @@ pacato
 malicious
 malizioso
 
-taciturn
+taciturn; of few words; speaking little
 taciturno
 
 frail; puny
@@ -61354,3 +61354,28 @@ il fuoco incrociato
 
 to carve out for oneself; to cut out for oneself
 ritagliarsi
+
+illegal construction
+la costruzione abusiva
+
+luxury (adjective)
+di lusso
+
+vial
+la fiala
+
+to criss-cross
+incrociare; attraversare in diagonale
+
+virtue signaling
+la segnalazione di virtù
+
+reviled
+vilipeso; detestato
+
+revered
+riverito; venerato
+
+acting school
+la scuola di recitazione
+

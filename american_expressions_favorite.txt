@@ -3431,3 +3431,7 @@ parlare degli uccelli e delle api; parlare del sesso
 
 to go off-script
 andare fuori script per un secondo; deviare dal copione per un momento
+
+empty-nester
+il genitore con nido vuoto; il genitore il cui figli sono andati via di casa
+
