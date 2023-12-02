@@ -61417,3 +61417,10 @@ svolgere un esame
 
 to take a test; to undergo a test (formal, successful completion)
 sostenere un esame
+
+cartridge
+la cartuccia
+
+ink cartridge
+la cartuccia d'inchiostro
+
