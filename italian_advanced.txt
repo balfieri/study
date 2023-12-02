@@ -3922,7 +3922,7 @@ la fisarmonica
 to succeed; to follow
 susseguire
 
-register; registry
+register; registry; bar (legal)
 l'albo
 
 to label; to pigeon hole; to tag
@@ -29731,7 +29731,7 @@ pittorico
 resolute
 risoluto
 
-to generate
+to generate; to breed (cause)
 generare
 
 misfortune; mishap
@@ -61385,3 +61385,26 @@ l'estromissione
 heuristic
 euristico
 
+there are (formal)
+vi sono
+
+I took the exam and passed
+ho svolto l'esame e sono passato; ho fatto l'esame e sono passato
+
+to take an exam
+sostenere un esame; fare un esame
+
+drained
+dissanguato
+
+bar exam (legal)
+l'esame di iscrizione all'albo
+
+vilification
+il vilipendio
+
+takings
+gli incassi
+
+complacency
+il compiacimento; la compiacenza

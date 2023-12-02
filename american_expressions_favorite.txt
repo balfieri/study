@@ -3435,3 +3435,5 @@ andare fuori script per un secondo; deviare dal copione per un momento
 empty-nester
 il genitore con nido vuoto; il genitore il cui figli sono andati via di casa
 
+only the paranoid survive
+solo i paranoici sopravvivono
