@@ -286,7 +286,7 @@ ruotare; rotare
 seafood
 i frutti di mare
 
-to notify; to inform; to warn
+to alert; to notify; to inform; to warn
 avvisare; informare; notificare
 
 to warn; to caution; to alert
