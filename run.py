@@ -63,8 +63,8 @@ have_categories_s = 0
 speak = False
 question_voice = 'Samantha'
 answer_voice = 'Alice'
-question_rate  = 180
-answer_rate  = 160
+question_rate  = 220
+answer_rate  = 180
 i = 2
 while i < len( sys.argv ):
     arg = sys.argv[i]
