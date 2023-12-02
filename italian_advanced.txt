@@ -4982,7 +4982,7 @@ nice try
 bel tentativo
 
 deeply flawed
-profondamente imperfetta
+profondamente imperfetto
 
 expectation
 l'aspettativa
@@ -56355,7 +56355,7 @@ to take a day off
 prendere un giorno di riposo
 
 annual flight review
-revisione annuale del volo
+la revisione annuale del volo
 
 audit
 la verifica; la revisione contabile
@@ -61378,4 +61378,10 @@ riverito; venerato
 
 acting school
 la scuola di recitazione
+
+expulsion; eviction
+l'estromissione
+
+heuristic
+euristico
 
