@@ -11995,6 +11995,9 @@ l'ampio campo visivo
 feedback
 il feedback; il riscontro; la retroazione
 
+feedback; response
+il riscontro
+
 tactile
 tattile
 
@@ -44467,7 +44470,7 @@ sbocconcellare
 sheepdog
 il tosone
 
-to suffer
+to suffer; to endure
 patire
 
 bustle; hustle and bustle
@@ -61462,3 +61465,67 @@ il senno di poi è sempre 20/20
 
 to throw a tantrum; to throw a fit
 fare le bizze
+
+il bucket
+secchiello
+
+sea lily
+giglio di mare
+
+amphibian
+l'anfibio
+
+dragonfly
+la libellula
+
+moorland wintergreen
+l'invernina delle brughiere
+
+extravagant
+estroso
+
+amateur
+amatoriale
+
+racetrack
+l'ippodromo
+
+back pass (soccar)
+il retropassaggio
+
+red and black bench
+la panchina rossonera
+
+silhouette
+la sagoma
+
+despite (something)
+sul malgrado di (qualcosa)
+
+street or walkway that passes under another street or train track
+il presopasso
+
+conventional wisdom
+la saggezza convenzionale
+
+borrowed
+mutuato
+
+to increase (financial, legal)
+maggiorare
+
+complaint letter
+la lettera di reclamo
+
+entro 24 ore
+within 24 hours
+
+to change one's life
+cambiarsi la vita
+
+slope of the curve
+la pendenza della curva
+
+he went on to say that
+ha continuato a dire che
+
