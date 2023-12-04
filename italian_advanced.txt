@@ -43543,7 +43543,7 @@ le tagliatelle
 gold rush
 la corsa all'oro
 
-to scale (climb)
+to scale (climbing, algorithm)
 scalare
 
 to entrust to
@@ -61703,4 +61703,14 @@ il posto decente
 another opportunity to practice Italian
 un'altra opportunità per fare pratica con l'italiano
 
+token
+il token
 
+squared (value)
+al quadrato
+
+N squared
+N al quadrato
+
+scaling (climbing, algorithm)
+la scalatura
