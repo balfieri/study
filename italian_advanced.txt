@@ -22816,7 +22816,7 @@ la produttività
 financing
 il finanziamento
 
-to interpret
+to interpret; to play (role)
 interpretare
 
 overtime (work)
@@ -61690,3 +61690,7 @@ il ciclo di vita totale
 
 to make mistakes like a professional
 sbagliare da professionisti
+
+to hang out at a cafe
+stare in un caffè
+
