@@ -61714,3 +61714,7 @@ N al quadrato
 
 scaling (climbing, algorithm)
 la scalatura
+
+gobsmacked
+stupito; sbalordito
+
