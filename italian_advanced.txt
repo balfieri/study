@@ -52507,7 +52507,7 @@ la stroncatura; il taglio; il troncamento
 to cut off; to truncate
 stroncare; tagliare; troncare
 
-crosshair; sight
+crosshair; sight; viewfinder
 il mirino
 
 nursed; taken care of
@@ -54784,7 +54784,7 @@ l'assicurazione RC (responsabilità civile)
 civil liability
 la responsabilità civile
 
-endless; infinite
+endless; infinite; exterminated
 sterminato
 
 sense of smell
@@ -61528,4 +61528,97 @@ la pendenza della curva
 
 he went on to say that
 ha continuato a dire che
+
+to study very hard; to study very intensely
+studiare molto intensamente
+
+to press; to dial
+pigiare
+
+to dress up; to clothe
+abbigliare
+
+bet
+lo scommesso
+
+grumble; mutter
+il mugugno
+
+for everyone; for all
+per tutti quanti
+
+inflationary
+inflazionistico
+
+high-voltage
+ad alta tensione
+
+high-voltage power grid
+la rete di alimentazione ad alta tensione
+
+devolved; bequeathed
+devoluto
+
+scholarship holder; grant holder
+il borsista; la borista
+
+school class; schoolchildren
+la scolaresca
+
+bent; leaning
+chino
+
+am I allowed to write down notes?
+posso prendere appunti scritti?
+
+amortization; depreciation
+l'ammortimento
+
+zero step; first step
+il passo zero
+
+tax cut
+il taglio fiscale
+
+torture
+la tortura
+
+I'm ready to be tortured
+sono pronto a essere torturato
+
+parkway
+la via alberata
+
+tree-lined
+alberato
+
+to have second thoughts
+avere dei ripensamenti
+
+data analysis
+l'analisi dei dati
+
+data analytics
+l'analitica dei dati
+
+resourceful
+ingegnoso; pieno di risorse
+
+time and again; time and time again
+di tanto in tanto; continuamente
+
+native; indigenous
+autoctone
+
+land grabbing
+l'accaparramento di terre
+
+dispute; litigation
+il contenzioso
+
+Malagasy; of Madagascar
+malgascio
+
+exoplanet
+l'esopianeta
 

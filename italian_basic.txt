@@ -5170,7 +5170,7 @@ gli uomini
 value; worth; merit
 il valore
 
-across; through (physical, temporal)
+across; through (physical, temporal, metaphorical)
 attraverso
 
 order
@@ -5314,7 +5314,7 @@ il termine
 series
 la serie
 
-through (means); via
+via; by means of; through (means)
 tramite
 
 sacred
