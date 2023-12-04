@@ -61718,3 +61718,5 @@ la scalatura
 gobsmacked
 stupito; sbalordito
 
+quadratically
+quadraticamente
