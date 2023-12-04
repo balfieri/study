@@ -61720,3 +61720,7 @@ stupito; sbalordito
 
 quadratically
 quadraticamente
+
+exponential
+esponenziale
+
