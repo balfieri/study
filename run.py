@@ -94,6 +94,12 @@ while i < len( sys.argv ):
     elif arg == '-s':
         speak = int(sys.argv[i])
         i += 1
+    elif arg == '-qv':
+        question_voice = sys.argv[i]
+        i += 1
+    elif arg == '-qr':
+        question_rate = int(sys.argv[i])
+        i += 1
     elif arg == '-av':
         answer_voice = sys.argv[i]
         i += 1
