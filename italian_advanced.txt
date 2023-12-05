@@ -15469,7 +15469,7 @@ gracile
 big desk; teacher's desk; professorship; chair (professor)
 la cattedra
 
-subtlety
+subtlety; subtleness
 la sottigliezza
 
 if the situation arises
@@ -61739,3 +61739,29 @@ i proventi
 esteemed; respectable (formal)
 spettabile; spett.
 
+a minute too long
+un minuto troppo lungo
+
+collapse
+il collasso
+
+uncertainty principle
+il principio dell'incertezza
+
+it has been a long day
+è stata una lunga giornata
+
+it could go either way
+potrebbe andare in entrambi i modi
+
+practice test
+il test di pratica
+
+tricky question
+la domanda difficile; la domanda insidiosa
+
+I failed part of the test
+ho fallito parte del test
+
+it's very likely that
+è molto probabile che
