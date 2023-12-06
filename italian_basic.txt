@@ -2929,7 +2929,7 @@ vestire
 to allow to (do something); to permit to (do something); to consent to (do something)
 consentire di (fare qualcosa)
 
-to execute; to perform
+to execute; to perform (instructions)
 eseguire
 
 to lie

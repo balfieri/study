@@ -526,7 +526,7 @@ ossia
 classified ad
 l'inserzione
 
-to carry out; to perform; to fulfill; to accomplish
+to carry out; to perform; to fulfill; to accomplish; to play (role)
 svolgere
 
 to pack; to wrap; to package
@@ -2518,7 +2518,7 @@ fungere
 to serve as; to function as; to act as
 fungere da
 
-to make; to execute; to accomplish; to place
+to carry out; to perform; to make; to accomplish (formal)
 effettuare
 
 to enable; to qualify
