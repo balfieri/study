@@ -18328,7 +18328,7 @@ il criterio
 opposition
 l'opposizione
 
-grace; pardon
+grace; pardon; graciousness
 la grazia
 
 correspondence
@@ -27010,7 +27010,7 @@ grandemente
 limb; member (body)
 la membra
 
-courtesy
+courtesy; graciousness
 la cortesia
 
 articulated
@@ -61855,3 +61855,4 @@ that's a definite possibility
 
 definitely possibly; certainly possible
 sicuramente possibile; decisamente possibile
+
