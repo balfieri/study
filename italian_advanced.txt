@@ -24058,7 +24058,7 @@ l'eliminazione
 examined
 esaminato
 
-terror
+terror; fright
 il terrore
 
 class; rank
@@ -42961,7 +42961,7 @@ il consulente di gelato
 self-proclaimed
 autoproclamato
 
-fright
+scare; fright
 lo spavento; la paura
 
 I've been doing this for over a year
