@@ -61877,3 +61877,8 @@ la videoconferenza
 to phone-screen (somebody)
 fare un colloquio telefonico (con qualcuno)
 
+to do number one (pee)
+fare numero uno
+
+to do number two (deficate)
+fare numero due
