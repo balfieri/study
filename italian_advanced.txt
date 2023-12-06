@@ -3580,7 +3580,7 @@ sfuggire
 to season
 condire
 
-to distribute; to hand out; to pass out (water, etc.); to give out
+to distribute; to hand out; to pass out (water, etc.); to give out; to deal (hand of cards)
 distribuire
 
 to weaken
@@ -16697,7 +16697,7 @@ plywood
 il legno compensato
 
 presumably; supposedly
-presumibilmente
+presumibilmente; suppostamente
 
 he's in his own world
 è nel suo mondo
@@ -34600,7 +34600,7 @@ il latte vapore
 seam
 la cucitura
 
-jack
+jack (car)
 il cric
 
 wrench
@@ -61765,3 +61765,70 @@ ho fallito parte del test
 
 it's very likely that
 è molto probabile che
+
+real person
+la persona reale
+
+character in the show
+il personaggio nello show
+
+then I'll go from there
+poi partirò da lì
+
+to stress about (something)
+stressarsi per (qualcosa)
+
+litmus test
+il test del litmus
+
+the goal is to have the least number of points at the end of the game
+l'obiettivo è avere il minor numero di punti alla fine del gioco
+
+my fingers are crossed
+le mie dita sono incrociate
+
+I'm crossing my fingers
+sto incrociando le dita
+
+incrocio le dita
+I cross my fingers; I'm keeping my fingers crossed
+
+fingers crossed
+dita incrociate
+
+don't correct me until the end
+non correggermi fino alla fine
+
+the results will be posted
+i risultati saranno pubblicati
+
+hand of cards
+la mano di carte
+
+drupa
+la drupa
+
+I wish I had studied it more a long time ago
+vorrei averlo studiato di più molto tempo fa
+
+hearts (card game)
+i cuori (gioco di carte)
+
+diamonds (card game)
+i quadri (gioco di carte)
+
+clubs (card game)
+i fiori (gioco di carte)
+
+spades (card game)
+le picche (gioco di carte)
+
+jack (card game)
+il fante (gioco di carte)
+
+sheet of paper
+il foglio di carta
+
+in short,
+in breve,
+

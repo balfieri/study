@@ -223,7 +223,7 @@ la voce; il pettegolezzo
 eyes
 gli occhi
 
-hand
+hand; hand (card game)
 la mano
 
 hands
