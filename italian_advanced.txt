@@ -61995,11 +61995,17 @@ reverse thrust
 la spinta inversa
 
 laundry chute
-la botola per la biancheria
+il condotto della biancheria; la botola per la biancheria
 
 chute
 lo scivolo; la caduta
 
 hatch; trapdoor
 la botola
+
+to climb up and down (something)
+arrampicare su e giù per (qualcosa)
+
+to climb (sports)
+climbare
 
