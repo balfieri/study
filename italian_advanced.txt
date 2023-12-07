@@ -2107,7 +2107,7 @@ la conferenza; la lettura
 to give a lecture
 tenere una conferenza
 
-property
+property; ownership
 la proprietà
 
 related (family)
