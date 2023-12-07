@@ -61975,3 +61975,7 @@ opzionale
 
 attendance
 la presenza; la frequenza
+
+she didn't care at all
+non le importava affatto
+
