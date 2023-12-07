@@ -6439,7 +6439,7 @@ il sollievo
 string; rope; twine
 la cordicella
 
-quota; fee; altitude
+quota; share; fee; altitude
 la quota
 
 exchange; reciprocality
@@ -62011,4 +62011,7 @@ climbare
 
 I can talk about that in my sleep
 posso parlarne nel mio sonno
+
+to be in one's prime
+essere nel proprio periodo migliore; essere al massimo della forma
 
