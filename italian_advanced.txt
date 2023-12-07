@@ -20092,7 +20092,7 @@ immediato
 appointed
 nominato
 
-to appear (out of nowhere)
+to appear (out of nowhere, literary)
 apparire
 
 mixer (kitchen)
@@ -24934,8 +24934,11 @@ la mala
 booklet; libretto
 il libretto
 
-appeared; showed up
-comparso; apparso
+appeared; showed up (person, thing)
+comparso
+
+appeared (supernatural); become visible; become clear (literary)
+apparso
 
 similarity (physical)
 la somiglianza
@@ -26917,7 +26920,7 @@ casuale
 casual
 informale
 
-to appear; to emerge
+to appear; to show up; to emerge (person, thing)
 comparire
 
 narrator; storyteller
@@ -61882,3 +61885,15 @@ fare numero uno
 
 to do number two (deficate)
 fare numero due
+
+cumulative
+cumulabile
+
+stackable
+impilabile
+
+to meet the requirements
+soddisfare i requisiti; maturare i requisiti
+
+indicated above
+sopra indicato
