@@ -4048,7 +4048,7 @@ il golfo
 to be born
 nascere
 
-to repair; to mend; to fix
+to repair; to mend; to fix (something broken, often completely broken)
 riparare
 
 to buy
@@ -4582,7 +4582,7 @@ ballare
 to draw; to design
 disegnare
 
-to fix; to repair
+to fix (something not completely broken); to make minor adjustments; to make minor tweaks
 aggiustare
 
 to do harm
