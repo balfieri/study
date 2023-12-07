@@ -1924,7 +1924,7 @@ eventuale
 binding
 interogabile
 
-optional; elective
+optional; elective (course, subject, attendance, etc.)
 facoltativo
 
 quota; allotment
@@ -61969,3 +61969,9 @@ le grandi notizie di questa settimana
 
 table reading; table read (acting)
 la lettura a tavolino
+
+optional (thing)
+opzionale
+
+attendance
+la presenza; la frequenza
