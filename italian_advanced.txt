@@ -62071,3 +62071,7 @@ sovravvalutare
 
 successfully
 con successo
+
+gestalt
+il gestalt
+
