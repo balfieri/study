@@ -17656,7 +17656,7 @@ tenere il becco chiuso
 mystery novel
 il libro giallo
 
-know-it-all
+well-informed person; know-it-all
 il saputo
 
 it's not even close!
@@ -26542,7 +26542,7 @@ il combattente
 witchcraft
 la stregua; la stregoneria
 
-in fact; as a matter of fact; indeed
+in fact; as a matter of fact; indeed (formal)
 difatti
 
 indigenous
@@ -62023,4 +62023,46 @@ trasformarsi in, mutare in
 
 illogical
 illogico
+
+further along the learning curve
+più avanti nella curva di apprendimento
+
+to make oneself respected; to command respect
+farsi rispettare
+
+delirious
+delirante
+
+easy as that
+facile come quello
+
+impostor syndrome
+la sindrome dell'impostore
+
+it must be done
+va fatto
+
+in-depth training
+la formazione approfondita
+
+borderline personality disorder
+il disturbo borderline
+
+not too shabby
+non troppo malvagio
+
+undiminished
+invariato; non diminuito
+
+psychotic
+psicotico
+
+cheerleader
+la cheerleader
+
+a look in the eyes
+uno sguardo negli occhi
+
+cult member
+il membro di un culto
 
