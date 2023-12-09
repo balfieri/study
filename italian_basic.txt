@@ -2911,7 +2911,7 @@ nutrire
 to open
 aprire
 
-to leave (go); to depart
+to leave (go); to depart; to start off
 partire
 
 to go away; to leave; to walk away
@@ -7391,7 +7391,7 @@ gone up
 salito
 
 to wonder; to ask oneself
-chiedersi
+chiedersi; domandarsi
 
 forbidden; prohibited
 vietato

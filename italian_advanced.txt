@@ -914,7 +914,7 @@ pill
 la pillola
 
 to sweep
-spazzare; scopare (ma può essere volgare)
+spazzare; scopare (ma solitamente usata nel contesto volgare)
 
 recovery; resurgence
 il riscolamento
@@ -3226,9 +3226,6 @@ il pendolare
 commuter train
 il treno dei pendolari
 
-moreover; furthermore
-peraltro
-
 chip; turning
 il truciolo
 
@@ -4263,9 +4260,6 @@ fai con calma; fai con comodo; con comodo
 
 the fact remains that
 ciò non toglie che
-
-furthermore; moreover
-inoltre
 
 in the first place; as a first step
 per prima cosa; in primo luogo; come primo passo
@@ -23639,7 +23633,7 @@ federation
 la federazione
 
 revenge; vendetta; vengeance
-la vendetta
+la vendetta; la vendicazione
 
 to research
 ricercare
@@ -43831,8 +43825,8 @@ certo che sì; sicuramente sì
 if I were to run for president, I'd run on a platform of
 se dovessi candidarmi alla presidenza, mi candiderei su una piattaforma di
 
-bread crumbs
-il pangrattato
+breadcrumbs
+le briciole; il pangrattato
 
 freshly grated
 grattugiato fresco
@@ -62074,4 +62068,58 @@ con successo
 
 gestalt
 il gestalt
+
+to bring up something embarrassing
+portare alla luce qualcosa di imbarazzante
+
+nepotism; favoritism
+il parentopoli
+
+in a nosedive
+in picchiata
+
+we have none of them
+non ne abbiamo nessuno
+
+to waste; to squander
+sbarlofare
+
+crazy horse
+il cavallo pazzo
+
+fan base
+il base di fan; il fan base
+
+multi-sided; multilateral
+multilato
+
+furthermore; moreover
+inoltre; per di più; peraltro
+
+Gdansk
+Danzica
+
+annexation
+l'annessione
+
+no one bats an eye
+nessuno batte ciglio
+
+to get off on the right foot; to start off on the right foot
+partire con il piede giusto; iniziare con il piede giusto
+
+if ever
+se mai; semmai
+
+seasonal affective disorder
+il disturbo affettivo stagionale
+
+to set (as in sun); to decline
+tramontare
+
+dreary; gloomy
+uggioso
+
+to make up for
+sopperire a
 
