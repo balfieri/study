@@ -3256,8 +3256,11 @@ il dirottamento
 to draw upon; to draw from
 attingere a; attingere da
 
-skill; ability; competence
-l'abilità; la capacità; la competenza
+skill; ability; competence (acquired through experience)
+l'abilità
+
+capacity; ability; competence (aptitude, potential)
+la capacità
 
 engineering skills
 le abilità ingegneristiche; le capacità ingegneristiche
@@ -62194,3 +62197,9 @@ non di fatturato
 
 spectacular; sensational
 clamoroso
+
+it's a function of
+è una funzione di
+
+my brain's ability
+la capacità del mio cervello
