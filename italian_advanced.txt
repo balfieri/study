@@ -20245,7 +20245,7 @@ non che ci sia niente di male
 meat grinder
 il tritacarne
 
-turnover; revenue
+revenue; turnover
 il fatturato
 
 scalded; scorched
@@ -62189,3 +62189,5 @@ siderale
 community (adjective); communal
 comunitario
 
+non-revenue
+non di fatturato
