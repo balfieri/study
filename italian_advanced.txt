@@ -62393,3 +62393,5 @@ sincero; onesto; diretto
 micro nap
 il microsonnellino
 
+sound (quality, film)
+il sonoro
