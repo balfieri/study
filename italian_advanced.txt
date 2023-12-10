@@ -23473,7 +23473,7 @@ Iddio
 survival
 la sopravvivenza
 
-spontaneous
+spontaneous; candid (photo)
 spontaneo
 
 purchased; acquired
@@ -62380,3 +62380,9 @@ l'educazione dei bambini
 
 no (something)
 niente (qualcosa)
+
+candid photo
+la foto spontanea
+
+candid
+sincero; onesto; diretto
