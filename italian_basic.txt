@@ -4603,8 +4603,11 @@ avere successo
 to swim
 nuotare
 
-to write on the computer; to type on the computer
-scrivere al computer
+to write on the computer
+scrivere al computer; scrivere sul computer
+
+to type on the computer
+digitare sul computer
 
 miserable
 miserabile; misero
@@ -4620,9 +4623,6 @@ irritante
 
 tied (physically usually); related
 legato
-
-to attract
-attrarre; attarire
 
 United Kingdom
 il Regno Unito
@@ -5611,10 +5611,13 @@ il colle
 mix
 il misto
 
-mixed
-misto; mescolato
+mixed; blended; combined (different things)
+misto
 
-to mix (general); to blend; to shuffle
+stirred; blended
+mescolato
+
+to mix (general); to stir; to blend; to shuffle
 mescolare
 
 newspaper
@@ -5683,8 +5686,14 @@ lo spreco
 unpleasant; disagreeable; nasty
 sgradevole; spiacievole
 
-middle; half
-la metà; il mezzo
+half (noun)
+la metà
+
+half (adjective)
+mezzo
+
+means; medium (noun0
+il mezzo
 
 pleasant; agreeable; nice
 gradevole; piacevole
@@ -5738,7 +5747,7 @@ middle school
 la scuola media
 
 college; university
-l'università; l'istituto
+l'università; l'istituto; l'ateneo
 
 university student; undergraduate
 lo studente universitario
@@ -5759,7 +5768,7 @@ counter; bar; bar counter
 il bancone
 
 popcorn
-i popcorn
+il popcorn
 
 pasta machine
 la macchina per la pasta; la macchina per pasta
