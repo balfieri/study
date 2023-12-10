@@ -229,9 +229,6 @@ intorno al cambio del secolo
 time zone
 il fuso orario
 
-to involve
-convolgere
-
 to convolve; to roll together
 convolgersi
 
@@ -1805,7 +1802,10 @@ troglodyte
 il troglodita
 
 distraught; upset
-sconvolto; turbato
+sconvolto
+
+troubled; worried; disturbed (milder)
+turbato
 
 sexual partner
 il partner sessuale
@@ -25882,9 +25882,6 @@ presso
 it (formal); he; that
 esso
 
-they (formal)
-essi
-
 Persian
 persiano
 
@@ -28143,9 +28140,6 @@ il vincitore
 
 valence
 la valenza
-
-he; it; she
-egli
 
 Anglo; Anglian
 anglo
@@ -49829,7 +49823,7 @@ smooth; hairless
 liscio; glabro
 
 daydreaming
-trasognato
+il trasognato
 
 to daydream
 sognare a occhi aperti; fantasticare
@@ -55215,9 +55209,6 @@ la poligamia
 
 clip; segment
 lo spezzone
-
-to collide
-scontrarsi
 
 to corrupt oneself
 corrompersi
@@ -62203,3 +62194,133 @@ it's a function of
 
 my brain's ability
 la capacità del mio cervello
+
+under the table
+sotto banco
+
+let's focus on this thing
+fermiamoci su questa cosa
+
+tease
+la stuzzia
+
+astonished
+esterrefatto
+
+in full rule
+in piena regola
+
+Mongolia
+la Mongolia
+
+anti-totalitarian
+antitotalitare
+
+totalitarian
+totalitare
+
+to share
+spartirsi
+
+to feed
+imbeccare
+
+distrust
+la diffida
+
+fascistization
+la fascistizzazione
+
+management
+la gerenza
+
+Zionist
+sionista
+
+to armor
+blindare
+
+cookie man
+l'uomo dei biscotti
+
+cookie truck
+il camion dei biscotti
+
+act of fiscal determination
+l'atto di accertamento fiscale
+
+prime minister
+il primo ministro
+
+to redeem
+redimere
+
+interstice
+l'interstizio
+
+to avoid ambushes
+sfuggire alle imboscate
+
+velvety; plush
+felpato
+
+there is need of (something)
+c'è bisogno di (qualcosa)
+
+unpostponable
+improrogabile
+
+sleepwalking
+il sonnambulismo
+
+voice recorder
+il registratore vocale
+
+to put the kids to bed
+mettere a letto i bambini
+
+proprietary
+proprietario
+
+he; it (formal)
+egli
+
+she; it (formal)
+ella
+
+they (masculine, formal)
+essi
+
+they (feminine, formal)
+esse
+
+it happens to certain people
+accade a certe persone
+
+headlong run
+la corsa a capofitto
+
+to face each other
+fronteggiarsi
+
+board of directors
+il consiglio di amministrazione
+
+to put back
+riporre
+
+outpost
+l'avamposto
+
+to position oneself; to place oneself
+piazzarsi
+
+blockbuster
+il blockbuster
+
+sustainable key
+la chiave sostenibile
+
+as soon as possible
+dapprima possibile
+
