@@ -62366,3 +62366,5 @@ fare "ciao" a
 all at once; in one breath
 tutto d'un fiato
 
+masterfully
+magistralmente
