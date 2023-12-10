@@ -20326,7 +20326,7 @@ il collegio
 gift; present; donation
 il dono
 
-protagonist; main character; lead
+protagonist; main character; lead; lead role
 il protagonista
 
 to strain
