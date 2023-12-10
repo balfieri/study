@@ -62378,3 +62378,5 @@ rovente
 child rearing
 l'educazione dei bambini
 
+no (something)
+niente (qualcosa)
