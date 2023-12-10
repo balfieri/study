@@ -60302,8 +60302,8 @@ staccarsi da
 to come loose from (object)
 allentarsi da
 
-loose (piece)
-allentato
+loose
+allentato; lento; sciolto
 
 to loosen up; to get loose
 allentarsi
