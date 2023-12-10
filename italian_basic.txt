@@ -2644,8 +2644,8 @@ studiare
 to forget
 dimenticare
 
-to forget to (do something)
-dimenticarsi di
+to forget to (do something); to space on (doing something)
+dimenticarsi di (fare qualcosa)
 
 to send (general, slightly more formal); to submit (application)
 inviare
@@ -2656,7 +2656,7 @@ aiutare
 to pass; to go by
 passare
 
-to remain; to stay
+to remain; to stay (condition, place)
 restare
 
 to observe
@@ -3091,7 +3091,7 @@ parere
 to pose; to set; to put; to place (formal)
 porre
 
-to stay; to remain; to be
+to stay behind; to remain; to be (continuing in a certain state)
 rimanere
 
 to go up; to ascend; to get into; to mount
