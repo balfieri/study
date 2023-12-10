@@ -22361,7 +22361,7 @@ youthful; young; juvenile
 giovanile
 
 nap
-il pisolino; il sonnolino
+il pisolino; il sonnolino; il sonnellino
 
 to take a nap
 fare un pisolino
@@ -62389,3 +62389,7 @@ la foto spontanea
 
 candid
 sincero; onesto; diretto
+
+micro nap
+il microsonnellino
+
