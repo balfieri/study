@@ -15193,7 +15193,7 @@ niente paura
 tested; checked; inspected
 collaudato
 
-to deter; to avert
+to deter; to avert; to distract
 distogliere
 
 dim; wan; hoarse
@@ -21929,7 +21929,7 @@ tara gum
 la gomma di tara
 
 to lend itself to
-prestarsi ad essere
+prestarsi a
 
 to infuse
 mettere in infusione
@@ -62419,4 +62419,124 @@ ardere lentamente; bruciare senza fiamma
 
 smoldering
 ardendo lentamente; bruciando senza fiamma
+
+beastly
+bestiale
+
+in a flash
+in un lampo
+
+folding (noun)
+il ripiegamento
+
+cowardice
+la viltà
+
+to say goodnight
+dare la buonanotte
+
+to put in pocket
+infilare in tasca
+
+lightning-fast gesture
+il gesto fulmineo
+
+to take off one's underwear
+sfilarsi le mutande
+
+to divide by size
+dividere per taglia
+
+nougat
+il croccantino
+
+to dodge
+scansare
+
+fleetingly
+fugacemente
+
+set (adjective)
+apparecchiato
+
+to whiten
+sbiancare
+
+face reader
+il fisionomista
+
+fruit seller
+il fruttarolo; la fruttarola
+
+bland
+sciapo
+
+biodynamic
+biodinamico
+
+to turn
+svoltare
+
+dragnet
+la parannanza
+
+to scout
+scutare
+
+hippie boy
+il fricchettone
+
+hippie girl
+la fricchettona
+
+hair setting
+la messinpiega
+
+to stoke
+attizzare
+
+jacket
+il giubbetto
+
+bad joke
+la battutaccia
+
+little dog
+il cagnetto; la cagnetta
+
+puffed up
+imbolsito
+
+drainage
+la scolatura
+
+little sauce
+la salsetta
+
+snap
+lo schiocco
+
+oven mit; thermal glove
+il guantone termico
+
+silk
+la seta
+
+it's equally possible that
+è altrettanto possibile che
+
+box office
+il botteghino; la biglietteria
+
+out of character
+fuori dal personaggio
+
+to lend oneself
+prestarsi
+
+it's entirely possible
+è del tutto possibile
+
+(something) to come
+(qualcosa) a venire
 

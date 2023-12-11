@@ -3227,7 +3227,7 @@ luggage (general)
 il bagaglio
 
 hairdryer
-il fon; l'asciugacapelli
+il fon; il phon; l'asciugacapelli
 
 soap
 il sapone
@@ -7815,3 +7815,7 @@ sfortunato
 
 data
 i dati
+
+to act like assholes
+fare gli stronzi
+
