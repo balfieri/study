@@ -59498,7 +59498,7 @@ mettere incinta (qualcuna)
 registration number; student ID number
 il numero di matricola
 
-to give birth; to deliver (baby)
+to give birth to; to deliver (baby)
 partorire
 
 to play a role
@@ -62569,3 +62569,10 @@ la linfoma di Hodgkin
 
 course credit
 il credito formativo universitario (CFU)
+
+subject matter
+la materia disciplinare
+
+language-teaching (adjective)
+glottodidatico
+
