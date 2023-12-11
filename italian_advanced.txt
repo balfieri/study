@@ -16174,7 +16174,7 @@ riappacificarsi con
 to hold back
 trattanersi
 
-reel; spool
+coil; reel; spool
 la bobina
 
 stool; footstool
@@ -62395,4 +62395,19 @@ il microsonnellino
 
 sound (quality, film)
 il sonoro
+
+small fridge
+il frigorifero piccolo; il frigo piccolo
+
+mini fridge
+il mini frigorifero; il mini frigo
+
+beverage fridge
+il frigorifero per bevande; il frigo per bevande
+
+condenser coil
+la bobina del condensatore
+
+evaporator coil
+la bobina dell'evaporatore
 
