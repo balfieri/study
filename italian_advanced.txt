@@ -3493,7 +3493,7 @@ il parere
 to hand; to give; to offer; to proffer
 porgere
 
-to burn; to scorch
+to burn; to scorch (something that is burning)
 ardere
 
 to draw; to get; to obtain
@@ -62413,4 +62413,10 @@ la bobina dell'evaporatore
 
 perfect strangers
 i perfetti sconosciuti
+
+to smolder
+ardere lentamente; bruciare senza fiamma
+
+smoldering
+ardendo lentamente; bruciando senza fiamma
 
