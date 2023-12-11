@@ -13,7 +13,6 @@ There are a few text files provided for various topics of my interest. Feel free
 
     aviation.txt                        -- private pilot checkride oral exam (includes categories)
     aviation_ifr.txt                    -- instrument pilot checkride oral exam
-    french.txt                          -- my daughter's old word list 
     italian_basic.txt                   -- basic and a few intermediate words
     italian_advanced.txt                -- intermediate to advanced words
     italian_passato_remoto.txt          -- conjugations of the passato remoto (mostly irregular verbs)
@@ -23,6 +22,7 @@ There are a few text files provided for various topics of my interest. Feel free
     italian_tongue_twisters.txt         -- tongue twisters (scioglilingua)
     american_expressions_favorite.txt   -- my favorite American expressions (translated to Italian)
     american_expressions_get.txt        -- American expressions with the word GET (ditto)
+    french_basic.txt                    -- basic French words
 
 Example of running the aviation questions:
 

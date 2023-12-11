@@ -1,5 +1,5 @@
 #
-# French Practice
+# Basic French
 #
 the 1st day of school in France
 la rentree
@@ -16,8 +16,8 @@ puis-je boire de l'eau?
 may I borrow a pencil?
 puis-je emprunter un crayon?
 
-how do you say ___ in French?
-comment dit on ___ en francais?
+how do you say (something) in French?
+comment dit on (quelque chose) en francais?
 
 please lend me a pen
 prete-moi un stylo sil te plait
@@ -28,20 +28,20 @@ youpi!
 what's your favorite color?
 quelle est ta couleur preferee?
 
-my favorite color is ___
-ma couleur preferee est ___
+my favorite color is
+ma couleur preferee est
 
 what time is it?
 quelle heure est-il?
 
-it is ___ o'clock
-il est ___ heure(s)
+it is 8 o'clock
+il est 8 heures
 
 what's the weather like?
 quel temps fait-il?
 
-the weather is ___
-il fait ___
+the weather is
+il fait
 
 ok
 d'accord
@@ -61,10 +61,10 @@ je suis malade
 I don't know
 je ne said pas
 
-sit down (plural)
+sit down (formal, plurale)
 asseyez-vous
 
-sit down (singular, familiar)
+sit down (informal)
 assieds-toi
 
 where there's a will there's a way!
