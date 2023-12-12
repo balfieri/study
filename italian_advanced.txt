@@ -10906,9 +10906,6 @@ narrare
 sound system
 il sistema audio
 
-novice
-il novizio
-
 apology accepted
 scuse accettate
 
@@ -62587,4 +62584,37 @@ mettere da parte i soldi
 
 meat boiled in broth
 il bollito
+
+novice (noun)
+il novizio
+
+novice (adjective)
+novizio; alle prime armi
+
+poco esperto
+inexperienced
+
+beltway
+il raccordo anulare
+
+to meet again; to encounter again
+ricontambilizzare
+
+recountable deposit
+il deposito ricontabilizzato
+
+gap
+il varco
+
+cancellation policy
+la politica di cancellazione
+
+any changes; possible modifications
+le eventuali modifiche
+
+reconnectable
+ricollegabile
+
+safety block; security block
+il blocco di sicurezza
 
