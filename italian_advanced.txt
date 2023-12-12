@@ -68,7 +68,7 @@ propeller
 l'elica
 
 bland; tasteless
-blando; insipido; insapore; scialbo
+insipido; blando; insapore; scialbo
 
 surrender; to give up
 arrendersi
@@ -14113,7 +14113,7 @@ sbadato; negligente
 it's great to see you
 è bello vederti; è bello rivederti
 
-sales assistant; clerk
+sales assistant; clerk; store clerk
 il commesso; la commessa
 
 self-aware
@@ -19769,7 +19769,7 @@ considered
 considerato
 
 purely
-puramente
+puramente; prettamente
 
 track; trace; trail; outline
 la traccia
@@ -62620,4 +62620,79 @@ il blocco di sicurezza
 
 I'm comfortable riding a Vespa
 mi sento a mio agio a guidare una Vespa
+
+to raise
+innalzare
+
+the stuff of nightmares
+è roba da incubi
+
+colorless
+incolore
+
+idiosyncratic
+idiosincratico
+
+mild day
+la giornata mite
+
+prize fund
+il montepremi
+
+building heritage
+il patrimonio edilizio
+
+save the date!
+segna la data!
+
+scientific disclosure
+la divulgazione scientifica
+
+vassal
+il vassallo
+
+on your marks
+al via
+
+to take off
+prendere avvio
+
+deposit
+l'acconto
+
+to act as a guardian
+fare da tutore
+
+health-conscious; healthy
+salutistico
+
+in-person
+presenziale
+
+catering
+la ristorazione
+
+taster
+il degustatore; la degustatrice
+
+hourly rate
+la tariffa oraria
+
+it's bad; it's terrible
+è pessimo
+
+gastronomy
+l'enogastronomia
+
+to hide
+celarsi
+
+grinch
+il grinch
+
+to stand up to
+tenere testa a
+
+I wish you the best of luck in the future
+ti auguro buona fortuna per il futuro
 
