@@ -62618,3 +62618,6 @@ ricollegabile
 safety block; security block
 il blocco di sicurezza
 
+I'm comfortable riding a Vespa
+mi sento a mio agio a guidare una Vespa
+
