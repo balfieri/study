@@ -37252,9 +37252,6 @@ impensierire
 price range
 la fascia di prezzo
 
-ambush
-l'agguato
-
 towards
 nei confronti
 
@@ -62698,3 +62695,19 @@ ti auguro buona fortuna per il futuro
 
 computer (adjective)
 informatico
+
+canonical format
+il formato canonico
+
+ambush (military)
+l'imboscata
+
+ambush (figurative)
+l'agguato
+
+to ambush (military)
+tendere un'imboscata
+
+to ambush (figuratively)
+agguare
+
