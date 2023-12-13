@@ -15344,7 +15344,7 @@ big mouth
 la lingua lunga
 
 to cut in line
-saltare la coda
+saltare la fila; saltare la coda
 
 to do the honors
 fare gli onori di casa
@@ -62761,3 +62761,4 @@ il Globo d'oro
 
 Oscar Award
 il Premio Oscar
+
