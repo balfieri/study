@@ -50201,7 +50201,7 @@ to smear; to stain; to blot; to spot; to besmirch
 macchiare
 
 stubborn; pig-headed
-testardo; caparbio
+testardo; di coccio; caparbio
 
 insect repellent; bug spray
 il repellente per insetti; lo spray contro gli insetti
@@ -54420,9 +54420,6 @@ inboscato
 
 shelter
 la pensilina
-
-landlord
-il locumatore
 
 cracked
 screpolato
@@ -61259,7 +61256,7 @@ ben ritrovato; ben ritrovati
 curvaceous (woman)
 formosa
 
-a show-off
+show-off
 l'esibizionista
 
 false teeth; dentures
@@ -62738,3 +62735,29 @@ l'alta dirigenza; l'alto comando
 high command
 l'alto comando
 
+rough; rugged; prickly
+scabroso
+
+without ever applying pressure
+senza fare mai pressione; senza mai esercitare pressione
+
+landlord; property owner
+il proprietario; il padrone di casa
+
+you scare me; you frighten me
+mi fai paura; mi spaventi
+
+powerhouse; force to be reckoned with
+la forza della natura; il concentrato di energia
+
+to play dumb
+fare lo gnorri; fare l'ignorante
+
+awarding; prize giving
+la premiazione; la consegna dei premi
+
+Golden Globe
+il Globo d'oro
+
+Oscar Award
+il Premio Oscar
