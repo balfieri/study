@@ -4096,7 +4096,7 @@ darsi
 the present; timeliness; current events; current affairs
 l'attualità
 
-disdain
+disdain; contempt; scorn
 il disprezzo; lo sdegno; il disdegno
 
 scholar
@@ -4149,9 +4149,6 @@ il portico
 
 installment; episode
 la puntata
-
-contempt; scorn; disdain
-il disprezzo
 
 to conceive
 concepire
