@@ -2152,7 +2152,7 @@ ulteriore
 the time before last
 il tempo prima dell'ultimo; la volta prima dell'ultima
 
-every once in a while
+every once in a while; once in a great while
 ogni tanto
 
 to charge (someone)
@@ -7105,8 +7105,8 @@ infilare
 valediction; farewell
 il commiato
 
-sullen; pitch-black; gloomy
-cupo
+sullen; pitch-black; gloomy; grim
+cupo; tetro
 
 World War II
 la seconda guerra mondiale
@@ -24217,9 +24217,6 @@ l'innovazione
 planning; preparation
 la pianificazione
 
-suitable; fit
-adatto
-
 influence; impact
 l'influsso
 
@@ -32965,7 +32962,7 @@ taciuto
 consonant; advisable; comfortable with; in accordance with; suitable
 consono
 
-suitable
+suitable; fit
 adatto; idoneo; appropriato
 
 neurl net
@@ -62818,3 +62815,28 @@ il succhiotto; il livido d'amore
 
 wave function
 la funzione d'onda
+
+Feast of the Immaculate Conception
+la festa dell'Immacolata Concezione; l'Immacolata
+
+crumbled
+sbiciolato
+
+to crumble
+sbiciolare
+
+to spin
+pirlare
+
+pomade butter
+il burro a pomata
+
+to take it personally
+prenderla sul personale
+
+to try not to take it personally
+cercare di non prenderla sul personale
+
+enjoy time with your family
+goditi il tempo con la famiglia
+
