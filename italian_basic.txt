@@ -7630,7 +7630,7 @@ il migliore amico; la migliore amica
 close friend
 l'amico stretto; l'amica stretta
 
-daddy; dad
+dad; daddy
 il papà; il babbo (toscana)
 
 management; handling
