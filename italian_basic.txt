@@ -4174,7 +4174,7 @@ la matematica
 biology
 la biologia
 
-right (noun); law
+right (noun); law; entitlement
 il diritto
 
 date
