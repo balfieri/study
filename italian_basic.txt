@@ -3511,12 +3511,6 @@ il padre
 mother
 la madre
 
-only child (son)
-il figlio unico
-
-only child (daughter)
-la figlia unica
-
 father-in-law
 il suocero
 
