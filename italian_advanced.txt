@@ -25982,7 +25982,7 @@ dictated
 dettato
 
 superhuman
-sovraumano
+sovraumano; sovrumano
 
 evasion; escape
 l'evasione
@@ -41254,7 +41254,7 @@ il pedopornografico
 to hold on; to cling
 terrarsi
 
-task force
+task force; work group
 il task force; il gruppo di lavoro
 
 to sexualize
@@ -62956,4 +62956,7 @@ non riesco a controllarmi
 
 flatfoot; cop
 il piedipiatti
+
+false trail; false lead
+la falsa pista; la traccia falsa
 
