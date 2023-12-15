@@ -1106,7 +1106,7 @@ tomorrow
 domani
 
 day after tomorrow
-dopo domani
+dopodomani; dopo domani
 
 yesterday
 ieri
@@ -2529,9 +2529,6 @@ sabato
 
 Sunday
 la domenica
-
-the day after tomorrow
-dopodomani
 
 January
 gennaio
