@@ -62933,3 +62933,9 @@ la frutta candita; il candito
 yes yes
 sì sì; sìsì; sisi
 
+to inflate; to swell; to swell up
+gonfiarsi
+
+to deflate; to shrink; to go down
+sgonfiarsi
+
