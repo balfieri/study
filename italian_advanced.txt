@@ -62972,3 +62972,8 @@ il beagle
 to blink one's eyes
 sbattere le palpebre
 
+carousel
+il carosello
+
+chef
+lo chef
