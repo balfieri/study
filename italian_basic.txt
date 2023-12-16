@@ -6085,8 +6085,8 @@ il signore
 Mr.
 Sig.
 
-madam
-la signora
+madam; ma'am
+la signora; la signorina
 
 Mrs.
 Sig.ra
