@@ -25643,7 +25643,7 @@ tear; rip
 lo strappo
 
 to take the average
-calcolare la media
+prendere la media; calcolare la media
 
 to toast (on the grill)
 abbrustolire
