@@ -61376,7 +61376,7 @@ l'esame di iscrizione all'albo
 vilification
 il vilipendio
 
-takings
+takings; ticket sales
 gli incassi
 
 complacency
@@ -63049,4 +63049,7 @@ il forno ventilato; il forno a convezione
 
 anecdotal
 aneddotico
+
+to bear fruit; to profit
+fruttare
 
