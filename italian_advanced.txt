@@ -3298,7 +3298,7 @@ il bisticcio
 misunderstanding; mistake; misapprehension
 il malinteso
 
-to rewind
+to rewind; to wind
 riavvolgere
 
 to wrap; to wrap up; to wind; to roll
@@ -63080,3 +63080,8 @@ l'orecchietta
 shell; seashell
 conchiglia
 
+spindle
+il fuso
+
+to wind; to coil
+ravvolgere
