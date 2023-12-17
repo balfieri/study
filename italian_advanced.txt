@@ -12206,7 +12206,7 @@ fly
 la mosca
 
 pantry
-la dispensa
+la dispensa; la dispensa della cucina
 
 striped
 a righe
@@ -63056,5 +63056,9 @@ aneddotico
 to bear fruit; to profit
 fruttare
 
-kitchen cupboard
-l'armadietto da cucina; il pensile da cucina
+kitchen cabinet; kitchen cupboard
+l'armadietto da cucina
+
+kitchen cabinet (wall-mounted)
+il pensile da cucina
+
