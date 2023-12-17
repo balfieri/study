@@ -7207,8 +7207,8 @@ gestire
 vision
 la visione
 
-homemade
-fatto in casa
+homemade; home-style
+fatto in casa; casereccio
 
 distant
 distante
