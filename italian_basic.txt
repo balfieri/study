@@ -4111,11 +4111,8 @@ l'unghia
 to do one's nails
 farsi le unghie
 
-anyway; anyhow (a little formal)
+anyway; anyhow (a little formal); however
 comunque; in ogni modo
-
-nevertheless; however; but
-tuttavia
 
 chance; possibility (something that could be realized)
 la possibilità
@@ -5205,9 +5202,6 @@ la terra
 
 grade (not school); degree
 il grado
-
-nevertheless
-tuttavia; eppure
 
 matter; subject; material; matter (mass)
 la materia
@@ -7331,7 +7325,7 @@ to print; to stamp
 stampare
 
 or
-o; oppure
+o
 
 usually
 di solito; solitamente

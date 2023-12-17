@@ -856,7 +856,7 @@ mi raccomando!; ti prego!
 by chance; by any chance; by luck
 per caso
 
-and yet; yet; nevertheless; still
+and yet; yet; nevertheless; still; but still
 eppure
 
 but rather; but; rather; however
@@ -23878,7 +23878,7 @@ il mercante
 residual
 residuo
 
-frontier
+frontier; front
 la frontiera
 
 leader (general)
@@ -63016,4 +63016,37 @@ l'acqua stagnante
 
 to take stock of
 fare il punto su
+
+or (another possibility after first rejected); or else
+oppure
+
+nevertheless; however; but (formal)
+tuttavia
+
+reception
+il ricevimento
+
+to make fascinating
+rendere avvincinante
+
+ultimatum
+l'ultimatum
+
+on leave
+in licenza
+
+mobilize
+mobilitare
+
+twist
+colpo di scena
+
+conventional oven; static oven
+il forno statico; il forno convenzionale
+
+convection oven
+il forno ventilato; il forno a convezione
+
+anecdotal
+aneddotico
 
