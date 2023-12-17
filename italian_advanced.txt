@@ -18094,7 +18094,7 @@ certo che è buono!; certo che va bene!
 what do you think this is?
 cosa pensi che sia?
 
-twine
+string; twine
 lo spago
 
 transformation
@@ -63073,3 +63073,10 @@ mentre invecchiava
 
 as he gets older; as she gets older
 mentre invecchia
+
+little ear
+l'orecchietta
+
+shell; seashell
+conchiglia
+
