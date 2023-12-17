@@ -39721,6 +39721,9 @@ l'unità
 power supply; diet; nutrition; feeding
 l'alimentazione
 
+power supply unit; PSU
+l'alimentatore
+
 nutrition
 la nutrizione; l'alimentazione
 
