@@ -353,7 +353,7 @@ aka
 alias
 
 healing
-la guarigione
+la guarigione; la cura
 
 to be wary of
 diffidare di
@@ -63190,4 +63190,7 @@ l'elastico
 
 sourdough
 il lievito madre
+
+dizzy
+vertigine; stordito
 
