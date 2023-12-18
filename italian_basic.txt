@@ -6697,8 +6697,8 @@ inviato
 kilometer
 il chilometro
 
-daily; everyday (adjective)
-quotidiano
+daily; everyday (adjective); daylong
+quotidiano; giornaliero
 
 sufficient
 sufficiente
@@ -7806,4 +7806,7 @@ fare gli stronzi
 
 happy holidays!
 buone feste!
+
+annual; yearlong
+annuale
 

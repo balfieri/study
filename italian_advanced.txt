@@ -8503,7 +8503,7 @@ astenersi
 to trigger; to prime
 innescare
 
-lasting; durable; enduring
+long-lasting; lasting; durable; enduring
 duraturo
 
 downward spiral
@@ -22432,9 +22432,6 @@ la qualifica
 fiber
 la fibra
 
-annual (once per year)
-annuale
-
 address; domicile
 il domicilio
 
@@ -26368,7 +26365,7 @@ l'imposizione
 accused
 accusato
 
-weekly
+weekly; weeklong
 settimanale
 
 Arab
@@ -46054,9 +46051,6 @@ crivellare
 to perforate
 perforare
 
-to pepper
-infilzare
-
 wine bar
 l'enoteca; la vineria
 
@@ -63091,3 +63085,109 @@ cogliere l'occasione
 
 to wish happy holidays
 augurare buone feste
+
+extraction; drawing
+la trafilatura
+
+to regulate (legal); to standardize
+regolamentare
+
+washed-up actor
+l'attore finito; l'attore al tramonto
+
+to pirate; to copy illegally
+piratare
+
+honest; straightforward
+reschietto
+
+to shake
+shakerare
+
+little push; nudge
+la spintarella
+
+bang!; pop!; boom!
+tac!
+
+cedar; citron
+il cedro
+
+soaked; drenched
+ammollato
+
+squeezed; wrung out
+strizzato
+
+slap and fold
+lo schiaffo e piega
+
+dripping pan; baking tray
+la leccarda
+
+to bitter; to embitter
+amarire
+
+to skewer; to impale; to pepper
+infilzare
+
+to sanitize
+sanificare
+
+twist; strain
+il torcione
+
+to butter; to grease
+imburrare
+
+mold; template
+il modino
+
+hermetic; airtight
+ermetico
+
+hermetically sealed
+sigillato ermeticamente
+
+rat's nest
+il nido di rodine
+
+large leavened bread
+il grande lievitato
+
+cell structure; honeycomb pattern
+l'alveolatura
+
+bagging
+l'insacchettamento
+
+to bag; to package
+insacchettare
+
+focaccia (in dialect)
+la fugassa
+
+person of short stature
+la persona di bassa statura
+
+scepter
+lo scettro
+
+young lady
+la giovane signora
+
+young man
+il giovane uomo
+
+to bring an empty stomach
+portare uno stomaco vuoto
+
+to reschedule an appointment
+riprogrammare un appuntamento
+
+rubber band
+l'elastico
+
+sourdough
+il lievito madre
+
