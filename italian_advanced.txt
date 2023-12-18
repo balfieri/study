@@ -9320,9 +9320,9 @@ no matter what
 non importa cosa; a tutti i costi
 
 baking
-la cottura al forno
+la cottura; la cottura al forno
 
-cooking
+cooking; baking
 la cottura
 
 carrot/orange/lemon juice
