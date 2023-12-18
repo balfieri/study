@@ -5929,7 +5929,7 @@ la risorsa
 entire
 intero
 
-confidence; trust; faith
+trust; confidence; faith
 la fiducia
 
 faith; belief
