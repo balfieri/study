@@ -3481,6 +3481,9 @@ cucire
 to die; to become deceased
 decedere
 
+deceased
+deceduto
+
 to precede
 precedere
 
@@ -63269,3 +63272,11 @@ le sarde
 cannonball
 la palla di cannone
 
+giant (adjective)
+gigante
+
+giant (noun)
+il gigante; la gigante
+
+diagnosed
+diagnosticato
