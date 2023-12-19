@@ -10330,9 +10330,6 @@ l'adesivo sul retro
 shuttle (bus)
 la navetta
 
-all-purpose flour
-la farina manitoba
-
 to make a well in the middle
 fare un pozzo nel mezzo
 
@@ -63247,3 +63244,10 @@ il fischietto anti-aggressione
 
 to be ok with (something)
 essere d'accordo con (qualcosa)
+
+high-gluten flour
+la farina ad alto contenuto di glutine
+
+all-purpose flour
+la farina universale
+
