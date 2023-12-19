@@ -1189,7 +1189,7 @@ le scarpe
 shoe
 la scarpa
 
-sweater (thin)
+sweater (thin); gluten structure (dough); gluten matrix (dough)
 la maglia
 
 sweater (warm/thick)
