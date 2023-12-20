@@ -63356,3 +63356,6 @@ il pinolo
 squid face
 la faccia da calamaro
 
+piecemeal; bit by bit
+pezzo per pezzo
+
