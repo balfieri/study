@@ -32174,7 +32174,7 @@ footprint; imprint
 l'impronta
 
 fingerprint
-il fingerprint
+l'impronta digitale; il fingerprint
 
 to rekindle the friendship
 riaccendere l'amicizia
@@ -63509,3 +63509,5 @@ la cosa più Bob
 the most Bob thing ever
 la cosa più Bob di sempre
 
+finely chopped
+finemente tritato
