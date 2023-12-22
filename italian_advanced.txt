@@ -62444,7 +62444,7 @@ il fisionomista
 fruit seller
 il fruttarolo; la fruttarola
 
-bland
+bland (lacks salt)
 sciapo
 
 biodynamic
@@ -63484,3 +63484,28 @@ la calligrafia
 
 handwriting
 la scrittura a mano
+
+raspberry preserve
+la conserva di lamponi
+
+strawberry preserve
+la conserva di fragole
+
+butter cookie
+il biscotto al burro
+
+nuclear power plant
+il centrale nucleare
+
+I can't keep up with my current house
+non riesco a stare al passo con la mia casa attuale
+
+stardom
+la celebrità;; lo stellato
+
+the most Bob thing
+la cosa più Bob
+
+the most Bob thing ever
+la cosa più Bob di sempre
+

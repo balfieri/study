@@ -445,7 +445,10 @@ passeggiare
 to take a walk
 fare una passeggiata
 
-to take a trip; to take a tour
+to take a trip
+fare un viaggio
+
+to take a tour
 fare un giro
 
 to pull one's leg
@@ -7564,8 +7567,8 @@ nessun problema!
 to be (number) minutes late
 essere in ritardo di (numero) minuti
 
-to go shopping
-fare shopping; andare a fare shopping
+to go shopping (clothes, items)
+fare spese; fare shopping; andare a fare shopping
 
 to do the grocery shopping; to go grocery shopping
 fare la spesa; andare a fare la spesa
