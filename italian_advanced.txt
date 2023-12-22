@@ -6016,7 +6016,7 @@ annerire
 square; box
 la casella
 
-accidentally; by chance; casually
+by chance; casually; accidentally
 casualmente
 
 point of view
@@ -6539,7 +6539,7 @@ hand gesture
 il gesto della mano
 
 by mistake; accidentally
-per sbaglio
+per sbaglio; accidentamente
 
 to unfreeze
 scongelato
