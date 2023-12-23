@@ -63553,3 +63553,6 @@ il croquet
 
 granted
 concesso; dato per scontato
+
+after the (something) time has passed
+trascorso il tempo di (qualcosa)
