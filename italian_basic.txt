@@ -1171,9 +1171,6 @@ il buco
 belt (waist)
 la cintura
 
-stockings
-le calze
-
 ticket; note (greeting card)
 il biglietto
 
@@ -1699,8 +1696,8 @@ l'abito
 tie
 la cravatta
 
-socks
-i calzini
+sock
+il calzino
 
 eyeglasses; glasses
 gli occhiali; gli occhiali da vista
