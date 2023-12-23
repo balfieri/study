@@ -63556,3 +63556,10 @@ concesso; dato per scontato
 
 after the (something) time has passed
 trascorso il tempo di (qualcosa)
+
+orbit
+l'orbita
+
+in orbit
+in orbita
+
