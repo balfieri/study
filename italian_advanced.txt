@@ -9728,7 +9728,10 @@ anti-lock braking
 la frenatura antibloccaggio
 
 hook
-il gancio; il gancetto
+il gancio
+
+tie (for closing a bag); little hook
+il gancetto
 
 helmet hook
 il gancio per casco
@@ -63616,3 +63619,13 @@ a new commitment has come up
 
 preheated
 preriscaldato
+
+to regulate oneself; to adjust; to behave
+regolarsi
+
+to smirk
+sorridere con sufficienza
+
+Christmas sweet; Christmas dessert
+il dolce natalizio
+
