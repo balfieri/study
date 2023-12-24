@@ -5608,9 +5608,6 @@ l'asilo; l'asilo infantile; la scuola materna
 regulation; rule
 il regolamento
 
-to superimpose
-sovrapporre
-
 gluten
 il glutine
 
@@ -49432,7 +49429,7 @@ la donna frigida
 once in a while, I manage to guess right
 ogni tanto, riesco a indovinare
 
-to overlap
+to overlap; to superimpose
 sovrapporsi; sovrapporre
 
 there's a lot of overlap
@@ -63604,4 +63601,7 @@ lo scatolotto
 
 spotted
 appomato
+
+something came up
+è successo qualcosa
 
