@@ -20923,7 +20923,7 @@ la menta
 exhibition; exhibit
 la mostra
 
-shovel; spade
+shovel; spade; paddle
 la pala
 
 crying; weeping; cry
@@ -63571,3 +63571,37 @@ con tutto il rispetto
 
 spire
 la guglia; il pinnacolo
+
+the necropolis
+la necropoli
+
+iced tea
+il tè freddo
+
+to set the alarm in the middle of the night
+impostare la sveglia nel bel mezzo della notte
+
+gadget; contraption
+l'aggeggio
+
+shutter
+la saracinesca
+
+insurmountable
+invalicabile
+
+once (done)
+una volta (fatta)
+
+once installed
+una volta installato
+
+ease of use
+la facilità d'uso
+
+little box
+lo scatolotto
+
+spotted
+appomato
+
