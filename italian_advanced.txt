@@ -63632,3 +63632,5 @@ il dolce natalizio
 gilding; rendering golden color
 la doratura
 
+confectionery
+dolciario
