@@ -5278,8 +5278,8 @@ il pensiero
 issue
 la questione
 
-at least
-almeno; per lo meno
+at least (amount)
+almeno
 
 Naples
 Napoli
