@@ -63637,3 +63637,7 @@ dolciario
 
 at least (something less negative)
 per lo meno; perlomeno
+
+reindeer
+la renna
+
