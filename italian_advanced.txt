@@ -30991,7 +30991,7 @@ il piano di lavoro; la superficie di lavoro
 to let the dough rise
 far lievitare l'impasto
 
-to rise; to leaven
+to rise (dough); to leaven
 lievitare
 
 all over the surface; on the whole surface
@@ -63666,7 +63666,7 @@ change of plans
 il cambio di piani
 
 to stay up until 4am
-stare svegli fino alle 4 del mattino
+restare svegli fino alle 4 del mattino
 
 overeating; binging; binge
 l'abbuffata
@@ -63688,3 +63688,10 @@ sono andato un po' selvaggio con (qualcosa)
 
 percolator
 il percolatore
+
+the dough is rising
+l'impasto sta lievitando
+
+to rise from the dead
+risorgere dai morti
+
