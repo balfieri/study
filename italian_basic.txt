@@ -6619,7 +6619,7 @@ interiore
 mental
 mentale
 
-discovered
+discovered; uncovered; found out
 scoperto
 
 visible
