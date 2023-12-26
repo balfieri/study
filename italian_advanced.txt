@@ -63703,3 +63703,30 @@ pesarsi
 
 to muster
 radunare; convocare
+
+meatball
+la polpetta
+
+pizza dough
+l'impasto per pizza
+
+cookie dough
+l'impasto per biscotti
+
+pasta dough
+l'impasto per pasta
+
+dog show
+l'esposizione canina
+
+dog rescue
+il salvataggio di cani
+
+cloying
+stucchevole
+
+rundown of the news
+la carrellata delle novità
+
+food mill
+il passatutto; il passaverdure

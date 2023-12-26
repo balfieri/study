@@ -3501,3 +3501,6 @@ all'ordine del giorno
 to be on deck (coming next)
 essere in arrivo
 
+personality per pound
+la personalità per kilo
+
