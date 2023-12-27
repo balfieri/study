@@ -12296,7 +12296,7 @@ to fall back; to fold; to tuck; to fold over
 ripiegare
 
 baking paper; parchment paper
-la carta da forno
+la carta da forno; la carta forno
 
 aluminum foil
 il foglio di alluminio; la carta stagnola
@@ -63889,4 +63889,7 @@ chiudibile
 
 opposing thumbs
 i pollici opponibili
+
+non-stick
+antiaderente
 
