@@ -1603,7 +1603,7 @@ famoso
 young
 giovane
 
-happy; cheerful; cheery
+happy; cheerful; cheery; jolly
 allegro
 
 nervous
@@ -4321,7 +4321,7 @@ usato
 incapable
 incapace
 
-round
+round; rotund
 rotondo
 
 square
