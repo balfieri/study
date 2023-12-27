@@ -63934,3 +63934,7 @@ quadruplicare
 
 to revolt
 rivoltarsi; ribellarsi
+
+to put a stake in the ground
+piazzare un paletto a terra
+
