@@ -193,7 +193,7 @@ la cella
 simultaneously
 in contemporanea
 
-so that; in order to
+so that; in order to (purpose)
 affinché
 
 until; until the moment before
@@ -2308,7 +2308,7 @@ imbrattare
 to slap; to throw; to fling; to clap
 schiaffare
 
-poised; on the edge; on the verge
+poised; on the edge; on the verge; on balance
 in bilico
 
 to shoulder; to undertake; to absorb
@@ -24646,7 +24646,7 @@ la molteplicità
 to vary
 variare
 
-so that; thus
+so that; thus (result, consequence)
 cosicché
 
 to frolic; to have a good time; to paint the town red
@@ -63781,3 +63781,79 @@ radicare
 
 narrow stream of olive oil
 il filo stretto di olio d'oliva
+
+gas cylinder; gas tank (cylindrical)
+la bombola di gas
+
+burner
+il bruciatore
+
+to discourage; to advise against
+sconsigliare
+
+Judas
+Giuda
+
+it must be used outdoors
+va utilizzato per forza all'esterno
+
+difference in level
+il dislivello
+
+to strongly discourage
+straconsigliare
+
+infrared thermometer
+il termometro a infrarossi
+
+Swedish Death Cleaning
+la Pulizia della Morte Svedese
+
+to declutter
+fare decluttering
+
+durum wheat
+il grano duro
+
+the ultimate
+il non plus ultra
+
+ruthless media pillory
+la spietata gogna mediatica
+
+according to audience data
+stando ai dati sul pubblico
+
+comprehensive
+onnicomprensivo
+
+urbanization
+l'inurbazione
+
+to feed oneself
+alimentarsi
+
+bathroom scale
+la bilancia da bagno
+
+Yeti cup
+la tazza Yeti; la coppaglia Yeti
+
+travel mug
+il bicchiere da viaggio
+
+coffee mug
+la tazza del caffè
+
+measuring cup
+il misurino
+
+measuring spoon
+il cucchiaio dosatore
+
+to pack heavy
+fare il bagaglio pesante
+
+to pack lightly
+fare il bagaglio leggero
+
