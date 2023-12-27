@@ -63929,3 +63929,5 @@ la malattia maschile
 female disease
 la malattia femminile
 
+to quadruple
+quadruplicare
