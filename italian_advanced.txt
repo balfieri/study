@@ -934,8 +934,11 @@ i diritti d'autore
 picky; fussy; choosy
 schizzinoso; puntiglioso
 
-picky eater
+picky eater; fussy eater
 il mangiatore schizzinoso
+
+picky about food
+schizzinoso nel cibo
 
 to expand
 espandere
