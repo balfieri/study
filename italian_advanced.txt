@@ -63243,7 +63243,7 @@ high-gluten flour
 la farina ad alto contenuto di glutine
 
 all-purpose flour
-la farina universale
+la farina di grano tenero; la farina universale
 
 I need 5 minutes to finish my lunch
 ho bisogno di 5 minuti per finire il mio pranzo
@@ -63857,3 +63857,23 @@ fare il bagaglio pesante
 to pack lightly
 fare il bagaglio leggero
 
+human assistant
+l'assistente umano
+
+autonomous agent
+l'agente autonomo
+
+tangible value
+il valore tangibile
+
+throughput (computing)
+il throughput
+
+soft wheat
+il grano tenero
+
+whole wheat flour
+la farina integrale
+
+bread flour; high-protein flour
+la farina Manitoba
