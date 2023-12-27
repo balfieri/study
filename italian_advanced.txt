@@ -10763,7 +10763,7 @@ to slaughter; to butcher
 macellare
 
 razor blade
-la lametta
+la lametta da barba
 
 grocer (old-fashioned)
 il droghiere
@@ -33349,7 +33349,7 @@ il promemoria
 pi
 il pi greco
 
-cake tin; pie dish
+cake tin; cake pan; pie dish
 la tortiera
 
 tart mould
@@ -63880,4 +63880,13 @@ la farina Manitoba
 
 fortified flour
 la farina rinforzata
+
+openable
+apribile
+
+closeable
+chiudibile
+
+opposing thumbs
+i pollici opponibili
 
