@@ -22850,7 +22850,7 @@ birthday girl
 la festeggiata
 
 pound cake
-la torta margherita
+la torta quattro quarti; la torta margherita
 
 rarely
 raramente
@@ -23345,7 +23345,7 @@ to invest; to run over (car); to hit (car)
 investire
 
 New Year's Eve
-la vigilia di Capodano
+la vigilia di Capodanno
 
 talent agency
 l'agenzia di talenti; l'azienda dei talenti
@@ -32994,9 +32994,6 @@ il deltaplano
 
 meaning; sense
 l'accezione
-
-to remove
-rimuovere
 
 to date back to
 risalire a
@@ -55165,7 +55162,7 @@ sfribrante
 Sunday (adjective)
 domenicale
 
-struck by lightning
+struck by lightning; electrocuted
 folgorato
 
 brightness
@@ -63730,3 +63727,22 @@ la carrellata delle novità
 
 food mill
 il passatutto; il passaverdure
+
+to skewer; to fork; to thread
+Inforcare
+
+form factor
+il fattore di forma
+
+elite bodybuilder
+il bodybuilder d'élite
+
+elite (adjective)
+d'élite
+
+now everything is in order
+ora è tutto a posto
+
+to have a great time
+divertirsi molto
+

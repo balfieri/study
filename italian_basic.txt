@@ -3100,8 +3100,11 @@ sapere
 to keep
 tenere
 
-to remove; to take away; to take off
+to remove (physical); to take away; to take off
 togliere; levare
+
+to remove (abstract)
+rimuovere
 
 to go out; to exit
 uscire
