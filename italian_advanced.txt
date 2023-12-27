@@ -15118,9 +15118,6 @@ pagare alla romana
 to make a living
 guadagnarsi da vivere
 
-to make ends meet
-far quadrare i conti
-
 gold mine
 la miniera d'oro
 
@@ -50551,9 +50548,6 @@ lo scarafaggio
 firearm
 l'arma da fuoco
 
-to swarm
-pullulare
-
 muddied; muddy
 infangato
 
@@ -63745,4 +63739,25 @@ ora è tutto a posto
 
 to have a great time
 divertirsi molto
+
+to be dotted with
+essere punteggiato da
+
+to swarm; to teem
+pullulare
+
+potential buyer
+il potenziale acquirente
+
+semi-detached house
+la casa bifamiliare
+
+to run the risk
+correre il rischio; sventare il rischio
+
+bachelorette party
+l'addio al nubilato; la festa di addio al nubilato
+
+bachelor party
+l'addio al celibato; la festa di addio al celibato
 
