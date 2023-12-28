@@ -63938,3 +63938,5 @@ rivoltarsi; ribellarsi
 to put a stake in the ground
 piazzare un paletto a terra
 
+pasta rolled out by hand
+la pasta stesa a mano
