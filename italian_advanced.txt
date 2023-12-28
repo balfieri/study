@@ -15187,9 +15187,6 @@ niente paura
 tested; checked; inspected
 collaudato
 
-to deter; to avert; to distract
-distogliere
-
 dim; wan; hoarse
 fioco
 
@@ -34204,8 +34201,11 @@ il ratto
 sympathetic
 compassionevole; simpatico
 
-to compare
-paragonare; confrontare
+to compare (general)
+paragonare
+
+to compare (more critically); to confront
+confrontare
 
 tasteless; unsightly
 disgustoso
@@ -63943,4 +63943,34 @@ la pasta stesa a mano
 
 don't even think about (doing something)
 non pensare nemmeno di (fare qualcosa)
+
+self-effacing
+modesto; umile
+
+Pyrrhic victory; hollow victory
+la vittoria piroca; la vittoria vuota
+
+as usual
+come di consueto
+
+watershed
+lo spartiacque
+
+to divert; to deflect; to distract; to deter; to avert
+distogliere
+
+to have in store
+avere in serbo
+
+the afterlife
+l'aldilà
+
+to fan the flames
+soffiare sul fuoco
+
+frothy; foamy
+spumoso
+
+loss
+la minusvalenza
 
