@@ -2110,7 +2110,7 @@ la fragola
 grape
 l'uva
 
-raisin
+raisin; raisins
 l'uva passa; l'uvetta
 
 chicken
