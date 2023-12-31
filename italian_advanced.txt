@@ -4018,7 +4018,7 @@ l'attuazione
 implementation (of a plan)
 l'implementazione
 
-to implement (a plan)
+to implement (a plan); to deploy
 implementare
 
 distribution; dispensing
@@ -7900,7 +7900,7 @@ presentare una domanda
 shortly after that
 poco dopo
 
-fight; brawl
+fight; brawl; free-for-all
 la rissa
 
 contraceptive
@@ -64111,3 +64111,73 @@ allungare la vita
 
 operating table
 il tavolo operatorio
+
+gamer
+il videogiocatore; la videogiocatrice
+
+I've never seen anything quite like this before
+non ho mai visto nulla di simile prima d'ora
+
+we believe very strongly that
+crediamo fermamente che
+
+to facilitate
+facilitare
+
+people are working on this problem
+le persone stanno lavorando su questo problema
+
+from a business perspective
+da un punto di vista aziendale
+
+cloud service provider
+il fornitore di servizi cloud
+
+data center
+il centro dati
+
+context window
+la finestra di contesto
+
+you can make the argument
+puoi fare l'argomentazione
+
+re the only game in town
+l'unico gioco in città
+
+brute-force
+forza bruta
+
+insurrectionist
+l'insurrezionalista
+
+I hope it doesn't last long
+spero che non duri a lungo
+
+for your sake
+per tuo bene
+
+for my sake
+per mio bene
+
+concrete way
+il concreto modo
+
+to modernize
+svecchiare
+
+outside payment
+il pagamento esterno
+
+to take drastic measures
+prendere misure drastiche
+
+I did not intend to send that
+non intendevo inviare quello
+
+dysfunctional family
+la famiglia disfunzionale
+
+to bring
+apporgere
+
