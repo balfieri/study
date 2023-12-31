@@ -18034,7 +18034,7 @@ sospettare che; avere un sospetto che
 to buffer; to rear-end (accident)
 tamponare
 
-late (deceased)
+deceased; dead
 defunto
 
 nativity scene
@@ -64094,3 +64094,5 @@ il pizzico di sale
 it lacks taste
 manca di sapore
 
+in great shape; in top form
+in formissima
