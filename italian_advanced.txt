@@ -3464,7 +3464,7 @@ godfather
 il padrino
 
 godmother
-la madrina
+la madrina; la commara
 
 to refer to
 riferirsi a
