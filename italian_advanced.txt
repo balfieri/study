@@ -64199,9 +64199,6 @@ l'ammoniaca
 to milk cows
 mungere le mucche
 
-milking
-la mungitura
-
 to drop out of school
 abbandonare la scuola
 
@@ -64243,3 +64240,10 @@ la corsa a ostacoli
 
 vacation mode
 la modalità vacanza
+
+passive self-righteousness
+auto giustificazione passiva
+
+self-righteousness
+l'auto giustificazione
+
