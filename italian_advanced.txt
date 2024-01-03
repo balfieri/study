@@ -15118,7 +15118,7 @@ fare economia
 to go Dutch
 pagare alla romana
 
-to make a living
+to make a living; to earn one's keep
 guadagnarsi da vivere
 
 gold mine
@@ -24679,7 +24679,7 @@ bramare; desiderare
 to collect stamps
 raccogliere francobolli; collezionare francobolli
 
-stamp
+stamp; postage
 il francobollo
 
 stamp book
@@ -28034,7 +28034,7 @@ flirt
 la civetta
 
 womanizer; philanderer
-farfallone; donnaiolo; lo sciupafemmine
+il farfallone; il donnaiolo; lo sciupafemmine
 
 to follow through
 persevere; portare a termine
@@ -64315,4 +64315,43 @@ spero che tu stia meglio
 
 teasing; tantalizing
 stuzzicante
+
+to pay dearly for a mistake
+pagare a caro prezzo per un errore
+
+I have never seen anything like it
+non ho mai visto nulla del genere; non ho mai visto nulla di simile
+
+dough sheeter
+la sfogliatrice
+
+wax paper
+la carta cerata
+
+candle wax
+la cera di candela
+
+bee wax
+la cera d'api
+
+baboon
+il babbuino
+
+stabbed
+accoltellato
+
+cutting wheel; pasta cutter
+la rotella per pasta
+
+I was hoping you could tell me
+speravo che tu potessi dirmelo
+
+how much postage do I need for this letter?
+quanto francobollo mi serve per questa lettera?
+
+payment of taxes
+il versamento delle imposte
+
+reputation as a womanizer
+la fama di donnaiolo
 
