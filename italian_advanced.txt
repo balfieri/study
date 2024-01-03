@@ -64367,4 +64367,6 @@ di fascia alta
 top range
 la gamma alta
 
+to be down (computer, website)
+essere in down
 
