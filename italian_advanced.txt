@@ -20504,7 +20504,7 @@ to string
 incordare
 
 scraper (food)
-il tarocco
+il tarocco; il raschietto
 
 just for the sake of doing it; just to do it
 tanto per fare
@@ -64370,3 +64370,14 @@ la gamma alta
 to be down (computer, website)
 essere in down
 
+pasta maker (person)
+lo sfoglino; la sfoglina
+
+algae
+l'alga
+
+from Marche
+marchigiano
+
+to twist; to coil; to curl up
+attorcigliarsi
