@@ -64387,3 +64387,6 @@ la zesta
 
 cut on the finger
 il taglio sul dito
+
+dental
+dentale
