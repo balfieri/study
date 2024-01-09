@@ -13192,7 +13192,7 @@ il conte
 sale; sales; marketing
 la vendita
 
-procedure; process
+procedure; process (sequence of steps)
 il procedimento
 
 criteria
@@ -24064,7 +24064,7 @@ assente
 pastoral
 pastorale
 
-excessive
+excessive; overkill
 eccessivo
 
 youth
@@ -64595,3 +64595,35 @@ il budello di suino
 puppy mill
 l'allevamento intensivo di cuccioli
 
+to tear (intransitive)
+strapparsi
+
+ground school
+la scuola di terra
+
+to be tempting to
+essere tentanti
+
+to stand on its own
+reggersi da solo
+
+to cut well
+tagliare per bene
+
+faded; blurred
+sfumato
+
+breaded
+impanato
+
+to bread
+impanare
+
+crumbled; dilapidated
+diroccato
+
+dilapidated; decaying
+fatiscente
+
+moon landing
+l'allunaggio
