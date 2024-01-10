@@ -2795,7 +2795,7 @@ torn
 strappato
 
 to blame
-biasimare; dare la colpa a; incolpare; colpevolizzare
+incolpare; biasimare; dare la colpa a; colpevolizzare
 
 I love everything about
 amo tutto di
@@ -9098,7 +9098,7 @@ mission accomplished
 missione compiuta
 
 highly recommended
-vivamente raccomandato; altamente raccomandato
+vivamente raccomandato; altamente raccomandato; straconsigliato
 
 warning sign
 ll segnale di avvertimento
@@ -64708,3 +64708,13 @@ la catena di supermercati
 
 pragmatism
 il pragmatismo
+
+wire mesh
+la gramella
+
+scruffy
+scambroso
+
+to go to pieces
+andare in frantumi
+
