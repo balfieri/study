@@ -6373,7 +6373,7 @@ reperire
 surface; area; pavement
 la superficie
 
-suitable; fit; apt
+suitable; fit; apt; eligible
 idoneo
 
 rooted; deep-seated
