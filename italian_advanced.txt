@@ -64811,3 +64811,12 @@ l'attivista per i diritti civili
 activist
 l'attivista
 
+satellite (adjective)
+satellitare
+
+satellite transmitter
+il trasmettitore satellitare
+
+satellite messenger
+il messaggero satellitare
+
