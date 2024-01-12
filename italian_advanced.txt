@@ -10540,7 +10540,7 @@ il peperoncino tritato; il peperoncino rosso tritato
 glide path
 il sentiero di discesa
 
-thoroughbred
+thoroughbred; purebred
 purosangue
 
 to fine-tune
@@ -64748,3 +64748,32 @@ illuminante
 little nut
 la nocciolina
 
+it does not bother me
+non mi disturba; non mi da fastidio
+
+to storm the capital building
+assaltare l'edificio del capitale
+
+loan shark
+l'usuraio
+
+boo-boo
+il bubu
+
+ouch!
+ahi!
+
+to throw a temper tantrum
+fare un capriccio
+
+scrolling
+lo scorrimento
+
+irritation in my eye
+l'irritazione nel mio occhio
+
+eye irritation
+l'irritazione agli occhi
+
+vile
+vile
