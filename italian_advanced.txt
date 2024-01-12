@@ -30958,7 +30958,7 @@ sovrastante
 humor me; indulge me
 assecondami; accontentami; dammi corda
 
-to float
+to float; to tread water
 galleggiare
 
 rosemary
@@ -64820,6 +64820,6 @@ il trasmettitore satellitare
 satellite messenger
 il messaggero satellitare
 
-to tread water
+to float on one's back
 fare il morto
 
