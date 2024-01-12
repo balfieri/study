@@ -7815,3 +7815,9 @@ annuale
 
 as needed; as much as necessary
 quanto basta
+
+to check into (hotel)
+fare il check-in in (albergo)
+
+to check out of (hotel)
+fare il check-out da (albergo)
