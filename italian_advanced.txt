@@ -64826,3 +64826,8 @@ fare il morto
 signage; signposting
 la segnaletica
 
+door handle
+la maniglia della porta
+
+car door
+la porta dell'auto
