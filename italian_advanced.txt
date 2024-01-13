@@ -64831,3 +64831,7 @@ la maniglia della porta
 
 car door
 la porta dell'auto
+
+I wish I had known that
+avrei voluto saperlo
+
