@@ -909,7 +909,7 @@ derubare a occhi chiusi
 to be a vault (holding secrets)
 essere una tomba
 
-to put the moves on (somebody)
+to hit on (somebody); to put the moves on (somebody); to make a pass at (somebody)
 provare con (qualcuna)
 
 man-eater
@@ -1184,9 +1184,6 @@ sono esausto
 
 to hit on (somebody)
 picchiare (qualcuno)
-
-to put the moves on somebody
-provarci con qualcuno
 
 take it easy
 vacci piano; fai con calma; rilassati; stai tranquillo; prendila con calma
@@ -3555,3 +3552,5 @@ parla del diavolo
 to go all in
 andare all in
 
+it's just a shell of its old self
+è solo un guscio del suo vecchio sé
