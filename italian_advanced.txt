@@ -64868,3 +64868,6 @@ maggiorato
 lien release
 la liberatoria del pegno
 
+wheelbarrow
+la carriola; il carretto
+
