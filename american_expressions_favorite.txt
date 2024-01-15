@@ -3554,3 +3554,7 @@ andare all in
 
 it's just a shell of its old self
 è solo un guscio del suo vecchio sé
+
+to get bumped (not allowed to perform)
+essere esclusi
+
