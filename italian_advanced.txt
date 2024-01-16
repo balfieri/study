@@ -4919,7 +4919,7 @@ stovetop
 il piano di cottura
 
 hot plate; stove; range
-il fornello; la piastra calda
+il fornello; la piastra calda; i fornelli
 
 meek
 mansueto
@@ -64897,3 +64897,10 @@ fare lo spavaldo
 
 mythomaniac
 il mitomane; la mitomane
+
+to intern
+fare uno stage; stagiare
+
+to be a hair late
+essere un pelo in ritardo
+
