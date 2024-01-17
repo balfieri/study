@@ -64913,3 +64913,8 @@ la corazzata
 floor cleaner; floor washer
 il lavapavimenti
 
+it will take one hour off the flight
+ridurrà il volo di un'ora
+
+to pay by the hour
+pagare all'ora
