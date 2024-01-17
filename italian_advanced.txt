@@ -64910,3 +64910,6 @@ parlare alla radio
 battleship
 la corazzata
 
+floor cleaner; floor washer
+il lavapavimenti
+
