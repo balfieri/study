@@ -54787,7 +54787,7 @@ in cofanetto
 set (adjective)
 incastonato
 
-timeless; endless
+timeless; endless; everlasting
 intramontabile
 
 stony
@@ -64936,4 +64936,7 @@ concedere azioni
 
 lease; rental agreement
 la locazione; il contratto di locazione
+
+hand machine
+la macchinetta a mano
 
