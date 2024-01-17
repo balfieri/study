@@ -18892,7 +18892,7 @@ il contributo
 treaty; pact
 il trattato
 
-place; locality; area
+place; locality; area; geographical area; zone
 la località
 
 accomplished; complete; completed
@@ -64933,4 +64933,7 @@ la temperatura ghiacciata
 
 to grant stock
 concedere azioni
+
+lease; rental agreement
+la locazione; il contratto di locazione
 
