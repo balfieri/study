@@ -64931,3 +64931,6 @@ le temperature molto rigide
 frozen temperature
 la temperatura ghiacciata
 
+to grant stock
+concedere azioni
+
