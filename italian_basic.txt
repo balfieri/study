@@ -6085,8 +6085,11 @@ Sig.
 madam; ma'am
 la signora; la signorina
 
-Mrs.
+Mrs.; Ms.
 Sig.ra
+
+Miss
+Signorina
 
 successive; subsequent; next (further away in time)
 successivo
