@@ -65063,3 +65063,6 @@ il talento; l'inclinazione
 charitable contribution
 il contributo caritatevole; la donazione benefica; il contributo di beneficenza
 
+debatable; questionable; arguable
+opinabile; discutibile
+
