@@ -65066,3 +65066,6 @@ il contributo caritatevole; la donazione benefica; il contributo di beneficenza
 debatable; questionable; arguable
 opinabile; discutibile
 
+overbearingly; arrogantly
+prepotentemente
+
