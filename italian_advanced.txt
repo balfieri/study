@@ -9922,7 +9922,7 @@ il cantalupo
 handshake
 la stretta di mano
 
-bulky; cumbersome
+bulky
 ingombrante
 
 bench (indoor or outdoor)
@@ -65104,3 +65104,7 @@ l'opzione azionaria
 
 stock (finance, adjective)
 azionario
+
+movie trailer
+il trailer del film
+
