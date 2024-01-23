@@ -7015,7 +7015,7 @@ significativo
 instrument rating (pilot)
 l'abilitazione al volo strumentale
 
-qualification; ability
+qualification; ability; rating
 l'abilitazione
 
 to dismiss; to discharge
