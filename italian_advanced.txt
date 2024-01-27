@@ -7930,9 +7930,6 @@ i consumi
 underpants
 le mutande
 
-barefoot
-scalzo
-
 wordliness
 la mondanità
 
@@ -65231,9 +65228,6 @@ in attesa di
 I don't want to inconvenience you; I don't want to embarrass you
 non voglio metterti in imbarazzo
 
-I don't want to weird you out
-non voglio metterti a disagio
-
 home renovation
 la ristrutturazione della casa
 
@@ -65248,4 +65242,55 @@ il primo morso
 
 kale
 il cavolo riccio
+
+bank holiday; government holiday
+il giorno festivo; la festività pubblica
+
+swiss chard
+la bietola
+
+extras (scene, non-speaking)
+le comparse
+
+extras (scene, speaking a line or two)
+le figurazioni
+
+Cailletier olives; Taggiasca olives
+le olive taggiasche
+
+85mm lens
+l'obiettivo da 85mm
+
+depth-of-field
+la profondità di campo
+
+shallow depth-of-field
+la profondità di campo ridotta
+
+a little tricky
+un po' complicato
+
+age of AI
+l'era dell'IA
+
+check-engine light
+la spia del motore
+
+cheery face
+il viso allegro
+
+QR code
+la codice QR
+
+to be at a crossroads
+essere ad un bivio
+
+Apian Way
+la Via Appia
+
+not offhand, sorry
+non al momento, mi dispiace
+
+barefoot
+a piedi nudi; scalzo
 
