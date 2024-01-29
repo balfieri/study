@@ -27121,7 +27121,7 @@ ammalarsi
 bar of soap
 la saponetta
 
-arrugala
+arugula
 la rucola
 
 raspberry
@@ -65246,7 +65246,7 @@ il cavolo riccio
 bank holiday; government holiday
 il giorno festivo; la festività pubblica
 
-swiss chard
+Swiss chard; chard
 la bietola
 
 extras (scene, non-speaking)
