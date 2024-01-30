@@ -65359,3 +65359,7 @@ it is expected; it is predicted
 
 wi-fi
 il wi-fi
+
+cellular provider; mobile operator
+l'operatore mobile; il fornitore di cellulari
+
