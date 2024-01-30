@@ -65363,3 +65363,6 @@ il wi-fi
 cellular provider; mobile operator
 l'operatore mobile; il fornitore di cellulari
 
+50 gigabytes of data
+50 gigabyte di dati
+
