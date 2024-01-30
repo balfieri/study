@@ -65354,3 +65354,5 @@ votare (qualcuno); votare per (qualcuno)
 heaping teaspoon
 il cucchiaio colmo
 
+it is expected; it is predicted
+è previsto
