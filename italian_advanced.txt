@@ -7562,7 +7562,7 @@ to listen closely
 ascoltare attentamente
 
 bank teller
-l'impiegato di banco
+il cassiere della banca; l'impiegato di banca
 
 manuscript
 il manoscritto
@@ -17097,9 +17097,6 @@ sentire il bisogno di viaggiare
 
 with no strings attached
 senza condizioni; senza vincoli
-
-every man for himself
-si salvi chi può
 
 I'm getting by; I manage
 si tira a campare; si tira avanti; si fa quél che si può
@@ -65377,4 +65374,28 @@ elucidare
 
 ski trip
 il viaggio di sci
+
+to gossip
+facheciettare
+
+egg white
+l'albume
+
+happening (adjective)
+avverrante
+
+from Molise
+molisano
+
+refugee
+il rifiugiato
+
+to do a lot of socializing
+fare molta socializzazione; fare un sacco di socializzazione
+
+to socialize
+socializzare
+
+to attend to (something)
+occuparsi di (qualcosa)
 
