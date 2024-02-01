@@ -65431,3 +65431,6 @@ orientarsi
 
 sense of direction
 il senso dell'orientamento
+
+to put on pause; to pause
+mettere in pausa
