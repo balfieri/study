@@ -65441,3 +65441,6 @@ il potere di veto
 to save time
 risparmiare tempo
 
+to rotate the tires
+ruotare le gomme
+
