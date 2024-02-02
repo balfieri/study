@@ -65438,3 +65438,6 @@ mettere in pausa
 veto power
 il potere di veto
 
+to save time
+risparmiare tempo
+
