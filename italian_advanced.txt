@@ -7051,7 +7051,7 @@ immergere
 mankind
 il genere umano
 
-thrilling; emotional; exciting; poignant
+thrilling; emotional; provoking strong emotions; exciting; poignant
 emozionante
 
 vastness
@@ -9616,8 +9616,8 @@ il guscio
 tab; tray; pan
 la vaschetta
 
-hairdresser; barber; stylist
-il parrucchiere
+hairdresser; stylist
+il parrucchiere; la parruchiera
 
 sweetener; sugar substitute
 l'edulcorante
@@ -9865,7 +9865,7 @@ perseguitare
 mindset; mentality
 la mentalità
 
-gripping; riveting; absorbing; exciting; addictive
+gripping; riveting; absorbing
 avvincente
 
 to shriek; to squeal; to squawk
@@ -36853,7 +36853,7 @@ le leggi di moto
 more in depth
 più a fondo
 
-exciting
+exciting; generating enthusiasm
 entusiasmante
 
 interdisciplinary
@@ -65491,4 +65491,38 @@ arrotondato sul retro
 
 to shampoo one's hair
 fare lo shampoo ai capelli
+
+
+prominent role
+il ruolo di rilievo
+
+video game-related; videogame (adjective)
+videoludico
+
+exiled
+esiliato
+
+in exile
+in esilio
+
+I just remembered that (clause)
+mi sono appena ricordato che (clausa)
+
+to be involved in a lawsuit
+essere in causa
+
+to massage vigorously
+massaggiare energeticamente
+
+fold; crease
+la piega
+
+hairstyle
+la capigliatura
+
+rounded
+arrontondato
+
+to run aground
+arenavarsi
 
