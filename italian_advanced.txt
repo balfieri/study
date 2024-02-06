@@ -65546,3 +65546,8 @@ ricredere; riconsiderare
 user; consumer
 il fruitore; il consumatore
 
+to intend; to mean
+intenzionare
+
+to buy back; to repurchase
+ricomprare
