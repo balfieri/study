@@ -37091,7 +37091,7 @@ recruiter
 il reclutatore; la reclutatrice
 
 aircraft
-il velivolo
+il velivolo; l'aeromobile
 
 to strike a blow; to strike a sword blow
 sferrare il fendente
@@ -65551,3 +65551,40 @@ intenzionare
 
 to buy back; to repurchase
 ricomprare
+
+spaghetti meal; spaghetti party
+la spaghettata
+
+to have a spaghetti meal; to have a spaghetti party
+fare una spaghettata
+
+roll
+il rotolo
+
+deciphered
+decifrato
+
+smallpox
+il vaiolo
+
+provocative
+provocativo; provocatorio
+
+thanks for everything
+grazie di tutto
+
+serrated
+seghettato
+
+waiting at runway 21
+in attesa alla pista 21
+
+ready for takeoff
+pronto per il decollo
+
+cleared for takeoff, runway 21
+autorizzato al decollo dalla pista 21
+
+discovery flight
+il volo di scoperta
+
