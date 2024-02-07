@@ -65588,3 +65588,11 @@ autorizzato al decollo dalla pista 21
 discovery flight
 il volo di scoperta
 
+fuel stabilizer
+lo stabilizzatore per carburante; lo stabilizzatore di carburante
+
+battery charger
+il caricabatterie
+
+crazy look in own's eyes
+lo sguardo pazzo nei propri occhi
