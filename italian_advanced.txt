@@ -12991,7 +12991,7 @@ la resa
 plunder; pillage
 il saccheggio
 
-slippery
+slippery (object)
 scivoloso
 
 adventurous; daring
@@ -45425,7 +45425,7 @@ to stay; to reside
 soggiornare
 
 viscious
-viscido; viscioso
+viscioso
 
 to euthanize
 eutanasizzare
@@ -65665,4 +65665,10 @@ il dipartimento di ricerca
 
 I don't think about these things until it's too late
 non penso a queste cose fino a quando non è troppo tardi
+
+slimy; slippery (person)
+viscido
+
+archetype
+l'archetipo
 
