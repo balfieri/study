@@ -49897,7 +49897,7 @@ stagliarsi
 well-received; favorably received
 benaccetto
 
-deposit
+deposit (mineral)
 il giacimento
 
 on paper
@@ -65602,4 +65602,58 @@ edificare
 
 to get very excited about one's trip
 diventare molto emozionati per il proprio viaggio
+
+Earth's crust
+la crosta terrestre
+
+diver
+il palombaro; la palombara
+
+wire-guided
+filaguidato
+
+conceived (idea)
+ideato
+
+deployment
+il dispiegamento
+
+difficult
+ostico
+
+fish (adjective)
+ittico
+
+to guard
+fare la guardia a
+
+busy
+movimentato
+
+Battle of Actium
+la battaglia di Azio
+
+to fall apart
+sfasciarsi
+
+counterorder
+la contrordine
+
+to surrender
+consegnarsi
+
+ballroom
+la sala da ballo
+
+to delude oneself
+autodeludersi
+
+fire extinguisher
+l'estintore
+
+giant (noun)
+il gigante
+
+algaecide
+l'algicida
 
