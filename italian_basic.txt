@@ -3364,9 +3364,6 @@ gli spinaci
 lettuce
 la lattuga
 
-cucumber
-il cetriolo
-
 broccoli
 i broccoli
 
@@ -3376,7 +3373,7 @@ il fagiolo
 fava bean
 la fava
 
-sweetcorn
+corn; sweetcorn
 il mais
 
 pumpkin; squash
