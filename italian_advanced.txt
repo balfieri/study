@@ -65646,7 +65646,7 @@ ballroom
 la sala da ballo
 
 to delude oneself
-autodeludersi
+autodeludersi; illudersi
 
 fire extinguisher
 l'estintore
