@@ -2527,3 +2527,6 @@ fare da spalla
 quest'attore è un cane
 this actor is terrible
 
+wow!
+smamma!
+
