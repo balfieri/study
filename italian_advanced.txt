@@ -65740,3 +65740,6 @@ la canapa
 
 on an empty stomach
 a stomaco vuoto
+
+scarcity
+la scarsità
