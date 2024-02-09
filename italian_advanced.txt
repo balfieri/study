@@ -65743,3 +65743,9 @@ a stomaco vuoto
 
 scarcity
 la scarsità
+
+foundry
+la fonderia
+
+chip foundry
+la fonderia di chip
