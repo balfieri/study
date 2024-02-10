@@ -49406,7 +49406,7 @@ badge
 il tesserino; il distintivo
 
 badge of honor
-il distintivo d'onore
+la medaglia d'onore; il distintivo d'onore
 
 realtor
 l'agente immobiliare
@@ -65749,3 +65749,13 @@ la fonderia
 
 chip foundry
 la fonderia di chip
+
+charging base
+la base di ricarica
+
+across the globe
+in tutto il mondo
+
+to cook at home
+cucinare a casa
+
