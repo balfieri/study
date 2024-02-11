@@ -65792,3 +65792,5 @@ callipigio
 to sharpen (knife)
 affilare
 
+root mean square (RMS)
+la radice media quadrata
