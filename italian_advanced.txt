@@ -38363,10 +38363,10 @@ scheduled delivery
 la consegna programmata
 
 connoisseur (refined)
-l'intenditore
+l'intenditore; l'intenditrice
 
 connoisseur (vast)
-il conoscitore
+il conoscitore; la conoscitrice
 
 a good value for money
 un buon rapporto qualità/prezzo
