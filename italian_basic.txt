@@ -4903,7 +4903,7 @@ splendida; stupenda; meravigliosa; magnifica; bellissima
 proud
 fiero
 
-bisexual
+bisexual; bisex
 bisessuale
 
 homosexual
