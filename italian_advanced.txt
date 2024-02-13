@@ -65813,3 +65813,6 @@ ad occhio
 sports car
 la macchina sportiva
 
+hypersonic
+ipersonico
+
