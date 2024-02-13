@@ -7825,3 +7825,6 @@ fare il check-out da (albergo)
 web page
 la pagina web
 
+to make a decision
+prendere una decisione
+
