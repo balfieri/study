@@ -65878,3 +65878,7 @@ vendibile
 
 actionable
 agibile
+
+greeting card
+il biglietto di auguri
+
