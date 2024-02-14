@@ -3639,3 +3639,5 @@ spara!
 to bleed oneself dry
 svenarsi
 
+to crash at (place)
+schiantarsi a
