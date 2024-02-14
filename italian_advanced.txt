@@ -65873,3 +65873,8 @@ essere leggermente in ritardo
 I'm worried this will happen to me
 ho paura che questo mi succeda
 
+sellable
+vendibile
+
+actionable
+agibile
