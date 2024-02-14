@@ -65915,3 +65915,6 @@ togliersi svizi
 graduate
 il laureando; la laureanda
 
+family-oriented; family-focused
+orientato verso la famiglia; concentrato sulla famiglia
+
