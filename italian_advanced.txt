@@ -52261,7 +52261,7 @@ i bicipiti
 to hospitalize
 ospedalizzare
 
-to intern
+to hospitalize; to intern
 internare
 
 interned
@@ -65980,4 +65980,10 @@ la realtà si avvicina
 
 blue checkmark
 la spunta blu
+
+to have (somebody) committed to a mental institution
+fare internare (qualcuno) in un istituto mentale
+
+to have someone committed
+fare internare qualcuno
 
