@@ -66005,3 +66005,6 @@ il sensore di contatto
 to show oneself
 mostrarsi
 
+standing room only
+solo in piedi; non ci sono posti disponibili
+
