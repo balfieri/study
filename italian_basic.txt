@@ -1774,7 +1774,7 @@ lo studente; la studentessa
 lawyer
 l'avvocato
 
-bartender
+bartender; barrista
 il barista
 
 architect

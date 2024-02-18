@@ -14057,7 +14057,7 @@ strongly recommended
 consigliato vivamente
 
 but you get the idea
-ma hai capito lo stesso
+ma hai capito lo stesso; hai l'idea
 
 green; greenish; lime-green
 verdognolo
@@ -60998,7 +60998,7 @@ fantascientifico
 to contextualize
 contestualizzare
 
-paperclip
+paperclip; paper clip
 la graffetta
 
 to ascribe
@@ -66010,3 +66010,63 @@ solo in piedi; non ci sono posti disponibili
 
 to be gone; to be away
 essere via
+
+the mile high club
+il club del miglio di altezza
+
+over-protective mother
+la madre iperprotettiva
+
+assigned seat
+il posto assegnato
+
+general admission
+l'ingresso generale
+
+crotchety old man
+il vecchio brontolone
+
+each bag weighed 30 kg.
+ogni borsa pesava 30 kg
+
+edge computing
+l'edge computing
+
+head nurse; charge nurse
+la caposala
+
+I am not as busy as you
+non sono occupato quanto te
+
+to fly the friendly skies
+volare nei cieli amichevoli
+
+to misremember
+ricordare male
+
+please give us a tour of your house
+per favore, fai un tour della tua casa
+
+clothes pin; clip
+la molletta
+
+driveway
+il passo carrabile
+
+aperitif dinner
+l'aperacena
+
+SIM card slot
+l'alloggiamento della SIM
+
+sleep schedule
+il programma di sonno
+
+all messed up
+tutto scombussolato
+
+raisin bran cereal
+i cereali con uvetta e crusca
+
+umbrella stand
+il portaombrelli
