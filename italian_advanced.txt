@@ -28957,9 +28957,6 @@ lo apprezzo di più
 I have a hard time with that
 non ce la faccio; ho difficoltà con quello
 
-it just is
-è così e basta
-
 to be very close to (doing something)
 essere molto vicino a (fare qualcosa)
 
@@ -36529,7 +36526,7 @@ il corpo umano
 hospital ward
 il reparto di degenza
 
-hospitalization
+hospitalization; inpatient
 la degenza
 
 to remain in force; to remain in effect
@@ -39376,7 +39373,7 @@ il tassimetro
 a little communication goes a long way
 un po' di comunicazione fa molto
 
-out of service
+out of service; out of order
 fuori servizio
 
 conduct
@@ -56430,7 +56427,7 @@ you just are
 sei solo tu
 
 it just is
-è solo così
+è così e basta; è solo così
 
 error injection
 l'iniezione di errore
@@ -66070,3 +66067,88 @@ i cereali con uvetta e crusca
 
 umbrella stand
 il portaombrelli
+
+shutters
+le persiane
+
+to choose wisely
+scegliere saggiamente
+
+cheapskate
+il tirchio
+
+inbreeding
+la consanguineità
+
+vending machine
+il distributore automatico
+
+LED light bulb
+la lampadina a LED
+
+hourly wage
+il salario orario
+
+useful tips
+i consigli utili
+
+my gelato is better
+il mio gelato è migliore
+
+what can i say?
+cosa posso dire?
+
+to obsess about money
+ossessionarsi per i soldi
+
+to take a Benadryl
+prendere un Benadryl
+
+sleeping pill
+la pillola per dormire
+
+allergy medication
+il medicamento per le allergie
+
+anesthesiologist
+l'anestesista
+
+to pull (something) off
+riuscire a fare (qualcosa)
+
+healthcare worker
+operatore sanitario
+
+order summary
+il riepilogo ordine
+
+scrubs
+le camice
+
+weighing scale
+il pesapersone
+
+rheumatology
+la reumatologia
+
+seasoning; aging
+la stagionatura
+
+waiting room
+la sala di attesa
+
+we have been waiting for two hours in the waiting room
+abbiamo aspettato due ore nella sala di attesa
+
+frustrating
+frustrante
+
+other services
+altre prestazioni
+
+I'll see you soon enough
+ci vediamo abbastanza presto
+
+to break a habit
+rompere un'abitudine
+

@@ -6994,7 +6994,7 @@ caduto
 hidden
 nascosto
 
-loved
+loved; beloved
 amato
 
 sack
