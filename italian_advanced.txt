@@ -1624,8 +1624,8 @@ la fama
 affable; cordial
 affabile
 
-standoffish
-scostante
+standoffish; aloof
+distante; freddo; scostante
 
 to strain; to struggle; to labor
 fare fatica
@@ -44473,7 +44473,7 @@ fiabesco
 cloak and sword
 cappa e spada
 
-boarding gate
+gate (airport); boarding gate
 la porta d'imbarco
 
 scoundrel
@@ -66163,4 +66163,43 @@ il sacchetto di plastica con zip
 
 to go well; to succeed
 andare a buon fine
+
+barcode
+il codice a barre
+
+sage
+la salvia
+
+decaffeinated
+deteinato
+
+rack of networking gear
+la rastrelliera di apparecchiature di rete
+
+hotel industry
+il settore alberghiero
+
+placard
+il cartello; il placard
+
+to stop in (city)
+fermarsi a (città)
+
+in case of unforeseen circumstances
+in caso di imprevisti
+
+being delivered; in delivery
+in consegna
+
+to pace
+fare avanti e indietro
+
+only one (something)
+un solo (qualcosa)
+
+all the work I did paid off
+tutto il lavoro che ho fatto ha dato i suoi frutti
+
+to pay off
+dare i propri frutti
 
