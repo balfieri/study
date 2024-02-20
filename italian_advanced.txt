@@ -4916,7 +4916,7 @@ voucher; coupon; credit
 il buono
 
 stovetop
-il piano di cottura
+il piano di cottura; il piano cottura
 
 hot plate; stove; range
 il fornello; la piastra calda; i fornelli
@@ -66203,3 +66203,32 @@ tutto il lavoro che ho fatto ha dato i suoi frutti
 to pay off
 dare i propri frutti
 
+induction stovetop
+il piano cottura a induzione
+
+dog poop
+la cacca di cane
+
+the three musketeers
+i tre moschettieri
+
+prominent name
+il nome di spicco
+
+retaliation
+la rappresaglia
+
+frills
+i fronzoli
+
+blunt
+contundente
+
+floating
+fluttuante
+
+to float
+galleggiare; fluttuare
+
+to fluctuate
+fluttuare; oscillare
