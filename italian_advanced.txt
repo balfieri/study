@@ -24370,7 +24370,7 @@ la punteggiatura
 I can't stay mad at you
 non posso rimanere arrabbiato con te
 
-withdrawal; retreat (meeting)
+withdrawal; pickup; retreat (meeting)
 il ritiro
 
 retreat (troups); withdrawl
@@ -66284,3 +66284,5 @@ l'esordio alla regia
 to seize the opportunity
 cogliere l'opportunità
 
+package pickup
+il ritiro di pacco
