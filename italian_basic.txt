@@ -7833,3 +7833,6 @@ la lente a contatto
 
 at what time
 a che ora
+
+server
+il servatore; la servatrice
