@@ -337,8 +337,8 @@ uscente
 lift
 il sollevamento
 
-bad weather
-il brutto tempo; l'intemperia; il maltempo
+bad weather; inclement weather
+il maltempo; il brutto tempo; le intemperie
 
 to stall (intransitive)
 mettersi in stallo
