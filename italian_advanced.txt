@@ -66286,3 +66286,6 @@ cogliere l'opportunità
 
 package pickup
 il ritiro di pacco; il ritiro del pacco
+
+main purpose
+lo scopo principale
