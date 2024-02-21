@@ -66251,3 +66251,6 @@ lasciare una mancia a (un cameriere)
 Coke Zero
 la Coke Zero
 
+to total it; to ring it up
+farlo totale
+
