@@ -1057,8 +1057,8 @@ il forno
 to bake
 fornare
 
-bathroom
-il bagno; il servizio
+bathroom; restroom
+il bagno; i servizi
 
 toilet
 la toilette; la toletta
