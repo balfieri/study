@@ -66260,3 +66260,7 @@ la banconota da 10 euro
 struggling actor
 l'attore in difficoltà
 
+aspiring actor
+l'attore aspirante
+
+
