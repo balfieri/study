@@ -66254,3 +66254,6 @@ la Coke Zero
 to total it; to ring it up
 farlo totale
 
+10 euro bill
+la banconota da 10 euro
+
