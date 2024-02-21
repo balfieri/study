@@ -37096,8 +37096,8 @@ il pentimento
 lithium
 il litio
 
-to feed; to give food to someone or something
-dare da mangiare
+to feed; to give food to (someone)
+dare da mangiare a (qualcuno)
 
 to feed; to provide food
 cibare; alimentare
@@ -63181,9 +63181,6 @@ il fiocchio di neve
 
 briefcase
 la valigetta
-
-to feed (someone)
-dare da mangiare a (qualcuno)
 
 let me tell you
 lascia che ti dica
