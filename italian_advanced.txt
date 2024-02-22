@@ -66368,5 +66368,8 @@ di che altro hai bisogno?; che altro ti serve?
 nothing else really matters
 non conta veramente altro
 
+nothing else matters
+non importa nient'altro
+
 to have a lot of value
 avere molto valore
