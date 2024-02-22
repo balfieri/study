@@ -18097,9 +18097,6 @@ la trasformazione
 contrast
 il contrasto
 
-resistance
-la resistenza
-
 bishop
 il vescovo
 
@@ -66293,3 +66290,35 @@ lo scopo principale
 could you watch my computer while I get a drink?
 potrebbe guardare il mio computer mentre prendo da bere?
 
+feel free to (do something)
+sentiti libero di (fare qualcosa)
+
+to go a long time without
+stare molto tempo senza
+
+to point at
+puntare a; indicare a
+
+stamina; resistance
+la resistenza
+
+to have stamina
+avere resistenza
+
+two-kiss greeting
+il saluto con due baci
+
+after a while, I got used to it
+dopo un po', mi ci sono abituato
+
+outburst
+scoppio; esplosione
+
+faux pas
+il gaffe
+
+patient (of a doctor)
+il paziente (di un dottore)
+
+house number
+il numero civile
