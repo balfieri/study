@@ -66347,3 +66347,5 @@ suburbano
 self-damping
 autosmorzante
 
+to talk oneself out of (doing something)
+dissuadersi da (fare qualcosa)
