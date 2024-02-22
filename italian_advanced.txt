@@ -66322,3 +66322,13 @@ il paziente (di un dottore)
 
 house number
 il numero civile
+
+random person
+la persona a caso
+
+tailoring
+la sartoria
+
+speed camera; speed control
+l'autovelox
+
