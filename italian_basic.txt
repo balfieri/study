@@ -2881,7 +2881,7 @@ sentire
 to sleep
 dormire
 
-to be needed (general, impersonal); to serve; to be useful
+to be needed (general, impersonal); to serve; to be useful; to wait on (serve)
 servire
 
 to need (personal)
