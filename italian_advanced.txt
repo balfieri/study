@@ -8075,7 +8075,7 @@ irrelevant; not pertinant; moot
 irrelevante; discutibile; nonluogo; nonpertinente
 
 attic
-la soffita; il sottotetto
+la soffitta; il sottotetto
 
 House of Representatives
 La Camera dei Rappresentanti
@@ -66379,4 +66379,46 @@ la vacanza esotica
 
 cheese shop
 la formaggeria
+
+text editor
+l'editor di testo
+
+hotel lobby
+l'atrio dell'hotel
+
+to fall into a trap
+cadere in una trappola
+
+night light
+la luce notturna
+
+tender; soft
+tenerino
+
+sour cherry
+la visciola
+
+to defy the laws of physics
+sfidare le leggi della fisica
+
+to sneak; to slip in
+intrufolare
+
+constructed by hand
+costruito a mano
+
+to stub one's toe
+sbattere il dito del piede
+
+faux pas
+il passo falso
+
+svelte
+snello; elegante
+
+rifinito
+finished; refined
+
+unfinished attic
+la soffitta non finita
 
