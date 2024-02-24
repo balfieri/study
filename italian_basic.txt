@@ -7836,3 +7836,7 @@ a che ora
 
 server
 il servatore; la servatrice
+
+orange juice
+il succo d'arancia
+
