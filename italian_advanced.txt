@@ -9586,7 +9586,7 @@ zappare
 astride
 a cavalcioni
 
-bar (chocolate)
+bar (chocolate); tablet
 la tavoletta
 
 table; chart
@@ -66547,4 +66547,5 @@ il male
 
 final ranking
 la classifica definitiva
+
 
