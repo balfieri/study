@@ -7606,7 +7606,7 @@ l'idea sfocata
 fuzzy; blurry; vague
 sfocato
 
-to support (on a surface or moral support); to support an enterprise
+to support (on a surface, moral support, base of support); to support an enterprise
 appoggiare
 
 enterprise; company; venture
@@ -24815,7 +24815,10 @@ disturbed (mentally)
 disturbato
 
 to support (actively or defend); to sustain; to back
-sostenere; supportare
+sostenere
+
+to support (general, assistance)
+supportare
 
 dumpling; lump
 lo gnocco
@@ -66485,3 +66488,29 @@ la trappola per turisti; la trappola turistica
 money well spent
 i soldi ben spesi
 
+unisex
+unisex
+
+insole
+il suoletto
+
+abyss
+il baratro
+
+to get given; to be given
+farsi dare
+
+to be on life support
+essere in terapia intensiva
+
+to make a full recovery
+fare una completa guarigione
+
+to upgrade the rental car
+aggiornare la macchina a noleggio
+
+to shop for new shoes
+fare shopping per nuove scarpe
+
+rental car
+la macchina a noleggio
