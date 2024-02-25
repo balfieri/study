@@ -66545,3 +66545,6 @@ reggere bene; andare bene
 evil; harm; bad
 il male
 
+final ranking
+la classifica definitiva
+
