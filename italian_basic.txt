@@ -7840,3 +7840,5 @@ il servatore; la servatrice
 orange juice
 il succo d'arancia
 
+creamy
+cremoso
