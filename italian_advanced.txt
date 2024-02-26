@@ -66566,3 +66566,5 @@ ci vediamo allora!
 coin
 la moneta
 
+something more powerful
+qualcosa di più potente
