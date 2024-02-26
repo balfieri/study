@@ -27277,8 +27277,8 @@ deficiente
 to swear (promise, affermation)
 giurare
 
-to get stressed
-stressarsi
+to get stressed about (doing something)
+stressarsi (fare qualcosa)
 
 presence
 la presenza
@@ -66592,4 +66592,7 @@ decarbonizzare
 
 to settle the bill
 saldare il conto
+
+to opt out of (something)
+rinunciare a (qualcosa); optare per non partecipare a (qualcosa)
 
