@@ -66620,3 +66620,6 @@ il biglietto da bagarini; il biglietto comprato a un prezzo piÃ¹ alto
 to scalp tickets
 rivendere i biglietti a un prezzo più alto; fare bagarinaggio
 
+welfare line
+la fila per il welfare; la coda per i benefici
+
