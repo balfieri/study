@@ -18500,7 +18500,7 @@ secretary; registrar; private secretary
 il segretario
 
 sector
-il settore
+il settore; il comparto
 
 established; set
 stabilito
@@ -66599,3 +66599,5 @@ rinunciare a (qualcosa); optare per non partecipare a (qualcosa)
 nationwide
 in tutto il paese; a livello nazionale
 
+sector; compartment
+il comparto
