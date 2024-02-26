@@ -66563,3 +66563,6 @@ illuminare (qualcuno) su (qualcosa)
 see you then!
 ci vediamo allora!
 
+coins
+le monete
+
