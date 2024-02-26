@@ -66386,8 +66386,11 @@ la formaggeria
 text editor
 l'editor di testo
 
+lobby
+l'atrio; l'hall
+
 hotel lobby
-l'atrio dell'hotel
+l'atrio dell'hotel; l'hall dell'hotel
 
 to fall into a trap
 cadere in una trappola
