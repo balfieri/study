@@ -66703,3 +66703,10 @@ non sono così (aggettivo)
 
 10 minutes away
 a 10 minuti di distanza
+
+to asymptotically approach
+avvicinarsi asintoticamente
+
+asymptotically
+asintoticamente
+
