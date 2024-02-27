@@ -66705,7 +66705,10 @@ non sono così (aggettivo)
 a 10 minuti di distanza
 
 to asymptotically approach
-avvicinarsi asintoticamente
+avvicinarsi asintoticamente; avvicinarsi in modo asintotico
+
+to asymptotically approach the ideal
+avvicinarsi all'ideale in modo asintotico
 
 asymptotically
 asintoticamente
