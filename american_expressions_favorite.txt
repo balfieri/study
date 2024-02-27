@@ -3687,3 +3687,12 @@ puoi vestirlo ma non puoi portarlo da nessuna parte
 to come up a little short
 venire un po' corto; cadere un po' corto
 
+house-poor
+povero a causa delle spese di casa
+
+to hit the spot
+essere davvero soddisfacenti
+
+to tick all the boxes
+soddisfare molti requisiti
+
