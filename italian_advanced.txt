@@ -66727,3 +66727,7 @@ scordarsi
 
 swagger; confidence
 la badanza
+
+leap year
+l'anno bisestile
+
