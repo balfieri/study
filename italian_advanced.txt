@@ -66739,3 +66739,6 @@ viziare
 
 clothes horse; drying rack
 lo stendino; la stendibiancheria
+
+the stem; the trunk
+il fusto
