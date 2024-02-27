@@ -66742,3 +66742,6 @@ lo stendino; la stendibiancheria
 
 the stem; the trunk
 il fusto
+
+champion; outstanding player
+il fuoriclasse
