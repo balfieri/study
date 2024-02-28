@@ -66824,3 +66824,6 @@ l'informatica
 computer engineering
 l'ingegneria informatica
 
+counter; bench
+il banco
+
