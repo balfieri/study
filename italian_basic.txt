@@ -7846,3 +7846,8 @@ cremoso
 here it is; here you go
 ecco qua; ecco qui
 
+to toast; to roast (coffee beans)
+tostare
+
+toasted
+tostato
