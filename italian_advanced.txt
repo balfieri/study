@@ -11461,7 +11461,7 @@ schiantare
 to implement; to actualize
 attuare
 
-outcome; result
+outcome; result (event, process)
 l'esito
 
 re-count
