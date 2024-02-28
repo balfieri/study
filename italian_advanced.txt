@@ -66857,3 +66857,6 @@ i rifiuti indifferenziati; i rifiuti non riciclabili
 to use interchangeably
 usare in modo intercambiabile
 
+true; genuine
+verace
+
