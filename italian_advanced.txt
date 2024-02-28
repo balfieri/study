@@ -66830,3 +66830,6 @@ il banco
 offside; offsides
 fuori gioco
 
+to overact; to ham it up
+fare l'istrionica
+
