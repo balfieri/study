@@ -66808,3 +66808,7 @@ per la tua informazione
 
 to roast coffee beans
 tostare i chicchi di caffè
+
+transactional
+transazionale
+
