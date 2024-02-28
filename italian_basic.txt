@@ -1693,9 +1693,6 @@ il cappotto
 suit; look
 l'abito
 
-tie
-la cravatta
-
 sock
 il calzino
 
