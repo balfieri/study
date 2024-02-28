@@ -31258,7 +31258,7 @@ la bambola
 lost and found
 gli oggetti smarriti
 
-lost; misplaced; astray
+lost (object); misplaced; astray
 smarrito
 
 to go astray; to lose; to misplace
@@ -66787,3 +66787,7 @@ oggetti smarriti & ritrovati
 
 a lot of information
 molte informazioni; molta informazione
+
+dish soap
+il detersivo per i piatti
+
