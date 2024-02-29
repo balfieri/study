@@ -1651,9 +1651,6 @@ andare a gonfie vele
 to tread lightly
 andarci coi piedi di piombo
 
-to leave with one's tail between one's legs
-andarsene con la coda tra le gambe
-
 to continue waiting for (something) that seems imminent but never comes
 aspettare Godot
 
@@ -1846,8 +1843,8 @@ andare per le lunghe
 to hit the roof
 andare su tutte le furie
 
-to leave with one's tail between his legs
-andarsene con la coda fra le gambe
+to leave with one's tail between one's legs
+andarsene con la coda tra le gambe; andarsene con la coda fra le gambe
 
 to drown in fat
 affogare nel grasso
