@@ -571,7 +571,7 @@ sazio
 idleness; leisure
 l'ozio
 
-to break; to break up; to snap; to break apart
+to break (into pieces); to break up; to snap; to break apart
 spezzare
 
 basket; hamper; handbasket
@@ -66865,4 +66865,13 @@ il salottino
 
 you'll get through this
 ce la farai
+
+to toggle a switch; to flip a switch
+capovolgere un interruttore
+
+these shoes fit well
+queste scarpe vanno bene
+
+to break a 50
+spezzare una 50
 
