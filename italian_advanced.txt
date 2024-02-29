@@ -3440,7 +3440,7 @@ brick; tile
 il mattone
 
 to make a toast
-fare un brindisi; fare un toast
+fare un brindisi; fare un toast; brindare
 
 to study hard and play hard
 studiare duro e giocare duro
