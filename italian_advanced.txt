@@ -66887,3 +66887,5 @@ il mucchio di parole
 step-by-step guide
 la guida passo-passo
 
+button (to push)
+il pulsante
