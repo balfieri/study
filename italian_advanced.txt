@@ -11224,7 +11224,7 @@ la regina del dramma; la reginetta del dramma; la drammatica
 to be a drama queen
 fare la drammatica; essere una regina del dramma; fare la melodrammatica
 
-not bad
+not bad; not too bad
 niente male; non c'è male
 
 nothing special
@@ -66901,4 +66901,7 @@ la paninoteca
 
 I live on Salaria Street
 vivo su Via Salaria
+
+you're welcome; it's nothing; don't mention it
+di nulla; non c'è di che
 
