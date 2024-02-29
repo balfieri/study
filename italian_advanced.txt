@@ -66875,3 +66875,6 @@ queste scarpe vanno bene
 to break a 50
 spezzare una 50
 
+to keep a tab (bill)
+tenere un conto
+
