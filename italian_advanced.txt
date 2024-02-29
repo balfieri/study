@@ -66889,3 +66889,7 @@ la guida passo-passo
 
 button (to push)
 il pulsante
+
+basic steps
+i passaggi di base
+
