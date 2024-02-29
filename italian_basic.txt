@@ -2830,7 +2830,7 @@ leggere
 to repeat
 ripetere
 
-to ask
+to ask; to ask for
 chiedere; domandare
 
 to believe
