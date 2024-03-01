@@ -67004,3 +67004,5 @@ la lieve preferenza
 report; medical report
 il referto; il referto medico
 
+please be seated (formal, restaurant)
+accommodate
