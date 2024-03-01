@@ -51536,7 +51536,7 @@ mindfulness
 la consapevolezza; il mindfulness; l'attenzione plena
 
 to face up to; to do the math; to figure things out; to crunch the numbers
-fare i conti
+fare i conti; fare i calcoli
 
 melancholic
 malinconico
@@ -66982,3 +66982,7 @@ it's self-evident; it goes without saying
 
 control panel
 il pannello di controllo
+
+life savings
+i risparmi di vita
+
