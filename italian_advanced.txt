@@ -8032,9 +8032,6 @@ patriottico
 gun control
 il controllo delle armi
 
-overturning
-il rovesciamento
-
 townhouse
 la casa a schiera
 
@@ -67018,4 +67015,7 @@ il cliente abituale
 
 self-service (adjective)
 self-service
+
+overturning; overthrow
+il rovesciamento
 
