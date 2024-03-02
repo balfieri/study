@@ -7848,3 +7848,9 @@ tostare
 
 toasted
 tostato
+
+vegetarian
+vegetariano
+
+vegan
+vegano

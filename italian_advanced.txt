@@ -27274,7 +27274,7 @@ deficiente
 to swear (promise, affermation)
 giurare
 
-to get stressed about (doing something)
+to get stressed out about (doing something)
 stressarsi (fare qualcosa)
 
 presence
@@ -67069,4 +67069,16 @@ la luce sovrastante
 
 teflon pan
 la padella in teflon
+
+stockings
+le calze
+
+tights; panty hose
+i collant
+
+leggings
+i leggings
+
+roller shutter
+la serranda
 
