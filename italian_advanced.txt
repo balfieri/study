@@ -67043,7 +67043,7 @@ durante le ore diurne
 heat
 la caldia
 
-radiator
+radiator (heat)
 il termosifono
 
 ingenious
