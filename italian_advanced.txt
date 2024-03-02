@@ -30940,7 +30940,7 @@ il serbatoio d'acqua; la cisterna d'acqua
 water heater
 lo scaldabagno; la caldaia
 
-overhanging; overlying
+overhanging; overlying; overhead
 sovrastante
 
 humor me; indulge me
@@ -67060,4 +67060,10 @@ gli orari di apertura
 
 kindness
 la gentilezza
+
+towel hook
+il gancio per asciugamani
+
+overhead light
+la luce sovrastante
 
