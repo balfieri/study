@@ -67115,3 +67115,5 @@ la veglia di preghiera
 reliability percentage
 il percentuale di attendibilità
 
+deal
+l'affare
