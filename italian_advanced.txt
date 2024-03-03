@@ -67187,3 +67187,5 @@ allegro; spensierato; leggero
 blithely
 allegro; leggermente; spensieratamente
 
+brute
+il bruto
