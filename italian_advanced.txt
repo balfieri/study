@@ -67193,3 +67193,8 @@ il bruto
 to cross the Rubicon
 attraversare il Rubicone
 
+light color
+il colore chiaro
+
+dark color
+il colore scuro
