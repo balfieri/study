@@ -11548,7 +11548,10 @@ il deterioramento; il degrado
 worsening; aggravation
 l'aggravamento
 
-reliability
+reliability (person, object)
+l'affidabilità
+
+reliability (source, information)
 l'attendibilità
 
 fertile
@@ -67108,4 +67111,7 @@ susseguirsi
 
 prayer vigil
 la veglia di preghiera
+
+reliability percentage
+il percentuale di attendibilità
 
