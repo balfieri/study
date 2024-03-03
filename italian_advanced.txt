@@ -67181,3 +67181,9 @@ l'agitatore; l'istigatore
 impudent
 impudente
 
+blithe
+allegro; spensierato; leggero
+
+blithely
+allegro; leggermente; spensieratamente
+
