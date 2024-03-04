@@ -67232,3 +67232,5 @@ la battuta rapida
 party atmostphere
 l'atmosfera festiva
 
+recruit
+la recluta
