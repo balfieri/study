@@ -67285,3 +67285,6 @@ le spalle larghe
 
 to schedule; to calendar
 calendarizzare
+
+unofficial; off the record
+ufficioso
