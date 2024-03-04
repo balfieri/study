@@ -58883,9 +58883,6 @@ lo shampoo
 hand soap
 il sapone per le mani
 
-dish soap
-il detersivo per piatti
-
 body soap
 il sapone per il corpo
 
@@ -62398,9 +62395,6 @@ fugacemente
 
 set (adjective)
 apparecchiato
-
-to whiten
-sbiancare
 
 face reader
 il fisionomista
@@ -66786,7 +66780,7 @@ a lot of information
 molte informazioni; molta informazione
 
 dish soap
-il detersivo per i piatti
+il detersivo per piatti; il detersivo per i piatti
 
 small bite; morsel
 il bocconcino; il pezzettino
@@ -67202,3 +67196,20 @@ il colore scuro
 to get one's hair colored
 farsi colorare i capelli
 
+I already have one
+ne ho già uno
+
+flattened; crushed
+schiacciato
+
+to bleach; to whiten
+sbiancare
+
+fabric softener
+l'ammorbidente per tessuti
+
+seat on the bus
+il posto sull'autobus
+
+to relearn
+riapprendere; reimparare
