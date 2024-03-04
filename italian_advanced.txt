@@ -67256,3 +67256,11 @@ lo stigma
 mortgage rate
 il tasso del mutuo
 
+fixed-rate
+a tasso fisso
+
+variable-rate
+a tasso variabile
+
+to refinance
+rifinanziare
