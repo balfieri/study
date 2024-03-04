@@ -6616,7 +6616,7 @@ severo; stretto; rigido
 attic apartment
 la mansarda
 
-basement; basement apartment
+basement; basement apartment; cellar
 il seminterrato; la cantina; lo scantinato
 
 penthouse
@@ -67234,3 +67234,7 @@ l'atmosfera festiva
 
 recruit
 la recluta
+
+floor plan
+la planimetria
+
