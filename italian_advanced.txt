@@ -26428,7 +26428,7 @@ il cavatappi
 it is not meant to be (something)
 non vuol essere (qualcosa)
 
-extravagant
+extravagant; bizzare
 stravagante
 
 somewhat; rather
@@ -59066,7 +59066,7 @@ giungere a conclusioni
 budget law
 la legge di bilancio
 
-whimsical
+whimsical; bizzarre
 bizzarro; capriccioso
 
 on a whim
@@ -67345,4 +67345,7 @@ i consigli per un ristorante
 
 pleasant surprise
 la sorpresa piacevole
+
+I hope everything's going well for you
+spero che tutto vada bene per te
 
