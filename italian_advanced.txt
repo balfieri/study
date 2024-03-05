@@ -41570,7 +41570,7 @@ smoker (cooking)
 l'affumicatore
 
 smoker (person)
-il fumatore
+il fumatore; la fumatrice
 
 the sack (bed)
 il sacco (letto)
