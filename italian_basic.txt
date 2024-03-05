@@ -7261,10 +7261,10 @@ imparato
 to work (function); to function
 funzionare
 
-suggestion
+suggestion (neutral, objective)
 il suggerimento
 
-advice
+advice; suggestion (personal, subjective)
 il consiglio
 
 time; weather; tense (verb)
