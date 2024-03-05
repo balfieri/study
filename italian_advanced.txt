@@ -67328,3 +67328,14 @@ il vino liscio
 aughts
 gli zeri
 
+weekday (adjective)
+feriale
+
+weeknight; weekday night
+la notte feriale
+
+weekday (noun)
+il giorno feriale
+
+weekday morning
+la mattina feriale
