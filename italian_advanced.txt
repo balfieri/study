@@ -1780,7 +1780,7 @@ spaesato
 to delay; to be late; to hesitate
 tardare
 
-to scold; to reproach; to reprimand
+to scold; to reproach; to reprimand; to chew out
 rimproverare
 
 store owner
@@ -67339,3 +67339,7 @@ il giorno feriale
 
 weekday morning
 la mattina feriale
+
+restaurant recommendation
+i consigli per un ristorante
+
