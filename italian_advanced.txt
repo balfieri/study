@@ -43861,9 +43861,6 @@ licenziare (qualcuno)
 traffic pattern
 lo schema del traffico
 
-three of a kind
-il tris
-
 spade
 la picca
 
@@ -67391,3 +67388,5 @@ il breaking news; le notizie di ultima ora
 big dust cloud; big fuss; big commotion
 il poverone; la grande nuvola di polvere; il grande trambusto
 
+trio; three of a kind
+il tris
