@@ -27631,7 +27631,7 @@ anonimo
 complement
 il complemento
 
-to manifest; to appear; to reveal oneself
+to manifest; to appear; to reveal oneself; to come out
 manifestarsi
 
 economically
@@ -67441,4 +67441,10 @@ la sindrome di Tourette
 
 utilities
 i servizi pubblici
+
+southern accent
+l'accento del sud; l'accento meridionale
+
+northern accent
+l'accento del nord; l'accento settentrionale
 
