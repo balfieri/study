@@ -22012,7 +22012,7 @@ il circolo
 ease; easiness
 la facilità
 
-ordered; orderly; tidy; neat
+neat; ordered; orderly; tidy
 ordinato
 
 whence; hence
@@ -67411,4 +67411,7 @@ ci vediamo più tardi oggi
 
 for starters; to begin with; firstly
 per cominciare
+
+to keep (something) neat
+mantenere (qualcosa) in ordine
 
