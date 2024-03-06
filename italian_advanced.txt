@@ -60942,7 +60942,7 @@ to tear to pieces
 sbranare
 
 in tune
-intonato
+intonato; a tono
 
 out of tune
 stonato
