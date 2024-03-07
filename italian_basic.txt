@@ -7867,3 +7867,5 @@ niente per ora, grazie
 by now; at this point
 ormai
 
+menu
+il menù
