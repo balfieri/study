@@ -67547,3 +67547,6 @@ fare conversazione; fare chiacchiere
 recessed
 incassato; rientrato
 
+nursery; plant nursery
+il vivaio; il vivaio di piante
+
