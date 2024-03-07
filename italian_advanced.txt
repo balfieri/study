@@ -67468,3 +67468,7 @@ svendere; liquidare
 
 to plug into a socket
 inserire in una presa
+
+espresso machine
+la macchina per espresso
+
