@@ -21988,7 +21988,7 @@ la moda
 instant
 l'istante
 
-change; modification
+change; edit; modification
 la modifica; la modificazione
 
 branch (tree, plant)
