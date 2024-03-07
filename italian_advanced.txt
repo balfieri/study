@@ -17470,7 +17470,7 @@ trollare
 to friend-zone
 friendzonare
 
-attended; anticipated
+expected; attended; anticipated
 atteso
 
 nerd; geek; egghead
@@ -67465,3 +67465,6 @@ non ci metterà molto; ci vorrà poco tempo
 
 to sell off; to liquidate
 svendere; liquidare
+
+to plug into a socket
+inserire in una presa
