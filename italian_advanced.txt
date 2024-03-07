@@ -65663,9 +65663,6 @@ il trizio
 deuterium
 il deuterio
 
-amazing
-strabiliante
-
 to winterize
 invernare
 
@@ -67465,3 +67462,6 @@ sento che sta arrivando un mal di testa
 
 it will take no time; it won't take long
 non ci metterà molto; ci vorrà poco tempo
+
+to sell off; to liquidate
+svendere; liquidare
