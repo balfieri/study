@@ -67598,3 +67598,6 @@ parlare in modo poco chiaro
 obsolete; non-customary; unusual
 desueto
 
+to table; to shelve
+tavolare
+
