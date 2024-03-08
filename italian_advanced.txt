@@ -67580,3 +67580,6 @@ il campanello d'allarme; il segnale d'allarme
 quintessence
 la quintessenza
 
+computer security; information security
+la sicurezza informatica
+
