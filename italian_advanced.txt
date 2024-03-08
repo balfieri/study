@@ -38137,7 +38137,7 @@ il professionista sanitario
 opthamologist
 l'oftalmologo
 
-to direct; to address; to steer
+to direct; to address; to steer; to refer
 indirizzare
 
 lightning cable (Apple)
@@ -67556,3 +67556,8 @@ il cibo da un ristorante
 to sort the mail
 ordinare la posta
 
+Colombian
+colombiano
+
+Iranian
+iraniano
