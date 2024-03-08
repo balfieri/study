@@ -67550,3 +67550,9 @@ incassato; rientrato
 nursery; plant nursery
 il vivaio; il vivaio di piante
 
+restaurant food
+il cibo da un ristorante
+
+to sort the mail
+ordinare la posta
+
