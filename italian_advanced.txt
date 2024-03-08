@@ -15118,7 +15118,7 @@ fare economia
 to go Dutch
 pagare alla romana
 
-to make a living; to earn one's keep
+to make a living; to earn one's keep; to earn a livelihood
 guadagnarsi da vivere
 
 gold mine
@@ -23430,9 +23430,6 @@ il minerale
 
 colonel
 il colonnello
-
-subsistence
-la sussistenza
 
 coal
 il carbone
@@ -67627,4 +67624,26 @@ ancora da 3 a 5 anni
 
 to commit suicide
 commettere suicidio; suicidarsi
+
+to take cooking lessons
+prendere lezioni di cucina
+
+to send via mail
+inviare tramite la posta
+
+I realized I have a lot to live for
+mi sono reso conto che ho molto per cui vivere
+
+I realized I have so much left to live for
+mi sono reso conto che ho ancora tanto da vivere
+
+tank top
+la canotta
+
+table wine
+il vino da tavola
+
+livelihood; subsistence
+la sussistenza
+
 
