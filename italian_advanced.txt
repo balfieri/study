@@ -26596,7 +26596,7 @@ il tubo
 parish (adjective)
 parrocchio
 
-fist
+fist; handful; fistful
 il pugno
 
 architectural
@@ -67616,3 +67616,5 @@ fare nulla di particolare per (fare qualcosa)
 Franciscan
 Francescano
 
+handful of people
+il pugno di persone
