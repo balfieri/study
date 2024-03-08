@@ -28336,7 +28336,7 @@ sono venuti a cena degli amici
 practice exam
 l'esame pratico; l'esame di prova; il test di prova
 
-to ship a package
+to send a package; to ship a package
 spedire un pacco
 
 fossil
@@ -67594,3 +67594,4 @@ fra un'ora circa
 
 to multitask
 fare il multitasking
+
