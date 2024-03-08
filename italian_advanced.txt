@@ -58817,9 +58817,6 @@ strenato
 to exhaust
 strenare
 
-obsolete
-desueto
-
 brain teaser
 il grattacapo
 
@@ -67598,6 +67595,6 @@ fare il multitasking
 to speak in an unclear way
 parlare in modo poco chiaro
 
-unusual; obsolete; non-customary
-disueto
+obsolete; non-customary; unusual
+desueto
 
