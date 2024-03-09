@@ -65244,7 +65244,7 @@ cheery face
 il viso allegro
 
 QR code
-la codice QR
+il codice QR
 
 to be at a crossroads
 essere ad un bivio
