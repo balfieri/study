@@ -67712,3 +67712,6 @@ il flanker (rugby)
 number 8 (rugby)
 il numero 8 (rugby)
 
+injury
+l'infortunio
+
