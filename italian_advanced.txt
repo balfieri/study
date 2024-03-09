@@ -67691,3 +67691,24 @@ in pressing
 to root for a team; to support a team; to cheer for a team
 sostenere una squadra; tifare per una squadra
 
+prop (rugby)
+il pilone (rugby)
+
+hooker (rugby)
+il tallonatore (rugby)
+
+scrum-half
+il mediano di mischia
+
+fly-half
+il mediano d'apertura
+
+full-back (rugby)
+l'estremo (rugby)
+
+flanker (rugby)
+il flanker (rugby)
+
+number 8 (rugby)
+il numero 8 (rugby)
+
