@@ -67676,3 +67676,5 @@ il poncho da pioggia
 jacket hood
 il cappuccio della giacca
 
+role model
+il modello di ruolo
