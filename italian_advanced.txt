@@ -67832,3 +67832,6 @@ si è girato e mi ha detto di tacere
 it can't be that terrible
 non può essere così terribile
 
+shutdown; turning off
+lo spegnimento
+
