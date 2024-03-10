@@ -2506,7 +2506,7 @@ l'incomodo
 to start; to commence; to begin; to bootstrap
 avviare
 
-to go (formal, specific); to leave; to depart
+to go (formal, specific); to leave; to depart; to proceed; to make one's way
 recarsi
 
 to click (photo); to startle; to trigger
@@ -67786,4 +67786,7 @@ il gianduja
 
 to study business
 studiare economia
+
+discount card; loyalty card
+la carta fedeltà; la carta sconto
 
