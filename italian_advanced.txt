@@ -66489,7 +66489,7 @@ to shop for new shoes
 fare shopping per nuove scarpe
 
 rental car
-la macchina a noleggio
+la macchina a noleggio; l'auto a noleggio
 
 to put away the clothes
 mettere via i vestiti
@@ -67807,4 +67807,16 @@ l'album fotografico
 
 to pick up after one's dog
 raccogliere dopo il proprio cane
+
+to return the rental car
+restituire l'auto a noleggio
+
+car rental return
+il ritorno dell'auto a noleggio
+
+tripe
+la trippa
+
+complete disappointment
+la delusione completa
 

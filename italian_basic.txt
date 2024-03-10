@@ -2045,7 +2045,7 @@ horse; knight (chess)
 il cavallo
 
 lamb
-l'agnello
+l'agnello; l'abbacchio
 
 cow
 la mucca
