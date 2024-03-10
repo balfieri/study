@@ -5338,7 +5338,7 @@ la coscenza
 difficulty
 la difficoltà
 
-economy; economics
+economy; economics; business (subject)
 l'economia
 
 market
