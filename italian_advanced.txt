@@ -67835,3 +67835,6 @@ non può essere così terribile
 shutdown; turning off
 lo spegnimento
 
+scan
+la scansione
+
