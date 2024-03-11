@@ -53704,7 +53704,7 @@ rimandare; sospendere
 adjourned
 rimandato; sospeso
 
-culprit
+culprit; guilty party
 il colpevole
 
 séance
