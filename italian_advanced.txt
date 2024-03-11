@@ -56700,7 +56700,7 @@ to go out in the evening
 uscire la sera
 
 train car
-il vagone
+il vagone; il vagone del treno
 
 to go up and down the stairs
 salire e scendere le scale
