@@ -67924,3 +67924,10 @@ dissmettere di (fare qualcosa)
 
 backpack
 lo zaino
+
+to behead; to decapitate
+decapitare
+
+beheaded; decapitated
+decapitato
+
