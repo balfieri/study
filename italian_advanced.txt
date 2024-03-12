@@ -67954,3 +67954,10 @@ il treno successivo
 
 earlier train
 il treno precedente
+
+either (one)
+qualsiasi dei due
+
+human resources (HR)
+le risorse umane
+
