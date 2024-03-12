@@ -7492,7 +7492,7 @@ affidarsi a
 to look out to; to overlook
 affacciarsi a
 
-to step away from
+to step away from; to move away from
 allontanarsi da
 
 to nod
@@ -67931,3 +67931,26 @@ decapitare
 beheaded; decapitated
 decapitato
 
+yogurt shop
+yogurteria
+
+to give tours
+fare dei tour; fare visite
+
+rightside-up
+dritto; verso l'alto
+
+wind tunnel
+la galleria del vento
+
+parachutist
+il paracadutista
+
+to exceed expectations
+superare le aspettative
+
+later train
+il treno successivo
+
+earlier train
+il treno precedente
