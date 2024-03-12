@@ -4564,7 +4564,7 @@ eliminare
 to dance
 ballare
 
-to draw; to design
+to draw; to design (drawing)
 disegnare
 
 to fix (something not completely broken); to make minor adjustments; to make minor tweaks
@@ -4954,7 +4954,7 @@ passare a
 to get lost
 perdersi
 
-to plan
+to plan (general)
 pianificare
 
 to plan; to program; to schedule
@@ -6151,7 +6151,7 @@ il colore
 project; plan; design
 progetto
 
-to plan; to design; to project
+to plan (in detail); to design; to project
 progettare
 
 to mean; to intend
