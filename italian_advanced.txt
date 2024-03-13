@@ -39122,7 +39122,7 @@ onsite meeting
 la riunione in sede
 
 pioneer
-il pioniere
+il pioniere; la pioniera
 
 exporter
 l'esportatore
@@ -68033,3 +68033,8 @@ il vishing
 to keep something on one's person
 tenere qualcosa su di sé
 
+cyberattack
+il cyberattacco
+
+stop to; halt to
+lo stop a
