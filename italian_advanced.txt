@@ -68048,3 +68048,5 @@ il Segway
 tail light; rear light
 il fanale posteriore; la luce posteriore; il fanalino di coda
 
+to try to see; to try and see
+provare a vedere
