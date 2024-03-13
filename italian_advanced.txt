@@ -6077,7 +6077,7 @@ magician
 il prestigiatore; il mago
 
 urine sample
-il campione di urine
+il campione di urina
 
 private (rank)
 l'appuntato
@@ -67990,3 +67990,25 @@ la calzatura; le calzature
 
 to forbid; to ban; to prohibit
 vietare
+
+to keep it clean
+mantenerlo pulito; tenerlo pulito
+
+panegyric
+panegirico
+
+self-absolving
+autoassolutorio
+
+absolving
+assolutorio
+
+propagandistic
+propagandistico
+
+one minute to spare
+un minuto da risparmiare
+
+original cast
+il cast originale
+
