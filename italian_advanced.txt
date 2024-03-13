@@ -1372,7 +1372,7 @@ perfino; persino
 level (adjective)
 pianeggiante
 
-the furrow; the groove
+furrow; groove
 il solco
 
 track
@@ -68029,3 +68029,7 @@ il phishing
 
 vishing (voice phishing)
 il vishing
+
+to keep something on one's person
+tenere qualcosa su di sé
+
