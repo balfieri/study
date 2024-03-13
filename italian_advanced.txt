@@ -9466,7 +9466,7 @@ la macchina da caffè; la caffettiera
 removable
 asportabile; rimovibile
 
-electrical plug
+electrical plug; plug; thorn
 la spina
 
 voltage converter
