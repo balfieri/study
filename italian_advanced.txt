@@ -68138,3 +68138,11 @@ l'asciugamano da bagno
 it doesn't register with my brain
 non mi entra in testa
 
+the phone is busy
+il telefono è occupato
+
+the line is busy
+la linea è occupata
+
+I called earlier
+ho chiamato earlier
