@@ -1597,8 +1597,8 @@ l'impianto idraulico; l'acqua corrente in casa
 to gift
 regalare
 
-to hang up (the phone)
-riattaccare
+to hang up the phone
+riattaccare il telefono; mettere giù il telefono
 
 in other words; i.e.
 ovvero
@@ -68161,4 +68161,10 @@ proteico
 
 Pi Day
 il giorno di Pi
+
+it's hard to reach you by phone
+è difficile raggiungerti al telefono
+
+to pick up the phone
+rispondere al telefono
 
