@@ -68119,3 +68119,10 @@ provare il cibo
 
 to try some food
 provare del cibo
+
+would you like to join me for lunch?
+ti piacerebbe unirti a me per il pranzo?
+
+to join me for
+unirsi a me per
+
