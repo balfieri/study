@@ -3428,7 +3428,7 @@ every now and then; from time to time
 di tanto in tanto
 
 entrepreneur
-l'impresario; l'imprenditore
+l'impresario; l'imprenditore; l'imprenditrice
 
 squinting
 lo strobico; lo strabismo
@@ -7787,7 +7787,7 @@ abortion pill
 la pillola abortiva
 
 to undertake
-intraprendere
+intraprendere; imprendere
 
 actionable
 attuabile
