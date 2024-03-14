@@ -68101,3 +68101,6 @@ SPQR; senatus populusque romanus; il senato e il popolo romano
 
 to cause trouble
 creare problemi
+
+moose
+l'alce
