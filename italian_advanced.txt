@@ -18820,9 +18820,6 @@ lo sbarramento
 overcoming; exceedance
 il superamento
 
-setback
-la battuta d'arresto
-
 light of approval
 la luce dell'approvazione
 
@@ -68090,9 +68087,6 @@ meno che mai
 not ever
 non mai
 
-setback
-il controtempo
-
 platelet (adjective)
 piastrinico
 
@@ -68125,4 +68119,7 @@ ti piacerebbe unirti a me per il pranzo?
 
 to join me for
 unirsi a me per
+
+setback
+il contraccolpo; l'intoppo; il contrattempo; la battuta d'arresto
 
