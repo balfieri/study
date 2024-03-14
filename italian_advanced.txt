@@ -28735,8 +28735,8 @@ fermo
 stop (noun)
 il fermo
 
-stop!
-fermo!
+stop!; halt!
+stop!; fermo!
 
 degeneration
 la degenerazione
