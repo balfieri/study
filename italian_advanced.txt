@@ -68132,3 +68132,6 @@ conservare; depositare
 bag storage; luggage storage
 il deposito bagagli
 
+bath towel
+l'asciugamano da bagno
+
