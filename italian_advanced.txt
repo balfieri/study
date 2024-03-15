@@ -33680,7 +33680,7 @@ unawareness
 l'insaputa
 
 donor
-il donatore
+il donatore; la donatrice
 
 assets
 gli averi
