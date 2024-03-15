@@ -1018,7 +1018,7 @@ la taglia
 piece
 il pezzo
 
-gift
+gift; present
 il regalo
 
 price
