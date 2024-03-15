@@ -42235,7 +42235,7 @@ la gara di vendita
 below threshold
 sotto soglia
 
-prompt; timely
+timely; prompt
 tempestivo
 
 accreditation; credit
