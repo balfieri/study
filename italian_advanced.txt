@@ -68276,3 +68276,6 @@ l'esame della vista
 long weekend
 il lungo weekend
 
+the taste was not agreeable to me
+il sapore non mi era gradito
+
