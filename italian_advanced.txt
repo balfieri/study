@@ -49633,9 +49633,6 @@ ombroso
 flamingo
 il fenicottero
 
-at the top of the stairs
-in cima alle scale
-
 the sun is rising
 il sole sta sorgendo
 
@@ -68281,4 +68278,10 @@ il sapore non mi era gradito
 
 to give off certain vibes
 dare certe vibrazioni
+
+at the top of the stairs
+in cima alle scale
+
+at the bottom of the stairs
+in fondo alle scale
 
