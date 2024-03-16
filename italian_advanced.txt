@@ -34216,7 +34216,7 @@ abusare; molestare
 sunny (disposition); cheerful; of the sun; sun (adjective)
 solare
 
-card; tile
+card (membership); badge; token; tile
 la tessera
 
 tissue (for nose)
