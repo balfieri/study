@@ -3780,3 +3780,6 @@ guarda quel (qualcosa)!
 we're going to fix you up very well
 stiamo per sistemarti molto bene
 
+ok, get this (listen to this)
+ok, ascolta questo
+
