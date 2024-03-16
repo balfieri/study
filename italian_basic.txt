@@ -2764,7 +2764,7 @@ mettere
 to turn on; to switch on; to light
 accendere
 
-to close
+to close; to close out
 chiudere
 
 to receive
