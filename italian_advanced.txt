@@ -12334,7 +12334,7 @@ dilagare
 continuation; pursuance
 il proseguimento
 
-to hinder; to obstruct; to get in the way of; to hamper
+to hinder; to obstruct; to get in the way of; to hamper; to impede
 ostacolare
 
 to go that far; to get to that point
@@ -68371,4 +68371,28 @@ fare la fila tra le corsie; fare il lane splitting
 
 seamless solution
 la soluzione senza interruzioni
+
+inside the walls of the city
+dentro le mura della città
+
+well nourished
+ben nutrito
+
+outnumbered
+in minoranza
+
+quite a thud
+un bel tonfo
+
+lamenting; mournful
+lamentoso
+
+shirt shop; shirtmaker's shop
+la camiceria
+
+posh
+elegante; chic
+
+rlea market
+il mercato delle pulci
 
