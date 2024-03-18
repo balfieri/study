@@ -68462,3 +68462,6 @@ il pappagallino
 parrot
 il pappagallo
 
+famine; scarcity
+la carestia
+
