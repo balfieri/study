@@ -421,7 +421,7 @@ il volo
 to fly
 volare
 
-entrance; ingress
+entrance; ingress (act)
 l'ingresso
 
 exit; way out; egress; outing

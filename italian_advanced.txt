@@ -10441,7 +10441,7 @@ la flessione
 to rest; to sustain; to support
 poggiare
 
-to swear (bad words)
+to swear (bad words, religious)
 bestemmiare
 
 delicacy; deliciousness
@@ -19327,7 +19327,7 @@ la separazione
 bound; held; bound by
 tenuto
 
-entry; entrance
+entry; entrance (physical)
 l'entrata
 
 certainty; assurance
@@ -32398,7 +32398,7 @@ pacificamente
 if you had just told me
 se me l'avessi detto
 
-to swear (bad word)
+to swear (bad word, non-religious)
 imprecare
 
 motorcycle ride
@@ -68446,4 +68446,19 @@ il titolo di viaggio
 
 (something) to split
 (qualcosa) per dividere
+
+confederation; confedercy
+la confederazione
+
+confederate
+confederato
+
+hat factory; hat store; cap store
+il berrettificio
+
+parakeet
+il pappagallino
+
+parrot
+il pappagallo
 
