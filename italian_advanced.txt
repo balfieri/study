@@ -57641,9 +57641,6 @@ a lungo andare
 obesity rate
 il tasso di obesità
 
-snack cake
-la merendina
-
 in the process of
 in via di
 
@@ -68477,3 +68474,20 @@ vivere nel peccato
 I never asked you
 non te l'ho mai chiesto
 
+SPID release
+il rilascio SPID
+
+digital identity
+l'identità digitale
+
+SPID identity
+l'identità SPID
+
+baguette shop
+la baguetteria
+
+small snack; small treat (afternoon)
+la merendina
+
+snack; light meal (afternoon, sweet or savory)
+la merenda

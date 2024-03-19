@@ -1132,8 +1132,11 @@ il pranzo
 dinner
 la cena
 
+snack; light meal
+lo spuntino
+
 snack
-lo spuntino; lo snack
+lo snack
 
 north
 il nord
@@ -2950,7 +2953,7 @@ suggerire
 to construct; to build; to build up
 costruire; edificare
 
-to finish
+to finish; to finish off
 finire
 
 to unite; to merge
