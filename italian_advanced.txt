@@ -68491,3 +68491,6 @@ la merendina
 
 snack; light meal (afternoon, sweet or savory)
 la merenda
+
+flight status
+lo stato del volo

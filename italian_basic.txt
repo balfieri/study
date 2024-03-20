@@ -7869,3 +7869,6 @@ ormai
 
 menu
 il menù
+
+state; status
+lo stato
