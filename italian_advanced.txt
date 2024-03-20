@@ -68498,3 +68498,9 @@ lo stato del volo
 galleon
 il galeone
 
+thermal jacket
+la giacca termica
+
+Rocky Mountains
+le Montagne Rocciose
+
