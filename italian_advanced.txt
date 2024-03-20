@@ -68494,3 +68494,7 @@ la merenda
 
 flight status
 lo stato del volo
+
+galleon
+il galeone
+
