@@ -68519,3 +68519,5 @@ risciacquare; sciacquare
 to rinse oneself off
 risciacquarsi; sciacquarsi
 
+to be back
+essere di ritorno
