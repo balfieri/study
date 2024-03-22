@@ -68542,3 +68542,10 @@ la strega
 
 sorceress
 la sorca
+
+carry-on luggage; carry-on bag
+il bagaglio a mano
+
+checked luggage; checked bag
+il bagaglio da stiva
+
