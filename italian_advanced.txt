@@ -55906,9 +55906,6 @@ carenato
 die casting
 la pressofusione
 
-bodywork
-la carrozzeria
-
 moped
 il ciclomotore
 
@@ -68680,3 +68677,16 @@ il dissipatore di calore
 
 price range
 la fascia prezzo; la fascia di prezzo
+
+to remind (someone) to (do something)
+ricordare (qualcuno) di (fare qualcosa)
+
+to contemplate
+contemplare
+
+body shop; bodywork
+la carrozzeria
+
+fruit shop
+la frutteria
+
