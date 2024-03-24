@@ -68677,3 +68677,7 @@ convalidato
 
 to validate (ticket)
 convalidare
+
+heat sink
+il dissipatore di calore
+
