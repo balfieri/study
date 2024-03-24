@@ -12193,9 +12193,6 @@ il pollice verde
 no pressure
 nessuna pressione; senza pressioni; niente pressioni
 
-billboard
-il tabellone
-
 hen
 la gallina
 
@@ -68549,3 +68546,134 @@ il bagaglio a mano
 checked luggage; checked bag
 il bagaglio da stiva
 
+crack
+la schiartura
+
+tonalization
+la tonalizzazione
+
+annoying noise
+il rumore molesto
+
+tripod
+il treppiedi
+
+scatterer
+il dispersore
+
+to hope for the best
+sperare bene
+
+ancient ancestor
+l'antichissimo antenato
+
+midwest
+midwest
+
+midwestern
+del midwest
+
+western
+western
+
+here we go all here
+ecco qui ci siamo tutti
+
+goatling
+la capretta
+
+win-win situation
+la situazione vantaggiosa per tutti
+
+banquet
+il banchetto
+
+deductible
+il deducibile
+
+mother hen
+la mamma chioccia
+
+big peg
+il cippettone
+
+contrarian
+il bastian contrario
+
+confirmation
+la cresima
+
+tournament bracket
+il tabellone del torneo
+
+scoreboard; bracket; billboard
+il tabellone
+
+to rub
+strusciare
+
+to live one's best life
+vivere la propria vita al meglio
+
+penitent
+penitente
+
+creamed; whipped
+mantecato
+
+worst-case scenario
+lo scenario peggiore
+
+stairlift
+il montascale
+
+8am sharp
+alle 8 in punto
+
+shoe rack
+il portascarpe
+
+to use the underpass
+servirsi del sottopassaggio
+
+we'll try to fit you in
+cercheremo di inserirti
+
+sanitizing
+igienizzante
+
+sanitizer
+l'igienizzante
+
+to sanitize
+igienizzare
+
+mulch
+la pacciamatura
+
+stunt
+l'acrobazia; il colpo pubblicitario
+
+political stunt
+il colpo pubblicitario politico
+
+dainty
+delicato; grazioso
+
+fantasy rugby
+il fantarugby
+
+in the workshop
+in bottega
+
+to be obliged
+essere obbligati
+
+house on the water
+la casa sull'acqua
+
+validated (ticket)
+convalidato
+
+to validate (ticket)
+convalidare
