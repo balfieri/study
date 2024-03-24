@@ -37210,9 +37210,6 @@ la fascia media
 to worry; to vex
 impensierire
 
-price range
-la fascia di prezzo
-
 towards
 nei confronti
 
@@ -68681,3 +68678,5 @@ convalidare
 heat sink
 il dissipatore di calore
 
+price range
+la fascia prezzo; la fascia di prezzo
