@@ -4417,9 +4417,6 @@ dovunque; ovunque
 from here to there
 da qua a là
 
-for each
-per ciascuno
-
 zealous
 zelante
 
@@ -18886,7 +18883,7 @@ fortemente
 each (pronoun); everyone (pronoun)
 ognuno
 
-each (pronoun or adjective)
+each (pronoun, noun, adjective)
 ciascuno
 
 composed
@@ -68707,4 +68704,7 @@ il pallacanestro universitario
 
 mergers and acquisitions
 le fusioni e acquisizioni
+
+for each of
+per ciascuno di
 
