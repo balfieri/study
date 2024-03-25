@@ -2287,8 +2287,8 @@ burbero; brontolone; bisbetico; musone
 out there
 là fuori; lì fuori
 
-thorough; meticulous
-meticoloso; accurato; completo; minuzioso
+thorough; meticulous; detailed
+meticoloso; accurato; completo; minuzioso; dettagliato
 
 to get out of control
 sfuggire al controllo
@@ -42747,9 +42747,6 @@ Piano Nazionale di Ripresa e Resilienza (Pnrr)
 
 folding bicycle
 la bicicletta pieghevole
-
-meticulous; thorough; detailed
-minuzioso; accurato; dettagliato
 
 earthquake; big shake
 lo scossone; la grande scossa
