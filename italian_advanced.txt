@@ -68735,8 +68735,11 @@ il New York Times
 tax-free
 libero da tasse
 
-enamel
+enamel; nail polish
 lo smalto
+
+nail polish
+lo smalto; lo smalto per le unghie
 
 abstruse
 difficile da capire; oscuro
@@ -68782,3 +68785,15 @@ la zolletta
 
 dataset
 il set di dati; l'insieme di dati
+
+guilty pleasure
+il piacere colpevole
+
+morning (adjective)
+mattutino
+
+afternoon (adjective)
+pomeridiano
+
+office supply store
+il negozio di forniture per ufficio
