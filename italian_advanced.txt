@@ -68780,3 +68780,5 @@ ho vissuto a Roma
 lump; cube
 la zolletta
 
+dataset
+il set di dati; l'insieme di dati
