@@ -68801,3 +68801,6 @@ il negozio di forniture per ufficio
 notebook with binding; bound notebook
 il quaderno rilegato; il quaderno con rilegatura
 
+understanding
+la comprensione
+
