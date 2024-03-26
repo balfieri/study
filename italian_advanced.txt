@@ -68810,3 +68810,8 @@ solo nella media
 modeling
 la modellazione
 
+farewell note
+la nota d'addio 
+
+goodbye letter
+la lettera d'addio
