@@ -68756,3 +68756,9 @@ elite
 to roll over my 401k
 trasferire il mio 401k
 
+pre-tax
+prima delle tasse; pre-tasse
+
+pre-tax contribution
+il contributo prima delle tasse; il contributo pre-tasse
+
