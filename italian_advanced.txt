@@ -6214,7 +6214,7 @@ appianare; appiattire
 epicenter
 l'epicentro
 
-measure (action); step
+measure (action); provision; step
 il provvedimento
 
 fictitious
