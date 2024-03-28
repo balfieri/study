@@ -68863,3 +68863,6 @@ lo strip
 
 loop
 il loop
+
+friendly fire
+il fuoco amico
