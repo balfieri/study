@@ -68839,3 +68839,7 @@ la persona decente
 
 bad person; evil person
 la persona cattiva
+
+screaming crowd
+la folla urlante
+
