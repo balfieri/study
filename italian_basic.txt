@@ -1957,7 +1957,7 @@ il ristorante
 bookstore; bookshop; bookshelves
 la libreria
 
-stadium
+stadium; stage
 lo stadio
 
 ticket office
