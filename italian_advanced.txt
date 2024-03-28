@@ -68882,3 +68882,11 @@ il tubo bronchiale
 asthmatic
 asmatico
 
+sedation
+la sedazione
+
+to sedate
+sedare
+
+sedated
+sedato
