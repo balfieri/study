@@ -65009,7 +65009,7 @@ prepotentemente
 ordering (product)
 l'ordinazione
 
-to get to safety; to take shelter
+to get to safety; to take shelter; to take refuge
 mettersi al sicuro; rifugiarsi
 
 patronage
@@ -68866,3 +68866,6 @@ il loop
 
 friendly fire
 il fuoco amico
+
+to worsen; to deteriorate; to get worse
+aggravarsi
