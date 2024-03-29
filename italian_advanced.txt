@@ -619,7 +619,7 @@ l'acceleratore
 fuel
 il combustibile; il carburante
 
-to master
+to master (subject)
 padroneggiare
 
 sponge
@@ -68893,4 +68893,10 @@ sedato
 
 loyalty program
 il programma di fedeltà; il programma fedeltà
+
+to master (album)
+materizzare
+
+what are your hours?
+quali sono i tuoi orari?
 
