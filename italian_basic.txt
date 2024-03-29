@@ -5371,7 +5371,7 @@ qualsiasi
 doubt
 il dubbio
 
-article
+article; item
 l'articolo
 
 to forgive; to pardon
