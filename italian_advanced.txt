@@ -68915,3 +68915,6 @@ imparare a parlare
 to broach the subject
 affrontare l'argomento
 
+security breach
+la violazione della sicurezza
+
