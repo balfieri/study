@@ -10588,7 +10588,7 @@ fare fortuna
 to get rich; to become rich; to grow rich
 arricchirsi
 
-wage; salary; pay
+wage; salary; pay (fixed)
 il salario
 
 missing piece of the puzzle
@@ -24052,8 +24052,8 @@ ritrovare
 married couple; spouses
 i coniugi
 
-pay; salary
-la retribuzione
+pay; salary (has variable component)
+la retribuzione; la compensazione
 
 equivalent (general)
 equivalente
@@ -28537,7 +28537,7 @@ chiarito
 Syria
 Siria
 
-compensation (offsetting payment)
+compensation
 la compensazione
 
 mobilization
