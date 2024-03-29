@@ -68900,3 +68900,5 @@ materizzare
 what are your hours?
 quali sono i tuoi orari?
 
+what was I thinking?
+cosa stavo pensando?
