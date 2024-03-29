@@ -68906,3 +68906,8 @@ cosa stavo pensando?
 to drive crazy
 far impazzire
 
+stealth-mode startup
+lo startup in modalità stealth
+
+to come to speak; to learn to speak
+imparare a parlare
