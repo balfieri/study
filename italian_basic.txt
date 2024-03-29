@@ -41,7 +41,7 @@ good afternoon
 buon pomeriggio
 
 good evening
-buona sera; buonosera
+buonasera; buona sera; 'sera
 
 good night
 buona notte; buonanotte; 'notte
