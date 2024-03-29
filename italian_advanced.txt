@@ -178,7 +178,7 @@ l'arredamento
 to stare at; to gaze at; to establish; to secure
 fissare
 
-to face; to tackle; to confront
+to face; to tackle; to confront; to broach
 affrontare; fare fronte a; fronteggiare
 
 diagram; sketch
@@ -68911,3 +68911,7 @@ lo startup in modalità stealth
 
 to come to speak; to learn to speak
 imparare a parlare
+
+to broach the subject
+affrontare l'argomento
+
