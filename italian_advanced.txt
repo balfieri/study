@@ -8218,7 +8218,7 @@ la pena di morte
 county
 la contea
 
-irritable
+irritable; cranky
 irritabile
 
 irascible
@@ -68975,3 +68975,14 @@ stridere; gridare
 weasel
 la faina; la donnola
 
+before Christ; BC
+prima di Cristo; aC
+
+nose job; rinoplasty
+la rinoplastica
+
+open-source
+open-source
+
+closed-source
+closed-source
