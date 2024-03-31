@@ -7553,7 +7553,7 @@ rowing
 il canottaggio
 
 boxing
-il pugilato
+il pugilato; il boxe
 
 to listen closely
 ascoltare attentamente
@@ -68968,3 +68968,10 @@ la friggitoria
 
 high-performance; efficient; performante
 performante
+
+to screech
+stridere; gridare
+
+weasel
+la faina; la donnola
+
