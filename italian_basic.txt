@@ -7872,3 +7872,15 @@ lo stato
 
 every
 ogni
+
+I have it
+ce l'ho
+
+I already have it
+ce l'ho già
+
+I have one of them
+ne ho uno; ne ho una
+
+I already have one of them
+ne ho già uno; ne ho già una

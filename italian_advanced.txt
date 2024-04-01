@@ -31675,9 +31675,6 @@ una morte improvvisa e violenta
 inverse function
 la funzione inversa
 
-symmetry
-la simmetria
-
 gene pool
 il pool genetico; il patrimonio genetico
 
@@ -68986,3 +68983,27 @@ open-source
 
 closed-source
 closed-source
+
+to trace back
+tracciare indietro
+
+to embark
+imbarcare
+
+to put oneself through school
+mettersi a scuola
+
+watch your step; mind the step
+attenti al gradino
+
+symmetry
+la simmetria; il simetro
+
+to be in the way
+essere sulla strada
+
+in the apartment
+nell'appartamento
+
+to allow users
+consentire agli utenti
