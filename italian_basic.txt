@@ -1903,7 +1903,7 @@ l’isola
 country; village
 il paese
 
-building
+building; ediface
 l'edificio
 
 statue
