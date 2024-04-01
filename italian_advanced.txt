@@ -24766,8 +24766,11 @@ la metà destra
 the left half
 la metà sinistra
 
-plastic bag; ziplock bag
+plastic bag
 il sacchetto di plastica
+
+ziplock bag
+il sacchetto con zip; il sacchetto richiudibile
 
 twin
 il gemello
@@ -69007,3 +69010,4 @@ nell'appartamento
 
 to allow users
 consentire agli utenti
+
