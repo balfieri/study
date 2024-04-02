@@ -69080,3 +69080,5 @@ rimanere ucciso; essere ucciso
 bio-district
 il biodistretto
 
+savable; saveable
+risparmiabile; salvabile
