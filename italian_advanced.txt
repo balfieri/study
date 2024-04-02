@@ -11449,8 +11449,11 @@ ingaggiare
 to thrive; to prosper
 prosperare; fare strada
 
-to break; to crash; to smash
+to crash; to smash; to break
 schiantare
+
+to crash (intransitive)
+schiantarsi
 
 to implement; to actualize
 attuare
