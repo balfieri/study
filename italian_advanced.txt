@@ -42406,7 +42406,7 @@ legarsi con (qualcuno); creare un legame con (qualcuno)
 to welcome
 dare il benvenuto
 
-issue; problem
+issue; problem (complex, persistent)
 la problematica
 
 catastrophic implosion
@@ -69073,4 +69073,7 @@ il capodoglio
 
 to stop; to block; to halt
 parare
+
+to be killed; to get killed
+rimanere ucciso; essere ucciso
 
