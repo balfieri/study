@@ -69082,3 +69082,9 @@ il biodistretto
 
 savable; saveable
 risparmiabile; salvabile
+
+to fail (esame)
+abbocciare
+
+failed
+abbocciato
