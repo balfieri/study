@@ -7884,3 +7884,9 @@ ne ho uno; ne ho una
 
 I already have one of them
 ne ho già uno; ne ho già una
+
+to speak Italian
+parlare italiano
+
+to speak English
+parlare inglese
