@@ -9364,9 +9364,6 @@ al salvataggio
 to eat lightly
 mangiare alla leggera
 
-inefficiency
-l'inefficienza
-
 efficiency; effectiveness
 l'efficienza; l'efficacia
 
@@ -69127,4 +69124,16 @@ scegliere le proprie battaglie
 
 revolver
 il revolver
+
+contested; contrasted
+contrastato
+
+inefficiency; ineffectiveness
+l'inefficacia; l'inefficienza
+
+chubby; plump
+grassollano
+
+charging station
+la stazione di ricarica; la colonnina di ricarica
 
