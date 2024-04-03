@@ -26557,7 +26557,7 @@ vicariamente
 contradictory
 contraddittorio
 
-shelter
+shelter; resort
 il rifugio
 
 correctly
@@ -48298,7 +48298,7 @@ il lapidario
 wildfire; forest fire
 l'incendio boschivo
 
-skiing (adjective)
+skiing; ski (adjective)
 sciistico
 
 weekday accessibility
@@ -69100,4 +69100,7 @@ sempre di più
 
 Easter Monday
 Pasquetta
+
+ski resort
+il rifugio sciistico
 
