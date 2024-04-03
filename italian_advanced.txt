@@ -11785,8 +11785,8 @@ la gestione del tempo
 confirmation
 la conferma
 
-to brag; to boast
-vantarsi
+to brag; to boast; to pride oneself
+vantarsi; fregiarsi
 
 bragging
 vantante
@@ -69157,4 +69157,5 @@ figuriamoci
 
 Fibonacci number
 il numero di Fibonacci
+
 
