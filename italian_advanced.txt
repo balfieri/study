@@ -45148,7 +45148,7 @@ il reattore nucleare
 crude
 greggio
 
-withdrawn; taken
+withdrawn; taken; taken out
 prelevato
 
 clayey
