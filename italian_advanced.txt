@@ -69154,3 +69154,7 @@ l'occasione d'oro
 
 let alone; immagine
 figuriamoci
+
+Fibonacci number
+il numero di Fibonacci
+
