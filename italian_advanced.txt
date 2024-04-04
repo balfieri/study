@@ -68970,7 +68970,7 @@ weasel
 la faina; la donnola
 
 before Christ; BC
-prima di Cristo; aC
+prima di Cristo; avanti Christo; aC
 
 nose job; rinoplasty
 la rinoplastica
@@ -69178,6 +69178,9 @@ a proprie spese; senza rimborso; out of pocket
 
 The Green Cross (volunteer emergency services in Italy)
 La Croce Verde
+
+green cross (symbol of pharmacy)
+la croce verde
 
 net of; after deductions
 al netto di
