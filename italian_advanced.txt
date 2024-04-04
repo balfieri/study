@@ -55816,9 +55816,6 @@ fuoribordo
 tilting
 basculante
 
-to tilt
-basculare
-
 mudguards
 i parafanghi
 
@@ -69190,3 +69187,6 @@ la masseria
 
 refinery
 raffineria
+
+to tilt; to rock; to sway
+basculare
