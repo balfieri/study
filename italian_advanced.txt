@@ -358,6 +358,9 @@ la guarigione; la cura
 to be wary of
 diffidare di
 
+to distrust
+diffidare; sospettare
+
 headphones
 le cuffie
 
@@ -69160,3 +69163,9 @@ il numero di Fibonacci
 
 dream vacation
 la vacanza da sogno
+
+tap water
+l'acqua del rubinetto
+
+mistrust; distrust
+la sfiducia
