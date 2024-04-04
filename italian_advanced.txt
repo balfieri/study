@@ -69212,3 +69212,6 @@ il furto di identità
 all included; everything included
 tutto compreso; tutto incluso
 
+mirrored
+specchiato
+
