@@ -10376,7 +10376,7 @@ colander
 il colapasta
 
 paper towel
-il tovagliolo di carta; la carta assorbente
+l'asciugamano di carte; il tovagliolo di carta; la carta assorbente
 
 to square
 fare squardare
@@ -69185,3 +69185,5 @@ la croce verde
 net of; after deductions
 al netto di
 
+farmhouse; country house
+la masseria
