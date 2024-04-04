@@ -69003,7 +69003,7 @@ to allow users
 consentire agli utenti
 
 chilly
-freddo; fresco
+freddo; fresco; algido
 
 to overnight a package; to send a package overnight; to ship a package overnight
 inviare un pacco durante la notte; spedire un pacco durante la notte
@@ -69232,3 +69232,4 @@ buon ascolto
 
 good luck with your studies; have a good study session
 buono studio
+
