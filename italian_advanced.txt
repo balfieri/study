@@ -57440,9 +57440,6 @@ la ferritoia
 keychain
 il portachiavi
 
-shielded
-schermato
-
 shiny
 lucicante
 
@@ -69295,3 +69292,12 @@ il balletto
 
 desk mate; classmate
 il compagno di banco; la compagna di banco
+
+to shield; to screen
+schermare
+
+shielding; screening
+lo schermaggio
+
+shielded; screened
+schermato
