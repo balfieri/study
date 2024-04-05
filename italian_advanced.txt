@@ -63104,7 +63104,7 @@ riprogrammare un appuntamento
 rubber band
 l'elastico
 
-starter (dough); sourdough starter
+starter (dough, stored for long time); sourdough starter
 il lievito madre
 
 dizzy
@@ -69232,4 +69232,46 @@ buon ascolto
 
 good luck with your studies; have a good study session
 buono studio
+
+cotton swab
+il bastoncino di cotone
+
+cotton ball
+la pallina di cotone
+
+cotton gin
+il gin di cotone
+
+cotton mouth
+la bocca secca
+
+North Atlantic Treaty Organization (NATO)
+l'Organizzazione del Trattato dell'Atlantico del Nord (la NATO)
+
+wooden block
+il blocco di legno
+
+test unit
+l'unità di prova
+
+anti-glare
+antiriflesso
+
+antonomasia
+l'antonomasia
+
+to style hair
+acconciare i capelli
+
+styling
+fare lo styling
+
+Hindi
+hindi
+
+Urdu
+urdu
+
+starter (dough, not stored for long time)
+la biga
 
