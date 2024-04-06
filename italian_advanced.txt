@@ -7384,10 +7384,10 @@ abbondare
 pizza stone
 la pietra per pizza
 
-receipt (rostaurant, supermarket, from register)
+receipt (from cash register, restaurant, supermarket, store)
 lo scontrino
 
-receipt (more formal, received after the transaction for service or something bought)
+receipt (more formal, received after a transaction for a service or something bought)
 la ricevuta
 
 idiocy; stupidity
