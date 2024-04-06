@@ -48839,7 +48839,7 @@ big open spaces
 i grandi spazi aperti
 
 large open floor plan
-il grande open space
+il grande piano aperto
 
 ultra-modern
 ultra-moderno
@@ -69367,4 +69367,7 @@ lo sporco ostinato
 
 dinosaur
 il dinosauro
+
+open floor plan
+il piano aperto
 
