@@ -69356,3 +69356,6 @@ il saxofono
 saxophonist
 il sassofonista; la sassofonista
 
+employment rate
+il tasso di occupazione
+
