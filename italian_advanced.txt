@@ -7384,8 +7384,11 @@ abbondare
 pizza stone
 la pietra per pizza
 
-receipt
-lo scontrino; la ricevuta
+receipt (rostaurant, supermarket, from register)
+lo scontrino
+
+receipt (more formal, received after the transaction for service or something bought)
+la ricevuta
 
 idiocy; stupidity
 l'idiozia
@@ -39586,7 +39589,7 @@ scomodo; goffo; inadatto
 unsuitable
 poco adatto
 
-in bad taste; in poor taste
+in bad taste; in poor taste; tacky
 di cattivo gusto
 
 morally questionable
@@ -69304,4 +69307,22 @@ schermato
 
 Damascus
 Damasco
+
+God forbid if
+Dio non voglia se
+
+downright
+decisamente; proprio
+
+stew
+il guazzetto
+
+caciocavallo (type of cheese)
+il caciocavalo
+
+baby squid
+il totanetto
+
+in stew
+in guazzetto
 
