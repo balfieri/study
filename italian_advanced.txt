@@ -15790,7 +15790,7 @@ annegare
 fanfare
 la fanfara
 
-chasm; abyss; gap
+chasm; abyss; gap; sink hole
 la voragine
 
 armored; bulletproof
@@ -69379,3 +69379,4 @@ al seguito di; a seguito di
 
 matched; paired
 abbinato
+
