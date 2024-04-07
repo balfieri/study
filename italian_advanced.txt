@@ -69373,3 +69373,6 @@ il piano aperto
 
 mushroom bed; mushroom farm
 la fungaia
+
+following; in the wake of
+al seguito di; a seguito di
