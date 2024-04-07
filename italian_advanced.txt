@@ -69376,3 +69376,6 @@ la fungaia
 
 following; in the wake of
 al seguito di; a seguito di
+
+matched; paired
+abbinato
