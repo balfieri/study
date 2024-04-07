@@ -47405,7 +47405,7 @@ apocalypse
 l'apocalisse
 
 double bed
-il letto matrimoniale
+il letto matrimoniale; il letto a due piazze
 
 single bed
 il letto singolo
@@ -69433,4 +69433,7 @@ goditi il resto della tua serata
 
 ketogenic
 chetogenico
+
+river Thames
+il fiume Tamigi
 
