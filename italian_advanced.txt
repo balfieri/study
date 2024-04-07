@@ -9460,7 +9460,7 @@ l'arancino
 coffee bean
 il chicco di caffè
 
-coffee maker
+coffee maker; coffee pot
 la macchina da caffè; la caffettiera
 
 removable
@@ -69391,3 +69391,34 @@ lo sbarco; il disbarco
 
 doubling
 il raddoppio
+
+overworked; overtired; scrambled (eggs)
+strapazzato
+
+grouchy; irritable; grumpy
+brontolone
+
+coral
+corallo
+
+enclosure; pen; corral
+il recinto; la penna; il corral
+
+turquoise
+il turchese
+
+knitwear
+la maglieria
+
+lavender
+la lavanda
+
+to care about (somebody)
+preoccuparsi di (qualcuno)
+
+immediate neighborhood; immediate vacinity
+il vicinato immediato
+
+to have a smoke
+fumare una sigaretta
+

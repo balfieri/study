@@ -178,7 +178,7 @@ leggero
 heavy
 pesante
 
-fat (adjective)
+fat (adjective); fatty
 grasso
 
 fat (noun); grease
@@ -7890,3 +7890,7 @@ parlare italiano
 
 to speak English
 parlare inglese
+
+to have a drink
+prendere un drink
+
