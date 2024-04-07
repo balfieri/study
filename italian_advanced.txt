@@ -69388,3 +69388,6 @@ raccogliere i bisogni
 
 landing; disembarkation
 lo sbarco; il disbarco
+
+doubling
+il raddoppio
