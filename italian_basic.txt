@@ -7894,3 +7894,8 @@ parlare inglese
 to have a drink
 prendere un drink
 
+to be better
+essere meglio
+
+to be worse
+essere peggio
