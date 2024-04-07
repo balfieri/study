@@ -69380,3 +69380,6 @@ al seguito di; a seguito di
 matched; paired
 abbinato
 
+to doubt
+dubitare
+
