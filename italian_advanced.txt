@@ -46009,7 +46009,7 @@ crivellare
 to perforate
 perforare
 
-wine bar
+wine shop; wine bar
 l'enoteca; la vineria
 
 headed; led
@@ -69448,3 +69448,6 @@ rendicontare
 
 to relate; to report
 relazionare
+
+olive oil store
+il frantoio; il negozio di olio d'oliva
