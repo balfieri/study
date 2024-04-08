@@ -69451,3 +69451,6 @@ relazionare
 
 olive oil store
 il frantoio; il negozio di olio d'oliva
+
+level (tool)
+la livella
