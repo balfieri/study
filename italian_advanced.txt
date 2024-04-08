@@ -69464,3 +69464,5 @@ la frase d'accesso
 passcode; access code
 il codice di accesso
 
+to pass by (something)
+passare davanti (qualcosa)
