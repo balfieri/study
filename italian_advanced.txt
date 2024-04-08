@@ -34831,7 +34831,7 @@ il piumino
 quilt
 la trapunta
 
-pillowcase
+pillowcase; pillow case
 la federa del cuscino
 
 memory foam pillow
@@ -69439,3 +69439,7 @@ il fiume Tamigi
 
 in the home stretch
 nell'ultimo tratto; nella fase finale
+
+sheets; bed sheets
+le lenzuola
+
