@@ -65390,9 +65390,6 @@ scollegare la batteria
 disenchanted
 disaffezionato
 
-access code
-il codice di accesso
-
 to be pretty far along
 essere abbastanza avanti
 
@@ -69460,3 +69457,10 @@ livellato
 
 soccer field; football pitch
 il campo di calcio
+
+passphrase
+la frase d'accesso
+
+passcode; access code
+il codice di accesso
+
