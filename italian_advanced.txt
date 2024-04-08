@@ -69454,3 +69454,6 @@ il frantoio; il negozio di olio d'oliva
 
 level (tool)
 la livella
+
+level (adjective)
+livellato
