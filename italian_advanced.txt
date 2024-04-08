@@ -6118,7 +6118,7 @@ il concepimento
 to expel; to eject (formal)
 estromettere
 
-to protect (formal, legal); to defend; to preserve
+to protect (formal, legal); to defend; to preserve; to safeguard
 tutelare
 
 to incur
@@ -69466,3 +69466,6 @@ il codice di accesso
 
 to pass by (something)
 passare davanti (qualcosa)
+
+protected; safeguarded; preserved
+tutelato
