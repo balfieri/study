@@ -37819,9 +37819,6 @@ la sfilza di errori
 relaxation; loosening; distension
 il rilassamento; il relax; la distensione
 
-to feed
-dare in pasto
-
 to teach; to set an example
 fare scuola
 
@@ -69469,3 +69466,6 @@ passare davanti (qualcosa)
 
 protected; safeguarded; preserved
 tutelato
+
+to give as food; to throw to; to feed
+dare in pasto
