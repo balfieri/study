@@ -69491,3 +69491,6 @@ la verifica a due fattori
 passkey
 la chiave di accesso
 
+to close again; to re-close
+richiudere
+
