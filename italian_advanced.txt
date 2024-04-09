@@ -6724,8 +6724,8 @@ la pinacoteca
 private practice
 lo studio privato
 
-yard
-il cantiere; il cortile
+yard (house)
+il cortile
 
 organic food store
 il negozio prodotto biologico
@@ -69493,4 +69493,19 @@ la chiave di accesso
 
 to close again; to re-close
 richiudere
+
+to climb over (something)
+arrampicarsi su di (qualcosa)
+
+spoonful
+al cucchiaio
+
+construction site
+l'area di cantiere
+
+calorie
+la caloria
+
+caloric
+calorico
 
