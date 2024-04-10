@@ -69560,3 +69560,6 @@ il pugilista
 boxer (dog)
 il boxer
 
+cutter; slicer
+la taglierina
+
