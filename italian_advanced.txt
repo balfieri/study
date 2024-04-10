@@ -3916,7 +3916,7 @@ deludente; scoraggiante
 farting
 scorregiante
 
-trade; job; occupation
+trade; job; occupation; profession
 il mestiere
 
 to nest; to nestle
@@ -69562,4 +69562,10 @@ il boxer
 
 cutter; slicer
 la taglierina
+
+patently
+ovviamente; palesemente
+
+equidistant
+equidistante
 
