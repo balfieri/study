@@ -68130,7 +68130,7 @@ little boat
 la barchetta
 
 overqualified
-sovraqualificato
+sovracqualificato
 
 underqualified
 sottoqualificato
