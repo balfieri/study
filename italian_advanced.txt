@@ -29165,7 +29165,7 @@ preaching; sermon
 la predicazione
 
 protein
-la proteine
+la proteina
 
 approximation
 l'approssimazione
@@ -69592,3 +69592,10 @@ il collaudo
 
 to take note; to acknowledge
 prendere atto
+
+protein design
+la progettazione di proteine; il design di proteine
+
+de novo (something) design
+il design di nuovi (qualcosa); il design di (qualcosa) da zero
+
