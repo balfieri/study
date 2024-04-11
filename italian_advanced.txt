@@ -30877,7 +30877,7 @@ leggermente infarinato
 cooling rack
 la griglia di raffreddamento
 
-drying rack
+drying rack (dishes)
 lo scolapiatti
 
 copestetic
@@ -66668,7 +66668,7 @@ l'accorata tenerezza
 to spoil
 viziare
 
-clothes horse; drying rack
+drying rack; clothes horse
 lo stendino; la stendibiancheria
 
 the stem; the trunk
@@ -69568,4 +69568,16 @@ ovviamente; palesemente
 
 equidistant
 equidistante
+
+barbecue; grill
+la grigliata
+
+to make a sharp left turn
+fare una svolta a sinistra netta
+
+sharp left turn
+la svolta a sinistra netta
+
+sharp turn
+la svolta netta
 
