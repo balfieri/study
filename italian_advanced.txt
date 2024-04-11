@@ -69581,3 +69581,9 @@ la svolta a sinistra netta
 sharp turn
 la svolta netta
 
+pulpit
+il pulpito
+
+lectern
+il leggo
+
