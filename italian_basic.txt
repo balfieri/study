@@ -2011,8 +2011,8 @@ l'aereo
 far
 lontano
 
-here
-qui
+here; over here
+qui; qua
 
 opposite; opposite to
 di fronte a
