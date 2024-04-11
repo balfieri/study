@@ -25696,8 +25696,11 @@ navale
 honor
 l'onore
 
-corpse; dead body; cadaver
+corpse; dead body; cadaver (general)
 il cadavere
+
+corpse; prepared cadaver (formal)
+la salma
 
 check (bank)
 l'assegno
@@ -55852,9 +55855,6 @@ calettato
 bitter
 acerrimo
 
-test
-il collaudo
-
 crank
 la pedivella
 
@@ -69587,3 +69587,5 @@ il pulpito
 lectern
 il leggo
 
+testing; trial; test
+il collaudo
