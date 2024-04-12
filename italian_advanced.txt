@@ -69179,7 +69179,7 @@ la masseria
 refinery
 raffineria
 
-to tilt; to rock; to sway
+to tilt; to wobble; to rock; to sway
 basculare
 
 dashcam
@@ -69622,4 +69622,13 @@ mi dispiace per il breve preavviso
 
 it was one of the best experiences that we've ever had
 è stata una delle migliori esperienze che abbiamo mai avuto
+
+monstrous
+monstuoso
+
+to pile up
+sammontanare
+
+banquet hall
+la sala per banchetti
 
