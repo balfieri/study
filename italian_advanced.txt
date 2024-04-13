@@ -69658,3 +69658,13 @@ l'aeroccino
 
 chili pepper
 il pepperoncino
+
+centrifuge
+la centrifuga
+
+centrifugal force
+la forza centrifuga
+
+centripetal force
+la forza centripeta
+
