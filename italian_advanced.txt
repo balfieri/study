@@ -34237,7 +34237,7 @@ l'inventore distinto; l'inventore illustre
 to symbolize
 simboleggiare
 
-favor gift (usually at weddings)
+wedding favor; party favor
 la bomboniera
 
 coaster
@@ -69670,4 +69670,10 @@ la forza centripeta
 
 charging port; charging socket
 la presa di ricarica
+
+to surf the web
+navigare in internet; navigare sul web
+
+to surf the net
+navigare in rete
 
