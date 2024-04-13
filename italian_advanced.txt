@@ -69668,3 +69668,6 @@ la forza centrifuga
 centripetal force
 la forza centripeta
 
+charging port; charging socket
+la presa di ricarica
+
