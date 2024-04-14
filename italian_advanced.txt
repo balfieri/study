@@ -69737,3 +69737,9 @@ ludico
 ludicrous
 ridicolo; assurdo
 
+to go downstairs
+scendere le scale
+
+to go upstairs
+salire le scale
+
