@@ -69722,3 +69722,6 @@ la persona comprensiva
 war cabinet
 il gabinetto di guerra
 
+escalation (conflict)
+l'escalation
+
