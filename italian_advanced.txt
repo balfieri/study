@@ -8162,7 +8162,7 @@ self-defense
 l'autodifesa
 
 target
-il bersaglio
+il bersaglio; il versaglio
 
 militia
 la milizia
@@ -69718,7 +69718,4 @@ non so da dove iniziare
 
 understanding person
 la persona comprensiva
-
-target
-il versaglio
 
