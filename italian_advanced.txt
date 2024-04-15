@@ -69752,3 +69752,8 @@ l'antenna parabolica; la parabola satellitare
 to take (something) to the next level
 portare (qualcosa) al livello successivo; migliorare (qualcosa)
 
+to be too early to (do something)
+essere troppo presto per (fare qualcosa)
+
+to be too late to (do something)
+essere troppo tardi per (fare qualcosa)
