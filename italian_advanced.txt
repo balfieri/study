@@ -69812,3 +69812,9 @@ il meteorologo; la meteorologa; il presentatore del meteo; la presentatrice del 
 story of the day; account of the day
 il racconto della giornata; il resoconto della giornata
 
+pound (weight)
+la libbra
+
+pound (sterling)
+la sterlina
+
