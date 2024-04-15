@@ -69763,3 +69763,7 @@ il potere assoluto corrompe assolutamente
 
 baked ham
 il prosciutto al forno; l'arrosto di prosciutto
+
+raw aged ham
+il prosciutto crudo
+
