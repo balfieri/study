@@ -44149,7 +44149,7 @@ il fiocco; la scaglia
 sore throat
 il mal di gola
 
-cured ham
+cured ham; cooked ham
 il prosciutto cotto
 
 birthday card
@@ -69761,3 +69761,5 @@ essere troppo tardi per (fare qualcosa)
 absolute power corrupts absolutely
 il potere assoluto corrompe assolutamente
 
+baked ham
+il prosciutto al forno; l'arrosto di prosciutto
