@@ -69779,3 +69779,6 @@ mi dispiace per (qualcuno)
 bathroom break; toilet break; potty break
 la pausa bagno; la pausa toilette
 
+to worry; to make worry
+far preoccupare
+
