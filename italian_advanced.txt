@@ -4033,8 +4033,8 @@ la sovvenazione
 to reach an agreement; to agree; to contract
 convenzionare
 
-next; beside; nearby
-accanto
+next to; beside; nearby
+accanto a
 
 cobweb; spiderweb
 la ragnatela
@@ -69793,3 +69793,6 @@ i polmoni
 
 on the second floor (really the 3rd floor in Italy)
 al secondo piano
+
+next to the window
+accanto alla finestra
