@@ -22267,9 +22267,6 @@ l'ampiezza
 programming; coding
 la programmazione
 
-lever; lift
-la leva
-
 laboratory
 il laboratorio
 
@@ -69823,4 +69820,13 @@ alavancato
 
 to leverage
 alavancare
+
+leveraged buy-out
+l'acquisizione finanziata con debito
+
+lever; lift; leverage
+la leva
+
+to have leverage
+avere leva
 
