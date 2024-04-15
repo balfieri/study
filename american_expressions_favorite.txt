@@ -3864,3 +3864,6 @@ questa data mi ha preso alla sprovvista; questa data mi ha sorpreso
 to sneak up on (qualcuno)
 sorprendere (qualcuno)
 
+the house has curb appeal (it looks good from the curb of the street)
+la casa ha un bel fascino esterno (dal bordo del marciapiede)
+

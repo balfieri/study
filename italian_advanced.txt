@@ -20971,7 +20971,7 @@ il requisito
 institutional
 istituzionale
 
-edge; rim
+edge; rim; curb (sidewalk, street)
 il bordo
 
 missed
@@ -69745,4 +69745,7 @@ divieto di affissione
 
 cell phone holder; mobile phone holder
 il portacellulare
+
+satellite dish
+l'antenna parabolica; la parabola satellitare
 
