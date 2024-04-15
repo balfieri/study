@@ -69784,3 +69784,9 @@ pregiato; elegante; sofisticato; di alta qualità
 
 lavish; extravagent; ostentatious; fancy; garish
 sfarzoso
+
+lung
+il polmone
+
+lungs
+i polmoni
