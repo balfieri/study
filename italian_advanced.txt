@@ -5504,10 +5504,10 @@ course participant; trainee
 il corsista
 
 waiver; exemption; exoneration
-l’esonero
+l'esonero
 
 facility; facilitation
-l’agevolazione
+l'agevolazione
 
 continuing; continual
 continuativo
@@ -47152,9 +47152,6 @@ la domiciliazione sede legale
 work-from-home
 il lavoro da casa
 
-facilitation
-l'agevolazione
-
 to engage with the community
 coinvolgere la comunità
 
@@ -69473,9 +69470,6 @@ sottrarre dati furtivamente
 sneakily; stealthily; furtively
 furtivamente
 
-downstairs
-il piano di sotto
-
 I hate when people pee on the toilet seat
 odio quando la gente fa pipì sul sedile del water
 
@@ -69742,4 +69736,13 @@ salire le scale
 
 the best day of my life
 il miglior giorno della mia vita
+
+downstairs (noun)
+il piano di sotto
+
+no posting
+divieto di affissione
+
+cell phone holder; mobile phone holder
+il portacellulare
 
