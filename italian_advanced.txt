@@ -9130,9 +9130,6 @@ univoco
 cutting board; platter
 il tagliere
 
-garish
-sfarzoso
-
 return on investment
 il ritorno sugli investimenti
 
@@ -69782,3 +69779,8 @@ la pausa bagno; la pausa toilette
 to worry; to make worry
 far preoccupare
 
+fancy (good quality)
+pregiato; elegante; sofisticato; di alta qualità
+
+lavish; extravagent; ostentatious; fancy; garish
+sfarzoso
