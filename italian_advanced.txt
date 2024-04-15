@@ -69818,3 +69818,9 @@ la libbra
 pound (sterling)
 la sterlina
 
+leveraged
+alavancato
+
+to leverage
+alavancare
+
