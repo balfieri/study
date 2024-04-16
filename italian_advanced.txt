@@ -47342,7 +47342,7 @@ graphics engine
 il motore grafico
 
 rendering
-la renderizzazione
+la renderizzazione; il rendering
 
 polygon
 il poligono
