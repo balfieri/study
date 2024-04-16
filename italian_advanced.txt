@@ -4844,7 +4844,7 @@ look (taken)
 l'occhiata
 
 Milky Way
-la via lattea
+la Via Lattea
 
 coordinate
 la coordinata
@@ -34111,7 +34111,7 @@ inquietante
 next to each
 accanto a ogni
 
-shortcrust pastry; crust (of pie)
+shortcrust pastry; crust (of pie); shortbread
 la pasta frolla
 
 speaker (stereo)
@@ -69847,4 +69847,19 @@ ghiacciato; coperto di ghiaccio
 
 little door
 la porticina; la porta piccola
+
+stage presence
+la presenza scenica
+
+hare
+il lepre
+
+shortbread
+il frollino; il pasticcino; la pasta frolla
+
+outlet; distribution
+lo spaccio
+
+shortbread cookie
+il biscotto di pasta frolla
 
