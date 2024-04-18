@@ -3873,3 +3873,6 @@ mi deprime; mi abbacchia
 absence makes the heart grow fonder
 l'assenza rende il cuore più affezionato
 
+switcheroo
+lo scambio a sorpresa; il baratto
+
