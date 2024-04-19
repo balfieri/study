@@ -70016,3 +70016,9 @@ posizionare
 what position do you play on the team?
 in che posizione giochi nella squadra?
 
+what did I do to deserve this?
+cosa ho fatto per meritare questo?
+
+what did I do to deserve this treatment?
+cosa ho fatto per meritare questo trattamento?
+
