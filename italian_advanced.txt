@@ -60806,9 +60806,6 @@ il pistolero
 to outrage
 indignare
 
-authority
-l'autorevolezza
-
 sacral
 sacrale
 
@@ -69995,3 +69992,20 @@ il subappalto
 condensation
 la condensa
 
+authoritativeness
+l'autorevolezza
+
+ship; vessel
+il vascello; il vasciello
+
+chirping of the birds
+il cinguettio degli uccelli
+
+to chirp (birds)
+cinguettare
+
+fresh smell
+il fresco profumo
+
+fresh smell of the air
+il fresco profumo dell'aria
