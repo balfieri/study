@@ -70078,3 +70078,7 @@ il libro di testo accademico; il libro accademico
 
 academics
 gli accademici
+
+detail-oriented
+attento ai dettagli; orientato ai dettagli
+
