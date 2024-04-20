@@ -70070,3 +70070,11 @@ can you relate?
 positioning
 il posizionamento
 
+textbook
+il libro di testo
+
+academic textbook
+il libro di testo accademico; il libro accademico
+
+academics
+gli accademici
