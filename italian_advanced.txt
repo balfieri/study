@@ -9661,7 +9661,7 @@ l'adattatore
 room to spare
 lo spazio libero
 
-to detect; to find
+to detect; to find (something predicted or hypothesized, as confirmation)
 riscontrare
 
 luxurious
@@ -19027,7 +19027,7 @@ la zanzara
 sometimes (formal)
 talora
 
-to detect; to note; to observe; to notice
+to detect; to note; to observe; to notice (something not necessarily predicted)
 rilevare
 
 substantially; essentially; basically
