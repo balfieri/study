@@ -11089,7 +11089,7 @@ il negazionismo
 filthy; dirty; foul
 immondo
 
-to breach; to make a breach
+to make an impression; to make a breakthrough; to breach; to make a breach
 fare breccia
 
 to break through
@@ -67061,7 +67061,7 @@ annoso
 moat
 lo spalto
 
-breach
+breach; breakthrough
 la breccia
 
 splendor
@@ -70162,3 +70162,4 @@ non mi mollava più
 
 to spoil; to pamper
 brattare
+
