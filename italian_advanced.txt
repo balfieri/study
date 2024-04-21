@@ -70184,3 +70184,6 @@ il netto contrasto; il chiaro contrasto
 to ask for clarification on (something)
 chiedere chiarimenti su (qualcosa)
 
+to make a facetime call
+fare una chiamata facetime
+
