@@ -28978,9 +28978,6 @@ tutto questo per dimostravi
 good looks aren't everything
 il bell'aspetto non è tutto
 
-to run for president
-candidarsi alla presidenza
-
 assassinated
 assassinato
 
@@ -57313,6 +57310,9 @@ di sinistra
 
 to apply for (job); to run for (office)
 candidarsi
+
+to run for president
+candidarsi alla presidenza
 
 to apply for a job
 candidarsi per un lavoro
