@@ -70187,3 +70187,6 @@ chiedere chiarimenti su (qualcosa)
 to make a facetime call
 fare una chiamata facetime
 
+could you point me to the (something)?
+potresti indicarmi dove si trova (qualcosa)?; potresti indicarmi (qualcosa)?
+
