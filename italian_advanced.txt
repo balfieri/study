@@ -11417,7 +11417,7 @@ to forward; to advance
 inoltrarsi
 
 idler; lazy-bones; loafer
-il fannullone
+il fannullone; il pigrone
 
 to crumble; to shatter
 sgretolare
@@ -70168,4 +70168,10 @@ orientato alla carriera
 
 rugby sevens
 il rugby a 7
+
+cunning; sly
+ravvanato
+
+to smooth out; to settle; to clarify
+ravvanare
 
