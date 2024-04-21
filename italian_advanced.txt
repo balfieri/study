@@ -11684,7 +11684,7 @@ fart
 la scorreggia; la scoreggia
 
 to fart
-scoreggiare
+scoreggiare; fare un peto
 
 definitely; necessarily; of course; naturally; obviously; absolutely; surely; for sure; by force
 per forza
@@ -70156,3 +70156,7 @@ mollare un pugno
 
 to slap
 mollare una sberla; mollare uno schiaffo; mollare un ceffone
+
+he wouldn't leave me alone; he kept clinging to me
+non mi mollava più
+
