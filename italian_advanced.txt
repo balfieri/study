@@ -28036,7 +28036,7 @@ il portalettere
 out hunting
 fuori a caccia
 
-label maker
+label maker; labeling machine; labeler
 l'etichettatrice
 
 to come from behind
