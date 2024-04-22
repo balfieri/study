@@ -2504,7 +2504,7 @@ to marry; to fly together
 convolare
 
 inconvenience; bother; trouble
-l'incomodo
+l'incomodo; l'inconveniente
 
 to start; to commence; to begin; to bootstrap
 avviare
@@ -70213,4 +70213,7 @@ il rapporto prezzo/prestazioni
 
 to erase; to wipe off
 spugere
+
+to apologize for the inconvenience
+scusare per l'inconveniente
 
