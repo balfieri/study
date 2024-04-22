@@ -15214,7 +15214,7 @@ la riffa
 flaccid; flabby; soft; limp
 moscio; flaccido
 
-pace; gait; stride
+pace; gait; stride; ride
 l'andatura
 
 urgent; pressing
@@ -70226,3 +70226,11 @@ speditamente
 some photos from 1992
 alcune foto del 1992
 
+nice ride
+la bella andatura
+
+smooth ride
+l'andatura fluida
+
+Niagara Falls
+le cascate del Niagara
