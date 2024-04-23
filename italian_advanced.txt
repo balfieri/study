@@ -70294,3 +70294,7 @@ in alcuni modi è meglio; in altri modi è peggio
 
 to run aground; to get stuck
 incagliare
+
+tested
+testato
+
