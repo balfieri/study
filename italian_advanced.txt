@@ -70298,3 +70298,6 @@ incagliare
 tested
 testato
 
+sparse; scanty
+sparuto
+
