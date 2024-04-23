@@ -70301,3 +70301,5 @@ testato
 sparse; scanty
 sparuto
 
+fix; repair
+l'aggiusto
