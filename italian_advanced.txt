@@ -6254,7 +6254,7 @@ to regress
 regredire
 
 lawn mower
-il tagliaerba
+il tagliaerba; il tosaerba
 
 in person
 di persona; in presenza
