@@ -34448,7 +34448,7 @@ credit crunch
 la crisi del credito
 
 I am in my hotel room
-sono nella mia stanza d'albergo
+sono nella mia camera d'albergo
 
 The Wi-Fi connection is poor
 la connessione wi-fi è scarsa
@@ -70303,3 +70303,6 @@ sparuto
 
 fix; repair
 l'aggiusto
+
+hotel room
+la camera d'albergo
