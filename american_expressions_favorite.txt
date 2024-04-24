@@ -3876,3 +3876,6 @@ lo scambio a sorpresa; il baratto
 it takes two to tango (it takes two people to succeed at something)
 ci vogliono due persone per fare il tango
 
+to shoot oneself in the foot
+autotrittarsi
+
