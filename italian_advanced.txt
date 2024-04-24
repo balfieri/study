@@ -46582,7 +46582,7 @@ giuro a Dio
 airport diagram
 il diagramma dell'aeroporto
 
-to tour the city
+to tour the city; to tool around town
 girare per la città
 
 to go around the city
@@ -58268,7 +58268,7 @@ arricchiare
 to wander the streets
 girare per le strade; fare un giro per le strade
 
-to tour the city; to go around the city
+to tour the city; to go around the city; to tool around the city
 girare per la città; fare un giro per la città
 
 to travel around the world
