@@ -70349,3 +70349,6 @@ il poliamore
 prodigal; lavish; extravagant
 prodigo
 
+chubby; plump
+cicciotto
+
