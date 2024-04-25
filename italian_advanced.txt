@@ -20788,7 +20788,7 @@ la sensazione
 allowed
 consentito
 
-distinct; distinguished
+distinct; distinguished; discrete
 distinto
 
 theology
@@ -70390,4 +70390,7 @@ il capriolo
 
 to go on air; to go on the air; to be broadcast
 andare in onda
+
+discretion
+la discrezione
 
