@@ -70418,3 +70418,8 @@ la dipendenza
 Plato
 Platone
 
+Ethernet switch; network switch
+il switch ethernet; il switch di rete
+
+rack (equipment)
+il rack
