@@ -70410,7 +70410,7 @@ scent; fragrance; smell (pleasant)
 il profumo
 
 smell (unpleasant); stink
-il puzzo
+la puzza; il puzzo (più forte)
 
 to profess; to declare
 professare
