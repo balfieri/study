@@ -70427,3 +70427,6 @@ il rack
 record year
 l'anno record
 
+limited number; closed number
+a numero chiuso
+
