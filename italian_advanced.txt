@@ -13348,8 +13348,11 @@ l'adesione
 discretion; confidentiality; reserve
 la riservatezza
 
-changing room; dressing room
-lo spogliatoio; il camerino
+changing room
+lo spogliatoio
+
+dressing room
+il camerino
 
 help; relief; aid
 il soccorso
@@ -70358,3 +70361,17 @@ fare modo
 rodeo
 il rodeo
 
+stagehand; prop master
+l'attrezzista
+
+lemur
+il lemure
+
+due to low demand
+per scarsa domanda
+
+profiling
+la profilazione
+
+I make no promises; I don't make promises
+non faccio promesse
