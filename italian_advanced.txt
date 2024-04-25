@@ -70423,3 +70423,7 @@ il switch ethernet; il switch di rete
 
 rack (equipment)
 il rack
+
+record year
+l'anno record
+
