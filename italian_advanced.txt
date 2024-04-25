@@ -70403,3 +70403,11 @@ l'albergatore; l'albergatrice
 uncertain weather
 il meteo incerto
 
+smell; odor; scent (neutral)
+l'odore
+
+scent; fragrance; smell (pleasant)
+il profumo
+
+smell (unpleasant); stink
+il puzzo
