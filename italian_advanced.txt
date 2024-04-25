@@ -24841,9 +24841,6 @@ risultare
 pity; piety; mercy
 la pietà
 
-dependence
-la dipendenza
-
 dependence on
 la dipendenza da
 
@@ -70414,3 +70411,7 @@ la puzza; il puzzo (più forte)
 
 to profess; to declare
 professare
+
+addiction; dependence
+la dipendenza
+
