@@ -70400,3 +70400,6 @@ la Festa di Liberazione (25 aprile)
 innkeeper; hotelier
 l'albergatore; l'albergatrice
 
+uncertain weather
+il meteo incerto
+
