@@ -1096,7 +1096,7 @@ lo zingaro; la zingara; la zingariola
 review (of subject)
 il ripasso
 
-mastery; command; grasp
+mastery; command; grasp (subject)
 la padronanza
 
 to unfold; to take place
@@ -2276,7 +2276,7 @@ indeed; actually; really
 effettivamente
 
 to be held; to take place
-tenersi
+tenersi; avere luogo
 
 possibly; if need be; if necessary; perhaps
 eventualmente
@@ -70429,4 +70429,7 @@ l'anno record
 
 limited number; closed number
 a numero chiuso
+
+networking equipment
+l'attrezzatura di rete; l'apparecchiatura di rete
 
