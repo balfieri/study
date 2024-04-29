@@ -460,6 +460,9 @@ anteporre
 to refresh
 rinfrescare
 
+to refresh (less common)
+raffrescare
+
 on the way
 sulla strada
 
@@ -6445,7 +6448,7 @@ il contraccambio
 scrawl; doodle; scribble
 lo scarabocchio
 
-department; unit; ward
+department (store, factory); unit; ward (hospital)
 il reparto
 
 department (company, government, university)
@@ -70490,3 +70493,8 @@ il punto di forza
 back of the movie theater
 il retro del cinema
 
+rescue
+il salvataggio
+
+to refresh one's memory
+rinfrescare la propria memoria
