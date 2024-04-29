@@ -70502,3 +70502,5 @@ rinfrescare la propria memoria
 balance
 il saldo
 
+ceasefire
+il cessate il fuoco; la tregua
