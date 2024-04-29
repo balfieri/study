@@ -70483,3 +70483,10 @@ l'avvicinamento
 
 due; collectible
 esigibile
+
+strength; strong point
+il punto di forza
+
+back of the movie theater
+il retro del cinema
+
