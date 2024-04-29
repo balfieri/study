@@ -10421,7 +10421,7 @@ impact
 l'impatto
 
 homeowner's association
-l'associzione dei proprietari di case0:w
+l'associazione dei proprietari di casa
 
 castration
 la castrazione
@@ -65849,7 +65849,7 @@ il tasso di natalità
 workforce
 la forza di lavoro
 
-home owner
+homeowner; home owner
 il proprietario di casa
 
 backup band
