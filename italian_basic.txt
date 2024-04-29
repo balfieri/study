@@ -5413,9 +5413,6 @@ emozionante; commovente
 excited (non-sexual); psyched; stoked; fired up; pumped up
 emozionato
 
-sale
-il saldo
-
 adventurous
 avventuroso
 
@@ -5477,7 +5474,7 @@ brush
 la spazzola
 
 on sale
-in saldo
+in saldo; in offerta
 
 candy
 le caramelle; i dolciumi

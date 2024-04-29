@@ -66506,7 +66506,7 @@ la Cuba
 to decarbonize
 decarbonizzare
 
-to settle the bill
+to settle the bill; to pay the bill
 saldare il conto
 
 to opt out of (something)
@@ -70498,3 +70498,7 @@ il salvataggio
 
 to refresh one's memory
 rinfrescare la propria memoria
+
+balance
+il saldo
+
