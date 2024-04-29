@@ -50779,8 +50779,11 @@ il mestolo colino
 foam skimmer
 la schiumarola
 
-foam maker; frother
-lo schiumatoio; il montalatte
+foam maker
+lo schiumatoio 
+
+frother
+il montalatte
 
 grandparenthood
 la nonnità
@@ -70447,4 +70450,25 @@ il softball
 
 to fast
 digiunare
+
+home run
+il fuoricampo
+
+to hit a home run over the fence
+colpire un fuoricampo oltre la recinzione
+
+to hit the ball up the line; to hit the ball down the line
+colpire la palla lungo la linea
+
+language revitalization
+la rivitalizzazione linguistica
+
+automotive
+automobilistico
+
+it will be held tomorrow
+si terrà domani
+
+equinox
+l'equinozio
 
