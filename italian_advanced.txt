@@ -14551,7 +14551,7 @@ erogare
 play; drama; dramatic play
 l'opera teatrale
 
-opera
+opera (musical)
 l'opera lirica
 
 ballroom dancer
@@ -70514,4 +70514,11 @@ la forzatura delle norme
 to get oneself elected; to run for election
 farsi votare
 
+of significant interest
+di significativo interesse
 
+plateau
+l'altipiano
+
+to preview
+visualizzare in anteprima
