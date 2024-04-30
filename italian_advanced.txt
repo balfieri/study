@@ -20806,7 +20806,7 @@ il blocco
 collection
 la collezione
 
-accusation; charge; accusal
+accusation; charge; accusal; prosecution
 l'accusa
 
 experimental
