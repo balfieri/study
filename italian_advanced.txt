@@ -70553,3 +70553,6 @@ sfaciare
 relaxed; unwound
 sfaciato
 
+to heal; to cure
+sanare
+
