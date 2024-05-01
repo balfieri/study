@@ -10109,7 +10109,7 @@ die (metal); process; drawplate; ordeal
 la trafila
 
 fertilizer
-il fertilizzante
+il fertilizzante; il concime
 
 customizable; personalizable
 personalizzabile
@@ -70600,4 +70600,13 @@ l'irrigatore
 
 lawn sprinkler
 l'irrigatore per prato
+
+organic fertilizer
+il concime organico; il fertilizzante organico
+
+grass seed
+il seme d'erba
+
+mid-May
+metà maggio
 
