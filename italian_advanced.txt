@@ -70563,7 +70563,7 @@ bad food; poor quality food; low quality food
 il cibo scadente; il cibo di bassa qualità
 
 bacon
-il bacon
+il bacon; la pancetta americana
 
 mentally exhausting
 mentalmente estenuante
