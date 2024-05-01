@@ -18718,7 +18718,7 @@ allontanare
 to keep away; to exclude
 tenere lontano
 
-to dump; to download
+to unload; to dump; to download
 scaricare
 
 to give up; to drop; to dump; to let go of; to abandon (informal)
@@ -70576,4 +70576,13 @@ andare a prendere un amico
 
 to start the lawn mower
 avviare il tosaerba; avviare il tagliaerba; mettere in moto il tosaerba
+
+to load the car
+caricare la macchina
+
+to unload the car
+scaricare la macchina
+
+to load; to charge; to upload
+caricare
 
