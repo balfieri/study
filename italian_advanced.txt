@@ -70573,3 +70573,7 @@ fisicamente estenuante
 
 to pick up a friend
 andare a prendere un amico
+
+to start the lawn mower
+avviare il tosaerba; avviare il tagliaerba; mettere in moto il tosaerba
+
