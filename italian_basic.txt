@@ -2086,7 +2086,7 @@ il gallo
 turkey
 il tacchino
 
-cup; coffee cup
+cup; coffee cup; mug
 la tazza
 
 bowl
