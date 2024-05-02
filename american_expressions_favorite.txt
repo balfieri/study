@@ -3891,3 +3891,6 @@ il ragioniere; il contabile
 to rock
 fare rock; scatenarsi
 
+to cut right to the chase
+andare subito al sodo; tagliare la testa al toro
+
