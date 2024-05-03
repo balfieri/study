@@ -68183,6 +68183,9 @@ anticalcare
 to decalcify
 decalcificare
 
+to descale
+decare
+
 decalcification
 la decalcificazione
 
@@ -70696,4 +70699,7 @@ fare l'ego-surfing; cercare se stessi su internet
 
 boor; lout; oaf
 il cafone
+
+descaler
+il decalcificante
 
