@@ -70717,3 +70717,6 @@ far ispezionare la propria auto
 
 to get (something) inspected
 far ispezionare (qualcosa)
+
+to go into the studio
+andare in studio
