@@ -55879,8 +55879,8 @@ il contachilometri
 full-scale
 fondoscala
 
-to lubricate
-lubrificare
+to lubricate; to lube
+lubrificare; oliare
 
 faired
 carenato
