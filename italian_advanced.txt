@@ -64938,7 +64938,7 @@ to stay in character
 rimanere nel personaggio
 
 to be a double-edged sword
-essere una spada a doppio taglio
+essere una lama a doppo taglio; essere una spada a doppio taglio
 
 delusional; delirious
 delirante
@@ -70706,3 +70706,8 @@ il decalcificante
 flattery; compliment
 la lusinga
 
+to switch among them; to pass from one to the other
+passare da uno all'altro
+
+to work part-time
+lavorare a part-time
