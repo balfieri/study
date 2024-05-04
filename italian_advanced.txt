@@ -70744,3 +70744,7 @@ il tic
 
 burdened; saddled; weighed down
 gravato
+
+board game
+il gioco da tavolo
+
