@@ -7459,7 +7459,7 @@ impastare
 counterpoint
 il contrappunto
 
-outline; agenda; step ladder
+outline; agenda; step ladder; set list (concert)
 la scaletta
 
 full-time
