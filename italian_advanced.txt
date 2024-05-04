@@ -2890,9 +2890,6 @@ il crepuscolo
 dawn
 l'alba
 
-sunrise
-il levar del sole
-
 phase; stage
 la fase
 
@@ -7742,7 +7739,7 @@ easy; smooth; effortless
 agevole
 
 paradigm
-la paradigma
+il paradigma
 
 route (streets, paths); path; course; run; journey
 il percorso
@@ -70729,3 +70726,7 @@ sfiorare la perfezione
 
 to send off (somebody)
 mandare via (qualcuno)
+
+sunrise
+la levata del sole; il levar del sole
+
