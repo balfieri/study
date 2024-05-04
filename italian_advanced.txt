@@ -70760,3 +70760,9 @@ a mia disposizione
 rice field
 la risaia
 
+to rake
+rastrellare
+
+invalid; not valid
+invalido; invalse
+
