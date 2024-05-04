@@ -10807,7 +10807,7 @@ rigettare
 electoral campaign
 la campagna elettorale
 
-to burden; to saddle
+to burden; to saddle; to weigh down
 gravare
 
 Wales
@@ -70741,3 +70741,6 @@ mettere il fertilizzante; spargere il fertilizzante
 
 tic (verbal)
 il tic
+
+burdened; saddled; weighed down
+gravato
