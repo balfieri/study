@@ -16051,7 +16051,7 @@ ingabbiare
 to dupe; to fool; to cheat
 gabbare
 
-to cooperate
+to collaborate; to cooperate
 collaborare; cooperare
 
 to bring to light
@@ -23096,7 +23096,7 @@ status
 lo status
 
 collaborator
-il collaboratore
+il collaboratore; la collaboratrice
 
 identification; detection
 l'individuazione
