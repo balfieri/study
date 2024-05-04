@@ -70748,3 +70748,6 @@ gravato
 board game
 il gioco da tavolo
 
+asteroid
+l'asteroide
+
