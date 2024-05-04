@@ -6481,8 +6481,11 @@ il liquido
 independent
 indipendente
 
-union
+union (general)
 l'unione
+
+union (labor)
+il sindicato
 
 ready
 pronto
@@ -7896,3 +7899,7 @@ parlare con (qualcuno) di (qualcosa)
 
 to believe in (something)
 credere in (qualcosa)
+
+strike (workers)
+lo sciopero
+

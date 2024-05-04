@@ -10126,9 +10126,6 @@ le giostre
 to value
 valorizzare
 
-union (workers)
-il sindicato
-
 quarter; 3-month period
 il trimestre
 
@@ -10485,9 +10482,6 @@ rincoglianito
 
 dizzy; numb; lightheaded
 stordito
-
-strike (workers)
-lo sciopero
 
 private jet
 il jet privato
