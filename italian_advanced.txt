@@ -70751,3 +70751,6 @@ il gioco da tavolo
 asteroid
 l'asteroide
 
+catastrophic
+catastrofico
+

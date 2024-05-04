@@ -4558,10 +4558,10 @@ seguire
 to travel
 viaggiare
 
-to cancel; to annul
+to cancel; to annul; to revoke; to undo
 annullare
 
-to erase; to delete (slightly less permanently)
+to erase; to wipe away; to delete; to remove completely
 cancellare
 
 to eliminate; to delete (permanently)
