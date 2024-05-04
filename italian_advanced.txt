@@ -31039,8 +31039,8 @@ mi scuso per il breve preavviso
 I have to attend to it
 devo occuparmene
 
-to attend to
-occuparsi
+to deal with; to attend to
+occuparsi di
 
 to leak water
 perdere acqua
@@ -70753,4 +70753,7 @@ la massiccia offensiva
 
 to colonize Mars
 colonizzare Marte
+
+at my disposal; at my disposition
+a mia disposizione
 
