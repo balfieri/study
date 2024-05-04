@@ -38458,7 +38458,7 @@ la tinozza
 eagerness; restlessness; impatience; desire; craving
 la smania
 
-tick; mint
+tick (insect); mint (money printing)
 la zecca
 
 backwards
@@ -70735,3 +70735,9 @@ antitumorale
 
 epilepsy
 l'epilessia
+
+to put down fertilizer; to spread fertilizer
+mettere il fertilizzante; spargere il fertilizzante
+
+tic (verbal)
+il tic
