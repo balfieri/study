@@ -38620,7 +38620,7 @@ rifornire
 influential
 influente
 
-confectioner
+confectioner; sweet shop
 il dolciario
 
 question mark
@@ -70756,4 +70756,7 @@ colonizzare Marte
 
 at my disposal; at my disposition
 a mia disposizione
+
+rice field
+la risaia
 
