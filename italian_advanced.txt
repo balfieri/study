@@ -49750,7 +49750,7 @@ liscio; glabro
 daydreaming
 il trasognato
 
-to daydream
+to daydream; to fantasize
 sognare a occhi aperti; fantasticare
 
 saga
@@ -70804,3 +70804,7 @@ plagiato
 
 to plagiarize
 plagiare
+
+to pack; to cram; to stuff
+stipare
+
