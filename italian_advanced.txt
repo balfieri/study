@@ -70766,3 +70766,9 @@ rastrellare
 invalid; not valid
 invalido; invalse
 
+to come from old money
+venire da una famiglia di vecchio denario; provenire da soldi vecchi
+
+he comes from new money
+venire da una famiglia di nuovo denaro; provenire da soldi nuovi
+
