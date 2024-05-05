@@ -70780,3 +70780,7 @@ leakare
 
 leaked (information)
 leakato 
+
+two-dimensional
+bidimensionale
+
