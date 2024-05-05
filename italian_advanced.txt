@@ -65543,7 +65543,7 @@ sfasciarsi
 counterorder
 la contrordine
 
-to surrender
+to surrender; to turn oneself in
 consegnarsi
 
 ballroom
@@ -70789,3 +70789,6 @@ rivincere
 
 rocket launch
 la fusata
+
+wild driver; road pirate
+la pirata della strada
