@@ -31430,7 +31430,7 @@ drug (illegal, controlled)
 la droga
 
 performance; show
-la performance; l'esibizione
+l'esibizione; la performance
 
 art exhibit
 la mostra d'arte
