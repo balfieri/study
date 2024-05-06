@@ -592,9 +592,6 @@ cascare
 to satisfy; to gratify; to please
 appagare
 
-to make incorrect; to correct wrongly
-scorreggere
-
 foolishness; nonsense; rubbish; silliness
 la sciocchezza
 
@@ -11674,14 +11671,14 @@ per farla breve
 to fertilize; to impregnate
 fecondare; fertilizzare
 
-significant other
-il partner; la partner; il compagno; la compagna
+significant other; partner
+il compagno; la compagna; il partner; la partner
 
 fart
 la scorreggia; la scoreggia
 
-to fart
-scoreggiare; fare un peto
+to fart; to make incorrect; to correct wrongly
+scorreggere; fare un peto
 
 definitely; necessarily; of course; naturally; obviously; absolutely; surely; for sure; by force
 per forza
