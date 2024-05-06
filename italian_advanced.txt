@@ -73,8 +73,11 @@ insipido; blando; insapore; scialbo
 surrender; to give up
 arrendersi
 
-altitude
-l'altitudine; la quota
+quota; share; fee; altitude (cartography, construction, aviation)
+la quota
+
+altitude (city, geography, aviation, meteorology, environmental science)
+l'altitudine
 
 farm field
 il campo agricolo
@@ -6438,9 +6441,6 @@ il sollievo
 
 string; rope; twine
 la cordicella
-
-quota; share; fee; altitude
-la quota
 
 exchange; reciprocality
 il contraccambio
