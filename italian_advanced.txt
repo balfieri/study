@@ -44996,7 +44996,7 @@ flanked
 fiancheggiato
 
 to redeem
-riscattare
+redimere; riscattare
 
 scorching
 cocente
@@ -62123,9 +62123,6 @@ l'atto di accertamento fiscale
 prime minister
 il primo ministro
 
-to redeem
-redimere
-
 interstice
 l'interstizio
 
@@ -70810,4 +70807,25 @@ stipare
 
 what a pleasure
 che piacere
+
+to bring back
+portare indietro
+
+interactive
+interattivo
+
+reactive
+reattivo
+
+redeeming quality
+la qualità redentrice
+
+redeeming
+redentore; redentrice; redimente
+
+cicada
+la cicala
+
+no surprise that; it's not surprising that 
+non sorprende che; non è sorprendente che
 
