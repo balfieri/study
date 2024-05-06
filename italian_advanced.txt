@@ -70886,3 +70886,5 @@ la fraschetta
 tenant
 l'affittario
 
+semi-retired
+semi-in pensione
