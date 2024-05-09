@@ -68501,6 +68501,9 @@ il rumore molesto
 tripod
 il treppiedi
 
+quadpod
+il quappiedi
+
 scatterer
 il dispersore
 
