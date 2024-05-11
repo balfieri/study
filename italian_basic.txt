@@ -5207,7 +5207,7 @@ matter; subject; material; matter (mass)
 la materia
 
 kind; species
-la specie
+la specie; le specie
 
 freedom
 la libertà
