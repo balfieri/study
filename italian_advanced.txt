@@ -4112,7 +4112,7 @@ scholar
 lo studioso; il dotto; l'erudite
 
 consultant
-il consulente; il consigliere
+il consulente; la consulente; il consigliere
 
 to consult
 consultare
@@ -71003,3 +71003,17 @@ la balera
 fully functional
 completamente funzionale; pienamente funzionante
 
+ceased; stopped
+sistito
+
+to conjecture
+congettare
+
+maligning
+il malignamento
+
+to malign; to slander
+malignare
+
+to disrespect; to dis
+insultare; mancare di rispetto; disprezzare
