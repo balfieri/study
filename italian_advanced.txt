@@ -1624,7 +1624,7 @@ duro di comprendonio
 speaker
 l'interlocutore
 
-fame
+fame; stardom
 la fama
 
 affable; cordial
@@ -18733,7 +18733,7 @@ la reputazione
 notoriety
 la notorietà
 
-celebrity
+celebrity; stardom
 la celebrità
 
 ceremony
