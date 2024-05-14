@@ -71033,7 +71033,7 @@ essere svegli prima dell'alba
 in the wee hours of the morning
 nelle prime ore del mattino
 
-agitated; frantic
+wild; frenzied; agitated; frantic
 scalmanato
 
 to agitate; to ruffle
@@ -71107,3 +71107,6 @@ l'arco temporale
 
 talking (noun)
 il parlare
+
+kiosk
+il chiosco
