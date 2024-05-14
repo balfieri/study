@@ -71119,3 +71119,7 @@ la barra
 
 4-cycle
 a quattro tempi
+
+torque wrench
+la chiave dinamometrica
+
