@@ -71110,3 +71110,10 @@ il parlare
 
 kiosk
 il chiosco
+
+rod logic
+la logica a barre
+
+bar; rod
+la barra
+
