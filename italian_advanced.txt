@@ -25915,7 +25915,7 @@ la meditazione
 carefully; attentively
 attentamente
 
-traveller
+traveler
 il viaggiatore; la viaggiatrice
 
 proximity; closeness
@@ -33618,9 +33618,6 @@ il camminatore
 
 traveled
 viaggiato
-
-traveler
-il viaggiatore
 
 ballad
 la ballata
@@ -71125,4 +71122,7 @@ la chiave dinamometrica
 
 politeness; courtesy
 la cortezza
+
+cycle tourism; bicycle touring
+il cicloturismo
 
