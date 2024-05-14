@@ -55642,7 +55642,7 @@ i prezzi alle stelle
 unbeatable; insurmountable
 insuperabile
 
-4-stroke engine
+4-stroke engine; 4-cycle-engine
 il motore a quattro tempi
 
 declination; declension
@@ -71117,3 +71117,5 @@ la logica a barre
 bar; rod
 la barra
 
+4-cycle
+a quattro tempi
