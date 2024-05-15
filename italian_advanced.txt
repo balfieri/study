@@ -71194,3 +71194,10 @@ la lista puntata; l'elenco puntato
 
 to clip; to cut out; to trim
 ritagliare
+
+low resolution
+la bassa risoluzione
+
+high resolution
+l'alta risoluzione
+
