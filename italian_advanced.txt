@@ -13238,7 +13238,7 @@ know-how
 il saper fare
 
 adjacent
-adiacente
+adiacente; attigui
 
 morning person
 la persona mattiniera
@@ -38556,9 +38556,6 @@ la maitresse
 
 faint; weak
 flebile
-
-adjacent; side-by-side (plural)
-attigui
 
 to grill
 grigliare
@@ -71188,3 +71185,12 @@ il passero
 
 crow
 il corvo
+
+side-by-side
+fianco a fianco
+
+bullet list
+la lista puntata; l'elenco puntato
+
+to clip; to cut out; to trim
+ritagliare
