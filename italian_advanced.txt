@@ -71182,3 +71182,9 @@ dietro le quinte
 
 stagecraft
 l'arte scenica
+
+sparrow
+il passero
+
+crow
+il corvo
