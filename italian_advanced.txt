@@ -19825,7 +19825,7 @@ il comune
 unpleasant; not nice
 antipatico
 
-stingy; extremely frugal
+stingy; extremely frugal; miserly
 avaro
 
 stingy; cheap (informal)
@@ -71125,4 +71125,13 @@ la cortezza
 
 cycle tourism; bicycle touring
 il cicloturismo
+
+miser
+il taccagno
+
+over-produced
+iper-prodotto
+
+secularism
+la laicità
 
