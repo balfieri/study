@@ -71207,3 +71207,6 @@ il pecorello
 corrupter
 il corruttore; la corruttrice
 
+disabled
+disabile
+
