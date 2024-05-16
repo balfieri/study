@@ -71243,3 +71243,5 @@ il tetto detraibile
 human shield
 lo scudo umano
 
+stellar
+stellare
