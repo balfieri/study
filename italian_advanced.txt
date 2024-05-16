@@ -23293,8 +23293,8 @@ il parametro
 transcription
 la trascrizione
 
-to go back; to ascend; to backtrack
-risalire
+to go back; to ascend; to backtrack; to stretch back; to date back to
+risalire a
 
 underlined
 sottolineato
@@ -32958,9 +32958,6 @@ il deltaplano
 
 meaning; sense
 l'accezione
-
-to date back to
-risalire a
 
 braking (instance)
 la frenata
@@ -71212,3 +71209,7 @@ disabile
 
 pinwheel
 la girandola
+
+to stretch back over a year
+risalire a oltre un anno fa
+
