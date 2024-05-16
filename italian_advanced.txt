@@ -9055,7 +9055,7 @@ affinchiare
 to alert
 mettere in guardia
 
-to postpone; to defer; to extend
+to postpone; to defer; to extend (the duration of)
 prorogare
 
 how are things going?
@@ -25792,7 +25792,7 @@ il pegno
 land (adjective)
 fondiario
 
-scattered; disseminated; dispersed
+scattered; disseminated; dispersed; sprinkled
 sparso
 
 wagon; cart
