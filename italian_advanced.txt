@@ -71245,3 +71245,9 @@ lo scudo umano
 
 stellar
 stellare
+
+one hour earlier
+un'ora prima
+
+one hour later
+un'ora dopo
