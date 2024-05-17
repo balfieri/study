@@ -43576,9 +43576,6 @@ l'ambasciata
 travel agency
 l'agenzia di viaggi
 
-firefighters
-i vigili del fuoco
-
 consulate
 il consolato
 
@@ -49510,7 +49507,7 @@ lo sgombero
 inhuman
 disumano
 
-evacuated
+depopulated; cleared out; evacuated (permanent)
 sfollato
 
 demobilization
@@ -71290,4 +71287,37 @@ disastrato
 
 to pay for lessons
 pagare le lezioni
+
+voluntary manslaughter
+l'omicidio preterintenzionale; l'omicidio involuntario
+
+blown fuse
+il fusibile bruciato; il fusibile spento
+
+to mend; to patch
+arricuccire
+
+homophobia
+l'omofobia
+
+transphobia
+la transfobia
+
+biphobia
+la bifobia
+
+to get busted (caught)
+essere beccati
+
+to bust (somebody)
+beccare (qualcuno)
+
+evacuated (temporary)
+evacuato
+
+fire department
+i vigili del fuoco
+
+polyp
+il polipo
 
