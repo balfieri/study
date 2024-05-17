@@ -71321,5 +71321,5 @@ i vigili del fuoco
 polyp
 il polipo
 
-to power-wash
+to power-wash; to pressure-wash
 lavare a pressione
