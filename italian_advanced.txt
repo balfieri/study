@@ -71285,3 +71285,6 @@ routine (something)
 medical procedure
 la procedura medica
 
+disastrous
+disastrato
+
