@@ -66956,7 +66956,7 @@ che si trova ad essere; accade ad essere
 clever design
 il design intelligente
 
-hours of operation
+hours (business); hours of operation
 gli orari di apertura
 
 kindness
@@ -71323,3 +71323,7 @@ il polipo
 
 to power-wash; to pressure-wash
 lavare a pressione
+
+rain or shine
+con il sole o con la pioggia
+
