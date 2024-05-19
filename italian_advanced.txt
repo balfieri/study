@@ -37981,7 +37981,7 @@ la costola
 ultralight
 ultraleggero
 
-to mug
+to mug; to rob
 rapinare; aggredire
 
 mugged; snatched
@@ -51258,9 +51258,6 @@ inspiegabilmente
 
 loafing; idleness
 il boseggio; l'ozio; l'inattività
-
-to rob
-rapinare
 
 tugboat; tug
 il rimorchiatore
@@ -71407,3 +71404,7 @@ in diagonale; in diagonale opposto
 
 to intensify; to ramp up
 intensificare
+
+to rob a bank
+rapinare una banca
+
