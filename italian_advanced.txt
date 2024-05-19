@@ -51118,9 +51118,6 @@ suggere
 welcome (just arrived)
 ben arrivato; ben arrivati
 
-welcome back; good to see you again
-ben tornato; ben tornati
-
 stratospheric
 stratosferico
 
@@ -61118,8 +61115,8 @@ nulla di grave
 fairy tale wedding
 il matrimonio da fiaba
 
-welcome back
-ben ritrovato; ben ritrovati
+welcome back; good to see you again
+ben tornato; ben tornati; ben ritrovato; ben ritrovati; ben trovato; ben trovati
 
 curvaceous (woman)
 formosa
