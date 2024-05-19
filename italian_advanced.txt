@@ -60842,9 +60842,6 @@ per come la vedo io
 from my point of view
 dal mio punto di vista
 
-I have a feeling that
-mi sa che
-
 according to (someone)
 a sentire (qualcuno)
 
@@ -71368,4 +71365,7 @@ la cassetta degli attrezzi
 
 discordant
 discordante
+
+I think that; it seems to me that; I have a feeling that
+mi sa che
 
