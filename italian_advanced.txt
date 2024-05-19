@@ -71408,3 +71408,9 @@ intensificare
 to rob a bank
 rapinare una banca
 
+first-class cabin
+la cabina di prima classe
+
+economy class
+la classe economica
+
