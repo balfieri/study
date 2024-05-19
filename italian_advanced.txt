@@ -45569,7 +45569,7 @@ to purge
 spurgare
 
 flat tire
-la gomma a terra; lo pneumatico a terra
+la gomma forata; la gomma a terra; lo pneumatico a terra
 
 to bleed
 sanguinare; perdere sangue
@@ -71350,4 +71350,16 @@ seguire; accompagnare
 
 to tag along for the ride
 seguire per il viaggio; accompagnare per il viaggio
+
+orthopaedics
+l'ortopedia
+
+to get a flat tire
+forare una gomma
+
+to change a flat tire
+cambiare una gomma forata
+
+toolbox
+la cassetta degli attrezzi
 
