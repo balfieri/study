@@ -71396,3 +71396,9 @@ era meno difficile di quanto mi aspettassi
 stop sign
 il segnale di stop
 
+reticent
+reticente
+
+headcount
+il numero di persone
+
