@@ -21526,7 +21526,7 @@ autonomo
 prestige
 il prestigio
 
-folder; file; booklet
+folder (small, bound); file; booklet
 il fascicolo
 
 there you go; so there
@@ -31981,7 +31981,7 @@ correre un rischio
 I have no regrets
 non ho rimpianti
 
-folder; file
+folder (not bound); file
 la cartella
 
 to be past that point
@@ -71485,4 +71485,7 @@ la scuola di volo
 
 heated; heated up; warmed; warmed up
 scaldato
+
+folder (large, bulky)
+il faldone
 
