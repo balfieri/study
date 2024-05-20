@@ -71468,3 +71468,6 @@ opterei per (qualcosa)
 petunia
 la petunia
 
+tremor
+il tremito
+
