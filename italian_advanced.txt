@@ -6934,7 +6934,7 @@ il punto di rugiada
 booster shot
 il richiamo
 
-moisture; humidity
+moisture; humidity; wetness
 l'umidità
 
 vent; rash; outburst; outlet
