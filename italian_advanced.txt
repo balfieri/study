@@ -71461,3 +71461,7 @@ vorrei (fare qualcosa); mi piacerebbe (fare qualcosa); graderei (fare qualcosa, 
 
 would it be possible to have (something extra)?
 sarebbe possibile avere (qualcosa di extra)?
+
+I would opt for (something)
+opterei per (qualcosa)
+
