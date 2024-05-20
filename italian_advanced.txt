@@ -71489,3 +71489,6 @@ scaldato
 folder (large, bulky)
 il faldone
 
+aged wine
+il vino invecchiato
+
