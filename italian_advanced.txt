@@ -71492,3 +71492,5 @@ il faldone
 aged wine
 il vino invecchiato
 
+game console
+la console di gioco
