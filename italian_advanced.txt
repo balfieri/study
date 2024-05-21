@@ -38912,7 +38912,7 @@ nooks and crannies
 angoli nascosti; fessure e anfratti
 
 slot; crevice; gap
-la fessura; l'anfratto
+la fessura; l'anfratto; lo slot
 
 Facetime call
 la chiamata Facetime
@@ -71525,3 +71525,5 @@ il camioncino dei gelati
 if you had any
 se ne avessi
 
+volcanic
+vulcanico; bulcanico
