@@ -31921,9 +31921,6 @@ la pellicola trasparente
 a nice memory
 un bel ricordo
 
-piston displacement
-la cilindrata
-
 small helmet
 il caschetto
 
@@ -71552,3 +71549,5 @@ il tour PGA
 professional golfers association (PGA)
 l'associazione professionisti golfisti
 
+piston displacement; cylinder displacement
+la cilindrata
