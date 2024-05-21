@@ -680,7 +680,7 @@ a good start is half the battle
 chi ben comincia è a metà dell'opera
 
 the early bird catches the worm
-chi dorme non piglia pesci
+il mattino ha l'oro in bocca
 
 finders keepers, losers weepers
 chi lo trova se lo tiene, chi lo perde piange
@@ -2545,3 +2545,8 @@ le baggianate
 to stretch one's legs; to shake a leg
 staccarsi le ossa
 
+man on the job
+l'uomo sul pezzo
+
+woman on the job
+la donna sul pezzo
