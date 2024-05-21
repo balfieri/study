@@ -71537,3 +71537,5 @@ andare a coperto
 to go for cover
 andare a cercare riparo
 
+to reschedule
+riprogrammare
