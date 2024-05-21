@@ -10786,7 +10786,7 @@ spoglio
 to match; to couple; to pair; to combine; to lace
 abbinare; abbinarsi a
 
-flooding; inundation; flood
+flooding; inundation; flood (general)
 l'allagamento
 
 leg; stop; stage
@@ -38512,7 +38512,7 @@ la divulgazione pubblica
 funnel
 l'imbuto
 
-flood
+flood (large area, caused by rains)
 l'alluvione
 
 VIP
