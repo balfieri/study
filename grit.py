@@ -9,17 +9,25 @@ import string
 import re
 import subprocess
 
+# debugging flags
+die_with_exception = False
 cmd_en = True
+cmd_force_echo_stdout = False
 
 def die( msg, prefix='ERROR: ' ):
     print( prefix + msg )
-    sys.exit( 1 )
+    if die_with_exception: 
+        raise AssertionError
+    else:
+        sys.exit( 1 )
 
-def cmd( c, echo=True, echo_stdout=False, can_die=True ):  
-    if echo: print( c )
+def cmd( c, echo=True, echo_stdout=False, can_die=True, timeout=None ):  
+    if echo: print( c, flush=True )
     if cmd_en:
-        info = subprocess.run( c, shell=True, text=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT )
-        if echo_stdout: print( info.stdout )
+        if echo_stdout or cmd_force_echo_stdout:
+            info = subprocess.run( c, shell=True, text=True, timeout=timeout )
+        else:
+            info = subprocess.run( c, shell=True, text=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=timeout )
         if can_die and info.returncode != 0: die( f'command failed: {c}' )
         return info.stdout
     else:
@@ -31,14 +39,15 @@ def match( s, pattern ):
 #-----------------------------------------------------------------------
 # process command line args
 #-----------------------------------------------------------------------
-if len( sys.argv ) < 2: die( 'usage: grit.py <string> [options]', '' )
+if len( sys.argv ) < 2: die( 'usage: grit.py [options] <string>', '' )
 string = sys.argv[1]
 subjects_s = 'italian_basic,italian_advanced,italian_expressions_common,italian_expressions_other,american_expressions_get,american_expressions_favorite,italian_vulgar,italian_passato_remoto,italian_tongue_twisters'
 search_question = True
 search_answer = True
 speak = False
+lookup_if_not_found = False
 out_file = ''
-i = 2
+i = 1
 while i < len( sys.argv ):
     arg = sys.argv[i]
     i += 1
@@ -50,14 +59,20 @@ while i < len( sys.argv ):
         search_answer = int(sys.argv[i])
     elif arg == '-s':
         speak = int(sys.argv[i])
+    elif arg == '-l':
+        lookup_if_not_found = int(sys.argv[i])
     else:
-        die( f'unknown option: {arg}' )
+        i -= 1
+        break
     i += 1
+
+string = ' '.join( sys.argv[i:] )
 
 #-----------------------------------------------------------------------
 # read in <subject>.txt files
 #-----------------------------------------------------------------------
 subjects = subjects_s.split( ',' )
+found = False
 for subject in subjects:
     filename = subject + '.txt'
     Q = open( filename, 'r' )
@@ -84,6 +99,10 @@ for subject in subjects:
             if speak:
                 #cmd( f'say {question}' )
                 cmd( f'say -v Alice {answer}', echo=False )
+            found = True
 
     Q.close()
 
+if not found and lookup_if_not_found:
+    print( f'Not found, looking up translation...' )
+    cmd( f'gpt -c translations -i \"{string}\"', True, True )
