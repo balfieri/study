@@ -6407,7 +6407,7 @@ mnemonic
 mnemonico
 
 interpreter; translator; performer
-l’interprete
+l’interprete; l'esecutore; l'artista
 
 to try; to try your hand
 cimentarsi
@@ -12957,9 +12957,6 @@ la matricola
 
 sophomore
 lo studente del secondo anno; il fagiolo
-
-time flies
-il tempo vola; il tempo fugge
 
 sad, but true
 triste, ma vero
@@ -20258,7 +20255,7 @@ foreseeable future
 il futuro prevedibile
 
 time flies; time flies by
-il tempo vola
+il tempo vola; il tempo fugge
 
 it's just a matter of
 è solo questione di
@@ -71578,3 +71575,10 @@ il funerale
 
 joint (marijuana)
 lo spinello
+
+jazz singer
+la cantante jazz
+
+cancellation
+la cancellazione
+
