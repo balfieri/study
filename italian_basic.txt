@@ -5266,7 +5266,7 @@ la produzione
 during
 durante
 
-kind; gender
+kind; gender; genre
 il genere
 
 in kind; in general
