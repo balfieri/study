@@ -17554,7 +17554,7 @@ che importa?; chi se ne frega?; ma chi se ne frega!
 tough break
 il brutto colpo; il colpo difficile; il duro colpo; che sfortuna
 
-lucky break
+lucky break; stroke of luck
 il colpo di fortuna
 
 bad break
@@ -71573,3 +71573,8 @@ il redditometro
 red light district
 il quartiere a luci rosse
 
+funeral
+il funerale
+
+joint (marijuana)
+lo spinello
