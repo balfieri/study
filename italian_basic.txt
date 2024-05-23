@@ -3310,7 +3310,7 @@ chiaro
 eyelashes
 le ciglia
 
-bell
+bell; chime
 il campanello; la campana
 
 brake
