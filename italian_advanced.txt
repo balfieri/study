@@ -71400,7 +71400,7 @@ kiddie-corner
 in diagonale; in diagonale opposto
 
 to intensify; to ramp up
-intensificare
+intensificare; aumentare
 
 to rob a bank
 rapinare una banca
