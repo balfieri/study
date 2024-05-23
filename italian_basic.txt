@@ -3310,8 +3310,11 @@ chiaro
 eyelashes
 le ciglia
 
-bell; chime
-il campanello; la campana
+bell (large)
+la campana
+
+bell (small); chime; doorbell
+il campanello
 
 brake
 il freno

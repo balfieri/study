@@ -41158,9 +41158,6 @@ la postazione da ufficio
 tilting backrest
 la schienale bascula
 
-doorbell
-il campanello
-
 master bedroom
 la camera da letto principale
 
