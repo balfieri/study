@@ -71594,3 +71594,11 @@ il coltivatore rotativo
 soil tiller
 il motozappa
 
+compressed
+compresso
+
+uncompressed
+non compresso
+
+audiophile
+l'audiofilo
