@@ -39565,7 +39565,7 @@ scomodo; goffo; inadatto
 unsuitable
 poco adatto
 
-in bad taste; in poor taste; tacky
+in bad taste; in poor taste; tacky (person)
 di cattivo gusto
 
 morally questionable
@@ -57422,7 +57422,7 @@ l'avo
 roundup
 il rastrellamento
 
-sticky
+sticky; tacky (surface)
 appiccicoso
 
 double (person)
@@ -71584,4 +71584,13 @@ la cantante jazz
 
 cancellation
 la cancellazione
+
+rotary
+rotativo
+
+rotary cultivator
+il coltivatore rotativo
+
+soil tiller
+il motozappa
 
