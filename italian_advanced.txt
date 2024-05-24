@@ -13168,7 +13168,7 @@ talvolta
 trait; stretch; feature; stroke
 il tratto
 
-even (also); as far as; directly
+even (also); actually; directly; as far as; really
 addirittura
 
 seriously?!; really?!; totally?!
@@ -41427,9 +41427,6 @@ togliere (qualcuno) dalla mente; fare uscire (qualcuno) dalla mente
 
 colonics
 l'idrocolonterapia
-
-addirittura
-even; actually; directly
 
 left and right (adverb)
 a destra e a sinistra
