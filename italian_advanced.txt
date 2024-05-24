@@ -71674,3 +71674,15 @@ comportarsi come se non fosse mai successo nulla
 
 pants (antiquated)
 la braia; la brache
+
+tree stump
+il ceppo d'albero
+
+to grind a stump
+macinare un ceppo
+
+stump grinder
+il trituratore di ceppi
+
+to grind; to crush
+triturare
