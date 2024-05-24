@@ -26578,9 +26578,6 @@ l'apprezzamento
 suffered
 sofferto
 
-tube; pipe
-il tubo
-
 parish (adjective)
 parrocchio
 
@@ -71686,4 +71683,7 @@ triturare
 
 darkest pages of history
 le pagine più oscure della storia; le pagine più buie della storia
+
+garden hose
+il tubo da giardino
 
