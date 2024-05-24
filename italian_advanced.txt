@@ -1630,8 +1630,11 @@ la fama
 affable; cordial
 affabile
 
-standoffish; aloof
-distante; freddo; scostante
+aloof (generally distant)
+distaccato; distante; scostante; riservato
+
+standoffish (purposely distant)
+distante; freddo
 
 to strain; to struggle; to labor
 fare fatica
@@ -59333,9 +59336,6 @@ sono un po' in una situazione di stallo per quanto riguarda la carriera
 to take for granted
 prendere per scontato; dare per scontato
 
-aloof
-distante; distaccato; freddo; riservato
-
 predilection
 la predilezione; la preferenza
 
@@ -71644,4 +71644,31 @@ alla fine della giornata
 
 to trim the weeds
 tagliare le erbacce
+
+deliberate effort
+sforzo deliberato
+
+flamethrower
+lanciafiamme
+
+to light things on fire
+dare fuoco alle cose
+
+to light (something) on fire
+dare fuoco a (qualcosa)
+
+pyromania
+la piromania
+
+to take up a hobby
+iniziare un hobby
+
+to take up a hobby again; to retake up a hobby
+riprendere un hobby
+
+to pretend that nothing ever happened
+fingere che non sia mai successo nulla
+
+to act as if nothing ever happened
+comportarsi come se non fosse mai successo nulla
 
