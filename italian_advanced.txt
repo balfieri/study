@@ -71713,3 +71713,10 @@ crescere di lato
 
 to take care of the lawn
 prendersi cura del prato
+
+backyard lawn
+il prato sul retro
+
+frontyard lawn
+il prato del cortile davanti
+
