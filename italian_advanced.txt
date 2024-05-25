@@ -1042,9 +1042,6 @@ fino ad oggi
 certainly; without doubt
 senzaltro; senz'altro
 
-golf hole
-la buca da golf; il percorso da golf
-
 golf ball
 la palla da golf; la pallina
 
@@ -32179,9 +32176,6 @@ armeggiare
 putt
 il putt
 
-green (golf)
-il green
-
 from that point onward
 da quel momento in poi
 
@@ -36036,9 +36030,6 @@ il tubo in PVC
 
 crawl space; limited access space; low attic
 lo spazio di accesso limitato; il sottotetto basso
-
-fairway
-il fairway
 
 conceivable
 concepibile
@@ -71743,3 +71734,28 @@ essere infiniti; non finire mai
 
 connection (mechanical); junction; connector end
 il raccordo
+
+golf course
+il campo da golf; il percorso da golf
+
+golf hole (actual hole in ground)
+la buca da golf
+
+golf hole (from tee to actual hole in ground)
+il buco da golf
+
+tee (golf)
+il tee; la zona di partenza
+
+fairway (golf)
+il fairway
+
+rough (golf)
+il rough
+
+bunker (golf)
+il bunker
+
+green (golf)
+il green
+
