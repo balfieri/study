@@ -47344,7 +47344,7 @@ l'incremento prestazionale
 energy absorbtion; energy consumption
 l'assorbimento energetico
 
-connector
+connector (general, electrical, computer)
 il connettore
 
 power connector
@@ -71741,5 +71741,5 @@ il casello
 to be never-ending
 essere infiniti; non finire mai
 
-connection; junction; connector end
+connection (mechanical); junction; connector end
 il raccordo
