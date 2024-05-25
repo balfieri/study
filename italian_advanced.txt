@@ -9502,9 +9502,6 @@ non mi dispiace; non mi da fastidio; non mi fa problema
 messed up; screwed up
 incasinato
 
-junction
-il raccordo
-
 hydrated
 idratato
 
@@ -54934,7 +54931,7 @@ insediato
 single-engine
 monomotore
 
-gasoline can; can of gasoline
+gas can; gasoline can; can of gasoline
 la tanica di benzina
 
 adrenaline
@@ -71720,3 +71717,29 @@ il prato sul retro
 frontyard lawn
 il prato del cortile davanti
 
+the schedule stretches out over multiple years
+il programma si estende su piÃ¹ anni
+
+blow gun
+pistola di soffiaggio
+
+clamping vice pliers; locking vice pliers
+le pinze per morse di bloccaggio
+
+thread locker
+il frenafiletti
+
+valve stem
+lo stelo della valvola
+
+skimmer
+lo scumatore
+
+toll booth
+il casello
+
+to be never-ending
+essere infiniti; non finire mai
+
+connection; junction; connector end
+il raccordo
