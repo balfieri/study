@@ -71759,3 +71759,6 @@ il bunker
 green (golf)
 il green
 
+fiber optics
+la fibrottica
+
