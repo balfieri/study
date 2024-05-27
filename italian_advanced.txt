@@ -18953,7 +18953,7 @@ Serbian
 serbo
 
 to surpass; to overtake; to pass
-sorpassare
+sorpassare; superare
 
 fleet; navy
 la flotta
@@ -24040,7 +24040,7 @@ la giovinezza
 hero
 l'eroe
 
-to find; to recover; to find again
+to find; to recover; to find again; to connect again (persons)
 ritrovare
 
 married couple; spouses
@@ -38839,7 +38839,7 @@ l'elisione
 to elide
 elidere
 
-to commemorate
+to commemorate; to remember (an event)
 commemorare
 
 slideshow
@@ -71821,3 +71821,7 @@ avere alcuni problemi di salute
 
 I am so happy for you
 sono così felice per te
+
+from behind
+da dietro
+
