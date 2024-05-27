@@ -22811,7 +22811,7 @@ filing cabinet
 il casellario
 
 pet
-l'animale domestico
+l'animale domestico; il pet
 
 birthday boy
 il festeggiato
