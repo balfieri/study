@@ -58604,7 +58604,7 @@ a sua insaputa
 thrilling flight
 il volare da brividi
 
-to uproot
+to uproot; to pull (weeds)
 estirpare
 
 to sharpen
@@ -71836,3 +71836,7 @@ il contabile; la contabile
 
 to find oneself; to refind oneself
 ritrovarsi
+
+to pull the weeds; to uproot the weeds
+estirpare le erbacce
+
