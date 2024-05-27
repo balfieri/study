@@ -71833,3 +71833,6 @@ il diatologo; la diatologa
 
 accountant
 il contabile; la contabile
+
+to find oneself; to refind oneself
+ritrovarsi
