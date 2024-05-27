@@ -71831,3 +71831,5 @@ il ferro da golf
 dietitian
 il diatologo; la diatologa
 
+accountant
+il contabile; la contabile
