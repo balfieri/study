@@ -8822,7 +8822,7 @@ inside (noun)
 l'interno
 
 golf swing
-l'altalena da golf; lo swing da golf
+il colpo di golf; lo swing da golf
 
 workout; training; practice
 l'allenamento
@@ -71807,3 +71807,11 @@ l'America latina
 in the face of the data
 di fronte ai dati
 
+I am trying to remember what I was working on
+sto cercando di ricordare su cosa stavo lavorando
+
+win-win (adjective)
+vantaggioso per tutti
+
+win-win (noun)
+il vantaggio reciproco

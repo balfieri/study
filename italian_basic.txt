@@ -6163,7 +6163,7 @@ specifico
 preparation
 la preparazione
 
-victory
+victory; win
 la vittoria
 
 Saint
