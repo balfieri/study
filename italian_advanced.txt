@@ -53305,9 +53305,6 @@ autopubblicare
 snail mail
 la posta tradizionale; la posta lenta
 
-chiaroscuro
-chiaroscuro
-
 posted
 postato
 
@@ -71839,4 +71836,22 @@ ritrovarsi
 
 to pull the weeds; to uproot the weeds
 estirpare le erbacce
+
+light-dark
+chiaroscuro
+
+game show
+il programma a premi
+
+quiz show
+il programma a quiz
+
+prima di ciò; prima di quello
+prior to that
+
+top prize of; maximum prize of
+il premio massimo di
+
+irrigation drip line
+la linea di irrigazione a goccia
 
