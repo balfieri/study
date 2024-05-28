@@ -71867,3 +71867,6 @@ il fattorino; la fattorina; il corriere; la corriere
 drip; dribbling
 il gocciamento
 
+crutch
+la stampella
+
