@@ -7908,3 +7908,6 @@ lo sciopero
 
 tube; pipe; hose
 il tubo
+
+to get worse
+peggiorare
