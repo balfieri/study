@@ -71870,3 +71870,5 @@ il gocciamento
 crutch
 la stampella
 
+to talk over each other
+parlarsi uno sopra l'altro
