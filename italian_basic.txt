@@ -5278,7 +5278,7 @@ in genere
 thought; thinking
 il pensiero
 
-issue
+issue; matter
 la questione
 
 at least (amount)
