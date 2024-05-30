@@ -71942,3 +71942,6 @@ brutalare
 to run free
 correre libero
 
+humanoid
+umanoide
+
