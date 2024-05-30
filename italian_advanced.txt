@@ -24238,7 +24238,7 @@ continuato
 detail
 il dettaglio
 
-normative
+normative; regulatory
 normativo
 
 pupil (student)
