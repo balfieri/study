@@ -4360,7 +4360,7 @@ da allora
 since then (end of sentence)
 da allora; fin da allora
 
-around that time (era)
+around that time (era); in that time; in that era
 all'epoca
 
 at that time (specific hour)
