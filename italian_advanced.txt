@@ -3223,7 +3223,7 @@ la schiera
 to resign; to quit
 dimettersi; licenziarsi
 
-to go around
+to go around; to tool around (slang)
 andare in giro
 
 commuter
@@ -7102,7 +7102,7 @@ dilettare
 to investigate; to explore; to research
 indagare
 
-to hang around; to putz around; to loiter; to saunter; to hover
+to hang around; to putz around; to loiter; to saunter; to hover; to wander around
 gironzolare
 
 to wedge; to tuck; to thread
@@ -35851,8 +35851,8 @@ stare nella cornice
 triennial
 tiennale
 
-to skip school; to play hooky
-scappare da scuola
+to skip school; to play hooky; to cut class
+marinare la scuola; scappare da scuola; scafare
 
 matchmaker
 l'appaiatore; l'appaiatrice; il faccendiere; la faccendiere
@@ -44547,9 +44547,6 @@ il messia
 
 streetwise
 scafato
-
-to skip school
-scafare
 
 to google
 googlare
@@ -71902,3 +71899,31 @@ il fermaglio
 
 straight hair
 i capelli lisci
+
+round wheel handle
+la manopola rotonda
+
+to rollerblade
+impattinare
+
+frozen yogurt
+lo yogurt gelato
+
+to enjoy (something) immensely
+godersi (qualcosa) immensamente
+
+bar-b-que
+il barbecue; la grigliata
+
+3-story building
+l'edificio a tre piani
+
+se mi va
+if I feel like it
+
+lasciare scampo
+to give a chance
+
+pinched; plucked; nitpicked
+pizzicato
+

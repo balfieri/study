@@ -1243,9 +1243,6 @@ il cavo
 seatbelt
 la cintura di sicurezza
 
-lighthouse
-il faro
-
 hurricane
 l'uragano
 
