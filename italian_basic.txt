@@ -6370,7 +6370,7 @@ doppio
 intention; intent; purpose
 l'intenzione
 
-painting; picture; square
+painting; picture; square; frame; framework
 il quadro
 
 explanation
