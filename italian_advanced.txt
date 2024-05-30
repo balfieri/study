@@ -1307,7 +1307,7 @@ ire; wrath; extreme anger
 l'ira
 
 greed; avarice
-l'avarizia; l'avidità
+l'avarizia; l'avidità; l'ingordicia
 
 oasis
 l'oasi
@@ -71929,4 +71929,7 @@ pizzicato
 
 soccer-related; soccer (adjective)
 calcistico
+
+martian
+il marziano
 
