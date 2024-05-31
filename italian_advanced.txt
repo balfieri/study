@@ -71945,3 +71945,6 @@ correre libero
 humanoid
 umanoide
 
+surrounded by water in 3 sides
+circondato da acqua su tre lati
+
