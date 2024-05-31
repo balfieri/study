@@ -60185,9 +60185,6 @@ sono nella tua squadra
 I'm on your side
 sono dalla tua parte
 
-album artwork
-la copertina dell'album
-
 hammock
 l'amaca
 
@@ -71975,4 +71972,6 @@ la problemina
 to be disappointed in oneself
 essere delusi di se stessi
 
+album cover; album artwork
+la copertina dell'album
 
