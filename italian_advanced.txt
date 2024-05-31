@@ -33100,7 +33100,7 @@ grattugiato grossolanamente
 coarsely; roughly; crudely
 grossolanamente
 
-crushed; grinded (into small pieces)
+crushed; grinded (into small pieces); shredded
 triturato
 
 reduced to shreds; shredded
@@ -71657,7 +71657,7 @@ macinare un ceppo
 stump grinder
 il trituratore di ceppi
 
-to grind; to crush
+to grind; to crush; to shred
 triturare
 
 darkest pages of history
@@ -71998,3 +71998,10 @@ prendere troppo sole
 
 to be negligent
 essere negligenti
+
+hardwood
+il legno duro
+
+to fray; to unravel
+sbrindellare
+
