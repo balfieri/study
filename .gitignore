@@ -2,4 +2,5 @@ gpt_text.txt
 gpt_audio.wav
 *.out
 www/
+gen_puz
 *.dsym/
