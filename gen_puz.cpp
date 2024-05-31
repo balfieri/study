@@ -156,7 +156,7 @@ void pick_words( std::string a, std::vector<PickedWord>& words )
     {
         char ch = a[i];
         if ( ch == ' ' || ch == '\t' || ch == '\'' || ch == '\'' || ch == '/' || ch == '(' || ch == ')' || ch == '&' ||
-             ch == '!' || ch == '?' || ch == '.' || ch == ',' || ch == '-' || ch == ':' || ch == '"' || ch == '[' || ch == ']' || 
+             ch == '!' || ch == '?' || ch == '.' || ch == ',' || ch == '-' || ch == ':' || ch == '"' || ch == '[' || ch == ']' || ch == '$' ||
              ch == '0' || ch == '1' || ch == '2' || ch == '3' || ch == '4' || ch == '5' || ch == '6' || ch == '7' || ch == '8' || ch == '9' ||
              ch == '\xe2' ) {
             if ( word != "" ) {

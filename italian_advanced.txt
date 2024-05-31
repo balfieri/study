@@ -71870,10 +71870,10 @@ la stampella
 to talk over each other
 parlarsi uno sopra l'altro
 
-200,000 dollars
+$200,000
 due cento mila dollari
 
-2,000,000 dollars
+$2,000,000
 due milioni di dollari
 
 Palestinian state

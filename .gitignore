@@ -6,3 +6,4 @@ gpt_audio.wav
 *.out
 bob.html
 www/*.html
+*.dsym/
