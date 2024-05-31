@@ -5899,8 +5899,8 @@ accoccolarsi
 unsettling
 spiazziante
 
-underlying
-sottostante
+underlying (something)
+sottostante di (qualcosa)
 
 to bastardize
 imbastardire
@@ -71950,3 +71950,19 @@ circondato da acqua su tre lati
 
 apostille
 l'apostille
+
+charges
+i capi d'accusa
+
+bristle worm
+il vermocane
+
+to supervise
+supervisionare
+
+falsification
+la falsificazione
+
+monetary
+pecuniario
+
