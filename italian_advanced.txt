@@ -15739,7 +15739,7 @@ fare del bene
 to be beside oneself
 essere fuori di sé
 
-to stifle; to choke; to smother
+to stifle; to choke; to smother; to soffocate
 soffocare
 
 culture shock
@@ -71995,3 +71995,6 @@ flemmatico
 
 to get too much sun
 prendere troppo sole
+
+to be negligent
+essere negligenti
