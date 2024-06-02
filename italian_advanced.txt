@@ -19117,7 +19117,7 @@ la barzelletta sporca; la barzeletta sconce
 homebody; couch potato
 il pantofolaio; il tipo casalingo
 
-denunciation; complaint; accusation; report (police, etc)
+denunciation; complaint; report (police, etc); act of reporting a crime
 la denuncia
 
 I can handle it
@@ -31999,8 +31999,8 @@ la curva stretta; la virata stretta; la girata stretta
 April Fool's
 Pesce d'aprile
 
-beads
-le perline
+bead (solid)
+la perlina
 
 parade float
 il carro da parata
@@ -72055,3 +72055,28 @@ mentire con impunità
 
 impunity
 l'impunità
+
+lawn mower deck (bottom)
+il piatto del tosaerba
+
+to balance a tire
+equilibrare una gomma
+
+balancing
+l'equilibratura
+
+normal wear
+l'usura normale
+
+uneven wear
+l'usura irregolare
+
+worthless
+senza valore; inuntile
+
+false accusation
+l'accusa infondata
+
+statement of complaint
+la dichiarazione di denuncia
+
