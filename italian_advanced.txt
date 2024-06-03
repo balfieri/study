@@ -46321,7 +46321,7 @@ il sistema radicale
 to bury power lines
 interrare le linee elettriche
 
-to prune trees
+to prune trees; to trim trees
 potare gli alberi
 
 to prune
@@ -70601,9 +70601,6 @@ il sodo
 weed (undesirable plant)
 l'erbaccia
 
-to blow off the driveway
-soffiare via i detriti dal vialetto
-
 debris
 i detriti
 
@@ -72079,4 +72076,16 @@ l'accusa infondata
 
 statement of complaint
 la dichiarazione di denuncia
+
+to have an inkling
+avere un'idea
+
+to trim the hedges; to prune the hedges
+potare le siepi
+
+to trim the bushes; to prune the bushes
+potare i cespugli
+
+to blow off the driveway
+soffiare via il vialetto; soffiare via i detriti dal vialetto
 
