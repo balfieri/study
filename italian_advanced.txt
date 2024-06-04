@@ -72182,3 +72182,5 @@ i danni subiti
 shoelace
 il cordoncino
 
+let me understand
+fammi capire
