@@ -72184,3 +72184,6 @@ il cordoncino
 
 let me understand
 fammi capire
+
+GPS
+il GPS
