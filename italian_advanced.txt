@@ -72187,3 +72187,13 @@ fammi capire
 
 GPS
 il GPS
+
+Fixed Base Operator; FBO
+l'operatore base fissa
+
+airport terminal
+il terminal aeroportuale
+
+terminal
+il terminal
+
