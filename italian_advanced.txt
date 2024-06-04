@@ -3991,7 +3991,7 @@ il canone
 agreement (Vatican, legal)
 il concordato
 
-to provide; to supply
+to provide; to supply; to provision
 provvedere
 
 to carry out; to perform; to fulfll
@@ -72202,3 +72202,4 @@ fare denuncia
 
 melody
 la melody
+
