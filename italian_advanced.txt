@@ -30713,7 +30713,7 @@ autocracy
 l'autocrazia
 
 to sue; to prosecute
-fare causa; citare in giudizio
+fare causa a; citare in giudizio
 
 to bestow; to endow
 elargire
@@ -72196,4 +72196,7 @@ il terminal aeroportuale
 
 terminal
 il terminal
+
+to make a complaint; to file a complaint
+fare denuncia
 
