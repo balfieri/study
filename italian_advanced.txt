@@ -72323,3 +72323,6 @@ puntalizzare
 drip
 lo sgocciolo
 
+steep slope
+il pendio ripido
+
