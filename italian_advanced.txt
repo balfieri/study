@@ -25717,7 +25717,7 @@ lo scrollamento
 based on; founded upon; built upon
 basato su
 
-to tolerate; to put up with; to bear; to endure
+to tolerate; to put up with; to bear; to endure; to stand
 tollerare; sopportare
 
 wary; distrustful; suspicious
@@ -72346,3 +72346,6 @@ non posso fare a meno di amare questo posto
 
 golf club (stick)
 la mazza da golf
+
+to not be able to stand (something)
+non sopportare (qualcosa)
