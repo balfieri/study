@@ -3259,9 +3259,6 @@ l'elefante
 bull
 il toro
 
-turtle
-la tartaruga
-
 tiger
 la tigre
 
