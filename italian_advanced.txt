@@ -57708,7 +57708,7 @@ pin; needle
 lo spillo
 
 dirt
-lo sporco
+lo sporco; la sporcizia
 
 stock (adjective)
 in condizioni originali; originale
@@ -62608,9 +62608,6 @@ ossessionarsi
 
 to return a favor
 rendere un favore
-
-golf club
-il club di golf
 
 suitor; wooer
 il corteggiatore; il pretendente
@@ -72335,3 +72332,17 @@ ondulato
 turtle; tortoise
 la tartaruga
 
+turtle back
+il guscio di tartaruga
+
+golf club (place, not stick)
+il club di golf
+
+to join a golf club
+iscriversi a un club di golf
+
+I can't help but love this place
+non posso fare a meno di amare questo posto
+
+golf club (stick)
+la mazza da golf
