@@ -72281,3 +72281,11 @@ l'allevatore di cani
 in absolute terms
 in termini assoluti
 
+to string together words
+infilare insieme le parole
+
+sheathed
+guainato
+
+to sheath
+guainare
