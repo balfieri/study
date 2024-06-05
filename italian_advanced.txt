@@ -4045,7 +4045,7 @@ il pregio
 to glimpse; to perceive
 intravedere
 
-step (stairs)
+step (stairs); rung (ladder)
 il gradino
 
 cottage; farmhouse
@@ -72352,4 +72352,16 @@ non sopportare (qualcosa)
 
 I hate myself for feeling this way
 odio me stesso per sentirmi così
+
+club member
+il membro del club
+
+to climb the social ladder
+scalare la scala sociale
+
+rung on the social ladder
+il gradino sulla scala sociale
+
+to cheat at golf
+barare a golf
 

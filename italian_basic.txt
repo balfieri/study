@@ -4780,7 +4780,7 @@ congelare
 stage (theater)
 il palco
 
-label; tag; luggage tag
+label; tag; luggage tag; etiquette
 l'etichetta
 
 lodging; accommodation; residency
