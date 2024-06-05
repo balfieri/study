@@ -72305,3 +72305,5 @@ il giro di pratica
 competition day
 il giorno della competizione
 
+practice green
+il green pratica; il campo pratica
