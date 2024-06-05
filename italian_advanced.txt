@@ -22330,7 +22330,7 @@ giovanile
 nap
 il pisolino; il sonnolino; il sonnellino
 
-to take a nap
+to take a nap; to be napping
 fare un pisolino
 
 festival
@@ -25405,7 +25405,7 @@ tornare a letto
 breeder; rearer; farmer
 l'allevatore
 
-chatter; gossip
+chatter; gossip; small talk
 la chiacchiere
 
 pancake; fritter
@@ -72247,4 +72247,37 @@ la scatola di cartone
 
 granite countertop
 il piano di lavoro in granito
+
+the zipper is down
+la cerniera è abbassata
+
+rigomortis sets in
+il rigor mortis si manifesta
+
+state your name
+dichiara il tuo nome
+
+answering machine message
+il messaggio della segreteria telefonica
+
+rigormortis
+il rigor mortis
+
+to pace
+camminare avanti e indietro
+
+frantically
+freneticamente
+
+to play a prank
+fare un dispetto
+
+to be shocked
+rimanere scandalizzati
+
+dog breeder
+l'allevatore di cani
+
+in absolute terms
+in termini assoluti
 
