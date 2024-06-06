@@ -72422,3 +72422,6 @@ a tal fine
 to keep a straight face
 mantenere un'espressione seria
 
+echocardiogram
+l'ecodoppler cardiaca
+
