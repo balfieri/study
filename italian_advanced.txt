@@ -72395,3 +72395,5 @@ chiudere l'estremità di un tubo
 to be sensible
 essere sensati
 
+to back-track  
+tornare sui propri passi
