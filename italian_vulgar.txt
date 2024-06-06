@@ -1,6 +1,6 @@
 # italian_vulgar.txt - bad words in Italian (parolacce)
 #
-idiot; moron
+idiot; moron; wanker
 coglione
 
 son of a bitch
