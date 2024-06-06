@@ -72397,3 +72397,7 @@ essere sensati
 
 to back-track  
 tornare sui propri passi
+
+to turn around
+volgersi
+
