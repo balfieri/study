@@ -72392,3 +72392,6 @@ annusare le rose
 to cap off the end of a pipe
 chiudere l'estremità di un tubo
 
+to be sensible
+essere sensati
+
