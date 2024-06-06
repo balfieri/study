@@ -72401,3 +72401,6 @@ tornare sui propri passi
 to turn around
 volgersi
 
+to replicate
+replicare
+
