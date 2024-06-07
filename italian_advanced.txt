@@ -52315,7 +52315,7 @@ la crema anti-prurito
 silly (person)
 buffo
 
-clown; silly person
+clown; silly person; goofball; goofhead
 il buffone
 
 talkative
@@ -72424,4 +72424,19 @@ mantenere un'espressione seria
 
 echocardiogram
 l'ecodoppler cardiaca
+
+on my lap
+sulle mie gambe
+
+he would pin me down
+mi avrebbe immobilizzato
+
+to pin down (somebody)
+immobilizzare qualcuno
+
+whenever you're ready
+quando sei pronto
+
+to hide one's pain
+nascondere il proprio dolore
 
