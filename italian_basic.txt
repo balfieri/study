@@ -6187,7 +6187,7 @@ la soluzione
 size; greatness; quantity
 la grandezza
 
-occurance; happening
+event; occurance; happening
 l'evento
 
 event (planned occasion)
