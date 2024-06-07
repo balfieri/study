@@ -5071,8 +5071,11 @@ meno
 society; company; corporation (European)
 la società
 
-place (larger area)
-il luogo; la locazione
+place (general term, larger area)
+il luogo
+
+location (formal, technical)
+la locazione
 
 place (specific); seat
 il posto
@@ -7008,9 +7011,6 @@ siciliano
 
 to move (oneself)
 muoversi
-
-location
-la locazione
 
 weight
 il peso
