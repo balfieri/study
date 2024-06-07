@@ -41962,7 +41962,7 @@ il castagno
 to tie a knot
 fare un nodo
 
-trendy
+trendy; in fashion
 alla moda; di tendenza
 
 start; beginning; the way (start)
@@ -72487,4 +72487,7 @@ ridurre lo zoom; rimpicciolire
 
 toiletries bag
 il beauty case
+
+fashionable
+di moda
 
