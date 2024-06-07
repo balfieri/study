@@ -72446,3 +72446,5 @@ il videocollegamento
 small cut
 la caltina
 
+to recommend
+raccomendare
