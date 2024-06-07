@@ -45,8 +45,8 @@ magnaccia; pappone
 pig; swine; hog
 maiale; porco
 
-dork; moron; idiot
-stupido; cretino; idiota
+dork; moron; idiot; dumbass
+l'idiota; il cretino; lo stupido
 
 you're boring
 sei una palla; sei palloso
@@ -440,9 +440,6 @@ succhiare cazzi; succhiare il cazzo
 
 to eat pussy
 mangiare la figa; leccare la figa
-
-dumbass
-l'idiota; il cretino
 
 hot (person)
 bono; bona
