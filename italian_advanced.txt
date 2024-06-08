@@ -7366,7 +7366,7 @@ radunato
 motive; reason; motivation
 il movente
 
-to put down; to fell; to chop down; to kill (an animal); to tear down
+to put down; to fell (tree); to chop down; to kill (an animal); to tear down
 abbattere
 
 lineage; line; ancestry
@@ -72536,3 +72536,14 @@ come mai
 miscreant; wrongdoer; villain
 il miscreante; il furfante
 
+cloning
+la clonazione
+
+let me say hello
+fammi salutare
+
+child of art; son of an artist
+il figlio d'arte
+
+to send a memo
+inviare un promemoria
