@@ -5740,7 +5740,7 @@ intenzionalmente; deliberatamente; apposta
 put to the test
 messo alla prova
 
-madness; insanity; lunacy
+madness; insanity; lunacy; craziness
 la follia; la pazzia
 
 university town
@@ -58339,9 +58339,6 @@ il trattamento d'urto
 
 to originate
 originare; derivare
-
-craziness
-follia
 
 mental illness
 la malattia mentale
