@@ -1726,7 +1726,7 @@ il danno
 compared to; in comparision to
 rispetto a; in confronto a
 
-about; apropos of
+about; apropos of; concerning (less formal)
 a proposito di
 
 keypad
@@ -4591,7 +4591,7 @@ oltre a quanto è stato detto
 nothing left but to; we have nothing left but; all we have left is; nothing left to do but
 non ci resta che
 
-concerning; with respect to; among other things; in terms of
+concerning; with respect to; among other things; in terms of (more formal)
 per quanto riguarda
 
 notwithstanding
