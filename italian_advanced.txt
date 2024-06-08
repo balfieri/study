@@ -6250,7 +6250,7 @@ twittare
 to retweat
 ritwittare
 
-pace; rate
+rhythm; pace; rate
 il ritmo
 
 to regress
@@ -13351,7 +13351,7 @@ il soccorso
 slaughterhouse; butchery
 il mattatoio
 
-so (adv); such (adv) (so much that it leads to a desired result)
+so (adv); such (adv) (slightly formal, so much that it leads to a desired result)
 talmente
 
 such (adjective)
