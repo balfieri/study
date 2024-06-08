@@ -26348,7 +26348,7 @@ equality
 l'uguaglianza
 
 fable; fairy tale
-la favola
+la favola; la favoletta
 
 localization; location
 la localizzazione
@@ -72526,4 +72526,7 @@ zoommare
 
 choreographer
 il coriografo; la coriografa
+
+caricature
+la caricatura
 
