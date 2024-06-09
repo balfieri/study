@@ -1291,7 +1291,7 @@ crescere dei figli
 hidden funds
 i fondi occulti
 
-to repulse; to repel
+to reject; to repel; to repulse; to decline; to turn down; to push back
 respingere
 
 revolting
@@ -6999,9 +6999,6 @@ farsi spiegare
 
 parenthood
 la genitorialità
-
-to reject; to repel; to decline; to turn down; to push back
-rispingere
 
 secrecy
 la segretezza
@@ -72568,4 +72565,7 @@ guidare lungo la strada
 
 broadside
 la bordata
+
+black leather jacket
+il giubotto di pelle nero
 
