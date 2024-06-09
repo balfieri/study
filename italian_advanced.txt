@@ -72566,3 +72566,6 @@ spostarsi su una panchina
 to drive down the road
 guidare lungo la strada
 
+broadside
+la bordata
+
