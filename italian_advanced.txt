@@ -72604,3 +72604,10 @@ essere permessi di votare
 
 turnout data
 i dati dell'affluenza
+
+worrisome
+preoccupante
+
+shortened
+accorciato
+
