@@ -72614,3 +72614,6 @@ accorciato
 to make (someone) leave
 far scaciare (qualcuno)
 
+to aggregate
+aggregare
+
