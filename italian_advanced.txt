@@ -1196,7 +1196,7 @@ stop it!
 smettila!; piantala!
 
 to keep score
-mantenere il punteggio
+mantenere il punteggio; tenere il punteggio
 
 to be masachistic
 essere masachisti
@@ -7213,7 +7213,7 @@ in media; mediamente
 judgmental
 giudicante; critico
 
-self-righteous
+self-righteous; preachy
 moralista
 
 to nitpick
@@ -72629,3 +72629,68 @@ il frazionamento azionario
 NNidia is now worth more than Apple
 NVidia ora vale più di Apple
 
+to water
+innaffiare
+
+keep your day job
+tieniti il tuo lavoro diurno
+
+Monet painting
+il dipinto di Monet
+
+truckload
+il carico di camion
+
+to focus on one's craft
+concentrarsi sul proprio mestiere
+
+bare spot
+il punto spoglio
+
+during the growing season
+durante la stagione di crescita
+
+seasoned professional
+il professionista esperto
+
+drinkable; potable
+potabile
+
+well pump
+la pompa del pozzo
+
+colorful personality
+la personalità vivace
+
+to be originally from
+essere originari
+
+spending habits
+le abitudini di spesa
+
+feeling of security
+la sensazione di sicurezza
+
+to remain quiet
+rimanere in silenzio
+
+to plead not guilty
+dichiararsi non colpevole
+
+I never thought I'd say this, but
+non avrei mai pensato di dirlo, ma
+
+to bite the head off of a chicken
+staccare la testa di un pollo con un morso
+
+spectator stands
+le tribune per spettatori
+
+stand (place from which to watch)
+la tribuna
+
+tempo fa
+some time ago
+
+to keep score in golf
+tenere il punteggio nel golf
