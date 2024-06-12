@@ -65114,7 +65114,7 @@ un po' complicato
 age of AI
 l'era dell'IA
 
-check-engine light
+check-engine light; check engine light
 la spia del motore
 
 cheery face
@@ -72697,4 +72697,8 @@ tenere il punteggio nel golf
 
 as a bonus
 come un bonus
+
+what a beautiful day
+che bella giornata
+
 
