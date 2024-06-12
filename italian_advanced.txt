@@ -71717,6 +71717,9 @@ la buca da golf
 golf hole (from tee to actual hole in ground)
 il buco da golf
 
+practice gold hole
+il buco da golf per pratica
+
 tee (golf)
 il tee; la zona di partenza
 
