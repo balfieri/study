@@ -56888,7 +56888,7 @@ assopire
 bib
 la bavetta
 
-vice (tool)
+vise; vice (tool)
 la morsa
 
 light pollution
@@ -72703,4 +72703,7 @@ che bella giornata
 
 structure; framework; organization
 la compagine
+
+vice (moral failing)
+il vizo
 
