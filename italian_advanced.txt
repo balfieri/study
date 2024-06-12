@@ -66972,7 +66972,7 @@ deal
 l'affare
 
 cohort
-il coorte; la coorte
+la coorte
 
 hanging (noun)
 l'impiccagione
@@ -72709,4 +72709,7 @@ il vizo
 
 to be good exercise
 essere un buon esercizio
+
+thanks in advance (TIA)
+grazie in anticipo
 
