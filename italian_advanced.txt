@@ -48391,7 +48391,7 @@ far temere; far paura; mettere paura
 to debunk a myth; to dispel a myth
 sfatare un mito
 
-gardening
+gardening; yardwork
 il giardinaggio
 
 to garden
@@ -72706,4 +72706,7 @@ la compagine
 
 vice (moral failing)
 il vizo
+
+to be good exercise
+essere un buon esercizio
 
