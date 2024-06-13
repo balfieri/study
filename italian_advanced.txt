@@ -3145,7 +3145,7 @@ completamente; interamente; approfonditamente; assolutamente; del tutto
 entirely
 interamente
 
-to occur; to take place; to happen
+to occur; to take place; to happen (event, fenomenom, situation)
 verificarsi
 
 magic
@@ -72737,3 +72737,5 @@ sgonfiare
 it is better to watch it on TV
 è meglio guardarlo in TV
 
+prominent person
+il big; la big
