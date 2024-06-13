@@ -14774,7 +14774,7 @@ subtraction
 la sottrazione
 
 stalemate
-lo stallo; la situazione di stallo
+lo stallo; la situazione di stallo; la fase di stallo
 
 to bridge the gap
 colmare il divario; colmare il gap
