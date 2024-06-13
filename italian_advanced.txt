@@ -19000,11 +19000,8 @@ gestire la situazione
 to turn to; to become
 divenire
 
-wound (blood); injury (blood)
+wound (blood); injury (blood due to cut)
 la ferita
-
-injury (muscolar, etc.)
-l'infortugno
 
 to reopen the wound
 riaprire la ferita
@@ -67583,7 +67580,7 @@ il flanker (rugby)
 number 8 (rugby)
 il numero 8 (rugby)
 
-injury
+injury (muscular, bone, non-blood)
 l'infortunio
 
 Tiber River
