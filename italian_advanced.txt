@@ -72803,3 +72803,8 @@ l'orario per il tee
 to make a tee time
 prenotare un orario per il tee
 
+outside the ropes
+fuori dalle corde
+
+inside the ropes
+dentro le corde
