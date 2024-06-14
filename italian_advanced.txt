@@ -71708,14 +71708,11 @@ il raccordo
 golf course
 il campo da golf; il percorso da golf
 
-golf hole (actual hole in ground)
+golf hole; (entire or actual hole in green)
 la buca da golf
 
-golf hole (from tee to actual hole in ground)
-il buco da golf
-
-practice gold hole
-il buco da golf per pratica
+practice golf hole
+la buca da golf per pratica
 
 tee (golf)
 il tee; la zona di partenza
@@ -72766,3 +72763,43 @@ sotto il sole
 
 to do gardening; to garden; to do yardwork
 fare giardinaggio
+
+off limits; out of bounds
+fuori limite; vietato
+
+I stand corrected
+mi correggo
+
+hazard
+il pericolo; l'ostacolo
+
+real thing
+la cosa vera e propria
+
+water hazard
+l'ostacolo d'acqua
+
+to lead to
+condurre a
+
+rattlesnake
+il serpente a sonagli
+
+garden snake
+il serpente da giardino
+
+disembodied
+disincarnato
+
+rattle
+il sonaglio
+
+to brag about (something)
+vantarsi di (qualcosa)
+        
+tee time
+l'orario per il tee
+
+to make a tee time
+prenotare un orario per il tee
+
