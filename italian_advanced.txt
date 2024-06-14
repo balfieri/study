@@ -72838,3 +72838,6 @@ monocomponente
 
 to do good
 fare bene
+
+to do bad
+fare male
