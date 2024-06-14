@@ -68534,7 +68534,7 @@ l'igienizzante
 to sanitize
 igienizzare
 
-mulch
+mulching
 la pacciamatura
 
 stunt
@@ -72844,4 +72844,7 @@ fare male
 
 classified ads; classifieds
 la bakeca
+
+to alternate the location
+alternare la posizione
 
