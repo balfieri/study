@@ -67580,7 +67580,7 @@ il flanker (rugby)
 number 8 (rugby)
 il numero 8 (rugby)
 
-injury (muscular, bone, non-blood)
+injury (no blood or cut)
 l'infortunio
 
 Tiber River
