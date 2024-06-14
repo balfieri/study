@@ -72833,3 +72833,6 @@ alle 8 del mattino
 tremendous
 tremendo
 
+single-component
+monocomponente
+
