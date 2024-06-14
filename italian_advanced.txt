@@ -72836,3 +72836,5 @@ tremendo
 single-component
 monocomponente
 
+to do good
+fare bene
