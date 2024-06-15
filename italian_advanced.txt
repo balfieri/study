@@ -22327,8 +22327,11 @@ il pisolino; il sonnolino; il sonnellino
 to take a nap; to be napping
 fare un pisolino
 
-festival
-la sagra; il festival
+festival (food)
+la sagra
+
+festival (non-food)
+il festival
 
 expert
 l'esperto
