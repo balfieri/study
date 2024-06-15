@@ -1534,7 +1534,7 @@ scherzare
 thread; wire; yarn
 il filo
 
-back (body)
+back (human body)
 la schiena
 
 homework

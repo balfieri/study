@@ -26368,7 +26368,7 @@ conseguente
 parish priest
 il parroco
 
-back (body, upper, medical term); spine; backstroke
+back (body, upper, technical term, includes other animals); spine; backstroke
 il dorso
 
 collection (money)
@@ -72974,4 +72974,6 @@ il fuoricampo decisivo
 incoherence
 l'incoerenza
 
+turtleback green
+il green a dorso di tartaruga
 
