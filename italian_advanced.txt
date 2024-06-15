@@ -6631,7 +6631,7 @@ il condominio
 apartment building
 il caseggiato
 
-faucet; tap
+faucet; tap; spigot
 il rubinetto
 
 bedside table
@@ -14023,7 +14023,7 @@ imporsi
 to engage; to open; strike up
 intavolare
 
-launch; throw; launching
+launch; throw; launching; pitching
 il lancio	
 
 to disburse; to shell out; to payout
@@ -20401,7 +20401,7 @@ l'intento
 clergy; priesthood
 il clero
 
-tip; point
+tip; point; spike
 la punta
 
 performance (quality measurement, multiple aspects)
@@ -25231,7 +25231,7 @@ liberalismo
 Bible
 la bibbia
 
-irregular
+irregular; uneven
 irregolare
 
 shame
@@ -44404,7 +44404,7 @@ il mascalzone
 to have a brain
 avere cervello
 
-to pierce; to perforate
+to pierce; to perforate; to punch (holes)
 forare
 
 greyness
@@ -72847,4 +72847,100 @@ la bakeca
 
 to alternate the location
 alternare la posizione
+
+collared shirt
+la camicia con colletto
+
+golf hitting mat
+il tappetino per il golf
+
+mat
+il tappetino
+
+to make the cut
+passare il taglio; superare il taglio
+
+to miss the cut
+uscire dal taglio; mancare il taglio
+
+golf short game
+il gioco corto del golf
+
+chipping
+il colpo corto
+
+to putt the ball
+mettere la palla in buca
+
+to play for the win
+giocarsi la vittoria
+
+trio; threesome
+il terzetto
+
+to find oneself in the water
+ritrovarsi in acqua
+
+in great shape
+in forma smagliante
+
+even par
+pari al par
+
+world ranking
+la classifica mondiale
+
+by a hair
+per un soffio
+
+voluptuous
+procace
+
+voluptuous model
+la procace modella
+
+overflowing
+debordante
+
+to have extreme mood swings
+avere sbalzi d'umore estremi
+
+hypoglycemic
+ipoglicemico
+
+hyperglycemic
+iperglicemico
+
+to change course midstream
+cambiare rotta a metà strada
+
+missing in action
+disperso in azione
+
+to scalp
+scalpare
+
+the floor is uneven
+il pavimento è irregolare
+
+rotary mower
+il tosaerba rotativo
+
+reel mower
+il tosaerba a rullo
+
+to punch holes in the ground
+forare terreno
+
+in pristine condition; in perfect condition
+in condizioni perfette
+
+golf driving range
+il campo pratica golf
+
+unteachable
+non insegnabile
+
+teachable
+insegnabile
 
