@@ -72962,3 +72962,9 @@ chiuso per lavoro
 open for business
 aperto per affari
 
+road under construction
+la strada in costruzione
+
+under repair
+in riparazione
+
