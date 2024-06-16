@@ -68297,7 +68297,7 @@ il frantume
 rocks
 gli scogli
 
-broken
+broken; broken down; malfunctioning (technical, mechanical)
 guasto
 
 at 11 sharp
@@ -72982,4 +72982,43 @@ ci vuole per forza
 
 tree branch
 il ramo d'albero
+
+messy work
+il lavoro disordinato
+
+to pose a problem
+porre un problema
+
+to develop feel for (something)
+sviluppare una sensibilità per (qualcosa)
+
+formerly; in the past
+al secolo
+
+unsung hero
+l'eroe sconosciuto
+
+stinging; prickly
+punzecchiante
+
+I think about him a lot
+penso molto a lui
+
+to fall prey to (something)
+cadere preda di (qualcosa)
+
+cold as ice
+freddo come il ghiaccio
+
+Father's Day
+la festa del papà
+
+Happy Belated Birthday
+buon compleanno in ritardo
+
+a miracle happened to him
+gli è successo un miracolo
+
+the game of telephone
+il gioco del telefono senza fili
 
