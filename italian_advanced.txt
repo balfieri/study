@@ -24307,9 +24307,6 @@ l'arbitro
 what's up with you?
 che ti prendi?
 
-bite
-il morso
-
 drawer; box
 la cassetta
 
@@ -73030,4 +73027,10 @@ la mattina molto impegnata
 
 to root for; to cheer on
 tifare
+
+mosquito bite
+la puntura di zanzara; il morso di zanzara
+
+to get bitten by mosquitoes
+essere stati morsi dalle zanzare
 
