@@ -3670,7 +3670,7 @@ lo starnutatore
 evil spirits
 gli spiriti maligni
 
-feasible; doable; practical
+feasible; doable; practical; workable
 fattibile; praticabile; realizzabile; attuabile
 
 crude (tactless)
@@ -73033,4 +73033,7 @@ la puntura di zanzara; il morso di zanzara
 
 to get bitten by mosquitoes
 essere stati morsi dalle zanzare
+
+workability
+la lavoratività
 
