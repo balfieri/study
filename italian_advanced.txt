@@ -44398,7 +44398,7 @@ cappa e spada
 gate (airport); boarding gate
 la porta d'imbarco
 
-scoundrel
+rascal; rogue; scoundrel
 il mascalzone
 
 to have a brain
@@ -44635,7 +44635,7 @@ imperniare
 to shout; to yell (aggressive)
 sbraitare
 
-rascal
+charlatan; soundrel; slob
 il cialtrone
 
 misogynist
@@ -73087,4 +73087,7 @@ l'abbigliamento da spiaggia
 
 beachwear store
 il negozio di abbigliamento da spiaggia
+
+to attribute (something) to (some reason); to chalk (something) up to (some reason)
+attribuire (qualcosa) a (qualche ragione)
 
