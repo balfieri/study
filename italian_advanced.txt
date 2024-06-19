@@ -73124,3 +73124,5 @@ spianare
 next week's lesson
 la lezione della prossima settimana
 
+to swipe up
+scorrere verso alto
