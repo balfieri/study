@@ -73109,3 +73109,6 @@ la chiave per lavandino
 trauma
 la trauma
 
+landscape mode
+la modalità orizzontale
+
