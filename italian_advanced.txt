@@ -73142,3 +73142,18 @@ risultare mancanti
 cruise-related
 crocieristico
 
+by car
+in macchina; di macchina
+
+by bike
+in bici; di bici
+
+by train
+in treno; di treno
+
+by plane
+in aereo; di aereo
+
+to run (something) by (someone)
+sottoporre (qualcosa) a (qualcuno)
+
