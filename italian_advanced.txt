@@ -73157,3 +73157,6 @@ in aereo; di aereo
 to run (something) by (someone)
 sottoporre (qualcosa) a (qualcuno)
 
+restless
+inquiete
+
