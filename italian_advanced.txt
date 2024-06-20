@@ -53659,9 +53659,6 @@ divertente; intrattenente
 board; plank
 la tavola; la pianta
 
-pasta dough
-l'impasto per la pasta
-
 belongings; personal possessions
 i beni personali
 
@@ -63537,7 +63534,7 @@ cookie dough
 l'impasto per biscotti
 
 pasta dough
-l'impasto per pasta
+l'impasto per la pasta; l'impasto per pasta
 
 dog show
 l'esposizione canina
