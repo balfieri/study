@@ -73160,3 +73160,6 @@ sottoporre (qualcosa) a (qualcuno)
 restless
 inquiete
 
+smooth; flat; level
+spianoso
+
