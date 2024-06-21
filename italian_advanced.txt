@@ -6259,7 +6259,7 @@ regredire
 lawn mower
 il tosaerba
 
-lawn mower; grass trimmer; weed trimmer
+lawn mower; grass trimmer; weed trimmer; weed eater; weed whacker
 il tagliaerba
 
 in person
@@ -73189,4 +73189,10 @@ la zampa posteriore
 
 amyotrophic lateral sclerosis (ALS); Lou Gehrig's disease
 la sclerosi laterale amiotrofica (SLA); la malattia di Lou Gehrig
+
+corking; plugging
+il tappamento
+
+uncorking; unplugging
+lo stappamento
 
