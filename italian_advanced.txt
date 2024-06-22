@@ -73229,3 +73229,6 @@ starsene da solo
 pant; wheeze
 l'ansimo
 
+to average
+fare la media
+
