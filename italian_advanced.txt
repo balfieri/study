@@ -73252,3 +73252,7 @@ addormentato al volante
 
 senior discount
 lo sconto per anziani
+
+public administrator
+l'amministratore pubblico; l'amministratrice pubblica
+
