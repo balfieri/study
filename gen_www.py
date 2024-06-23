@@ -53,6 +53,7 @@ day = today.day
 seed = year*10000 + month*100 + day
 seed *= 10000
 cw_en = True
+gen_puzzles = False
 
 i = 1
 while i < len( sys.argv ):
@@ -72,6 +73,9 @@ while i < len( sys.argv ):
         i += 1
     elif arg == '-cw_en':
         cw_en = int(sys.argv[i])
+        i += 1
+    elif arg == '-gen_puzzles':
+        gen_puzzles = int(sys.argv[i])
         i += 1
     else:
         die( f'unknown option: {arg}' )
@@ -108,8 +112,9 @@ s += f'  font-size: 20px;'
 s += f'}}\n'
 s += f'</style>\n'
 s += f'</head>\n'
-s += f'<title>Italian-English Word Lists and Crossword Puzzles</title>\n'
-s += f'<h1>Italian-English Word Lists and Crossword Puzzles</h1>\n'
+and_crossword_puzzles = 'and Crossword Puzzles' if gen_puzzles else ''
+s += f'<title>Italian-English Word Lists{and_crossword_puzzles}</title>\n'
+s += f'<h1>Italian-English Word Lists{and_crossword_puzzles}</h1>\n'
 s += f'<body>\n'
 s += f'<p style="font-size:20px">Hear a phrase:</p>\n'
 s += f'<p><pre><div id="text-box" contenteditable="true"></div></pre>\n'
@@ -183,7 +188,7 @@ s += '''
 '''
 
 #-----------------------------------------------------------------------
-# Generate the individual puzzles.
+# Generate the individual lists and puzzles.
 #-----------------------------------------------------------------------
 all_s = ''
 for subject_info in subjects:
@@ -197,22 +202,23 @@ for subject_info in subjects:
     subject   = subject_info[0]
     color     = subject_info[1]
     s += f'<section style="clear: left">\n'
-    if not is_first: s += f'<br>\n'
+    if gen_puzzles and not is_first: s += f'<br>\n'
     subjects_s = all_s if subject == 'all_lists' else subject
     entry_cnt = int( cmd( f'./gen_puz {subjects_s} -print_entry_cnt_and_exit 1' ) ) if cmd_en else 1
     cmd( f'./gen_html.py -subjects {subjects_s} -title {subject} > www/{subject}.html' ) 
     s += f'<h2><a href="{subject}.html">{subject}</a> ({entry_cnt} entries)</h2>'
     if subject == 'all_lists': s += f'<p><b>Warning: includes italian_vulgar list</b></p>'
-    for reverse in range(2):
-        clue_lang = 'Italian' if reverse == 0 else 'English'
-        start_pct = 85
-        s += f'<section style="clear: left">\n'
-        s += f'<b>{clue_lang} Crosswords:</b><br>'
-        for i in range(count):
-            title = f'{subject}_s{seed}_r{reverse}'
-            if cw_en: cmd( f'./gen_puz {subjects_s} -side {side} -seed {seed} -reverse {reverse} -start_pct {start_pct} -title {title} > www/{title}.html' )
-            seed += 1
-            s += f'<a href="{title}.html"><div class="rectangle" style="background-color: {color}">{i}</div></a>\n'
+    if gen_puzzles:
+        for reverse in range(2):
+            clue_lang = 'Italian' if reverse == 0 else 'English'
+            start_pct = 85
+            s += f'<section style="clear: left">\n'
+            s += f'<b>{clue_lang} Crosswords:</b><br>'
+            for i in range(count):
+                title = f'{subject}_s{seed}_r{reverse}'
+                if cw_en: cmd( f'./gen_puz {subjects_s} -side {side} -seed {seed} -reverse {reverse} -start_pct {start_pct} -title {title} > www/{title}.html' )
+                seed += 1
+                s += f'<a href="{title}.html"><div class="rectangle" style="background-color: {color}">{i}</div></a>\n'
     is_first = False
 
 s += f'<section style="clear: left">\n'
