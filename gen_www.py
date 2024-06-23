@@ -207,8 +207,8 @@ for subject_info in subjects:
     entry_cnt = int( cmd( f'./gen_puz {subjects_s} -print_entry_cnt_and_exit 1' ) ) if cmd_en else 1
     cmd( f'./gen_html.py -subjects {subjects_s} -title {subject} > www/{subject}.html' ) 
     s += f'<h2><a href="{subject}.html">{subject}</a> ({entry_cnt} entries)</h2>'
-    if subject == 'all_lists': s += f'<p><b>Warning: includes italian_vulgar list</b></p>'
     if gen_puzzles:
+        if subject == 'all_lists': s += f'<p><b>Warning: includes italian_vulgar list</b></p>'
         for reverse in range(2):
             clue_lang = 'Italian' if reverse == 0 else 'English'
             start_pct = 85
