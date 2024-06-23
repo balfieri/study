@@ -73256,3 +73256,9 @@ lo sconto per anziani
 public administrator
 l'amministratore pubblico; l'amministratrice pubblica
 
+door latch
+il chiavistello della porta
+
+bolt; latch
+il chiavistello
+
