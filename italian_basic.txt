@@ -2497,7 +2497,7 @@ la fame
 sleepness
 il sonno
 
-sick
+sick; ill
 malato; ammalato
 
 anxious

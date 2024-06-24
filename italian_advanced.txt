@@ -32051,7 +32051,7 @@ unless there is something else you're not telling me
 a meno che non ci sia qualcos'altro che non mi stai dicendo
 
 at the time
-a suo tempo; allora; al momento
+in quel momento; a suo tempo; allora; al momento
 
 something else
 qualcos'altro
@@ -73262,3 +73262,26 @@ il chiavistello della porta
 bolt; latch
 il chiavistello
 
+(something)-wise
+in termini di (qualcosa)
+
+perforated pipe 
+il tubo perforato
+
+to drain the water
+drenare l'acqua
+
+I want my life back
+voglio indietro la mia vita
+
+in disrepair
+in cattivo stato
+
+ill repute
+la cattiva reputazione
+
+to just sit around doing nothing
+stare solo seduti senza fare nulla
+
+it depends on what's going on at the time
+dipende da cosa sta succedendo in quel momento
