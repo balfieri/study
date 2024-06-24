@@ -73285,3 +73285,7 @@ stare solo seduti senza fare nulla
 
 it depends on what's going on at the time
 dipende da cosa sta succedendo in quel momento
+
+humidity sensor
+il sensore di umidità
+
