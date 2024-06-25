@@ -6595,7 +6595,7 @@ l'Europa
 province
 la provincia
 
-danger
+danger; peril
 il pericolo
 
 signature
