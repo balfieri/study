@@ -73346,3 +73346,6 @@ l'alta definizione
 persistent cough
 la tosse persistente
 
+pause
+pausare; mettere in pausa
+
