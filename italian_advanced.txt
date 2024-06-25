@@ -73349,3 +73349,6 @@ la tosse persistente
 pause
 pausare; mettere in pausa
 
+progesterone
+il progesterone
+
