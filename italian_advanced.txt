@@ -73331,3 +73331,5 @@ il monumento naturale
 footage
 il filmato
 
+status quo
+lo status quo
