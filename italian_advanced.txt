@@ -22454,7 +22454,7 @@ sucrose
 il saccarosio
 
 TV show
-lo show televisivo; il programma televisivo
+lo show televisivo; il programma televisivo; il programma tv
 
 Japan
 il Giappone
@@ -73336,4 +73336,7 @@ lo status quo
 
 to deafen
 assordare
+
+family reunion
+la riunione di famiglia
 
