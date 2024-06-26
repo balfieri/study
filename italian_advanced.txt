@@ -11954,7 +11954,7 @@ to be the black sheep
 essere la pecora nera
 
 to go to the beach
-andare in spiaggia
+andare al mare; andare in spiaggia
 
 budget
 il budget
@@ -73366,4 +73366,10 @@ quando avevo la tua età
 
 it doesn't phase me one bit
 non mi turba minimamente
+
+to attend the lesson
+frequentare la lezione
+
+to maneuver
+manovrare
 
