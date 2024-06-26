@@ -5918,7 +5918,7 @@ truce
 la tregua
 
 fence
-la recinzione; il recinto
+la recinzione; la staccionata; il recinto
 
 cucumbers
 i cetrioli
@@ -73375,3 +73375,7 @@ manovrare
 
 to allow (someone) to (do something)
 permettere a (qualcuno) di (fare qualcosa)
+
+commemoration party; memorial party
+la festa in commemorazione di
+
