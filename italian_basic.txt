@@ -6598,7 +6598,7 @@ la provincia
 danger; peril
 il pericolo
 
-signature
+signature (of a person)
 la firma
 
 Switzerland

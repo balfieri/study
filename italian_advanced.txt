@@ -45127,7 +45127,7 @@ il sorso di vino
 average bottle of wine
 la bottiglia media di vino
 
-sculpted; carved
+sculpted; carved; chiseled
 scolpito
 
 vineyard hectares
@@ -73380,5 +73380,23 @@ commemoration party; memorial party
 la festa in commemorazione di
 
 to be in arms; to be in lap
-stare in braccia
+stare in braccio
+
+signature (not of a person)
+la segnatura
+
+it ticks a lot of boxes; it checks a lot of boxes
+spunta molte caselle
+
+putt-putt; mini-golf
+il minigolf
+
+perverse
+perverso
+
+chiseled nose
+lo naso scolpito
+
+how convenient
+che comodo
 
