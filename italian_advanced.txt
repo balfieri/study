@@ -8431,8 +8431,11 @@ avvinghiare
 coiled up
 acciambellato
 
-bush; shrub
-l'arbusto; il cespuglio
+bush (defined vertical structure)
+l'arbusto
+
+bush; shrub (undefined vertical structure)
+il cespuglio
 
 evanescent; fading; vanishing
 evanescente
@@ -21964,7 +21967,7 @@ l'istante
 change; edit; modification
 la modifica; la modificazione
 
-branch (tree, plant)
+branch (poetic)
 la rama
 
 conformity; compliance
@@ -73400,3 +73403,23 @@ lo naso scolpito
 how convenient
 che comodo
 
+creek bed
+l'alveo del torrente
+
+stream bed
+l'alveo del ruscello
+
+to char
+carbonizzare
+
+char
+la carbonizzazione
+
+docuseries
+la docuseria
+
+dentist (medically-oriented)
+l'odontoiatra
+
+I'm always here to help
+sono sempre qui per aiutare
