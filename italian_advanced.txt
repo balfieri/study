@@ -2060,7 +2060,7 @@ to entrust; to submit (a draft)
 affidare
 
 backyard; courtyard
-il cortile; il cortile posteriore
+il giardino posteriore; il cortile; il cortile posteriore
 
 superficial factual knowledge
 il nozionismo
@@ -6727,7 +6727,7 @@ la pinacoteca
 private practice
 lo studio privato
 
-yard (house)
+yard (house, usually with pavement)
 il cortile
 
 organic food store
@@ -73423,3 +73423,6 @@ l'odontoiatra
 
 I'm always here to help
 sono sempre qui per aiutare
+
+front yard
+il giardino anteriore; il cortile anteriore
