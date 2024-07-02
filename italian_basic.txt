@@ -3982,7 +3982,7 @@ contare
 season
 la stagione
 
-spring
+spring (season)
 la primavera
 
 summer
