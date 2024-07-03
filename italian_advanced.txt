@@ -61527,7 +61527,7 @@ proceeds
 i proventi
 
 esteemed; respectable (formal)
-spettabile; spett.
+spettabile; spett.le
 
 a minute too long
 un minuto troppo lungo
@@ -73453,4 +73453,7 @@ il grattino
 
 underworld; organized crime
 la malavita
+
+trasmettere una tradizione
+to pass on a tradition
 
