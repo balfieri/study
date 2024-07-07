@@ -50593,7 +50593,7 @@ la superciliosità
 dilemma; quandary; conundrum
 il dilemma; l'imbarazzo
 
-petulance
+whim; fancy; petulance
 il capriccio
 
 under threat
@@ -73471,3 +73471,15 @@ gli acquisti in un unico luogo
 
 high school sweetheart
 il fidanzato del liceo; la fidanzata del liceo
+
+gadfly
+il tafano
+
+distress
+l'angoscia; la sofferenza
+
+distress message
+il messaggio di soccorso
+
+to turn into
+diventare; trasformarsi
