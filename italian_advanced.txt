@@ -73502,3 +73502,6 @@ brindiare
 to kick out of the house
 cacciare di casa
 
+to ask for permission
+chiedere il permesso
+
