@@ -2006,10 +2006,10 @@ great aunt
 la prozia
 
 great nephew; great-grandson
-il bisnipote
+il pronipote; il bisnipote
 
 great niece; great-granddaughter
-la bisnipote
+la pronipote; la bisnipote
 
 to name; to appoint; to nominate
 nominare
@@ -6216,6 +6216,9 @@ l'ostaggio
 
 to settle; to flatten; to smooth; to smooth over
 appianare; appiattire
+
+to smooth over problems
+appianare i problemi
 
 epicenter
 l'epicentro
