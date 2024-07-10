@@ -2528,7 +2528,7 @@ Saturday
 sabato
 
 Sunday
-la domenica
+domenica
 
 January
 gennaio
