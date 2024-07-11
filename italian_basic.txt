@@ -529,7 +529,7 @@ gli specchi
 bottle
 la bottiglia
 
-envelope; small bag
+envelope; small bag (more delicate)
 la busta
 
 bag
@@ -6985,7 +6985,7 @@ nascosto
 loved; beloved
 amato
 
-sack
+sack; bag (larger, robust)
 il sacco
 
 Tuscan
