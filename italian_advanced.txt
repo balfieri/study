@@ -73598,3 +73598,6 @@ il grossissimo problema
 I wish I knew
 vorrei sapere
 
+tell me something I don't know
+dimmi qualcosa che non so
+
