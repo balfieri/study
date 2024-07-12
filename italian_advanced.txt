@@ -73601,3 +73601,8 @@ vorrei sapere
 tell me something I don't know
 dimmi qualcosa che non so
 
+to talk over one other
+parlare uno sopra l'altro
+
+storytelling
+lo storytelling
