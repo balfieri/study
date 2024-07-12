@@ -55195,7 +55195,7 @@ che paura
 this is why
 questo è il motivo per cui
 
-perceived temperature
+perceived temperature; heat index
 la temperatura percepita
 
 radiator (heater)
@@ -73607,3 +73607,14 @@ parlare uno sopra l'altro
 storytelling
 lo storytelling
 
+highlight (sports)
+il momento saliente
+
+fool
+il tonto
+
+to doggy-paddle
+nuotare a cagnolino
+
+German sausage
+il wurstel
