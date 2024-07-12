@@ -17627,7 +17627,7 @@ well-informed person; know-it-all
 il saputo
 
 it's not even close!
-non c'è nemmeno vicino!
+non c'è nemmeno vicino!; non è nemmeno vicino!; non gli si avvicina nemmeno!
 
 we turn to each other
 ci rivolgiamo l'uno all'altro
@@ -25533,9 +25533,6 @@ completare
 
 in first place
 al primo posto
-
-it's not even close
-non gli si avvicina nemmeno
 
 repressed
 represso
@@ -73555,3 +73552,33 @@ riattaccare
 
 itchy
 pruriginoso
+
+to strike a balance
+trovare un equilibrio
+
+sequestered
+sequestrato
+
+one life too many
+una vita di troppo
+
+Padan; of the Po Valley
+padano
+
+most certainly from
+quasi sicuramente da
+
+to water the plants
+innaffiare le piante
+
+surrounded by
+circondato da
+
+toddler
+il bambino piccolo
+
+star cluster
+l'ammasso stellare
+
+cluster
+l'ammasso
