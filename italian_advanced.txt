@@ -73652,3 +73652,6 @@ la zanzariera
 tennis match
 la partita di tennis
 
+to serve the tennis ball
+servire la palla da tennis
+
