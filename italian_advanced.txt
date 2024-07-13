@@ -5491,7 +5491,7 @@ la borse di studio
 performance; yield; efficiency
 il rendimento
 
-upcoming; imminent; impending
+upcoming; imminent; impending; originating
 proveniente
 
 dependent
@@ -68807,7 +68807,7 @@ la violazione della sicurezza
 binding
 la rilegatura
 
-rriginating from
+originating from
 proveniente da
 
 charging stand
