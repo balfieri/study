@@ -73679,3 +73679,6 @@ trasmessivo
 camouflage
 la mimetica
 
+bystander
+l'astante
+
