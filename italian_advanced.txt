@@ -73673,3 +73673,6 @@ il navicielo
 spacecraft
 il veicolo spaziale
 
+transmissive
+trasmessivo
+
