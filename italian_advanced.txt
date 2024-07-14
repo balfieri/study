@@ -73676,3 +73676,6 @@ il veicolo spaziale
 transmissive
 trasmessivo
 
+camouflage
+la mimetica
+
