@@ -73670,3 +73670,6 @@ il ketchup
 skyship
 il navicielo
 
+spacecraft
+il veicolo spaziale
+
