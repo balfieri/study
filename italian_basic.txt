@@ -6020,7 +6020,10 @@ need (noun)
 il bisogno
 
 for example
-ad esempio; per esempio
+per esempio
+
+for example (more formal)
+ad esempio
 
 ladder; staircase
 la scala
