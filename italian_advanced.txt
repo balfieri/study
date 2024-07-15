@@ -8227,7 +8227,7 @@ la contea
 irritable; cranky
 irritabile
 
-irascible; cantankerous
+irascible; cantankerous; ill-tempered
 irascibile
 
 white supremacist
@@ -28070,7 +28070,7 @@ exhaust pipe
 il tubo di scarico
 
 buyer; purchaser
-il compratore
+il compratore; il comperatore
 
 to surround
 circondare
@@ -73241,7 +73241,7 @@ propiziare
 sore muscle
 il muscolo dolorante
 
-gardener
+gardener; landscaper
 il giardiniere; la giardiniera
 
 asleep at the wheel
@@ -73681,4 +73681,46 @@ la mimetica
 
 bystander
 l'astante
+
+risky
+rischioso
+
+ethynol
+l'etanolo
+
+between us
+tra di noi
+
+between them
+tra di loro
+
+ginger ale
+il ginger ale
+
+ginger
+lo zenzero
+
+landscaping work
+il lavoro di paesaggistica
+
+embellishment
+l'abbellimento
+
+practice session
+la sessione di pratica
+
+Pythagorean theorem
+il teorema di Pitagora
+
+Euler's identity
+l'identità di Eulero
+
+risk to take
+il rischio da correre
+
+to step aside
+farsi da parte
+
+intuitable
+intuibile
 
