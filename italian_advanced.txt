@@ -73733,3 +73733,18 @@ spastico
 alchemy
 l'alchemia
 
+unreality
+l'irrealtà
+
+ribbon
+la fettuccia
+
+vice presidency
+la vicepresidenza
+
+powder keg
+la polveriera
+
+hospital bed
+il letto ospedale
+
