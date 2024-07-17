@@ -4945,7 +4945,7 @@ includere
 to guess
 indovinare
 
-to argue; to have a fight
+to argue; to have a fight; to have a falling out
 litigare
 
 to deny; to negate
@@ -7923,3 +7923,6 @@ nonostante
 
 beer; ale
 la birra
+
+how come?
+come mai?
