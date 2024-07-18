@@ -73799,3 +73799,15 @@ spargere sporcizia; diffondere sporcizia
 it would take a miracle
 ci vorrebbe un miracolo
 
+to blindfold
+bendare
+
+blindfolded
+bendato
+
+to bandage
+fasciare
+
+bandaged
+fasciato
+
