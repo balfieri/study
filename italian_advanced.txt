@@ -4760,7 +4760,7 @@ another layer of the onion
 un altro strato di cipolla
 
 disheveled
-arruffato; scapigliato
+spettinato; disordinato; arruffato; scapigliato; scarmigliato
 
 feather
 la piuma
@@ -58601,9 +58601,6 @@ avvistato
 to spot (see)
 avvistare
 
-disheveled
-scarmigliato
-
 downcast air
 l'aria abbattuta
 
@@ -73787,3 +73784,14 @@ lo stato delle cose
 airship
 il dirigibile
 
+autotune
+l'autotune
+
+there's no comparision; there are no comparisons
+non ci sono paragoni
+
+combed
+pettinato
+
+to spread dirt
+spargere sporcizia; diffondere sporcizia
