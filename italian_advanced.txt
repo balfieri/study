@@ -20116,9 +20116,6 @@ il calore
 bourgeois; middle-class
 borghese
 
-prize; award; premium
-il premio
-
 investment
 l'investimento
 
@@ -73811,3 +73808,8 @@ il corso di italiano per principianti
 to die; to croak
 crepare
 
+to test positive for Covid
+risultare positivo al covid
+
+baggy jeans
+i jeans larghi
