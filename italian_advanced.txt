@@ -1990,12 +1990,6 @@ il bisnonno
 great-grandmother
 la bisnonna
 
-great-grandson
-il pronipote
-
-great-granddaughter
-la pronipote
-
 great uncle
 il prozio
 
