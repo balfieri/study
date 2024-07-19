@@ -2504,7 +2504,7 @@ to marry; to fly together
 convolare
 
 inconvenience; bother; trouble
-l'incomodo; l'inconveniente
+l'inconveniente; l'incomodo
 
 to start; to commence; to begin; to bootstrap
 avviare
@@ -11269,7 +11269,7 @@ il problema da primo mondo; il problema del mondo sviluppato
 nothing at all
 nulla di nulla
 
-perdere il controllo
+to lose control
 svalvolare
 
 to nerd out
@@ -50101,7 +50101,7 @@ l'attrezzo
 wild card
 la carta selvaggia
 
-to lose control
+to lose control; to snap (figuratively)
 perdere il controllo
 
 to become extremely angry
