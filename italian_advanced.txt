@@ -66113,7 +66113,7 @@ sentiti libero di (fare qualcosa)
 to go a long time without
 stare molto tempo senza
 
-to point at
+to point at; to aim for
 puntare a; indicare a
 
 stamina; resistance
@@ -73816,3 +73816,7 @@ i jeans larghi
 
 the path to victory
 il cammino verso la vittoria
+
+to aim for victory
+puntare alla vittoria
+
