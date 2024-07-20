@@ -27110,7 +27110,7 @@ mechanic
 il meccanico
 
 watermelon
-il cocomero; l'anguria
+il cocomero; l'anguria; l'pastecca
 
 TV news
 il telegiornale
@@ -73820,3 +73820,17 @@ il cammino verso la vittoria
 to aim for victory
 puntare alla vittoria
 
+to spread soil
+spargere il terreno
+
+to slay the dragon
+uccidere il drago
+
+air quality index
+l'indice della qualità dell'aria
+
+to keep the eggs at room temperature
+tenere le uova a temperatura ambiente
+
+name a time
+dimmi un orario
