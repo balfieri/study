@@ -73834,3 +73834,6 @@ tenere le uova a temperatura ambiente
 
 name a time
 dimmi un orario
+
+chance of precipitation
+la probabilità di precipitazioni
