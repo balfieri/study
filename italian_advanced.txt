@@ -73880,3 +73880,9 @@ la Senna
 roughly; in a rough way
 in grosso modo
 
+bike path
+la ciclovia
+
+motorway
+la motovia
+
