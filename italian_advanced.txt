@@ -73886,3 +73886,5 @@ la ciclovia
 motorway
 la motovia
 
+one-on-one lesson
+la lezione individuale
