@@ -38182,9 +38182,6 @@ il lavoraggio
 suffix
 il suffisso
 
-to gain weight
-ingrassare
-
 to lose weight
 perdere peso
 
@@ -38196,9 +38193,6 @@ sto cercando molto
 
 I'm just saying that
 sto solo dicendo che
-
-to put on a lot of weight
-ingrassare molto
 
 to snack
 fare uno spuntino; fare spuntini
@@ -73891,4 +73885,37 @@ la lezione individuale
 
 to ask for a raise
 chiedere aumento
+
+to gain weight; to put on some weight
+prendere peso
+
+to get fat
+ingrassare
+
+mettere su qualche chilo
+to put on some kilos
+
+chiedere un favore
+to ask for a favor
+
+fare un favore (a qualcuno)
+to do (somebody) a favor
+
+grain
+il granello
+
+to catch a cold
+prendere il raffreddore
+
+conscription
+la coscrizione
+
+è qui da qualche parte
+it's here somewhere
+
+chocolate chip cookie
+il biscotto con gocce di cioccolato
+
+to empty the stuff from the closet
+svuotare la roba dall'armadio
 
