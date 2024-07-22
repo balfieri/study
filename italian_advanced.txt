@@ -12961,7 +12961,7 @@ il cofano
 oath; pledge; swearing-in; vow; vows
 il giuramento
 
-baked pasta dish; messy situation
+baked pasta dish; messy situation (with specific errors)
 il pasticcio
 
 yield; surrender; capitulation
@@ -59981,7 +59981,7 @@ la multa salata
 leap second
 il secondo intercalare
 
-casino; mess; chaos; disorder; brothel; hell of a mess
+casino; mess (general); chaos; disorder; brothel; hell of a mess
 il casino
 
 video call; videocall; Facetime call
@@ -73924,4 +73924,7 @@ dare la propria parola
 
 pillar
 il piastro
+
+a big mess; a huge blunder
+il pasticcio clamoroso
 
