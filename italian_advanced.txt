@@ -73922,3 +73922,6 @@ svuotare la roba dall'armadio
 to give one's word
 dare la propria parola
 
+pillar
+il piastro
+
