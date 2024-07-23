@@ -10801,7 +10801,7 @@ le urne
 collapse; ruin
 il tracollo
 
-blatant; flashy; gaudy
+blatant; flashy; gaudy; conspicuous
 vistoso
 
 fire hydrant; hydrant
@@ -73930,4 +73930,37 @@ il pasticcio clamoroso
 
 to use as a guide
 usare come guida
+
+to be back to normal
+essere tornati alla normalità
+
+to head out soon
+stare per uscire
+
+to bend over
+diclinarsi
+
+to be on a diet
+essere a dieta
+
+to go on a diet
+mettersi a dieta
+
+nap
+il sonnellino
+
+conspicuous consumption
+il consumo vistoso
+
+large estate
+la grande tenuta
+
+to stick one's tongue out
+tirare fuori la lingua
+
+griffon
+il grifone
+
+I beg your pardon
+chiedo scusa
 

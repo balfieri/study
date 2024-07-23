@@ -3106,7 +3106,7 @@ togliere; levare
 to remove (abstract)
 rimuovere
 
-to go out; to exit
+to go out; to exit; to head out
 uscire
 
 to come
