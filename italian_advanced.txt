@@ -43397,7 +43397,10 @@ dark matter
 la materia oscura
 
 riverbed
-l'alveo; il letto del fiume
+l'alveo
+
+dry riverbed
+l'alveo asciutto
 
 to visualize oneself
 visualizzarsi
