@@ -25478,7 +25478,7 @@ tome
 il tomo
 
 spectator; viewer
-lo spettatore
+lo spettatore; la spettatrice
 
 municipal
 municipale
