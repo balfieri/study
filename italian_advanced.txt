@@ -44798,10 +44798,10 @@ descent; drop
 la calata
 
 upper class
-il ceto alto
+il ceto alto; la classe alta
 
 lower class
-il ceto basso
+il ceto basso; la classe bassa
 
 coincided
 coinciso
@@ -49217,7 +49217,7 @@ to dequalify
 dequalificare
 
 middle class
-la classe media
+la classe media; il ceto medio
 
 commercialized
 mercificato
