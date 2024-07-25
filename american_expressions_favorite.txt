@@ -525,9 +525,6 @@ il pantofolaio; il mutandato; il teledipendente
 to suck at (something)
 fare schifo a (fare qualcosa)
 
-to dump (somebody)
-mollare (qualcuno)
-
 to have a crush on (someone)
 avere una cotta per (qualcuno); prendersi una cotta per (qualcuno); avere un debole per (qualcuno)
 
@@ -2017,7 +2014,7 @@ ex (relationship)
 l'ex
 
 to dump (somebody)
-lasciare (qualcuno)
+mollare (qualcuno); lasciare (qualcuno)
 
 corny; cheesy
 sdolcinato; banale; melensaggine
