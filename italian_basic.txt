@@ -7258,7 +7258,7 @@ funzionare
 suggestion (neutral, objective)
 il suggerimento
 
-advice; suggestion (personal, subjective)
+advice; suggestion (personal, subjective); tip
 il consiglio
 
 time; weather; tense (verb)
