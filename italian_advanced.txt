@@ -14461,9 +14461,6 @@ premiante
 basic; fundamental; essential
 basilare
 
-round; rotund
-tondo
-
 time-delayed; deferred
 in differita
 
@@ -74042,3 +74039,14 @@ le calvizie; la calvizia
 bald spot
 la chiazza di calvizie
 
+stiff body
+il corpo rigido
+
+stiff muscles
+i muscoli rigidi
+
+limber body
+il corpo flessibile
+
+loose muscles
+i muscoli sciolti

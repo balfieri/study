@@ -337,7 +337,7 @@ l'autobus
 tip (bill)
 la mancia
 
-bill (restaurant)
+bill (restaurant); tab
 il conto
 
 spoon; tablespoon
@@ -4318,7 +4318,10 @@ usato
 incapable
 incapace
 
-round; rotund
+round
+tondo
+
+round (more perfectly); rotund
 rotondo
 
 square
