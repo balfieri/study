@@ -23257,7 +23257,7 @@ la cavità
 variant
 la variante
 
-to provoke; to cause; to induce
+to provoke; to cause; to induce; to needle
 provocare
 
 suppression
@@ -74060,3 +74060,26 @@ essere vicino alla perfezione
 steps; bleachers
 la gradinata
 
+load-bearing wall
+la parete portante
+
+in line with
+in linea con
+
+in sync
+sincronizzati
+
+Eiffel Tower
+la Torre Eiffel
+
+line of attack
+la linea d'attacco
+
+fluff
+la lanugine
+
+unprotected sex
+il sesso non protetto
+
+unprotected
+non protetto
