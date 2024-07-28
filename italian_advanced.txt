@@ -889,6 +889,9 @@ il disco in vinile
 to drain (cooking)
 scolare
 
+to drain (structural, medical, scientific)
+drenare
+
 jury
 la giuria
 
@@ -16377,9 +16380,6 @@ pulito come un bambino; pulito come un fischio
 
 squeaky clean
 immacolato
-
-to drain (medical, scientific)
-drenare
 
 she has a lot of attitude
 ha un sacco di atteggiamento
@@ -62267,7 +62267,10 @@ il cagnetto; la cagnetta
 puffed up
 imbolsito
 
-drainage
+drainage (structural, medical, scientific)
+il drenaggio
+
+drainage (cooking)
 la scolatura
 
 little sauce
