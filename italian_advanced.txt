@@ -7645,7 +7645,7 @@ il perimetro
 lawn service
 il servizio di prato
 
-to enroll
+to enroll; to sign up
 iscriversi
 
 potential
@@ -74089,4 +74089,13 @@ to obliterate
 
 right of first refusal
 il diritto di prelazione
+
+recreation
+la ricreazione
+
+department of parks and recreation
+il dipartimento dei parchi e delle attività ricreative
+
+basketball player
+il baschetaro; la baschetara
 
