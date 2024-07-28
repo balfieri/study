@@ -1783,7 +1783,7 @@ spaesato
 to delay; to be late; to hesitate
 tardare
 
-to scold; to reproach; to reprimand; to chew out
+to rebuke; to scold; to reproach; to reprimand; to chew out
 rimproverare
 
 store owner
@@ -3097,7 +3097,7 @@ stabilire che
 to sprinkle (water)
 spruzzare
 
-to sprinkle (cheese, ashes)
+to sprinkle (cheese, ashes); to cover
 cospargere
 
 gang
@@ -14233,7 +14233,7 @@ il tendone
 front porch
 il portiere anteriore; la veranda anteriore
 
-to spread; to scatter; to sprinkle; to smear
+to spread; to scatter; to disperse; to smear
 spargere
 
 sing-song
@@ -15270,9 +15270,6 @@ la vittima delle circostanze
 
 wet blanket; spoilsport; killjoy; party-pooper
 il guastafeste
-
-blessing in disguise
-il bene insperato
 
 blown away
 impressionato tanto positivamente
@@ -74083,3 +74080,13 @@ il sesso non protetto
 
 unprotected
 non protetto
+
+to pay homage; to honor
+rendere omaggio
+
+obliterare; annientare
+to obliterate
+
+right of first refusal
+il diritto di prelazione
+
