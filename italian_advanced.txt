@@ -6946,9 +6946,6 @@ scottante
 duplicate (noun)
 il duplicato
 
-keep up the good work
-continua così
-
 otherwise; if not; or else
 sennò
 
@@ -44881,9 +44878,6 @@ il seme di sesamo
 obtuse
 ottuso
 
-looks good
-sembra buono
-
 to get (somebody) passionate about
 fare (qualcuno) appassionare a
 
@@ -74099,3 +74093,8 @@ il dipartimento dei parchi e delle attività ricreative
 basketball player
 il baschetaro; la baschetara
 
+looks good; that looks good
+sembra buono
+
+keep up the good work; carry on
+continua così
