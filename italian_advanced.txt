@@ -7327,7 +7327,7 @@ equipollente
 committee; board; commission
 il comitato
 
-to coach; to train
+to coach; to train (sports)
 allenare
 
 to be disheartened; to be discouraged
@@ -72407,7 +72407,7 @@ l'artrite
 to have (something) delivered
 far consegnare (qualcosa)
 
-to train (person, animal)
+to train (person, animal, skills, technical, practical)
 addestrare
 
 to get electrocuted
