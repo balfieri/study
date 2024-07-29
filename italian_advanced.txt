@@ -69612,10 +69612,10 @@ ludicrous
 ridicolo; assurdo
 
 to go downstairs
-scendere le scale
+scendere le scale; andare al piano di sotto
 
 to go upstairs
-salire le scale
+salire le scale; andare al piano di sopra
 
 the best day of my life
 il miglior giorno della mia vita
@@ -74101,3 +74101,25 @@ sembra buono
 
 keep up the good work; carry on
 continua così
+
+to walk the dog
+portare a spasso il cane
+
+house siding
+il rivestimento della casa
+
+in disguise
+in incognito
+
+surge protector
+la protezione contro le sovratensioni
+
+droppings
+la deiezione
+
+gymnist
+il ginnasta; la ginnasta
+
+voluminous
+voluminoso
+
