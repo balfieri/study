@@ -6193,7 +6193,7 @@ la soluzione
 size; greatness; quantity
 la grandezza
 
-event; occurance; happening
+event (single); occurance; happening
 l'evento
 
 event (planned occasion)
