@@ -74146,3 +74146,10 @@ puccioso
 
 Olympics
 le Olympiadi
+
+men's gymnastics
+la ginnastica maschile
+
+women's gymnastics
+la ginnastica femminile
+
