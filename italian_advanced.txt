@@ -13846,8 +13846,11 @@ il biliardo
 pool (billiards)
 il bilardo con le bucche
 
-building site; shipyard
+building site; shipyard; work site
 il cantiere
+
+construction site
+l'area di cantiere
 
 good memories
 bei ricordi
@@ -69374,9 +69377,6 @@ arrampicarsi su di (qualcosa)
 by the spoonful
 al cucchiaio
 
-construction site
-l'area di cantiere
-
 calorie
 la caloria
 
@@ -74131,4 +74131,10 @@ il rivestimento esterno
 
 to short-circuit
 cortocircuitare
+
+to go camping
+andare in campeggio
+
+Metformin
+Metformina
 
