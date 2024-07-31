@@ -74207,3 +74207,6 @@ trainante
 electricity
 l'elettricità
 
+swimmer
+il nuotatore; la nuotatrice
+
