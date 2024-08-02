@@ -3541,7 +3541,7 @@ l'idea
 departure; start; leave (noun)
 la partenza
 
-stop; rest; break
+stop; pause; rest; break
 la sosta
 
 service

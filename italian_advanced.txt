@@ -6532,7 +6532,7 @@ il progettista
 to attach; to enclose
 allegare
 
-path; way; road
+walk; journey
 il cammino
 
 hand gesture
@@ -7732,7 +7732,7 @@ agevole
 paradigm
 il paradigma
 
-route (streets, paths); path; course; run; journey
+route (streets, paths); path; course; run; journey; itinerary
 il percorso
 
 optimal route
@@ -8395,7 +8395,7 @@ la legatoria
 start; startup; beginning
 l'avvio
 
-path; trail; track
+path; trail (natural)
 il sentiero
 
 bump; shock; collision; impact
@@ -10780,7 +10780,7 @@ abbinare; abbinarsi a
 flooding; inundation; flood (general)
 l'allagamento
 
-leg; stop; stage
+leg; stage; phase
 la tappa
 
 to reject (formal, legal)
@@ -55723,9 +55723,6 @@ l'esemplare
 tester (person)
 il collaudatore
 
-graceful
-aggraziato
-
 set aside
 accantonato
 
@@ -74252,3 +74249,59 @@ plastificare
 on the dot; sharp (time)
 in punto
 
+on the way home
+sulla strada di casa
+
+out of milk
+senza latte
+
+medal table
+il medagliere
+
+bloody; gory
+cruente
+
+top executives of the giant
+i vertici del colosso
+
+to have bad breath
+avere l'alito cattivo
+
+graceful
+agile; aggraziato
+
+to cover a lot of material
+coprire molto materiale
+
+to work on it
+lavorarci sopra
+
+additional step
+il passo in più
+
+which part of Italy are you from?
+di quale parte d'Italia sei?
+
+sanction
+la sansione
+
+bitterness
+l'amarezza
+
+athlete
+l'atleta
+
+mysticism
+il mistismo
+
+flat cap
+la coppola
+
+giocare sotto il par
+to shoot under par
+
+underestimation
+la sottostima
+
+at zero interest
+a tasso zero
