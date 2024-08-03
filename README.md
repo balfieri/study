@@ -16,12 +16,10 @@ There are a few text files provided for various topics of my interest. Feel free
     italian_basic.txt                   -- basic and a few intermediate words
     italian_advanced.txt                -- intermediate to advanced words
     italian_passato_remoto.txt          -- conjugations of the passato remoto (mostly irregular verbs)
-    italian_expressions_common.txt      -- common expressions 
-    italian_expressions_other.txt       -- less-common expressions 
+    italian_expressions.txt             -- Italian expressions 
     italian_vulgar.txt                  -- vulgar phrases (parolacce)
     italian_tongue_twisters.txt         -- tongue twisters (scioglilingua)
-    american_expressions_favorite.txt   -- my favorite American expressions (translated to Italian)
-    american_expressions_get.txt        -- American expressions with the word GET (ditto)
+    american_expressions.txt            -- American expressions
     french_basic.txt                    -- basic French words
 
 Example of running the aviation questions:
