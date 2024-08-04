@@ -18233,7 +18233,7 @@ hockey
 il hockey
 
 judo
-il judo
+il judo; il giudo
 
 pepperoni
 il salamino piccante
@@ -39142,7 +39142,7 @@ forse ne hai sentito parlare?
 little ball
 la pallina
 
-eccentric
+eccentric; quirky
 eccentrico
 
 easy woman (sexually available)
@@ -56022,7 +56022,7 @@ gummy bear
 l'orsetto gommoso
 
 nerdy
-nerdoso; da secchione
+nerd; nerdoso; da secchione
 
 faith in humanity
 la fiducia nell'umanità
@@ -74329,3 +74329,39 @@ cortocircuitare il processo
 
 duct tape
 il nastro adesivo; il nastro per il condotto
+
+control board
+la scheda di controllo; il pannello di controllo
+
+circuit board
+la scheda elettronica
+
+how was your vacation?
+come sono andate le tue vacanze?; com'è andata la tua vacanza?
+
+resistor
+il resistore
+
+capacitor
+il condensatore
+
+inductor
+l'induttore
+
+transistor
+il transistor
+
+diode
+il diodo
+
+cross-eyed
+strabico
+
+Superman
+Superman
+
+detraibile
+deductible
+
+Rubik's cube
+il cubo di Rubik
