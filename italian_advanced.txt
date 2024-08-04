@@ -24610,8 +24610,11 @@ la circoncisione
 mohel
 il mohel
 
-sunscreen; suntain lotion
+sunscreen; suntan lotion
 la crema solare
+
+SPF-70 sunscreen
+la crema solare SPF-70
 
 paraffin
 la parafina
