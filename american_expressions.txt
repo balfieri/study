@@ -1764,8 +1764,8 @@ carino come un bottone
 a rising tide lifts all boats
 una marea crescente solleva tutte le barche
 
-to have your cake and eat it too
-volere la botte piena e la moglie ubriaca
+to have your cake and eat it too; to have one's cake and eat it too
+volere la botte piena e la moglie ubriaca; avere la botte piena e la moglie ubriaca
 
 a slam dunk
 una cosa scontata
@@ -4967,4 +4967,10 @@ essere controllati l'identità; essere chiesti i documenti
 
 to get a good read on (somebody or something)
 riuscire a capire bene (qualcuno o qualcosa); riusciere a decifrare (qualcuno o qualcosa)
+
+to be off the hook for
+essere fuori dai guai per
+
+to be on the hook for
+essere nei guai per
 

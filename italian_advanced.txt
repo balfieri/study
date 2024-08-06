@@ -2230,8 +2230,8 @@ prevedere
 in competition (competing)
 in concorrenza
 
-to occur; to happen; to take place
-capitare; succedere; accadere; avvenire
+to occur; to happen; to take place (official, formal)
+avvenire
 
 to equip oneself; to provide oneself
 dotarsi; provvedere a se stesso
@@ -2923,8 +2923,8 @@ i dominali
 to chase; to run after; to pursue
 rincorrere
 
-these days,
-oggi come oggi,
+these days
+oggi come oggi
 
 wall; wall hanging
 il parato
@@ -10484,7 +10484,7 @@ to blow up oneself
 farsi esplodere
 
 paperwork
-il lavoro amminstrativo
+il lavoro amministrativo
 
 dowel; peg; piece
 il tassello
@@ -14915,7 +14915,7 @@ fanatical
 sfegatato
 
 pier; wharf; jetty
-molo
+il molo
 
 castaway; shipwrecked person
 il naufrago
@@ -44639,7 +44639,7 @@ to be reborn
 rinascere
 
 slaughter
-macellazione
+la macellazione
 
 to access remotely
 accedere da remoto
@@ -49780,8 +49780,8 @@ il giacimento
 on paper
 su carta; sulla carta
 
-finire con un vecchio
 to end up with some old man
+finire con un vecchio
 
 baptist
 il battista
@@ -53510,7 +53510,7 @@ see you next week
 a settimana prossima
 
 to spend some time
-trascorrere del tempo
+passare del tempo; trascorrere del tempo
 
 to drown
 affogare
@@ -55214,7 +55214,7 @@ scrutinized
 scrutato
 
 skylight
-lucernario
+il lucernario
 
 to tower over; to overshadow
 sovrastare
@@ -59780,9 +59780,6 @@ parlare più forte
 lost (formal)
 perduto
 
-to happen; to occur (formal)
-accadere
-
 couple date
 l'appuntamento di coppia
 
@@ -60395,8 +60392,8 @@ buona corsa
 silenced; hushed
 zittito
 
-zittare
 to silence; to hush
+zittare
 
 climax (film, story)
 il climax
@@ -65624,9 +65621,6 @@ compiere il sorpasso; sopravanzare
 Hollywood (adjective)
 Hollywoodiano
 
-yelling
-le urla
-
 screams
 le grida
 
@@ -68072,8 +68066,8 @@ decare
 decalcification
 la decalcificazione
 
-me ne occupo io
 I'll take care of it
+me ne occupo io
 
 to take care of it
 occuparsene
@@ -73883,14 +73877,14 @@ prendere peso
 to get fat
 ingrassare
 
-mettere su qualche chilo
 to put on some kilos
+mettere su qualche chilo
 
-chiedere un favore
 to ask for a favor
+chiedere un favore
 
-fare un favore (a qualcuno)
 to do (somebody) a favor
+fare un favore (a qualcuno)
 
 grain
 il granello
@@ -74368,3 +74362,42 @@ deductible
 
 Rubik's cube
 il cubo di Rubik
+
+to get lost on the way to
+perdersi per strada verso
+
+hateful
+odioso
+
+to over-coach
+allenare troppo
+
+mi è capitato
+it happened to me
+
+to tan easily
+abbronzare facilmente
+
+to find on the ground
+trovare per terra
+
+caught; busted
+sgammato
+
+chubby; fatty
+ciccio
+
+scream
+l'urlo
+
+the dog in the face
+il cane in faccia
+
+blind faith
+la fede cieca
+
+blood, sweat, and tears
+sangue, sudore e lacrime
+
+in front of the computer
+davanti al computer

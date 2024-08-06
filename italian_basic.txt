@@ -1354,6 +1354,9 @@ capitare
 to happen (general)
 succedere
 
+to happen; to occur (noteworthy event, formal)
+accadere
+
 it takes; it requires
 ci vuole; ci vogliono
 
@@ -7909,7 +7912,7 @@ il tubo
 to get worse
 peggiorare
 
-have a good trip
+have a good trip; safe travels
 buon viaggio; fai buon viaggio
 
 to make sense
