@@ -2761,7 +2761,7 @@ buona visione!
 spark plug
 la candela di accensione
 
-spark
+spark; flash
 la scintilla; il lampo
 
 to sparkle
@@ -39232,7 +39232,7 @@ il video montaggio
 lightning (eletrical discharge in cloud)
 il fulmine
 
-lightning (light part)
+lightning (light part); flash
 il lampo
 
 to smooth over tensions
@@ -74443,4 +74443,19 @@ riposare in pace
 
 to protect oneself; to safeguard oneself
 tutelarsi
+
+it took three of us to (do something)
+ci sono voluti tre di noi per (fare qualcosa)
+
+torrentially; heavily
+a dirotto
+
+flash flood
+l'alluvione lampo
+
+flash-flood warning
+l'avviso di alluvione lampo
+
+flash (adjective)
+lampo
 
