@@ -48014,7 +48014,7 @@ frills
 le fronzole
 
 without frills
-senza fronzole
+senza fronzoli
 
 contamination
 la contaminazione
@@ -70781,7 +70781,7 @@ semi-in pensione
 what can I do about it?
 cosa ci posso fare io?
 
-whole farro
+whole farro; whole spelt
 il farro integrale
 
 to be onto something
@@ -74467,3 +74467,6 @@ la schifezza
 
 recreational player
 il giocatore ludico; la giocatrice ludica
+
+hops (vegetable)
+il luppolo
