@@ -3076,7 +3076,7 @@ tenere la destra
 to keep left
 tenere la sinistra
 
-to crush; to squeeze; to squash
+to crush; to squeeze; to squash; to spike
 schiacciare
 
 at sign; snail
@@ -11122,7 +11122,7 @@ le apparecchiature
 rock; cliff
 lo scoglio
 
-to tremble; to shake
+to tremble; to shake; to quiver
 tremare
 
 to beckon; to mention
@@ -74407,4 +74407,25 @@ stiamo tutti bene
 
 soft-serve ice cream
 il gelato soft-serve
+
+disgruntled employee
+il dipendente scontento
+
+chocolate sprinkles on ice cream
+i granelli di cioccolato sul gelato
+
+spiker
+lo schiacciatore; la schiacciatrice
+
+it makes me wonder
+mi fa chiedere
+
+it really makes me wonder
+mi fa davvero chiedere
+
+breast cancer
+il cancro al seno
+
+it's good to be alive
+è bello essere vivi
 
