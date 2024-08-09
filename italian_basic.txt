@@ -2497,7 +2497,7 @@ la sete
 hunger
 la fame
 
-sleepness
+sleepiness
 il sonno
 
 sick; ill
