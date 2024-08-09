@@ -32279,7 +32279,7 @@ how about (something)?
 che ne dici di (qualcosa)?
 
 bike ride
-il giro in bici
+il giro in bici; il giro in bicicletta
 
 to take aim
 prendere di mira
@@ -74494,3 +74494,6 @@ guardare di più (qualcosa)
 
 to watch less of (something)
 guardare di meno (qualcosa)
+
+around the lake
+intorno al lago
