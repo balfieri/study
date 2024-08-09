@@ -74528,3 +74528,12 @@ essere di cattivo umore
 unprofessional
 non professionale; poco professionale
 
+good timing
+il buon tempismo
+
+bad timing
+il tempismo sbagliato
+
+unfortunate timing
+il tempismo sfortunato
+
