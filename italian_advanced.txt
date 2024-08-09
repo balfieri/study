@@ -3547,8 +3547,11 @@ reggere
 to gnaw
 rodere
 
-to melt; to dissolve; to untie
+to melt; to dissolve; to untie (transitive)
 sciogliere
+
+to melt; to dissolve (intransitive)
+sciogliersi
 
 to spread; to scatter (general)
 spandere
