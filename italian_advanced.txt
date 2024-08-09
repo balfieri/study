@@ -15775,7 +15775,7 @@ la voragine
 armored; bulletproof
 blindato
 
-substantial; considerable; huge
+significant; substantial; considerable; huge
 ingente
 
 to disguise oneself; to cross-dress
@@ -74473,3 +74473,16 @@ il giocatore ludico; la giocatrice ludica
 
 hops (vegetable)
 il luppolo
+
+tax; toll
+il balzello
+
+to ask in court
+chiedere in causa
+
+to unleash
+sguinzagliare; scatenare
+
+paid option
+l'opzione a pagamento
+
