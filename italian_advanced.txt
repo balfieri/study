@@ -838,7 +838,7 @@ il tradimento
 school spirit
 la goliardia
 
-to betray; to cheat on (somebody)
+to betray; to cheat on (somebody); to two-time
 tradire
 
 cuckhold; man whose wife cheats on him
@@ -23128,8 +23128,8 @@ demolire
 to confer; to give
 conferire
 
-to prepare for; to get ready
-prepararsi
+to prepare for; to get ready for
+prepararsi a
 
 to get thinner; to slim down
 dimagrire
@@ -74539,4 +74539,22 @@ il tempismo sfortunato
 
 to have sex; to get it on; to get some; to get laid
 fare sesso
+
+flood warning
+l'avviso di inondazioni
+
+heptatholon
+l'eptathlon
+
+to return to listening to the radio
+ritornare ad ascoltare la radio
+
+I have read two of them
+ne ho letti due
+
+to go well beyond
+andare ben oltre
+
+to do double time
+fare il doppio del tempo
 
