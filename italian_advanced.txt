@@ -1690,7 +1690,7 @@ congiungere
 profitable; lucrative
 lucroso; profittevole
 
-matter; affair (something to be done)
+matter; affair (something to be done); daily task
 la faccenda; l'affare
 
 excessively; very
@@ -6187,7 +6187,7 @@ la coglienza; l'ospitalità
 to sensitize; to awaken
 sensibilizzare
 
-event (one in a series); matter; affair
+series of events; affair (story articulated in time)
 la vicenda
 
 glimpse; spot
@@ -9679,7 +9679,7 @@ il masso
 rather; somewhat; pretty
 alquanto
 
-event (singular, significant); occurrence; happening
+event (singular, significant, formal); occurrence; happening
 l'avvenimento
 
 partner (business); associate
@@ -74560,4 +74560,10 @@ fare il doppio del tempo
 
 drop off the car
 lasciare la macchina
+
+important event
+l'avvenimento di rilievo
+
+prominent; significant
+di rilievo
 
