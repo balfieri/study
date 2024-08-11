@@ -3547,7 +3547,7 @@ to get bumped (not allowed to perform)
 essere esclusi
 
 tiger mom
-la madre che spinge i suoi figli a alti livelli di successo
+la madre che spinge i suoi figli ad alti livelli di successo
 
 show-off
 lo spaccone; l'esibizionista
@@ -4976,3 +4976,7 @@ questo la dice lunga
 
 it's raining like crazy
 piove a dirotto
+
+to be in a zone (focused, in the moment)
+essere concentrati
+

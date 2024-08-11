@@ -11108,7 +11108,7 @@ surge
 l’impennata
 
 trader; dealer; merchant
-il commerciante
+il commerciante; la commerciante
 
 price increases; higher prices
 i rincari
@@ -14098,7 +14098,7 @@ sbadato; negligente
 it's great to see you
 è bello vederti; è bello rivederti
 
-sales assistant; clerk; store clerk
+sales assistant; clerk; store clerk; retail clerk
 il commesso; la commessa
 
 self-aware
@@ -23822,7 +23822,7 @@ proportional
 proporzionale
 
 merchant (old-fashioned, historical)
-il mercante
+il mercante; la mercante
 
 residual
 residuo
@@ -36016,7 +36016,7 @@ in base alle circostanze
 power plant
 la centrale elettrica
 
-poignant
+poignant; moving; touching
 commovente; toccante
 
 archrival
@@ -55291,7 +55291,7 @@ la contraffazione
 counterfeit
 contraffatto
 
-drive belt
+drive belt; transmission drive belt
 la cinghia di trasmissione
 
 good to hear
@@ -74566,4 +74566,40 @@ l'avvenimento di rilievo
 
 prominent; significant
 di rilievo
+
+I love it to death
+mi piace da morire
+
+to screech
+schiamare
+
+balance beam
+la trave di equilibrio
+
+valve clearance
+il gioco valvole
+
+oil filter
+il filtro dell'olio
+
+to reconcile differences
+riconciliare le differenze
+
+pizza stand
+il banco della pizza
+
+fruit stand
+il banco della frutta
+
+Pantheon
+il Pantheon
+
+to measure up to (somebody)
+essere all'altezza di (qualcuno)
+
+to look up to (somebody)
+ammirare (qualcuno)
+
+indigenous species
+le specie indigene
 
