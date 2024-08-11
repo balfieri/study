@@ -41887,7 +41887,7 @@ trascorrere una giornata; girare una giornata
 walls (house, building)
 i muri
 
-walls (city)
+walls (city, defensive)
 le mura
 
 mummy
