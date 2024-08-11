@@ -26137,7 +26137,7 @@ con grande sforza
 to call on each student
 chiamare ogni studente
 
-cloak
+cloak; cape
 il mantello
 
 to be moved (emotionally)
@@ -74612,3 +74612,8 @@ l'esperienza di legame
 stomach wall
 la parete dello stomaco
 
+crusader
+il crociato; la crociata
+
+caped; hooded
+incappucciato
