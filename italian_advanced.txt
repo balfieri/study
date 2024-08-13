@@ -74728,3 +74728,7 @@ la conduttura
 
 ditto
 idem; lo stesso
+
+average (noun)
+la media
+
