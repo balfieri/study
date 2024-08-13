@@ -74732,3 +74732,5 @@ idem; lo stesso
 average (noun)
 la media
 
+swimmable
+bagninabile
