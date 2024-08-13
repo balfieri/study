@@ -7816,7 +7816,7 @@ tenere traccia
 surge; soaring
 l'impennata
 
-congested; clogged
+congested; clogged; backed up
 intasato
 
 familiarity (from frequent use or practice)
@@ -18121,7 +18121,7 @@ in anni canini
 ancient Greece
 l'antica Grecia
 
-to clog
+to clog; to back up; to congest
 intasare
 
 how could you?
@@ -74722,4 +74722,7 @@ entrare in una discussione
 
 heated argument
 la discussione accessa
+
+pipeline
+la conduttura
 
