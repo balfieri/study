@@ -64205,7 +64205,7 @@ continua a sentirti meglio!
 frosting; icing
 la glassa; il frosting
 
-to remedy
+to remedy; to mend
 rimediare
 
 fruit cake
@@ -74740,4 +74740,31 @@ tirare un cavo
 
 cable TV
 la televisione via cavo
+
+to be anxious
+essere in ansia
+
+to change the layout of
+cambiare la disposizione di
+
+to go dormant
+diventare dormiente
+
+in mezzo alla stanza
+in the middle of the room
+
+in mezzo a
+in the middle of
+
+partial fiasco
+il mezzo fiasco
+
+to mend a relationship
+rimediare a una relazione
+
+to take to court
+portare in tribunale
+
+big problem
+il grosso problema
 
