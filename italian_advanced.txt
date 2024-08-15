@@ -57639,7 +57639,7 @@ to resign oneself
 riassegnarsi
 
 slaughterhouse
-il carneficio; il marcello
+il macello; il carneficio
 
 alienating
 estraniante
@@ -74785,3 +74785,9 @@ il centro messaggi
 
 audio track
 la traccia audio
+
+cello
+il violoncello
+
+to face difficulty; to face hardship
+affrontare le difficoltà
