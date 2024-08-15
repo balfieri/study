@@ -1378,7 +1378,7 @@ pianeggiante
 furrow; groove
 il solco
 
-track
+track; runway
 la pista
 
 thickness; spacer
@@ -8399,7 +8399,7 @@ start; startup; beginning
 l'avvio
 
 path; trail (natural)
-il sentiero
+il sentiero; il tracciato
 
 bump; shock; collision; impact
 l'urto
@@ -74771,3 +74771,14 @@ il grosso problema
 arsenic
 l'arsenico
 
+to track (something)
+seguire; monitorare
+
+on the fast track
+sulla strada veloce
+
+track (vehicle)
+il cingolo
+
+message center
+il centro messaggi
