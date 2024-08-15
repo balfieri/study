@@ -14921,7 +14921,7 @@ pier; wharf; jetty
 il molo
 
 castaway; shipwrecked person
-il naufrago
+il naufrago; la naufraga
 
 mooring
 l'ormeggio
@@ -18176,7 +18176,7 @@ vet; veterinarian
 il veterinario
 
 butcher; slaughterer
-il macellaio
+il macellaio; la macellaia
 
 jewler
 il gioielliere
