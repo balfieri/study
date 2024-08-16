@@ -74813,3 +74813,8 @@ la Coppa America
 sandbar
 il banco di sabbia
 
+stuff to eat
+la roba da mangiare
+
+to take place
+prendere posto
