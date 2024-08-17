@@ -4168,7 +4168,7 @@ rimuginare; riflettere
 balance
 il paraggio
 
-vegetable; green
+vegetable; green (consumable by humans)
 l'ortaggio
 
 tender
@@ -6675,9 +6675,6 @@ l'aratro
 
 countryman
 il campagnolo
-
-vegetables
-l'ortaggio; le verdure
 
 pedestrian; pawn (chess)
 il pedone

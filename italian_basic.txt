@@ -1144,7 +1144,7 @@ il nord
 south
 il sud
 
-vegetable
+vegetable (generic)
 la verdura
 
 dry (devoid of moisture)
