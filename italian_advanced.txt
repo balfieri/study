@@ -24628,7 +24628,7 @@ la parafina
 deafness
 la sordità
 
-to crave
+to crave; to pine for
 bramare; desiderare
 
 to collect stamps
@@ -74896,4 +74896,13 @@ a caccia di
 
 to beg for more
 implorare per averne di più
+
+to have the backing of; to have the support of
+avere l'appoggio di
+
+monkeypox
+il vaiolo delle scimmie
+
+global health emergency
+l'emergenza sanitaria globale
 
