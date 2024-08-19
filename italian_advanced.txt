@@ -2747,7 +2747,7 @@ tiring; laborious
 faticoso; stancante
 
 intelligence quotient; IQ
-il quoziente d'intelligenza; il QI
+il quoziente d'intelligenza; il quoziente intellettivo; il QI
 
 emotional intelligence
 l'intelligenza emotiva
@@ -27070,7 +27070,7 @@ accomodarsi
 to be ashamed
 vergognarsi
 
-to find oneself; to be situated
+to find oneself; to be situated; to stand (have standing)
 trovarsi
 
 to become ill; to get sick
@@ -33748,7 +33748,7 @@ il vicecapo
 impatient
 impaziente
 
-waterproof
+waterproof; water-tight
 impermeabile
 
 hypertension
@@ -74851,4 +74851,49 @@ prendere il sole
 
 crazy-good
 incredibilmente buono
+
+to mangle
+mutilare
+
+electrical rough-in
+l'impianto elettrico grezzo
+
+plumbing rough-in
+l'impianto idraulico grezzo
+
+impermeable to water
+impermeabile all'acqua
+
+pointed at the door
+puntato sulla porta
+
+as a side effect
+come effetto collaterale
+
+to look out the window
+guardare fuori dalla finestra
+
+outcast
+l'emarginato; l'emarginata
+
+New York pizza
+la pizza di New York
+
+to hunker down
+accucciarsi
+
+to keep one's brain sharp
+mantenere la mente acuta
+
+to keep one's brain active
+mantenere la mente attiva
+
+MAC address
+l'indirizzo MAC
+
+hunting for; on the hunt for
+a caccia di
+
+to beg for more
+implorare per averne di più
 

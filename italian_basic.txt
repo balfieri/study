@@ -646,7 +646,7 @@ dentro
 on; up
 su
 
-over; above
+over; above; atop
 sopra; sovra
 
 under
@@ -2653,7 +2653,7 @@ inviare
 to help
 aiutare
 
-to pass; to go by
+to pass; to go by; to hand (something)
 passare
 
 to remain; to stay (condition, place)
