@@ -55991,9 +55991,6 @@ il carburatore
 wire drawing
 lo strafilaggio
 
-kickstand; easel
-il cavalletto
-
 to denature; to distort
 snaturare
 
@@ -74926,4 +74923,13 @@ la costruzione residenziale
 
 to grade land
 livellare il terreno
+
+sawhorse; horse; kickstand; easel
+il cavalletto
+
+to pull weeds
+strappare erbacce
+
+to arrive at; to get to; to reach (formal, archaic)
+giungere a
 
