@@ -1424,7 +1424,7 @@ to roll out; to unroll
 srotolare
 
 to roll
-rollare; rotolare
+rollare; ruotolare; rotolare
 
 to pitch
 beccheggiare
@@ -9484,7 +9484,7 @@ la pecca
 stainless steel
 l'acciaio inox; l'acciaio inossidabile
 
-to roll (pasta)
+to roll (pasta); to roll out
 arrotolare
 
 I don't mind it
@@ -74911,4 +74911,10 @@ tutti i risparmi di una vita; l'intero risparmio di una vita
 
 that's all for now
 è tutto per ora; per ora è tutto
+
+to grind; to sharpen (using an abrasive)
+arruotare
+
+spin; tailspin
+il testacoda
 
