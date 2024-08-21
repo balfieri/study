@@ -44644,7 +44644,7 @@ rinato
 to be reborn
 rinascere
 
-slaughter
+slaughter; butchering
 la macellazione
 
 to access remotely
@@ -45997,7 +45997,7 @@ farò io tutto il discorso
 there's always room for improvement
 c'è sempre spazio per migliorare
 
-security seminar
+security seminar; safety seminar
 il seminario sulla sicurezza
 
 ice cream cake
@@ -74936,3 +74936,53 @@ giungere a
 college tuition
 la tassa universitaria
 
+bathroom cabinets
+i mobili da bagno
+
+on the ground floor
+al piano terra
+
+it did not sound like your voice
+non sembrava la tua voce
+
+away from 
+via da
+
+the water runs away from the house, not toward it
+l'acqua scorre via dalla casa, non verso di essa
+
+acquired talent
+il talento acquisito
+
+acquired skill
+l'abilità acquisita
+
+crookedness
+la stortezza
+
+in deep thought
+in profonda riflessione
+
+one thing you can always count on is that
+una cosa su cui puoi sempre contare è che
+
+hospice care
+l'assistenza ospedaliera
+
+to do an outstanding job
+fare un lavoro eccezionale
+
+escapade
+la scappatella
+
+kitchen cabinets
+i mobili da cucina
+
+to have lunch with a friend
+pranzare con un amico
+
+to have dinner with a friend
+cenare con un amico
+
+pig butchering
+la macellazione del maiale
