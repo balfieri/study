@@ -75005,3 +75005,6 @@ la sala esercizi
 project room
 la sala progetti
 
+to get to the bottom of (something)
+andare a fondo di (qualcosa)
+
