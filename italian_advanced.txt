@@ -3025,10 +3025,10 @@ stanziamento
 old thing (fig.)
 il ferro vecchio
 
-to edit; to draw up; to draft
+to draw up; to draft
 redigere
 
-drawn up
+drawn up; drafted
 redatto
 
 to overstate; to overestimate
@@ -75037,4 +75037,10 @@ quanto mai
 
 fierce rivalry
 la feroce rivalità
+
+what does (something) have to do with 
+cosa c'entra (qualcosa) di
+
+to have to do with; to have something to do with it
+entrarci
 
