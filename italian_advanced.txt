@@ -74718,7 +74718,7 @@ heated argument
 la discussione accessa
 
 pipeline
-la conduttura
+la conduttura; la pipeline
 
 ditto
 idem; lo stesso
@@ -75025,3 +75025,13 @@ la datazione
 
 to date; to go out with somebody
 uscire con qualcuno
+
+idle time
+il tempo inattivo
+
+purchase
+l'acquisito
+
+as ever; how ever
+quanto mai
+
