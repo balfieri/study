@@ -1201,8 +1201,11 @@ il maglione; il pullover
 sweatshirt
 la felpa
 
-money
-i soldi; il denaro; la moneta; il soldo
+money (abstract, wealth)
+il denaro
+
+money (practical, everyday)
+i soldi
 
 to yell; to scream; to cry
 urlare
