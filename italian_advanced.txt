@@ -1153,6 +1153,9 @@ crudele
 employee
 il dipendente; l'impiegato; il lavoratore
 
+suitable for; assigned to (work); tasked with
+addetto a
+
 refugee
 il profugo
 
@@ -75076,4 +75079,17 @@ il facimile
 
 to feel anxious
 sentirsi in ansia
+
+unwilling
+nolente
+
+speed; swiftness
+la celerità
+
+eager; greedy
+abidito
+
+to achieve a goal
+raggiungere un traguardo
+
 
