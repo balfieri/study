@@ -5068,7 +5068,7 @@ pure
 ever; never
 mai
 
-end
+end; ending
 la fine
 
 less
