@@ -8059,7 +8059,7 @@ le virgolette
 double quotes
 le virgolette doppie
 
-in quotes; so to speak
+so to speak; in quotes
 tra virgolette
 
 so to speak
