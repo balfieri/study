@@ -19144,7 +19144,7 @@ il sopralluogo
 overpass
 la cavalcavia; il viadotto; il sovrappasso
 
-signal; sign; signaling; report; reporting
+signaling; report; reporting
 la segnalazione
 
 to humiliate
