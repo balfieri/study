@@ -5911,8 +5911,14 @@ il bambino; la bambina
 start; beginning
 l'inizio
 
-sign
+mark; symbol; indication; sign
 il segno
+
+signal; sign (communication)
+il segnale
+
+sign (physical); signboard
+il cartello
 
 resource
 la risorsa

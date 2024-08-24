@@ -7480,7 +7480,7 @@ imbrogliare
 cheating; complication; mess; muddle
 l'imbroglio
 
-to cheat (someone out of something); to fool
+to cheat (someone out of something); to fool; to deceive
 ingannare; truffare
 
 to postpone; to delay; to hold off on
@@ -17914,7 +17914,7 @@ il caos
 provenance
 la provenienza
 
-to con
+to con; to deceive
 ingannare; imbrogliare; truffare; fregare
 
 rank; class; social class
@@ -24396,9 +24396,6 @@ comporre
 
 successor
 il successore
-
-signal
-il segnale
 
 vein; seam
 la vena
@@ -41048,7 +41045,7 @@ planned child
 il bambino pensato
 
 checkmark; verification mark
-il segno di verifica
+il segno di verifica; il segno di spunta
 
 to puncture; to pierce
 bucare
@@ -65972,9 +65969,6 @@ la rastrelliera di apparecchiature di rete
 hotel industry
 il settore alberghiero
 
-placard
-il cartello; il placard
-
 to stop in (city)
 fermarsi a (città)
 
@@ -75092,4 +75086,27 @@ abidito
 to achieve a goal
 raggiungere un traguardo
 
+placard
+il placard
+
+trick shot
+il colpo di destrezza
+
+intellectual property rights
+i diritti di proprietà intellettuale
+
+to play zone defense
+giocare a zona
+
+zone defense
+la difesa a zone
+
+to play man-to-man defense
+giocare a uomo
+
+man-to-man defense
+la defesa a uomo
+
+to put up a sign
+mettere su un cartello
 
