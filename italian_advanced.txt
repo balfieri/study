@@ -10982,7 +10982,7 @@ garment
 l'indumento
 
 statesman
-lo statista
+lo statista; la statista
 
 to discredit; to debunk; to dispel
 sfatare
@@ -40885,7 +40885,7 @@ la denotazione
 I can see where you get your sense of humor
 capisco da dove viene il tuo senso dell'umorismo
 
-to criticize
+to criticize; to fault
 criticare
 
 to criticize unnecessarily
@@ -75110,3 +75110,29 @@ la defesa a uomo
 to put up a sign
 mettere su un cartello
 
+how's life treating you?
+come ti tratta la vita?
+
+ideal setup
+la configurazione ideale
+
+faulty; fallacious
+falloso
+
+fault
+il fallo
+
+creme brulée
+la crema bruciata
+
+to address (somebody)
+rivolgersi a (qualcuno)
+
+statistician
+lo statistico; la statistica
+
+to cause discussion
+fare discutere
+
+military exercise
+l'esercitazione militare
