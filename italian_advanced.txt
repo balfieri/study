@@ -1207,7 +1207,7 @@ mantenere il punteggio; tenere il punteggio
 to be masachistic
 essere masachisti
 
-to evaluate; to grade; to rate
+to evaluate; to appraise; to grade; to rate
 valutare
 
 blackmail
@@ -4042,7 +4042,7 @@ accanto a
 cobweb; spiderweb
 la ragnatela
 
-asset; value; worth
+esteem; inherent value; inherent worth
 il pregio
 
 to glimpse; to perceive
@@ -10117,7 +10117,7 @@ la giostra
 rides (amusement)
 le giostre
 
-to value
+to enhance; to value; to bring out the value of
 valorizzare
 
 quarter; 3-month period
@@ -58421,7 +58421,7 @@ la mammella
 oven (adjective)
 da forno
 
-precious; valuable
+valuable; esteemed
 pregiato
 
 sentinel
@@ -75136,3 +75136,13 @@ fare discutere
 
 military exercise
 l'esercitazione militare
+
+to prepare; to arrange
+predisporre
+
+valuable; highly-esteemed
+di pregio
+
+registrarsi per votare
+to register to vote
+
