@@ -5152,7 +5152,7 @@ la mestruazione
 menstrual
 mestruale
 
-cycle; period (menstrual)
+cycle; period (menstrual); loop
 il ciclo
 
 inherently; intrinsically
@@ -75277,3 +75277,7 @@ lo scherzo continuo
 
 to receive a lot of criticism for (something); to get a lot of grief for (something)
 ricevere molte critiche per (qualcosa)
+
+to give tours to prospective members
+fare visite guidate ai potenziali membri
+
