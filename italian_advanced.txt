@@ -23572,7 +23572,7 @@ orizzontale
 acute
 acuto
 
-continuous
+continuous; ongoing
 continuo
 
 primary
@@ -75272,3 +75272,8 @@ fare due lavori
 cow manure
 il letame di mucca
 
+ongoing joke
+lo scherzo continuo
+
+to receive a lot of criticism for (something); to get a lot of grief for (something)
+ricevere molte critiche per (qualcosa)
