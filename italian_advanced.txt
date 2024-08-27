@@ -40748,7 +40748,7 @@ embarrassingly
 imbarazzantemente
 
 manure; dung
-lo sterco
+lo sterco; il letame
 
 excrement
 l'escremento
@@ -75268,3 +75268,7 @@ il germoglio
 
 to work two jobs
 fare due lavori
+
+cow manure
+il letame di mucca
+
