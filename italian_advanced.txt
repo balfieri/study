@@ -9010,8 +9010,8 @@ ancora peggio
 bug (electronic spy device)
 la cimice
 
-bill (law)
-il disegno di legge
+bill; draft law
+il disegno di legge; il progetto di legge
 
 bill proposal (law)
 la proposta di legge
