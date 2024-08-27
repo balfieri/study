@@ -12064,9 +12064,6 @@ accorto
 just in time
 appena in tempo; giusto in tempo
 
-any second
-in qualsiasi momento
-
 evaluation; rating; assessment
 la valutazione
 
@@ -13813,7 +13810,7 @@ il più delle volte
 to move on to a new idea
 passare a un’idea successiva
 
-exhilarating
+exhilarating; hilarious
 esilarante
 
 in touch with
@@ -19684,7 +19681,7 @@ ammettere
 imperial
 imperiale
 
-crime; felony; offence
+crime; felony; offense
 il delitto
 
 to excercise; to practice; to drill
@@ -21292,7 +21289,7 @@ il diametro
 supreme; highest
 supremo
 
-offence; crime (any)
+offense; crime (any)
 il reato
 
 statistics
@@ -21360,6 +21357,9 @@ attribuito
 
 equally; alike
 egualmente
+
+equally; in an equal way
+in modo uguale
 
 motivation
 la motivazione
@@ -40375,7 +40375,7 @@ essere addebitati per (qualcosa); farsi addebitare (qualcosa)
 master password
 il password principale
 
-the charge (money)
+charge (money)
 la tariffa; l'addebito
 
 in limbo
@@ -74190,7 +74190,7 @@ supporting structure
 la struttura portante
 
 to win single-handedly
-vincere da solo
+vincere da soli
 
 alter ego
 l'alter ego
@@ -75169,3 +75169,67 @@ la versione romanzata
 
 to be left alone
 essere lasciati in pace
+
+cuddle
+la coccola
+
+in any given moment; any second
+in qualsiasi momento
+
+to get convicted
+venire condannati
+
+one of you two is lying
+uno di voi due sta mentendo
+
+very funny
+molto divertente
+
+such a complex role
+un ruolo così complesso
+
+density
+il densamento
+
+stuffing; filling
+il farcimento
+
+compensation
+il rifarcimento
+
+the things I care about
+le cose di cui mi importa
+
+to care about (something)
+interessarsi a (qualcosa); interessarsi di (qualcosa)
+
+to end up inside
+finire dentro
+
+to commit a crime
+delinquere
+
+prior declaration
+la previa dichiarazione
+
+to ban
+mettere al bando
+
+buffer zone
+la zona cuscinetto
+
+stabbing
+l'accoltellamento
+
+to feel hot (temperature); to feel warm
+avere caldo
+
+accusation after accusation
+accusa dopo accusa
+
+manipulator
+il manipolatore; la manipolatrice
+
+manipulative
+manipolativo
+
