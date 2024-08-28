@@ -7965,3 +7965,6 @@ tra un'ora
 
 in three hours
 tra tre ore
+
+there are three of us; we have three people
+siamo in tre
