@@ -5914,7 +5914,7 @@ l'inizio
 mark; symbol; indication; sign
 il segno
 
-signal; sign (communication)
+signal; sign (communication); cue
 il segnale
 
 sign (physical); signboard

@@ -3739,9 +3739,6 @@ fornire
 petty
 di poco conto
 
-together with someone
-insieme a qualcuno
-
 little by little; gradually
 a mano a mano
 
@@ -16594,7 +16591,7 @@ sgommare
 to starve (transitive)
 affamare
 
-to starve (intransitive)
+to starve (intransitive); to die from starvation
 morire di fame
 
 of course; naturally; obviously
@@ -52540,7 +52537,7 @@ pensare a alcune cose
 to have to go to the bathroom
 dover andare in bagno
 
-along with
+along with; together with
 insieme a
 
 hysterectomy
@@ -69932,7 +69929,7 @@ la corsia di sorpasso
 under construction; in the works
 in cantiere
 
-street lamp; lamppost
+street light; street lamp; lamppost
 il lampione
 
 picnic table
@@ -75286,3 +75283,55 @@ il letto estraibile
 
 extractable; pull-out
 estraibile
+
+election board
+la commissione elettorale
+
+percussionist
+il percussionista; la percussionista
+
+what do I have to do to get you to stop (doing something)?
+cosa devo fare per farti smettere di (fare qualcosa)?
+
+sfarinato
+floury
+
+to kowtow
+inchinarsi servilmente
+
+notary public
+il notaio; la notaia
+
+preposterous
+assurdo; prepostero
+
+I would contend that
+sostengo che
+
+it has no influence on
+non ha alcuna influenza su
+
+people are too obsessed with money
+le persone sono troppo ossessionate dal denaro
+
+think about it
+pensaci; pensateci
+
+door frame
+il telaio della porta; la cornice della porta
+
+co-dependent
+co-dipendente
+
+starvation; extreme hunger
+la fame; la fame estrema
+
+malnutrition
+la malnutrizione
+
+to detect any problem
+rilevare qualsiasi problema
+
+to detect a problem
+rilevare un problema
+
