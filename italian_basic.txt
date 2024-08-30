@@ -4123,7 +4123,7 @@ la possibilità
 climate
 il clima
 
-environment
+environment; environ
 l'ambiente
 
 level
