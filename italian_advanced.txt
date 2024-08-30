@@ -26476,7 +26476,10 @@ il combattente
 witchcraft
 la stregua; la stregoneria
 
-in fact; as a matter of fact; indeed (formal)
+in fact; indeed (formal)
+infatti
+
+in fact; as a matter of fact
 difatti
 
 indigenous
@@ -39583,7 +39586,7 @@ la ripudia
 to repudiate; to disavow
 repudiare
 
-in fact
+de facto
 difatto
 
 good times
@@ -75403,4 +75406,25 @@ non ti stai perdendo molto
 
 ovarian cancer
 il cancro ovarico
+
+ballot (voting)
+la scheda elettorale
+
+odd number
+il numero disperi
+
+even number
+il numero pari
+
+freight train
+il treno merci
+
+sourdough bread
+il pane a lievitazione naturale
+
+minister
+il ministero
+
+mayor
+il sindaco; la podestà
 

@@ -1769,7 +1769,7 @@ worker
 l'operaio; l'operaia; il lavoratore; la lavoratrice
 
 doctor (medical)
-il medico; la medica
+il medico
 
 doctor (PhD)
 il dottore; la dottoressa
@@ -3447,9 +3447,6 @@ il contadino; il fattore
 
 turist
 il turista
-
-mayor
-il sindaco; la podestà
 
 pot
 la pentola
