@@ -66051,7 +66051,7 @@ God-forsaken; godforsaken
 dimenticato da Dio
 
 VPN; virtual private network
-la VPN: la rete privata virtuale
+la vpn: il vpn; la rete privata virtuale
 
 freezer bag
 il sacchetto gelo
