@@ -22694,7 +22694,7 @@ denial; refusal
 la negazione
 
 ambassador
-l'ambasciatore
+l'ambasciatore; l'ambasciatrice
 
 applicable
 applicabile
@@ -30287,7 +30287,7 @@ designation
 la designazione
 
 cultivator; appreciator
-cultore
+il cultore; la cultrice
 
 unquestionable; no doubt; indubitable
 indubbio
@@ -75439,4 +75439,22 @@ la commozione cerebrale
 
 little cross
 la crocetta
+
+polio
+la poliomielite
+
+login
+il login; l'accesso
+
+temperature fluctuation
+lo sbalzo termico
+
+airy
+arioso
+
+carpet-bagger
+l'opportunista; l'affarista
+
+jump; jolt; fluctuation
+lo sbalzo
 
