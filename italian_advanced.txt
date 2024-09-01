@@ -66051,7 +66051,7 @@ God-forsaken; godforsaken
 dimenticato da Dio
 
 VPN; virtual private network
-la vpn: il vpn; la rete privata virtuale
+il VPN; la VPN: la rete privata virtuale
 
 freezer bag
 il sacchetto gelo
@@ -75475,3 +75475,24 @@ all'interno dell'app
 
 I've always heard (something)
 ho sempre sentito dire (qualcosa)
+
+arboretum
+l'arboreto
+
+to leverage
+fare leva
+
+stalemate; deadlock
+il momento d'impasse
+
+first solo flight
+il primo volo da solista
+
+to have all the credentials; to be fully qualified
+avere tutte le carte in regola
+
+multimeter
+il multimetro
+
+binary search
+la ricerca binaria
