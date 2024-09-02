@@ -6142,7 +6142,7 @@ il tabù
 intermittently
 a intermittenza
 
-strip mall; shopping plaza
+strip mall; shopping plaza; shopping mall
 il centro commerciale
 
 sting; itch
@@ -22828,8 +22828,8 @@ la prefazione
 to derive
 derivare
 
-notary
-il notaio
+notary; notary public
+il notaio; la notaia
 
 realism
 il realismo
@@ -25672,7 +25672,7 @@ la salma
 check (bank)
 l'assegno
 
-joke; quip; punch line
+joke; quip; punch line; line (show)
 la battuta
 
 disciple
@@ -39482,7 +39482,7 @@ drone
 il drone
 
 pavement; cobblestone
-il lastrico; il sampietrino
+il lastrico; il sanpietrino
 
 to do without; to go without
 fare a meno di
@@ -75293,9 +75293,6 @@ floury
 to kowtow
 inchinarsi servilmente
 
-notary public
-il notaio; la notaia
-
 preposterous
 assurdo; prepostero
 
@@ -75602,3 +75599,14 @@ disorganizzato
 the role of women in society
 il ruolo delle donne nella società
 
+to improve one's score
+migliorare il proprio punteggio
+
+to refresh one's memory; to refresh one's lines
+rinfrescare la memoria
+
+electrical pulse
+l'impulso elettrico; la scintilla elettrica
+
+for profit
+a scopo di lucro
