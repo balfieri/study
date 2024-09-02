@@ -5758,7 +5758,7 @@ essere curiosi di; essere curiositi di
 airline ticket; plane ticket
 il biglietto aereo
 
-companion
+companion; pal
 il compagno; la compagna
 
 partner
@@ -7099,7 +7099,7 @@ il salto
 lira
 la lira
 
-friend
+friend; buddy
 l'amico; l'amica
 
 turism

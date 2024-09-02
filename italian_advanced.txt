@@ -13973,7 +13973,7 @@ siren; alarm; mermaid
 la sirena
 
 rescuer; helper
-il soccorritore
+il soccorritore; la soccorritrice
 
 preview (film); thumbnail; teaser
 l'anteprima
@@ -21085,7 +21085,7 @@ la lesione
 to intervene
 intervenire
 
-inheritance; heredity
+inheritance; heredity; legacy
 l'eredità
 
 provided; furnished; equipped
@@ -22204,7 +22204,7 @@ intatto
 to expect a child
 aspettare un figlio
 
-godfather; buddy; pal; chum; crony
+godfather; buddy; pal; chum; crony; close friend of the family
 il compare
 
 curiosity; interesting thing
@@ -39790,7 +39790,7 @@ la Groenlandia
 livery
 la livrea
 
-colossus; business giant; giant corporation
+colossus; business giant; giant corporation; behemoth
 il colosso
 
 ivory
@@ -45008,7 +45008,7 @@ to whitewash
 imbiancare
 
 legacy
-il retaggio
+il retaggio; l'eredità
 
 to change tack
 virare di bordo
@@ -66287,9 +66287,6 @@ unisex
 insole
 il suoletto
 
-abyss
-il baratro
-
 to get given; to be given
 farsi dare
 
@@ -75523,3 +75520,48 @@ il bando di concorso
 
 CILS; Certification of Italian as a Foreign Language
 la CILS; la Certificazione di Italiano come Lingua Straniera
+
+if nothing else
+se non altro
+
+over a period of
+nell'arco di
+
+oblique way of saying something
+il modo obliquo di dire qualcosa
+
+staggered in time
+scaglionato nel tempo
+
+spaced out in time
+distanziato nel tempo
+
+to attempt; to sue
+intentare
+
+overtourism
+l'overtourism
+
+pollinator
+l'impollinatore
+
+at the edge of the universe
+ai confini dell'universo
+
+precious
+prazioso
+
+vestige of
+la vestigia di
+
+belonging
+l'appartenanza
+
+to applaud
+plaudire
+
+to fill the vacuum; to fill the void
+riempire il vuoto
+
+vacuum; void
+il vuoto

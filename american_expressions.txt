@@ -3409,7 +3409,7 @@ to go off-script
 andare fuori script per un secondo; deviare dal copione per un momento
 
 empty-nester
-il genitore con nido vuoto; il genitore il cui figli sono andati via di casa
+il genitore con nido vuoto; il genitore i cui figli sono andati via di casa
 
 only the paranoid survive
 solo i paranoici sopravvivono
@@ -5016,7 +5016,7 @@ fare centro
 to pat on the back
 dare una pacca sulla spalla
 
-goofhead
+goofhead; dope
 lo sciocco
 
 to be with it; to be totally with it
