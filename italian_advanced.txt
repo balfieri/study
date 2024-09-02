@@ -30829,8 +30829,8 @@ it's good practice
 hanger (clothes)
 l'appendiabiti
 
-hanger (airplane)
-l'hanger
+hangar (airplane)
+l'hangar
 
 I'll check it out
 darò un'occhiata; andrò a dare un'occhiata; vado a controllare; lo controllerò; lo guarderò
