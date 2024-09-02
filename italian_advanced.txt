@@ -56861,8 +56861,11 @@ colmare il vuoto
 obsequious
 ossequioso
 
-cowling
+cowling (engine cover)
 la cappottatura
+
+fairing (wheel cover)
+la carenatura
 
 cowl flaps
 i flaps del cofano
@@ -75610,3 +75613,7 @@ l'impulso elettrico; la scintilla elettrica
 
 for profit
 a scopo di lucro
+
+esoteric word
+la parola esoterica
+
