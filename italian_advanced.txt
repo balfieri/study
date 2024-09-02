@@ -75565,3 +75565,10 @@ riempire il vuoto
 
 vacuum; void
 il vuoto
+
+rag; shred; fragment
+la straccia
+
+fragments of life
+le stracce di vita
+
