@@ -14797,7 +14797,7 @@ avvicinarsi a
 to bless; to consecrate
 benedire; consacrare
 
-tenacity
+tenacity; relentlessness
 la tenacia
 
 of all sorts
@@ -19120,7 +19120,7 @@ il concittadino
 pawn
 la pedina
 
-tenacious; feisty; tough
+tenacious; feisty; tough; relentless
 tenace
 
 reluctance; unwillingness
@@ -75671,4 +75671,9 @@ il confine occidentale
 eastern border
 il confine orientale
 
+relentless
+inesorabile; tenace
+
+inexorable
+esorabile
 
