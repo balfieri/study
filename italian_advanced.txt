@@ -53144,7 +53144,7 @@ job; job position
 il posto di lavoro; il lavoro
 
 playful
-giocoso
+giocoso; giocherellone
 
 she doesn't seem to be available from now on
 non sembra essere disponibile d'ora in poi
@@ -75652,3 +75652,10 @@ la TV in prima serata
 
 strict rule
 la regola rigida
+
+famous line (film)
+la famosa battuta
+
+to be in a meeting
+essere in riunione
+

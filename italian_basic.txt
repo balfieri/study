@@ -1558,9 +1558,6 @@ il silenzio
 region
 la regione
 
-countryside
-in campagna
-
 boss; head (organization); chief; cape
 il capo
 
@@ -1879,7 +1876,7 @@ il mondo
 ocean
 l’oceano
 
-country; countryside; campaign
+country (rural area); countryside; campaign
 la campagna
 
 city; town
