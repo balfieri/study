@@ -14467,7 +14467,7 @@ basilare
 time-delayed; deferred
 in differita
 
-to travel; to go through; to travel through
+to travel; to go through; to travel through; to cover a distance
 percorrere
 
 in the courtroom; in the classroom
@@ -22175,7 +22175,7 @@ tempering
 il temperaggio
 
 crunchiness
-croccantezza
+la croccantezza
 
 split; crack
 lo spacco
@@ -75634,3 +75634,21 @@ non riposare mai
 
 to really count
 davvero contare
+
+critical thinking
+il pensiero critico
+
+to chip
+sbecciare
+
+to redeem oneself
+riscatarsi
+
+primetime
+in prima serata
+
+primetime TV
+la TV in prima serata
+
+strict rule
+la regola rigida
