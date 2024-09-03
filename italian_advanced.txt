@@ -75677,3 +75677,6 @@ inesorabile; tenace
 inexorable
 esorabile
 
+to name names
+fare nomi
+
