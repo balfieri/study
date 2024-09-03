@@ -3103,10 +3103,10 @@ il drago
 to establish that
 stabilire che
 
-to sprinkle (water)
+to sprinkle (drops, particles)
 spruzzare
 
-to sprinkle (cheese, ashes); to cover
+to scatter; to sprinkle (in a uniform way); to cover (uniformly)
 cospargere
 
 gang
@@ -40303,7 +40303,7 @@ intrappolare; catturare
 worn out; shabby
 logoro; consunto
 
-to take out the trash
+to take out the trash; to take out the garbage
 portare fuori la spazzatura
 
 to take out the recycling
