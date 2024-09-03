@@ -75680,3 +75680,6 @@ esorabile
 to name names
 fare nomi
 
+to influence the election
+influenzare l'elezione
+
