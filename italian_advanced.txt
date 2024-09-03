@@ -75659,3 +75659,16 @@ la famosa battuta
 to be in a meeting
 essere in riunione
 
+southern border
+il confine meridionale
+
+northern border
+il confine settentrionale
+
+western border
+il confine occidentale
+
+eastern border
+il confine orientale
+
+
