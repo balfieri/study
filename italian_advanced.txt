@@ -1798,7 +1798,7 @@ rimproverare
 store owner
 il negoziante
 
-even though
+even though; while
 sebbene; anche se; benché; nonostante
 
 calculation; count; counting
@@ -2230,7 +2230,7 @@ il balzo
 order (noun)
 la commessa
 
-to forecast; to foresee; to predict; to anticipate
+to forecast; to foresee; to predict; to anticipate; to allow for
 prevedere
 
 in competition (competing)
@@ -5210,7 +5210,7 @@ neologism
 il neologismo
 
 trivial
-banale; insignificante; triviale; futile
+banale; insignificante; triviale; futile; picayune
 
 slavery
 la schiavitù; lo schiavismo
@@ -14821,7 +14821,7 @@ pazziare
 crazy; gone mad; crazed
 impazzito
 
-to sway; to rock
+to sway; to rock; to swing
 dondolare
 
 hump; hunchback
@@ -31372,6 +31372,9 @@ come passo successivo
 prostate; prostrated
 prostrato
 
+prostrate (organ)
+il prostrato
+
 to lash; to whip; to thrash
 sferzare
 
@@ -43129,7 +43132,7 @@ l'economia gig
 to slur
 slurare
 
-to oscillate
+to oscillate; to swing
 oscillare
 
 proud to be an American
@@ -75693,5 +75696,31 @@ internet site
 il sito internet
 
 to be informed about (something)
-essere informato su (qualcosa)
+essere informati su (qualcosa)
 
+to be further along
+essere più avanti
+
+the exact same (something)
+lo stesso identico (qualcosa)
+
+to bask
+crogiolarsi
+
+to oxygenate
+ossigenare
+
+to fund; to finance
+finanziare
+
+department of justice
+il dipartimento di giustizia
+
+to scale a hill; to crest a hill; to go over a hill
+scollinare
+
+to gain ground on the competition
+guadagnare terreno rispetto alla concorrenza
+
+to enhance one's life
+migliorare la propria vita
