@@ -3413,13 +3413,7 @@ tuna
 il tonno
 
 lasagna; lasagne
-le lasagne
-
-toasted sandwich
-il toast
-
-toast
-il pane tostato
+la lasagna; le lasagne
 
 broth
 il brodo
@@ -3457,17 +3451,14 @@ dolce
 tasty; flavorful
 gustoso; saporito
 
-disgusting; revolting
-schifoso; rivoltante
+disgusting
+schifoso
 
 raw; uncooked
 crudo
 
 firm (pasta)
 al dente
-
-overcooked (pasta)
-scotto
 
 to come to mind
 venire a mente; venire in mente
@@ -3595,8 +3586,11 @@ la fabbrica
 emergency room
 il pronto soccorso
 
-bakery
-la panetteria; la pasticceria; il panificio
+bakery (breads, retail)
+la panetteria
+
+bakery (sweets)
+la pasticceria
 
 to go on foot
 andare a piedi
@@ -3711,9 +3705,6 @@ la spesa
 
 take-away
 da portare via; da asporto
-
-knowledge; acquaintance
-la conoscenza
 
 noon; midday
 il mezzogiorno
@@ -3934,7 +3925,7 @@ la salute
 sick person
 il malato; la malata
 
-medicine (field); medicine (drug)
+medicine (field, drug)
 la medicina
 
 recipe
@@ -4060,8 +4051,8 @@ finire di lavorare
 to go back home
 tornare a casa; ritornare a casa
 
-to go out with friends
-uscire con gli amici
+to go out with (somebody)
+uscire con (qualcuno)
 
 to watch TV
 guardare la TV
@@ -4069,7 +4060,7 @@ guardare la TV
 to go to bed; to get to bed
 andare a letto
 
-ring
+ring (jewelry)
 l'anello
 
 handbag; purse; bag
@@ -4082,10 +4073,10 @@ leaf
 la foglia
 
 subway; metro
-la metropolitana; la metro
+la metro; la metropolitana
 
 cousin
-il cugino
+il cugino; la cugina
 
 to wear glasses
 portare gli occhiali
@@ -4104,9 +4095,6 @@ le scarpe da ginnastica; le sneakers
 
 fingernail
 l'unghia
-
-to do one's nails
-farsi le unghie
 
 anyway; anyhow (a little formal); however
 comunque; in ogni modo
@@ -4132,14 +4120,11 @@ spostare
 to get moved
 spostarsi
 
-to move (new residence, new city)
-trasferirsi
+to move to (new residence, new city)
+trasferirsi a
 
 relaxing
 rilassante
-
-to crowd
-affollare
 
 concept
 il concetto
@@ -4168,8 +4153,8 @@ la data
 able
 abile
 
-accustomed; used to
-abituato
+accustomed to; used to
+abituato a
 
 attractive
 attraente; accattivante
@@ -4276,7 +4261,7 @@ creativo
 available
 disponibile
 
-effective; effectual; efficacious
+effective; effectual; efficacious; efficient
 efficace
 
 intimate
@@ -4321,7 +4306,7 @@ tondo
 round (more perfectly); rotund
 rotondo
 
-square
+square (adjective)
 quadrato
 
 American
