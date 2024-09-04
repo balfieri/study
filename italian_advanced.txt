@@ -23084,7 +23084,7 @@ enjoyment
 il godimento
 
 governor
-il governatore
+il governatore; la governatrice
 
 altar
 l'altare
@@ -75770,3 +75770,5 @@ l'assegno rispinto
 to take (somebody) to court
 citare in giudizio (qualcuno)
 
+candidate for (something)
+il candidato a (qualcosa)

@@ -5046,3 +5046,6 @@ ora parli la mia lingua!
 it's not personal, it's strictly business
 non è niente di personale, sono solo affari
 
+to stiff (somebody, money) for
+non pagare (qualcuno) per
+
