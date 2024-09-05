@@ -7474,7 +7474,7 @@ imbrogliare
 cheating; complication; mess; muddle
 l'imbroglio
 
-to cheat (someone out of something); to fool; to deceive
+to cheat (someone out of something); to fool; to deceive; to can
 ingannare; truffare
 
 to postpone; to delay; to hold off on
@@ -60563,7 +60563,7 @@ ben informato; esperto; competente
 to settle old scores
 regolare vecchi conti
 
-trickster; swindler; cheater; con artist
+trickster; swindler; cheater; con artist; conman; grifter
 l'imbroglione; il truffatore
 
 after-meal
@@ -75796,4 +75796,40 @@ imperterrito
 
 to undeter
 imperterrire
+
+cutting
+lo staglio
+
+a profiteer
+il profittatore; la profittatrice
+
+funky vibe
+la vibrazione funky
+
+it was easier than I had thought
+era più facile di quanto pensassi
+
+it was harder than I had thought
+era più difficile di quanto pensassi
+
+it's not the same thing I was doing
+non è la stessa cosa che stavo facendo
+
+oily
+unto d'olio
+
+funky
+funky
+
+Saturn
+Saturno
+
+Uranus
+Urano
+
+Pluto
+Plutone
+
+Mercury
+Mercurio
 
