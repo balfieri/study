@@ -2866,8 +2866,8 @@ prudere
 an old friend of mine
 un mio vecchio amico
 
-well-off; well-to-do; affluent
-benestante; abbiente
+well-off; well-to-do; affluent; wealthy
+benestante; abbiente; facoltoso
 
 bite; morsel; mouthful
 il boccone
@@ -5901,9 +5901,6 @@ sottostante di (qualcosa)
 
 to bastardize
 imbastardire
-
-wealthy
-facoltoso; abbiente
 
 past participle
 il participio passato
