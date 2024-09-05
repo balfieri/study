@@ -51523,7 +51523,7 @@ il fantino
 house; lineage
 il casato
 
-proportional part
+proportional part; rate (tax)
 l'aliquota
 
 to indulge oneself; to treat oneself
@@ -75829,4 +75829,19 @@ Plutone
 
 Mercury
 Mercurio
+
+income tax
+l'imposta sul reddito
+
+income tax rate
+l'aliquota dell'imposta sul reddito
+
+capital gains tax rate
+l'aliquota dell'imposta sulle plusvalenze
+
+comparable
+equiparabile
+
+to aspire to
+aspirare a
 
