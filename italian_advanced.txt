@@ -12310,7 +12310,7 @@ dilagare
 continuation; pursuance
 il proseguimento
 
-to hinder; to obstruct; to get in the way of; to hamper; to impede
+to thwart; to hinder; to obstruct; to get in the way of; to hamper; to impede
 ostacolare
 
 to go that far; to get to that point
@@ -14893,8 +14893,11 @@ reprimere
 noxious; harmful; injurous
 nocivo; nuociuto
 
-to contrast; to tackle; to counter
+to oppose; to hinder; to contrast; to tackle; to counter
 contrastare
+
+opposed; hindered; contrasted; tackled; countered
+contrastato
 
 almost; nearly; virtually
 pressoché
@@ -68974,9 +68977,6 @@ scegliere le proprie battaglie
 
 revolver
 il revolver
-
-contested; contrasted
-contrastato
 
 inefficiency; ineffectiveness
 l'inefficacia; l'inefficienza
