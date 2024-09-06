@@ -37855,9 +37855,6 @@ la nuova riga
 to oil
 oliare
 
-to lubricate
-lubricare
-
 greasy; annointed
 unto
 
@@ -75860,3 +75857,5 @@ avere diritto a
 to plug a leak
 tappare una perdita
 
+to break up; to break off
+interrompersi
