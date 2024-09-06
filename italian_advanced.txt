@@ -16079,7 +16079,7 @@ to make one's mouth water
 far venire l'acquolina
 
 to have a sweet tooth
-goloso di dolci
+essere golosi di dolci
 
 mutual friend
 l'amico comune
@@ -25841,7 +25841,7 @@ to sadden
 rattristare
 
 to level out; to even out; to level; to balance; to level; to equalize
-pareggiare
+pareggiare; equalizzare
 
 dove
 la colomba
@@ -57957,7 +57957,7 @@ to think; to ponder; to consider
 cogitare
 
 refund; reimbursement
-il rimborso
+il rimborso; il cashback
 
 Madagascar
 Madagascar
@@ -70367,9 +70367,6 @@ il retro del cinema
 rescue
 il salvataggio
 
-to refresh one's memory
-rinfrescare la propria memoria
-
 balance
 il saldo
 
@@ -75859,3 +75856,7 @@ tappare una perdita
 
 to break up; to break off
 interrompersi
+
+fruit salad
+la macedonia di frutta; l'insalata di frutta
+
