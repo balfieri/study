@@ -6521,7 +6521,7 @@ as soon as
 non appena; appena che; appena
 
 as soon as possible; ASAP
-al più presto; il più presto possibile
+al più presto; il più presto possibile; quanto prima
 
 to report; to note; to signal; to indicate; to notify
 segnalare
@@ -75844,4 +75844,19 @@ aspirare a
 
 drywall compound
 lo stucco per cartongesso
+
+as a penalty for withdrawal
+a penale di recesso
+
+advance
+l'anticipo
+
+recess; withdrawl
+il recesso
+
+to have the right to
+avere diritto a
+
+to plug a leak
+tappare una perdita
 
