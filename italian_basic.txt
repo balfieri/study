@@ -475,7 +475,7 @@ l'auto noleggio
 rental
 il noleggio
 
-gasoline
+gasoline; gas (car)
 la benzina
 
 to reserve (a room, car); to book
@@ -7947,3 +7947,6 @@ tra tre ore
 
 there are three of us; we have three people
 siamo in tre
+
+gas (general)
+il gas
