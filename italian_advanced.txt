@@ -28396,7 +28396,7 @@ fallimentare
 perogative
 la prerogativa
 
-contract for works; contract for servies
+contract for work; contract for services
 l'appalto
 
 poker face
@@ -75863,3 +75863,29 @@ la macedonia di frutta; l'insalata di frutta
 to heed
 dare ascolto a
 
+to resign; to hand in one's resignation
+rassegnare le dimissioni
+
+starch
+l'appretto
+
+to spring forward
+balzare in avanti
+
+to fall backward
+cadere all'indietro
+
+hardware (doors)
+la ferramenta (porte)
+
+1000-word summary
+il riassunto di 1000 parole
+
+bribe
+la bustarella
+
+how difficult could it be?; how hard could it be?
+quanto potrebbe essere difficile?
+
+I just don't care any more
+non mi importa più
