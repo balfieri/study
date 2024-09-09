@@ -2936,7 +2936,7 @@ employment; job
 l'impiego
 
 trend; tendancy
-la tendenza
+la tendenza; il trend
 
 plot; storyline
 la trama
@@ -4054,7 +4054,7 @@ gli acciacchi
 to move (house, things, stuff); to move in
 traslocare
 
-reorganizing; restructuring
+renovation; reorganizing; restructuring
 la ristrutturazione
 
 to dangle; to hang; to sag
@@ -75944,3 +75944,62 @@ il sex symbol
 honor system
 il sistema d'onore
 
+to extend the opening hours
+ampliare le ore di apertura
+
+I am writing to you regarding
+le scrivo in merito a; le scrivo riguardo a
+
+as; in the role of
+in qualità di
+
+to attract a larger number of
+attrarre un maggior numero di
+
+handicapped person
+il portatore di handicap; la portatrice di handicap
+
+zip tie
+la fascetta
+
+to peer-review a paper; to review a paper
+revisionare un articolo
+
+to turn to the problem of
+affrontare il problema di
+
+glamorous work; exciting work
+il lavoro affascinante
+
+to live off the grid
+vivere fuori dalla rete
+
+menial tasks; menial work
+i lavori umili
+
+in ristrutturazione
+under renovation
+
+action-packed
+piena di azione
+
+another four years of
+altri quattro anni di
+
+to do something for a living
+fare qualcosa per vivere
+
+nudist colony
+la colonia nudista
+
+ce l'ho!
+I've got it!
+
+to set (somebody) up with
+organizzare un incontro per (qualcuno) con
+
+who cares about that?
+chi se ne frega di quello?
+
+I don't care about that, it makes no difference
+non mi importa, non fa alcuna differenza
