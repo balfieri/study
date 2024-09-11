@@ -76067,3 +76067,5 @@ asimmetrico
 symmetric; symmetrical
 simmetrico
 
+nugget
+la pepita
