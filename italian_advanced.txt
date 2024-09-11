@@ -44620,9 +44620,6 @@ idratare
 to polish; to shine (shoes, silverware)
 lucidare
 
-asymmetric
-asimmetrico
-
 reborn
 rinato
 
@@ -76063,3 +76060,10 @@ l'infilata di auto-elogi
 
 to give up
 mollare il colpo
+
+asymmetric; asymmetrical
+asimmetrico
+
+symmetric; symmetrical
+simmetrico
+
