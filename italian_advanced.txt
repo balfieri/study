@@ -11941,9 +11941,6 @@ essere come un libro aperto; essere un libro aperto
 to be two peas in a pod
 essere due anime in un nocciolo
 
-to be beside oneself; to not be one's self
-essere fuori di se'
-
 to be the black sheep
 essere la pecora nera
 
@@ -15721,7 +15718,7 @@ non lo cambierei per niente al mondo
 to do good
 fare del bene
 
-to be beside oneself
+to be beside oneself; to be bent out of shape
 essere fuori di sé
 
 to stifle; to choke; to smother; to soffocate
@@ -19479,9 +19476,6 @@ il pirata
 
 puffy; swollen
 gonfio
-
-frenzied; out of one's mind
-fuori di sé
 
 to palm off
 sbolognare
@@ -28567,7 +28561,7 @@ la virgola
 backup (help)
 i rinforzi
 
-reserve; stock; backup
+reserve; stock; backup; reservation (place)
 la riserva
 
 reviewer
@@ -76036,3 +76030,36 @@ rincorrersi
 
 small beach
 la spiaggetta
+
+tech power
+la potenza tech
+
+capacola (processed meat)
+la capacola
+
+to take (something) to a whole new level
+portare (qualcosa) a un livello completamente nuovo
+
+luxury camping
+il campeggio di lusso
+
+retirement activity
+l'attività per la pensione
+
+Haiti
+la Haiti
+
+rambling
+in sproloqui; sconclusionato
+
+conspiracy theory
+la teoria della cospirazione
+
+to get on (someone's) nerves
+far saltare i nervi a (qualcuno)
+
+string of self-praise
+l'infilata di auto-elogi
+
+to give up
+mollare il colpo
