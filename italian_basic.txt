@@ -6529,7 +6529,7 @@ sottile
 believed
 creduto
 
-threat
+threat; menace
 la minaccia
 
 lesson
