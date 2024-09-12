@@ -6328,8 +6328,11 @@ prospettare
 thrilling; exciting; exhilerating
 esaltante
 
-self-confidence; self-esteem
-la sicurezza di sé; l'autostima
+self-confidence; 
+la fiducia in sé stessi; la sicurezza di sé
+
+self-esteem
+l'autostima
 
 to evangelize
 evangelizzare
@@ -10170,9 +10173,6 @@ l'asterisco
 
 gear; cog
 l’ingranaggio
-
-to add insult to injury
-per aggiungere al danno la beffa
 
 prank; mockery
 la beffa
@@ -35274,9 +35274,6 @@ le forze dell'ordine
 
 sensitive heart
 il cuore sensibile
-
-in a significant way
-in modo significativo
 
 to struggle to find
 lottare per trovare
@@ -76126,3 +76123,28 @@ la trave; la capriata
 
 deputy governor
 il vicegovernatore
+
+overconfidence
+l'eccessiva fiducia in sé stessi
+
+in a meaningful way; in a significant way
+in modo significativo
+
+the election is rigged
+l'elezione è truccato
+
+to go back and forth
+andare avanti e indietro
+
+to emasculate
+emasculare
+
+well-respected
+ben rispettato; molto rispettato
+
+to be enamored by
+essere innamorati di
+
+to take the bait
+abboccare
+
