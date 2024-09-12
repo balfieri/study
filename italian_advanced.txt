@@ -76088,3 +76088,8 @@ la finestra di tempo
 gorgeous day
 la splendida giornata
 
+weekly (adv)
+settimanalmente
+
+daily (adv)
+quotidianamente
