@@ -211,7 +211,7 @@ basso
 to play (a game or sport)
 giocare a
 
-to speak loudly
+to speak loudly; to speak out loud
 parlare ad alta voce
 
 to speak softly
@@ -3091,7 +3091,7 @@ porre
 to stay behind; to remain; to be (continuing in a certain state)
 rimanere
 
-to go up; to ascend; to get into; to mount
+to go up; to ascend; to climb (plane); to get into; to mount
 salire
 
 to know; to know how (to do something)
