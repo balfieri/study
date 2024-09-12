@@ -59847,7 +59847,7 @@ apple pie
 la crostata di mele
 
 crust
-la crosta
+la crosta; il cornicione (pizza romana)
 
 bruise
 il livido
@@ -63095,7 +63095,7 @@ il traforo
 meltability; looseness
 la scioglievolezza
 
-cornice; edge of pizza crust
+cornice; edge of pizza crust; crust
 il cornicione
 
 loaf
@@ -76114,3 +76114,13 @@ variopinto
 
 charming
 di fascino
+
+there is no bottom
+non c'è fondo
+
+lighting truss; truss (above stage)
+l'americana
+
+support; truss
+la trave; la capriata
+
