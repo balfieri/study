@@ -11098,9 +11098,6 @@ valersi
 bill; invoice
 la bolletta
 
-surge
-l’impennata
-
 trader; dealer; merchant
 il commerciante; la commerciante
 
