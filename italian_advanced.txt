@@ -7043,7 +7043,7 @@ to plunge; to immerse; to dip
 immergere
 
 mankind
-il genere umano
+il genere umano; l'umanità
 
 thrilling; emotional; provoking strong emotions; exciting; poignant
 emozionante
@@ -19699,7 +19699,7 @@ concernere
 approved
 approvato
 
-humanity
+humanity; mankind
 l'umanità
 
 margin; edge; border
