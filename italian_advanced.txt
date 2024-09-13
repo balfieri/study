@@ -28363,7 +28363,7 @@ avverso
 to ascertain; to comprise; to consist of
 constare
 
-to abbandon; to give up; to leave (transitive)
+to abbandon; to give up; to leave (transitive); to ditch
 abbandonare
 
 to disappear
@@ -76147,4 +76147,19 @@ essere innamorati di
 
 to take the bait
 abboccare
+
+to get one's hopes up
+farsi illusioni
+
+there's not a cloud in the sky
+non c'è una nuvola nel cielo
+
+legal counsel
+la consulenza legale
+
+that is even worse
+questo è anche peggio
+
+to be a constant in the universe
+essere una costante nell'universo
 
