@@ -29710,8 +29710,8 @@ funebre
 maneuvers
 la manovre
 
-to apply oneself
-applicarsi
+to apply oneself to; to apply to (intransitive)
+applicarsi a
 
 to allude
 alludere
@@ -76195,3 +76195,7 @@ vittorioso
 
 to escape (situation)
 scampare
+
+it is very funny
+fa molto ridere; è molto divertente
+
