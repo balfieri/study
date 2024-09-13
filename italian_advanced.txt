@@ -26416,9 +26416,6 @@ ecco il punto; il fatto è questo
 emotional well-being
 il benessere emotivo
 
-to second-guess
-indovinarsi
-
 Occam's razor
 il rasoio di Occam
 
@@ -76163,3 +76160,8 @@ questo è anche peggio
 to be a constant in the universe
 essere una costante nell'universo
 
+to second-guess oneself
+mettersi in discussione; mettere in dubbio se stessi; indovinarsi
+
+to second-guess (something)
+mettere in discussione (qualcosa); mettere in dubbio (qualcosa)
