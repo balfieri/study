@@ -76165,3 +76165,10 @@ mettersi in discussione; mettere in dubbio se stessi; indovinarsi
 
 to second-guess (something)
 mettere in discussione (qualcosa); mettere in dubbio (qualcosa)
+
+reverb
+il riverbero
+
+reverb unit
+l'unità di riverbero
+
