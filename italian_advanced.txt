@@ -59009,7 +59009,7 @@ rilassante; riposante
 weak; feeble
 sciappo
 
-to decant; to pour
+to decant; to pour (from one container); to transfer (liquid from container to container)
 travasare
 
 absorbed
