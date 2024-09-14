@@ -15338,7 +15338,7 @@ to make up one's mind
 decidersi
 
 on second thought; come to think of it
-a pensarci bene
+su un secondo pensiero; a pensarci bene
 
 thinking it over again; upon reconsideration
 ripensandoci
@@ -76198,4 +76198,16 @@ scampare
 
 it is very funny
 fa molto ridere; è molto divertente
+
+founding father
+il padre fondatore
+
+unnerving
+snervante
+
+to accommodate your schedule
+venire incontro al tuo programma
+
+forgetting curve
+la curva dell'oblio
 
