@@ -76235,3 +76235,9 @@ la demografia
 demographic
 demografico
 
+technique
+la tecnica
+
+first come, first served
+chi prima arriva, prima alloggia
+

@@ -5872,9 +5872,6 @@ cristiano
 soldier
 il soldato
 
-technique
-la tecnica
-
 technology
 la tecnologia
 
