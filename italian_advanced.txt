@@ -76223,3 +76223,8 @@ l'istituto tecnico superiore
 general term
 il termine generale
 
+subtopic
+il sotto-argomento
+
+theme (among network of connected themes)
+la tematica
