@@ -463,7 +463,7 @@ la gita
 hotel
 l'albergo; l'hotel
 
-the net
+network; net
 la rete
 
 point; dot
@@ -1417,7 +1417,7 @@ riuscire a
 I can't do it (I'm unable to succeed at it)
 non ci riesco
 
-I may not do it
+I may not do it; I am unable to do it (before even trying)
 non posso farlo
 
 to want
@@ -1429,7 +1429,7 @@ la voglia
 to kick
 calciare
 
-english (adjective)
+English (adjective)
 inglese
 
 England
@@ -1590,9 +1590,6 @@ ordinario
 
 careful; attentive
 attento
-
-prudent; cautious
-prudente
 
 cautious
 cauto
@@ -1810,7 +1807,7 @@ la lavagna bianca
 remote control
 il telecomando
 
-room (general term)
+room (general)
 la stanza
 
 bedroom; room (for sleeping); chamber
@@ -5056,7 +5053,7 @@ meno
 society; company; corporation (European)
 la società
 
-place (general term, larger area)
+place (general, larger area)
 il luogo
 
 location (formal, technical)
@@ -5689,7 +5686,7 @@ fare festa
 dilemma
 il dilemma
 
-high school (general term)
+high school (general)
 la scuola superiore
 
 high school (university-bound)
