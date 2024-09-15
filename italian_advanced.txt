@@ -3959,7 +3959,7 @@ kiosk; door; window; gate
 lo sportello
 
 allocation
-l'assegnazione
+l'assegnazione; l'attribuzione
 
 type (technical, scientific); kind; classification
 la tipologia
@@ -9946,8 +9946,11 @@ quel che conta; il punto
 I learned the hard way
 ho imparato a mie spese
 
-gasket
+gasket; seal
 la guarnizione
+
+rubber seal
+la guarnizione in gomma
 
 to blow a gasket
 saltare le guarnizioni
@@ -34510,7 +34513,7 @@ il mozzo
 bolt holes
 i fori dei bulloni
 
-frame (car)
+frame (car, door)
 il telaio
 
 stubbornness
@@ -39712,8 +39715,8 @@ monouso
 vast majority
 la stragrande maggioranza
 
-to overheat
-surriscaldare
+to overheat (transitive)
+surriscaldarsi
 
 to afflict
 affliggere
@@ -75332,7 +75335,7 @@ la soluzione alternativa
 to find a work-around
 trovare una soluzione alternativa
 
-annoying problem
+annoying problem; pesky problem
 il problema fastidioso
 
 to return home
@@ -76243,3 +76246,33 @@ chi prima arriva, prima alloggia
 
 to fill the pan
 riempire la teglia
+
+consummate liar
+il bugiardo consumato
+
+psychopathic liar
+il bugiardo psicopatico
+
+nothing exciting
+niente di eccitante
+
+addictive personality
+la personalità dipendente
+
+to be prone to (some behavior)
+essere inclini a (qualche comportamento)
+
+rubber seal around the door frame
+la guarnizione in gomma intorno al telaio della porta
+
+replacement part
+il pezzo di ricambio; la parte di ricambio
+
+early voting
+la votazione anticipata
+
+mail-in voting
+il voto per corrispondenza
+
+the right tool for the job
+lo strumento giusto per il lavoro
