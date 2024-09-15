@@ -46898,7 +46898,7 @@ the toilet clogged
 la toilette si è intasato
 
 repairman
-il riparatore
+il riparatore; la riparatrice
 
 handyman; jack of all trades
 il tuttofare
@@ -76276,3 +76276,25 @@ il voto per corrispondenza
 
 the right tool for the job
 lo strumento giusto per il lavoro
+
+to not to want to know about
+non volerne sapere di
+
+great irony
+la grande ironia
+
+to be deep into (something)
+essere immersi in (qualcosa)
+
+to make a repair
+fare una riparazione
+
+close election
+l'elezione combattuta
+
+missed approach procedure
+la procedura di mancato avvicinamento
+
+missed approach
+il mancato avvicinamento
+
