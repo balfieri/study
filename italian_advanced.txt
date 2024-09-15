@@ -15664,7 +15664,7 @@ tanto per
 schadenfreude
 la Schadenfreude; la gioia maligna; il piacere derivato dalla sfortuna di un'altra persona
 
-to digress; to wander (conversation); to ramble
+to digress; to wander (conversation); to ramble; to go off topic (formal)
 divagare
 
 malignant tumor
@@ -76300,4 +76300,7 @@ il mancato avvicinamento
 
 to write a review (product, book, etc.)
 recensionare
+
+to go off-topic
+andare fuori tema; andare off-topic
 
