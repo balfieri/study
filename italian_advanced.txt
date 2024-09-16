@@ -17302,8 +17302,8 @@ il poliuretano
 to layer; to stratify
 stratificare
 
-paint
-la pittura; la vernice
+varnish; clear coat; paint
+la vernice
 
 coat of paint
 la mano di vernice
@@ -76321,3 +76321,6 @@ morire per cause innaturali
 
 to repaint (surface of object)
 riverniciare
+
+primer (paint)
+il primer
