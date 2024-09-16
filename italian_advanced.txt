@@ -16004,7 +16004,7 @@ underground; subsoil (below surface soil)
 sottosuolo
 
 kitchen counter; kitchen countertop
-il balcone della cucina; il piano della cucina
+il bancone della cucina; il piano della cucina
 
 to cross; to traverse (boundary, limit, difficult)
 valicare
@@ -23845,11 +23845,14 @@ l'accenno
 to mean; to signify; to denote
 significare
 
-investigation; inquiry (general
+investigation; inquiry (general)
 l'indagine
 
 investigation; inquiry (journalistic)
 l'inchiesta
+
+investigation (formal, deeper, legal)
+l'investigazione 
 
 constitutional
 costituzionale
@@ -52663,8 +52666,14 @@ lavabile
 direction of travel
 il senso di marcia
 
-inclined
+inclined; tilted
 inclinato
+
+tilted forward
+inclinato in avanti
+
+tilted backward
+inclinato all'indietro
 
 anatomical
 anatomico
@@ -76337,3 +76346,17 @@ su vari fronti
 undergraduate student
 lo studente dei corsi di laurea triennale
 
+to do a little more investigation
+fare un po' più di indagini
+
+the bottom part of
+la parte inferiore di
+
+the top part of
+la parte superiore di
+
+the left part of
+la parte sinistra di
+
+the right part of
+la parte destra di
