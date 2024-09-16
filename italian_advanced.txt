@@ -25678,7 +25678,7 @@ provvisorio
 tentatively; provisionally
 in modo provvisorio
 
-invasion
+invasion; encroachment
 l'invasione
 
 to insist
@@ -52459,7 +52459,7 @@ la misoginia
 misogynistic
 misogino
 
-to invade
+to invade; to encroach
 invadere
 
 company meeting
@@ -76367,3 +76367,5 @@ durante quel periodo
 screened porch
 la veranda schermata
 
+acoustics
+l'acustica
