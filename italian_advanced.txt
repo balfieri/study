@@ -62106,7 +62106,7 @@ solar eclipse
 l'eclissi solare
 
 lunar eclipse
-l'eclissi lunare
+l'eclissi lunare; l'eclissi di Luna
 
 eclipse
 l'eclissi
