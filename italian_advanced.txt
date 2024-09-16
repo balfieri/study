@@ -10879,7 +10879,7 @@ la sala cinema
 to narrate
 narrare
 
-sound system
+sound system; audio system
 il sistema audio
 
 apology accepted
@@ -76363,4 +76363,7 @@ la parte destra di
 
 during that time
 durante quel periodo
+
+screened porch
+la veranda schermata
 
