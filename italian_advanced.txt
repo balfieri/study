@@ -53518,9 +53518,6 @@ la protezione da scoperto
 to talk over other people
 interrompere gli altri; parlare sopra altre persone
 
-to die from natural causes
-morire per cause naturali
-
 air vent
 la bocchetta d'aria
 
@@ -76307,3 +76304,20 @@ andare fuori tema; andare off-topic
 attempt #4
 il tentativo n. 4
 
+to respectfully disagree
+non essere d'accordo rispettosamente
+
+would-be assassin
+l'aspirante assassino; l'aspirante assassina
+
+battery-powered
+l'alimentato a batteria
+
+to die of natural causes; to die from natural causes
+morire per cause naturali
+
+to die of unnatural causes; to die from unnatural causes
+morire per cause innaturali
+
+to repaint (surface of object)
+riverniciare
