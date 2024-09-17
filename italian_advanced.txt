@@ -7093,7 +7093,7 @@ dilettare
 to investigate; to explore; to research
 indagare
 
-to hang around; to putz around; to loiter; to saunter; to hover; to wander around
+to hang around; to putz around; to stroll; to roam; to saunter; to hover; to wander around
 gironzolare
 
 to wedge; to tuck; to thread
@@ -27938,7 +27938,7 @@ oh yeah
 oh sì
 
 to hang around the house; to putz around the house
-gironzolare per la casa
+gironzolare per la casa; bighellonare per casa
 
 unpleasant to the eye
 spiacevole alla vista
@@ -52153,7 +52153,7 @@ accostarsi
 robin
 il pettirosso
 
-to loaf around; to wander
+to loiter; to idle; to dawdle; to loaf around; to putz around (slightly negative connotation)
 bighellonare
 
 disorder; turmoil
@@ -76332,7 +76332,7 @@ to repaint (surface of object)
 riverniciare
 
 primer (paint)
-il primer
+il fondo; il primer
 
 rate of inflation
 il tasso di inflazione
@@ -76423,4 +76423,13 @@ il dipartimento del tesoro
 
 to make ironic remarks
 ironizzare
+
+to not be sold on (something)
+non essere convinti di (qualcosa)
+
+to be unconvinced
+non essere convinti
+
+to remain unconvinced
+rimanere non convinti
 
