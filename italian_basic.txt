@@ -5899,10 +5899,10 @@ la risorsa
 entire
 intero
 
-trust; confidence; faith
+trust; confidence; faith (based on past experiences)
 la fiducia
 
-faith; belief
+faith; belief (religious, without proof)
 la fede
 
 help
@@ -6868,8 +6868,11 @@ l'utente
 dramatic
 drammatico
 
-reason
+reason (logical thinking)
 la ragione
+
+motive; reason (for doing something)
+il motivo
 
 distance
 la distanza
