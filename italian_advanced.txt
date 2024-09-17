@@ -76376,4 +76376,24 @@ non finisce mai
 coast guard
 la guardia costiera
 
+to shout conspiracy
+gridare al complotto
+
+high school sweethearts
+gli innamorati del liceo
+
+fire safety
+la sicurezza antincendio
+
+power lines
+le linee elettriche
+
+power company
+l'azienda elettrica
+
+inner loop (algorithm)
+il ciclo interno
+
+outer loop (algorithm)
+il ciclo esterno
 
