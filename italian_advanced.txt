@@ -76433,3 +76433,45 @@ non essere convinti
 to remain unconvinced
 rimanere non convinti
 
+carpentry
+la carpenteria
+
+woodworking
+la lavorazione del legno
+
+router (woodworking)
+la fresatrice per legno
+
+jointer (woodworking)
+la pialla a filo
+
+planer (woodworking)
+la pialla a spessore
+
+jig saw
+il seghetto alternativo
+
+table saw
+la sega da banco
+
+outfeed table
+il tavolo di uscita
+
+crosscut saw
+la sega trasversale
+
+drill
+il trapano
+
+drill press
+il trapano a colonna
+
+sander
+la levigatrice
+
+disk sander
+la levigatrice a disco
+
+belt sander
+la levigatrice a nastro
+
