@@ -8111,7 +8111,7 @@ there was to do
 c'era da fare
 
 classroom
-l'aula
+l'aula; la classroom
 
 ticket; coupon
 il tagliando
@@ -76531,4 +76531,10 @@ l'incognita
 
 to check out the competition
 esaminare la concorrenza
+
+conjunctivitis; pink eye
+la congiuntivite
+
+open reel recorder
+il registratore a bobina aperta
 
