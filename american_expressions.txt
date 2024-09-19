@@ -4,7 +4,7 @@ a piece of work; a pistol
 un personaggio
 
 it's all good
-benone
+va tutto bene; benone
 
 what's happenin'?; what's up?; what can you tell me?; wazzup?
 che succede? che mi dici?; che c'è di nuovo?
@@ -5075,4 +5075,7 @@ it's the gift that keeps on giving
 
 to be the apple of one's eye
 essere la pupilla degli occhi di (qualcuno)
+
+to talk about the elephant in the room
+parlare dell'elefante nella stanza
 
