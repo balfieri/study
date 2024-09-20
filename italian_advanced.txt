@@ -71042,8 +71042,8 @@ scrollare in giù
 to scroll up
 scrollare in su
 
-behind the scenes
-dietro le quinte
+behind the scenes; backstage
+dietro le quinte; in backstage
 
 stagecraft
 l'arte scenica
@@ -76553,3 +76553,11 @@ il grano intero
 cinder block; cement block
 il blocco di cemento
 
+to apologize profusely
+scusarsi profusamente
+
+to rekindle
+rinfocolare
+
+buttocks
+le chiappe
