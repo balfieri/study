@@ -76610,5 +76610,5 @@ la rifinatura
 foodie; gourmet
 il buongustaio
 
-hijacked
+hijacked; diverted
 dirottato
