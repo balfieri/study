@@ -76434,7 +76434,7 @@ to remain unconvinced
 rimanere non convinti
 
 carpentry
-la carpenteria
+la falegnameria; la carpenteria
 
 woodworking
 la lavorazione del legno
@@ -76612,3 +76612,18 @@ il buongustaio
 
 hijacked; diverted
 dirottato
+
+pager
+il cercapersone
+
+walkie-talkie
+il walkie-talkie
+
+enabler
+l'abilitatore; l'abilitatrice
+
+declinable
+declinabile
+
+battering ram
+la testa di ariete
