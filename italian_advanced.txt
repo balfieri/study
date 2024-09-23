@@ -11117,7 +11117,7 @@ equipment
 le apparecchiature
 
 rock; cliff
-lo scoglio
+lo scoglio; la scoglia
 
 to tremble; to shake; to quiver
 tremare
