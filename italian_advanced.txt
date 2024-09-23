@@ -76433,8 +76433,11 @@ non essere convinti
 to remain unconvinced
 rimanere non convinti
 
-carpentry
-la falegnameria; la carpenteria
+carpentry (wood)
+la falegnameria
+
+carpentry (wood, metal)
+la carpenteria
 
 woodworking
 la lavorazione del legno
