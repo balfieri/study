@@ -60194,7 +60194,7 @@ it changed for the worse
 IP port
 la porta IP
 
-router (computer)
+router (computer, woodworking)
 il router
 
 heater
@@ -76706,4 +76706,16 @@ immunosoppresso
 
 to tour around England
 girare per l'Inghilterra
+
+to take for granted
+dare per scontato
+
+table saw fence
+la recinzione per sega da tavolo
+
+I want you to meet (someone)
+voglio che tu conosca (qualcuno)
+
+router bit
+la fresa per router
 
