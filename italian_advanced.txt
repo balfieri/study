@@ -76631,20 +76631,20 @@ declinabile
 battering ram
 la testa di ariete
 
-a kit
-un kit
+kit
+il kit
 
-she is cc'ed on this email
-lei Ã¨ in copia su questa email
+cc'ed on this email
+in copia su questa email
 
-as soon as I am done repainting the walls
-non appena avrÃ² finito di ridipingere le pareti
+as soon as I am done (doing something)
+non appena avrò finito di (fare qualcosa)
 
 wrecking ball
-palla da demolizione
+la palla da demolizione
 
 medium density fiberboard (MDF); particle board
-pannello di fibra a media densità (MDF)
+il pannello di fibra a media densità (MDF)
 
 torsion box
 la scatola di torsione
@@ -76666,3 +76666,28 @@ la sega a binario
 
 sarcastic comment; snide comment
 il commento sarcastico
+
+rinse cycle
+il ciclo di risciacquo
+
+to perform a rinse cycle
+eseguire un ciclo di risciacquo
+
+to be in the process of (doing something)
+essere nel processo di (fare qualcosa)
+
+to taste noticeably better
+avere un sapore notevolmente migliore
+
+noticeably better
+notevolmente migliore
+
+noticeably worse
+notevolmente peggiore
+
+miscellaneous things
+le cose varie
+
+next Wednesday
+mercoledì prossimo
+
