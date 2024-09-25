@@ -23056,7 +23056,7 @@ la densità
 parity; equality
 la parità
 
-support (physical, technical)
+support (physical, technical); stand
 il supporto
 
 disorder (medical, psychological)
@@ -76757,4 +76757,10 @@ le cianfrusaglie
 
 to keep organized
 mantenere organizzati
+
+to derive pleasure from
+derivare piacere da; trarre piacere da
+
+great desire
+il gran desiderio
 
