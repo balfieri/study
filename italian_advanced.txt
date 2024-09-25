@@ -43753,8 +43753,8 @@ cadere da
 to fire (someone); to sack (someone); to give (someone) the boot; to give (someone) the sack
 licenziare (qualcuno)
 
-traffic pattern
-lo schema del traffico
+traffic pattern (airport)
+il circuito di traffico
 
 spade
 la picca
@@ -76793,3 +76793,27 @@ il predatore sessuale
 
 cougar (woman)
 la cougar
+
+upwind leg (airport)
+la gamba di sopravvento
+
+downwind leg (airport)
+la gamba di sottovento
+
+crosswind leg
+la gamba di traverso
+
+base leg
+la gamba base
+
+final leg
+la gamba finale
+
+ADS-B transponder
+il transponder ADS-B
+
+to hit (something) from behind
+colpire (qualcosa) da dietro
+
+to take over (something); to take control of (something)
+prendere il controllo di (qualcosa)
