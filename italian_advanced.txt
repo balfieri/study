@@ -76829,3 +76829,9 @@ l'incidente prevenibile
 
 student pilot
 l'allievo pilota
+
+crop-dusting
+l'irrorazione aerea
+
+spraying
+l'irrorazione
