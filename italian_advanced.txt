@@ -1942,7 +1942,7 @@ facoltativo
 quota; allotment
 il contingente
 
-excruciating; harrowing; agonizing; heartbreaking
+excruciating; harrowing; agonizing; heartbreaking; gut-wrenching
 straziante
 
 means of transportation (single)
@@ -64979,9 +64979,6 @@ il film femminista
 to tear apart
 strazziare
 
-heartbreaking
-strazziante
-
 avian flu
 l'influenza aviaria
 
@@ -76920,3 +76917,5 @@ il mobile TV; il tavolino per TV
 electrical supplies
 il materiale elettrico; le forniture elettriche
 
+impetuous
+impetuoso
