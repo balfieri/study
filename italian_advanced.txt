@@ -76890,3 +76890,8 @@ forato
 to fill up; to get filled up
 riempirsi
 
+marinade
+la marinata
+
+to marinade
+marinare
