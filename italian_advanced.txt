@@ -76887,3 +76887,6 @@ la vernice al lattice
 punctured; perforated
 forato
 
+to fill up; to get filled up
+riempirsi
+
