@@ -76883,3 +76883,7 @@ il piolo
 
 latex paint
 la vernice al lattice
+
+punctured; perforated
+forato
+
