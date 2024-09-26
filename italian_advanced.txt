@@ -1636,8 +1636,8 @@ distaccato; distante; scostante; riservato
 standoffish (purposely distant)
 distante; freddo
 
-to strain; to struggle; to labor
-fare fatica
+to strain to; to struggle to; to labor to
+fare fatica a
 
 to work hard (struggling)
 faticare
