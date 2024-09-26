@@ -76899,3 +76899,6 @@ marinare
 paint can
 il barattolo di vernice
 
+give a welcome to
+dare un benvenuto a
+
