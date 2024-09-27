@@ -10444,7 +10444,7 @@ la frizione
 first gear
 la prima marcia
 
-to straighten; to right; to unbend
+to straighten; to right; to unbend; to right-side up
 raddrizzare
 
 patch; hack; boot
@@ -76919,3 +76919,31 @@ il materiale elettrico; le forniture elettriche
 
 impetuous
 impetuoso
+
+once you have your own house
+una volta che hai la tua casa
+
+speaker cabinet
+cassa acustica
+
+nice piece of
+bel pezzo di
+
+neoprene
+il neoprene
+
+tweeter
+il tweeter
+
+mid-range speaker
+l'altoparlante di gamma media
+
+subwoofer
+il subwoofer
+
+birch
+la betulla
+
+cherry (wood)
+il ciliegio
+
