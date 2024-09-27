@@ -5573,7 +5573,7 @@ tact; touch; feel
 il tatto
 
 praise; eulogy; commendation
-l’elogio
+l'elogio
 
 to fling; to rush
 gettarsi
@@ -44506,9 +44506,6 @@ googlare
 olfactory
 olfattivo
 
-eulogy
-l'elogio
-
 ecstatic
 estatico
 
@@ -76958,4 +76955,13 @@ il mucchio di terra
 
 distorted
 distorto
+
+impalpable
+impalpabile
+
+symphony
+la sinfonia
+
+symphonic
+sinfonico
 
