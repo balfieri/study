@@ -1055,7 +1055,7 @@ oven
 il forno
 
 to bake
-fornare
+fare il forno
 
 bathroom; restroom
 il bagno; i servizi

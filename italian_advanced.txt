@@ -28051,9 +28051,6 @@ l'intreccio
 flue
 lo scarico; la canna fumaria
 
-exhaust pipe
-il tubo di scarico
-
 buyer; purchaser
 il compratore; il comperatore
 
@@ -76967,4 +76964,28 @@ sinfonico
 
 neighborhood meeting
 la riunione di quartiere
+
+to bake (letterary, archaic)
+fornare
+
+gullable; deceivable
+ingannabile
+
+to blind-side (somebody, negative)
+sorprendere molto (qualcuno)
+
+drywall panel
+pannello di cartongesso
+
+make and model of the car
+marca e modello
+
+simple pleasure
+il piacere semplice
+
+some of; a bit of; a little bit of
+un po' di
+
+drain pipe; exhaust pipe
+il tubo di scarico
 
