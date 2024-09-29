@@ -28337,7 +28337,7 @@ contribution; confirment
 il conferimento
 
 vine; grapevine
-la vite
+il vite
 
 Turinese
 torinese
@@ -38806,10 +38806,10 @@ non importa come
 to throw the dice; to roll the dice
 lanciare i dadi
 
-dice
+dice; nuts (hardware)
 i dadi
 
-die (dice)
+die (dice); nut (hardware)
 il dado
 
 coronation
@@ -44404,7 +44404,7 @@ indiscusso
 sharpness
 la spigolosità
 
-mastery
+mastery; craftsmenship
 la maestria
 
 handled
@@ -65469,7 +65469,7 @@ to winterize
 invernare
 
 screw
-il vite
+la vite
 
 haptic
 aptico
@@ -71291,9 +71291,6 @@ essere preoccupati per (qualcosa)
 to revoke consent
 revocare il consenso
 
-finance bro
-il fratello della finanza; il frate della finanza
-
 policy (insurance)
 la polizza
 
@@ -77015,3 +77012,45 @@ lo scarico
 
 French drain
 il drenaggio francese
+
+fine craftsmenship
+l'ottima maestria
+
+mutual fear
+la paura reciproca
+
+to have a fallback position
+avere una posizione di riserva
+
+surface planer
+la piallatrice per superfici
+
+until then 
+fino ad allora 
+
+I'm not sure what to do
+non sono sicuro di cosa fare
+
+it doesn't just happen on its own
+non succede semplicemente da solo
+
+to go smoothly
+andare liscio
+
+to go very smoothly
+andare molto liscio
+
+to peel oneself; to flake off
+spelarsi
+
+feud
+la faida
+
+I don't know how I feel about it
+non so come mi sento a riguardo
+
+to strip a screw
+spanare una vite
+
+washer (hardware)
+la rondella
