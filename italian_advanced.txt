@@ -3406,7 +3406,7 @@ il senno
 to start out
 prendere le mosse
 
-to concern; to pertain; to encompass; to rewatch
+to concern; to pertain to; to encompass; to rewatch
 riguardare
 
 to enhance; to increase; to heighten
@@ -77082,3 +77082,8 @@ la mensola galleggiante
 cannellini beans
 i fagioli cannellini
 
+final deadline by which
+il termine ultimo entro cui
+
+deadline
+la scadenza; il termine
