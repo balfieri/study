@@ -64181,8 +64181,8 @@ continua a sentirti meglio!
 frosting; icing
 la glassa; il frosting
 
-to remedy; to mend
-rimediare
+to remedy; to mend; to make up for
+rimediare a
 
 fruit cake
 la torta di frutta
@@ -77060,4 +77060,22 @@ la borraccia
 
 flagship event
 l'evento di punta
+
+to get done
+farsi
+
+pursuit of the dream
+l'inseguimento del sogno
+
+noseprint
+l'impronta del naso
+
+to leave the house
+uscire di casa
+
+to make up for the mistake
+rimediare all'errore
+
+floating bookshelf
+la mensola galleggiante
 

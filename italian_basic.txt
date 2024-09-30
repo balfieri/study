@@ -2329,7 +2329,7 @@ silenzioso
 innocent
 innocente
 
-elegant
+elegant; sleek
 elegante
 
 dry (after being previously wet)
@@ -2668,7 +2668,7 @@ tentare
 to excuse
 scusare
 
-to search for; to look for; to seek
+to search for; to look for; to seek; to seek out
 cercare
 
 to try; to experience; to undergo; to try out
