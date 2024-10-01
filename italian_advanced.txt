@@ -19393,7 +19393,7 @@ non c'è più tempo; è scaduto il tempo; tempo scaduto; non abbiamo tempo
 I better let you go
 meglio che ti lasci andare
 
-for completeness
+for completeness; for the sake of completeness
 per completezza
 
 to illustrate
@@ -77144,3 +77144,51 @@ il lungo periodo di tempo
 
 preservative
 il conservante
+
+the glass is half-full
+il bicchiere Ã¨ mezzo pieno
+
+the glass is half-empty
+il bicchiere Ã¨ mezzo vuoto
+
+track saw
+sega a binario
+
+to stroke out
+avere un ictus
+
+to pet a dog
+accarezzare un cane
+
+petting (dog)
+l'accarezzare
+
+heavy petting
+le effusioni spinte
+
+painting
+la verniciatura
+
+it gives me confidence
+mi dà fiducia
+
+at the end of the period
+al termine del periodo
+
+to cancel
+disdire
+
+coffee break
+la pausa caffè
+
+messy
+disordinato
+
+messy, dirty work
+lavoro sporco e disordinato
+
+messy person
+la persona disordinata
+
+I wish I had done that
+vorrei averlo fatto
