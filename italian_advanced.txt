@@ -3568,7 +3568,7 @@ solo nel caso
 assignment; charge; errand
 l'incarico
 
-to arrange; to lay; to provide; to put in order
+to arrange; to lay; to lay out; to provide; to put in order
 disporre
 
 to test (product, system, method, performance)
@@ -77228,4 +77228,3 @@ senza idee
 
 the land of the free and the home of the brave
 la terra dei liberi e la casa dei coraggiosi
-
