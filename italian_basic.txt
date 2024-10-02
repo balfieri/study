@@ -2251,7 +2251,7 @@ colpevole
 original
 originale
 
-simple; easy
+simple; easy; straightforward
 semplice
 
 necessary

@@ -11255,7 +11255,7 @@ my gosh; wow
 accipicchia
 
 first-world problem
-il problema da primo mondo; il problema del mondo sviluppato
+il problema del primo mondo
 
 nothing at all
 nulla di nulla
@@ -34078,7 +34078,7 @@ servita con gelato
 capon
 il capone
 
-to file a complaint
+to file a complaint; to press charges
 sporgere denuncia
 
 I don't want to have anything to do with you
@@ -59876,14 +59876,11 @@ devi pagare per i tuoi peccati
 God made man in his own image
 dio ha creato l'uomo a sua immagine
 
-he is not allowed to (do something)
-non gli è permesso (fare qualcosa)
+I am allowed to (do something, by person)
+mi è permesso (fare qualcosa)
 
-to be allowed (personally permitted)
-essere permessi
-
-to be allowed (by laws and rules)
-essere consentiti
+I am allowed to (do something, by laws and rules)
+mi è consentito (fare qualcosa)
 
 young man; lad
 il giovanotto
@@ -77204,4 +77201,34 @@ imbullonare (qualcosa)
 
 then, from there, 
 poi, da lì, 
+
+for me it is not a problem; it's not a problem for me
+per me non è un problema
+
+jackhammer
+il martello pneumatico
+
+dynamite
+la dinamite
+
+lumber
+il legname
+
+treated lumber
+il legname trattato
+
+the water leaks
+l'acqua perde
+
+tile grout
+lo stucco per piastrelle
+
+soapy water
+l'acqua saponata
+
+out of ideas
+senza idee
+
+the land of the free and the home of the brave
+la terra dei liberi e la casa dei coraggiosi
 
