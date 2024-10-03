@@ -77256,3 +77256,11 @@ il rubinetto gocciolante
 dripping
 gocciolante
 
+touch-up
+il ritocco
+
+to touch-up
+ritoccare
+
+to touch-up paint
+ritoccare la vernice
