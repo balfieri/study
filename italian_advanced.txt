@@ -181,7 +181,7 @@ fissare
 to face; to tackle; to confront; to broach
 affrontare; fare fronte a; fronteggiare
 
-diagram; sketch
+diagram; sketch; outline
 lo schema
 
 improperly
@@ -35968,8 +35968,11 @@ che sia; che si tratti di
 I should not care
 dovrei fregarmene
 
-earphones
-gli auricolari; le cuffiette
+earbuds (inserted in ear)
+gli auricolari
+
+earphones (on ear)
+le cuffiette
 
 alibi
 l'alibi
@@ -39465,9 +39468,6 @@ ricattare
 
 crusade
 la crociata
-
-earphones; earbuds
-gli auricolari; le cuffie
 
 drone
 il drone
