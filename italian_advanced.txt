@@ -2413,8 +2413,11 @@ il genio
 to come back down
 ridiscendere
 
-to pursue; to prosecute; to chase
+to pursue; to prosecute; to chase (constant, deliberate effort)
 perseguire
+
+to chase; to pursue; to trail (dynamic, energetic passion)
+inseguire
 
 puff; breath; whiff
 il soffio
@@ -3579,9 +3582,6 @@ proporre
 
 rampant; widespread
 dilagante
-
-to chase; to pursue; to trail
-inseguire
 
 to escape (one's mind); to avoid
 sfuggire
@@ -6328,8 +6328,11 @@ prospettare
 thrilling; exciting; exhilerating
 esaltante
 
-self-confidence; 
-la fiducia in sé stessi; la sicurezza di sé
+self-confidence 
+la sicurezza di sé; la fiducia in sé stessi
+
+self-confident
+sicuro di sé
 
 self-esteem
 l'autostima
@@ -77264,3 +77267,7 @@ ritoccare
 
 to touch-up paint
 ritoccare la vernice
+
+to be succeeding
+stare riuscendo
+
