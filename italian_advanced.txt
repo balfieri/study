@@ -2743,8 +2743,11 @@ rimanere senza
 recently; lately
 recentemente; di recente; ultimamente; in questo ultimo periodo
 
-to pay attention
-prestare attenzione; fare attenzione
+to pay attention (informal)
+fare attenzione
+
+to pay attention (more formal, deliberate)
+prestare attenzione
 
 tiring; laborious
 faticoso; stancante
@@ -16809,9 +16812,6 @@ essere tutt'orecchi
 
 hurrah!
 evviva!
-
-to pay attention; to be careful
-fare attenzione
 
 to make way (room)
 fare largo; fare strada
