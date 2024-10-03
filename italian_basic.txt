@@ -742,9 +742,6 @@ la panna montata
 beef; hunk (man)
 il manzo
 
-boar
-il cinghiale
-
 truffle
 il tartufo
 
@@ -1291,9 +1288,6 @@ le forbici
 cone
 il cono
 
-including
-comprese
-
 pork
 la carne di maiale
 
@@ -1510,7 +1504,7 @@ il giardino
 instead of (noun, infinitive)
 invece di; al posto di
 
-instead of (alternative)
+instead of (clause)
 invece che
 
 rather; better yet; in fact; to the contrary
@@ -1559,7 +1553,7 @@ region
 la regione
 
 boss; head (organization); chief; cape
-il capo
+il capo; la capa
 
 delay
 il ritardo
