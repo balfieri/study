@@ -607,7 +607,7 @@ telefonare
 to chew
 masticare
 
-to get out of; to go down
+to get out of; to go down; to get off of; to come down from
 scendere da
 
 to push; to thrust
@@ -7162,7 +7162,7 @@ fingere; fare finta
 annoyed
 infastidito
 
-to get into
+to get into; to get on
 salire su
 
 to get into the car; to get in the car

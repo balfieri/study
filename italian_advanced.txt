@@ -5851,7 +5851,7 @@ trascurare
 to leave out; to omit; to neglect
 tralasciare
 
-to register
+to register (vehicle, college)
 immatricolare
 
 to hang; to string up
@@ -47590,7 +47590,7 @@ il locatore
 furnished
 arredato; ammobiliato
 
-matriculated; enrolled
+matriculated; enrolled (less common)
 ammatricolato
 
 home country
@@ -50518,7 +50518,7 @@ percorribile
 in stock; ready for delivery
 in pronta consegna
 
-registered
+registered; enrolled
 immatricolato
 
 already registered
@@ -77273,3 +77273,28 @@ stare riuscendo
 
 intrigued
 intrigato
+
+to get on the roof
+salire sul tetto
+
+to get off the roof
+scendere dal tetto
+
+to go up to (place); to climb up to
+salire fino a
+
+pickleball
+il pickleball
+
+establishing a baseline
+stabilire una linea di base
+
+baseline (noun)
+la linea di base
+
+registration (vehicle, college)
+l'immatricolazione
+
+movable goods; personal property
+i beni mobili
+
