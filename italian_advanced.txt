@@ -13063,9 +13063,6 @@ dare un taglio netto
 clean break
 il taglio netto
 
-charlatan
-il ciarlatano
-
 enthusiast; aficionado
 appassionato; entusiasta
 
@@ -30703,7 +30700,7 @@ l'immensità
 sentient
 senziente
 
-demolition; felling
+demolition; felling; takedown
 l'abbattimento
 
 supply chain; production chain
@@ -44597,7 +44594,7 @@ to shout; to yell (aggressive)
 sbraitare
 
 charlatan; soundrel; slob
-il cialtrone
+il ciarlatano; il cialtrone
 
 misogynist
 il misogino
@@ -75245,7 +75242,7 @@ fare visite guidate ai potenziali membri
 pull-out bed; trundle bed
 il letto estraibile
 
-extractable; pull-out
+extractable; pull-out; removable
 estraibile
 
 election board
@@ -77307,3 +77304,56 @@ il cinghiale
 including
 compreso
 
+by design; on purpose
+per progettazione; di proposito
+
+over a period of two weeks
+nell'arco di due settimane
+
+funny money balance
+il saldo di denaro falso
+
+large amount of money
+la grande somma di denaro
+
+I got to thinking, hmmmm,
+ho cominciato a pensare, hmmmm,
+
+to put (somebody) up to it
+mettere (qualcuno) a farlo
+
+recessed lighting
+l'illuminazione incassata
+
+recessed ceiling
+il soffitto incassato
+
+from whole cloth
+dal nulla
+
+bad faith
+la malafede
+
+gridiron
+la graticola
+
+postponed
+rinviato
+
+colorblindness
+il daltonismo
+
+depravity
+la depravazione
+
+scathing critique
+la critica feroce
+
+scathing review
+la recensione feroce
+
+why stop there?
+perché fermarsi là?
+
+single shock absorber; monoshock
+il monoammortizzatore
