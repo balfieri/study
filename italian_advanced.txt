@@ -1258,7 +1258,7 @@ sguamire
 to leap; to pounce
 balzare
 
-to bounce
+to bounce; to ricochet
 rimbalzare
 
 self-deprecating humor
@@ -2800,7 +2800,7 @@ accartocciato
 to crumple; to crush; to shrivel
 accartocciare
 
-torn
+torn; mangled
 strappato
 
 to blame
@@ -8074,8 +8074,11 @@ l'ipoteca
 irrelevant; not pertinant; moot
 irrelevante; discutibile; nonluogo; nonpertinente
 
-attic
-la soffitta; il sottotetto
+attic (habitable)
+la soffitta
+
+attic (inhabitable)
+il sottotetto
 
 House of Representatives
 La Camera dei Rappresentanti
@@ -10257,9 +10260,6 @@ assediare
 
 to appease; to placate
 placare
-
-to under-promise and over-deliver
-promettere poco e mantenere di più
 
 coffin; casket
 la bara; il feretro
@@ -33100,7 +33100,7 @@ inquisire
 to scour; to search; to patrol
 perlustrare
 
-to watch over; to supervise
+to surveil; to watch over; to supervise
 sorvegliare
 
 to protract
@@ -75809,7 +75809,7 @@ equiparabile
 to aspire to
 aspirare a
 
-drywall compound
+drywall compound; drywall mud
 lo stucco per cartongesso
 
 as a penalty for withdrawal
@@ -77361,3 +77361,62 @@ il monoammortizzatore
 incredulous
 incredulo
 
+drainage system
+il sistema di drenaggio
+
+to do a cannonball (pool)
+fare un tuffo a bomba
+
+to fish for compliments
+cercare complimenti
+
+she is not as beautiful as you
+lei non è bella come te
+
+to under-promise and over-deliver
+promettere poco e consegnare di più
+
+to over-promise and under-deliver
+promettere troppo e consegnare di meno
+
+to crumble
+sbriciolare
+
+about ten
+una decina
+
+tens of; scores of
+decine di
+
+counterfeit
+pezzotto
+
+king-size bed
+letto king-size
+
+to check-out a library book
+prendere in prestito un libro dalla biblioteca
+
+dimensional lumber
+il legname dimensionale
+
+garbled message
+il messaggio confuso
+
+stripped screw
+la vite spanata
+
+wall-mounted toilet
+il water sospeso
+
+floor-mounted toilet
+il water a pavimento
+
+the phone is ringing off the hook
+il telefono squilla in continuazione
+
+photography equipment; photography gear
+l'attrezzatura fotografica
+
+downward-facing dog (yoga)
+il cane a faccia in giù
