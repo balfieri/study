@@ -7099,8 +7099,11 @@ dilettare
 to investigate; to explore; to research
 indagare
 
-to hang around; to putz around; to stroll; to roam; to saunter; to hover; to wander around
-gironzolare
+to hang around; to putz around; to stroll; to roam; to saunter; to hover; to wander around (inactive)
+gironzolare; bighellonare
+
+to putz around the house (actively working on things)
+fare lavoretti in casa
 
 to wedge; to tuck; to thread
 infilare
@@ -37021,7 +37024,7 @@ il pentimento
 lithium
 il litio
 
-to feed; to give food to (someone)
+to feed; to give food to (someone or animal)
 dare da mangiare a (qualcuno)
 
 to feed; to provide food
@@ -77310,8 +77313,11 @@ per progettazione; di proposito
 over a period of two weeks
 nell'arco di due settimane
 
-funny money balance
+funny money balance (fake or play money)
 il saldo di denaro falso
+
+funny money balance (real money); piggybank
+il salvadanaio; il porcellino
 
 large amount of money
 la grande somma di denaro
@@ -77420,3 +77426,6 @@ l'attrezzatura fotografica
 
 downward-facing dog (yoga)
 il cane a faccia in giù
+
+it helps us to understand
+ci aiuta a capire
