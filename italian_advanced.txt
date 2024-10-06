@@ -11815,7 +11815,7 @@ decostruzionalista
 nihilist
 nichilista
 
-to go beyond
+to go beyond; to overreach
 andare oltre
 
 statistically speaking
@@ -12460,7 +12460,7 @@ rifocillare
 din; clamor
 il frastuono
 
-frame; ledge
+frame; ledge; trim (decorative)
 la cornice
 
 to drizzle
@@ -18889,9 +18889,6 @@ la caduta
 to plot; to draw; to track; to trace
 tracciare
 
-rafter
-la trave di legno
-
 childish; childhood (adjective)
 infantile
 
@@ -25258,7 +25255,7 @@ il divorzio
 romance (song, ballad)
 la romanza
 
-abuse
+abuse; overreach
 l'abuso
 
 defender
@@ -34519,7 +34516,7 @@ il mozzo
 bolt holes
 i fori dei bulloni
 
-frame (car, door)
+frame (car, door, structural)
 il telaio
 
 stubbornness
@@ -38911,7 +38908,7 @@ Sentiero degli Appalachi
 hiking trail
 il sentiero escursionistico
 
-sex drive
+sex drive; libido
 il desiderio sessuale; la libido
 
 my twenties
@@ -51316,9 +51313,6 @@ il gambetto
 millimeter
 il millimetro
 
-beam
-la trave
-
 packaging; protective shipping materials
 l'imballaggio
 
@@ -54767,7 +54761,7 @@ chauvinist; male chauvinist
 maschista; maschilista
 
 arguably
-possibilmente; potenzialmente
+probabilmente; possibilmente; potenzialmente
 
 backup singer
 la corista; il corista
@@ -66522,7 +66516,7 @@ to expedite
 accelerare; affrettare
 
 toilet
-il water
+il water; il wc
 
 trial period
 il periodo di prova
@@ -74144,9 +74138,6 @@ l'incorniciatura della casa
 framing
 l'incorniciatura
 
-framework
-l'intelaiatura
-
 supporting structure
 la struttura portante
 
@@ -75278,8 +75269,11 @@ le persone sono troppo ossessionate dal denaro
 think about it
 pensaci; pensateci
 
-door frame
-il telaio della porta; la cornice della porta
+door frame (structural); door jamb
+il telaio della porta
+
+door frame (decorative); door trim
+la cornice della porta
 
 co-dependent
 co-dipendente
@@ -76109,7 +76103,7 @@ non c'è fondo
 lighting truss; truss (above stage)
 l'americana
 
-support; truss
+beam; support; truss; rafter
 la trave; la capriata
 
 deputy governor
@@ -77412,12 +77406,6 @@ il messaggio confuso
 stripped screw
 la vite spanata
 
-wall-mounted toilet
-il water sospeso
-
-floor-mounted toilet
-il water a pavimento
-
 the phone is ringing off the hook
 il telefono squilla in continuazione
 
@@ -77429,3 +77417,111 @@ il cane a faccia in giù
 
 it helps us to understand
 ci aiuta a capire
+
+discardable
+scartabile
+
+base coat of paint
+la mano di fondo
+
+watch your step!
+guarda dove metti i piedi!
+
+watch your head!
+guarda la testa!
+
+to get angry
+incavolare
+
+angry
+incavolato
+
+A-list movie
+il film di serie A
+
+B-list movie; B movie
+il film di serie B
+
+immune from prosecution
+immune da procedimenti giudiziari
+
+aesthetic finish
+la finitura estetica
+
+stud; upright; 2-by-4
+il montante
+
+it was even worse than I was expecting
+era ancora peggio di quanto mi aspettassi
+
+wall framing (structural)
+l'intelaiatura muraria
+
+framing; framework
+l'intelaiatura
+
+floor slab
+il solaio
+
+skeletal structure
+la struttura scheletrica
+
+skeletal
+scheletrico
+
+reinforced concrete
+il cemento armato
+
+to wall up
+murare
+
+armored door
+la porta blindata
+
+false frame
+il falso telaio
+
+roof rafter
+la trave del tetto
+
+header beam
+la trave principale
+
+wooden frame
+l'infisso in legno
+
+wooden house
+la casa di legno
+
+passive house
+la casa passiva
+
+laminated
+lamellare
+
+dowel jointer
+la spinatrice per legno
+
+wood lathe
+il tornio per legno
+
+milling machine
+la fresa
+
+in-wall toilet; wall-mounted toileet
+il water a parete; il water sospeso
+
+on-floor toilet; floor-mounted toilet
+il water a pavimento
+
+department store
+il grande magazzino
+
+floor joist
+la trave del pavimento
+
+ceiling joist
+la trave del soffitto
+
+judicial overreach
+l'abuso giudiziario

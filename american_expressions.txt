@@ -997,7 +997,7 @@ like mother, like daughter
 come madre, come figlia; tale madre, tale figlia
 
 the apple doesn't fall far from the tree
-la mela non cade mai lontana dall'albero
+la mela non cade mai lontana dall'albero; tale padre, tale figlio
 
 to strike while the iron is hot; to make hay while the sun shines
 battere il ferro finché è caldo
@@ -5114,4 +5114,7 @@ strappare via la crosta
 
 to be a lemon (has lots of problems, often for a car)
 essere un bidone
+
+it's the pits
+è una seccatura
 
