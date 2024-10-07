@@ -8650,8 +8650,8 @@ la fantascienza
 landscape
 il paesaggio
 
-to surf the internet
-navigare su internet; navigare in internet
+to surf the internet; to surf the web
+navigare su internet; navigare in internet; navigare sul web
 
 I don't know where to begin
 non so da dove cominciare
@@ -69502,9 +69502,6 @@ la forza centripeta
 
 charging port; charging socket
 la presa di ricarica
-
-to surf the web
-navigare in internet; navigare sul web
 
 to surf the net
 navigare in rete
