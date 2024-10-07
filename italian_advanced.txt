@@ -77615,3 +77615,6 @@ la lampada fluorescente
 
 incandescent light
 la lampada incandescenza
+
+single pour
+l'unica colata
