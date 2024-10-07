@@ -32816,7 +32816,7 @@ for some time; long ago
 da tempo
 
 background noise
-il rumore di fondo
+il rumore di fondo; il rumore di sottofondo
 
 the overall goal
 l'obiettivo generale
@@ -77588,4 +77588,19 @@ epocale
 
 to take charge of; to take responsibility for
 prendersi carica di
+
+to have a calming effect
+avere un effetto calmante
+
+to be practical
+essere pratici
+
+to put on music
+mettere musica
+
+to make work
+far funzionare
+
+to explore options
+esplorre opzioni
 
