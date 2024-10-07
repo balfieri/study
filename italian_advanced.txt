@@ -2365,7 +2365,7 @@ prossimo; seguente; imminente; previsto
 imminent
 imminente
 
-to relax; to chill; to unwind; to chill out
+to relax; to chill; to unwind; to chill out; to wind down
 rilassarsi; darsi una calmata
 
 skeleton
@@ -8230,7 +8230,7 @@ la pena di morte
 county
 la contea
 
-irritable; cranky
+irritable; cranky; easily angered
 irritabile
 
 irascible; cantankerous; ill-tempered
@@ -24829,7 +24829,7 @@ la giustificazione
 wonder
 la meraviglia
 
-to grumble; to complain (in low, rumbling voice)
+to grumble; to complain (in low, rumbling voice); to be grouchy
 brontolare
 
 before and after
@@ -33241,7 +33241,7 @@ il rame
 zinc
 lo zinco
 
-mold
+mold (biology)
 la muffa
 
 holding; stock; stock share
@@ -34333,8 +34333,8 @@ l'attraversamento fuori dalle strisce pedonali
 hot chocolate
 la cioccolata calda
 
-grumpy person
-il brontolone
+grumpy person; curmudgeon; grouch
+il brontolone; la brontolona
 
 to keep up with (somebody); to hang with (somebody); to keep pace with (somebody)
 tenere il passo con (qualcuno)
@@ -58229,8 +58229,11 @@ mostruoso
 mountain hut
 la baita montana
 
-hut
+cabin; hut (mountain, solid build)
 la baita
+
+cabin; hut (general, rudimentary build)
+la capanna
 
 imbalance
 lo scompenso
@@ -69227,8 +69230,8 @@ il raddoppio
 overworked; overtired; scrambled (eggs)
 strapazzato
 
-grouchy; irritable; grumpy
-brontolone
+grouchy; grumpy; curmudgeonly
+brontolone; brontolona
 
 coral
 corallo
@@ -77525,3 +77528,64 @@ la trave del soffitto
 
 judicial overreach
 l'abuso giudiziario
+
+if it goes well; if it turns out well
+se va bene
+
+masterful
+magistrale
+
+to whet one's beak
+bagnare il becco
+
+to canonize
+canonizzare
+
+canonized
+canonizzato
+
+trope
+il tropo
+
+gamma ray
+il raggio gamma
+
+blunt; trenchant
+tranchant
+
+glimmer
+il barlume
+
+rotten
+marcito
+
+progeria
+la progeria
+
+to swell
+ingrossare
+
+swollen
+ingrossato
+
+enlarged prostate
+prostata ingrossata
+
+wooden hut
+la capanna di legno
+
+pocket door
+la porta a scomparsa
+
+right angle
+l'angolo retto
+
+tint; stain (wood)
+la tinta
+
+to apply a stain
+applicare una tinta
+
+epochal
+epocale
+
