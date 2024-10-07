@@ -844,7 +844,7 @@ la luna
 sun
 il sole
 
-light (noun)
+light (emission)
 la luce
 
 key
@@ -1783,7 +1783,7 @@ la casalinga
 ceiling
 il soffitto
 
-lamp
+lamp; light (device)
 la lampada
 
 wardrobe; closet
