@@ -15466,7 +15466,7 @@ labile
 all the way; until the end
 fino in fondo
 
-built-in; built into
+built-in; built into; embedded in; embedded into
 incorporato; integrato; incluso
 
 microcosm
@@ -52948,7 +52948,7 @@ l'ottimista
 I'm working very hard on my Italian
 sto lavorando molto duramente sul mio italiano
 
-to lower; to drop
+to lower; to drop; to subside
 calare
 
 well-dressed; well-put; well-put-together
@@ -77618,3 +77618,45 @@ la lampada incandescenza
 
 single pour
 l'unica colata
+
+duster
+lo spolverino
+
+air duster
+lo spolverino ad aria
+
+knick-knack; ornament
+il soprammobile
+
+building supplies
+i materiali da costruzione
+
+roof shingle
+la tegola
+
+to have the final say on; to have the last word on
+avere l'ultima parola su
+
+to give blood
+dare sangue
+
+amber
+l'ambrato
+
+muppet
+il muppet
+
+to have all the time in the world
+avere tutto il tempo del mondo
+
+to get frustrated
+frustrarsi
+
+fast-paced
+a ritmo veloce
+
+frivolous
+frivolo
+
+for lack of
+per mancanza di
