@@ -1498,7 +1498,7 @@ la truffa
 educated
 istruito
 
-garden; yard (vegetation)
+yard (all vegetation)
 il giardino
 
 instead of (noun, infinitive)
@@ -2626,7 +2626,7 @@ sperare
 to ensure; to assure; to insure
 assicurare
 
-to desire
+to desire; to crave
 desiderare
 
 to study
@@ -3418,7 +3418,7 @@ il gelato
 cake
 la torta
 
-garden; vegetable garden
+garden (fruits, vegatables)
 l'orto
 
 ground; land; soil
