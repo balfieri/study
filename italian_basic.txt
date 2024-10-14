@@ -2989,7 +2989,7 @@ arrabbiarsi
 to call oneself; to be called; to be named
 chiamarsi
 
-to meet
+to meet; to get acquainted
 conoscersi
 
 to complain
@@ -5335,7 +5335,7 @@ la tradizione
 occasion
 l'occasione
 
-construction
+construction; construct
 la costruzione
 
 experience

@@ -4333,7 +4333,7 @@ scombinato
 in the foreground
 in primo piano
 
-thrust; push
+thrust; push; boost
 la spinta
 
 expendable; marketable
@@ -7097,7 +7097,7 @@ to delight; to amuse
 dilettare
 
 to investigate; to explore; to research
-indagare
+indagare su
 
 to hang around; to putz around; to stroll; to roam; to saunter; to hover; to wander around (inactive)
 gironzolare; bighellonare
@@ -10030,7 +10030,7 @@ il dolore al petto; il male al petto
 water-cooled
 raffreddato ad acqua
 
-sticker
+sticker; adhesive
 l'adesivo
 
 persecution complex
@@ -15589,7 +15589,7 @@ la nostra prossima generazione
 to recreate; to reproduce; to play (video, song); to play back
 riprodurre; ricreare
 
-to overload; to overcharge
+to overload; to overcharge; to overburden
 sovraccaricare
 
 jaw
@@ -17924,7 +17924,7 @@ to take root; to attach
 attecchire
 
 linguist
-il linguista; il glottologo
+il linguista; la linguista; il glottologo; la glottologa
 
 accustomed; habituated
 avvezzo
@@ -32848,9 +32848,6 @@ fratellare
 soupy; watery
 brodoso
 
-to investigate a problem
-indaganare su un problema
-
 close enough
 abbastanza vicino; ci sei andato vicino
 
@@ -36381,9 +36378,6 @@ il check-up; il controllo medico
 
 locator; tracking device
 il localizzatore
-
-to investigate
-indagare su
 
 to ask around
 chiedere in giro
@@ -44365,7 +44359,7 @@ il mascalzone
 to have a brain
 avere cervello
 
-to pierce; to perforate; to punch (holes)
+to pierce; to perforate; to punch (holes); to bore
 forare
 
 greyness
@@ -44815,7 +44809,7 @@ il tappeto d'area
 stair railing
 il corrimano per scale
 
-bannister
+bannister; baluster
 la balaustra
 
 barstool
@@ -45904,7 +45898,7 @@ infilzato
 to riddle
 crivellare
 
-to perforate
+to perforate; to bore through
 perforare
 
 wine shop; wine bar
@@ -62048,7 +62042,7 @@ fronteggiarsi
 board of directors
 il consiglio di amministrazione
 
-to put back
+to put back; to stow
 riporre
 
 outpost
@@ -77751,3 +77745,122 @@ to crave the taste of
 course curriculum
 il programma del corso
 
+additional corrections
+le correzioni aggiuntive
+
+to stow your devices under the seat
+riporre i dispositivi sotto il sedile
+
+stowaway
+il clandestino
+
+indentured servant
+il servo a contratto
+
+except for
+eccetto per
+
+to drop (something)
+far cadere (qualcosa)
+
+to be stuck in rush hour
+essere bloccati nell'ora di punta
+
+to quit school
+lasciare la scuola; abbandonare la scuola
+
+drain pump
+la pompa di drenaggio
+
+tough challenge
+la dura sfida
+
+to graduate at the top of one's class; to graduate with top marks
+laurearsi con massimi voti
+
+to be paid
+essere retribuiti; essere pagati
+
+annual physical
+la visita medica annuale
+
+fluffy pancakes
+i pancake soffici
+
+special exhibit
+la mostra speciale
+
+tradecraft
+l'arte del mestiere
+
+rectal
+rettale
+
+kayak
+kayak
+
+it's tremendous fun
+è un divertimento enorme
+
+wood board
+la tavola di legno
+
+to laminate
+laminare
+
+tabletop
+il piano di lavoro
+
+unjustifiable
+ingiustificabile
+
+justifiable
+giustificabile
+
+in the first degree
+in primo grado
+
+to have an appreciation for
+avere un apprezzamento per
+
+arrondissement
+l'arrondissement
+
+drool
+la bava
+
+to drool
+sbavare
+
+toxic work environment
+l'ambiente di lavoro tossico
+
+yapping dog; yappy dog; a dog that yaps
+il cane che abbaia
+
+to think (something) through
+riflettere attentamente su (qualcosa)
+
+senior quote
+la citazione dell'ultimo anno
+
+lath
+il listello
+
+to get acquainted with
+familiarizzarsi con
+
+to be flattered
+essere lusingati
+
+that's where they belong
+è lì che appartengono
+
+to change the topic of the conversation
+cambiare argomento della conversazione
+
+what's going on these days?
+cosa sta succedendo in questi giorni?
+
+to drop out of high school
+abbandonare il liceo
