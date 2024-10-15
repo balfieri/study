@@ -3061,7 +3061,7 @@ l'inquilino
 scattered everywhere
 scarsi ovunque
 
-to hang freely
+to hang freely; to hang up
 appendere
 
 upside-down
@@ -77864,3 +77864,52 @@ cosa sta succedendo in questi giorni?
 
 to drop out of high school
 abbandonare il liceo
+
+to learn (become more aware, formal)
+apprendere
+
+rot
+il marciume
+
+wood rot
+il marciume del legno
+
+rotten wood
+il legno marcio
+
+to get rid of (something) in favor of (something else)
+liberarsi di (qualcosa) a favore di (qualcos'altro)
+
+to hang tools
+appendere strumenti; appendere attrezzi
+
+homeless person
+la persona senzatetto
+
+walnut tree
+l'albero di noce
+
+to collapse
+colossare
+
+to enlarge
+ingigantire
+
+flag pole
+l'asta della bandiera
+
+let me run this up the flag pole and see what they say
+fammi sottoporre questo all'asta della bandiera e vediamo cosa dicono
+
+to get feedback on
+ottenere feedback su
+
+to give feedback on
+dare feedback su
+
+are you ok with that?
+sei d'accordo con quello?
+
+are you ok with this?
+sei d'accordo con questo?
+
