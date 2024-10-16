@@ -8392,7 +8392,7 @@ l'erede
 stacks
 gli scaffali
 
-dense
+dense; thick
 denso; fitto
 
 Zurich
@@ -26611,7 +26611,7 @@ la cupola
 engraved
 inciso
 
-belly
+belly; underbelly
 il ventre
 
 mosaic
@@ -76328,7 +76328,7 @@ lo studente dei corsi di laurea triennale
 to do a little more investigation
 fare un po' più di indagini
 
-the bottom part of
+the bottom part of; to underside of
 la parte inferiore di
 
 the top part of
@@ -77912,4 +77912,13 @@ sei d'accordo con quello?
 
 are you ok with this?
 sei d'accordo con questo?
+
+deficit
+il deficit
+
+in deficit
+in deficit
+
+thick paste
+la pasta densa
 

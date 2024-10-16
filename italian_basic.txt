@@ -6556,7 +6556,7 @@ soddisfare
 built; assembled; constructed
 costruito
 
-power
+power; powerhouse
 la potenza
 
 written
