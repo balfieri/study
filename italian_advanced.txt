@@ -16655,7 +16655,7 @@ to overthrow the government
 rovesciare il governo
 
 plywood
-il legno compensato
+il compensato; il legno compensato
 
 presumably; supposedly
 presumibilmente; suppostamente
@@ -31622,7 +31622,7 @@ to make up for; to compensate
 compensare
 
 caulk
-lo stucco; il sigillante
+il sigillante; il stucco sigillante
 
 to plaster; to grout; to stucco
 stuccare
@@ -75267,7 +75267,7 @@ think about it
 pensaci; pensateci
 
 door frame (structural); door jamb
-il telaio della porta
+il telaio della porta; il serramento
 
 door frame (decorative); door trim
 la cornice della porta
@@ -77921,4 +77921,19 @@ in deficit
 
 thick paste
 la pasta densa
+
+grinder
+la smerigliatrice
+
+window frame; door frame
+il serramento
+
+to grind (sand, metals); to polish
+smerigliare
+
+sanding
+la levigatura
+
+polishing
+la lucidatura
 
