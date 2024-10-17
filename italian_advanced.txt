@@ -1522,7 +1522,7 @@ in corso; in progresso; in fieri
 shadow; shade
 l'ombra
 
-hanging; suspended
+hanging; suspended; floating (bookshelf)
 sospeso
 
 to hang oneself
@@ -78005,4 +78005,10 @@ fa tutto parte del
 
 secret plan
 il piano segreto
+
+floating desk
+la scrivania sospesa
+
+floating bookshelf
+la mensola sospesa
 
