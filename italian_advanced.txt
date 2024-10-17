@@ -33085,6 +33085,9 @@ il frutto
 grain (wood); vein
 la venatura
 
+wood grain
+la venatura del legno
+
 facet
 la sfaccettatura
 
