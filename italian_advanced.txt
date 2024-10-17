@@ -77997,3 +77997,6 @@ essere l'abbreviazione di (qualcosa)
 oak wood
 il legno di quercia
 
+metallic
+metallico
+
