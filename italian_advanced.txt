@@ -76334,10 +76334,10 @@ lo studente dei corsi di laurea triennale
 to do a little more investigation
 fare un po' più di indagini
 
-the bottom part of; to underside of
+the bottom of; the bottom part of; to underside of
 la parte inferiore di
 
-the top part of
+the top of; the top part of
 la parte superiore di
 
 the left part of
@@ -78104,3 +78104,7 @@ abitativo
 
 public housing
 l'edilizia popolare
+
+to warp; to deform
+deformarsi
+
