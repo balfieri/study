@@ -172,7 +172,7 @@ bravo
 slow
 lento
 
-light (adjective)
+light (weight, adjective)
 leggero
 
 heavy

@@ -601,7 +601,7 @@ abbindolare
 how wonderful
 che meraviglia
 
-to split; to cleave; to break
+to split; to cleave; to break; to rock; to be awesome
 spaccare
 
 playful; joking
@@ -11677,7 +11677,7 @@ la scorreggia; la scoreggia
 to fart; to make incorrect; to correct wrongly
 scorreggere; fare un peto
 
-definitely; necessarily; of course; naturally; obviously; absolutely; surely; for sure; by force
+inevitably; definitely; naturally; obviously; necessarily; of course; absolutely; surely; for sure; by force
 per forza
 
 syndrome
@@ -21418,7 +21418,7 @@ la miseria
 reproduction; playback
 la riproduzione
 
-mild; light; slight
+mild; light; slight; gentle; not severe
 lieve
 
 bibliography
@@ -45679,7 +45679,7 @@ l'ambientazione
 blinded
 accecato
 
-evil; wickedness
+evil; wickedness; villainy
 la malvagità
 
 firstly; in the first place
@@ -75891,7 +75891,7 @@ a due componenti
 l'epossidico a due componenti
 
 wood filler
-lo stucco per legno
+il riempitivo di legno; lo stucco per legno
 
 joint compound
 lo stucco per giunti
@@ -78149,4 +78149,106 @@ le natiche
 
 to snuggle up to (somebody)
 coccolarsi con (qualcuno)
+
+opaque color; dull color
+colore opaco
+
+opaque paint; opaque varnish
+la vernice opaca
+
+villain
+il cattivo
+
+to be accountable to (someone)
+rendere conto a (qualcuno)
+
+to account for (something)
+rendere conto di (qualcosa)
+
+to pay homage to
+rendere omaggio a
+
+to do justice to
+rendere giustizia a
+
+executed (killed by justice system)
+giustiziato
+
+to execute (kill by justice system)
+giustiziare
+
+two drops of rain
+due gocce di pioggia
+
+it rains intermittently
+piove a sprazzi
+
+incessant rain
+la pioggia incessante
+
+drizzle
+la pioggerella
+
+light drizzle
+la pioggerellina
+
+it's pouring
+piove a secchiate
+
+it's coming down (rain)
+viene giù
+
+it's about to rain
+viene da piovere
+
+the patter of rain
+lo scroscio della pioggia
+
+to pour (rain)
+scrosciare
+
+to tap
+picchiettare
+
+taps
+la picchietta
+
+rain shower
+il piovasco
+
+truck driver
+il camionista; la camionista
+
+to learn stuff
+imparare cose
+
+shellac
+la gommalacca
+
+to repel water
+respingere l'acqua
+
+green bean
+il fagiolino
+
+to think it over
+pensarci su
+
+thread of the conversation; train of thought
+il filo del discorso
+
+to meet again
+riverdersi
+
+thirsty
+assetato
+
+wood preservative
+l'impregnante
+
+charcuterie board
+il tagliere di salumi
+
+at the base
+alla base
 
