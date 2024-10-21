@@ -2986,7 +2986,7 @@ scomparso
 turn; turning point
 la svolta
 
-to unleash; to provoke; to stir up; to trigger
+to unleash; to spark; to provoke; to stir up; to trigger
 scatenare
 
 along the same lines
@@ -8510,7 +8510,7 @@ to abstain; to refrain
 astenersi
 
 to trigger; to prime
-innescare
+innescare; scatenare
 
 long-lasting; lasting; durable; enduring
 duraturo
