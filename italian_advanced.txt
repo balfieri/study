@@ -15043,8 +15043,8 @@ dettare legge
 to speak one's mind; to speak frankly
 parlare francamente
 
-to stand one's ground
-mantenere la propria posizione
+to stand one's ground; to stick to one's guns
+mantenere la propria posizione; tener duro
 
 to be stubborn as a mule
 essere testardi come un mulo
@@ -15679,7 +15679,7 @@ il tumore maligno
 malignant
 maligno
 
-appropriate; fitting; dutiful; proper
+due; obligatory; appropriate; fitting; dutiful; proper
 doveroso
 
 to be funny; to be clever
@@ -16932,9 +16932,6 @@ manco per sogno!
 
 hands up
 mani in alto
-
-to stick to one's guns
-mantenere la propria posizione; tener duro
 
 I get by
 me la cavo
@@ -78251,4 +78248,31 @@ il tagliere di salumi
 
 at the base
 alla base
+
+the canvas
+la tela
+
+disintegration
+sdisgregazione
+
+on one's watch
+sotto la propria responsabilità
+
+to stand up for oneself
+difendere se stessi
+
+to stand firm
+rimanere fermo
+
+to refuse to back down
+rifiutare di cedere
+
+within a month
+nel giro di un mese
+
+within a year
+nel giro di un anno
+
+acrimony
+l'acrimonia
 
