@@ -197,7 +197,7 @@ so that; in order to (purpose)
 affinché
 
 until; until the moment before
-fino a; finché non (congiuntivo)
+fino a; finché non
 
 through the moment in which
 finchè (indicativo)
@@ -20045,7 +20045,7 @@ reduced
 ridotto
 
 until; till
-finché
+finché (indicativo se certo)
 
 parlametary
 parlamentare
@@ -22544,7 +22544,7 @@ rancid
 rancido
 
 not until
-non finché non
+non finché non (indicativo se certo)
 
 to disassociate
 dissociare; dissociarsi
