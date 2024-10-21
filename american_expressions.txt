@@ -2245,7 +2245,7 @@ on a fishing expedition
 cercando di scoprire informazioni in modo indiretto
 
 monkey business
-il comportamento dispettoso o ingannevole
+il comportamento dispettoso; il comportamento ingannevole
 
 there's plenty of fish in the sea
 ci sono molti altri uomini; ci sono molte altre donne
@@ -2275,7 +2275,7 @@ to call the shots
 prendere decisioni; essere al comando
 
 a cheap shot
-un attacco o una critica ingiusta
+un attacco ingiusto; una critica ingiusta
 
 dead ringer for (somebody)
 il sosia di (qualcosa)
@@ -2308,7 +2308,7 @@ to make the cut
 passare alla fase successiva; essere selezionati; farcela
 
 to move the goalposts
-cambiare le regole o gli obiettivi per ingannare un avversario
+cambiare le regole (o gli obiettivi) per ingannare un avversario
 
 out of my league
 fuori dalla mia portata; oltre le mie capacità; troppo difficile per me; troppo bella per me
@@ -2323,16 +2323,16 @@ the ball is in your court
 tocca a te agire; sta a te
 
 to go to bat for (somebody)
-sostenere o difendere qualcuno
+sostenere (qualcuno); difendere (qualcuno)
 
 to run interference
-creare una distrazione o un ostacolo
+creare una distrazione; creare un ostacolo
 
 to take sides
-scegliere una parte o una posizione
+scegliere una parte; sceglere una posizione
 
 to toe the line
-seguire le regole o le linee guida
+seguire le regole; seguire le linee guida
 
 to apply some elbow grease
 lavorare sodo; mettere impegno
@@ -2341,7 +2341,7 @@ bare-bones
 minimo; essenziale
 
 to be a bundle of nerves
-essere molto ansiosi o tesi
+essere molto ansiosi; essere molto tesi
 
 by the skin of your teeth
 per un pelo; appena
@@ -2362,16 +2362,16 @@ joined at the hip
 amici molto stretti; inseparabili
 
 to keep (someone) at arm's length
-mantenere le distanze da qualcosa o qualcuno
+mantenere le distanze da (qualcosa)
 
 elbow room
-spazio per muoversi o lavorare
+lo spazio per muoversi; lo spazio per lavorare
 
 no skin off my back
 non mi dà fastidio; non mi riguarda
 
 to pick (somebody's) brain
-chiedere il parere o le idee di qualcuno
+chiedere il parere di (qualcuno); chiedere le idee di (qualcuno)
 
 to play it by ear
 improvvisare; decidere come affrontare una situazione man mano che si sviluppa
@@ -2380,7 +2380,7 @@ to stick one's neck out
 correre un rischio; mettersi in una posizione vulnerabile
 
 neck of the woods
-la zona locale o quartiere
+la zona locale; la zona quartiere
 
 bought the farm
 morto; deceduto
@@ -2389,10 +2389,10 @@ going forward
 d'ora in poi; in futuro
 
 to jump on the bandwagon
-seguire una tendenza o un'attività popolare
+seguire una tendenza; seguire un'attività popolare
 
 to hold the line
-mantenere una posizione o rimanere fermi su una questione
+mantenere una posizione; rimanere fermi su una questione
 
 to give (something) a fair shake
 dare una possibilità a qualcosa; valutare qualcosa in modo equo
@@ -2400,23 +2400,23 @@ dare una possibilità a qualcosa; valutare qualcosa in modo equo
 looney tunes
 pazzo; folle
 
-to pass the buck
-scaricare la responsabilità o la colpa su qualcun altro
+to pass the buck to (somebody)
+scaricare la responsabilità su (qualcuno); scaricare la colpa su (qualcuno)
 
 to reach out to (somebody)
 contattare (qualcuno); comunicare con (qualcuno)
 
 that really knocks my socks off
-questo mi colpisce o mi stupisce davvero
+questo mi colpisce davvero; questo mi stupisce davvero
 
-to take a rain check
-rimandare o posticipare qualcosa
+to take a rain check on (something)
+rimandare (qualcosa); posticipare (qualcosa)
 
 top of the line
-il meglio o la qualità più alta
+il meglio; la qualità più alta
 
 to touch base with (somebody)
-mettersi in contatto o fare il punto con (qualcuno)
+mettersi in contatto con (qualcuno); fare il punto con (qualcuno)
 
 your John Handcock
 la tua firma
@@ -2563,7 +2563,7 @@ to fly too close to the sun
 volare troppo vicino al sole
 
 artsy-fartsy
-artistico in modo pretenzioso o affettato
+artistico in modo pretenzioso; artistico in modo affettato
 
 to pull out all the stops
 tirare fuori tutto
@@ -3259,7 +3259,7 @@ at the drop of a hat
 immediatamente; senza esitazione; per un nonnulla
 
 a turn-on
-(qualcosa/qualcuna) attraente o sexy
+(qualcosa/qualcuna) attraente; sexy
 
 it's all downhill from here (positive)
 da qui in poi sarà tutto più facile
@@ -3277,7 +3277,7 @@ to have the hots for (somebody)
 essere molto attratti da (qualcuno); provare un forte desiderio sessuale per (qualcuno)
 
 to sour on (somebody)
-perdere interesse o pazienza per (qualcuno); iniziare a non piacere (qualcuno)
+perdere interesse per (qualcuno); perdere pazienza per (qualcuno); iniziare a non piacere (qualcuno)
 
 dad bod
 il corpo del padre; il fisico del papà
@@ -4054,7 +4054,7 @@ get-up-and-go
 la voglia di fare molte cose
 
 to get a bang out of (something/someone)
-trovare (qualcuno) molto divertente o interessante
+trovare (qualcuno) molto divertente (o interessante)
 
 to get a busy signal
 quando si telefona e sente il segnale di occupato 
@@ -4072,7 +4072,7 @@ to get a handle on (something)
 capire veramente (qualcosa)
 
 to get a kick out of (something/someone)
-trovare (qualcosa/qualcuno) molto divertente o interessante
+trovare (qualcosa/qualcuno) molto divertente (o interessante)
 
 to get a leg up on
 avere un vantaggio su
@@ -4426,7 +4426,7 @@ to get on (someone’s) nerves
 dare sui nervi a (qualcuno)
 
 to get on the bandwagon
-accettare un'idea o iniziare a partecipare a un movimento
+accettare un'idea; iniziare a partecipare a un movimento
 
 to get on the road; to hit the road
 partire (spesso in macchina); mettersi in marcia
@@ -4435,7 +4435,7 @@ to get on top of things
 organizzarsi per poter fare dei compiti a lavoro o in casa
 
 to get one for free
-ricevere (qualcosa) senza pagare o senza sforzi
+ricevere (qualcosa) senza pagare; ricevere (qualcosa) senza sforzi
 
 to get one's bell rung
 subire una sconfitta (di solito inaspettatamente)
@@ -4447,10 +4447,10 @@ to get one's clock cleaned
 subire una sconfitta
 
 to get one's drift
-capire la maggior parte di quello che un'altra persona sta dicendo o indicando
+capire la maggior parte di quello che un'altra persona sta dicendo (o indicando)
 
 to get one's foot in the door
-forzare il piede nella porta di una situazione nuova per prendere un vantaggio o lavoro
+forzare il piede nella porta di una situazione nuova per prendere un vantaggio (o lavoro)
 
 to get one’s freak on
 diventare arrappati in un modo aggressivo (di solito se la dice scherzosamente)
@@ -4471,7 +4471,7 @@ to get one's kicks from (something)
 divertirsi a fare (qualcosa)
 
 to get one's money's worth
-ricevere molto per quello che si ha pagato o fatto
+ricevere molto per quello che si ha pagato; ricevere molto per quello che si ha fatto
 
 to get one's panties in a bunch; to get one's shorts in a knot
 preoccuparsi troppo (inutilmente) 
@@ -4492,7 +4492,7 @@ to get one's ticket punched
 ricevere approvazione per far (qualcosa) d’importante nel prossimo futuro
 
 to get one's way
-prendere o ricevere quello che si vuole (spesso con una connotazione negativa)
+prendere quello che si vuole; ricevere quello che si vuole (spesso con una connotazione negativa)
 
 to get one's wings
 in aviazione, diventare un pilota (ma di solito va usato figurativamente)
@@ -4561,7 +4561,7 @@ to get psyched; to get pumped up
 diventare entusiasti; non vedere l’ora
 
 to get put away
-andare in prigione o ospedale psichiatrico
+andare in prigione; andare in ospedale psichiatrico
 
 to get put down
 fare l'eutanasia (animale)
@@ -4705,7 +4705,7 @@ to get stupid drunk
 ubraicarsi tantissimo
 
 to get taken aback
-sentirsi disorientati o sbalorditi
+sentirsi disorientati; sentirsi sbalorditi
 
 to get taken advantage of
 essere sfruttati
@@ -4753,7 +4753,7 @@ to get the bird; to get flipped the bird
 ricevere il dito medio (da qualcuno)
 
 to get the boot
-venir licenziati o chiudere con (qualcuno)
+venir licenziati; chiudere con (qualcuno)
 
 to get the crap beaten out of oneself
 venir picchiati brutalmente
@@ -4765,7 +4765,7 @@ to get the goods on (somebody)
 trovare informazioni confidenziali e spesso dannose 
 
 to get the hang of (something)
-cominciare a poter fare o capire (qualcosa)
+cominciare a poter fare (qualcosa); cominciare a poter capire (qualcosa)
 
 to get the hook (old saying)
 venir licenziati; venir allontanati
@@ -4780,7 +4780,7 @@ to get a jump on (something)
 avere voglia di fare (qualcosa); essere proattivi
 
 to get the message
-capire il secondo o nascosto senso di (qualcosa)
+capire il secondo di (qualcosa); capire il nascosto senso di (qualcosa)
 
 to get the monkey off one's back
 completare un obiettivo dopo molto tempo
@@ -4819,7 +4819,7 @@ to get the wrong idea
 fraintendere (in particolare a proposito dei rapporti interpersonali)
 
 to get there
-arrivare lì (letteralmente o figurativamente)
+arrivare lì
 
 to get there from here
 trovare una strada per raggiungere un obiettivo
@@ -4843,7 +4843,7 @@ to get to home; to get to home base
 avere rapporti sessuali
 
 to get to (someone)
-costringere o ricattare (qualcuno)
+costringere (qualcuno); ricattare (qualcuno)
 
 to get to the bottom of (something)
 cercare la ragione per cui (qualcosa) è accaduto
@@ -4852,10 +4852,10 @@ to get to the bottom of things
 cercare la ragione per cui (qualcosa) è accaduto (ma quando la situazione è meno specifica e più complessa)
 
 to get to (someplace)
-arrivare o giungere a qualche posto
+arrivare a (qualche posto); giungere a (qualche posto)
 
 to get to the promised land
-raggiungere un obiettivo che sembra impossibile o da lontano
+raggiungere un obiettivo che sembra impossibile (o da lontano)
 
 to get to the top of the mountain; to get to the mountain top
 raggiungere l’ultimo obiettivo
@@ -4891,7 +4891,7 @@ to get with it
 capire i tempi moderni
 
 to get with the program
-giungere ad un movimento o ad un'idea
+giungere ad un movimento; giungere ad un'idea
 
 to get wrapped up in (something)
 diventare molto, forse troppo, coinvolti in (qualcosa)
@@ -4903,7 +4903,7 @@ to get ahead of the game
 essere proattivi; ottenere un vantaggio
 
 to get a slap on the wrist
-ricevere una lieve punizione o rimprovero
+ricevere una lieve punizione; ricevere un lieve rimprovero
 
 to get one's ducks in a row
 mettere tutto in ordine; avere tutto sotto controllo
@@ -4912,7 +4912,7 @@ it gets my goat
 mi dà fastidio; mi irrita
 
 to get (something) off your chest
-esprimere i propri sentimenti o pensieri; liberasi di (qualcosa)
+esprimere i propri sentimenti; esprimere i propri pensieri; liberasi di (qualcosa)
 
 to get nailed for (something)
 venir beccati a fare (qualcosa)
