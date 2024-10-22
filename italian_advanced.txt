@@ -9706,7 +9706,7 @@ l'interruttore della luce
 to lock the door
 chiudere a chiave la porta
 
-to graze; to barely touch
+to graze; to barely touch; to brush against; to brush up against; to come close to
 sfiorare
 
 to get it right; to nail; to guess (right); to hit; to strike
@@ -12551,7 +12551,7 @@ balderdash; baloney; hooey; rubbish
 le frottole
 
 machine gun
-la mitraglia
+la mitraglia; il mitragliatore
 
 tambourine
 il tamburello
@@ -20897,7 +20897,7 @@ treatment
 trattazione
 
 prison; jail
-il prigione; il carcere
+la prigione; il carcere
 
 behavior; conduct
 il comportamento; il portamento
@@ -25631,7 +25631,7 @@ mature
 maturo
 
 dungeon
-la segreta
+la prigione sottoterrana; la segreta
 
 diary
 il diario
@@ -26383,7 +26383,7 @@ il cavatappi
 it is not meant to be (something)
 non vuol essere (qualcosa)
 
-extravagant; bizzare
+extravagant; bizzare; outlandish
 stravagante
 
 somewhat; rather
@@ -45112,7 +45112,7 @@ supplicare; chiedere l'elemosina; mendicare
 to mount; to assemble; to ride
 montare
 
-to assemble
+to assemble; to piece together
 assemblare
 
 robot vacuum cleaner
@@ -49873,7 +49873,7 @@ faticosamente
 nonconformist (rebellious)
 l'anticonformista
 
-abyss
+abyss; chasm
 il baratro; l'abisso
 
 uprooting; eradication
@@ -78296,3 +78296,88 @@ la sostenibilità a lungo termine
 
 gorgon; Medusa
 la gorgone
+
+role play
+il gioco di ruolo
+
+refugee
+il rifugiato; la rifugiata
+
+unfounded
+infondato
+
+to confront
+confuntare
+
+the then (something)
+l'allora (qualcosa)
+
+to secure by decree
+blindare per decreto
+
+countermove
+la contromossa
+
+to delegitimize
+delegittimare
+
+to legitimize
+leggittimare
+
+to slip away
+sbirolare
+
+to repatriate
+rimpatriare
+
+1st-grade teacher
+l'insegnante di prima elementare
+
+1st grade (school)
+il primo anno (scuola)
+
+God forbid (something)
+Dio non voglia (qualcosa)
+
+to get a foot in the door
+mettere un piede nella porta
+
+foothold
+l'appiglio; il punto d'appoggio
+
+to establish a foothold
+stabilire un punto d'appoggio
+
+erratic behavior
+il comportamento erratico
+
+to cross the chasm
+attraversare il baratro
+
+speed measurement
+la misurazione della velocità
+
+to keep someone on good terms
+tenersi buono
+
+to keep oneself in good standing
+tenersi in buona
+
+to keep standing
+tenere in piedi
+
+to keep to oneself
+tenere per sé; tenerselo per sé
+
+manufacturing
+la manifattura
+
+to keep faith
+tenere fede
+
+to keep in the dark
+tenere all'oscuro
+
+rivet
+il rivetto
+
