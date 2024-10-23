@@ -11893,7 +11893,7 @@ il bollettino
 after the meal
 a fine pasto
 
-to flaunt; to show off
+to flaunt; to show off; to rock
 sfoggiare
 
 abundant
@@ -13069,7 +13069,7 @@ appassionato; entusiasta
 to specify; to make clear; to state
 precisare
 
-recognition; acknowledgement
+recognition; acknowledgement; accolade
 il riconoscimento
 
 proficiency; competence
@@ -78515,3 +78515,16 @@ la passione lavorativa
 
 non-work passions
 la passione non lavorativa
+
+poor behavior
+il comportamento scorretto
+
+charming man
+l'uomo affascinante
+
+inured
+assuefatto
+
+rocket science
+la scienza missilistica
+

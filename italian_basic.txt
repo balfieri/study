@@ -1786,7 +1786,7 @@ il soffitto
 lamp; light (device)
 la lampada
 
-wardrobe; closet
+closet; wardrobe (physical)
 l'armadio
 
 keyboard; keyboards (music)
