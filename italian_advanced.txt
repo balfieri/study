@@ -4097,7 +4097,7 @@ to impeach
 incriminare; mettere sotto accusa
 
 maybe; perhaps; possibly; it could be; it might be
-può darsi
+può darsi; può essere
 
 to happen; to take place (self-causation)
 darsi
@@ -9133,9 +9133,6 @@ il che è bene
 imagine the type
 figurati il tipo
 
-unambiguous
-univoco
-
 cutting board; platter
 il tagliere
 
@@ -11128,7 +11125,7 @@ le apparecchiature
 rock; cliff
 lo scoglio; la scoglia
 
-to tremble; to shake; to quiver
+to tremble; to shake; to quiver; to shudder
 tremare
 
 to beckon; to mention
@@ -17302,9 +17299,6 @@ il poliuretano
 to layer; to stratify
 stratificare
 
-varnish; clear coat; paint
-la vernice
-
 coat of paint
 la mano di vernice
 
@@ -23137,7 +23131,7 @@ tossire
 to clarify
 chiarire
 
-to force; to constrain; to coerce
+to force; to constrain; to coerce; to strong-arm
 costringere
 
 to reserve
@@ -31265,7 +31259,28 @@ volt
 il volt
 
 impressionist painting
-la pittura impressionista; il quadro impressionista
+il quadro impressionista; la pittura impressionista
+
+varnish; clear coat; paint (broad term)
+la vernice
+
+water-based paint
+la pittura a base d'acqua; la vernice a base d'acqua
+
+acrylic paint
+la pittura a base di acrilica
+
+oil-based paint
+la pittura a base di solvente; la pittura di base di smalto; la pittura a base di olio la vernice a base di olio
+
+washable paint
+la pittura lavabile
+
+breathable paint
+la pittura traspirante
+
+exterior paint
+la pittura per esterni
 
 not only that
 non solo; non solo quello
@@ -34549,7 +34564,7 @@ allungato
 edgy (non-conformist)
 di tendenza; non conformista
 
-I consider that; I think that (more considered opinion)
+I consider that; I think that; I believe that (strongly-formed opinion)
 ritengo che
 
 to feel all in pieces
@@ -51979,9 +51994,6 @@ paragonabile
 to be surrounded
 farsi circondare
 
-unequivocal
-inequivocabile
-
 gift of the gab
 la parlantina; le doti di eloquenza
 
@@ -53797,7 +53809,7 @@ condurre una vita molto equilibrata
 unbeknownst to him; without his knowledge
 senza che lui lo sappia
 
-sharable
+sharable; acceptable
 condivisibile
 
 the ridicule
@@ -64655,7 +64667,7 @@ intonso
 night owl
 il nottambulo; la nottambula
 
-electoral college
+electoral college; constituency; electoral district
 il collegio elettorale
 
 to show off
@@ -76761,12 +76773,6 @@ il servizio sanitario nazionale (SSN)
 forceful letter
 la lettera forzata
 
-oil-based paint
-la vernice a base di olio
-
-water-based paint
-la vernice a base d'acqua
-
 sexual predator
 il predatore sessuale
 
@@ -78108,11 +78114,14 @@ deformarsi
 they are out of their minds
 sono fuori di testa
 
-to paint the walls
-tinteggiare le pareti; pitturare le pareti
+to paint (non-artistic, prepartion, painting, professional)
+tinteggiare
 
-to paint with paint (walls)
-tinteggiare con la pittura
+to paint (non-artistic, just the paint)
+pitturare
+
+to paint (artistic); to depict
+dipingere
 
 to color the walls
 colorare le pareti
@@ -78380,4 +78389,85 @@ tenere all'oscuro
 
 rivet
 il rivetto
+
+I am convinced that
+sono convinto che
+
+I find that
+trovo che
+
+to take shape
+prendere corpo
+
+unequivocal; unambiguous
+inequivocabile
+
+to shiver; to shudder
+brividire
+
+dinner out
+la cena fuori
+
+peeler
+sbucciatore
+
+I consider it necessary
+ritengo doveroso
+
+I consider it important
+ritengo importante
+
+I am persuaded that
+sono persuaso che
+
+I am not entirely persuaded that
+non sono del tutto persuaso che
+
+I am of the opinion that
+sono dell'opinione che
+
+you will agree with me that
+sarai d'accordo con me che; converrai con me che
+
+it seems to me acceptable that
+mi pare condivisibile che
+
+I have the impression that
+ho l'impressione che
+
+I have the feeling that
+ho la sensazione che
+
+it seems to me that
+mi sembra che; mi pare che
+
+in my view
+a mio avviso
+
+I suppose that
+suppongo che
+
+I find you (adjective)
+ti trovo (aggettivo)
+
+based on my experience
+in base alla mia esperienza
+
+based on what I have read
+in base a quello che ho letto
+
+according to what is said
+secondo quello che si dice
+
+according to what I have heard
+stando a quello che ho sentito
+
+as far as I know
+da quanto ne so
+
+I would say that
+direi che
+
+in my humble opinion
+secondo la modesta opinione
 

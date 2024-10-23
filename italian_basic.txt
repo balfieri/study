@@ -2800,9 +2800,6 @@ risolvere
 to convince
 convincere
 
-to paint (painting); to depict
-dipingere
-
 to move (body, as in gymnastics)
 muovere
 
@@ -3465,12 +3462,6 @@ sono d'accordo
 
 I believe that
 credo che
-
-I am convinced that
-sono convinto che
-
-I find that
-trovo che
 
 for me
 per me
