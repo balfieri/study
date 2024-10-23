@@ -229,7 +229,7 @@ to be under the weather
 essere indisposti (formale); non sentirsi bene
 
 it's not rocket science; you don't have to be a rocket scientist (or brain surgeon); it's a piece of cake; it's a no-brainer
-è un gioco da ragazzi
+non è così difficile!; è un gioco da ragazzi
 
 hang in there! don't give up!
 tieni duro!
@@ -5150,4 +5150,7 @@ scatenare gioia
 
 to put all of one's eggs in one basket
 mettere tutte le uova nello stesso paniere
+
+patience, grasshopper
+pazienza, cavalletta
 

@@ -14782,7 +14782,7 @@ il grande seguito
 house (family); family (noble)
 la casata
 
-up close
+up close; from up close
 da vicino
 
 to get close to; to approach
@@ -78482,3 +78482,36 @@ ingessato
 
 to plaster; to put in a cast; to immobilize
 ingessare
+
+to go sleeveless
+andare senza maniche
+
+I don't believe in that
+non ci credo
+
+to keep people together
+tenere le persone unite
+
+from afar; from the distance
+da lontano
+
+looking at it from afar; looking at it from a distance
+guardandolo da lontano
+
+looking at it from up close; looking at it up close
+guardandolo da vicino
+
+in search of
+alla ricerca di
+
+in search of a more perfect union
+alla ricerca di un'unione più perfetta
+
+what else is there that really matters?
+cos'altro c'è che conta davvero?
+
+work passion
+la passione lavorativa
+
+non-work passions
+la passione non lavorativa
