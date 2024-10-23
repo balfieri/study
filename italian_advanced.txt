@@ -78528,5 +78528,11 @@ assuefatto
 rocket science
 la scienza missilistica
 
+aerospace engineering
+l'ingegneria aerospaziale
+
+aerospace
+aerospaziale
+
 mortality
 la mortalità
