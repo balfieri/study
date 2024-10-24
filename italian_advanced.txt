@@ -55934,7 +55934,7 @@ il moschettone
 block letters
 lo stampatello
 
-moulding
+molding; moulding
 la modanatura
 
 modular
@@ -78549,8 +78549,11 @@ il quartino
 deprave
 depravato
 
+to deprave
+depravare
+
 there's no need to apologize
-non c'è bisogno di scusarsi
+non c'è bisogno di scusarti
 
 conclave
 il conclave
