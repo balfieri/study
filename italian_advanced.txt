@@ -78536,3 +78536,6 @@ aerospaziale
 
 mortality
 la mortalità
+
+if there's any doubt; in case of doubt
+in caso di dubbio
