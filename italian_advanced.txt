@@ -5290,7 +5290,7 @@ il carrello
 pile; battery; stack
 la pila
 
-to drag; to trail; to haul
+to drag; to trail; to haul; to lug
 trascinare
 
 filthy; obcene; dirty
@@ -19471,7 +19471,7 @@ il pirata
 puffy; swollen
 gonfio
 
-to palm off
+to palm off; to pass off
 sbolognare
 
 you'll have to answer to me
@@ -55174,7 +55174,7 @@ il dolore; l'angoscia
 welded; soldered
 saldato
 
-overtaking; surpassing
+overtaking; surpassing; passing
 il sorpasso
 
 bit part
@@ -59924,8 +59924,8 @@ il tempo non aspetta nessuno
 august (adjective)
 augusto
 
+broken; worn out; broken down
 scassato
-broken; worn out
 
 knee ligaments
 il crociato (corpo)
@@ -78557,3 +78557,109 @@ non c'è bisogno di scusarti
 
 conclave
 il conclave
+
+to work in shifts
+prestare servizio su turni
+
+wrong; incorrect; in error
+errato
+
+I thought you'd never ask
+pensavo che non l'avresti mai chiesto
+
+horrible; awful; hideous
+orribile
+
+if you'll excuse me
+se mi scusi
+
+clairvoyance
+la chiaroveggenza
+
+I told him to
+gli ho detto di
+
+be yourself
+sii te stesso
+
+arranged marriage
+il matrimonio combinato
+
+to find a mate
+trovare un partner
+
+expect to pay
+aspettati di pagare
+
+wine cellar
+la cantinetta di vino
+
+space heater
+il termoventilatore; la stufa elettrica
+
+wreck
+il catorcio
+
+beat-up car; clunker
+la macchina scassata
+
+compact car
+l'utilitaria
+
+off-road vehicle
+il fuoristrada
+
+big car
+il macchinone
+
+fully loaded
+superaccessoriato
+
+large-engine
+di grossa cilindrata
+
+to flash headlights
+sfanalare
+
+high beams
+gli abbaglianti
+
+checkpoint
+il posto di blocco
+
+points deduction from the license
+la decurtazione dei punti dalla patente
+
+to drive against traffic
+andare contromano
+
+to peel out
+partire in sgommata
+
+to get stuck in traffic
+rimanere imbottigliato nel traffico
+
+to bottle up
+imbottigliare
+
+exodus
+l'esodo
+
+return exodus
+il controesodo
+
+red alert
+il bollino rosso
+
+black alert
+il bollino nero
+
+to drive
+mettersi alla guida
+
+to show off
+tirarsela
+
+current regulation
+la norma vigente
+
