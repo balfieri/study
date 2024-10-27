@@ -6541,7 +6541,7 @@ il progettista
 to attach; to enclose
 allegare
 
-walk; journey
+walk; journey; path (walked)
 il cammino
 
 hand gesture
@@ -8407,7 +8407,7 @@ la legatoria
 start; startup; beginning
 l'avvio
 
-path; trail (natural)
+path; trail (natural, unpaved)
 il sentiero; il tracciato
 
 bump; shock; collision; impact
