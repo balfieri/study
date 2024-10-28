@@ -1267,9 +1267,6 @@ la catena
 wallet
 il portafoglio; il borsellino
 
-change (noun)
-il cambiamento
-
 slice
 la fetta
 
@@ -6352,8 +6349,11 @@ classico
 opinion
 l'opinione
 
-change; exchange (money); gear
+change (tangible, transactional); exchange (money); shift (car)
 il cambio
+
+change (broad, abstract)
+il cambiamento
 
 animal
 l'animale
