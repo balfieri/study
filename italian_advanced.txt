@@ -19822,10 +19822,10 @@ incurante
 reckless (lacking caution or judgment); imprudent
 imprudente
 
-bachelor
+bachelor; single
 celibe
 
-bachelorette
+bachelorette; single
 nubile
 
 touchy; sensitive; prickly
