@@ -633,9 +633,6 @@ non è nelle mie corde; non mi piace
 mystery meat
 la carne misteriosa (e schifosa)
 
-long in the tooth
-vecchiotto; in là con gli anni
-
 a keeper
 da tenerselo; a stretto
 
@@ -5159,4 +5156,7 @@ sfoggiare un look
 
 that's what they tell me
 questo è quello che mi dicono
+
+honk if (something)
+suona il clacson se (qualcosa)
 

@@ -55,7 +55,7 @@ buona serata
 good-bye; goodbye
 arrivederci
 
-so long
+so long; farewell; goodbye (forever)
 addio
 
 see ya
@@ -1006,7 +1006,7 @@ la carta
 sheet
 la sfoglia
 
-to cut; to cut down
+to cut; to cut down; to trim
 tagliare
 
 cut (noun)
@@ -3577,7 +3577,7 @@ la pasticceria
 to go on foot
 andare a piedi
 
-to lend; to loan; to pay
+to lend; to loan; to pay; to provide
 prestare
 
 to borrow
@@ -7932,4 +7932,7 @@ il gas
 
 to be done by (somebody)
 essere fatto da (qualcuno)
+
+to taste good
+avere un buon sapore
 

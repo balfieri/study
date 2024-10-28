@@ -7144,8 +7144,11 @@ la nucleofamiglia; la famiglia nucleare
 change of perspective
 il cambio di prospettiva
 
-to destroy; to wreck; to break up; to infringe
-distruggere; infrangere; rovinare
+to destroy; to wreck
+distruggere
+
+to break (law, rule); to infringe upon
+infrangere
 
 to tame
 domare
@@ -21022,7 +21025,7 @@ il calendario dell'avvento
 wardrobe malfunction
 il malfunzionamento del guardaroba; il guasto del guardaroba
 
-fault; breakdown; failure
+malfunction; fault; breakdown; failure; glitch
 il guasto
 
 taste test
@@ -31634,7 +31637,7 @@ to make up for; to compensate
 compensare
 
 caulk
-il sigillante; il stucco sigillante
+il sigillante; lo stucco sigillante
 
 to plaster; to grout; to stucco
 stuccare
@@ -32611,7 +32614,7 @@ il simpatizzante
 to sympathize
 simpatizzare
 
-ederly; aged; old
+ederly; aged; old; long in the tooth
 attempato
 
 quack; huckster; hustler
@@ -33631,7 +33634,7 @@ i saperi
 unawareness
 l'insaputa
 
-donor
+donor; giver
 il donatore; la donatrice
 
 assets
@@ -39572,7 +39575,7 @@ it sucks
 fa schifo; è una seccatura
 
 malfunction; failure; glitch
-il malfunzionamento; il guasto
+il malfunzionamento
 
 to strike gold
 trovare l'oro
@@ -48656,7 +48659,7 @@ constellation
 la costellazione
 
 to circulate
-circolare
+circolare (verbo)
 
 holy grail
 il sacro graal
@@ -62555,7 +62558,7 @@ sorbire
 to set a precedent
 fare testo
 
-broken; smashed
+wrecked; smashed
 sfasciato
 
 to wreck; to smash
@@ -63391,9 +63394,6 @@ preriscaldato
 
 to regulate oneself; to adjust; to behave
 regolarsi
-
-to smirk
-sorridere con sufficienza
 
 Christmas sweet; Christmas dessert
 il dolce natalizio
@@ -66926,7 +66926,7 @@ osteggiare
 pressing
 pressante
 
-long-standing
+age-old; years-old; long-standing
 annoso
 
 moat
@@ -68213,7 +68213,7 @@ il mercato delle pulci
 in tatters
 a brandelli
 
-shredded
+shattered; cracked
 sbrindellato
 
 torn
@@ -68224,9 +68224,6 @@ lacerare
 
 shattered
 frantumato
-
-shard
-il frantume
 
 rocks
 gli scogli
@@ -71902,9 +71899,6 @@ essere negligenti
 
 hardwood
 il legno duro
-
-to fray; to unravel
-sbrindellare
 
 to dox (somebody)
 doxare (qualcuno)
@@ -78662,4 +78656,151 @@ tirarsela
 
 current regulation
 la norma vigente
+
+circular
+circolare (aggettivo)
+
+full-time job
+lavoro a tempo pieno
+
+torn
+sbregato
+
+to tear
+sbregare
+
+to shred
+fare a brandelli
+
+to tear to shreds; to reduce to shreds
+ridurre a brandelli
+
+to fall to pieces; to fall apart
+cadere a brandelli
+
+to tatter; to fray; to unravel
+sbrindellare
+
+tear; laceration
+la lacerazione
+
+fragment; shard
+il frantume
+
+shattered
+in frantumi
+
+to smash
+ridurre in frantumi
+
+vagueness
+la vaghezza
+
+bad tooth
+il dente guasto
+
+to crack (someone's) head
+spaccare la testa (a qualcuno)
+
+to crack one's own head
+spaccarsi la testa
+
+to break a bone
+spezzarsi l'osso
+
+to chop into small pieces
+spezzettare
+
+to fracture (intransitive)
+fratturarsi
+
+fractured
+frattuato
+
+to get a fracture;
+procurarsi una frattura
+
+to sustain a fracture
+riportare una frattura
+
+to deface
+deturpare
+
+defaced
+deturpato
+
+old man (endearing)
+il vechietto
+
+old woman (endearing)
+la vechietta
+
+lively old man; sprightly old man
+il vecchietto arzillo
+
+lively old woman; sprightly old woman
+la vecchietta arzilla
+
+sprightly; lively
+arzillo
+
+aged
+invecchiato
+
+of advanced age
+di età avanzata
+
+in advanced age
+in età avanzata
+
+getting on in years
+avanti con gli anni
+
+advanced in years
+in là con gli anni
+
+to be of a certain age
+avere la propria età
+
+very old (worn out, obsolete)
+vetusto
+
+to creak
+cigolare
+
+decrepit old man
+il vecchio decrepito
+
+decrepit old woman
+la vecchia decrepita
+
+decrepit
+decrepito
+
+farewell tour
+il tour d'addio
+
+to enjoy (doing something)
+godere di (fare qualcosa)
+
+to relish
+gustarsi
+
+to smirk
+fare un sorrisetto; sorridere con sufficienza
+
+to file
+schedare
+
+wear and tear
+il logorio
+
+to refuel
+fare rifornimento
+
+parish priest
+il parocco
+
+at large
+a piede libero
 
