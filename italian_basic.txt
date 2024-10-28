@@ -6799,7 +6799,7 @@ la vongola
 accent
 l'accento
 
-killed; murdered
+killed (intentional or unintentional)
 ucciso
 
 love
