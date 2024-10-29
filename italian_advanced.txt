@@ -78923,3 +78923,6 @@ la psicologia inversa
 
 double reverse psychology
 la doppia psicologia inversa
+
+art form
+la forma d'arte
