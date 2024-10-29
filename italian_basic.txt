@@ -7939,3 +7939,8 @@ avere un buon sapore
 success; hit
 il successo
 
+good weather
+bel tempo
+
+bad weather
+brutto tempo
