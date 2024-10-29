@@ -1459,7 +1459,7 @@ la vena umoristica; la striscia divertente
 repulsive
 ripugnante; disgustoso; repellente
 
-to take (road); to feed
+to take (road); to feed; to spoon-feed
 imboccare
 
 provision
@@ -78809,4 +78809,10 @@ il cambio di indirizzo
 
 to close the vowels; to use closed vowels
 chiudere le vocali
+
+misinformed
+male informato
+
+misinformation
+le informazioni false; l'informazione errata
 
