@@ -2947,6 +2947,9 @@ la tendenza; il trend
 plot; storyline
 la trama
 
+subplot
+la sottotrama
+
 theme
 il tema
 
@@ -78893,3 +78896,6 @@ distinguibile
 
 fortress; stronghold; rook
 la rocca
+
+fellow pilot
+il collega pilota
