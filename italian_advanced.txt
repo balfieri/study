@@ -29023,6 +29023,9 @@ la credenza
 dresser (bedroom)
 il comò
 
+dresser drawer
+il cassetto del comò
+
 palpable
 palpabile
 
@@ -37735,7 +37738,7 @@ ineccepibile
 nowadays
 oggigiorno; attualmente; al giorno d'oggi; oggidì
 
-indistiguishable
+indistinguishable
 indistinguibile
 
 to get intimate with the problem
@@ -78884,3 +78887,6 @@ all'ultimo piano
 
 synthesizer
 il sintetizzatore
+
+distinguishable
+distinguibile
