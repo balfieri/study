@@ -13798,6 +13798,9 @@ i ragazzi delle superiori
 abdomin
 l’addome
 
+anesthesia
+l’anestesia
+
 general anesthesia
 l’anestesia generale
 
@@ -78902,4 +78905,11 @@ il collega pilota
 
 instigator; mastermind
 il mandante; la mandante
+
+prenatal care
+l'assistenza prenatale
+
+postnatal care
+l'assistenza postnatale
+
 
