@@ -21895,7 +21895,7 @@ impiattare
 nonfat dry milk; skim milk powder
 il latte scremato in polvere
 
-contrary
+contrary; contrarian
 contrario
 
 antonym
@@ -68417,7 +68417,7 @@ la mamma chioccia
 big peg
 il cippettone
 
-contrarian
+contrarian (noun)
 il bastian contrario
 
 confirmation
