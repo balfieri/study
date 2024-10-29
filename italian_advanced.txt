@@ -78899,3 +78899,7 @@ la rocca
 
 fellow pilot
 il collega pilota
+
+instigator; mastermind
+il mandante; la mandante
+
