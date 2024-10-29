@@ -11482,7 +11482,7 @@ coesivo
 to misrepresent; to belie
 snatuare
 
-shock; shake; jolt
+shock; shake; jolt; shakedown
 la scossa
 
 skirmish; squabble
@@ -78926,3 +78926,7 @@ la doppia psicologia inversa
 
 art form
 la forma d'arte
+
+extortion; shakedown
+l'estorsione; la scossa
+
