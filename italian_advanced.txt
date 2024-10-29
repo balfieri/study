@@ -78890,3 +78890,6 @@ il sintetizzatore
 
 distinguishable
 distinguibile
+
+fortress; stronghold; rook
+la rocca

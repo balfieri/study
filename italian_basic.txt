@@ -6988,9 +6988,6 @@ muoversi
 weight
 il peso
 
-rock; fortress; rook
-la rocca
-
 printed
 stampato
 
