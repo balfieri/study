@@ -22462,7 +22462,7 @@ la copertura
 flag
 la bandiera
 
-carried out
+carried out; performed
 effettuato
 
 tried; attempted
