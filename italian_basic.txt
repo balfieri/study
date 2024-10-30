@@ -2485,7 +2485,7 @@ la sete
 hunger
 la fame
 
-sleepiness
+sleepiness; sleep
 il sonno
 
 sick; ill
@@ -6469,7 +6469,7 @@ diretto
 affection; love
 l'affetto
 
-to treat; to handle; to deal (with)
+to treat; to handle; to deal (with); to address
 trattare
 
 rest; repose
@@ -6607,8 +6607,11 @@ l'olio extravergine d'oliva
 real estate; property
 gli immobili
 
-people
+people (as a whole)
 la gente
+
+persons; people (as multiple individuals)
+le persone
 
 saint
 il santo
@@ -6733,7 +6736,7 @@ adulto
 breath
 il respiro
 
-painted
+painted (art)
 dipinto
 
 exam
@@ -6746,7 +6749,7 @@ mile
 il miglio
 
 miles
-i miglia
+le miglia
 
 photo
 la foto

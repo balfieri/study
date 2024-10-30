@@ -1714,7 +1714,7 @@ offuscato; nebuloso; sfocato
 perpetual; eternal
 perpetuo
 
-mean; impolite; ill-mannered
+mean; impolite; ill-mannered; unkind
 sgarbato
 
 to relapse
@@ -21115,7 +21115,7 @@ l'esclusione
 cause; reason; ground
 la cagione
 
-rigor
+rigor; penalty (soccer)
 il rigore
 
 intense
@@ -26378,7 +26378,7 @@ wooden spoon
 il cucchiaio di legno
 
 rolling pin
-il mattarello
+il mattarello; la matterello
 
 corkscrew
 il cavatappi
@@ -32669,7 +32669,7 @@ to dread
 temere; avere terrore di
 
 what do I know?
-che ne so io?
+che ne so?; che ne so io?
 
 battery
 la batteria; la pila
@@ -44584,7 +44584,7 @@ intuire
 flask; vial
 il flacone
 
-to slip into
+to slip into; to cut into
 infilarsi
 
 oily
@@ -63038,8 +63038,8 @@ la farina di grano tenero; la farina universale
 I need 5 minutes to finish my lunch
 ho bisogno di 5 minuti per finire il mio pranzo
 
-but what do I know
-ma che ne so io
+but what do I know?
+ma che ne so?; ma che ne so io?
 
 sardines in sweet and sour sauce 
 le sarde in saor
@@ -78930,3 +78930,110 @@ la forma d'arte
 extortion; shakedown
 l'estorsione; la scossa
 
+strangely; oddly; oddly enough
+stranamente
+
+to devour the penalty (screw up penalty kick in soccer)
+divorarsi il rigore
+
+to miss a penalty
+fallire un rigore
+
+open goal
+a porta vuota
+
+I am not aware of it
+non ne sono a conoscenza
+
+I was not aware of it
+non ne ero a conoscenza; non ne ero al corrente
+
+misdeed
+la malefatta
+
+I don't have the vaguest idea
+non ne ho la più vaga idea
+
+I don't have the slightest idea
+non ne ho la minima idea
+
+it is not known
+non è dato sapere
+
+who knows?
+chi lo sa?
+
+interrogative quiz
+il quiz interrogativo
+
+to be ignorant of the matter
+essere ignoranti in materia
+
+I have not heard about it
+non ne ho avuto notizia
+
+to not be informed about it
+non esserne informati
+
+to not be skilled
+non essere ferrati
+
+what do you want me to know about it?
+cosa vuoi che ne sappia?
+
+favorable treatment
+il trattamento di favore
+
+to treat oneself well
+trattarsi bene
+
+to deal with (something)
+trattare di (qualcosa)
+
+to address a problem
+trattare un problema
+
+to address an issue
+trattare una questione
+
+to address a theme
+trattare un tema
+
+to be about
+trattarsi di
+
+to negotiate the price
+trattare sul prezzo
+
+negotiable
+trattabile
+
+to deal with (someone)
+trattare con (qualcuno)
+
+unmanageable
+intrattabile
+
+it does not happen by chance
+non accade per caso
+
+grip
+il mordente
+
+brazing
+la brasatura
+
+soldering; welding
+la saldatura
+
+compulsive liar
+il mentitore compulsivo; la mentitrice compulsiva
+
+to raise doubts about
+sollevare dubbi su
+
+skin condition
+la condizione della pelle
+
+to be alert
+stare all'erta
