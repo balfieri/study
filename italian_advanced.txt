@@ -79037,3 +79037,6 @@ la condizione della pelle
 
 to be alert
 stare all'erta
+
+contraindicated
+controindicato
