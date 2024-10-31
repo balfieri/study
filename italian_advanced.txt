@@ -79189,7 +79189,7 @@ reviewer (non-product)
 il revisore; la revisora
 
 reviewer (product)
-il recensitore; la recensitrice; il recensore; la recensora
+il recensore; la recensora; il recensitore; la recensitrice
 
 to down-size the house
 ridurre le dimensioni della casa
