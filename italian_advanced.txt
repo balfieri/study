@@ -500,7 +500,7 @@ it changed
 è cambiato
 
 typo
-l'errore di battitura
+il rifuso; l'errore di battitura
 
 typing
 la battitura
@@ -6169,7 +6169,7 @@ l'ottovolante
 amusement park
 il parco di divertimenti
 
-to ruin; to spoil
+to ruin; to spoil; to screw up
 rovinare
 
 syllable
@@ -27962,10 +27962,10 @@ cohabitant; partner
 il convivente; la convivente
 
 comrade; close associate (old-fashioned)
-il sodale
+il sodale; la sodale
 
 comrade
-il comerato
+il comerato; la comerata
 
 mistress
 la padrona
@@ -30910,7 +30910,7 @@ il rosmarino
 rosemary sprig
 il rametto di rosmarino
 
-twig; sprig
+twig (green, still growing); sprig
 il rametto
 
 dry yeast
@@ -45376,7 +45376,7 @@ il tonfo
 to hook
 azzanare
 
-stick (smaller, thinner); twig
+stick (smaller, thinner); twig (dry, rigid)
 lo stecco
 
 plaice
@@ -50192,7 +50192,7 @@ small cup
 la coppetta
 
 soup kitchen
-la tavola dei poveri
+la mensa per i poveri; la tavola dei poveri
 
 to successfully convince
 convincere con successo
@@ -79040,3 +79040,139 @@ stare all'erta
 
 contraindicated
 controindicato
+
+to get a homerun
+fare un fuoricampo
+
+to paint (something) in different light
+dipingere (qualcosa) sotto una luce diversa
+
+to pull up one's zipper
+tirare su la cerniera
+
+your zipper is down
+la tua cerniera è abbassata
+
+to demonize
+demonizzare
+
+two shades of
+due sfumature di
+
+disapplicare
+to disapply
+
+masonry
+la muratura
+
+I do it more than I care to admit
+lo faccio più di quanto voglia ammettere
+
+on the shoulder
+in spalla
+
+to hold well
+tenere bene
+
+to unbutton
+sbottonare
+
+to hold tight; to keep tight
+tenersi forte
+
+to stop holding on
+smettere di tenersi
+
+deadly
+micidiale
+
+to support a family
+tenere famiglia
+
+to root for
+tenere per
+
+to care about
+tenere a
+
+to err
+errare
+
+to mislead
+indurre in errore
+
+to cause to make a mistake
+indurre a sbagliare
+
+to fall into error
+cadere in errore
+
+blunder
+l'abbaglio; lo svarione; la cantonata
+
+to make a blunder; to blunder
+prendere un abbaglio; prendere una cantonata
+
+all over again
+tutto daccapo
+
+to fall into misunderstanding
+cadere in equivoco
+
+dodge
+lo scanso
+
+inaccuracy
+l'imprecisione
+
+misfire
+la cilecca
+
+to fall into error
+cadere in fallo
+
+faulty
+fallato
+
+to be at fault
+essere in fallo
+
+gaffe
+la gaffe
+
+howler
+lo strafalcione; la strafalciona
+
+prendere un granchio
+to make a mistake
+
+to make a slip; to slip up
+fare una papera
+
+to change face
+cambiare faccia
+
+bigotry
+il bigottismo
+
+to restart
+ripartire
+
+to go into a confessional (church)
+entrare in un confessionale (chiesa)
+
+I am pursuing my passion
+sto perseguendo la mia passione
+
+I hope you make a speedy recovery
+spero che tu guarisca presto
+
+senza dimora
+homeless
+
+to make a first impression
+fare una buona prima impressione; fare una prima impressione
+
+stick (small)
+il bastoncino
+
