@@ -5614,9 +5614,6 @@ devolvere
 to flower; to bloom; to thrive
 fiorire
 
-nursery school; kindergarten
-l'asilo; l'asilo infantile; la scuola materna
-
 regulation; rule
 il regolamento
 
@@ -24217,7 +24214,7 @@ il dettaglio
 normative; regulatory
 normativo
 
-pupil (student)
+pupil; student (primary or secondary school)
 l'alunno; l'alunna
 
 nearness; proximity; vicinity; neighborhood
@@ -79443,3 +79440,56 @@ credeere in qualunque cosa supporti (qualcosa)
 religious belief
 la credenza religiosa
 
+nursury school
+l'asilo nido
+
+preschool
+la scuola dell'asilo materna; l'asilo; l'asilo infantile
+
+preschooler
+il bambino dell'asilo materna; la bambino dell'asilo materna
+
+kindergarten (the year before first grade)
+l'ultimo anno della scuola materna 
+
+kindergartener
+il bambino dell'ultimo anno della scuola materna
+
+first grade
+la prima elementare
+
+second grade
+la seconda elementare
+
+third grade
+la terza elementare
+
+third-grader
+l'alunno di terza elementare; l'alunna di terza elementare
+
+fourth grade
+la quarta elementare
+
+fifth grade
+la quinta elementare
+
+sixth grade
+la prima media
+
+seventh grade
+la seconda media
+
+eighth grade
+la terza media
+
+freshman year of high school
+il primo anno di scuola superiore
+
+sophomore year of high school
+il secondo anno di scuola superiore
+
+junior year of high school
+il terzo anno di scuola superiore
+
+senior year of high school
+il quarto anno di scuola superiore
