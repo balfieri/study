@@ -1723,7 +1723,7 @@ ricadere
 pride
 l'orgoglio
 
-damage
+damage; harm
 il danno
 
 compared to; in comparision to
@@ -2749,8 +2749,11 @@ fare attenzione
 to pay attention (more formal, deliberate)
 prestare attenzione
 
-tiring; laborious
+tiring
 faticoso; stancante
+
+laborious
+laborioso
 
 intelligence quotient; IQ
 il quoziente d'intelligenza; il quoziente intellettivo; il QI
@@ -3016,7 +3019,7 @@ il tracciamento
 treatment; cure; processing
 il trattamento
 
-to trample on ; to tread on; to stomp on; to step on
+to trample on; to tread on; to stomp on; to step on
 calpestare
 
 in check
@@ -5512,7 +5515,7 @@ il corsista
 waiver; exemption; exoneration
 l'esonero
 
-facility; facilitation; relief
+facilitation; relief; facility
 l'agevolazione
 
 continuing; continual
@@ -9647,7 +9650,7 @@ cliff; reef
 la scogliera
 
 precipice; very steep cliff
-il dirupo
+il dirupo; il precipizio
 
 still (moonshine)
 l'alambicco
@@ -11650,7 +11653,7 @@ rimanere nel presente; restare nel presente
 pomegranate
 il melograno
 
-to shed
+to shed (skin)
 perdere il pelo; perdere i peli
 
 to see the glass half full
@@ -15082,9 +15085,6 @@ essere oggetto di critica
 below par
 sotto la media
 
-to have it in for
-avercela con
-
 to leave much to be desired
 lasciare molto a desiderare
 
@@ -18288,9 +18288,6 @@ il parlamento
 
 wedding ring
 la fede; l'anello matrimoniale; l'anello di nozze
-
-precipice
-il precipizio
 
 precipitous
 precipitoso
@@ -22285,9 +22282,6 @@ sufficientemente
 to achieve; to attain; to ensue; to obtain; to get
 conseguire
 
-prevalent
-prevalente
-
 reflection; reflex
 riflesso
 
@@ -23548,7 +23542,7 @@ ammontare
 hostility
 l'ostilità
 
-to surrender; to cede
+to surrender; to cede; to sag
 cedere
 
 atmosphere
@@ -27643,7 +27637,7 @@ la decine
 rhyme
 la rima
 
-adjustment; regulation
+adjustment (to maintain something in desired state); regulation
 la regolazione
 
 punished
@@ -30031,8 +30025,8 @@ inverso
 humility
 l'umiltà
 
-adjustment; adaptation; accomodation
-l'adeguamento
+adaptation; accomodation
+l'adeguamento; l'adattamento
 
 to need; to require; to necessitate (formal)
 necessitare di
@@ -36579,9 +36573,6 @@ in seguito a
 
 dropout; dropping out
 la fuga dall'apprendimento
-
-to get by; to manage
-districarsi
 
 strain; forcing
 la forzatura
@@ -49897,8 +49888,11 @@ la convalescenza
 darkness (mind)
 la tenebra
 
-laboriously
+tiringly
 faticosamente
+
+laboriously
+laboriosamente
 
 nonconformist (rebellious)
 l'anticonformista
@@ -51293,7 +51287,7 @@ to ooze
 sgorgare; trasudare; grondare
 
 furious; raging
-furioso; furibondo; infuriato
+furioso; furibondo; infuriato; furente
 
 unlucky; unfortunate; inauspicious
 infausto
@@ -68909,9 +68903,6 @@ sentirsi lento; essere lenti
 in my humble opinion; IMHO
 secondo il mio modesto parere; secondo la mia umile opinione
 
-to have it in for (somebody)
-avercela con (qualcuno)
-
 sperm whale
 il capodoglio
 
@@ -70115,8 +70106,8 @@ le cascate
 to bite; to snap
 azzannare
 
-adjustment
-il giustamento
+adjustment (small change to make an improvement)
+l'aggiustamento; il giustamento
 
 cleanroom; clean room
 la camera pulita
@@ -79226,3 +79217,163 @@ truccare le elezioni
 
 to trick; to rig
 truccare
+
+to look out for (something); to be careful of (something); to watch out for (something)
+fare attenzione a (qualcosa); occhio a (qualcosa)
+
+to do harm
+fare del male
+
+asset
+il bene; il patrimonio
+
+head to head
+testa a testa
+
+to extricate oneself; to untangle oneself
+districarsi
+
+to step on the conversation
+interrompere la conversazione
+
+to convey one's wishes
+esprimere i propri desideri
+
+unmovable
+inamovibile; immobile
+
+self-leveling
+auto-livellante
+
+to self-level
+auto-livellarsi
+
+to auto-correct
+auto-correggere
+
+with respect to itself
+in relazione a se stesso; rispetto a se stesso
+
+firing squad
+lo plotone d'esecuzione
+
+there's no such thing as (something)
+non esiste (qualcosa); non esiste una cosa come (qualcosa)
+
+dead level
+perfettamente livellato
+
+dead straight
+perfettamente dritto
+
+all the better
+tanto meglio
+
+worn out; beat; exhausted
+sbattuto
+
+bad day
+la giornataccia
+
+it exhausts me to death
+mi sbatte da morire
+
+it slaps me in the face
+mi sbatte in viso
+
+intern
+il tirocinante; la tirocinante
+
+to struggle with (doing something)
+sbattere a (fare qualcosa)
+
+to struggle
+sbattersi
+
+to kick (someone) out
+sbattere fuori (qualcuno)
+
+to bump into
+andare adosso
+
+to crash
+andare a sbattere
+
+to instill
+incutere
+
+to instill fear in (someone)
+incutere timore a (qualcuno)
+
+frowning
+accigliato; corrucciato
+
+irritated
+stizzito
+
+to get irritated
+stizzirsi
+
+to feel resentment
+provare risentimento
+
+to hold a grudge
+serbare risentimento
+
+to harbor resentment
+covare risentimento
+
+to be angry with; to have it in for
+avercela con (qualcuno)
+
+outburst
+l'escandescenza
+
+enraged
+imbestialito
+
+to become enraged
+imbestialirsi
+
+to get angry
+incavolarsi
+
+to be blown away by
+essere stupefatti da
+
+to inflict harm on
+infliggere danno a
+
+to make it easy
+farela facile
+
+steady; stable
+stabile
+
+prevalent; prevailing
+prevalente
+
+float (parade)
+il carro allegorico
+
+bare facts
+i nudi fatti
+
+bare hands
+le mani nude
+
+with one's bare hands
+a mani nude; con le proprie mani nude
+
+to lay bare
+mettere a nudo
+
+to shed no tears
+non versare lacrime
+
+to shed a tear
+versare una lacrima
+
+stuffy image
+l'immagine soffocante
+

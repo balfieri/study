@@ -2773,7 +2773,7 @@ attendere
 to know; to meet (for first time)
 conoscere
 
-to lose; to leak; to miss (appointment)
+to lose; to leak; to miss (appointment); to shed (transitive)
 perdere
 
 to render; to make (more of something else)
@@ -4539,9 +4539,6 @@ disegnare
 
 to fix (something not completely broken); to make minor adjustments; to make minor tweaks; to adjust
 aggiustare
-
-to do harm
-fare del male
 
 to organize
 organizare
