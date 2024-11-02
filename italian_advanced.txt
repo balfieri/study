@@ -78534,7 +78534,7 @@ la modanatura per scarpe
 quarter round (trim)
 il quartino
 
-deprave
+depraved
 depravato
 
 to deprave
@@ -79493,3 +79493,7 @@ il terzo anno di scuola superiore
 
 senior year of high school
 il quarto anno di scuola superiore
+
+toxic waste dump
+la discarica di rifiuti tossici
+
