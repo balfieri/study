@@ -5515,8 +5515,8 @@ fuori da
 h (name of letter)
 la acca
 
-j (name of letter)
-la i lunga
+j (name of letter); long "I" (pronunciation)
+la I lunga
 
 k (name of letter)
 la kappa
@@ -5528,7 +5528,7 @@ x (name of letter)
 la ics
 
 y (name of letter)
-la ipsilon; la i greca
+la ipsilon; la I greca
 
 z (name of letter)
 la zeta

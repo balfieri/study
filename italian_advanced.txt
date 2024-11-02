@@ -79397,3 +79397,30 @@ il tumulto
 
 rapper
 il rapper
+
+short "A"
+la A breve
+
+long "A"
+la A lunga
+
+short "E"
+la E breve
+
+long "E"
+la E lunga
+
+short "I"
+la I breve
+
+short "O"
+la O breve
+
+long "O"
+la O lunga
+
+short "U"
+la U breve
+
+long "U"
+la U lunga
