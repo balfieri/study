@@ -35507,7 +35507,7 @@ welcome back home
 bentornato a casa
 
 conspiracy theory
-il complottismo; la teoria del complotto; la teoria cospirativa
+la teoria del complotto; la teoria cospirativa; il complottismo; la teoria della cospirazione
 
 on social media
 nei social; sui social
@@ -76037,9 +76037,6 @@ la Haiti
 rambling
 in sproloqui; sconclusionato
 
-conspiracy theory
-la teoria della cospirazione
-
 to get on (someone's) nerves
 far saltare i nervi a (qualcuno)
 
@@ -79424,3 +79421,25 @@ la U breve
 
 long "U"
 la U lunga
+
+to come up with an example
+trovare un esempio
+
+my feeling is that
+la mia sensazione è che
+
+always; since always
+da sempre
+
+echo chamber
+la camera dell'eco
+
+grounded in reality; rooted in reality
+radicato nella realtà
+
+to believe in whatever supports (something)
+credeere in qualunque cosa supporti (qualcosa)
+
+religious belief
+la credenza religiosa
+
