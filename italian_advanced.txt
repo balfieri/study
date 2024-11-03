@@ -292,8 +292,8 @@ avvertire; avvisare
 dispute; argument (quarrel, formal)
 la disputa
 
-argument (quarrel, informal)
-la lite; il litigio
+argument; verbal conflict (quarrel, informal)
+il litigio; la lite
 
 argumentative
 polemico
@@ -4882,9 +4882,6 @@ recitare una scenetta
 I got what I deserved
 ho avuto quello che meritavo
 
-end of story
-punto e basta; fine della storia
-
 in retrospect
 in retrospettiva; a riprensarci; ripensandoci
 
@@ -5002,7 +4999,7 @@ la bocciatura
 to fail; to flunk; to reject
 bocciare
 
-clash; collision; conflict; confrontation
+clash; collision; conflict; confrontation; violent encounter (sudden, intense)
 lo scontro
 
 to bother; to disturb; to trouble
@@ -8806,7 +8803,7 @@ le sponsorizzazioni; i soldi dell'assicurazione
 doctrine
 la dottrina
 
-wrestling; struggle; fight; conflict; fighting
+wrestling; struggle; fight; conflict; fighting (to obtain something or get past an obstacle)
 la lotta
 
 manner
@@ -17032,9 +17029,6 @@ andarci con i piedi di piombo; prendersi paura
 hurry up!
 sbrigati!; presto!; fa presto!
 
-that will do
-punto e basta
-
 well-heeled
 ricco; benestante
 
@@ -24175,7 +24169,7 @@ la cessazione
 presumption
 la presunzione
 
-combat; fight (physical)
+combat; fight (physical, organized, military, sport)
 il combattimento
 
 to identify
@@ -31819,7 +31813,7 @@ il miglioramento della casa
 to adapt
 adattare; adattarsi
 
-to adapt to; to fit with; to comply with
+to adapt to; to fit with; to comply with; to fit
 adattarsi a
 
 to crumble
@@ -32329,7 +32323,7 @@ il carro armato; il carrarmato
 to light a fuse
 accendere una miccia
 
-fuse (explosive)
+fuse (explosive); tinderbox
 la miccia
 
 public opinion
@@ -39298,7 +39292,7 @@ la condotta
 disloyal
 infedele; sleale
 
-to mark (using a label or symbol)
+to mark (formal, technical, using a label or symbol)
 contrassegnare
 
 mark; label
@@ -45871,7 +45865,7 @@ come da nostra discussione
 to emphasize; to stress
 rimarcare
 
-to mark; to score
+to mark; to score (less general)
 marcare
 
 antipathy; dislike; aversion
@@ -79499,3 +79493,39 @@ la discarica di rifiuti tossici
 
 nutrient
 il nutriente
+
+to miscarry; to have a miscarriage
+abortire spontaneamente; avere un aborto spontaneo
+
+miscarriage
+l'aborto spontaneo
+
+abortion
+l'aborto; l'aborto indotto
+
+to abort
+abortire
+
+to have an abortion
+avere un aborto; interrompere volontariamente la gravidanza
+
+taxiing
+in rullaggio
+
+tough grandma
+la tosta nonna
+
+it sits on the table
+è sul tavolo
+
+it fits the table
+si adatta al tavolo
+
+design-related
+progettuale
+
+to showcase
+mettere in mostra
+
+to imprint
+imprimere

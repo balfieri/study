@@ -7420,7 +7420,7 @@ fermato
 pope
 il papa
 
-to mark; to signal
+to mark; to signal (general)
 segnare
 
 video
