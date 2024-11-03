@@ -79386,31 +79386,31 @@ il tumulto
 rapper
 il rapper
 
-short "A"
+short A
 la A breve
 
-long "A"
+long A
 la A lunga
 
-short "E"
+short E
 la E breve
 
-long "E"
+long E
 la E lunga
 
-short "I"
+short I
 la I breve
 
-short "O"
+short O
 la O breve
 
-long "O"
+long O
 la O lunga
 
-short "U"
+short U
 la U breve
 
-long "U"
+long U
 la U lunga
 
 to come up with an example

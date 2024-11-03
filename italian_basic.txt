@@ -5515,7 +5515,7 @@ fuori da
 h (name of letter)
 la acca
 
-j (name of letter); long "I" (pronunciation)
+j (name of letter); long I (pronunciation)
 la I lunga
 
 k (name of letter)
