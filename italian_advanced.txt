@@ -56606,9 +56606,6 @@ oh mio Dio
 imp
 il folletto
 
-impish
-birichino; dispettoso
-
 gazebo
 il gazebo
 
@@ -79544,4 +79541,13 @@ fare qualcosa di proprio
 
 to lead the way to
 aprire la strada a
+
+impish; mischievous; naughty (light, playful, unintentional)
+birichino
+
+spiteful; mischievous; naughty (intentional, annoying, trying to provoke)
+dispettoso
+
+disobedient
+disobbediente
 
