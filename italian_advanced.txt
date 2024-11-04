@@ -79635,3 +79635,6 @@ di estrema destra
 far-left
 di estrema sinistra
 
+rawness
+la crudezza
+
