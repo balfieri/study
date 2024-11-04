@@ -12253,8 +12253,11 @@ il fruttivendolo
 bookseller
 il libraio; la libraia
 
-carpenter
-il falegname
+carpenter (furniture, doors, windows); wood worker
+il falegname; la falegnama
+
+carpenter (framing, roofs)
+il carpentiere; la carpentiera
 
 fish seller; fishmonger
 il pescivendolo
@@ -54970,9 +54973,6 @@ prismatico
 duchess
 la duchessa
 
-carpenter
-il carpentiere; la carpentiera
-
 half-brother; stepbrother
 il fratellastro
 
@@ -59253,7 +59253,7 @@ to drench
 infradiciare; bagnare completamente
 
 soaking wet
-fradicio; zuppo d'acqua
+fradicio; bagnato fradicio; zuppo d'acqua
 
 cauliflower
 il cavolfiore
@@ -79550,4 +79550,88 @@ dispettoso
 
 disobedient
 disobbediente
+
+dirty work
+il lavoro sporco
+
+to do your dirty work
+fare il tuo lavoro sporco
+
+Anglo-Saxon
+anglosassone
+
+to carve
+intagliare
+
+bones of the dead
+le ossa dei morti
+
+to dress up (fun)
+traverstirsi
+
+to get dressed up (formal)
+vestirsi eleganti
+
+da veri italiani
+like real Italians
+
+filthy rich; insanely rich
+ricco sfondato
+
+dirt poor
+povero in canna
+
+soaked
+fradocio
+
+mica mai
+never ever
+
+pitch dark
+buio pesto
+
+here I come
+eccomi, arrivo
+
+here's another
+riecco
+
+here it is for you
+eccotelo
+
+here it is in front of me
+eccomelo davanti
+
+when behold
+quand'ecco
+
+to throw a tantrum
+fare capricci
+
+the thank you
+il grazie
+
+here it is that
+ecco che
+
+here's how
+ecco come
+
+here's why
+ecco perché
+
+from Treviso
+trevigiano
+
+no-fault insurance
+l'assicurazione senza colpa
+
+no-fault divorce
+il divorzio senza colpa; il divorzio consensuale
+
+far-right
+di estrema destra
+
+far-left
+di estrema sinistra
 
