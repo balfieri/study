@@ -79638,3 +79638,6 @@ di estrema sinistra
 rawness
 la crudezza
 
+alphabet
+l'alfabeto
+
