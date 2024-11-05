@@ -4021,11 +4021,8 @@ lavarsi
 to have breakfast
 fare colazione
 
-to begin working
-cominciare a lavorare
-
-to finish working
-finire di lavorare
+to begin (infinitive); to begin to (do something); to start (infinitive); to start to (do something)
+cominciare a (fare qualcosa); iniziare a (fare qualcosa)
 
 to go back home
 tornare a casa; ritornare a casa
