@@ -39145,8 +39145,14 @@ la pallina
 eccentric; quirky
 eccentrico
 
+eccentricity
+l'eccentricità
+
 easy woman (sexually available)
 la donna facile; la ragazza facile
+
+easy man (sexually available)
+l'uomo facile; il ragazzo facile
 
 input data
 i dati di input
