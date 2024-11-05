@@ -10477,7 +10477,7 @@ il jet privato
 jet
 il jet
 
-predictable
+predictable; forseeable
 prevedibile
 
 to blow up oneself
@@ -52834,8 +52834,14 @@ l'iguana
 reincarnation
 la reincarnazione
 
-essay; wise man; sage (person)
-il saggio; il sapiente
+non-fictional work; essay; wise person; sage (person)
+il saggio
+
+wise man
+il sapiente
+
+wise woman
+la sapiente
 
 sample; sampler
 il campionario
@@ -54115,8 +54121,11 @@ transfrontaliere
 small table
 il tavolinetto
 
-far-sighted
+foresighted; far-sighted
 lungimirante
+
+far-sighted; provident
+previdente
 
 to give it refresh; to freshen it up
 darci una ravvivata
@@ -79718,3 +79727,15 @@ non voglio dire nulla di dispregiativo
 
 to hear more about it
 saperne di più
+
+Vietnam War
+la guerra del Vietnam
+
+sommelier; wine professional
+il sommelier
+
+wine connoisseur
+l'intenditore di vino; l'intenditrice di vino
+
+winemaker; eonologist
+l'enologo
