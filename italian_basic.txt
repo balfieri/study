@@ -7672,7 +7672,7 @@ la raccolta
 harvest; crop; yield
 il raccolto
 
-soda
+soda; pop; soda pop
 la soda; la bibita gassata
 
 to ask some questions
