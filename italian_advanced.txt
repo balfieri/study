@@ -9847,9 +9847,6 @@ la riacutizzazione
 health status
 lo stato di salute
 
-I don't want to get into it
-non voglio parlarne; non voglio discuterne
-
 it's maddening
 è esasperante
 
@@ -10047,12 +10044,6 @@ controintuitivo
 
 dog house
 la cuccia del cane
-
-in the dog house
-a cuccia
-
-to be in the dog house
-stare a cuccia
 
 coffee machine
 la macchina da caffè; la macchina del caffè; la macchina per il caffè
@@ -13975,7 +13966,7 @@ l'asfalto
 siren; alarm; mermaid
 la sirena
 
-rescuer; helper
+rescuer; helper; rescue worker
 il soccorritore; la soccorritrice
 
 preview (film); thumbnail; teaser
@@ -33562,7 +33553,7 @@ il dormiente
 sleep-inducing
 dormitivo
 
-to claim (to assert)
+to claim (a right)
 rivendicare
 
 beverage
@@ -54136,9 +54127,6 @@ coniato
 beech
 il fagico
 
-consanguineous
-consanguineo
-
 to fiddle
 smanettare
 
@@ -54256,7 +54244,7 @@ strampante
 to disentangle
 scombisciare
 
-precariousness
+precariousness; job insecurity
 il precariato
 
 shred
@@ -79641,3 +79629,86 @@ la crudezza
 alphabet
 l'alfabeto
 
+lair
+il covo
+
+next to me
+accanto a me
+
+right next to me
+proprio accanto a me
+
+little finger; pinky
+il dito mignolo
+
+studio engineer
+l'ingegnere di studio
+
+session musician
+il musicista di sessione
+
+that got me thinking
+questo mi ha fatto pensare
+
+oligarch
+l'oligarca
+
+oligarchy
+l'oligarchia
+
+to dissuade
+dissuadere
+
+stimulating; thought-provoking
+stimolante
+
+inbred
+consanguineo
+
+incest
+l'incesto
+
+incestual
+incestuoso
+
+to file an application
+fare istanza
+
+telematic
+telematico
+
+humbly
+umilmente
+
+please (do or not do something)
+si prega di (fare o non fare qualcosa)
+
+to kindly ask
+chiedere cortesemente
+
+to allude to
+alludere a
+
+to tell tall tales; to exaggerate
+spararle grosse; spararla grossa; sparare cavolate
+
+to utter
+proferire
+
+to mother
+fare da madre
+
+thoroughly disgusted
+profondamente disgustato; completamente disgustato
+
+anti-anxiety
+ansiolitico
+
+National Guard
+la Guardia Nazionale
+
+I don't want to say anything disparaging
+non voglio dire nulla di dispregiativo
+
+to hear more about it
+saperne di più

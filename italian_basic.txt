@@ -2983,7 +2983,7 @@ chiamarsi
 to meet; to get acquainted
 conoscersi
 
-to complain
+to complain; to whine
 lamentarsi
 
 to brush (hair)
@@ -5107,7 +5107,7 @@ il momento
 reality
 la realtà
 
-example
+example; exemplar
 l'esempio
 
 social; societal
