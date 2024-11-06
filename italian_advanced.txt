@@ -13061,7 +13061,7 @@ clean break
 il taglio netto
 
 enthusiast; aficionado
-appassionato; entusiasta
+l'appassionato; l'entusiasta
 
 to specify; to make clear; to state
 precisare
@@ -51128,7 +51128,7 @@ cognitive
 cognitivo
 
 cognitive dissonance
-dissonanza cognitiva
+la dissonanza cognitiva
 
 cognitive dissonance theory
 la teoria della dissonanza cognitiva
@@ -79739,3 +79739,61 @@ l'intenditore di vino; l'intenditrice di vino
 
 winemaker; eonologist
 l'enologo
+
+publicly-traded company
+la società quotata in borsa
+
+to appeal to (someone)
+attirare (qualcuno); piacere a (qualcuno)
+
+cognitive skills
+le abilità cognitive
+
+cognitively
+cognitivamente
+
+to argue; to debate
+polemizzare
+
+watery
+acquoso
+
+scorching rhetoric
+la retorica infuocata
+
+scorching
+infuocato
+
+to torpedo; to fire
+silurare
+
+this feels like death
+questo sembra la morte
+
+devastated
+devastato
+
+free trade
+il libero scambio
+
+equity trader
+l'operatore di borsa
+
+a large number of
+un gran numero di
+
+a greater number
+un numero maggiore
+
+appealing
+attraente
+
+it involves itself in (something)
+si coinvolge sempre in (qualcosa)
+
+Holy God
+Dio Santo
+
+(something) enthusiast
+l'appassionato di (qualcosa)
+
