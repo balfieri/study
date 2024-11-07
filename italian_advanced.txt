@@ -2869,9 +2869,6 @@ se si presenterà l'occasione
 to give permission
 dare il permesso
 
-to itch
-prudere
-
 an old friend of mine
 un mio vecchio amico
 
@@ -44588,7 +44585,7 @@ dachshund
 il bassotto
 
 groomer
-il toelettatore
+il toelettatore; la toelettatrice
 
 to groom
 toelettare 
@@ -79838,4 +79835,22 @@ il velista; la velista
 
 cliché
 la frase fatta
+
+to itch
+prudere
+
+my nose itches
+mi prude il naso
+
+to itch (formal, metaphorical)
+prurire
+
+wallpaper
+la carta da parati
+
+detoxification
+la disintossicazione
+
+speed limit
+il limite di velocità
 
