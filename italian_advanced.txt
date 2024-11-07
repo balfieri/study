@@ -13252,8 +13252,11 @@ la foiba
 crevice
 il crepaccio
 
-barbarian
-il barbaro
+barbarian; barbaric
+barbaro
+
+barbarian (noun)
+il barbaro; la barbara
 
 unforeseen
 imprevisto
