@@ -5214,3 +5214,6 @@ essere nel proprio elemento
 to give a heads-up
 avvisare in anticipo
 
+no pun intended
+nessun gioco di parole intenzionale
+
