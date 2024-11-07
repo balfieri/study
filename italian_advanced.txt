@@ -38836,8 +38836,8 @@ il ballottaggio
 runoff round (election)
 il turno di ballottaggio
 
-personal electoral card; voter id card
-la tessera elettorale personale
+voter id; voter id card; personal electoral card
+la tessera elettorale; la tessera elettorale personale
 
 travel concession
 l'agevolazione di viaggio
@@ -79853,4 +79853,13 @@ la disintossicazione
 
 speed limit
 il limite di velocità
+
+tombstone; gravestone
+la lapida
+
+close election; tight election
+le elezioni serrate
+
+to rot; to decay
+marcire
 
