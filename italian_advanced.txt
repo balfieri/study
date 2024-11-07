@@ -3268,8 +3268,11 @@ ripercorrere
 highjacking
 il dirottamento
 
-to draw upon; to draw from
-attingere a; attingere da
+to draw upon
+attingere a
+
+to draw from
+attingere da
 
 skill; ability; competence (acquired through experience)
 l'abilità
@@ -33631,7 +33634,7 @@ gli averi
 decidable
 decidibile
 
-discovery
+gimmick; discovery
 la trovata
 
 untraceable
@@ -71018,10 +71021,10 @@ il luogo del concerto
 to set up; to prepare
 allestare
 
-rearview mirror
+rearview mirror; rear-view mirror
 lo specchietto retrovisore
 
-sideview mirror
+sideview mirror; side-view mirror
 lo specchietto laterale
 
 to scroll down
@@ -79796,4 +79799,40 @@ Dio Santo
 
 (something) enthusiast
 l'appassionato di (qualcosa)
+
+devastation
+la devastazione
+
+flea market
+il mercatino
+
+to pee; to tinkle; to go tinkle
+fare la pipì
+
+libation; drink (religious)
+la libagione
+
+news blackout
+il blackout delle notizie
+
+I can't handle watching the news right now
+non riesco a guardare le notizie in questo momento
+
+I am not at all surprised by (something)
+non sono affatto sorpreso da (qualcosa)
+
+packed
+impacchettato
+
+opposite sex
+il sesso opposto
+
+ruthless
+impietoso
+
+sailor
+il velista; la velista
+
+cliché
+la frase fatta
 
