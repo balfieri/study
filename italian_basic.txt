@@ -3641,7 +3641,7 @@ gym
 la palestra
 
 walk
-la passeggiata
+la passeggiata; il cammino
 
 music
 la musica
