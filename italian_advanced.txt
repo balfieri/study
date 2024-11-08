@@ -2548,7 +2548,7 @@ affrettare
 to overuse
 abusare di
 
-to return; to reciprocate; to repay
+to reciprocate; to repay
 ricambiare
 
 stake; picket; pole
@@ -17611,8 +17611,14 @@ figurati
 how disgusting! that's gross!
 che schifo!
 
-to see one another; to get together (with friends)
+to see one another; to meet up; to get together (with friends)
 beccarsi; trovarsi; vedersi
+
+to get (something undesirable)
+beccarsi (qualcosa di indesiderato)
+
+to fight (slang)
+beccarsi
 
 to stay up late
 tirare tardi
@@ -28932,6 +28938,9 @@ assassinare
 
 cast (broken body part)
 il gesso
+
+cast (film, play)
+il cast
 
 disoriented
 disorientato
@@ -71177,6 +71186,9 @@ essere beccati
 to bust (somebody)
 beccare (qualcuno)
 
+to hit; to surprise (slang)
+beccare (gergo)
+
 evacuated (temporary)
 evacuato
 
@@ -79904,4 +79916,109 @@ l'idea stravagante
 
 really out there idea
 l'idea davvero fuori
+
+person with means
+la persona con i mezzi
+
+in the running; in contention
+in lizza
+
+at a high price; at a premium
+a peso d'oro
+
+in chief
+in capo; in chief
+
+dismembered
+smembrato
+
+tariff-related
+da dazi
+
+to work late into the night
+fare notte
+
+to make oneself scarce
+togliere il disturbo
+
+to abdicate the throne
+abdicare al trono
+
+creative writing
+la scrittura creativa
+
+to catch (someone) doing (something)
+beccare (qualcuno) a (fare qualcosa)
+
+corner (of object)
+lo spigolo
+
+to find by chance
+trovare per caso
+
+to catch a cold
+beccarsi il raffreddore
+
+reprimand; talking-to
+la ramanzina
+
+from then on
+da allora in poi
+
+of that time
+di allora
+
+as it was then
+come allora
+
+maybe, maybe not
+quasi quasi
+
+to have something to say about
+avere da ridire su
+
+I see it differently
+lo vedo diversamente
+
+I would have something to say about
+avrei da ridire su
+
+to raise an objection
+muovere un'obiezione; sollevare un'obiezione
+
+to advance an objection
+avanzare un'obiezione
+
+I agree up to a point
+sono d'accordo fino a un certo punto; condivido fino a un certo punto
+
+I'm sorry to contradict you
+mi spiace contraddirti
+
+unfounded idea
+l'idea infondata
+
+allow me to disagree
+permettimi di dissentire; mi permetto di dissentire
+
+one must consider the other side of the coin
+bisogna considerare l'altra faccia della medaglia
+
+searched (legal)
+perquisito
+
+draw (competition)
+il soteggio
+
+the golden age
+l'età d'oro
+
+to casually mention
+menzionare casualmente
+
+Archimedes
+Archimede
+
+catapult
+la catapulta
 

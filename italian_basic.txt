@@ -1519,7 +1519,7 @@ l'angolo
 to hide (intransitive)
 nascondersi
 
-then; well...; so; now; at that time
+then; well...; so; now; at that time; at that moment
 allora
 
 painful
@@ -3359,7 +3359,7 @@ fava bean
 la fava
 
 corn; sweetcorn
-il mais
+il mais; il granoturco
 
 pumpkin; squash
 la zucca
