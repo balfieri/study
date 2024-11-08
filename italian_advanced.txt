@@ -2509,7 +2509,7 @@ convolare
 inconvenience; bother; trouble
 l'inconveniente; l'incomodo
 
-to start; to commence; to begin; to bootstrap
+to start; to commence; to begin; to bootstrap; to spearhead
 avviare
 
 to go (formal, specific); to leave; to depart; to proceed; to make one's way
