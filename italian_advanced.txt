@@ -4279,8 +4279,8 @@ ciò non toglie che
 in the first place; as a first step
 per prima cosa; in primo luogo; come primo passo
 
-first of all; above all; first and foremost
-prima di tutto; innanzitutto; anzi tutto
+first of all; above all; firstly; first and foremost
+prima di tutto; innanzitutto; anzitutto; anzi tutto
 
 to start
 per iniziare
@@ -4581,9 +4581,6 @@ da ciò si deduce che
 
 as; for; since
 dal momento che
-
-firstly; first of all
-anzitutto
 
 to add to this
 si aggiunga il fatto che
@@ -10523,7 +10520,7 @@ to fine-tune
 perfezionare; mettere a punto
 
 hamstring; hamstring muscle
-il tendine del ginocchio
+il muscolo del bicipite femoral
 
 to pull (a muscle)
 stirarsi
@@ -80021,4 +80018,7 @@ Archimede
 
 catapult
 la catapulta
+
+air mattress
+il materasso ad aria
 
