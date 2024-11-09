@@ -8374,7 +8374,7 @@ non che ci sia qualcosa di sbagliato in questo
 sandwich; club sandwich
 il tramezzino
 
-tasty; delicious; fanciful
+tasty; delicious; particularly appetizing; fanciful
 sfizioso
 
 hearth; fireside
@@ -9241,7 +9241,7 @@ il lusso
 highlight
 il punto culminante
 
-tasty
+tasty; flavorful
 gustoso; delizioso; soporito
 
 Amalfi Coast
@@ -24487,7 +24487,7 @@ residente
 resident (noun); citizen; occupant
 il residente
 
-duty (fee); tariff; excise
+tariff (imports, exports); duty (fee); excise tax
 il dazio
 
 authentic
@@ -24877,7 +24877,7 @@ informato
 urban planning; town planning; city planning
 l'urbanistica
 
-rate; tariff; fare
+rate; fare; fee
 la tariffa
 
 to found
@@ -44569,7 +44569,7 @@ variegato
 superuser
 il superutilizzatore
 
-to intuit
+to sense; to intuit; to understand immediately
 intuire
 
 flask; vial
@@ -44955,9 +44955,6 @@ diradato
 
 hilly
 collinoso; collinare
-
-aesthetically pleasing
-esteticamente gradevole
 
 allegory
 l'allegoria
@@ -52912,7 +52909,7 @@ contieni il tuo entusiasmo
 apron
 il grembiulino
 
-spiteful
+resentful; holding a grudge; hostile (toward others)
 astioso
 
 exhausted; worn out
@@ -53524,8 +53521,11 @@ la lana
 news travels fast
 le notizie scorrono
 
+to note down; to jot down
+appuntare
+
 to pin
-appuntare; mettere in evidenza
+mettere in evidenza; appuntare
 
 scribbled; doodled
 scarabocchiato
@@ -66699,7 +66699,10 @@ best place to work
 il miglior posto dove lavorare
 
 aesthetically pleasing
-piacevole esteticamente
+piacevole esteticamente; esteticamente gradevole
+
+aesthetically
+esteticamente
 
 disqualification
 la squalifica
@@ -80021,4 +80024,136 @@ la catapulta
 
 air mattress
 il materasso ad aria
+
+corduroy pants
+i pantaloni in velluto a coste
+
+self-pity
+l'autocommiserazione
+
+I'll be brief
+sarò breve
+
+to go up a level; to level up
+salire un livello
+
+don't make a drama out of it
+non farne un dramma
+
+it's not a tragedy
+non è una tragedia
+
+don't make it a tragedy
+non farne una tragedia
+
+to fly into a rage
+dare in escandescenze
+
+to grieve excessively
+addolorarsi eccessivamente
+
+melodramatic
+melodrammatico
+
+utterance
+l'esternazione
+
+melodrama
+la sceneggiata
+
+interspersed
+intervallato
+
+to intersperse
+intervallare
+
+don't make a scene
+non fare la sceneggiata
+
+just barely
+solo di striscio
+
+to move to pity
+impietosire
+
+it's such a farce
+è solo una farsa
+
+it's evident that
+è evidente che
+
+it's obvious that; 
+è ovvio che
+
+it's clear that
+è chiaro che
+
+notebook
+il toccuino
+
+to make a note for oneself
+farsi un appunto
+
+to make a note
+fare un appunto
+
+to raise an objection
+muovere un appunto
+
+exactly!; precisely!
+appunto!
+
+to share chores
+condividere i lavori domestici
+
+to do the chores; to do chores
+fare le faccende domestiche; fare i lavori domestici
+
+to relate
+rapportarsi
+
+transplanted
+trapiantato
+
+multi-year
+pluriennale
+
+from the start
+fin dall'inizio
+
+at home; home (adjective)
+a domicilio
+
+to relocate
+delocalizzare
+
+to ship jobs overseas
+delocalizzare i posti di lavoro
+
+warmonger
+il guerrafondaio
+
+wreck
+la sfascia
+
+aimed at; addressed to
+rivolto a
+
+to burn
+ustionare
+
+burned
+ustionato
+
+hasty equality
+sbrigativa uguaglianza
+
+knobby
+bitorzoluto
+
+abuse (power)
+il sopruso
+
+to inflate
+rigonfiare
 

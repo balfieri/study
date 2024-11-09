@@ -2604,7 +2604,7 @@ andare a ruba
 to miss the boat
 farsi scappare l'occasione; perdere l'occasione; perdere la possibilità
 
-get out of here! (you can't be serious); get lost!
+get out of here! (you can't be serious); get lost!; take a hike!
 vattene!
 
 legit
@@ -5240,4 +5240,7 @@ togliere le parole di bocca
 
 by hook or by crook
 con ogni mezzo necessario
+
+it cuts both ways
+taglia in entrambi i modi
 
