@@ -3848,7 +3848,7 @@ far from
 lontano da
 
 behind (something)
-dietro a (qualcosa)
+dietro di (qualcosa)
 
 between
 fra; tra
@@ -4782,9 +4782,6 @@ ovunque
 
 nowhere
 da nessuna parte; in nessun posto; da nessuna parte
-
-behind (pronoun)
-dietro di
 
 forward
 avanti
