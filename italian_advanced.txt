@@ -27164,7 +27164,10 @@ scarce; scant; low; scanty; poor (in ability)
 scarso
 
 discreet
-discreto
+discreto; riservato; prudente
+
+discrete
+distinto; separato; discreto
 
 lively
 vivace
@@ -80295,3 +80298,5 @@ essere ritenuti responsabili
 to sharpen one's skills
 affinare le proprie abilità
 
+Post-It note; sticky note
+la nota adesiva; la Post-It
