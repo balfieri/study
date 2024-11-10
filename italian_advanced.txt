@@ -17455,7 +17455,7 @@ l'età del consenso
 bingo card
 la scheda del bingo; la carta del bingo; la cartella del bingo
 
-to withdraw from
+to withdraw from; to crawl back
 ritirarsi da
 
 unforgivable
@@ -25497,9 +25497,6 @@ la regolarità
 
 rotation
 la rotazione
-
-to complete
-completare
 
 in first place
 al primo posto
@@ -33700,7 +33697,7 @@ postmoderno
 postwar
 postguerra
 
-to get back
+to get back; to have back
 riavere
 
 recession
@@ -55186,7 +55183,7 @@ saldato
 overtaking; surpassing; passing
 il sorpasso
 
-bit part
+small part; bit part
 la piccola parte
 
 toilette 
@@ -60044,7 +60041,7 @@ indebolimento
 self-portrait
 l'autoritratto
 
-to feed oneself
+to feed oneself (formale)
 cibarsi
 
 to nourish oneself
@@ -63611,7 +63608,7 @@ onnicomprensivo
 urbanization
 l'inurbazione
 
-to feed oneself
+to feed oneself (informal)
 alimentarsi
 
 bathroom scale
@@ -75677,7 +75674,7 @@ essere più avanti
 the exact same (something)
 lo stesso identico (qualcosa)
 
-to bask
+to bask; to wallow
 crogiolarsi
 
 to oxygenate
@@ -80156,4 +80153,142 @@ il sopruso
 
 to inflate
 rigonfiare
+
+to escape from (something)
+sfuggire a (qualcosa)
+
+I don't deserve to complain
+non merito di lamentarmi
+
+my life is privileged
+la mia vita è privilegiata
+
+for one,
+per uno,
+
+to shut out people; to shut people out
+escludere le persone
+
+actions have to have consequences
+le azioni devono avere conseguenze
+
+simple as that!; it's as simple as that!
+è semplice così!
+
+I am going to withdraw back into my own world
+mi ritirerò nel mio mondo
+
+I am going to crawl back into my shell
+mi ritirerò nel mio guscio
+
+in a certain sense, I was already doing this
+in un certo senso, lo stavo già facendo
+
+to wallow in our pain
+crogiolarsi nel nostro dolore
+
+to wallow in my misery
+crogiolarsi nella mia miseria
+
+cocoon
+il bozzolo
+
+to withdraw into one's cocoon
+ritirarsi nel proprio bozzolo
+
+business opportunity
+l'opportunità di business
+
+career opportunity
+l'opportunità di carriera
+
+civil unrest
+i disordini civili
+
+to take matters into one's own hands
+prendere in mano la situazione
+
+to give people the benefit of the doubt
+dare alle persone il beneficio del dubbio
+
+to be in survival mode
+essere in modalità sopravvivenza
+
+to have one's life back
+riavere la propria vita
+
+inauguration
+l'inaugurazione
+
+to organize small parts
+organizzare piccole parti
+
+paper tiger
+la tigre di carta
+
+trial lesson
+la lezione di prova
+
+torn apart
+sbranato
+
+to be fair
+ad essere onesti
+
+abruptly
+in maniera brusca
+
+slap
+la sberla
+
+to drop the car off to (someone)
+mollare la macchina a (qualcuno)
+
+never give up!
+non mollare mai!
+
+to gnaw
+sganocchiare
+
+to gobble up
+fagocitare
+
+greedily
+avidamente
+
+to binge on (something)
+farsi un'abbuffata di (qualcosa)
+
+to stuff oneself
+strafogarsi
+
+to gulp down
+trangugiare
+
+reluctantly; against one's wishes
+contravoglia
+
+to nibble
+piluccare
+
+Augustus
+Augusto
+
+to go smoothly
+filare liscio
+
+to meet again
+rincontrare
+
+I have no preference
+non ho preferenze
+
+I've been better emotionally
+sono stato meglio emotivamente
+
+people must be held accountable for their actions
+le persone devono essere ritenute responsabili delle loro azioni
+
+to be held accountable
+essere ritenuti responsabili
 

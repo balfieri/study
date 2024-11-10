@@ -6814,7 +6814,7 @@ Buon Compleanno
 Merry Christmas
 Buon Natale
 
-to be able to; to be capable of
+to be able to; to be capable of (after learning something)
 essere in grado di
 
 wine
@@ -7476,6 +7476,12 @@ rendersi conto
 
 to realize (make real an idea); to achieve; to accomplish
 realizzare; compiere
+
+to complete; to reach (milestone)
+compiere
+
+to complete (task)
+completare
 
 cafe (coffee place); bar (food, coffee)
 il bar
