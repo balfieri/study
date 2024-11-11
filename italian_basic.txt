@@ -2269,7 +2269,7 @@ rapido
 off; turned off
 spento
 
-expired
+expired; past due
 scaduto
 
 free (thought)

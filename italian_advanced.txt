@@ -24778,7 +24778,7 @@ la dimensione
 battle
 la battaglia
 
-observation
+observation; remark
 l'osservazione
 
 to contain; to rein in
@@ -32062,7 +32062,7 @@ la vacanza di lavoro
 12-hour wait
 12 ore di attesa
 
-relapse
+relapse; fallout
 la ricaduta
 
 difficult to treat
@@ -80300,3 +80300,34 @@ affinare le proprie abilità
 
 Post-It note; sticky note
 la nota adesiva; la Post-It
+
+beaver
+il castore
+
+pasta maker
+il pastaiolo; la pastaiola
+
+to get out of (clothes)
+togliersi (vestiti)
+
+movie review
+la recensione del film
+
+to break up with (someone)
+chiudere con (qualcuno)
+
+to brown the butter
+rosolare il burro
+
+to move past (something)
+andare oltre (qualcosa)
+
+past its prime
+oltre il suo apice
+
+in its prime
+nel suo apice
+
+past remarks
+le osservazioni passate
+
