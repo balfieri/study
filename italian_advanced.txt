@@ -13865,7 +13865,7 @@ the rest is history
 il resto è la storia
 
 to be impressed by
-essere colpiti da; rimanere colpiti da; essere impressionato da; rimanere colpiti da; essere stupiti da; rimanere stupiti da
+essere colpiti da; rimanere colpiti da; essere impressionati da; rimanere colpiti da; essere stupiti da; rimanere stupiti da
 
 to awaken; to revive
 risvegliarsi
@@ -40831,7 +40831,7 @@ far ridere con una battuta
 this broadcast has been interrupted in order to bring you
 questa trasmissione è stata interrotta per portarvi
 
-merchandise; merch (slang); goods
+merchandise; merch (slang); goods; commodity
 la merce; le merce
 
 situational awareness
@@ -40845,9 +40845,6 @@ fondato nel 1970
 
 overwhelming (powerful, strong)
 travolgente
-
-underwhelming
-deludente
 
 unimpressive
 poco impressionante
@@ -80333,4 +80330,10 @@ le osservazioni passate
 
 contest; competition; concourse (end result is a prize)
 il concorso
+
+barter goods; commodity
+la merce di scambio
+
+underwhelming; ; unimpressive
+deludente; poco impressionante
 
