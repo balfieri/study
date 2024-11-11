@@ -37811,7 +37811,7 @@ prototype
 il prototipo
 
 devastating
-distruttivo; devastante
+devastante; distruttivo
 
 soffocating
 soffocante
