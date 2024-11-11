@@ -5701,7 +5701,7 @@ il coperto
 rocket
 il razzo
 
-competition; rivalry
+competition; rivalry (economic, business)
 la concorrenza
 
 short-term
@@ -80330,4 +80330,7 @@ nel suo apice
 
 past remarks
 le osservazioni passate
+
+contest; competition; concourse (end result is a prize)
+il concorso
 

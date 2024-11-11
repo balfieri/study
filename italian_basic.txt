@@ -1219,10 +1219,10 @@ la carta d'imbarco
 check-in
 il check-in
 
-competition; contest; concourse
-il concorso; la competizione
+competition (general)
+la competizione
 
-race; contest; competition
+race; contest; competition (often sports-related)
 la gara
 
 race (animal, not human); breed
