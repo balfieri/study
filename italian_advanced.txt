@@ -80430,3 +80430,9 @@ delungarsi
 olive farmer
 l'agricoltore di olive
 
+big boy
+il ragazzotto
+
+big girl
+la ragazzotta
+
