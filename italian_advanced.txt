@@ -2023,7 +2023,7 @@ il mondo dello spettacolo
 to be standing
 stare in piedi
 
-to cope; to manage; to get on; to be able to do it
+to cope; to manage; to get on; to be able to do it; to get past it
 farcela
 
 outlet; socket; hold; grip; taking
@@ -80441,3 +80441,7 @@ mettere in attesa
 
 cripple
 lo storpio; la storpia
+
+somehow
+in qualche modo
+
