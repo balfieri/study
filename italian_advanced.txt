@@ -68,7 +68,7 @@ propeller
 l'elica
 
 bland; tasteless
-insipido; blando; insapore; scialbo
+insipido; blando; insapore; scialbo; sciapo
 
 surrender; to give up
 arrendersi
@@ -2512,8 +2512,11 @@ l'inconveniente; l'incomodo
 to start; to commence; to begin; to bootstrap; to spearhead
 avviare
 
-to go (formal, specific); to leave; to depart; to proceed; to make one's way
+to go (formal, specific); to leave; to depart; to proceed; to make one's way; to head (toward)
 recarsi
+
+to head toward (a place)
+dirigersi verso (un posto)
 
 to click (photo); to startle; to trigger
 scattare
@@ -21728,7 +21731,7 @@ airy
 ariato
 
 edible
-commestibile; edibile
+commestibile; edibile; mangiabile
 
 spinal
 vertebrale; vertebral
@@ -43657,9 +43660,6 @@ l'intrattenitore
 paycheck
 lo stipendio; l'assegno di paga
 
-to live paycheck-to-paycheck
-vivere alla giornata
-
 to hang around with (someone)
 stare in giro con (qualcuno)
 
@@ -62219,9 +62219,6 @@ il fisionomista
 fruit seller
 il fruttarolo; la fruttarola
 
-bland (lacks salt)
-sciapo
-
 biodynamic
 biodinamico
 
@@ -63494,7 +63491,7 @@ l'esposizione canina
 dog rescue
 il salvataggio di cani
 
-cloying
+cloying; sickly
 stucchevole
 
 rundown of the news
@@ -80336,4 +80333,97 @@ la merce di scambio
 
 underwhelming; ; unimpressive
 deludente; poco impressionante
+
+to froth; to foam
+spumeggiare
+
+frothy
+spumeggiante
+
+interventionist
+l'interventista
+
+stuffing
+la farcia
+
+to sizzle
+sfrigolare
+
+to take care of the grandkids
+badare ai nipoti
+
+loom
+il tellaio
+
+to boil at high speed
+bollire a cavalli
+
+to become depopulated
+spopolarsi
+
+it's my duty
+è mio dovere
+
+short attention span
+la breve capacità di attenzione
+
+sweetish
+dolciastro
+
+savory person
+la persona sapida
+
+fragrant
+fragrante
+
+to become rancid
+irrancidire
+
+rancid
+irrancidito
+
+soggy (food)
+molliccio
+
+reductive
+riduttivo
+
+stringy
+stopposo
+
+crumb
+la briciola
+
+satiety
+la sazietà
+
+round flavor
+il sapore rotondo
+
+twirl
+la giravolta
+
+quintal (100 kg)
+il quintale
+
+olive tree
+l'albero di ulivo
+
+square meters (sqm)
+i metri quadrati (mq)
+
+to live paycheck to paycheck
+vivere di stipendio in stipendio
+
+to live day by day; to live day to day
+vivere alla giornata
+
+to plan to; to have plans to
+avere in programma di
+
+to scale a recipe
+scalare una ricetta
+
+to go on at length
+delungarsi
 
