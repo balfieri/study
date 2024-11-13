@@ -26690,7 +26690,7 @@ memorandum
 il memorandum
 
 cliché
-il cliché
+il cliché; la frase fatta
 
 hanging
 appeso
@@ -31137,9 +31137,6 @@ per tutti gli usi
 
 to double in size
 raddoppiare di volume
-
-in my humble opinion
-a mio modesto parere
 
 at low speed
 a bassa velocità
@@ -54901,7 +54898,7 @@ omnicomprensivo; totalizzante
 magnate
 il magnate
 
-to desist
+to desist; to stop; to halt (formal, legal)
 desistere
 
 management style
@@ -64265,7 +64262,7 @@ la libertà vigilata
 on probation
 in libertà vigilata
 
-omen
+omen; harbinger
 il presagio
 
 peckish
@@ -65408,7 +65405,7 @@ ittico
 to guard
 fare la guardia a
 
-busy
+lively; eventful; dynamic; full of movement; full of activity
 movimentato
 
 Battle of Actium
@@ -68898,7 +68895,7 @@ to feel sluggish; to be dragging
 sentirsi lento; essere lenti
 
 in my humble opinion; IMHO
-secondo il mio modesto parere; secondo la mia umile opinione
+a mio modesto parere; secondo il mio modesto parere; secondo la mia umile opinione; secondo la mia modesta opinione
 
 sperm whale
 il capodoglio
@@ -78462,9 +78459,6 @@ da quanto ne so
 I would say that
 direi che
 
-in my humble opinion
-secondo la modesta opinione
-
 new hire
 il neo assunto; la neo assunta
 
@@ -79839,9 +79833,6 @@ impietoso
 sailor
 il velista; la velista
 
-cliché
-la frase fatta
-
 to itch
 prudere
 
@@ -80447,4 +80438,124 @@ in qualche modo
 
 to trump
 superare; sconfiggere
+
+I'm glad you liked it
+sono contento che ti sia piaciuto
+
+to tag (post, photo)
+taggare
+
+to live in the limelight
+vivere sotto i riflettori
+
+universal dream
+il sogno universale
+
+all the world is indeed a stage
+tutto il mondo è davvero un palcoscenico
+
+we are merely players, performers and portrayers
+siamo solo attori, interpreti e ritrattisti
+
+portrayer
+il ritrattista; la ritrattista
+
+each another's audience
+ognuno è il pubblico dell'altro
+
+outside the gilded cage
+fuori dalla gabbia dorata
+
+gilded cage
+la gabbia dorata
+
+retail shopping
+l'acquisti al dettaglio
+
+continuum
+il continuo
+
+to take (something) out of context
+prendere (qualcosa) fuori contesto
+
+taken out of contest
+tolto dal contesto; preso fuori contesto
+
+eugenicist (noun)
+l'eugenetista
+
+to run out to (do something)
+uscire di corsa per (fare qualcosa)
+
+to put the (something) in (something else)
+mettere il (qualcosa) in (qualcos'altro)
+
+to forge ahead
+andare avanti con determinazione
+
+so as not to say
+per non dire
+
+to have at one's disposal
+avere a disposizione
+
+fragmented
+framentato
+
+Swiss army knife
+il coltellino svizzero
+
+an ocean of
+un mare di
+
+a tide of
+una marea di
+
+port of call
+il porto di mare
+
+a drop in the ocean
+una goccia nel mare; una goccia nell'oceano
+
+to throw overboard
+buttare a mare
+
+to feel uncomfortable
+trovarsi a disagio
+
+to be out of place
+essere fuori luogo
+
+even if
+sia pure
+
+also!; too!
+pure!
+
+let's even
+mettiamo pure
+
+just to
+pur di
+
+still
+pur sempre
+
+second term as president
+secondo mandato come presidente
+
+to tax the system (overburden it)
+sovraccaricare il sistema
+
+high-tech company
+azienda high-tech
+
+business skills
+competenze aziendali
+
+engineering skills
+competenze ingegneristiche
+
+to be a poser
+essere un poser
 

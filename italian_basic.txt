@@ -1729,7 +1729,7 @@ il costume da bagno
 dentist
 il dentista
 
-actor; thespian
+actor; thespian; player (acting sense)
 l'attore
 
 ballerina
