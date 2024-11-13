@@ -4549,9 +4549,6 @@ in alternativa; alternativamente
 before now; earlier
 in precedenza
 
-a few days ago
-qualche giorno fa
-
 in ancient times
 anticamente
 
@@ -80576,4 +80573,19 @@ l'album di platino
 
 to have huge following
 avere un enorme seguito
+
+a few days ago
+qualche giorno fa
+
+a few weeks ago
+qualche settimana fa
+
+a few months ago
+qualche mese fa
+
+a few years ago
+qualche anno fa
+
+all things (adjective)
+tutto ciò che è (aggettivo)
 
