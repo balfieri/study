@@ -7033,7 +7033,7 @@ che far sentire realizzato; gratificante
 satisfying
 soddisfacente
 
-to strengthen; to reenforce
+to strengthen; to reenforce; to beef up
 rafforzare
 
 to strive; to endeavor; to force oneself
@@ -49216,9 +49216,6 @@ il gemello digitale
 educational path; training course
 il percorso formativo
 
-to enhance; to strengthen; to boost
-potenziare
-
 traced; plotted; laid out
 tracciato
 
@@ -80589,3 +80586,5 @@ qualche anno fa
 all things (adjective)
 tutto ciò che è (aggettivo)
 
+to empower; to enhance; to strengthen; to boost; to beef up
+potenziare
