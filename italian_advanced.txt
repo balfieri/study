@@ -26363,7 +26363,7 @@ wooden spoon
 il cucchiaio di legno
 
 rolling pin
-il mattarello; la matterello
+il mattarello; la matterello (meno comune)
 
 corkscrew
 il cavatappi
@@ -53779,7 +53779,7 @@ il film d'azione
 to leave out a lot of details
 tralasciare un sacco di dettagli
 
-sequel
+sequel; following (fans)
 il seguito
 
 sequel to the film
@@ -80558,4 +80558,22 @@ competenze ingegneristiche
 
 to be a poser
 essere un poser
+
+what is amazing about (something) is that
+ciò che è incredibile di (qualcosa) è che
+
+that music is just as good today (well done)
+quella musica è altrettanto buona oggi (ben fatta)
+
+snare drum
+il tamburo rullante; il rullante
+
+um gold album
+l'album d'oro
+
+platinum album
+l'album di platino
+
+to have huge following
+avere un enorme seguito
 
