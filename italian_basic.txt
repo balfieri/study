@@ -3419,7 +3419,7 @@ farm
 la fattoria
 
 farmer
-il contadino; il fattore
+il contadino; l'agricoltore; il fattore
 
 turist
 il turista
@@ -4591,7 +4591,7 @@ superare
 the future
 la futura
 
-to escape (formal, legal, serious)
+to escape (formal, legal, serious); to flee
 fuggire
 
 to escape (informal)
