@@ -3254,7 +3254,7 @@ wolf
 il lupo
 
 deer
-il cervo; il daino
+il cervo; il daino (mediterraneo)
 
 bear
 l'orso; l'orsa

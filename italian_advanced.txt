@@ -820,7 +820,7 @@ ogni volta che
 pizza pan
 la teglia da pizza
 
-to stuff
+to stuff (food)
 farcire
 
 long-suffering (adjective)
@@ -1846,7 +1846,7 @@ fino al punto di
 to lie down; to lie; to get horizontal
 stendersi; sdraiarsi
 
-to shine
+to shine (greatly, figurative)
 risplendere
 
 haughty; stuffy
@@ -6388,7 +6388,7 @@ idoneo
 rooted; deep-seated; ingrained
 radicato
 
-to bridge; to fill; to heap; to smother
+to bridge; to fill (to the maximum); to heap; to smother
 colmare
 
 inborn; inherent; indiginous
@@ -14029,7 +14029,7 @@ solidificare
 strongly; keenly
 vivamente
 
-to stuff; to cram; to fill
+to stuff; to cram; to fill (excessively, redundantly)
 infarcire
 
 strongly recommended
@@ -19121,7 +19121,7 @@ inspection; review
 il sopralluogo
 
 overpass
-la cavalcavia; il viadotto; il sovrappasso
+il sovrappasso; la cavalcavia; il viadotto
 
 signaling; report; reporting
 la segnalazione
@@ -34327,16 +34327,16 @@ stare al passo
 to follow closely
 stare dietro
 
-high-pitched voice
+high voice; high-pitched voice
 la voce acuta
+
+low voice; low-pitched voice; deep voice
+la voce grave
 
 loud voice
 la voce alta
 
-deep voice; low-pitched voice
-la voce grave
-
-low voice; quiet voice
+quiet voice
 la voce bassa
 
 jaywalking
@@ -76716,7 +76716,7 @@ avere visione
 to sow confusion and distrust
 seminare confusione e sfiducia
 
-template
+template; jig
 la dima
 
 to be disgusted by
@@ -80533,7 +80533,7 @@ still
 pur sempre
 
 second term as president
-secondo mandato come presidente
+il secondo mandato come presidente
 
 to tax the system (overburden it)
 sovraccaricare il sistema
@@ -80585,3 +80585,70 @@ tutto ciò che è (aggettivo)
 
 to empower; to enhance; to strengthen; to boost; to beef up
 potenziare
+
+gentleman
+il gentiluomo
+
+stracchino cheese
+lo stracchino
+
+stuffed
+farcito
+
+to outdo (somebody)
+superare (qualcuno)
+
+big question
+la domandona
+
+stiff neck
+il torcicollo
+
+coach (bus)
+il pullman
+
+to befit
+addirsi a
+
+to boil; to seethe
+fervere
+
+to prepare feverishly
+fervere i preparativi
+
+to be urgent
+urgere
+
+to compromise
+transigere
+
+to take corrective action
+correre a ripari
+
+contraceptive
+il contraccettivo
+
+first term
+il primo mandato
+
+first term as president
+il primo mandato come presidente
+
+random
+aleatorio
+
+to work on and off on (something)
+lavorare a intermittenza su (qualcosa)
+
+to have permission to
+avere il permesso di
+
+autism
+l'autismo
+
+during the normal course of the conversation
+durante il normale corso della conversazione
+
+dowel jig
+la dima per tasselli
+
