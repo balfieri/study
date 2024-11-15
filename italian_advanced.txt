@@ -21697,8 +21697,11 @@ quantitativo
 freezing point
 il punto di congelamento
 
-to exalt
+to exalt; to enhance
 esaltare
+
+to enhance the flavor of (something)
+esaltare il gusto di (qualcosa)
 
 sweetener
 il dolcificante
@@ -80592,8 +80595,8 @@ potenziare
 gentleman
 il gentiluomo
 
-stracchino cheese
-lo stracchino
+stracchino cheese (soft, creamy cheese)
+lo stracchino; lo stracchio
 
 stuffed
 farcito
@@ -80759,3 +80762,9 @@ il mio sangue è al 100% italiano
 
 I am joking 100%
 sto scherzando al 100%
+
+to roll out the dough
+stendere la pasta; stendere l'impasto
+
+young chicken; spring chicken
+il polletto
