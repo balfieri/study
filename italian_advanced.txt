@@ -3091,7 +3091,7 @@ tenere la destra
 to keep left
 tenere la sinistra
 
-to crush; to squeeze; to squash; to spike
+to crush; to flatten; to squeeze; to squash; to spike
 schiacciare
 
 at sign; snail
@@ -3220,7 +3220,7 @@ imprevedibile
 peak; spike; summit
 il picco
 
-dregs; trash
+dregs; scum
 la feccia
 
 to throw a curveball; to displace; to shock; to crowd out
@@ -29674,7 +29674,7 @@ fedelmente
 indicator
 l'indicatore
 
-gross (amount); filthy; dirty
+contaminated; impure; filthy; dirty; gross (revenue)
 lordo
 
 language; lingo; jargon
@@ -58536,7 +58536,10 @@ to sharpen
 acuire
 
 gross salary
-il salario lordo
+il salario lordo; il stipendio lordo
+
+gross revenue
+il ricavo lordo
 
 sponsorship
 il patrocinio
@@ -64496,7 +64499,7 @@ le parole di saggezza
 drying
 l'asciugatura
 
-to find; to recover
+to find; to rediscover (formal, technical)
 rinvenire
 
 tearing (adjective)
@@ -80681,4 +80684,52 @@ il centinario
 
 leftover (something, food)
 (something) avanzato
+
+year-round sport
+lo sport praticabile tutto l'anno; lo sport tutto l'anno
+
+how is (something) coming along?
+come sta andando (qualcosa)?
+
+goal-oriented
+orientato agli obiettivi
+
+it's awesome
+è una figata
+
+exhausted
+spacchinato
+
+to stock up on
+fare la scorta per
+
+over-engineered
+troppo ingegnerizzato; eccessivamente ingegnerizzato
+
+over-simplified
+troppo semplificato
+
+timeless classic
+il classico intramontabile
+
+balaclava
+il passamontagna
+
+whitening; blanching
+la sbianchitura
+
+to come to the surface
+andare a galla
+
+oversold
+sovravvalutato
+
+overplayed
+suonato troppo
+
+overproduced
+troppo prodotto
+
+overstimulated
+sovrastimolato
 
