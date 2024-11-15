@@ -38138,7 +38138,7 @@ ID card; id card; badge
 la carta d'identità; la tessera d'identità; il distintivo
 
 needs
-le esigenze; le necessità
+i bisogni; le esigenze; le necessità
 
 to intrigue; to picque (someone's) interest
 incuriosire; suscitare interesse
@@ -80768,3 +80768,7 @@ stendere la pasta; stendere l'impasto
 
 young chicken; spring chicken
 il polletto
+
+permanent fixture
+la presenza fissa
+
