@@ -7060,7 +7060,7 @@ l'amico; l'amica
 turism
 il turismo
 
-to free; to liberate; to release
+to free; to liberate; to release; to set free
 liberare
 
 seated
@@ -7767,9 +7767,6 @@ buone feste!
 
 annual; yearlong
 annuale
-
-as needed; as much as necessary
-quanto basta
 
 to check into (hotel)
 fare il check-in in (albergo)

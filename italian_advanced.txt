@@ -12409,9 +12409,6 @@ resistere alla tentazione
 skill level
 il livello di abilità
 
-penpal; pen pal
-l'amico di penna
-
 to change one's mind; to come around
 cambiare idea
 
@@ -22315,7 +22312,7 @@ non dire sciochezze; non dire stupidagini
 I totally agree
 condivido pienamente
 
-of course; of course not; it goes without saying; god forbid
+of course; of course not; it goes without saying; god forbid; just what we needed
 ci mancherebbe; ci mancherebbe altro
 
 but of course
@@ -80780,4 +80777,70 @@ l'acqua molto salata
 
 she is fun to talk to
 è divertente parlare con lei
+
+to put someone out of business
+mandare (qualcuno) fuori mercato
+
+out of business
+fuori mercato
+
+to go out of business
+andare fuori mercato
+
+to go bankrupt
+andare in bancarotta
+
+depressing movie
+il film deprimente
+
+non-standard layout
+il layout non standard
+
+buddy movie
+il film d'amicizia
+
+heteronormative
+eteronormativo
+
+as needed; as much as necessary
+quanto basta; secondo necessità
+
+to feel faint
+sentirsi mancare
+
+to put things in perspective
+mettere le cose in prospettiva
+
+it helps to put things in perspective
+aiuta mettere le cose in prospettiva
+
+to have a fainting spell
+avere un mancamento
+
+to almost miss
+mancare poco
+
+to miss the affection of one's loved ones
+mancare all'affetto dei propri cari
+
+to pass away
+venire a mancare
+
+just what we were missing too
+ci mancava anche questa; ci mancava anche quella
+
+just what we were missing only
+ci mancava solo questa; ci mancava solo quella
+
+do not fail to; to do
+non mancare di
+
+to corner the market on (something)
+monopolizzare il mercato di (qualcosa)
+
+strong independent streak
+la forte vena indipendente
+
+penpal; pen pal
+l'amico di penna
 
