@@ -2242,7 +2242,7 @@ colpevole
 original
 originale
 
-simple; easy; straightforward
+simple; easy; plain; straightforward
 semplice
 
 necessary
@@ -7947,4 +7947,7 @@ brutto tempo
 
 on behalf of
 da parte di
+
+grated (cheese, bread)
+grattugiato
 

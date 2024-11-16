@@ -32770,9 +32770,6 @@ trimestre su trimestre; trimestrale
 to give a presentation
 tenere un discorso; fare un discorso; tenere una presentazione; fare una presentazione
 
-grated
-grattugiato
-
 fluorescent
 fluorescente
 
@@ -43691,7 +43688,7 @@ if I were to run for president, I'd run on a platform of
 se dovessi candidarmi alla presidenza, mi candiderei su una piattaforma di
 
 breadcrumbs
-le briciole; il pangrattato
+il pangrattato; il pane grattugiato; le briciole
 
 freshly grated
 grattugiato fresco
@@ -80780,3 +80777,7 @@ mescolare i sapori
 
 brine (for food)
 l'acqua molto salata
+
+she is fun to talk to
+è divertente parlare con lei
+
