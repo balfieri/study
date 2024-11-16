@@ -442,7 +442,7 @@ modificare
 to rewrite
 riscrivere
 
-to scold; to berate; to rebuke
+to yell; to scold; to berate; to rebuke
 sgridare
 
 headwind
@@ -80852,4 +80852,7 @@ il mondo in continua evoluzione
 
 ever-changing
 in continua evoluzione
+
+never shake a baby
+non scuotere mai un bambino
 
