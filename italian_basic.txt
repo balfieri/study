@@ -4048,6 +4048,9 @@ la gonna
 leaf
 la foglia
 
+leaves (from tree)
+le foglie
+
 subway; metro
 la metro; la metropolitana
 
