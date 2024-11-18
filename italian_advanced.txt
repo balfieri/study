@@ -8395,7 +8395,7 @@ l'erede
 stacks
 gli scaffali
 
-dense; thick
+dense (mass); thick
 denso; fitto
 
 Zurich
@@ -9934,7 +9934,7 @@ il paracadutismo
 to skydive
 fare paracadutismo
 
-firm (substance)
+compact; firm; well-structured (absract)
 compatto
 
 compactness
@@ -13394,7 +13394,7 @@ to crack up
 sbellicare dalle risate
 
 chest of drawers
-la cassettiera
+la cassettiera; il cassettone
 
 God forbid
 Dio non voglia
@@ -33106,7 +33106,7 @@ la tonalità
 to inquire
 inquisire
 
-to scour; to search; to patrol
+to scour; to scout; to search; to patrol
 perlustrare
 
 to surveil; to watch over; to supervise
@@ -48571,7 +48571,7 @@ ad alta quota
 arm wrestling
 il braccio di ferro
 
-screwed; crazy
+screwed; crazy; having a screw loose
 svitato
 
 nepotism
@@ -76025,7 +76025,7 @@ l'attività per la pensione
 Haiti
 la Haiti
 
-rambling
+rambling; disjointed; incoherent
 in sproloqui; sconclusionato
 
 to get on (someone's) nerves
@@ -80946,3 +80946,131 @@ per amor proprio
 to trade in (something)
 dare dentro (qualcosa)
 
+to have too many things going on
+avere troppe cose da fare
+
+to be a busy man
+essere un uomo impegnato
+
+to be a busy woman
+essere una donna impegnata
+
+I did it every day
+l'ho fatto ogni giorno
+
+terribly mistaken
+terribilmente sbagliato
+
+glazed
+doroccato
+
+to stew
+stufare
+
+platform bed
+il letto a piattaforma
+
+to store clothes
+conservare i vestiti
+
+rude
+scostumato
+
+spineless
+smidollato
+
+broke (money)
+squattrinato
+
+lazy
+sfaticato
+
+forgetful
+smemorato
+
+shameless
+spudorato
+
+loser
+lo sfigato; la sfigata
+
+in the end
+stringi stringi
+
+little by little
+poco poco
+
+slowly; very slowly
+piano piano
+
+so-so
+così così
+
+gradually
+via via
+
+quietly
+zitto zitto
+
+deep down
+sotto sotto
+
+steep price
+il prezzo salato
+
+to cost a fortune; costare un patrimonio
+costare una fortuna
+
+waster
+il dilapidatore
+
+spendthrift
+lo scialaquatore
+
+to offer (something) tutoring
+offrire ripetizioni di (qualcosa)
+
+since very young
+fin da piccolissimo; fin da piccolissima
+
+self-centered
+egoriferito
+
+impromptu speech
+il discorso a braccio
+
+tongue-tied
+impappinato
+
+to group
+aggruppare
+
+turning (wood)
+la tornitura
+
+carving
+l'intaglio
+
+veneer inlay finishes
+l'impiallacciatura intarsio finiture
+
+electric screwdriver
+l'avvitatore elettrico
+
+orbital sander
+la carteggiatrice orbitale
+
+impacted
+impattato
+
+ripple effects
+gli effetti a cascata
+
+to make noise
+far rumore
+
+ebony
+l'ebano
+
+to lose momentum with (something)
+perdere slancio con (qualcosa)
