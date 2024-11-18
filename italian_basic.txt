@@ -4057,9 +4057,6 @@ la metro; la metropolitana
 cousin
 il cugino; la cugina
 
-to wear glasses
-portare gli occhiali
-
 pasta
 la pasta
 
@@ -4090,7 +4087,7 @@ il clima
 environment; environ
 l'ambiente
 
-level
+level (noun)
 il livello
 
 well,
@@ -4243,7 +4240,7 @@ creativo
 available
 disponibile
 
-effective; effectual; efficacious; efficient
+effective; efficient; effectual; efficacious
 efficace
 
 intimate
@@ -4495,9 +4492,6 @@ uccidere; ammazzare
 to hide
 nascondere
 
-to hide (oneself) from
-nascondersi da
-
 to apologize; to excuse oneself
 scusarsi
 
@@ -4714,14 +4708,8 @@ il morso
 to burn; to burn out (act, not thing)
 bruciare
 
-to get burned; to get burned out; to get exhausted
-bruciarsi; esaurirsi
-
 definitely
 decisamente
-
-amiable; lovable
-amabile
 
 adorable
 adorabile
@@ -4735,7 +4723,7 @@ il cinema; il cinematografo
 to rob (a person)
 derubare
 
-to rob (something)
+to rob (something); to steal (something)
 rubare
 
 to freeze (slowly)
