@@ -3244,7 +3244,7 @@ il pendolare
 commuter train
 il treno dei pendolari
 
-chip; turning
+chip; shaving
 il truciolo
 
 drop; bead; drip
@@ -3511,7 +3511,7 @@ precedere
 to milk; to squeeze; to ring
 mungere
 
-opinion; view
+opinion; view (formal)
 il parere
 
 to hand; to give; to offer; to proffer
@@ -5985,9 +5985,6 @@ fare volontariato; fare il volontario; offrirsi volentario
 
 encouraging; uplifting
 incoraggiante
-
-childhood
-l'infanzia
 
 helicopter
 l'elicottero
@@ -14957,7 +14954,7 @@ to pause oneself
 mettersi in pausa
 
 to get to the point
-venire al punto
+venire al punto; arrivare al punto
 
 to be a nervous wreck
 essere molto ansiosi
@@ -22691,7 +22688,7 @@ capitalism
 il capitalismo
 
 rural
-rurale
+rurale; di campagna
 
 eternal
 eterno
@@ -28996,7 +28993,7 @@ c'è molto di cui parlare; avere molto di cui parlare
 you'd think that
 lo penseresti
 
-to wear out (intransitive)
+to wear out; to wear down
 consumarsi
 
 to tear (cry)
@@ -71867,7 +71864,7 @@ la copertina dell'album
 wicked witch of the east
 la strega malvagia dell'est
 
-sawdust
+sawdust; sawing (act)
 la segatura
 
 phlegm
@@ -76728,7 +76725,7 @@ essere disgustati da
 junk drawer
 il cassetto delle cianfrusaglie
 
-odds and ends
+odds and ends; bits and bobs
 le cianfrusaglie
 
 to keep organized
@@ -81089,4 +81086,169 @@ bruciarsi; esaurirsi
 
 amiable; lovable
 amabile
+
+to wear off
+esaurirsi
+
+smooth like a baby's bottom
+liscio come il sedere di un bambino
+
+have you ever smelled the top of a baby's head?
+hai mai annusato la testa di un neonato?
+
+infant
+il bambino lattante
+
+early childhood
+la prima infanzia
+
+preschool age
+l'età prescolare
+
+school age
+l'etè scolare
+
+childhood
+l'infanzia; l'età infantile
+
+bits and pieces
+i pezzi e bocconi
+
+to escape the Holocaust
+fuggire dall'Olocausto; sfuggire all'Olocausto
+
+to saw
+segare
+
+process of sawing
+il processo di segare
+
+sibling rivalry
+la rivalità tra fratelli
+
+stand by!
+resta in attesa!
+
+to suppress one's feelings
+sopprimere i propri sentimenti
+
+to take the floor
+prendere la parola
+
+key witness
+il testimone chiave
+
+dare la parola
+to give the floor
+
+to say my piece
+dire la mia
+
+to cross one's mind
+passare per la testa
+
+what's the point?
+qual è punto?
+
+the point is that
+il punto è che
+
+to cut it short
+tagliare corto
+
+that said
+detto questo
+
+fuchsia
+la fuxia
+
+going back to what I was saying
+tornando a quello che stavo dicendo
+
+let's get back to us
+torniamo a noi
+
+we'll talk about it again
+ne riparliamo
+
+to talk again
+riparlare
+
+online check-in
+il check in online
+
+to put in the mouth
+mettere in bocca
+
+don't put words in my mouth
+non mettermi in bocca
+
+pharaonic
+faraonico
+
+colossal
+colossale
+
+blockbuster
+il colossal
+
+huge lie
+la balla colossale
+
+mastodonic
+mastodonico
+
+to instill respect
+incutere rispetto
+
+monumental; colossal
+madornale
+
+colossal mistake
+l'errore madornale
+
+crowd of people
+il mucchio di gente
+
+sea of people
+la marea di gente
+
+lot of people
+il botto di gente
+
+mess of people
+il casino di gente
+
+verdant
+verdeggiante
+
+barren
+brullo
+
+bucolic
+bucolico
+
+harmonious
+armonioso
+
+picturesque
+pittoresco
+
+desolate
+desolato
+
+uninhabited
+disabitato
+
+unspoiled
+incontaminato
+
+mass tourism
+il turismo di massa
+
+to make a scene
+fare brutto
+
+spoon dessert
+il dolce al cucchiaio
 
