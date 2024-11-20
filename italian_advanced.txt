@@ -1384,7 +1384,7 @@ il solco
 track; runway
 la pista
 
-thickness; spacer
+thickness; shim
 lo spessore
 
 to assign
@@ -7102,7 +7102,7 @@ gironzolare; bighellonare
 to putz around the house (actively working on things)
 fare lavoretti in casa
 
-to wedge; to tuck; to thread
+to thread; to tuck; to wedge
 infilare
 
 valediction; farewell
@@ -19120,7 +19120,7 @@ il sopralluogo
 overpass
 il sovrappasso; la cavalcavia; il viadotto
 
-signaling; report; reporting
+signaling; report; reporting; check mark
 la segnalazione
 
 to humiliate
@@ -34963,7 +34963,7 @@ la didascalia
 litter (puppies)
 la cucciolata
 
-litter (for animals)
+litter box (for animals)
 la lettiera
 
 litter (trash)
@@ -81251,4 +81251,100 @@ fare brutto
 
 spoon dessert
 il dolce al cucchiaio
+
+to over-mother; to over-protect
+iperproteggere
+
+littermate
+il compagno di cucciolata
+
+kitty litter
+la lettiera per gatti
+
+bunch of parsley
+il mazzo di prezzemolo
+
+bunch of grapes
+il grappolo d'uva
+
+bunch of bananas
+il casco di banane
+
+wheel of cheese
+la forma di formaggio
+
+slice of cake
+la fetta di torta
+
+head of garlic
+la testa d'aglio
+
+salmon fillet
+il trancio di salmone
+
+chocolate bar
+la tavoletta di cioccolato
+
+head of lettuce
+il cespo di lattuga
+
+chickpea
+il cece
+
+to take care of oneself
+badare a sé stessi
+
+entertainment; retention (keeping someone entertained)
+il trattenimento
+
+team leader
+il capogruppo
+
+atomic bomb
+l'atomica
+
+at any time
+a qualsiasi ora
+
+to strive for perfection
+cercare la perfezione
+
+to shim
+mettere uno spessore
+
+compensating shim
+lo spessore compensativo
+
+compensating washer
+la rondella di compensazione
+
+to space out tasks
+distanziare i compiti
+
+to space out
+distanziare
+
+to wedge (something) between two things
+inserire (qualcosa) tra due cose
+
+assistant director
+l'aiuto regia
+
+cuticle
+la cuticola
+
+mine (explosive)
+la mina
+
+anti-personnel
+anti-uomo
+
+anti-personnel mine
+la mina anti-uomo
+
+pickaxe operator
+il picconatore; la picconatrice
+
+to inject oneself
+iniettarsi
 
