@@ -6199,7 +6199,7 @@ assordante
 legislature
 la legislatura
 
-to reiterate; to reaffirm; to stress; to confirm; to affirm
+to reiterate; to restate; to reaffirm; to stress
 ribadire
 
 indirect (through an intervening factor); mediated
@@ -81374,4 +81374,10 @@ severo; rigido
 
 hurricane
 l'uragano
+
+balance 
+il bilanciamento
+
+imbalance
+lo sbilanciamento
 
