@@ -16666,7 +16666,10 @@ dell'universo
 ovum (female egg)
 l'ovulo
 
-to sand
+to sand (smooth)
+levigare
+
+to sand (more aggressive)
 carteggiare
 
 sandpaper
@@ -18407,7 +18410,7 @@ correspondent
 il corrispondente
 
 matter; subject; material
-la matteria
+la materia
 
 profile
 il profilo
@@ -81055,7 +81058,7 @@ electric screwdriver
 l'avvitatore elettrico
 
 orbital sander
-la carteggiatrice orbitale
+la levigatrice orbitale; la carteggiatrice orbitale
 
 impacted
 impattato
@@ -81383,3 +81386,6 @@ lo sbilanciamento
 
 to choke (intransitive)
 strozzarsi
+
+to be off by (quantity)
+essere fuori di (quantità)
