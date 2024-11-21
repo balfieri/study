@@ -17623,7 +17623,7 @@ tirare tardi
 to freak out; to flip out; dare in matto impazzire
 sbroccare
 
-what the heck; darn; damn
+what the heck; darn; damn; shoot
 che cavolo; cavolo
 
 it's the bomb! molto bello!
@@ -20845,7 +20845,7 @@ il trauma
 llama
 il lama
 
-blade
+blade; llama
 la lama
 
 handle; grip
@@ -21356,7 +21356,7 @@ rite
 il rito
 
 often; common
-sovente
+sovente; di sovente
 
 obligation; bond (finance)
 l'obbligazione
@@ -81389,3 +81389,102 @@ strozzarsi
 
 to be off by (quantity)
 essere fuori di (quantità)
+
+don't question me
+non mettermi in discussione
+
+antidote
+l'antidoto
+
+henchman
+lo scagnozzo
+
+good, wholesome fun
+il divertimento sano e piacevole
+
+to let off steam
+dare sfogarsi; dare sfoga
+
+I'll take care of the rest
+a resto penso io
+
+small window
+la finestrella
+
+desktop jointer
+il giunto da banco
+
+well, I don't know
+mah, non so
+
+well, I don't know if
+mah, non so se
+
+well, I don't know how much
+mah, non so quanto
+
+it seems strange to me that
+mi sembra strano che
+
+this story doesn't convince me
+questa storia non mi convince
+
+I'm not entirely convinced by this story that
+non mi convince del tutto questa storia che
+
+this story that (clause) doesn't convince me at all
+questa storia che (clause) non mi convince per niente
+
+I don't know, I have my doubts that
+boh, ho i miei dubbi che
+
+I think it's not quite like that
+mi sa che non è proprio così
+
+um, i have some doubts about
+uhm, ho qualche perplessità su
+
+it leaves me a bit puzzled (something)
+mi lascia un po' perplesso (qualcosa)
+
+I get confused
+mi va in palla
+
+early hour
+la buonora
+
+early in the morning
+di buonora
+
+at a leisurely pace
+alla buonora
+
+calendar (archaic)
+la calenda
+
+to a date be determined
+a data da destinarsi
+
+to postpone to a date to be determined
+rinviare a data da destinarsi
+
+it's been a while since
+è sa un pezzo che
+
+just now
+or ora
+
+an hour ago
+or sono
+
+bass clef
+la chiave di basso
+
+treble clef
+la chiave di violino
+
+to consider as such
+considerare come tale
+
+to hold back the laughter
+trattenere le risate
