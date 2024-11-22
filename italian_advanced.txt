@@ -15814,7 +15814,7 @@ tutto questo
 this kind of thinking
 questo modo di pensiero
 
-to vanish; to disappear; to fade away; to fade
+to vanish; to disappear; to fade away; to fade; to wear off
 svanire
 
 there's no reception; there's no signal
@@ -17033,7 +17033,7 @@ to have the last laugh
 ridere per ultimo
 
 riff-raff
-i cafoni; la gentaglia
+la gente di bassa lega; i cafoni; la gentaglia
 
 regards
 rispetti; i miei rispetti
@@ -23036,7 +23036,7 @@ nationality
 la nazionalità
 
 wedding
-il matrimonio; le nozze
+le nozze; il matrimonio
 
 antiquity
 l'antichità
@@ -27283,7 +27283,7 @@ la risata di gusto
 what are you doing here?
 cosa che fai qui?
 
-to stir
+to stir; to roil
 agitare; mescolare
 
 to percolate
@@ -47341,7 +47341,7 @@ voglio chiederti riguardo a (qualcosa)
 to raise the price
 aumentare il prezzo
 
-testbench; test bench
+testbench; test bench; proving ground; testing ground
 il banco di prova
 
 syntax
@@ -69171,7 +69171,7 @@ super good
 strabuono
 
 eating disorder
-disturbo alimentare
+il disturbo alimentare
 
 miscommunication
 l'incomprensione; la comunicazione errata
@@ -81488,3 +81488,88 @@ considerare come tale
 
 to hold back the laughter
 trattenere le risate
+
+short-lived
+di breve durata
+
+long-lasting
+di lunga durata
+
+the drug wears off
+l'effetto del farmaco svanisce
+
+to grow exponentially
+crescere esponenzialmente
+
+crony capitalism
+il capitalismo clientelare
+
+cosine
+il coseno
+
+to use (something) as a proving ground; to use (something) as a testing ground
+usare (qualcosa) come banco di prova
+
+to slap
+scaffeggiare
+
+every day
+ogni giorni; tutti i giorni
+
+marriage proposal
+la proposta di matrimonio
+
+to propose marriage
+fare la proposta di matrimonio
+
+to ask for (someone's) hand 
+chiedere la mano di (qualcuno)
+
+bachelor party
+l'addio al celibato
+
+bachelorette party
+l'addio al nubilato
+
+to marry (someone)
+sposarsi con (qualcuno)
+
+to settle down
+accasarsi
+
+to tie the knot
+convolare a nozze
+
+to get married (formal, legal)
+coniugarsi
+
+spouse (formal, legal)
+il coniuge; la coniuge
+
+wedding ceremony
+la cerimonia nuziale
+
+wedding reception
+il ricevimento di nozze
+
+civil union
+l'unione civile
+
+the formal you
+il lei
+
+the informal you
+il tu
+
+obsolete
+disueto
+
+unsubscribed
+disiscritto
+
+to keep out the riff-raff
+tenere fuori la gente di bassa lega
+
+to keep out (something)
+tenere fuori (qualcosa)
+

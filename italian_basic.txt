@@ -1117,7 +1117,7 @@ l'altro ieri
 chest; breast (chicken, turkey)
 il petto
 
-breast (female)
+breast (female); sine (math)
 il seno
 
 breakfast
