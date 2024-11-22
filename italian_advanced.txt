@@ -81584,3 +81584,7 @@ il diagonale
 
 hypotenuse
 l'ipotenusa
+
+crosscut saw; cross-cutting saw
+la sega traversale
+
