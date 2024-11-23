@@ -6944,7 +6944,7 @@ vent; rash; outburst; outlet
 lo sfogo
 
 burning question
-la domanda scottante
+la domanda scottante; la domanda urgente
 
 burning; pressing; scorching; hot
 scottante
@@ -12772,9 +12772,6 @@ occuparsi di; prendersi cura di; avere cura di
 mirror ball
 la palla a specchi
 
-lair
-la tana
-
 peak; apex; pinnacle
 l'apice
 
@@ -16466,7 +16463,7 @@ clogs
 gli zoccoli
 
 scaffolding
-l'impalcatura
+l'impalcatura; il ponteggio
 
 to legislate; to enact
 legiferare
@@ -20896,7 +20893,7 @@ il comportamento; il portamento
 paragraph
 il paragrafo; il capoverso
 
-claim; demand
+claim; pretense
 la pretesa
 
 explicitly
@@ -24283,8 +24280,11 @@ che ti prendi?
 drawer; box
 la cassetta
 
-mailbox
+mailbox (incoming)
 la cassetta della posta; la casella di posta
+
+mailbox (outgoing)
+la buca delle lettere
 
 full price
 il prezzo pieno
@@ -27640,7 +27640,7 @@ punito
 composer
 il compositore
 
-to appreciate
+to appreciate; to treasure
 apprezzare
 
 to make it; to assert oneself; to establish oneself
@@ -33968,7 +33968,7 @@ to supervise
 sovraintendere
 
 underpass
-il sottopassaggio
+il sottopasso; il sottopassaggio
 
 underground; below ground
 sottoterra
@@ -36707,7 +36707,7 @@ birth control pill
 la pillola anticoncezionale
 
 emotional support
-il sostegno emotivo
+il supporto emotivo; il sostegno emotivo
 
 if I were smart, which I'm not
 se fossi intelligente, cosa che non sono
@@ -49501,9 +49501,6 @@ la porchetta
 young female beef
 la scottona
 
-wheelbarrow
-la carriola
-
 to take away
 portare via
 
@@ -51370,7 +51367,7 @@ la candeggina
 Fabric softener
 l'ammorbidente
 
-hoax; water buffalo
+hoax; fake news; water buffalo
 la bufala
 
 collective thinking
@@ -69585,7 +69582,7 @@ cell phone holder; mobile phone holder
 il portacellulare
 
 satellite dish
-l'antenna parabolica; la parabola satellitare
+l'antenna parabolica; la parabola satellitare; la parabola
 
 to take (something) to the next level
 portare (qualcosa) al livello successivo; migliorare (qualcosa)
@@ -81597,3 +81594,116 @@ in fondo a
 on top of; at the top of
 in cima a
 
+beef bourguignon
+il boeuf bourguignonne
+
+beef stew
+lo spezzatino di manzo
+
+baseball park
+il parco da baseball
+
+to treasure one's time alone
+apprezzare il proprio tempo da solo
+
+the average man needs a lot of time alone
+l'uomo medio ha bisogno di molto tempo da solo
+
+grass-fed
+allevato a base di erba
+
+pasture-raised
+allevato al pascolo
+
+lean ground beef
+il manzo macinato magro; il manzo macinato di bovino magro
+
+85% lean ground beef
+il manzo macinato di bovino magro al 85%
+
+mean time between (events)
+il tempo medio tra (eventi)
+
+home screen
+la schermata home
+
+prime rib
+la costata di manzo; la costola principale; la carne di lombata
+
+marbling
+la marmorizzazione
+
+to marble
+marmorizzare
+
+a hair too long
+un pelo troppo lunga
+
+pretentiousness
+la pretenziosità
+
+to pick up (somebody) at the (place)
+andare a prendere (qualcuno) a (posto)
+
+I can't answer you; I don't know how to respond
+non ti so rispondere
+
+manhole
+il tombino
+
+trellis
+il traliccio
+
+to water (plants)
+annaffiare
+
+garden hose
+la pompa da giardino
+
+swing
+il dondolo
+
+bed; pallet
+il giaciglio
+
+crane
+la gru
+
+cranes
+le gru
+
+speed bump
+il dosso
+
+bar (barracade)
+la stanga
+
+gutter
+la grondaia
+
+grate
+la grata
+
+trampoline; diving board
+il trampolino
+
+the whole (noun)
+la integra
+
+to span
+spannare
+
+semi-wholewheat flour
+la farina semintegrale
+
+on a Friday evening
+un venerdì sera
+
+disposable container
+il contenitore usa e getta; il contenitore monouso
+
+self-destructive
+autodistruttivo
+
+ho delle buone notizie e delle cattive notizie
+I have some good news and some bad news
