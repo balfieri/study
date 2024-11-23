@@ -5737,11 +5737,11 @@ no, figurati
 pastry
 il pasticcino
 
-pie
+pie; tart
 la crostata
 
-chocolate cookies
-i biscotti al cioccolato
+chocolate cookie
+il biscotto al cioccolato
 
 Christmas Eve
 la Vigilia di Natale
