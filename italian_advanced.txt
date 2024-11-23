@@ -28183,8 +28183,11 @@ la legalità
 attested
 attesto
 
-uniformity
+uniformity; levelness
 l'uniformità
+
+flatness
+la piattezza
 
 so far; hitherto
 sinora
@@ -81710,4 +81713,13 @@ I have some good news and some bad news
 
 overview; roundup; rundown
 la carrellata
+
+levelness of the table
+l'uniformità del tavolo
+
+other side of the pond
+l'altro lato dello stagno
+
+mysteries podcast
+il podcast in giallo
 
