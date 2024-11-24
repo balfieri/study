@@ -4198,7 +4198,7 @@ raro
 realistic
 realistico
 
-regular; to regulate
+regular; to regulate; to adjust
 regolare
 
 defeated
@@ -7799,7 +7799,7 @@ nothing for now, thanks
 niente per ora, grazie
 
 by now; at this point
-ormai
+ormai; oramai
 
 menu
 il menù

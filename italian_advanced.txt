@@ -23791,9 +23791,6 @@ la congregazione
 modest; unassuming; self-effacing
 modesto; senza pretese
 
-now; already; at this point
-oramai
-
 proportional
 proporzionale
 
@@ -81616,7 +81613,7 @@ pasture-raised
 allevato al pascolo
 
 lean ground beef
-il manzo macinato magro; il manzo macinato di bovino magro
+il manzo macinato magro; il manzo macinato di bovino magro; il macinato di bovino magro
 
 85% lean ground beef
 il manzo macinato di bovino magro al 85%
@@ -81920,3 +81917,10 @@ la superconduttività
 
 superconductive
 superconduttivo
+
+high fidelity
+l'alta fedeltà
+
+adjustable height
+l'altezza regolabile
+
