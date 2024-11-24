@@ -5917,9 +5917,6 @@ la tregua
 fence
 la recinzione; la staccionata; il recinto
 
-cucumbers
-i cetrioli
-
 error; mistake
 il disguido; l'errore
 
@@ -15952,7 +15949,7 @@ sistemarsi al meglio
 to have an edge
 essere in vantaggio
 
-to leave one's mark
+to leave one's mark; to leave a mark
 lasciare il segno
 
 light at the end of the tunnel
@@ -68417,7 +68414,7 @@ la cresima
 tournament bracket
 il tabellone del torneo
 
-scoreboard; bracket; billboard
+scoreboard; bracket; billboard; board (score)
 il tabellone
 
 to rub
@@ -81728,3 +81725,151 @@ volersi vivi
 
 to stay alive
 rimanere in vita; rimanere vivi
+
+end of the pole
+la fine del palo
+
+end of the board (wood)
+la fine della tavola
+
+end of the piece of wood
+la fine del pezzo di legno
+
+other end of the piece
+l'altro capo del pezzo
+
+I am not a lover of; I am not fond of
+non sono un amante di
+
+it's not to my taste
+non è di mio gusto
+
+it doesn't reflect my tastes
+non rispecchia i miei gusti
+
+it doesn't meet my tastes
+non incontra i miei gusti
+
+it doesn't inspire me
+non mi ispira
+
+it doesn't suit me
+non mi va a genio
+
+to detest
+detestare
+
+old money (wealth)
+la vecchia nobiltà; la vecchia ricchezza
+
+new money (wealth)
+la nuova ricchezza
+
+nouveau riche
+nuovo ricco
+
+to be common knowledge
+essere risaputi
+
+to touch; to affect
+tangere
+
+to hinder; to obstruct
+ostare
+
+it makes your mouth water
+fa venire l'acquolina in bocca
+
+heaven on earth
+il paradiso in terra
+
+delight for the senses
+la delizia per i sensi
+
+explosion of flavors in your mouth
+l'esplosione di sapori in bocca
+
+to be worthy of a Michelin-starred chef
+essere da chef stellato
+
+to eat endlessly; to eat non-stop
+mangiare all'infinito
+
+to be worth every single bite
+valere ogni singolo morso
+
+nothing special; nothing to write home about
+niente di speciale
+
+it's okay, but nothing more
+è ok, ma niente di più
+
+it's edible
+si lascia mangiare
+
+passable
+passabile
+
+average, nothing exceptional
+nella norma, niente di eccezionale
+
+you can eat it, but it doesn't excite me
+si mangia, ma non mi entusiasma
+
+it doesn't impress me
+non mi colpisce
+
+nothing memorable
+niente di memorabile
+
+overall, it's quite decent
+è tutto sommato discreto
+
+normal, without surprises
+normale, senza sorprese
+
+it's inedible
+non si può mangiare
+
+inedible
+immangiabile
+
+it's really disgusting
+fa proprio schifo
+
+it's to be thrown away
+è da buttare
+
+to have no flavor
+non avere sapore
+
+total disappointment
+la delusione totale
+
+it seems fake
+sembra finto
+
+I've tasted better in (place)
+ho assaggiato di meglio in (posto)
+
+torture for the palate
+la tortura per il palato
+
+it can't get any worse
+peggio di così non si può
+
+culinary disaster
+il disastro culinario
+
+it's worse than it looks
+è peggio di come sembra
+
+it's like chewing cardboard
+è come masticare il cartone
+
+to lose one's appetite
+perdere l'appetito
+
+at the first bite
+al primo boccone
+
