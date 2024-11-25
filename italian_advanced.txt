@@ -2212,7 +2212,7 @@ rispettoso; rispettabile
 disrespectful
 irrispettoso
 
-to get a point across
+to get a point across; to get understood
 farsi capire
 
 to misinterpret; to misconstrue
@@ -82002,3 +82002,11 @@ farsi accorgere
 demanding role
 il ruolo impegnativo
 
+to get to know; to make oneself known
+farsi conoscere
+
+to assert oneself; to prove oneself
+farsi valere
+
+to make oneself forgiven; to get forgiveness
+farsi perdonare
