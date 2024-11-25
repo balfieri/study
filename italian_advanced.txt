@@ -1153,9 +1153,6 @@ il dipendente; l'impiegato; il lavoratore
 suitable for; assigned to (work); tasked with
 addetto a
 
-refugee
-il profugo
-
 supply (act of supplying)
 la fornitura
 
@@ -58517,7 +58514,7 @@ a sua insaputa
 thrilling flight
 il volare da brividi
 
-to uproot; to pull (weeds)
+to uproot; to weed; to pull (weeds)
 estirpare
 
 to sharpen
@@ -65150,9 +65147,6 @@ avverrante
 from Molise
 molisano
 
-refugee
-il rifiugiato
-
 to do a lot of socializing
 fare molta socializzazione; fare un sacco di socializzazione
 
@@ -71702,8 +71696,8 @@ il contabile; la contabile
 to find oneself; to refind oneself
 ritrovarsi
 
-to pull the weeds; to uproot the weeds
-estirpare le erbacce
+to pull weeds; to pull the weeds; to uproot the weeds
+estirpare erbacce; strappare erbacce
 
 light-dark
 chiaroscuro
@@ -74857,9 +74851,6 @@ livellare il terreno
 
 sawhorse; horse; kickstand; easel
 il cavalletto
-
-to pull weeds; to pull out weeds; to weed
-strappare erbacce
 
 to arrive at; to get to; to reach (formal, archaic)
 giungere a
@@ -78280,7 +78271,7 @@ role play
 il gioco di ruolo
 
 refugee
-il rifugiato; la rifugiata
+il rifugiato; la rifugiata; il profugo; la profuga
 
 unfounded
 infondato
@@ -81998,4 +81989,16 @@ dondolare (qualcosa) avanti e indietro
 
 to oversell
 esagerare; vendere troppo
+
+puzzled look
+lo sguardo perplesso
+
+still; even now
+tutt'ora
+
+to get noticed
+farsi accorgere
+
+demanding role
+il ruolo impegnativo
 
