@@ -653,7 +653,7 @@ my stomach is rumbling
 lo stomaco brontola
 
 to nibble; to munch
-mangiucchiare
+sgranoccare; mangiucchiare
 
 to quell the appetite
 calmare l'appetito
@@ -2758,7 +2758,7 @@ prestare attenzione
 tiring
 faticoso; stancante
 
-laborious
+laborious; hard-working
 laborioso
 
 intelligence quotient; IQ
@@ -57959,9 +57959,6 @@ il quartiere povero
 bad habit
 la cattiva abitudine
 
-perishable skill
-l'abilità deperibile
-
 to plot; to scheme
 tramare
 
@@ -64193,7 +64190,7 @@ la sbaccatura
 rag; shred
 la stracciatura
 
-to slam; to beat
+to slam; to beat; to bang
 sbattere
 
 Nettuno
@@ -74151,7 +74148,7 @@ swimmer
 il nuotatore; la nuotatrice
 
 to choose carefully
-scegliere con cura
+scegliere con attenzione; scegliere con cura
 
 pace of play
 il ritmo di gioco
@@ -74601,7 +74598,7 @@ to wear out
 usurare
 
 to differ from
-differenziarsi da
+differire da; differenziarsi da
 
 I better do that just in case
 meglio farlo per sicurezza
@@ -81930,4 +81927,74 @@ refrigerare
 chive; chives
 l'erba cipollina
 
+to storm the castle  
+assaltare il castello  
 
+to assault; to jump (attack); to storm
+assaltare
+
+bolshevik  
+bolscevico  
+
+heated space  
+lo spazio riscaldato  
+
+sound stage
+il palcoscenico sonoro
+
+sound stage of the film  
+il palcoscenico sonoro del film  
+
+against my wishes  
+contro i miei desideri; contro la mia volontà
+
+to differ  
+differire  
+
+how does this (something) differ from prior ones?  
+in cosa questa (qualcosa) differisce dalle precedenti?  
+
+to overcharge (make pay too much)
+far pagare troppo
+
+hard-working person  
+la persona laboriosa  
+
+hardest working person of all time  
+la persona più laboriosa di tutti i tempi  
+
+lumber yard  
+la segheria  
+
+lumbar support  
+il supporto lombare  
+
+to let oneself go  
+sbizzarirsi  
+
+to find oneself (doing something)  
+trovarsi a (fare qualcosa)  
+
+I got hungry  
+mi è venuta la fame  
+
+it excites me (interests me)
+mi entusiasma  
+
+wall insulation  
+l'isolamento delle pareti  
+
+wire insulation  
+l'isolamento dei fili  
+
+to strip the insulation off the wire  
+rimuovere l'isolamento dal filo  
+
+to be truly at ease  
+essere veramente a proprio agio  
+
+to bang into (something)
+sbattere in (qualcosa)
+
+to slam the door  
+sbattere la porta  
