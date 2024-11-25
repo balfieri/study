@@ -81998,3 +81998,7 @@ sbattere in (qualcosa)
 
 to slam the door  
 sbattere la porta  
+
+to rock (something) back and forth
+dondolare (qualcosa) avanti e indietro
+
