@@ -1606,7 +1606,7 @@ annoiato
 weird; strange
 strano
 
-shy; timid
+shy; timid; bashful
 timido
 
 strong
@@ -2593,7 +2593,7 @@ abitare
 to use
 usare
 
-to thank
+to thank; to give thanks
 ringraziare
 
 to leave (something)

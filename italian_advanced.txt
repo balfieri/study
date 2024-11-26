@@ -1171,9 +1171,6 @@ appiccicoso; adesivo; attaccaticcio; appiccicaticcio
 gooey
 appiccicoso; viscoso
 
-to harden
-indurire
-
 to interact
 interagire
 
@@ -7714,7 +7711,7 @@ dividere la differenza
 to discern
 discernere
 
-to satisfy (partially); to please
+to satisfy (partially); to please; to humor
 accontentare
 
 misfortune of others
@@ -8170,7 +8167,7 @@ la milizia
 to skin
 scuoiare
 
-to direct; to divert; to channel
+to channel; to direct; to divert
 incanalare
 
 to channel; to create channels
@@ -11913,9 +11910,6 @@ come il diavolo e l'acqua santa
 
 to vent; to let off steam; to get (something) off one's chest
 sfogarsi
-
-to rest on one's laurels
-dormire sugli allori
 
 to go in one ear and out the other
 entrare da un orecchio e uscire dall'altro
@@ -82031,4 +82025,46 @@ l'esercizio di Kegel
 
 to say you're welcome
 dire prego; dire di niente
+
+to make the bread stale
+far diventare il pane raffermo
+
+stale bread
+il pane raffermo
+
+stale
+raffermo
+
+outside of (some area)
+fuori da (qualche area)
+
+to harden; to toughen
+indurire
+
+mistakes can always be fixed
+gli errori possono sempre essere corretti
+
+esagonale
+hexagonal
+
+because of that,
+per questo
+
+interesting blend of
+l'interessante miscela di
+
+you should know better
+dovresti saperlo meglio
+
+I should've known better
+avrei dovuto saperlo meglio
+
+to end up like
+far la fine di
+
+alternative to
+l'alternative a
+
+to settle
+adaggiarsi
 
