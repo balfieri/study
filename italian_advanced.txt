@@ -8224,7 +8224,7 @@ la contea
 irritable; cranky; easily angered
 irritabile
 
-irascible; cantankerous; ill-tempered
+irascible; cantankerous; ill-tempered; hot-headed
 irascibile
 
 white supremacist
@@ -17101,9 +17101,6 @@ finire una relazione; lasciarsi
 to go against the grain
 andare contro tendenza
 
-to go with the flow
-andare con il flusso; essere al passo con gli altri
-
 to be cheeky
 avere la faccia tosta
 
@@ -20068,7 +20065,7 @@ quantunque
 extreme
 estremo
 
-heat; warmth
+heat; warmth (physical, personal)
 il calore
 
 bourgeois; middle-class
@@ -82166,4 +82163,31 @@ to weigh (something)
 
 mashed potatoes
 il purè di patate
+
+to a certain extent
+in una certa misura
+
+it's a question of taste
+è una questione di gusto
+
+to be swept up in (something)
+essere travolti da (qualcosa)
+
+cult classic
+il classico di culto
+
+zen; zen-like
+zen
+
+zen-like personality
+la personalità zen
+
+Edinburgh
+Edimburgo
+
+squatting
+accosciato
+
+to squat
+accosciare
 

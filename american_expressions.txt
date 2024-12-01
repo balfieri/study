@@ -3172,7 +3172,7 @@ everything's gonna be ok
 andrà tutto bene
 
 to go with the flow
-andare con il flusso
+andare con il flusso; essere al passo con gli altri; andare a sentimento con
 
 to sweep the dust under the carpet
 mettere la polvere sotto il tappeto
@@ -5280,9 +5280,6 @@ resta con me, ragazzo
 I'll get you through this
 ti farò superare questo
 
-to go with the flow
-andare a sentimento con
-
 to use (someone) as a guinea pig
 usare (qualcuno) come cavia
 
@@ -5366,4 +5363,7 @@ I feel like a pig
 
 to gray-rock (somebody)
 ignorare (qualcuno); fare la tecnica del sasso grigio a (qualcuno)
+
+to sweep (someone) off one's feet
+far perdere la testa a (qualcuno)
 

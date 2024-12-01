@@ -5675,7 +5675,7 @@ counter; bar; bar counter
 il bancone
 
 popcorn
-il popcorn
+il popcorn; i popcorn
 
 pasta machine
 la macchina per la pasta; la macchina per pasta
