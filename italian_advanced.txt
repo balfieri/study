@@ -57851,6 +57851,9 @@ dopo aver compiuto 60 anni
 in front of me
 davanti a me
 
+behind me
+dietro di me
+
 forward; ahead
 in avanti
 
