@@ -39346,8 +39346,11 @@ presentarsi
 to be seen
 farsi vedere
 
-veteran
-il veterano
+veteran (noun)
+il veterano; la veterana
+
+veteran (adjective)
+veterano
 
 to modernize (make more effective)
 ammodernare (rendere più efficace)
@@ -82193,4 +82196,37 @@ accosciato
 
 to squat
 accosciare
+
+to abide by
+attenersi a
+
+in color
+a colori
+
+in black and white
+in bianco e nero
+
+misspelled word
+la parola sbagliata
+
+oink oink
+oink oink
+
+moo
+muu
+
+to gyp (somebody) out of (something)
+imbrogliare (qualcuno) su (qualcosa)
+
+to perpetuate
+perpetuare
+
+to coast along
+costeggiare
+
+human race
+la razza umana
+
+shoemaker
+il calzolaio; la calzolaia
 
