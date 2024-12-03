@@ -1735,7 +1735,7 @@ la ballerina
 engineer
 l'ingegnere
 
-policeman; police officer
+policeman; police officer; bobby (British)
 il poliziotto
 
 cook
@@ -3562,10 +3562,10 @@ la fabbrica
 emergency room
 il pronto soccorso
 
-bakery (breads, retail)
+bakery (breads, retail); bread shop
 la panetteria
 
-bakery (sweets)
+bakery (sweets); pastry shop
 la pasticceria
 
 to go on foot
@@ -4714,7 +4714,7 @@ il cinema; il cinematografo
 to rob (a person)
 derubare
 
-to rob (something); to steal (something)
+to rob (something); to steal (something); to nick (British)
 rubare
 
 to freeze (slowly)
@@ -5733,9 +5733,6 @@ ti dispiace?; ti spiace?
 
 no, not at all; no, no, of course not; no, not at all
 no, figurati
-
-pastry
-il pasticcino
 
 pie; tart
 la crostata
