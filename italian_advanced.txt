@@ -11215,7 +11215,7 @@ il solito; la solita
 everything ok?
 tutto bene?
 
-what's wrong?
+what's wrong?; something wrong?
 qualcosa non va?
 
 what's happening?
@@ -20431,7 +20431,7 @@ la stiratura
 to peel; to zest
 scorzare
 
-tempting; appealing
+tempting; appealing; tantalizing
 allettante
 
 elapsed time
@@ -49507,7 +49507,7 @@ il sole sta tramontando; il sole sta descendendo
 Dengue (mosquito-born disease)
 la dengue
 
-to lay; to pose; to set down
+to lay; to lay down; to pose; to set down
 posare; mettere giù
 
 to suck; to drain; to suck back in
@@ -76672,7 +76672,7 @@ I want you to meet (someone)
 voglio che tu conosca (qualcuno)
 
 router bit
-la fresa per router
+la fresa per router; la fresa
 
 thankless
 ingrato
@@ -77703,7 +77703,7 @@ l'orticoltura
 to vegetable garden; to work in the vegetable garden
 coltivare l'orto; fare lavori nell'orto
 
-to mill
+to mill; to route (wood)
 fresare
 
 walrus
@@ -79179,7 +79179,7 @@ truccare le elezioni
 to trick; to rig
 truccare
 
-to look out for (something); to be careful of (something); to watch out for (something)
+to look out for (something); to be careful of (something); to watch out for (something); to mind (something)
 fare attenzione a (qualcosa); occhio a (qualcosa)
 
 to do harm
@@ -82301,4 +82301,106 @@ il fagiano
 
 eye-to-eye
 occhi negli occhi
+
+this is serious business
+questo è un affare serio
+
+to go out of one's way to (do something)
+fare di tutto per (fare qualcosa)
+
+he will eventually find out
+alla fine lo scoprirà
+
+to find out
+scoprirlo
+
+embroidered
+ricamato
+
+to dirty; to soil
+lordare
+
+milling
+la fresatura
+
+to make babies
+fare figli
+
+give him my best regards
+dagli i miei migliori saluti
+
+how did you get involved in (something)
+come ti sei coinvolto in (qualcosa)
+
+to get a hand-out
+ricevere un'elemosina
+
+my sentiments exactly
+esattamente i miei sentimenti
+
+government relief
+il sostegno governativo
+
+I just might (do something)
+potrei proprio (fare qualcosa)
+
+to mend a broken heart
+rimettere insieme un cuore spezzato
+
+to risk it all
+rischiare tutto
+
+honey lips
+le labbra di miele
+
+wild ways
+i modi selvaggi
+
+you took it all
+hai preso tutto
+
+to lose faith
+perdere la fede
+
+given a chance
+data un'opportunità
+
+angry, grumpy, and sad
+arrabbiato, scontroso e triste
+
+golden
+aureo
+
+calmly
+pacatamente
+
+counterargument
+la controargomentazione
+
+chocolate spice cookies
+i biscotti speziati al cioccolato
+
+within Italy
+all'interno dell'Italia
+
+to go around (place)
+andare in giro per (luogo)
+
+uprooted
+scalzato
+
+well-proportioned
+ben proporzionato
+
+arrival time
+l'orario di arrivo
+
+departure time
+l'orario di partenza
+
+bus driver
+l'autista di autobus
+
+to tour around London
+fare un giro turistico per Londra
 
