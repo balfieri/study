@@ -40010,7 +40010,7 @@ blue-collar
 colletto blu
 
 yuppie
-lo yuppie
+lo yuppie; la yuppie
 
 shocking; startling
 scioccante; sorprendente
@@ -54682,7 +54682,7 @@ il negozio di articoli sportivi
 hunting gear
 l'attrezzatura da caccia
 
-equipment; gear
+equipment; gear; paraphernalia
 l'attrezzatura
 
 convoy
@@ -55915,9 +55915,6 @@ lo stampatello
 
 molding; moulding
 la modanatura
-
-modular
-scomponibile
 
 to kick
 scalciare
@@ -76674,7 +76671,7 @@ voglio che tu conosca (qualcuno)
 router bit
 la fresa per router; la fresa
 
-thankless
+ungrateful; thankless
 ingrato
 
 thankless job
@@ -77569,7 +77566,7 @@ to make work
 far funzionare
 
 to explore options
-esplorre opzioni
+esplorare opzioni
 
 ceiling light
 la lampada da soffitto
@@ -82403,4 +82400,43 @@ l'autista di autobus
 
 to tour around London
 fare un giro turistico per Londra
+
+it all works out in the end
+alla fine tutto si risolve
+
+sounds like a plan
+sembra un piano
+
+seamstress; tailor (female)
+la sarta
+
+khakis
+i pantaloni kaki
+
+it rained the whole time
+ha piovuto per tutto il tempo
+
+completion
+il completamento
+
+modular
+modulare; scomponibile
+
+holder
+l'intestatario
+
+to get laid off; to get fired
+essere licenziati
+
+band saw
+la sega a nastro
+
+pub life
+la vita da pub
+
+mind your head; watch your head
+attento alla testa; fai attenzione alla testa
+
+ungrateful task
+il compito ingrato
 
