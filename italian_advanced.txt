@@ -82445,3 +82445,7 @@ induirsi
 
 quarter (of year)
 la trimestrale
+
+to proceed at full capacity
+procedere a pieno regime
+
