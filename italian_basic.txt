@@ -5125,9 +5125,6 @@ la condizione
 together
 insieme
 
-type
-il tipo
-
 government
 il governo
 

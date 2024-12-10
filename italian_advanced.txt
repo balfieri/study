@@ -29002,9 +29002,6 @@ il cassetto del comò
 palpable
 palpabile
 
-to tide over
-tirare avanti
-
 life support system
 il sistema di supporto vitale
 
@@ -61064,7 +61061,7 @@ stemperare
 Kennedy (adjective)
 kennediano
 
-the resentment; the rancor
+resentment; rancor
 l'astio; il rancore
 
 crossfire
@@ -82520,4 +82517,142 @@ il dovere morale
 
 stranded
 arenato
+
+the tete-à-tete
+il tete-à-tete
+
+tour
+la tournée
+
+entourage
+l'entourage
+
+pied-à-terre
+il pied-à-terre
+
+polka dots
+i pois
+
+tour de force
+il tour de force
+
+trick
+l'escamotage
+
+to resort to a trick
+ricorrere a un escamotage
+
+to find a trick
+trovare un escamotage
+
+nonchalance
+la nonschalance
+
+baby bottle
+il biberon
+
+swearing (French)
+il francesismo
+
+baby
+il bebé
+
+to have the right look for the role
+avere il physique du role
+
+straight away
+d'emblée
+
+to censor oneself
+censurarsi
+
+elocution
+lucozione
+
+over low heat
+a fiamma bassa; a fuoco lento
+
+at room temperature
+a temperatura ambiente
+
+at the first attempt
+al primo colpo
+
+from the fridge
+di frigo
+
+deductive
+deduttivo
+
+inductive
+induttivo
+
+to match
+fare pendant
+
+to put the pasta in the boiling water
+buttare giù la pasta
+
+to take away (something)
+tirare via (qualcosa)
+
+waiting list
+la lista di attesa
+
+folkloristic
+folcloristico
+
+fantasy-like
+fantascioso
+
+to be matching with
+essere in pendant con
+
+discriminated
+discriminato
+
+neck gaiter
+il golet
+
+uglified
+imbruttito
+
+jewel
+il bijou
+
+good manners
+il bon ton
+
+to say things to one's face
+dire le cose in faccia
+
+microculture
+la microcultura
+
+to swear
+usare un francesismo
+
+, like,
+, tipo,
+
+one's type
+il proprio tipo; la propria tipa
+
+some quantity
+tipo (qualche quantità)
+
+(something) like
+(qualcosa) tipo
+
+guy
+il tipo
+
+gal
+la tipa
+
+typical family
+la famiglia tipo
+
+like?
+tipo?
 
