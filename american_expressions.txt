@@ -2584,7 +2584,10 @@ if it ain't broken, don't fix it; if it ain't broke, don't fix it
 se non è rotto, non ripararlo
 
 if I do say so myself
-se posso dire la mia
+se lo dico me stesso; se posso dire la mia
+
+if you do say so yourself
+se lo dici tu stesso
 
 a shout-out
 un saluto; un riconoscimento
@@ -5411,4 +5414,7 @@ me la sono cercata
 
 I was asking for trouble
 mi stavo mettendo nei guai
+
+nastigram
+il messaggio scortese
 

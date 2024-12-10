@@ -895,7 +895,7 @@ il divano
 line; tail; queue
 la coda
 
-to get in line; to get in line; to queue up
+to get in line; to get in line; to queue up; to join the queue
 mettersi in fila; farsi la coda
 
 dangerous
@@ -7923,3 +7923,7 @@ grattugiato
 
 a little; a while
 un po'
+
+line (people); row
+la fila
+

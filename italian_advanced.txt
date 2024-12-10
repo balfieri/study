@@ -1793,7 +1793,7 @@ store owner
 il negoziante
 
 even though; while
-sebbene; anche se; benché; nonostante
+sebbene (congiuntivo); anche se; benché (congiuntivo); nonostante
 
 calculation; count; counting
 il conteggio
@@ -10359,9 +10359,6 @@ fare squardare
 
 to flour
 infarinare
-
-row
-la fila
 
 android
 l'androide
@@ -20028,9 +20025,6 @@ adunque
 
 link; bond; tie
 il legame
-
-to exclude
-escludere
 
 intensity
 l'intensità
@@ -77898,7 +77892,7 @@ il serramento
 to grind (sand, metals); to polish
 smerigliare
 
-sanding
+sanding; polishing
 la levigatura
 
 polishing
@@ -82428,7 +82422,7 @@ l'intestatario
 to get laid off; to get fired
 essere licenziati
 
-band saw
+bandsaw; band saw
 la sega a nastro
 
 pub life
@@ -82448,4 +82442,82 @@ la trimestrale
 
 to proceed at full capacity
 procedere a pieno regime
+
+chocolate fondue
+la fonduta di cioccolato
+
+around here
+da queste parti
+
+south London
+il sud di Londra
+
+don't hold your breath!
+non trattenere il respiro!
+
+to save the day
+salvare la situazione
+
+state of the art
+lo stato dell'arte
+
+thought experiment
+l'esperimento mentale
+
+combustion engine
+il motore a combustione
+
+to move the problem upstream
+spostare il problema a monte
+
+upstream
+a monte
+
+downstream
+a valle
+
+datum
+il dato
+
+sieve
+il colabrodo
+
+praline-coated; pralined
+pralinato
+
+crackling
+lo scoppiettio
+
+shelled
+sgusciato
+
+entrance gate
+il cancello d'ingresso
+
+exit gate
+il cancello d'uscita
+
+unplugged
+scollegato
+
+to unplug (something)
+scollegare (qualcosa)
+
+keep door shut
+tenere la porta chiusa
+
+to shut the door
+chiudere la porta
+
+to exclude; to shut out
+escludere
+
+to obstruct
+ostruire
+
+moral duty
+il dovere morale
+
+stranded
+arenato
 
