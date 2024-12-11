@@ -9548,7 +9548,7 @@ in the background (sound, music)
 in sottofondo
 
 flight crew
-l'equipaggio di condotta
+l'equipaggio di volo; l'equipaggio di condotta
 
 crew
 l’equipaggio
@@ -14696,7 +14696,7 @@ to hum; to buzz; to drone
 ronzare
 
 to rinse; to wash; to flush
-sciacquare
+sciacquare; sciaquare
 
 salt shaker
 la saliera
@@ -68285,6 +68285,9 @@ sembrare carini
 braggadocious
 vanto; arrogante
 
+to rinse again; to re-rinse
+risciacquare
+
 to rinse off
 risciacquare; sciacquare
 
@@ -82655,4 +82658,43 @@ la famiglia tipo
 
 like?
 tipo?
+
+side street
+strada laterale
+
+to enunciate
+enunciare
+
+traveling is a hassle
+viaggiare è una seccatura
+
+miter cut
+il taglio a mitra
+
+guage
+il calibro
+
+miter gauge
+il calibro a mitra
+
+porchetta shop
+la porchetteria
+
+ugly person
+la persona imbruttita
+
+ugly milanese
+il milanese imbruttito; la milanese imbruttita
+
+outsider (Milan)
+il giargiana
+
+God forbid if I were to
+Dio non voglia che io (congiuntivo)
+
+foreigner
+il forestiero
+
+provincial person
+il provinciale; la provinciale
 
