@@ -82698,3 +82698,5 @@ il forestiero
 provincial person
 il provinciale; la provinciale
 
+to drive there
+guidare lì
