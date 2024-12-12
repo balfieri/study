@@ -3316,7 +3316,7 @@ il malinteso
 to rewind; to wind
 riavvolgere
 
-to wrap; to wrap up; to wind; to roll; to envelop
+to wrap (cloth, plastic); to wrap up; to wind; to roll; to envelop
 avvolgere
 
 outrage; insult; indignity
@@ -82805,3 +82805,10 @@ fraterno
 
 oh what fun it is to (do something)!
 oh che divertimento è (fare qualcosa)!
+
+to wrap (paper)
+incartare
+
+to wrap the Christmas presents
+incartare i regali di Natale
+
