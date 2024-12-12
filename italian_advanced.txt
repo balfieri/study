@@ -6961,7 +6961,7 @@ supposto
 alleged
 presunto
 
-dwarf; midget; gnome
+dwarf; midget; gnome; son (Milan)
 il nano
 
 to bribe; to corrupt; to subvert
@@ -32480,7 +32480,10 @@ enameled; glazed
 smaltato
 
 to glaze
-smaltare
+smaltare; glassare
+
+to deglaze
+sglassare
 
 self-steering
 autosterzatura
@@ -82703,3 +82706,70 @@ guidare lì
 
 flush; rinse
 il risciacquo
+
+glazed donut
+la ciambella glassata
+
+to crash (something)
+imbucarsi a (qualcosa)
+
+to crash the party
+imbucarsi alla festa
+
+G-spot
+il punto G
+
+chick
+la gnocca
+
+courtship
+il corteggiamento
+
+I want to be with you;
+voglio metterti con me; voglio mettermi con te
+
+to remove makeup
+struccare
+
+delta variant
+il variante delta
+
+catcalling
+il cat calling
+
+of little faith
+di poca fede
+
+I'm afraid to ask
+ho paura di chiedere
+
+diminutive
+vezzeggiativo
+
+dwarfism
+il nanismo
+
+of quality
+di livello
+
+sexy talk
+il sexy talk
+
+erectile dysfunction
+la disfunzione erettile
+
+quality stuff
+la roba di livello
+
+holiday postcard
+la cartolina delle vacanze
+
+il biglietto d'auguri per le vacanze
+holiday card
+
+Christmas postcard
+la cartolina di Natale
+
+Christmas card
+il biglietto di Natale
+
