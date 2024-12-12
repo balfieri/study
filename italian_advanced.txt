@@ -532,7 +532,7 @@ l'inserzione
 to carry out; to perform; to fulfill; to accomplish; to play (role)
 svolgere
 
-to pack; to wrap; to package
+to pack; to package; to wrap (for shipment)
 imballare
 
 altogether different
@@ -3313,11 +3313,11 @@ il bisticcio
 misunderstanding; mistake; misapprehension
 il malinteso
 
-to rewind; to wind
-riavvolgere
-
 to wrap (cloth, plastic); to wrap up; to wind; to roll; to envelop
 avvolgere
+
+to rewrap (cloth, plastic)
+riavvolgere
 
 outrage; insult; indignity
 l'oltraggio
@@ -11776,7 +11776,7 @@ lo scarto
 to scream
 mettersi a gridare
 
-to rewrap
+to rewrap (paper)
 rincartare
 
 dinner table
