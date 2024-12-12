@@ -82812,3 +82812,12 @@ incartare
 to wrap the Christmas presents
 incartare i regali di Natale
 
+to come in from the cold
+entrare dal freddo
+
+to come in from the rain
+entrare dalla pioggia
+
+to fill the Christmas stockings
+riempire le calze di Natale
+
