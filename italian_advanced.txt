@@ -63510,7 +63510,7 @@ bachelor party
 l'addio al celibato; la festa di addio al celibato
 
 let alone; much less
-tantomeno; tanto meno
+figuriamoci; tantomeno; tanto meno
 
 to tower; to stand out
 svettare
@@ -82787,4 +82787,10 @@ il pezzo di arredamento
 
 season's greetings card
 la cartolina di buone feste
+
+to decorate the house
+decorare la casa
+
+what plans do you have?
+che programmi hai?
 
