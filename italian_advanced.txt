@@ -82868,3 +82868,6 @@ to change back (something)
 
 to change back into (something)
 cambiare di nuovo in (qualcosa)
+
+random (something)
+(qualcosa) a caso
