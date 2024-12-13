@@ -3829,7 +3829,7 @@ centesimo
 thousandth (adjective)
 millesimo
 
-side; hip (body)
+side (body); hip
 il fianco
 
 in the middle of; in the center; downtown
@@ -5131,7 +5131,7 @@ il governo
 character (symbol)
 il carattere
 
-side; part
+side; part (generic)
 la parte
 
 earth; ground; dirt (general)
@@ -6397,7 +6397,7 @@ veneto
 continually
 continuamente
 
-side
+side (physical, abstract)
 il lato
 
 career
