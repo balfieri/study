@@ -56720,9 +56720,6 @@ mettere voglia
 chosen one
 la prescelta
 
-scrap paper; waste paper
-il cartaccio; la carta da macero; la carta di scarto
-
 astonished; amazed; astounded
 sbalordito; stupito
 
@@ -82871,3 +82868,13 @@ cambiare di nuovo in (qualcosa)
 
 random (something)
 (qualcosa) a caso
+
+scrap wood
+il legno di scarto
+
+scrap paper; waste paper
+la carta di scarto; il cartaccio; la carta da macero
+
+scrap (something)
+(qualcosa) di scarto
+
