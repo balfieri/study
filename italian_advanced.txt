@@ -2848,7 +2848,7 @@ il paragone
 comparison (more formal, scientific)
 la comparazione
 
-assault
+assault; onslaught
 l'assalto
 
 to court; to woo; to woo over
@@ -82877,4 +82877,25 @@ la carta di scarto; il cartaccio; la carta da macero
 
 scrap (something)
 (qualcosa) di scarto
+
+magical period
+il periodo magico
+
+onslaught of
+l'assalto di
+
+to find housing
+trovare casa
+
+housing shortage
+la carenza di alloggi
+
+antimatter
+antimateria
+
+yodel
+il jodel
+
+to yodel
+fare il jodel
 
