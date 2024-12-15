@@ -82949,3 +82949,16 @@ intervistare (qualcuno)
 
 ratio
 il razio
+
+sweetgreen
+il dolceverde
+
+cardamom
+il cardamomo
+
+cashew
+l'anacardio
+
+wedding cake
+la torta nuziale
+
