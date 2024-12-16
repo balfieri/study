@@ -1393,10 +1393,10 @@ la prememoria
 at the same time
 al tempo stesso
 
-step-father
+step-father; step-dead
 il patrigno
 
-step-mother
+step-mother; stop-mom
 la matrigna
 
 to smoke pot; to smoke weed
