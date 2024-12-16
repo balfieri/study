@@ -37474,7 +37474,7 @@ essere in pausa
 at this rate
 a questo ritmo; a questo tasso
 
-range (distance); reach
+range (distance); reach; course (meal)
 la portata
 
 pat
@@ -82994,4 +82994,7 @@ il corso di cucina
 
 to make a little effort
 fare un po' di fatica
+
+seven-course meal
+il pasto di sette portate
 
