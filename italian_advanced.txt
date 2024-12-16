@@ -82986,3 +82986,6 @@ il speleologo; la speleologa
 roasted chestnut
 la caldarosta
 
+cooking class; cooking course
+il corso di cucina
+
