@@ -1605,8 +1605,8 @@ ci starei per
 to lawyer up
 consultare un avvocato; ingaggiare un avvocato
 
-to wait with baited breath
-aspettare con il fiato sospeso; aspettare con il fiato in sospeso; aspettare con ansia; aspettare con trepidazione
+to wait with bated breath
+stare col fiato sospeso; aspettare con il fiato sospeso; aspettare con il fiato in sospeso; aspettare con ansia; aspettare con trepidazione
 
 look what the cat dragged in
 guarda che cosa ha portato dentro il gatto; guarda chi si vede; guarda chi si rivede
@@ -2879,9 +2879,6 @@ spento troppo sulla casa e non si può permettere altro
 
 it's on us; it's our treat
 paghiamo noi
-
-flattery will take you everywhere
-l'adulazione ti porterà ovunque
 
 airing of grievances
 l'esposizione dei rancori
@@ -5447,4 +5444,7 @@ ritornare alla nave madre
 
 to be sharp dresser
 vestirsi in modo elegante
+
+flattery will get you everywhere
+le lusinghe ti porteranno ovunque; l'adulazione ti porterà ovunque
 

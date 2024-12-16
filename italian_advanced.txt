@@ -1516,7 +1516,7 @@ in corso; in atto; in progresso; in fieri
 shadow; shade
 l'ombra
 
-hanging; suspended; floating (bookshelf)
+hanging; suspended; floating (bookshelf); bated
 sospeso
 
 to hang oneself
@@ -17557,9 +17557,6 @@ perdere la faccia
 to preach to the choir
 sfondare una porta aperta
 
-to wait with bated breath
-stare col fiato sospeso
-
 to cut ties
 tagliare i ponti
 
@@ -18727,7 +18724,7 @@ assiduo
 alternation; rotation; shift; turnover
 l'avvicendamento
 
-to deaden; to attenuate; to tone down; to diminish; to weaken
+to deaden; to attenuate; to tone down; to diminish; to weaken; to abate
 attenuare
 
 to foretell; to hope for
@@ -21553,7 +21550,7 @@ elementare
 cognition
 la cognizione
 
-condemned; convicted
+condemned; convicted; doomed
 condannato
 
 Virgil
@@ -23215,7 +23212,7 @@ la cavità
 variant
 la variante
 
-to provoke; to cause; to induce; to needle
+to provoke; to cause; to induce; to needle; to bait
 provocare
 
 suppression
@@ -33802,7 +33799,7 @@ proclamare
 forecast
 il pronostico
 
-convicted (noun)
+convicted; doomed
 il condannato; il pregiudicato
 
 withdrawal
@@ -39443,7 +39440,7 @@ to manipulate
 manipolare
 
 flattery; adulation
-l'adulazione; la lusinga
+l'adulazione; la lusinga; le lusinghe
 
 to file (physically); to smooth
 limare; levigare
@@ -69672,7 +69669,7 @@ stage presence
 la presenza scenica
 
 hare
-il lepre
+la lepre
 
 shortbread
 il frollino; il pasticcino; la pasta frolla
@@ -82964,3 +82961,22 @@ la torta nuziale
 
 nerdiness; nerditude
 la nerditudine
+
+self-possessed
+padronanza di sé
+
+router table
+il tavolo per fresatrice
+
+baited
+adescato
+
+abated; attenuated
+attenuato
+
+to run underneath; to undertow
+sottocorrente
+
+speleologist; cave scientist
+il speleologo; la speleologa
+
