@@ -43,7 +43,7 @@ arrugginito
 to rust
 arrugginire; arrugginirsi
 
-cozy; welcoming
+cozy; welcoming; snug
 accogliente; caloroso
 
 almond
@@ -83067,4 +83067,12 @@ il peggior tipo; la peggiore tipologia
 best kind  
 il miglior tipo; la migliore tipologia
 
+snugly; in a cozy way
+in modo accogliente
+
+snuggy; blanket with sleeves
+la coperta con maniche
+
+to snuggle; to cuddle; to nestle
+coccolare; rintanarsi
 
