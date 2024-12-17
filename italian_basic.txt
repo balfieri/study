@@ -7921,3 +7921,5 @@ un po'
 line (people); row
 la fila
 
+(something) pisses me off
+m'incazza (qualcosa)
