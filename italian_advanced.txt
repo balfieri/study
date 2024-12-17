@@ -53026,7 +53026,7 @@ passare in secondo piano
 to go into the background
 andare in secondo piano
 
-to be in the background
+to be in the background (attention, priority)
 essere in secondo piano
 
 to work full time
