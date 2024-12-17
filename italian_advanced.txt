@@ -83034,3 +83034,6 @@ essere in vena di fare qualcosa
 I think I've asked you this before
 penso di avertelo già chiesto
 
+I'm not sure if I've already asked you this
+non sono sicuro se te l'ho già chiesto
+
