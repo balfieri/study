@@ -2339,7 +2339,7 @@ swimming
 il nuoto
 
 skiing
-lo sci
+lo sci; le sciate
 
 gymnastics
 la ginnastica
