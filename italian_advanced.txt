@@ -75287,7 +75287,7 @@ presentarsi a
 ear of corn
 la pannocchia; la spiga di mais
 
-work-around
+work-around; workaround
 la soluzione alternativa
 
 to find a work-around
@@ -83078,3 +83078,7 @@ coccolare; rintanarsi
 
 albino
 albino
+
+to implement a workaround
+implementare una soluzione alternativa
+
