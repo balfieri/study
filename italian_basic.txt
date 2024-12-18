@@ -4324,7 +4324,7 @@ importante
 short; brief
 breve
 
-particular
+particular; distinctive; different from the norm (can be positive or negative)
 particolare
 
 human (adjective)

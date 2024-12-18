@@ -2773,7 +2773,7 @@ buona visione!
 spark plug
 la candela di accensione
 
-spark; flash
+scintilla; spark; flash
 la scintilla; il lampo
 
 to sparkle
@@ -22549,7 +22549,7 @@ il corriere
 school (adjective); scolastic
 scolastico
 
-precious
+precious; valuable
 prezioso
 
 judicial (relating to judiciary)
@@ -25789,7 +25789,7 @@ ho finito il tempo; non ho avuto tempo
 after all is said and done
 doppotutto
 
-antiquated
+antiquated; archaic
 antiquato
 
 it's not great; it sucks
@@ -26344,7 +26344,7 @@ il cavatappi
 it is not meant to be (something)
 non vuol essere (qualcosa)
 
-extravagant; bizzare; outlandish
+extravagant; bizzare; outlandish; campy
 stravagante
 
 somewhat; rather
@@ -37396,7 +37396,7 @@ la laparoscopia
 I know a guy who knows a guy
 conosco un tizio che conosce un altro tizio
 
-to be of great help
+to be a big help
 essere di grande aiuto
 
 tarp
@@ -55009,8 +55009,8 @@ la sala del pranzo
 to take a breath
 prendere un fiato
 
-helpful
-aiutevole
+helpful (archaic)
+aiutevole (antiquato)
 
 they are coming to our house this evening
 vengono a casa nostra questa sera
@@ -83081,4 +83081,13 @@ albino
 
 to implement a workaround
 implementare una soluzione alternativa
+
+valued role; cherished position
+il ruolo apprezzato; la posizione amata
+
+to be very helpful
+essere molto utili
+
+scintillating
+scintillante
 
