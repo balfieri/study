@@ -32950,8 +32950,8 @@ il clima di fiducia
 to advertise this site
 fare pubblicità a questo sito
 
-to hear of
-sentire parlare di
+to hear of (something); to hear about (something)
+sentire parlare di (qualcosa)
 
 serendipity
 la serendipità
@@ -83090,4 +83090,19 @@ essere molto utili
 
 scintillating
 scintillante
+
+to keep (something) as a memento
+conservare (qualcosa) come ricordo
+
+tasting; taste
+l'assaggiamento
+
+when it eventually breaks
+quando si romperà alla fine; quando si romperà eventualmente
+
+when it inevitably breaks
+quando inevitabilmente si romperà
+
+to pave
+lastricare
 

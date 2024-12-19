@@ -4657,7 +4657,7 @@ la lista
 list (ordered)
 l'elenco
 
-memory (instance)
+memory (instance); momento; keepsake
 il ricordo
 
 laugh
