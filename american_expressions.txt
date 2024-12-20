@@ -5469,3 +5469,6 @@ la strada per l'inferno è lastricata di buone intenzioni
 we've been down this road before  
 siamo già stati su questa strada  
 
+you can lead a horse to water but you can't make him drink
+puoi portare un cavallo all'acqua ma non puoi costringerlo a bere
+
