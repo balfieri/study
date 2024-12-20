@@ -83208,3 +83208,6 @@ codificare; cifrare
 eyedropper
 il contagocce
 
+counterintuitively
+controintuitivamente
+
