@@ -5473,5 +5473,5 @@ you can lead a horse to water but you can't make him drink
 puoi portare un cavallo all'acqua ma non puoi costringerlo a bere
 
 a dead dog chases no cars
-un cane morto non insegue le macchine
+un cane morto non insegue le macchine; un cane morto non può inseguire le macchine
 
