@@ -50002,11 +50002,11 @@ la Svezia
 at the beginning of the 20th century
 all'inizio del XX secolo
 
-slob
-lo sciatto; il trasandato
+slob; slovenly person
+lo sciattone; lo sciatto; il trasandato
 
-dress like a slob
-vestirsi come uno sciatto; vestirsi in modo trasandato
+to dress like a slob
+vestirsi come uno sciattone; vestirsi come uno sciatto; vestirsi in modo trasandato
 
 to import
 importare
@@ -83249,10 +83249,4 @@ itinerante
 
 traveling attraction
 l'attrazione itinerante
-
-slob; slovenly person
-lo sciattone
-
-to dress like a slob
-vestirsi come uno sciattone
 
