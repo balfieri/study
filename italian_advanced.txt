@@ -10333,7 +10333,7 @@ il congelatore
 freezing
 il congelamento; la gelatura
 
-to thaw
+to thaw; to defrost
 scongelare
 
 thawing
@@ -41371,7 +41371,7 @@ in compenso
 dark brown
 marrone scuro
 
-to rise again
+to rise again (e.g., Christ)
 risorgere
 
 to resurrect; to bring back to life
@@ -51778,7 +51778,7 @@ variare in base a
 vary depending on
 variare a seconda di
 
-to divulge
+to popularize; to disseminate; to divulge
 divulgare
 
 to get to the core of the problem
@@ -83210,4 +83210,49 @@ il contagocce
 
 counterintuitively
 controintuitivamente
+
+to go viral
+diventare virale
+
+to pick up (something)
+prendere (qualcosa) in braccio
+
+to let pick up
+lasciar prendere in braccio
+
+to popularize science; to disseminate science
+divulgare la scienza
+
+Christ has risen
+Cristo è risorto
+
+you have done a great job with
+hai fatto un ottimo lavoro con
+
+I hope your website goes viral
+spero che il tuo sito web diventi virale
+
+be good!
+sii buono!
+
+short of breath
+affannato
+
+shortness of breath
+la mancanza di respiro
+
+sportscar
+l'auto sportiva
+
+traveling (touring)
+itinerante
+
+traveling attraction
+l'attrazione itinerante
+
+slob; slovenly person
+lo sciattone
+
+to dress like a slob
+vestirsi come uno sciattone
 
