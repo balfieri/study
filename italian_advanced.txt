@@ -2230,7 +2230,7 @@ prevedere
 in competition (competing)
 in concorrenza
 
-to occur; to happen; to take place (official, formal)
+to occur; to happen; to take place (formal, technical, official)
 avvenire
 
 to equip oneself; to provide oneself
@@ -33496,10 +33496,10 @@ denunciare una sentenza
 judicial decision
 la decisione giudiziaria
 
-to seal; to sign
+to seal; to sign; to initialize
 siglare
 
-sealed; signed
+sealed; signed; initialized
 siglato
 
 grueling shift
@@ -83249,4 +83249,37 @@ itinerante
 
 traveling attraction
 l'attrazione itinerante
+
+to be an embarrassment
+essere un imbarazzo
+
+thumbprint cookie
+il biscotto con impronta
+
+most important in the world
+più importante al mondo
+
+most-trusted
+più affidabile
+
+orchard
+il frutteto
+
+to be born out of wedlock
+essere nati fuori dal matrimonio
+
+will (someone) be joining us this evening?
+(qualcuno) si unirà a noi questa sera?
+
+ten times better
+dieci volte meglio
+
+to gain in popularity
+guadagnare in popolarità
+
+to supply power to data centers running artificial intelligence workloads
+fornire energia ai data center che gestiscono carichi di lavoro di intelligenza artificiale
+
+to give prominence
+dare rilievo
 

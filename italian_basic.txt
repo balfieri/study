@@ -1342,10 +1342,10 @@ basta
 to happen (by chance)
 capitare
 
-to happen (general)
+to happen (general, daily events)
 succedere
 
-to happen; to occur (noteworthy event, formal)
+to happen; to occur (unexpectedly, noteworthy event)
 accadere
 
 it takes; it requires
