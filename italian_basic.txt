@@ -6193,7 +6193,7 @@ affettuoso
 express; espresso
 l'espresso
 
-decision
+decision; call
 la decisione
 
 initial

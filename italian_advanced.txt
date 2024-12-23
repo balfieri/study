@@ -24244,7 +24244,7 @@ il guanto da forno
 draped
 addrappato
 
-referee; umpire
+referee; umpire; ref
 l'arbitro
 
 what's up with you?
@@ -25282,7 +25282,7 @@ la rapidità
 instict
 l'istinto
 
-clue; indication
+clue; indication; hint
 l'indizio
 
 to oppose
@@ -83218,7 +83218,7 @@ to pick up (something)
 prendere (qualcosa) in braccio
 
 to let pick up
-lasciar prendere in braccio
+permettere di prendere in braccio
 
 to popularize science; to disseminate science
 divulgare la scienza
@@ -83282,4 +83282,49 @@ fornire energia ai data center che gestiscono carichi di lavoro di intelligenza 
 
 to give prominence
 dare rilievo
+
+toasted (rustic, directly on flame)
+abrustolito
+
+to toast (directly on flame)
+abrustolire
+
+by the slice
+al trancio
+
+clear voice
+la voce chiara
+
+to wrap in plastic
+avvolgere nella plastica
+
+to gain importance
+guadagnare importanza
+
+sovereign AI
+l'IA sovrana
+
+too much to do
+troppo da fare
+
+salaried
+stipendiato
+
+the time from start to eating is 48 hours
+il tempo dall'inizio al momento di mangiare è di 48 ore
+
+toga
+la toga
+
+tough call
+la decisione difficile
+
+good call!
+buona decisione!
+
+the ref made a bad call; the referee made a bad call
+l'arbitro ha preso una decisione sbagliata
+
+home ownership
+la proprietà della casa
 
