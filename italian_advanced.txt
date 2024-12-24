@@ -3151,7 +3151,7 @@ completamente; interamente; approfonditamente; assolutamente; del tutto
 entirely
 interamente
 
-to occur; to take place; to happen (event, fenomenom, situation)
+to occur; to take place; to happen (confirmed, realized, observed)
 verificarsi
 
 magic
@@ -3952,7 +3952,7 @@ il patrimonio
 mere
 mero
 
-to facilitate; to help; to make (something) easy
+to facilitate; to help; to make (something) easy; to relieve
 facilitare; agevolare
 
 albeit
@@ -5506,7 +5506,7 @@ il corsista
 waiver; exemption; exoneration
 l'esonero
 
-facilitation; relief; facility
+relief; facilitation; facility (reduction in effort or burden involved)
 l'agevolazione
 
 continuing; continual
@@ -16917,9 +16917,6 @@ meglio così
 
 better this than nothing at all
 meglio di nulla
-
-thank goodness; luckily
-meno male
 
 do your best!
 metticela tutta!
@@ -44662,9 +44659,6 @@ sorpassare (qualcuno)
 to prepare; to get ready
 cingiare
 
-to deviate; to diverge; to stray
-discostarsi
-
 purchase receipt
 la ricevuta d'acquisto
 
@@ -64256,7 +64250,7 @@ lo squillo; la ragazza squillo
 to get you going
 rimettervi in moto
 
-to deviate; to diverge
+to deviate; to diverge; to stray
 discostarsi; divergere
 
 call girl
@@ -83327,4 +83321,49 @@ l'arbitro ha preso una decisione sbagliata
 
 home ownership
 la proprietà della casa
+
+to wax
+depilare con cera; incerare
+
+underage girl
+la ragazza minorenne
+
+to wrap up
+ravolgere
+
+to make ravioli
+raviolare
+
+that is a given
+è un dato di fatto
+
+leaden
+plumbeo
+
+restrictive; restraining
+restrittivo
+
+eyelash
+il ciglio
+
+crime novel
+il poliziesco
+
+superstition
+la scarimanzia
+
+to increase the velocity
+aumentare la velocità
+
+to describe in words
+descrivere a parole
+
+woodworking jig
+la dima per lavorare il legno
+
+dried pasta
+la pasta secca
+
+fresh pasta
+la pasta fresca
 
