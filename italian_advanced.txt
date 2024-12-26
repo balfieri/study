@@ -9808,9 +9808,6 @@ allenarsi
 general relativity
 la relatività generale
 
-special relativity
-la relatività speciale
-
 equation
 l'equazione
 
@@ -15898,8 +15895,8 @@ rimanere in contatto; farsi sentire
 against all odds
 contro ogni previsione
 
-to give it a shot
-provarci
+to give it a shot at; to try one's hand at
+provarci con
 
 in all likelihood
 con tutta probabilità
@@ -83390,3 +83387,25 @@ il marciume cerebrale
 
 fogging; clouding
 l'annebbiamento
+
+bragger's rights
+diritti di vanto
+
+survivor
+il superstito; la superstita
+
+DINK couple
+la coppia dink
+
+epic (noun)
+l'epopea
+
+caboose
+la carrozza di coda; il vagone di coda
+
+special relativity; special theory of relativity
+la teoria della relatività ristretta; la relatività speciale
+
+Hanukkah
+Hanukkah
+
