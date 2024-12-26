@@ -11482,8 +11482,8 @@ divincolarsi
 water color
 l'acquarello
 
-to derail
-deragliare
+to derail; to jump the tracks
+deragliare; uscire dai binari
 
 monolithic
 monolitico
@@ -34602,9 +34602,6 @@ il francofilo
 
 anglophile
 l'anglofilo
-
-to derail; to go off the tracks
-uscire dai binari
 
 to move away
 discostare
@@ -83409,3 +83406,17 @@ la teoria della relatività ristretta; la relatività speciale
 Hanukkah
 Hanukkah
 
+the day after christmas
+il giorno dopo Natale
+
+color scale
+la scala colore
+
+four consecutive cards of the same suit
+quattro carte consecutive dello stesso seme
+
+garbage disposal
+il tritarifiuti
+
+liver paté
+il paté di fegato
