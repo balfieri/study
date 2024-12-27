@@ -43126,9 +43126,6 @@ l'abitacolo
 resuscitation
 la rianimazione
 
-unharmed
-illeso
-
 to comply
 ottemperare
 
@@ -68306,7 +68303,7 @@ sicilianede
 small business
 la piccola impresa
 
-witch
+witch; hag
 la strega
 
 sorceress
@@ -76121,7 +76118,10 @@ l'istituto tecnico
 in my defense
 in mia difesa
 
-unharmed; unscathed
+unharmed 
+illeso
+
+unscathed
 indenne
 
 to come out unscathed
@@ -83420,3 +83420,61 @@ il tritarifiuti
 
 liver paté
 il paté di fegato
+
+misguided
+fuorviato
+
+to walk away unscathed
+andare via illeso
+
+water landing; splashdown
+l'ammaraggio
+
+to weightlift
+fare sollevamento pesi
+
+Halley's comet
+la cometa di Halley
+
+to prepare oneself
+accingersi
+
+to set out; to aim
+prefiggere
+
+analysis
+la disamina
+
+waste (nuclear)
+le scorie
+
+for embezzlement
+per peculato
+
+energy-consuming
+energivore
+
+potentate (person with near absolute power)
+il potentato
+
+regardless
+a prescindere
+
+unspoken
+sottaciuto
+
+in custody
+in custodia
+
+to board
+abbordare
+
+this company has a large moat
+questa azienda ha un grande fossato
+
+dry cleaner
+il lavasecco
+
+toothless
+sdentato
+
