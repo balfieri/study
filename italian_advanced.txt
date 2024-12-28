@@ -83610,3 +83610,11 @@ esasperato
 to keep (something) brief
 mantenere breve (qualcosa)
 
+to arrive by car
+arrivare in macchina
+
+to arrive by train
+arrivare in treno
+
+to arrive by bus
+arrivare in autobus
