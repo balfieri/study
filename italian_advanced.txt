@@ -6535,8 +6535,11 @@ il cammino
 hand gesture
 il gesto della mano
 
-by mistake; accidentally
-per sbaglio; accidentamente
+by mistake; mistakenly
+per sbaglio; erroneamente
+
+accidentally
+accidentamente
 
 to unfreeze
 scongelato
@@ -37241,7 +37244,7 @@ command line interface
 l'interfaccia a riga di comando
 
 nuclear waste
-i rifiuti nucleari
+le scorie nucleari
 
 hacking
 l'accesso non autorizzato; gli attacchi informatici
@@ -83516,3 +83519,36 @@ la soluzione collaudata
 
 to praise
 callaudare
+
+economies of scale
+le economie di scala
+
+I need a little more time to decide
+ho bisogno di un po' più di tempo per decidere
+
+cure-all; panacea
+il toccasana
+
+freewheeling; without constraints
+a ruota libera
+
+nursery rhyme
+la filastrocca
+
+presidential pardon
+il perdono presidenziale
+
+to play on the offensive
+giocare all'attacco
+
+glutinous; sticky; gluey
+glutinoso
+
+to deal the cards
+distribuire le carte
+
+look who's here!
+guarda chi c'è!
+
+unmistakenly
+inequivocabilmente

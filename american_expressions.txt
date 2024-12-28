@@ -1609,7 +1609,7 @@ to wait with bated breath
 stare col fiato sospeso; aspettare con il fiato sospeso; aspettare con il fiato in sospeso; aspettare con ansia; aspettare con trepidazione
 
 look what the cat dragged in
-guarda che cosa ha portato dentro il gatto; guarda chi si vede; guarda chi si rivede
+guarda cosa ha portato il gatto; guarda che cosa ha portato dentro il gatto; guarda chi si vede; guarda chi si rivede
 
 you don't call, you don't write
 non chiami, non scrivi; non telefoni, non scrivi
@@ -3160,7 +3160,7 @@ it's a wash
 è una situazione in pareggio
 
 six of one, half dozen of the other
-sei da una parte, mezza dozzina dall'altra
+sei da una parte, mezza dozzina dall'altra; due facce della stessa medaglia
 
 there's no I in team
 non c'è un io nella squadra
@@ -5498,3 +5498,7 @@ no harm, no foul!
 
 I was beginning to wonder!
 stavo cominciando a chiedermi!
+
+speak of the devil!
+parli del diavolo! 
+
