@@ -5005,8 +5005,8 @@ intanto, per cominciare
 was there ever any doubt?
 ci sono mai stati dubbi?
 
-charming; lovely
-affascinante; grazioso; incantevole
+charming
+affascinante; grazioso
 
 needy
 bisognoso
@@ -10195,8 +10195,11 @@ a basso consumo
 swearing
 le bestemmie
 
-lovely
-amabile; adorabile; incantevole
+amiable; pleasant
+amabile
+
+lovely; lovable
+adorabile; incantevole
 
 family heirloom
 il cimelio di famiglia
@@ -81048,9 +81051,6 @@ nascondersi da
 to get burned; to get burned out; to get exhausted
 bruciarsi; esaurirsi
 
-amiable; lovable
-amabile
-
 to wear off
 esaurirsi
 
@@ -83583,3 +83583,5 @@ rimediare al cattivo comportamento
 say nothing; don't say anything
 non dire niente
 
+lovely day
+il giorno incantevole
