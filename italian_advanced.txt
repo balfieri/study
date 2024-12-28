@@ -83607,3 +83607,6 @@ farsi mettere i punti allo stomaco
 exasperated
 esasperato
 
+to keep (something) brief
+mantenere breve (qualcosa)
+
