@@ -11867,7 +11867,7 @@ infinitive
 l'infinito
 
 report; newsletter; bulletin
-il bollettino
+il bollettino; il newsletter
 
 after the meal
 a fine pasto
@@ -23134,7 +23134,7 @@ la disposizione
 environmentalist
 l'ambientalista
 
-for a while
+for a while; awhile
 per un po'
 
 to feel uncomfortable; to feel self-conscious
@@ -83558,4 +83558,25 @@ fare lavori di falegnameria
 
 float switch
 l'interruttore a galleggiante
+
+Irish Republican Army (IRA)
+Irish Republican Army (IRA); l'esercito republicano irlandese
+
+to have been kicking around an idea in the back of one's mind for a while
+aver avuto un'idea in mente per un po' di tempo
+
+to give the benefit of the doubt
+dare il beneficio del dubbio
+
+to take note of (something)
+prendere nota di (qualcosa)
+
+to make up for lost years
+compensare gli anni persi
+
+to make up for lost time
+recuperare il tempo perso
+
+to make up for bad behavior
+rimediare al cattivo comportamento
 
