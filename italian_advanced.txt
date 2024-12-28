@@ -67220,8 +67220,11 @@ sento che sta arrivando un mal di testa
 it will take no time; it won't take long
 non ci metterà molto; ci vorrà poco tempo
 
-to sell off; to liquidate
-svendere; liquidare
+to sell of; 
+svendere
+
+to liquidate
+liquidare
 
 to plug into a socket
 inserire in una presa
@@ -83600,3 +83603,7 @@ la chirurgia di sutura gastrica
 
 to get one's stomach stapled; to get stiches in the stomach
 farsi mettere i punti allo stomaco
+
+exasperated
+esasperato
+
