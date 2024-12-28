@@ -1060,7 +1060,7 @@ il bagno; i servizi
 toilet
 la toilette; la toletta
 
-garbage; trash; trash can
+garbage; trash; trash can; junk
 i rifiuti; la spazzatura; l'immondizia
 
 shower
