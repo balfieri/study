@@ -8386,7 +8386,7 @@ l'erede
 stacks
 gli scaffali
 
-dense (mass); thick
+dense (mass, information); thick
 denso; fitto
 
 Zurich
@@ -83678,3 +83678,7 @@ simile al pane
 
 to get into a fight with
 mettersi a litigare con
+
+dense information
+le informazioni dense
+
