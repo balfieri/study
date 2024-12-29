@@ -83691,3 +83691,14 @@ entrare nel panico
 to be in a state of panic
 essere in uno stato di panico
 
+egg yolk
+il tuorlo
+
+lower-priority
+di priorità più bassa
+
+higher-priority
+di priorità più alta
+
+Mona Lisa
+la Gioconda
