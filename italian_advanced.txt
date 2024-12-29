@@ -70064,7 +70064,7 @@ le cascate
 to bite; to snap
 azzannare
 
-adjustment (small change to make an improvement)
+adjustment (small change to make an improvement); fine-tuning
 l'aggiustamento; il giustamento
 
 cleanroom; clean room
@@ -83681,4 +83681,13 @@ mettersi a litigare con
 
 dense information
 le informazioni dense
+
+to do some fine-tuning of
+fare qualche aggiustamento a
+
+to panic
+entrare nel panico
+
+to be in a state of panic
+essere in uno stato di panico
 
