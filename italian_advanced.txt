@@ -1640,7 +1640,7 @@ to find easy
 avere facilità
 
 gossip
-il pettegolezzo; i pettegolezzi
+il pettegolezzo; i pettegolezzi; il gossip
 
 to snare; to catch; to trap; to noose
 accalappiare
@@ -18850,7 +18850,7 @@ nobile
 fall; drop; downfall
 la caduta
 
-to plot; to draw; to track; to trace
+to plot; to draw; to track; to trace; to map out
 tracciare
 
 childish; childhood (adjective)
@@ -83625,3 +83625,53 @@ l'esame di servizio civile
 I am fine with anything
 va bene qualsiasi cosa
 
+diagnostic test
+il test diagnostico
+
+diagnostics
+la diagnostica
+
+to run diagnostics
+eseguire la diagnostica
+
+get whatever you want
+prendi quello che vuoi
+
+mid section; middle section
+la sezione centrale; la sezione di mezzo
+
+middle part
+la parte centrale
+
+to skeet-shoot
+sparare al piattello
+
+junk dealer
+il rigattiere; la rigattiera
+
+to beat one's wife
+picchiare propria moglie
+
+to hit one's wife
+colpire propria moglie
+
+domestic violence
+la violenza domestica
+
+we are facing a cold, harsh winter
+stiamo affrontando un inverno freddo e rigido
+
+to come to fruition
+arrivare a compimento
+
+cake-like consistency
+la consistenza simile a una torta
+
+bread-like consistency
+la consistenza simile al pane
+
+cake-like
+simile a una torta
+
+bread-like
+simile al pane
