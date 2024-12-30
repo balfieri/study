@@ -9967,7 +9967,7 @@ il rigonfiamento
 to show off
 mettersi in mostra; esibirsi; darsi delle arie
 
-to drill
+to drill (using a drill)
 trapanare
 
 drill bit
@@ -44347,7 +44347,7 @@ il mascalzone
 to have a brain
 avere cervello
 
-to pierce; to perforate; to punch (holes); to bore
+to pierce; to perforate; to punch (holes); to bore; to drill; to make a hole
 forare
 
 greyness
