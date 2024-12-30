@@ -51911,7 +51911,7 @@ sporadic
 sporadico
 
 to catch; to capture; to understand
-cattare
+cattare; catturare
 
 to defuse
 disinnescare
@@ -83744,4 +83744,13 @@ mettere a bagno
 
 pain is growth
 il dolore è una crescita
+
+the food came out great
+il cibo è venuto benissimo
+
+a few days before
+pochi giorni prima di
+
+steep hill
+la collina ripida
 
