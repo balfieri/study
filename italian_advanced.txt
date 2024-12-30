@@ -42148,9 +42148,6 @@ infaticabile; instancabile
 sleep schedule
 il programma del sonno
 
-to soak (general)
-mettere a bagno
-
 faultfinder; nitpicker
 il criticone; la criticona
 
@@ -83741,3 +83738,6 @@ recuperare gli anni persi
 
 to make up for lost time
 recuperare il tempo perso
+
+to soak (general)
+mettere a bagno
