@@ -83756,3 +83756,9 @@ la collina ripida
 
 to make (something) happen
 far accadere (qualcosa)
+
+my cut is 5%; my percentage is 5%
+la mia percentuale è del 5%
+
+my fee is 5%
+la mia tassa è del 5%
