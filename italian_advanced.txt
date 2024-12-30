@@ -24979,7 +24979,7 @@ la prosperità
 printout; leaflet
 lo stampato
 
-aptitude; predisposition; tendency
+aptitude; predisposition; tendency (innate)
 l'attitudine
 
 prospectus
@@ -31604,7 +31604,7 @@ athletic scholarship
 la borsa di studio atletica; la borsa di studio sportiva
 
 to make up for; to compensate
-compensare
+compensare; recuperare
 
 caulk
 il sigillante; lo stucco sigillante
@@ -83574,12 +83574,6 @@ dare il beneficio del dubbio
 to take note of (something)
 prendere nota di (qualcosa)
 
-to make up for lost years
-compensare gli anni persi
-
-to make up for lost time
-recuperare il tempo perso
-
 to make up for bad behavior
 rimediare al cattivo comportamento
 
@@ -83705,3 +83699,45 @@ la Gioconda
 
 around 6 (pm)
 intorno alle 6
+
+to huddle
+raggrupparsi
+
+nazi-fascist
+nazifascista
+
+lily of the valley (flower)
+il mughetto
+
+lightweight (noun)
+il peso leggero
+
+post-war
+postbellico
+
+Peace Corps
+i Peace Corps
+
+worn out
+sciupato
+
+slimmed down
+smagrito
+
+to call a strike
+indire uno sciopero
+
+to delude
+illudere
+
+dazzling; perfect
+smagliante
+
+obvious
+lampante
+
+to make up for lost years
+recuperare gli anni persi
+
+to make up for lost time
+recuperare il tempo perso

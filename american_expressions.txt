@@ -5511,3 +5511,6 @@ la dolce metà
 lovebug
 la coccinella
 
+to turn on (someone) to (something)
+fare scoprire (qualcosa) a (qualcuno)
+
