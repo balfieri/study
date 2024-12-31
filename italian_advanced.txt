@@ -83790,3 +83790,6 @@ it is tedious to (do something)
 to play poker
 giocare a poker
 
+play gin rummy
+giocare a gin ramino; giocare a gin rummy
+
