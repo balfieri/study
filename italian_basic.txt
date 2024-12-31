@@ -274,7 +274,7 @@ buono
 bad; mean
 cattivo
 
-well (adv); fine
+well (adverb); fine
 bene
 
 badly
@@ -2464,7 +2464,7 @@ la gola
 nausea
 la nausea
 
-better; best (adv)
+better; best (adverb)
 meglio
 
 worse

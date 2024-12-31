@@ -9325,7 +9325,7 @@ il succo ace
 spoilage
 il deterioramento
 
-daily (adv)
+daily (adverb)
 giornalmente
 
 front seat
@@ -13315,7 +13315,7 @@ il soccorso
 slaughterhouse; butchery
 il mattatoio
 
-so (adv); such (adv) (slightly formal, so much that it leads to a desired result)
+so (adverb); such (adverb) (slightly formal, so much that it leads to a desired result)
 talmente
 
 such (adjective)
@@ -18742,7 +18742,7 @@ primariamente
 dispute; conflict; confrontration; unrest
 la conflittualità
 
-jointly; together (adv); collectively
+jointly; together (adverb); collectively
 congiuntamente
 
 approval; assent; approbation
@@ -19519,7 +19519,7 @@ radicale
 foundation; establishment; founding
 la fondazione
 
-at the same time; together (adv); simultaneously; contemporaneously
+at the same time; together (adverb); simultaneously; contemporaneously
 contemporaneamente
 
 dialogue; dialog; conversation
@@ -25009,7 +25009,7 @@ l'accrescimento
 to analyze
 analizzare
 
-long (adv)
+long (adverb)
 lungamente
 
 siege
@@ -26272,7 +26272,7 @@ l'imposizione
 accused
 accusato
 
-weekly; weeklong
+weekly (adjective); weeklong
 settimanale
 
 Arab
@@ -47125,7 +47125,7 @@ la pastasciutta
 self-sufficiency
 l'autosufficienza
 
-grain (adj); cereal (adj)
+grain (adjective); cereal (adjective)
 cerealicolo
 
 to learn to (do something)
@@ -76025,10 +76025,10 @@ la finestra di tempo
 gorgeous day
 la splendida giornata
 
-weekly (adv)
+weekly (adverb)
 settimanalmente
 
-daily (adv)
+daily (adverb)
 quotidianamente
 
 noise cancellation
