@@ -30499,8 +30499,11 @@ automedicarsi; curarsi; medicarsi
 fortune cookie
 il biscotto della fortuna
 
-fan (of something)
-il tifoso; il fan
+fan (sports, sense of belonging)
+il tifoso
+
+fan (admirer)
+il fan
 
 sports fan
 il tifoso sportivo
@@ -83822,3 +83825,27 @@ in cima alla lista
 
 to approach the big dinner
 avvicinarsi del cenone
+
+ebulliente; bubbling
+ebolliente 
+
+exuberant
+esuberante
+
+to refactor the code
+to rifatturizzare il codice
+
+turbidity
+la torbidità
+
+general populace
+il pubblico generale
+
+average idiot
+l'idiota medio
+
+over-proofed (bread)
+troppo lievitato
+
+under-proofed (bread)
+sotto-lievitato

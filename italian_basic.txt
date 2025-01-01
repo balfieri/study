@@ -6775,8 +6775,11 @@ ucciso
 love
 l'amore
 
-Happy New Year!
-Buon Capodanno!
+Happy New Year! (31st and 1st, turn of the year)
+buon capodanno!
+
+Happy New Year! (entire year ahead)
+buon anno!
 
 congratulations
 congratulazioni; complimenti
