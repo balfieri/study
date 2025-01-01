@@ -19999,8 +19999,8 @@ nominato
 to appear (out of nowhere, literary)
 apparire
 
-mixer (kitchen)
-la planetaria; l'impastatrice planetaria
+mixer (kitchen); stand mixer
+la planetaria; l'impastatrice planetaria; lo sbattitore
 
 to examine
 esaminare
@@ -83849,3 +83849,4 @@ troppo lievitato
 
 under-proofed (bread)
 sotto-lievitato
+
