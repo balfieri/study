@@ -76401,7 +76401,7 @@ jig saw
 il seghetto alternativo
 
 table saw
-la sega da banco
+la sega da tavolo; la sega da banco
 
 outfeed table
 il tavolo di uscita
@@ -76657,7 +76657,7 @@ to take for granted
 dare per scontato
 
 table saw fence
-la recinzione per sega da tavolo
+la recinzione per sega da tavolo; la recinzione per sega da banco
 
 I want you to meet (someone)
 voglio che tu conosca (qualcuno)
@@ -83850,3 +83850,17 @@ troppo lievitato
 under-proofed (bread)
 sotto-lievitato
 
+to diet
+fare una dieta
+
+to happen ages ago
+succedere molto tempo fa
+
+one thing is very clear
+una cosa è molto chiara
+
+more enjoyable way
+il modo molto più piacevole
+
+to emerge from (something)
+emergere da (qualcosa)
