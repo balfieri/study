@@ -2011,8 +2011,8 @@ a sinistra
 near
 vicino
 
-behind
-dietro
+behind (something)
+dietro (qualcosa); dietro di (pronome)
 
 around (circling a point); about
 attorno a
@@ -5475,6 +5475,9 @@ il passeggero
 
 in front of
 davanti a; di fronte a
+
+ahead of
+davanti a
 
 next to
 accanto a; di fianco a
