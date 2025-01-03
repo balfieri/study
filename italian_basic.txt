@@ -2293,7 +2293,7 @@ vuoto
 uncomfortable
 scomodo
 
-difficult; hard
+difficult; hard; challenging
 difficile
 
 a bit
