@@ -19468,7 +19468,7 @@ dichiarato
 depth; deepness; profundity
 la profondità
 
-fragment; scrap; chip
+fragment; scrap; chip; snippet
 il frammento
 
 legitimacy; legality; lawfulness
@@ -77904,7 +77904,7 @@ la levigatura
 polishing
 la lucidatura
 
-to settle down; to stabilize
+to settle down; to stabilize; to settle
 stabilizzarsi
 
 press officer
@@ -84002,3 +84002,31 @@ fiacco
 
 neophyte
 il neofita; la neofita
+
+clock cycle (logic)
+il ciclo dell'orologio (logica)
+
+combinational logic
+la logica combinatoria
+
+the logic has to settle
+la logica deve stabilizzarsi
+
+snippet of code
+il frammento di codice
+
+error-prone
+soggetto a errori
+
+(something)-prone
+soggetto a (qualcosa)
+
+cycle in the graph
+il ciclo nel grafo
+
+circular dependency
+la dipendenza circolare
+
+to pipeline the logic
+pipelining della logica
+
