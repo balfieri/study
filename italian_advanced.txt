@@ -946,7 +946,7 @@ il mangiatore schizzinoso
 picky about food
 schizzinoso nel cibo
 
-to expand
+to expand (general)
 espandere
 
 hallucinogenic
@@ -10645,7 +10645,7 @@ le nuvole sparse
 campus
 il campus
 
-to broaden; to expand
+to broaden; to expand; to increase
 ampiare
 
 irreplaceable
@@ -20125,6 +20125,9 @@ percepire
 superhero
 il supereroe
 
+superheroine
+la supereroina
+
 as usual; customarily
 di consueto
 
@@ -21754,7 +21757,7 @@ il lattosio
 integrator; supplement
 l'integratore
 
-serum
+serum; whey
 il siero
 
 sugary
@@ -23979,6 +23982,9 @@ la giovinezza
 
 hero
 l'eroe
+
+heroine
+l'eroina
 
 to find; to recover; to find again; to connect again (persons)
 ritrovare
@@ -50485,7 +50491,7 @@ la tabella di marcia
 to do an encore; to give a repeat performance
 fare il bis
 
-passable; practicable; negotiable
+passable; walkable; practicable; negotiable
 percorribile
 
 in stock; ready for delivery
@@ -65781,7 +65787,7 @@ please give us a tour of your house
 per favore, fai un tour della tua casa
 
 clothes pin; clip
-la molletta
+la molletta; la molletta per i vestiti
 
 driveway
 il passo carrabile
@@ -71751,7 +71757,7 @@ when it comes to matters of; when it comes to issues of
 quando si tratta di questioni di
 
 hair clip; clip
-il fermaglio
+il fermaglio; il fermaglio per capelli
 
 straight hair
 i capelli lisci
@@ -83946,3 +83952,53 @@ la caratteristica
 is that a feature or a bug?
 è una caratteristica o un difetto?
 
+maritime pine
+il pino marittimo
+
+tuff
+il tufo
+
+seat
+il sedio
+
+bad influence
+la cattiva influenza
+
+terrible influence; awful influence
+la pessima influenza
+
+to turn the page
+voltare la pagina
+
+depopulation
+lo spopolamento
+
+radioactive
+radioattivo
+
+to thicken
+densarsi
+
+curdling
+la cagliazione
+
+patrician
+lo patrizio; la patrizia
+
+to pine for (something)
+desiderare ardentemente (qualcosa)
+
+in a toga
+in toga
+
+more and more like (something)
+sempre più simile a (qualcosa)
+
+nel tempo; nel passare del tempo
+over time
+
+sluggish; languid
+fiacco
+
+neophyte
+il neofita; la neofita
