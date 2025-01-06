@@ -1345,7 +1345,7 @@ capitare
 to happen (general, daily events)
 succedere
 
-to happen; to occur (unexpectedly, noteworthy event)
+to happen; to occur (neutral on predictability, noteworthy event, narrative, descriptive)
 accadere
 
 it takes; it requires

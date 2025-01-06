@@ -427,9 +427,6 @@ prepotente
 catchy
 accattivante; orecchiabile
 
-to flaunt
-sfolgiare
-
 I want to let you know (informal)
 voglio farti sapere
 
@@ -1099,7 +1096,7 @@ il ripasso
 mastery; command; grasp (subject)
 la padronanza
 
-to unfold; to take place
+to unfold; to take place; to develop (story)
 svolgersi
 
 self-taught
@@ -2230,7 +2227,7 @@ prevedere
 in competition (competing)
 in concorrenza
 
-to occur; to happen; to take place (formal, technical, official)
+to occur; to happen; to take place (formal, technical, official, important or solemn or formal event)
 avvenire
 
 to equip oneself; to provide oneself
@@ -3151,7 +3148,7 @@ completamente; interamente; approfonditamente; assolutamente; del tutto
 entirely
 interamente
 
-to occur; to take place; to happen (confirmed, realized, observed)
+to occur; to take place; to happen; to come to be (formal, technical, preciese, official, confirmed, realized, observed)
 verificarsi
 
 magic
@@ -3621,9 +3618,6 @@ schiarire
 
 to wither; to fade; to shrivel
 sfiorire
-
-to transgress
-trasgredire
 
 to obey (old, literary)
 ubbidire
@@ -5485,7 +5479,7 @@ l’esenzione
 grants
 la borse di studio
 
-performance; yield; efficiency
+performance; yield; efficiency; achievement
 il rendimento
 
 upcoming; imminent; impending; originating
@@ -7080,9 +7074,6 @@ la scorta
 
 inventory; provisions; stocks; stockpile
 le scorte
-
-to flaunt; to exhibit; to show
-esibire
 
 to delight; to amuse
 dilettare
@@ -11877,6 +11868,9 @@ a fine pasto
 
 to flaunt; to show off; to rock
 sfoggiare
+
+to exhibit; to show (more neutral)
+esibire
 
 abundant
 abbondante
@@ -49810,9 +49804,6 @@ mettere a confronto
 lawsuit
 la causa legale
 
-to flout
-sfidare; ignorare
-
 I'm so proud of you
 sono così orgoglioso di te
 
@@ -67562,9 +67553,6 @@ studiare economia
 discount card; loyalty card
 la carta fedeltà; la carta sconto; la tessera fedeltà
 
-it grates on my nerves
-mi dà sui nervi
-
 cutting board with various cured meats; charcutarie board
 il tagliere con vari salumi
 
@@ -81678,8 +81666,8 @@ il contenitore usa e getta; il contenitore monouso
 self-destructive
 autodistruttivo
 
-ho delle buone notizie e delle cattive notizie
 I have some good news and some bad news
+ho una buona notizia e una cattiva notizia; ho delle buone notizie e delle cattive notizie
 
 overview; roundup; rundown
 la carrellata
@@ -84063,3 +84051,32 @@ sentire la pressione
 to feel the pressure to (do something)
 sentire la pressione di (fare qualcosa)
 
+to materialize
+concrettizzarsi
+
+achievement test
+il test di rendimento
+
+to flout; to transgress
+trasgredire
+
+to flout the rules
+trasgredire le regole
+
+U.S. foreign service
+il servizio estero degli Stati Uniti
+
+property values
+i valori delle proprietà
+
+heavily populated area
+l'area densamente popolata
+
+playmate
+il compagno di giochi
+
+I have a small favor to ask of you
+ho un piccolo favore da chiederti
+
+I found you (something)
+ti ho trovato (qualcosa)
