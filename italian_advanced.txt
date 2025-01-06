@@ -43321,9 +43321,6 @@ valgo la pena
 one down, four to go
 uno giù, quattro da andare
 
-to work very hard
-lavorare molto duramente
-
 to work extremely hard
 lavorare estremamente duro
 
@@ -52920,9 +52917,6 @@ ottimista
 
 optimist
 l'ottimista
-
-I'm working very hard on my Italian
-sto lavorando molto duramente sul mio italiano
 
 to lower; to drop; to subside
 calare
@@ -84080,3 +84074,14 @@ ho un piccolo favore da chiederti
 
 I found you (something)
 ti ho trovato (qualcosa)
+
+I'm working pretty hard at it
+ci sto lavorando abbastanza duramente
+
+I'm working very hard on my Italian
+sto lavorando molto duramente sul mio italiano
+
+to work very hard
+lavorare molto duramente
+
+
