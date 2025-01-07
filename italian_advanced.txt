@@ -490,9 +490,6 @@ nella metà del tempo
 icon
 una icona
 
-all in all
-nel complesso
-
 it changed
 è cambiato
 
@@ -38354,7 +38351,7 @@ strawberry patch
 la coltivazione di fragole; il campo di fragole
 
 all things considered; all in all
-tutto sommato
+tutto sommato; nel complesso
 
 this time was better
 questa volta è stata meglio
@@ -84084,4 +84081,24 @@ sto lavorando molto duramente sul mio italiano
 to work very hard
 lavorare molto duramente
 
+to fold (intransitive); to fold up
+piegarsi
+
+to fold down
+piegarsi verso il basso
+
+table extension
+l'estensione del tavolo
+
+sled
+il slittino
+
+to notice something about
+notare qualcosa riguardo a
+
+cartoonist
+il vignettista; la vignattista
+
+ground-breaking; earth-shattering
+innovativo; rivoluzionario
 
