@@ -84105,3 +84105,5 @@ innovativo; rivoluzionario
 quotation; price; quote (stock)
 la quotazione
 
+to read too low (sensor, thermometer)
+leggere troppo basso
