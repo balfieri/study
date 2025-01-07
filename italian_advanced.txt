@@ -84031,7 +84031,7 @@ to have a snub nose
 avere il naso in su
 
 so far
-fino ad ora
+fino ad ora; fin qui
 
 up to here
 fino a qui
@@ -84107,3 +84107,9 @@ la quotazione
 
 to read too low (sensor, thermometer)
 leggere troppo basso
+
+to bring (something) closer; to move (something) closer
+avvicinare (qualcosa)
+
+heating system
+il sistema di riscaldimento
