@@ -84102,3 +84102,6 @@ il vignettista; la vignattista
 ground-breaking; earth-shattering
 innovativo; rivoluzionario
 
+quotation; price; quote (stock)
+la quotazione
+
