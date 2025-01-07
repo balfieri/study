@@ -26449,8 +26449,8 @@ il fiat
 descended
 disceso
 
-to place; to put; to set
-collocare
+to place; to position; to put; to set
+collocare; posizionare
 
 prescribed
 prescritto
@@ -84119,3 +84119,7 @@ essere imparentati con (qualcuno)
 
 I am having some problems with (something)
 sto avendo dei problemi con (qualcosa)
+
+to reposition
+riposizionare
+
