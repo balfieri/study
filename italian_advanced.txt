@@ -83022,9 +83022,6 @@ insicuro; non sicuro
 insecure (person)
 non sicuro di sé
 
-emergency landing
-l'atterraggio di emergenza
-
 before the end of the year
 prima della fine dell'anno
 
@@ -84122,4 +84119,28 @@ sto avendo dei problemi con (qualcosa)
 
 to reposition
 riposizionare
+
+innovator's dilemma
+il dilemma dell'innovatore
+
+product line
+la linea di prodotti
+
+to cannibalize one's own product line
+cannibalizzare la propria linea di prodotti
+
+cookbook; recipe book
+il ricettario
+
+to radicalize oneself
+radicalizzarsi
+
+bleary; cloudy; foggy
+annebbiato
+
+to crash-land
+atterrare di emergenza
+
+crash-landing; emergency landing
+l'atterraggio di emergenza
 
