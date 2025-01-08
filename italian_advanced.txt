@@ -84144,3 +84144,6 @@ atterrare di emergenza
 crash-landing; emergency landing
 l'atterraggio di emergenza
 
+unkempt; scruffy
+trasandato
+
