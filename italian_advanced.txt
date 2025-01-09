@@ -54119,7 +54119,7 @@ motion detector
 il rilevatore di movimento
 
 rack
-la rastrelliera
+la rastrelliera; il rack
 
 front rack
 il portapacchi anteriore
@@ -70229,9 +70229,6 @@ Platone
 Ethernet switch; network switch
 il switch ethernet; il switch di rete
 
-rack (equipment)
-il rack
-
 record year
 l'anno record
 
@@ -84164,3 +84161,16 @@ l'ulcera
 
 to soar
 volare alto
+
+to catch by surprise
+cogliere di sorpresa
+
+dark period
+il periodo oscuro
+
+eloquence
+l'eloquio
+
+the shah
+lo scià
+
