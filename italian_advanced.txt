@@ -42235,7 +42235,7 @@ evaso da
 solstice
 il solstizio
 
-bendable
+bendable; foldable
 pieghevole
 
 choking; suffocation
@@ -84147,3 +84147,20 @@ l'atterraggio di emergenza
 unkempt; scruffy
 trasandato
 
+skylight
+l'abbaino
+
+landing (door)
+il pianerottolo
+
+foldable table
+il tavolo pieghevole
+
+hugger
+l'abbracciatore; l'abbracciatrice
+
+sore
+l'ulcera
+
+to soar
+volare alto
