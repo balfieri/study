@@ -76361,7 +76361,7 @@ non essere convinti
 to remain unconvinced
 rimanere non convinti
 
-carpentry (wood)
+carpentry (wood); woodworking
 la falegnameria
 
 carpentry (wood, metal)
@@ -84173,4 +84173,13 @@ l'eloquio
 
 the shah
 lo scià
+
+woodworking clamp
+il morsetto da falegnameria
+
+grape harvest
+la vendemmia
+
+to harvest grapes
+vendemmiare
 
