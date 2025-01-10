@@ -4023,9 +4023,6 @@ pagare il conto; pagare per tutti
 it's just a bunch of fluff
 è solo un mucchio di lanugine
 
-I don't care what everyone says about you, you're alright
-non mi interessa cosa dicono tutti di te, sei a posto
-
 to hook up
 mettersi insieme
 
@@ -5552,4 +5549,7 @@ paralisi da analisi
 
 you can't teach an old dog mew tricks
 non puoi insegnare a un vecchio cane nuovi trucchi
+
+I have a list a mile long of
+ho una lista lunga un miglio di
 
