@@ -1555,7 +1555,7 @@ il ritardo
 nice; kind
 gentile
 
-nice; likeable
+nice; likeable; fun (to be with)
 simpatico
 
 generous
