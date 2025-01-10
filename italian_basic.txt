@@ -6145,9 +6145,6 @@ morale
 single; individual
 singolo
 
-to indicate; to denote; to show
-indicare
-
 permission; permit
 il permesso
 
