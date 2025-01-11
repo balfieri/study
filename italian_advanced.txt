@@ -1556,7 +1556,7 @@ as opposed to
 al contrario di; come opposto a
 
 it turns out that
-sembra proprio che; salta fuori che; da quanto risulta; risulta che
+risulta che; sembra proprio che; salta fuori che; da quanto risulta
 
 around the same age
 circa la stessa età; meno della stessa età
@@ -7339,7 +7339,7 @@ esordire
 miss; mistress
 la madamigella
 
-anguish; agony; fear
+anguish; agony; fear; angst
 l'angoscia
 
 collected; gathered
@@ -84230,4 +84230,25 @@ irrecusabile
 
 to be okay; to be fine
 essere a posto
+
+it makes me happy
+mi fa felice
+
+it makes me smile
+mi da sorridere
+
+I'm embarrassed to be (something)
+mi vergogno di essere (qualcosa)
+
+I'm embarrassed to admit that (something)
+mi vergogno ad ammettere che (qualcosa)
+
+to cut and paste
+tagliare e incollare
+
+hollow
+cavo
+
+piece of gum
+il pezzo di gomma
 
