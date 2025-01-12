@@ -724,8 +724,11 @@ la madrelingua
 income
 i soldi entranti
 
-suburbs
-la provincia; i sobborghi
+suburb (positive, nice neighborhood outside the city)
+il quartiere residenziale fuori città; la zona tranquilla fuori città; la zona residenziale periferica; la periferia residenziale 
+
+suburb (negative, rundown neighborhood outside the city)
+il sobborgo
 
 every Monday
 ogni lunedì; di lunedì; il lunedì
@@ -7162,13 +7165,7 @@ la filologa
 zone (group of neighborhoods)
 la zona
 
-suburb
-il sobborgo
-
-suburbs; suburbia
-i sobborghi
-
-periphery (area outside a city or town); suburb
+periphery (surrounding area outside a city or town)
 la periferia
 
 small medieval part of a city
@@ -84264,3 +84261,26 @@ senza badare a
 out of this world
 fuori mondo
 
+winter wonderland
+il paese delle meraviglie invernale
+
+to botch (something); to mess up (something)
+fare un pasticcio di (qualcosa); pasticciare
+
+saw blade
+la lama di sega
+
+glue edge
+il bordo di colla
+
+to apply force to (something)
+applicare forza a (qualcosa)
+
+more money; other money
+altri soldi
+
+more money
+più denaro
+
+you know better than I
+tu ne sai più di me
