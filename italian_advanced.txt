@@ -7504,7 +7504,7 @@ invidiare
 envy
 l'invidia
 
-to overhear
+to overhear; to eavesdrop
 origliare
 
 to pick up (package); to withdraw (money); to collect
@@ -84292,5 +84292,13 @@ live on a compound
 vivere in un complesso
 
 I have no idea how they did it
-Non ho idea di come l'abbiano fatto
+non ho idea di come l'abbiano fatto
 
+to rent a movie
+rentare un film
+
+suit yourself; as you wish; however you want
+come vuoi
+
+throughout the film
+durante tutto il film

@@ -4324,7 +4324,7 @@ importante
 short; brief
 breve
 
-particular; distinctive; different from the norm (can be positive or negative)
+distinctive; different from the norm (can be positive or negative); not ordinary; not common; special; singular; peculiar
 particolare
 
 human (adjective)
@@ -6091,7 +6091,7 @@ l'operazione
 error
 l'errore
 
-specific
+specific; particular; well-defined; precise
 specifico
 
 preparation
