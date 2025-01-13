@@ -2920,7 +2920,7 @@ spacciare
 to recharge; to reload
 ricaricarsi
 
-gig; jig
+gig
 la giga
 
 abdominals
