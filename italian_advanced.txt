@@ -84311,3 +84311,6 @@ abbassarsi
 
 IV drip; intravenous drip
 il flebo; l'infusione endovenosa
+
+day-to-day duty; day-to-day task; daily task
+il compito quotidiano

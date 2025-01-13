@@ -6628,7 +6628,7 @@ inviato
 kilometer
 il chilometro
 
-daily; everyday (adjective); daylong
+daily; everyday (adjective); daylong; day-to-day
 quotidiano; giornaliero
 
 sufficient
