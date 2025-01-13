@@ -67506,7 +67506,7 @@ for rent
 affitasi
 
 back there
-lì dietro
+laggiù; lì dietro; in fondo
 
 extra forks
 le forchette extra
@@ -84076,7 +84076,7 @@ to fold (intransitive); to fold up
 piegarsi
 
 to fold down
-piegarsi verso il basso
+piegarsi verso il basso; abbassarsi
 
 table extension
 l'estensione del tavolo
@@ -84302,3 +84302,9 @@ come vuoi
 
 throughout the film
 durante tutto il film
+
+here in the front
+qui davanti
+
+to lower oneself; to fold down
+abbassarsi
