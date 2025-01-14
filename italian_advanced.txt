@@ -32476,10 +32476,13 @@ il giorno dopo è ancora più buona
 enameled; glazed
 smaltato
 
-to glaze
-smaltare; glassare
+to glaze (ceramics, art)
+smaltare
 
-to deglaze
+to glaze (food)
+glassare
+
+to deglaze (food)
 sglassare
 
 self-steering
@@ -84338,3 +84341,6 @@ la coda di rondine
 
 dovetail joint
 il giunto a coda di rondine
+
+how delicious!; what a delight!; how tasty!
+che bontà!
