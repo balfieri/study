@@ -2587,8 +2587,8 @@ ricordare (qualcosa)
 to lunch; to have lunch
 pranzare
 
-to live (in); to inhabit
-abitare
+to live in; to inhabit
+abitare in
 
 to use
 usare
