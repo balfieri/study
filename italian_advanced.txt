@@ -3787,7 +3787,7 @@ cocciutamente
 in anything in
 in alcunché in
 
-to appear; to come up; to show up
+to compare
 comparare
 
 kinship
@@ -15787,7 +15787,7 @@ tutto questo
 this kind of thinking
 questo modo di pensiero
 
-to vanish; to disappear; to fade away; to fade; to wear off
+to vanish; to disappear (gradually); to fade away; to fade; to wear off
 svanire
 
 there's no reception; there's no signal
@@ -19984,7 +19984,7 @@ immediato
 appointed
 nominato
 
-to appear (out of nowhere, literary)
+to appear; to become visible (physical, abstract)
 apparire
 
 mixer (kitchen); stand mixer
@@ -26800,7 +26800,7 @@ casuale
 casual
 informale
 
-to appear; to show up; to emerge (person, thing)
+to appear; to make an appearance; to show up; to emerge (person, thing)
 comparire
 
 narrator; storyteller
@@ -28327,7 +28327,7 @@ constare
 to abbandon; to give up; to leave (transitive); to ditch
 abbandonare
 
-to disappear
+to disappear (formal, dramatic)
 scomparire
 
 regulated
@@ -63938,9 +63938,6 @@ il bracciante; la bracciante
 to hover over
 aleggiare su
 
-to disappear
-scompare
-
 I'm sorry you feel that way
 mi dispiace che tu ti senti così; mi dispiace che tu la pensi così
 
@@ -73624,9 +73621,6 @@ il letto ospedale
 
 non-existent
 non esistente
-
-to appear
-apparricare
 
 good luck with everything
 in bocca al lupo per tutto
