@@ -7802,7 +7802,7 @@ surge; soaring
 l'impennata
 
 congested; clogged; backed up
-intasato
+congestionato; intasato
 
 familiarity (from frequent use or practice)
 la dimestichezza; la domestichezza
@@ -9844,7 +9844,7 @@ più bello
 wind farm
 il parco eolico
 
-post; poll
+post; poll; stake
 il palo
 
 mainland
@@ -25063,7 +25063,7 @@ radicalmente
 disk; disc; record
 il disco
 
-preventive
+preventative; preventive
 preventivo
 
 spatial
@@ -33085,7 +33085,7 @@ inquisire
 to scour; to scout; to search; to patrol
 perlustrare
 
-to surveil; to watch over; to supervise
+to surveil; to watch over; to supervise; to stake out
 sorvegliare
 
 to protract
@@ -84353,4 +84353,19 @@ fare il broncio
 
 to have pouty face
 avere una faccia imbronciata
+
+amusing (person, curiously funny)
+divertente; spiritoso; buffo; curioso; particolare
+
+the world is falling apart
+il mondo sta cadendo a pezzi
+
+steak house
+il ristorante di bistecche
+
+wooden stake
+il palo di legno
+
+he loves, he just doesn't know how to show it
+lui ama, solo che non sa come dimostrarlo
 
