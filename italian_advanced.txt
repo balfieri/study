@@ -40819,7 +40819,7 @@ lo spicchio
 established in 1970
 fondato nel 1970
 
-overwhelming (powerful, strong)
+overwhelming (powerful, strong, huge)
 travolgente
 
 unimpressive
@@ -84386,3 +84386,6 @@ l'otturazione; l'otturazione dentale
 
 dentistry
 l'odontoiatria
+
+to talk (somebody) out of (doing something); to convince (somebody) to not (do something)
+convincere (qualcuno) a non (fare qualcosa)
