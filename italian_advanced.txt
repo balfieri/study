@@ -1195,7 +1195,7 @@ mantenere il punteggio; tenere il punteggio
 to be masachistic
 essere masachisti
 
-to evaluate; to appraise; to grade; to rate
+to evaluate; to appraise; to grade; to rate; to assess
 valutare
 
 blackmail
@@ -2533,7 +2533,7 @@ abilitare
 to browse; to leaf through
 sfogliare
 
-cavity; decay
+decay
 la carie
 
 shelf; rack
@@ -3085,7 +3085,7 @@ tenere la destra
 to keep left
 tenere la sinistra
 
-to crush; to flatten; to squeeze; to squash; to spike
+to crush; to flatten; to squeeze; to squash; to spike; to mash
 schiacciare
 
 at sign; snail
@@ -45388,9 +45388,6 @@ il sottobosco
 decantation
 la decantazione
 
-included
-annoverato
-
 goblet
 il calice
 
@@ -69473,7 +69470,7 @@ la vetrata
 osteoporosis
 l'osteoporosi
 
-to push a button
+to push a button; to mash a button
 schiacciare un pulsante; premere un pulsante
 
 when we get in touch; when we hear from each other
@@ -84368,3 +84365,18 @@ trovare alternative a (qualcosa)
 
 hang on tight and enjoy the ride
 tieniti forte e goditi il viaggio
+
+listed; enrolled; included
+annoverato
+
+sei bloccato con me
+you're stuck with me
+
+tooth filling
+l'otturazione dentale
+
+tooth decay
+la carie dentale
+
+to defeat the purpose of
+vanificare lo scopo ddi
