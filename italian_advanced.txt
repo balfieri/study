@@ -17155,9 +17155,6 @@ sembri molto a tuo agio a
 you get only one chance to make a first impression
 hai una sola possibilità per fare prima impressione
 
-you know that?
-lo sai?
-
 to be lost for words; to be speechless
 essere senza parole; non avere parole; non sapere cosa dire
 
@@ -84408,4 +84405,5 @@ il monocolo
 clear day (weather)
 la giornata limpida
 
-
+you know?; ya know?
+lo sai?
