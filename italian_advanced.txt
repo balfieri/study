@@ -84372,11 +84372,17 @@ annoverato
 sei bloccato con me
 you're stuck with me
 
-tooth filling
-l'otturazione dentale
-
 tooth decay
 la carie dentale
 
 to defeat the purpose of
 vanificare lo scopo ddi
+
+melody
+la melodia
+
+filling (dentistry)
+l'otturazione; l'otturazione dentale
+
+dentistry
+l'odontoiatria
