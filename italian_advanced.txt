@@ -27145,7 +27145,7 @@ vivace
 inadequate
 inadeguato
 
-lucid
+lucid; shiny; glossy
 lucido
 
 unified
@@ -84402,6 +84402,10 @@ lucicare
 binoculars
 il binocolo
 
+monocle
+il monocolo
+
 clear day (weather)
 la giornata limpida
+
 
