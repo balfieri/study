@@ -14552,7 +14552,7 @@ to blind (transitive); to dazzle
 accecare
 
 sycophant
-il sicofante
+il sicofante; la sicofante
 
 retrograde; reactionary
 il retrogrado
@@ -84389,3 +84389,19 @@ l'odontoiatria
 
 to talk (somebody) out of (doing something); to convince (somebody) to not (do something)
 convincere (qualcuno) a non (fare qualcosa)
+
+wood shop; lumber store
+il negozio di legname
+
+magpie (bird)
+la gazza ladra
+
+to shine; to gleam
+lucicare
+
+binoculars
+il binocolo
+
+clear day (weather)
+la giornata limpida
+
