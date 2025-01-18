@@ -84437,3 +84437,7 @@ non riuscire a immaginare di (fare qualcosa)
 
 if someone were holding a gun to my head
 se qualcuno mi puntasse una pistola alla testa
+
+to point a gun at (someone's) head
+puntare una pistola alla testa di (qualcuno)
+
