@@ -2074,7 +2074,7 @@ rimanere incinta
 to describe
 descrivere
 
-to abandon; to abdicate; to forego; to give up (something); to renounce
+to abandon; to abdicate; to forgo; to give up (something); to renounce
 rinunciare a
 
 duffle bag
@@ -8362,7 +8362,7 @@ il focolare
 furniture; furnishing; decor
 l'arredo
 
-famous; renowned; celebrated (more formal)
+famous; renowned; celebrated (positive)
 celebre
 
 heir
@@ -59156,8 +59156,8 @@ mettere in buca; fare un putt
 putter
 il putter
 
-to be obsessed with; to obsessed by
-essere ossessionati da
+to be obsessed with (something); to obsessed by (something)
+essere ossessionati da (qualcosa)
 
 to be able to meet
 poter incontrarsi
@@ -74534,9 +74534,6 @@ l'apnea notturna
 to be fixated on
 essere fissati su
 
-to be obsessed with (somebody)
-essere ossessionati da (qualcuno)
-
 uncomfortable situation
 la situazione scomoda
 
@@ -84422,3 +84419,21 @@ essere pronti a dedicarsi a (qualcosa)
 
 to run a stop sign; to go through a stop sign
 passare il segnale di stop
+
+private matter
+la questione privata
+
+nocineria
+nocineria
+
+Excel spreadsheet
+il foglio excel
+
+delicate matter
+la questione delicata
+
+comfort
+la comodità; il comfort
+
+to not be able to imagine (doing something)
+non riuscire a immaginare di (fare qualcosa)
