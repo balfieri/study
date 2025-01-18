@@ -13940,7 +13940,7 @@ rescuer; helper; rescue worker
 il soccorritore; la soccorritrice
 
 preview (film); thumbnail; teaser
-l'anteprima
+l'anteprima; il trailer
 
 trailer; tow; towage
 il rimorchio
