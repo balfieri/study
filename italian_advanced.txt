@@ -3676,7 +3676,7 @@ gli spiriti maligni
 feasible; doable; practical; workable
 fattibile; praticabile; realizzabile; attuabile
 
-crude (tactless)
+raw; unrefined; uncut; coarse; crude (tactless)
 grezzo
 
 prohibition; ban
@@ -44965,7 +44965,7 @@ virare di bordo
 to hole up
 rintanarmi
 
-tamed
+tame; tamed
 addomesticato
 
 defeatist attitude
@@ -84441,3 +84441,23 @@ se qualcuno mi puntasse una pistola alla testa
 to point a gun at (someone's) head
 puntare una pistola alla testa di (qualcuno)
 
+to keep (someone) away from
+tenere (qualcuno) lontano da
+
+miniature version
+la versione in miniatura
+
+tame animal
+l'animale addomesticato
+
+debut album
+l'album di debutto
+
+timeless music
+la musica senza tempo
+
+half-time
+a metà
+
+to make (someone) feel uncomfortable
+fare sentire (qualcuno) a disagio
