@@ -1819,7 +1819,7 @@ il partner sessuale
 to rejoin; to reconnect; to reunite
 ricongiungere
 
-dated
+dated; out-of-date
 datato
 
 to make sure that
@@ -15196,8 +15196,8 @@ come nuovo
 old hat
 demodé
 
-out of date
-fuori moda; obsoleto
+out-of-date
+fuori moda; obsoleto; datato
 
 over the hill
 superato; in disuso
@@ -84461,3 +84461,16 @@ a metà
 
 to make (someone) feel uncomfortable
 fare sentire (qualcuno) a disagio
+
+food warmer
+lo scaldavivande
+
+pressure cooker
+la pentola a pressione
+
+slow-cooker
+la pentola a cottura lenta
+
+to commit in a relationship
+impegnarsi in una relazione
+
