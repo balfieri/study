@@ -7696,10 +7696,10 @@ ho freddo
 I'm freezing
 sto congelando
 
-to try to (for the first time, uncertain result); to test (try)
+to try to (for the first time, uncertain result); to test (try once)
 provare a
 
-to try to (persistently, with a certain result in mind)
+to try to (persistently, with a certain result or objective in mind)
 cercare di
 
 soon; quickly; early
