@@ -61859,7 +61859,7 @@ inutilizzabile
 detachment; squad
 il drappello
 
-held up; withstood; straight
+held up; withstood; straight; correct; right
 retto
 
 terroristic; terrorist (adjective)
@@ -84501,3 +84501,14 @@ la logoria
 to be careful of; to watch out for; to be on the lookout for
 stare attenti a
 
+straight line
+la linea dritta
+
+to leave (someone) feeling bad
+lasciare (qualcuno) con una brutta sensazione
+
+to reminisce
+ricordare il passato
+
+to take one's time
+prendersi il proprio tempo
