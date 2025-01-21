@@ -6367,6 +6367,9 @@ reperire
 surface; area; pavement
 la superficie
 
+surfaces
+le superfici
+
 suitable; fit; apt; eligible
 idoneo
 
