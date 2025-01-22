@@ -21091,7 +21091,7 @@ rendere noto
 to be embarassed
 venire messo in imbarazzo
 
-to get rid of; to dump
+to get rid of; to dump; to stop practicing
 disfarsi di
 
 middle-aged
@@ -35176,7 +35176,7 @@ accettare di andare a
 I think I can make it (get there)
 penso di potercela fare
 
-to fall apart
+to fall apart (little by little)
 sfaldarsi
 
 they have no idea what the they are doing
@@ -65345,7 +65345,7 @@ movimentato
 Battle of Actium
 la battaglia di Azio
 
-to fall apart
+to fall apart (violent, suddently)
 sfasciarsi
 
 counterorder
@@ -84552,3 +84552,29 @@ scuocere
 to nibble; to pick at
 spizzicare
 
+to plunge the toilet
+immergere il water
+
+to unclog
+sturare; stappare
+
+to unclog the drain
+sturare lo scarico; stappare lo scarico
+
+clogged
+intasato
+
+toilet plunger
+lo sturalavandini
+
+boss; head (company)
+il boss
+
+to brown off the meatballs
+rosolare le polpette
+
+to fall apart in the sauce
+sfaldarsi nel sugo
+
+total solar eclipse
+l'eclissi solare totale
