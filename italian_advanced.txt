@@ -84534,3 +84534,12 @@ il mitra; la mitragliatrice
 swastika
 la svastica
 
+wide width
+la larghezza ampia
+
+extra wide width
+la larghezza extra ampia
+
+the same exact thing happened to me
+mi è successa esattamente la stessa cosa
+
