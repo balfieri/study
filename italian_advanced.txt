@@ -84534,3 +84534,6 @@ inglorioso; senza gloria
 submachine gun
 il mitra; la mitragliatrice
 
+swastika
+la svastica
+
