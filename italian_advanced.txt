@@ -10972,9 +10972,6 @@ il premier in pectore
 to mess up
 scombinare; fare un pasticcio; combinare un pasticcio
 
-to put aside
-accantonare
-
 welfare; well-being; prosperity
 il benessere
 
@@ -32398,7 +32395,7 @@ non tollero il lattosio
 hearing aid
 l'apparecchio acustico
 
-to set aside; to put asside
+to set aside; to put asside; to set aside
 accantonare; mettere da parte
 
 to sauté
