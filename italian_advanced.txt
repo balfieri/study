@@ -11852,7 +11852,7 @@ infinitive
 l'infinito
 
 report; newsletter; bulletin
-il bollettino; il newsletter
+la newsletter; il bollettino
 
 after the meal
 a fine pasto
@@ -84515,4 +84515,16 @@ prendersi il proprio tempo
 
 feel free to ask!
 sentiti libero a chiedere!
+
+midweek (adjective)
+infrasettimanale
+
+to gain experience; to start from the bottom
+fare una gavetta
+
+aphrodisiac
+l'afrodisiaco
+
+to bring down; to cause to collapse
+fare crollare
 

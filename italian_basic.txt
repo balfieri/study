@@ -5231,7 +5231,7 @@ term
 il termine
 
 series
-la serie
+la serie; le serie
 
 via; by means of; through (means)
 tramite
