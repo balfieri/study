@@ -24061,7 +24061,7 @@ omaggiare
 protocol
 il protocollo
 
-aroma
+aroma; smell (good)
 l'aroma
 
 this will come as no surprise to you
