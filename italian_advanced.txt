@@ -82626,6 +82626,9 @@ viaggiare è una seccatura
 miter cut
 il taglio a mitra
 
+miter joint
+la giunzione a mitra; il giunto a mitra
+
 guage
 il calibro
 
@@ -84602,4 +84605,7 @@ il settore immobiliare
 
 to stay in the dark
 restare nello scuro
+
+45-degree miter joint
+il giunto a 45 gradi
 
