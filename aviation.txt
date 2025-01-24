@@ -4257,7 +4257,7 @@ has gap between wing and leading edge of flap, helps energize low-pressure flow 
 {sys} horizontal stabilizer and elevator act as an upside-down wing (yes/no)
 yes
 
-{sys} maximum permitted left/right magneto drop difference on 172SP
+{sys} maximum permitted DIFFERENCE between left/right magneto drops on 172SP
 50
 
 {sys} maximum permitted magneto drop on 172SP
