@@ -112,8 +112,7 @@ while i < len( sys.argv ):
 if start_pct >= end_pct: die( 'start_pct must be < end_pct' )
 
 if not have_categories_s: 
-    print()
-    categories_s = prompt( 'Categories (separated by spaces, leave blank for all)' )
+    categories_s = ''
 categories = categories_s.split( ' ' )
 if len(categories) == 1 and categories[0] == '': categories = []
 
