@@ -89,8 +89,8 @@ eng_voice    = '\'Samantha\''
 ita_voice    = eng_voice  if is_english_only else '\'Alice\''
 eng_first    = '\'Question First\'' if is_english_only else '\'English First\''
 ita_first    = '\'Answer First\''   if is_english_only else '\'Italian First\''
+ita_prefix   = '\'Answer: \' + ' if is_english_only else ''
 delay_after  = '2'  if is_basic    else '0'
-
 
 html_s = '''<!DOCTYPE html>
 <html>
@@ -293,7 +293,7 @@ html_s = '''<!DOCTYPE html>
           }
 
           msg_en.text = phrase[0];
-          msg_it.text = phrase[1];
+          msg_it.text = ''' + ita_prefix + '''phrase[1];
 
           if ( log_s.length > 1000000 ) log_s.slice( 0, 1000000 );
           if ( english_first ) {
