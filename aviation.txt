@@ -526,7 +526,7 @@ inward, upward, counterclockwise; outward, downward, clockwise
 those in unoccupied seats
 
 {perf} meaning of pressure altitude
-pressure altitude is the height above a standard datum plane (SDP), which is a theoretical level where the weight of the atmosphere is 29.92 inches of mercury
+pressure altitude is the height above a standard datum plane (SDP), which is a theoretical level where the weight of the atmosphere is 29.92 inches Hg
 
 {perf} practical meaning of pressure altitude
 indicated altitude when altimeter is set to 29.92
@@ -541,7 +541,7 @@ pressure altitude corrected for non-standard temperature
 DA = PA + 118.8*(OAT-15+elevation/500)
 
 {perf,critical} altitudes
-indicated altitude - what the altimeter reads when set correctly; pressure altitude - height above a standard datum plane (SDP), which is a theoretical level where the weight of the atmosphere is 29.92 inches of mercury, indicated altitude when altimeter set to 29.92, PA = elevation + 1000*(29.92 - altimeter); density altitude - pressure altitude corrected for non-standard temperature, DA = PA + 118.8*(OAT-15+elevation/500); true altitude - actual altitude above sea level; absolute altitude - actual altitude above the ground
+indicated altitude - what the altimeter reads when set correctly; pressure altitude - height above a standard datum plane (SDP), which is a theoretical level where the weight of the atmosphere is 29.92 inches Hg, indicated altitude when altimeter set to 29.92, PA = elevation + 1000*(29.92 - altimeter); density altitude - pressure altitude corrected for non-standard temperature, DA = PA + 118.8*(OAT-15+elevation/500); true altitude - actual altitude above sea level; absolute altitude - actual altitude above the ground
 
 {reg} you can fly a drunk passenger (yes/no)
 no
@@ -994,7 +994,7 @@ mechanical, clear-air (jet stream), wake, wind shear, thermal
 2, 4, 6, 8
 
 {chart} how to know if a paved-runway airport is private
-"(pvt)" is in the name on sectional chart
+(pvt) is in the name on sectional chart
 
 {chart} symbol on sectional chart to indicate a seaplane base
 anchor
@@ -1693,7 +1693,7 @@ Coriolis force
 surface friction
 
 {weather} rate of atmospheric pressure decrease with increase in altitude
-1" Hg per 1000 ft
+1 inch Hg per 1000 ft
 
 {weather} factor that mostly determines type and vertical extent of clouds
 stability of the atmosphere
@@ -2230,7 +2230,7 @@ no, you must explicitly ask for them
 no RAIM, database out of date, poor antenna location
 
 {chart,critical} VFR waypoint
-begin with letters "VP", reporting points around class B and C airspace and special-use airspace
+begin with letters VP, reporting points around class B and C airspace and special-use airspace
 
 {reg} what happens to VFR flight plan that you are unable to activate in-flight
 canceled one hour after the proposed departure time
@@ -2274,13 +2274,13 @@ indicates no FSS standard frequencies available
 {chart} reason a frequency is printed on top of a thin-lined blue box
 indicate best frequencies to use in the immediate vacinity of the navaid
 
-{chart} FSS frequency is followed by the letter "R" indicates...
+{chart} FSS frequency is followed by the letter R indicates...
 FSS can only receive on that frequency, pilot should listen over the navaid frequency
 
 {chart} how to determine the availability of HIWAS on the sectional chart
-navaid has "H" in upper right corner of box
+navaid has H in upper right corner of box
 
-{chart} meaning of letter "T" in solid blue circle in upper-right corner of navaid box
+{chart} meaning of letter T in solid blue circle in upper-right corner of navaid box
 indicates that a transcribed weather broadcast (TWEB) is available 
 
 {weather} TWEB transcribed weather broadcast (Alaska only)
@@ -2983,7 +2983,7 @@ terrain clearances, cloud clearances, hemispheric rules, airspaces, favorable wi
 start, runup, taxi, takeoff and climb, cruise, descent and landing, taxi to ramp, 30 minutes reserve
 
 {sop} reasons for nav log
-part of "all available information," mental rehearsal for all phases of flight, ensures adequate fuel; in-flight monitoring of ground speed, fuel consumption, planning ahead, preventing getting lost, remembering of routine tasks, assisting in diversion to an alternate
+part of all available information, mental rehearsal for all phases of flight, ensures adequate fuel; in-flight monitoring of ground speed, fuel consumption, planning ahead, preventing getting lost, remembering of routine tasks, assisting in diversion to an alternate
 
 {sop} considerations for picking an airport for a fuel stop
 familiar airspace, runway lengths and orientation to wind, size not too big or small, amenities, price of fuel and parking
@@ -3654,7 +3654,7 @@ tower-looking obstruction is greater than or equal to 1000 ft AGL
 {chart} compass rose of VOR station is referenced to true north or magnetic north
 magnetic
 
-{chart} when navaid box says "115.3 Ch 100", meaning of 100
+{chart} when navaid box says 115.3 Ch 100, meaning of 100
 military channel
 
 {chart} how to obtain altitude limits, time of use, and controlling agency for an alert/prohibited/warning/restricted/MOA area
@@ -3670,7 +3670,7 @@ solid blue line border with fine hash marks
 class E surface extension, surface to 700 ft, typically up to 17999 ft if there's no other airspace above it
 
 {chart} meaning of star after control tower frequency on sectional chart
-control tower operation is part-time, reverse text "C" indicates tower frequency is used for CTAF
+control tower operation is part-time, reverse text C indicates tower frequency is used for CTAF
 
 {chart} thin gray line with IR-149 etc. on sectional chart
 military training route
@@ -4038,7 +4038,7 @@ no change
 {perf} relationship between airspeed vs. turn radius and turn rate in constant bank level turn
 slower airspeed results in smaller turn radius and higher turn rate
 
-{sys} purpose of twist or "wash out" in aircraft wings
+{sys} purpose of twist or wash out in aircraft wings
 stall progressively outward from the wing roots
 
 {sop} signs of power-off stall
@@ -4083,7 +4083,7 @@ rain clouds
 {weather,critical} types of precipitation
 drizzle; rain; snow; ice pellets; hail; ice crystals
 
-{weather} "nimbo" refers to
+{weather} nimbo refers to
 rain
 
 {weather} mixed ice
@@ -4231,10 +4231,10 @@ first 5 min of each hour and only for a few seconds at a time
 plain, slotted, split, Fowler
 
 {sys} typical length of 172SP
-27' 2"
+27 ft 2 in
 
 {sys} wing span of 172SP
-36' 1"
+36 ft 1 in
 
 {sys} aircraft engines controlled by FADEC have magnetos (yes/no)
 no, full authority digital engine control eliminates the need for magnetos, carburetor heat, mixture controls, and priming
@@ -4246,7 +4246,7 @@ has gap between wing and leading edge of flap, helps energize low-pressure flow 
 5-10
 
 {sys} height of 172SP
-8' 11"
+8 ft 11 in
 
 {sys} wing loading in lbs/sq-ft for 172SP
 14.7
@@ -4279,7 +4279,7 @@ determine proper operation of vacuum system
 v-shaped piece of metal on leading edge of wing on some aircraft to induce a stall toward the wing root so that pilot still has directional control with the ailerons
 
 {sys} pilot can adjust altimeter encoding sent by transponder by changing the altimeter setting (yes, no)
-no, it is referenced from 29.92" Hg
+no, it is referenced from 29.92 inch Hg
 
 {sys} purpose of AUTO button on audio panel
 to automatically listen on the radio on which you are talking
@@ -4486,7 +4486,7 @@ use the horizon as a refernce
 usually attached to the Flight Manual or POH
 
 {sop} what to expect if you have to make a no-flaps landing
-landing with the flaps up requires about 10 knot faster approach, you can expect to come in "shallower," the landing roll will be longer due to the higher speed and due to the lack of aerodynamic braking effect from the extended flaps
+landing with the flaps up requires about 10 knot faster approach, you can expect to come in shallower, the landing roll will be longer due to the higher speed and due to the lack of aerodynamic braking effect from the extended flaps
 
 {reg} where to find FAA specified aircraft limitations
 POH, attachments to the Airworthiness Certificate, markings on instruments, or instrument panel placards
@@ -4573,7 +4573,7 @@ the speed below which you can move a single flight control, one time, to its ful
 loss of true altitude
 
 {perf} low density air vs. efficiency
-increases efficiency because, as the aircraft flies, there are fewer air molecules "in its way" and thus there is less drag created and the aircraft does not have to work as hard to go a given distance
+increases efficiency because, as the aircraft flies, there are fewer air molecules in its way and thus there is less drag created and the aircraft does not have to work as hard to go a given distance
 
 {perf} when an aircraft is flying where it is colder than standard temperature, the altimeter indicates
 higher than true altitude
@@ -4623,7 +4623,7 @@ FAR 93 special air traffic rules and air traffic patterns are in effect
 {chart} on sectional chart magenta letter U with circle around it
 unverified airport
 
-{chart} "FSS" above airport data block on sectional chart means that
+{chart} FSS above airport data block on sectional chart means that
 a flight service station is located on the field
 
 {chart,critical} *L on sectional chart
@@ -4749,14 +4749,14 @@ ATC provides separation services to participating IFR aircraft and to VFR aircra
 {chart} reasons some airports do not allow SVFR
 volume of IFR traffic
 
-{chart} you may proceed into class C airspace if ATC says "<tailnumber>, standby" (yes/no)
+{chart} you may proceed into class C airspace if ATC says <tailnumber>, standby (yes/no)
 yes, radio communications have been established
 
-{chart} you may proceed into class C airspace if ATC says "standby" (yes/no)
+{chart} you may proceed into class C airspace if ATC says standby (yes/no)
 no, radio communications are established only if ATC mentions your tail number
 
 {sop} what to do when ATC gives you a heading that looks as if it will lead into storm clouds
-say "unable to comply" and suggest an alternative
+say unable to comply and suggest an alternative
 
 {chart} a class B ATC gives you squawk code and then says radar contact established, you may now enter class B airspace (yes/no)
 no, you must receive explicit clearance to enter
@@ -4791,7 +4791,7 @@ to assist in identifying possible emergency ELT transmissions
 {sop} fuel-related things to check in an aircraft after a loss of power
 position of fuel tank selector, quantity of fuel in selected tank, fuel pressure gauge, position of fuel mixture, position of magneto switch, use of carburator heat
 
-{sop} meaning of "minimum fuel" declaration to ATC
+{sop} meaning of minimum fuel declaration to ATC
 aircraft can accept little or no delay at its destination, not an emergency situation yet
 
 {sop} you land safely in the wilderness, but there's no cell phone coverage, actions that you should take
@@ -4845,7 +4845,7 @@ clouds are at 9800 (2800+7000) ft, so you must be at least 500 ft below clouds, 
 {sop} how to file a flight plan when a stopover is anticipated
 file a separate flight plan for each leg when the stop is expected to be more than 1 hour in duration
 
-{chart} pseudo airport abbreviation for Homey Airport / "Groom Lake" / Area 51 that you should avoid under all condtions
+{chart} pseudo airport abbreviation for Homey Airport / Groom Lake / Area 51 that you should avoid under all condtions
 KXTA
 
 {chart} radial you are on if you are due magnetic west of a VOR and are flying due magnetic east
@@ -5035,7 +5035,7 @@ online or by mail
 you, so you must make the go/no-go decision, not the examiner
 
 {reg} what to say if examiner tries to distract you
-"I'm sorry but I can't discuss that right now as I'm focusing on important tasks right now"
+I'm sorry but I can't discuss that right now as I'm focusing on important tasks right now
 
 {reg} an examiner can ask oral questions during the flight portion (yes/no)
 yes
@@ -5265,7 +5265,7 @@ VOR radios; ADF is not
 {chart} who monitors 121.5
 FSS and towers
 
-{sop} meaning of "squawk altitude"
+{sop} meaning of squawk altitude
 check that transponder is on mode-C (ALT)
 
 {sop} when to turn on and off transponder
@@ -5467,7 +5467,7 @@ before they will lock or support weight
 the heat diversion controls located on either side of the console atop the heat ducts
 
 {sys} PA-28-161 gyroscopic instruments may be damaged by
-vacuum levels in excess of 6" of mercury
+vacuum levels in excess of 6 inches Hg
 
 {sys} PA-28-161 if the primer is not locked
 excessive fuel may flow to one or more cylinders, resulting in rough running at low speeds
@@ -5476,7 +5476,7 @@ excessive fuel may flow to one or more cylinders, resulting in rough running at 
 throttle full, mixture idle cutoff, fuel pump off, crank starter, then once it fires advance mixture and retard throttle
 
 {sys} PA-28-161 restart procedure when engine is hot
-throttle 1/2", fuel pump on, mixture rich, crank, move throttle to desired setting
+throttle 1/2 in, fuel pump on, mixture rich, crank, move throttle to desired setting
 
 {sys} PA-28-161 if you discover pink fuel in the tanks
 do not fly until the fuel has been drained and replaced
@@ -5655,8 +5655,8 @@ average height of oceans around the world
 {sys} high-altitude aircraft feature
 flies at > 25000 ft MSL
 
-{sop} recommended phraseology for "staying in the pattern" (UNICOM, ATC)
-"remaining in the pattern," "closed traffic"
+{sop} recommended phraseology for staying in the pattern (UNICOM, ATC)
+remaining in the pattern, closed traffic
 
 {reg} In the event of failure of any light of the anticollision light system...
 operations with the aircraft may be continued to a stop where repairs or replacement can be made.
@@ -5716,7 +5716,7 @@ from 14,500 feet MSL to, but not including, 18,000 feet MSL, excluding the airsp
 >= 3000 MSL out to 12nm from shore
 
 {chart} Class F airspace 
-not used in the United States; in Canada, equivalent of U.S. special use airspace including restricted and alert areas, while ICAO defines it as a "hybrid" of Class E and Class G, in which ATC separation guidance is available but not required for IFR operation
+not used in the United States; in Canada, equivalent of U.S. special use airspace including restricted and alert areas, while ICAO defines it as a hybrid of Class E and Class G, in which ATC separation guidance is available but not required for IFR operation
 
 {chart} requirements for communication with class G tower
 pilot must establish communications with the tower beyond 4nm from the airport, up to and including 2,500ft AGL
@@ -5751,7 +5751,7 @@ indicates that airport has a rotating beacon
 {sop} how to know min height AGL at which you can do impossible turn
 once you determine how much altitude your particular aircraft loses during a 180-degree turn, increase this figure by at least 50 percent to determine the minimum turnaround altitude
 
-{sop,atc} when ATC says "cleared for the option"
+{sop,atc} when ATC says: cleared for the option
 means you can land, do a stop and go, do a touch and go, or low approach
 
 {reg,critical} when you can fly with a broken piece of required equipment
@@ -5782,7 +5782,7 @@ terrain awareness warning system
 lowers induced drag
 
 {chart,critical} UNICOM vs. CTAF 
-if UNICOM is designated as the CTAF frequency, say "UNICOM" when addressing the FBO for ground services, "TRAFFIC" when announcing position and intentions; if UNICOM isn't designated as the CTAF frequency, use 122.9 MULTICOM for announcing position and intentions (unless CT frequency has C next to it)
+if UNICOM is designated as the CTAF frequency, say UNICOM when addressing the FBO for ground services, TRAFFIC when announcing position and intentions; if UNICOM isn't designated as the CTAF frequency, use 122.9 MULTICOM for announcing position and intentions (unless CT frequency has C next to it)
 
 {sop,critical} flight service station (FSS) provide 
 a variety of services including pilot briefings, weather observations, pilot reports, flight plan processing, search and rescue services, assistance to lost aircraft and aircraft in emergencies.
@@ -5830,10 +5830,10 @@ climb away from the ground at Vy; for headwind wind shear, let it rise because c
 stay above the jet's glide path and land beyond its touchdown point
 
 {sop,atc} flying the NY SFRA Hudson River Corridor
-self-announce on 123.05: "Hudson River Traffic: Skyhawk, VZ, northbound, 1300"; fly along east shoreline when northbound; go just under 1000 ft when circling Statue of Liberty; report points (northbound): VZ, Statue of Liberty or Governor's Island, CLOCK, Intrepid, GWB, Alpine Tower
+self-announce on 123.05: Hudson River Traffic: Skyhawk, VZ, northbound, 1300; fly along east shoreline when northbound; go just under 1000 ft when circling Statue of Liberty; report points (northbound): VZ, Statue of Liberty or Governor's Island, CLOCK, Intrepid, GWB, Alpine Tower
 
 {sop,atc} how to fly into DC FRZ, Hyde Field (W32) from the south
-get IFR flight plan filed with DC (call 703-771‐3476) using gate GRUBY (W32) which keeps us east of DCA: “I’d like to file an FRZ flight plan to Hyde Field (W32). I am familiar with the Washington DC special flight rules and procedures.”; ask for flight following all the way to W32; when they hand you off to Potomic, 5-10nm outside SFRA: "Potomac Approach, N12345, 2800 over <waypoint>, FRZ flight on file to Hyde Field"
+get IFR flight plan filed with DC (call 703-771‐3476) using gate GRUBY (W32) which keeps us east of DCA: “I’d like to file an FRZ flight plan to Hyde Field (W32). I am familiar with the Washington DC special flight rules and procedures.”; ask for flight following all the way to W32; when they hand you off to Potomic, 5-10nm outside SFRA: Potomac Approach, N12345, 2800 over <waypoint>, FRZ flight on file to Hyde Field
 
 {pilot,critical} how to know if a passenger has carbon monoxide poisoning vs. other forms of hypoxia
 will likely smell exhaust fumes; altitude reduction will have no effect
@@ -5860,7 +5860,7 @@ Mobile Output Statistics - derived from output of weather prediction models from
 8 nm
 
 {sop,atc,critical} how to request flight following to Greensboro from Raleigh ATC right after departure from Raleigh Exec (KTTA)
-you: "Raleigh departure, N12345, VFR, with request"; ATC: "N12345, say request"; you: "N12345 is Skyhawk, 3 miles northwest of Raleigh Exec, 3000 climing 4500, request VFR flight following to Greensboro"
+you: Raleigh departure, N12345, VFR, with request; ATC: N12345, say request; you: N12345 is Skyhawk, 3 miles northwest of Raleigh Exec, 3000 climing 4500, request VFR flight following to Greensboro
 
 {sop,critical} ABCDE's emergency landing
 A - airspeed Vg; B - choose best place to land and head there; C - engine restart checklist; D - declare emergency (121.5, mayday mayday mayday); E - execute rest of checklist
