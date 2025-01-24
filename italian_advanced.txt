@@ -84616,10 +84616,10 @@ to turn state's evidence
 diventare un testimone per l'accusa
 
 to be blown away by (something)
-essere sbalordito da (qualcosa)
+essere sbalorditi da (qualcosa)
 
 to be overwhelmed by (something)
-essere sopraffatto da (qualcosa)
+essere sopraffatti da (qualcosa)
 
 Aurelian Walls
 le Mura Aureliane
@@ -84638,3 +84638,7 @@ la compenetrazione
 
 remnants of winter
 gli scampoli di inverno
+
+to get passionate; to become enthusiastic
+impassionarsi
+
