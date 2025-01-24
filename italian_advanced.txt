@@ -10337,7 +10337,7 @@ paper towel
 l'asciugamano di carte; il tovagliolo di carta; la carta assorbente
 
 to square
-fare squardare
+squadrare; fare squardare
 
 to flour
 infarinare
@@ -84641,4 +84641,13 @@ gli scampoli di inverno
 
 to get passionate; to become enthusiastic
 impassionarsi
+
+heirloom; keepsake
+il cimelo
+
+extrusion
+l'estrusione
+
+to insert backwards
+inserire al contrario
 
