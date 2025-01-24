@@ -174,6 +174,9 @@ html_s = '''<!DOCTYPE html>
       msg_en.lang = ''' + eng_lang + ''';
       msg_it.lang = ''' + ita_lang + ''';
 
+      msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + eng_voice + ''' );
+      msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + ita_voice + ''' );
+
       msg_en.rate = ''' + eng_speed + ''';
       msg_it.rate = ''' + ita_speed + ''';
 

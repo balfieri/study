@@ -165,6 +165,9 @@ html_s = '''<!DOCTYPE html>
       msg_en.lang = 'en-US';
       msg_it.lang = 'it-IT';
 
+      msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
+      msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
+
       msg_en.rate = ''' + eng_speed + ''';
       msg_it.rate = ''' + ita_speed + ''';
 
