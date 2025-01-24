@@ -27,8 +27,8 @@ Example of running the aviation questions:
     ./run.py aviation                   -- ask 20 questions at a time, prompt for answer
     ./run.py aviation -q 100            -- same, but 100 questions instead of default of 20
     ./run.py aviation -q 0              -- same, but ALL questions instead of default of 20
-    ./run.py aviation -q 0 -ps 4        -- same, but just print answer with 4-second pause
-    ./run.py aviation -q 0 -ps 4 -cat critical -- same but only questions in the 'critical' category
+    ./run.py aviation -q 0 -ps 2        -- same, but just print answer with 4-second pause
+    ./run.py aviation -q 0 -ps 2 -cat critical -- same but only questions in the 'critical' category
     ./run.py aviation,aviation_ifr -q 0 -ps 4 -cat critical -- same, using both aviation.txt and aviation_ifr.txt
 
 This is all open-source. Refer to the LICENSE.md for licensing details.  
