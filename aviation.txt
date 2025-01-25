@@ -757,7 +757,7 @@ air vent is located on the left wing, both tanks are interconnected by a vent li
 open windows, close heat/vents, land as soon as practical
 
 {reg} why you have to avoid alcohol and certain over-the-counter drugs with respect to flying, when you are allowed to drive with, for example, immediately after having a few drinks
-less source oxygen avilable at higher altitudes
+less source oxygen available at higher altitudes
 
 {sys} how ELT works
 activated when a certain force threshold is detected by its accelerometers, transmits signal on 406 MHz
