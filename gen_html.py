@@ -59,6 +59,7 @@ for subject in subjects:
         if question == '': break
         question = re.sub( r'^\s+', '', question )
         question = re.sub( r'\s+$', '', question )
+        question = re.sub( r'^\{[\w,]+\}\s*', '', question )
         if len(question) == 0 or question[0] == '#': continue
 
         line_num += 1
@@ -74,14 +75,24 @@ for subject in subjects:
 
 is_advanced  = re.match( r'.*italian_advanced', subjects_s ) != None
 is_basic     = subjects_s == 'italian_basic' 
+is_english_only = subjects_s == 'aviation' or subjects_s == 'aviation_ifr'
 eng_speed    = 1.25 if is_advanced else 1.00
-ita_speed    = 1    if is_advanced else 0.8 if is_basic else 0.9
+ita_speed    = 1    if is_advanced or is_english_only else 0.8 if is_basic else 0.9
 eng_speed100 = str(eng_speed * 100)
 ita_speed100 = str(ita_speed * 100)
 eng_speed    = str(eng_speed)
 ita_speed    = str(ita_speed)
+eng_name     = 'Question' if is_english_only else 'English'
+ita_name     = 'Answer'   if is_english_only else 'Italian'
+eng_lang     = '\'en-US\''
+ita_lang     = eng_lang   if is_english_only else '\'it-IT\''
+eng_voice    = '\'Samantha\''
+ita_voice    = eng_voice  if is_english_only else '\'Alice\''
+eng_first    = '\'Question First\'' if is_english_only else '\'English First\''
+ita_first    = '\'Answer First\''   if is_english_only else '\'Italian First\''
+eng_prefix   = '\'Question: \' + '  if is_english_only else ''
+ita_prefix   = '\'Answer: \' + '    if is_english_only else ''
 delay_after  = '2'  if is_basic    else '0'
-
 
 html_s = '''<!DOCTYPE html>
 <html>
@@ -106,12 +117,12 @@ html_s = '''<!DOCTYPE html>
   <body>
     <h1>''' + title + '''</h1>
     <form>
-        <label for="english-text-box">English filter:</label>
+        <label for="english-text-box">''' + eng_name + ''' filter:</label>
         <input type="text" id="english-text-box" name="english-text-box">
     </form>
     <p>
     <form>
-        <label for="italian-text-box">Italian filter:</label>
+        <label for="italian-text-box">''' + ita_name + ''' filter:</label>
         <input type="text" id="italian-text-box" name="italian-text-box">
     </form>
     </p>
@@ -119,19 +130,19 @@ html_s = '''<!DOCTYPE html>
     <button id="button_play_in_order" title="Start/stop in-order playback of list entries" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="start_stop_play_in_order()">Play In Order</button>
     <button id="button_mute" title="Mute/unmute voices" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="mute_unmute()">Mute</button>
     <button id="button_show_all" title="Show all entries" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="show_all()">Show All</button>
-    <button id="button_first" title="Show Italian/English translation first" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="which_first()">Italian First</button>
+    <button id="button_first" title="Show Italian/English translation first" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="which_first()">''' + ita_name + ''' First</button>
     <p style="font-size:18px">
-    English Speed: <input type="range" min="25" max="125" value="''' + eng_speed100 + '''" class="slider" id="slider_en" oninput="update_slider_en(this.value)">
+    ''' + eng_name + ''' Speed: <input type="range" min="25" max="125" value="''' + eng_speed100 + '''" class="slider" id="slider_en" oninput="update_slider_en(this.value)">
     <span id="slider_en_value">''' + eng_speed + '''</span>
-    Italian Speed: <input type="range" min="25" max="125" value="''' + ita_speed100 + '''" class="slider" id="slider_it" oninput="update_slider_it(this.value)">
+    ''' + ita_name + ''' Speed: <input type="range" min="25" max="125" value="''' + ita_speed100 + '''" class="slider" id="slider_it" oninput="update_slider_it(this.value)">
     <span id="slider_it_value">''' + ita_speed + '''</span>
     </p>
     <p style="font-size:18px">
-    Extra Delay Between English and Italian (secs): <input type="range" min="0" max="10" value="0" class="slider" id="slider_extra_delay_between" oninput="update_slider_extra_delay_between(this.value)">
+    Extra Delay Between ''' + eng_name + ''' and ''' + ita_name + ''' (secs): <input type="range" min="0" max="10" value="0" class="slider" id="slider_extra_delay_between" oninput="update_slider_extra_delay_between(this.value)">
     <span id="slider_extra_delay_between_value">0</span>
     </p>
     <p style="font-size:18px">
-    Extra Delay After English and Italian (secs): <input type="range" min="0" max="10" value="''' + delay_after + '''" class="slider" id="slider_extra_delay_after" oninput="update_slider_extra_delay_after(this.value)">
+    Extra Delay After ''' + eng_name + ''' and ''' + ita_name + ''' (secs): <input type="range" min="0" max="10" value="''' + delay_after + '''" class="slider" id="slider_extra_delay_after" oninput="update_slider_extra_delay_after(this.value)">
     <span id="slider_extra_delay_after_value">''' + delay_after + '''</span>
     </p>
 
@@ -162,11 +173,11 @@ html_s = '''<!DOCTYPE html>
       var msg_en = new SpeechSynthesisUtterance("");
       var msg_it = new SpeechSynthesisUtterance("");
 
-      msg_en.lang = 'en-US';
-      msg_it.lang = 'it-IT';
+      msg_en.lang = ''' + eng_lang + ''';
+      msg_it.lang = ''' + ita_lang + ''';
 
-      msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
-      msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
+      msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + eng_voice + ''' );
+      msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + ita_voice + ''' );
 
       msg_en.rate = ''' + eng_speed + ''';
       msg_it.rate = ''' + ita_speed + ''';
@@ -186,8 +197,8 @@ html_s = '''<!DOCTYPE html>
       });
 
       window.speechSynthesis.addEventListener('voiceschanged', () => {
-          msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Samantha' );
-          msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === 'Alice' );
+          msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + eng_voice + ''' );
+          msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + ita_voice + ''' );
       });
 
       function clear_log() {
@@ -283,8 +294,8 @@ html_s = '''<!DOCTYPE html>
               stop_playback();
           }
 
-          msg_en.text = phrase[0];
-          msg_it.text = phrase[1];
+          msg_en.text = ''' + eng_prefix + '''phrase[0];
+          msg_it.text = ''' + ita_prefix + '''phrase[1];
 
           if ( log_s.length > 1000000 ) log_s.slice( 0, 1000000 );
           if ( english_first ) {
@@ -386,10 +397,10 @@ html_s = '''<!DOCTYPE html>
       function which_first() {
           window.speechSynthesis.cancel();
           if ( english_first ) {
-              document.getElementById('button_first').innerHTML = 'English First';
+              document.getElementById('button_first').innerHTML = ''' + eng_first + ''';
               english_first = false;
           } else {
-              document.getElementById('button_first').innerHTML = 'Italian First';
+              document.getElementById('button_first').innerHTML = ''' + ita_first + ''';
               english_first = true;
           }
           playback();
