@@ -84667,7 +84667,7 @@ pawn shop
 il banco dei pegni
 
 to pawn (something)
-dare (qualcosa) in pegno
+dare (qualcosa) in pegno; impegnare (qualcosa)
 
 to be a pawn in their game
 essere una pedina nel loro gioco
