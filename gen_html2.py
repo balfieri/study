@@ -59,6 +59,7 @@ for subject in subjects:
         if question == '': break
         question = re.sub( r'^\s+', '', question )
         question = re.sub( r'\s+$', '', question )
+        question = re.sub( r'^\{[\w,]+\}\s*', '', question )
         if len(question) == 0 or question[0] == '#': continue
 
         line_num += 1
@@ -89,7 +90,8 @@ eng_voice    = '\'Samantha\''
 ita_voice    = eng_voice  if is_english_only else '\'Alice\''
 eng_first    = '\'Question First\'' if is_english_only else '\'English First\''
 ita_first    = '\'Answer First\''   if is_english_only else '\'Italian First\''
-ita_prefix   = '\'Answer: \' + ' if is_english_only else ''
+eng_prefix   = '\'Question: \' + '  if is_english_only else ''
+ita_prefix   = '\'Answer: \' + '    if is_english_only else ''
 delay_after  = '2'  if is_basic    else '0'
 
 html_s = '''<!DOCTYPE html>
@@ -292,7 +294,7 @@ html_s = '''<!DOCTYPE html>
               stop_playback();
           }
 
-          msg_en.text = phrase[0];
+          msg_en.text = ''' + eng_prefix + '''phrase[0];
           msg_it.text = ''' + ita_prefix + '''phrase[1];
 
           if ( log_s.length > 1000000 ) log_s.slice( 0, 1000000 );
