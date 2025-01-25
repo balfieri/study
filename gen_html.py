@@ -116,6 +116,9 @@ html_s = '''<!DOCTYPE html>
   </style>
   <body>
     <h1>''' + title + '''</h1>
+    <p>
+    <h3><a href="https://www.imustcook.com/crossword">[return to lists]</a></h3>
+    </p>
     <form>
         <label for="english-text-box">''' + eng_name + ''' filter:</label>
         <input type="text" id="english-text-box" name="english-text-box">
