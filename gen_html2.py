@@ -75,7 +75,7 @@ for subject in subjects:
 
 is_advanced  = re.match( r'.*italian_advanced', subjects_s ) != None
 is_basic     = subjects_s == 'italian_basic' 
-is_english_only = subjects_s == 'aviation' or subject_s == 'aviation_ifr'
+is_english_only = subjects_s == 'aviation' or subjects_s == 'aviation_ifr'
 eng_speed    = 1.25 if is_advanced else 1.00
 ita_speed    = 1    if is_advanced or is_english_only else 0.8 if is_basic else 0.9
 eng_speed100 = str(eng_speed * 100)
