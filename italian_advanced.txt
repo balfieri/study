@@ -2341,7 +2341,7 @@ l'impaccio
 to meddle; to intrude; to intervene
 intromettersi
 
-to engage; to commit; to pledge
+to engage; to commit; to pledge; to pawn
 impegnare
 
 to squander; to waste; to dilapidate
@@ -25699,7 +25699,7 @@ sovietico
 invested; run over
 investito
 
-pledge
+pledge; pawned object
 il pegno
 
 land (adjective)
