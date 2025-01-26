@@ -14617,7 +14617,7 @@ acuirsi
 to dilute; to water; to cut
 annacquare
 
-arched; curved
+arched; curved; cambered
 arcuato
 
 fire basket
@@ -84677,3 +84677,16 @@ la band di hard rock
 
 watch list (eBay)
 gli oggetti che osservi (eBay)
+
+small part of commune; social structure of city (archaic)
+la civita
+
+caul (woodworking)
+la pressa; lo spingitoio
+
+cambered caul
+la pressa arcuata
+
+camber; curvature
+la curvatura
+
