@@ -63840,7 +63840,7 @@ cloud service provider
 il fornitore di servizi cloud
 
 data center
-il centro dati
+il data center; il centro dati
 
 context window
 la finestra di contesto
@@ -84692,3 +84692,7 @@ la curvatura
 
 to come out; to emerge
 sbucare
+
+government backing; government support
+il sostegno del governo
+
