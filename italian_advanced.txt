@@ -22342,10 +22342,10 @@ primitivo
 analogy
 l'analogia
 
-interview (work)
+interview (work, professional, educational)
 il colloquio
 
-to interview (work)
+to interview (work, professional, educational)
 fare un colloquio
 
 personally
@@ -29611,7 +29611,7 @@ la creatività
 dispatch
 il dispaccio
 
-interview
+interview (media, journalism)
 l'intervista
 
 oriented
@@ -84801,3 +84801,8 @@ orientato verso
 child advocacy center
 il centro di difesa dei minori
 
+forensic interview
+il colloquio forense
+
+forensic
+forense
