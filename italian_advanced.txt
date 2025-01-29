@@ -31981,8 +31981,14 @@ la senape
 printer (device)
 la stampante
 
-stake-out
+stakeout; stake-out
+l'appostamento
+
+picketing
 il picchettamento
+
+to picket
+pattugliare
 
 caper
 il cappero
