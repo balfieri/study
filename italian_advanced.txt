@@ -84794,3 +84794,8 @@ carcerare; impriogionare
 
 in prison
 in carcere; in prigione
+
+geared toward
+orientato verso
+
+
