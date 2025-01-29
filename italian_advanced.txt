@@ -38206,9 +38206,6 @@ inconfondibile
 unmistakably
 inconfondibilmente
 
-to imprison
-impriogionare
-
 spout
 il beccuccio
 
@@ -84791,3 +84788,9 @@ ad essere completamente onesto con te
 
 to pay the bills
 pagare le bollette
+
+to release from prison; to free from prison
+scarcerare
+
+to imprison; to incarcerate
+carcerare; impriogionare
