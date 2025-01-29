@@ -52333,9 +52333,6 @@ nonostante tutto; malgrado tutto
 end of message; EOM
 la fine del messaggio
 
-in prison
-in prigione
-
 I'm loving it!
 mi sta piacendo!
 
@@ -84794,3 +84791,6 @@ scarcerare
 
 to imprison; to incarcerate
 carcerare; impriogionare
+
+in prison
+in carcere; in prigione
