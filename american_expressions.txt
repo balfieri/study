@@ -5070,9 +5070,6 @@ essere sfortunati
 a good (type of person) is always learning
 un bravo (tipo di persona) sta sempre imparando
 
-finance bro
-il fratello della finanza; il frate della finanza
-
 showstopper
 l'ostacolo insormontabile; il problema bloccante
 
@@ -5514,7 +5511,7 @@ il Grande Fratello ti sta guardando
 don't press your luck!; don't push your luck!
 non tirare troppo la corda!; non rischiare troppo!
 
-much to my dismay
+much to my chagrin; much to my dismay
 con mio grande dispiacere
 
 give me a heads-up
@@ -5570,4 +5567,10 @@ suonare la chitarra immaginaria
 
 to shoot an air ball (basketball) 
 mancare completamente il canestro con un tiro
+
+tech bro
+il fratello tecnologico; il frate della tecnologia
+
+finance bro
+il fratello della finanza; il frate della finanza
 

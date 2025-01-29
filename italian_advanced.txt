@@ -11950,8 +11950,8 @@ entrare in menopausa
 body-building
 il bodybuilding
 
-loser; unlucky person; nerd
-lo sfigato
+loser; unlucky person; nerd; dweeb
+lo sfigato; la sfigata
 
 two hours in each direction
 a due ore di distanza
@@ -64196,7 +64196,7 @@ la libertà vigilata
 on probation
 in libertà vigilata
 
-omen; harbinger
+foreshadowing; omen; harbinger
 il presagio
 
 peckish
@@ -77763,9 +77763,6 @@ riflettere attentamente su (qualcosa)
 senior quote
 la citazione dell'ultimo anno
 
-lath
-il listello
-
 to get acquainted with
 familiarizzarsi con
 
@@ -80915,9 +80912,6 @@ smemorato
 
 shameless
 spudorato
-
-loser
-lo sfigato; la sfigata
 
 in the end
 stringi stringi
@@ -84731,3 +84725,52 @@ ha nevicato l'altro giorno
 
 to follow plots well
 seguire bene le trame
+
+embroidery
+il ricamo
+
+this is amazing; this is a wonder
+questa è una meraviglia
+
+earbud case
+la custodia per auricolari
+
+I'm ok with it
+mi va bene così 
+
+I'm ok with that
+mi va bene quello
+
+to make assessments
+fare bilanci
+
+several weeks in a row
+alcune settimane di fila
+
+full-length mirror
+lo specchio a figura intera
+
+steal strut
+la punta d'acciaio
+
+steal beam
+la trave d'acciaio
+
+clamping strip; caul
+il listello di serraggio
+
+tightening
+il serraggio
+
+strip; lath
+il listello
+
+to pose as
+spacciarsi
+
+snow removal
+la rimozione della neve
+
+snow plow
+lo spazzaneve
+
