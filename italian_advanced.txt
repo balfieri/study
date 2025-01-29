@@ -84780,3 +84780,10 @@ la rimozione della neve
 snow plow
 lo spazzaneve
 
+circus
+il circo
+
+logbook (pilot)
+il registro di volo
+
+
