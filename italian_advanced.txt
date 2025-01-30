@@ -6793,8 +6793,14 @@ prossimamente
 to sanction; to seal; to approve
 sancire
 
-to repeal; to rescind; to revoke
-abrogare; rescindere; revocare
+to repeal
+abrogare
+
+to rescind
+rescindere
+
+to revoke
+revocare
 
 abolition; repeal
 l'abrogazione
@@ -84824,4 +84830,22 @@ indeciso
 
 all rights reserved
 tutti i diritti riservati
+
+any of these things
+qualcuna di queste cose
+
+thought-provoking idea
+l'idea stimolante; la stimolante riflessione
+
+chocolate; praline
+il cioccolatino
+
+type of chocolate from Piedmont with hazelnut
+il giandugliotto
+
+hazelnut chocolate paste
+la gianduglia
+
+to make a sacrifice
+fare una sacrificia
 
