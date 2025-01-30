@@ -51736,7 +51736,7 @@ persuadibile
 disagreement; discord
 il disaccordo
 
-disagreeable; unpleasant
+disagreeable; unpleasant; nasty
 sgradevole
 
 to have something already planned
@@ -84806,3 +84806,18 @@ il colloquio forense
 
 forensic
 forense
+
+to look one's best
+apparire al meglio
+
+pursued
+perseguito
+
+to try really really hard
+provarci davvero con tutte le proprie forze
+
+to get nasty with (somebody)
+diventare sgradevole con (qualcuno)
+
+non-commital; indecisive
+indeciso
