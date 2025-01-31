@@ -84841,10 +84841,10 @@ chocolate; praline
 il cioccolatino
 
 type of chocolate from Piedmont with hazelnut
-il giandugliotto
+il gianduiotto
 
 hazelnut chocolate paste
-la gianduglia
+la gianduia
 
 to make a sacrifice
 fare una sacrificia
@@ -84873,3 +84873,5 @@ il problema insaziabile
 to move (something) forward
 far avanzare (qualcosa)
 
+prior knowledge; background
+le preconoscenze
