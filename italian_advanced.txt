@@ -10198,7 +10198,7 @@ devo darmi un pizzicotto
 summit; peak
 la vetta
 
-grateful; thankful
+grateful; thankful; appreciative
 grato; riconoscente
 
 deck of cards
@@ -10372,7 +10372,7 @@ in debito
 to renounce
 rannunciare
 
-to require; to request; to demand
+to require; to request; to demand; to call for
 richiedere
 
 good works
@@ -84857,4 +84857,19 @@ l'incrocio con quattro segnali di stop
 
 rolling stop
 la fermata non completa
+
+last warning
+l'ultimo avvertimento
+
+take a second of your precious time
+prendi un secondo del tuo prezioso tempo
+
+I started to laugh
+mi è venuto da ridere
+
+insatiable problem
+il problema insaziabile
+
+to move (something) forward
+far avanzare (qualcosa)
 
