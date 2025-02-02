@@ -1027,7 +1027,7 @@ la finestra
 door
 la porta
 
-floor; plan
+floor; plan; story (building)
 il piano
 
 pavement; floor

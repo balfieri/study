@@ -4486,7 +4486,7 @@ scendere dal palco
 to focus (oneself)
 focalizzarsi; concentrarsi
 
-recovery; resumption; revival; filming
+recovery; resumption; revival; filming; shot (film)
 la ripresa
 
 to touch; to move; to affect
@@ -39359,7 +39359,7 @@ under snap
 sotto scatto
 
 retaliation
-la ritorsione
+la rappresaglia; la ritorsione
 
 bottomless pit
 pozzo senza fondo
@@ -55519,7 +55519,7 @@ rivedere all'infinito
 to restore a vintage Vespa
 restaurare una Vespa d'epoca
 
-uninterested; unenthusiastic
+unmotivated; listless; lazy; uninterested; unenthusiastic
 svogliato
 
 to lose interest; to lose enthusiasm
@@ -65921,9 +65921,6 @@ i tre moschettieri
 prominent name
 il nome di spicco
 
-retaliation
-la rappresaglia
-
 frills
 i fronzoli
 
@@ -71742,7 +71739,7 @@ bar-b-que
 il barbecue; la grigliata
 
 3-story building
-l'edificio a tre piani
+l'edificio di tre piani; l'edificio a tre piani
 
 se mi va
 if I feel like it
@@ -84887,3 +84884,24 @@ infrangere le regole
 
 this job has drained all my energy
 questo lavoro mi ha prosciugato tutte le energie
+
+half asleep
+mezzo addormentato
+
+half drunk
+mezzo ubriaco
+
+one door closes, and another one opens
+si chiude una porta e se ne apre un'altra
+
+citadel
+la cittadella
+
+double-agent
+il doppiogiochista; la doppiogiochista
+
+sharp-looking
+dall'aspetto affilato
+
+police state
+lo stato di polizia
