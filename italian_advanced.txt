@@ -45535,10 +45535,10 @@ impegnarsi in un'impresa
 molasses
 la melassa
 
-tread
+tread; tire tread
 il battistrada
 
-treads
+treads; tire treads
 i battistrada
 
 hydroplaning
