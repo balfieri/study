@@ -30418,7 +30418,7 @@ la governante
 governing
 governante
 
-consumed
+consumed; worn
 consumato
 
 varied; various
@@ -45537,6 +45537,9 @@ la melassa
 
 tread
 il battistrada
+
+treads
+i battistrada
 
 hydroplaning
 l'acquaplaning
