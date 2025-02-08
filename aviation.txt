@@ -5864,3 +5864,6 @@ you: Raleigh departure, N12345, VFR, with request; ATC: N12345, say request; you
 
 {sop,critical} ABCDE's emergency landing
 A - airspeed Vg; B - choose best place to land and head there; C - engine restart checklist; D - declare emergency (121.5, mayday mayday mayday); E - execute rest of checklist
+
+{sys} TBO
+Time Between Overhauls of an engine (usually about 2000 hours for most single-piston aircraft)
