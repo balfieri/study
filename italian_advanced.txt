@@ -27007,7 +27007,7 @@ favorire
 to take a seat
 accomodarsi
 
-to be ashamed
+to be ashamed; to be embarrassed
 vergognarsi
 
 to find oneself; to be situated; to stand (have standing)
@@ -45337,9 +45337,6 @@ regnare
 gravel
 la ghiaia
 
-gurgle
-il gorgoglio
-
 to soothe; to calm
 rasserenare
 
@@ -46543,7 +46540,7 @@ furtivo
 spider
 il ragno
 
-cluster bomb
+cluster bomb; clusterbomb
 la bomba a grappolo
 
 wipeout; clean slate
@@ -84911,4 +84908,91 @@ lo stato di polizia
 
 to have one's say about
 avere la sua da dire su
+
+autobiography; life story
+l'autobiografia
+
+autobiographical
+autobiografico
+
+saline solution
+la soluzione salina
+
+sow; female pig
+la scroffa
+
+the disease is spreading
+la malattia si sta diffondendo
+
+daziare
+to impose duties; to impose tariffs; to levy customs duties
+
+trading partner
+il partner commerciale
+
+feminine hygiene product
+il prodotto per l'igiene femminile
+
+to tariff
+daziare; imporre dazi su
+
+childish selfishness
+l'egoismo infantile
+
+to vote for (someone)
+votare per (qualcuno)
+
+abhorrent behavior
+il comportamento aberrante
+
+abusive relationship
+la relazione abusiva
+
+there's a silver lining
+c'è un lato positivo
+
+stomach bug
+il virus intestinale
+
+gurgling; gurgle
+il gorgoglio
+
+to gurgle
+gorgogliare
+
+horseshoe
+il ferro di cavallo
+
+four-leaf clover
+il quadrifoglio
+
+ladybug; lovebug
+la coccinella
+
+to check into a hotel
+fare il check-in in un hotel
+
+a good night's sleep
+una buona notte di sonno
+
+to be an expert in (something)
+essere un esperto di (qualcosa)
+
+wind shear alert
+l'allerta wind shear; l'allerta per variazioni del vento
+
+freezing rain
+la pioggia gelata
+
+baked rice
+il riso al forno
+
+bio hacking
+il biohacking
+
+osteopath
+l'osteopato; l'osteopata
+
+to be embarrassed to be (something)
+vergognarsi di essere (qualcosa)
 

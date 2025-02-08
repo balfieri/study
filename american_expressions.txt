@@ -3252,7 +3252,7 @@ a turn-on
 it's all downhill from here (positive)
 da qui in poi sarà tutto più facile
 
-it's all downhill from here (negtive)
+it's all downhill from here (negative)
 da qui in poi andrà solo peggio
 
 it's an uphill climb
@@ -5496,9 +5496,6 @@ ci piace mantenerlo fresco
 better half (spouse)
 la dolce metà
 
-lovebug
-la coccinella
-
 to turn on (someone) to (something)
 fare scoprire (qualcosa) a (qualcuno)
 
@@ -5586,3 +5583,11 @@ questo (post) è un manicomio
 this (place) is a zoo
 questo (posto) è uno zoo
 
+it's been all downhill from there
+è stato tutto in discesa da allora; è andato tutto a rotoli da allora
+
+to go all downhill
+essere tutto in discesa; andare tutto a rotoli
+
+to wave the white flag; to raise the white flag
+alzare bandiera bianca
