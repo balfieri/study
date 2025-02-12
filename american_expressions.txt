@@ -5601,3 +5601,6 @@ sbattere la testa contro il muro
 to flip a house
 rivendere una casa dopo averla ristrutturata
 
+to have no clue what one is doing
+non avere idea di cosa stare facendo; non sapere cosa stare facendo
+
