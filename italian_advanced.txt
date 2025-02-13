@@ -85196,3 +85196,12 @@ comprarsi (qualcosa)
 
 YouTuber
 lo youtuber
+
+suite
+la suite
+
+presidential suite
+la suite presidenziale
+
+luxury suite
+la suite di lusso
