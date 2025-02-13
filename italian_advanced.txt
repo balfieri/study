@@ -20041,7 +20041,7 @@ quantunque
 extreme
 estremo
 
-heat; warmth (physical, personal)
+heat; warmth (scientific, technical)
 il calore
 
 bourgeois; middle-class
@@ -23011,7 +23011,7 @@ il supporto
 disorder (medical, psychological)
 il disturbo
 
-status
+status (social, legal, more formal)
 lo status
 
 collaborator
@@ -30520,8 +30520,8 @@ il calore; l'affezione
 hotness (spice)
 la piccantezza
 
-hotness (warmth)
-il caldo; il calore
+hotness (warmth, sensation, generic)
+il caldo
 
 vehement
 veemente
@@ -39471,9 +39471,6 @@ il cortigiano
 
 diminutive
 diminutivo
-
-to come full circle; to return to the well
-tornare al punto di partenza
 
 to joke around with (somebody)
 scherzare con (qualcuno)
@@ -85125,3 +85122,29 @@ trasmettere di generazione in generazione
 which products did you work on while you were with (company)?
 su quali prodotti hai lavorato mentre eri in (società)?
 
+German plug; Shuko plug
+la spina tedesca
+
+universal travel adapter
+l'adattatore universale da viaggio
+
+all the credit belongs to (someone)
+tutto il merito va a (qualcuno)
+
+you thought you were free of us, but you weren't
+pensavi di esserti liberato di noi, ma non era così
+
+Amazon pickup point
+il punto di ritiro Amazon
+
+good save!
+Bella parata!; ben fatto!
+
+to dial in the amount
+impostare l'importo; regolare la quantità
+
+let's meet near you
+incontriamoci vicino a te
+
+reunion tour
+il tour di reunion

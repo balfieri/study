@@ -7795,7 +7795,7 @@ ormai; oramai
 menu
 il menù
 
-state; status
+state; status (condition, state)
 lo stato
 
 every
