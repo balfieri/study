@@ -85257,3 +85257,9 @@ mi hai letto nel pensiero
 plastic straw
 la cannuccia in plastica
 
+AA battery; double A battery
+la batteria AA; la batteria doppia A
+
+AAA battery; triple A battery
+la batteria AAA; la batteria tripla A
+
