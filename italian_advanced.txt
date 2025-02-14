@@ -16870,6 +16870,9 @@ ma chi ti ha dato il permesso di
 how dare you?
 ma come ti permetti?
 
+do you mind?
+ti dispiace?
+
 do you mind? nonsense!
 ma fammi il piacere!
 
@@ -67286,9 +67289,6 @@ colombiano
 Iranian
 iraniano
 
-do you mind?
-ti dispiace?
-
 to commit evil
 compiere il male
 
@@ -85268,3 +85268,15 @@ chiuso a chiave; bloccato
 
 to think about how (to do something)
 pensare a come (fare qualcosa)
+
+do mind not doing that?
+ti dispiacerebbe non farlo?; potresti evitare di farlo?
+
+to sublease; to sublet (as rentee)
+prendere in subaffitto
+
+rope with knots
+la corda con nodi
+
+late in the morning
+in tarda mattina
