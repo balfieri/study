@@ -85266,3 +85266,6 @@ la batteria AAA; la batteria tripla A
 remainder of the day
 il resto della giornata; il rimanente della giornata
 
+locked
+chiuso a chiave; bloccato
+
