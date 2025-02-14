@@ -85263,3 +85263,6 @@ la batteria AA; la batteria doppia A
 AAA battery; triple A battery
 la batteria AAA; la batteria tripla A
 
+remainder of the day
+il resto della giornata; il rimanente della giornata
+
