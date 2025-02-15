@@ -66032,9 +66032,6 @@ il numero civile
 random person
 la persona a caso
 
-tailoring
-la sartoria
-
 speed camera; speed control
 l'autovelox
 
@@ -85298,3 +85295,13 @@ stellato Michelin
 
 with Michelin stars
 con stelle Michelin
+
+tailor's shop; dressmaker's shop; tailoring
+la sartoria
+
+to be a good fit
+essere una buona combinazione; andare bene insieme
+
+to be a good match
+essere una buona coppia; essere ben assortiti
+
