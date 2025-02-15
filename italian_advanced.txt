@@ -41905,7 +41905,7 @@ alla moda; di tendenza
 start; beginning; the way (start)
 il via
 
-washcloth
+wipe
 la salvietta
 
 report; ratio; relation
@@ -85305,3 +85305,14 @@ essere una buona combinazione; andare bene insieme
 to be a good match
 essere una buona coppia; essere ben assortiti
 
+washcloth (bath, shower)
+la pezzuola; il panno
+
+pairs
+le paia
+
+democratic backsliding
+l'arretramento democratico; l'erosione democratica
+
+backsliding
+l'arretramento; l'erosione

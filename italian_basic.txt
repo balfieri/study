@@ -6736,9 +6736,6 @@ gli alimentari
 pair; couple
 il paio
 
-pairs
-le paia
-
 late
 tardo
 
