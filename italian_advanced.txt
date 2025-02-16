@@ -8986,7 +8986,7 @@ un'esperienza unica nella vita; un'esperienza che capita una volta nella vita
 connection
 il collegamento
 
-connection (network, internet)
+connection (network, internet); connectivity
 la connessione
 
 even worse
