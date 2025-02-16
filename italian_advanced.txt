@@ -4912,8 +4912,11 @@ il buono
 stovetop
 il piano di cottura; il piano cottura
 
-hot plate; stove; range
-il fornello; la piastra calda; i fornelli
+stove; range
+il fornello; i fornelli
+
+hot plate
+il sottopentola; il pioggiapentola
 
 meek
 mansueto
@@ -85352,3 +85355,19 @@ nefando; malvagio; scellerato
 
 a little peckish
 leggero languorino
+
+freight forwarder; shipping agent
+lo spedizioniere; la spedizioniera
+
+delivery instructions
+le istruzioni di consegna
+
+kitschy; tacky
+pacchiano
+
+in the flesh
+in carne e ossa
+
+zero sugar
+zero zuccheri
+
