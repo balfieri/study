@@ -2535,9 +2535,6 @@ accaparrarsi (qualcosa); monopolizzare (qualcosa)
 to sweeten the pot
 rendere l'offerta più allettante; migliorare l'offerta
 
-thingamajig; whatchamacallit
-coso; roba
-
 it's (something) 101; (something) should be obvious, but apparently it's not
 (qualcosa) dovrebbe essere ovvio, ma non lo è; (qualcosa) dovrebbe essere un gioco da ragazzi; si dovrebbe imparare le basi di (qualcosa); non capisce nemmeno le nozioni fondamentali di (qualcosa)
 
@@ -5633,4 +5630,7 @@ il corpo da urlo; il fisico mozzafiato; il fisico pazzesco; il corpo da sballo
 
 famous last words
 ultime parole famose
+
+full of you-know-what
+pieno di sciocchezze; pieno di fesserie
 
