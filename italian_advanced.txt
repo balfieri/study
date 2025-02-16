@@ -8731,8 +8731,8 @@ rivoltarsi contro
 echo
 l'eco
 
-pushy
-insistente; invadente
+pushy (person)
+invadente; prepotente; insistente
 
 international relations
 le relazioni internazionali
@@ -85346,3 +85346,9 @@ in buona sostanza
 
 yawn
 la sbadiglia
+
+nefarious
+nefando; malvagio; scellerato
+
+a little peckish
+leggero languorino
