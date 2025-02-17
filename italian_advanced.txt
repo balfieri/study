@@ -14110,9 +14110,6 @@ l'ebraismo; il guidaismo
 Catholicism
 il cattolicesimo
 
-to redeem oneself
-redimersi
-
 I redeemed myself
 mi sono redento
 
@@ -56816,7 +56813,7 @@ in morsa
 the fanatic; the obsessed
 l'invasato; il fanatico; l'ossessionato
 
-to attend; to assist
+to attend; to assist; to witness
 assistere a; partecipare a
 
 to face up to the fact
@@ -73077,7 +73074,7 @@ pant; wheeze
 l'ansimo
 
 to average
-fare la media
+fare la media di
 
 styrofoam cooler
 il contenitore di polistirolo
@@ -75519,7 +75516,7 @@ to chip
 sbecciare
 
 to redeem oneself
-riscatarsi
+redimersi; riscatarsi
 
 primetime
 in prima serata
@@ -85383,3 +85380,14 @@ scegliere di
 in progress; being processed; under development
 in fase di elaborazione
 
+popcorn kernels; popping corn
+il mais per pop-corn
+
+we are witnessing the fall of an empire in real-time
+stiamo assistendo alla caduta di un impero in tempo reale
+
+to sift flour
+setacciare la farina
+
+to average 15,000 steps per day
+fare una media di 15.000 passi al giorno
