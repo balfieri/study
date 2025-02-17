@@ -85391,3 +85391,7 @@ setacciare la farina
 
 to average 15,000 steps per day
 fare una media di 15.000 passi al giorno
+
+time-out period
+il periodo di pausa; il periodo di timeout
+
