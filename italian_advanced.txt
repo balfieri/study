@@ -44791,11 +44791,11 @@ lo sgabello da bar
 placemat
 la tovaglietta
 
-wash cloth (kitchen)
-il panno da cucina
+wash cloth; washcloth (kitchen)
+il panno da cucina; la pezzuola da cucina
 
-wash cloth (shower)
-il panno da doccia
+wash cloth; washcloth (shower)
+il panno da doccia; la pezzuola da doccia
 
 dish towel; dish cloth; cloth
 lo strofinaccio
@@ -85304,9 +85304,6 @@ essere una buona combinazione; andare bene insieme
 
 to be a good match
 essere una buona coppia; essere ben assortiti
-
-washcloth (bath, shower)
-la pezzuola; il panno
 
 pairs
 le paia
