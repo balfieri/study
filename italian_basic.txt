@@ -5011,13 +5011,10 @@ meno
 society; company; corporation (European)
 la società
 
-place (general, larger area)
+place (abstract, generic, larger area, cultural, historical)
 il luogo
 
-location (formal, technical)
-la locazione
-
-place (specific); seat
+place (specific, usually inside); seat
 il posto
 
 some
@@ -5803,7 +5800,7 @@ assolutamente
 cost
 il costo
 
-position; stance (on an issue)
+position (specific); stance (on an issue)
 la posizione
 
 risk

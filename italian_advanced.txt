@@ -18790,7 +18790,7 @@ il contributo
 treaty; pact
 il trattato
 
-place; locality; area; geographical area; zone
+place; locality (geographical); tourist destination
 la località
 
 accomplished; complete; completed
@@ -42349,7 +42349,7 @@ toccate fuga
 washhouse
 il lavatoio
 
-location; position
+location; position (property)
 l'ubicazione
 
 to steer the conversation
