@@ -15733,7 +15733,7 @@ la fanfara
 chasm; abyss; gap; sink hole
 la voragine
 
-armored; bulletproof
+armored; armoured; bulletproof
 blindato
 
 significant; substantial; considerable; huge
@@ -85392,3 +85392,8 @@ fare una media di 15.000 passi al giorno
 time-out period
 il periodo di pausa; il periodo di timeout
 
+to make sure; to ascertain
+accertarsi
+
+account (on web site)
+l'account; il profilo

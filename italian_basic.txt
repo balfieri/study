@@ -1615,7 +1615,7 @@ forte
 annoying
 fastidioso; irritante; faticoso
 
-unknown
+unknown; stranger
 sconosciuto
 
 weak
