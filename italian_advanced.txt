@@ -100,9 +100,6 @@ il sale marino grosso
 peppercorn
 il granello di pepe nero
 
-tomato paste
-la pasta di pomodoro
-
 purpose
 lo scopo; il proposito
 
@@ -85409,3 +85406,13 @@ chiarire tutto; risolvere tutto
 
 to rub oneself against; to rub against; to hump
 strofinarsi contro
+
+Faraday cage
+la gabbia di Faraday
+
+double concentrated tomato paste
+il doppio concentrato di pomodoro
+
+tomato paste
+il concentrato di pomodoro
+
