@@ -85397,3 +85397,7 @@ accertarsi
 
 account (on web site)
 l'account; il profilo
+
+plane crash; air crash
+l'incidente aereo; il disastro aereo
+
