@@ -85464,3 +85464,5 @@ contrassegnato
 blood sausage; blood pudding
 il sanguinaccio
 
+HVAC duct
+il condotto di climatizzazione
