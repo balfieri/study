@@ -10337,7 +10337,7 @@ freshly-squeezed
 appena spremuto
 
 colander
-il colapasta
+lo scolapasta; il colapasta
 
 paper towel
 lo scottex; l'asciugamano di carte; il tovagliolo di carta; la carta assorbente
@@ -20212,7 +20212,7 @@ il dono
 protagonist; main character; lead; lead role
 il protagonista
 
-to strain; to drip; to leak
+to strain; to drip; to leak; to drain; to drip
 colare
 
 to consider oneself; to regard oneself
@@ -85457,3 +85457,4 @@ la cotica; la cotenna
 
 tankless water heater
 lo scaldabagno istantaneo; la caldaia istantanea; lo scaldacqua senza serbatoio; la caldaia senza serbatoio
+
