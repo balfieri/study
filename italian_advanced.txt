@@ -11122,7 +11122,7 @@ la tempestività
 merely
 meramente
 
-fidelity; allegiance; faithfullness
+fidelity; allegiance; faithfullness; loyalty
 la fedeltà
 
 quotation marks
@@ -30214,7 +30214,7 @@ solere
 Marseilles
 Marsiglia
 
-loyalty
+loyalty (correctness, honesty, integrity)
 la lealtà
 
 applause
@@ -85466,3 +85466,7 @@ il sanguinaccio
 
 HVAC duct
 il condotto di climatizzazione
+
+loyalty test
+il test di fedeltà; il test di lealtà
+
