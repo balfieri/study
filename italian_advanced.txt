@@ -73611,7 +73611,7 @@ every other day
 un giorno sì, un giorno no
 
 what's on the agenda?; what's scheduled?; what's planned?
-cosa è in programma?
+cosa c'è in programma?; cosa hai in programma?
 
 I don't happen to (do something)
 non mi capita di (fare qualcuno)
