@@ -10912,7 +10912,7 @@ approntare
 to launch
 varare
 
-tank; cylinder
+tank; cylinder (portable)
 la bombola
 
 erection (non-sexual)
@@ -45367,7 +45367,7 @@ il liquido dei freni
 to top up
 rabboccare
 
-reservoir; tank
+reservoir; tank (fixed instalation)
 il serbatoio
 
 undergrowth
@@ -85449,3 +85449,11 @@ l'esercizio mentale
 don't ask me why
 non chiedermi perché
 
+consider getting a new (something)
+considera di prendere un nuovo (qualcosa); pensa a procurarti un nuovo (qualcosa)
+
+pork rind; crackling
+la cotica; la cotenna
+
+tankless water heater
+lo scaldabagno istantaneo; la caldaia istantanea; lo scaldacqua senza serbatoio; la caldaia senza serbatoio
