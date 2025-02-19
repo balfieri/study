@@ -34072,9 +34072,6 @@ non voglio avere niente a che fare con te
 guardian angel
 l'angelo custode
 
-marked; flagged
-contrassegnato
-
 speed dial
 la chiamaleggere
 
@@ -85460,4 +85457,7 @@ lo scaldabagno istantaneo; la caldaia istantanea; lo scaldacqua senza serbatoio;
 
 to withstand the test of time; to stand the test of time
 resistere alla prova del tempo; superare la prova del tempo
+
+marked; labeled; tagged; flagged
+contrassegnato
 
