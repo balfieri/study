@@ -85560,3 +85560,6 @@ la giacenza
 waybill; consignment note
 la lettera di vettura
 
+for more details; for further information
+per maggiori dettagli
+
