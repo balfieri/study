@@ -85550,3 +85550,6 @@ la mozzarella casertana
 
 mozzarella di bufala of Salerno (stringier consistency, stronger flavor)
 la mozzarella salernitana
+
+the store carries (item)
+il negozio ha (articolo)
