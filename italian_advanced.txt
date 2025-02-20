@@ -12829,7 +12829,7 @@ la normativa
 about-face; reversal
 il dietrofront
 
-domain
+domain; dominance
 il dominio
 
 goddess; beauty
@@ -85511,4 +85511,10 @@ trainare l'auto; rimorchiare l'auto
 
 a lot of hype; much hype
 molta pubblicità; grande clamore
+
+technological dominance
+il dominio tecnologico
+
+which (something) can't I live without?
+di quali (qualcosa) non posso fare a meno?
 
