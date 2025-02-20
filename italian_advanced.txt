@@ -8134,8 +8134,11 @@ il malcapitato
 this; he
 costui
 
-to immortalize; to eternalize
-immortalare; eternare
+to immortalize 
+immortalare
+
+to eternalize
+eternare
 
 over the line; over the top
 oltre il limite
@@ -10669,7 +10672,7 @@ allungare
 I hate when that happens
 odio quando succede
 
-anchovies
+anchovies (fresh, in oil, smaller fish)
 gli alici
 
 teddy bear
@@ -32515,7 +32518,7 @@ ti onorerò con la mia presenza; ti abbellirò con la mia presenza
 vacuum-packed
 sottovuoto
 
-cured meat store
+cured meat store; deli
 la salumeria
 
 clothing store
@@ -85562,4 +85565,22 @@ la lettera di vettura
 
 for more details; for further information
 per maggiori dettagli
+
+at the latest
+al più tardi
+
+male chauvinism
+il maschilismo
+
+secret meeting; conciliabulum
+il conciliabolo
+
+pharaoh
+il faraone
+
+deli; delicatessen
+la gastronomia; la salumeria
+
+anchovies (long maturation, larger fish, last longer)
+le acciughe
 
