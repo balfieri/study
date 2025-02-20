@@ -85553,3 +85553,10 @@ la mozzarella salernitana
 
 the store carries (item)
 il negozio ha (articolo)
+
+stock; balance; inventory
+la giacenza
+
+waybill; consignment note
+la lettera di vettura
+
