@@ -85670,3 +85670,6 @@ to exit the room
 
 Napoleonic complex
 il complesso napoleonico
+
+trusted individual; trusted person
+la persona di fiducia
