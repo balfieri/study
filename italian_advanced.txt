@@ -85698,3 +85698,6 @@ spigliato
 distancing; taking distance
 la presa di distanza
 
+leaning out; overlooking
+affacciato
+
