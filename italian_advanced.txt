@@ -85707,3 +85707,6 @@ visto che manca un mese
 two-tone; two-colored
 bicolore
 
+savvy
+esperto; astuto; competente
+
