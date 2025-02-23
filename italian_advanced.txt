@@ -85832,3 +85832,7 @@ il teletrasporto quantistico
 
 exit poll
 l'exit poll
+
+sidestep; side step
+il passo laterale
+
