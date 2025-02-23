@@ -85773,3 +85773,6 @@ il lanciatore del giavellotto; la lanciatrice del giavellotto
 javelin
 il giavellotto
 
+with high ratings; with excellent reviews
+con alti valutazioni
+
