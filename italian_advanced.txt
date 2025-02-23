@@ -85845,3 +85845,6 @@ fare nome
 little one
 il piccolino; la piccolina
 
+conflict of interest; clash of interests
+il conflitto d'interesse; il conflitto di interessi
+
