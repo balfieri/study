@@ -85764,3 +85764,12 @@ la rimonta
 announcer; commentator
 il commentatore; la commentatrice; il telecronista; la telecronista
 
+hammer thrower
+il lanciatore del martello; la lanciatrice del martello
+
+javelin thrower
+il lanciatore del giavellotto; la lanciatrice del giavellotto
+
+javelin
+il giavellotto
+
