@@ -85830,3 +85830,5 @@ il teletrasporto
 quantum teleportation
 il teletrasporto quantistico
 
+exit poll
+l'exit poll
