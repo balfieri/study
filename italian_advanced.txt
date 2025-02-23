@@ -27001,7 +27001,7 @@ assorbire
 to obey
 obbedire
 
-to favor
+to favor; to promote (condition)
 favorire
 
 to take a seat
@@ -85794,3 +85794,8 @@ confondersi
 in this day and age; nowadays
 ai nostri tempi; oggigiorno; ai giorni nostri
 
+food supplement
+l'integratore alimentare
+
+lactic acid bacteria
+i fermenti lattici vivi
