@@ -27289,7 +27289,7 @@ qualificare
 to qualify for
 qualificarsi per
 
-to agree (having same opinion)
+to agree on (having same opinion)
 concordare
 
 to sigh
@@ -53197,7 +53197,7 @@ postato
 to frank; to mark postage as paid
 affrancare
 
-grizzled
+grizzled; gray-haired
 brizzolato
 
 frizzy hair
@@ -57539,7 +57539,7 @@ il nutrizionista; la nutrizionista
 to pierce
 bucarsi
 
-card-carrying member
+card-carrying member; registered member
 il tesserato; la tesserata
 
 it brings me back to my childhood
@@ -85748,4 +85748,19 @@ a meno di sorpresa
 
 to form a coalition; to team up; to gang up
 coalizzarsi
+
+rejection; pushback
+il respingimento
+
+bizarre; far-fetched; abstruse
+cervellotico
+
+separate; detached; disconnected; disjoint
+disgiunto
+
+comeback; recovery
+la rimonta
+
+announcer; commentator
+il commentatore; la commentatrice; il telecronista; la telecronista
 
