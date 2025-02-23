@@ -2542,7 +2542,7 @@ affrettare
 to overuse
 abusare di
 
-to reciprocate; to repay
+to reciprocate; to repay; to get back at
 ricambiare
 
 stake; picket; pole
@@ -74687,7 +74687,7 @@ le patate lesse
 coarseness of the grind
 la granulosità della macinatura
 
-graininess
+graininess; coarseness
 la granulosità
 
 to misinterpret
@@ -85856,4 +85856,10 @@ la tapparella
 
 homemade bread; rustic bread; simple, traditional bread
 il pane casereccio
+
+to get revenge on (someone); to get even with (someone)
+vendicarsi di (qualcuno); farla pagare a (qualcuno)
+
+grainy; granular
+granuloso
 
