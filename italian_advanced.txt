@@ -85812,3 +85812,6 @@ lo strammoderno
 living room; day room
 la sala giorno; il salone giorno
 
+to control consumption; to monitor usage
+controllare i consumi
+
