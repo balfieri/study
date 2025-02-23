@@ -3332,7 +3332,7 @@ computer
 il computer
 
 living room; family room
-il salone; il salotto; la sala; il soggiorno
+il salone; il salotto; la sala; il soggiorno; il living
 
 plant
 la pianta
