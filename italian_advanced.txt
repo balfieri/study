@@ -3674,7 +3674,7 @@ feasible; doable; practical; workable
 fattibile; praticabile; realizzabile; attuabile
 
 raw; unrefined; uncut; coarse; crude (tactless)
-grezzo
+grezzo; non raffinato
 
 prohibition; ban
 il divieto
@@ -38107,8 +38107,8 @@ la carta d'identità; la tessera d'identità; il distintivo
 needs
 i bisogni; le esigenze; le necessità
 
-to intrigue; to picque (someone's) interest
-incuriosire; suscitare interesse
+to intrigue
+incuriosire
 
 speeding ticket
 la multa per eccesso di velocità; la contravvenzione stradale
@@ -42898,7 +42898,7 @@ il paesino; la piccola città; il paesello
 caregiver
 il badante; la badante
 
-croissant; brioche
+brioche
 la brioche
 
 patient; patient girl (Venetian dialect)
@@ -85710,3 +85710,35 @@ bicolore
 savvy
 esperto; astuto; competente
 
+chartreuse; pale green
+la certosa; la chartreuse
+
+back row
+l'ultima fila
+
+I just want to pique your interest in the movie
+Voglio solo stuzzicare il tuo interesse per il film
+
+clever screenplay
+la sceneggiatura intelligente
+
+date film
+il film per appuntamenti
+
+date night
+la serata romantica
+
+kitchen waste
+i rifiuti di cucina
+
+organic waste
+i rifiuti organici
+
+to compost
+compostare
+
+to do composting
+fare il compostaggio
+
+cabinet door
+l'anta dell'armadio; lo sportello del mobile
