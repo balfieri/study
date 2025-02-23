@@ -85815,3 +85815,6 @@ la sala giorno; il salone giorno
 to control consumption; to monitor usage
 controllare i consumi
 
+fiery; passionate; ardent
+focoso
+
