@@ -85810,5 +85810,5 @@ ultramodern; cutting-edge
 lo strammoderno
 
 living room; day room
-la sala giorno
+la sala giorno; il salone giorno
 
