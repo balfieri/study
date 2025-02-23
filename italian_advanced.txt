@@ -55046,7 +55046,7 @@ groper
 il palpatore
 
 acetaminophen
-l'acetaminofene; il paracetamolo
+il paracetamolo; l'acetaminofene
 
 to make amends
 fare ammenda
@@ -56810,7 +56810,7 @@ in morsa
 the fanatic; the obsessed
 l'invasato; il fanatico; l'ossessionato
 
-to attend; to assist; to witness
+to witness; to attend; to assist; to participate in
 assistere a; partecipare a
 
 to face up to the fact
@@ -85790,3 +85790,7 @@ il forno con microonde integrated
 
 to get confused; to become confused; to blend together
 confondersi
+
+in this day and age; nowadays
+ai nostri tempi; oggigiorno; ai giorni nostri
+
