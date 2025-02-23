@@ -9034,8 +9034,8 @@ sapevo che sarebbe successo
 soundproof
 insonorizzato
 
-to soundproof
-insonorizzare
+to soundproof; to acoustically insulate
+insonorizzare; isolare acusticamente
 
 as far as I'm concerned
 per quanto mi riguarda; per quel che mi riguarda
@@ -85776,3 +85776,14 @@ il giavellotto
 with high ratings; with excellent reviews
 con alti valutazioni
 
+air freshener
+il deodorante per ambienti; il deodorante per auto
+
+to isolate; to insulate; to separate
+isolare
+
+combination oven and microwave
+il forno combinato con un microonde
+
+oven with integrated microwave
+il forno con microonde integrated
