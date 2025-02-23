@@ -2476,7 +2476,7 @@ le doti
 both (longer)
 l'uno e l'altro
 
-to stick to
+to adhere to; to stick to; to cling to
 aderire a
 
 member of Calabrese mafia
@@ -5095,7 +5095,7 @@ allestito
 recycling; reuse
 il riciclo
 
-to join; to adhere; to stick
+to adhere; to stick; to cling
 aderire
 
 plain (land); flat; lowland
@@ -85853,4 +85853,7 @@ il reato di traffico
 
 rolling shutter; roller blind
 la tapparella
+
+homemade bread; rustic bread; simple, traditional bread
+il pane casereccio
 
