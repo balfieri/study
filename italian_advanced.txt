@@ -44869,7 +44869,7 @@ fiancheggiato
 to redeem
 redimere; riscattare
 
-scorching
+scorching; sweltering
 cocente
 
 burning
@@ -85889,4 +85889,37 @@ avere un'ottima acustica
 
 having a cold; with a cold
 raffreddato
+
+russet; reddish-brown
+rossobruno
+
+ruby red
+rosso rubino
+
+social democratic
+socialdemocratico
+
+resolutely; hard-nosed; bluntly
+a muso duro
+
+trumpian
+trumpiano
+
+Trump supporter
+il trumpiano; la trumpiana
+
+Merz supporter
+il merziano; la merziana
+
+iron; cast-iron; steel (adjective)
+di ferro
+
+cohabitation; coexistence
+la coabitazione
+
+Phillips screwdriver; Phillips-head screwdriver
+il cacciavite a croce; il cacciavite Phillips
+
+to resume dialogue; to pick up dialogue
+riprendere dialogo
 
