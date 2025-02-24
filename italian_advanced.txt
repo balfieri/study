@@ -13510,8 +13510,8 @@ anno dopo anno
 day after day
 giorno dopo giorno
 
-big picture
-il quadro generale
+big picture; overall vision
+la visione d'insieme; il quadro generale
 
 engineering
 l'ingegneria
@@ -85923,3 +85923,23 @@ il cacciavite a croce; il cacciavite Phillips
 to resume dialogue; to pick up dialogue
 riprendere dialogo
 
+cave exploration technique
+la speleotecnica
+
+big garlic
+l'aglione
+
+ultra-adherent
+ultraderente
+
+super-adherent
+superaderente
+
+super-resistant
+superresistente
+
+unleavened bread; matzo
+il pane azimo
+
+unleavened
+azimo
