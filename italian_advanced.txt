@@ -31777,7 +31777,7 @@ il mantenimento della casa
 home improvement
 il miglioramento della casa
 
-to adapt
+to adapt; to tailor
 adattare; adattarsi
 
 to adapt to; to fit with; to comply with; to fit
@@ -85973,4 +85973,10 @@ la massoneria
 
 Masonic sect
 la setta massonica
+
+longtime friends; old friends
+gli amici di vecchia data
+
+to tailor (something) to your needs
+adattare (qualcosa) alle tue esigenze
 
