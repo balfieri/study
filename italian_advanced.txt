@@ -85855,7 +85855,7 @@ rolling shutter; roller blind
 la tapparella
 
 homemade bread; rustic bread; simple, traditional bread
-il pane casereccio
+il pane casereccio; il pane casareccio
 
 to get revenge on (someone); to get even with (someone)
 vendicarsi di (qualcuno); farla pagare a (qualcuno)
@@ -85955,3 +85955,9 @@ distintivo; caratteristico; peculiare
 
 record (adjective)
 record
+
+enlightenment
+l'illuminismo
+
+mainstream
+tradizionale; principale
