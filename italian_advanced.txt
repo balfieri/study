@@ -24367,7 +24367,7 @@ dedurre
 discussed
 discusso
 
-card; board
+card; board; tab
 la scheda
 
 communicated
@@ -85946,3 +85946,6 @@ azimo
 
 of course not
 certo che no; ovviamente no; assolutamente no
+
+default (noun)
+l'impostazione predefinita
