@@ -7093,7 +7093,7 @@ infilare
 valediction; farewell
 il commiato
 
-sullen; pitch-black; gloomy; grim
+sullen; pitch-black; gloomy; grim; dour
 cupo; tetro
 
 World War II
@@ -68141,7 +68141,7 @@ frantumato
 rocks
 gli scogli
 
-broken; broken down; malfunctioning (technical, mechanical)
+broken (generic); broken down; malfunctioning (technical, mechanical)
 guasto
 
 at 11 sharp
@@ -85979,4 +85979,31 @@ gli amici di vecchia data
 
 to tailor (something) to your needs
 adattare (qualcosa) alle tue esigenze
+
+dour personality
+la personalità cupa; la personalità austera
+
+to swap lessons
+scambiare lezioni; scambiarsi lezioni
+
+first-run; newly released
+in prima visione
+
+small cloth; handkerchief
+la pezzuola
+
+to grab; to seize
+accuffare
+
+art gallery; picture gallery
+la pinoteca
+
+at first sight; at first glance
+in prima vista
+
+to lengthen; to elongate
+delungare
+
+to shake oneself; to shrug off
+scrollarsi
 
