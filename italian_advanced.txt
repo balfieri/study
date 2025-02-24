@@ -8804,7 +8804,7 @@ intervention
 l'intervento
 
 of course; surely; certainly
-certo; certamente
+certo; certo che sì; certamente; assolutamente sì
 
 inside (noun)
 l'interno
@@ -85943,3 +85943,6 @@ il pane azimo
 
 unleavened
 azimo
+
+of course not
+certo che no; ovviamente no; assolutamente no
