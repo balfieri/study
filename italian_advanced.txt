@@ -73,11 +73,14 @@ insipido; blando; insapore; scialbo; sciapo
 surrender; to give up
 arrendersi
 
-quota; share; fee; altitude (cartography, construction, aviation)
+altitude (general, scientific, above sea level)
+l'altitudine
+
+quota; share; fee; altitude (technical, cartography, military, alpine, planning)
 la quota
 
-altitude (city, geography, aviation, meteorology, environmental science)
-l'altitudine
+altitude of 1000 meters
+la quota 1000; l'altitudine di 1000 metri
 
 farm field
 il campo agricolo
@@ -18385,7 +18388,7 @@ la cellula
 synthesis; summary; abstract
 la sintesi
 
-tale; story; short story; telling
+tale; story; short story; telling; raccount
 il racconto
 
 absence
@@ -86055,3 +86058,8 @@ la controcopertina
 tax refund
 il rimborso fiscale; il rimborso delle tasse
 
+high altitude; at high altitude (adjective)
+in alta quota
+
+high-calorie
+ipercalorico
