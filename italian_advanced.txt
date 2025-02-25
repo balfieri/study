@@ -86063,3 +86063,16 @@ in alta quota
 
 high-calorie
 ipercalorico
+
+holy habit
+l'abito religioso 
+
+nun's habit
+l'abito monacale
+
+suit
+l'abito; il completo
+
+suit; look; attire; habit (nun)
+l'abito
+

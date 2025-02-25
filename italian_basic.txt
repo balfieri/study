@@ -1663,9 +1663,6 @@ i baffi
 pants; trousers
 i pantaloni
 
-suit
-l'abito; il completo
-
 complete
 completo; compiuto
 
@@ -1680,9 +1677,6 @@ la camicia
 
 coat
 il cappotto
-
-suit; look
-l'abito
 
 sock
 il calzino
