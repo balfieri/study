@@ -22486,7 +22486,7 @@ abbandonato
 food (adjective)
 alimentare (agg)
 
-to feed (food)
+to feed (food, abstract)
 alimentare (verbo)
 
 rancid
@@ -60722,9 +60722,6 @@ il rischio esistenziale
 science-fiction (adjective)
 fantascientifico
 
-to contextualize
-contestualizzare
-
 paperclip; paper clip
 la graffetta
 
@@ -86012,4 +86009,19 @@ l'host di Airbnb; il padrone di casa Airbnb
 
 locomotive
 la locomotiva
+
+self-protective; self-defensive
+autodifensivo
+
+contextualized; put in context
+contestualizzato
+
+to contextualize; to put in context
+contestualizzare
+
+greed; boundless greed; limitless greed
+l'avidità sconfinata
+
+equal treatment; equal opportunity
+la par condicio
 
