@@ -377,7 +377,7 @@ to stem
 arginare
 
 artificial; contrived
-artificioso
+artificioso; congegnato
 
 genuine
 genuino
@@ -41685,9 +41685,6 @@ la ruggine
 
 mild; gentle; merciful; clement
 clemente
-
-contrived
-congegnato
 
 impudence
 la sfrontatezza
@@ -86111,4 +86108,16 @@ la questione di privacy
 
 I feel like it a bit
 un po' mi va
+
+breakable
+frangibile
+
+gimmicky; tricky
+trucchesco; artificioso
+
+not really; not so much
+ma mica tanto
+
+to be pregnant
+essere incinte
 
