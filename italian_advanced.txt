@@ -40825,8 +40825,11 @@ i servizi a terra
 to fess up
 confessare; ammettere
 
-to banish; to exile
-bandire; esiliare
+to banish 
+bandire
+
+to exile
+esiliare
 
 to cause; to bring about
 arrecare
