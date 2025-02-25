@@ -10196,7 +10196,7 @@ to bend; to fold; to flex
 piegare
 
 I have to pinch myself
-devo darmi un pizzicotto
+devo darmi un pizzicotto; devo pizzicarmi
 
 summit; peak
 la vetta
@@ -73989,7 +73989,7 @@ voluminous
 voluminoso
 
 short circuit
-il corto circuito
+il corto circuito; il cortocircuito
 
 siding (house)
 il rivestimento esterno
@@ -86039,4 +86039,13 @@ lo schermo grande
 
 to promote equality
 promuovere l'uguaglianza; promuovere la parità
+
+on demand (TV)
+on demand
+
+cream puff; beignet
+la bignè
+
+politicization
+la politicizzazione
 
