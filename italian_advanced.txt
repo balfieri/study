@@ -17503,8 +17503,8 @@ grazie a Dio è venerdì; per fortuna è venerdì
 that's the spirit
 questo è lo spirito giusto; questo è lo spirito
 
-I wish to do something
-mi va di
+I wish to (do something); I feel like (doing something)
+mi va di (fare qualcosa)
 
 come on!
 dai!
@@ -86108,4 +86108,7 @@ la fotina
 
 matter of privacy; privacy issue
 la questione di privacy
+
+I feel like it a bit
+un po' mi va
 
