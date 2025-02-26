@@ -1467,8 +1467,8 @@ partire per la tangente
 monster album
 il capolavoro; la pietra miliare
 
-cringe-worthy; cringe (adjective)
-che fa rabbrividire; imbarazzante
+cringe-worthy; cringe (adjective); cringeworthy
+che fa rabbrividire; imbarazzante; vergognoso
 
 to make one's skin crawl
 far accapponare la pelle
@@ -3764,9 +3764,6 @@ troppo bello per essere vero
 
 she's a stunner
 lei è una meraviglia
-
-cringeworthy
-imbarazzante; vergognoso
 
 to have a lot on one's plate; to have a lot of stuff on one's plate
 avere molto per la testa; essere molto impegnato
