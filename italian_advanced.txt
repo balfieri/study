@@ -45379,7 +45379,7 @@ il sottobosco
 decantation
 la decantazione
 
-goblet
+goblet; chalice
 il calice
 
 enveloping
@@ -86214,6 +86214,33 @@ il giustizialismo
 energy consumption
 il consumo energetico
 
-lint trap; fluff filter
-il filtro lanugine; il filtro pelucchi
+lint filter; fluff filter
+il filtro filacci; il filtro pelucci; il filtro lanugine; il filtro garzato; filtro della pompa
+
+from father to son
+di padre in figlio
+
+small ball; pellet; little ball
+la pallottina
+
+wherever I go
+ovunque io vada; dovunque io vada
+
+roar; roaring
+il ruggio
+
+glass of wine
+il vino al calice
+
+to do some brainstorming; to brainstorm
+fare un brainstorming; fare una sessione di brainstorming
+
+it's good to have you back
+è bello averti di nuovo qui; è bello rivederti
+
+to double-park the car
+parcheggiare in doppia fila
+
+free spirit
+lo spirito libero
 
