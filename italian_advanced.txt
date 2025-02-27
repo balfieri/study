@@ -36112,7 +36112,7 @@ liquefatto
 I don't measure myself by the amount of money I have
 non mi giudico in base alla quantità di denaro che ho
 
-acquitted; cleared
+acquitted; cleared; absolved
 assolto
 
 to clap one's hands
@@ -86187,3 +86187,29 @@ la sfilata
 loveliness; beauty
 la bellezza; la leggiadria
 
+x-axis; x axis
+l'asse x; l'asse delle x
+
+y-axis; y axis
+l'asse y; l'asse delle y
+
+this graph illustrates
+questo grafico illustra
+
+to hold a class; to teach a class
+tenere una classe
+
+chaos; uproar; commotion
+il putiferio
+
+as such
+quanto tale
+
+false accounting; fraudulent financial reporting
+il falso in bilancio
+
+excessive focus on punishment in the justice system; tendency to seek harsh justice
+il giustizialismo
+
+energy consumption
+il consumo energetico
