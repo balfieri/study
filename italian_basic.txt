@@ -7920,3 +7920,6 @@ a presto!
 
 result
 il risultato
+
+to be depressed
+essere depressi
