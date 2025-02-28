@@ -34120,7 +34120,7 @@ la proprietà; il patrimonio
 workshop; garage
 l'officina
 
-cardboard
+cardboard; carton
 il cartone
 
 stance
