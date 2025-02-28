@@ -11554,9 +11554,6 @@ prescuolare
 draconian
 draconiano
 
-abnegation
-l'abiura
-
 cautionary; admonitory
 ammonitorio
 
@@ -55735,9 +55732,6 @@ il libro per tavolino da caffè
 to try hard to make it happen
 provare duramente a farlo accadere
 
-microfiber cloth
-il panno in microfibra
-
 car detailing
 la dettagliatura dell'auto
 
@@ -86246,4 +86240,19 @@ lo spirito libero
 
 relic; heirloom; antique
 il cimelio
+
+I am ashamed
+mi vergogno; provo vergogna
+
+little weekend
+il weekendino
+
+microfiber cloth
+il panno di microfibra; il panno in microfibra
+
+to pickaxe; to hack away
+picconare
+
+abjuration; renunciation; abnegation
+l'abiura
 
