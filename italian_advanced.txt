@@ -2182,7 +2182,7 @@ ingrandire
 no parking zone
 il divieto di sosta
 
-bandage; band; belt; sash; group; slot; range
+bandage; band; belt; sash; group; slot; range; tier
 la fascia
 
 tablet (pill)
@@ -6385,7 +6385,7 @@ colmare
 inborn; inherent; indiginous
 insito
 
-to reveal; to betray; to disclose
+to reveal; to betray; to disclose; to break (story)
 rivelare
 
 to prepare; to arrange; to stage; to set up (physical); to equip
@@ -86255,4 +86255,10 @@ picconare
 
 abjuration; renunciation; abnegation
 l'abiura
+
+pit bull
+il pit bull
+
+headlight; lighthouse; beacon
+il faro
 
