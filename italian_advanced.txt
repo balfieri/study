@@ -24692,7 +24692,7 @@ plastic bag
 il sacchetto di plastica
 
 ziplock bag
-il sacchetto con zip; il sacchetto richiudibile
+il sacchetto con chiusura zip; il sacchetto richiudibile
 
 twin
 il gemello
