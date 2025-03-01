@@ -2719,11 +2719,8 @@ mostrare
 to occupy
 occupare
 
-to turn (physical); to tour
+to turn; to tour
 girare
-
-to turn (abstract)
-volgere
 
 to greet; to say hello to; to say goodbye to
 salutare
