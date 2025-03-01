@@ -28492,9 +28492,6 @@ evidenziato
 socially
 socialmente
 
-manpower; labor
-la manodopera
-
 illuminated
 illuminato
 
@@ -86303,3 +86300,6 @@ il broncospasmo
 
 to say one thing and do another
 dire una cosa e farne un'altra
+
+labor; workforce; manpower
+la manodopera
