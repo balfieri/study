@@ -11290,9 +11290,6 @@ se dovessi rifare tutto da capo
 if I could do it all over again
 se potessi rifare tutto da capo
 
-the genie is out of the bottle
-il genio è uscito dalla lampada
-
 it's the thought that counts
 è il pensiero che conta
 
@@ -16125,9 +16122,6 @@ struggente
 
 mix; mixing (audio, film,  TV)
 il missaggio
-
-debut; beginning; onset
-l'esordio
 
 clearing
 lo schiaramento
@@ -86357,4 +86351,31 @@ il paesetto
 
 world center; center of the world
 il centromondo
+
+overview; overlook
+la panoramica
+
+debut; first appearance; beginning; onset
+l'esordio
+
+sighted; seeing
+vedente
+
+freeloader; scrounger; moocher
+lo scroccone
+
+bland; insipid; tasteless
+scipito
+
+griller
+il grigliatore; la grigliatrice
+
+turning; revolving
+volgente
+
+unfolding; developing
+svolgente
+
+body double
+la controfigura; la sosia
 
