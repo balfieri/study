@@ -86379,3 +86379,6 @@ svolgente
 body double
 la controfigura; la sosia
 
+to mock oneself; to make fun of oneself
+deridersi
+
