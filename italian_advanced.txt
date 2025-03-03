@@ -86427,3 +86427,6 @@ il fiume Reno
 arms race
 la corsa agli armamenti
 
+to service (equipment)
+per effettuare la manutenzione di (apparecchiatura)
+
