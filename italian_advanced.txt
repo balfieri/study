@@ -16396,9 +16396,6 @@ il cuneo fiscale
 deviation; deviance
 lo scostamento
 
-to agree (on a decision); to concur
-convenire
-
 income (adjective)
 reddituale
 
@@ -86436,3 +86433,14 @@ inbuccato
 gatecrasher; party crasher; uninvited guest
 l'imbucato; l'imbucata
 
+to agree with (formal)
+convenire con
+
+to convene
+convenire
+
+to be appropriate (doing something)
+convenire (fare qualcosa)
+
+to suit
+convenire a
