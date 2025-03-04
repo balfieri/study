@@ -8482,7 +8482,7 @@ la relazione di appuntamenti
 sticky; tacky; clingy
 appiccioso
 
-shocking; disconcerting
+shocking; disconcerting; upsetting
 sconvolgente
 
 to upset; to disturb; to perturb; to throw off balance; to shock
@@ -86528,4 +86528,10 @@ portare fuori dalla cucina
 
 assisted suicide
 il suicidio guidato
+
+overwhelming; mind-blowing; stunning
+stravolgente
+
+upsetting; disturbing
+turbante; disturbante; sconvolgente
 
