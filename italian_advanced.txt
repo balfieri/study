@@ -86380,7 +86380,7 @@ unfolding; developing
 svolgente
 
 body double
-la controfigura; la sosia
+la controfigura; il sosia; la sosia
 
 to mock oneself; to make fun of oneself
 deridersi
@@ -86525,4 +86525,7 @@ it is difficult to prove one way or another
 
 to bring out from the kitchen
 portare fuori dalla cucina
+
+assisted suicide
+il suicidio guidato
 
