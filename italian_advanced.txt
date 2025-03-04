@@ -86460,3 +86460,6 @@ la ragazza-madre
 warehouseman; warehouse worker; storeman
 il magazziniere
 
+to play with one's cards face up; to lay one's cards on the table
+giocare a carte scoperte
+
