@@ -83419,7 +83419,7 @@ change of course
 il cambio di rotta
 
 balance of power
-il rapporto di forza
+la bilancia di poteri; l'equilibrio dei poteri; il rapporto di forza
 
 upward; on the rise
 al rialzo
@@ -86468,4 +86468,10 @@ manchevole
 
 threatened
 minacciato
+
+defense security; security defense
+la sicurezza di difesa
+
+it never occurred to me that
+non mi era mai venuto in mente che (congiuntivo)
 
