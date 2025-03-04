@@ -86476,7 +86476,13 @@ it never occurred to me that
 non mi era mai venuto in mente che (congiuntivo)
 
 rearmament; rearming
-il riarmo
+il riarmo; il riarmamento
+
+to rearm
+riarmare
+
+to arm
+armare
 
 to have a smile on one's face
 avere un sorriso sul viso
