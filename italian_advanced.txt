@@ -68090,8 +68090,11 @@ dentro le mura della città
 well nourished
 ben nutrito
 
-outnumbered
+outnumbered; in the minority
 in minoranza
+
+in the majority
+in maggioranza
 
 quite a thud
 un bel tonfo
