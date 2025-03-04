@@ -35602,7 +35602,7 @@ la creatura d'abitudine; la persona abitudinaria
 obsessive-compulsive disorder (OCD)
 il disturbo ossessivo-compulsivo (DOC)
 
-habitual (negative)
+habitual (negative); set in one's ways
 abitudinario
 
 mugshot
@@ -86495,3 +86495,13 @@ la Scuola Ufficiali dei Carabinieri
 
 academic year
 l'anno academico (AA)
+
+one-man show
+l'one-man show
+
+the week leading up to
+la settimana prima di
+
+to clutter; to encumber
+ingombrare
+
