@@ -86508,3 +86508,6 @@ ingombrare
 cleaning person; cleaner
 la persona della pulizia
 
+the laws of thermodynamics
+le leggi della termodinamica
+
