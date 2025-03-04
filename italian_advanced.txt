@@ -27704,7 +27704,7 @@ I don't want to leave you hanging; I don't want to leave you in suspense
 non voglio lasciarti in sospeso
 
 true story
-storia vera
+la storia vera
 
 you can't make this stuff up
 queste cose non si possono inventare; non si può inventare cose così
@@ -86522,3 +86522,7 @@ uno in più; una in più
 
 it is difficult to prove one way or another
 è difficile dimostrarlo in un modo o nell'altro; è difficile dimostrarlo in un senso o nell'altro
+
+to bring out from the kitchen
+portare fuori dalla cucina
+
