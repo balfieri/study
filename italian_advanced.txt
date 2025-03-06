@@ -19792,7 +19792,7 @@ il municipio
 canoe
 la canoa
 
-foil
+foil; little flower
 il fioretto
 
 variable; changeable
