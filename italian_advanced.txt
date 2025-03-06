@@ -26186,7 +26186,7 @@ pubic
 pubico
 
 pubic hair
-il pelo pubico
+il pelo pubico; i peli pubici
 
 to intervene; to occur; to elapse
 intercorrere
@@ -74870,9 +74870,6 @@ mandare in crash
 dating (determination of age)
 la datazione
 
-to date; to go out with somebody
-uscire con qualcuno
-
 idle time
 il tempo inattivo
 
@@ -86576,4 +86573,16 @@ la cassa di risparmio
 
 I am drawn to (something)
 sono attratto da (qualcosa); sono portato verso (qualcosa)
+
+expected; long-awaited
+l'atteso
+
+slow drying
+la lenta essicazione
+
+heel (man)
+il mascalzone; il farabutto
+
+mi fai schifo
+you disgust me
 
