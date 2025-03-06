@@ -368,7 +368,7 @@ toward
 verso
 
 back; backwards
-indietro
+indietro; a ritroso
 
 directions
 le indicazioni
