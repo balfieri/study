@@ -56088,7 +56088,7 @@ LEGO brick
 il mattoncino LEGO
 
 good to know
-buono a sapersi
+buono a sapersi; è buono a sapersi
 
 that's good to know
 è buono saperlo; è bello saperlo
@@ -86600,4 +86600,7 @@ il primo possibile
 
 first available
 il primo disponibile
+
+to inhibit
+inibitare
 
