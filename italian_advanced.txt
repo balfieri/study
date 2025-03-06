@@ -86604,3 +86604,8 @@ il primo disponibile
 to inhibit
 inibitare
 
+to come after (something)
+venire a prendere (qualcosa)
+
+to go after (something)
+andare a prendere (qualcosa)
