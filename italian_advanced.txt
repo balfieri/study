@@ -24695,7 +24695,7 @@ aware
 consapevole
 
 unaware; oblivious; clueless
-inconsapevole; ignaro
+inconsapevole; ignaro; senza la minima idea
 
 conscious (adjective)
 cosciente
