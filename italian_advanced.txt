@@ -66644,7 +66644,7 @@ l'artigianalità
 I don't have access to a printer
 non ho accesso a una stampante
 
-copy shop
+copy shop; copy store; copy and print store; copy center
 la copisteria
 
 Italophile
@@ -86621,4 +86621,7 @@ ritroso
 
 patron; patron saint
 il patrono
+
+to stew over (something); to brood over (something)
+rimuginare su (qualcosa); arrovellarsi su (qualcosa)
 
