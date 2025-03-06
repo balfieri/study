@@ -86619,3 +86619,6 @@ procedere a ritroso; lavorare all'indietro
 shy; bashful; reluctant
 ritroso
 
+patron; patron saint
+il patrono
+
