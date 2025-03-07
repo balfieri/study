@@ -9391,7 +9391,7 @@ del mal d’auto
 car-sickness
 il mal d’auto
 
-store; uorkshop
+store; shop
 la bottega
 
 gullible
