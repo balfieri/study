@@ -86661,3 +86661,6 @@ anomalo
 range of ages
 la gamma di età; l'intervallo di età
 
+age range; age bracket
+la fascia d'età; la fascia anagrafica
+
