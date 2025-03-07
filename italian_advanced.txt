@@ -86664,3 +86664,6 @@ la gamma di età; l'intervallo di età
 age range; age bracket
 la fascia d'età; la fascia anagrafica
 
+Cesarean section
+il taglio cesareo; il parto cesareo
+
