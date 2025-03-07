@@ -19414,7 +19414,7 @@ nient'altro
 pirate
 il pirata
 
-puffy; swollen
+puffy; swollen; bloated
 gonfio
 
 to palm off; to pass off
@@ -45259,7 +45259,7 @@ il roditore
 tip; lace
 il pizzo
 
-patch
+rag; cloth; patch
 la pezza
 
 to sift
@@ -86675,4 +86675,28 @@ il pregame; il pre-partita; l'atmosfera pre-partita
 
 zero-sum mentality
 la mentalità a somma zero
+
+to get into someone's good books; to become likeable to someone
+entrare in simpatia
+
+compatible
+compatibili
+
+unconscious; unaware
+inconsciente
+
+showroom
+la sala d'esposizione; il salone espositivo
+
+to protect oneself
+proteggersi; difendersi
+
+to live longer
+vivere più a lungo
+
+to live a very long time
+vivere molto a lungo
+
+to feel bloated
+sentirsi gonfio; sentirsi pieno d'aria
 
