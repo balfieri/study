@@ -86658,3 +86658,6 @@ all'ordine del giorno
 anomalous; abnormal
 anomalo
 
+range of ages
+la gamma di età; l'intervallo di età
+
