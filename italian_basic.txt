@@ -5911,10 +5911,10 @@ la nascita
 difference
 la differenza
 
-argument (of discussion); subject
+argument (of discussion); subject; topic
 l'argomento
 
-subject; topic; theme
+subject; theme
 il soggetto
 
 otherwise
