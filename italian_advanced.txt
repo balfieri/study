@@ -2173,7 +2173,7 @@ i mezzi
 snot
 il moccio
 
-to enlarge; to magnify; to make larger
+to enlarge; to magnify; to make larger; to grow
 ingrandire
 
 no parking zone
@@ -86672,4 +86672,7 @@ assaporato
 
 pregame; pre-game
 il pregame; il pre-partita; l'atmosfera pre-partita
+
+zero-sum mentality
+la mentalità a somma zero
 
