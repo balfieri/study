@@ -57260,9 +57260,6 @@ il rastrellamento
 sticky; tacky (surface)
 appiccicoso
 
-double (person)
-il sosia
-
 angel of the hearth
 l'angelo del focolare
 
@@ -86666,4 +86663,7 @@ la fascia d'età; la fascia anagrafica
 
 Cesarean section
 il taglio cesareo; il parto cesareo
+
+umbilical cord
+il cordone ombelicale
 
