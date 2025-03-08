@@ -5773,7 +5773,7 @@ scardinato
 panther; leopard
 la pantera
 
-pin cushion; pad; bearing (ball)
+pin cushion; pad; bearing (ball); buffer
 il cuscinetto
 
 papier-maché
