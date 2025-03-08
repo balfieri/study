@@ -86739,3 +86739,5 @@ la luce sortile
 mass layoff; large-scale layoff
 il licenziamento di massa; il licenziamento collettivo
 
+to utter a word
+proferire una parola; pronunciare una parola
