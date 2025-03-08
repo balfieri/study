@@ -27664,7 +27664,7 @@ Edoardo
 kit; equipment
 il corredo
 
-dismissal; sacking
+layoff; firing; dismissal; sacking
 il licenziamento
 
 optics
@@ -86732,4 +86732,10 @@ due terzi
 
 three fourths
 tre quarti
+
+thin light; faint light
+la luce sortile
+
+mass layoff; large-scale layoff
+il licenziamento di massa; il licenziamento collettivo
 
