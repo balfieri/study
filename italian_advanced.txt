@@ -5767,8 +5767,8 @@ il paiolo
 to unhinge
 scardinare
 
-unhinged
-scardinato
+unhinged (person)
+squilibrato; mentalmente instabile
 
 panther; leopard
 la pantera
@@ -86741,3 +86741,7 @@ il licenziamento di massa; il licenziamento collettivo
 
 to utter a word
 proferire una parola; pronunciare una parola
+
+unhinged (object); taken off its hinges
+scardinato
+
