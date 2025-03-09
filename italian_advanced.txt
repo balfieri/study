@@ -41861,7 +41861,7 @@ cable car; funicular
 il funicolare
 
 soggy (food)
-impanato; inzuppato
+molliccio; impanato; inzuppato
 
 soggy (non-food)
 fradicio; bagnato; impregnato d'acqua; zuppo
@@ -45857,7 +45857,7 @@ to perforate; to bore through
 perforare
 
 wine shop; wine bar
-l'enoteca; la vineria
+l'enoteca; la vineria; il wine bar
 
 headed; led
 capeggiato
@@ -80262,9 +80262,6 @@ irrancidire
 rancid
 irrancidito
 
-soggy (food)
-molliccio
-
 reductive
 riduttivo
 
@@ -86750,4 +86747,7 @@ mostrare zero capacità di; dimostrare nessuna abilità di
 
 far-right pressure
 la pressione dell'estrema destra
+
+two more (something)
+altri due (qualcosa)
 
