@@ -10501,8 +10501,8 @@ perfezionare; mettere a punto
 hamstring; hamstring muscle
 il muscolo del bicipite femoral
 
-to pull (a muscle)
-stirarsi
+to pull (a muscle); to roach
+stirarsi; fare male
 
 quad; quadricep
 il quadricipite
@@ -40058,7 +40058,7 @@ to do the accounting
 fare la contabilità
 
 HVAC
-riscaldamento, ventilazione e condizionamento dell'aria
+il riscaldamento; la ventilazione e condizionamento dell'aria
 
 scrambled eggs
 le uova strapazzate
@@ -42669,9 +42669,6 @@ aspettiamo e vediamo
 
 lifetime
 la vita; la durata della vita
-
-usage
-l'utenza
 
 being taken for granted
 la scontatezza
@@ -86750,4 +86747,82 @@ la pressione dell'estrema destra
 
 two more (something)
 altri due (qualcosa)
+
+decaffeinated
+decaffeinato; deca
+
+redeeming qualities
+le qualità redentrici; gli aspetti positivi
+
+to be back to normal
+essere tornati alla normalità; essere tornati tutto normale
+
+to split; to crack
+squaiare
+
+to meow
+miagauare
+
+porous
+poroso
+
+overconfident; presumptuous
+troppo sicuro di sè; presuntuoso
+
+overconfidence; presumption
+l'eccessiva sicurezza di sè; la presunzione
+
+to be easy to get along with
+essere facili da trattare; andare d'accordo facilmente
+
+muscle injury
+l'infortunio muscolare
+
+to understand more
+capisco di più
+
+to understand less
+capire di meno
+
+to pay out-of-pocket
+pagare di tasca propria
+
+neither of those
+nessuna di quelle
+
+neither of those applies to
+nessuna di quelle si applica a
+
+resigning; outgoing
+il dimissionario
+
+anti-American sentiment
+il sentimento anti-americano
+
+utility; user base
+l'utenza
+
+to close the blinds
+chiudere le persiane; abbassare le tapparelle
+
+the head of the line
+la testa della fila; l'inizio della coda
+
+exempt; free
+esente
+
+referral; prescription
+l'impegnativa
+
+National Health Service
+il Servizio Sanitario Nazionale
+
+clever idea
+l'idea intelligente; l'idea brillante
+
+to stretch one's back
+allungare la schiena; stirare la schiena
+
+nice challenge; interesting challenge
+la bella sfida
 
