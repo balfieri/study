@@ -15400,7 +15400,7 @@ se la situazione si presenta; se l'occasione si presenterà
 if the situation were to arise
 se la situazione si presentasse; se si verificasse la situazione
 
-greasy
+greasy; annointed
 unto; untuoso
 
 hands down (without question)
@@ -37816,9 +37816,6 @@ la nuova riga
 to oil
 oliare
 
-greasy; annointed
-unto
-
 anti-corrosive
 anticorrosivo
 
@@ -44517,9 +44514,6 @@ il flacone
 
 to slip into; to cut into
 infilarsi
-
-oily
-oleoso
 
 moisturizing
 idratante
@@ -75663,7 +75657,7 @@ it's not the same thing I was doing
 non è la stessa cosa che stavo facendo
 
 oily
-unto d'olio
+oleoso; unto d'olio
 
 funky
 funky
