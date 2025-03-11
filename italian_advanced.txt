@@ -86835,3 +86835,6 @@ riposto
 we have no secrets
 non abbiamo segreti
 
+to not know what to do
+non sapere che cosa fare
+
