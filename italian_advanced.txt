@@ -34891,8 +34891,8 @@ sediamoci un momento
 headache (figurative); difficult problem
 il grattacapi
 
-of course not
-certo che no
+of course not; certainly not
+certo che no; ovviamente no; assolutamente no
 
 half measure
 la mezza misura
@@ -43625,7 +43625,7 @@ guess what?
 indovina un po'?
 
 of course yes; certainly yes
-certo che sì; sicuramente sì
+certo che sì; sicuramente sì; assolutamente sì
 
 if I were to run for president, I'd run on a platform of
 se dovessi candidarmi alla presidenza, mi candiderei su una piattaforma di
@@ -85910,9 +85910,6 @@ il pane azimo
 
 unleavened
 azimo
-
-of course not
-certo che no; ovviamente no; assolutamente no
 
 default (noun)
 l'impostazione predefinita
