@@ -3730,9 +3730,6 @@ passo dopo passo
 hitman; assassin
 il sicario
 
-to provide; to furnish
-fornire
-
 petty
 di poco conto
 
@@ -3988,8 +3985,8 @@ il canone
 agreement (Vatican, legal)
 il concordato
 
-to provide; to supply; to provision
-provvedere
+to provide for; to take care of; to provision
+provvedere a; provvedere per
 
 to carry out; to perform; to fulfll
 espletare
@@ -86837,4 +86834,13 @@ non abbiamo segreti
 
 to not know what to do
 non sapere che cosa fare
+
+of or from Vicenza; inhabitant or native of Vicenza
+vicentino
+
+to dig deep into; to delve into; to drill down into
+scavare a fondo in
+
+extremely likable; the most likable
+il massimo della simpatia
 
