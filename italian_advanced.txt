@@ -14806,8 +14806,8 @@ l'aria fritta
 bummer; how disappointing
 che disdetta
 
-to be in a bad mood
-essere presi male; essere in un cattivo umore
+to be in a bad mood; to be in an ugly mood
+essere presi male; essere in un cattivo umore; essere di malumore
 
 bro; bruv
 frà; frate
@@ -74369,9 +74369,6 @@ pallidoso
 swirl
 la spirale; la vortice
 
-to be in a bad mood; to be in an ugly mood
-essere di cattivo umore
-
 unprofessional
 non professionale; poco professionale
 
@@ -86832,3 +86829,14 @@ dietetico
 diet Coke
 la coke dieta; la coca dieta
 
+to be in a good mood
+essere di buon umore; essere di buonumore
+
+assuming I feel better tomorrow
+supponendo che mi senta meglio domani; ammesso che mi senta meglio domani
+
+assuming (something)
+supponendo che (congiuntivo); ammesso che (congiuntivo)
+
+later in the week; later this week
+più avanti nella settimana; verso la fine della settimana
