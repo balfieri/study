@@ -61973,7 +61973,7 @@ fronteggiarsi
 board of directors
 il consiglio di amministrazione
 
-to put back; to stow
+to put back; to stow; to put away
 riporre
 
 outpost
@@ -86840,3 +86840,7 @@ supponendo che (congiuntivo); ammesso che (congiuntivo)
 
 later in the week; later this week
 più avanti nella settimana; verso la fine della settimana
+
+placed; put away; stored
+riposto
+
