@@ -2815,7 +2815,7 @@ ben meritato
 random question
 la domanda a caso
 
-grumpy
+grumpy; surly
 scontroso; burbero
 
 to back down
@@ -16062,9 +16062,6 @@ la colonna sonora
 
 illiterate
 analfabeto
-
-grumpy; surly
-scontroso
 
 to make a deal
 stringere un accordo
@@ -47941,7 +47938,7 @@ ferire; piagare
 acumen; sharpness
 l'acume
 
-funny (person); witty; witty
+funny (person); witty
 spiritoso; arguto
 
 high-ranking; high-level
@@ -86847,3 +86844,44 @@ il massimo della simpatia
 historical overview; brief history
 i cenni storici
 
+to ingratiate oneself with (somebody)
+ingraziarsi (qualcuno); accattivarsi (qualcuno)
+
+mental health day
+il giorno per la salute mentale
+
+show me the way
+mi fai strada
+
+sea bass
+il branzino
+
+squabble; bickering
+il battibecco
+
+cowardice
+la vigliaccheria
+
+onesie; romper
+la tutina
+
+large box; big cardboard box
+lo scatolone
+
+to bench; to sideline
+mettere in panchina
+
+fake; worthless thing
+la patacca
+
+bandage; adhesive bandage
+il cerotto
+
+offbeat
+controtempo
+
+lucky charm
+il portafortuna
+
+to shred documents
+distruggere documenti; triturare documenti
