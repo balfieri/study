@@ -4627,9 +4627,6 @@ le previsioni del tempo; le previsioni meteo
 Supreme Court
 la Corte Suprema
 
-to regret (general)
-rammaricarsi
-
 to regret (for something not done)
 rimpiangere
 
@@ -86900,4 +86897,7 @@ il fagioli dall'occhio; il fagiolini dall'occhio nero
 
 pinto beans
 i fagioli di barlotti; i fagioli pinto
+
+to regret; to be sorry; to complain (general)
+rammaricarsi
 
