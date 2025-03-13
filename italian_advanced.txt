@@ -3434,7 +3434,7 @@ every now and then; from time to time
 di tanto in tanto
 
 entrepreneur
-l'impresario; l'imprenditore; l'imprenditrice
+l'imprenditore; l'imprenditrice; l'impressario
 
 squinting
 lo strobico; lo strabismo
@@ -46966,8 +46966,11 @@ l'interscambio
 mutual aid
 il reciproco ausilio
 
-startup founder; startup entrepreneur
-il fondatore di startup; l'imprenditore di startup; lo startupper
+startup founder
+il fondatore di startup; lo startupper
+
+startup entrepreneur
+l'imprenditore di startup
 
 ductile
 duttile
