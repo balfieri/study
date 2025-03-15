@@ -86993,3 +86993,6 @@ il cartone del succo; il brick di succo
 
 grill restaurant; barbecue restaurant
 la braceria
+
+to do a post-mortum (after project)
+fare un'analisi post-mortem
