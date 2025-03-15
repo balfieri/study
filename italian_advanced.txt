@@ -35392,7 +35392,7 @@ il cibo era incredibile; il cibo era fantastico; il cibo era eccezionale; il cib
 overstated
 sopravvalutato; esagerato; sovraesposto; enfatizzato eccessivamente
 
-understated; underhypted
+understated; underhyped
 sottovalutato; minimizzato; sottostimato
 
 it has no bearing on it
@@ -86939,4 +86939,40 @@ il cestino
 
 carton of strawberries
 il cestino di fragole; la confezione di fragole
+
+spinal cord injury
+il lesione spinale
+
+garbage can; trash can; dustbin
+la pattumiera
+
+tripe shop
+la tripperia
+
+tarallo; bread ring
+il tarallo
+
+it was better than I had remembered; it was better than I remembered
+era meglio di quanto ricordassi
+
+tarantella
+la tarantella
+
+cameo
+il cameo
+
+cable protector; cable guard
+il salvacavi
+
+provola cheese
+la provola
+
+by the time (something happens)
+entro quando (congiuntivo); nel momento in cui (congiuntivo)
+
+pack of lions
+il branco di leoni
+
+to grow too large
+crescere troppo; diventare troppo grande
 
