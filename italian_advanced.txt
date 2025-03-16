@@ -1165,7 +1165,7 @@ spolverare
 sticky
 appiccicoso; adesivo; attaccaticcio; appiccicaticcio
 
-gooey
+gooey; viscous
 appiccicoso; viscoso
 
 to interact
@@ -21699,9 +21699,6 @@ cremosità
 
 step back
 il passo in dietro
-
-viscous
-viscoso
 
 velvety
 vellutato
@@ -87017,4 +87014,13 @@ sottilissimo; affilato come un rasoio
 
 warmongering; belligerence
 il bellicismo
+
+to pierce one's ears
+bucarsi le orecchie; farsi i buchi alle orecchie
+
+to pierce one's nose
+bucarsi il naso; farsi il piercing al naso
+
+vintage clothes
+i vestiti vintage; gli abiti d'epoca
 
