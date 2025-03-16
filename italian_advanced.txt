@@ -7112,7 +7112,7 @@ heart attack; coronary
 l'attacco cardiaco; l'infarto
 
 immediate family; close family
-la famiglia stretta; i parenti stretti; i parenti prossimi; i parenti diretti; i familiari
+la famiglia stretta; i parenti stretti; i parenti prossimi; i parenti diretti; i familiari più prossimi
 
 nuclear family
 la nucleofamiglia; la famiglia nucleare
@@ -86996,3 +86996,10 @@ la braceria
 
 to do a post-mortum (after project)
 fare un'analisi post-mortem
+
+household (noun)
+la famiglia; il nucleo familiare
+
+household income; family income
+il reddito familiare; il reddito del nucleo familiare
+
