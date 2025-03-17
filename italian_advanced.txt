@@ -33202,7 +33202,7 @@ il rame
 zinc
 lo zinco
 
-mold (biology)
+mold (biology); mildew
 la muffa
 
 holding; stock; stock share
@@ -87026,4 +87026,13 @@ i vestiti vintage; gli abiti d'epoca
 
 think of me as (something)
 considerami (qualcosa); pensami come (qualcosa)
+
+bottle cap; non-refillable cap
+il tappo antirabbocco
+
+prices include shipping cost
+i prezzi sono compresi di costo spedizione
+
+minimum shipping charge 75.00 euros
+il minimo di spedizione euro 75,00
 
