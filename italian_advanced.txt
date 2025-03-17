@@ -87042,3 +87042,5 @@ l'apicoltore; l'apicoltrice
 beehive; hive
 l'arnia
 
+insolent; cheeky; sassy
+insolente
