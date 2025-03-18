@@ -6703,9 +6703,6 @@ il cratere
 scheme; outline; plan
 la schema
 
-art gallery
-la pinacoteca
-
 private practice
 lo studio privato
 
@@ -87075,3 +87072,32 @@ alzarsi tardi
 to wake up late
 svegliarsi tardi
 
+from Teramo
+teramano
+
+vault
+la volta; il caveau; la cripta
+
+cantilever; bracket
+la mensola; la trave a sbalzo
+
+to skin; to peel
+togliere la pelle
+
+art gallery; picture gallery
+la pinacoteca
+
+out of breath
+senza fiato; ansimante
+
+to be in a hurry
+essere di fretta
+
+to hurry; to make haste
+fare in fretta
+
+to be helpful
+essere d'aiuto
+
+she doesn't speak as well as I do
+non parla bene come me
