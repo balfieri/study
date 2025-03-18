@@ -47401,7 +47401,7 @@ il campo magnetico
 rationing
 il razionamento
 
-stranded
+stranded; run aground
 arenato; bloccato; abbandonato
 
 hairy armpits
@@ -82410,9 +82410,6 @@ ostruire
 moral duty
 il dovere morale
 
-stranded
-arenato
-
 the tete-à-tete
 il tete-à-tete
 
@@ -87047,4 +87044,10 @@ insolente
 
 to keep one's mouth shut
 tenere la bocca chiusa
+
+five-liter can
+la lattina da 5 litri
+
+0.75 liter bottle; 750 ml bottle
+la bottiglia da 0,75 litro
 
