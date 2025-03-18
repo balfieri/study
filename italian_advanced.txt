@@ -84072,9 +84072,6 @@ l'ulcera
 to soar
 volare alto
 
-to catch by surprise
-cogliere di sorpresa
-
 dark period
 il periodo oscuro
 
@@ -87047,4 +87044,7 @@ la lattina da 5 litri
 
 0.75 liter bottle; 750 ml bottle
 la bottiglia da 0,75 litro
+
+to catch off guard; to take by surprise
+cogliere di sorpresa
 
