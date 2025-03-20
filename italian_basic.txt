@@ -664,8 +664,11 @@ di giù
 up above; upstairs
 di sopra
 
-inn (dining)
-la trattoria; l'osteria
+family-run restaurant (informal, larger menu, complete meal, wine-focused)
+la trattoria
+
+family-run restaurant (smaller menu, smaller, less expensive, more rustic, more informal)
+l'osteria
 
 store; shop
 il negozio

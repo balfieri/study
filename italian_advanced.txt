@@ -6652,7 +6652,7 @@ la semina
 rake
 il rastrello
 
-tractor
+tractor; host (archaic)
 il trattore
 
 plough
@@ -87191,4 +87191,7 @@ a seguire
 
 breadcrumb coating; breading
 la panatura
+
+inn; hostel
+la locanda; l'ostello
 
