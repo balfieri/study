@@ -25960,7 +25960,7 @@ affine
 pole (endpoint of some axis)
 il polo
 
-hearing
+hearing (medical)
 l'udito
 
 ambiguity
