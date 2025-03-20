@@ -2980,7 +2980,7 @@ ribattezzare
 missing; deceased; departed; disappeared; gone
 scomparso
 
-turn; turning point
+turn; turning point; shift
 la svolta
 
 to unleash; to spark; to provoke; to stir up; to trigger
@@ -87167,4 +87167,10 @@ l'europeismo
 
 to ballast; to weigh down
 zavorrare
+
+oil pipeline
+l'oleodotto
+
+political shift; political turning point
+la svolta politica
 
