@@ -421,8 +421,11 @@ il volo
 to fly
 volare
 
-entrance; ingress (act)
+entrance (more formal); ingress (act of entering)
 l'ingresso
+
+entry; entrance (physical, informal); act of entering
+l'entrata
 
 exit; way out; egress; outing
 l'uscita
@@ -892,7 +895,7 @@ sedersi
 sofa; couch
 il divano
 
-line; tail; queue
+line; tail; queue; line (people, formal)
 la coda
 
 to get in line; to get in line; to queue up; to join the queue

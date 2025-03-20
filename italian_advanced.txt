@@ -4625,7 +4625,7 @@ weather forecast
 le previsioni del tempo; le previsioni meteo
 
 Supreme Court
-la Corte Suprema
+la Corte Suprema; la Cassazione
 
 to regret (for something not done)
 rimpiangere
@@ -18607,7 +18607,7 @@ far saltare in aria (qualcosa)
 to blow up (intransitive); to explode
 esplodere
 
-to estrange; to move away; to push away
+to estrange; to move away; to push away; to drive away
 allontanare
 
 to keep away; to exclude
@@ -19215,9 +19215,6 @@ la separazione
 
 bound; held; bound by
 tenuto
-
-entry; entrance (physical)
-l'entrata
 
 certainty; assurance
 la certezza
@@ -87111,3 +87108,38 @@ fuori sincronia; fuori sync
 babel; tower of Babel
 la babele
 
+fibromyalgia
+la fibromialgia
+
+friendly advice; piece of friendly advice
+il consiglio da amico
+
+crime news
+la cronaca nera
+
+gossip; celebrity news
+la cronaca rosa
+
+gnat
+il moscherino
+
+neurodegenerative
+neurodegenerativo
+
+di giorno; durante il giorno
+in the daytime
+
+furry mole
+il neo peloso
+
+oak
+la rovere
+
+timeline; schedule
+il cronoprogramma
+
+police procedural TV series
+la serie TV poliziesca procedurale
+
+to acknowledge (someone's) existence
+riconoscere l'esistenza di (qualcuno)
