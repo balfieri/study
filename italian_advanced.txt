@@ -16573,8 +16573,8 @@ la circoscrizione elettorale
 grievance; complaint; grip
 la lamentela
 
-colonist
-il colono
+settler; colonist
+il colono; la colona
 
 fairly
 in modo equo
@@ -87179,4 +87179,5 @@ la polmonite
 
 Federal Reserve; Fed
 la Federal Reserve; la Riserva Federale; la Fed
+
 
