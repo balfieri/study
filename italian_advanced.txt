@@ -3214,7 +3214,7 @@ il picco
 dregs; scum
 la feccia
 
-to throw a curveball; to displace; to shock; to crowd out
+to catch off guard; to throw off balance; to throw a curveball; to disconcert; to displace; to shock; to crowd out
 spiazzare
 
 rank; mob; host
@@ -24463,7 +24463,7 @@ addosso
 weapon
 l'arma
 
-to emerge
+to emerge; to come through
 emergere
 
 fortress
@@ -34324,8 +34324,8 @@ cosa c'entra con noi?
 gamechanger
 il cambiamento epocale
 
-turning point
-il punto di svolta; il fattore di svolta
+turning point; tipping point
+il punto di svolta; il fattore di svolta; la punta di svolta
 
 overriding factor
 il fattore predominante; il fattore preponderante
@@ -87221,4 +87221,34 @@ nelle prime fasi; agli inizi
 
 to catch (something); to contract (something)
 prendersi (qualcosa)
+
+head of the family; head of household
+il capofamiglia
+
+notary's deed of sale; notarial deed
+il rogito notarile
+
+counter space
+lo spazio sul bancone
+
+craftiness; cunning; slyness
+il furbizio; la furbizia
+
+emotional life; affective life
+la vita affettiva
+
+to outrage; to offend; to insult
+oltraggiare
+
+half-man; half a man
+mezzo uomo
+
+half-good
+mezzo buono
+
+and not a moment too soon
+e non un momento troppo presto
+
+stuffy room
+la stanza soffocante; la stanza mal ventilata
 
