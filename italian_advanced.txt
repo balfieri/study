@@ -21086,7 +21086,7 @@ to have a lot on one's mind
 avere molto in mente; avere un sacco di cose per la testa; avere molte cose in mente
 
 abbey; monastery; nunnery
-l'abbazia
+l'abbazia; la badia
 
 guinea hen; guinea fowl
 la faraona
@@ -21406,7 +21406,7 @@ liberamente
 powder; dust
 il polvere
 
-testament; will; last will
+testament; will; last will (legal document)
 il testamento
 
 autonomous
@@ -31159,7 +31159,7 @@ per tutto quanto
 remote place
 il luogo remoto
 
-to give off
+to give off; to exude
 emanare
 
 maple walnut
@@ -41802,9 +41802,6 @@ egiziano
 
 handmade
 fatto a mano
-
-chalice
-la calice
 
 to recover for tomorrow
 riprendersi per domani
@@ -73283,9 +73280,6 @@ il baccalà
 to displace; to oust
 scalzare
 
-abbey
-la bazzia
-
 tuna
 lo stinato
 
@@ -76398,7 +76392,7 @@ to rekindle
 rinfocolare
 
 buttocks
-le chiappe
+le chiappe; le natiche
 
 alcrity
 l'alacrità
@@ -77987,9 +77981,6 @@ il programma TV salutare
 
 callipygous; callipygian
 callipigio; dalle belle natiche
-
-the buttocks
-le natiche
 
 to snuggle up to (somebody)
 coccolarsi con (qualcuno)
@@ -87281,4 +87272,88 @@ il piccione viaggiatore
 
 air-raid shelter
 il rifugio antiaereo
+
+I'm looking forward to meeting you!
+non vedo l'ora di conoscerti!
+
+Bavarian cream
+il bavarese
+
+celiac disease
+la celiachia
+
+cliff; crag
+la rupe
+
+cold cuts
+gli affettati; i salumi
+
+kiln
+il forno; il fornace
+
+muffle
+la muffola
+
+moss
+il muschio
+
+way back
+la via del ritorno
+
+to make a confession at church
+confessarsi in chiesa
+
+sacristan
+sacrestano; sagrestano
+
+to light a candle
+accendere una candela
+
+fig leaf
+la foglia di fico
+
+to set him free
+liberarlo; metterlo in libertà
+
+churchgoer
+il fedele; la fedele; il praticante; la praticante
+
+lout; lummox; boor
+il vitellone
+
+little wife; wifey
+la moglina
+
+crab apple
+la mela selvatica
+
+jowl
+la guancia
+
+I forgot to remind you to
+ho dimenticato di ricordarti di
+
+gem; bud
+la gemma
+
+revanchist
+il revanchista; la revanchista
+
+callipygous
+callipige
+
+double-helix
+a doppia elica
+
+my ears popped during descent
+le orecchie mi si sono tappate durante la discesa
+
+you can't go wrong if you
+non puoi sbagliare se
+
+farm; estate
+il podere
+
+to exude sexuality
+emanare sensualità
 

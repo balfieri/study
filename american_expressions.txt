@@ -687,7 +687,7 @@ in palio
 a whacko; whack job
 uno strambo; un pazziode
 
-wuss; sissy
+wuss; sissy; candyass
 il fifone; la fifona; la femminuccia
 
 a candyass
@@ -5744,4 +5744,7 @@ il comportamento che limita la carriera
 
 to have failure to launch
 non riuscire a spiccare il volo; avere difficoltà a diventare indipendenti
+
+to rubberneck
+guardare con curiosità; sbirciare
 
