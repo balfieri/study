@@ -22570,7 +22570,7 @@ l'autodidattico; l'autoapprendimento
 leather; hide
 il cuoio
 
-amazingly
+amazingly; insanely (figurative)
 incredibilmente; sorprendentemente
 
 to be somewhere in the house
@@ -67820,9 +67820,6 @@ fare doppia fila
 oat milk
 il latte d'avena
 
-oat
-l'avena
-
 protein (adjective)
 proteico
 
@@ -87428,4 +87425,25 @@ a breve
 
 late; belated; tardy
 tardivo
+
+sign; emblem; insignia
+l'insegna
+
+oats; oat
+l'avena
+
+lupins; lupin beans
+i lupini
+
+open source format
+il formato open source
+
+roadside restaurant; highway service area
+l'auto grill
+
+little neck clams
+le vongole
+
+prawn; shrimp
+il gambero; il gamberetto; lo scampo
 
