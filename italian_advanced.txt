@@ -68060,7 +68060,7 @@ lamentoso
 shirt shop; shirtmaker's shop
 la camiceria
 
-posh
+posh; chic; bougie
 elegante; chic
 
 rlea market
@@ -87581,4 +87581,64 @@ lascia che te lo dica chiaramente
 
 scavenger hunt
 la caccia al tesoro
+
+to pick up the pieces
+raccogliere i cocci; rimettere insieme i pezzi
+
+numismatics
+la numismatica
+
+troubled; disturbed
+trubolato
+
+archer; bowman
+l'arciere
+
+to be interested in
+essere interessati a; interessarsi di
+
+understated
+sobrio; misurato
+
+leather shop; leather goods store
+la cuoieria
+
+to people-watch; to do people watching
+osservare la gente; fare people watching
+
+superintendence; supervision
+la soprintendenza
+
+bad seed
+la mela marcia; il elemento negativo
+
+bruschetta place; bruschetta restaurant
+la bruschetteria
+
+poser; imposter
+il finto; la finta; l'impostoro; l'impostora
+
+recovery; upturn
+la ricossa
+
+it doesn't really affect me
+non mi tocca davvero; non mi riguarda veramente
+
+to brood over (something)
+rimuginare su (qualcosa); rimuginarci sopra
+
+devoted to
+devoto a
+
+upscale place
+il posto elegante; il luogo di lusso
+
+I caught myself (doing something)
+mi sono sorpreso ad (fare qualcosa)
+
+to let one's guard down
+abbassare la guardia
+
+segment of the population
+il segmento della popolazione
 
