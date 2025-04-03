@@ -4249,7 +4249,7 @@ negativo
 passive
 passivo
 
-incredible; unbelievable; amazing
+incredible; unbelievable (good way); amazing
 pazzesco
 
 powerful; potent
@@ -7941,4 +7941,7 @@ l'impegno
 
 to provide; to furnish; to supply
 fornire
+
+unbelievable
+incredibile; da non credere
 
