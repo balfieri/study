@@ -547,7 +547,7 @@ la scelta
 to choose
 scegliere
 
-to share (feelings, thoughts)
+to share (feelings, thoughts, object not divided)
 condividere
 
 to reach; to join
@@ -1394,7 +1394,7 @@ beauty
 la bellezza
 
 ugly
-brutto; bruttino
+brutto
 
 common (adjective)
 comune
@@ -2827,7 +2827,7 @@ vincere
 to promise
 promettere
 
-to divide; to share (something)
+to divide; to share (dividing into multiple parts)
 dividere
 
 to own; to possess
