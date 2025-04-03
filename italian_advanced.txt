@@ -14377,9 +14377,6 @@ il pudore
 wording; drafting
 la stesura
 
-concealment; hiding
-l'occultamento
-
 below; next; hereupon
 appresso
 
@@ -87770,3 +87767,10 @@ il perone
 
 broken down
 scomposto
+
+cover-up; concealment; cloaking
+l'occultamento
+
+to cover-up; to conceal; to cloak
+occultare
+
