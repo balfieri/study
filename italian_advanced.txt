@@ -7982,7 +7982,7 @@ pitcher (baseball)
 il lanciatore
 
 coach; trainer
-l'allenatore
+l'allenatore; l'allenatrice
 
 adultery
 l'adulterio
