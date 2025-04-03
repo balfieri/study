@@ -41878,9 +41878,6 @@ disperso
 search and rescue mission
 la missione di ricerca e soccorso
 
-to sink
-affondare
-
 sinking
 l'affondamento
 
@@ -87764,3 +87761,7 @@ la flatulenza
 
 to stuff; to pad; to upholster
 imbottire; imbottire di; imbottire d'oro
+
+to sink; to founder; to go to the bottom
+affondare
+
