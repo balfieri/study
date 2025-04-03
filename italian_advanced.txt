@@ -25295,7 +25295,7 @@ to go back to bed
 tornare a letto
 
 breeder; rearer; farmer
-l'allevatore
+l'allevatore; l'allevatrice
 
 chatter; gossip; small talk
 la chiacchiere
@@ -72024,7 +72024,7 @@ to be shocked
 rimanere scandalizzati
 
 dog breeder
-l'allevatore di cani
+l'allevatore di cani; l'allevatrice di cani
 
 in absolute terms
 in termini assoluti
