@@ -3160,7 +3160,7 @@ everything's gonna be ok
 andrà tutto bene
 
 to go with the flow
-andare con il flusso; essere al passo con gli altri; andare a sentimento con
+seguire la corrente; andare con il flusso; essere al passo con gli altri; andare a sentimento con
 
 to sweep the dust under the carpet
 mettere la polvere sotto il tappeto
@@ -5669,9 +5669,6 @@ parlare con la lingua biforcuta
 
 it's all up in the air
 è tutto incerto; è tutto in sospeso
-
-to go with the flow 
-seguire la corrente
 
 to cross a red line
 superare un limite
