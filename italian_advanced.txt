@@ -69803,7 +69803,7 @@ la correttezza
 to completely block the light
 oscurare completamente la luce
 
-to sleep in; to sleep late
+to sleep in; to sleep late; to sleep in late
 dormire fino a tardi
 
 from the first day
@@ -87833,3 +87833,6 @@ scusarsi per iscritto
 
 to practice much; to practice as such
 praticare granché
+
+to oversleep
+dormire oltre l'ora prevista; non svegliarsi in tempo; dormire troppo
