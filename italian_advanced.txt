@@ -19291,7 +19291,7 @@ meticoloso; pignolo
 evil; maleficent
 malefico
 
-to insult
+to insult; to curse at
 insultare
 
 the Virgin Mary
@@ -49279,7 +49279,7 @@ lo sgravo fiscale
 muggy heat
 il caldo afoso
 
-precariousness
+precariousness; job insecurity
 la precarietà
 
 evicted
@@ -87839,4 +87839,10 @@ dormire oltre l'ora prevista; non svegliarsi in tempo; dormire troppo
 
 the phone is ringing
 il telefono sta suonando; il telefono sta squillando
+
+visiting; on a visit to
+in visita a
+
+menace to society
+la minaccia per la società
 
