@@ -27889,7 +27889,7 @@ la cortigiana
 dominatrix
 la dominatrice
 
-flirt
+owl; flirt
 la civetta
 
 womanizer; philanderer
@@ -54245,7 +54245,7 @@ customs duties
 i dazi
 
 lagoon
-la laguna
+la laguna; il lagù
 
 lagoon (adjective)
 lagunare
@@ -87851,3 +87851,21 @@ ho visto abbastanza
 
 to pass two weeks alone together
 trascorrere due settimane da soli insieme
+
+price list
+il listino prezzi
+
+air blower
+il soffiatore
+
+hand dryer; electric hand dryer
+l'asciugamani elettrico
+
+there's nothing I can do
+non c'è nulla che possa fare
+
+disposable towel
+l'asciugamano monouso
+
+it was directed to (someone)
+era indirizzato a (qualcuno)
