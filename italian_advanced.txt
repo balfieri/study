@@ -87846,3 +87846,6 @@ la minaccia per la società
 command; dictate
 il diktat
 
+I've seen enough
+ho visto abbastanza
+
