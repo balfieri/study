@@ -67128,7 +67128,7 @@ espresso machine
 la macchina per espresso
 
 modus operandus; mode of operation; method of operation
-il modo di operare; il metodo di operazione
+il modo di operare; il metodo di operazione; il modus operandi
 
 communal table; social table
 il tavolo sociale
@@ -87896,3 +87896,24 @@ asciugare con il phon
 
 blow-dry
 l'asciugatura; la piega
+
+jungle
+il giungla
+
+bubble wrap
+il pluriball
+
+ice cream sandwich
+il biscotto gelato
+
+harpist
+l'arpista
+
+you are going to go flying if you don't hang on
+volerai via se non ti tieni forte
+
+off-menu
+il fuori menù
+
+to be hard on oneself
+essere severi con sé stessi
