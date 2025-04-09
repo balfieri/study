@@ -13864,7 +13864,7 @@ tra cui
 high-strung
 molto teso
 
-tense; tight; taught
+tense; tight; taught; strained
 teso
 
 kennel
@@ -87953,3 +87953,16 @@ rannicchiarsi in posizione fetale
 
 fetal position
 la posizione fetale
+
+to start a fistfight
+iniziare una rissa; iniziare una rissa a pugni
+
+fistfight
+la rissa; la rissa a pugni
+
+the conversation is strained
+la conversazione è tesa
+
+I love him so much; I care about him deeply; I love them so much (non-romantic love)
+gli voglio tanto bene
+
