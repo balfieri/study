@@ -17650,9 +17650,6 @@ mettere in croce; crocifiggere
 to highlight
 mettere in luce
 
-to bite one's tongue
-mordersi la lingua
-
 to talk to a wall
 parlare al muro
 
@@ -42534,9 +42531,6 @@ a tutela di
 
 vintage Vespa
 la Vespa d'epoca; la vintage Vespa
-
-to hold a grudge against; to harbor resentment towards
-provare rancore verso
 
 air conditioning unit
 l'unità di condizionamento dell'aria
@@ -79128,8 +79122,8 @@ stizzirsi
 to feel resentment
 provare risentimento
 
-to hold a grudge
-serbare risentimento
+to hold a grudge; to harbor resentment
+provare rancore; serbare risentimento
 
 to harbor resentment
 covare risentimento
@@ -87942,3 +87936,20 @@ fuggire per sposarsi; fuggire; sfuggire
 to mosey on over to (something)
 andare lentamente verso (qualcosa); dirigersi a (qualcosa) con calma
 
+to hold a grudge; to bear a grudge; to carry a grudge
+portare rancore
+
+northern cuisine
+la cucina settentrionale
+
+half apron; smock
+la parannanza; il mezzo grembiule
+
+my plan from the beginning was to
+il mio piano fin dall'inizio era quello di
+
+to curl up into a fetal position
+rannicchiarsi in posizione fetale
+
+fetal position
+la posizione fetale
