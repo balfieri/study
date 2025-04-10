@@ -354,6 +354,9 @@ la cazzata
 to fuck up
 fare una cazzata
 
+to fuck up (something)
+fare una cazzata con (qualcosa)
+
 toilet; can; bog; john; crapper
 il cesso
 
@@ -1301,4 +1304,7 @@ muovi il culo!; muovi le chiappe!
 
 to be a fucking clown
 essere un pagliaccio del cavolo
+
+to fuck up everything; to mess up everything; to mess everything up; to screw everything up
+mandare tutto a puttane; fare una cazzata con tutto
 
