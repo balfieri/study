@@ -88026,3 +88026,6 @@ la tempra morale; la forza di carattere
 hardening; tempering; temperament; constitution
 la tempra
 
+poor weapon
+la pessima arma
+
