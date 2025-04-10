@@ -12445,7 +12445,7 @@ per esclusione
 script
 il copione
 
-chimney; fireplace
+chimney; fireplace; hearth (home)
 il camino
 
 security guard
@@ -88002,3 +88002,20 @@ il buono del tesoro; il titolo di debbito pubblico
 I couldn't do nothing but; the only thing I could do was
 non potevo fare altro che
 
+to get stuck
+incastrarsi
+
+painful
+distoso
+
+whiplash
+il colpo di frusta
+
+furnace
+il fornace
+
+chimney (industrial); smokestack; industrial exhaust pipe
+la ciminiera
+
+banana republic
+la repubblica delle banane
