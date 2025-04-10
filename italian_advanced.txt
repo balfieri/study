@@ -88029,3 +88029,9 @@ la tempra
 poor weapon
 la pessima arma
 
+outside your door
+fuori dalla tua porta
+
+bedroom door
+la porta della camera da letto
+
