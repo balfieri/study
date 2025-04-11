@@ -2326,7 +2326,7 @@ asciutto
 wrong; mistaken
 sbagliato
 
-late; running late
+late; running late; delayed
 in ritardo
 
 soccer; football (European)

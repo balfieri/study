@@ -88,7 +88,7 @@ il campo agricolo
 to land; to touch down
 atterrare
 
-to take off
+to take off; to get airborne
 decollare
 
 to ascend
@@ -52513,9 +52513,6 @@ antiabbandono
 reclinable
 reclinabile
 
-headrest
-il poggiatesta
-
 reducer
 il riduttore
 
@@ -88034,4 +88031,70 @@ fuori dalla tua porta
 
 bedroom door
 la porta della camera da letto
+
+really?; come on!
+ma va?
+
+to detect errors
+individuare errori
+
+terminal 3
+il terminal 3; il terminale 3
+
+Saturdays and public holidays
+sabato e festivi
+
+to board the plane
+imbarcarsi sull'aereo
+
+to hoard; to stockpile
+fare incetta
+
+pizza by the paddle
+la pizza alla pala
+
+ciauscolo (a type of Italian salami)
+il ciauscolo
+
+I could have changed your diaper
+avrei potuto cambiarti il pannolino
+
+please proceed to gate 35
+si prega di procedere al gate 35
+
+to swim upstream
+nuotare controcorrente
+
+we are ready to kill each other
+siamo pronti a ucciderci a vicenda
+
+you're still stuck back here with us; you're still stuck here with us
+sei ancora bloccato qui con noi
+
+they won't get lost
+non si perderanno
+
+to tug on (someone's) sleeve
+tirare la manica di (qualcuno)
+
+low-risk place to do business
+il luogo a basso rischio per fare affari
+
+neck rest; headrest
+il poggiatesta
+
+if I ever lose my faith in you
+se mai perdessi la fede in te
+
+there is nothing left for me to do
+non mi resta più niente da fare
+
+can I throw this in the trash?
+posso buttare questo nella spazzatura?
+
+cirrhosis
+la cirrosi
+
+hepatitis
+l'epatite
 

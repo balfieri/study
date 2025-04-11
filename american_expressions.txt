@@ -388,7 +388,7 @@ weird with a beard
 strambo con un gambo
 
 you have a head for knowing
-sei un teschio
+hai un talento per sapere; sei un teschio
 
 it's not my cup of tea; it's not my bag, man
 non è pane per i miei denti; non è il mio genere
@@ -5787,3 +5787,8 @@ ho fatto il mio letto; ora devo dormirci
 to bite one's tongue
 mordersi la lingua
 
+lover's lane
+la stradina degli innamorati
+
+good old boys
+i bravi vecchi ragazzi
