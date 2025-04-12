@@ -11770,9 +11770,6 @@ andare oltre
 statistically speaking
 statisticamente parlando
 
-don't let it go to your head
-non montarti la testa
-
 leak; breach; fault; flaw
 la falla
 
@@ -31922,7 +31919,7 @@ crockpot
 la pentola per la cottura lenta
 
 affordable
-abbordabile; accessibile
+conveniente; abbordabile; accessibile
 
 wafer; waffle (flat); pod
 la cialda
@@ -88109,4 +88106,13 @@ il vaglio
 
 untouchable
 intoccabile
+
+2 down, 3 more to go
+2 completati, ne restano 3
+
+the printer is out of paper
+la stampante è senza carta
+
+families with young children
+le famiglie con bambini piccoli
 
