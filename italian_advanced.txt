@@ -41050,8 +41050,8 @@ la distorsione del mercato
 gnarly
 difficile; complicato
 
-wholesome
-salutare; sano; genuino
+wholesome; healthful
+salutare; salubre; sano; genuino
 
 all together
 tutti insieme
@@ -46156,7 +46156,7 @@ interrare le linee elettriche
 to prune trees; to trim trees
 potare gli alberi
 
-to prune
+to prune; to trim
 potare
 
 electrocution
@@ -88151,4 +88151,10 @@ la corsia del supermercato
 
 what horror!
 che orrore!
+
+adult diaper
+pannolino per adulti
+
+ill-conceived
+mal concepito
 
