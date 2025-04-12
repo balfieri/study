@@ -3622,7 +3622,7 @@ ubbidire
 to hush; to shut up; to silence
 zittire
 
-pit; grave
+pit; grave; burial pit
 la fossa
 
 to last; to endure
@@ -7138,7 +7138,7 @@ a un certo punto
 cemetary; graveyard
 il cimitero; il camposanto
 
-grave; tomb
+grave; tomb (and surrounding structure)
 la tomba
 
 bad blood
@@ -88170,3 +88170,11 @@ sbagliare i conti; calcolare male
 protection of minors
 la tutela dei minori
 
+extra (something)
+(qualcosa) extra
+
+gravedigger
+il becchino
+
+to dig a grave
+scavare una fossa
