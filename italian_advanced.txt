@@ -88146,3 +88146,9 @@ fustigare
 contract worker
 il collaboratore a contratto; la collaboratrice a contratto
 
+supermarket aisle  
+la corsia del supermercato  
+
+what horror!
+che orrore!
+
