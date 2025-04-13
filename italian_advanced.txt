@@ -87265,7 +87265,7 @@ muffle
 la muffola
 
 moss
-il muschio
+il muschio; i muschi
 
 way back
 la via del ritorno
