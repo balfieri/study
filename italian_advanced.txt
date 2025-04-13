@@ -4075,7 +4075,7 @@ scalcinare
 unpaved
 sterrato
 
-to circumvent; to bypass; to dodge; to workaround; to get around
+to circumvent; to bypass; to dodge; to workaround; to get around; to outmaneuver
 aggirare
 
 in honor of
@@ -88203,3 +88203,14 @@ il sigillasacchetti
 I'm still asleep
 sto ancora dormendo
 
+to outcompete
+superare in competizione
+
+to outsmart; 
+essere più furbo di
+
+to outrun
+superare in velocità
+
+aisle 28, bay 12
+corsia 28, baia 12
