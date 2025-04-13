@@ -88197,3 +88197,5 @@ farlocco
 bell ringer
 il campanaro; la campanara
 
+vacuum sealer
+il sigillasacchetti
