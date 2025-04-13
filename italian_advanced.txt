@@ -22357,7 +22357,7 @@ la sanzione
 witness; testimony
 il testimonio
 
-determinant; determining
+determinant; determining; decisive
 determinante
 
 coverage; covering
