@@ -1285,6 +1285,9 @@ i fondi occulti
 to reject; to repel; to repulse; to decline; to turn down; to push back
 respingere
 
+rejected; turned down
+respinto
+
 revolting
 rivolante
 
@@ -29133,9 +29136,6 @@ la filologia
 
 cross (adjective); transverse
 traverso
-
-rejected
-respinto
 
 identified
 identificato
@@ -75543,7 +75543,7 @@ to bounce a check
 emettere un assegno scoperto
 
 bounced check
-l'assegno rispinto
+l'assegno respinto
 
 to take (somebody) to court
 citare in giudizio (qualcuno)
