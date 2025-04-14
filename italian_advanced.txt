@@ -88320,3 +88320,6 @@ straimpegnato
 parchment
 la pergamena
 
+to allocate; to designate; to earmark
+stanziare
+
