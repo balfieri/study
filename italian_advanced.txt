@@ -71069,7 +71069,7 @@ la cassetta degli attrezzi
 discordant
 discordante
 
-I think that; it seems to me that; I have a feeling that
+I have a feeling that; I think that; it seems to me that
 mi sa che
 
 you are the only person I can talk with
@@ -88349,3 +88349,4 @@ l'azienda ha sede in
 
 I am trying to figure it out
 sto cercando di capirlo
+
