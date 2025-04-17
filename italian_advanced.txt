@@ -88470,3 +88470,6 @@ l'embargo; il blocco; il divieto; l'embargo economico
 to serve a sentence; to serve time; to pay the penalty
 scontare la pena
 
+witness protection
+la protezione testimoni
+
