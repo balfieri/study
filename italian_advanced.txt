@@ -88527,3 +88527,5 @@ il gas naturale liquefatto
 general surgery
 la chirurgia generale
 
+people (national, communal)
+il popolo
