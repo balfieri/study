@@ -4591,7 +4591,7 @@ audace
 exact
 esatto
 
-exactly!; that's right!
+exactly!; that's right! 
 esatto!
 
 accurate
