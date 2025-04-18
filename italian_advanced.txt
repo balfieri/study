@@ -30727,7 +30727,7 @@ ciò che mi stupisce è
 at some point; at a certain point
 ad un certo punto
 
-by foot
+by foot; on foot
 a piedi
 
 it's good practice
@@ -41812,7 +41812,7 @@ sistemato
 to have a picnic
 fare un picnic
 
-cable car; funicular
+funicular (ground-based, steep slope)
 il funicolare
 
 soggy (food)
@@ -88544,4 +88544,10 @@ avere il rifiuto per (qualcosa)
 
 to rubberize; to cover or coat with rubber; to gum
 gommare
+
+waited; expected; anticipated
+aspettato
+
+precipitated; hasty; crashed; plummeted
+precipitato
 
