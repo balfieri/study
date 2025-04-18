@@ -2314,7 +2314,7 @@ addossarsi
 to swallow
 ingoiare
 
-to swallow (something large); to gulp 
+to swallow (something large); to gulp; to engulf; to swallow up
 inghiottire
 
 toad
@@ -88571,4 +88571,10 @@ costituire una joint venture; formare una joint venture
 
 to fall into disgrace
 cadere in disgrazia
+
+pilot project
+il progetto pilota
+
+engulfed; swallowed; swallowed up
+inghiottito
 
