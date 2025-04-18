@@ -34127,7 +34127,7 @@ serenade
 la serenata
 
 brain drain
-la fuga di cervelli; i cervelli in fuga
+la fuga dei cervelli; i cervelli in fuga
 
 tax evasion
 l'evasione fiscale
@@ -88553,3 +88553,10 @@ precipitato
 
 cut by hand
 tagliato a mano
+
+during the course of the conversation
+durante il corso della conversazione
+
+to go on at length; to dwell on; to expatiate; to go into detail; to linger over
+dilungarsi
+
