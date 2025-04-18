@@ -3280,7 +3280,7 @@ la barba
 skin
 la pelle
 
-clear
+clear (discussion, color)
 chiaro
 
 eyelashes
@@ -4782,9 +4782,6 @@ sul palco
 
 weather report
 il meteo
-
-bright
-brillante; luminoso
 
 character (film); protagonist
 il protaganista

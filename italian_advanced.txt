@@ -16933,8 +16933,11 @@ non venire al punto; menare il can per l'aia
 once in a blue moon
 ogni morte di papa
 
-one-night stand
+casual sex
 il sesso occassionale
+
+one-night stand
+l'avventura di una notte
 
 speak up
 parla forte
@@ -42211,7 +42214,7 @@ l'auditel
 grip; attitude; demeanor
 il piglio
 
-clear; limpid
+clear; limpid (sky, liquid)
 limpido
 
 grid; lattice; network
@@ -55694,8 +55697,11 @@ la grammatica della pasta
 background check
 il controllo dei precedenti
 
-shiny
+shiny; reflective
 lucido; brillante
+
+luminous; emitting light
+luminoso
 
 gray space
 lo spazio grigio
@@ -88529,3 +88535,13 @@ il popolo
 
 to have a lot in common
 avere molto in comune
+
+there are so many of them
+ce n'è sono tanti
+
+to have an aversion to (something)
+avere il rifiuto per (qualcosa)
+
+to rubberize; to cover or coat with rubber; to gum
+gommare
+
