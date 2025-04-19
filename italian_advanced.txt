@@ -10690,8 +10690,8 @@ sbandare
 to crack; to chap
 screpolare
 
-Spanish Inquisition
-la Santa Inquisizione
+Spanish Inquisition; Inquisition
+la Santa Inquisizione; l'Inquisizione; l'Inquisizione spagnola
 
 litter (platform)
 la portantina
@@ -58466,7 +58466,7 @@ avrei giurato di avertelo detto
 pull-up bar
 la barra per trazioni
 
-pull-up
+tracion; pull-up
 la trazione
 
 to do pull-ups
@@ -67340,8 +67340,8 @@ in pressing
 to root for a team; to support a team; to cheer for a team
 sostenere una squadra; tifare per una squadra
 
-prop (rugby)
-il pilone (rugby)
+pylon; pier; pillar; prop (in rugby)
+il pilone
 
 hooker (rugby)
 il tallonatore (rugby)
@@ -88640,4 +88640,58 @@ non resta che
 
 to declare a ceasefire
 dichiarare un cessate il fuoco
+
+by my side
+al mio fianco
+
+rest of my days
+il resto dei miei giorni
+
+alternative music
+la musica alternativa
+
+to make faint; to cause to pass out
+far svenire
+
+to spread propaganda on; to promote; to advertise
+propagandare
+
+lynching
+il linciaggio
+
+to lynch
+linciare
+
+commemoration
+la commemorazione
+
+sinner
+il peccatore; la peccatrice
+
+penance; punishment; repentance; forfeit
+la penitenza
+
+to buy on installments; to buy on credit
+comprare a rate
+
+to sanctify; to hallow; to honor; to consecrate
+santificare
+
+red alert; high alert
+l'allerta rossa
+
+to shovel; to shovel up
+spalare
+
+brushwood; undergrowth; scrub; dried brush
+la sterpaglia
+
+bramble; bramble bush; blackberry bush; briar
+il rovo
+
+machinist; train driver (UK); engine driver (UK)
+il macchinista
+
+to be in vain; to come to nothing; to miss; to fail
+andare a vuoto
 
