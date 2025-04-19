@@ -4846,9 +4846,6 @@ bisessuale
 homosexual
 omosessuale
 
-relationship
-il rapporto; la relazione
-
 to collect; to gather; to harvest; to pick up
 raccogliere
 
@@ -5143,7 +5140,7 @@ la libertà
 action
 l'azione
 
-relation; relationship; affair (romantic)
+relationship (general); affair (romantic); relation
 la relazione
 
 act; deed

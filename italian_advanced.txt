@@ -41848,7 +41848,7 @@ il via
 wipe
 la salvietta
 
-report; ratio; relation
+report; ratio; relation; relationship (formal)
 il rapporto
 
 to personalize
@@ -88700,4 +88700,7 @@ il terreno sacro
 
 to do a lot of driving around; to drive around a lot
 girare molto in macchina; guidare molto in giro
+
+close romantic relationship
+il rapporto romantico; il rapporto affettivo
 
