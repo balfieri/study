@@ -50695,7 +50695,7 @@ nuotare le vasche; fare vasche
 to run laps
 correre dei giri; fare giri
 
-whirlpool
+whirlpool; maelstrom
 il gorgo; la vortice
 
 jacuzzi
@@ -88718,4 +88718,19 @@ inusitato
 
 to wind; to twist; to meander; to spread (figurative)
 serpeggiare
+
+warm person
+la persona calorosa
+
+pickle
+il cetriolo; il sottaceto
+
+to see oneself out the door
+accompagnarsi alla porta
+
+to seeing each other
+smettere di vedersi
+
+to reach the end of the road
+arrivare alla fine della strada
 
