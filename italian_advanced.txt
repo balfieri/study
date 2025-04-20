@@ -88710,3 +88710,5 @@ sradicare; estirpare; divellere
 absolute disaster
 il disastro assoluto
 
+foundations
+le fondamenta
