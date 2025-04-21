@@ -88785,3 +88785,6 @@ la bocchetta; l'ugello; la lancia; la pistola a spruzzo
 respiratory
 respiratorio
 
+at high flows; at high rates
+ad alti flussi
+
