@@ -26440,9 +26440,6 @@ vago
 to record
 registrare
 
-collapse
-il crollo
-
 appreciation
 l'apprezzamento
 
@@ -61338,7 +61335,7 @@ a minute too long
 un minuto troppo lungo
 
 collapse
-il collasso
+il crollo; il collasso
 
 uncertainty principle
 il principio dell'incertezza
