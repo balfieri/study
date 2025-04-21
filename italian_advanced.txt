@@ -11344,9 +11344,6 @@ lo spinto
 to lock oneself up
 rinchiudersi
 
-stint; bowl
-la gavetta
-
 to needle; to henpeck; to tease
 punzecchiare
 
@@ -88797,6 +88794,15 @@ l'artrosi
 natalist
 natalista
 
-mess tin; mess kit
+mess tin; mess kit; stint; bowl
 la gavetta
+
+death; demise; passing; decease
+il decesso
+
+to be more in words than in deeds; to talk the talk but not walk the walk
+essere più a parole che nei fatti
+
+to downgrade; to reduce a charge; to reclassify (in legal contexts)
+derubricare
 
