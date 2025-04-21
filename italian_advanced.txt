@@ -15749,7 +15749,7 @@ to line up; to align; to marshal; to deploy
 schierare
 
 discontent; displeasure
-lo scontento
+lo scontento; il malcontento
 
 militia squad; policy of violence by squads of fascists after World War I
 lo squadrismo
@@ -51009,9 +51009,6 @@ la dissonanza cognitiva
 
 cognitive dissonance theory
 la teoria della dissonanza cognitiva
-
-discontent
-il malcontento
 
 to degenerate into
 degenerare in
@@ -88719,9 +88716,6 @@ inusitato
 to wind; to twist; to meander; to spread (figurative)
 serpeggiare
 
-warm person
-la persona calorosa
-
 pickle
 il cetriolo; il sottaceto
 
@@ -88745,3 +88739,46 @@ non sta migliorando; non sta andando meglio
 
 shallow conversation; superficial conversation
 la conversazione superficiale
+
+thread of a thought; thread of a discourse
+filo di un pensiero; filo di un discorso
+
+superintendency; oversight authority
+sovraintendenza
+
+make everything fit; make everything match up
+combaciare tutto
+
+to gloat
+gongolare
+
+it's not that easy
+non è così facile
+
+to become dejected; to lose heart
+avvillirsi
+
+to break hearts
+spezzare cuori
+
+babà (Neapolitan pastry)
+il babà
+
+warm person; warm-hearted person
+la persona calorosa
+
+chemical expert; chemical technician
+il perito chimico
+
+slum dweller
+il baraccato; la baraccata
+
+doxing concern
+la preoccupazione per il doxing
+
+chamberlain
+il camerlengo
+
+layperson
+il non esperto; il laico
+
