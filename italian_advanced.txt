@@ -88812,3 +88812,6 @@ ci tengo a lui
 to be at a standstill
 essere a punto morto
 
+to lay pipes
+posare tubi
+
