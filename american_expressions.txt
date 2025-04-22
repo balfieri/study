@@ -357,7 +357,7 @@ una persona dal cuore d’oro
 white noise
 il rumore bianco
 
-dark horse
+dark horse; outsider
 l’outsider
 
 to give (someone) a taste of his own medicine
@@ -5819,4 +5819,10 @@ fare soldi a palate; guadagnare un sacco di soldi in fretta
 
 it's spot on
 è esatto; è proprio così
+
+the lady doth protest too much, methinks (Shakespeare)
+la signora protesta troppo, mi pare
+
+to take with a grain of salt
+prendere con le pinze
 
