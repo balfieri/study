@@ -33031,7 +33031,7 @@ inquisire
 to scour; to scout; to search; to patrol
 perlustrare
 
-to surveil; to watch over; to supervise; to stake out
+to surveil; to watch over; to supervise; to stake out; to keep under surveillance
 sorvegliare
 
 to protract
@@ -88805,3 +88805,10 @@ derubricare
 
 rebuke; reprimand; lecture
 l'intemerata
+
+I care about him; he matters to me
+ci tengo a lui
+
+to be at a standstill
+essere a punto morto
+
