@@ -88896,3 +88896,6 @@ le Filippine
 Lutheran
 luterano
 
+battle hymn
+l'inno di battaglia
+
