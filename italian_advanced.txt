@@ -33037,7 +33037,7 @@ sorvegliare
 to protract
 protrarre
 
-setup; staging; production; preparation
+setup; staging; production; preparation; fitting out
 l'allestimento
 
 Chilean
@@ -88823,4 +88823,37 @@ dare il torto a (qualcuno)
 
 graphene
 il grafene
+
+to argue about everything; to quarrel about everything; to fight about everything
+litigare su tutto
+
+effigy
+l'effige
+
+to give news; to report news
+dare notizie
+
+plunged back; relapsed
+ripiombato
+
+big sister
+la sorellona
+
+big brother
+il fratellone
+
+peephole
+lo spioncino
+
+therapist
+il terapeuta; la terapeuta
+
+great-great-grandmother
+la trisnonna
+
+great-great-grandfather
+il trisnonno
+
+operations room
+la sala operativa
 
