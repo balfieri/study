@@ -6697,7 +6697,7 @@ dipinto
 exam
 l'esame
 
-priest
+priest (informal)
 il prete
 
 mile
