@@ -33850,7 +33850,7 @@ strutturare
 to flutter
 svolazzare
 
-to empty (container); to clear out; to clear (e.g., shelves)
+to empty (container); to clear out; to clear (e.g., shelves); to gut
 svuotare
 
 to empty (general, figurative)
@@ -88914,3 +88914,5 @@ la volta buona
 don't be so serious
 non essere così serio
 
+to run out of time toward the end
+finire il tempo verso la fine
