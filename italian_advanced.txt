@@ -66425,7 +66425,7 @@ transazionale
 very closely; up close
 molto da vicino; da vicino
 
-tie (suit)
+tie (suit); cravat
 la cravatta
 
 computer science
@@ -88899,3 +88899,11 @@ luterano
 battle hymn
 l'inno di battaglia
 
+ascot 
+l'ascot 
+
+breath of fresh air
+la boccata d'aria
+
+pay raise
+lo scatto di stipendio
