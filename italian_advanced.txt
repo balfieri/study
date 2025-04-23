@@ -27595,7 +27595,7 @@ integrare
 masterpiece
 il capolavoro
 
-dispensation; derogation
+exception; derogation; exemption; dispensation
 la deroga
 
 impetus
@@ -68760,7 +68760,7 @@ more and more; increasingly
 sempre di più
 
 Easter Monday
-Pasquetta
+Pasquetta; Lunedì dell'Angelo
 
 ski resort
 il rifugio sciistico
@@ -88919,4 +88919,22 @@ finire il tempo
 
 to fast-forward; to skip forward
 andare avanti di; saltare avanti di
+
+the weather is humid
+il tempo è umido
+
+there's no humidity
+non c'è umidità
+
+sexting
+il sexting
+
+to sext
+fare sexting
+
+sexual in nature; sexually suggestive
+a sfondo sessuale
+
+we all gotta die sometime
+dobbiamo tutti morire prima o poi
 
