@@ -8609,7 +8609,7 @@ professional golf tour
 il tour professionistico di golf
 
 to get rid of; to rid oneself of; to free oneself from
-liberarsi di; sbarazzarsi di; buttare via
+liberarsi di; sbarazzarsi di; disfarsi di; buttare via
 
 it's like the blind leading the deaf
 è come il cieco che guida il sordo
@@ -88914,5 +88914,9 @@ la volta buona
 don't be so serious
 non essere così serio
 
-to run out of time toward the end
-finire il tempo verso la fine
+to run out of time
+finire il tempo
+
+to fast-forward; to skip forward
+andare avanti di; saltare avanti di
+
