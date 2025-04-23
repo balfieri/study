@@ -33176,7 +33176,7 @@ to go with; to bet on; to focus on
 puntare su
 
 to simmer; to boil
-bollore
+bollire; lessare
 
 boiling
 l'ebollizione
@@ -88937,4 +88937,28 @@ a sfondo sessuale
 
 we all gotta die sometime
 dobbiamo tutti morire prima o poi
+
+calmed; dormant; soothed; suppressed; bottled-up; hidden; dormant (as in latent or not active)
+sopito
+
+to soothe; to numb; to alleviate; to assuage
+sopire
+
+prerogative; annuity; privilege; preserve
+l'appannaggio
+
+at half mast; at half-mast
+a mezz'asta
+
+to weaken; to depower; to downgrade
+depotenziare
+
+to fulfill the request; to carry out the request
+assolvere alla richiesta
+
+to flop; fail miserably
+fare flop; fare fiasco; fallire miseramente
+
+back to the future
+il ritorno al futuro
 
