@@ -4216,8 +4216,8 @@ tollerante; indulgente
 old
 vecchio
 
-alive
-vivo
+alive; living
+vivo; in vita
 
 vulgar
 volgare
