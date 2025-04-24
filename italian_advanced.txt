@@ -89040,3 +89040,5 @@ la grafite
 Nazifascism
 nazifascismo
 
+set of values
+l'insieme di valori
