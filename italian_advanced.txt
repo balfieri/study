@@ -89031,6 +89031,9 @@ lo smacco
 destroyer
 il cacciatorpediniere
 
-rare earth; rare earth element
+rare earth; rare earth element; rare earth mineral
 la terra rara
+
+graphite; plumbago; black lead
+la grafite
 
