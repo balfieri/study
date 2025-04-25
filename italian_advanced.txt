@@ -65042,7 +65042,7 @@ conquistare il premato
 home automation
 la domotica
 
-to orient oneself; to have a sense of direction
+to orient oneself; to have a sense of direction; to find one's bearings
 orientarsi
 
 sense of direction
@@ -87472,7 +87472,7 @@ gene pool
 il patrimonio genetico
 
 to eschew
-evitare; astenersi da
+evitare; schivare; astenersi da
 
 heretic; blasphemer
 il brusacristi
@@ -89054,3 +89054,21 @@ non sminuirmi; non abbattermi
 
 man-made
 artificiale; fatto dall'uomo; realizzato dall'uomo
+
+in first gear
+in prima marcia
+
+to vilify
+diffamare; denigrare
+
+what you are afraid of?
+di cosa hai paura?
+
+to attend the funeral
+andare al funerale; partecipare al funerale
+
+top of the bread
+la parte superiore del pane
+
+bottom of the bread
+la parte inferiore del pane
