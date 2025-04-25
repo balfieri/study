@@ -12583,7 +12583,7 @@ in fin dei conti
 whisker; hair
 il pelo
 
-to take a quick look; to take a look
+to take a quick look; to take a look; to check out
 dare un'occhiata
 
 to look for trouble; to ask for trouble
@@ -89075,4 +89075,10 @@ la parte inferiore del pane
 
 little question; small question
 la domandina
+
+bread pan
+la teglia per pane; lo stampo per pane
+
+orange alert
+l'allerta arancione; l'allarme arancione
 
