@@ -1462,7 +1462,7 @@ trapelare
 to draw (profit)
 traiare
 
-installation (something that is already installed); apparatus; plant
+installation (something that is already installed); apparatus; plant; framework
 l'impianto
 
 installation (act of)
@@ -39759,9 +39759,6 @@ haitiano
 
 Moroccan
 marocchino
-
-regulatory framework
-il quadro normativo
 
 in case this happens
 nel caso in cui ciò accada
@@ -89112,3 +89109,5 @@ indispettito
 fluoride
 il fluoruro
 
+regulatory framework
+l'impianto normativo; il quadro normativo
