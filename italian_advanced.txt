@@ -89072,3 +89072,7 @@ la parte superiore del pane
 
 bottom of the bread
 la parte inferiore del pane
+
+little question; small question
+la domandina
+
