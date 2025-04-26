@@ -25528,7 +25528,7 @@ operativo
 marginal
 marginale
 
-mature
+mature; ripe
 maturo
 
 dungeon
@@ -51169,8 +51169,8 @@ i lipilli; il cenere vulcanica; il polvere vulcanica
 cloud of smoke
 il nube di fumo
 
-to take a step back
-fare un passo indietro
+to take a step back from
+fare un passo indietro da
 
 to sharply question
 interrogare aspramente
@@ -89153,4 +89153,22 @@ agire in buona fede
 
 to act in bad faith
 agire in mala fede
+
+glider towing; towing of gliders
+il traino di alianti
+
+to excoriate
+scorticare; criticare aspramente
+
+hasty; hurried; quick; brusque
+sbrigativo
+
+kinky sex
+il sesso stravagante; il sesso non convenzionale; il sesso fetish; il sesso perverso; il sesso strano
+
+Catalan
+catalano
+
+redemption
+la rendenzione
 
