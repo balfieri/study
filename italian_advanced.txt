@@ -34181,7 +34181,10 @@ pro-rata share
 la quota pro rata
 
 private pilot certificate
-il certificato di pilota privato
+il certificato di pilota privato; l'attestato di pilota privato
+
+private pilot license (PPL)
+la licenza di pilota privato
 
 to fly through the clouds
 pilotare tra le nuvole
@@ -34218,9 +34221,6 @@ le condizioni meteorologiche visive; le regole del volo a vista
 
 in the vicinity of an airport; near an airport
 nelle vicinanze di un aeroporto
-
-private pilot license
-la licenza di pilota privato
 
 instrument flight rules
 le regole del volo strumentale
