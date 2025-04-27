@@ -89196,3 +89196,9 @@ la polpettina
 to bake bread;
 cuocere il pane
 
+to bake a cake
+cuocere una torta; fare una torta
+
+to put in the oven; to bake
+infornire
+
