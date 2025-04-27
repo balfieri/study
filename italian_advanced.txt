@@ -39430,9 +39430,6 @@ di cattivo gusto
 morally questionable
 moralmente discutibile
 
-I don't like to draw attention to myself
-non mi piace attirare l'attenzione su di me
-
 contrary to popular belief
 contrariamente a quanto si crede
 
@@ -89201,4 +89198,10 @@ cuocere una torta; fare una torta
 
 to put in the oven; to bake
 infornire
+
+to draw attention to oneself
+attirare l'attenzione su se stessi; mettersi in mostra
+
+overdue for
+in ritardo per
 
