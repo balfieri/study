@@ -6853,9 +6853,6 @@ ricevuto
 entered
 entrato
 
-press (news)
-la stampa
-
 virus
 il virus
 
