@@ -37405,7 +37405,7 @@ essere in pausa
 at this rate
 a questo ritmo; a questo tasso
 
-range (distance); reach; course (meal)
+range (distance); reach; course (meal); flow rate; capacity
 la portata
 
 pat
@@ -89267,4 +89267,31 @@ la compostezza; il portamento
 
 banjo
 il banjo; il bangio
+
+Sicilian cake made with ricotta, sponge cake, and candied fruit; Sicilian cassata
+la cassata; la cassata siciliana
+
+jubilation; exultation; triumph
+il tripudio
+
+embellished; enhanced; beautified
+impreziosito
+
+hamlet; small village; working-class suburb
+la borgata
+
+puppet; baby boy; little boy; child; kid
+il pupo
+
+puppet; figurehead; stooge
+il burattino
+
+marionette; puppet; string puppet
+la marionetta
+
+staircase; stairway; grand staircase
+lo scalone
+
+spaghettification; spaghettization (black hole stretching effect)
+la spaghettificazione
 
