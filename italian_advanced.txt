@@ -5713,7 +5713,7 @@ il setto
 disparaging
 dispregiativo
 
-to denigrate
+to denigrate; to disparage
 denigrare
 
 to belittle; to downplay; to devalue
@@ -39892,9 +39892,6 @@ l'uccisione di massa
 to consolidate
 consolidare
 
-to grow apart
-allontonarsi
-
 to run north-south
 andare da nord a sud
 
@@ -46336,7 +46333,7 @@ la giacca distintiva; la giacca caratteristica
 between now and then
 tra ora e poi
 
-to move away; to drive away; to get away
+to move away; to drive away; to get away; to grow apart
 allontanarsi
 
 to distance oneself
@@ -60846,10 +60843,10 @@ fairy tale wedding
 il matrimonio da fiaba
 
 welcome back
-ben tornati; ben tornato
+bentornati; bentornato; ben tornati; ben tornato
 
 nice to see you
-ben trovati; ben trovato
+bentrovati; bentrovato; ben trovati; ben trovato
 
 nice to see you again
 ben ritrovati; ben ritrovato
@@ -89316,3 +89313,20 @@ dapprima
 cardinal; clothed in purple; cardinal red hat
 il porporato
 
+disparagement
+la denigrazione; il dispregio
+
+snippet of text
+il frammento di testo
+
+to come prepared
+venire preparati
+
+latinance
+la latinanza
+
+to shake violently; to shatter
+squassare
+
+playoff; tiebreaker
+lo spareggio
