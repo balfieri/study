@@ -70058,7 +70058,7 @@ acquatico
 roe deer
 il capriolo
 
-to go on air; to go on the air; to be broadcast; to come on (show)
+to go on air; to air; to go on the air; to be broadcast; to come on (show)
 andare in onda
 
 discretion
@@ -76623,7 +76623,7 @@ il pass
 private school
 la scuola paritaria
 
-to lambast
+to lambast; to slam
 criticare duramente
 
 to lead, not follow
@@ -89336,4 +89336,67 @@ lo trovo noioso
 
 compacted; compressed; packed down; tamped; tamped down; rolled (for joints)
 rullato
+
+local patriot; one who shows strong loyalty to their local area
+il campanilista; la campanilista
+
+jingoism; chauvinism
+lo sciovinismo
+
+jingoistic
+sciovinistico; sciovinista; nazionalista
+
+nationalistic
+nazionalista
+
+to cut jobs
+tagliare posti di lavoro; ridurre posti di lavoro; eliminare posti di lavoro
+
+job cuts; layoffs
+i tagli al personale; i tagli occupazionali; la soppressione di posti di lavoro; i licenziamenti
+
+rescission
+la rescissione
+
+to be impossible to work with (somebody)
+essere impossibile lavorare con (qualcuno)
+
+e-commerce
+l'e-commerce
+
+consumer confidence
+la fiducia dei consumatori
+
+vast array
+la vasta gamma; la vasta serie; il vasto assortimento
+
+to stretch the limit; to push the limit
+spingere al limite; andare oltre il limite
+
+assertion
+l'asserzione
+
+harbinger; omen; herald; precursory
+il foriero
+
+omen
+il presagio; l'auspicio
+
+bad omen
+il cattivo presagio; il cattivo auspicio
+
+fake poll
+il sondaggio falso; la votazione falsa
+
+solid profit growth
+la solida crescita degli utili; la solida crescita dei profitti
+
+stewardship
+la gestione; l'amministrazione
+
+steward
+l'amministratore; il custode
+
+to hint at (something); to allude to (something); to insinuate (something)
+accennare a (qualcosa); alludere a (qualcosa); insinuare (qualcosa)
 
