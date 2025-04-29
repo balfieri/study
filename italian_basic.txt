@@ -5869,7 +5869,7 @@ la categoria
 evidence; highlight
 l'evidenza
 
-model; pattern; template
+model (male); pattern; template
 il modello
 
 model (female)
