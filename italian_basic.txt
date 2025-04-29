@@ -1018,7 +1018,7 @@ tagliare
 cut (noun)
 la taglia
 
-piece
+piece; chunk
 il pezzo
 
 gift; present

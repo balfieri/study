@@ -5209,7 +5209,7 @@ l'incrocio; l'intersezione
 airport (adjective)
 aeroportuale
 
-to taxi
+to taxi (plane); to tamp down; to compress
 rullare
 
 taxiing
@@ -89330,3 +89330,10 @@ squassare
 
 playoff; tiebreaker
 lo spareggio
+
+I find it boring
+lo trovo noioso
+
+compacted; compressed; packed down; tamped; tamped down; rolled (for joints)
+rullato
+
