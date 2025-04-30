@@ -5894,7 +5894,7 @@ past participle
 il participio passato
 
 distant past
-il passato remoto
+il passato remoto; il passato lontano
 
 truce
 la tregua
@@ -89423,4 +89423,13 @@ il folletto; il diavoletto; il monello
 
 to have a high regard for (someone); to hold (someone) in high esteem
 avere una grande stima di (qualcuno)
+
+love triangle
+il triangolo amoroso
+
+love life
+la vita sentimentale
+
+weird guy; strange guy; weird dude
+il tipo strano; il ragazzo strano
 
