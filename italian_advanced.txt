@@ -79330,7 +79330,7 @@ to lead the way to
 aprire la strada a
 
 impish; mischievous; naughty (light, playful, unintentional)
-birichino
+birichino; sbarazzino
 
 spiteful; mischievous; naughty (intentional, annoying, trying to provoke)
 dispettoso
@@ -89417,4 +89417,7 @@ il lettino prendisole
 
 petty thief
 il ladruncolo
+
+imp
+il folletto; il diavoletto; il monello
 
