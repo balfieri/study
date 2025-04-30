@@ -12400,7 +12400,7 @@ rifocillare
 din; clamor
 il frastuono
 
-frame; ledge; trim (decorative)
+frame; ledge; trim (decorative); setting
 la cornice
 
 to drizzle
