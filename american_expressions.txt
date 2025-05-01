@@ -5185,7 +5185,7 @@ to give a heads-up
 avvisare in anticipo
 
 no pun intended
-nessun gioco di parole intenzionale
+senza voler fare una battuta; nessun gioco di parole intenzionale
 
 to fall on deaf ears
 cadere nel vuoto
@@ -5846,3 +5846,9 @@ non me la sento
 
 to be just going through the motions
 stare solo facendo le cose per abitudine
+
+to booze it up
+darsi all'alcol; bere pesantemente
+
+to get sucked into (something)
+lasciarsi coninvolgere in (qualcosa)
