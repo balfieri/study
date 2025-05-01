@@ -89564,3 +89564,7 @@ la vita sentimentale
  
 weird guy; strange guy; weird dude
 il tipo strano; il ragazzo strano
+
+hint; trace; sign; suggestion
+l'accennio
+
