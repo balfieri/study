@@ -35392,9 +35392,6 @@ la Pianura Padana; la bassa padana
 clearance; evacuation
 lo svuotamento; lo sgombero
 
-to sprout
-germinare; germogliare
-
 slip; slide; skid
 la scivolata; lo slittamento
 
@@ -89642,4 +89639,7 @@ il progetto; il piano; la cianografia; la schema
 
 to stay resilient
 rimanere resilienti; restare resilienti
+
+to germinate; to sprout; to bud
+germinare; germogliare
 
