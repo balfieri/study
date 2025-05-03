@@ -6739,7 +6739,7 @@ giacché
 supposing
 posto che
 
-in order for; so; so that
+in order for; so; so that; such that
 in modo che
 
 as if; as though; like
@@ -89684,4 +89684,10 @@ fontare
 
 to gush forth; to spurt out; to spout; to well
 zampillare
+
+to be directed downwards; to face downwards; to point downwards
+essere rivolti verso il basso
+
+to be facing upwards; to be turned upwards
+essere rivolti verso l'alto
 
