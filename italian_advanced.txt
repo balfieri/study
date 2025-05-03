@@ -34033,7 +34033,7 @@ la lumaca
 inventor
 l'inventore
 
-installment payment
+installment; payment
 la rata
 
 rat
@@ -89642,4 +89642,37 @@ rimanere resilienti; restare resilienti
 
 to germinate; to sprout; to bud
 germinare; germogliare
+
+dark brown crust
+la crosta marrone scuro; la crosta di colore marrone scuro
+
+ailment
+il malanno; il disturbo; la malattia
+
+to line
+rivestire; foderare
+
+dental prosthesis; dental prostetic
+la protesi dentale; la protesi dentaria
+
+seeking fortune; on the hunt for fortune; chasing fortune
+a caccia di fortuna
+
+co-pay; copayment
+il ticket; il co-pagamento; la partecipazione alle spese
+
+unsuppressible; irrepressible
+insopprimibile
+
+to reopen
+riaprire
+
+outlawing; ban
+la messa al bando
+
+youthful wing; juvenile wing
+l'ala giovanile
+
+prison (adjective); prison-related
+carcerario
 
