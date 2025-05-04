@@ -52427,7 +52427,7 @@ unfading
 immarcescibile
 
 faded
-sbiadato
+faded; washed-out; pale; dull
 
 tampered
 manomesso
