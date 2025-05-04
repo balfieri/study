@@ -3734,7 +3734,10 @@ hitman; assassin
 il sicario
 
 petty
-di poco conto
+meschino; di poco conto
+
+petty person
+il meschino
 
 little by little; gradually
 a mano a mano
@@ -89762,4 +89765,7 @@ lo fa comunque; lo fa lo stesso; lo fa ugualmente
 
 military parade
 la parata militare
+
+authoritarianism
+l'autoritarismo
 
