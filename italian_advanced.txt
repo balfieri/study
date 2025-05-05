@@ -62624,9 +62624,6 @@ in licenza
 mobilize
 mobilitare
 
-twist
-colpo di scena
-
 conventional oven; static oven
 il forno statico; il forno convenzionale
 
@@ -89834,3 +89831,7 @@ forviare
 
 unsuspectability
 l'insospettabilità
+
+stationary; stable; non-migratory; permanent
+stazionario
+
