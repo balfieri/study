@@ -10933,7 +10933,7 @@ in vigore
 ruthless; merciless
 spietato
 
-gang leader
+gang leader; mob boss
 il capobanda
 
 midwife
@@ -89924,3 +89924,6 @@ la verosimiglianza
 
 to make (somebody) watch (something)
 fare a (qualcuno) guardare (qualcosa)
+
+mob boss; mafia boss
+il boss della mafia; il capobanda
