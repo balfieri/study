@@ -11950,7 +11950,7 @@ umiliarsi
 prodigy
 il prodigio
 
-promiscuous
+promiscuous; loose; easy (sexually)
 promiscuo
 
 walkable
@@ -89927,3 +89927,4 @@ fare a (qualcuno) guardare (qualcosa)
 
 mob boss; mafia boss
 il boss della mafia; il capobanda
+
