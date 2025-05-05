@@ -21166,7 +21166,7 @@ mi sta bene
 depending on; according to
 a seconda di
 
-weakness
+weakness; feebleness
 la debolezza
 
 aspiring
@@ -58847,8 +58847,8 @@ la malizia
 relaxing
 rilassante; riposante
 
-weak; feeble
-sciappo
+characterless; lacking distinctive qualities
+sciapo
 
 to decant; to pour (from one container); to transfer (liquid from container to container)
 travasare
@@ -89927,4 +89927,10 @@ fare a (qualcuno) guardare (qualcosa)
 
 mob boss; mafia boss
 il boss della mafia; il capobanda
+
+it is bad planning on my part
+è cattiva pianificazione da parte mia
+
+gerontocracy
+la gerontocrazia
 

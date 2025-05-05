@@ -1624,7 +1624,7 @@ fastidioso; irritante; faticoso
 unknown; stranger
 sconosciuto
 
-weak
+weak; feeble
 debole
 
 stupid
