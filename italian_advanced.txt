@@ -89898,3 +89898,6 @@ il gabinetto di sicurezza
 entitled person; rightful owner; beneficiary; eligible person
 l'avente diritto
 
+entrepreneur; contractor; principal
+l'imprenditore committente; l'imprenditrice committente
+
