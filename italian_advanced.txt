@@ -8017,9 +8017,6 @@ il controllo delle armi
 townhouse
 la casa a schiera
 
-oak tree
-la quercia
-
 pine tree
 il pino
 
@@ -44821,8 +44818,8 @@ sbancare
 intensive farming
 l'allevamento intensivo
 
-oak
-il rovere
+oak tree
+la quercia (generale); il rovere
 
 this is exactly the kind of thing that would make (someone) laugh
 questo è esattamente il tipo di cosa che farebbe ridere (qualcuno)
@@ -89864,3 +89861,28 @@ fare del proprio meglio per (fare qualcosa); cercare di (fare qualcosa); sforzar
 
 mallard
 il germano
+
+7 months pregnant
+al settimo mese di gravidanza; incinta di sette mesi; al settimo mese
+
+facial expression
+l'espressione facciale
+
+policewoman
+la poliziotta
+
+chief of police; police chief
+il capo della polizia; il commissario di polizia
+
+to scam people
+truffare la gente; imbrogliare la gente
+
+glazing
+la vetratura
+
+regalia
+le insegne; le insegne regali; gli abiti ufficiali; gli abiti da cerimonia
+
+to be ready to pop (pregnant woman)
+stare per partorire; essere sul punto di partorire; essere pronte a partorire
+
