@@ -89835,3 +89835,6 @@ l'insospettabilità
 stationary; stable; non-migratory; permanent
 stazionario
 
+sergeant; police sergeant
+il brigadiere; la brigadiera
+
