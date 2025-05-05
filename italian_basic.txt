@@ -1030,7 +1030,7 @@ il prezzo
 window
 la finestra
 
-door
+door; goal (physical space in soccer)
 la porta
 
 floor; plan; story (building)
