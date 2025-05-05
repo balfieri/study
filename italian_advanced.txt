@@ -89841,3 +89841,6 @@ il brigadiere; la brigadiera
 a lot of nerve; great courage; a lot of courage
 bel coraggio
 
+colonnade; portico; colonnaded; columned; pillared
+il colonnato
+
