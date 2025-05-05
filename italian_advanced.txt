@@ -89844,3 +89844,11 @@ bel coraggio
 colonnade; portico; colonnaded; columned; pillared
 il colonnato
 
+godson; godchild
+il figlioccio
+
+god-daughter
+la figlioccia
+
+human judgment
+il giudizio umano
