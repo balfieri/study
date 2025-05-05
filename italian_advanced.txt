@@ -15562,9 +15562,6 @@ lecito
 individual contributor
 il contribuente individuale
 
-to benefit
-beneficiare
-
 to escape from fascism
 sfuggire al fascismo
 
@@ -50627,7 +50624,7 @@ considerable
 considerevole
 
 to take advantage; to benefit
-trarre vantaggio
+beneficiare; trarre vantaggio; trarre beneficio
 
 technocratic
 tecnocratico
@@ -64681,9 +64678,6 @@ saccheggiato
 
 insulation
 la coibentazione
-
-to benefit from
-trarre beneficio
 
 right away; immediately
 sin da subito
