@@ -20149,7 +20149,7 @@ straordinario
 friendship
 l'amicizia
 
-to spot; to identify
+to spot; to identify; to pinpoint
 individuare
 
 executive; leader; head
@@ -89954,4 +89954,7 @@ malnutrito; denutrito
 
 malnourishment
 la denutrizione
+
+supervolcano
+il supervulcano
 
