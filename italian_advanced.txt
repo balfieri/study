@@ -37792,7 +37792,7 @@ usurante
 arduous
 arduo
 
-strenuous
+tiring; exhausting; laborious; strenuous
 faticoso
 
 one of the things that I noticed is that
@@ -90039,3 +90039,5 @@ indecifrabile
 massive occupation; mass occupation
 la massiccia occupazione
 
+strenuous; arduous
+faticoso; strenuo; arduo
