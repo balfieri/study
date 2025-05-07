@@ -46799,7 +46799,7 @@ teepee
 la tenda nativa-americana; il teepee
 
 you first
-tu per primo
+tu per primo; prima tu
 
 me first
 prima io
@@ -90071,4 +90071,7 @@ mozzicare
 
 to compete; to be in competition
 far concorrenza
+
+you go first
+vai tu per primo; vai prima tu
 
