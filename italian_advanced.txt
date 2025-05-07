@@ -75431,7 +75431,7 @@ plaudire
 to fill the vacuum; to fill the void
 riempire il vuoto
 
-vacuum; void
+vacuum; void; emptiness
 il vuoto
 
 rag; shred; fragment
@@ -90044,3 +90044,27 @@ faticoso; strenuo; arduo
 
 on the other side of; beyond; across
 di là da
+
+mindful; attentive; aware
+consapevole; attento; conscio
+
+without a trace
+senza lasciare traccia
+
+to disappear without a trace
+scomparire senza lasciare traccia
+
+human suffering
+la sofferenza umana
+
+indifference to
+l'indifferenza verso
+
+desolation
+la desolazione
+
+moral emptiness
+il vuoto morale
+
+to bite; to nip
+mozzicare
