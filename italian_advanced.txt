@@ -90075,3 +90075,6 @@ far concorrenza
 you go first
 vai tu per primo; vai prima tu
 
+to synthesize
+sintetizzare
+
