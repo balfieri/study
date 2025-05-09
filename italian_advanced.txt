@@ -20731,9 +20731,6 @@ lo stemma
 anagram
 l'anagramma
 
-carisma
-il carisma
-
 cataclism
 il cataclisma
 
@@ -90179,4 +90176,10 @@ vendere in massa
 
 to sell wholesale
 vendere all'ingrosso
+
+charisma; rizz (slang)
+il carisma
+
+to get a perm; to get a permanent
+farsi la permanente; farsi fare la permanente
 
