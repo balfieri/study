@@ -86370,7 +86370,7 @@ volgente
 unfolding; developing
 svolgente
 
-body double
+body double; doppelganger; look-alike
 la controfigura; il sosia; la sosia
 
 to mock oneself; to make fun of oneself
@@ -90167,4 +90167,16 @@ dare la caccia
 
 to reside; to live; to stay
 risiedere
+
+ironing board
+l'asse da stiro
+
+2% of GDP
+il 2 per cento del Pil
+
+to sell in bulk
+vendere in massa
+
+to sell wholesale
+vendere all'ingrosso
 
