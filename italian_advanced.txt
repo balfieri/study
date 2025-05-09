@@ -67505,8 +67505,8 @@ meglio della maggior parte
 cannoli (one)
 il cannolo
 
-spelling
-l'ortografia
+spelling; orthography
+l'ortografia; la grafia
 
 tigelle (round breads from Emilia-Romagna)
 le tigelle
@@ -81870,8 +81870,8 @@ la persona laboriosa
 hardest working person of all time  
 la persona più laboriosa di tutti i tempi  
 
-lumber yard  
-la segheria  
+sawmill; timber mill; lumber mill
+la segheria
 
 lumbar support  
 il supporto lombare  
@@ -90120,3 +90120,14 @@ l'indulgenza plenaria
 to me, it makes no difference; it doesn't matter to me
 per me, è indifferente; non fa differenza per me; per me, è lo stesso
 
+lumber yard
+il deposito di legname; il cantiere di legname; il magazzino del legname
+
+commercial agreement; business agreement
+l'accordo commerciale
+
+to require permits
+servire permessi
+
+1/6 the amount; 1/6 as much
+un sesto della quantità; un sesto del totale
