@@ -457,10 +457,10 @@ fare un giro
 to pull one's leg
 prendersi in giro
 
-ride; round; turn
+ride; round; turn (normally involves returning to a starting point)
 il giro
 
-trip; excursion
+trip; excursion (shorter)
 la gita
 
 hotel
@@ -4450,7 +4450,7 @@ pagare
 to utilize; to use
 utilizzare
 
-to catch; to pick; to grasp; to seize; to cull
+to catch; to pick; to grasp; to seize; to cull; to pick up on
 cogliere
 
 to be worth
@@ -6652,7 +6652,7 @@ diventato
 your (pl.)
 vostro
 
-trip; voyage; journey
+trip; voyage; journey (longer)
 il viaggio
 
 prepared
