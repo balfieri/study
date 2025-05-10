@@ -4625,7 +4625,7 @@ tuba
 la tuba
 
 loser; dweeb
-il perdente; lo sfigato
+il perdente; lo sfigato; il vinto
 
 weather forecast
 le previsioni del tempo; le previsioni meteo
@@ -90272,3 +90272,7 @@ i sentimenti contrastanti
 
 to make a habit out of it
 farne un'abitudine; prendere l'abitudine
+
+world of winners and losers
+il mondo di vinciatori e vinti
+
