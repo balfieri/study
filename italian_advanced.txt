@@ -57543,7 +57543,7 @@ relevant work
 il lavoro pertinente
 
 high cholesterol
-il colesterol alto
+il colesterolo alto
 
 upper limit
 il limite superiore
@@ -90239,4 +90239,7 @@ la tardiva presa di coscienza
 
 to feel an emotion; to experience a feeling
 provare un sentimento
+
+cholesterol
+il colesterolo
 
