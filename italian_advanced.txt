@@ -90150,7 +90150,7 @@ impastato
 damned; damn; cursed; wretched; unlucky
 dannato
 
-price finder
+price finder; pricefinder
 il trovaprezzi
 
 antitrust rule; antitrust regulation; antitrust law
