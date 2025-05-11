@@ -5404,7 +5404,7 @@ il vangelo
 to reverse; to invert
 invertire
 
-to turn upside-down; to overturn; to capsize; to turn over; to reverse; to tip over; to flip over; to upend
+to turn upside-down; to overturn; to capsize; to turn over; to reverse; to tip over; to flip over; to upend; to upend
 capovolgere; ribaltare
 
 rosary; rosary beads
@@ -8476,7 +8476,7 @@ appiccioso
 shocking; disconcerting; upsetting
 sconvolgente
 
-to upset; to disturb; to perturb; to throw off balance; to shock
+to upset; to disturb; to perturb; to throw off balance; to shock; to upend
 sconvolgere
 
 to cease
@@ -90368,4 +90368,19 @@ il genio; il cervellone
 
 psoriasis
 la psoriasi
+
+three-judge panel; panel of three judges
+il collegio di tre giudici; il pannello di tre giudici; il panel di tre giudici
+
+to decide the fate of
+decidere il destino di; decidere la sorte di
+
+little-known
+poco conosciuto; oscuro; poco noto
+
+sweeping (something)
+(qualcosa) radicale; (qualcosa) drastico; (qualcosa) di vasta portata; (qualcosa) profondo
+
+to garner
+attirare; ottenere; suscitare
 
