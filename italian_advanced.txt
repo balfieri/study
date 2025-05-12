@@ -90471,3 +90471,9 @@ stipulare
 interlocutory; preliminary; provisional
 interlocutorio
 
+militant group; militia group
+il gruppo miliziano
+
+militant
+miliziano
+
