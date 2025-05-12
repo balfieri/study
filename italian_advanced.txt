@@ -6925,7 +6925,7 @@ la minoranza
 dew point
 il punto di rugiada
 
-booster shot
+callback; booster shot
 il richiamo
 
 moisture; humidity; wetness
@@ -90441,3 +90441,11 @@ al di sopra della legge
 anti-authoritarianism
 l'antiautoritarismo
 
+view-limiting device
+il dispositivo che limita la visuale; il dispositivo di limitazione visiva
+
+to flinch
+trasalire; indietreggiare; ritrarsi
+
+to give a callback
+dare un richiamo
