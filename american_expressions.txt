@@ -5904,3 +5904,6 @@ la sveltina
 small piece of advice; bit of advice; little tip
 il piccolo consiglio; il suggerimento; il piccolo suggerimento
 
+be greedy when others are fearful, and fearful when others are greedy
+sii avido quando gli altri hanno paura, e abbi paura quando gli altri sono avidi
+

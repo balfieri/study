@@ -17689,7 +17689,7 @@ unirsi a
 to showboat
 mettersi in mostra
 
-proverb
+proverb; saying
 il proverbio; il detto
 
 you're time will come
@@ -49640,7 +49640,7 @@ default behavior
 il comportamento predefinito
 
 speech therapist
-il logopedista
+il logopedista; la logopedista
 
 to be open to learning
 essere aperti all'apprendimento
@@ -90542,4 +90542,16 @@ infuriare
 
 to infuriate; to enrage; to incense; to make mad; to work up into a rage
 fare infuriare
+
+broader market
+il mercato più ampio; mercato più vasto; mercato più esteso
+
+to do better over time
+migliorare col tempo; migliorare nel tempo
+
+to crater; to collapse suddenly; to fall sharply
+crollare improvvisamente; precipitare
+
+shrill voice; screeching voice
+la voce stridula
 
