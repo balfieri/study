@@ -90520,7 +90520,7 @@ noose
 il capestro; il nodo scorsoio
 
 to shun (somebody)
-evitare (qualcuno); tenere alla larga (qualcuno)
+evitare (qualcuno); emarginare; tenere alla larga (qualcuno)
 
 mutual consent
 il consenso reciproco; l'accordo reciproco
@@ -90575,4 +90575,7 @@ il plico elettorale
 
 darkness; obscurity
 la scurità
+
+shunned
+evitato; emarginato; tenuto alla larga
 
