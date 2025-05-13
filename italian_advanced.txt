@@ -88965,8 +88965,8 @@ la trafelata corsa
 media condolences; public condolences
 il cordoglio mediatico
 
-weed eater; weed trimmer
-il tagliaerba; il decespugliatore
+weed eater; weed trimmer; string trimmer
+il decespugliatore a filo; il tagliabordi a filo; il trimmer a filo
 
 to be at the same time; to be simultaneously
 essere al contempo
