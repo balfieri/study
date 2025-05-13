@@ -15622,7 +15622,7 @@ fare lo spiritoso; fare la spiritosa
 silicon
 il silicio
 
-abrupt; sudden
+abrupt; sudden; curt
 brusco
 
 to encrypt
@@ -90498,3 +90498,29 @@ il fascismo strisciante
 symbolism
 il simbolismo
 
+tuning; harmony; theme song; signature tune
+la sintonia
+
+specularity; mirror-like quality; specular quality
+la specularità
+
+existentialism
+l'esistenzialismo
+
+asceticism; ascetism
+l'ascetismo
+
+otherness; alterity
+l'alterità
+
+gallows; gibbet
+la forca
+
+noose
+il capestro; il nodo scorsoio
+
+to shun (somebody)
+evitare (qualcuno); tenere alla larga (qualcuno)
+
+mutual consent
+il consenso reciproco; l'accordo reciproco
