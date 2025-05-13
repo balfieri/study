@@ -193,7 +193,7 @@ grande
 small; little; petite
 piccolo
 
-wide
+wide; broad
 largo
 
 narrow; tight; tightened
