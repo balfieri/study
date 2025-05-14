@@ -37054,7 +37054,7 @@ impensierire
 towards
 nei confronti
 
-against him; in his regards
+towards him; towards her; towards them; to him; to her; for him; for her; against him; against her; in his regards; in her regards
 nei suoi confronti
 
 off-the-record
@@ -85572,7 +85572,7 @@ sfiancare
 revenue stamps; tax stamps
 i valori bollati
 
-to seep into
+to seep into; to infiltrate
 infiltrarsi 
 
 sounds like a plan
@@ -90636,3 +90636,14 @@ la persona di nessun valore
 sodomy; male homosexuality
 la sodomia
 
+nostalgic
+nostalgico
+
+anarchist
+l'anarchico; l'anarchica
+
+o set off bombs; to detonate bombs
+far esplodere bombe; detonare bombe
+
+to detonate
+detonare
