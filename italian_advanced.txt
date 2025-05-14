@@ -8974,7 +8974,7 @@ prevalso
 sometimes it's necessary to state the obvious
 a volte è necessario affermare l'ovvio
 
-wisdom
+wisdom; smarts
 la saggezza
 
 once-in-a-lifetime experience
@@ -90617,4 +90617,7 @@ sbrigato
 
 to deal with; to handle; to hurry up; to get through; to dispatch; to run an errand
 sbrigare
+
+Phlegraean; of or relating to the volcanic area near Naples called the Phlegraean Fields
+flegreo
 
