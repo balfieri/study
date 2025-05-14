@@ -6158,7 +6158,7 @@ at an all-time low
 ai minimi storici; al minimo storico
 
 fugitive; absconder; fugitive from justice
-il latitante
+il latitante; il fuggitivo; la fuggitiva
 
 reception; welcome; acceptance
 l'accoglienza
@@ -62582,7 +62582,7 @@ rendere (qualcuno) un favore
 barbaric
 barbarico
 
-fugitive
+fugitive (adjective)
 fuggiasco
 
 life is all about the journey
@@ -90677,4 +90677,13 @@ l'ordinovista
 
 major pile-up; multi-vehicle collision
 il maxi-tamponamento
+
+terrorist during the years of lead
+il terrorista nero
+
+broken; split apart; collapsed
+sfaldato
+
+egalitarian
+egualitario
 
