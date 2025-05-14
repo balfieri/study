@@ -9565,8 +9565,11 @@ la sostanza
 threshold; sill; doorstep
 la soglia
 
-slogan; motto
-lo slogan; il motto
+slogan
+lo slogan
+
+motto
+il motto
 
 dishcloth
 il canovaccio
@@ -75062,9 +75065,6 @@ interessarsi a (qualcosa); interessarsi di (qualcosa)
 to end up inside
 finire dentro
 
-to commit a crime
-delinquere
-
 prior declaration
 la previa dichiarazione
 
@@ -80211,7 +80211,7 @@ nel suo apice
 past remarks
 le osservazioni passate
 
-contest; competition; concourse (end result is a prize)
+contest; competition; concourse (end result is a prize); complicity
 il concorso
 
 barter goods; commodity
@@ -90647,3 +90647,34 @@ far esplodere bombe; detonare bombe
 
 to detonate
 detonare
+
+day of mourning
+il giorno di lutto
+
+slope; descent; chine (liquor); china (porcelain)
+la china
+
+slope
+il pendio; la pendenza; la salita; la china
+
+to devastate; to destroy; to ruin; to ravage
+devastare
+
+feline leap; cat-like jump
+il balzo felino
+
+according to area of expertise
+per competenza
+
+halting; faltering; limping
+claudicante
+
+to commit crimes; to commit a crime; to engage in criminal activity
+delinquere
+
+supporter of the Ordine Nuovo; follower of the Ordine Nuovo
+l'ordinovista
+
+major pile-up; multi-vehicle collision
+il maxi-tamponamento
+
