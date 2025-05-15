@@ -59483,7 +59483,7 @@ ripentino
 lease contract
 il contratto di locazione
 
-unsustainable
+unsustainable; untenable
 insostenibile
 
 to sublet
@@ -90713,4 +90713,46 @@ attuativo
 
 anthropogenic
 antropogenico
+
+train coach
+la carrozza del treno
+
+barb; snide remark
+la frecciatina
+
+monk seal (animal)
+la foca monaca
+
+question time (parliament)
+il question time
+
+to get used to; to become addicted
+assuefarsi
+
+spread (finance)
+lo spread
+
+government bond; treasury bond
+il titolo di stato
+
+unfairness; foul play
+la scorrettezza
+
+spinelessness
+la mancanza di spina dorsale; la vigliaccheria
+
+to anthropomorphize
+attribuire caratteristiche umane; antropomorfizzare
+
+dehuminization
+la disumanizzazione
+
+tabloid
+il tabloid
+
+kerkuffle
+il bisticcio; il trambusto
+
+untenable situation
+la situazione insostenibile
 
