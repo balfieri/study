@@ -5569,7 +5569,7 @@ la radice
 income; revenue
 il reddito
 
-keyboard
+keyboard (computer, typewriter)
 la testiera
 
 holiday
