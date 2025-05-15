@@ -90762,3 +90762,6 @@ la persona di classe
 classy woman
 la donna di classe; la signora di classe
 
+surfer
+il surfista; la surfista
+
