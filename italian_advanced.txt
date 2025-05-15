@@ -41324,7 +41324,7 @@ interwoven
 intrecciato
 
 intertwined
-intrecciati
+intrecciati; intrecciate
 
 emotional commitment
 l'impegno emotivo
@@ -90764,4 +90764,7 @@ la donna di classe; la signora di classe
 
 surfer
 il surfista; la surfista
+
+ailment; ache; infirmity
+l'acciacco
 
