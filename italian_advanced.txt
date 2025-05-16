@@ -7223,7 +7223,7 @@ estimate; estimation
 la stima
 
 hassle; annoyance; bother; nuisance; pest (figurative)
-la seccatura; il fastidio
+la scocciatura; la seccatura; il fastidio
 
 to lose one's momentum
 perdere il ritmo
@@ -90825,3 +90825,14 @@ prendersi un giorno libero; prendere un giorno di riposo
 to sputter; to stammer; to splutter; to crackle
 balbettare; farfugliare; scoppiettare; crepitare
 
+no clothes fit me
+nessun vestito mi sta bene
+
+short-term rental
+l'affitto breve
+
+long-term rental
+l'affitto a lungo termine
+
+shrapnel
+la scheggia; il frammento
