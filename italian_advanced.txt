@@ -20744,7 +20744,7 @@ ghost
 il fantasma
 
 pajamas
-il pigiama
+il pigiama; i pigiami
 
 theorem
 il teorema
@@ -90863,4 +90863,7 @@ il tirante
 
 steelworks; steel mill
 l'acciaieria
+
+in one's pajamas
+nei propri pigiami; nel proprio pigiama
 
