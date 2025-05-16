@@ -4381,7 +4381,7 @@ il popcorn al microonde
 to smuggle
 contrabbandare; trafficare
 
-smuggling
+smuggling; contraband
 il contrabbando
 
 for the foreseeable future
@@ -15688,7 +15688,7 @@ le vite dei neri contano
 hate group
 il gruppo di odio
 
-reserved (person)
+reserved (person); guarded (emotions)
 riservato
 
 the best of
@@ -64025,7 +64025,7 @@ la sbaccatura
 rag; shred
 la stracciatura
 
-to slam; to beat; to bang
+to slam; to beat; to bang; to stub
 sbattere
 
 Nettuno
@@ -90836,3 +90836,31 @@ l'affitto a lungo termine
 
 shrapnel
 la scheggia; il frammento
+
+if you could read my mind
+se tu potessi leggermi nel pensiero
+
+the Wright brothers
+i fratelli Wright
+
+to stub a toe
+sbattere un dito del piede
+
+stubbed toe
+dito del piede ammaccato; dito del piede sbattuto
+
+I think I'm thinner than I actually am
+penso di essere più magro di quanto sono in realtà
+
+to finish at the top of one's class
+finire come la migliore della classe
+
+frogman; scuba diver; skin diver
+il sommozzatore; la sommozzatrice
+
+tie rod; brace; stay; guyrope
+il tirante
+
+steelworks; steel mill
+l'acciaieria
+
