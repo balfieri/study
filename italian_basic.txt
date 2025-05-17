@@ -1786,12 +1786,6 @@ l'armadio
 keyboard; keyboards (music)
 la tastiera
 
-blackboard
-la lavagna
-
-whiteboard
-la lavagna bianca
-
 remote control
 il telecomando
 

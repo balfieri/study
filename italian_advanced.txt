@@ -90945,3 +90945,9 @@ tornare in hotel con uber
 to uber to; to take an uber to
 andare in uber a; prendere un uber per
 
+blackboard
+la lavagna
+
+whiteboard
+la lavagna bianca
+
