@@ -38395,7 +38395,7 @@ il grillino
 madame (brothel)
 la maitresse
 
-faint; weak
+faint; weak; feeble
 flebile
 
 to grill
@@ -90975,3 +90975,29 @@ il campidoglio
 cocktail
 il cocktail
 
+to twist back; to backfire
+ritorcersi
+
+axe; hatchet
+la scure
+
+biophytone
+il biofitone
+
+to exhume; to disinter
+riesumere
+
+needle-shaped; hand (of a clock)
+a lancetta
+
+Dolby B noise reduction
+il Dolby B
+
+forger; counterfeiter
+il falsario
+
+cassette player; tape deck
+il mangiacassette
+
+input source
+la sorgente in entrata
