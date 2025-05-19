@@ -52630,9 +52630,6 @@ il sole sorge a est
 the sun sets in the west
 il sole tramonta a ovest
 
-to have to do with; to deal with
-avere a che fare con
-
 it makes me think
 mi fa pensare
 
@@ -78863,9 +78860,6 @@ il trattamento di favore
 
 to treat oneself well
 trattarsi bene
-
-to be about (something); to deal with (something) (story)
-trattare di (qualcosa)
 
 to address a problem
 trattare un problema
