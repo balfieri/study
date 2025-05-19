@@ -22819,9 +22819,6 @@ l'aspirazione
 federal
 federale
 
-canonical
-canonico
-
 coherent; consistent
 coerente
 
@@ -91094,3 +91091,7 @@ abbeverare
 
 Brexit
 la Brexit
+
+canonical; standard; accepted; established
+canonico
+
