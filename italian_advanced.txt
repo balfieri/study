@@ -47447,7 +47447,7 @@ landlord; lessor; renter
 il locatore
 
 furnished
-arredato; ammobiliato
+arredato; arredicato; ammobiliato
 
 matriculated; enrolled (less common)
 ammatricolato
