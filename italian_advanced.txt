@@ -60752,7 +60752,7 @@ il disk esterno
 internal drive
 il disk interno
 
-fake
+fake; false; bogus; counterfeit; phony
 fasullo
 
 louse
