@@ -43030,7 +43030,7 @@ avente
 manslaughter
 l'omicidio colposo
 
-close; nearby; close together
+close; nearby; close together; close-range
 ravvicinato
 
 denied; refuted; contradicted
@@ -91043,4 +91043,25 @@ il pontiere; la pontiera
 
 fishing lure
 l'esca da pesca
+
+political hero
+l'eroe politico
+
+time is of the essence
+il tempo è fondamentale; il tempo stringe
+
+everyone except one
+tutti tranne uno
+
+raider
+il predone; il razziatore
+
+to raid
+fare un'incursione; razziare
+
+clockwork
+il meccanismo ad orologeria
+
+graduate
+il laureato; la laureata
 
