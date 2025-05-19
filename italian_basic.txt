@@ -4139,7 +4139,7 @@ serious (situation)
 grave
 
 huge; massive
-grosso
+grosso; enorme
 
 ideal
 ideale
