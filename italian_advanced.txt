@@ -7684,8 +7684,8 @@ il giro di basso
 draft; proof
 la bozza
 
-adamant; obstinate; pig-headed
-ostinato
+adamant; obstinate; pig-headed; unyielding; inflexible
+ostinato; inflessibile; irremovibile; categorico
 
 to split the difference
 dividere la differenza
@@ -7865,7 +7865,7 @@ to enrapture; to rapture
 estasiare
 
 repentant; contrite
-pentito
+pentito; contrito
 
 sonorous
 sonoro
@@ -23752,7 +23752,7 @@ aspro
 acidic; sour
 acido
 
-unripe; immature
+ascerbic; unripe; immature
 acerbo
 
 to spell
@@ -33843,9 +33843,6 @@ svuotare
 
 to empty (general, figurative)
 vuotare
-
-neophyte
-il neofita
 
 Neolithic
 neolitico
@@ -91115,4 +91112,49 @@ l'incidente mortale
 
 to inculcate; to instill
 inculcare
+
+abject poverty
+la povertà assoluta; la miseria abbietta
+
+despicable; contemptible; vile; wretched
+abbietto; abietto
+
+aberration
+l'aberrazione
+
+to abjure
+abiurare
+
+to acquiesce
+acconsentire; adeguarsi; non opporsi; sottomettersi
+
+contentious
+controverso; contenzioso; polemico; conflittuale
+
+to contravene
+contravvenire a
+
+death knell
+il rintocco funebre; la campana a morto; il rintocco di morte
+
+laconic
+laconico
+
+largesse
+la generosità; l'elargizione; la munificenza
+
+nadir
+il nadir
+
+noisome
+disgustoso; sgradevole; nocivo
+
+obdurate
+inflessibile; ostinato; caparbio; cocciuto
+
+pertinacious
+pertinace
+
+pithy
+conciso; incisivo; stringato; sintetico; succinto
 
