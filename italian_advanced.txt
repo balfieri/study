@@ -33482,7 +33482,7 @@ unheard
 inascoltato
 
 walker
-il camminatore
+il camminatore; la camminatrice
 
 traveled
 viaggiato
@@ -66668,7 +66668,7 @@ la serranda
 to flatten
 appiattirsi
 
-to shell; to pit
+to shell; to pit; to cough up; to rattle off
 snocciolare
 
 geek; tech-savvy person
@@ -91160,4 +91160,16 @@ conciso; incisivo; stringato; sintetico; succinto
 
 unemotional; without emotion
 imperturbabile; distaccato; controllato; compassato
+
+to butter
+imburrare; spalmare il burro su
+
+as expected; as predicted; as forecasted
+come da previsioni
+
+sniper
+il cecchetto
+
+in the late 1920s; at the end of the 1920s
+sul finire degli anni 20
 
