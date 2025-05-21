@@ -4203,6 +4203,27 @@ bowl full of liquid, card free to move, indicated heading matches known runway h
 {sys} in Northern Hemisphere, turning west from south, compass will initially
 overshoot
 
+{sys} in Northern Hemisphere, turning from north to east or west, compass will initially
+lag or indicate a turn in the opposite direction
+
+{sys} in Northern Hemisphere, turning from south to east or west, compass will initially
+lag or indicate a greater amount of turn
+
+{sys} in Northern Hemisphere, turning toward the north, compass when approaching the northerly heading will
+lag behind the turn
+
+{sys} in Northern Hemisphere, turning toward the south, compass when approaching the southerly heading will
+lead the turn
+
+{sys} in Northern Hemisphere, on a east or west heading, an increase in airspeed will cause the compass to
+indicate a turn toward the north
+
+{sys} in Northern Hemisphere, on a east or west heading, a decrease in airspeed will cause the compass to
+indicate a turn toward the south
+
+{sys} in Northern Hemisphere, on a north or south heading, an increase or decrease in airspeed will cause the compass to
+not change
+
 {sys} effect of total static ports blockage on VSI
 read 0
 
