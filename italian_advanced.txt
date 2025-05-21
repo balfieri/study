@@ -91179,3 +91179,12 @@ il catamarano
 draw; drawing; lot
 il sorteggio
 
+handheld
+palmare; portatile
+
+to pluck on the banjo
+pizzicare il banjo
+
+reality distortion field
+il campo di distorsione della realtà
+
