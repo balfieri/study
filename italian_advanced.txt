@@ -91287,3 +91287,6 @@ passare di moda
 gamete; sex cell
 il gamete
 
+pistil
+il pistillo
+
