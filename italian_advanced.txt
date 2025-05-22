@@ -8011,9 +8011,6 @@ patriottico
 gun control
 il controllo delle armi
 
-townhouse
-la casa a schiera
-
 pine tree
 il pino
 
@@ -13765,7 +13762,7 @@ l'equiparazione
 famous retreat
 la celebre rotta
 
-rout; defeat
+rout; devastating defeat (used often in war)
 la disfatta
 
 fear of heights; acrophobia
@@ -91217,3 +91214,39 @@ l'ausilio alla navigazione terrestre; l'aiuto alla navigazione basato a terra
 
 VHF omnidirectional radio; VOR
 il VOR; il radiofaro omnidirezionale VHF
+
+row house; terraced house; townhouse
+il villetto a schiera; la casa a schiera
+
+to develop a feel for (something)
+sviluppare una sensibilità per (qualcosa); prendere confidenza con (qualcosa)
+
+gutless
+senza fegato; codardo
+
+curvaceous woman
+la donna formosa; la donna con curve
+
+to evade a search; to escape a frisk
+sfuggire alla perquisizione
+
+police roundup; raid
+la retata
+
+bad feelings; ill feelings; disagreements
+i dissapori
+
+GAP partisan; Resistance fighter (in WWII context)
+il gappista; la gappista
+
+original sin
+il peccato originale
+
+open city (in war, no fighting)
+la città aperta
+
+to demilitarize
+smilitarizzare
+
+to bounce; to be springy; to have a springy gait
+molleggiare
