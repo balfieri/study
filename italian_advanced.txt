@@ -1018,8 +1018,8 @@ persuadere; convincere
 at bay
 a distanza
 
-the sore; the plague
-la piaga
+sore; plague
+la piaga; la peste
 
 fabric; cloth; material
 la stoffa
@@ -12561,9 +12561,6 @@ corredare
 
 complexity; intricacy
 la complessità
-
-plague
-la peste
 
 it's about time; about time
 era ora
@@ -91289,4 +91286,13 @@ il gamete
 
 pistil
 il pistillo
+
+cosmetic surgery; aesthetic surgery
+la chirurgia estetica
+
+to feel on hold
+sentirsi all'attesa
+
+the master race; the ruling class
+la razza padrona
 
