@@ -7351,7 +7351,7 @@ la bravura
 to cover; to smother; to coat
 ricoprire
 
-blasphemy
+blasphemous profanity; blasphemous swear word
 la bestemmia
 
 to abound; to make plentiful
@@ -17923,8 +17923,11 @@ battere il record
 to stutter; to stammer
 balbettare
 
-chocolate chips
-le scaglie di cioccolato; le gocce di cioccolato
+chocolate chips (tear-shaped)
+le gocce di cioccolato
+
+chocolate chips (flat, ice cream)
+le scagliette di cioccolato; la scaglie di cioccolato
 
 to be burdensome; to be oppressive
 essere opprimenti
@@ -91296,3 +91299,11 @@ sentirsi all'attesa
 the master race; the ruling class
 la razza padrona
 
+abomination; revulsion; loathing; detestation
+l'abominio
+
+chocolate mint; mint chocolate
+la cioccomenta
+
+blasphemy
+la blasfemia
