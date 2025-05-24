@@ -26708,7 +26708,7 @@ to calculate
 calcolare
 
 limestone
-il calcare
+il calcare; la pietra calcarea
 
 torrent
 il torrente
@@ -91337,3 +91337,22 @@ la spacciatura
 
 mainstay
 il pilastro; il sostegno principale
+
+appointment; nomination; designation
+la nomina
+
+cultural ferment; cultural vibrancy; cultural dynamism
+il fermento culturale
+
+calcarenite; limestone
+la calcarenite; il calcare arenitico
+
+ochre; ocher
+l'ocra
+
+diminished; palled; waned
+scemato
+
+to wane; to diminish; to lessen; to decline; to abate; to drop; to grow cold; to lower
+scemare
+
