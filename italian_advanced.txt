@@ -2728,9 +2728,6 @@ rozzo
 nauseating (person)
 nauseabondo; nauseante
 
-nauseating (smell)
-ripugnante
-
 to be out of (something)
 rimanere senza
 
@@ -74231,8 +74228,11 @@ il cubo di Rubik
 to get lost on the way to
 perdersi per strada verso
 
-hateful
-odioso
+hateful 
+odioso 
+
+obnoxious; loathsome; repugnant; nauseating (smell)
+ripugnante
 
 to over-coach
 allenare troppo
@@ -91355,4 +91355,31 @@ scemato
 
 to wane; to diminish; to lessen; to decline; to abate; to drop; to grow cold; to lower
 scemare
+
+hated
+odiato; destestato
+
+I have nothing against (something)
+non ho nulla contro (qualcosa); non ho niente contro (qualcosa)
+
+alter girl
+la chierichetta
+
+my least favorite (something)
+il mio (qualcosa) meno preferito
+
+tan-colored
+il color tan; il color marrone chiaro
+
+tan
+tan; marrone chiaro
+
+chain store
+la catena di negozi
+
+obnoxious car
+l'auto fastidiose; la macchina insopportabile
+
+askance
+di traverso; di sbieco
 
