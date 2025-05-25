@@ -25594,9 +25594,6 @@ la medusa
 this is a very weird conversation
 questa conversazione è molto strana
 
-increasingly
-sempre più
-
 lard
 lo strutto
 
@@ -91404,3 +91401,8 @@ il peep show; lo spettacolo a luci rosse
 troublemaker
 il piantagrane
 
+increasingly
+sempre più
+
+to not fit in with (something)
+non riconoscere tra (qualcosa); non sentirsi parte di (qualcosa)
