@@ -9905,7 +9905,7 @@ stalker
 lo stalker
 
 philanthropist
-il filantropo
+il filantropo; la filantropa
 
 to affect the taste
 influire il gusto
