@@ -46748,7 +46748,7 @@ repairman
 il riparatore; la riparatrice
 
 handyman; jack of all trades
-il tuttofare
+il tuttofare; il factotum
 
 to disturb; to perturb
 turbare
