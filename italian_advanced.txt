@@ -28393,7 +28393,7 @@ la mobilitazione
 promptly
 prontamente
 
-equipped; fortified
+equipped; fortified; provided with
 munito
 
 deduction
@@ -69641,9 +69641,6 @@ la pioggia torrenziale
 torrential
 torrenziale
 
-subcontracting
-il subappalto
-
 condensation
 la condensa
 
@@ -91529,4 +91526,34 @@ non importa quanto guadagnano
 
 they spend more than they make
 spendono più di quanto guadagnano
+
+there's no end in sight
+non si vede la fine
+
+zillions of (something)
+un'infinità di (qualcosa)
+
+spoiled brat
+il bambino viziato; la bambina viziata; il moccioso viziato; la mocciosa viziata
+
+expandable
+espandibile
+
+self-perpetuating
+auto-perpetuante; che si autoalimenta
+
+subcontract; subcontracting
+il subappalto
+
+contracting authority; client
+l'appaltante
+
+contractor
+l'appaltatore; l'appaltatrice
+
+subcontractor
+il subappaltatore; la subappaltatrice
+
+non-EU citizen; non-EU
+extracomunitario
 
