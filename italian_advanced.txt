@@ -12695,7 +12695,7 @@ where; in case; if; so far as
 qualora
 
 politely; courteously
-educatamente
+gentilmente; educatamente; cortesemente; compitamente
 
 to inundate
 inondare
@@ -91520,4 +91520,13 @@ lo zucchero filato
 
 cotton candy machine
 la macchina per zucchero filato; la macchina per lo zucchero filato
+
+to exercise self-restraint with (something)
+esercitare l'autocontrollo con (qualcosa); esercitare l'autodisciplina con (qualcosa)
+
+no matter how much they make
+non importa quanto guadagnano
+
+they spend more than they make
+spendono più di quanto guadagnano
 
