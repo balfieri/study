@@ -3302,7 +3302,7 @@ quarrel; squabble
 il bisticcio
 
 misunderstanding; mistake; misapprehension
-il malinteso
+il malinteso; l'equivoco
 
 to wrap (cloth, plastic); to wrap up; to wind; to roll; to envelop
 avvolgere
@@ -91490,4 +91490,3 @@ il ghiro
 
 banker
 il banchiere; la banchiera
-
