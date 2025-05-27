@@ -6100,8 +6100,8 @@ tutelare
 to incur
 incorrere
 
-to resort to; to appeal to
-ricorrere a
+to resort to (doing something)
+ricorrere a (fare qualcosa)
 
 to recur; to resort; to appeal
 ricorrere
@@ -91559,3 +91559,27 @@ extracomunitario
 
 to outsource; to contract out; to subcontract; to put out to contract
 appaltare
+
+contract with increasing protections
+il contratto a tutele crescenti
+
+the reinstatement; the reincorporation
+il reintegro
+
+allowances for companies
+le maglie per le aziende
+
+fixed-term hiring; fixed-term contracts
+assunzioni a termine
+
+to take on; to incur
+accollare
+
+to take on entirely; to incur in full
+accollare per intero
+
+reason; cause; purpose; explanation; reference (in banking/accounting contexts)
+la causale
+
+to be fresh in one's mind; to be present in one's mind; to be well remembered
+essere fresco nella memoria; essere ben presente nella mente; essere chiaro nella memoria
