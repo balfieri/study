@@ -1690,7 +1690,7 @@ oltremodo
 to reset; to restore; to rehabilitate
 ripristinare
 
-to re-establish; to restore; to reinstate
+to re-establish; to reestablish; to restore; to reinstate
 ristabilire
 
 eminent; outstanding; distinguished
@@ -91589,3 +91589,4 @@ la banalità
 
 to be detected
 essere individuati
+
