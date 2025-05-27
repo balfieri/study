@@ -25951,7 +25951,7 @@ il contribuente
 cereal; breakfast cereal
 il cereale
 
-singled out
+singled out; detected
 individuato
 
 illustration
@@ -91586,3 +91586,6 @@ essere fresco nella memoria; essere ben presente nella mente; essere chiaro nell
 
 platitude; banality
 la banalità
+
+to be detected
+essere individuati
