@@ -90,8 +90,8 @@ mandatory instruction, runway distance remaining, location, information, destina
 {sop,critical} PARE spin recovery
 power to idle; ailerons to neutral; rudder full opposite; elevator pitch down; and then neutralize main controls
 
-{sop} graveyard spin recovery
-power to idle; ailerons to neutral; gently raise nose; reestablish level flight
+{sop} graveyard spiral recovery
+power to idle; wings level with neutral airlerons and required rudder; gently raise nose; reestablish level flight with power
 
 {sop,critical} CCCCC actions if you cannot establish your current position
 Confess; Climb; Circle; Conserve; Communicate
