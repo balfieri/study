@@ -8591,7 +8591,7 @@ partridge
 la pernice
 
 on hold; waiting
-in attesa; in sospeso
+in attesa; in sospeso; all'attesa
 
 marital bliss
 la beatitudine coniugale; la felicità coniugale; la gioia matrimoniale; la felicità matrimoniale
@@ -91592,3 +91592,30 @@ essere individuati
 
 Tylenol (brand in the USA)
 la Tachipirina (la marca in Italia)
+
+cork stopper
+il tappo di sughero
+
+screw cap
+il tappo a vite
+
+etymology
+l'etimologia
+
+from San Remo
+sanramese
+
+contract work; outsourced work
+il lavoro in appalto
+
+in relation to; with respect to
+in rapporto a
+
+to experience (something negative)
+subire (qualcosa di negativo)
+
+crackerjack team; excellent team; first-rate team
+la squadra eccellente; la squadra di prim'ordine
+
+rogue agent
+l'agente canaglia; l'agente fuori controllo
