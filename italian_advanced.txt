@@ -49106,7 +49106,7 @@ insurance card
 la carta assicurativa
 
 green card
-il green card
+la green card
 
 badge
 il tesserino; il distintivo
@@ -91641,3 +91641,14 @@ la PMI; la piccole e media impresa
 public contract; public commission; public order; government contract
 la commessa pubblica
 
+spark
+la scintilla
+
+to spark
+innescare; scatenare; accendere; suscitare
+
+family residence permit; residence permit for family reasons
+il permesso di soggiorno per motivi familiari
+
+to scuttle
+affondare; scappare velocemente
