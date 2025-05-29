@@ -91764,3 +91764,6 @@ il centrotavola; il pezzo centrale
 trade agenda
 l'agenda commerciale
 
+reversal
+l'inversione; il rovesciamento
+
