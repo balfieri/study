@@ -5834,7 +5834,7 @@ to neglect; to overlook
 trascurare
 
 to leave out; to omit; to neglect
-tralasciare
+tralasciare; omettere
 
 to register (vehicle, college)
 immatricolare
@@ -91656,3 +91656,14 @@ affondare; scappare velocemente
 claimant; person making a claim
 il richiedente; il ricorrente; il pretendente
 
+United Arab Emirates
+gli Emirati arabi uniti
+
+human decency
+la decenza umana
+
+to go missed on the approach
+mancare l'avvicinamento; non riuscire nell'avvicinamento
+
+to leave outside
+lasciare fuori
