@@ -19282,7 +19282,7 @@ ti lascio solo; ti lascio in pace; ti lascio da solo
 I'll let you go
 ti lascio andare
 
-we're out of time
+we're out of time; time's up; time expired
 non c'è più tempo; è scaduto il tempo; tempo scaduto; non abbiamo tempo
 
 I better let you go
@@ -26446,7 +26446,7 @@ il referendum
 whatever; whicever
 qualsivoglia
 
-warehouse; storeroom
+warehouse; storeroom; stock; inventory
 il magazzino
 
 empirical
@@ -49777,7 +49777,7 @@ accoccolarsi a (qualcuno); acciambellarsi a (qualcuno)
 to infer; to deduce; to evict
 evincere
 
-to infer
+to infer; to inflict; to strike; to deal (blow)
 inferire
 
 slimming; weight-loss-inducing
@@ -91667,3 +91667,76 @@ mancare l'avvicinamento; non riuscire nell'avvicinamento
 
 to leave outside
 lasciare fuori
+
+multi-story; multi-level
+multipiano
+
+social fabric
+il tessuto sociale
+
+behind the decrease of; behind the decline of
+dietro al calo di
+
+behind the increase of
+dietro l'aumento di
+
+to have the same rights
+avere gli stessi diritti
+
+barring; obstruction; blocking
+il barrimento
+
+anything but easy; far from easy; not at all easy
+tutt'altro che facile
+
+record revenues; record income; record earnings
+i ricavi record
+
+chip (semiconductor)
+il chip
+
+devaluation; loss of value; depreciation
+la svalutazione
+
+record results
+i risultati da record
+
+growth trajectory; trajectory of growth; path of growth
+la traiettoria di crescita
+
+to inflict a hard blow; to strike a hard blow; to deal a hard blow
+inferire un colpo duro
+
+inflicted; dealt
+inferto
+
+to budget; to enter into the budget
+mettere a bilancio
+
+second-rate; second-class
+di seconda categoria
+
+to feel the backlash; to feel the impact; to feel the repercussion
+sentire il contraccolpo
+
+conference call
+la conference call
+
+leadership position; position of leadership
+la posizione di leadership
+
+at a global level; globally; on a global scale
+a livello globale
+
+data center division
+la divisione data center
+
+during the year; throughout the year; over the year; in the course of the year
+nel corso dell'anno
+
+to advance; to enter; to penetrate
+intoltrarsi; inoltrarsi in
+
+juniper thicket; briar-patch; a difficult or intricate situation; a mess; a complicated situation
+il ginepraio
+
