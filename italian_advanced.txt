@@ -91652,3 +91652,7 @@ il permesso di soggiorno per motivi familiari
 
 to scuttle
 affondare; scappare velocemente
+
+claimant; person making a claim
+il richiedente; il ricorrente; il pretendente
+
