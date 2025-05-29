@@ -17327,7 +17327,7 @@ to doodle; to scribble
 scarabocchiare
 
 of each other; of one another
-l'uno all'altro
+l'uno all'altro; l'uno dell'altro
 
 slap; smack
 lo schiaffo; il ceffone
@@ -91742,4 +91742,7 @@ il ginepraio
 
 to punish with sense; to punish sensibly
 punire di senso
+
+respectful of one another
+rispettosi l'uno dell'altro; rispettosi gli uni degli altri
 
