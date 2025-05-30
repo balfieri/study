@@ -91886,3 +91886,9 @@ l'opinionista; l'esperto
 
 preferred inflation gauge
 l'indice preferito per misurare l'inflazione
+
+ghost tax; phantom tax
+la tassa fantasma
+
+to compare (formal, technical)
+raffrontare
