@@ -89740,7 +89740,7 @@ chimney pot; chimneypot; chimney top
 il comignolo
 
 to uphold
-difendere; sostenere; far rispettare
+difendere; sostenere; far rispettare; appoggiare; confermare
 
 to hold in high regard; to respect greatly
 tenere in grande considerazione; stimare molto
@@ -91910,4 +91910,13 @@ il market mover; il protagonista del mercato
 
 to get out of (bad situation)
 uscire da
+
+to cause nervousness; to make anxious; to make someone feel nervous; to send jitters
+far venire i nervi; mettere agitazione; far agitare
+
+to fizzle; to fizzle out; to sputter
+andare in fumo; finire in niente
+
+the reason why it matters is that
+la ragione per cui è importante è che; il motivo per cui è importante è che
 
