@@ -37511,10 +37511,10 @@ to submit a report
 presentare una relazione
 
 Mongolian stir-fry
-il wok mongolo; lo wok mongolo
+il wok mongolo
 
 stir-fry
-il wok; lo wok
+il wok
 
 Mongolian
 mongolo
@@ -91934,4 +91934,25 @@ sprezzarsi
 
 sultry
 afoso; ardente; soffocante; caldo; sensuale
+
+to live on the edge
+vivere al limite
+
+to live on the edge financially
+vivere al limite finanziariamente
+
+to live beyond one's means
+vivere al di sopra dei propri mezzi
+
+beige
+beige
+
+Texan
+texano
+
+group project
+il progetto di gruppo
+
+first of all, I have to say that
+prima di tutto, devo dire che
 
