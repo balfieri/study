@@ -91970,3 +91970,10 @@ l'animale investito; l'animale morto sulla strada
 
 to avoid becoming roadkill
 evitare di diventare animale investito
+
+divided; subdivided; split; broken down; separated
+suddiviso
+
+to subdivide; to split up; to break down
+suddividere; ripartire; frazionare
+
