@@ -9038,7 +9038,7 @@ how are things going?
 come vanno le cose?
 
 what can you tell me?
-cosa mi racconti?; che mi racconti?
+cosa mi puoi dire?; cosa mi racconti?; che mi racconti?
 
 I would like to point out; I would like to emphasize
 vorrei sottolineare
@@ -73422,7 +73422,7 @@ I wish I knew
 vorrei sapere
 
 tell me something I don't know
-dimmi qualcosa che non so
+dimmi qualcosa che non so; raccontami qualcosa che non so
 
 to talk over one other
 parlare uno sopra l'altro
