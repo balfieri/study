@@ -1192,7 +1192,7 @@ mantenere il punteggio; tenere il punteggio
 to be masachistic
 essere masachisti
 
-to evaluate; to appraise; to grade; to rate; to assess
+to evaluate; to appraise; to grade; to rate; to assess; to weigh
 valutare
 
 blackmail
@@ -6367,7 +6367,7 @@ le superfici
 suitable; fit; apt; eligible
 idoneo
 
-rooted; deep-seated; ingrained
+rooted; deep-seated; ingrained; entrenched
 radicato
 
 to bridge; to fill (to the maximum); to heap; to smother
@@ -19411,7 +19411,7 @@ la fantasia
 fruits
 i frutti
 
-index; index finger; forefinger
+index; index finger; forefinger; gauge
 l'indice
 
 heard; heartfelt; sincere
@@ -32134,7 +32134,7 @@ il contendente; la contendente
 to contend (compete)
 contendere
 
-to contend that; to maintain that
+to contend that; to maintain that; to argue that
 sostenere che
 
 immediate gratification
@@ -51208,7 +51208,7 @@ la bufala
 collective thinking
 il pensiero collettivo
 
-group think
+groupthink
 il pensiero di gruppo
 
 is everything ok?
@@ -53935,7 +53935,7 @@ transfrontaliere
 small table
 il tavolinetto
 
-foresighted; far-sighted
+foresighted; far-sighted; forward-thinking
 lungimirante
 
 far-sighted; provident
@@ -57743,7 +57743,7 @@ la burocratizzazione
 caucus
 il caucus
 
-rooting
+rooting; entrenchment
 il radicamento
 
 over my shoulder
@@ -91785,3 +91785,104 @@ il tycoon; il magnate; il barone; il pezzo grosso; il petroliere
 to reverse; to back up
 fare marcia indietro
 
+resolutive; resolving
+risoltivo
+
+paragliding
+il parapendio
+
+dandruff
+la forfora
+
+to trust in; to confide in
+confidare in
+
+draught-tolerant grass
+l'erba resistente alla siccità
+
+to mow; to mow over (people)
+falciare
+
+yoga mat
+il tappetino yoga
+
+cholera
+il colera
+
+to walk backward; to walk backwards
+camminare all'indietro
+
+to weigh all the options
+valutare tutte le opzioni
+
+crown jewel
+il gioiello della corona
+
+forward-compatible
+compatibile in avanti
+
+extradited
+estradato
+
+to lodge a complaint
+presentare un reclamo
+
+hypermasculine
+ipermascolino
+
+horde
+l'orda
+
+to get consent from a woman
+ottenere il consenso da una donna
+
+to turbocharge
+sovralimentare
+
+turbocharger
+il turbocompressore
+
+to red-pill (someone)
+redpillare (qualcuno)
+
+red-pilled
+redpillato
+
+to take the red pill
+prendere la pillola rossa
+
+pithy response
+la risposta concisa
+
+dissenting opinion
+l'opinione dissenziente
+
+to dissent
+dissentire
+
+sycophantic
+servile; adulatorio
+
+sycophancy
+il servilismo; l'adulazione
+
+emotional pain
+il dolore emotivo
+
+emotional exhaustion
+l'esaurimento emotivo
+
+this brings us back to (some subject)
+questo ci riporta a (qualche argomento)
+
+collateral damage
+il danno collaterale
+
+erudite
+erudito
+
+pundit
+l'opinionista; l'esperto
+
+preferred inflation gauge
+l'indice preferito per misurare l'inflazione
