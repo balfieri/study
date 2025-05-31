@@ -72440,9 +72440,6 @@ il frazionamento azionario
 NNidia is now worth more than Apple
 NVidia ora vale più di Apple
 
-to water
-innaffiare
-
 keep your day job
 tieniti il tuo lavoro diurno
 
@@ -73394,8 +73391,11 @@ padano
 most certainly from
 quasi sicuramente da
 
+to water
+innaffiare; annaffiare
+
 to water the plants
-innaffiare le piante
+innaffiare le piante; annaffiare le piante
 
 surrounded by
 circondato da
@@ -81521,9 +81521,6 @@ il tombino
 
 trellis
 il traliccio
-
-to water (plants)
-annaffiare
 
 garden hose
 la pompa da giardino
@@ -92138,4 +92135,16 @@ il seggiolino all'aperto
 
 how exciting!; what emotion!; what a feeling!
 che emozione!
+
+to put on a suit; to wear a suit
+mettere l'abito
+
+to do your hair; to have your hair set; to get your hair styled
+farsi la piega
+
+to throw rice (wedding)
+lanciare il riso
+
+petal
+il petalo
 
