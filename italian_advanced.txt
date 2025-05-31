@@ -92261,3 +92261,7 @@ di qualità militare; di grado militare
 
 stockpile; reserve; supply
 la scorta; la riserva
+
+glass window
+la finestra a vetrata
+
