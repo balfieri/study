@@ -19777,8 +19777,8 @@ guarire
 to attribute
 attribuire
 
-to pledge; to commit
-impegnarsi
+to pledge to; to commit to
+impegnarsi a
 
 to shave (oneself)
 radersi
@@ -92261,4 +92261,3 @@ di qualità militare; di grado militare
 
 stockpile; reserve; supply
 la scorta; la riserva
-
