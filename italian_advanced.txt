@@ -37555,7 +37555,7 @@ l'intervista a
 annoying; irritating (less common)
 indisponente
 
-shack
+shack; hut; shed
 la baracca
 
 thrown
@@ -92135,4 +92135,7 @@ voltarsi contro (qualcuno); rivoltarsi contro (qualcuno)
 
 entrenched; intrenched
 trincerato; radicato
+
+outdoor seat; outdoor chair; baby's outdoor chair
+il seggiolino all'aperto
 
