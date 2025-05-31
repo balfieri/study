@@ -49414,7 +49414,7 @@ scoppiare una polemica; scatenare una controversia; causare un tumulto
 to overly stress; to over-stress
 sottolineare eccessivamente
 
-rose
+rose; roster
 la rosa
 
 rose garden
@@ -92214,3 +92214,29 @@ i Dolomiti
 Adriatic coast
 la costa adriatica
 
+roster
+l'elenco; la lista; la rosa; il turno; la squadra
+
+team roster
+l'elenco della squadra; la rosa della squadra; la lista della squadra
+
+preternatural
+preternaturale
+
+preternatural ability
+l'abilità preternaturale; la capacità preternaturale
+
+manipulative
+manipolatorio
+
+recent graduate
+il neolaureato; la neolaureata
+
+to cost a lot; to be very expensive
+costare molto caro
+
+psychodrama
+il psicodramma
+
+to owe everything to
+dovere tutto a
