@@ -1672,7 +1672,7 @@ i pantaloni
 complete
 completo; compiuto
 
-dress
+dress; suit
 il vestito; l'abito
 
 sweater
