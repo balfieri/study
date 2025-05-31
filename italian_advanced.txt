@@ -19058,7 +19058,7 @@ fabric; cloth; tissue
 il tessuto
 
 mission
-la missione
+la missione; la mission
 
 before (a court)
 dananzi
@@ -41848,8 +41848,14 @@ il papiro
 tall, vertical cliff formed by erosion; sea-cliff
 la falesia
 
-suggestive; evocative; picturesque
-suggestivo; evocativo; pittoresco
+suggestive
+suggestivo
+
+evocative; 
+evocativo
+
+picturesque
+pittoresco
 
 salt pan
 la salina
@@ -81099,9 +81105,6 @@ bucolico
 harmonious
 armonioso
 
-picturesque
-pittoresco
-
 desolate
 desolato
 
@@ -92025,3 +92028,107 @@ la navicella
 honey bee
 l'ape da miele
 
+to have the hiccups
+avere il singhiozzo
+
+major hiccup
+il grosso intoppo; l'imprevisto importante
+
+without a hiccup
+senza intoppi
+
+stock trading
+la compravendita di azioni; il trading azionario
+
+to trade places
+scambiarsi di posto
+
+to exchange vows
+scambiarsi le promesse; scambiarsi i voti
+
+western front
+la fronte occidentale
+
+eastern front
+la fronte orientale
+
+office work
+l'impiegatizio
+
+lackey
+il lacchi; il servitore
+
+sex tape
+il video a luci rosse; il nastro sessuale
+
+pee tape
+il video di urinazione
+
+exasperation
+l'esasperazione
+
+roadblock
+il posto di blocco; l'ostacolo
+
+rare-earth metal
+il metallo delle terre rare
+
+to disintegrate
+disintegrare
+
+to fuel recriminations
+alimentare recriminazioni
+
+to require vetting
+richiedere un controllo; necessitare di verifica
+
+to vet
+esaminare; controllare; verificare
+
+cuts in spending; spending cuts
+i tagli alla spesa
+
+luxury car
+la fuoriserie
+
+black and blue (Inter Milan supporters)
+i nerazzurri
+
+to abdicate
+abdicare
+
+impossible to please
+incontentabile
+
+black eye
+l'occhio nero
+
+Circumvesuvian Railway
+la circumvesuviana
+
+relating to Mussolini
+mussoliniano
+
+praising; laudatory
+encomiastico
+
+vandalism
+il vandalismo
+
+traditionalistic
+tradizionalistico
+
+to seize on the controversy immediately
+cogliere la polemica al volo
+
+to historicize
+storicizzare
+
+emblematic
+emblematico
+
+you could have handled the situation better
+avresti potuto gestire meglio la situazione
+
+to turn against (someone)
+voltarsi contro (qualcuno); rivoltarsi contro (qualcuno)
