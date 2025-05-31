@@ -92259,3 +92259,6 @@ l'uranio arricchito
 weapons-grade
 di qualità militare; di grado militare
 
+stockpile; reserve; supply
+la scorta; la riserva
+
