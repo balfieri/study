@@ -1507,6 +1507,9 @@ invece di; al posto di
 instead of (clause)
 invece che
 
+instead,
+invece,; piuttosto,
+
 rather; better yet; in fact; to the contrary
 anzi
 
@@ -3424,7 +3427,7 @@ dolce
 tasty; flavorful
 gustoso; saporito
 
-disgusting
+disgusting; icky
 schifoso
 
 raw; uncooked

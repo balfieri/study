@@ -3763,7 +3763,7 @@ l'intesa
 to break it off
 troncare
 
-to intrude
+to intrude; to barge
 irrompere
 
 weird; eccentric
@@ -55872,7 +55872,7 @@ to allure; to tempt
 allettare
 
 distinguished
-contraddistinta
+contraddistinto
 
 gramophone
 il grammofono
@@ -57347,7 +57347,7 @@ l'agitatore; l'agitatrice
 regurgitation
 il rigurgito
 
-nauseated
+nauseated; queasy
 nauseato
 
 nauseous
@@ -60056,7 +60056,7 @@ parlare eloquentemente; parlare in modo eloquente
 unfolded
 disvolto
 
-to set apart; to stand out; to distinguish
+to distinguish; to characterize; to mark out; to set apart; to stand out
 contraddistinguere
 
 camouflaged
@@ -92264,4 +92264,37 @@ la scorta; la riserva
 
 glass window
 la finestra a vetrata
+
+smokescreen
+la cortina fumogena
+
+death toll
+il numero delle vittime
+
+sudden death playoff
+lo spareggio a eliminazione diretta
+
+to barge into the room
+irrompere nella stanza
+
+barbarity
+le barbarie
+
+monthslong quest
+la ricerca durata mesi
+
+yearlong quest
+la ricerca durata un anno
+
+front-loading
+a carica frontale
+
+top-loading
+a carica dall'alto
+
+front-loading washer
+la lavatrice a carica frontale
+
+top-loading washer
+la lavatrice a carica dall'alto
 
