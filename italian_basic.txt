@@ -2461,7 +2461,7 @@ la gola
 nausea
 la nausea
 
-better; best (adverb)
+better
 meglio
 
 worse
@@ -2599,7 +2599,7 @@ lasciare
 to seem; to look like; to seem like
 sembrare
 
-to present; to introduce
+to present; to introduce (person); to submit (report)
 presentare
 
 to explain
@@ -4165,11 +4165,17 @@ liberale
 pleased; delighted
 lieto
 
-better; best (adjective)
+best (adjective)
 migliore
 
-worse; worst (adjective)
+the best
+il migliore
+
+worst (adjective)
 peggiore
+
+the worst
+il peggiore
 
 natural
 naturale
