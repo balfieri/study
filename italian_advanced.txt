@@ -92388,4 +92388,15 @@ uscire dalla responsabilità
 my Italian is not as advanced as I had thought
 il mio italiano non è così avanzato come pensavo; il mio italiano non è avanzato quanto pensassi
 
+trans fats
+i grassi trans
+
+unsaturated fat
+i grassi insaturi
+
+polyunsaturated fat
+i grassi polinsaturi
+
+monounsaturated fat
+i grassi monoinsaturi
 
