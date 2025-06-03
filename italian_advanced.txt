@@ -15100,9 +15100,6 @@ fioco
 phase shift
 lo sfasamento
 
-saturated fats
-i grassi saturi
-
 to expose oneself
 esporsi
 
@@ -92387,6 +92384,15 @@ uscire dalla responsabilità
 
 my Italian is not as advanced as I had thought
 il mio italiano non è così avanzato come pensavo; il mio italiano non è avanzato quanto pensassi
+
+saturated
+saturo
+
+unsaturated
+insaturo
+
+saturated fats
+i grassi saturi
 
 trans fats
 i grassi trans
