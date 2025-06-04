@@ -19145,7 +19145,7 @@ calculus; calculation; computation
 il calcolo
 
 controversy; polemics
-la polemica
+la controversia; la polemica; il dibattito
 
 offer
 l'offerta
@@ -92444,4 +92444,19 @@ segnaletico
 
 instrument approach (aviation)
 l'avvicinamento strumentale
+
+there are quite a few of them
+ce ne sono parecchi
+
+there are several of them
+ce ne sono vari
+
+to do one's own stunts
+fare i propri stunt; fare le proprie acrobazie; fare le proprie scene pericolose
+
+Scientology
+la scientology
+
+to document; to record in detail; to support with evidence
+documentare
 
