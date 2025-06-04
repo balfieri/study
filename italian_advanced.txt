@@ -10762,7 +10762,7 @@ le urne
 collapse; ruin
 il tracollo
 
-blatant; flashy; gaudy; conspicuous
+blatant; flashy; gaudy; conspicuous; glaring
 vistoso
 
 fire hydrant; hydrant
@@ -92420,4 +92420,28 @@ affascinato; incantato; abbagliato
 
 abstruse; enigmatic; difficult to understand; obscure; inexplicable; recondite
 astruso
+
+offended by (something); hurt because of (something)
+offeso per (qualcosa)
+
+physicality; physicalness; physical nature
+la fisicità
+
+glaring error; glaring mistake; spectacular mistake
+l'errore vistoso
+
+to be out of tune; to sing or play out of tune; to clash
+stonare
+
+out of context
+fuori contesto
+
+superintendent; supervisor; curator
+la sovrintendenza
+
+identifying; distinctive; distinguishing
+segnaletico
+
+instrument approach (aviation)
+l'avvicinamento strumentale
 
