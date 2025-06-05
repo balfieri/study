@@ -38038,7 +38038,7 @@ nativo americano
 toll
 il pedaggio
 
-boarding
+boarding; collision; allision
 l'abbordaggio
 
 processing
@@ -92466,3 +92466,17 @@ sbagliatissimo
 quite right; exactly right; absolutely right; completely right
 giustissimo
 
+on what grounds?
+in base a cosa?; su quali basi?; per quale motivo?
+
+to incriminate oneself; to self-incriminate
+autoincriminarsi
+
+trade imbalance
+lo squilibrio commerciale; il disavanzo commerciale
+
+to get the hang of it; to become skilled at it
+prenderci la mano
+
+to be in good hands
+essere in buone mani
