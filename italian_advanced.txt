@@ -4900,10 +4900,10 @@ a mie spese
 voucher; coupon; credit
 il buono
 
-stovetop
-il piano di cottura; il piano cottura
+stovetop; stove top; stove
+il piano cottura; il piano di cottura
 
-stove; range
+burner (stovetop)
 il fornello; i fornelli
 
 hot plate
