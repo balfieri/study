@@ -928,7 +928,7 @@ perseverare
 perseverance
 la perseveranza
 
-contestant
+contestant; contender
 il concorrente
 
 royalty (artist); royalties; authors' rights
@@ -80275,7 +80275,7 @@ to live day by day; to live day to day
 vivere alla giornata
 
 to plan to; to have plans to
-avere in programma di
+avere in programma di; avere intenzione di
 
 to scale a recipe
 scalare una ricetta
@@ -92478,5 +92478,42 @@ lo squilibrio commerciale; il disavanzo commerciale
 to get the hang of it; to become skilled at it
 prenderci la mano
 
-to be in good hands
-essere in buone mani
+mock check ride
+il volo di controllo simulato; la prova di controllo simulata
+
+rate of descent
+il tasso di discesa; la velocità di discesa
+
+to struggle trying to (do something)
+fare fatica a (fare qualcosa); sforzarsi di (fare qualcosa)
+
+side effects
+gli effetti collaterali
+
+for hire; available for hire
+a noleggio; disponibile per essere assunto
+
+to harbor (somebody)
+dare rifugio a (qualcuno)
+
+containable; stoppable
+arginabile
+
+constipated; stingy (informal, context-dependent)
+stitico
+
+smartphone
+lo smartphone
+
+the information that has emerged
+le informazioni emerse
+
+emerged
+emerso
+
+a new contender has emerged
+è emerso un nuovo concorrente
+
+cognitive abilities
+le abilitè cognitive
+
