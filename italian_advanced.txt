@@ -2083,7 +2083,7 @@ controcorrente
 distressing
 penoso
 
-circuit
+circuit; tour
 il circuito
 
 to spit out
