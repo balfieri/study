@@ -92583,3 +92583,6 @@ il lato di dritta; il lato di tribordo
 port side
 il lato di sinistra; il lato di babordo
 
+drying warehouse; drying room; curing barn
+l'essiccatoio
+
