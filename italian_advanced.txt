@@ -3142,7 +3142,7 @@ completamente; interamente; approfonditamente; assolutamente; del tutto
 entirely
 interamente
 
-to occur; to take place; to happen; to come to be (formal, technical, preciese, official, confirmed, realized, observed)
+to occur; to take place; to happen; to come to be (formal, technical, precise, official, confirmed, realized, observed)
 verificarsi
 
 magic
@@ -7415,7 +7415,7 @@ sample size
 la dimensione del campione
 
 sample; champion
-il campione
+il campione; la compionessa
 
 alien
 l'alieno
@@ -13891,7 +13891,7 @@ poco più in là
 dismay; aghast; dismayed
 sgomento
 
-cloth; strip
+cloth; strip; towel (larger dimensions)
 il telo
 
 asphalt; tarmac
@@ -25654,7 +25654,7 @@ il gratitudine
 release
 il rilascio
 
-cloth; patch; material
+cloth; patch; material (smaller dimensions)
 il panno
 
 flame
@@ -92591,4 +92591,25 @@ azzardarsi a; avventurarsi a; osare a
 
 generalist
 il generalista
+
+to go on a trip; to go on an excursion
+andare in gita
+
+avvicinarsi furtivamente a qualcuno
+to sidle up to
+
+particle accelerator
+l'acceleratore di particelle
+
+to decree; to declare; to proclaim
+decretare
+
+lightning war; blitzkrieg
+la guerra lampa
+
+the hunt is on for (somebody); they are hunting for (somebody)
+è caccia a (qualcuno)
+
+doll; big doll; chubby child
+il bambolotto
 
