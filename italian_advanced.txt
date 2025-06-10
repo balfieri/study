@@ -42694,8 +42694,8 @@ l'ipocondriaco
 hypochondriacal
 ipocondriaco
 
-to have a long way to go
-avere ancora molta strada da fare
+there is still a long way to go; there is still much to be done
+c'è ancora molta strada da fare
 
 lease
 il contratto d'affitto
@@ -60158,7 +60158,7 @@ la dispensa alimentare
 turkey gravy
 il sugo di tacchino; la salsa di tacchino
 
-to fix; to arrange; to settle; to straighten out
+to fix; to arrange; to settle; to straighten out; to tidy up
 sistemare
 
 to realign
@@ -67834,9 +67834,6 @@ nel fondo della stanza
 
 to style one's hair
 acconciarsi i capelli
-
-there's a long way to go
-c'è ancora molta strada da fare
 
 running joke; recurring joke
 lo scherzo ricorrente
@@ -92804,4 +92801,13 @@ la sciarada; la farsa; il gioco dei mimi
 
 embodied learning
 l'apprendimento incarnato
+
+household chore
+la faccenda domestica
+
+to tidy up clothes; to arrange clothes
+sistemare i vestiti
+
+to crouch down; to squat; to hunker down
+accovacciarsi
 
