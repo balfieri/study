@@ -92726,3 +92726,19 @@ il setup
 
 to launder money
 riciclare denaro
+
+west of me
+a ovest di me; a ponente di me; a occidente di me
+
+east of me
+a est di me; ad est di me
+
+north of me
+a nord di me
+
+south of me
+a sud di me
+
+it's just another day
+è solo un altro giorno; è semplicemente un altro giorno
+
