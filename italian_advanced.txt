@@ -11689,9 +11689,6 @@ provetto
 praise; laud
 la lode
 
-to stumble; to trip; to falter
-inciampare
-
 to tickle the funny bone
 solleticare l'osso divertente
 
@@ -48157,7 +48154,7 @@ il ghetto
 penal code
 il codice penale
 
-to stumble; to trip
+to stumble; to trip; to falter
 incespicare; inciampare
 
 to provide for; to assist financially
@@ -52551,9 +52548,6 @@ la piastra
 
 waffle iron
 la piastra per waffle
-
-plaque
-la placca
 
 temperature probe
 la sonda di temperatura
@@ -60227,7 +60221,7 @@ she's very entertaining
 premeditated
 premeditato
 
-belly button
+belly button; bellybutton
 l'ombelico
 
 inny (belly button)
@@ -63685,9 +63679,6 @@ non ho mai visto nulla di simile prima d'ora
 
 we believe very strongly that
 crediamo fermamente che
-
-to facilitate
-facilitare
 
 people are working on this problem
 le persone stanno lavorando su questo problema
@@ -92648,3 +92639,67 @@ andare dall'altra parte
 
 storefront
 la vetrina; la facciata del negozio
+
+to dock; to moor
+attraccare
+
+to invoice; to bill
+fatturare
+
+eligible voter
+l'avento diritto al voto
+
+treasurer
+il tesoriere; la tesoriera
+
+poll watcher; vote counter
+lo scutatore; la scrutatrice
+
+triangulation
+la triangolazione
+
+barbecue
+il barbeque
+
+bow; curtsy
+l'inchino
+
+don't say anything at all; say nothing at all
+non dire per niente
+
+farsical
+farsesco; ridicolo
+
+get dressed!
+vestiti!
+
+trump card; briscola
+la briscola
+
+game of briscola; trump card game
+il gioco di briscola
+
+full of; crammed with
+zeppo di
+
+duckling
+l'anatroccolo
+
+to hawk
+vendere con insistenza; promuovere aggressivamente
+
+on offer
+in offerta
+
+and just like that
+e proprio così; e all'improvviso
+
+lunar module
+il modulo lunare
+
+plaque (sign)
+la targa; la placca commemorativa
+
+plaque (on teeth)
+la placca dentale
+
