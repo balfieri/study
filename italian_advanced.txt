@@ -92728,17 +92728,29 @@ to launder money
 riciclare denaro
 
 west of me
-a ovest di me; a ponente di me; a occidente di me
+a ovest da dove vivo; a ponente da dove vivo; a occidente da dove vivo
 
 east of me
-a est di me; ad est di me
+a est da dove vivo; ad est da dove vivo
 
 north of me
-a nord di me
+a nord da dove vivo
 
 south of me
-a sud di me
+a sud da dove vivo
 
 it's just another day
 è solo un altro giorno; è semplicemente un altro giorno
+
+I'll let him know; I'll point it out to him
+glielo faccio presente
+
+to make it known; to point it out; to bring it to attention
+farlo presente
+
+to pay a visit to (someone); to visit (someone, more formal)
+fare visita a (qualcuno)
+
+hush puppies; small balls of fried cornmeal dough
+i hush puppies; le piccole palline di impasto di farina di mais fritte
 

@@ -2570,13 +2570,10 @@ to learn (new skill, knowlege)
 imparare
 
 to visit (usually a place); to sightsee
-visitare
+visitare; andare a visitare
 
-to visit (someone, informal)
+to visit (person, informal)
 andare a trovare (qualcuno)
-
-to pay a visit to (someone); to visit (someone, more formal)
-fare visita a (qualcuno)
 
 to remember (something)
 ricordare (qualcosa)
