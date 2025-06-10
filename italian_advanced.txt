@@ -7642,7 +7642,7 @@ quanto sei pazzo?
 undesirable
 indesiderabile; indesiderato
 
-to dry oneself; to dry off
+to dry oneself; to dry off; to dry up
 asciugarsi
 
 devoid; void; lacking
@@ -30583,7 +30583,7 @@ la fidelizzazione
 educational; informative
 divulgativo
 
-spy
+spy; warning light
 la spia
 
 it's the last thing I wanted
@@ -32041,7 +32041,7 @@ come potevo saperlo?
 windscreen
 il paravento
 
-to fumble
+to fumble; to fiddle
 armeggiare
 
 putt
@@ -92759,4 +92759,46 @@ la pressione del collettore; la pressione multipla
 
 you are fun to talk to
 è divertente parlare con te; sei divertente da ascoltare
+
+PhD defense; thesis defense
+la difesa della tesi; la discussione della tesi; la difesa del dottorato
+
+to come on (lights)
+accendersi
+
+to fiddle with
+armeggiare con; trafficare con
+
+to start (intransitive, car)
+avviarsi
+
+gimbal lock
+blocco del gimbal; blocco cardanico
+
+bronze die; bronze extrusion die
+la trafila in bronzo
+
+teflon
+il teflon
+
+wind at your back; favorable wind
+il vento in poppa
+
+reattached; reconnected
+riattaccato
+
+psychosomatic
+psicosomatico
+
+purifier; water filter
+il depuratore
+
+steam cleaner
+il pulitore a vapore
+
+adrenaline-filled; adrenaline-pumping
+adrenalinico
+
+towering
+torreggiante
 
