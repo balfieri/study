@@ -73352,9 +73352,6 @@ il tuffati
 to have approval to (do something)
 avere l'approvazione per (fare qualcosa)
 
-reattached
-riattaccato
-
 to reattach
 riattaccare
 
@@ -92802,3 +92799,5 @@ adrenalinico
 towering
 torreggiante
 
+charade
+la sciarada; la farsa; il gioco dei mimi
