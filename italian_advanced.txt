@@ -4945,7 +4945,7 @@ l'osmosi
 by osmosis
 per osmosi
 
-unlikely
+unlikely; improbable
 improbabile; inverosimile
 
 verse; line (of a song)
@@ -11648,7 +11648,7 @@ two thumbs up
 due pollici in alto
 
 computer mouse
-il mouse per computer
+il mouse per computer; il mouse
 
 shipment
 la spedizione
@@ -84019,7 +84019,7 @@ product line
 la linea di prodotti
 
 to cannibalize one's own product line
-cannibalizzare la propria linea di prodotti
+cannibalizzare la propria linea di prodotti; cannibalizzare i propri stessi prodotti
 
 cookbook; recipe book
 il ricettario
@@ -92702,4 +92702,19 @@ la targa; la placca commemorativa
 
 plaque (on teeth)
 la placca dentale
+
+cursor
+il cursore
+
+menu bar
+la barra dei menu
+
+reason for criticism; ground for criticism
+il motivo di critica
+
+peremptorily; authoritatively; conclusively
+perentoriamente
+
+Jurassic
+giurassico
 
