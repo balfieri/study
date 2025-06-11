@@ -31855,7 +31855,7 @@ andare in moto
 to ride a scooter
 andare in motorino; andare in scooter
 
-to ride a Vespa
+to ride a Vespa; to ride the Vespa
 andare in Vespa
 
 tight turn
@@ -92810,4 +92810,16 @@ sistemare i vestiti
 
 to crouch down; to squat; to hunker down
 accovacciarsi
+
+subterfuge
+il sotterfugio; lo stratagemma; l'inganno; l'espediente
+
+man-baby
+il bambinone; l'uomo-bambino
+
+reluctance; unwillingness
+la malavoglia
+
+to tread carefully; to be cautious; to proceed with caution
+andare con i piedi di piombo
 
