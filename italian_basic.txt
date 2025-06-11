@@ -1633,7 +1633,7 @@ debole
 stupid
 stupido
 
-old (person)
+old (person); elderly
 anziano
 
 handsome; beautiful

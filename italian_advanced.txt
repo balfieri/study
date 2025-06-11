@@ -50989,7 +50989,7 @@ il vitto
 senior citizen
 il cittadino anziano
 
-senior (person 65+ years old)
+senior (person 65+ years old); elder
 l'anziano; il pensionato; il senior (formale)
 
 to rape
@@ -92870,4 +92870,7 @@ andare piano con (qualcosa); non esagerare con (qualcosa)
 
 speedo
 il costume da bagno attillato
+
+immature; unripe
+immaturo
 
