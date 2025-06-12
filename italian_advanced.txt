@@ -49072,7 +49072,7 @@ la pescheria
 sadness
 la tristezza
 
-to stupify; to be amazed
+to stupify; to be amazed; to impress
 stupire
 
 starting from
@@ -56555,7 +56555,7 @@ sbalordito; stupito
 astonishing; amazing; stunning
 sbalordente; incredibile; stupefacente
 
-to astonish; to amaze; to astound
+to astonish; to amaze; to astound; to impress
 sbalordire; stupire
 
 thriller
@@ -92915,4 +92915,16 @@ accamparsi
 
 to pick up and drop off; to collect and deliver
 andare a prendere e accompagnare; portare e riportare
+
+to objectify
+oggettivare; oggetttificare
+
+to objectify women
+oggettivare le donne; oggettificare le donne
+
+Wild West
+il salvaggio West
+
+alcoholic; alcohol
+alcolico
 
