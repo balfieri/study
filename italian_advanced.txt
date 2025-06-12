@@ -92928,3 +92928,6 @@ il salvaggio West
 alcoholic; alcohol
 alcolico
 
+non-alcoholic
+analcolico; senza alcol
+
