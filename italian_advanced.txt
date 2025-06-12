@@ -92954,3 +92954,10 @@ il cambio della guardia
 
 2-seater
 la biposto
+
+equalizer
+l'equalizzatore
+
+peer review
+la peer review
+
