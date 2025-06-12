@@ -17804,7 +17804,7 @@ rank; class; social class
 il rango
 
 reconciliation
-il conguagliamento
+il conguagliamento; la riconciliazione
 
 Manzonian
 manzoniano
@@ -37093,7 +37093,7 @@ opporsi
 with our heads held high
 a testa alta
 
-to precipitate; to fall
+to precipitate; to fall; to crash (aircraft)
 precipitare
 
 to despise
@@ -92891,3 +92891,28 @@ le gradinate; le tribune
 
 to get a haircut
 fare il taglio di capelli
+
+to revel in (something); to take great pleasure in (something); to delight in (something); to enjoy (something) immensely
+godere di (qualcosa); bearsi di (qualcosa); divertirsi con (qualcosa)
+
+visceral reaction; gut reaction; instinctive reaction
+la reazione viscerale
+
+instinctively; in a visceral way
+visceralmente
+
+vindictiveness; desire for revenge; vengefulness
+la vendicatività; lo spirito di vendetta
+
+polished; glossy; slick
+patinato
+
+to take over the army; to seize control of the army
+prendersi l'esercito
+
+to camp out; to set up camp
+accamparsi
+
+to pick up and drop off; to collect and deliver
+andare a prendere e accompagnare; portare e riportare
+
