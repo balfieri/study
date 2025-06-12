@@ -92931,3 +92931,6 @@ alcolico
 non-alcoholic
 analcolico; senza alcol
 
+each; per person; apiece; a head
+a testa
+
