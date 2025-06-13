@@ -4981,7 +4981,7 @@ la bocciatura
 to fail; to flunk; to reject
 bocciare
 
-clash; collision; conflict; confrontation; violent encounter (sudden, intense)
+conflict; clash; confrontation; collision; violent encounter (sudden, intense)
 lo scontro
 
 to bother; to disturb; to trouble
@@ -44515,8 +44515,8 @@ cingiare
 purchase receipt
 la ricevuta d'acquisto
 
-lack of conformity; non-compliance
-la mancanza di conformità; l'inadempienza
+lack of conformity; non-compliance; default; breach
+l'inadempienza; la mancanza di conformità
 
 under warranty
 in garanzia
@@ -60157,9 +60157,6 @@ la dispensa alimentare
 
 turkey gravy
 il sugo di tacchino; la salsa di tacchino
-
-to fix; to arrange; to settle; to straighten out; to tidy up
-sistemare
 
 to realign
 riallineare
@@ -92960,4 +92957,34 @@ l'equalizzatore
 
 peer review
 la peer review
+
+good luck in getting it fixed
+buona fortuna per sistemarlo; buona fortuna a farlo aggiustare
+
+at the beach
+in spiaggia; alla spiaggia
+
+poker face; impassive expression
+la faccia da poker; l'espressione impassibile
+
+to do a cartwheel
+fare una ruota
+
+to kneecap
+sparare alle ginocchia; gambizzare
+
+mercurial
+imprevedibile; lunatico
+
+to sidle up to
+avvicinarsi furtivamente a
+
+turbo
+il turbo
+
+administration by commissioners; receivership
+il commissariamento
+
+chain of command
+la catena di comando
 

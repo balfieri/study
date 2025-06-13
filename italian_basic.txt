@@ -4516,8 +4516,11 @@ ballare
 to draw; to design (drawing)
 disegnare
 
-to fix (something not completely broken); to make minor adjustments; to make minor tweaks; to adjust
+to fix (object not completely broken); to make minor adjustments; to make minor tweaks; to adjust
 aggiustare
+
+to fix (more general); to arrange; to settle; to straighten out; to tidy up
+sistemare
 
 to organize
 organizare
