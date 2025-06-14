@@ -14089,7 +14089,7 @@ inanellare
 to bewilder; to baffle; to puzzle
 sconcertare
 
-oddness; freakishness
+quirk; oddity; oddness; freakishness
 la stramberia
 
 to whine; to moan
@@ -44158,7 +44158,7 @@ il tosone
 to suffer; to endure
 patire
 
-bustle; hustle and bustle; commotion
+bustle; hustle and bustle; commotion; turmoil
 il trambusto
 
 rickety old boat
@@ -93015,3 +93015,26 @@ peggiorare
 car registration
 la registrazione dell'auto; la tassa di circolazione dell'auto
 
+stampede
+la fuga precipitosa; i fuggi fuggi
+
+chignon; hair bun
+il tuppo
+
+to condition; to influence
+condizionare
+
+to explode; to detonate; to go off
+deflagrare
+
+jerked; tugged
+strattonato
+
+pee pee
+la pipì
+
+to hone (skills)
+affinare; perfezionare
+
+to home in on; to target; to zero in on
+concentrarsi su; focalizzarsi su
