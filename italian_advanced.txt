@@ -62205,7 +62205,7 @@ in-person
 presenziale
 
 catering
-la ristorazione
+la ristorazione; il catering
 
 taster
 il degustatore; la degustatrice
