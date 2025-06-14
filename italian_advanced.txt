@@ -34369,8 +34369,8 @@ frigido
 slang
 il gergo; il linguaggio gergale; lo slang
 
-bar; cafeteria
-bar; caffetteria
+bar; coffee shop; cafeteria
+il bar; la caffetteria
 
 carafe
 la caraffa
@@ -43995,9 +43995,6 @@ l'allucinogeno
 
 to disguise; to camouflage
 camuffare
-
-disguised; camouflaged
-camuffati
 
 behind a chain
 dietro a catena
@@ -93038,3 +93035,37 @@ affinare; perfezionare
 
 to home in on; to target; to zero in on
 concentrarsi su; focalizzarsi su
+
+English Channel
+la Manica
+
+holographic
+olografico
+
+expenditure
+il dispendio
+
+disguised; camouflaged; veiled; thinly disguised
+camuffato
+
+on equal terms; equally; tied
+ex aequo
+
+dialoguing; open to dialogue
+dialogante
+
+marginalization; exclusion
+la marginalizzazione; l'emarginazione
+
+commodification
+la mercificazione
+
+to protest; to object
+protestare; esprimere dissenso
+
+roar; rumble; din; boom; noise
+il boato
+
+hoisted; lifted
+issato
+
