@@ -93081,3 +93081,6 @@ il cavillo
 cockroach
 la blatta
 
+catastrophic
+catastrofale
+
