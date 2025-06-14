@@ -36413,7 +36413,7 @@ wave of protests
 l'ondata di proteste
 
 protestor; demonstrator
-il manifestante
+il manifestante; la manifestante
 
 to be burdened
 essere gravati; essere oppressi
@@ -93061,7 +93061,7 @@ commodification
 la mercificazione
 
 to protest; to object
-protestare; esprimere dissenso
+protestare; esprimere dissenso; manifestare
 
 roar; rumble; din; boom; noise
 il boato
@@ -93083,4 +93083,22 @@ la blatta
 
 catastrophic
 catastrofale
+
+demonstration against
+la manifestazione contro
+
+to demonstrate against
+manifestare contro
+
+to demonstrate (concept)
+dimostrare (concetto)
+
+to dress in drag
+vestirsi in drag; vestirsi da drag queen
+
+drag queen
+la drag queen
+
+drag show
+lo spettacolo drag; lo spettacolo di drag queen
 
