@@ -93078,3 +93078,6 @@ scarcerato
 quibble; nitpick; technicality
 il cavillo
 
+cockroach
+la blatta
+
