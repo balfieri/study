@@ -7783,7 +7783,7 @@ brandizzato
 selectable
 selezionabile
 
-focused
+focused; centered
 incentrato
 
 to keep track
@@ -93107,4 +93107,31 @@ la glicazione
 
 collagen
 il collagene
+
+tinderbox
+la polveriera; la scatola per l'esca e l'acciarino
+
+indeterminacy; uncertainty
+l'indeterminazione
+
+queen bed
+il letto matrimoniale francese; il letto queen
+
+Kenyan
+kenyano
+
+built-in oven
+il forno da incasso
+
+incompetence
+l'incompetenza
+
+inconsolable
+inconsolabile
+
+glassy eyes; shining eyes; teary eyes
+gli occhi lucidi
+
+to attack; to assault; to assail
+assalire
 
