@@ -47047,7 +47047,7 @@ coperchiare
 covered; covered up
 coperchiato
 
-downpour
+downpour; cloudburst; storm; rainstorm
 il nubifragio
 
 banner
@@ -61664,7 +61664,7 @@ fasciarsi
 to wrap oneself (cloak, blanket)
 avvolgersi
 
-bandage
+bandage; blindfold
 la benda
 
 Czechoslovak
@@ -93165,3 +93165,5 @@ il punto morto superiore
 to slide to the right; to slide to the right
 scivolare a destra; scorrere verso destra
 
+inglorious
+senza gloria
