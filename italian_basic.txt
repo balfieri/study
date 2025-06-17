@@ -3250,8 +3250,11 @@ l'orso; l'orsa
 squirrel
 lo scoiattolo
 
-brown
-marrone; castano
+brown (general)
+marrone
+
+brown (hair)
+castagno
 
 sky blue
 azzurro
