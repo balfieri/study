@@ -62661,7 +62661,7 @@ cedar; citron
 il cedro
 
 soaked; drenched
-ammollato
+ammollato; inzuppato d'acqua
 
 squeezed; wrung out
 strizzato
@@ -72968,7 +72968,7 @@ il re se n'è andato, ma non è dimenticato
 to do automatically
 fare in automatico
 
-to immolate
+to immolate; to sacrifice
 immolare
 
 main event
@@ -93267,3 +93267,8 @@ chiedere consiglio a (qualcuno)
 because of me; through my fault
 per colpa mia
 
+to gratify; to reward; to compensate
+gratificare
+
+immolated; sacrificed
+immolato
