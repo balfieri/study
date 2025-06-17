@@ -82876,7 +82876,7 @@ staining of wood
 la tintura del legno
 
 to be self-employed
-essere lavoratori autonomi
+essere lavoratori autonomi; lavorare in proprio
 
 commandment
 il comandamento
@@ -93263,4 +93263,7 @@ là fuori
 
 to ask (someone) for advice; to ask for (someone's) advice
 chiedere consiglio a (qualcuno)
+
+because of me; through my fault
+per colpa mia
 
