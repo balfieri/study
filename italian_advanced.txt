@@ -30689,7 +30689,7 @@ hanger (clothes)
 l'appendiabiti
 
 hangar (airplane)
-l'hangar
+l'aviorimessa; l'hangar
 
 I'll check it out
 darò un'occhiata; andrò a dare un'occhiata; vado a controllare; lo controllerò; lo guarderò
