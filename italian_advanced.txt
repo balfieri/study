@@ -55540,7 +55540,7 @@ elicoidale
 stick shift
 il cambio a bacchetta
 
-headlight
+light; lamp; headlight; taillight
 il fanale
 
 muffler
@@ -93239,3 +93239,7 @@ i capelli castagni
 
 you owe me (something)
 me devi (qualcosa)
+
+to punch (someone); to punch (somebody)
+dare un pugno a (qualcuno); colpire (qualcuno) con un pugno
+
