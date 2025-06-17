@@ -93248,3 +93248,6 @@ farsi un'ernia
 
 agile; nimble
 agile; svelto
+
+deduced
+dedotto
