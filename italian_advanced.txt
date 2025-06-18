@@ -628,7 +628,7 @@ la spugna
 to bark
 abbaiare
 
-hungry (single word)
+hungry (single word); famished
 affamato
 
 I'm starving; I'm dying of hunger
@@ -1279,7 +1279,7 @@ crescere dei figli
 hidden funds
 i fondi occulti
 
-to reject; to repel; to repulse; to decline; to turn down; to push back
+to reject; to repel; to repulse; to decline; to turn down; to push back; to rebuff
 respingere
 
 rejected; turned down
@@ -1671,9 +1671,6 @@ infastidire; irritare; dare fastidio
 
 to dissolve; to melt
 dissolvere
-
-to disintegrate
-disgregare
 
 to combine; to join
 congiungere
@@ -60626,7 +60623,7 @@ l'elmetto
 bulletproof
 antiproiettile
 
-bulletproof vest
+bulletproof vest; bullet-proof vest
 il giubbotto antiproiettile
 
 to create sadness
@@ -92038,7 +92035,7 @@ rare-earth metal
 il metallo delle terre rare
 
 to disintegrate
-disintegrare
+disgregare; disintegrare
 
 to fuel recriminations
 alimentare recriminazioni
@@ -93276,3 +93273,89 @@ immolato
 to be crazy about (someone); to be head over heels for (someone)
 essere pazzi da (qualcuno)
 
+detained
+detenuto; arrestato; trattenuto
+
+detonated
+detonato; fatto esplodere
+
+depths of depravity
+la profondità della depravazione
+
+I missed 2 out of 60 questions
+ho sbagliato 2 domande su 60
+
+brazen attack
+l'attacco sfacciato
+
+respectable boy; good boy
+il ragazzo per bene
+
+respectable girl; good girl
+la ragazza per bene
+
+son; kid
+il figliolo
+
+daughter; kid
+la figliola
+
+welcome home
+benvenuto a casa
+
+time machine
+la macchina del tempo
+
+time travel
+il viaggio nel tempo
+
+flux capacitor
+il condensatore di flusso
+
+to have respect for oneself
+avere rispetto di sé stessi
+
+back in time
+indietro in tempo
+
+lightning strike
+la scarica di un fulmine
+
+to be forward; to be aggressive
+essere sfacciati; essere aggressivi
+
+to moo
+mucchiare
+
+look at what we have here
+guarda cosa abbiamo qui
+
+to go easy on (somebody)
+andare piano con (qualcuno)
+
+to wax the car
+incretare la macchina; lucidare la macchina
+
+sexual assault
+la violenza sessuale
+
+to sexually assault
+agredire sessualmente
+
+short comedic sketch; comic routine
+il siparietto
+
+lack of decency
+la mancanza di decenza
+
+to cast aspersions on (somebody)
+gettare discredito su (qualcuno)
+
+to decriminalize
+decriminalizzare
+
+it is named after (somebody)
+prende il nome da (qualcuno)
+
+to play a trick on (somebody)
+fare uno scherzo a (qualcuno
