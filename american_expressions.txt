@@ -6099,3 +6099,6 @@ flic floc!; flic o floc!
 frenemy; friend who is also an enemy
 il falso amico; l'amico-nemico
 
+it's not about what you know, but whom you know
+non è questione di ciò che sai, ma di chi conosci
+
