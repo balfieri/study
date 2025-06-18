@@ -93380,3 +93380,9 @@ il segnale stradale
 
 to articulate each letter (of a word)
 scandire ogni lettera
+
+il film takes place in 
+il film è ambientato in 
+
+to take place (film, etc.)
+essere ambientati in
