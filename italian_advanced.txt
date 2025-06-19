@@ -3532,7 +3532,7 @@ ungere
 to annex
 annettere
 
-to direct; to manage; to run
+to direct; to manage; to run; to head; to steer
 dirigere
 
 to expel
@@ -93432,3 +93432,8 @@ la ritrosia
 to put up obstacles; to hinder
 porre ostacoli
 
+street urchin; guttersnipe; streetwise child (especially in Naples)
+lo scugnizzo
+
+intensively
+intensivamente
