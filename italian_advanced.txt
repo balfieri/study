@@ -93450,3 +93450,5 @@ gufare
 boatman; gondolier
 il barcarolo
 
+Cuban
+cubano
