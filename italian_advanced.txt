@@ -29779,7 +29779,7 @@ adempiere
 great; grandiose; grand
 grandioso
 
-desperate
+desperate; hopeless
 disperato
 
 exploration
