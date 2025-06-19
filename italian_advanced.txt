@@ -77992,7 +77992,7 @@ opaque paint; opaque varnish
 la vernice opaca
 
 villain
-il cattivo
+il cattivo; la cattiva
 
 to be accountable to (someone)
 rendere conto a (qualcuno)
