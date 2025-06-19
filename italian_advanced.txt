@@ -60305,9 +60305,6 @@ la vasca idromassaggio; il jacuzzi
 get it queued up
 mettilo in coda
 
-headcount
-il conteggio delle persone
-
 prenuptial agreement; prenup
 l'accordo prematrimoniale; il prenup
 
@@ -71142,7 +71139,7 @@ reticent
 reticente
 
 headcount
-il numero di persone
+il conteggio delle persone; il numero di persone
 
 kiddie-corner
 in diagonale; in diagonale opposto
@@ -93452,3 +93449,13 @@ il barcarolo
 
 Cuban
 cubano
+
+packaged; packed; manufactured
+confezionato
+
+to take (something) away from
+togliere (qualcosa) a
+
+to be told; to get told
+farsi dire
+
