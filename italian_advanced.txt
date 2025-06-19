@@ -4144,7 +4144,7 @@ it's my doing
 porch (separate room)
 la veranda
 
-porch (front)
+porch (front); front porch
 il portico
 
 installment; episode
@@ -87504,9 +87504,6 @@ evitare di passare del tempo con
 this way; over here
 di qua
 
-gene pool
-il patrimonio genetico
-
 to eschew
 evitare; schivare; astenersi da
 
@@ -87910,7 +87907,7 @@ bubble wrap
 il pluriball
 
 ice cream sandwich
-il biscotto gelato
+il biscotto gelato; il gelato biscotto
 
 harpist
 l'arpista
@@ -93467,3 +93464,19 @@ meticolosamente
 
 to leave aside, apart from
 prescindere da
+
+to give 100%; to commit fully; to do one's best
+impegnarsi dal 100%
+
+to go from (something) to (something)
+passare da (qualcosa) a (qualcosa)
+
+to hang out on the front porch
+stare fuori sul portico; passare il tempo sul portico
+
+ice cream sundae
+la coppa gelato
+
+inclement
+inclemente
+
