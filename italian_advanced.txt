@@ -1102,7 +1102,7 @@ autodidatta
 to split; to cleave; to divide
 scindere
 
-to disregard; to set aside; to leave aside; to ignore
+to disregard; to overlook; to set aside; to leave aside; to ignore
 prescindere
 
 license
@@ -17962,7 +17962,7 @@ la reduzione
 not even
 nemmeno
 
-affermation
+assertion; affermation
 l'affermazione
 
 determination
@@ -93459,3 +93459,11 @@ togliere (qualcosa) a
 to be told; to get told
 farsi dire
 
+circumference; girth
+la circonferenza
+
+meticulously
+meticolosamente
+
+to leave aside, apart from
+prescindere da
