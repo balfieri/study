@@ -82756,7 +82756,7 @@ catchphrase; hit
 il tormentone
 
 summer hit
-il tormentone dell'estate
+il tormentone dell'estate; il tormentone estivo
 
 to take oneself too seriously
 prendersi troppo serio
