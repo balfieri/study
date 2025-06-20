@@ -4666,9 +4666,6 @@ la casa discografica
 the release of the film
 la riuscita del film
 
-to compound; to aggravate; to exacerbate
-aggravare
-
 to needle; to whet; to pique
 stuzzicare
 
@@ -12732,9 +12729,6 @@ così alla fine; quindi alla fine
 
 it just so happens that
 si dà il caso che (congiuntivo)
-
-to exacerbate
-esacerbare
 
 to meet in the middle
 incontrarsi a metà strada
@@ -54451,8 +54445,8 @@ la contezza
 warning; admonition
 l'ammonimento
 
-to exacerbate; to make harsher
-inasprire
+to exacerbate; to make worse (problem); to compound
+inasprire; esacerbare; aggravare
 
 otherism; elsewhereism
 il benaltrismo
@@ -62260,9 +62254,6 @@ non minaccioso
 
 prefix
 il prefisso
-
-the crux
-il nocciolo
 
 high command
 l'alto comando
@@ -93509,3 +93500,19 @@ l'elfo
 
 zainy
 buffo; eccentrico
+
+fawn
+il cerbiatto
+
+as long as possible
+finché è possibile
+
+to tire out; to wear out
+fare stancare
+
+pit (hole in ground)
+la fossa; la buca
+
+pit (inside fruit); crux
+il nocciolo
+
