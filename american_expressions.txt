@@ -5737,7 +5737,7 @@ to have failure to launch
 non riuscire a spiccare il volo; avere difficoltà a diventare indipendenti
 
 to rubberneck
-guardare con curiosità; sbirciare
+guardare con curiosità morbosa; curiosare; sbirciare
 
 to save the best for last
 tenere il meglio per ultimo; serbare il meglio per la fine
@@ -6107,3 +6107,7 @@ fare una pazzia; fare una bravata
 
 to bounce around a lot with
 saltare molto da una cosa all'altra con
+
+to stick in one's head
+rimanere in mente
+

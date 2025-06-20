@@ -12370,7 +12370,7 @@ la forza di volontà
 last but not least
 ultimo ma non meno importante; ultimo ma non per importanza
 
-junction; joint
+junction; joint; hub
 lo snodo
 
 skirmish
@@ -55766,7 +55766,7 @@ lo strafilaggio
 to denature; to distort
 snaturare
 
-dismantling
+dismantling; disassembly
 lo smontaggio
 
 varnishing; painting (surface of object)
@@ -93494,3 +93494,18 @@ che lancia le mode; innovativo
 
 to set trends
 lanciare mode; dettare tendenze
+
+submersible
+il sommergibile
+
+muscle car
+il muscle car; l'auto sportiva americana potente
+
+Santa's workshop
+l'officina di Babbo Natale; il laboratorio di Babbo Natale
+
+elf
+l'elfo
+
+zainy
+buffo; eccentrico
