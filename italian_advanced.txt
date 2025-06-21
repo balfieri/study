@@ -82687,7 +82687,7 @@ to infiltrate
 infiltrare
 
 what else is there?
-cos'altro c'è?
+cos'altro c'è?; che altro c'è
 
 granted,
 concesso,
@@ -93581,4 +93581,10 @@ troppo tostato; un po' bruciato
 
 around the eges
 ai bordi; sui bordi
+
+to rub garlic on
+strofinare l'aglio su
+
+scamorza cheese
+la scamorza
 
