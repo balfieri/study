@@ -4886,7 +4886,7 @@ bill
 il bolletto
 
 screenplay
-la sceneggiatura
+la sceneggiatura; lo screenplay
 
 at my expense
 a mie spese
@@ -24778,7 +24778,7 @@ l'estrazione
 baron
 il barone
 
-unreleased; unpublished
+unreleased; unpublished; unprecedented
 inedito
 
 Portugal
@@ -43972,8 +43972,8 @@ l'incredulità
 directness
 la dirittura
 
-nothing less
-nientemeno
+nothing less than; none other than
+nientemeno che
 
 to be cast in the air
 essere campati in aria
@@ -93596,3 +93596,10 @@ il nuovo arrivato
 
 absence is felt
 la assenza si sente; si sente la assenza
+
+yearning; deep longing; heartache
+lo struggimento
+
+new challenge; unprecedented challenge
+la sfida inedita
+
