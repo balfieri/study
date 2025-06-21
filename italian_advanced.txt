@@ -60263,7 +60263,7 @@ il ribaltone
 to donate to charity; to give to charity
 donare in beneficenza
 
-in the startup phase
+in the startup phase; starting up; initializing
 in fase di avvio
 
 in control
@@ -93588,3 +93588,11 @@ strofinare l'aglio su
 scamorza cheese
 la scamorza
 
+latecomer
+il ritardatario
+
+newcomer
+il nuovo arrivato
+
+absence is felt
+la assenza si sente; si sente la assenza
