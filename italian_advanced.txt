@@ -9769,7 +9769,7 @@ l'efficienza del carburante
 gas mileage
 il consumo di carburante; l'efficienza del carburante; il chilometraggio di gas
 
-to train
+to train; to work out
 allenarsi
 
 general relativity
@@ -41011,7 +41011,7 @@ il fumo passivo
 phallic
 fallico
 
-a lot of; lots of; gobs of
+a lot of; lots of; gobs of; plenty of
 un sacco di
 
 upstairs (adjective)
@@ -93549,3 +93549,26 @@ non sapevo cosa stavo facendo
 how weird do you think I am?
 quanto pensi che io sia strano?
 
+jump; leap
+lo zompo
+
+iron long
+il pulmone d'accaio
+
+cellar; basement
+la cantina
+
+slapstick comedy
+la commedia slapstick; la commedia demenziale
+
+acrobatic flying
+il volo acrobatico
+
+foster family
+la famiglia affidataria
+
+with 100% confidence
+con assoluta certezza
+
+meal saver
+il salvacena
