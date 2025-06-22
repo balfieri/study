@@ -29890,7 +29890,7 @@ la morfologia
 morally
 moralmente
 
-to authorize
+to authorize; to clear (give permission)
 autorizzare
 
 infrastructure
@@ -65113,6 +65113,9 @@ pronto per il decollo
 
 cleared for takeoff, runway 21
 autorizzato al decollo dalla pista 21
+
+cleared to land, runway 21
+autorizzato ad atterrare, pista 21; avete il permesso di atterrare, pista 21
 
 discovery flight
 il volo di scoperta
