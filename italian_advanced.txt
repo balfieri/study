@@ -655,7 +655,7 @@ calmare l'appetito
 confetti
 i coriandoli
 
-candy-covered almonds
+candy-covered almonds; Jordan almonds
 i confetti
 
 panini (our definition)
@@ -2230,7 +2230,7 @@ dotarsi; provvedere a se stesso
 to snort; to puff
 sbuffare
 
-on purpose; purposely; particularly; seriously
+on purpose; purposely; particularly; seriously; deliberately (a little formal)
 di proposito
 
 quickly
@@ -5710,8 +5710,8 @@ denigrare
 to belittle; to downplay; to devalue
 sminuire; svalutare
 
-purposely; intentionally; deliberately; on purpose
-intenzionalmente; deliberatamente; apposta
+on purpose; purposely; intentionally; deliberately; on purpose
+apposta; intenzionalmente; deliberatamente
 
 put to the test
 messo alla prova
@@ -12444,9 +12444,6 @@ più avanti; più avanzato
 
 rivalry
 la rivalità
-
-purposely
-apposta; di proposito
 
 national championship
 il campionato nazionale
@@ -93217,7 +93214,7 @@ dark-colored; of a dark color
 di colore scuro; bruno (formale)
 
 brown hair
-i capelli castagni
+i capelli castani
 
 you owe me (something)
 me devi (qualcosa)
@@ -93602,4 +93599,82 @@ lo struggimento
 
 new challenge; unprecedented challenge
 la sfida inedita
+
+place where people congregate; place where people gather
+il luogo in cui la gente si raduna; il luogo di ritrovo
+
+hubcap
+il copricerchio
+
+wealth of knowledge
+la grande ricchezza di conoscenza; la vasta conoscenza
+
+to enter into a spin (aviation)
+entrare in una vite
+
+to recover from
+recuperare da
+
+zainy movie
+il film strampalato; il film bizzarro
+
+to harass; to torment
+vessare
+
+trimmed; clipped (wings)
+tarpato
+
+stray (animal); vagrant
+randagio
+
+river mouth; estuary
+la foce
+
+at night; during the night
+nottetempo
+
+to continue one's own path alone; to proceed on one's own
+proseguire il proprio cammino da solo
+
+to make flee; to put to flight
+dare alla fuga
+
+dull life; drab life
+la vita scialba
+
+soon-to-be
+futuro; prossimo
+
+nonsensical
+senza senso; insensato
+
+Dr. Evil
+Dottor Male
+
+power idle
+il motore al minimo; la manetta al minimo
+
+vile person
+la persona vile; la persona spregevole
+
+it isn't that
+non è che (congiuntivo)
+
+to go into a slump; to go through a rough patch; to go down (website)
+andare in down
+
+to imply; to suggest; to hint at
+far intendere
+
+member of the European parliament; MEP
+l'europarlamentario; l'europarlamentaria
+
+lakefront; lakeside; lakeside promenade
+il lungolago
+
+to be in operation; to be functioning
+essere in funzione
+
+merry-go-round owner; merry-go-round operator; carnie
+il giostraio
 
