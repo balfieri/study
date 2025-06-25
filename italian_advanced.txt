@@ -21406,9 +21406,6 @@ approssimativo
 low-hanging fruit
 i frutti più bassi
 
-excess; excessiveness
-l'oltranza
-
 to mix (objects, ideas); to blend; to mix up; to mingle
 mischiare
 
@@ -91347,8 +91344,8 @@ ficcante
 karstic; karst; subterranean
 carsico
 
-excessiveness
-l'eccessività; l'eccesso
+excess; excessiveness
+l'eccessività; l'eccesso; l'oltranza
 
 disproportion
 la sproporzione
@@ -93800,3 +93797,7 @@ it's quite possible that
 
 to come up with an idea
 venirsi un'idea; inventarsi un'idea
+
+to eliminate the man in the middle
+eliminare l'uomo nel mezzo
+
