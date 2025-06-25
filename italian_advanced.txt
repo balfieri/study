@@ -36661,9 +36661,6 @@ la società per azioni (S.p.A.)
 corporation (American, English)
 la corporazione
 
-sea bass
-la spigola
-
 general partnership
 la società in nome collettivo (S.n.c.)
 
@@ -50643,9 +50640,6 @@ aggravante
 
 panic attack
 l'attacco di panico
-
-small bottle
-la boccetta
 
 braggart; show-off (southern Italy)
 lo sciaccone
@@ -86800,7 +86794,7 @@ show me the way
 mi fai strada
 
 sea bass
-il branzino
+la spigola; il branzino
 
 squabble; bickering
 il battibecco
@@ -93750,3 +93744,38 @@ sproveduto
 crude oil
 il greggio
 
+fleeting; fleeting one
+fughese; fugase; fugace
+
+desired; longed-for; yearned-for
+bramato
+
+master of the universe; lord of the universe
+il padrone dell'universo
+
+stockbroker
+l'agente di borsa
+
+negative review; harsh criticism; pan (slang, rare)
+la strocatura
+
+to caress; to stroke
+carezzare
+
+spasmodic; twitchy
+spasmico
+
+small bottle; vial
+la boccetta
+
+without a criminal record; with a clean record
+incensurato
+
+catchphrase; slogan
+il catchphrase; il tormentone; la frase famosa
+
+tarp
+il telo cerato; il telone
+
+hazardous attitude; dangerous attitude
+l'atteggiamento pericoloso
