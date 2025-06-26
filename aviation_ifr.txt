@@ -1,5 +1,20 @@
 # aviation_ifr.txt - instrument pilot written exam and checkride questions (focusing on ones I had problems with)
 #
+ARROW
+Airworthiness certificate; Registration; Radio license (when operating outside the U.S.); Operator's handbook; Weight and balance (use the version updated by the mechanic)
+
+AV1ATES
+Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (sensitive, 24 months, IFR only); Transponder (24 months); ELT (12 months or 1/2 Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
+
+ATOMATO FLAMES
+Altimeter; Tachometer (for each engine); Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Safety Belts (in occupied seats)
+
+FLAPS
+Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only if aircraft is for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
+
+GRABCARDD
+Generator/alternator; radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyro DME above 24000 ft
+
 VOT on ground
 need to be on 360 radial and +/- 4 degrees 180 TO or 360 FROM
 
@@ -16,7 +31,7 @@ a WAAS-capable airplane is exempt from which rule
 that alternate have a non-GPS IAP available
 
 squalls
-16-22 knots >= 1 minute
+16-22 knots for at least 1 minute
 
 3 places for changeover point
 bend, weird symbol, halfway
@@ -52,7 +67,7 @@ below 18,000 ft, VORs should be no more than
 80nm apart
 
 BasicMed: 
-<= 7 occupants, < 18,000 ft
+no more than 7 occupants, less than 18,000 ft
 
 GBAS approach 
 flown same as ILS after selected; GBAS landing system (GLS)
@@ -76,7 +91,7 @@ once you have a certain level of service, such as LPV
 you have this service only until the next approach is activated
 
 jet stream speed
->= 50 knots
+at least 50 knots
 
 class A airspace ADS-B requires
 extended squitter
@@ -115,7 +130,7 @@ wind shear
 wind shift or wind speed gradient at any level of the atmosphere
 
 DME required at what altitude
->= 24,000 ft MSL if VOR required
+at least 24,000 ft MSL if VOR required
 
 if VDP publshed
 it is not included in sequence of GPS waypoints
@@ -241,7 +256,7 @@ large areas of land tend to
 increase temperature variations
 
 absence of sky condition on ATIS, implies
->= 5000 ft ceiling and >= 5 statute miles visibility
+at least 5000 ft ceiling and at least 5 statute miles visibility
 
 if missed approach not activated, the GPS will display
 an extension of the inbound final approach course
