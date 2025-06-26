@@ -276,7 +276,7 @@ loss of accuracy and smoothness of control movements
 default upper limit of class D
 2500 ft AGL
 
-to recover from tailplane stall
+to recover from tailplane stall due to icing
 retract flaps and increase power to compensate for reduction in lift
 
 preflight altimeter should show 
