@@ -19,7 +19,7 @@ VOT on ground
 need to be on 360 radial and +/- 4 degrees 180 TO or 360 FROM
 
 how to check on the proper automated approach
-ensure glideslope needle frozen in the center
+ensure glide slope needle frozen in the center
 
 fly-over way point is denoted by
 4-point star with circle around points of star
