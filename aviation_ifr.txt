@@ -226,7 +226,7 @@ winds aloft are expressed in
 true direction and knots
 
 determining approach category
-Vso * 1.3, then look it up in table
+Vso times 1.3, then look it up in table
 
 radar service is terminated during visual approach automatically when 
 ATC tells pilot to contact the tower
