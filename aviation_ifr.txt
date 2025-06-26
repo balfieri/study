@@ -1,2 +1,277 @@
-# aviation_ifr.txt - instrument pilot checkride questions (beyond what's in aviation.txt)
+# aviation_ifr.txt - instrument pilot written exam and checkride questions (focusing on ones I had problems with)
 #
+VOT on ground
+need to be on 360 radial and +/- 4 degrees 180 TO or 360 FROM
+
+how to check on the proper automated approach
+ensure glideslope needle frozen in the center
+
+fly-over way point is denoted by
+4-point star with circle around points of star
+
+errors in pitch and bank maximum when rolling out of what degree turn?
+180-degree
+
+a WAAS-capable airplane is exempt from which rule
+that alternate have a non-GPS IAP available
+
+squalls
+16-22 knots >= 1 minute
+
+3 places for changeover point
+bend, weird symbol, halfway
+
+quick calc for descent rate
+ground speed times 5 on 3-degree slope
+
+VOR MON coverage is nationwide at an altitude of
+5000 ft AGL
+
+VOR deflection
+1 mile/degree 60 miles out
+
+VOR airborne check
+over designated checkpoint, +/- 6 degrees with one VOR; with dual independent VOR units, +/- 4 degrees
+
+VFR waypoints 
+may never be used on an IFR flight plan
+
+VOR/ILS only allowed if approach 
+does not require DME, all IFR equipment is current, and pilot flies Victor airlines
+
+absence of a shaded arrowhead after VDP indicates 
+obstacle obstructions
+
+arrival begins 
+after transitions
+
+crosswind is drifting you AWAY from the VOR facility 
+turn aircraft until bearing pointer is ahead of the wingtip reference
+
+below 18,000 ft, VORs should be no more than 
+80nm apart
+
+BasicMed: 
+<= 7 occupants, < 18,000 ft
+
+GBAS approach 
+flown same as ILS after selected; GBAS landing system (GLS)
+
+how many hours to rid body of alcohol from one beer
+3 hours
+
+wind shear peaks 
+before warm front passes airport
+
+middle marker height
+typically at 200 ft AGL
+
+yellow arrow is irrelevant
+for a localizer
+
+IFR requires nav equipment 
+for ground facilities to be used
+
+once you have a certain level of service, such as LPV
+you have this service only until the next approach is activated
+
+jet stream speed
+>= 50 knots
+
+class A airspace ADS-B requires
+extended squitter
+
+BasicMed can fly which routes
+T routes (terminal)
+
+active FAROS is displayed using
+flashing PAPIs
+
+microburst downdrafts
+as much as 6000 ft/min
+
+troposphere
+20k ft over poles, 25k ft over middle latitudes (37k ft?), 65k ft above equator; generally found between -55 and -65C
+
+TAA warnings
+red warning flashes with repeating tone
+
+how to recover from unusual attitude without an attitude indicator
+airspeed and altimeter stop movement and VSI reverses trend
+
+only DME part of VORTAC is operative when
+pulse only every 30 sec
+
+centrifugal force creates feeling of 
+rising or falling
+
+jet stream normally 
+weaker and farther north in summer
+
+baro-vnav 
+uses barometric altitude info to compute vertical guidance
+
+wind shear
+wind shift or wind speed gradient at any level of the atmosphere
+
+DME required at what altitude
+>= 24,000 ft MSL if VOR required
+
+if VDP publshed
+it is not included in sequence of GPS waypoints
+
+cumulonimbus 
+have greatest turbulence
+
+in simulated instrument conditions, just log
+approach and location, plus name of safety pilot
+
+default MEA along a jet route 
+18,000 ft
+
+tailplane is most susceptable surface for ice accumulation because 
+it is thinner than wing
+
+turn coordinator during taxi turn
+mini airplane shows turn, ball shows opposite
+
+frontal waves normally form 
+on slow-moving cold fronts or stationary fronts
+
+alternate required when
+destination has no instrument approach procedure, even if in VFR
+
+radar service terminated, so
+resume normal position reporting
+
+PRM
+RADAR system for monitoring approaches to two closely spaced parallel runways
+
+required alternate must have 
+an approved instrument approach procedure other than GPS and it must be operational upon arrival, and aircraft must be equipped to fly it
+
+roll upset
+exit ASAP, disengage AP, reduce AOA by increasing speed, do not retrace flaps, controlled descent as last resort
+
+ATC says: cuise NNNN ft
+can vacate NNNN without notifying ATC
+
+Coriolis illusion 
+prolonged constant rate turns, abrupt head moving, illusion of rotation on entirely different axis
+
+FSS standard frequence
+122.2
+
+formation of frost
+temperature of surface is below dewpoint, dewpoint colder than freezing
+
+dry adiabotic lapse rate
+3C per 1000 ft
+
+transitioning from VFR to IFR
+contact nearest FSS, close VFR portion, request ATC clearance
+
+when making range corrections
+change the relative bearing 10-20 deg for each 1/2 mile deviation
+
+above 14,000 ft with turbojet in holding pattern, max speed 
+265 knots
+
+one VOR receiver could be 
+tuned alternately between two VORs to identify an intersection
+
+contact approach
+an approach where an aircraft on an IFR flight plan, having an air traffic control authorization, operating clear of clouds with at least one mile flight visibility, and a reasonable expectation of continuing to the destination airport in those conditions, may deviate from the instrument approach procedure and proceed to the destination airport by visual reference to the surface. This approach is only authorized when requested by the pilot and the reported ground visibility at the destination airport is at least one statute mile
+
+WAAS receiver (unlike GPS receiver) will 
+sequence past the MAWP
+
+sidestep clearance
+perform as soon as possible after runway or runway environment in sight
+
+temperature inversion forms 
+normally only in stable air
+
+departing from airport with no IAP and no DP 
+depart at your own risk
+
+when decelerating, some attitude indicators will 
+precess and indicate a descent
+
+inside class B, must have 
+transponder and pressure altimeter
+
+winds aloft are expressed in 
+true direction and knots
+
+determining approach category
+Vso * 1.3, then look it up in table
+
+radar service is terminated during visual approach automatically when 
+ATC tells pilot to contact the tower
+
+cloud layers GFA is expressed in 
+MSL
+
+freezing rain at higher altitudes produces 
+ice pellets
+
+expect more accumulation of airframe ice 
+near 0C 
+
+when unstable air mass forced up a mountain slope 
+expect clouds with extensive vertical development
+
+when DME specified in IAP
+it may be used in lieu of the OM
+
+can deviate from an ATC clearance in response to 
+TCAS II resolution advisory
+
+IFR flight plan must be filed prior to 
+entering controlled airspace when IMC exists
+
+you may use a GPS approach at the alternate as long as 
+there is a ground-based NAVAUD and airborne receiver to use as a backup
+
+right bracket on a weather depiction chart indicates 
+the station is an automated observation location
+
+large areas of land tend to 
+increase temperature variations
+
+absence of sky condition on ATIS, implies
+>= 5000 ft ceiling and >= 5 statute miles visibility
+
+if missed approach not activated, the GPS will display
+an extension of the inbound final approach course
+
+dry line denotes 
+dewpoint difference, usually between moist air on the eastern side from dessert air on the western side
+
+effect of acute fatigue
+loss of accuracy and smoothness of control movements
+
+default upper limit of class D
+2500 ft AGL
+
+to recover from tailplane stall
+retract flaps and increase power to compensate for reduction in lift
+
+preflight altimeter should show 
++/- 75 ft from field elevation reference level
+
+sign of supercooled large water droplets forming
+ice forming on propeller spinner and reaching back to propeller blades
+
+during no gyro surveillance or precision approach, make all turns at 
+1/2 standard rate
+
+letter D in airport sketch box indicates
+runway declared distance information is available
+
+below low-level temperature inversion layer with high humidity, should expect
+smooth air, poor visibility, fog, haze, low clouds
+
+above 14,500 AGL, VORTAC facilities should be no more than 
+200 nm apart

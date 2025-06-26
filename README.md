@@ -12,7 +12,7 @@ Answers in the file will be split along semicolons onto separate lines. The answ
 There are a few text files provided for various topics of my interest. Feel free to use them or add your own:
 
     aviation.txt                        -- private pilot checkride oral exam (includes categories)
-    aviation_ifr.txt                    -- instrument pilot checkride oral exam
+    aviation_ifr.txt                    -- instrument pilot written exam and checkride oral more difficult questions
     italian_basic.txt                   -- basic and a few intermediate words
     italian_advanced.txt                -- intermediate to advanced words
     italian_passato_remoto.txt          -- conjugations of the passato remoto (mostly irregular verbs)
