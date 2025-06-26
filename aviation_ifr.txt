@@ -296,3 +296,6 @@ smooth air, poor visibility, fog, haze, low clouds
 
 above 14,500 AGL, VORTAC facilities should be no more than 
 200 nm apart
+
+heading to use for teardrop entry to hold
+for right turns, outbound heading minus 30 degree; for left turns, outbound heading plus 30 degrees
