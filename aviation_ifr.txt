@@ -31,7 +31,7 @@ a WAAS-capable airplane is exempt from which rule
 that alternate have a non-GPS IAP available
 
 squalls
-16-22 knots for at least 1 minute
+16 to 22 knots for at least 1 minute
 
 3 places for changeover point
 bend, weird symbol, halfway
@@ -187,7 +187,7 @@ transitioning from VFR to IFR
 contact nearest FSS, close VFR portion, request ATC clearance
 
 when making range corrections
-change the relative bearing 10-20 deg for each 1/2 mile deviation
+change the relative bearing 10 to 20 deg for each 1/2 mile deviation
 
 above 14,000 ft with turbojet in holding pattern, max speed 
 265 knots
