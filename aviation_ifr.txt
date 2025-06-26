@@ -16,7 +16,7 @@ GRABCARDD
 Generator/alternator; radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyro DME above 24000 ft
 
 VOT on ground
-need to be on 360 radial and +/- 4 degrees 180 TO or 360 FROM
+need to be on 360 radial and plus or minus 4 degrees 180 TO or 360 FROM
 
 how to check on the proper automated approach
 ensure glide slope needle frozen in the center
@@ -46,7 +46,7 @@ VOR deflection
 1 mile/degree 60 miles out
 
 VOR airborne check
-over designated checkpoint, +/- 6 degrees with one VOR; with dual independent VOR units, +/- 4 degrees
+over designated checkpoint, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees
 
 VFR waypoints 
 may never be used on an IFR flight plan
@@ -274,7 +274,7 @@ to recover from tailplane stall
 retract flaps and increase power to compensate for reduction in lift
 
 preflight altimeter should show 
-+/- 75 ft from field elevation reference level
+plus or minus 75 ft from field elevation reference level
 
 sign of supercooled large water droplets forming
 ice forming on propeller spinner and reaching back to propeller blades
