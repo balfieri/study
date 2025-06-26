@@ -268,7 +268,7 @@ if missed approach not activated, the GPS will display
 an extension of the inbound final approach course
 
 dry line denotes 
-dewpoint difference, usually between moist air on the eastern side from dessert air on the western side
+dewpoint difference, usually between moist air on the eastern side from desert air on the western side
 
 effect of acute fatigue
 loss of accuracy and smoothness of control movements
