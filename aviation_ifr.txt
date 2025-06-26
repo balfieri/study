@@ -13,7 +13,7 @@ FLAPS
 Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only if aircraft is for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
 
 GRABCARDD
-Generator/alternator; radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyro DME above 24000 ft
+Generator/alternator; radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyro DME above 24000 feet
 
 ANDS
 WEST EAST: accelerate causes deflection toward north, decelerate toward south
@@ -46,7 +46,7 @@ quick calc for descent rate
 ground speed times 5 on 3-degree slope
 
 VOR MON coverage is nationwide at an altitude of
-5000 ft AGL
+5000 feet AGL
 
 VOR deflection
 1 mile/degree 60 miles out
@@ -69,11 +69,11 @@ after transitions
 crosswind is drifting you AWAY from the VOR facility 
 turn aircraft until bearing pointer is ahead of the wingtip reference
 
-below 18,000 ft, VORs should be no more than 
+below 18,000 feet, VORs should be no more than 
 80nm apart
 
 BasicMed: 
-no more than 7 occupants, less than 18,000 ft
+no more than 7 occupants, less than 18,000 feet
 
 GBAS approach 
 flown same as ILS after selected; GBAS landing system (GLS)
@@ -85,7 +85,7 @@ wind shear peaks
 before warm front passes airport
 
 middle marker height
-typically at 200 ft AGL
+typically at 200 feet AGL
 
 yellow arrow is irrelevant
 for a localizer
@@ -108,11 +108,11 @@ T routes (terminal)
 active FAROS is displayed using
 flashing PAPIs
 
-microburst downdrafts
-as much as 6000 ft/min
+microburst downdrafts 
+can be as much as 6000 feet/minute
 
 troposphere
-20k ft over poles, 25k ft over middle latitudes (37k ft?), 65k ft above equator; generally found between -55 and -65C
+20,000 feet over poles, 25,000 feet over middle latitudes (37,000 feet?), 65,000 feet above equator; generally found between -55 and -65C
 
 TAA warnings
 red warning flashes with repeating tone
@@ -136,7 +136,7 @@ wind shear
 wind shift or wind speed gradient at any level of the atmosphere
 
 DME required at what altitude
-at least 24,000 ft MSL if VOR required
+at least 24,000 feet MSL if VOR required
 
 if VDP publshed
 it is not included in sequence of GPS waypoints
@@ -148,7 +148,7 @@ in simulated instrument conditions, just log
 approach and location, plus name of safety pilot
 
 default MEA along a jet route 
-18,000 ft
+18,000 feet
 
 tailplane is most susceptable surface for ice accumulation because 
 it is thinner than wing
@@ -174,7 +174,7 @@ an approved instrument approach procedure other than GPS and it must be operatio
 roll upset
 exit ASAP, disengage AP, reduce AOA by increasing speed, do not retrace flaps, controlled descent as last resort
 
-ATC says: cuise NNNN ft
+ATC says: cuise NNNN feet
 can vacate NNNN without notifying ATC
 
 Coriolis illusion 
@@ -187,7 +187,7 @@ formation of frost
 temperature of surface is below dewpoint, dewpoint colder than freezing
 
 dry adiabotic lapse rate
-3C per 1000 ft
+3C per 1000 feet
 
 transitioning from VFR to IFR
 contact nearest FSS, close VFR portion, request ATC clearance
@@ -195,7 +195,7 @@ contact nearest FSS, close VFR portion, request ATC clearance
 when making range corrections
 change the relative bearing 10 to 20 deg for each 1/2 mile deviation
 
-above 14,000 ft with turbojet in holding pattern, max speed 
+above 14,000 feet with turbojet in holding pattern, max speed 
 265 knots
 
 one VOR receiver could be 
@@ -262,7 +262,7 @@ large areas of land tend to
 increase temperature variations
 
 absence of sky condition on ATIS, implies
-at least 5000 ft ceiling and at least 5 statute miles visibility
+at least 5000 feet AGL ceiling and at least 5 statute miles visibility
 
 if missed approach not activated, the GPS will display
 an extension of the inbound final approach course
@@ -274,13 +274,13 @@ effect of acute fatigue
 loss of accuracy and smoothness of control movements
 
 default upper limit of class D
-2500 ft AGL
+2500 feet AGL
 
 to recover from tailplane stall due to icing
 retract flaps and increase power to compensate for reduction in lift
 
 preflight altimeter should show 
-plus or minus 75 ft from field elevation reference level
+plus or minus 75 feet from field elevation reference level
 
 sign of supercooled large water droplets forming
 ice forming on propeller spinner and reaching back to propeller blades
