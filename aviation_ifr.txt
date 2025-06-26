@@ -15,8 +15,14 @@ Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing
 GRABCARDD
 Generator/alternator; radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyro DME above 24000 ft
 
+ANDS
+WEST EAST: accelerate causes deflection toward north, decelerate toward south
+
+UNOS 
+undershoot from north, overshoot from south
+
 VOT on ground
-need to be on 360 radial and plus or minus 4 degrees 180 TO or 360 FROM
+need to be on 360 radial, plus or minus 4 degrees 180 TO or 360 FROM
 
 how to check on the proper automated approach
 ensure glide slope needle frozen in the center

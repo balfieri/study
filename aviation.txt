@@ -4170,7 +4170,7 @@ cumulonimbus
 {weather} TB LGT-MDT
 light to moderate turbulence
 
-{sys} WE:ANDS
+{sys} ANDS
 WEST EAST: accelerate NORTH, decelerate SOUTH
 
 {sys} at cruise, static ports become blocked, if we descend the airspeed will indicate
