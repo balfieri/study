@@ -202,7 +202,7 @@ one VOR receiver could be
 tuned alternately between two VORs to identify an intersection
 
 contact approach
-an approach where an aircraft on an IFR flight plan, having an air traffic control authorization, operating clear of clouds with at least one mile flight visibility, and a reasonable expectation of continuing to the destination airport in those conditions, may deviate from the instrument approach procedure and proceed to the destination airport by visual reference to the surface. This approach is only authorized when requested by the pilot and the reported ground visibility at the destination airport is at least one statute mile
+upon request and authorization from ATC, while clear of clouds with at least one statute mile visiblity with the expectation of staying in those conditions, the pilot may deviate from the IAP and proceed to destination airport by visual reference
 
 WAAS receiver (unlike GPS receiver) will 
 sequence past the MAWP
