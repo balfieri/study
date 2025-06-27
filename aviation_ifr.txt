@@ -4,7 +4,7 @@ ARROW
 Airworthiness certificate; Registration; Radio license (when operating outside the U.S.); Operator's handbook; Weight and balance (use the version updated by the mechanic)
 
 AV1ATES
-Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (sensitive, 24 months, IFR only); Transponder (24 months); ELT (12 months or 1/2 Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
+Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (sensitive, 24 months, IFR only); Transponder (24 months); ELT (12 months or half Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
 
 ATOMATO FLAMES
 Altimeter; Tachometer (for each engine); Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Safety Belts (in occupied seats)
@@ -193,7 +193,7 @@ transitioning from VFR to IFR
 contact nearest FSS, close VFR portion, request ATC clearance
 
 when making range corrections
-change the relative bearing 10 to 20 deg for each 1/2 mile deviation
+change the relative bearing 10 to 20 deg for each half mile deviation
 
 above 14,000 feet with turbojet in holding pattern, max speed 
 265 knots
@@ -286,7 +286,7 @@ sign of supercooled large water droplets forming
 ice forming on propeller spinner and reaching back to propeller blades
 
 during no gyro surveillance or precision approach, make all turns at 
-1/2 standard rate
+half standard rate
 
 letter D in airport sketch box indicates
 runway declared distance information is available
