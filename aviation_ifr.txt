@@ -172,7 +172,7 @@ required alternate must have
 an approved instrument approach procedure other than GPS and it must be operational upon arrival, and aircraft must be equipped to fly it
 
 roll upset
-exit ASAP, disengage AP, reduce AOA by increasing speed, do not retrace flaps, controlled descent as last resort
+exit ASAP, disengage AP, reduce AOA by increasing speed, do not retract flaps, controlled descent as last resort
 
 ATC says: cuise NNNN feet
 can vacate NNNN without notifying ATC
