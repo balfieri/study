@@ -43873,7 +43873,7 @@ fare scuola a sé; essere un trendsetter
 snowflake
 il fiocco di neve
 
-flake
+flake; shaving
 il fiocco; la scaglia
 
 sore throat
@@ -93975,3 +93975,8 @@ giorno più giorno meno
 it feels good
 si sente bene; fa stare bene
 
+chocolate flake; chocolate shaving
+la scaglia di cioccolato
+
+plus or minus one (something)
+(qualcosa) più (qualcosa) meno; più o meno uno (qualcosa)
