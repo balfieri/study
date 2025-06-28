@@ -94023,3 +94023,9 @@ il liquame
 chandelier; ceiling lamp; hanging lamp; pendant; light fixture
 il lampadario
 
+I don't feel up to it; I'm not feeling it
+non me lo sento
+
+I don't feel like doing it; I don't feel up to doing it
+non me sento farlo
+
