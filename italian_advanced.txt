@@ -94041,3 +94041,6 @@ la rievocazione; la ricostruzione
 gym teacher
 l'insegnante di educazione fisica; l'insegnante di ginnastica; l'insegnante di palestra
 
+bread dough
+l'impasto per il pane; l'impasto per pane
+
