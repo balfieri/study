@@ -94044,3 +94044,5 @@ l'insegnante di educazione fisica; l'insegnante di ginnastica; l'insegnante di p
 bread dough
 l'impasto per il pane; l'impasto per pane
 
+EFC time
+Expect Further Clearance time

@@ -330,3 +330,17 @@ VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL
 VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during at night
 3-152
 
+after two-way communication failure at holding fix with an EFC time
+depart the holding fix at the EFC time
+
+EFC time
+expect further clearance time
+
+primary benefits of satellite based area navigation (RNAV)
+provides optimal routing and altitudes
+
+convective outlook for following 24-hour period
+describes areas of slight, moderate, or high risk of thunderstorms
+
+Missed Approach Point (MAP) begins at
+beginning of dotted line on plate
