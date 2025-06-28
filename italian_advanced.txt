@@ -9091,8 +9091,8 @@ figurati il tipo
 cutting board; platter
 il tagliere
 
-return on investment
-il ritorno sugli investimenti
+return on investment (ROI)
+il ritorno sull'investimento; il ritorno sugli investimenti
 
 blackberries
 le more
@@ -78102,9 +78102,6 @@ l'acrimonia
 the payback from (doing something)
 il ritorno da (fare qualcosa)
 
-the return on investment
-il ritorno sull'investimento
-
 plumb
 piombo
 
@@ -93995,4 +93992,22 @@ superare un test di resistenza; superare una prova di sforzo
 
 sleeper car (train)
 la carrozza letto
+
+I think (something) is really gonna take off
+penso che (qualcosa) decollerà davvero
+
+to leave nothing to chance; to not leave anything to chance
+non lasciare niente a caso
+
+shoot; strike; to shoot out; to strike (clock); to flash; to go off; to arrive (moment)
+scoccare
+
+bad omen
+il malaugurio
+
+big belly; pot belly; baby bump; big tummy
+il pancione
+
+big lips; large lips
+i labbroni
 
