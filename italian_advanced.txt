@@ -45601,8 +45601,11 @@ il personal trainer; la personal trainer
 to run a marathon
 correre una maratona
 
-to save something for posterity
-salvare qualcosa per la posterità
+to save (something) for posterity
+salvare (qualcosa) per i posteri
+
+for posterity
+per i posteri
 
 we can work on that problem later
 possiamo lavorare su quel problema più tardi
