@@ -15656,7 +15656,7 @@ hate group
 il gruppo di odio
 
 reserved (person); guarded (emotions)
-riservato
+riservato; misurato
 
 the best of
 il meglio di
@@ -42550,7 +42550,7 @@ pandemico
 noose; halter
 il cappio; il capestro
 
-part of inheritance given to a particular person
+bequest; legacy; inheritance (part given to a particular person)
 il lascito
 
 meteorite
@@ -94010,4 +94010,13 @@ il pancione
 
 big lips; large lips
 i labbroni
+
+I am not allowed to (do something)
+non mi sono permesso (fare qualcosa)
+
+measured person; reserved person; moderate person
+la persona misurata
+
+sewage; slurry
+il liquame
 
