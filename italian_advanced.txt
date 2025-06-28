@@ -94020,3 +94020,6 @@ la persona misurata
 sewage; slurry
 il liquame
 
+chandelier; ceiling lamp; hanging lamp; pendant; light fixture
+il lampadario
+
