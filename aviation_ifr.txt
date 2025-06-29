@@ -105,6 +105,9 @@ extended squitter
 BasicMed can fly which routes
 T routes (terminal)
 
+FAROS is activated when
+sensors detect an aircraft or vehicle on the runway in specific activation zones
+
 active FAROS is displayed using
 flashing PAPIs
 
@@ -112,7 +115,7 @@ microburst downdrafts
 can be as much as 6000 feet/minute
 
 troposphere
-20,000 feet over poles, 25,000 feet over middle latitudes (37,000 feet?), 65,000 feet above equator; generally found between -55 and -65C
+20,000 feet over poles, 37,000 feet over middle latitudes, 65,000 feet above equator; temperatures generally between -55C and -65C
 
 TAA warnings
 red warning flashes with repeating tone

@@ -10700,7 +10700,7 @@ grocery (old-fashioned); drugstore
 la droghiera
 
 lifeguard; lifesaver
-il bagnino
+il bagnino; la bagnina
 
 sinking; shipwreck; wreck
 il naufragio
@@ -18688,7 +18688,7 @@ la pulsione
 airspeed indicator
 l'anemometro; l'indicatore di velocità
 
-coward
+coward; yellowbelly
 il codardo; il vigliacco
 
 to leave alone
@@ -72660,7 +72660,7 @@ by a hair
 per un soffio
 
 voluptuous
-procace
+procace; formosa
 
 voluptuous model
 la procace modella
@@ -94044,5 +94044,131 @@ l'insegnante di educazione fisica; l'insegnante di ginnastica; l'insegnante di p
 bread dough
 l'impasto per il pane; l'impasto per pane
 
-EFC time
-Expect Further Clearance time
+carbureted engine
+il motore a carburatore
+
+odor of lies
+l'odore di menzogna
+
+to eke out (something)
+tirare avanti (qualcosa)
+
+splicer
+la giuntatrice
+
+how should I put this?
+come dovrei dirlo?
+
+to set up (someone) on a date
+combinare un appuntamento (a qualcuno)
+
+2-for-1
+due per uno
+
+2-for-1 deal
+l'offerta due per uno
+
+to take roll call
+fare l'appello
+
+to go to war
+andare in guerra
+
+insubordinate
+insubordinato
+
+churlish
+maleducato; scontroso
+
+scattered order
+l'ordine sparso
+
+turret
+la torretta
+
+suction cup
+la ventosa
+
+sunscreen cream
+la crema con protezione solare
+
+half marathon
+la mezza maratona
+
+outgoing trip; outbound journey
+il viaggio di andata
+
+return trip; return journey
+il viaggio di ritorno
+
+amnesia
+l'amnesia
+
+blacksmith
+il maniscalco
+
+space-time continuum
+il continuum spazio-temporale
+
+Jules Verne
+Giulio Verne
+
+Copernicus
+Copernico
+
+vacuum tube
+il tubo a vuoto
+
+hoverboard
+l'hoverboard
+
+clock tower
+la torre dell'orologio
+
+moccasins
+i mocassini
+
+hangman
+l'impiccacione
+
+time circuit
+il circuito temporale; il tempo circuito
+
+you saved my life
+mi hai salvato la vita
+
+ravine
+il burrone; la gola
+
+silver mine
+la miniera d'argento
+
+coal mine
+la miniera di carbone
+
+no bother
+nessun disturbo
+
+incestuous relationship
+l'inscesturamento
+
+iron warmer
+il scaldaferro
+
+degrading
+degradante
+
+under the care of
+al di cura di
+
+stammer
+la cataglia
+
+don't look down!
+non guardare in basso!; non guardare giù!
+
+florin (money)
+il fiorino
+
+marathon runner
+il maratoneta; la maratoneta
