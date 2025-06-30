@@ -94230,3 +94230,6 @@ in campo
 lemma; headword; premise
 il lemma
 
+corn field; cornfield
+il campo di granturco; il campo di mais
+
