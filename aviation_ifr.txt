@@ -288,8 +288,11 @@ plus or minus 75 feet from field elevation reference level
 sign of supercooled large water droplets forming
 ice forming on propeller spinner and reaching back to propeller blades
 
-during no gyro surveillance or precision approach, make all turns at 
+during no gyro surveillance or precision approach on final approach, make all turns at 
 half standard rate
+
+during no gyro approach prior to being handed off to the final approach controller, make all turns at
+standard rate
 
 letter D in airport sketch box indicates
 runway declared distance information is available
@@ -362,3 +365,25 @@ transponder unserviceable when it is off by more than
 
 VRB in TAF means
 wind direction is variable
+
+on a published transition route, you are cleared for the approach, you may descend
+after reading back the clearance, and to the minimum altitude on the transition
+
+the maximum airspeed in a procedure turn is
+200 knots
+
+the plus-over-plus symbol in airport tower open time range indicates that
+during daylight savings time, hours will be one hour earlier than shown
+
+if wind direction is 260 and magnetic variation is 17E, what is magnetic wind direction
+243
+
+besides attitude indicator, which instruments are pitch instruments
+altimeter, airspeed indicator, VSI
+
+if you are heading south and turn to the east or west
+the compass will precedes the turn and will show a faster rate of turn
+
+if you are heading north and turn to the east or west
+the compass will lag the turn and will show a slower rate of turn
+
