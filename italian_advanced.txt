@@ -6472,7 +6472,7 @@ l’accutezza
 amber
 l’ambra
 
-to shake; to agitate; to rattle; to nod
+to shake; to agitate; to rattle; to nod; to flick
 scuotere
 
 to portray; to depict; to withdraw
@@ -94232,4 +94232,7 @@ il lemma
 
 corn field; cornfield
 il campo di granturco; il campo di mais
+
+to flick (something)
+scuotere (qualcosa); dare un colpetto a (qualcosa)
 
