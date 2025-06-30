@@ -27451,8 +27451,8 @@ brigare
 terminology
 la terminologia
 
-to recuperate; to recover; to make up; to reacquire; to retrieve; to return to get; to undelete; to improve (knowledge in an area); to reutilize; to recycle; to rediscover; to reevaluate
-recuperare
+to recuperate; to recover; to make up; to reacquire; to retrieve; to get back; to return to get; to undelete; to improve (knowledge in an area); to reutilize; to recycle; to rediscover; to reevaluate
+recuperare; ricuperare
 
 some; someone; anybody
 taluno
@@ -94226,3 +94226,7 @@ a metà campo
 
 on the field; in the field
 in campo
+
+lemma; headword; premise
+il lemma
+
