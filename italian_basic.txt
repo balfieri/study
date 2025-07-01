@@ -2326,7 +2326,7 @@ sbagliato
 late; running late; delayed
 in ritardo
 
-soccer; football (European)
+soccer; football (European); kick
 il calcio
 
 basketball
