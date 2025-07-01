@@ -392,3 +392,27 @@ uses ground-based stations along with satellites to provide immediate error corr
 
 RAIM integrity monitoring
 performs only horizontal consistency checks using satellites, with no vertical navigation support or real-time correction
+
+MSA
+Minimal Sector Altitude ensures 1000 feet obstacle clearance within 25 NM of the navigation facility, but not acceptable navigation signal coverage
+
+how to determine if DME is available on an ILS/LOC
+IAP indicates DME/TACAN channel in the LOC frequency box
+
+miniature aircraft of turn coordinator represents
+indirect indication of the bank attitude
+
+first fundamental skill of attitude instrument flying
+instrument cross-check
+
+difference between winds 2000 feet above the surface and surface winds
+winds at 2000 feet tend to parallel the isobars (tending to the right), while surface winds cross isobars toward lower pressure and are weaker
+
+for which speed variation should you notify ATC
+when average TAS changes 5% or 10 knots, whichever is greater
+
+for an alternate airport with a VOR approach only, weather minimums must be
+800 feet ceilings and 2 miles visbility at the ETA
+
+visual illusion that creates narrower-than-usual runway (that aircraft appears higher than it is)
+upsloping runway
