@@ -24649,7 +24649,7 @@ la battaglia
 observation; remark
 l'osservazione
 
-to contain; to rein in
+to contain; to rein in; to curb
 contenere
 
 loss; leak
@@ -94235,4 +94235,37 @@ il campo di granturco; il campo di mais
 
 to flick (something)
 scuotere (qualcosa); dare un colpetto a (qualcosa)
+
+recap
+recappo
+
+big recap; big summary; long recap  
+il recappone  
+
+to instill fear in (someone)
+incutere timore a (qualcuno); infondere paura in (qualcuno)
+
+on a certain level  
+a un certo livello  
+
+to scurry back to  
+sgattaiolare di nuovo verso; tornare di corsa verso  
+
+to curb; to moderate
+contenere; moderare
+
+curb your enthusiasm!  
+contieni il tuo entusiasmo!; modera il tuo entusiasmo!  
+
+heartland of America  
+il cuore dell'America  
+
+scorching hot weather  
+il tempo rovente; il clima torrido  
+
+it's a scorcher  
+fa un caldo torrido; è una giornata rovente  
+
+denaturalization  
+la revoca della cittadinanza; la denaturalizzazione
 

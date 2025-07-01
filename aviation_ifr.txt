@@ -13,7 +13,7 @@ FLAPS
 Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only if aircraft is for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
 
 GRABCARDD
-Generator/alternator; radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyro DME above 24000 feet
+Generator/alternator; radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyro; DME above 24000 feet
 
 ANDS
 WEST EAST: accelerate causes deflection toward north, decelerate toward south
@@ -177,7 +177,7 @@ an approved instrument approach procedure other than GPS and it must be operatio
 roll upset
 exit ASAP, disengage AP, reduce AOA by increasing speed, do not retract flaps, controlled descent as last resort
 
-ATC says: cuise NNNN feet
+ATC says: cruise NNNN feet
 can vacate NNNN without notifying ATC
 
 Coriolis illusion 
@@ -256,7 +256,7 @@ IFR flight plan must be filed prior to
 entering controlled airspace when IMC exists
 
 you may use a GPS approach at the alternate as long as 
-there is a ground-based NAVAUD and airborne receiver to use as a backup
+there is a ground-based NAVAID and airborne receiver to use as a backup
 
 right bracket on a weather depiction chart indicates 
 the station is an automated observation location
@@ -387,3 +387,8 @@ the compass will precedes the turn and will show a faster rate of turn
 if you are heading north and turn to the east or west
 the compass will lag the turn and will show a slower rate of turn
 
+WAAS integrity monitoring
+uses ground-based stations along with satellites to provide immediate error correction and fault detection
+
+RAIM integrity monitoring
+performs only horizontal consistency checks using satellites, with no vertical navigation support or real-time correction
