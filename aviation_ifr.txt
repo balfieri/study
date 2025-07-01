@@ -399,9 +399,6 @@ Minimal Sector Altitude ensures 1000 feet obstacle clearance within 25 NM of the
 how to determine if DME is available on an ILS/LOC
 IAP indicates DME/TACAN channel in the LOC frequency box
 
-miniature aircraft of turn coordinator represents
-indirect indication of the bank attitude
-
 first fundamental skill of attitude instrument flying
 instrument cross-check
 
@@ -416,3 +413,12 @@ for an alternate airport with a VOR approach only, weather minimums must be
 
 visual illusion that creates narrower-than-usual runway (that aircraft appears higher than it is)
 upsloping runway
+
+when on a climb via a SID, the top altitude is
+the highest altitude you climb to on the SID
+
+miniature aircraft of turn coordinator represents
+indirect indication of the bank attitude
+
+indications displayed by the miniature aircraft of turn coordinator
+rate of roll and rate of turn
