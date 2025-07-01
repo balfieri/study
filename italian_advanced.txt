@@ -2578,9 +2578,6 @@ parecchio
 to conduct an investigation
 condurre un'indagine
 
-restless
-inquieto; irrequieto; agitato
-
 restlessness
 l'irrequietezza; l'inquietudine; l'irrequietudine
 
@@ -64211,8 +64208,8 @@ il finanziamento
 fin; flipper
 la pinna
 
-restless; fidgety; uneasy
-irrequieto
+restless; figety; uneasy
+inquieto; irrequieto; agitato
 
 restful
 riposante
@@ -94251,7 +94248,10 @@ a un certo livello
 to scurry back to  
 sgattaiolare di nuovo verso; tornare di corsa verso  
 
-to curb; to moderate
+to moderate
+moderare
+
+to curb
 contenere; moderare
 
 curb your enthusiasm!  
@@ -94269,3 +94269,32 @@ fa un caldo torrido; è una giornata rovente
 denaturalization  
 la revoca della cittadinanza; la denaturalizzazione
 
+to not (do something) at all
+non (fare qualcosa) proprio
+
+songbird; warbler; singing
+il canoro
+
+vocal power
+la potenza canora
+
+ductility; malleability; flexibility; adaptability
+la duttilità
+
+eclecticism
+l'eclettismo
+
+to return; to go back; to come back
+fare ritorno
+
+from Cremona
+cremonese
+
+to put oneself forward; to offer oneself; to set oneself a goal; to intend; to propose to do something
+proporsi
+
+vocal abilities; vocal gifts
+le doti vocali
+
+to record songs; to make recordings
+incidere canzoni
