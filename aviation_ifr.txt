@@ -223,7 +223,7 @@ when decelerating, some attitude indicators will
 precess and indicate a descent
 
 inside class B, must have 
-transponder and pressure altimeter
+transponder with pressure altitude reporting
 
 winds aloft are expressed in 
 true direction and knots
@@ -402,6 +402,12 @@ IAP indicates DME/TACAN channel in the LOC frequency box
 first fundamental skill of attitude instrument flying
 instrument cross-check
 
+second fundamental skill of attitude instrument flying
+instrument interpretation
+
+third fundamental skill of attitude instrument flying
+aircraft control
+
 difference between winds 2000 feet above the surface and surface winds
 winds at 2000 feet tend to parallel the isobars (tending to the right), while surface winds cross isobars toward lower pressure and are weaker
 
@@ -425,3 +431,9 @@ rate of roll and rate of turn
 
 when does destination not require an alternate
 1-2-3 rule: from 1 hour before to one hour after the ETA, there must be at least 2000 feet ceiling and 3 SM visibility
+
+when flying inbound on a localizer front course, the shaded part of the localizer symbol will be
+on the right
+
+when flying inbound on a localizer back course, the shaded part of the localizer symbol will be
+on the left, and reverse sensing will apply to the CDI
