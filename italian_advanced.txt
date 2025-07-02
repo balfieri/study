@@ -11788,7 +11788,7 @@ la tassa
 taxes
 le tasse
 
-rotten; bad; putrid
+rotten; bad; putrid; rotted
 marcio; putrido
 
 to become degraded
@@ -16032,9 +16032,6 @@ il periodo di leva
 
 to embitter
 amareggiare
-
-to make peace with
-riappacificarsi con
 
 to hold back
 trattanersi
@@ -37861,8 +37858,8 @@ da un estremo all'altro
 to show up in person
 presentarsi di persona
 
-to make up (after an argument); to mend fences
-riappacificarsi
+to make peace with; to make up with; to mend fences with
+riappacificarsi con
 
 no stress
 nessuno stress
@@ -94301,4 +94298,56 @@ incidere canzoni
 
 to follow your heart
 seguire il cuore
+
+press secretary
+il segretario stampa
+
+flamboyant
+sgargiante; vistoso
+
+to kindle a passion
+accendere una passione; suscitare una passione
+
+to kindle a fire
+accendere un fuoco
+
+to rekindle a relationship
+riaccendere una relazione; riallacciare una relazione
+
+hand tools
+gli attrezzi a mano
+
+right equipment
+l'attrezzatura giusta
+
+to double-date
+uscire in doppia coppia
+
+to be an extra; to play a bit part
+fare la comparsa
+
+to break up with (someone)
+troncare con (qualcuno)
+
+to pretend not to notice
+pretendersene
+
+to fade; to wear off (color, heat, etc.)
+stemparsi
+
+the 3 stooges
+i tre marmittoni
+
+on fire; unstoppable
+inarrestabile; eccezionale
+
+mildly insane
+un po' folle; leggermente fuori di testa
+
+carburetor heat
+il riscaldatore del carburatore
+
+fuel pump
+la pompa del carburante
+
 
