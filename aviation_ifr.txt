@@ -70,7 +70,7 @@ crosswind is drifting you AWAY from the VOR facility
 turn aircraft until bearing pointer is ahead of the wingtip reference
 
 below 18,000 feet, VORs should be no more than 
-80nm apart
+80 nm apart
 
 BasicMed: 
 no more than 7 occupants, less than 18,000 feet
@@ -201,8 +201,8 @@ change the relative bearing 10 to 20 deg for each half mile deviation
 above 14,000 feet with turbojet in holding pattern, max speed 
 265 knots
 
-one VOR receiver could be 
-tuned alternately between two VORs to identify an intersection
+minimum equipment required to identify an intersection on a Victor airway
+one VOR receiver could be tuned alternately between two VORs
 
 contact approach
 upon request and authorization from ATC, while clear of clouds with at least one statute mile visiblity with the expectation of staying in those conditions, the pilot may deviate from the IAP and proceed to destination airport by visual reference
@@ -310,31 +310,31 @@ VFR visibility and cloud clearance in class B airspace
 3 and clear
 
 VFR visibility and cloud clearance in class C airspace
-3-152
+3 SM 1-5-2
 
 VFR visibility and cloud clearance in class D airspace
-3-152
+3 SM 1-5-2
 
 VFR visibility and cloud clearance in class E airspace at or above 10,000 feet MSL
-5-111
+5 SM 1-1-1 
 
 VFR visibility and cloud clearance in class E airspace below 10,000 feet MSL
-3-152
+3 SM 1-5-2
 
 VFR visibility and cloud clearance in class G airspace above 1200 feet AGL and above 10,000 feet MSL
-5-111
+5 SM 1-1-1
 
 VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but less than 10,000 feet MSL during the day
-1-152
+1 SM 1-5-2
 
 VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but less than 10,000 feet MSL at night
-3-152
+3 SM 1-5-2
 
 VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during the day
-1 and clear
+1 SM and clear of clouds
 
 VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during at night
-3-152
+3 SM 1-5-2
 
 after two-way communication failure at holding fix with an EFC time
 depart the holding fix at the EFC time
@@ -422,3 +422,6 @@ indirect indication of the bank attitude
 
 indications displayed by the miniature aircraft of turn coordinator
 rate of roll and rate of turn
+
+when does destination not require an alternate
+1-2-3 rule: from 1 hour before to one hour after the ETA, there must be at least 2000 feet ceiling and 3 SM visibility
