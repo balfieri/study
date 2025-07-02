@@ -1211,7 +1211,7 @@ spicy
 speziato
 
 eventually; in the end
-alla fine; infine
+alla fine; infine (formale)
 
 at last; after all; finally (at last); ultimately
 finalmente
@@ -8077,7 +8077,7 @@ c'era da fare
 classroom
 l'aula; la classroom
 
-ticket; coupon
+ticket; coupon; service check (car)
 il tagliando
 
 damage; failure; breakdown
@@ -94350,4 +94350,6 @@ il riscaldatore del carburatore
 fuel pump
 la pompa del carburante
 
+peach tea
+il tè alla pesca
 
