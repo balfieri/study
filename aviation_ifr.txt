@@ -310,31 +310,31 @@ VFR visibility and cloud clearance in class B airspace
 3 SM and clear of clouds
 
 VFR visibility and cloud clearance in class C airspace
-3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal
+3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 VFR visibility and cloud clearance in class D airspace
-3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal
+3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 VFR visibility and cloud clearance in class E airspace at or above 10,000 feet MSL
-5 SM, 1000 feet above, 1000 feet below, 1 SM horizontal
+5 SM, 1000 feet above, 1000 feet below, 1 SM horizontal (3 5 11)
 
 VFR visibility and cloud clearance in class E airspace below 10,000 feet MSL
-3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal
+3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 VFR visibility and cloud clearance in class G airspace above 1200 feet AGL and above 10,000 feet MSL
-5 SM, 1000 feet above, 1000 feet below, 1 SM horizontal
+5 SM, 1000 feet above, 1000 feet below, 1 SM horizontal (5 1 11)
 
 VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but less than 10,000 feet MSL during the day
-1 SM, 1000 feet above, 500 feet below, 2000 feet horizontal
+1 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (1 1 52)
 
 VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but less than 10,000 feet MSL at night
-3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal
+3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during the day
 1 SM and clear of clouds
 
 VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during at night
-3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal
+3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 after two-way communication failure at holding fix with an EFC time
 depart the holding fix at the EFC time
