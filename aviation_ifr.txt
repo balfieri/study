@@ -440,3 +440,60 @@ on the left, and reverse sensing will apply to the CDI
 
 Vb
 turbulence penetration speed; often known as Va in piston aircraft
+
+ACS says that pilot must maintain airspeed
+plus or minus 10 knots
+
+ACS says that pilot must maintain altitude
+plus or minus 100 feet, except minus 0 feet for a VDP
+
+ACS says that pilot must maintain selected headings
+plus or minus 10 degrees
+
+ACS says that pilot must track a selected course, radial, bearing, horizontal guidance, or vertical guidance  within
+three-quarter scale deflection of the CDI
+
+ACS says that a pilot must fly a DME arc within
+plus or minus 1 NM
+
+during non-precision approaches, the ACS says that navigation systems may be used to
+display advisory vertical guidance
+
+ACS says regarding the choice of procedures that
+at least one procedure must include a course reversal maneuver, one procedure must be done manually from the IAF (but can use flight directory), and one procedure must be flown partial panel, at least one procedure must be a precision approach using the autopilot
+
+IFR is required when
+flying into a controlled airspace in IMC, flying in class A airspace, flying special VFR at night, acting as a commercial pilot more than 50 nm during the day or anytime at night
+
+minimum requirements of a safety pilot
+holds private pilot in type of airplane being used
+
+when can IFR flight be logged
+for simulated IMC, must go down to minimums; for actual IMC, must go past the FAF
+
+on IFR low chart, the north symbol on a VOR represents
+magnetic north at the time the VOR was installed
+
+on IFR low chart, flag with X over a VOR represents
+point that has a minimum crossing altitutde (MCA)
+
+on IFR low chart, hash marks around a waypoint means
+different altitudes on each side of the waypoint
+
+on IFR low chart, blue vs. black routes
+blue is for GPS route, black is VOR route
+
+with MON VORs, can get to any airport within
+100 nm
+
+other types of RNAV
+VOR-VOR, DME-DME
+
+snowflake on approach plate
+refer to cold temperatures document to make altitude adjustments; if super cold, altitude can read higher than we actually are due to high density of the air
+
+approaches that require WAAS
+LPV, LP; can be used for LNAV/NVAV
+
+LNAV+V and LP+V
+are not published types of approaches, but a GPS navigator feature for vertical advisory guidance
