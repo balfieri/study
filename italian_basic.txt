@@ -5212,7 +5212,7 @@ Napoli
 research; search; quest
 la ricerca
 
-chair (usually in a house); seat; stool
+chair; seat; stool (house, office)
 la sedia
 
 seat (car, train, plane)
