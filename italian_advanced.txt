@@ -1417,7 +1417,7 @@ rollare; ruotolare; rotolare
 to pitch
 beccheggiare
 
-pitch (of airplane)
+pitch (incline)
 il beccheggio
 
 to yaw
@@ -1426,7 +1426,7 @@ imbardare
 yaw
 l'imbardata
 
-roll (noun)
+roll
 il rollio
 
 axis
@@ -30599,7 +30599,7 @@ airline pilot
 il pilota di linea
 
 cockpit
-la cabina di pilotaggio; la cabina del pilota; l'abitacolo
+la carlinga; la cabina di pilotaggio; la cabina del pilota; l'abitacolo
 
 bumpy
 accidentato
@@ -94421,4 +94421,23 @@ suonare la campana
 
 break; separation; deadlift; detachment
 lo stacco
+
+I'll tell him it; I'll tell her it
+glielo dirò
+
+I'll talk to him about it; I'll talk to her about it
+gliene parlarò
+
+elevator (airplane)
+il timone di profondità
+
+stabilizer
+lo stabilizzatore
+
+horizontal stabilizer (airplane)
+lo stabilizzatore orizontale
+
+vertical stabilizer (airplane)
+lo stabilizzatore verticale
+
 
