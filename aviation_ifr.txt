@@ -459,41 +459,41 @@ plus or minus 1 NM
 during non-precision approaches, the ACS says that navigation systems may be used to
 display advisory vertical guidance
 
-ACS says regarding the choice of procedures that
-at least one procedure must include a course reversal maneuver, one procedure must be done manually from the IAF (but can use flight directory), and one procedure must be flown partial panel, at least one procedure must be a precision approach using the autopilot
+ACS says regarding the choice of approach procedures
+at least one procedure must include a course reversal maneuver, one procedure must be done manually from the IAF (but can use the flight director), one procedure must be flown partial panel, and at least one procedure must be a precision approach using the autopilot
 
 IFR is required when
-flying into a controlled airspace in IMC, flying in class A airspace, flying special VFR at night, acting as a commercial pilot more than 50 nm during the day or anytime at night
+flying into controlled airspace in IMC, anytime flying in class A, flying special VFR at night, acting as a commercial pilot more than 50 nm away during the day or anytime at night
 
 minimum requirements of a safety pilot
-holds private pilot in type of airplane being used
+holds private pilot in type of airplane being flown
 
 when can IFR flight be logged
-for simulated IMC, must go down to minimums; for actual IMC, must go past the FAF
+for simulated IMC, pilot must go down to minimums; for actual IMC, pilot must go past the FAF
 
 on IFR low chart, the north symbol on a VOR represents
 magnetic north at the time the VOR was installed
 
 on IFR low chart, flag with X over a VOR represents
-point that has a minimum crossing altitutde (MCA)
+a point that has a minimum crossing altitutde (MCA)
 
 on IFR low chart, hash marks around a waypoint means
-different altitudes on each side of the waypoint
+there are different altitudes on each side of the waypoint
 
 on IFR low chart, blue vs. black routes
-blue is for GPS route, black is VOR route
+blue is for GPS route, black is for VOR route
 
 with MON VORs, can get to any airport within
 100 nm
 
-other types of RNAV
+other members of the RNAV umbrella
 VOR-VOR, DME-DME
 
-snowflake on approach plate
-refer to cold temperatures document to make altitude adjustments; if super cold, altitude can read higher than we actually are due to high density of the air
+snowflake on approach plate means
+refer to cold temperatures document to make altitude adjustments; when super cold, altitude can read higher than we actually are due to high density of the air
 
 approaches that require WAAS
-LPV, LP; can be used for LNAV/NVAV
+LPV, LP; WAAS can also be used for LNAV/NVAV
 
 LNAV+V and LP+V
-are not published types of approaches, but a GPS navigator feature for vertical advisory guidance
+are not published types of approaches; rather +V is a GPS navigator feature for vertical advisory guidance
