@@ -172,7 +172,7 @@ PRM
 RADAR system for monitoring approaches to two closely spaced parallel runways
 
 required alternate must have 
-an approved instrument approach procedure other than GPS and it must be operational upon arrival, and aircraft must be equipped to fly it
+an approved instrument approach procedure other than GPS and it must be operational upon arrival, and aircraft must be equipped to fly it; WAAS GPS is exempt from this rule
 
 roll upset
 exit ASAP, disengage AP, reduce AOA by increasing speed, do not retract flaps, controlled descent as last resort
@@ -437,3 +437,6 @@ on the right
 
 when flying inbound on a localizer back course, the shaded part of the localizer symbol will be
 on the left, and reverse sensing will apply to the CDI
+
+Vb
+turbulence penetration speed; often known as Va in piston aircraft
