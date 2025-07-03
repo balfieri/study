@@ -497,3 +497,6 @@ LPV, LP; WAAS can also be used for LNAV/NVAV
 
 LNAV+V and LP+V
 are not published types of approaches; rather +V is a GPS navigator feature for vertical advisory guidance
+
+pressure altitude equals true altitude when
+standard atmospheric conditions exist (15C and 29.92)
