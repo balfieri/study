@@ -2254,7 +2254,7 @@ in orario; in tempo
 clean; neat
 pulito
 
-fast
+fast; fast-paced
 veloce
 
 quick; fast; swift; rapid; brisk
@@ -5833,7 +5833,7 @@ il segno
 signal; sign (communication); cue
 il segnale
 
-sign (physical); signboard
+sign (physical); signboard; cartel
 il cartello
 
 resource

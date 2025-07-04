@@ -8191,9 +8191,6 @@ irritabile
 irascible; cantankerous; ill-tempered; hot-headed
 irascibile
 
-white supremacist
-il suprematista bianco
-
 white supremacism
 la supremazia bianca
 
@@ -32533,8 +32530,8 @@ l'uomo d'affari spietato
 below the surface; under the surface
 sotto la superficie
 
-methamphetamine; meth
-la metanfetamina
+methamphetamine; meth; crystal meth
+la metanfetamina; la metanfetamena cristallina
 
 Drug Enforcement Agency (DEA)
 l'agenzia antidroga
@@ -35131,9 +35128,6 @@ l'antieroe
 apparently
 all'apparenza
 
-law enforcement
-le forze dell'ordine
-
 sensitive heart
 il cuore sensibile
 
@@ -37078,7 +37072,7 @@ mantenere un atteggiamento positivo
 to hate oneself
 detestarsi
 
-shady; suspicious
+shady; suspicious; sleazy
 losco
 
 to take a few steps; to take a short walk; to stretch one's legs
@@ -91149,8 +91143,11 @@ la donna formosa; la donna con curve
 to evade a search; to escape a frisk
 sfuggire alla perquisizione
 
-police roundup; raid
+police roundup; raid; bust
 la retata
+
+drug bust
+la retata antidroga
 
 bad feelings; ill feelings; disagreements
 i dissapori
@@ -94580,4 +94577,85 @@ svenuto
 
 to have a clear feeling; to have the distinct feeling
 avere la netta sensazione
+
+to enforce the law
+far rispettare la legge; applicare la legge
+
+law enforcement
+le forze dell'ordine; l'applicazione della legge
+
+to catch bad guys; to apprehend criminals
+catturare i cattivi; catturare i criminali
+
+low-level
+di basso livello
+
+low-level criminal
+il crimine di basso livello; il criminale di basso livello; il criminale minore
+
+to cook meth
+cucinare la metanfetamina
+
+character's arc
+l'arco narrativo del personaggio; l'evoluzione del personaggio
+
+to feel dissatisfied with one's life
+sentirsi insoddisfatti della propria vita
+
+to work a second job
+lavorare a un secondo lavoro
+
+the owner treats him badly
+il proprietario lo tratta male
+
+lo and behold
+ecco; guarda
+
+to break bad
+diventare cattivo; prendere una brutta strada
+
+Mexican cartel
+il cartello messicano
+
+cocaine
+la cocaina
+
+to secretly plan to 
+pianificare di nascosto di; segretamente pianificare di
+
+without them knowing
+senza che loro lo sappiano
+
+superlab
+il superlab; il superlaboratorio
+
+legitimate business
+l'attività legittima; l'attività lecita
+
+chain of fast-food restaurants
+la catena di ristoranti fast food
+
+fast-food restaurant
+il ristorante di fast food
+
+drug cartel
+cartello della droga
+
+to receive any money
+ricevere qualsiasi denaro; ricevere alcun denaro
+
+white supremacist
+il suprematista bianco; la supermatista bianca
+
+New Mexico
+Nuovo Messico
+
+action-packed
+pieno di azione
+
+I can't say enough good things about it
+non posso dire abbastanza cose buone su di esso
+
+I have nothing but good things to say about it
+non ho altro che cose buone da dire su di esso
 
