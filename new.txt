@@ -1,0 +1,13 @@
+how VOR works
+LDA vs. ILS
+kinds of ice from PPL
+conditions where airplane pick up clear ice
+how does radiation fog really work
+how does altimeter really work
+static port affects airspeed indicator?
+how does precession occur with gyro instruments?
+heading indicator: rigidity in space, but how
+location of AHRS magnetometer
+can use MFD as a backup
+best tai
+trough - lowest pressure, but why do we care?

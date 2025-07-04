@@ -3721,7 +3721,7 @@ passo dopo passo
 hitman; assassin
 il sicario
 
-petty
+petty; of little importance
 meschino; di poco conto
 
 petty person
@@ -13973,7 +13973,7 @@ posture
 la postura
 
 survivor
-il superstite
+il sopravvissuto; la sopravvissuta; il superstite; la superstite
 
 empathy
 l'empatia
@@ -20224,7 +20224,7 @@ merito di meglio; mi merito di meglio
 to stagnate
 stagnare
 
-to fight; to combat; to brawl
+to fight; to fight against; to combat; to brawl
 combattere
 
 proportion; proportionality
@@ -30244,7 +30244,7 @@ la compassione
 generated
 generato
 
-stick; rod (large, thicker)
+stick; rod (large, thicker); cane
 il bastone
 
 denominated; named; called
@@ -83229,9 +83229,6 @@ l'annebbiamento
 bragger's rights
 diritti di vanto
 
-survivor
-il superstito; la superstita
-
 DINK couple
 la coppia dink
 
@@ -94463,4 +94460,124 @@ sulla terraferma
 
 theatrics; theatricality; dramatic behavior; dramatic display
 l'arte drammatica; la teatralità; il comportamento drammatico
+
+anger translator
+il traduttore della rabbia
+
+to interject
+intervenire; interrompere
+
+junkyard
+lo sfasciacarrozze; la discarica
+
+to stock-pile
+accumulare; fare scorte
+
+hideout
+il nascondiglio; il rifugio
+
+we don't know how to thank you
+non sappiamo come ringraziarti
+
+to flood (engine)
+ingolfarsi
+
+chiral
+chirale
+
+mid-term exam
+l'esame di metà corso
+
+drug addict
+il tossicodipendente
+
+little bath
+il bagnetto
+
+to outmaneuver
+superare con l'astuzia; manovrare meglio
+
+cultural phenomenon
+il fenomeno culturale
+
+hazmat suit
+la tuta protettiva; la tuta anti-contaminazione
+
+quietly
+in modo silenzioso
+
+groundbreaking TV series
+la serie TV rivoluzionaria
+
+juggernaut
+la forza travolgente; il colosso
+
+cultural impact
+l'impatto culturale
+
+the film was shot on location
+il film è stato girato in esterni; il film è stato girato sul posto
+
+on location
+in esterni; sul posto
+
+synchronized swimming
+il nuoto sincronizzato
+
+mirror images of each other
+gli immagini speculari; l'uno il riflesso dell'altro
+
+stake in the company
+la partecipazione nella società
+
+drug empire
+l'impero della droga
+
+I am the one who 
+io sono colui che; sono io che
+
+approval; praise; acclaim; applause; plaudit
+il plauso
+
+crutches
+le stampelle
+
+walking stick
+la bacchetta da passeggio
+
+to face difficulties; to cope with difficulties; to deal with difficulties
+far fronte alle difficoltà
+
+dissatisfaction; unfulfillment
+l'insoddisfazione
+
+dissatisfied; unsatisfied
+insoddisfatto
+
+to endure mistreatment; to put up with abuse
+sopportare le angherie
+
+meek; submissive; compliant
+remissivo
+
+lung cancer
+il cancro ai polmoni
+
+to make more headway in; to gain ground in
+farsi più strada in
+
+to leave the family safe; to ensure the family's safety
+lasciare al sicuro la famiglia; assicurare la sicurezza della famiglia
+
+Emmy award
+il premio Emmy
+
+to test oneself at; to try one's hand at; to undertake; to grapple with; to venture into
+cimentarsi in
+
+fainted; passed out; collapsed; senseless
+svenuto
+
+to have a clear feeling; to have the distinct feeling
+avere la netta sensazione
 

@@ -500,3 +500,24 @@ are not published types of approaches; rather +V is a GPS navigator feature for 
 
 pressure altitude equals true altitude when
 standard atmospheric conditions exist (15C and 29.92)
+
+VOR limitations
+line of sight, cone of confusion, range, often broken, confusion caused by back sensing
+
+three main components of ILS
+localizer and glideslope, marker beacons or DME, approach lighting
+
+full-scale deflection of localizer
+3-6 degrees; 700 feet wide at runway threshold
+
+false glide slope issue with ILS
+lobes of glidescope reflect off the ground and end up way higher, which cause the navigation system to get confused if the aircraft is too high
+
+VOR approach with a letter rather than a runway
+does not line you up with the runway, at least 30 degrees off
+
+embedded thunderstorms are dangerous because
+can't see them as you are going through the surrounding clouds
+
+rotations of high vs. low pressure systems
+high rotate clockwise; low rotate counterclockwise
