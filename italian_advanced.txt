@@ -29459,7 +29459,7 @@ sociopathic
 sociopatico
 
 psychopath; psycho
-lo psicopatico
+lo psicopatico; la psicopatica
 
 psychopathic; psycho
 psicopatico
@@ -94670,4 +94670,7 @@ antirabico; antirabocco
 
 shipping costs
 i costi spedizione
+
+olive grove; olive plantation
+l'oliveto
 
