@@ -521,3 +521,45 @@ can't see them as you are going through the surrounding clouds
 
 rotations of high vs. low pressure systems
 high rotate clockwise; low rotate counterclockwise
+
+how VOR works
+VOR station transmits two radio signals, a stationary reference signal, and a rotating variable signal that is out of phase by the radial
+
+LDA approach
+like a LOC approach, but localizer is 3-5 degrees offset from the runway centerline; requires circle-to-land if offset exceeds 30 degrees
+
+clear ice forms
+when large, supercooled water droplets strike surface and freeze slowly; most common in cumuliform clouds or freezing rain, between 0C and -10C; hard to remove and heavy
+
+rime ice forms
+when smalle, supercooled water droplets freeze rapidly upon contact with the surface, trapping air bubbles; most common in stratiform clouds or light drizzle, between -10C and -20C; easier to remove and lighter and more brittle
+
+mixed ice
+combination of clear and rime
+
+radiation fog forms when
+earth loses its heat at night in the form of infrared radiation because the ground is no longer receiving sunlight; as the ground cools, the temperature of warm, moist, stationary air above it cools to the dew point
+
+static pressure altimeter works by
+comparing ambient pressure outside the aircraft through static port to the pressure inside a sealed diaphram which has a reference pressure of 29.92
+
+airspeed indicator works by
+comparing total pressure inside the Pitot tube with the ambient pressure from the static port
+
+precession occurs with gyro instruments when
+a force is applied to the spinning rotor; instead of responding directly at the point of force, the gyro reacts 90 degrees later in the direction of rotation
+
+steam-gauge heading indicator works by
+having a vacuum pump draw air through it, spinning an internal gyroscope at high speed, which remains rigid in space due to its rotational inertia; as aircraft turns, the instrument case and compass card rotate around the stable gyroscope; the gyroscope can drift over time due to precession
+
+preferred location of AHRS magnetometer
+wingtip, as it is far from sources of magnetic disturbance
+
+significance of a low-pressure trough on a weather map
+troughs are often associated with rising air, which can lead to cloud formation, precipitation, turbulence, and wind shifts; if the air is unstable and moist, the trough can act as a trigger for convective activity
+
+a low-pressure trough may not matter when
+the air is dry and stable
+
+air rises at a low-pressure trough because
+surface winds tend to converge along the axis of lower pressure; they have nowhere to go but up; often times, troughs occur with different air masses meet, so warm, moist air will get pushed upward by cool, dry air
