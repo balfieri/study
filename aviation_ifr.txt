@@ -13,7 +13,7 @@ FLAPS
 Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only if aircraft is for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
 
 GRABCARDD
-Generator/alternator; radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyro; DME above 24000 feet
+Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyro; DME above 24000 feet
 
 ANDS
 WEST EAST: accelerate causes deflection toward north, decelerate toward south; note that a steady turn from east or west does cause compass to overshoot or undershoot
