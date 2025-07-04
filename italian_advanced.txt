@@ -64347,7 +64347,7 @@ door handle
 la maniglia della porta
 
 car door
-la porta dell'auto
+la portiera; la portiera dell'auto
 
 I wish I had known that
 avrei voluto saperlo
