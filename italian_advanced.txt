@@ -9805,7 +9805,7 @@ perseguitare
 mindset; mentality
 la mentalità
 
-gripping; riveting; absorbing
+gripping; riveting; absorbing; compelling
 avvincente
 
 to shriek; to squeal; to squawk
@@ -71372,7 +71372,7 @@ lanciafiamme
 to light things on fire
 dare fuoco alle cose
 
-to light (something) on fire
+to light (something) on fire; to set (something) on fire
 dare fuoco a (qualcosa)
 
 pyromania
@@ -94674,3 +94674,119 @@ i costi spedizione
 olive grove; olive plantation
 l'oliveto
 
+phosphorus
+il fosforo
+
+waste; discard; scrapping
+lo discarto
+
+odd couple
+la strana coppia
+
+good heavens; oh my goodness
+santo cielo
+
+gateway drug
+la droga di passaggio; la droga ponte
+
+weather condition
+la condizione del tempo
+
+furniture factory
+il mobilificio
+
+furniture store
+il negozio di mobili
+
+cocky; presumptuous
+presuntuoso; arrogante
+
+to capture the imagination
+catturare l'immaginazione
+
+to feel part of the story
+sentirsi parte della storia
+
+to go berserk
+diventare furiosi; impazzire
+
+bug; wiretap
+la microspia
+
+to take stock of the situation
+fare il punto della situazione
+
+don't let me see you again; don't show up again
+non farti più vedere
+
+curable
+curabile
+
+I can't get over it
+non ci posso sopra
+
+to give (something) another chance
+dare un'altra chance a (qualcosa)
+
+heartbreaking
+strappalacrime; straziante
+
+I care a lot about you
+ti tengo molto
+
+drug kingpin
+il capo della droga; il boss della droga
+
+compelling show
+lo spettacolo avvincente; la serie coinvolgente
+
+mild-mannered
+dal carattere mite
+
+sheer will
+la sola forza di volontà; la pura volontà
+
+sheer audacity
+l'audacia pura; la pura sfacciataggine
+
+to stoke demand
+alimentare la domanda
+
+to stoke the fire
+ravvivare il fuoco; alimentare il fuoco
+
+to fan the fire
+attizzare il fuoco
+
+to fan the flames
+attizzare le fiamme
+
+to take (someone) aback
+sorprendere (qualcuno); lasciare (qualcuno) di stucco
+
+to rile
+innervosire; irritare
+
+western (noun, film)
+il western
+
+neo-Nazi
+neonazista
+
+crazy ride
+la corsa folle
+
+mutually assured destruction
+la distruzione reciproca assicurata
+
+palette
+la palette
+
+color palette
+la palette di colori
+
+gripping story
+la storia avvincente
+
+cornered
+in trappola; messo alle strette
