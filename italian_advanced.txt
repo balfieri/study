@@ -18959,7 +18959,7 @@ dirty joke
 la barzelletta sporca; la barzeletta sconce
 
 homebody; couch potato
-il pantofolaio; il tipo casalingo
+il pantofolaio; il tipo casalingo; il casalingo
 
 denunciation; complaint; report (police, etc); act of reporting a crime
 la denuncia
@@ -19474,7 +19474,7 @@ il tuffo
 to dive; to plunge; to dip
 tuffare
 
-breathtaking
+breathtaking; stunning
 mozzafiato
 
 stunning
@@ -81042,9 +81042,6 @@ armonioso
 desolate
 desolato
 
-uninhabited
-disabitato
-
 unspoiled
 incontaminato
 
@@ -94814,3 +94811,33 @@ l'ampia distesa aperta; il vasto paesaggio aperto
 
 remote landscape
 il paesaggio remoto; il paesaggio lontano
+
+mining town
+la città mineraria
+
+stunning view
+la vista mozzafiato
+
+troublemaker; quarreller; hell-raiser
+l'attaccabrighe
+
+indigo; indigo blue
+indaco
+
+lilac
+lilla
+
+amaranth
+amaranto
+
+uninhabited; unpopulated
+disabitato
+
+it is something right out of (something)
+è qualcosa che sembra uscito direttamente da (qualcosa)
+
+it is right out of (something)
+è proprio uscito da (qualcosa); sembra preso da (qualcosa)
+
+to be away from home too much; to be too far from home
+stare troppo lontano da casa
