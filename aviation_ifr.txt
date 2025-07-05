@@ -52,7 +52,7 @@ VOR deflection
 1 mile/degree 60 miles out
 
 VOR airborne check
-over designated checkpoint, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees
+over designated checkpoint, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees between two indicated bearings of the VOR (not radials)
 
 VFR waypoints 
 may never be used on an IFR flight plan
@@ -575,3 +575,15 @@ non-precision only (those with an MDA)
 
 on IFR low altitude chart, pilot-controlled lighting at an airport is denoted by
 black oval or circle with the letter L inside, next to the airport's frequency; for part-time or continous, it is often denoted with a star symbol
+
+conditions necessary to be cleared for a visual approach
+ceiling of 1000 feet, 3 miles visibility
+
+when tuned to a localizer, the HSI needle
+points in an arbitrary direction
+
+during which phase of flight would ice accumulation on the leading edge of the wings have the greatest effect
+approach
+
+a precision runway monitor (PRM) approach may require
+simultaneously monitoring two frequencies (e.g., two tower frequencies)
