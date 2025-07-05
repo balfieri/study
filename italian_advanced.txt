@@ -27442,7 +27442,7 @@ brigare
 terminology
 la terminologia
 
-to recuperate; to recover; to make up; to reacquire; to retrieve; to get back; to return to get; to undelete; to improve (knowledge in an area); to reutilize; to recycle; to rediscover; to reevaluate
+to recuperate; to recover; to make up; to reacquire; to retrieve; to get back; to return to get; to undelete; to improve (knowledge in an area); to reutilize; to recycle; to rediscover; to reevaluate; to catch up to
 recuperare; ricuperare
 
 some; someone; anybody
@@ -32531,7 +32531,7 @@ below the surface; under the surface
 sotto la superficie
 
 methamphetamine; meth; crystal meth
-la metanfetamina; la metanfetamena cristallina
+la metanfetamina; la metanfetamena cristallina; il meth
 
 Drug Enforcement Agency (DEA)
 l'agenzia antidroga
@@ -87384,7 +87384,7 @@ a breve
 late; belated; tardy
 tardivo
 
-sign; emblem; insignia
+sign; emblem; insignia; marquee
 l'insegna
 
 oats; oat
@@ -94845,3 +94845,68 @@ stare troppo lontano da casa
 high plain
 l'alta pianura; la grande pianura
 
+retinal scan
+la scansione retinica; la scansione della retina
+
+cactus
+il cactus
+
+superboss
+il superboss
+
+I'm telling you
+te lo dico
+
+take a hit on (something)
+fatti una tirata di (qualcosa)
+
+to fulminate
+fulminare
+
+fulminated mercury
+il mercurio fulminato
+
+baby shower
+la festa di nascitura
+
+open house
+la casa aperta; le porte aperte
+
+to savor
+assaporare; gustare
+
+huge breakthrough
+la grande scoperta; la svolta enorme
+
+boulevard of opportunities
+il viale delle opportunità
+
+boulevard of dreams 
+il viale dei sogni
+
+to soothe the pain
+lenire il dolore; alleviare il dolore
+
+disenfranchisement
+la privazione dei diritti civili o politici
+
+disenfranchised
+privato dei diritti civili; escluso
+
+large swathe of
+l'ampia fascia di; la gran parte di
+
+complete overhaul
+la revisione completa; la revisione totale
+
+time between overhauls
+l'intervallo tra le revisioni
+
+to bemoan something
+lamentarsi di (qualcosa); deplorare (qualcosa)
+
+kindergarten teacher
+la maestra d'asilo; l'insegnante della scuola materna
+
+chemistry teacher
+l'insegnante di chimica
