@@ -2800,7 +2800,7 @@ the greatest thing since sliced bread
 la cosa più grande dal pane a fette; la cosa più grandiosa da quando hanno inventato il pane a fette
 
 I know a guy who knows a guy
-conosco un tipo che conosce un tipo
+conosco un tipo che conosce un tipo; conosco un tizio che conosce un altro tizio
 
 third time's the charm
 la terza volta è quella buona
@@ -6188,3 +6188,6 @@ prendere le difese di (qualcuno); sostenere (qualcuno)
 
 to get one's kicks
 divertirsi; trarre soddisfazione; provare gusto; avere il proprio divertimento
+
+it dawned on me
+mi sono reso conto; mi è venuto in mente; l'ho capito

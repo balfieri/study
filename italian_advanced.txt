@@ -35122,7 +35122,7 @@ la paralisi cerebrale
 ruthless criminal
 lo spietato criminale
 
-antihero
+antihero; anti-hero
 l'antieroe
 
 apparently
@@ -37248,9 +37248,6 @@ era il piano fin dall'inizio
 
 laparoscopy
 la laparoscopia
-
-I know a guy who knows a guy
-conosco un tizio che conosce un altro tizio
 
 to be a big help
 essere di grande aiuto
@@ -72923,9 +72920,6 @@ in aereo; di aereo
 to run (something) by (someone)
 sottoporre (qualcosa) a (qualcuno)
 
-restless
-inquiete
-
 smooth; flat; level
 spianoso
 
@@ -92286,7 +92280,7 @@ infiammabile
 avant-garde; innovative; cutting-edge
 avanguardico
 
-corrupt
+corrupt; crooked
 corrotto; marcio
 
 to be so sick of (something)
@@ -94928,4 +94922,34 @@ il flashback
 
 to get out on the open road
 uscire sulla strada aperta; andare sulla strada aperta
+
+well-rounded person
+la persona completa; la persona equilibrata
+
+to receive death threats
+ricevere minacce di morte
+
+remittance
+la rimessa
+
+insane jealousy
+la gelosia folle; la gelosia ossessiva
+
+security consultant
+il consulente per la sicurezza
+
+crooked lawyer
+l'avvocato corrotto
+
+crooked politician
+l'politico corrotto
+
+innate flaw
+il difetto innato
+
+innate character trait
+il tratto caratteriale innato
+
+to accept help from
+accettare aiuto da
 
