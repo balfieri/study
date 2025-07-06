@@ -37,7 +37,7 @@ a WAAS-capable airplane is exempt from which rule
 that alternate have a non-GPS IAP available
 
 squalls
-16 to 22 knots for at least 1 minute
+sudden increases in wind, 16 to 22 knots, for at least 1 minute
 
 3 places for changeover point
 bend, weird symbol, halfway
@@ -590,3 +590,21 @@ simultaneously monitoring two frequencies (e.g., two tower frequencies)
 
 CAS
 IAS corrected for instrument error, position errors, and installation error
+
+baro-VNAV approach uses
+altimeter to determine vertical guidance rather than satellites or ground-based systems
+
+baro-VNAV approaches are not authorized
+in areas of hazardous terrain or when a remote altimeter setting is required
+
+REIL
+runway lighting that uses a pair of synchronized flashing lights, one on each side of the threashold
+
+MALSR
+fancy set of lights installed along the extended runway centerline
+
+skidding turn is due to
+more centrifugal force than the horizontal lift component
+
+slipping turn is due to
+less centrifugal force than the horizontal lift component
