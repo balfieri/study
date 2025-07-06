@@ -222,8 +222,8 @@ depart at your own risk
 when decelerating, some attitude indicators will 
 precess and indicate a descent
 
-inside class B, must have 
-transponder with pressure altitude reporting
+inside class B, must have for IFR flight
+transponder with pressure altitude reporting (which is same as VFR), two-way communications, VOR receiver or an operable and suitable RNAV system
 
 winds aloft are expressed in 
 true direction and knots
@@ -242,9 +242,6 @@ ice pellets
 
 expect more accumulation of airframe ice 
 near 0C 
-
-when unstable air mass forced up a mountain slope 
-expect clouds with extensive vertical development
 
 when DME specified in IAP
 it may be used in lieu of the OM
@@ -608,3 +605,27 @@ more centrifugal force than the horizontal lift component
 
 slipping turn is due to
 less centrifugal force than the horizontal lift component
+
+how to determine if GPS installed is approved for IFR enroute and approaches
+consult flight manual supplement
+
+during IFR enroute and terminal operations with an approved GPS, ground based facilities
+must be operational along the entire route of flight; exception: WAAS-capable GPS
+
+if you suspect hyperventilation
+consciously breathe at a slower rate than normal; do not need to take deep breaths
+
+when performing a turn to the east or west from a northern heading, the compass will 
+initially indicate a turn in the opposite direction
+
+when performing a turn to the east or west from a southern heading, the compass will 
+initially indicate a greater amount of turn than actually made
+
+type of clouds formed when unstable air mass forced upslope
+clouds with extensive vertical development
+
+type of clouds formed when very stable moist air is forced upslope
+stratified clouds with little vertical development
+
+each dot on a CDI represents
+2 degrees, and each degree represents 1 nm if 60 nm away from the VOR
