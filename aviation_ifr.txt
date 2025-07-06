@@ -587,3 +587,6 @@ approach
 
 a precision runway monitor (PRM) approach may require
 simultaneously monitoring two frequencies (e.g., two tower frequencies)
+
+CAS
+IAS corrected for instrument error, position errors, and installation error
