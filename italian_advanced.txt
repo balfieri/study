@@ -60305,7 +60305,7 @@ ben informato; esperto; competente
 to settle old scores
 regolare vecchi conti
 
-trickster; swindler; cheater; con artist; conman; grifter
+trickster; swindler; cheater; con man; con artist; conman; grifter
 l'imbroglione; il truffatore
 
 after-meal
@@ -94953,3 +94953,20 @@ il tratto caratteriale innato
 to accept help from
 accettare aiuto da
 
+mid-day nap
+la pennichella; il pisolino pomeridiano
+
+cleptomaniac
+il cleptomane; la cleptomane
+
+prone to violent outbursts
+incline a scoppi d'ira violenti; soggetto a scatti di violenza
+
+mid-day
+di mezzogiorno
+
+public release
+il rilascio pubblico
+
+in the back of
+nel retro di

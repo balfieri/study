@@ -629,3 +629,21 @@ stratified clouds with little vertical development
 
 each dot on a CDI represents
 2 degrees, and each degree represents 1 nm if 60 nm away from the VOR
+
+percent of vertical speed that should be used to determine number of feet to lead a level off from a climb
+10%
+
+runway holding position sign is located on
+runways that intersect other runways
+
+when two-radio communications failure under IFR in VFR conditions, the pilot should 
+continue the flight under VFR and land as soon as practical
+
+when a proper glidepath of a 2-bar VASI
+the near bar will be white and the far bar will be red
+
+runway condition codes are reported for which zones
+touchdown, midpoint, and rollout
+
+if wet snow is enounted, what is temperature condition of your altitude
+temperature is above freeezing at your altitude
