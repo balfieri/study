@@ -8737,9 +8737,6 @@ la strategia di uscita
 trajectory
 la traiettoria
 
-to beat around the bush
-tergiversare
-
 obscene
 osceno
 
@@ -16877,7 +16874,7 @@ don't dare
 non ti permettere
 
 to beat around the bush; to not get to the point
-non venire al punto; menare il can per l'aia
+tergiversare; non venire al punto; menare il can per l'aia
 
 once in a blue moon
 ogni morte di papa
@@ -95117,4 +95114,13 @@ la metilammina
 
 stone wall
 il muro di pietra
+
+to stone
+lapidare
+
+victimhood
+il vittimismo; la condizione di vittima
+
+face in the crowd
+il volto nella folla; la persona nella folla
 

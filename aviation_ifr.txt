@@ -76,7 +76,7 @@ BasicMed:
 no more than 7 occupants, less than 18,000 feet; no more than 250 KIAS; up to 12,500 pounds; within the USA (usually); never for hire
 
 GBAS approach 
-flown same as ILS after selected; GBAS landing system (GLS)
+provides less than 1 meter accuracy in horizontal and vertical axes; flown same as ILS after selected; GBAS landing system (GLS)
 
 how much time needed to rid body of alcohol from one beer
 3 hours
@@ -525,6 +525,9 @@ VOR station transmits two radio signals, a stationary reference signal, and a ro
 LDA approach
 like a LOC approach, but localizer is 3-5 degrees offset from the runway centerline; requires circle-to-land if offset exceeds 30 degrees
 
+LDA/GS approach 
+provides both lateral and vertical guidance, but the final approach course is not aligned with the runway due to terrain or obstacle limitations; non-precision approach
+
 clear ice forms
 when large, supercooled water droplets strike surface and freeze slowly; most common in cumuliform clouds or freezing rain, between 0C and -10C; hard to remove and heavy
 
@@ -660,4 +663,42 @@ still in effect and you must remain in VFR conditions
 ATC may issue a STAR
 when ATC seems appropriate, unless the pilot requests No STAR
 
+recommended climb procedure when nonradar approach control tells you to climb to assigned altitude
+optimal climb on centerline until 1000 feet below assigned altitude, then 500 to 1500 feet per minute
+
+what can be substituded for an inoperative ILS outer or middle marker
+compass locator or precision radar
+
+surface analysis chart represents
+frontal positions, pressure patterns, temperature, dewpoint, wind, weather, and obstructions to vision
+
+maximum IFR altitude you may fly in an unpressurized aircraft without giving passengers supplemental oxygen
+15,000 feet
+
+what attitude indication should you see when rolling out from a 180-degree skiding turn to start-and-level flight
+miniature aircraft shows a turn in the opposite direction of the skid
+
+when passing a reporting point, a pilot should include
+time and altitude
+
+when freezing rain is encountered, the pilot should
+climb because the temperature is warmer at a higher altitude
+
+on an instrument approach where DH or MDA applies, the pilot may not descend unless
+the aircraft is continuously in a position from which a descent to normal landing can be made on the intended runway
+
+for an ILS runway with MALSR, how can you determine that penetration of the obstacle identification surfaces and that care should be taken
+when the published visibility for the ILS is no lower than three-quarter SM
+
+descending into fog can create the illusion of
+pitching up
+
+prior to reaching the FAF, ATC advises that RVR is not available
+you may convert RVR to statute miles and continue the approach
+
+operation of airport rotating beacon during daylight hours indicates that
+ground visibility is less than 3 miles and/or the ceiling is less than 1000 feet in class B, C, or D airspace
+
+declaring minimum fuel implies
+an advisory that an emergency situation is possible should any undue delay occur
 
