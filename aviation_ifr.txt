@@ -330,6 +330,9 @@ VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but l
 VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during the day
 1 SM and clear of clouds
 
+Special VFR visibility and cloud clearance in class E airspace at or below 1200 feet AGL during the day
+1 SM and clear of clouds
+
 VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during at night
 3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
@@ -420,11 +423,8 @@ upsloping runway
 when on a climb via a SID, the top altitude is
 the highest altitude you climb to on the SID
 
-miniature aircraft of turn coordinator represents
-indirect indication of the bank attitude
-
-indications displayed by the miniature aircraft of turn coordinator
-rate of roll and rate of turn
+miniature aircraft of turn coordinator represents which indication
+indirect indication of the bank attitude, specifically rate of roll and rate of turn
 
 when does destination not require an alternate
 1-2-3 rule: from 1 hour before to one hour after the ETA, there must be at least 2000 feet ceiling and 3 SM visibility
@@ -645,5 +645,19 @@ the near bar will be white and the far bar will be red
 runway condition codes are reported for which zones
 touchdown, midpoint, and rollout
 
+runway condition code of 0 for braking action means
+nil
+
 if wet snow is enounted, what is temperature condition of your altitude
 temperature is above freeezing at your altitude
+
+airport without an authorized IAP may be included on an IFR flight plan as an alternate if weather allows for
+a descent from the MEA, approach, and landing under basic VFR
+
+once cleared for VFR on TOP, your IFR clearance is
+still in effect and you must remain in VFR conditions
+
+ATC may issue a STAR
+when ATC seems appropriate, unless the pilot requests No STAR
+
+
