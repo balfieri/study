@@ -30514,7 +30514,7 @@ avvalso
 to avail oneself
 avvalersi
 
-to devise; to conceive; to come up with
+to devise; to conceive; to come up with; to create
 ideare
 
 to come home; to return home; to go home
@@ -32534,7 +32534,7 @@ methamphetamine; meth; crystal meth
 la metanfetamina; la metanfetamena cristallina; il meth
 
 Drug Enforcement Agency (DEA)
-l'agenzia antidroga
+l'agenzia antidroga; l'unità antidroga
 
 colorful character
 il personaggio colorato; il personaggio pittoresco; il carattere colorato
@@ -57146,6 +57146,9 @@ il russare
 to be impressed by
 essere impressionati da
 
+to be impressed; to be amazed
+restare impressionati
+
 Q&A
 domande e risposte
 
@@ -59753,7 +59756,7 @@ essere scambiato per (qualcosa)
 in the medium term
 nel mediato
 
-originator; conceiver (of an idea)
+originator; conceiver (of an idea); creator
 l'ideatore; l'ideatrice
 
 thank you from the bottom of my heart
@@ -72179,8 +72182,8 @@ sulle mie gambe
 he would pin me down
 mi avrebbe immobilizzato
 
-to pin down (somebody)
-immobilizzare qualcuno
+to pin down (somebody); to immobilize (somebody)
+immobilizzare (qualcuno)
 
 whenever you're ready
 quando sei pronto
@@ -91077,7 +91080,7 @@ sul finire degli anni 20
 catamaran
 il catamarano
 
-draw; drawing; lot
+draw; drawing; lot; coin toss
 il sorteggio
 
 handheld
@@ -94779,7 +94782,7 @@ la palette di colori
 gripping story
 la storia avvincente
 
-cornered
+cornered; put on the spot
 in trappola; messo alle strette
 
 to experience (something)
@@ -94985,4 +94988,94 @@ il biplano
 
 squib
 la carica pirotecnica; il petardo
+
+surprise party
+la festa a sorpresa
+
+seized money
+il denaro sequestrato
+
+seized drugs
+le droghe sequestrate
+
+in advanced stage; in a late stage (cancer)
+in stato avanzato
+
+coughs; coughing fits
+i colpi di tosse
+
+mixed up in the affair; involved in the affair; entangled in the affair
+invischiato nella vicenda
+
+to involve; to get someone involved in a compromising situation; to birdlime; to trap birds with birdlime
+invischiare
+
+to appoint; to designate; to commission; to entrust; to instruct; to task
+incaricare
+
+io be amazed; to be astonished; to be surprised
+restare stupiti
+
+to make fun of (someone); to make a fool of (someone)
+prendere gioco di (qualcuno); prendere in giro (qualcuno)
+
+to trace back to the source; to go back to the source
+risalire alla fonte
+
+to beat up; to rough up; to mistreat; to manhandle
+malmenare
+
+phosphine
+la fosfina
+
+to run away from the place; to escape from the place
+scappare dal luogo
+
+to let proceed; to let continue; to allow to go on
+lasciar proseguire
+
+to appropriate; to take possession of; to seize
+appropriare; appropriarsi; prendere possesso di
+
+to arouse suspicion in (somebody); to make suspicious in (somebody)
+insospettire (qualcuno)
+
+hatching (eggs)
+la schiusa
+
+hydrofluoric acid
+l'acido fluoridrico
+
+polyethylene
+il polietilene
+
+polythene
+il politene
+
+to corrode; to wear away; to erode; to eat away
+corrodersi
+
+part of the body; body part
+la parte del corpo
+
+coughing fit; fit of coughing
+l'attacco di tosse
+
+softened
+ammorbidito
+
+scuffle; struggle; fight; quarrel
+la colluttazione
+
+as further proof
+a riprova
+
+as further proof of; in confirmation of; as evidence of
+a riprova di
+
+quip; wisecrack; witty remark; witticism; quip
+il frizzo
+
+to inform; to update; to bring up to date
+mettere al corrente
 
