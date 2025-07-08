@@ -40237,9 +40237,6 @@ l'editing genetico
 pioneering
 pionieristico
 
-to be due to
-spettare a
-
 accuracy rate
 il tasso di precisione
 
@@ -60391,9 +60388,6 @@ il martellamento di notizie
 
 to get one's sums wrong; to miscalculate
 sbagliare i propri conti
-
-to undergo; to submit to
-sottoporsi a
 
 to re-hook; to reconnect
 riagganciare
@@ -95078,4 +95072,34 @@ il frizzo
 
 to inform; to update; to bring up to date
 mettere al corrente
+
+to hear an opinion; to get an opinion; to seek an opinion
+sentire il parere
+
+drug abuse; substance abuse
+l'abuso di stupefacenti
+
+to be up to; to be due to; to be owed to; to be entitled to
+spettare a
+
+to short-circuit; to cause a short circuit in
+mandare in cortocircuito
+
+to hesitate; to waver; to falter
+titubare
+
+health coverage
+la copertura sanitaria
+
+to lunge at; to lash out at; to hurl oneself at
+scagliarsi contro
+
+culprit; offender; guilty
+il reo; la rea
+
+to submit oneself to; to subject oneself to
+sottoporsi a
+
+to reassure; to calm down
+tranquillizzare
 
