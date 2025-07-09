@@ -553,7 +553,7 @@ la rotta
 rather than
 anziché; piuttosto che
 
-to beat; to hit; to strike; to beat up
+to beat; to beat up; to hit; to strike
 picchiare
 
 bracket (general)
@@ -24482,7 +24482,7 @@ to unleash fury
 scatenare la furia
 
 principal (school)
-il preside
+il preside; la preside
 
 constructive
 costruttivo
@@ -32528,7 +32528,7 @@ below the surface; under the surface
 sotto la superficie
 
 methamphetamine; meth; crystal meth
-la metanfetamina; la metanfetamena cristallina; il meth
+la metanfetamina; la metanfetamena cristallina; la meth
 
 Drug Enforcement Agency (DEA)
 l'agenzia antidroga; l'unità antidroga
@@ -35563,7 +35563,7 @@ il polline
 to give up (something)
 rinunciare (qualcosa)
 
-to accuse; to charge (legal)
+to accuse; to charge (legal); to show (symptom)
 accusare
 
 beyond this level
@@ -95150,3 +95150,30 @@ le Cascate Niagara
 
 crumpled
 stropicciato
+
+flashforward
+il flashforward
+
+to show the first symptoms; to begin to show the first symptoms
+accusare i primi sintomi
+
+to beat up badly; to beat to a pulp
+picchiare a sangue
+
+beaten up badly; beaten to a pulp
+picchiato a sangue
+
+coma
+il coma
+
+drug-induced coma
+il coma farmacologico
+
+saddened
+rattristato
+
+apparently; on the surface
+in apparenza
+
+biker (motorcycle)
+il biker
