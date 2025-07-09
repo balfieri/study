@@ -49,7 +49,7 @@ VOR MON coverage is nationwide at an altitude of
 5000 feet AGL
 
 VOR deflection
-1 mile/degree 60 miles out
+1 mile per degree from 60 miles out
 
 VOR airborne check
 over designated checkpoint, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees between two indicated bearings of the VOR (not radials)
@@ -70,7 +70,7 @@ crosswind is drifting you AWAY from the VOR facility
 turn aircraft until bearing pointer is ahead of the wingtip reference
 
 below 18,000 feet, VORs should be no more than 
-80 nm apart
+80 nautical miles apart
 
 BasicMed: 
 no more than 7 occupants, less than 18,000 feet; no more than 250 KIAS; up to 12,500 pounds; within the USA (usually); never for hire
@@ -112,7 +112,7 @@ active FAROS is displayed using
 flashing PAPIs
 
 microburst downdrafts 
-can be as much as 6000 feet/minute
+can be as much as 6000 feet per minute
 
 troposphere
 20,000 feet over poles, 37,000 feet over middle latitudes, 65,000 feet above equator; temperatures generally between -55C and -65C
@@ -298,43 +298,43 @@ below low-level temperature inversion layer with high humidity, should expect
 smooth air, poor visibility, fog, haze, low clouds
 
 above 14,500 AGL, VORTAC facilities should be no more than 
-200 nm apart
+200 nautical miles apart
 
 heading to use for teardrop entry to hold
 for right turns, outbound heading minus 30 degree; for left turns, outbound heading plus 30 degrees
 
 VFR visibility and cloud clearance in class B airspace
-3 SM and clear of clouds
+3 statute miles and clear of clouds
 
 VFR visibility and cloud clearance in class C airspace
-3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
+3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 VFR visibility and cloud clearance in class D airspace
-3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
+3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 VFR visibility and cloud clearance in class E airspace at or above 10,000 feet MSL
-5 SM, 1000 feet above, 1000 feet below, 1 SM horizontal (3 5 11)
+5 statute miles, 1000 feet above, 1000 feet below, 1 statute mile horizontal (3 5 11)
 
 VFR visibility and cloud clearance in class E airspace below 10,000 feet MSL
-3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
+3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 VFR visibility and cloud clearance in class G airspace above 1200 feet AGL and above 10,000 feet MSL
-5 SM, 1000 feet above, 1000 feet below, 1 SM horizontal (5 1 11)
+5 statute miles, 1000 feet above, 1000 feet below, 1 statute mile horizontal (5 1 11)
 
 VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but less than 10,000 feet MSL during the day
-1 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (1 1 52)
+1 statute mile, 1000 feet above, 500 feet below, 2000 feet horizontal (1 1 52)
 
 VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but less than 10,000 feet MSL at night
-3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
+3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during the day
-1 SM and clear of clouds
+1 statute mile and clear of clouds
 
 Special VFR visibility and cloud clearance in class E airspace at or below 1200 feet AGL during the day
-1 SM and clear of clouds
+1 statute mile and clear of clouds
 
 VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during at night
-3 SM, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
+3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 after two-way communication failure at holding fix with an EFC time
 depart the holding fix at the EFC time
@@ -394,7 +394,7 @@ RAIM integrity monitoring
 performs only horizontal consistency checks using satellites, with no vertical navigation support or real-time correction
 
 MSA
-Minimal Sector Altitude ensures 1000 feet obstacle clearance within 25 NM of the navigation facility, but not acceptable navigation signal coverage
+Minimal Sector Altitude ensures 1000 feet obstacle clearance within 25 nautical miles of the navigation facility, but not acceptable navigation signal coverage
 
 how to determine if DME is available on an ILS/LOC
 IAP indicates DME/TACAN channel in the LOC frequency box
@@ -427,7 +427,7 @@ miniature aircraft of turn coordinator represents which indication
 indirect indication of the bank attitude, specifically rate of roll and rate of turn
 
 when does destination not require an alternate
-1-2-3 rule: from 1 hour before to one hour after the ETA, there must be at least 2000 feet ceiling and 3 SM visibility
+1-2-3 rule: from 1 hour before to one hour after the ETA, there must be at least 2000 feet ceiling and 3 statute miles visibility
 
 when flying inbound on a localizer front course, the shaded part of the localizer symbol will be
 on the right
@@ -451,7 +451,7 @@ ACS says that pilot must track a selected course, radial, bearing, horizontal gu
 three-quarter scale deflection of the CDI
 
 ACS says that a pilot must fly a DME arc within
-plus or minus 1 NM
+plus or minus 1 nautical mile
 
 during non-precision approaches, the ACS says that navigation systems may be used to
 display advisory vertical guidance
@@ -460,7 +460,7 @@ ACS says regarding the choice of approach procedures
 at least one procedure must include a course reversal maneuver, one procedure must be done manually from the IAF (but can use the flight director), one procedure must be flown partial panel, and at least one procedure must be a precision approach using the autopilot
 
 IFR is required when
-flying into controlled airspace in IMC, anytime flying in class A, flying special VFR at night, acting as a commercial pilot more than 50 nm away during the day or anytime at night
+flying into controlled airspace in IMC, anytime flying in class A, flying special VFR at night, acting as a commercial pilot more than 50 nautical miles away during the day or anytime at night
 
 minimum requirements of a safety pilot
 holds private pilot in type of airplane being flown
@@ -481,7 +481,7 @@ on IFR low chart, blue vs. black routes
 blue is for GPS route, black is for VOR route
 
 with MON VORs, can get to any airport within
-100 nm
+100 nautical miles
 
 other members of the RNAV umbrella
 VOR-VOR, DME-DME
@@ -631,7 +631,7 @@ type of clouds formed when very stable moist air is forced upslope
 stratified clouds with little vertical development
 
 each dot on a CDI represents
-2 degrees, and each degree represents 1 nm if 60 nm away from the VOR
+2 degrees, and each degree represents 1 nautical mile if 60 nautical miles away from the VOR
 
 percent of vertical speed that should be used to determine number of feet to lead a level off from a climb
 10%
@@ -688,7 +688,7 @@ on an instrument approach where DH or MDA applies, the pilot may not descend unl
 the aircraft is continuously in a position from which a descent to normal landing can be made on the intended runway
 
 for an ILS runway with MALSR, how can you determine that penetration of the obstacle identification surfaces and that care should be taken
-when the published visibility for the ILS is no lower than three-quarter SM
+when the published visibility for the ILS is no lower than three-quarter statute miles
 
 descending into fog can create the illusion of
 pitching up
@@ -702,3 +702,29 @@ ground visibility is less than 3 miles and/or the ceiling is less than 1000 feet
 declaring minimum fuel implies
 an advisory that an emergency situation is possible should any undue delay occur
 
+when instructed by ATC to proceed off course to a fix and expect further instruction, what do you do if you are unable to contact ATC
+slow down and prepare to hold at the fix
+
+DME indication when you are directly over a VORTAC at 6000 feet AGL
+1
+
+ice on leading edge of wings has most effect during
+approach
+
+MRA
+minimum reception altitude, which ensures reception of signals from an off airway radio facility to identify a fix
+
+when holding at a VOR, what is the timing procedure
+timing for the outbound leg begins over or abeam the VOR, whichever occurs later
+
+when leveling off from a constant-speed descent, the pilot should lead the leveling-off altitude by
+50 feet
+
+a localizer symbol on a low-level IFR chart indicates
+the localizer has an additional navigation function
+
+valid time frame for low-level significant weather prog charts
+12 to 24 hours in the future
+
+parallel ILS approaches provide
+aircraft a minimum of 1 and one half miles radar separation between successive aircraft
