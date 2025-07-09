@@ -76008,7 +76008,7 @@ unnerving
 snervante
 
 to accommodate your schedule
-venire incontro al tuo programma
+andare incontro alle tue esigenze di orario; adattarsi al tuo programma; venire incontro al tuo programma
 
 forgetting curve
 la curva dell'oblio
@@ -95180,4 +95180,10 @@ il filo spinato
 
 standard-rate turn
 la virata a velocità standard
+
+Brazilian
+brasiliano
+
+Brazilian butt lift (BBL)
+il lifting brasiliano dei glutei; il lifting dei glutei brasiliano
 
