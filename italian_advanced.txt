@@ -56552,9 +56552,6 @@ il miliziano
 to slaughter; to massacre
 fare strage; massacrare
 
-barbed wire
-il filo spinato
-
 fundamentalist
 il fondamentalista; l'integralista
 
@@ -95177,3 +95174,7 @@ in apparenza
 
 biker (motorcycle)
 il biker
+
+barbed wire; barb wire
+il filo spinato
+
