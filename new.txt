@@ -1,0 +1,8 @@
+
+pitot iced over but small hole no t
+air in cockpit is less dense
+altimeter will read higher with alt static
+and airspeed will be higher
+VSI will momentarily record a climb
+but 172 alt static source is external
+each inch of mercury cmcgsnges altitude by 1000 ft
