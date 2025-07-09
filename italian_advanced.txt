@@ -95178,3 +95178,6 @@ il biker
 barbed wire; barb wire
 il filo spinato
 
+standard-rate turn
+la virata a velocità standard
+
