@@ -95235,3 +95235,26 @@ non capisco perché hai fatto quello che hai fatto
 code of conduct
 il codice di condotta
 
+glideslope; glidepath
+il sentiero di discesa; la traiettoria di planata
+
+database
+il database; la base dati
+
+waypoint
+il waypoint; il punto di riferimento
+
+locked onto the path
+agganciato al percorso; bloccato sulla traiettoria
+
+horizontal guidance
+la guida orizzontale
+
+vertical guidance
+guida verticale
+
+safety precaution
+la misura di sicurezza; la precauzione di sicurezza
+
+localizer
+il localizzatore; la radioguida
