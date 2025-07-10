@@ -468,16 +468,16 @@ holds private pilot in type of airplane being flown
 when can IFR flight be logged
 for simulated IMC, pilot must go down to minimums; for actual IMC, pilot must go past the FAF
 
-on IFR low chart, the north symbol on a VOR represents
+on IFR low enroute chart, the north symbol on a VOR represents
 magnetic north at the time the VOR was installed
 
-on IFR low chart, flag with X over a VOR represents
+on IFR low enroute chart, flag with X over a VOR represents
 a point that has a minimum crossing altitutde (MCA)
 
-on IFR low chart, hash marks around a waypoint means
+on IFR low enroute chart, hash marks around a waypoint means
 there are different altitudes on each side of the waypoint
 
-on IFR low chart, blue vs. black routes
+on IFR low enroute chart, blue vs. black routes
 blue is for GPS route, black is for VOR route
 
 with MON VORs, can get to any airport within
@@ -573,7 +573,7 @@ final approach fix for the precision approach, and also the glideslope intercept
 approaches to which a published VDP applies
 non-precision only (those with an MDA)
 
-on IFR low altitude chart, pilot-controlled lighting at an airport is denoted by
+on IFR low enroute altitude chart, pilot-controlled lighting at an airport is denoted by
 black oval or circle with the letter L inside, next to the airport's frequency; for part-time or continous, it is often denoted with a star symbol
 
 conditions necessary to be cleared for a visual approach
@@ -728,3 +728,6 @@ valid time frame for low-level significant weather prog charts
 
 parallel ILS approaches provide
 aircraft a minimum of 1 and one half miles radar separation between successive aircraft
+
+brown vs. green airports on IFR low enroute chart
+brown means it has no instrument approach procedures; green means it dows
