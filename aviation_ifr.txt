@@ -34,7 +34,7 @@ errors in pitch and bank maximum when rolling out of what degree turn?
 180-degree
 
 a WAAS-capable airplane is exempt from which rule
-that alternate have a non-GPS IAP available
+that alternate have a non-GPS IAP available; however, LNAV minima must be used for planning
 
 squalls
 sudden increases in wind, 16 to 22 knots, for at least 1 minute
@@ -257,8 +257,8 @@ MSL
 freezing rain at higher altitudes produces 
 ice pellets
 
-expect more accumulation of airframe ice 
-near 0C 
+can expect the greatest accumulation of airframe ice at which temperature
+0C 
 
 when DME specified in IAP
 it may be used in lieu of the OM
@@ -488,8 +488,11 @@ for simulated IMC, pilot must go down to minimums; for actual IMC, pilot must go
 on IFR low enroute chart, the north symbol on a VOR represents
 magnetic north at the time the VOR was installed
 
-on IFR low enroute chart, flag with X over a VOR represents
+on IFR low enroute chart, flag with X over a point represents
 a point that has a minimum crossing altitutde (MCA)
+
+on IFR low enroute chart, flag with R over a point represents
+a point that has a minimum reception altitutde (MRA)
 
 on IFR low enroute chart, hash marks around a waypoint means
 there are different altitudes on each side of the waypoint
@@ -748,3 +751,9 @@ aircraft a minimum of 1 and one half miles radar separation between successive a
 
 brown vs. green airports on IFR low enroute chart
 brown means it has no instrument approach procedures; green means it dows
+
+terms or values to use when providing a quality of braking report to ATC
+good, good to medium, medium, medium to poor, poor, nil
+
+changing the default sensitivity on your GPS approach will
+disable the GPS annunciator
