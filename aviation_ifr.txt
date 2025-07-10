@@ -72,6 +72,23 @@ turn aircraft until bearing pointer is ahead of the wingtip reference
 below 18,000 feet, VORs should be no more than 
 80 nautical miles apart
 
+for a stabilized approach, the aircraft must be
+in an approved configuration for landing with the correct speed and on the glide path before descending below 1000 feet above the TDZE
+
+if the glide slope and localizer are centered, but airspeed is too fast, initially the pilot should
+adjust power only 
+
+hyperventilation can lead to 
+symptoms of suffocation and drowsiness
+
+advection fog most likely to form when
+a warmer air mass moves inland from the coast in winter and is cooled by the colder land surface
+
+if ATC gives a pilot a clearance void time, he must depart
+before the void time; if he can't, he should report that within 30 minutes after the void time
+
+maximum surface volume distance of a VORTAC below 14,500 feet
+40 nautical miles
 BasicMed: 
 no more than 7 occupants, less than 18,000 feet; no more than 250 KIAS; up to 12,500 pounds; within the USA (usually); never for hire
 

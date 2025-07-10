@@ -10009,7 +10009,7 @@ il versante
 canyon
 la gravina
 
-to hook; to couple
+to hook; to couple; to lock onto
 agganciare
 
 foam; froth
@@ -95247,14 +95247,21 @@ il waypoint; il punto di riferimento
 locked onto the path
 agganciato al percorso; bloccato sulla traiettoria
 
+locked onto (something)
+agganciato a (qualcosa); bloccato su (qualcosa)
+
 horizontal guidance
 la guida orizzontale
 
 vertical guidance
-guida verticale
+la guida verticale
 
 safety precaution
 la misura di sicurezza; la precauzione di sicurezza
 
 localizer
 il localizzatore; la radioguida
+
+wing-shooting; trap shooting
+il tiro a volo
+
