@@ -37057,7 +37057,7 @@ opporsi
 with our heads held high
 a testa alta
 
-to precipitate; to fall; to crash (aircraft)
+to precipitate; to fall; to crash (aircraft); to careen
 precipitare
 
 to despise
@@ -90885,9 +90885,6 @@ la cerimonia di consegna delle lauree; la cerimonia di laurea; la cerimonia di c
 commencement speaker
 l'oratore della cerimonia di laurea; l'oratore della cerimonia di consegna delle lauree
 
-port-a-potty
-il bagno chimico
-
 honorary doctorate degree
 il dottorato honoris causa
 
@@ -95264,4 +95261,97 @@ il localizzatore; la radioguida
 
 wing-shooting; trap shooting
 il tiro a volo
+
+to uphold the law
+far rispettare la legge; difendere la legge
+
+to pursue justice
+perseguire la giustizia
+
+strong moral compass
+il forte senso morale; la bussola morale forte
+
+to act out of revenge
+agire per vendetta
+
+chicken and egg problem
+il problema dell'uovo e della gallina
+
+to knock out (work)
+sbrigare (lavoro); finire subito (lavoro)
+
+knock-off (copy)
+la copia; l'imitazione
+
+ritualistic
+rituale
+
+botched nose job
+la rinoplastica malriuscita
+
+boasting
+il vantarsi; il millantare
+
+data management
+la gestione dei dati
+
+agreed upon; stipulated
+pattuito
+
+misdeed; wrongdoing
+il misfatto
+
+in the clear; unencrypted
+in chiaro
+
+untraceable
+irrintracciabile
+
+satellite anti-theft device
+l'antifurto satellitare
+
+to get worked up; to become altered
+alterarsi
+
+intense exchange of blows
+il fitto scambio di colpi
+
+to take aim
+prendere la mira
+
+psychiatrist
+lo psichiatra; la psichiatra
+
+undertow
+la risacca
+
+have safe flight; have a good flight
+buon volo
+
+portable toilet; port-a-potty
+il bagno chimico
+
+to live next door
+vivere di fianco
+
+to stitch up; to sew up
+ricucire
+
+teeth cover
+il copridenti
+
+to galvanize
+galvanizzare
+
+galvanized
+galvanizzato
+
+lifeless; unconscious
+esanime
+
+cyanide
+il cianuro
+
+zinc oxide
+l'ossido di zinco
 
