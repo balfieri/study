@@ -35711,7 +35711,7 @@ cushy job
 il lavoro comodo; il lavoro facile
 
 to retire
-andare in pensione; pensionarsi
+andare in pensione; pensionarsi; ritirarsi
 
 there's hope
 c'è speranza
@@ -95354,3 +95354,13 @@ il cianuro
 
 zinc oxide
 l'ossido di zinco
+
+holder; possessor
+il tentore; la tentrice
+
+sometimes; at times
+tal volta
+
+do no harm
+non nuocere; non fare del male; primum non nocere
+
