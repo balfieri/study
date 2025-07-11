@@ -36,8 +36,8 @@ errors in pitch and bank maximum when rolling out of what degree turn?
 a WAAS-capable airplane is exempt from which rule
 that alternate have a non-GPS IAP available; however, LNAV minima must be used for planning
 
-squalls
-sudden increases in wind, 16 to 22 knots, for at least 1 minute
+characteristics of squalls
+sudden increases in wind, 16 to 22 knots, for at least 1 minute; can form at any altitude
 
 3 places for changeover point
 bend, weird symbol, halfway
@@ -778,3 +778,13 @@ maintain the airway by use of your navigation equipment
 
 automation has been found to
 create much larger errors at times; it may improve situation awareness, but not situation awareness skills
+
+when being radar vectored for an ILS approach and cleared for the approach, at which point may you start a descent from your last assigned altitude
+when established on a segment of a published route or IAP
+
+four fondamentals involved in maneuvering an aircraft
+straight-and-level flight, turns, climbs, and descents
+
+an aircraft is authorized to conduct an LPV approach if
+it is stated in the aircraft AFM
+
