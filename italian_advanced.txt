@@ -50170,7 +50170,7 @@ la prevenzione degli incendi
 the pyre 
 il rogo
 
-the bonfire
+bonfire; campfire; fire (to sit around)
 il falò
 
 to fall ill
@@ -95364,3 +95364,14 @@ tal volta
 do no harm
 non nuocere; non fare del male; primum non nocere
 
+to light a bonfire; to start a campfire
+accendere un falò
+
+apprenticeship
+il praticantato
+
+è un lungo viaggio; è tanta strada in macchina
+it's a long drive
+
+wage guarantee fund; redundancy fund; layoff fund
+la cassa integrazione
