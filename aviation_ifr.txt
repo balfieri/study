@@ -757,3 +757,24 @@ good, good to medium, medium, medium to poor, poor, nil
 
 changing the default sensitivity on your GPS approach will
 disable the GPS annunciator
+
+the MAP for a non-precision approach begins
+usually at the start of the dashed line, but can be at a specific fix or waypoint as noted, or be based on a time given in a table
+
+when tracking inbound on a location, drift corrections should 
+be accurately established before reaching the outer marker and completion of the apprroach should be accomplished with heading corrections no greater than 2 degrees
+
+a mode C transponder is required in controlled airspace
+above 2500 AGL and above 10,000 feet MSL
+
+types of airspace depicted in IFR low enroute chart
+limits of controlled airspace, military training routes, and special-use airspace
+
+heavy icing on the leading edge of the wing is not as bad as
+light icing on the upper surface
+
+ATC instructs you to resume own navigation after you have been vectored to a Victor airway, so you should
+maintain the airway by use of your navigation equipment
+
+automation has been found to
+create much larger errors at times; it may improve situation awareness, but not situation awareness skills
