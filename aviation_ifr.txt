@@ -350,8 +350,11 @@ VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL
 Special VFR visibility and cloud clearance in class E airspace at or below 1200 feet AGL during the day
 1 statute mile and clear of clouds
 
-VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during at night
+VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during the night
 3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
+
+VFR visibility and cloud clearance that are not 3 1 52
+class B: 3 and clear; class E at least 10,000 feet MSL: 5 1 11; similarly class G over 1200 feet AGL and at least 10,000 feet MSL: 5 1 1 1; class G over 1200 feet AGL but less than 10,000 feet MSL during day: 1 1 52; class G no more than 1200 feet AGL during day: 1 and clear
 
 after two-way communication failure at holding fix with an EFC time
 depart the holding fix at the EFC time
@@ -399,7 +402,7 @@ besides attitude indicator, which instruments are pitch instruments
 altimeter, airspeed indicator, VSI
 
 if you are heading south and turn to the east or west
-the compass will precedes the turn and will show a faster rate of turn
+the compass will precede the turn and will show a faster rate of turn
 
 if you are heading north and turn to the east or west
 the compass will lag the turn and will show a slower rate of turn
@@ -522,7 +525,7 @@ VOR limitations
 line of sight, cone of confusion, range, often broken, confusion caused by back sensing
 
 three main components of ILS
-localizer and glideslope, marker beacons or DME, approach lighting
+localizer and glide slope, marker beacons or DME, approach lighting
 
 full-scale deflection of localizer
 3-6 degrees; 700 feet wide at runway threshold
@@ -552,7 +555,7 @@ clear ice forms
 when large, supercooled water droplets strike surface and freeze slowly; most common in cumuliform clouds or freezing rain, between 0C and -10C; hard to remove and heavy
 
 rime ice forms
-when smalle, supercooled water droplets freeze rapidly upon contact with the surface, trapping air bubbles; most common in stratiform clouds or light drizzle, between -10C and -20C; easier to remove and lighter and more brittle
+when small, supercooled water droplets freeze rapidly upon contact with the surface, trapping air bubbles; most common in stratiform clouds or light drizzle, between -10C and -20C; easier to remove and lighter and more brittle
 
 mixed ice
 combination of clear and rime
@@ -588,7 +591,7 @@ expected response when ATC issues an IFR clearance to pilot of airborne aircraft
 read back those parts containing altitude assignments or vectors, and any part requiring verification
 
 lightning bolt on ILS chart denotes
-final approach fix for the precision approach, and also the glideslope intercept altitude
+final approach fix for the precision approach, and also the glide slope intercept altitude
 
 approaches to which a published VDP applies
 non-precision only (those with an MDA)

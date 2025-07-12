@@ -2269,7 +2269,7 @@ tenersi; avere luogo
 possibly; if need be; if necessary; perhaps
 eventualmente
 
-obnoxious
+obnoxious; insufferable
 insopportabile; odioso; detestabile; ripugnante
 
 curmudgeon; grouch; old stick in the mud
@@ -95381,3 +95381,13 @@ la denominazione di origine controllata (D.O.C.)
 
 protected designation of origin (broader, European law, food and wine)
 la denominazione di origine protetta (D.O.P.)
+
+psilocybin
+la psilocibina
+
+moral conscience
+la coscienza morale
+
+car talk
+la discussione sulle auto; il parlare di macchine
+
