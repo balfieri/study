@@ -95391,3 +95391,6 @@ la coscienza morale
 car talk
 la discussione sulle auto; il parlare di macchine
 
+to delay (something) by (time); to postpone (something) by (time)
+rimandare (qualcosa) di (tempo)
+
