@@ -419,14 +419,8 @@ Minimal Sector Altitude ensures 1000 feet obstacle clearance within 25 nautical 
 how to determine if DME is available on an ILS/LOC
 IAP indicates DME/TACAN channel in the LOC frequency box
 
-first fundamental skill of attitude instrument flying
-instrument cross-check
-
-second fundamental skill of attitude instrument flying
-instrument interpretation
-
-third fundamental skill of attitude instrument flying
-aircraft control
+three fundamental skills of attitude instrument flying
+instrument cross-check, instrument interpretation, and aircraft control
 
 difference between winds 2000 feet above the surface and surface winds
 winds at 2000 feet tend to parallel the isobars (tending to the right), while surface winds cross isobars toward lower pressure and are weaker
