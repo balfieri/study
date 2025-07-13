@@ -2191,9 +2191,6 @@ l'approfondimento
 air traffic control
 il controllo del traffico aereo
 
-air traffic controller
-il controllore del traffico aereo
-
 respectful
 rispettoso; rispettabile
 
@@ -95393,4 +95390,28 @@ la discussione sulle auto; il parlare di macchine
 
 to delay (something) by (time); to postpone (something) by (time)
 rimandare (qualcosa) di (tempo); ritardare (qualcosa) di (tempo)
+
+rebooted (movie)
+rifatto; rilanciato
+
+to let (somebody) day
+lascir morire (qualcuno)
+
+butler
+il maggiordomo
+
+setback; mishap
+il contratempo
+
+shy; evasive
+schivo
+
+in closed session; during closed session
+in corso chiuso
+
+flight controller; air traffic controller
+il controllore di volo; il controllore del traffico aereo
+
+to team up with; collaborate with
+fare squadra con; collaborare con
 

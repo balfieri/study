@@ -3988,7 +3988,7 @@ on the rocks
 con ghiaccio
 
 snap out of it!
-riprenditi!
+reagisci!; datti una svegliata!; riprenditi!
 
 it's raining cats and dogs
 piove a catinelle; viene giù che Dio la manda
@@ -6233,4 +6233,7 @@ ce l'ho ancora!
 
 to give tough love 
 dare amore duro; essere severi (per il bene di qualcuno)
+
+simmer down
+calmati; rilassati
 
