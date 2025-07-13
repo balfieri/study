@@ -39,6 +39,9 @@ that alternate have a non-GPS IAP available; however, LNAV minima must be used f
 characteristics of squalls
 sudden increases in wind, 16 to 22 knots, for at least 1 minute; can form at any altitude
 
+squall lines most often develop
+ahead of a cold front
+
 3 places for changeover point
 bend, weird symbol, halfway
 
@@ -230,8 +233,8 @@ sequence past the MAWP
 sidestep clearance
 perform as soon as possible after runway or runway environment in sight
 
-temperature inversion forms 
-normally only in stable air
+temperature inversion normally forms 
+only in stable air
 
 departing from airport with no IAP and no DP 
 depart at your own risk
@@ -695,6 +698,9 @@ maximum IFR altitude you may fly in an unpressurized aircraft without giving pas
 what attitude indication should you see when rolling out from a 180-degree skiding turn to start-and-level flight
 miniature aircraft shows a turn in the opposite direction of the skid
 
+what error due to precession should you see when rolling out to straight-and-level from a 180-degree steep right turn
+miniature aircraft will show a slight turn to the left
+
 when passing a reporting point, a pilot should include
 time and altitude
 
@@ -811,3 +817,15 @@ separation from all aircraft (VFR traffic need not participate)
 
 yellow demarcation bar indicates
 a runway with a displaced threshold after a blastpad, stopway, or taxiway
+
+in order to fly, your blood alcohol level must be
+below 0.04%
+
+approach briefing must occur at what altitude
+at or above 1000 AGL
+
+tunnel vision and cyanosis are signs of
+hypoxia
+
+ADM risk management relies on
+situational awareness, problem recognition, and good judgement
