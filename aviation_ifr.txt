@@ -330,13 +330,13 @@ VFR visibility and cloud clearance in class D airspace
 3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 VFR visibility and cloud clearance in class E airspace at or above 10,000 feet MSL
-5 statute miles, 1000 feet above, 1000 feet below, 1 statute mile horizontal (3 5 11)
+5 statute miles, 1000 feet above, 1000 feet below, 1 statute mile horizontal (3 5 1 1)
 
 VFR visibility and cloud clearance in class E airspace below 10,000 feet MSL
 3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 VFR visibility and cloud clearance in class G airspace above 1200 feet AGL and above 10,000 feet MSL
-5 statute miles, 1000 feet above, 1000 feet below, 1 statute mile horizontal (5 1 11)
+5 statute miles, 1000 feet above, 1000 feet below, 1 statute mile horizontal (5 1 1 1)
 
 VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but less than 10,000 feet MSL during the day
 1 statute mile, 1000 feet above, 500 feet below, 2000 feet horizontal (1 1 52)
@@ -354,7 +354,7 @@ VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL
 3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 VFR visibility and cloud clearance that are not 3 1 52
-class B: 3 and clear; class E at least 10,000 feet MSL: 5 1 11; similarly class G over 1200 feet AGL and at least 10,000 feet MSL: 5 1 1 1; class G over 1200 feet AGL but less than 10,000 feet MSL during day: 1 1 52; class G no more than 1200 feet AGL during day: 1 and clear
+class B: 3 and clear; class G no more than 1200 feet AGL during day: 1 and clear; class E at least 10,000 feet MSL: 5 1 1 1; similarly class G over 1200 feet AGL and at least 10,000 feet MSL: 5 1 1 1; class G over 1200 feet AGL but less than 10,000 feet MSL during day: 1 1 52
 
 after two-way communication failure at holding fix with an EFC time
 depart the holding fix at the EFC time
@@ -447,7 +447,7 @@ miniature aircraft of turn coordinator represents which indication
 indirect indication of the bank attitude, specifically rate of roll and rate of turn
 
 when does destination not require an alternate
-1-2-3 rule: from 1 hour before to one hour after the ETA, there must be at least 2000 feet ceiling and 3 statute miles visibility
+1 2 3 rule: from 1 hour before to one hour after the ETA, there must be at least 2000 feet ceiling and 3 statute miles visibility; note: rule does not apply if destination does not have an IAP
 
 when flying inbound on a localizer front course, the shaded part of the localizer symbol will be
 on the right
@@ -808,3 +808,12 @@ a pilot may descend from a DA or MDA when
 
 cases where a report must be submitted to the NTSB within 10 days
 1) An accident involving substantial damage to the aircraft, or significant injury or death to an occupant; 2) Overdue aircraft believed to be involved in an accident; 3) Inability of a flight crew member to perform duties due to injury or illness; 4) Flight control system malfunction or failure; 5) In-flight fire; 6) In-flight aircraft collision
+
+flying IFR, GPS service is lost; you have VOR MON, so you should
+proceed VOR-to-VOR and execute an ILS approach at a suitable field
+
+when flying within the outer area of a class C airspace, departure controll provides
+separation from all aircraft (VFR traffic need not participate)
+
+yellow demarcation bar indicates
+a runway with a displaced threshold after a blastpad, stopway, or taxiway
