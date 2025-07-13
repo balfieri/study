@@ -9160,7 +9160,7 @@ la gerarchia
 laundry (clothes)
 il bucato; la biancheria
 
-laundry place; laundry (place)
+laundry room; laundry place; laundry (place)
 la lavanderia
 
 to make a U-turn
@@ -70766,7 +70766,7 @@ puntare in alto
 to aim low
 puntare in basso
 
-dextrous
+dextrous; skilled
 abile; destro
 
 Hispanic
@@ -95414,4 +95414,22 @@ il controllore di volo; il controllore del traffico aereo
 
 to team up with; collaborate with
 fare squadra con; collaborare con
+
+in a panic; panicking; in the grip of panic
+in preda al panico
+
+drug addiction
+la tossicodipendenza
+
+to collect donations; to gather donations
+raccogliere donazioni
+
+received; arrived; achieved
+pervenuto
+
+skilled
+abile; qualificato; esperto; specializzato; competente
+
+overdose
+l'overdose; la dose eccessiva
 
