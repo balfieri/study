@@ -14563,7 +14563,7 @@ annacquare
 arched; curved; cambered
 arcuato
 
-fire basket
+fire pit
 il braciere
 
 humming noise; buzz; drone; hubbub
@@ -20965,7 +20965,7 @@ il rigore
 intense
 intenso
 
-to blanch
+to blanch; to parboil
 sbollentare
 
 to blend; to whisk; to beat; to whip; to churn
@@ -72990,7 +72990,7 @@ styrofoam cooler
 il contenitore di polistirolo
 
 cooler (noun)
-la borsa frigo
+la borsa frigo; il frighetto
 
 to propitiate
 propiziare
@@ -95541,3 +95541,5 @@ il passo in avanti
 to follow the trail; to follow the track; to follow the lead
 seguire la pista
 
+machiavelli card game
+il macchiavelli
