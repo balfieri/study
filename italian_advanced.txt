@@ -18424,9 +18424,6 @@ rendere felice
 you make me happy
 mi rendi felice
 
-to hunt; to chase
-cacciare
-
 hunting; hunt; chase
 la caccia
 
@@ -18960,9 +18957,6 @@ la denuncia
 
 I can handle it
 posso farcela
-
-to denounce; to report (crime); to press charges
-denunciare
 
 you owe me an explanation
 mi devi una spiegazione
@@ -20203,7 +20197,7 @@ la segreteria
 never say never
 mai dire mai
 
-affair; intrigue
+affair; intrigue; tryst; plot
 la tresca
 
 school fees
@@ -23633,7 +23627,7 @@ monetary
 monetario
 
 to bring back; to take back; to report
-riportare
+riportare; riportare indietro
 
 subjective
 soggettivo
@@ -33221,7 +33215,7 @@ to change lifestyle
 cambiare stile di vita
 
 windshield
-la parabrezza
+il parabrezza
 
 to fine
 multare
@@ -45631,8 +45625,11 @@ non posso fare a meno
 to switch
 switchare
 
-clandestine
+clandestine; illegal immigrant; undocumented immigrant
 clandestino
+
+illegal immigrant; undocumented immigrant
+il clandestino; la clandestina
 
 security clearance
 l'autorizzazione di sicurezza; il nulla osta di sicurezza
@@ -64408,6 +64405,9 @@ essere un pelo in ritardo
 
 to talk on the radio
 parlare alla radio
+
+on the radio
+alla radio
 
 battleship
 la corazzata
@@ -95432,4 +95432,112 @@ abile; qualificato; esperto; specializzato; competente
 
 overdose
 l'overdose; la dose eccessiva
+
+I'm not quite ready
+non sono ancora pronto; non sono proprio pronto
+
+circadian rhythm
+il ritmo circadiano
+
+to take a vow of celibacy
+prendere un voto di castità; fare voto di castità
+
+vow of celibacy
+il voto di castità
+
+it tastes so sweet when you do it yourself
+ha un sapore così dolce quando lo fai da solo; è così dolce quando lo fai tu stesso
+
+cortisol
+il cortisolo
+
+grunge band
+il grunge band; il gruppo grunge
+
+don't say a word; don't let yourself be heard; don't make yourself heard
+non farti sentire!
+
+it made me feel bad
+mi ha fatto stare male
+
+to lock (door)
+chiudere a chiave
+
+to button up; to button
+abbottonare
+
+there's traffic at your nine o'clock
+c'è traffico alle vostre ore nove
+
+just as an aside
+solo per inciso; per inciso
+
+drawing depicting (someone)
+il disegno raffigurante (qualcuno)
+
+drug rehabilitation center; drug recovery center
+il centro di recupero dalle droghe
+
+to look on the bright side
+guardare il lato positivo
+
+calm conversation; peaceful conversation; placid conversation
+la pacata conversazione
+
+to set out; to start a journey; to set off
+mettersi in viaggio
+
+to pay little attention to; to not care much about
+badare poco a
+
+to care about
+prenderesi cura di; badare a
+
+aid; help; assistance; support
+l'ausilio
+
+Ouija bourd
+la tavola Ouija
+
+mediumistic; paranormal; extrasensory
+medianico
+
+communication with the spiritual world
+le comunicazioni medianiche
+
+to be on (someone's) side; to stand by (someone)
+essere dalla parte di (qualcuno)
+
+to avenge; to get back at; to retaliate
+vendicare
+
+to take the opportunity; to seize the opportunity
+sfruttare l'occasione
+
+to plant bugs; to place bugs; to install bugs
+piazzare delle microspie
+
+axe blow; blow from an axe
+il colpo di accetta
+
+to witness everything
+assistere al tutto
+
+to notify by phone; to phone to notify; to call to inform
+avvisare per telefono
+
+to act confidently; to behave with ease; to carry oneself nonchalantly
+comportarsi con disinvoltura
+
+divorce lawyer
+l'avvocato divorzista
+
+burst of pride
+lo scatto d'orgoglio
+
+step forward; move forward; progress
+il passo in avanti
+
+to follow the trail; to follow the track; to follow the lead
+seguire la pista
 
