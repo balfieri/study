@@ -7,19 +7,19 @@ AV1ATES
 Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (sensitive, 24 months, IFR only); Transponder (24 months); ELT (12 months or half Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
 
 ATOMATO FLAMES
-Altimeter; Tachometer (for each engine); Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Safety Belts (in occupied seats)
+Altimeter; Tachometer (for each engine); Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Seatbelts (in occupied seats)
 
 FLAPS
 Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only if aircraft is for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
 
 GRABCARDD
-Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyro; DME above 24000 feet
+Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyroscope; DME above 24000 feet
 
 ANDS
 WEST EAST: accelerate causes deflection toward north, decelerate toward south; note that a steady turn from east or west does cause compass to overshoot or undershoot
 
 UNOS 
-undershoot turn from north, overshoot turn from south
+undershoot turn to or from north, overshoot turn to or from south
 
 VOT on ground
 need to be on 360 radial, plus or minus 4 degrees 180 TO or 360 FROM
@@ -308,10 +308,10 @@ plus or minus 75 feet from field elevation reference level
 sign of supercooled large water droplets forming
 ice forming on propeller spinner and reaching back to propeller blades
 
-during no gyro surveillance or precision approach on final approach, make all turns at 
+during no gyroscope surveillance or precision approach on final approach, make all turns at 
 half standard rate
 
-during no gyro approach prior to being handed off to the final approach controller, make all turns at
+during no gyroscope approach prior to being handed off to the final approach controller, make all turns at
 standard rate
 
 letter D in airport sketch box indicates
@@ -569,8 +569,8 @@ comparing ambient pressure outside the aircraft through static port to the press
 airspeed indicator works by
 comparing total pressure inside the Pitot tube with the ambient pressure from the static port
 
-precession occurs with gyro instruments when
-a force is applied to the spinning rotor; instead of responding directly at the point of force, the gyro reacts 90 degrees later in the direction of rotation
+precession occurs with gyroscopic instruments when
+a force is applied to the spinning rotor; instead of responding directly at the point of force, the gyroscope reacts 90 degrees later in the direction of rotation
 
 steam-gauge heading indicator works by
 having a vacuum pump draw air through it, spinning an internal gyroscope at high speed, which remains rigid in space due to its rotational inertia; as aircraft turns, the instrument case and compass card rotate around the stable gyroscope; the gyroscope can drift over time due to precession
@@ -767,7 +767,7 @@ disable the GPS annunciator
 the MAP for a non-precision approach begins
 usually at the start of the dashed line, but can be at a specific fix or waypoint as noted, or be based on a time given in a table
 
-when tracking inbound on a location, drift corrections should 
+when tracking inbound on a localizer, drift corrections should 
 be accurately established before reaching the outer marker and completion of the apprroach should be accomplished with heading corrections no greater than 2 degrees
 
 a mode C transponder is required in controlled airspace
@@ -832,3 +832,30 @@ hypoxia
 
 ADM risk management relies on
 situational awareness, problem recognition, and good judgement
+
+tailplane icing can be detected by
+a sudden uncommanded nose-down pitch
+
+if ATC tells you taxi to a runway
+you may taxi to the runway threshold, but must stop and get clearance before entering any other runway
+
+is an ILS required to have all 3 types of marker beacons?
+no
+
+three types of ILS marker beacons:
+1) outer: blue, dashes, 2) middle: amber, alternate dots and dashes, 3) inner: white, rapid dots
+
+using the local altimeter setting in a particular area is primarily used for
+better vertical separation of aircraft
+
+SIGMET times
+unscheduled arrival, lasts up to 4 hours, but may be reissued for additional 4-hour periods
+
+pilots should state their position on the airport when calling the tower for takeoff when
+departing from a runway intersection
+
+wind group at a forecasted altitude at a particular location or station is omitted in Winds and Temperatures Aloft Forecast when the wind
+at the altitude is within 1500 feet of the station elevation
+
+in severe icing, ice on the wing aft of the deicing boot but in front of the aileron may cause
+roll upset
