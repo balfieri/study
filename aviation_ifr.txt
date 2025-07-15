@@ -239,7 +239,10 @@ only in stable air
 departing from airport with no IAP and no DP 
 depart at your own risk
 
-when decelerating, some attitude indicators will 
+when accelerating, gyroscopic attitude indicators will 
+precess and indicate an ascent; this can be particularly dangerous during takeoff and initial climb
+
+when decelerating, gyroscopic attitude indicators will 
 precess and indicate a descent
 
 inside class B, must have for IFR flight
@@ -696,10 +699,10 @@ maximum IFR altitude you may fly in an unpressurized aircraft without giving pas
 15,000 feet
 
 what attitude indication should you see when rolling out from a 180-degree skiding turn to start-and-level flight
-miniature aircraft shows a turn in the opposite direction of the skid
+miniature aircraft shows a turn in the opposite direction of the skid and slight pitch up
 
 what error due to precession should you see when rolling out to straight-and-level from a 180-degree steep right turn
-miniature aircraft will show a slight turn to the left
+miniature aircraft will show a slight turn to the left and slight pitch up
 
 when passing a reporting point, a pilot should include
 time and altitude

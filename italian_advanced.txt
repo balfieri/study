@@ -27181,7 +27181,7 @@ vantaggioso
 good manners
 le buone maniere
 
-deluded
+deluded; deceived
 illuso
 
 morbid
@@ -41613,9 +41613,6 @@ il sussulto
 
 staging; setting up
 la messinscena
-
-to blight; to plague
-funestare
 
 unfortunately; unluckily
 malauguratamente
@@ -89247,9 +89244,6 @@ al di sotto
 Eurasian
 eurasiatico
 
-plume; panache
-il pennacchio
-
 poise
 la compostezza; il portamento
 
@@ -90189,7 +90183,7 @@ indignarsi
 to drill (oil); to bore
 trivellare
 
-to present rapidly; to submit in quick succession; to present in a hurry
+to present rapidly; to submit in quick succession; to present in a hurry; rapid-fire
 presentare a raffica
 
 to grift
@@ -95543,3 +95537,91 @@ seguire la pista
 
 machiavelli card game
 il macchiavelli
+
+to caravan
+viaggiare con la roulotte; viaggiare in carovana
+
+to prove (somebody) wrong
+dimostrare che (qualcuno) ha torto
+
+to compliment (somebody)
+complimentarsi con (qualcuno)
+
+takeoff; flight (birds, aircraft)
+l'involo
+
+selector; switch
+il selettore
+
+jeopardy
+il pericolo; il rischio; il jeopardy
+
+cornflower
+il fiordaliso
+
+to quiver; to tremble; to simmer (emotion)
+fremere
+
+anti-war
+antiguerra
+
+initiatory; introductory (in a spiritual or mystical sense)
+iniziatico
+
+to soften; to sweeten
+addolcire
+
+to lust after; to desire passionately
+concupire
+
+desired; lusted after
+concupito
+
+to mourn; to ruin; to bring ruin; to blight; to plague
+funestare
+
+dialectal
+dialettale
+
+mongrel dog (dialectal)
+la cagnatta
+
+policeman; gendarme (French)
+il gendarmo; la gendarma
+
+plume; feather (ornamental); panache
+il pennacchio
+
+parish priest
+il parrocco
+
+anointing; unction
+l'unzione
+
+small path; lane
+il viottolo
+
+port (adjective); port-related
+portuale
+
+drowsy; half asleep
+assopito
+
+to open slightly; to reveal
+dischiudere
+
+groove along the face; deep wrinkle
+il solco lungo il viso
+
+to marry (someone off); to give in marriage
+maritare
+
+self-contempt; self-disparagement
+l'autodispregio
+
+car body repairman
+il carrozziere; la carrozziera
+
+rapid-fire round
+il giro a raffica; il round a raffica
+
