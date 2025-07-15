@@ -95625,3 +95625,6 @@ il carrozziere; la carrozziera
 rapid-fire round
 il giro a raffica; il round a raffica
 
+pedagogical; pedagogic; educational; didactic
+pedagogico
+
