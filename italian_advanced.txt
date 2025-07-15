@@ -2725,11 +2725,11 @@ rimanere senza
 recently; lately
 recentemente; di recente; ultimamente; in questo ultimo periodo
 
-to pay attention (informal)
-fare attenzione
+to pay attention to (informal)
+fare attenzione a
 
-to pay attention (more formal, deliberate)
-prestare attenzione
+to pay attention to (more formal, deliberate)
+prestare attenzione a
 
 tiring
 faticoso; stancante
@@ -95657,4 +95657,19 @@ la procedura di avvicinamento
 
 to explain in detail
 spiegare in dettaglio; spiegare nei dettagli
+
+overwhelming amount of work
+la quantità travolgente di lavoro; l'enorme mole di lavoro
+
+a lot of things to get right
+un sacco di cose da sistemare; molte cose da fare bene; molte cose da mettere a posto
+
+to tidy up; to put in order; to fix; to straighten up
+mettere a posto
+
+task at hand
+il compito da svolgere; l'attività in corso
+
+bazooka
+il bazooka; il bazuca
 
