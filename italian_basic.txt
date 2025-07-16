@@ -7969,3 +7969,6 @@ cacciare
 to denounce; to report on; to accuse; to press charges; to inform on
 denunciare
 
+ATM; cash machine; cashpoint
+il bancomat
+

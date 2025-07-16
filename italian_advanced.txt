@@ -8908,8 +8908,8 @@ l’incongruenza
 start-up phase
 la fase di avvio
 
-to be due; to pertain; to belong
-spettare
+to be due to (somebody); to be owed to (somebody)
+spettare a (qualcuno)
 
 to deserve; to merit
 meritarsi
@@ -73073,7 +73073,7 @@ aereo
 natural landmark
 il monumento naturale
 
-footage
+footage; film clip
 il filmato
 
 status quo
@@ -92638,7 +92638,7 @@ setup
 il setup
 
 to launder money
-riciclare denaro
+riciclare denaro; riciclare i soldi
 
 west of me
 a ovest da dove vivo; a ponente da dove vivo; a occidente da dove vivo
@@ -95717,4 +95717,43 @@ la città giudiziaria
 
 at the top of one's voice; loudly
 a scorciagola
+
+to do something bad
+fare qualcosa di brutto
+
+to not be able to put one's finger on it; to not be able to figure out what
+non riuscire a capire esattamente cosa
+
+to figure out (something)
+riuscire a capire (qualcosa)
+
+to guard; to keep under surveillance; to hold under surveillance
+piantonarne
+
+night (you are having); whole night; all night
+la nottata
+
+to withdraw into oneself
+chiudersi in sé stesso
+
+to confide in (somebody)
+confidarsi con (qualcuno)
+
+to hurt (someone's) pride; to wound (someone's) pride
+colpire (qualcuno) nell'orgoglio
+
+in reply; by way of reply; in response
+per tutta risposta
+
+dating; seeing; relationship with
+la frequentazione con
+
+to be caught off guard; to be stunned; to be blown away
+rimanere spiazzati
+
+at the end of the episode
+a fine episodio
+
+as confirmation of
+a conferma di
 
