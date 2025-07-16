@@ -660,7 +660,7 @@ percent of vertical speed that should be used to determine number of feet to lea
 10%
 
 runway holding position sign is located on
-runways that intersect other runways
+runways that intersect other runways, or on taxiways that intersect other runways
 
 when two-radio communications failure under IFR in VFR conditions, the pilot should 
 continue the flight under VFR and land as soon as practical
@@ -680,7 +680,7 @@ temperature is above freeezing at your altitude
 airport without an authorized IAP may be included on an IFR flight plan as an alternate if weather allows for
 a descent from the MEA, approach, and landing under basic VFR
 
-once cleared for VFR on TOP, your IFR clearance is
+once cleared for VFR on top, your IFR clearance is
 still in effect and you must remain in VFR conditions
 
 ATC may issue a STAR
@@ -859,3 +859,21 @@ at the altitude is within 1500 feet of the station elevation
 
 in severe icing, ice on the wing aft of the deicing boot but in front of the aileron may cause
 roll upset
+
+ADS-B as it relates to class C
+required when overflying class C below 10,000 feet MSL; not required when flying under the shelf of class C
+
+fair weather cumulus clouds often indicate
+turbulence at and below the cloud level
+
+how ATC radar is used when facility is approached for approach control services
+course guidance to the final approach course, ASR and PAR approaches, and monitoring of nonradar approaches
+
+altitude-induced hypoxia is caused by
+insufficient partial pressure of inhaled oxygen
+
+reports required of an IFR flight specifying VFR on top in a nonradar environment
+the same reports that are required for any IFR flight
+
+9900+00 on a Winds and Temperatures Aloft Forecast indicates that wind is
+light and variable, less than 5 knots
