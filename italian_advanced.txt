@@ -24658,7 +24658,7 @@ la coltura
 justification
 la giustificazione
 
-wonder
+wonder; marvel
 la meraviglia
 
 to grumble; to complain (in low, rumbling voice); to be grouchy
@@ -92674,7 +92674,7 @@ you are fun to talk to
 è divertente parlare con te; sei divertente da ascoltare
 
 PhD defense; thesis defense
-la difesa della tesi; la discussione della tesi; la difesa del dottorato
+la discussione della tesi; la difesa della tesi; la difesa del dottorato
 
 to come on (lights)
 accendersi
@@ -95757,3 +95757,17 @@ a fine episodio
 as confirmation of
 a conferma di
 
+follower
+il seguaccio; la seguaccia
+
+to go off course
+andare fuori rotta; andare fuori corso
+
+to travel through time to the past
+viaggiare nel tempo verso il passato
+
+to arrange one's own murder 
+organizzare il proprio omicideio
+
+insurance money
+i soldi dell'assicurazione
