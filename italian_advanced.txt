@@ -13714,9 +13714,6 @@ esilarante
 in touch with
 in contatto con
 
-scoundrel; villain
-la canaglia
-
 Nuremberg
 Norimberga
 
@@ -95771,3 +95768,15 @@ organizzare il proprio omicideio
 
 insurance money
 i soldi dell'assicurazione
+
+compelling performance (of a role)
+l'avvincente interpretazione; l'interpretazione convincente
+
+compelling performance (measurement)
+la prestazione convincente; l'esibizione convincente; la prestazione avvincente; l'esibizione avvincente
+
+iconic villain
+il cattivo iconico
+
+villain; scoundrel; bad guy
+il cattivo; il mascalzone; la canaglia
