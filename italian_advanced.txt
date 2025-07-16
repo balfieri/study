@@ -95780,3 +95780,7 @@ il cattivo iconico
 
 villain; scoundrel; bad guy
 il cattivo; il mascalzone; la canaglia
+
+confirmation (Catholic)
+la confermazione; la cresima
+
