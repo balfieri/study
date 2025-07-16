@@ -24530,7 +24530,7 @@ warmly; heartily; cordially
 caldamente
 
 to get bored of; to get tired of; to get sick of
-stufarsi
+stufarsi di; essere annoiati di
 
 very; quite; extremely
 assai
@@ -35373,9 +35373,6 @@ non ho nessun desiderio di; non ho alcun desiderio di
 
 it will take them three times longer to
 ci metteranno tre volte più tempo a
-
-to get sick of me
-stufarsi di me
 
 to run out of things to talk about
 finire gli argomenti di conversazione
