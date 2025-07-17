@@ -4027,7 +4027,7 @@ la ragnatela
 esteem; inherent value; inherent worth
 il pregio
 
-to glimpse; to perceive
+to glimpse; to catch a glimpse of; to foresee; to perceive
 intravedere
 
 step (stairs); rung (ladder)
@@ -12019,8 +12019,11 @@ la spezia
 to spice
 speziare
 
-axe; cleaver
-la mannaia; l'accetta
+cleaver; chopper; ax; axe
+la mannaia
+
+axe; ax
+l'ascia; l'accetta; la mannaia
 
 followers
 i seguaci
@@ -13771,7 +13774,7 @@ il resto è la storia
 to be impressed by
 essere colpiti da; rimanere colpiti da; essere impressionati da; rimanere colpiti da; essere stupiti da; rimanere stupiti da
 
-to awaken; to revive
+to reawaken; to awaken; to revive
 risvegliarsi
 
 perseverance; consistency
@@ -28350,9 +28353,6 @@ invisibile
 
 mucous (adjective)
 mucoso
-
-culprit; offender
-il reo
 
 Christine
 Cristina
@@ -51647,7 +51647,7 @@ I do not dare say
 non oso dire
 
 LSD
-l'LSD
+il LSD
 
 to believe in (something) without questioning it
 credere in (qualcosa) senza mai metterlo in discussione
@@ -85527,7 +85527,7 @@ gli umbrichelli
 to be for or against (something)
 essere a favore o contro (qualcosa)
 
-to return; to hand back; to give back
+to return; to hand in; to hand back; to give back
 riconsegnare
 
 vassal
@@ -95867,3 +95867,63 @@ l'appassionato; il devoto; il sostenitore
 
 to know that going in; to know that going into it
 saperlo fin dall'inizio; saperlo da quando aver iniziato
+
+basin
+la bacinella
+
+blow to the head; shot to the head
+il colpo alla testa
+
+to blame; to place the blame on
+dare la colpa a
+
+lastly; ultimately
+per ultimo
+
+to amputate
+amputare
+
+lethal injection
+l'iniezione letale
+
+to berate (somebody)
+rimproverare (qualcuno); sgridare (qualcuno)
+
+it has nothing to do with
+non ha niente a che fare con; non c'entra niente con
+
+to put the blame back; to blame again
+ricadere la colpa
+
+to surround; to encircle
+accerchiare
+
+intending to; determined to
+intenzionato a
+
+to get oneself exonerated; to get oneself cleared
+farsi scagionare
+
+to sell; to sell off; to market; to push drugs; to spread
+smerciare
+
+manicure center; nail salon
+il centro di manicure
+
+make yourself at home
+sentiti a casa
+
+winning
+la vincita
+
+amazed; astonished; astounded; bewildered; bemused; dazed
+stupefatto
+
+arrived at the door; once at the door; upon reaching the door
+giunti sulla porta
+
+sleeping pill; sleeping tablet
+il sonnifero
+
+that is to say; namely
+vale a dire
