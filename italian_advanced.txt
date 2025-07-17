@@ -9730,7 +9730,7 @@ la costoletta di maiale
 ribs (cooked)
 le costine
 
-to age; to get on in years
+to age; to get old; to grow old; to get on in years
 invecchiare
 
 compared
@@ -74432,9 +74432,6 @@ il cibo per l'anima
 considering that
 considerato che
 
-that is to say
-vale a dire
-
 without doubt!; absolutely!
 non ci piove!
 
@@ -95927,3 +95924,7 @@ il sonnifero
 
 that is to say; namely
 vale a dire
+
+to find out what is going on
+scoprire cosa sta succedendo
+

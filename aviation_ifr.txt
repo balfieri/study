@@ -877,3 +877,9 @@ the same reports that are required for any IFR flight
 
 9900+00 on a Winds and Temperatures Aloft Forecast indicates that wind is
 light and variable, less than 5 knots
+
+name the precision approaches
+ILS and GLS
+
+the missed approach point is at the minimum altitude for the approach when
+the approach has DA or GS after its name
