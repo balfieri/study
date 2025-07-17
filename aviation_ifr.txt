@@ -892,3 +892,6 @@ those requested by ATC, unforecast weather encounted, information related to saf
 
 required reporting points while not in radar contact
 any reports required for radar contact, any compulsory reporting point on charts, leaving final approach fix inbound on a non-precision approach, any correction to ETA that exceeds 2 minutes
+
+approaches that have vertical guidance
+precision: ILS, GLS; non-precision: LPV, LNAV/VNAV, LPV
