@@ -2083,7 +2083,7 @@ penoso
 circuit; tour
 il circuito
 
-to spit out
+to spit; to spit out
 sputare
 
 switch
@@ -15860,7 +15860,7 @@ light at the end of the tunnel
 la luce in fondo al tunnel
 
 silver lining
-il lato positivo
+il lato positivo; il risvolto positivo
 
 to win hands down
 vincere a mani basse
@@ -27175,7 +27175,7 @@ vantaggioso
 good manners
 le buone maniere
 
-deluded; deceived
+delusional; deluded; deceived
 illuso
 
 morbid
@@ -37774,9 +37774,6 @@ il bisconte
 it goes further back
 va più a ritroso
 
-superstitious
-scaramantico
-
 to collide; to crash
 scontrare
 
@@ -47563,7 +47560,7 @@ la calotta; la cupola
 World Environment Day
 la Giornata mondiale dell'ambiente
 
-to delude oneself
+to delude oneself; to lie to oneself
 illudersi
 
 tornado
@@ -55670,7 +55667,7 @@ il siluro
 footrest
 il poggiapiedi
 
-route
+journey; route
 il tragitto
 
 carabiner
@@ -64520,7 +64517,7 @@ rimanere nel personaggio
 to be a double-edged sword
 essere una lama a doppo taglio; essere una spada a doppio taglio
 
-delusional; delirious
+delirious
 delirante
 
 dandelion; blow-pipe; jet; large shower head
@@ -67677,7 +67674,7 @@ little boat
 la barchetta
 
 overqualified
-sovracqualificato
+troppo qualificato
 
 underqualified
 sottoqualificato
@@ -83709,9 +83706,6 @@ stare brocco
 paralyzed person; paralytic
 il paralitico; la paralitica
 
-to spit
-sputtare
-
 dark side
 il lato scuro
 
@@ -95784,3 +95778,92 @@ il cattivo; il mascalzone; la canaglia
 confirmation (Catholic)
 la confermazione; la cresima
 
+everything happens for a reason
+tutto accade per una ragione
+
+superstitious
+superstizioso; scaramantico
+
+to hand over; to submit; to lodge; to file
+sporgere; presentare; depositare
+
+peanut butter and jelly sandwich
+il panino con burro d'arachidi e marmellata
+
+to spiral out of control
+uscire completamente dal controllo; perdere il controllo
+
+off the air
+fuori onda; non in onda
+
+do you feel like (something)
+ti va un (qualcosa)
+
+job application
+la domanda di lavoro; la candidatura
+
+I don't want anything to do with
+non voglio avere a che fare con
+
+soft porn
+il porno soft; la pornografia soft
+
+hallmark
+il marchio distintivo; il segno caratteristico
+
+open flame; strong flame
+il fuoco vivo
+
+God Bless America
+Dio benedica l'America
+
+to shoot in the head
+sparare un colpo in testa
+
+I don't know what to say
+non so che dire
+
+to make a pivot toward
+fare una svolta verso; cambiare direzione verso
+
+my duty
+dovere mio
+
+hoe
+il zappo
+
+a cover-up
+insabbiamento; occultamento; copertura
+
+occupational therapy
+la terapia occupazionale
+
+cog in the machine
+l'ingranaggio nella macchina
+
+to waive; to make an exception; to disregard; to deviate from; to derogate from; to depart from  
+derogare
+
+to rewild your life
+rinaturalizzare la propria vita; riportare la propria vita alla natura
+
+to reach a breaking point
+raggiungere il punto di rottura
+
+rock formation
+la formazione rocciosa
+
+circle of love
+il cerchio d'amore
+
+suspension bridge
+il ponte sospeso
+
+employee #391
+l'impiegato numero 391; il dipendente 391
+
+devotee
+l'appassionato; il devoto; il sostenitore
+
+to know that going in; to know that going into it
+saperlo fin dall'inizio; saperlo da quando aver iniziato
