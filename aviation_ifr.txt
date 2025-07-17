@@ -267,7 +267,7 @@ can expect the greatest accumulation of airframe ice at which temperature
 0C 
 
 when DME specified in IAP
-it may be used in lieu of the OM
+it may be used in lieu of the OM, but not the MM
 
 can deviate from an ATC clearance in response to 
 TCAS II resolution advisory
@@ -895,3 +895,27 @@ any reports required for radar contact, any compulsory reporting point on charts
 
 approaches that have vertical guidance
 precision: ILS, GLS; non-precision: LPV, LNAV/VNAV, LPV
+
+what happens to residual ice that remains after deice boots shed ice
+residual ice increases with a decrease in airspeed or temperature
+
+if an aircraft is in class C and has inoperative ADS-B, a request can be made to the ATC facility
+at any time
+
+FDC NOTAMs advise of
+changes in flight data that affect instrument approaches, aeronautical charges, and flight restrictions
+
+when on simultaneous approaches, each pilot receives advisories on
+tower frequency
+
+an alternate with only a WAAS approach can be used based on which minima
+LNAV minima
+
+weather minimums that must be forecast at the ETA for an alternate airport that has a precision approach
+600 feet ceiling and 2 statute miles visibility
+
+weather minimums that must be forecast at the ETA for an alternate airport that has only a non-precision approach
+800 feet ceiling and 2 statute miles visibility
+
+if an ILS glide slope becomes operative, you may substitute
+LOC minimums
