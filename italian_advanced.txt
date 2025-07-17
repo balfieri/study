@@ -24436,7 +24436,7 @@ il brit milà; il milà
 cancellation; notice; removal
 la disdetta
 
-dismissed; discharged; resigned
+dismissed; discharged; resigned; released
 dimesso
 
 circumcision
@@ -73289,7 +73289,7 @@ pruriginoso
 to strike a balance
 trovare un equilibrio
 
-sequestered
+sequestered; kidnapped
 sequestrato
 
 one life too many
@@ -95933,4 +95933,40 @@ il ring da boxe; il quadrato
 
 skating rink
 la pista di pattinaggio
+
+laid out
+presentato; illustrato; esposto
+
+disconnected
+disconnesso; scollegato; staccato
+
+purpose; resolution
+il proposito
+
+to address the issue; to take up the matter
+prendere la questione
+
+to be kidnapped; to get kidnapped
+venire sequestrati
+
+to reach peace; to arrive at peace; to achieve peace
+giungere alla pace
+
+to sense the intentions of; to grasp the intentions of
+intuire le intenzioni di
+
+hesitant; wavering
+tentennante
+
+to reach an agreement; to arrive at an agreement; to come to an agreement
+giungere ad un accordo
+
+reluctant to; unwilling to; loth to
+restio a
+
+to be guilty of; to stain oneself with; to become stained with
+macchiarsi di
+
+atrocious; heinous; dreadful; terrible; excruciating
+atroce
 
