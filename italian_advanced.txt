@@ -91740,8 +91740,8 @@ dissentire
 sycophantic
 servile; adulatorio
 
-sycophancy
-il servilismo; l'adulazione
+sycophancy; servile behavior
+il servilismo; l'adulazione servile; il comportamento servile
 
 emotional pain
 il dolore emotivo
