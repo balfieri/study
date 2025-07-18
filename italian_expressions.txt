@@ -3487,3 +3487,6 @@ scommettere la testa
 weak bridge
 il ponte debole
 
+to excuse oneself; to go without bothering further
+togliere disturbo
+
