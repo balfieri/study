@@ -443,8 +443,11 @@ upsloping runway
 when on a climb via a SID, the top altitude is
 the highest altitude you climb to on the SID
 
-miniature aircraft of turn coordinator represents which indication
-indirect indication of the bank attitude, specifically rate of roll and rate of turn
+miniature aircraft of turn coordinator provides
+indirect indication of the bank attitude
+
+ball of turn coordinator indicates
+quality of the turn
 
 when does destination not require an alternate
 1 2 3 rule: from 1 hour before to one hour after the ETA, there must be at least 2000 feet ceiling and 3 statute miles visibility; note: rule does not apply if destination does not have an IAP

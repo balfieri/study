@@ -436,7 +436,7 @@ entrare
 to jump
 saltare
 
-to run
+to run; to speed
 correre
 
 to walk

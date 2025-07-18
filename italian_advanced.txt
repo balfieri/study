@@ -13684,7 +13684,7 @@ insolito
 doctor's appointment
 l'appuntamento dal dottore; l'appuntamento medico
 
-hectic; frenetic; uncontrollably excited; panicked; frenzied (general state)
+frantic; hectic; frenetic; uncontrollably excited; panicked; frenzied (general state)
 frenetico
 
 hectic
@@ -16713,9 +16713,6 @@ faccio presente che
 
 do your best
 fai del tuo meglio
-
-fair weather friends
-gli amici quando fa comodo
 
 to cut it out
 fare finita
@@ -22511,7 +22508,7 @@ to rekindle
 riaccendere; ravvivare
 
 machinery
-macchinario
+il macchinario; i macchinari
 
 grinding; milling
 la macinatura; la macinazione
@@ -25804,7 +25801,7 @@ polmonare
 chronological
 cronologico
 
-to incite; to stir up a rebellion
+to rebel; to incite; to stir up a rebellion
 ribellare
 
 separately
@@ -45049,9 +45046,6 @@ le vicinanze
 impeccable; flawless
 impeccabile; senza difetti; inappuntabile
 
-impeccable
-impeccabile
-
 tremendously
 tremendamente
 
@@ -54982,7 +54976,7 @@ adocchiato
 to spot; to notice
 adocchiare
 
-plausible; likely
+realistic; credible; believable
 verosimile
 
 raisin toast
@@ -64450,9 +64444,6 @@ una tantum (qualcosa)
 
 towards it
 verso di esso; verso di essa
-
-playroom; game room
-la sala giochi
 
 children's play area
 l'area giochi per bambini
@@ -95972,4 +95963,127 @@ atroce
 
 tutors; guards; braces; supports
 i tutori
+
+fly swatter
+l'ammazzamosche
+
+to swat a fly
+schiacciare una mosca
+
+West Nile virus
+il virus del Nilo occidentale
+
+fly strip
+la striscia per mosche
+
+everything points to the possibility that
+tutto fa pensare che; tutto lascia supporre che
+
+who ever asked you?; who asked you?
+chi te l'ha mai chiesto?
+
+perpetual motion
+il moto perpetuo
+
+more than fair; more than just
+più che giusto
+
+provisional
+provisorio
+
+financier; backer
+il finanziatore; la finanziatrice
+
+just the right touch of vulgarity
+la giusta punta di volgarità
+
+lasertag
+il lasertag
+
+playroom; game room; arcade
+la sala giochi
+
+penny arcade
+la sala giochi a gettone
+
+believe it or not
+credici o no
+
+to get caught
+farsi beccare
+
+he knows exactly what he's doing; she knows exactly what she's doing
+sa bene quello che si fa
+
+on the highway
+in autostrada
+
+to get caught; to get found out
+farsi scoprire
+
+respirator
+il respiratore
+
+asset forfeiture
+la confisca dei beni
+
+minute amount of money
+la somma irrisoria; la cifra irrisoria
+
+futility
+la futilità
+
+crime doesn't pay
+il crimine non paga
+
+what's on your mind?
+cos'hai in testa
+
+it's a whole different story; it's something else altogether
+è tutto un'altra storia
+
+with or without you
+con o senza di te
+
+to get arrested
+farsi arrestare
+
+to sponge off
+spugnare
+
+sponge bath
+il bagno a spugna
+
+balloon
+il balloncino
+
+swept moment; fleeting moment
+il momento spazzato
+
+to do without him
+per fare a meno di lui
+
+two more times; two other times
+altre due volte
+
+to get on (someone's) nerves; to make (someone's) nerves
+far innervosire (qualcuno)
+
+leak; spill
+la fuoruscita
+
+to be forced to (do something)
+essere costretti a (fare qualcuno)
+
+spiteful
+astioso; rancoroso; dispettoso
+
+strained relationship; tense relationship
+la relazione tesa
+
+bawdy
+sboccato; licenzioso
+
+gear box oil
+l'olio del cambio
 
