@@ -141,7 +141,7 @@ TAA warnings
 red warning flashes with repeating tone
 
 how to recover from unusual attitude without an attitude indicator
-airspeed and altimeter stop movement and VSI reverses trend
+airspeed and altimeter stop movement and VSI reverses trend, indicating level flight
 
 only DME part of VORTAC is operative when
 pulse only every 30 sec
@@ -564,7 +564,7 @@ mixed ice
 combination of clear and rime
 
 radiation fog forms when
-earth loses its heat at night in the form of infrared radiation because the ground is no longer receiving sunlight; as the ground cools, the temperature of warm, moist, stationary air above it cools to the dew point
+earth loses its heat at night in the form of infrared radiation because the ground is no longer receiving sunlight; as the ground cools, the temperature of warm, moist, stationary air above it cools to the dew point; can form at daybreak
 
 static pressure altimeter works by
 comparing ambient pressure outside the aircraft through static port to the pressure inside a sealed diaphram which has a reference pressure of 29.92
@@ -801,7 +801,7 @@ an airport is considered to be IFR when
 the visibility is less than 3 miles OR the ceiling is less than 1000 ft AGL
 
 VASI provides obstruction clearance within
-4 NM of the runway and within 10 degrees of the extended runway centerline
+4 nautical miles of the runway and within 10 degrees of the extended runway centerline
 
 3 types of runway lights
 1) runway edge lights, abbreviated as MIRL and HIRL, are white lights along the runway edges; 2) runway end identifier lights, abbreviated as REIL, are a pair of synchronized flashing white lights located laterally on each side corner of the runway threshold; 3) in-runway center-line lighting, abbreviated as RCLS, are white lights down the runway centerline that sometimes change to alternating red and white colors on the last 3,000 feet of runway, and all red on the final 1,000 feet of runway length
@@ -896,6 +896,9 @@ those requested by ATC, unforecast weather encounted, information related to saf
 required reporting points while not in radar contact
 any reports required for radar contact, any compulsory reporting point on charts, leaving final approach fix inbound on a non-precision approach, any correction to ETA that exceeds 2 minutes
 
+required reporting points for a route not on established airways
+all fixes selected to define the route
+
 approaches that have vertical guidance
 precision: ILS, GLS; non-precision: LPV, LNAV/VNAV, LPV
 
@@ -925,3 +928,27 @@ LOC minimums
 
 dangers in flying under the anvil of a thunderstorm
 severe turbulence, lightning, hail
+
+in order to enter class B with an inoperative transponder, you must submit a deviation request
+to the controlling ATC facility at least one hour before the proposed flight
+
+before beginning an IFR flight, the pilot must become familiar with information related to the flight, including
+the runway lengths at airports of intended use, and the aircraft's takeoff and landing data
+
+if DME is inoperative, the airborne DME will
+not transmit a coded identification audio tone
+
+at FL270, ATC will assign speed adjustments not less than
+250 knots
+
+outbound destination sign signifies
+direction to takeoff runway
+
+bright runway and approach lights where few lights are illuminating can create the illusion of
+being closer to the runway that you actually are
+
+with an Expect Departure Clearance Time (EDCT), aircraft are expected to depart
+between 5 minutes before and 5 minutes after the EDCT
+
+MOCA assures acceptable navigational signal coverage from a VOR of
+22 nautical miles
