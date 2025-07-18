@@ -595,7 +595,7 @@ abbindolare
 how wonderful
 che meraviglia
 
-to split; to cleave; to break; to rock; to be awesome
+to split; to cleave; to break; to rock; to rock out; to be awesome
 spaccare
 
 playful; joking
@@ -9056,7 +9056,7 @@ approachable
 avvicinabile; alla mano
 
 along the way
-lungo la strada
+lungo la strada; per strada
 
 scoop of ice cream
 la pallina del gelato
@@ -51039,6 +51039,9 @@ nato naturale
 
 natural-born killer
 l'assassino nato
+
+killer
+l'assassino; l'assassina; il killer
 
 fleeting; transient; ephemeral
 fugace; effimero
@@ -96096,3 +96099,11 @@ l'accelerazione da fermo; l'accelerazione in partenza
 revving; rev; flatness (drink); act of revving; act of making a drink flat
 la sgasata
 
+to evoke a certain emotion
+evocare una certa emozione
+
+the song builds and builds
+la canzone cresce; la canzone si sviluppa sempre di più
+
+to rock out
+suonare alla grande; spaccare

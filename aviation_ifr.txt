@@ -922,3 +922,6 @@ weather minimums that must be forecast at the ETA for an alternate airport that 
 
 if an ILS glide slope becomes operative, you may substitute
 LOC minimums
+
+dangers in flying under the anvil of a thunderstorm
+severe turbulence, lightning, hail
