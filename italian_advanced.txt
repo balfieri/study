@@ -65427,7 +65427,7 @@ homeowner; home owner
 il proprietario di casa
 
 backup band
-il gruppo di supporto
+la band di supporto; il gruppo di supporto
 
 to go on sale
 andare in vendita

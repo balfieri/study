@@ -7972,3 +7972,6 @@ denunciare
 ATM; cash machine; cashpoint
 il bancomat
 
+band (music)
+la band; il gruppo
+
