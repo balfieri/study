@@ -11779,7 +11779,7 @@ la tassa
 taxes
 le tasse
 
-rotten; bad; putrid; rotted
+rotten; rotted; spoiled; bad; putrid; rotted
 marcio; putrido
 
 to become degraded
@@ -77331,7 +77331,7 @@ tranchant
 glimmer
 il barlume
 
-rotten
+rotted; rotting (begun or in the process)
 marcito
 
 progeria
