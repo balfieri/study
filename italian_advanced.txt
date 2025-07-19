@@ -74939,7 +74939,7 @@ il rifarcimento
 the things I care about
 le cose di cui mi importa
 
-to care about (something)
+to care about (something); to get interested in (something)
 interessarsi a (qualcosa); interessarsi di (qualcosa)
 
 to end up inside
@@ -81408,7 +81408,7 @@ andare a prendere (qualcuno) a (posto)
 I can't answer you; I don't know how to respond
 non ti so rispondere
 
-manhole
+manhole; manhole cover
 il tombino
 
 trellis
@@ -96111,4 +96111,30 @@ suonare alla grande; spaccare
 history class
 la classe di storia
 
+to meet the requirements for
+soddisfare i requisiti per; essere idonei per
+
+nomad
+il nomade; la nomade
+
+nomadic
+nomade; nomadico
+
+manhole cover
+il chiusino; il tombino
+
+to twist; to wring
+ritorcere
+
+vainly; in vain; unavailingly
+vanamente; inutilmente; invano
+
+held hostage by; taken hostage by
+in ostaggio di
+
+box cutter; cutter; paper cutter; carpet cutter; taglierini (noodles); tagliolini (noodles)
+il taglierino
+
+obsessed by fear; obsessed with fear; haunted by fear
+ossessionato dal timore
 
