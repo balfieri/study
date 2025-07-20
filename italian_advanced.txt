@@ -8959,7 +8959,7 @@ la connessione
 even worse
 ancora peggio
 
-bug (electronic spy device)
+bug; hidden listening device; begbug
 la cimice
 
 bill; draft law
