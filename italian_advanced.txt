@@ -10249,9 +10249,6 @@ il premio di consolazione
 infatically
 infaticamente
 
-kleptomaniac
-la cleptomane
-
 bumper sticker on back
 l'adesivo sul retro
 
@@ -16108,7 +16105,7 @@ i rastrellamenti
 to space out
 astrarsi
 
-safety; security
+safety; security (physical, object)
 l'incolumità
 
 conspiracy; plot; cabal
@@ -23269,7 +23266,7 @@ altamente
 progressively
 progressivamente
 
-shift; displacement
+shift; displacement; movement
 lo spostamento
 
 titled
@@ -33199,9 +33196,6 @@ il fabbro
 buttoned up
 abbottonato
 
-safety (physical, object)
-incolumità
-
 to change lifestyle
 cambiare stile di vita
 
@@ -37474,7 +37468,7 @@ trionfale
 small lever
 la levetta
 
-to cool; to chill
+to cool; to chill; to shoot cold; to gun down
 freddare
 
 interview with
@@ -46768,7 +46762,7 @@ ops
 pyramid
 la piramide
 
-dump; landfill
+dump; landfill; waste disposal site
 la discarica
 
 to lecture
@@ -50577,9 +50571,6 @@ nuotare le vasche; fare vasche
 
 to run laps
 correre dei giri; fare giri
-
-whirlpool; maelstrom
-il gorgo; la vortice
 
 jacuzzi
 la vasca idromassaggio
@@ -54777,6 +54768,9 @@ vengono a casa nostra questa sera
 
 abandonment
 l'abbandono
+
+stereo (audio)
+lo stereo
 
 boom box
 lo stereo portatile
@@ -74267,8 +74261,11 @@ il delta
 pallid
 pallidoso
 
+whirl; whirlpool; vortex; swirl; maelstrom
+il vortice; il gorgo
+
 swirl
-la spirale; la vortice
+la spirale; il vortice
 
 unprofessional
 non professionale; poco professionale
@@ -94911,7 +94908,7 @@ accettare aiuto da
 mid-day nap
 la pennichella; il pisolino pomeridiano
 
-cleptomaniac
+kleptomaniac
 il cleptomane; la cleptomane
 
 prone to violent outbursts
@@ -96167,3 +96164,55 @@ il frigo passivo
 
 to wish (to do something); to desire (to do something)
 desiderare di (fare qualcosa)
+
+huge party; mega-party
+la mega-festa
+
+to lie in ambush; to lie in wait; to position oneself
+appostarsi
+
+to set off on foot; to set out on foot; to start walking
+avviarsi a piede
+
+brilliance; brightness; shine; sheen; gloss; luster; glossiness; polish
+la lucentezza
+
+to make a purchase offer
+fare una proposta d'acquisto
+
+to show disappointment; to express disappointment
+mostrare il disappunto
+
+transporter
+il trasportante
+
+to riddle with bullets; to riddle with holes; to perforate; to fill with holes
+crivellare di colpi
+
+killed; gunned down; shot cold
+freddato
+
+reinvigorated
+rinvigorito
+
+blackjack
+il blackjack
+
+to sing at karaoke
+cantare in karaoke
+
+to come up; to arrive; to occur; to show up; to happen; to arise
+sopraggiungere
+
+to attribute to; to bring back; to trace back; to reconduct
+ricondurre a
+
+cold-blooded murder; cold-blooded homicide
+l'omicidio a sangue freddo
+
+to make disappear; to spirit away; to vanish; to efface
+far sparire
+
+unknown destination
+la destinazione ignota
+
