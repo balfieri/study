@@ -387,9 +387,6 @@ provides optimal routing and altitudes
 convective outlook for following 24-hour period
 describes areas of slight, moderate, or high risk of thunderstorms
 
-Missed Approach Point (MAP) begins at
-beginning of dotted line on plate
-
 when a holding pattern is specified in lieu of a procedure turn, the holding maneuver must be executed within
 the 1-minute time limitation or DME distance as specified in the profile view
 
@@ -780,8 +777,8 @@ good, good to medium, medium, medium to poor, poor, nil
 changing the default sensitivity on your GPS approach will
 disable the GPS annunciator
 
-the MAP for a non-precision approach begins
-usually at the start of the dashed line, but can be at a specific fix or waypoint as noted, or be based on a time given in a table
+the MAP for a non-precision approach is found
+at the last waypoint on the approach unless overridden by the optional table that shows FAF to MAP distance
 
 when tracking inbound on a localizer, drift corrections should 
 be accurately established before reaching the outer marker and completion of the apprroach should be accomplished with heading corrections no greater than 2 degrees
@@ -837,8 +834,8 @@ separation from all aircraft (VFR traffic need not participate)
 yellow demarcation bar indicates
 a runway with a displaced threshold after a blastpad, stopway, or taxiway
 
-in order to fly, your blood alcohol level must be
-below 0.04%
+with regard to alcohol and drugs a pilot may not fly
+within 8 hours of consuming any alcoholic beverage (club rules say 12 hours), while under influence, while using any drug that affects safety, with an alcohol concentration level of at least 0.04%
 
 approach briefing must occur at what altitude
 at or above 1000 AGL
@@ -968,3 +965,33 @@ MOCA assures acceptable navigational signal coverage from a VOR of
 
 when an approach fix has the word RADAR under it
 the approach controller has that fix on his or her screen and can help you identify it, if necessary
+
+when is a pilot required to stay on Victor airways
+when assigned by ATC
+
+GPSS
+GPS steering: a Garmin G5/navigator feature that holds a GPS course better in heading mode with a KAP 140 autopilot; heading bug appears hollow on G5
+
+what is the purpose of the dashed line at the end of the approach shown in the profile view
+visual advisory indication of approximately where the decision altitude ends and the committed approach begins
+
+can a C152 be used in an IFR flight
+no, it is not certified for IFR flight, even though you could use it to fly VOR and ILS
+
+flying through haze can give the illusion of
+being higher than you actually are
+
+IMSAFE
+Illness; Medications; Stress; Alcohol; Fatigue; Emotions/Eating
+
+explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving, and how to avoid it
+decompression sickness; wait 12 hours for uncontrolled (non-decompression) ascent when flying up to 8000 ft MSL; wait 24 hours if controlled (decompression) ascent OR when flying over 8000 ft MSL
+
+head-up (somatogravic) and head-down illusions
+illusion that you are nose up during acceleration or nose down during deceleration; trust the attitude indicator
+
+explain the black hole illusion when flying at night
+featureless terrain surrounding the airport causes the pilot to lose visual cues and overestimate altitude during approach
+
+dangers of clogged or infected sinus
+pressure can build and cause pain; ascend and descend at slower rate
