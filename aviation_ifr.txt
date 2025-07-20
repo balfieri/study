@@ -187,7 +187,7 @@ tailplane is most susceptable surface for ice accumulation because
 it is thinner than wing
 
 turn coordinator during taxi turn
-mini airplane shows turn, ball shows opposite
+mini airplane shows rate of turn, ball shows opposite
 
 frontal waves normally form 
 on slow-moving cold fronts or stationary fronts
@@ -454,7 +454,7 @@ when on a climb via a SID, the top altitude is
 the highest altitude you climb to on the SID
 
 miniature aircraft of turn coordinator provides
-indirect indication of the bank attitude
+indirect indication of the bank attitude; it is the rate of turn, not the bank angle
 
 ball of turn coordinator indicates
 quality of the turn
@@ -637,7 +637,7 @@ REIL
 runway lighting that uses a pair of synchronized flashing lights, one on each side of the threashold
 
 MALSR
-fancy set of lights installed along the extended runway centerline
+set of sequenced lights installed along the extended runway centerline to lead pilot to the threshold
 
 skidding turn is due to
 more centrifugal force than the horizontal lift component
@@ -995,3 +995,21 @@ featureless terrain surrounding the airport causes the pilot to lose visual cues
 
 dangers of clogged or infected sinus
 pressure can build and cause pain; ascend and descend at slower rate
+
+to qualify for BasicMed, a pilot must
+hold a valid U.S. driver's licence, have held an FAA medical certificate with most recent not being denied, complete a physical exam, complete an FAA course, and comply wth any other medical restrictions
+
+ATC instructs you to proceed off course to a fix and then you lose radio contact, so you should
+begin slowing down and prepare for holding at the fix
+
+most pertinent instrument for bank control in straight-and-level flight
+heading indicator
+
+most pertinent instrument for altitude control in straight-and-level flight
+altimeter
+
+most pertinent instrument for performance in straight-and-level flight
+airspeed indicator
+
+during a circling approach, you should descend from the circling minimums when
+you are in a position to make your final descent to the runway; the pilot should keep the runway environment in sight and should fly at pattern altitude if conditions allow it
