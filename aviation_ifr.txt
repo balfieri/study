@@ -840,7 +840,7 @@ within 8 hours of consuming any alcoholic beverage (club rules say 12 hours), wh
 approach briefing must occur at what altitude
 at or above 1000 AGL
 
-tunnel vision and cyanosis are signs of
+tunnel vision and cyanosis (blue lips) are signs of
 hypoxia
 
 ADM risk management relies on
@@ -867,14 +867,20 @@ unscheduled arrival, lasts up to 4 hours, but may be reissued for additional 4-h
 pilots should state their position on the airport when calling the tower for takeoff when
 departing from a runway intersection
 
-wind group at a forecasted altitude at a particular location or station is omitted in Winds and Temperatures Aloft Forecast when the wind
-at the altitude is within 1500 feet of the station elevation
+wind group at a forecasted altitude at a particular location or station is omitted in Winds and Temperatures Aloft Forecast when the 
+the altitude is within 1500 feet of the station elevation
+
+the temperature of one of forecasted altitudes is omitted in Winds and Temperatures Aloft Forecast for
+the 3000 foot altitude level or when the level is within 2500 feet of the station elevation
 
 in severe icing, ice on the wing aft of the deicing boot but in front of the aileron may cause
 roll upset
 
 ADS-B as it relates to class C
 required when overflying class C below 10,000 feet MSL; not required when flying under the shelf of class C
+
+ADS-B as it relates to class B
+when inside class B airspace or within 30 nautical miles (mode C veil) of the primary airport up to 10,000 feet MSL
 
 fair weather cumulus clouds often indicate
 turbulence at and below the cloud level
@@ -1013,3 +1019,18 @@ airspeed indicator
 
 during a circling approach, you should descend from the circling minimums when
 you are in a position to make your final descent to the runway; the pilot should keep the runway environment in sight and should fly at pattern altitude if conditions allow it
+
+chop vs. turbulence
+chop is rhythmic; turbulence is erratic
+
+if you cancel your IFR flight plan within 10 miles from a class D airport, you must contact the tower
+before entering class D airspace
+
+before using anything from an airborne navigation database, the pilot should
+verify the validity of the database during preflight and inflight
+
+flying conditions to expect after a fast-moving cold front passes
+clear skies with gusty, turbulent winds and cooler temperatures
+
+flying conditions to expect after a slow-moving warm front passes
+gradual clearing, warmer temperatures, rising ceiling, stable air, decreased winds
