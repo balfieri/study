@@ -96216,3 +96216,5 @@ far sparire
 unknown destination
 la destinazione ignota
 
+problem (something)
+(qualcosa) problematico; (qualcosa) difficile
