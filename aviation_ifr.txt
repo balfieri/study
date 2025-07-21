@@ -1067,3 +1067,12 @@ incipient tailplane stall
 
 floor of class E airspace when designated in conjunction with an airport that has an approved IAP
 700 feet AGL; 1200 feet AGL is the normal floor
+
+a pilot must have an instrument rating only when operating
+under IFR, in weather conditions less than the minimum for VFR flight OR in class A airspace
+
+what does a controller provide during an ASR (surveillance) approach without request
+when to commence descent to MDA, the aircraft's position at each mile on final, and arrival at the MAP
+
+vertical limits of a transition area in conjunction with an airport having an prescribed IAP
+700 feet AGL or more to the base of the overlying controlled airspace
