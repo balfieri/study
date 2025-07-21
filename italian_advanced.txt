@@ -1642,9 +1642,6 @@ accalappiare
 pale; faint
 pallido
 
-gaudy; loud; flamboyant
-sgargiante
-
 braggart; bully; boaster
 lo spaccone; il gradasso
 
@@ -19208,7 +19205,7 @@ to lead to; to lead up to
 portare a
 
 thief
-il ladro
+il ladro; la ladra
 
 replica; rerun
 la replica
@@ -94242,7 +94239,7 @@ seguire il cuore
 press secretary
 il segretario stampa
 
-flamboyant
+flamboyant; gaudy; loud
 sgargiante; vistoso
 
 to kindle a passion
@@ -96218,3 +96215,64 @@ la destinazione ignota
 
 problem (something)
 (qualcosa) problematico; (qualcosa) difficile
+
+I can't wait to hear all about it
+non vedo l'ora di sentire tutto; non vedo l'ora di sapere tutto
+
+so I've heard
+così ho sentito; così mi hanno detto
+
+are you serious?
+dici sul serio?
+
+light tap; pat
+il colpettino
+
+there is one available for
+c'è a mano per
+
+grown-up things
+le cose da grande
+
+another round of drinks
+un altro giro di drink; un altro giro da bere
+
+to find oneself in danger
+trovarsi in pericolo
+
+seedy bar brawl
+la squallida rissa da bar
+
+for what it's worth
+per qual che vale
+
+cut it out; stop it
+dacci un taglio
+
+apogee
+l'apogeo
+
+degenerate
+degenerato
+
+mentally unstable
+instabile mentalmente; instabile di mente
+
+wholeheartedly
+con tutto il cuore; sinceramente
+
+to be a snitch
+essere una spia; essere una soffiata
+
+to snitch
+fare la spia; soffiare
+
+loud-mouthed
+chiacchierone; che parla troppo
+
+off-screen
+fuori scena; fuori dallo schermo
+
+tech mogul
+il magnate della tecnologia; il dirigente tecnologico
+
