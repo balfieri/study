@@ -106,7 +106,7 @@ BasicMed:
 no more than 7 occupants, less than 18,000 feet; no more than 250 KIAS; up to 12,500 pounds; within the USA (usually); never for hire
 
 GBAS approach 
-provides less than 1 meter accuracy in horizontal and vertical axes; flown same as ILS after selected; GBAS landing system (GLS)
+ground-based augmentation for GPS that provides less than 1 meter accuracy in horizontal and vertical axes; flown same as ILS after selected; GBAS landing system (GLS)
 
 how much time needed to rid body of alcohol from one beer
 3 hours
@@ -763,7 +763,7 @@ a localizer symbol on a low-level IFR chart indicates
 the localizer has an additional navigation function
 
 valid time frame for low-level significant weather prog charts
-12 to 24 hours in the future
+12 to 24 hours in the future; issued at 00Z, 06Z, 12Z, and 18Z
 
 parallel ILS approaches provide
 aircraft a minimum of 1 and one half miles radar separation between successive aircraft
@@ -1034,3 +1034,15 @@ clear skies with gusty, turbulent winds and cooler temperatures
 
 flying conditions to expect after a slow-moving warm front passes
 gradual clearing, warmer temperatures, rising ceiling, stable air, decreased winds
+
+during preflight, pilots should check for ice accumulation by
+both visual and physical inspection of the wing
+
+during a straight-in approach, a go-around should be initiated immediately if
+the approach becomes unstabilized below 1000 feet AGL in IMC
+
+meaning of SIGMET (WS)
+widespread sand or dust storms affecting at least 3000 square miles
+
+pilot may not land an aircraft from an IAP unless
+the visibility is at least that prescribed in the approach procedure being used
