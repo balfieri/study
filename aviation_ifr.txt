@@ -88,7 +88,7 @@ advection fog most likely to form when
 a warmer air mass moves inland from the coast in winter and is cooled by the colder land surface
 
 if ATC gives a pilot a clearance void time, he must depart
-before the void time; if he can't, he should report that within 30 minutes after the void time
+before the void time; if he can't, he should report it to ATC as soon as possible and no later than 30 minutes after the void time
 
 maximum surface volume distance of a VORTAC below 14,500 feet AGL
 40 nautical miles
@@ -1046,3 +1046,24 @@ widespread sand or dust storms affecting at least 3000 square miles
 
 pilot may not land an aircraft from an IAP unless
 the visibility is at least that prescribed in the approach procedure being used
+
+if an aircraft has ADS-B, it must be operated
+in transmit mode at all times
+
+primary bank instrument when transitioning from straight and level flight to a standard rate turn to the left or right
+attitude indicator
+
+if icing is detected while also experiencing a rolling condition
+set power and angle of attack for a controlled descent
+
+a conviction for driving while intoxicated by alcohol or drugs should be reported to
+Security and Investigations Division
+
+on the high-level significant prog chart, what are the meanings of ISOL, OCNL, and FRQ
+ISOL: less than one-eighth coverage; OCNL: one-eighth to four-eighths; FRQ: five-eights to eight-eights
+
+most likely reason for buffeting or vibrations after extending flips during icing conditions
+incipient tailplane stall
+
+floor of class E airspace when designated in conjunction with an airport that has an approved IAP
+700 feet AGL; 1200 feet AGL is the normal floor
