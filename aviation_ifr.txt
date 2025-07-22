@@ -1,10 +1,10 @@
 # aviation_ifr.txt - instrument pilot written exam and checkride questions (focusing on ones I had problems with)
 #
-ARROW
-Airworthiness certificate; Registration; Radio license (when operating outside the U.S.); Operator's handbook; Weight and balance (use the version updated by the mechanic)
+SPARROW
+Supplements, Placards, Airworthiness certificate; Registration; Radio license (when operating outside the U.S.); Operator's handbook; Weight and balance (use the version updated by the mechanic)
 
 AV1ATES
-Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (sensitive, 24 months, IFR only); Transponder (24 months); ELT (12 months or half Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
+Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (24 months, IFR only); Transponder (24 months); ELT (12 months or half Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
 
 ATOMATO FLAMES
 Altimeter; Tachometer (for each engine); Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Seatbelts (in occupied seats)
@@ -13,7 +13,7 @@ FLAPS
 Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only if aircraft is for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
 
 GRABCARDD
-Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball (inclinometer); Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyroscope; DME above 24000 feet
+Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball; Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyroscope; DME above 24000 feet
 
 ANDS
 WEST EAST: accelerate causes deflection toward north, decelerate toward south; note that a steady turn from east or west does cause compass to overshoot or undershoot
@@ -43,7 +43,7 @@ squall lines most often develop
 ahead of a cold front
 
 3 places for changeover point
-bend, weird symbol, halfway
+bend, zig-zag symbol, halfway
 
 quick calc for descent rate
 ground speed times 5 on 3-degree slope
@@ -117,9 +117,6 @@ before warm front passes airport
 middle marker height
 typically at 200 feet AGL
 
-yellow arrow is irrelevant
-for a localizer
-
 IFR requires nav equipment 
 for ground facilities to be used
 
@@ -133,7 +130,7 @@ class A airspace ADS-B requires
 extended squitter
 
 BasicMed can fly which routes
-T routes (terminal)
+Terminal (T) routes
 
 FAROS is activated when
 sensors detect an aircraft or vehicle on the runway in specific activation zones
@@ -277,7 +274,7 @@ can expect the greatest accumulation of airframe ice at which temperature
 0C 
 
 when DME specified in IAP
-it may be used in lieu of the OM, but not the MM
+it may be used in lieu of the outer marker, but not the middle marker
 
 can deviate from an ATC clearance in response to 
 TCAS II resolution advisory
@@ -390,7 +387,7 @@ describes areas of slight, moderate, or high risk of thunderstorms
 when a holding pattern is specified in lieu of a procedure turn, the holding maneuver must be executed within
 the 1-minute time limitation or DME distance as specified in the profile view
 
-things you can approximate from a 500 milibar constant pressure chart for a planned flight at FL180
+things you can approximate from a 500 millibar constant pressure chart for a planned flight at FL180
 observed temperature, wind, and temperature/dew point spread alond the proposed route
 
 during taxi, attitude indicator is unreliable when
@@ -505,10 +502,10 @@ on IFR low enroute chart, the north symbol on a VOR represents
 magnetic north at the time the VOR was installed
 
 on IFR low enroute chart, flag with X over a point represents
-a point that has a minimum crossing altitutde (MCA)
+a point that has a minimum crossing altitude (MCA)
 
 on IFR low enroute chart, flag with R over a point represents
-a point that has a minimum reception altitutde (MRA)
+a point that has a minimum reception altitude (MRA)
 
 on IFR low enroute chart, hash marks around a waypoint means
 there are different altitudes on each side of the waypoint
@@ -556,7 +553,7 @@ rotations of high vs. low pressure systems
 high rotate clockwise; low rotate counterclockwise
 
 how VOR works
-VOR station transmits two radio signals, a stationary reference signal, and a rotating variable signal that is out of phase by the radial
+VOR station transmits two radio signals, a stationary reference signal, and a rotating variable signal that is out of phase by the radial angle
 
 LDA approach
 like a LOC approach, but localizer is 3-5 degrees offset from the runway centerline; requires circle-to-land if offset exceeds 30 degrees
@@ -622,7 +619,7 @@ during which phase of flight would ice accumulation on the leading edge of the w
 approach
 
 a precision runway monitor (PRM) approach may require
-simultaneously monitoring two frequencies (e.g., two tower frequencies)
+simultaneously monitoring two tower frequencies
 
 CAS
 IAS corrected for instrument error, position errors, and installation error
@@ -634,7 +631,7 @@ baro-VNAV approaches are not authorized
 in areas of hazardous terrain or when a remote altimeter setting is required
 
 REIL
-runway lighting that uses a pair of synchronized flashing lights, one on each side of the threashold
+runway lighting that uses a pair of synchronized flashing lights, one on each side of the threshold
 
 MALSR
 set of sequenced lights installed along the extended runway centerline to lead pilot to the threshold
@@ -687,7 +684,7 @@ touchdown, midpoint, and rollout
 runway condition code of 0 for braking action means
 nil
 
-if wet snow is enounted, what is temperature condition of your altitude
+if wet snow is encountered, what is temperature condition of your altitude
 temperature is above freeezing at your altitude
 
 airport without an authorized IAP may be included on an IFR flight plan as an alternate if weather allows for
@@ -697,19 +694,19 @@ once cleared for VFR on Top, your IFR clearance is
 still in effect and you must remain in VFR conditions
 
 ATC may issue a STAR
-when ATC seems appropriate, unless the pilot requests No STAR
+when ATC feels it's appropriate, unless the pilot requests No STAR
 
 recommended climb procedure when nonradar approach control tells you to climb to assigned altitude
 optimal climb on centerline until 1000 feet below assigned altitude, then 500 to 1500 feet per minute
 
-what can be substituded for an inoperative ILS outer or middle marker
-compass locator or precision radar
+what can be substituted for an inoperative ILS outer or middle marker
+compass locator or precision radar; note that DME may be substituted for outer marker only
 
 surface analysis chart represents
 frontal positions, pressure patterns, temperature, dewpoint, wind, weather, and obstructions to vision
 
 maximum IFR altitude you may fly in an unpressurized aircraft without giving passengers supplemental oxygen
-15,000 feet
+15,000 feet MSL
 
 what attitude indication should you see when rolling out from a 180-degree skiding turn to start-and-level flight
 miniature aircraft shows a turn in the opposite direction of the skid and slight pitch up
@@ -828,7 +825,7 @@ cases where a report must be submitted to the NTSB within 10 days
 flying IFR, GPS service is lost; you have VOR MON, so you should
 proceed VOR-to-VOR and execute an ILS approach at a suitable field
 
-when flying within the outer area of a class C airspace, departure controll provides
+when flying within the outer area of a class C airspace, departure control provides
 separation from all aircraft (VFR traffic need not participate)
 
 yellow demarcation bar indicates
@@ -939,7 +936,7 @@ weather minimums that must be forecast at the ETA for an alternate airport that 
 weather minimums that must be forecast at the ETA for an alternate airport that has only a non-precision approach
 800 feet ceiling and 2 statute miles visibility
 
-if an ILS glide slope becomes operative, you may substitute
+if an ILS glide slope becomes inoperative, you may substitute
 LOC minimums
 
 dangers in flying under the anvil of a thunderstorm
@@ -981,7 +978,7 @@ GPS steering: a Garmin G5/navigator feature that holds a GPS course better in he
 what is the purpose of the dashed line at the end of the approach shown in the profile view
 visual advisory indication of approximately where the decision altitude ends and the committed approach begins
 
-can a C152 be used in an IFR flight
+can a C152 from our club be used in an IFR flight
 no, it is not certified for IFR flight, even though you could use it to fly VOR and ILS
 
 flying through haze can give the illusion of
@@ -1076,3 +1073,8 @@ when to commence descent to MDA, the aircraft's position at each mile on final, 
 
 vertical limits of a transition area in conjunction with an airport having an prescribed IAP
 700 feet AGL or more to the base of the overlying controlled airspace
+
+MVFR is in effect when
+visibility is 3-5 statute miles OR cloud ceilings are 1000-3000 feet AGL
+
+- [x] fotocamera
