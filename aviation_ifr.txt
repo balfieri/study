@@ -34,7 +34,7 @@ errors in pitch and bank maximum when rolling out of what degree turn?
 180-degree
 
 a WAAS-capable airplane is exempt from which rule
-that alternate have a non-GPS IAP available; however, LNAV minima must be used for planning
+that alternate have a non-GPS IAP available; however, LNAV minimums must be used for planning
 
 characteristics of squalls
 sudden increases in wind, 16 to 22 knots, for at least 1 minute; can form at any altitude
@@ -127,7 +127,7 @@ jet stream speed
 at least 50 knots
 
 class A airspace ADS-B requires
-extended squitter
+extended squitter, which contains much more information than Mode C ADS-B
 
 BasicMed can fly which routes
 Terminal (T) routes
@@ -159,8 +159,8 @@ rising or falling
 jet stream normally 
 weaker and farther north in summer
 
-baro-vnav 
-uses barometric altitude info to compute vertical guidance
+baro-VNAV approaches
+use barometric altitude info to compute vertical guidance
 
 wind shear
 wind shift or wind speed gradient at any level of the atmosphere
@@ -199,7 +199,7 @@ PRM
 RADAR system for monitoring approaches to two closely spaced parallel runways
 
 required alternate must have 
-an approved instrument approach procedure other than GPS and it must be operational upon arrival, and aircraft must be equipped to fly it; WAAS GPS is exempt from this rule
+an approved instrument approach procedure other than GPS and it must be operational upon arrival, and aircraft must be equipped to fly it; WAAS GPS is exempt from this rule, but LNAV minimums must be used for planning
 
 roll upset
 exit ASAP, disengage AP, reduce AOA by increasing speed, do not retract flaps, controlled descent as last resort
@@ -607,7 +607,7 @@ approaches to which a published VDP applies
 non-precision only (those with an MDA)
 
 on IFR low enroute altitude chart, pilot-controlled lighting at an airport is denoted by
-black oval or circle with the letter L inside, next to the airport's frequency; for part-time or continous, it is often denoted with a star symbol
+black oval or circle with the letter L inside, next to the airport's frequency; for part-time or continuous, it is often denoted with a star symbol
 
 conditions necessary to be cleared for a visual approach
 ceiling of 1000 feet, 3 miles visibility
@@ -682,7 +682,7 @@ runway condition codes are reported for which zones
 touchdown, midpoint, and rollout
 
 runway condition code of 0 for braking action means
-nil
+nil, which means completely lack of braking ability
 
 if wet snow is encountered, what is temperature condition of your altitude
 temperature is above freeezing at your altitude
@@ -696,7 +696,7 @@ still in effect and you must remain in VFR conditions
 ATC may issue a STAR
 when ATC feels it's appropriate, unless the pilot requests No STAR
 
-recommended climb procedure when nonradar approach control tells you to climb to assigned altitude
+recommended climb procedure when non-radar approach control tells you to climb to assigned altitude
 optimal climb on centerline until 1000 feet below assigned altitude, then 500 to 1500 feet per minute
 
 what can be substituted for an inoperative ILS outer or middle marker
@@ -766,7 +766,7 @@ parallel ILS approaches provide
 aircraft a minimum of 1 and one half miles radar separation between successive aircraft
 
 brown vs. green vs. blue airports on IFR low enroute chart
-brown: no instrument approach procedures; green: civilian and has instrument approaches; blue: has DOD approved instrument approaches
+brown: no instrument approaches; green: civilian and has instrument approaches; blue: has DOD approved instrument approaches
 
 terms or values to use when providing a quality of braking report to ATC
 good, good to medium, medium, medium to poor, poor, nil
@@ -877,18 +877,18 @@ ADS-B as it relates to class C
 required when overflying class C below 10,000 feet MSL; not required when flying under the shelf of class C
 
 ADS-B as it relates to class B
-when inside class B airspace or within 30 nautical miles (mode C veil) of the primary airport up to 10,000 feet MSL
+required when inside class B airspace or within 30 nautical miles (mode C veil) of the primary airport up to 10,000 feet MSL
 
 fair weather cumulus clouds often indicate
 turbulence at and below the cloud level
 
 how ATC radar is used when facility is approached for approach control services
-course guidance to the final approach course, ASR and PAR approaches, and monitoring of nonradar approaches
+course guidance to the final approach course, ASR and PAR approaches, and monitoring of non-radar approaches
 
 altitude-induced hypoxia is caused by
 insufficient partial pressure of inhaled oxygen
 
-reports required of an IFR flight specifying VFR on Top in a nonradar environment
+reports required of an IFR flight specifying VFR on Top in a non-radar environment
 the same reports that are required for any IFR flight
 
 9900+00 on a Winds and Temperatures Aloft Forecast indicates that wind is
@@ -913,7 +913,7 @@ required reporting points for a route not on established airways
 all fixes selected to define the route
 
 approaches that have vertical guidance
-precision: ILS, GLS; non-precision: LPV, LNAV/VNAV, LPV
+precision: ILS, GLS; non-precision: LPV, LNAV/VNAV
 
 what happens to residual ice that remains after deice boots shed ice
 residual ice increases with a decrease in airspeed or temperature
@@ -927,8 +927,8 @@ changes in flight data that affect instrument approaches, aeronautical charges, 
 when on simultaneous approaches, each pilot receives advisories on
 tower frequency
 
-an alternate with only a WAAS approach can be used based on which minima
-LNAV minima
+an alternate with only a WAAS approach can be used based on which minimums
+LNAV minimums
 
 weather minimums that must be forecast at the ETA for an alternate airport that has a precision approach
 600 feet ceiling and 2 statute miles visibility
@@ -937,7 +937,7 @@ weather minimums that must be forecast at the ETA for an alternate airport that 
 800 feet ceiling and 2 statute miles visibility
 
 if an ILS glide slope becomes inoperative, you may substitute
-LOC minimums
+localizer minimums
 
 dangers in flying under the anvil of a thunderstorm
 severe turbulence, lightning, hail
@@ -1059,7 +1059,7 @@ Security and Investigations Division
 on the high-level significant prog chart, what are the meanings of ISOL, OCNL, and FRQ
 ISOL: less than one-eighth coverage; OCNL: one-eighth to four-eighths; FRQ: five-eights to eight-eights
 
-most likely reason for buffeting or vibrations after extending flips during icing conditions
+most likely reason for buffeting or vibrations after extending flaps during icing conditions
 incipient tailplane stall
 
 floor of class E airspace when designated in conjunction with an airport that has an approved IAP
@@ -1077,4 +1077,11 @@ vertical limits of a transition area in conjunction with an airport having an pr
 MVFR is in effect when
 visibility is 3-5 statute miles OR cloud ceilings are 1000-3000 feet AGL
 
-- [x] fotocamera
+HIRL
+High Intensity Runway Lights; on edges of runway
+
+ALFS-2
+Approach Lighting System with Sequenced Flashing Lights; starting at the runway threshold and extending into the approach area for 2400-3000 feet
+
+skidding turn is more dangerous that a slipping turn because
+skidding turn has higher risk of spin because the inside (low) wing can stall first, causing the aircraft to roll and enter a spin; with a slipping turn, the outside (high) wing is more likely to stall first, often returning the aircraft to coordinated flight

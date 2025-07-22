@@ -94089,12 +94089,6 @@ il fiorino
 marathon runner
 il maratoneta; la maratoneta
 
-HIRL
-High Intensity Runway Lights; on edges of runway
-
-ALFS-2
-Approach Lighting System with Sequenced Flashing Lights; starting at the runway threshold and extending into the approach area for 2400-3000 feet
-
 without being detected; without being discovered
 senza essere scoperti; senza essere rilevati
 
