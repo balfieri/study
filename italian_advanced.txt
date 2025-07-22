@@ -16915,9 +16915,6 @@ richiamo più tardi
 to have the last laugh
 ridere per ultimo
 
-riff-raff
-la gente di bassa lega; i cafoni; la gentaglia
-
 regards
 rispetti; i miei rispetti
 
@@ -22942,7 +22939,7 @@ istituire
 to demolish
 demolire
 
-to confer; to give
+to confer; to give; to bestow
 conferire
 
 to prepare for; to get ready for
@@ -36148,7 +36145,7 @@ il flusso in uscita
 with commitment; with effort
 con impegno
 
-as it is; just like that
+as is; as it is; just like that
 così com'è
 
 do you need help?
@@ -60920,11 +60917,11 @@ il senno di poi è sempre 20/20
 to throw a tantrum; to throw a fit
 fare le bizze
 
-il bucket
-secchiello
+bucket
+il secchiello
 
 sea lily
-giglio di mare
+il giglio di mare
 
 amphibian
 l'anfibio
@@ -61888,9 +61885,6 @@ in un lampo
 
 folding (noun)
 il ripiegamento
-
-cowardice
-la viltà
 
 to say goodnight
 dare la buonanotte
@@ -81318,9 +81312,6 @@ disueto
 unsubscribed
 disiscritto
 
-to keep out the riff-raff
-tenere fuori la gente di bassa lega
-
 to keep out (something)
 tenere fuori (qualcosa)
 
@@ -86727,9 +86718,6 @@ la spigola; il branzino
 squabble; bickering
 il battibecco
 
-cowardice
-la vigliaccheria
-
 onesie; romper
 la tutina
 
@@ -89128,7 +89116,7 @@ bilateral; two-way; two-sided; double-sided
 bilaterale
 
 cowardice; cowardliness; cravenness
-la codardia
+la codardia; la viltà; la vigliaccheria
 
 flower girl
 la fioraia; la damigella dei fiori
@@ -96275,4 +96263,40 @@ fuori scena; fuori dallo schermo
 
 tech mogul
 il magnate della tecnologia; il dirigente tecnologico
+
+to get into an accident; to have an accident
+avere un incidente; essere coinvolto in un incidente
+
+aviation headset
+la cuffia per l'aviazione; la cuffia da pilota
+
+to cut in front of (somebody)
+tagliare la strada a (qualcuno); mettersi davanti a (qualcuno)
+
+that car cut me off
+quella macchina mi ha tagliato la strada
+
+employees only
+solo personale; accesso riservato al personale
+
+to bestow (something) upon (someone)
+conferire (qualcosa) a (qualcuno); concedere (qualcosa) a (qualcuno)
+
+what do you say?; you tell me?
+tu che dici?
+
+to close discussion; to end discussion; to stop talking about it
+chiudere discussione
+
+to make further claims; to press further demands
+avanzare altre pretese
+
+to be in command; to be in charge
+stare al comando
+
+lily
+il giglio
+
+last supper
+la messa in cena
 
