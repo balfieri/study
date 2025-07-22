@@ -19510,7 +19510,7 @@ ammettere
 imperial
 imperiale
 
-crime; felony; offense
+crime; felony; offense (serious)
 il delitto
 
 to excercise; to practice; to drill
@@ -36181,7 +36181,7 @@ inodore
 glove box
 il portagioie; il vano portaoggetti
 
-crime (serious, violent)
+crime (very serious, violent)
 il crimine
 
 robbery
@@ -96299,4 +96299,31 @@ il giglio
 
 last supper
 la messa in cena
+
+acting in a foolish way; in a foolish way
+in atteggiamento demenziale
+
+to get oneself shown (something)
+farsi mostrare (qualcosa)
+
+to shave one's head
+rasarsi i capelli
+
+to get kicked out of the house; to get thrown out of the house
+far sbattere fuori di casa
+
+for payment; for compensation
+dietro compenso
+
+according to
+a detta di
+
+by all accounts
+a detta di tutti
+
+to set out on foot; to start walking; to go by foot
+avviarsi a piedi
+
+under a false name; under an assumed name
+sotto falso nome
 

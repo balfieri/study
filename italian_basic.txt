@@ -5248,7 +5248,7 @@ la plastica
 some day
 un giorno o l'altro; un giorno
 
-note (short, memo)
+note (short, memo); bullet point
 l'appunto
 
 notes
