@@ -9511,7 +9511,7 @@ l’esame di collocamento; l’esame di assegnazione
 press (pasta, other)
 il torchio; il bigolaro
 
-to ascertain; to establish; to note
+to observe; to ascertain; to establish; to note
 constatare
 
 to hoe; to dig; to burrow
@@ -39148,7 +39148,7 @@ il garofano
 to show up; to introduce oneself; to present oneself
 presentarsi
 
-to be seen
+to be seen; to show up
 farsi vedere
 
 veteran (noun)
@@ -60347,7 +60347,7 @@ il martellamento di notizie
 to get one's sums wrong; to miscalculate
 sbagliare i propri conti
 
-to re-hook; to reconnect
+to re-hook; to reconnect; to hang up
 riagganciare
 
 to put into play; to field
@@ -96350,3 +96350,153 @@ l'estate sta passando in fretta
 
 let me think about it a little; let me think about it a little bit; let me think it over a bit
 fammici pensare un po'; fammi pensarci un po'; lasciami riflettere un po'
+
+it's not my place (to do something)
+non sta a me (fare qualcosa)
+
+it's not my place to say
+non sta a me dirlo
+
+to lecture (somebody)
+fare lezione a (qualcuno)
+
+I'll do it outside; I'll kill him (slang)
+lo faccio fuori
+
+to set aside
+mettere da parte
+
+self-storage facility
+il deposito self storage; il magazzino self storage
+
+to cooperate fully
+collaborare pienamente
+
+to withhold cooperation
+rifiutare di collaborare; non collaborare
+
+to self-incriminate
+auto-condenarsi
+
+to sling
+lanciare; scagliare
+
+he hasn't shown up
+non si è fatto vedere
+
+by misfortune; unfortunately
+per disgrazia
+
+as (something); in the capacity of (something)
+in quanto (qualcosa)
+
+to divert suspicion
+sviare i sospetti
+
+tracking device
+registratore di posizione
+
+defenseless; helpless
+inerme
+
+sniper
+cecchino
+
+to lunge at
+avventarsi a
+
+customary introduction
+presentazione di rito
+
+to struggle to stand up
+faticare a reggersi in piedi
+
+to harbor serious suspicions
+nutrire seri sospetti
+
+clashes with; collides with
+si scontra con
+
+tax officer
+agente del fisco
+
+registered to the tax authorities
+intestato al fisco
+
+angry expression
+espressione rabbiosa
+
+angry; enraged
+adirato
+
+to arouse suspicion
+destare sospetti
+
+once (someone) is greeted
+una volta salutato (qualcuno)
+
+to carry out an inspection
+fare un sopralluogo
+
+chief officer; head official
+l'addetto-capo
+
+search; search operation
+la perquisizione
+
+search warrant
+il mandato di perquisizione
+
+annoyed; displeased
+contrariato
+
+to act accordingly
+agire di conseguenza
+
+meanwhile; in the meantime
+nel mentre
+
+remote control
+il radiocomando
+
+to activate the device
+attivare l'ordigno
+
+pyrotechnic device; trick
+l'artificio
+
+to make (someone) believe
+far credere a (qualcuno)
+
+in great haste
+in tutta fretta
+
+grimace of pain
+la smorfia di sofferenza
+
+to pull oneself together; to recompose oneself
+ricomporsi
+
+noticeable lowering of voice
+il forte abbassamento di voce
+
+see you in two weeks
+ci vediamo tra due settimane
+
+he hasn't changed a bit
+non è cambiato per niente
+
+smear tactic
+la tattica diffamatoria; la strategia di diffamazione
+
+to smear (somebody)
+diffamare (qualcuno); screditare (qualcuno)
+
+to besmirch
+infangare; macchiare
+
+to sully (someone's) reputation
+macchiare la reputazione di (qualcuno); infangare la reputazione di (qualcuno)
+
+trepidation; apprehension
+la trepidazione; l'apprensione
