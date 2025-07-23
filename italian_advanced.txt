@@ -96500,3 +96500,6 @@ macchiare la reputazione di (qualcuno); infangare la reputazione di (qualcuno)
 
 trepidation; apprehension
 la trepidazione; l'apprensione
+
+first-year (something)
+(quacosa) di primo anno
