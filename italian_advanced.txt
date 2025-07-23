@@ -87663,7 +87663,7 @@ la flatulenza
 to stuff; to pad; to upholster
 imbottire; imbottire di; imbottire d'oro
 
-to sink; to founder; to go to the bottom
+to sink; to founder; to go to the bottom; to sink in
 affondare
 
 fibula
@@ -96521,3 +96521,7 @@ lo stupratore
 
 convicted rapist
 lo stupratore condannato
+
+to be understood; to register; to penetrate; to sink in
+essere capiti; penetrare; essere assimilati; entrare nella testa; entrare in testa
+
