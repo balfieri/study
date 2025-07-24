@@ -559,7 +559,7 @@ LDA approach
 like a LOC approach, but localizer is 3-5 degrees offset from the runway centerline; requires circle-to-land if offset exceeds 30 degrees
 
 LDA/GS approach 
-provides both lateral and vertical guidance, but the final approach course is not aligned with the runway due to terrain or obstacle limitations; non-precision approach
+provides both lateral and vertical guidance, but the final approach course is not aligned with the runway due to terrain or obstacle limitations
 
 clear ice forms
 when large, supercooled water droplets strike surface and freeze slowly; most common in cumuliform clouds or freezing rain, between 0C and -10C; hard to remove and heavy
