@@ -42,3 +42,6 @@ At night, the pilot must be instrument rated and the aircraft must be equipped f
 
 
 different SIGMET types
+different NOTAM types
+
+can fly with just a WAAS GPS and no VOR?
