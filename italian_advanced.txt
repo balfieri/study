@@ -96554,3 +96554,6 @@ riprodurre una clip di; suonare un frammento di
 
 clip
 la clip; il frammento
+
+sauté; sautéed vegetables
+il soffritto
