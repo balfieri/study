@@ -675,7 +675,7 @@ runways that intersect other runways, or on taxiways that intersect runways
 when two-radio communications failure under IFR in VFR conditions, the pilot should 
 continue the flight under VFR and land as soon as practical
 
-when a proper glide path of a 2-bar VASI
+when on the glide path of a 2-bar VASI
 the near bar will be white and the far bar will be red
 
 runway condition codes are reported for which zones
