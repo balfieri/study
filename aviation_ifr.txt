@@ -675,7 +675,7 @@ runways that intersect other runways, or on taxiways that intersect other runway
 when two-radio communications failure under IFR in VFR conditions, the pilot should 
 continue the flight under VFR and land as soon as practical
 
-when a proper glidepath of a 2-bar VASI
+when a proper glide path of a 2-bar VASI
 the near bar will be white and the far bar will be red
 
 runway condition codes are reported for which zones
@@ -685,7 +685,7 @@ runway condition code of 0 for braking action means
 nil, which means completely lack of braking ability
 
 if wet snow is encountered, what is temperature condition of your altitude
-temperature is above freeezing at your altitude
+temperature is above freezing at your altitude
 
 airport without an authorized IAP may be included on an IFR flight plan as an alternate if weather allows for
 a descent from the MEA, approach, and landing under basic VFR
@@ -904,7 +904,7 @@ approaches for which WAAS is required
 LPV, LP, LNAV/VNAV
 
 required reporting points while in radar contact
-those requested by ATC, unforecast weather encounted, information related to safety of flight, vacating an altitude, changing altitude withen on VFR on Top, unable to climb or descend 500 feet per minute, missed approach, change in true airspeed by 5% or 10 knots, reaching holding fix or waypoint to which cleared, leaving assigned holding fix or waypoint, loss of any equipment
+those requested by ATC, unforecast weather encountered, information related to safety of flight, vacating an altitude, changing altitude withen on VFR on Top, unable to climb or descend 500 feet per minute, missed approach, change in true airspeed by 5% or 10 knots, reaching holding fix or waypoint to which cleared, leaving assigned holding fix or waypoint, loss of any equipment
 
 required reporting points while not in radar contact
 any reports required for radar contact, any compulsory reporting point on charts, leaving final approach fix inbound on a non-precision approach, any correction to ETA that exceeds 2 minutes
@@ -1085,3 +1085,15 @@ Approach Lighting System with Sequenced Flashing Lights; starting at the runway 
 
 skidding turn is more dangerous that a slipping turn because
 skidding turn has higher risk of spin because the inside (low) wing can stall first, causing the aircraft to roll and enter a spin; with a slipping turn, the outside (high) wing is more likely to stall first, often returning the aircraft to coordinated flight
+
+IFR flight requires the following additional instruments over those for VFR: 
+attitude indicator, heading indicator, turn coordinator, clock
+
+number of hours that a certified simulator can be used for instrument training
+BATD: 10 hours; AATD: 20 hours; and an instructor is no longer required to be present
+
+takeoff weather minimums for IFR
+part 91: no minimums; commercial: those specified for airport, then the standard minimum of 1 statute mile of visibility, lowered to half mile for aircraft with more than two engines
+
+the FAA currently accepts "different kinds of approaches" to mean 
+approaches with different minimums, not necessarily using different navigation systems

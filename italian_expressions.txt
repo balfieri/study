@@ -2111,7 +2111,7 @@ to go full steam
 andare a gonfie vele
 
 to tread lightly
-andarci coi piedi di piombo
+andarci coi piedi di piombo; andare coi piedi di piombo
 
 to continue waiting for (something) that seems imminent but never comes
 aspettare Godot

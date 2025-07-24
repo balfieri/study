@@ -6,3 +6,38 @@ and airspeed will be higher
 VSI will momentarily record a climb
 but 172 alt static source is external
 each inch of mercury cmcgsnges altitude by 1000 ft
+LNAV/VNAV
+LNAV/VNAV limitations: does not get more precise as one gets closer to the runway. Baro-VNAV is inherently less accirate than ILS or WAAS
+Position reports are required when not in radar contact and the aircraft is passing over any designated compulsory reporting point. On IFR charts, this is designated by a solid triangle symbol.
+Position reports are also required when passing over each reporting point used in a flight plan to define a direct route, and when requested by ATC.
+Either: When vacating an altitude, reaching or leaving a holding fix, changing altitude when VFR-on-top, initiating a missed approach, TAS change of 10 knot or 5%, unable to maintain 500 fpm, safety of flight information, weather different than forecast, and equipment malfunctions.
+When not in radar contact, the following additional reports are required:  leaving the FAF inbound on an approach, when the ETA needs to be revised more than 3 minutes, or when passing over a compulsory reporting point.
+Cruise or block altitudes give pilot discretion within specified limits.
+	â¢	Emergencies grant temporary authority to deviate, with required notification.
+	â¢	Otherwise, never vacate an assigned altitude without ATC clearance
+
+Only a state-issued driverâs license is required to be carried for the purpose of operating under BasicMed.
+
+The Comprehensive Medical Examination Checklist and the FAA BasicMed Medical Education Course completion certificate must be kept and made available if requested by the FAA.
+
+Bob Alfieri:
+	A pilot may deviate from an ATC clearance if an amended clearance is obtained, an emergency exists, or if responding to a traffic alert and collision avoidance system.
+
+The pilot should notify ATC as soon as possible of the deviation.
+
+Bob Alfieri:
+	A pilot may deviate from an ATC clearance if an amended clearance is obtained, an emergency exists, or if responding to a traffic alert and collision avoidance system.
+
+The pilot should notify ATC as soon as possible of the deviation.
+
+Non-commercial: When the aircraft is operating under IFR unless the pilot in command has determined that the electronic device will not cause interference with the navigation or communication system of the aircraft.
+
+
+Special VFR is an uncommonly used clearance which allows a VFR flight to enter or depart controlled airspace surrounding an airport when the weather is IFR.
+
+The weather must be at least one statue mile in visibility and the pilot must be able to stay clear of clouds.
+
+At night, the pilot must be instrument rated and the aircraft must be equipped for IFR flight.
+
+
+
