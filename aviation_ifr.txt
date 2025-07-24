@@ -388,7 +388,7 @@ when a holding pattern is specified in lieu of a procedure turn, the holding man
 the 1-minute time limitation or DME distance as specified in the profile view
 
 things you can approximate from a 500 millibar constant pressure chart for a planned flight at FL180
-observed temperature, wind, and temperature/dew point spread alond the proposed route
+observed temperature, wind, and temperature/dew point spread along the proposed route
 
 during taxi, attitude indicator is unreliable when
 the horizontal bar tilts more than 5 degrees while making turns
