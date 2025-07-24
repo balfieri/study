@@ -1,18 +1,18 @@
 # aviation_ifr.txt - instrument pilot written exam and checkride questions (focusing on ones I had problems with)
 #
-SPARROW
+SPARROW acronym for required aircraft documents
 Supplements, Placards, Airworthiness certificate; Registration; Radio license (when operating outside the U.S.); Operator's handbook; Weight and balance (use the version updated by the mechanic)
 
-AV1ATES
+AV1ATES acronym for required inspections
 Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (24 months, IFR only); Transponder (24 months); ELT (12 months or half Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
 
-ATOMATO FLAMES
+ATOMATO FLAMES acronym for equipment required for VFR
 Altimeter; Tachometer (for each engine); Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Seatbelts (in occupied seats)
 
-FLAPS
+FLAPS acronym for additional equipment required at night for VFR
 Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only if aircraft is for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
 
-GRABCARDD
+GRABCARDD acronym for additional equipment required for IFR
 Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball; Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyroscope; DME above 24000 feet
 
 ANDS
@@ -1097,3 +1097,6 @@ part 91: no minimums; commercial: those specified for airport, then the standard
 
 the FAA currently accepts different kinds of approaches to mean 
 approaches with different minimums, not necessarily using different navigation systems
+
+PTAC acronym for ATC approach clearances
+Position: you position relative to a fix or approach segment; Turn: heading you should fly next; Altitude: altitude to maintain until established; Clearance: actual approach clearance
