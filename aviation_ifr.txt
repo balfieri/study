@@ -541,7 +541,7 @@ full-scale deflection of localizer
 3-6 degrees; 700 feet wide at runway threshold
 
 false glide slope issue with ILS
-lobes of glidescope reflect off the ground and end up way higher, which cause the navigation system to get confused if the aircraft is too high
+lobes of glide slope reflect off the ground and end up way higher, which cause the navigation system to get confused if the aircraft is too high
 
 VOR approach with a letter rather than a runway
 does not line you up with the runway, at least 30 degrees off

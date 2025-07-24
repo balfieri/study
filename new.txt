@@ -41,3 +41,4 @@ At night, the pilot must be instrument rated and the aircraft must be equipped f
 
 
 
+different SIGMET types
