@@ -259,7 +259,7 @@ winds aloft are expressed in
 true direction and knots
 
 determining approach category
-Vso times 1.3, then look it up in table
+Vso times 1.3, then: category A if no more than 90 knots, category B if 91 to 120 knots, category C if 121 to 140 knots, category D if 141 to 165 knots
 
 radar service is terminated during visual approach automatically when 
 ATC tells pilot to contact the tower
