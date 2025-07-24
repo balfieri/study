@@ -1095,5 +1095,5 @@ BATD: 10 hours; AATD: 20 hours; and an instructor is no longer required to be pr
 takeoff weather minimums for IFR
 part 91: no minimums; commercial: those specified for airport, then the standard minimum of 1 statute mile of visibility, lowered to half mile for aircraft with more than two engines
 
-the FAA currently accepts "different kinds of approaches" to mean 
+the FAA currently accepts different kinds of approaches to mean 
 approaches with different minimums, not necessarily using different navigation systems
