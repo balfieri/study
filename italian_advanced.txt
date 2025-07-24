@@ -4147,7 +4147,7 @@ concepire
 to elbow one's way; to jostle
 sgomitare
 
-ruminate; ponder; reflect; to brood
+to ruminate; to ponder; to reflect; to brood
 rimuginare; riflettere
 
 balance
@@ -74713,9 +74713,6 @@ il mangiarischi
 
 on the phone
 al telefono
-
-to ruminate
-rimunginare
 
 to give directions about (something)
 dare indicazioni su (qualcosa)
