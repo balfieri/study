@@ -408,7 +408,7 @@ the maximum airspeed in a procedure turn is
 the plus-over-plus symbol in airport tower open time range indicates that
 during daylight savings time, hours will be one hour earlier than shown
 
-if wind direction is 260 and magnetic variation is 17E, what is magnetic wind direction
+if wind direction is 260 and magnetic variation is 17 east, what is magnetic wind direction
 243
 
 besides attitude indicator, which instruments are pitch instruments
