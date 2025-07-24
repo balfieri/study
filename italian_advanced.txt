@@ -10261,9 +10261,6 @@ sbattere uova
 room temperature
 la temperatura ambiente
 
-whisk
-la frusta
-
 scale (weighing)
 la bilancia
 
@@ -63368,7 +63365,7 @@ il macinacaffè
 whisk; wire whisk
 la frusta a filo
 
-whip
+whisck; whip
 la frusta
 
 the coffee pod
@@ -75845,9 +75842,6 @@ in lontananza
 post-graduate
 post-laurea
 
-early in the morning
-presto la mattina
-
 novelist
 il romanziere; la romanziera
 
@@ -81193,7 +81187,7 @@ early hour
 la buonora
 
 early in the morning
-di buonora
+presto la mattina; di buonora
 
 at a leisurely pace
 alla buonora
