@@ -12754,7 +12754,7 @@ laborioso; diligente
 to exempt oneself from
 esimersi da
 
-flock; herd; pack (animals)
+flock; herd; pack (animals); pride (lions)
 il branco
 
 law; legislation; act
@@ -86814,9 +86814,6 @@ la provola
 by the time (something happens)
 entro quando (congiuntivo); nel momento in cui (congiuntivo)
 
-pack of lions
-il branco di leoni
-
 to grow too large
 crescere troppo; diventare troppo grande
 
@@ -96560,3 +96557,39 @@ non sto scherzando
 
 disciplinarian
 il disciplinare; l'autoritario; la persona severa
+
+to pity (somebody)
+provare pietà per (qualcuno)
+
+pride of lions; pack of lions
+il branco di leoni
+
+warthog
+il facocero
+
+one nextdoor
+quello accanto; quello della porta accanto
+
+nextdoor neighbor
+il vicino di casa; il vicino della porta accanto
+
+nazi germany
+la Germania nazista
+
+to take a look around
+dare un'occhiata in giro
+
+it really hits hard; it's really a blow
+è proprio una bella botta
+
+something final; something definitive
+qualcosa di definitivo
+
+appropriate response
+la risposta appropriata
+
+as soon as you can
+appena puoi
+
+any second thoughts?
+hai qualche ripensamento?; qualche ripensamento?
