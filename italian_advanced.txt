@@ -58,7 +58,7 @@ scorrere
 take-off
 il decollo
 
-landing
+landing; touch down
 l'atterraggio
 
 saying
@@ -7582,8 +7582,8 @@ impastare (gli ingredienti)
 push mower
 il tagliaerba a spinta
 
-supporter
-il sostenitore
+supporter; proponent
+il sostenitore; la sostenitrice
 
 to raise; to lift; to relieve (duties)
 sollevare
@@ -96593,3 +96593,28 @@ appena puoi
 
 any second thoughts?
 hai qualche ripensamento?; qualche ripensamento?
+
+I have to study for (something), which is harder
+devo studiare per (qualcosa), che è più difficile
+
+proponent
+il sostenitore; la sostenitrice; il fautore; la fautora
+
+disarmingly pleasant facade
+la facciata piacevole in modo disarmante; la facciata disarmante e piacevole
+
+touchdown (American football)
+il touchdown
+
+so far, it's been 
+finora è stato 
+
+she once was a true love of mine
+una volta fu un mio vero amore; un tempo era un mio vero amore
+
+on one's tiptoes
+in punta di piedi
+
+to walk on one's tiptoes
+camminare in punta di piedi
+

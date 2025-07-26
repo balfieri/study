@@ -5689,8 +5689,11 @@ il compagno; la compagna
 partner
 il partner; la partner
 
-fiancé; serious boyfriend; serious girlfriend
-il fidanzato; la fidanzata
+fiancé; serious boyfriend
+il fidanzato
+
+fiancée; serious girlfriend
+la fidanzata
 
 it is supposed to be; it should be
 dovrebbe essere

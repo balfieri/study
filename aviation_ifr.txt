@@ -1100,3 +1100,6 @@ approaches with different minimums, not necessarily using different navigation s
 
 PTAC acronym for ATC approach clearances
 Position: you position relative to a fix or approach segment; Turn: heading you should fly next; Altitude: altitude to maintain until established; Clearance: actual approach clearance
+
+when ATC says to maintain altitude until established, this means
+established on any published segment'feeder route, initial approach segment, intermediate segment, or final approach segment
