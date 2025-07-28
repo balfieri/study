@@ -32446,7 +32446,7 @@ il trucco; l'espediente; lo stratagemma
 instantaneous
 istantaneo
 
-towards me
+towards me (formal, position, attitude)
 nei miei confronti
 
 to hide in broad daylight
@@ -36949,7 +36949,7 @@ impensierire
 towards
 nei confronti
 
-towards him; towards her; towards them; to him; to her; for him; for her; against him; against her; in his regards; in her regards
+towards him; towards her; towards them; to him; to her; for him; for her; against him; against her; in his regards; in her regards (more formal)
 nei suoi confronti
 
 off-the-record
@@ -96666,3 +96666,20 @@ pratica commerciale losca; pratica commerciale scorretta
 renegade; outlaw; dissident
 il rinnegato; il fuorilegge; il dissidente
 
+to indulge; to humor; to support; to go along with; to pander
+assecondare il sentimento
+
+interdiction; disqualification; prohibition
+l'interdizione
+
+to break inside; to be torn apart inside
+spaccare dentro
+
+to remove stains; to clean a stain
+smacchiare
+
+stain-removing; de-staining
+smacchiante
+
+to apprehend; to arrest; to seize
+apprehendere; arrestare; afferrare

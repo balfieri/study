@@ -364,7 +364,7 @@ il semaforo
 ramp (highway)
 la rampa
 
-toward
+toward (physical, figurative)
 verso
 
 back; backwards
