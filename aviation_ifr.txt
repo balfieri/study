@@ -1103,3 +1103,15 @@ Position: you position relative to a fix or approach segment; Turn: heading you 
 
 when ATC says to maintain altitude until established, this means
 established on any published segment'feeder route, initial approach segment, intermediate segment, or final approach segment
+
+a non-WAAS IFR GPS is required to have
+an approved and operational alternate means of navigation appropriate for flight
+
+a full scale deflection of an ILS localizer is usually equal to
+2.5 degrees off course, so each dot is equal to 0.5 degrees
+
+RNAV refers to the capability of
+various types of avionics to allow an aircraft to determine its position and fly a route based upon waypoints that have no fixed relationship with ground-based navaids
+
+if RAIM is lost during approach, the pilot should
+execute the missed approach procedure
