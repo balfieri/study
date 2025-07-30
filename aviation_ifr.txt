@@ -1115,3 +1115,9 @@ various types of avionics to allow an aircraft to determine its position and fly
 
 if RAIM is lost during approach, the pilot should
 execute the missed approach procedure
+
+characteristics of a high-pressure air mass
+denser, sinking, more compressed, warmer, higher clouds
+
+characteristics of a low-pressure air mass
+less dense, rising, less compressed, cooler, lower more vertically developed clouds
