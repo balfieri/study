@@ -3831,9 +3831,6 @@ lo scambio a sorpresa; il baratto
 it takes two to tango (it takes two people to succeed at something)
 ci vogliono due persone per fare il tango
 
-to shoot oneself in the foot
-autotrittarsi
-
 he's always up to something
 è sempre impegnato in qualcosa; combina sempre qualcosa
 
@@ -6350,3 +6347,9 @@ dare una svolta a (qualcosa); presentare (qualcosa) in una certa luce
 
 to put a positive spin on (something)
 dare una svolta positiva a (qualcosa); presentare (qualcosa) in modo positivo
+
+to gyp
+imbrogliare; truffare
+
+to have other fish to fry
+avere altri gatti da pelare

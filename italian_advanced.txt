@@ -10936,7 +10936,7 @@ scombinare; fare un pasticcio; combinare un pasticcio
 welfare; well-being; prosperity
 il benessere
 
-whatever you say
+whatever you say; if you say so
 come dici tu; se lo dici tu
 
 to do the right thing
@@ -96711,3 +96711,65 @@ far rottamare
 to have to move to another room
 dover trasferirsi in un'altra stanza
 
+to start a half hour early
+iniziare mezz'ora prima; cominciare mezz'ora prima
+
+guard on duty
+l'agente di guardia
+
+contraption; gadget; device
+il congegno
+
+do you agree?; do you concur?
+convieni?
+
+there are three of us on duty; we are three in force
+siamo tre in forza
+
+amperage
+l'amperaggio
+
+if I say so; if I say it
+se lo dico io
+
+we're done when I say we're done
+avremmo chiuso quando io dico che avremmo chiuso
+
+console; dashboard; control panel
+la plancia
+
+time bomb
+la bomba a tempo
+
+have faith!
+abbi fede!
+
+there is gold in the streets
+c'è oro nelle strade
+
+to savor the moment
+assaporare il momento; gustare il momento
+
+incognito mode
+la modalità in incognito
+
+murder; assassination
+l'assassinio
+
+hired man; man on the payroll
+l'uomo al soldo
+
+mobster; criminal; gangster
+il malavitoso
+
+parking lot booth attendant; parking toll collector
+il casellante nel parcheggio; la casellante nel parcheggio
+
+booth attendant
+il casellante; la casellante
+
+novice criminal; newbie criminal
+il novello criminale
+
+to embed
+embeddare
