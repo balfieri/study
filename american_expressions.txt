@@ -430,7 +430,7 @@ to marry up
 sposarsi bene
 
 donkeys must suffer (DMS)
-gli muli devono soffrire; gli asini devono soffrire
+i muli devono soffrire; gli asini devono soffrire
 
 I’m gonna tell it to you straight
 te lo dico chiaro e tondo
@@ -6353,3 +6353,9 @@ imbrogliare; truffare
 
 to have other fish to fry
 avere altri gatti da pelare
+
+to fight tooth and nail
+combattere con le unghie e con i denti
+
+to crash (sleep)
+dormire; fermersi a dormire
