@@ -42328,7 +42328,7 @@ lo scafo
 precipitation
 la precipitazione
 
-without a hitch; smoothly
+without a hitch; without a hiccup; smoothly
 senza intoppi; agevolmente
 
 to take shelter; to find cover
@@ -67595,7 +67595,7 @@ ti piacerebbe unirti a me per il pranzo?
 to join me for
 unirsi a me per
 
-setback
+setback; hiccup; hitch
 il contraccolpo; l'intoppo; il contrattempo; la battuta d'arresto
 
 cappellacci (large tortellini)
@@ -91866,9 +91866,6 @@ avere il singhiozzo
 major hiccup
 il grosso intoppo; l'imprevisto importante
 
-without a hiccup
-senza intoppi
-
 stock trading
 la compravendita di azioni; il trading azionario
 
@@ -96816,3 +96813,8 @@ essere dottorati; avere un dottorato
 look at how old we are
 guarda quanto siamo vecchi; guarda quanto siamo anziani
 
+to go flawlessly; to go perfectly
+andare liscio; andare perfettamente
+
+to go without a hitch
+andare senza intoppi
