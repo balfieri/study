@@ -84231,9 +84231,6 @@ l'album di debutto
 timeless music
 la musica senza tempo
 
-half-time
-a metà
-
 to make (someone) feel uncomfortable
 fare sentire (qualcuno) a disagio
 
@@ -96807,5 +96804,9 @@ evitare per il soffio la cattura
 broken in half
 spezzato a metà; rotto a metà
 
-half (adjective); in half
+half (adjective); in half; half-time; halfway
 a metà
+
+to empty the car
+svuotare la macchina; svuotare l'auto
+
