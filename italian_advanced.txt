@@ -23672,7 +23672,7 @@ constitutional
 costituzionale
 
 cunning; sly; crafty
-furbo
+furbo; ingegnoso
 
 sour
 aspro
@@ -48520,8 +48520,8 @@ andare storto
 to look friendly
 sembrare amichevole
 
-sagacious; shrewd; astute
-sagace; astuto
+sagacious; shrewd; astute; cunning
+sagace; astuto; ingegnoso
 
 performative
 performativo
@@ -77283,9 +77283,6 @@ se va bene
 masterful
 magistrale
 
-to whet one's beak
-bagnare il becco
-
 to canonize
 canonizzare
 
@@ -96873,3 +96870,68 @@ essere connessi a (un sito); essere loggati su (un sito)
 (something) prep
 la preparazione di (qualcosa); la prontezza riguardo (qualcosa)
 
+that's that; that's all there is to it
+quest'Ã¨ quanto
+
+reappear
+ricompaia
+
+revolver; revolver gun
+revolver (arma); revolver
+
+to pay (someone) to (do something)
+soldare (qualcuno) per (fare qualcosa)
+
+tank car; railroad tank car
+la cisterna ferroviaria; il carro cisterna
+
+dark territory
+il territorio oscuro; la zona senza segnale
+
+train engineer; locomotive engineer
+il macchinista ferroviario; il conducente del treno
+
+try again!
+prova ancora!
+
+cunning plan
+il piano astuto; il piano ingegnoso
+
+to cover one's tracks
+coprire le proprie tracce
+
+emotionally vulnerable
+emotivamente vulnerabile
+
+unvarnished truth
+la verità senza filtri; la verità nuda e cruda
+
+unvarnished
+senza filtri; nuda e cruda
+
+open-source project
+il progetto open-source
+
+open-source software
+il software open-source
+
+innocent bystander
+il passante innocente; lo spettatore innocente
+
+I'm halfway through season 5
+sono a metà della quinta stagione
+
+to be halfway through (something)
+essere a metà di (qualcosa)
+
+unprecedented
+senza precedenti
+
+exhausting; draining; grueling
+estenuante
+
+knock knock
+toc toc
+
+knock knock, who's there?
+toc toc, chi è?
