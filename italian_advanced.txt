@@ -27352,8 +27352,11 @@ l'orchestra
 renewed; renovated; revamped
 rinnovato
 
-refurbished
+refurbished (place)
 ristrutturato
+
+refurbished (machine)
+ricondizionato; rinnovato; ristrutturato
 
 plebe
 la plebe
