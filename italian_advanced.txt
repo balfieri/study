@@ -29128,9 +29128,6 @@ spedito
 unanimous
 unanime
 
-barbarism
-la barbarie
-
 strategic
 strategico
 
@@ -97100,3 +97097,7 @@ accecato dall'ira
 
 knick-knack; trinket; curio; junk; odds and ends; bits and pieces
 la cianfrusaglia
+
+barbarism
+la barbarie; l'incivilità; il barbarismo
+
