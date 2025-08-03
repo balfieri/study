@@ -1121,3 +1121,9 @@ denser, sinking, more compressed, warmer, higher clouds
 
 characteristics of a low-pressure air mass
 less dense, rising, less compressed, cooler, lower more vertically developed clouds
+
+the FAA and ICAO define a precision approach as one that is based on 
+ground-based navigation aids providing a localizer and a glide slope; LPV is not ground-based, thus GPS approaches are all non-precision
+
+in the context of IFR flight, resume own navigation means
+to following radar vectors from ATC and to instead proceed along the previously-cleared route

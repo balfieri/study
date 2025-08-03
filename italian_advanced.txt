@@ -24907,7 +24907,7 @@ impedito
 conventional
 convenzionale
 
-to hold; to concern; to abide; to attain
+to hold; to concern; to abide; to attain; to pertain to
 attenere
 
 mark; brand name
@@ -36841,7 +36841,7 @@ seminato
 I'm out
 mi chiamo fuori
 
-loose change
+loose change; small change
 gli spiccioli
 
 crumb
@@ -49105,7 +49105,7 @@ ma sei matto
 I don't even think about it
 non ci penso nemmeno
 
-I don't even want to think about it
+I don't even want to think about it; not a chance; no way
 non ci penso proprio
 
 I don't want to hear about it
@@ -63792,7 +63792,7 @@ baboon
 il babbuino
 
 stabbed
-accoltellato
+accoltellato; pugnalato
 
 stabbed to death
 accoltellato a morte
@@ -66938,7 +66938,7 @@ sento che sta arrivando un mal di testa
 it will take no time; it won't take long
 non ci metterà molto; ci vorrà poco tempo
 
-to sell of; 
+to sell off 
 svendere
 
 to liquidate
@@ -96947,3 +96947,63 @@ sostenibile
 
 espresso puck
 il puck di espresso; il disco di caffè espresso; il disco di caffè
+
+to take action against
+intraprendere un'azione contro; agire contro
+
+longstanding
+di lunga data; di vecchia data
+
+corroborated
+corroborato; confermato
+
+uncorroborated
+non corroborato; non confermato
+
+firestorm
+la tempesta di fuoco; la bufera
+
+chicanery
+l'inganno; il raggiro
+
+motorcross motorcycle
+la moto da motocross
+
+time point; schedule point
+il punto di oriario
+
+to go one's own way
+andare per la propria strada
+
+to reclaim one's life
+riappropriarsi della propria vita
+
+some time later
+tempo dopo
+
+to take time off for
+assentarsi per
+
+dedication
+la dedica
+
+I bid you adieu
+ti saluto; ti do l'addio
+
+potential
+la potenziale
+
+because of me; due to me
+a causa mia
+
+because of us; due to us
+a causa nostra
+
+roll; scroll
+il rottolo
+
+you got me; you caught me
+mi hai beccato
+
+sleep mask
+la mascherina per dormire
