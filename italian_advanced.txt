@@ -2014,6 +2014,9 @@ farcela
 outlet; socket; hold; grip; taking
 la presa
 
+electrical outlet; electrical socket
+la presa elettrica
+
 thermal underwear
 la bianchiera termica
 
@@ -3973,7 +3976,7 @@ il canone
 agreement (Vatican, legal)
 il concordato
 
-to provide for; to take care of; to provision
+to provide for; to take care of; to provision; to arrange to
 provvedere a; provvedere per
 
 to carry out; to perform; to fulfll
@@ -6091,7 +6094,7 @@ ricorrere a (fare qualcosa)
 to recur; to resort; to appeal
 ricorrere
 
-to subtract; to take away; to remove; to separate
+to subtract; to take away; to remove; to separate; to steal; to pinch (steal)
 sottrarre
 
 taboo
@@ -14716,8 +14719,8 @@ dondolare
 hump; hunchback
 la gobba
 
-to hurry; to rush; to dash
-precipitarsi
+to hurry to; to rush to; to dash to
+precipitarsi a
 
 to have lost one's mind
 essere fuori di testa
@@ -23734,7 +23737,7 @@ il plantano
 fell; fallen; dropped; flopped
 cascato
 
-once again
+once again; yet again
 ancora una volta
 
 without warning; without notice; without prior notice; without advance warning
@@ -97019,3 +97022,82 @@ il patologo; la patologa
 
 to pay attention to it
 farci caso; prestarci attenzione
+
+as if nothing happened; as if nothing had happened
+come se nulla fosse
+
+to return to the scene; to return to the game; to get back in the game
+tornare nel giro
+
+to erase guilt; to wipe out guilt
+cancellare i sensi di colpa
+
+to drive around; to go for a drive
+andare in giro in auto; andare in giro in macchina
+
+reappearance of cancer; cancer recurrence; recurrence of cancer
+la ricomparsa del cancro
+
+reappearance; recurrence
+la ricomparsa
+
+to abandon all pretense; to abandon any pretense
+abbandonare ogni finzione
+
+to throw a punch; to land a punch
+sferrare un pugno
+
+to have (someone) arrested; to get (someone) arrested
+far arrestare (qualcuno)
+
+arrival of death; coming of death; onset of death
+il sopraggiungere della morte
+
+dissuaded; discouraged; talked out of
+dissuaso
+
+to make (something) disappear
+far sparire (qualcosa)
+
+excavation work; work of digging
+il lavoro di scavo
+
+reconcilable; compatible
+conciliabile
+
+to change accommodation; to move accommodation
+cambiare sistemazione
+
+to take into custody; to detain
+prendere in custodia
+
+to rebuild; to get back on its feet
+rimettere in piedi
+
+to release on bail; to grant bail
+rilasciare su cauzione
+
+physiotherapy; physical therapy
+il fisioterapico
+
+with some hesitation; with some reservation
+con qualche remora
+
+false identity
+la falsa identità
+
+furious; enraged; infuriated
+inviperito
+
+to become furious; to enrage; to infuriate
+inviperire
+
+poisoned; barbed; venomed
+avvelenato
+
+to put the blame on (someone); to shift the blame onto (someone)
+scaricare la colpa su (qualcuno)
+
+blinded by rage
+accecato dall'ira
+
