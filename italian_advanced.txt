@@ -97149,3 +97149,6 @@ lo scorciatore; la scorciatrice; il tagliatore; la tagliatrice
 whose fault is it?
 di chi è la colpa?
 
+simplistic
+semplicistico
+
