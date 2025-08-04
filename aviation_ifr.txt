@@ -1127,3 +1127,7 @@ ground-based navigation aids providing a localizer and a glide slope; LPV is not
 
 in the context of IFR flight, resume own navigation means
 to following radar vectors from ATC and to instead proceed along the previously-cleared route
+
+Coriolis force causes winds
+to bend toward the right in the Northern hemisphere, which makes them run parallel to isobars rather than perpindicular if only the pressure gradient force existed
+
