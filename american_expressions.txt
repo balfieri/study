@@ -792,7 +792,7 @@ patetico; debole
 lame-ass
 molto patetico; molto debole
 
-to wimp out; to wuss out
+to wimp out; to wuss out; to chicken out
 tirarsi indietro; defilarsi; sottrarsi a un obbligo; rinunciare; fare il fifone
 
 to flake out
@@ -1571,9 +1571,6 @@ no significa no
 
 to be chicken
 essere un pollo; essere la gallina
-
-to chicken out
-tirarsi indietro
 
 to put oneself out there; to get in the game
 mettersi in gioco

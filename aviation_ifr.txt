@@ -21,6 +21,9 @@ WEST EAST: accelerate causes deflection toward north, decelerate toward south; n
 UNOS 
 undershoot turn to or from north, overshoot turn to or from south
 
+66HIT acronym for IFR currency
+in the prior 6 calendar months, the pilot must perform 6 instrument approaches, holds, incercepting fixes, and tracking courses; otherwise, the pilot must get an Instrument Proficiency Check (IPC) from a CFII
+
 VOT on ground
 need to be on 360 radial, plus or minus 4 degrees 180 TO or 360 FROM
 
@@ -225,7 +228,13 @@ contact nearest FSS, close VFR portion, request ATC clearance
 when making range corrections
 change the relative bearing 10 to 20 deg for each half mile deviation
 
-above 14,000 feet with turbojet in holding pattern, max speed 
+6000 feet MSL or less, max holding pattern speed
+250 knots
+
+above 6000 feet MSL and no more than 14,000 feet MSL, max holding pattern speed
+230 knots
+
+above 14,000 feet MSL, max holding pattern speed
 265 knots
 
 minimum equipment required to identify an intersection on a Victor airway
