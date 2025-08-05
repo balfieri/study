@@ -21,7 +21,7 @@ WEST EAST: accelerate causes deflection toward north, decelerate toward south; n
 UNOS 
 undershoot turn to or from north, overshoot turn to or from south
 
-66HIT acronym for IFR currency
+6HIT acronym for IFR currency
 in the prior 6 calendar months, the pilot must perform 6 instrument approaches, holds, incercepting fixes, and tracking courses; otherwise, the pilot must get an Instrument Proficiency Check (IPC) from a CFII
 
 VOT on ground
