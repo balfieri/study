@@ -1140,3 +1140,5 @@ to following radar vectors from ATC and to instead proceed along the previously-
 Coriolis force causes winds
 to bend toward the right in the Northern hemisphere, which makes them run parallel to isobars rather than perpindicular if only the pressure gradient force existed
 
+how does TAS change with altitude
+in standard conditions, TAS increases by about 2% per 1000 feet of altitude
