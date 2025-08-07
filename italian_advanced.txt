@@ -16283,7 +16283,7 @@ I really can't stand that man
 non sopporto proprio quel uomo
 
 technologist
-il tecnologo
+il tecnologo; la tecnologa
 
 to practice a speech
 provare un discorso
@@ -17427,9 +17427,6 @@ essere una palla al piede
 
 a-gogo
 a gogo
-
-to dot the i's and cross the t's
-mettere i puntini sulle i
 
 to not be able to hurt a fly
 non fare male a una mosca
@@ -37153,7 +37150,7 @@ chicchessia
 laxity; slackness
 il lassismo
 
-hiding; evasion
+being on the run; absconding; fugitive status; hiding; evasion
 la latitanza
 
 to make hay; to make a mess
@@ -97230,3 +97227,59 @@ accorciare la vita di; troncare la vita di
 model citizen
 il cittadino modello; la cittadina modello
 
+light harvesting
+la raccolta della luce; la raccolta di luce
+
+to harvest light
+raccogliere la luce; mietere la luce
+
+graduation committee; degree board; thesis committee
+la commissione di laurea
+
+non-negotiable
+non negoziabile
+
+scrimmage
+la partitella di allenamento; la partita amichevole
+
+to scrimmage
+fare una partitella di allenamento; giocare una partitella amichevole
+
+co-ed sport
+lo sport misto
+
+wasted away; emaciated
+deperito
+
+chamomile
+la camomilla
+
+face faintly marked; slightly marked in the face
+accennato in volto
+
+to specify
+specificare
+
+to oversell (something)
+esagerare (qualcosa); sopravvalutare (qualcosa)
+
+to look terrible
+avere un aspetto orribile
+
+to finish a match; to complete a game
+finire una partita
+
+Mexican standoff
+lo stallo alla messicana
+
+deadlock; standoff
+lo stallo; l'impasse; la situazione di stallo
+
+quorum
+il quorum
+
+to expand one's horizons
+allargare i propri orizzonti
+
+industrious
+operoso; laborioso; industrioso
