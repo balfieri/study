@@ -57809,7 +57809,7 @@ in giro per le strade
 fishing boat
 la barca da pesca
 
-fishing pole
+fishing pole; fishing rod
 la canna da pesca
 
 fishing gear
@@ -97283,3 +97283,27 @@ allargare i propri orizzonti
 
 industrious
 operoso; laborioso; industrioso
+
+trullo; dry stone hut; Apulian stone house
+il trullo
+
+assasin's guild; assassin's den
+l'assassineria
+
+let's go back there
+torniamo là
+
+what to do?
+che fare?; cosa fare?
+
+cartoccio; food wrapped in paper; parcel (culinary term)
+il cartoccio
+
+to fire up the engine
+accendere il motore
+
+BBQ sauce
+la salsa barbecue; la salsa BBQ
+
+ranked
+classificato
