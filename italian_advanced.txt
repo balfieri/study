@@ -4894,7 +4894,7 @@ il piano cottura; il piano di cottura
 burner (stovetop)
 il fornello; i fornelli
 
-hot plate
+hot plate (for pots)
 il sottopentola; il pioggiapentola
 
 meek
@@ -6355,7 +6355,7 @@ le superfici
 suitable; fit; apt; eligible
 idoneo
 
-rooted; deep-seated; ingrained; entrenched
+rooted; deep-seated; ingrained; entrenched; grounded
 radicato
 
 to bridge; to fill (to the maximum); to heap; to smother
@@ -71402,7 +71402,7 @@ lo stelo della valvola
 skimmer
 lo scumatore
 
-toll booth
+toll booth; tollgate
 il casello
 
 to be never-ending
@@ -97307,3 +97307,55 @@ la salsa barbecue; la salsa BBQ
 
 ranked
 classificato
+
+to be good experience (for knowledge)
+essere una buona esperienza; essere un'esperienza positiva
+
+in the blink of an eye; in a heartbeat
+il tempo di un battito
+
+constant fear
+la paura costante
+
+court-appointed lawyer; public defender
+avvocato d'ufficio
+
+to validate parking; to validate the parking ticket
+convalidare il parcheggio
+
+embezzlement case
+il caso di peculato
+
+embezzlement
+il peculato
+
+back to; returning to; back at
+di ritorno a
+
+beauty salon
+il centro estetico
+
+prey of; victim of; in the grip of
+preda di
+
+skater
+lo skater
+
+place mat; American-style place mat
+la tovaglietta americana
+
+tablecloth
+la tovaglia
+
+well-grounded (person)
+equilibrato; bilanciato; ben piantato; ben radicato; ben fondato; solido; con un buon fondamento nella verità
+
+pasta fritter; Neapolitan fried pasta cake; fried pasta omelette
+la frittatina di pasta
+
+fritter; omelette
+la frittatina
+
+just when you least expect it; at the moment you least expect it
+nel momento in cui meno te lo aspetti
+

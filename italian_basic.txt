@@ -2077,9 +2077,6 @@ la ciotola; la scodella
 glass; drinking glass
 il bicchiere
 
-tablecloth
-la tovaglia
-
 ham
 il prosciutto
 
