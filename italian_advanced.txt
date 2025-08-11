@@ -7438,7 +7438,7 @@ indebitamente
 to cheat (on a test)
 imbrogliare
 
-cheating; complication; mess; muddle
+tangle; mess; embroilment; scandal; complicated situation; cheating; complication; muddle
 l'imbroglio
 
 to cheat (someone out of something); to fool; to deceive; to can
@@ -60761,9 +60761,6 @@ il machiavellismo
 unscrupulous; reckless
 spregiudicato
 
-in the guise of
-in veste di
-
 party (political, adjective)
 partitico
 
@@ -63337,9 +63334,6 @@ la farina Manitoba
 
 fortified flour
 la farina rinforzata
-
-openable
-apribile
 
 closeable
 chiudibile
@@ -97454,3 +97448,55 @@ a cosa serve?; a che serve?
 
 to beep
 fare bip; emettere un bip
+
+door; doorway; threshold
+l'uscio
+
+to get rid of it
+sbarazzarsene
+
+godfather; close friend; buddy
+il compare; il compare stretto
+
+narrowness; scarcity; shortage; tightness (of money); crampedness; constraint; closeness (of relationship)
+la ristrettezza
+
+very unpleasant experience; extremely unpleasant experience; most unpleasant experience
+la spiacevolissima esperienza
+
+sunroof
+il tetto apribile
+
+able to be opened; openable
+apribile
+
+as; in the capacity of; in the guise of
+in veste di
+
+in disarray; in disorder; turned upside down; in a mess
+a soqquadro
+
+breaking and entering; burglary; break-in
+l'effrazione
+
+police car; flying squad; patrol car; squad car; rapid-response police unit
+la volante
+
+fight; quarrel; argument; row
+la litigata
+
+missing persons case
+il caso di sparizione; il caso sparizione
+
+hidden away; holed up
+rintanato
+
+informed; notified
+avvisato
+
+grabbed; grasped
+afferrato
+
+to grab again; to seize again; to regrasp
+riafferrare
+
