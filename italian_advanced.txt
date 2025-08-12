@@ -14347,7 +14347,7 @@ equanime
 soaked; wet; drenched
 intriso
 
-to trespass; to overstep
+to go over the border; to trespass; to overstep
 sconfinare
 
 rewarding
@@ -36784,7 +36784,7 @@ il franchising
 unconstitutional
 anticostituzionale
 
-profitable; remunerative; lucrative
+profitable; remunerative; lucrative; moneymaking
 redditizio
 
 pros and cons
@@ -97499,4 +97499,19 @@ afferrato
 
 to grab again; to seize again; to regrasp
 riafferrare
+
+at the end of May
+a fine maggio
+
+stuntman
+il cascatore
+
+stuntwoman
+la cascatrice
+
+to extricate
+estrarre; liberare
+
+extricated
+estratto; liberato
 
