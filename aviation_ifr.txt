@@ -1142,3 +1142,6 @@ to bend toward the right in the Northern hemisphere, which makes them run parall
 
 how does TAS change with altitude
 in standard conditions, TAS increases by about 2% per 1000 feet of altitude
+
+OROCA
+off route obstruction clearance altitude for an entire quardrant or sector marked on the chart; it is marked as 1000G or whatever the minimum altitude is 

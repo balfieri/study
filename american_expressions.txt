@@ -6392,3 +6392,7 @@ lo sporco individuo; la persona sudicia
 
 to not go out of one's way to (do something)
 non darsi pena per (fare qualcosa)
+
+it's not a bug, it's a feature
+non è un bug, è una feature; non è un difetto, è una pecularità
+
