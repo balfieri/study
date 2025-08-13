@@ -6396,3 +6396,6 @@ non darsi pena per (fare qualcosa)
 it's not a bug, it's a feature
 non è un bug, è una feature; non è un difetto, è una pecularità
 
+to throw in the towel
+rinunciare; ritirarsi
+

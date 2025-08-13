@@ -10910,7 +10910,10 @@ garment
 l'indumento
 
 statesman
-lo statista; la statista
+lo statista
+
+stateswoman
+la statista
 
 to discredit; to debunk; to dispel
 sfatare
@@ -86106,9 +86109,6 @@ il regalo di novità; il regalo scherzoso
 mercenary leader
 il condottiere; la condottiera
 
-statesman
-il statista
-
 it's nice to see you again
 è bello rivederti; che piacere rivederti
 
@@ -97592,3 +97592,10 @@ eroiche
 
 dismissed; discharged
 congedato
+
+now that I think about it
+adesso che ci penso
+
+to piggyback on (something)
+basarsi su (qualcosa); approfittare di (qualcosa)
+
