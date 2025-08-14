@@ -97713,3 +97713,6 @@ guardare sorpresi
 recklessly; thoughtlessly; rashly
 in modo inconsulto
 
+context engineering
+l'ingegneria del contesto
+
