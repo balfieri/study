@@ -6399,3 +6399,6 @@ non è un bug, è una feature; non è un difetto, è una pecularità
 to throw in the towel
 rinunciare; ritirarsi
 
+to give (somebody) a heads-up
+avvertire (qualcuno) in anticipo; avvisare (qualcuno) in anticipo
+

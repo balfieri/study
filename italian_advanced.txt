@@ -5695,7 +5695,7 @@ la setta
 septum; bridge (nose)
 il setto
 
-disparaging
+disparaging; pejorative
 dispregiativo
 
 to denigrate; to disparage
@@ -14362,7 +14362,7 @@ basilare
 time-delayed; deferred
 in differita
 
-to travel; to go through; to travel through; to cover a distance
+to travel; to go through; to travel through; to cover a distance (physical act along a route)
 percorrere
 
 in the courtroom; in the classroom
@@ -76719,9 +76719,6 @@ il tubo di scarico
 mid-air
 a mezz'aria
 
-mid-air collision
-la collisione a mezz'aria
-
 mid-air incident
 l'incidente a mezz'aria
 
@@ -97641,3 +97638,20 @@ con aria impaurita
 baseball bat
 la mazza da baseball
 
+Euler
+Eulero
+
+carbohydrate
+il carboidrato
+
+mid-air collision
+la collisione a mezz'aria; la collisione in volo
+
+jelly; Jell-o
+la gelatina; il budino alla gelatina
+
+who else?
+con chi se no?
+
+in a pejorative way; pejoratively
+in modo dispregiativo
