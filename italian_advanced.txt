@@ -21485,7 +21485,7 @@ mushy; pasty; doughy
 pastoso; molle
 
 remaining
-restante; rimanente
+restante; rimanente; rimasto
 
 emulsion
 l'emulsione
@@ -56585,7 +56585,7 @@ l'invasato; il fanatico; l'ossessionato
 to witness; to attend; to assist; to participate in
 assistere a; essere testimoni di; partecipare a
 
-to face up to the fact
+to face up to the fact; to come to terms with the fact
 affrontare il fatto; fare i conti con il fatto
 
 recomposable
@@ -97655,3 +97655,61 @@ con chi se no?
 
 in a pejorative way; pejoratively
 in modo dispregiativo
+
+scrawl; scribble
+lo sbarocchio
+
+to carry out the wills of
+svolgere i testamenti di
+
+Blessed Lord
+Signore Benedetto
+
+to have to come to terms with; to find oneself having to deal with
+trovarsi a dover fare i conti con
+
+to come to terms with; to deal with; to face up to
+fare i conti con
+
+to serve a prison sentence of; to serve time of; to serve a term in prison of
+scontare una reclusione di
+
+to be determined to; to be resolved to
+essere decisi a
+
+to kick out of the house
+cacciare da casa
+
+returned; handed back; delivered back
+riconsegnato
+
+wad of cash; bundle of money
+la mazzetta di denaro
+
+remote control toy car; remote controlled car; remote-controlled model car
+la macchinina telecomandata; la macchinina radiocomandata
+
+crest; peak; mohawk
+la cresta
+
+to formalize an accusation; to make an accusation official
+formalizzare una accusa
+
+compromising; damaging; incriminating
+compromettente
+
+tro rummage through the trash
+rovistare nella spazzatura; rovistare tra i rifiuti
+
+RICO law; Racketeer Influenced and Corrupt Organizations Act
+la legge sulle organizzazioni influenzate da racket e corruzione; la legge RICO
+
+absentminded; lost in thought; zoning out
+sovrappensiero
+
+to look surprised
+guardare sorpresi
+
+recklessly; thoughtlessly; rashly
+in modo inconsulto
+
