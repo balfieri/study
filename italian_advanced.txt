@@ -79317,7 +79317,7 @@ fradocio
 mica mai
 never ever
 
-pitch dark
+pitch dark; pitch black
 buio pesto
 
 here I come
@@ -85498,7 +85498,7 @@ back row
 l'ultima fila
 
 I just want to pique your interest in the movie
-Voglio solo stuzzicare il tuo interesse per il film
+voglio solo stuzzicare il tuo interesse per il film
 
 clever screenplay
 la sceneggiatura intelligente
@@ -97715,4 +97715,70 @@ in modo inconsulto
 
 context engineering
 l'ingegneria del contesto
+
+let's hope for the best
+speriamo bene
+
+euphonic D
+la D eufonica
+
+this is a test
+questo è un test
+
+worn out; burst open
+sfondato
+
+rose water
+l'acqua di rose; il rosewater
+
+bill; fee
+la parcella
+
+to make partner at a law firm
+diventare socio in uno studio legale
+
+camping trip
+la gita in campeggio
+
+to side with; to take sides
+parteggiare
+
+to reflect at length; to ponder for a long time
+riflettere a lungo
+
+I can't do it; I can't make it
+non ce la faccio
+
+irritable bowel; irritable colon
+il colon irritabile
+
+I get by; I manage
+tiro avanti
+
+magic flute
+il flauto magico
+
+evidence of guilt; proof of guilt
+la prova di colpevolezza
+
+to pursue the case (legal)
+seguire il caso
+
+it's a big help; it really helps
+è un bel aiuto
+
+hypersensitivity
+l'ipersensibilità
+
+see you in court; I'll see you in court
+ci vediamo in tribunale
+
+crafty trick; smart trick
+la furbata
+
+still yesterday; just yesterday
+sempre ieri
+
+little or nothing
+poco niente
 
