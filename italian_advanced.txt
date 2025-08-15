@@ -38188,7 +38188,7 @@ a ritroso
 pupil (eye)
 la pupilla
 
-downcast; depressed; shot down
+downcast; depressed; shot down; beaten down
 abbattuto
 
 word of mouth
@@ -94791,8 +94791,8 @@ l'insegnante di chimica
 premise of the story
 la premessa della storia
 
-beaten down
-abbattuto; demoralizzato
+demoralized
+demoralizzato
 
 showrunner
 lo showrunner
@@ -97781,4 +97781,64 @@ sempre ieri
 
 little or nothing
 poco niente
+
+to keep one's distance from
+tenersi le distanze da; tenersi alla larga da; stare alla larga da
+
+Satan
+Satana
+
+to start shouting; to start yelling
+mettersi a urlare; mettersi a gridare
+
+to find a moment to relax; to find a moment of relaxation
+trovare un momento di relax
+
+class action suit
+la class action
+
+distracting
+distrattivo
+
+delivered
+recapitato
+
+to carry; to bring; to take with you
+portare al seguito
+
+under the counter; under-the-counter; under the table; secretly
+sottobanco
+
+to put out of action; to put out of play; to put out of commission
+mettere fuori gioco
+
+conference room
+la sala conferenze
+
+to retrace one's steps; to go back on one's steps
+tornare di propri passi
+
+Socrates
+Socrate
+
+to ride a motorcycle fast; to race motorcycles
+correre in moto
+
+without the knowledge of; unbeknownst to; without someone knowing
+all'insaputa di
+
+comedian; comic; performer
+il commediante
+
+sunroof; small roof; canopy; sunshine roof
+il tettuccio
+
+misdeeds; wrongdoing; evildoing
+le malefatte
+
+chicanery; hustling; trickery; scams; bamboozle; deceit
+i raggiri
+
+like in the old days; like the old times
+come ai vecchi tempi
 
