@@ -519,8 +519,8 @@ a point that has a minimum reception altitude (MRA)
 on IFR low enroute chart, hash marks around a waypoint means
 there are different altitudes on each side of the waypoint
 
-on IFR low enroute chart, blue vs. black routes
-blue is for GPS route, black is for VOR route
+on IFR low enroute chart, blue vs. black vs. brown routes
+blue is for GPS route, black is for VOR route; brown is for military training route
 
 with MON VORs, can get to any airport within
 100 nautical miles
@@ -826,7 +826,7 @@ VASI provides obstruction clearance within
 1) Runway Entrance Lights (REL) are lights along the taxiway centerline that illuminate red when an aircraft is on final approach or on the runway; 2) Takeoff Hold Lights (THL) are a double row of lights on either side of the runway centerline that illuminate red when it would e unsafe to takeoff due to the runway being occupied by an aircraft or ground vehicle; 3) Runway Intersection Lights (TIL) are a double row of lights on either side of runway centerline at runway intersections that illuminate red when it is unsafe to cross the intersecting runway
 
 a pilot may descend from a DA or MDA when
-1) a landing can be made with a normal rate of descent and normal maneuvers; 2) visibility is not less than the minimum specified for the instrument approach procedure; 3) runway or runway lights or approach lights are distinctly visible; Note: If only the approach lights are visible, the aircraft may descend to 100 ft AGL, and further descent requires that the red side row bars, or red terminating bars, or runway lights, or runway be visible.
+1) a landing can be made with a normal rate of descent and normal maneuvers; 2) visibility is not less than the minimum specified for the instrument approach procedure; 3) runway or runway lights or approach lights are distinctly visible; Note: If only the approach lights are visible, the aircraft may descend to 100 feet AGL, and further descent requires that the red side row bars, or red terminating bars, or runway lights, or runway be visible.
 
 cases where a report must be submitted to the NTSB within 10 days
 1) An accident involving substantial damage to the aircraft, or significant injury or death to an occupant; 2) Overdue aircraft believed to be involved in an accident; 3) Inability of a flight crew member to perform duties due to injury or illness; 4) Flight control system malfunction or failure; 5) In-flight fire; 6) In-flight aircraft collision
@@ -1108,7 +1108,7 @@ the FAA currently accepts different kinds of approaches to mean
 approaches with different minimums, not necessarily using different navigation systems
 
 PTAC acronym for ATC approach clearances
-Position: you position relative to a fix or approach segment; Turn: heading you should fly next; Altitude: altitude to maintain until established; Clearance: actual approach clearance
+Position: your position relative to a fix or approach segment; Turn: heading you should fly next; Altitude: altitude to maintain until established; Clearance: actual approach clearance
 
 when ATC says to maintain altitude until established, this means
 established on any published segment'feeder route, initial approach segment, intermediate segment, or final approach segment
@@ -1145,3 +1145,69 @@ in standard conditions, TAS increases by about 2% per 1000 feet of altitude
 
 OROCA
 off route obstruction clearance altitude for an entire quardrant or sector marked on the chart; it is marked as 1000G or whatever the minimum altitude is 
+
+when pitching with partial panel, instruments change in what order
+airspeed, then altimeter, then VSI
+
+when banking with partial panel
+turn coordinator allows standard-rate turns, but turbulence can cause it to bounce around, can back up with compass and track
+
+pitot-static problem affects
+airspeed indicator, altimeter, VSI; two static ports and alternate static port on 172; need to get help from ATC; can also use GPS altitude
+
+when must give time of reporting point and next reporting point
+non-radar only
+
+with partial panel with PFD and MFD out, can still do an ILS approach when
+have second VOR receiver that is connected to an analog CDI
+
+at what point do we change course to avoid traffic when on IFR
+should first ask advice from ATC, but can do so once you have visual contact
+
+what should be checked before taxiing to runway with an assigned SID
+that the aircraft can climb to the assigned altitude at the required climb gradient
+
+what to do when engine out in IMC
+look at glide range on ForeFlight; switch to VFR chart; work with ATC to choose a location, such as an airport or road
+
+meaning of askterisk in S-ILS 35*
+the DA requires a higher missed approach climb gradient
+
+once established on a transition the pilot may
+descend according to the published altitudes on the approach
+
+only time do not have to report a vacated altitude
+within an assigned block altitude range
+
+if you land at an uncontrolled airport on an IFR flight plan
+you must call back ATC or FSS to cancel it; ForeFlight cannot be used to cancel an active flight plan
+
+when to check that GPS level has been achieved
+when identifying navaids; first fix on initial fix on final approach segment; check during before-landing checklist
+
+RNAV RNP 0.3 approach
+precise type of instrument approach used in aviation, where the navigation system on the aircraft must be able to keep the plane within 0.3 nautical miles of its intended flight path 95% of the time during certain approach segments
+
+when to disengage autopilot
+when it doesn't do what it is supposed to; during icing; during engine failure; during severe turbulence
+
+how much of proficiency can be done in a BATD
+all
+
+when to switch to departure when lost comms with tower
+now, after 1000 feet
+
+can ATC radar see clouds
+no, only precipitation; but radar usually cannot see embedded thunderstorms
+
+when does ATC normally hand us off to CTAF
+radar: after being cleared for an approach, but always a second call after the readback; non-radar: after the final approach fix
+
+how to substitude GPS for DME
+stay in GPS mode, but keep second VOR receiver tuned into the VOR
+
+a warm front moves more slowly than a cold front because 
+warm air is less dense and has a harder time displacing or pushing away the denser, heavier cold air at the surface
+
+dewpoint convergence rate
+2.5C per 1000 feet
