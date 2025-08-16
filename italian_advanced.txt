@@ -6796,9 +6796,6 @@ la falsariga
 lay person
 il laico
 
-advocacy
-l’avvocatura
-
 public prosecutor
 il pubblico ministero
 
@@ -80019,7 +80016,7 @@ togliersi (vestiti)
 movie review
 la recensione del film
 
-to break up with (someone)
+to break up with (someone); to be done with (somebody)
 chiudere con (qualcuno)
 
 to brown the butter
@@ -97842,3 +97839,65 @@ i raggiri
 like in the old days; like the old times
 come ai vecchi tempi
 
+re-seller; secondary seller
+il rivendente; la rivendente
+
+damned; accursed
+stramaledetto
+
+what a joke!
+che barzelletta!
+
+I'm done with you; I've had it with you
+con te ho chiuso
+
+cinnamon bun
+la girella alla cannella; il cinnamon bun
+
+hands-free
+vivavoce; mani libere
+
+to get angry; to become furious
+infuriarsi
+
+to croak (die)
+morire; tirare le cuoia
+
+see you; we'll see each other
+ci si vede
+
+Baltimore
+Battimora, Baltimora
+
+at the end of the day
+a fine giornata
+
+at the end of the month
+a fine mese
+
+at the end of the year
+a fine anno
+
+to coax; to elicit; to worm out (of someone); to get (a secret) out of someone; to wangle out of someone; to capture (attention); to usurp
+carpire
+
+to say goodbye; to take one's leave (of); to be discharged (military)
+congedarsi
+
+secret compartment
+lo scompartimento segreto
+
+to press; to grill; to give a workout to
+torchiare
+
+upholstery; wallpaper
+la tappezzeria
+
+company accommodation; corporate accommodation; staff accommodation
+l'alloggio aziendale
+
+front side (of a medal or coin); right side; plain stitch (in knitting)
+il dirotto
+
+to fabricate false evidence; to make up false evidence
+fabbricare delle prove false
