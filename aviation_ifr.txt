@@ -58,7 +58,7 @@ VOR deflection
 1 mile per degree from 60 miles out
 
 VOR airborne check
-over designated checkpoint, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees between two indicated bearings of the VOR (not radials)
+over designated checkpoint, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees between two indicated bearings to the VOR
 
 VFR waypoints 
 may never be used on an IFR flight plan
