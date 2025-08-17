@@ -40462,9 +40462,6 @@ azionare il meccanismo
 to despair
 disperarsi
 
-to deceive; to trick
-raggirare
-
 desired result
 il risultato voluto
 
@@ -66449,8 +66446,11 @@ circoncidere
 slight preference
 la lieve preferenza
 
-report; medical report
-il referto; il referto medico
+report 
+il referto
+
+medical report
+il referto medico
 
 please be seated (formal, restaurant)
 accommodate
@@ -95403,7 +95403,7 @@ le comunicazioni medianiche
 to be on (someone's) side; to stand by (someone)
 essere dalla parte di (qualcuno)
 
-to avenge; to get back at; to retaliate
+to avenge; to vindicate; to get back at; to retaliate
 vendicare
 
 to take the opportunity; to seize the opportunity
@@ -97952,4 +97952,70 @@ il dispositivo di sicurezza; la misura di sicurezza; la caratteristica di sicure
 
 to expel; to strike off a list; to disbar; to radiate
 radiare
+
+to bring to (someone's) attention; to point out to (someone)
+fare presente a (qualcuno)
+
+to become aware of; to find out about; to learn about
+venere a conoscenza di
+
+door-to-door delivery; home delivery
+la consegna porta a porta
+
+pendant
+il ciondolo
+
+to imagine; to represent; to symbolize; to describe; to portray; to depict; to illustrate; to picture
+raffigurare
+
+boxing gloves
+i guanti da pugile
+
+in the vicinity of; near; close to; nearby
+nei pressi di
+
+to downgrade; to demote
+demansionare
+
+to go to jail for a long time
+andare in galera a lungo
+
+to call in advance
+chiamare preventivamente
+
+caught in the act; caught red-handed
+in flagranza di reato
+
+to saddle with
+affibbiare
+
+to scam; to con; to cheat; to deceive; to trick; to bamboozle; to dupe; to take in; to hustle; to beguile; to get round
+raggirare
+
+gullibility
+la creduloneria
+
+to remelt; to refund; to reimburse
+rifondere
+
+bagpipe; bagpipes
+la cornamusa
+
+to stake out; to keep watch on; to guard
+piantonare
+
+solitary practice; private practice
+la pratica solitaria
+
+to team up with
+far squadra con
+
+to devote oneself; to dedicate oneself; to passionately involve oneself
+spendersi in prima persona
+
+to keep on working
+restare in funzione
+
+branch; subsidiary
+la filiale
 
