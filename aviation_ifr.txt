@@ -1176,8 +1176,8 @@ the DA requires a higher missed approach climb gradient
 once established on a transition the pilot may
 descend according to the published altitudes on the approach
 
-only time do not have to report a vacated altitude
-within an assigned block altitude range
+only times do not have to report a vacated altitude
+within an assigned block altitude range, during an emergency, or responding to a traffic alert for collision avoidance
 
 if you land at an uncontrolled airport on an IFR flight plan
 you must call back ATC or FSS to cancel it; ForeFlight cannot be used to cancel an active flight plan
@@ -1211,3 +1211,12 @@ warm air is less dense and has a harder time displacing or pushing away the dens
 
 dewpoint convergence rate
 2.5C per 1000 feet
+
+when may electronic devices be used during IFR flights
+when non-commercial and the pilot in command has determined that the device will not interfere with the flight
+
+Special VFR 
+uncommonly used clearance which allows a VFR flight to enter or depart controlled airspace surrounding an airport when the weather is IFR; the weather must be at least one statue mile in visibility and the pilot must be able to stay clear of clouds; at night, the pilot must be instrument rated and aircraft must be IFR-certified
+
+LNAV/VNAV limitations
+does not get more precise as one gets closer to the runway; baro-VNAV is inherently less accirate than ILS or WAAS;
