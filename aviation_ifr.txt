@@ -1220,3 +1220,9 @@ uncommonly used clearance which allows a VFR flight to enter or depart controlle
 
 LNAV/VNAV limitations
 does not get more precise as one gets closer to the runway; baro-VNAV is inherently less accirate than ILS or WAAS;
+
+is a WAAS-capable receiver sufficient
+yes, if properly certified, and thus may be used at an alternate airport; a VOR receiver is required only for a non-WAAS GPS
+
+core feature of RNAV
+can navigate along arbitrary paths through within a wide area with automatic frequency switching among multiple navaids

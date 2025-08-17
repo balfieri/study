@@ -19,8 +19,6 @@ The Comprehensive Medical Examination Checklist and the FAA BasicMed Medical Edu
 different SIGMET types
 different NOTAM types
 
-can fly with just a WAAS GPS and no VOR?
-
 Bob Alfieri:
 	Lost calms procedure and going missed
 
