@@ -1292,3 +1292,6 @@ from the date of intended flight, count backward exactly 6 calendar months; you 
 
 DVA
 Diverse Vector Area is an airspace segment at certain airports where ATC may provide random vectors to an aircraft during its departure climb, even below the MVA, while still ensuring obstacle clearance
+
+A-M-E: during an IFR lost communications situation, the altitude you should fly is
+the highest of the following three altitudes: the last assigned altitude by ATC, the Minimum IFR altitude for the route segment, or the altitude ATC expected you to fly
