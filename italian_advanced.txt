@@ -34843,9 +34843,6 @@ ho perso il conto
 meaningless (without any meaning)
 privo di significato
 
-meaningless; incomprehensible; nonsensical; che non ha logica
-senza senso
-
 meaningless; incomprehensible; absurd
 insensato
 
@@ -93504,7 +93501,7 @@ la vita scialba
 soon-to-be
 futuro; prossimo
 
-nonsensical
+meaningless; incomprehensible; nonsensical; che non ha logica
 senza senso; insensato
 
 Dr. Evil
@@ -98069,3 +98066,48 @@ il caminetto
 
 damsel in distress
 la damigella in pericolo; la donzella in pericolo
+
+returned soldier; veteran soldier
+soldato reduce
+
+to give birth to a baby
+dare alla luce un bambino
+
+to promise again; to vow again
+ripromettere
+
+epistolary; relating to letters
+epistolare
+
+to cope; to deal with; to face; to confront
+far fronte
+
+guillotine
+la ghigliottina
+
+gibberish
+il linguaggio incomprensibile; il nonsense
+
+to busk
+suonare per strada; fare spettacolo per strada
+
+to hitchhike
+fare l'autostop
+
+cross-country flight
+il volo nazionale; il volo da una parte all'altra del paese; il volo attraverso il paese; il volo cross-country
+
+helper; aide; support worker
+l'aiutante
+
+to keep under contro; to keep at bay
+tenere sotto controllo
+
+to rehabilitate oneself; to redeem onself
+riabilitarsi
+
+electromagnetic radiation
+le radiazioni elettromagnetiche
+
+to do such a thin
+fare una cosa simile
