@@ -727,7 +727,7 @@ AGL, AGL, MSL, MSL
 allows for an emergency landing without undue hazard to persons or property on the ground
 
 {reg} when can night landings be logged (same as FAA definition of nighttime)
-1 hour past sundown to 1 hour before sunrise, but night time can be logged 30min past to 30min before
+1 hour past sundown to 1 hour before sunrise and must be to a full stop; but night time can be logged 30min past to 30min before
 
 {sys} camber
 curvature of wings
@@ -787,7 +787,7 @@ sectional chart
 check that you are transmitting on proper comm channel, check frequency, check that you pressed hard enough, contact ATC approach
 
 {reg} night currency requirements to carry passengers at night
-3 full-stop landings from 1 hour past sundown to 1 hour before sunrise
+3 full-stop landings from 1 hour past sundown to 1 hour before sunrise within the last 90 days
 
 {perf} as airplane gets heavier, maneuvering speed...
 increases

@@ -7,13 +7,13 @@ AV1ATES acronym for required inspections
 Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (24 months, IFR only); Transponder (24 months); ELT (12 months or half Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
 
 ATOMATO FLAMES acronym for equipment required for VFR
-Altimeter; Tachometer (for each engine); Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Seatbelts (in occupied seats)
+Altimeter (need not be pressure-sensitive); Tachometer (for each engine); Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Seatbelts (in occupied seats)
 
 FLAPS acronym for additional equipment required at night for VFR
-Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only if aircraft is for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
+Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only when for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
 
 GRABCARDD acronym for additional equipment required for IFR
-Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball; Clock; Altimeter (pressure sensitive); Rate of turn indicator; Directional gyroscope; DME above 24000 feet
+Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball; Clock with second hand; Altimeter (pressure-sensitive); Rate of turn indicator; Directional gyroscope or HSI; DME at or above 24000 feet
 
 ANDS
 WEST EAST: accelerate causes deflection toward north, decelerate toward south; note that a steady turn from east or west does cause compass to overshoot or undershoot
@@ -23,6 +23,9 @@ undershoot turn to or from north, overshoot turn to or from south
 
 6HIT acronym for IFR currency
 in the prior 6 calendar months, the pilot must perform 6 instrument approaches, holds, incercepting fixes, and tracking courses; otherwise, the pilot must get an Instrument Proficiency Check (IPC) from a CFII
+
+what happens during an instrument proficiency check (IPS)
+no ground work, but flight covers same things as in an instrument check ride
 
 VOT on ground
 need to be on 360 radial, plus or minus 4 degrees 180 TO or 360 FROM
@@ -58,7 +61,7 @@ VOR deflection
 1 mile per degree from 60 miles out
 
 VOR airborne check
-over designated checkpoint, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees between two indicated bearings to the VOR
+over designated checkpoint listed in chart supplement, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees between two indicated bearings to the VOR
 
 VFR waypoints 
 may never be used on an IFR flight plan
@@ -502,7 +505,7 @@ IFR is required when
 flying into controlled airspace in IMC, anytime flying in class A, flying special VFR at night, acting as a commercial pilot more than 50 nautical miles away during the day or anytime at night
 
 minimum requirements of a safety pilot
-holds private pilot in type of airplane being flown
+holds private pilot in type of airplane being flown; has current medical certificate; need not be current with flight review
 
 when can IFR flight be logged
 for simulated IMC, pilot must go down to minimums; for actual IMC, pilot must go past the FAF
@@ -909,8 +912,11 @@ ILS and GLS
 the missed approach point is at the minimum altitude for the approach when
 the approach has DA or GS after its name
 
-approaches for which WAAS is required
+GPS approaches for which WAAS is required
 LPV, LP, LNAV/VNAV
+
+GPS approaches that do not require WAAS
+LNAV
 
 required reporting points while in radar contact
 those requested by ATC, unforecast weather encountered, information related to safety of flight, vacating an altitude, changing altitude withen on VFR on Top, unable to climb or descend 500 feet per minute, missed approach, change in true airspeed by 5% or 10 knots, reaching holding fix or waypoint to which cleared, leaving assigned holding fix or waypoint, loss of any equipment
@@ -1226,3 +1232,63 @@ yes, if properly certified, and thus may be used at an alternate airport; a VOR 
 
 core feature of RNAV
 can navigate along arbitrary paths through within a wide area with automatic frequency switching among multiple navaids
+
+lost communications procedures when going missed
+go to alternate, do not have to hold
+
+if the main radios die and a portable radio can replace them
+it may be used because this is an emergency
+
+if you can't land after going below minimums and you can't climb fast enough according to the missed procedure
+notify ATC and have them help you climb above the airport before departing the area
+
+are the club G5's certified for IFR flight?
+yes
+
+can NAV2 connect to a G5 in the club's PA28 and C172 airplanes?
+no, it connects only to the backup CDI
+
+how to perform VOR MON navigation when so many VOR's are out of service
+the FAA prioritizes the maintenance of VOR's involved in VOR MON
+
+how to ensure you don't fly into icing conditions
+look for icing AIRMETs; understand the temperatures in the winds aloft forecast; understand the probability of precipitation
+
+for IFR currency, how much of hold needs to be performed
+only the hold entry
+
+requirements for a BATD or other certified simulator
+letter of authorization must be available
+
+which seats require shoulder harnesses
+crew member seats
+
+difference between generator and alternator
+generator can produce either AC or DC; alternator produces only AC; generator uses rotating armature inside a stationary magnetic field; alternator uses rotating magnetic field rotor inside a stationary armature
+
+HSI
+horizontal situation indictor, an instrument (e.g., G5) that combines a CDI and a heading indicator, does not suffer from confusion caused by reverse sensing
+
+how many satellites does WAAS require
+5, but at least 2 must be geostationary; and WAAS also requires a ground correction network
+
+how many satellites does RAIM require
+5, but 4 with baro-aiding; 6 for fault exclusion
+
+when to force altimeter at 29.92
+when calculating PA for DA and TAS, when operating above 18000 ft MSL
+
+how to get TAS on airspeed indicator
+put outside air temperature over pressure altitude; can also use G5 to calculate it
+
+night currency requirements to carry passengers at night
+3 full-stop landings from 1 hour past sundown to 1 hour before sunrise within the last 90 days
+
+night flying time that can be logged as at night
+between end of evening civil twilight (usually 30 minutes after sunday) to beginning of morning civil twilight (usually 30 minutes before sunrise)
+
+how to determine if you are current for IFR flight
+from the date of intended flight, count backward exactly 6 calendar months; you must have completed and logged the required tasks within that period
+
+DVA
+Diverse Vector Area is an airspace segment at certain airports where ATC may provide random vectors to an aircraft during its departure climb, even below the MVA, while still ensuring obstacle clearance
