@@ -10076,7 +10076,7 @@ to come up with
 inventarsi
 
 time-consuming
-dispendioso di tempo; che richiede molto tempo
+interminabile; dispendioso di tempo; che richiede tempo; che richiede molto tempo
 
 registry office
 l'anagrafe
@@ -98112,8 +98112,8 @@ le radiazioni elettromagnetiche
 to do such a thin
 fare una cosa simile
 
-twist of fate; twist of fate
-l'ironia della sorte
+twist of fate
+l'ironia della sorte; lo scherzo del destino
 
 dependent on others
 dependente dagli altri
@@ -98129,4 +98129,7 @@ il video è bloccato
 
 to leave early; to go away earlier
 andare via prima
+
+the album it comes from
+l'album da cui proviene
 
