@@ -1301,3 +1301,15 @@ the highest of the following three altitudes: the last assigned altitude by ATC,
 
 meaning of letter A in parentheses on an IFR low enroute chart
 ATIS frequency
+
+if pitot ram air source and drain hole are both blocked
+indicated airspeed increases with altitude gain, decreases with altitude loss; altimeter and VSI are unaffected
+
+if pitot ram air source is blocked and drain hold is not blocked
+indicated airspeed displays zero knots; altimeter and VSI are unaffected
+
+if static source is blocked
+indicated airspeed decreases with altitude gain, increases with altitude loss; altimeter does not change with altitude change; VSI does not change with vertical speed change
+
+if both pitot sources and static sources are blocked
+indicated airspeed, altimeter, and VSI all remain constant, regardless of changes in airspeed, altitude, and vertical speed
