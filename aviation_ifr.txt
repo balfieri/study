@@ -816,8 +816,11 @@ straight-and-level flight, turns, climbs, and descents
 an aircraft is authorized to conduct an LPV approach if
 it is stated in the aircraft AFM
 
-an airport is considered to be IFR when 
-the visibility is less than 3 miles OR the ceiling is less than 1000 ft AGL
+IFR conditions when
+the visibility is less than 3 miles OR the ceiling is less than 1000 feet AGL
+
+low IFR (LIFR) conditions when
+the visibility is less than 1 mile OR the ceiling is less than 1000 feet AGL
 
 VASI provides obstruction clearance within
 4 nautical miles of the runway and within 10 degrees of the extended runway centerline
@@ -1295,3 +1298,6 @@ Diverse Vector Area is an airspace segment at certain airports where ATC may pro
 
 A-M-E: during an IFR lost communications situation, the altitude you should fly is
 the highest of the following three altitudes: the last assigned altitude by ATC, the Minimum IFR altitude for the route segment, or the altitude ATC expected you to fly
+
+meaning of letter A in parentheses on an IFR low enroute chart
+ATIS frequency
