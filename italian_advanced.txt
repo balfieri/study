@@ -26912,7 +26912,7 @@ mechanic
 il meccanico
 
 watermelon
-il cocomero; l'anguria; l'pastecca
+il cocomero; l'anguria
 
 TV news
 il telegiornale
@@ -63158,9 +63158,6 @@ l'esposizione canina
 dog rescue
 il salvataggio di cani
 
-cloying; sickly
-stucchevole
-
 rundown of the news
 la carrellata delle novità
 
@@ -98390,3 +98387,39 @@ ti copro le spalle; sono dalla tua parte
 
 behind my back
 alle mie spalle
+
+to create disruptions; to cause inconvenience
+creare disagi
+
+sirocco wind; wind from the southeast; sirocco
+il vento di scirocco
+
+well-rested
+ben riposato
+
+rested
+riposato
+
+minion; underling; dogsbody; bully boy; hangman's assistant; jackal
+il tirapiedi
+
+tray; serving tray
+il vassoio; il vassoio da portata
+
+trash can; garbage bin; waste container
+il contenitore dell'immondizia
+
+cove; little bay
+la calletta
+
+cloying; sickly-sweet
+stucchevole
+
+gout
+la gotta
+
+stirrup
+lo stiramani
+
+mousaka
+la mousaka
