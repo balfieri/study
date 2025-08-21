@@ -5776,7 +5776,7 @@ il vigore
 hasty; hurried; rash
 frettoloso
 
-asylum; lunatic asylum
+asylum; lunatic asylum; nuthouse
 il manicomo
 
 circumstance; situation
@@ -8848,7 +8848,7 @@ il coagulo di sangue
 originated
 sorto
 
-to rise; to arise; to come about; to appear
+to arise; to come about; to appear; to rise
 sorgere
 
 reduce the number
@@ -98349,3 +98349,44 @@ la criptonite
 skeevy
 squallido; losco
 
+comatose
+comatoso
+
+emasculated
+evirato; emasculato
+
+Long Island
+Long Island
+
+Long Islander
+l'abitante di Long Island
+
+self-destruction
+l'autodistruzione
+
+on your feet!
+sui piedi!
+
+I'm placing you under arrest
+ti dichiaro in arresto
+
+faced; confronted
+frontato
+
+numb
+intorpedito
+
+to numb
+intorpedire
+
+he's really losing it; he's really losing his mind
+sta davvero perdendo la testa; sta davvero impazzendo
+
+rigid adherence to rules; fiscal rigidity
+il fiscalismo
+
+I have your back
+ti copro le spalle; sono dalla tua parte
+
+behind my back
+alle mie spalle
