@@ -60,6 +60,7 @@ for subject in subjects:
         question = re.sub( r'^\s+', '', question )
         question = re.sub( r'\s+$', '', question )
         question = re.sub( r'^\{[\w,]+\}\s*', '', question )
+        if '"' in question: die( f'double-quote not allowed at {filename}:{line_num}: {question}' )
         if len(question) == 0 or question[0] == '#': continue
 
         line_num += 1
@@ -67,6 +68,7 @@ for subject in subjects:
         answer = re.sub( r'^\s+', '', answer )
         answer = re.sub( r'\s+$', '', answer )
         if answer == '': die( f'question at {filename}:{line_num} is not followed by a non-blank answer on the next line: {question}' )
+        if '"' in answer: die( f'double-quote not allowed at {filename}:{line_num}: {answer}' )
         line_num += 1
 
         phrases_s += f'        [ "{question}", "{answer}", true, false ],\n'
