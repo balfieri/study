@@ -477,8 +477,8 @@ on the right
 when flying inbound on a localizer back course, the shaded part of the localizer symbol will be
 on the left, and reverse sensing will apply to the CDI
 
-Vb
-turbulence penetration speed; often known as Va in piston aircraft
+V-b
+turbulence penetration speed; often known as V-a in piston aircraft
 
 ACS says that pilot must maintain airspeed
 plus or minus 10 knots
@@ -1313,3 +1313,9 @@ indicated airspeed decreases with altitude gain, increases with altitude loss; a
 
 if both pitot sources and static sources are blocked
 indicated airspeed, altimeter, and VSI all remain constant, regardless of changes in airspeed, altitude, and vertical speed
+
+why V-a decreases as weight decreases
+lower weight means lower angle of attack, which means could exceed limit load factor on fixed-weight components like engine brackets, which is typically around 3.8 G's for small aircraft; for every 2% reduction in weight, decrease V-a by 1%
+
+L/VNAV
+other name for LNAV/VNAV
