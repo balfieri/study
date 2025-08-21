@@ -41764,14 +41764,14 @@ la foschia
 small cove
 la caletta
 
+cove
+la cala
+
 packed lunch
 il pranzo al sacco
 
 to get lost in the alleys
 perdersi per i vicoli
-
-the cove
-la cala
 
 casual sex
 il sesso occasionale
@@ -98408,9 +98408,6 @@ il vassoio; il vassoio da portata
 
 trash can; garbage bin; waste container
 il contenitore dell'immondizia
-
-cove; little bay
-la calletta
 
 cloying; sickly-sweet
 stucchevole
