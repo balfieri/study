@@ -1354,4 +1354,4 @@ the sky is clear and visibility is 2 statute miles, do you need to file an IFR f
 yes, because visibility is less than 3 statute miles
 
 if the destination airport has no weather reporting today, may you still fly a published instrument procedure
-no, but you could fly IFR to the vicinity then cancel IFR and finish the flight as VFR
+no, but you could fly IFR to the vicinity then cancel IFR and finish the flight as VFR; further, if you notice this during planning, you must file an alternate because the airport essentially has no IAPs today
