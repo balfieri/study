@@ -1345,7 +1345,7 @@ when deciding whether to land, how relevant are the ceilings reported by the AWO
 ceilings are irrelevant to the landing decision, except for part 135 which must have sufficient ceilings before proceeding past the final approach fix
 
 if you go missed very early for some reason
-you must fly to the missed approach waypoint or beginning of runway before making any turns; the missed approach waypoint is a flyover waypoint
+you must fly to the missed approach waypoint or beginning of runway before making any turns; the missed approach waypoint is a flyover waypoint; however, you can talk to ATC and see if they will let you break off early
 
 if you break out of the clouds a little above pattern altitude, is it wise to cancel IFR
 no because you may need to go missed and could end up in IMC, in which case it is illegal to not have an IFR clearance
