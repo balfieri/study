@@ -3559,7 +3559,7 @@ tergere
 just in case
 solo nel caso
 
-assignment; charge; errand
+task; assignment; charge; errand
 l'incarico
 
 to arrange; to lay; to lay out; to provide; to put in order
@@ -5098,7 +5098,7 @@ l'iperbole
 hypocrisy
 l'ipocrisia
 
-thoughtless; disconsiderate
+inconsiderate; thoughtless; disconsiderate
 sconsiderato; menefreghista
 
 thoughtlessness
@@ -6904,7 +6904,7 @@ la minoranza
 dew point
 il punto di rugiada
 
-callback; booster shot
+reminder; callback; booster shot
 il richiamo
 
 moisture; humidity; wetness
@@ -33844,9 +33844,6 @@ il sottofondo
 background music
 la musica di sottofondo
 
-inconsiderate
-sconsiderato
-
 apathetic
 apatico
 
@@ -41476,7 +41473,7 @@ il deserto culturale
 rust
 la ruggine
 
-mild; gentle; merciful; clement
+lenient; mild; gentle; merciful; clement
 clemente
 
 impudence
@@ -98211,7 +98208,7 @@ la scasciacarrozza
 cross-examination
 il controinterrogatorio
 
-philippic (bitter verbal attack)
+tirade; bitter verbal attack
 la filippica
 
 mournfully; sorrowfully
@@ -98447,3 +98444,28 @@ borseggiare; fare il borseggiatore
 
 hacktivist
 l'hacktivista
+
+to lord it over; to boss around; to put on airs
+spadroneggiare
+
+to carry out a task; to perform a task
+svolgere un incarico
+
+act far too lenient; excessively lenient gesture
+il gesto fin troppo clemente
+
+tampering; alteration
+la manomissione
+
+repercussions; consequences; backlash
+i contraccolpi
+
+to have an effect on; to take hold on
+fare presa su
+
+to have the upper hand; to have an advantage
+avere buon gioco
+
+to call someone's bluff; to expose the bluff
+smascherare il bluff
+
