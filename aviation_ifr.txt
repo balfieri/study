@@ -13,7 +13,7 @@ FLAPS acronym for additional equipment required at night for VFR
 Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only when for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
 
 GRABCARDD acronym for additional equipment required for IFR
-Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball; Clock with second hand; Altimeter (pressure-sensitive); Rate of turn indicator; Directional gyroscope or HSI; DME at or above 24000 feet
+Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball; Clock with second hand; Altimeter (pressure-sensitive); Rate of turn indicator; Directional gyroscope or HSI; DME at or above 24000 feet if VOR required
 
 ANDS
 WEST EAST: accelerate causes deflection toward north, decelerate toward south; note that a steady turn from east or west does cause compass to overshoot or undershoot
@@ -832,7 +832,7 @@ VASI provides obstruction clearance within
 1) Runway Entrance Lights (REL) are lights along the taxiway centerline that illuminate red when an aircraft is on final approach or on the runway; 2) Takeoff Hold Lights (THL) are a double row of lights on either side of the runway centerline that illuminate red when it would e unsafe to takeoff due to the runway being occupied by an aircraft or ground vehicle; 3) Runway Intersection Lights (TIL) are a double row of lights on either side of runway centerline at runway intersections that illuminate red when it is unsafe to cross the intersecting runway
 
 a pilot may descend from a DA or MDA when
-1) a landing can be made with a normal rate of descent and normal maneuvers; 2) visibility is not less than the minimum specified for the instrument approach procedure; 3) runway or runway lights or approach lights are distinctly visible; Note: If only the approach lights are visible, the aircraft may descend to 100 feet AGL, and further descent requires that the red side row bars, or red terminating bars, or runway lights, or runway be visible.
+1) a landing can be made with a normal rate of descent and normal maneuvers; 2) visibility is not less than the minimum specified for the instrument approach procedure; 3) runway or runway lights or approach lights are distinctly visible; Note: If only the approach lights are visible, the aircraft may descend to 100 feet AGL, and further descent requires that the red side row bars, or red terminating bars, or runway lights, or runway be visible. Note for the latter, that one does not need to be beyond the VDP
 
 cases where a report must be submitted to the NTSB within 10 days
 1) An accident involving substantial damage to the aircraft, or significant injury or death to an occupant; 2) Overdue aircraft believed to be involved in an accident; 3) Inability of a flight crew member to perform duties due to injury or illness; 4) Flight control system malfunction or failure; 5) In-flight fire; 6) In-flight aircraft collision
@@ -1308,6 +1308,9 @@ indicated airspeed increases with altitude gain, decreases with altitude loss; a
 if pitot ram air source is blocked and drain hold is not blocked
 indicated airspeed displays zero knots; altimeter and VSI are unaffected
 
+if only the pitot tube drain hole is plugged
+indicated airspeed will work fine unless the pitot tube fills up with water
+
 if static source is blocked
 indicated airspeed decreases with altitude gain, increases with altitude loss; altimeter does not change with altitude change; VSI does not change with vertical speed change
 
@@ -1319,3 +1322,36 @@ lower weight means lower angle of attack, which means could exceed limit load fa
 
 L/VNAV
 other name for LNAV/VNAV
+
+ATC required to do an IAP if in VMC and pilot requests it
+yes, because the pilot can refuse the visual approach
+
+ideal speed when accidentally flying through thunderstorm (such as embedded)
+somewhere well above stall speed but a little below V-a
+
+what reporting is required after being handed off to a class D tower
+FAF inbound; reporting for the miss is the same as in a radar environment; note that radar services will be terminated during the hand-off
+
+when should NAV2 be programmed with the ILS frequency
+when using the GPS to help and as a substitute for DME; NAV2 CDI should be used for the localizer and glideslope
+
+disorientation is still a major cause of accidents among IFR pilots; what can a pilot do when disoriented
+level wings, talk to ATC
+
+when must a pilot abide by the VDP
+never, it is advisory; however it is highly recommended that a pilot not descend until reaching the VDP and to go missed if the runway environment is not visible at the VDP; the VDP provides a 3-degree slope
+
+when deciding whether to land, how relevant are the ceilings reported by the AWOS/ATIS
+ceilings are irrelevant to the landing decision, except for part 135 which must have sufficient ceilings before proceeding past the final approach fix
+
+if you go missed very early for some reason
+you must fly to the missed approach waypoint or beginning of runway before making any turns; the missed approach waypoint is a flyover waypoint
+
+if you break out of the clouds a little above pattern altitude, is it wise to cancel IFR
+no because you may need to go missed and could end up in IMC, in which case it is illegal to not have an IFR clearance
+
+the sky is clear and visibility is 2 statute miles, do you need to file an IFR flight plan
+yes, because visibility is less than 3 statute miles
+
+if the destination airport has no weather reporting today, may you still fly a published instrument procedure
+no, but you could fly IFR to the vicinity then cancel IFR and finish the flight as VFR
