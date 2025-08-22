@@ -5891,3 +5891,6 @@ A - airspeed Vg; B - choose best place to land and head there; C - engine restar
 
 {sys} TBO
 Time Between Overhauls of an engine (usually about 2000 hours for most single-piston aircraft)
+
+{sys} why single-piston aircraft burn through oil so fast
+they are air-cooled and run at high temperatures

@@ -20008,7 +20008,7 @@ il bagnomaria
 coat; blouse; jacket; tunic
 la casacca
 
-doomed
+doomed; done for; finished; ruined; lost
 spacciato
 
 well-built; well-made; well done
@@ -23935,7 +23935,7 @@ omaggiare
 protocol
 il protocollo
 
-aroma; smell (good)
+aroma; flavoring; smell (good)
 l'aroma
 
 this will come as no surprise to you
@@ -98430,3 +98430,20 @@ abbassarsi; chinarsi
 rainbow
 l'arcobaleno
 
+to flavor
+aromatizzare; insaporire
+
+now, we're even
+adesso siamo pari; ora siamo pari
+
+to get even with (somebody)
+farsi pari con (qualcuno); vendicarsi di (qualcuno)
+
+Budapest
+Budapest
+
+to pickpocket
+borseggiare; fare il borseggiatore
+
+hacktivist
+l'hacktivista
