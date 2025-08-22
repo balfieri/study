@@ -36244,7 +36244,7 @@ il corpo umano
 hospital ward
 il reparto di degenza
 
-hospitalization; inpatient
+hospitalization; inpatient; hospital stay
 la degenza
 
 to remain in force; to remain in effect
@@ -98549,4 +98549,22 @@ in uno stato di trance
 
 to give little kicks to; to nudge gently with one's foot
 dare dei piccoli calci a
+
+to get out of the vehicle
+scendere dal mezzo
+
+coroner; medical examiner; pathologist; medicolegal expert; police doctor
+il medico legale
+
+to fall into a dark state of mind; to sink into a gloomy mood
+piombare in un cupo stato d'animo
+
+facility manager; facility director
+il direttore della struttura; la direttrice della struttura
+
+to let it go; to let it slide; to turn a blind eye
+lasciar correre
+
+to have to deal with; to have to come to terms with
+dover fare i conti con
 
