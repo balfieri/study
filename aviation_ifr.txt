@@ -984,6 +984,9 @@ between 5 minutes before and 5 minutes after the EDCT
 MOCA assures acceptable navigational signal coverage from a VOR of
 22 nautical miles
 
+1000* on IFR enroute chart denotes a
+MOCA
+
 when an approach fix has the word RADAR under it
 the approach controller has that fix on his or her screen and can help you identify it, if necessary
 
@@ -1153,7 +1156,7 @@ how does TAS change with altitude
 in standard conditions, TAS increases by about 2% per 1000 feet of altitude
 
 OROCA
-off route obstruction clearance altitude for an entire quardrant or sector marked on the chart; it is marked as 1000G or whatever the minimum altitude is 
+off route obstruction clearance altitude for an entire quardrant or sector marked on the chart; makes no guarantees about navigation reception; marked with large number
 
 when pitching with partial panel, instruments change in what order
 airspeed, then altimeter, then VSI
@@ -1355,3 +1358,9 @@ yes, because visibility is less than 3 statute miles
 
 if the destination airport has no weather reporting today, may you still fly a published instrument procedure
 no, but you could fly IFR to the vicinity then cancel IFR and finish the flight as VFR; further, if you notice this during planning, you must file an alternate because the airport essentially has no IAPs today
+
+visual glide slope indicator
+PAPI or VASI
+
+MAA-8000 on an IFR chart stands for 
+Maximum Authorized Altitude of 8,000 feet on that route or airway segment, which is the highest altitude at which you are assured reliable navigation signal reception along that airway
