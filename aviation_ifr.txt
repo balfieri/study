@@ -1364,3 +1364,6 @@ PAPI or VASI
 
 MAA-8000 on an IFR chart stands for 
 Maximum Authorized Altitude of 8,000 feet on that route or airway segment, which is the highest altitude at which you are assured reliable navigation signal reception along that airway
+
+12 things that can be used to identify a runway environment when on an IFR approach
+1) approach light system (but cannot descend below 100 feet above TDZE until red terminating bars or ride side row bars are visible); 2) red terminating bars of approach light system; 3) red side row bars of approach light system; 4) threshold; 5) threshold markings; 6) threshold lights; 7) runway end identify lights; 8) touchdown zone or touchdown zone markings; 11) touchdown zone lights; 10) visual glide slope indicator; 11) runway or runway markings; 12) runway lights
