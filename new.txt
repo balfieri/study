@@ -92,3 +92,17 @@ Can NAV2 connect to G5?
 VCOA
 
 vfr altimeter vs one for ifr
+
+AVEF MEA acronym for lost comms
+
+is a blue route an RNAV route or an RNAV GPS route?
+
+worst case pressure altitude and temp for 172 and warrior so we know best climb rate at Vy
+
+how to specify route to alternate in FF?
+
+30FTDUC acronym
+
+what is a DVFR flight plan?
+
+understand Corolis force and winds

@@ -7,7 +7,7 @@ AV1ATES acronym for required inspections
 Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (24 months, IFR only); Transponder (24 months); ELT (12 months or half Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
 
 ATOMATO FLAMES acronym for equipment required for VFR
-Altimeter (need not be pressure-sensitive); Tachometer (for each engine); Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Seatbelts (in occupied seats)
+Altimeter (need not be pressure-sensitive); Tachometer (for each engine); Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Seatbelts (in occupied seats, harnesses for crew members)
 
 FLAPS acronym for additional equipment required at night for VFR
 Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only when for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
@@ -984,7 +984,7 @@ between 5 minutes before and 5 minutes after the EDCT
 MOCA assures acceptable navigational signal coverage from a VOR of
 22 nautical miles
 
-1000* on IFR enroute chart denotes a
+*1000 on IFR enroute chart denotes a
 MOCA
 
 when an approach fix has the word RADAR under it
@@ -1367,3 +1367,30 @@ Maximum Authorized Altitude of 8,000 feet on that route or airway segment, which
 
 12 things that can be used to identify a runway environment when on an IFR approach
 1) approach light system (but cannot descend below 100 feet above TDZE until red terminating bars or ride side row bars are visible); 2) red terminating bars of approach light system; 3) red side row bars of approach light system; 4) threshold; 5) threshold markings; 6) threshold lights; 7) runway end identify lights; 8) touchdown zone or touchdown zone markings; 11) touchdown zone lights; 10) visual glide slope indicator; 11) runway or runway markings; 12) runway lights
+
+SIDs exist in order to
+ensure obstacle clearance, improve traffic flow, reduce communication workload, and maintain orderly separation of departing aircraft
+
+if heading to alternate with lost comms
+just head to alternate after getting over destination runway and at a safe altitude; do not execute missed procedure; go direct to alternate unless alternate route filed
+
+with lost comms, if we end up at a point where we can't start sn spproach from, such as airport itself
+need to stay at clearance limit and hold until at ETA, then start approach of our choosing; this is why procedure turns exist
+
+cleared for the option procedure will permit 
+an instructor, flight examiner, or pilot the option to make a touch-and-go, low approach, missed approach, stop-and-go, or full-stop landing
+
+the MDA of 530 feet for a straight-in landing always represents 
+height above touchdown (HAT) since the approach is for a specific runway
+
+MDAs for circling approaches will always represent 
+height above airport (HAA) since a specific runway will not be used for landing
+
+when does registration expire
+7 years from month of registration, change of ownership, death, revocation of USA citizenship
+
+preferred IFR route
+minimizes route changes during clearance, which reduces workload for everybody
+
+default frequency for a VOR VOT?
+108.0
