@@ -12806,7 +12806,7 @@ head down
 la testa in giù
 
 top of the line
-il top della gamma
+il top della gamma; il top di gamma
 
 to dismiss; to dispel; to drive away
 scacciare
@@ -98684,3 +98684,7 @@ come ci si sente ad essere da solo?
 
 to be alone; to be on one's own
 essere da soli
+
+wish me well; wish me a happy birthday; give me your best wishes; wish me good luck
+fammi auguri
+
