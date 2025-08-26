@@ -10840,7 +10840,7 @@ prevenibile
 unpreventable; inevitable
 inevitabile; imprevedibile
 
-secretive
+secretive; confidential; private
 riservato; segreto
 
 enigmatic
@@ -98690,4 +98690,10 @@ fammi auguri
 
 to postpone; to put off; to let it go; to ignore; to put aside; to put it aside
 soprassedere
+
+to load; to stow; to pack; to stow away
+stivare
+
+confidential letter; private letter
+la lettera riservata
 
