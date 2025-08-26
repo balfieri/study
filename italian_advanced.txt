@@ -10921,7 +10921,7 @@ dissipare
 to disperse
 disperdere
 
-to suppress; to put down
+to suppress; to put down; to do away with
 sopprimere
 
 guerrilla
@@ -50398,8 +50398,8 @@ la macchina da scrivere
 renamed
 rinominato
 
-to take out; to kill
-fare fuori
+to take out; to kill; to do away with
+fare fuori; far fuori
 
 to exonerate; to clear; to let (someone) off the hook
 scagionare
@@ -98699,4 +98699,7 @@ la lettera riservata
 
 it's not for me; it's not my cup of tea
 non fa per me
+
+to do away with (something)
+abolire (qualcosa); far fuori (qualcosa); sopprimere (qualcosa)
 
