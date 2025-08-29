@@ -54484,7 +54484,7 @@ la sorellanza
 caravan; camper (towed)
 il caravan; la roulotte
 
-RV; recreational vehicle (all-in-one)
+RV; recreational vehicle (all-in-one, has motor)
 il camper; l'RV; il veicolo ricreativo
 
 we basically laugh the whole time
