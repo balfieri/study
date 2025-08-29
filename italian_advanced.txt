@@ -17023,7 +17023,7 @@ vanitoso
 bank (of river); shore; edge
 la sponda; la riva
 
-stream; creek
+stream; creek; brook
 il ruscello
 
 small lake
@@ -22433,7 +22433,7 @@ return; repayment; restitution
 la restituzione
 
 producer; manufacturer; maker
-il produttore
+il produttore; il manufattore  
 
 contributed
 contribuito
@@ -59780,7 +59780,7 @@ it's a good thing (specific)
 it's meant to be (something)
 è destinato a essere
 
-nuisance; pain in the butt
+nuisance; pain in the butt; annoyance
 il fastidio
 
 to encourage to
@@ -98705,4 +98705,100 @@ non fa per me
 
 to do away with (something)
 abolire (qualcosa); far fuori (qualcosa); sopprimere (qualcosa)
+
+nothing done; nothing achieved
+niente fatto
+
+welcome to the team
+benvenuto in squadra
+
+I look forward to hearing all about your trip
+non vedo l'ora di sentire tutto del tuo viaggio
+
+tree by the brook
+l'albero vicino al ruscello
+
+sometimes all of our thoughts are misgivings
+a volte tutti i nostri pensieri sono sospetti; a volte tutti i nostri pensieri sono dubbi
+
+to rule the world
+dominare il mondo
+
+chain gang
+la catena di montaggio
+
+back on the chain gang
+di nuovo nella catena di montaggio
+
+pristine landscape
+il paesaggio incontaminato
+
+to be desired; leaves something to be desired
+lasciar desiderare
+
+complacency; self-satisfaction
+la complecanza
+
+tell your friends
+lo dica ai suoi amici
+
+deflagration; explosion
+la deflagrazione
+
+to recover; to get better; to regain oneself
+recuperarsi
+
+brain teaser; puzzle (colloquial/informal)
+lo stricciacervelli
+
+mortified; ashamed
+mortificato
+
+contaminated; tainted
+contaminato
+
+unforgiven
+non perdonato
+
+jaw-dropping
+che lascia a bocca aperta
+
+it was better than I thought it would be
+era meglio di quanto pensassi
+
+sprawling city
+la città tentacolare
+
+it would've taken too long
+ci sarebbe voluto troppo tempo
+
+ostracized; ousted
+estromesso
+
+fraught with danger
+irto di pericoli
+
+I may have mentioned that I was going to do that
+potrei aver detto che avevo intenzione di farlo
+
+he won't let us forget
+non ce lo farà dimenticare
+
+take some time to 
+prenditi un po' di tempo per
+
+to handle with care
+maneggiare con cura
+
+sweet smell of success
+il dolce profumo del successo
+
+foliage
+il fogliame
+
+sensual
+sensuale
+
+it exceeded my expectations
+ha superato le mie aspettative
 

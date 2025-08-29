@@ -106,3 +106,7 @@ how to specify route to alternate in FF?
 what is a DVFR flight plan?
 
 understand Corolis force and winds
+
+Generally, the MOCA can only be used within 22 nautical miles of the Navaid
+Directions along en route chart are in terms of magnetic North
+Figure out what NTC means in with respect to PRM approaches
