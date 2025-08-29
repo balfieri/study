@@ -3400,7 +3400,7 @@ la torta
 garden (fruits, vegatables)
 l'orto
 
-ground; land; soil
+ground; land; soil; terrain
 il terreno
 
 farm

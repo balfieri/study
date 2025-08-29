@@ -31817,7 +31817,7 @@ affordable
 conveniente; abbordabile; accessibile
 
 wafer; waffle (flat); pod
-la cialda
+la cialda; il waffle
 
 tray; platter
 il vassoio
@@ -93882,7 +93882,7 @@ il liquame
 chandelier; ceiling lamp; hanging lamp; pendant; light fixture
 il lampadario
 
-I don't feel up to it; I'm not feeling it
+I don't feel up to it; I'm not feeling it; I don't feel like it
 non me lo sento
 
 I don't feel like doing it; I don't feel up to doing it
@@ -98802,3 +98802,17 @@ sensuale
 it exceeded my expectations
 ha superato le mie aspettative
 
+triathlete
+il triatleta; la triatleta
+
+triathlon
+il triathlon
+
+biathlete
+il biatleta; la biatleta
+
+biathlon
+il biathlon
+
+decathlon
+il decathlon
