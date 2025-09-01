@@ -98979,3 +98979,6 @@ rischioso; losco; sospetto; poco raccomandabile
 that is close to my heart
 che mi sta a cuore
 
+research grant; research fellowship
+la borsa di ricerca
+
