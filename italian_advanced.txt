@@ -37021,7 +37021,7 @@ mantenere un atteggiamento positivo
 to hate oneself
 detestarsi
 
-shady; suspicious; sleazy
+shady; suspicious; sleazy; dodgy
 losco
 
 to take a few steps; to take a short walk; to stretch one's legs
@@ -98972,4 +98972,7 @@ il concorso pubblico
 
 ranking; classification; list
 la graduatoria concorsiale
+
+dodgy; shady
+rischioso; losco; sospetto; poco raccomandabile
 
