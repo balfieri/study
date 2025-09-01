@@ -25084,9 +25084,6 @@ strumentale
 extinction
 l'estinzione
 
-mortal
-mortale
-
 exile
 l'esilio
 
@@ -60596,7 +60593,7 @@ il cremino
 lectern; music stand
 il leggio
 
-threatening
+threatening; manacing
 minaccioso
 
 planned obsolescence; programmed obsolescence
@@ -89107,7 +89104,7 @@ press (news)
 la stampa
 
 fat person; fatty; chubby person
-il ciccione
+il ciccione; la cicciona
 
 (someone) himself
 (qualcuno) stesso
@@ -98856,3 +98853,104 @@ portare (qualcosa) a nuovi livelli; portare (qualcosa) a nuove vette
 blackberry juice
 il succo di more
 
+burst of flames; blaze; hot flash
+la vampata
+
+to blaze up; to flare up
+vampare
+
+to trigger
+scattenare
+
+to shoot; to take a shot (especially in photography)
+scatterare
+
+unrealizable; unattainable
+irrealizzabile
+
+to walk (in the sense of a pedestrian)
+pedonare
+
+I want to go back to having (something)
+voglio tornare ad avere (qualcosa)
+
+I want to give you one piece of advice
+voglio darti un consiglio
+
+to get the student to speak
+far parlare lo studente
+
+to read the fine print
+leggere le scritte in piccolo; leggere le clausole
+
+uncircumcised
+non circonciso
+
+book review
+la ricensione libro
+
+hippocratic oath
+il giuramento di ippocrate
+
+hiatus
+l'interruzione; la pausa
+
+to make excuses for (something)
+trovare scuse per (qualcosa); giustificare (qualcosa)
+
+and so it begins
+e così comincia; e così ha inizio
+
+go ahead, say it
+avanti, dillo
+
+to resolve the matter by oneself
+risolvere la questione da soli
+
+mud-covered; stuck in the mud
+infangato; impantanato
+
+gringo
+il gringo
+
+move aside
+fatti da parte
+
+let's give it a try; let's try
+facciamo tentativo
+
+quartz
+il quarzo
+
+(something) fatty; (something) greasy
+(qualcosa) di grasso
+
+nominative
+il nominativo
+
+manhunt
+la caccia all'uomo
+
+from head to toe
+dalla testa ai piedi
+
+you'll change your mind
+ti ricrederai
+
+social justice
+la giustizia sociale
+
+leeway
+il margine di manovra
+
+margin of error
+il margine di errore
+
+put it away
+mettilo via
+
+topography of the land; terrain's topology
+la topologia del terreno
+
+topology
+la topologia
