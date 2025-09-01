@@ -42142,9 +42142,6 @@ indirizzare la conversazione; guidare la conversazione; dirigere la conversazion
 workstation
 la postazione
 
-all around; in the round
-a tutto tondo
-
 same; identical
 medesimo
 
@@ -94792,7 +94789,7 @@ to get out on the open road
 uscire sulla strada aperta; andare sulla strada aperta
 
 well-rounded person
-la persona completa; la persona equilibrata
+la persona a tutto tondo; la persona completa; la persona equilibrata
 
 to receive death threats
 ricevere minacce di morte
@@ -98954,3 +98951,19 @@ la topologia del terreno
 
 topology
 la topologia
+
+muddy; murky; clouded
+fangoso; torbido; infangato
+
+well-rounded; all-encompassing; comprehensive; all around
+a tutto tondo
+
+graduation grade; final degree grade; final GPA
+il voto di laurea
+
+to be on a ranking list; to be ranked
+essere in graduatoria
+
+magnitude
+il magnitudo; la grandezza; l'ampiezza
+
