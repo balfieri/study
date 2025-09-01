@@ -98967,3 +98967,9 @@ essere in graduatoria
 magnitude
 il magnitudo; la grandezza; l'ampiezza
 
+public competition; open competitive exam  
+il concorso pubblico  
+
+ranking; classification; list
+la graduatoria concorsiale
+
