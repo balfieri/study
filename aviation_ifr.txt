@@ -3,6 +3,9 @@
 SPARROW acronym for required aircraft documents
 Supplements, Placards, Airworthiness certificate; Registration; Radio license (when operating outside the U.S.); Operator's handbook; Weight and balance (use the version updated by the mechanic)
 
+30FTDUC acronym to remember when registration is no longer valid
+30 - 30 days after death of holder; F - foreign registry; T - transfer of ownership; D - destroyed; U - USA citizenship revoked; C - canceled for another reason
+
 AV1ATES acronym for required inspections
 Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (24 months, IFR only); Transponder (24 months); ELT (12 months or half Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
 
@@ -109,7 +112,7 @@ maximum surface volume distance of a VORTAC at least 45,000 feet AGL and below 6
 100 nautical miles
 
 BasicMed: 
-no more than 7 occupants, less than 18,000 feet; no more than 250 KIAS; up to 12,500 pounds; within the USA (usually); never for hire
+no more than 7 occupants, less than 18,000 feet; no more than 250 KIAS; up to 12,500 pounds; within the USA (usually); never for hire; state-issued driver license must be carried; comprehensive medical examination checklist and BasicMed Medical Education Course completion certificate must be kept and available if requested
 
 GBAS approach 
 ground-based augmentation for GPS that provides less than 1 meter accuracy in horizontal and vertical axes; flown same as ILS after selected; GBAS landing system (GLS)
@@ -202,7 +205,7 @@ radar service terminated, so
 resume normal position reporting
 
 PRM
-RADAR system for monitoring approaches to two closely spaced parallel runways
+RADAR system for monitoring approaches to two closely spaced parallel runways; the No Transgression Zone (NTZ) is kept clear by ATC to prevent conflicts
 
 required alternate must have 
 an approved instrument approach procedure other than GPS and it must be operational upon arrival, and aircraft must be equipped to fly it; WAAS GPS is exempt from this rule, but LNAV minimums must be used for planning
@@ -523,7 +526,7 @@ on IFR low enroute chart, hash marks around a waypoint means
 there are different altitudes on each side of the waypoint
 
 on IFR low enroute chart, blue vs. black vs. brown routes
-blue is for GPS route, black is for VOR route; brown is for military training route
+blue is for RNAV route (usually GPS), black is for VOR route; brown is for military training route
 
 with MON VORs, can get to any airport within
 100 nautical miles
@@ -981,7 +984,7 @@ being closer to the runway that you actually are
 with an Expect Departure Clearance Time (EDCT), aircraft are expected to depart
 between 5 minutes before and 5 minutes after the EDCT
 
-MOCA assures acceptable navigational signal coverage from a VOR of
+MOCA assures acceptable navigational signal coverage from a VOR of only
 22 nautical miles
 
 *1000 on IFR enroute chart denotes a
@@ -1150,7 +1153,7 @@ in the context of IFR flight, resume own navigation means
 to following radar vectors from ATC and to instead proceed along the previously-cleared route
 
 Coriolis force causes winds
-to bend toward the right in the Northern hemisphere, which makes them run parallel to isobars rather than perpindicular if only the pressure gradient force existed
+to bend toward the right in the Northern hemisphere, which makes them run parallel to isobars rather than perpindicular if only the pressure gradient force existed; this curving shapes large-scale wind patterns, creating westerly winds in mid-latitudes and causing clockwise circulation around highs and counterclockwise around lows in the Northern Hemisphere
 
 how does TAS change with altitude
 in standard conditions, TAS increases by about 2% per 1000 feet of altitude
@@ -1394,3 +1397,60 @@ minimizes route changes during clearance, which reduces workload for everybody
 
 default frequency for a VOR VOT?
 108.0
+
+using the alternate static port causes
+altimeter to read higher, airspeed to read higher, and VSI to momentarily record a climb; the cabin pressure is lower
+
+each inch of mercury causes altitude to change by
+1000 feet
+
+when position reports are also required when
+1) passing over each reporting point in a flight point; 2) requested by ATC; 2) vacating an altitude; 3) reaching or leaving a holding fix; 4) changing altitude when VFR-on-Top; 5) initiating a missed approach; 6) TAS changes by 10 knots or 5%; 7) unable to maintain a 500 foot-per-minute climb; 8) safety issue; 9) weather different than forecast; 10) equipment malfuncion
+
+kinds of NOTAMs
+(D) - info that requires wide dissemination pertaining to nav aids, civic public-use airports, facilities, services, and procedures; FDC - flight info that is regulatory in nature, including changes to IFR charts, procedures, and airspace usage; pointer - issued by an FSS to point to another NOTAM; SAA - issued when special advisory airspace will be active outside published schedule times; military - pertain to U.S. armed forces nav aids/airports that are part of the NAS
+
+SIGMETs
+convective; severe icing; severe turbulence; IMC due to dust/sand/volcanic ash
+
+convective SIGMET
+embedded thunderstorms; a line of thunderstorms; thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3000 square miles; surface winds of 50 knots or more; hail at the surface greater than or equal to 3/4 inches in diameter; tornadoes
+
+VOR vs. ILS
+VOR provides only horizontal guidance; ILS provides horizontal and vertical guidance, and much more precisely; ILS operates in only one direction along the runway; VOR can be used for any radial; ILS can be used for a single precise course and glide scope
+
+stages of a thunderstorm
+1) cumulous or developing stage - warm moist air rises; 2) mature stage - onset of precipitation; 3) dissipating stage - downdrafts dominate, precipitation weakens
+
+in order to go missed during a circling approach after you have lined up with the intended runway
+climb toward the center of the airport and execute the missed procedure
+
+standard safety zone radii for circling approaches by aircraft category, in nautical miles
+A - 1.3; B - 1.5; C - 1.7; D - 2.3; E - 4.5
+
+how to find the VOR test point on the ground
+consult the chart supplement; some airports have signage
+
+how to use a bearing pointer to fly a VOR approach
+set bearing pointer to display VOR, steer so aircraft heading matches bearing; note that after passing over the VOR, the bearing pointer flips behind you; continue checking bearing pointer head to see if it is drifting left or right
+
+if you can't land where missed climb gradient is higher than the aircraft can achieve
+tell ATC and work out an ascent over the airport until at a safe altitude
+
+if main radios die, using a portable radio
+is allowed, but you should notify ATC of the situation
+
+is a VOR or ILS receiver required if doing an RNAV GPS approach?
+no, assuming GPS is IFR-approved and only doing a GPS-based approach; the exception is when flying a GPS approach at an alternate airport when the GPS system is non-WAAS
+
+Visual Climb Over Airport (VCOA)
+IFR departure procedure that allows a pilot to climb visually in specified VMC conditions by circling over the airport to a published altitude prior to proceeding en route
+
+lost comms AVEF MEA acronym
+A - assigned, V - vectored, E - expected, F - filed; M - miminum IFR altitude for operations for the segment (MEA, MOCA, OROCA), E - expected, A - assigned; so AVEF is for the route and MEA is for the altitude
+
+DVFR flight plan
+special VFR flight plan required while penetrating or flying within an Air Defense Identification Zone (ADIZ), such as crossing into U.S. airspace from abroad or near certain sensitive boundaries
+
+directions along an en route chart are in terms of
+magnetic north
