@@ -23335,8 +23335,8 @@ essere dell'umore giusto per
 and to think that
 e pensare che
 
-what was I thinking
-che cosa stavo pensando
+what was I thinking?
+che cosa stavo pensando?; cosa stavo pensando?
 
 narrow; limited; restricted; narrow-minded
 ristretto
@@ -49117,7 +49117,7 @@ la precarietà
 evicted
 sfrattato
 
-to evict
+to evict (from house)
 sfrattare
 
 substitute (adjective)
@@ -54364,7 +54364,7 @@ il sogno lucido
 to daydream
 sognare a occhi aperti
 
-to recall
+to recall; to rememer; to remind
 rammentare
 
 at the opening; in the opening
@@ -68372,9 +68372,6 @@ materizzare
 what are your hours?
 quali sono i tuoi orari?
 
-what was I thinking?
-cosa stavo pensando?
-
 to drive crazy
 far impazzire
 
@@ -76764,7 +76761,7 @@ spanare una vite
 washer (hardware)
 la rondella
 
-water bottle
+water bottle; canteen
 la borraccia
 
 flagship event
@@ -96645,7 +96642,7 @@ sparare a sangue freddo
 severance pay; exit money; severance package; golden handshake; retirement allowance; buyout
 la buonuscita
 
-to withdraw; to take away; to collect; to pick up; to arrest
+to withdraw; to take away; to collect; to pick up; to arrest; to make a withdrawl
 prelevare
 
 to take something upon oneself; to shoulder; to burden oneself; to be down for; to be OK with
@@ -98981,4 +98978,58 @@ che mi sta a cuore
 
 research grant; research fellowship
 la borsa di ricerca
+
+reported; declared; denounced; accused
+denunciato
+
+to evict (somebody) from their house
+sfrattare (qualcuno) dalla propria casa
+
+trust me
+fidati; fidati di me
+
+unmoored
+alla deriva; senza ancoraggio; disancorato
+
+where am I? (precise position, GPS)
+dove mi trovo?
+
+where am I? (more general)
+dove sono?
+
+to gaslight
+manipolare psicologicamente; fare gaslighting; gaslightare
+
+gaslit
+manipolato psicologicamente; gaslightato
+
+shipwrecked
+naufrago
+
+even if; albeit with; though with
+seppur con
+
+to give up; to back down
+demordire
+
+to make oneself useful
+rendersi utili
+
+armed wing; armed branch
+il braccio armato
+
+heartbroken; brokenhearted
+affranto
+
+sniper rifle
+il fucile da cecchino
+
+to walk; to start walking
+incamminare
+
+to make a deposit
+fare un deposito
+
+to make a withdrawal; to withdraw money
+prelevare; fare un prelievo
 
