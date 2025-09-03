@@ -6223,7 +6223,7 @@ regredire
 lawn mower
 il tosaerba
 
-lawn mower; grass trimmer; weed trimmer; weed eater; weed whacker
+lawn mower; grass trimmer; weed trimmer; weed eater; weedeater weed whacker
 il tagliaerba
 
 in person
@@ -88734,7 +88734,7 @@ la trafelata corsa
 media condolences; public condolences
 il cordoglio mediatico
 
-weed eater; weed trimmer; string trimmer
+weed eater; weedeater; weed trimmer; string trimmer
 il decespugliatore a filo; il tagliabordi a filo; il trimmer a filo
 
 to be at the same time; to be simultaneously

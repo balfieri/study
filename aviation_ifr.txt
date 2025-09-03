@@ -1454,3 +1454,9 @@ special VFR flight plan required while penetrating or flying within an Air Defen
 
 directions along an en route chart are in terms of
 magnetic north
+
+to remain current for daytime flight under VFR, in order to fly passengers, the private pilot must
+within the preceding 90 days, have performed at least 3 takeoffs and landings as the sole manipulator of the flight controls in an aircraft of the same category, class, and (if a type rating is required) type that you intend to operate; need to be to a full stop unless you are flying a tailwheel airplane
+
+to remain current for nighttime flight under VFR, in order to fly passengers, the private pilot must
+do the same as for daytime currency, except the 3 landings must occur between one hour after sunset to one hour before sunrise, and to a full stop
