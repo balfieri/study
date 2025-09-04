@@ -5902,7 +5902,7 @@ esporre
 firm; company; business
 la ditta
 
-claim; complaint; stink
+claim; complaint; stink; grievance (formal, technical)
 il reclamo
 
 supportive
@@ -16504,7 +16504,7 @@ pietoso; misericordioso
 voting precinct
 la circoscrizione elettorale
 
-grievance; complaint; grip
+complaint (informal); grip
 la lamentela
 
 settler; colonist
@@ -99326,4 +99326,10 @@ l'artefice
 
 right around the corner
 proprio dietro l'angolo; a due passi; molto vicino
+
+I have no complaints (informal)
+non ho lamentele
+
+no complaints (personal)
+nessuna lamentela
 
