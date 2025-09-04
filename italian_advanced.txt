@@ -39602,7 +39602,7 @@ to reach a plateau
 raggiungere un plateau; raggiungere un altopiano
 
 plateau
-il plateau; l'altopiano
+il plateau; l'altopiano; l'altipiano
 
 hairdo; hairstyle
 l'acconciatura
@@ -74387,6 +74387,9 @@ ci sto ancora pensando
 I'll take care of it
 ci penso io
 
+I'll think about it
+ci penso
+
 to be worth it
 valerne la pena
 
@@ -99200,3 +99203,87 @@ il filo di rame
 
 manifold (noun)
 il collettore
+
+seller
+il vendolo; la vendola
+
+poultry seller
+il pollivendolo
+
+to get away from it; to distance oneself from
+andarsene; allontanarsi da
+
+to misdirect
+indirizzare malle
+
+to misdirect anger
+indirizzare male la rabbia
+
+misdirected
+indirizzato male
+
+bullet hole
+il foro di proiettile
+
+repeat from the beginning; start over
+ripeti da capi
+
+energy drink
+la bevanda energetica
+
+that's all; that's it
+tutto qui
+
+smoky room
+la stanza piena di fumo
+
+socket wrench
+la chiave a bussola
+
+tantrum; scene; outburst
+la scenatta
+
+is that all?; is that it?
+è tutto qui?
+
+in tough times; in difficult times
+in momenti duri
+
+doughy
+molliccio
+
+dough boy
+il ragazzo paffuto; l'omino di pasta
+
+to tilt (something) in one's favor
+spostare (qualcosa) a proprio favore; indirizzare (qualcosa) a proprio vantaggio
+
+mi basta che sia
+it's enough for me that it is; I just need it to be
+
+secession
+la secessione
+
+secessionist
+il secessionista; la secessionista
+
+scorched earth
+la terra bruciata
+
+scorched earth policy
+la politica della terra bruciata
+
+on the cusp of
+sull'orlo di; alla soglia di
+
+awkward person; bungler
+l'impacciatore
+
+widowmaker heart attack
+l'infarto fulminante
+
+nail-biting experience
+l'esperienza da togliere il fiato; l'esperienza da mangiarsi le unghie
+
+hop
+il saltello
