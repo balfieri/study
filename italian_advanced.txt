@@ -65508,7 +65508,7 @@ inbreeding
 la consanguineità
 
 vending machine
-il distributore automatico
+il distributore automatico; la macchinetta
 
 LED light bulb
 la lampadina a LED
@@ -99323,4 +99323,7 @@ il tentennamento
 
 maker; artificer; fashioner
 l'artefice
+
+right around the corner
+proprio dietro l'angolo; a due passi; molto vicino
 
