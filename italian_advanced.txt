@@ -54586,7 +54586,7 @@ guastare
 all-encompassing
 omnicomprensivo; totalizzante
 
-magnate
+magnate; tycoon
 il magnate
 
 to desist; to stop; to halt (formal, legal)
@@ -99341,3 +99341,6 @@ le frittelle di patate; la patatte grattugiate e fritte
 
 potato latkes
 i latkes; le frittelle di patate; il tortel di patate
+
+tech tycoon
+il magnate tecnologico; il tycoon tecnologico
