@@ -99338,3 +99338,6 @@ la macchinetta
 
 hash browns
 le frittelle di patate; la patatte grattugiate e fritte
+
+potato latkes
+i latkes; le frittelle di patate; il tortel di patate
