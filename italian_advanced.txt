@@ -4111,7 +4111,7 @@ la sclerosi multipla
 loquacious; overly talkative
 loquace; chiacchierone; chiacchierona
 
-hyphen
+hyphen; dash
 il trattino
 
 badness; wickedness; naughtiness
