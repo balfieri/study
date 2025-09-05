@@ -56999,7 +56999,7 @@ il deterrente
 loophole
 la ferritoia
 
-keychain
+keychain; key ring
 il portachiavi
 
 shiny
@@ -67865,7 +67865,7 @@ frantumato
 rocks
 gli scogli
 
-broken (generic); broken down; malfunctioning (technical, mechanical)
+broken down; malfunctioning; not functioning; nonfunctional
 guasto
 
 at 11 sharp
@@ -75230,9 +75230,6 @@ distanziato nel tempo
 to attempt; to sue
 intentare
 
-overtourism
-l'overtourism
-
 pollinator
 l'impollinatore
 
@@ -78830,9 +78827,6 @@ la gaffe
 
 howler
 lo strafalcione; la strafalciona
-
-prendere un granchio
-to make a mistake
 
 to make a slip; to slip up
 fare una papera
@@ -88222,7 +88216,7 @@ day in court
 il giorno in pretura
 
 overtourism
-l'iperturismo
+l'overtourism; l'iperturismo
 
 wheat bran
 la crusca di frumento
@@ -99344,3 +99338,61 @@ i latkes; le frittelle di patate; il tortel di patate
 
 tech tycoon
 il magnate tecnologico; il tycoon tecnologico
+
+to detract from
+sminuire; sottrarre da
+
+angiogram
+l'angiogramma
+
+scraped; chipped
+scrostato
+
+we're not signing anything
+non firmiamo un bel niente
+
+come on, let's go!
+coraggio, andiamo!
+
+underhanded
+disonesto; subdolo
+
+where are you going with this?
+dove vuoi arrivare?
+
+despicable swindler
+l'ignobile imbroglione
+
+it gives me great pleasure to (do something)
+mi fa molto piacere (fare qualcosa)
+
+under-cover agent
+l'agente sotto copertura
+
+from the bottom of my heart
+dal profondo del mio cuore
+
+at nine o'clock sharp
+alle nove in punto
+
+to shed; to pluck (often in reference to hair)
+pilare
+
+protracted
+protratto
+
+signing bonus
+il bonus di firma
+
+downstairs; on the lower floor
+al piano di sotto
+
+grandpa; little grandpa
+il nonnino
+
+such a gift
+un tale dono
+
+I'll show you myself
+ti faccio sentire io
+

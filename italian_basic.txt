@@ -3136,7 +3136,7 @@ preso
 remained
 rimasto
 
-broken
+broken (physical)
 rotto
 
 chosen
@@ -5161,8 +5161,11 @@ Firenze
 element
 l'elemento
 
-view; sight
+sight (ability to see)
 la vista
+
+view
+la visuale
 
 situation
 la situazione
