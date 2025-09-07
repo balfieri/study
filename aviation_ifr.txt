@@ -442,7 +442,7 @@ RAIM integrity monitoring
 performs only horizontal consistency checks using satellites, with no vertical navigation support or real-time correction
 
 MSA
-Minimal Sector Altitude ensures 1000 feet obstacle clearance within 25 nautical miles of the navigation facility, but not acceptable navigation signal coverage
+Minimal Sector Altitude ensures 1000 feet obstacle clearance within 25 nautical miles of the navigation facility, but not acceptable navigation signal coverage; if you unexpectedly go off-course, first contact ATC, then climb to the MSA
 
 how to determine if DME is available on an ILS/LOC
 IAP indicates DME/TACAN channel in the LOC frequency box
@@ -835,7 +835,7 @@ VASI provides obstruction clearance within
 1) Runway Entrance Lights (REL) are lights along the taxiway centerline that illuminate red when an aircraft is on final approach or on the runway; 2) Takeoff Hold Lights (THL) are a double row of lights on either side of the runway centerline that illuminate red when it would e unsafe to takeoff due to the runway being occupied by an aircraft or ground vehicle; 3) Runway Intersection Lights (TIL) are a double row of lights on either side of runway centerline at runway intersections that illuminate red when it is unsafe to cross the intersecting runway
 
 a pilot may descend from a DA or MDA when
-1) a landing can be made with a normal rate of descent and normal maneuvers; 2) visibility is not less than the minimum specified for the instrument approach procedure; 3) runway or runway lights or approach lights are distinctly visible; Note: If only the approach lights are visible, the aircraft may descend to 100 feet AGL, and further descent requires that the red side row bars, or red terminating bars, or runway lights, or runway be visible. Note for the latter, that one does not need to be beyond the VDP
+1) a landing can be made with a normal rate of descent and normal maneuvers; 2) visibility is not less than the minimum specified for the instrument approach procedure (subjective, but pilot could determine how many approach lights are visible at once); 3) runway or runway lights or approach lights are distinctly visible; Note: If only the approach lights are visible, the aircraft may descend to 100 feet AGL, and further descent requires that the red side row bars, or red terminating bars, or runway lights, or runway be visible. Note for the latter, that one does not need to be beyond the VDP
 
 cases where a report must be submitted to the NTSB within 10 days
 1) An accident involving substantial damage to the aircraft, or significant injury or death to an occupant; 2) Overdue aircraft believed to be involved in an accident; 3) Inability of a flight crew member to perform duties due to injury or illness; 4) Flight control system malfunction or failure; 5) In-flight fire; 6) In-flight aircraft collision
@@ -925,7 +925,7 @@ GPS approaches that do not require WAAS
 LNAV
 
 required reporting points while in radar contact
-those requested by ATC, unforecast weather encountered, information related to safety of flight, vacating an altitude, changing altitude withen on VFR on Top, unable to climb or descend 500 feet per minute, missed approach, change in true airspeed by 5% or 10 knots, reaching holding fix or waypoint to which cleared, leaving assigned holding fix or waypoint, loss of any equipment
+those requested by ATC, unforecast weather encountered, information related to safety of flight, vacating an altitude, changing altitude within on VFR on Top, unable to climb or descend 500 feet per minute, missed approach, change in true airspeed by 5% or 10 knots, reaching holding fix or waypoint to which cleared, leaving assigned holding fix or waypoint, loss of any equipment
 
 required reporting points while not in radar contact
 any reports required for radar contact, any compulsory reporting point on charts, leaving final approach fix inbound on a non-precision approach, any correction to ETA that exceeds 2 minutes
@@ -1180,7 +1180,7 @@ at what point do we change course to avoid traffic when on IFR
 should first ask advice from ATC, but can do so once you have visual contact
 
 what should be checked before taxiing to runway with an assigned SID
-that the aircraft can climb to the assigned altitude at the required climb gradient
+that the aircraft can climb to the assigned altitude at the required climb gradient; for 172 and PA-28, can assume 500 feet per minute initial climb rate, so only check the performance charts if the SID requires more
 
 what to do when engine out in IMC
 look at glide range on ForeFlight; switch to VFR chart; work with ATC to choose a location, such as an airport or road
@@ -1377,9 +1377,6 @@ ensure obstacle clearance, improve traffic flow, reduce communication workload, 
 if heading to alternate with lost comms
 just head to alternate after getting over destination runway and at a safe altitude; do not execute missed procedure; go direct to alternate unless alternate route filed
 
-with lost comms, if we end up at a point where we can't start sn spproach from, such as airport itself
-need to stay at clearance limit and hold until at ETA, then start approach of our choosing; this is why procedure turns exist
-
 cleared for the option procedure will permit 
 an instructor, flight examiner, or pilot the option to make a touch-and-go, low approach, missed approach, stop-and-go, or full-stop landing
 
@@ -1460,3 +1457,24 @@ within the preceding 90 days, have performed at least 3 takeoffs and landings as
 
 to remain current for nighttime flight under VFR, in order to fly passengers, the private pilot must
 do the same as for daytime currency, except the 3 landings must occur between one hour after sunset to one hour before sunrise, and to a full stop
+
+easiest way to file an IFR flight plan in the air when you unexpectedly encounter IMC
+contact ATC and ask for a pop-up clearance; note that this adds a lot of work for them, so consider getting back on the ground and doing it there
+
+if you are on a straight-in IFR approach and notice VFR traffic is about to cut in front of you
+you may do a normal traffic pattern entry without contacting ATC; you need only re-contact ATC if you go missed in IMC
+
+conditions under which an alternate airport without an IAP may be used
+forecast at ETA must allow a descent from the MEA and landing under basic VFR conditions
+
+when an ILS plate says that RNAV 1-GPS is required, this means that
+the GPS must have sensitivity of 1 mile laterally for entry in terminal mode, and that a TAA is present; it might also say "or RADAR" in which cases radar vectors may be used for entry
+
+when an ILS plate says that DME is required for LOC
+you may always use GPS in lieu of DME
+
+if radio communications are lost during IFR flight and arrival at the clearance limit occurs before the estimated time of arrival (ETA), the initial step is to 
+proceed to the fix from which an instrument approach begins (usually the initial approach fix), hold there, and time the commencement of the approach so as to arrive at the destination as close as possible to the ETA specified in the flight plan
+
+Terminal Arrival Area (TAA) on an approach plate
+provides a standardized way to transition from the en route phase to the terminal environment for aircraft using RNAV/GPS; it minimizes radio calls ith ATC and ensures obstacle clearance of 1000 feet within a 25 nautical mile radius; a TAA may include NoPT sectors; TAA may be present on some ILS plates when RNAV is required for navigation to the initial fix; pilots may descend to the published sector altitude only if they have been cleared for the approach and only if they have not been a specific vectoring altitude
