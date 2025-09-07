@@ -11179,7 +11179,7 @@ cos'hai nel cervello?; cosa c'è di sbagliato nel tuo cervello?
 in no time; in no time at all; in very little time; in a moment
 in men che non si dica
 
-to use all of one's energy (to do something)
+to use all of one's energy (to do something); to give it everthing you got
 mettercela tutta; dare il massimo
 
 my gosh; wow
@@ -78168,7 +78168,7 @@ direi che
 new hire
 il neo assunto; la neo assunta
 
-stiff; immobilized
+stiff; immobilized; in a cast
 ingessato
 
 to plaster; to put in a cast; to immobilize
@@ -79013,9 +79013,6 @@ provare rancore; serbare risentimento
 
 to harbor resentment
 covare risentimento
-
-to be angry with; to have it in for
-avercela con (qualcuno)
 
 outburst
 l'escandescenza
@@ -99431,4 +99428,70 @@ i cingoli di un escavatore
 
 seduced; enticed; allured
 sedotto
+
+pruning; lopping; dry trimming
+la potatura
+
+to glorify
+glorificare
+
+pitfall
+l'insidia; il trabocchetto
+
+to prepare for
+prepararsi per
+
+to stop it; to cut it out
+finirla
+
+to stay; to remain (somewhere)
+restarsene
+
+to expect it; to see it coming
+aspettarsela
+
+morning routine
+la routine mattutina
+
+hired; enlisted; recruited
+assoldato
+
+little black book
+il libretto nero; il taccuino nero
+
+encrypted; coded; scrambled
+criptato
+
+to catch sight of; to see; to notice; to glimpse; to discern
+scorgersi
+
+to have the upper hand
+avere la meglio
+
+to cripple; to hamstring; to make lame
+azzoppare
+
+arm in a cast
+il braccio ingessato
+
+sewer system
+il fognario
+
+at the last moment; in the nick of time; at the very last minute
+in extremis
+
+hospice; nursing home
+l'ospizio
+
+fit of rage; burst of anger
+lo scatto d'ira
+
+men on guard duty; men stationed; men at the post
+gli uomini a presidio
+
+stimulating substance; excitant
+la sostanza eccitante
+
+in cahoots with; in league with
+in combutta con
 

@@ -274,9 +274,6 @@ non arrivarci
 to be ready to kill (somebody)
 avercela a morte con (qualcuno)
 
-to give it everything you got
-mettercela tutta
-
 to be done with somebody
 piantarla; smetterla
 
@@ -3585,4 +3582,19 @@ essere alle prese
 
 to settle the score; to settle a score; to settle up; to shoot it out
 regolare i conti
+
+to have a good time; to have fun
+spassarsela
+
+to pick on (someone)
+prendersela con (qualcuno)
+
+to hold a grudge against (someone); to be angry with (someone); to have it in for (someone)
+avercela con (qualcuno)
+
+to feel up to it; to have the nerve
+sentirsela
+
+to fall for it; to believe a lie
+bersela
 
