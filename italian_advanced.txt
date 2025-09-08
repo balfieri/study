@@ -29356,7 +29356,7 @@ preteso
 unilateral
 unilaterale
 
-slightly; scantily
+slightly; scantily; sparsely
 scarsamente
 
 to suspend
@@ -85105,7 +85105,7 @@ delivery instructions
 le istruzioni di consegna
 
 kitschy; tacky
-pacchiano
+pacchiano; kitsch
 
 in the flesh
 in carne e ossa
@@ -95088,6 +95088,9 @@ il recattatore; la recattatrice
 you'd better call (somebody); it's best to call (somebody)
 ben conviene chiamare (qualcuno)
 
+you'd better (do something)
+conviene (fare qualcosa); ben conviene (fare qualcosa)
+
 to maintain order
 mantenere l'ordine
 
@@ -99494,4 +99497,43 @@ la sostanza eccitante
 
 in cahoots with; in league with
 in combutta con
+
+poor social skills
+le scarse abilitè sociali; le scarse competenze sociali
+
+choose-your-own-adventure story; branching story
+la storia a bivi
+
+flying to (place); in flight to (place)
+in volo per (luogo)
+
+armor; suit of armor
+l'armatura
+
+to pay overtime; to pay for overtime
+pagare gli straordinari
+
+to play detective; to act as a detective; to do detective work
+fare il detective
+
+teeming with; swarming with; bustling with; crawling with
+brulicante con
+
+dissolute life; dissolute lifestyle
+la vita dissoluta
+
+bleak; sinister; grim; sullen
+bieco
+
+story element; narrative element
+l'elemento della storia
+
+sparsely populated
+poco popolato; scarsamente popolato
+
+to look up (with eyes)
+guardare in alto
+
+to look down (with eyes)
+guardare in basso
 

@@ -1478,3 +1478,6 @@ proceed to the fix from which an instrument approach begins (usually the initial
 
 Terminal Arrival Area (TAA) on an approach plate
 provides a standardized way to transition from the en route phase to the terminal environment for aircraft using RNAV/GPS; it minimizes radio calls ith ATC and ensures obstacle clearance of 1000 feet within a 25 nautical mile radius; a TAA may include NoPT sectors; TAA may be present on some ILS plates when RNAV is required for navigation to the initial fix; pilots may descend to the published sector altitude only if they have been cleared for the approach and only if they have not been a specific vectoring altitude
+
+After ATC clears an aircraft for a visual approach to an untowered airport and hands it off to the CTAF frequency
+the pilot remains on an IFR flight plan but is now responsible for visually navigating to the runway and maintaining separation from other aircraft while self-announcing on CTAF; the expectation is that the missed approach will either result in a second pattern circuit for landing, or the pilot will climb, remain VMC, and request instructions from ATC
