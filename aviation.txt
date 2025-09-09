@@ -5865,7 +5865,7 @@ will likely smell exhaust fumes; altitude reduction will have no effect
 {sop} argument for landing with traffic on a highway
 a landing plane is traveling only slightly faster than typical highway speeds; as a driver, you would rather have an airplane drift over your car going the same direction about 20 mph or so faster instead of one coming straight at you with a combined closing speed of at least 120 mph
 
-{reg,critical} database currency is required for VFR, yes/no
+{reg,critical} GPS database currency is required for VFR, yes/no
 no
 
 {sys} purpose of OBS button
