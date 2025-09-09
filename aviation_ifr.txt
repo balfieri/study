@@ -1490,3 +1490,6 @@ the pilot must have a textual description and ATC clearance
 
 When a pilot is within 1000 feet of the desired altitude
 the pilot should fly between 500 and 1500 feet per minute to the desired altitude; before that, the pilot should fly at the optimal climb rate for the aircraft
+
+If you lose your attitude indicator or HSI, is that an emergency situation?
+Yes, and you should report it to ATC; losing the navigation system is an even larger emergency
