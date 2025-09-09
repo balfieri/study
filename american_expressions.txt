@@ -694,7 +694,7 @@ wimp
 lo smidollato
 
 you only live once (YOLO)
-si vive solo una volta 
+si vive solo una volta; si vive solamente una volta
 
 zonked
 sfinito

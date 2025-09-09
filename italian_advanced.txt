@@ -16657,7 +16657,7 @@ così cosà
 to die for
 da morire
 
-to get down to it; to roll up one's sleeves
+to get down to it; to roll up one's sleeves; to get to work; to get down to business
 darsi da fare
 
 to put one's foot down
@@ -50758,7 +50758,7 @@ i Caraibi
 nectar
 il nettare
 
-to suck
+to suck; to suck on
 succhiare
 
 to suck (formal)
@@ -95089,7 +95089,7 @@ you'd better call (somebody); it's best to call (somebody)
 ben conviene chiamare (qualcuno)
 
 you'd better (do something)
-conviene (fare qualcosa); ben conviene (fare qualcosa)
+conviene (fare qualcosa); ti conviene (fare qualcosa); ben conviene (fare qualcosa)
 
 to maintain order
 mantenere l'ordine
@@ -99537,3 +99537,62 @@ guardare in alto
 to look down (with eyes)
 guardare in basso
 
+sorry; grieved; sad; sorrowful; regretful; grieving
+addolorato
+
+ecstatic; over the moon; thrilled; overjoyed
+straffelice
+
+gagged
+imbavagliato
+
+to gag
+bavagliare
+
+on (someone); on top; upon; against
+adosso
+
+broken (on something); damaged (something); (something) out of order; failure of (something)
+guasto a (qualcosa)
+
+I'll take that for a yes
+lo prenderò come un sì
+
+I'll take that for a no
+lo prenderò come un no
+
+defamation; slander; libel
+la diffamazione
+
+drugged; sedated; narcotized
+narcotizzato
+
+Horton
+ortone
+
+to get sucked into (something)
+essere risucchiato in (qualcosa); farsi risucchiare in (qualcosa)
+
+to knock down; to bring down quickly; to cut short (figuratively)
+stroccare
+
+under oath
+sotto giuramento
+
+false testimony; perjury
+la falsa testimonianza
+
+plot; conspiracy; intrigue
+la congiatura
+
+clever dialogue; witty exchange
+il dialogo arguto; lo scambio brillante
+
+boss (regional slang, southern Italy); big shot
+il cadrone
+
+manual skill; manual dexterity; handiness
+la manualità
+
+makeshift; improvised; of fortune
+di fortuna
