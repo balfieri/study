@@ -805,7 +805,7 @@ heavy icing on the leading edge of the wing is not as bad as
 light icing on the upper surface
 
 ATC instructs you to resume own navigation after you have been vectored to a Victor airway, so you should
-maintain the airway by use of your navigation equipment
+maintain the airway by use of your navigation equipment; you also no longer need to provide position reports
 
 automation has been found to
 create much larger errors at times; it may improve situation awareness, but not situation awareness skills
@@ -1468,7 +1468,7 @@ conditions under which an alternate airport without an IAP may be used
 forecast at ETA must allow a descent from the MEA and landing under basic VFR conditions
 
 when an ILS plate says that RNAV 1-GPS is required, this means that
-the GPS must have sensitivity of 1 mile laterally for entry in terminal mode, and that a TAA is present; it might also say "or RADAR" in which cases radar vectors may be used for entry
+the GPS must have sensitivity of 1 mile laterally for entry in terminal mode, and that a TAA is present; it might also say OR RADAR in which cases radar vectors may be used for entry
 
 when an ILS plate says that DME is required for LOC
 you may always use GPS in lieu of DME
@@ -1481,3 +1481,12 @@ provides a standardized way to transition from the en route phase to the termina
 
 After ATC clears an aircraft for a visual approach to an untowered airport and hands it off to the CTAF frequency
 the pilot remains on an IFR flight plan but is now responsible for visually navigating to the runway and maintaining separation from other aircraft while self-announcing on CTAF; the expectation is that the missed approach will either result in a second pattern circuit for landing, or the pilot will climb, remain VMC, and request instructions from ATC
+
+In order to be assigned a visual approach
+the pilot must have visual contact with the airport
+
+In order to fly a SID
+the pilot must have a textual description and ATC clearance
+
+When a pilot is within 1000 feet of the desired altitude
+the pilot should fly between 500 and 1500 feet per minute to the desired altitude; before that, the pilot should fly at the optimal climb rate for the aircraft
