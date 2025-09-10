@@ -36413,7 +36413,7 @@ watch your back
 riguardati
 
 Nazi Germany
-Germania nazista
+la Germania nazista
 
 big fuss; uproar
 il grosso polverone
@@ -96516,9 +96516,6 @@ quello accanto; quello della porta accanto
 nextdoor neighbor
 il vicino di casa; il vicino della porta accanto
 
-nazi germany
-la Germania nazista
-
 to take a look around
 dare un'occhiata in giro
 
@@ -99638,4 +99635,40 @@ attenzione, spoiler
 
 gauge; measuring instrument
 misuratore
+
+cutthroat; ruthless; cut-throat; assassin
+tagliagole; spietato; assassino
+
+savings book
+il libretto di risparmio
+
+accountant
+il ragioniere; la ragioniera
+
+small harbor; marina
+il porticciolo
+
+machine-gun burst
+la sventagliata di mitra
+
+extrajudicial
+extragiudiziale
+
+synopsis
+la sinossi
+
+butter chicken curry
+il pollo al curry con burro
+
+to call the whole thing off
+lasciare perdere tutto; lasciare perdere; annullare tutto
+
+ghoul
+il ghoul
+
+ghoulish
+macabro; spettrale
+
+Hungarian gulasch
+il gulasch ungherese
 
