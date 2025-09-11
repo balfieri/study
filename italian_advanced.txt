@@ -53338,7 +53338,7 @@ pianificare di (fare qualcosa)
 unhooked; detached
 sganciato; staccato
 
-to unhook
+to unhook; to unfasten; to unlatch; to drop (bomb); to fork over; to cough up; to lay out
 sganciare
 
 to have every right to be angry with
@@ -99707,4 +99707,7 @@ ricattabile
 
 to make smart choices
 fare scelte smart; fare scelte intelligenti
+
+Alzheimer's; Alzheimer's disease
+Alzheimer
 
