@@ -1499,3 +1499,6 @@ no, unless ATC specifically requests it
 
 When doing a circling approach to an MDA, can you still use an LPV glide path to get down to that circling MDA
 yes
+
+It is useful to put in the initial approach fix in a filed flight plan because
+1) it allows activating the approach sooner; 2) if you lose radio communications, ATC will know where you are heading
