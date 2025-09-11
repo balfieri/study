@@ -205,7 +205,7 @@ radar service terminated, so
 resume normal position reporting
 
 PRM
-RADAR system for monitoring approaches to two closely spaced parallel runways; the No Transgression Zone (NTZ) is kept clear by ATC to prevent conflicts
+RADAR system for monitoring approaches to two closely spaced parallel runways; the No Transgression Zone (NTZ) is kept clear by ATC to prevent conflicts; PRM approaches require additional pilot training; may require monitoring two tower frequencies
 
 required alternate must have 
 an approved instrument approach procedure other than GPS and it must be operational upon arrival, and aircraft must be equipped to fly it; WAAS GPS is exempt from this rule, but LNAV minimums must be used for planning
@@ -436,7 +436,7 @@ if you are heading north and turn to the east or west
 the compass will lag the turn and will show a slower rate of turn
 
 WAAS integrity monitoring
-uses ground-based stations along with satellites to provide immediate error correction and fault detection
+uses ground-based stations along with satellites to provide immediate error correction and fault detection; note that WAAS does not depend at all on RAIM, so it does not matter if RAIM fails as long as WAAS remains active
 
 RAIM integrity monitoring
 performs only horizontal consistency checks using satellites, with no vertical navigation support or real-time correction
@@ -633,9 +633,6 @@ points in an arbitrary direction
 during which phase of flight would ice accumulation on the leading edge of the wings have the greatest effect
 approach
 
-a precision runway monitor (PRM) approach may require
-simultaneously monitoring two tower frequencies
-
 CAS
 IAS corrected for instrument error, position errors, and installation error
 
@@ -772,7 +769,7 @@ when leveling off from a constant-speed descent, the pilot should lead the level
 50 feet
 
 a localizer symbol on a low-level IFR chart indicates
-the localizer has an additional navigation function
+the localizer has an additional navigation function, such as identifying a fix, a segment for en route navigation, or DME reference
 
 valid time frame for low-level significant weather prog charts
 12 to 24 hours in the future; issued at 00Z, 06Z, 12Z, and 18Z
@@ -829,7 +826,7 @@ VASI provides obstruction clearance within
 4 nautical miles of the runway and within 10 degrees of the extended runway centerline
 
 3 types of runway lights
-1) runway edge lights, abbreviated as MIRL and HIRL, are white lights along the runway edges; 2) runway end identifier lights, abbreviated as REIL, are a pair of synchronized flashing white lights located laterally on each side corner of the runway threshold; 3) in-runway center-line lighting, abbreviated as RCLS, are white lights down the runway centerline that sometimes change to alternating red and white colors on the last 3,000 feet of runway, and all red on the final 1,000 feet of runway length
+1) runway edge lights, abbreviated as MIRL and HIRL, are white lights along the runway edges; 2) runway end identifier lights, abbreviated as REIL, are a pair of synchronized flashing white lights located laterally on each side corner of the runway threshold; 3) in-runway center-line lighting, abbreviated as RCLS, are white lights down the runway centerline that sometimes change to alternating red and white colors on the last 3,000 feet of runway, and all red on the final 1,000 feet of runway length; you could also say that threshold lights are part of runway lights
 
 3 types of runway entrance lights at large airports
 1) Runway Entrance Lights (REL) are lights along the taxiway centerline that illuminate red when an aircraft is on final approach or on the runway; 2) Takeoff Hold Lights (THL) are a double row of lights on either side of the runway centerline that illuminate red when it would e unsafe to takeoff due to the runway being occupied by an aircraft or ground vehicle; 3) Runway Intersection Lights (TIL) are a double row of lights on either side of runway centerline at runway intersections that illuminate red when it is unsafe to cross the intersecting runway
@@ -1288,7 +1285,7 @@ when to force altimeter at 29.92
 when calculating PA for DA and TAS, when operating above 18000 ft MSL
 
 how to get TAS on airspeed indicator
-put outside air temperature over pressure altitude; can also use G5 to calculate it
+put outside air temperature over pressure altitude; can also use a G5 with a GAD 13 adapter for OAT, or a GTN 650 utilities to calculate it
 
 night currency requirements to carry passengers at night
 3 full-stop landings from 1 hour past sundown to 1 hour before sunrise within the last 90 days
@@ -1425,6 +1422,9 @@ climb toward the center of the airport and execute the missed procedure
 standard safety zone radii for circling approaches by aircraft category, in nautical miles
 A - 1.3; B - 1.5; C - 1.7; D - 2.3; E - 4.5
 
+standard obstacle clearance within circling approach area
+300 feet
+
 how to find the VOR test point on the ground
 consult the chart supplement; some airports have signage
 
@@ -1496,3 +1496,6 @@ Yes, and you should report it to ATC; losing the navigation system is an even la
 
 Does a pilot need to report entering or leaving a hold in lieu of procedure turn or other such course reversal
 no, unless ATC specifically requests it
+
+When doing a circling approach to an MDA, can you still use an LPV glide path to get down to that circling MDA
+yes
