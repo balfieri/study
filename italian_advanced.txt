@@ -15100,9 +15100,6 @@ parlare la stessa lingua
 to steer clear of
 tenersi alla larga da
 
-to stick around
-restare nei paraggi
-
 to be dying to
 non vedere l'ora di
 
@@ -33022,7 +33019,7 @@ la posterità; i posteri
 cost-reporting
 la rendicontazione
 
-to make go out
+to make go out; to let out
 far uscire
 
 handrail
@@ -99671,4 +99668,40 @@ macabro; spettrale
 
 Hungarian gulasch
 il gulasch ungherese
+
+plug (headphones)
+il jack; lo spinotto
+
+antique dealer
+l'antiquario
+
+to take possession; to seize
+impossessarsi
+
+right behind you
+proprio dietro di te
+
+spinoff
+lo spin-off
+
+dream job
+il lavoro dei sogni
+
+famous quote
+la citazione famosa
+
+belonging to
+appartenente a; di; appartenente
+
+belonged to
+appartenuto a
+
+awkwardly; clumsily
+maldestramente
+
+to be filmed; to be recorded
+essere ripresi
+
+blackmailable; able to be blackmailed; liable to be blackmailed
+ricattabile
 
