@@ -7983,3 +7983,6 @@ la band; il gruppo
 
 liar
 il bugiardo; la bugiarda
+
+what is happening?; what's going on?; what's up?
+cosa succede?
