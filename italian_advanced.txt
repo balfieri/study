@@ -63860,6 +63860,9 @@ Neptune
 window sill
 il davanzale della finestra
 
+sill (window)
+il davanzale
+
 bail
 la cauzione; il bail
 
@@ -99734,4 +99737,10 @@ inqualificabile
 
 to weigh the options
 valutare le opzioni
+
+attention span
+la soglia dell'attenzione
+
+low attention span
+la bassa soglia dell'attenzione
 
