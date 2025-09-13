@@ -1111,7 +1111,7 @@ IFR flight requires the following additional instruments over those for VFR:
 attitude indicator, heading indicator, turn coordinator, clock
 
 number of hours that a certified simulator can be used for instrument training
-BATD: 10 hours; AATD: 20 hours; and an instructor is no longer required to be present
+BATD: 10 hours; AATD: 20 hours; and an instructor is required to be present; an instructor need not be present once you have your instrument rating and you are using the simulator for currency
 
 takeoff weather minimums for IFR
 part 91: no minimums; commercial: those specified for airport, then the standard minimum of 1 statute mile of visibility, lowered to half mile for aircraft with more than two engines
@@ -1502,3 +1502,12 @@ yes
 
 It is useful to put in the initial approach fix in a filed flight plan because
 1) it allows activating the approach sooner; 2) if you lose radio communications, ATC will know where you are heading
+
+If you mistakenly enter into a thunderstorm
+disable autopilot, keep the wings level, don't worry about maintaining altitude, then start to make a shallow 180-degree turn back where you came from
+
+What to check during preflight for the presence of supercooled water droplets that could turn into structural ice
+termperature profiles, passing through clouds near freezing, visible moisture, icing AIRMET or SIGMET, Current Icing Product, Forecast Icing Product, PIREPs, presence of freezing rain, weather radar and satellite data
+
+two types of SIDs
+pilot-navigation SID and vector SID; can also have a hybrid SID
