@@ -99804,3 +99804,6 @@ la combustione spontanea
 anthrax
 l'antrace
 
+spillover; overflow; spillover effect
+l'eccesso; la ricaduta; la ripercussione
+
