@@ -16,7 +16,7 @@ FLAPS acronym for additional equipment required at night for VFR
 Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only when for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
 
 GRABCARDD acronym for additional equipment required for IFR
-Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball; Clock with second hand; Altimeter (pressure-sensitive); Rate of turn indicator; Directional gyroscope or HSI; DME at or above 24000 feet if VOR required
+Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball; Clock with second hand; Altimeter (pressure-sensitive); Rate of turn indicator; Directional gyroscope or HSI; DME at or above 24,000 feet if VOR required (may substitute GPS)
 
 ANDS
 WEST EAST: accelerate causes deflection toward north, decelerate toward south; note that a steady turn from east or west does cause compass to overshoot or undershoot
@@ -175,7 +175,7 @@ wind shear
 wind shift or wind speed gradient at any level of the atmosphere
 
 DME required at what altitude
-at least 24,000 feet MSL if VOR required
+at least 24,000 feet MSL if VOR required; GPS may be substituted
 
 if VDP publshed
 it is not included in sequence of GPS waypoints
@@ -493,7 +493,7 @@ ACS says that pilot must maintain selected headings
 plus or minus 10 degrees
 
 ACS says that pilot must track a selected course, radial, bearing, horizontal guidance, or vertical guidance  within
-three-quarter scale deflection of the CDI
+three-quarter scale deflection of the CDI; for VOR, this is about 7.5 degrees off course; for a localizer, this is about 1.9 degrees off course
 
 ACS says that a pilot must fly a DME arc within
 plus or minus 1 nautical mile
@@ -1104,7 +1104,7 @@ High Intensity Runway Lights; on edges of runway
 ALFS-2
 Approach Lighting System with Sequenced Flashing Lights; starting at the runway threshold and extending into the approach area for 2400-3000 feet
 
-skidding turn is more dangerous that a slipping turn because
+skidding turn is more dangerous than a slipping turn because
 skidding turn has higher risk of spin because the inside (low) wing can stall first, causing the aircraft to roll and enter a spin; with a slipping turn, the outside (high) wing is more likely to stall first, often returning the aircraft to coordinated flight
 
 IFR flight requires the following additional instruments over those for VFR: 
@@ -1507,7 +1507,16 @@ If you mistakenly enter into a thunderstorm
 disable autopilot, keep the wings level, don't worry about maintaining altitude, then start to make a shallow 180-degree turn back where you came from
 
 What to check during preflight for the presence of supercooled water droplets that could turn into structural ice
-termperature profiles, passing through clouds near freezing, visible moisture, icing AIRMET or SIGMET, Current Icing Product, Forecast Icing Product, PIREPs, presence of freezing rain, weather radar and satellite data
+temperature profiles, passing through clouds near freezing, visible moisture, icing AIRMET or SIGMET, Current Icing Product, Forecast Icing Product, PIREPs, presence of freezing rain, weather radar and satellite data
 
 two types of SIDs
 pilot-navigation SID and vector SID; can also have a hybrid SID
+
+VOR waypoint
+based on specific radials and distances from VOR ground stations
+
+what to include in an IFR position report
+tail number, reporting point or current position, zulu time, altitude, ETA and name of next reporting point, and possibly name or reporting point after the next
+
+types of parallel runway operations
+independent parallel approaches, dependent parallel approaches (staggering diagonal approaches), precision runway monitor (PRM, closely spaced runway less than 4300 feet apart, special training required)
