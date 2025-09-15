@@ -247,7 +247,7 @@ minimum equipment required to identify an intersection on a Victor airway
 one VOR receiver could be tuned alternately between two VORs
 
 contact approach
-upon request and authorization from ATC, while clear of clouds with at least one statute mile visiblity with the expectation of staying in those conditions, the pilot may deviate from the IAP and proceed to destination airport by visual reference
+upon request and authorization from ATC, while clear of clouds with at least one statute mile visiblity with the expectation of staying in those conditions, the pilot may deviate from the IAP and proceed to destination airport by visual reference; typically used when weather is below visual approach minimums
 
 WAAS receiver (unlike GPS receiver) will 
 sequence past the MAWP
@@ -625,7 +625,7 @@ on IFR low enroute altitude chart, pilot-controlled lighting at an airport is de
 black oval or circle with the letter L inside, next to the airport's frequency; for part-time or continuous, it is often denoted with a star symbol
 
 conditions necessary to be cleared for a visual approach
-ceiling of 1000 feet, 3 miles visibility
+pilot must have airport or preceding aircraft in sight, and be able to proceed visually clear of clouds; ceiling of 1000 feet, 3 miles visibility; conducted under IFR
 
 when tuned to a localizer, the HSI needle
 points in an arbitrary direction
@@ -1520,3 +1520,15 @@ tail number, reporting point or current position, zulu time, altitude, ETA and n
 
 types of parallel runway operations
 independent parallel approaches, dependent parallel approaches (staggering diagonal approaches), precision runway monitor (PRM, closely spaced runway less than 4300 feet apart, special training required)
+
+difference between a visual approach and a contact approach
+a visual approach requires the pilot to have the airport or preceding aircraft in sight, while a contact approach allows proceeding visually with reference to the ground and landmarks, even if the airport is not in sight, provided the pilot can remain clear of clouds with at least one statute mile visibility
+
+around a low-pressure center, where do we normally find cold and warm fronts
+air flows inward and upward around a low-pressure system; a cold front usually extends southward or southwestward, while a warm front projects eastward or northeastward
+
+around a high-pressure center, where do we normally find cold and warm fronts
+fronts do not form within the central area of a high-pressure system because air flows away from high pressure; fronts instead are found outside the high-pressure system at troughs
+
+how to do a CTAF radio call when breaking off an approach during a circling approach
+Raleigh Exec traffic, Skyhawk 53587, breaking runway 2-1 approach, entering a low left downwind for runway 3, Raleigh Exec
