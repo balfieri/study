@@ -44299,9 +44299,6 @@ idratante
 hair trimmer
 il tagliapeli
 
-dachshund
-il bassotto
-
 groomer
 il toelettatore; la toelettatrice
 
@@ -99833,4 +99830,7 @@ il dissalatore
 
 incursion; trespass; exceeding boundaries
 lo sconfinamento
+
+dachshund; basset; sausage dog; wiener dog
+il bassotto
 
