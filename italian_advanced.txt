@@ -85927,7 +85927,7 @@ yes, there is; of course there is
 sì che c'è
 
 parade; fashion show; procession
-la sfilata
+la sfilata; la sfilata di moda
 
 loveliness; beauty
 la bellezza; la leggiadria
@@ -99863,4 +99863,7 @@ il lasco
 
 collection (money); fundraising
 la colletta
+
+headland; point leader; chief of point
+il capo di punta
 
