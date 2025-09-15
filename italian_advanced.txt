@@ -99834,3 +99834,6 @@ lo sconfinamento
 dachshund; basset; sausage dog; wiener dog
 il bassotto
 
+wild sleeper
+il dormiglione agitato; la dormigliona agitata
+
