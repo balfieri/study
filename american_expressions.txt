@@ -6141,9 +6141,6 @@ prendersela comoda con (qualcosa); metterci tutto il tempo che si vuole con (qua
 to head-butt (somebody)
 dare una testata a (qualcuno)
 
-headbutt
-la testata
-
 to be in a house of pain
 essere in una casa del dolore; essere in una casa di sofferenza
 
@@ -6479,3 +6476,10 @@ versare una lacrima per (qualcuno)
 
 to play it cool
 restare calmo; mantenere la calma; comportarsi con disinvoltura
+
+to cut (somebody) some slack
+tagliare un po' di lasco a (qualcuno)
+
+to be all washed up
+essere finiti; non avere più nulla da offrire
+
