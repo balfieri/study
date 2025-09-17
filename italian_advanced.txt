@@ -99965,3 +99965,6 @@ extracurricolare
 
 hyena
 l'iena
+
+bariatric
+bariatrico
