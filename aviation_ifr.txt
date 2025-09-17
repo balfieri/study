@@ -976,7 +976,7 @@ outbound destination sign signifies
 direction to takeoff runway
 
 bright runway and approach lights where few lights are illuminating can create the illusion of
-being closer to the runway that you actually are
+being closer to the runway than you actually are
 
 with an Expect Departure Clearance Time (EDCT), aircraft are expected to depart
 between 5 minutes before and 5 minutes after the EDCT

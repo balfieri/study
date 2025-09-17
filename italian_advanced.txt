@@ -12620,7 +12620,10 @@ demanding; picky; exacting
 esigente
 
 demanding; challenging
-impegnativo; sfidante
+impegnativo
+
+challenging (stimulating or ambitious task)
+sfidante
 
 I'm in the middle of
 sono nel bel mezzo di
@@ -99950,3 +99953,15 @@ la placca tettonica
 
 forced oblivion
 l'oblio obbligato
+
+beaten up; roughed up
+malmenato
+
+curricular
+curricolare
+
+extracurricular
+extracurricolare
+
+hyena
+l'iena
