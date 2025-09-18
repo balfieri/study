@@ -100037,3 +100037,10 @@ il gruppo di apertura; l'artista di apertura
 
 cover band
 il gruppo che fa cover; la cover band; il gruppo cover
+
+harmonicist
+l'armonicista
+
+jam band
+il gruppo jam; il gruppo musicale improvvisato
+
