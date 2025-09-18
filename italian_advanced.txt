@@ -70779,7 +70779,7 @@ presale
 la prevendita
 
 concert venue
-il luogo del concerto
+la sala concerti; lo spazio per concerti; il luogo del concerto
 
 to set up; to prepare
 allestare
@@ -100028,3 +100028,12 @@ il posto fisso
 
 to be a big fan of
 essere un grande fan di
+
+to regret it; to repent for it; to be sorry about it
+pentirsene
+
+opening act
+il gruppo di apertura; l'artista di apertura
+
+cover band
+il gruppo che fa cover; la cover band; il gruppo cover
