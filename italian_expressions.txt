@@ -3613,3 +3613,6 @@ in ghingheri
 the buzz hits you immediately; you feel the hit right away
 ti sale subito la botta
 
+to make a bang
+far fare il botto
+
