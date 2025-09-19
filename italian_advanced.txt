@@ -2275,6 +2275,9 @@ là fuori; lì fuori
 thorough; meticulous; detailed
 meticoloso; accurato; completo; minuzioso; dettagliato
 
+to get away from; to escape; to avoid
+sfuggire a
+
 to get out of control
 sfuggire al controllo
 
@@ -100079,3 +100082,7 @@ io penso,; io sono tipo,
 
 somewhat normal
 abbastanza normale
+
+you can't get away from me; you can't escape me
+non puoi sfuggire a me; non puoi allontanarti da me
+
