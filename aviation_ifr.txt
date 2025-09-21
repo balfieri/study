@@ -1532,3 +1532,6 @@ fronts do not form within the central area of a high-pressure system because air
 
 how to do a CTAF radio call when breaking off an approach during a circling approach
 Raleigh Exec traffic, Skyhawk 53587, breaking runway 2-1 approach, entering a low left downwind for runway 3, Raleigh Exec
+
+When an approach plate says DME/DME RNP-0.3 NA, it means that 
+aircraft relying solely on DME/DME area navigation systems to meet a Required Navigation Performance (RNP) of 0.3 nautical miles are not authorized to conduct this approach.
