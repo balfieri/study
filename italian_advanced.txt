@@ -66455,7 +66455,7 @@ il rovesciamento
 middle man
 l'intermediario
 
-eliminate the middle man
+to eliminate the middle man
 eliminare l'intermediario
 
 nourishment
@@ -100217,5 +100217,14 @@ lo stato di allerta
 
 to suffering from jet lag
 soffrire di jet lag
+
+freedom of expression
+la libertà d'espressione
+
+encrypted
+crittografato
+
+trifecta
+la tripletta
 
 
