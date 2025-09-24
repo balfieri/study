@@ -1535,3 +1535,6 @@ Raleigh Exec traffic, Skyhawk 53587, breaking runway 2-1 approach, entering a lo
 
 When an approach plate says DME/DME RNP-0.3 NA, it means that 
 aircraft relying solely on DME/DME area navigation systems to meet a Required Navigation Performance (RNP) of 0.3 nautical miles are not authorized to conduct this approach.
+
+When rolling out to a north or south heading, specifically you should roll out
+at your latitude plus or minus 15 divided by 2; for Sanford, this is 35.5 + 7.5, or 43 degrees, before north or after south

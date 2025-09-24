@@ -100227,4 +100227,35 @@ crittografato
 trifecta
 la tripletta
 
+target user
+l'utente target; l'utente di riferimento
 
+target student
+lo studente target; lo studente di riferimento
+
+to target
+prendere di mira; puntare
+
+skateboarding
+lo skateboarding; lo skateboard
+
+quiescent
+quiescente; inattivo
+
+to tether
+legare; assicurare con una fune
+
+to untether
+sganciare; liberare
+
+completely untethered
+completamente sganciato; completamente libero
+
+vacation destination
+la meta di vacanza; la destinazione turistica
+
+delinquent
+delinquente
+
+pandemonium
+il pandemonio
