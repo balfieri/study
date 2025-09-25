@@ -34451,7 +34451,7 @@ we are down here
 siamo qui sotto
 
 fiercely independent
-fieramente indipendente; fortamente indipendente
+fieramente indipendente; fortamente indipendente; feroce indipendente
 
 it's the only thing we know for sure
 è l'unica cosa di cui siamo sicuri
@@ -34813,7 +34813,7 @@ non dovevi
 righteous indignation
 l'indignazione giusta
 
-despicable
+despicable; vile
 spregevole
 
 to patch things up
@@ -35422,7 +35422,7 @@ la creatura d'abitudine; la persona abitudinaria
 obsessive-compulsive disorder (OCD)
 il disturbo ossessivo-compulsivo (DOC)
 
-habitual (negative); set in one's ways
+habitual (negative); set in one's ways; creature of habig
 abitudinario
 
 mugshot
@@ -49146,9 +49146,6 @@ ribattezzato
 
 Peruvian
 peruviano
-
-to pass the buck
-rimpallarsi
 
 injunction
 l'ingiunzione
@@ -67274,7 +67271,7 @@ si è girato e mi ha detto di tacere
 it can't be that terrible
 non può essere così terribile
 
-shutdown; turning off
+shutdown; turning off; powering off
 lo spegnimento
 
 scan
@@ -68521,9 +68518,6 @@ il tempo di consegna
 
 art restoration
 il restauro d'arte
-
-fiercely independent
-feroce indipendente
 
 to go hunting for
 andare a caccia di
@@ -99816,9 +99810,6 @@ la cometa
 generational wealth
 la ricchezza generazionale
 
-to annex
-annettare
-
 crash
 il crac
 
@@ -100275,3 +100266,92 @@ pranzare tardi; fare un pranzo tardo
 to have a late dinner
 cenare tardi; fare una cena tarda
 
+sorry
+rammaricato
+
+rapid descent; steep descent; fast descent
+la discesa rapida
+
+to somatize
+somatizzare
+
+top-notch; excellent; of the highest quality
+di altissimo livello; eccellente; di prima qualità
+
+fish and chips
+i fish and chips
+
+uncanny valley
+la valle perturbante; la uncanny valley
+
+venue
+il luogo dell'evento; la sede; la location
+
+newshound
+il segugio di notizie; il giornalista appassionato
+
+Glasgow
+Glasgow
+
+to take steps
+compiare passi
+
+to keep afloat
+tenere a galla
+
+to barely hide; to hide with difficulty
+nascondere a stento
+
+disorientation
+il disorientamento
+
+right next to; just beside
+proprio a ridosso di
+
+in close contact
+in assiduo contatto
+
+to have to do with; to be related to
+avere a che vedere con
+
+opinion vote; public opinion
+il voto di opinione
+
+Court of Auditors
+la Corte dei Conti
+
+to have a nice day; to spend a nice day
+passare una bella giornata
+
+to propose (marriage) to (somebody)
+chiedere a (qualcuno) di sposarlo; fare la proposta di matrimonio a (qualcuno)
+
+gender division
+la divisione di genere
+
+to aim for the stars; to shoot for the stars
+puntare alle stelle; mirare alle stelle
+
+paramotor
+il paramotore
+
+calm; placid
+placido
+
+to treat (someone)      
+trattare (qualcuno)
+
+teleprompter
+il teleprompter
+
+infighting
+le lotte intestine; i conflitti interni
+
+bulkhead
+la paratia
+
+flip-flops; slippers
+le ciabatte
+
+to do things in a flashy way; to show off; to go crazy; to lose your mind
+smattere

@@ -187,7 +187,7 @@ red tape
 le scartoffie
 
 to pass the buck
-passare la palla; fare a scaricabarile
+passare la palla; fare a scaricabarile; rimpallarsi; scaricare la responsabilità; scaricare la colpa
 
 great minds think alike
 le grandi menti pensano allo stesso modo
@@ -2375,9 +2375,6 @@ dare una possibilità a qualcosa; valutare qualcosa in modo equo
 
 looney tunes
 pazzo; folle
-
-to pass the buck to (somebody)
-scaricare la responsabilità su (qualcuno); scaricare la colpa su (qualcuno)
 
 to reach out to (somebody)
 contattare (qualcuno); comunicare con (qualcuno)
@@ -6524,3 +6521,10 @@ fermo come un baccalà; come un pezzo di legno
 
 nudge (Yiddish word)
 il ficcanaso; l'impiccione
+
+to be bonkers
+essere è una follia; è una pazzia
+
+to trip (drugs)
+dare trip
+
