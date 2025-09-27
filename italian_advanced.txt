@@ -59423,7 +59423,7 @@ prima,
 recruited
 reclutato
 
-to slaughter; to butcher
+to slaughter; to massacre; to butcher; to slay
 trucidare; macellare
 
 to bar; to block
@@ -100418,4 +100418,7 @@ il progresso nella scienza; l'avanzamento nella scienza
 
 coming into force; coming into effect
 l'entrata in vigore
+
+slain; massacred; slaughtered
+trucidato
 
