@@ -4894,8 +4894,8 @@ il piano cottura; il piano di cottura
 burner (stovetop)
 il fornello; i fornelli
 
-hot plate (for pots)
-il sottopentola; il pioggiapentola
+hot plate (for pots); trivet
+il sottopentola; il pioggiapentola; il trespolo
 
 meek
 mansueto
@@ -47941,7 +47941,7 @@ il balneare
 replenishment
 il ripascimento
 
-inevitable
+inevitable; inescapable
 ineluttabile
 
 stenographer
@@ -55399,7 +55399,7 @@ l'esemplare
 tester (person)
 il collaudatore
 
-set aside
+set aside; shelved
 accantonato
 
 puncture
@@ -80133,9 +80133,6 @@ vivere sotto i riflettori
 universal dream
 il sogno universale
 
-all the world is indeed a stage
-tutto il mondo è davvero un palcoscenico
-
 we are merely players, performers and portrayers
 siamo solo attori, interpreti e ritrattisti
 
@@ -100427,4 +100424,139 @@ liberato; slegato; svincolato
 
 office job
 la mansione d'ufficio
+
+boggy; marshy
+acquitrinoso; pantanoso; paludoso
+
+wellies; rubbers; golashes
+i stivali di gomma; le galosce
+
+five and a half million (something)
+cinque milioni e mezzo di (qualcosa)
+
+to have a complex
+avere un complesso
+
+mindboggling
+incredibile; stupefacente; sconvolgente
+
+triplets
+i trigemini; i tre gemelli
+
+quadruplets
+i quadrigemini; i quattro gemelli
+
+quintuplets
+i quintupletti; i cinque gemelli
+
+short thesis; term paper
+la tesina
+
+cognition
+la cognitività
+
+to get anxious; to become anxious
+andare in ansia
+
+postpartum depression
+la depressione postpartum
+
+perfect foil
+il contraltare perfetto; il complemento perfetto
+
+what's it like?
+com'è; che cosa si prova?
+
+to set aside; to put aside; to shelve
+accantonare
+
+to get rid of; to remove
+togliere di torno
+
+enabling law
+la legge delega
+
+floating keyboard
+la tastiera fluttuante
+
+illiberal
+illiberale
+
+I really saw it; I saw it for sure
+l'ho visto proprio
+
+sponsorship; patronage
+la madrinatura
+
+I now have a good idea of what (something) is like
+ora ho una buona idea di com'è (qualcosa)
+
+to go after (somebody)
+inseguire (qualcuno); andare dietro a (qualcuno)
+
+neurodivergence
+la neurodivergenza
+
+pliable
+malleabile; flessibile; plasmabile
+
+to swipe right
+scorrere verso destra; fare swipe a destra
+
+to swipe left
+scorrere verso sinistra; fare swipe a sinistra
+
+to swipe up
+scorrere verso l'alto; fare swipe in su
+
+to swipe down
+scorrere verso il basso; fare swipe in giù
+
+ready to go
+pronto a partire; pronto ad andare
+
+it's a whole bunch of work
+è un sacco di lavoro
+
+common denominator
+il comun denominatore
+
+unrealistic; wishful; utopian
+velleitario
+
+subalternity; subordination
+la subalternità
+
+leading reality; prominent reality
+la realtà di primo piano
+
+seed funding; seed investment
+i finanziamenti seed
+
+NGO
+la Ong
+
+barrage; fusillade; volley
+il fuoco di fila
+
+level increase; upgrading
+l'innalzamento di livello
+
+Melonian (of Giorgia Meloni)
+meloniano
+
+anything can happen; everything can happen
+può succedere di tutto
+
+gag reflex
+il riflesso faringeo; il riflesso del vomito
+
+egg over easy
+l'uovo cotto all'occhio di bue e girato; uovo all'americana girato
+
+egg sunny side up
+l'uovo all'occhio di bue
+
+organ meat
+le frattaglie
 
