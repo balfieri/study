@@ -37942,7 +37942,7 @@ nativo americano
 toll
 il pedaggio
 
-boarding; collision; allision
+boarding; collision; approach
 l'abbordaggio
 
 processing
@@ -100682,4 +100682,3 @@ la pinseria
 
 by blood
 di sangue
-
