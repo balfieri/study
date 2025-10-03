@@ -100820,3 +100820,7 @@ la resa; la capitolazione
 
 instrument-rated pilot; instrument pilot
 il pilota strumentale
+
+remaining time
+il tempo rimanente
+
