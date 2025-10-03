@@ -68897,7 +68897,7 @@ brontolone; brontolona
 coral
 corallo
 
-enclosure; pen; corral
+enclosure; pen; corral; fence
 il recinto; la penna; il corral
 
 turquoise
@@ -100809,3 +100809,14 @@ gallese
 welshman; welshwoman
 il gallese; la gallese
 
+order to resume work; requisition; compulsory enlistment
+la precettazione
+
+training ground; practice park
+il parco di allenamento
+
+capitulation
+la resa; la capitolazione
+
+instrument-rated pilot; instrument pilot
+il pilota strumentale
