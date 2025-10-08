@@ -31,7 +31,7 @@ what happens during an instrument proficiency check (IPS)
 no ground work, but flight covers same things as in an instrument check ride
 
 VOT on ground
-need to be on 360 radial, plus or minus 4 degrees 180 TO or 360 FROM; if a VOT is present, the chart supplement will indicate the frequency and where on the airfield it can be used, such as a specific ramp or taxiway location
+need to be on 360 radial, plus or minus 4 degrees 180 TO or 360 FROM
 
 how to check on the proper automated approach
 ensure glide slope needle frozen in the center
@@ -1473,9 +1473,7 @@ the GPS must have sensitivity of 1 mile laterally for entry in terminal mode, an
 when an ILS plate says that DME is required for LOC
 you may always use GPS in lieu of DME
 
-if radio communications are lost during IFR flight and arrival at the clearance limit occurs during lost communications, there are two possible actions according to CFR 91.185:
-1) If the clearance limit is a fix from which an approach begins, commence descent and approach as close as possible to the expect-further-clearance (EFC) time if one was received, or if there was no EFC time, as close as possible to the estimated time of arrival (ETA) calculated from the filed or amended estimated time en route, OR 2) If the clearance limit is not a fix from which an approach begins, leave the clearance limit at the EFC time if one was received, or if not, upon arrival at the clearance limit, then proceed to a fix from which an approach begins and commence descent and approach as close as possible to the ETA as calculated from the filed or amended estimated time en route
-
+if radio communications are lost during IFR flight and arrival at the clearance limit occurs before the estimated time of arrival (ETA), the initial step is to 
 proceed to the fix from which an instrument approach begins (usually the initial approach fix), hold there, and time the commencement of the approach so as to arrive at the destination as close as possible to the ETA specified in the flight plan
 
 Terminal Arrival Area (TAA) on an approach plate

@@ -24346,6 +24346,9 @@ il volto
 to coincide
 coincidere
 
+to coincide with; to overlap with
+coincidere con
+
 altogether; overall
 complessivamente
 
@@ -32245,7 +32248,7 @@ non tollero il lattosio
 hearing aid
 l'apparecchio acustico
 
-to set aside; to put asside; to set aside
+to set aside; to put aside; to set aside
 accantonare; mettere da parte
 
 to sauté
@@ -64262,7 +64265,7 @@ il controllo di qualità
 by profession; by trade
 per mestiere; di professione
 
-safe deposit box
+safe deposit box; lockbox
 la cassetta di sicurezza
 
 teacup Yorkie
@@ -100824,3 +100827,161 @@ il pilota strumentale
 remaining time
 il tempo rimanente
 
+to tire out (somebody); to wear (somebody) out
+sfinire (qualcuno); stancare (qualcuno)
+
+to gang up on (somebody)
+coalizzarsi contro (qualcuno)
+
+inequality (math)
+la disequazione
+
+awkward; clumsy; klutzy
+goffo; maldestro; impacciato
+
+to issue (something); to release (something); to send out (something)
+emettere (qualcosa); rilasciare (qualcosa)
+
+would you like to sit down?
+vuoi sederti?; desideri sederti?
+
+waterfront property
+la proprietà sul lungomare
+
+lakefront property
+la proprietà sul lago
+
+nail clippers
+il tagliaunghie
+
+my condolences to (somebody)
+le mie condoglianze a (qualcuno)
+
+give my condolences to (somebody)
+dai le mie condoglianze a (qualcuno)
+
+please give my condolences to (somebody)
+per favore, dai le mie condoglianze a (qualcuno)
+
+sex worker
+il lavoratore sessuale; la lavoratrice sessuale; il sex worker; la sex worker
+
+to lay off employees
+licenziare dei dipendenti
+
+by appointment only; by prior appointment
+previo appuntamento
+
+in the middle of the night
+nel mezzo della notte; a notte fonda
+
+theft report
+la denuncia del furto
+
+to carefully cut out
+tagliare con attenzione
+
+to scurry to (do something)
+affrettarsi a (fare qualcosa)
+
+foundational
+fondativo
+
+ski slope
+la pista da sci
+
+lightening load; relief load
+la carica di alleggerimento
+
+afternoon snack (Piedmontese term)
+il sinoiro
+
+to play devil's advocate
+fare l'avvocato del diavolo
+
+to put to the test; to push to the limit
+mettere a dura prova
+
+to recover from a setback; to bounce back
+riprendersi da una battuta d’arresto
+
+shears for fabric; large scissors for tailoring
+il forbizio
+
+Eros (love, desire)
+Eros
+
+little fly
+il moschino
+
+factuality
+la fattualità
+
+pilot fish
+il pescepilota
+
+attached to his grandmother
+legato a sua nonna
+
+a hassle; a pain; a drag
+uno sbatti
+
+late-night trip to the bathroom
+l'uscita notturna in bagno
+
+on the way to the bathroom
+sulla strada per il bagno
+
+out of shape
+fuori forma
+
+hardliner; extremist
+l'oltranzista
+
+supporter of Schlein (political)
+schleiniano
+
+supporter of Renzi (political)
+renziano
+
+massacre; carnage
+la carneficina
+
+to get back to sleep
+riaddormentarsi
+
+in terms of age
+anagraficamente
+
+to get involved with
+coinvolgersi con
+
+analog person
+la persona analogica
+
+to hurry up; to get something done quickly
+spicciare
+
+friendly; amicable
+amicale
+
+blue period; sad period
+il periodo blu
+
+to go get treatment; to get oneself treated
+farsi curare
+
+fraud; phony woman
+la cialtrona
+
+to be cheated on; to be cuckolded
+essere cornuti
+
+very sad; big sad
+tristone
+
+big bangs (as in hair)
+i frangettoni
+
+bland; tasteless
+sciappato
