@@ -1538,3 +1538,48 @@ aircraft relying solely on DME/DME area navigation systems to meet a Required Na
 
 When rolling out to a north or south heading, specifically you should roll out
 at your latitude plus or minus 15 divided by 2; for Sanford, this is 35.5 + 7.5, or 43 degrees, before north or after south
+
+TAF HZ
+haze
+
+TAF +TSRA
+heavy thunderstorms
+
+TAF -RA
+light rain
+
+TAF NSW
+no significant weather
+
+TAF DU
+widespread dust
+
+TAF +VA
+heavy vulcanic ash
+
+TAF +RADZ
+heavy drizzle
+
+TAF -DZ
+light drizzle
+
+TAF +RAGR
+hail or granular precipitation
+
+TAF BECMG
+becoming, gradual changes
+
+TAF TEMPO
+temporary, events expected for less than one hour at a time, total less than half period
+
+TAF SHSN
+snow showers
+
+TAF BLSN
+blowing snow
+
+if VOT is present, it will specify
+the frequency and indicate where on the airfield it can be used, such as a specific ramp or taxiway location
+
+according to 14 CFR 91.185, when reaching a clearance limit during lost communications:
+1) If the clearance limit is a fix from which an approach begins, commence descent and approach as close as possible to the expect-further-clearance (EFC) time if one was received, or if there was no EFC time, as close as possible to the estimated time of arrival (ETA) calculated from the filed or amended estimated time en route. 2) If the clearance limit is not a fix from which an approach begins, leave the clearance limit at the EFC time if one was received, or if not, upon arrival at the clearance limit. Then proceed to a fix from which an approach begins and commence descent and approach as close as possible to the ETA as calculated from the filed or amended estimated time en route
