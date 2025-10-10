@@ -61349,7 +61349,7 @@ il sacco della spazzatura
 mayonnaise
 la maionese
 
-trivially
+trivially; boringly; mundanely; banally; tritely
 banalmente; in modo banale
 
 to crack (code, security)
@@ -101007,3 +101007,14 @@ rivivere la propria infanzia
 excommunicated
 scomunicato
 
+to succeed in (something)
+riuscire in (qualcosa)
+
+to be married to (somebody)
+essere sposato con (qualcuno)
+
+pleasant scent; agreeable perfume; nice fragrance
+il profumo gradevole
+
+epochal return; history-making return
+il ritorno epocale
