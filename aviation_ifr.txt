@@ -25,10 +25,10 @@ UNOS
 undershoot turn to or from north, overshoot turn to or from south
 
 6HIT acronym for IFR currency
-in the prior 6 calendar months, the pilot must perform 6 instrument approaches, holds, incercepting fixes, and tracking courses; otherwise, the pilot must get an Instrument Proficiency Check (IPC) from a CFII
+in the prior 6 calendar months, the pilot must perform 6 instrument approaches, hold (at least one), intercepting fixes, and tracking courses; otherwise, the pilot must get an Instrument Proficiency Check (IPC) from a CFII
 
-what happens during an instrument proficiency check (IPS)
-no ground work, but flight covers same things as in an instrument check ride
+what happens during an instrument proficiency check (IPC)
+no ground work, but flight covers same things as in an instrument check ride; some tasks may be completed in an AATD
 
 VOT on ground
 need to be on 360 radial, plus or minus 4 degrees 180 TO or 360 FROM
@@ -505,7 +505,7 @@ ACS says regarding the choice of approach procedures
 at least one procedure must include a course reversal maneuver, one procedure must be done manually from the IAF (but can use the flight director), one procedure must be flown partial panel, and at least one procedure must be a precision approach using the autopilot
 
 IFR is required when
-flying into controlled airspace in IMC, anytime flying in class A, flying special VFR at night, acting as a commercial pilot more than 50 nautical miles away during the day or anytime at night
+flying into controlled airspace in IMC, anytime flying in class A, flying special VFR between sunset and sunrise, acting as a commercial pilot more than 50 nautical miles away during the day or anytime at night
 
 minimum requirements of a safety pilot
 holds private pilot in type of airplane being flown; has current medical certificate; need not be current with flight review
@@ -556,7 +556,7 @@ full-scale deflection of localizer
 2.5 degrees, so each dot is 0.5 degrees; width of signal is 3 to 6 degrees; 700 feet wide at runway threshold
 
 width of ILS glide slope signal
-1.4 degrees
+1.4 degrees; range of 10 nautical miles
 
 false glide slope issue with ILS
 lobes of glide slope reflect off the ground and end up way higher, which cause the navigation system to get confused if the aircraft is too high
@@ -1344,6 +1344,9 @@ level wings, talk to ATC
 when must a pilot abide by the VDP
 never, it is advisory; however it is highly recommended that a pilot not descend until reaching the VDP and to go missed if the runway environment is not visible at the VDP; the VDP provides a 3-degree slope
 
+when must a pilot abide by the VDA (visual descent angle)
+never, it is advisory only
+
 when deciding whether to land, how relevant are the ceilings reported by the AWOS/ATIS
 ceilings are irrelevant to the landing decision, except for part 135 which must have sufficient ceilings before proceeding past the final approach fix
 
@@ -1633,7 +1636,7 @@ how to counter reverse sensing when flying an approach with a VOR
 set your needle to the inbound course of the localizer front course, and fly the tail of the needle
 
 course width of an SDF
-fixed at 6 or 12 degrees
+fixed at 6 or 12 degrees; may or may not be aligned with runway
 
 full scale deflection o a VOR approach
 10 degrees of centerline
@@ -1642,10 +1645,43 @@ PAR vs. ASR
 PAR: controller provides both azumuth and elevation guidance; ASR: azimuth guidance only
 
 procedure turn is not required when
-there is a NoPT remark; directed by ATC; radar-vectored to final; timed approach from a holding fix; holding or teardrop depicted instead of a PT
+there is a NoPT remark; directed by ATC; radar-vectored to final; timed approach from a holding fix; holding or teardrop depicted instead of a PT; flying DMA arc
 
 how to calculate VDP distance from touchdown zone
 height above touchdown divided by 300
 
 how to calculate the 3-1 rule for descents
 feet you want to lose divided by 1000, the multiply by 3, yielding miles
+
+equivalent airspeed (EAS)
+calibrated airspeed corrected for compressibility error
+
+maximum airpseeds in the United States
+Mach 1.0 above 10,000 feet; 250 knots below 10,000 feet; 200 knots under class B airspace or inside a VFR corridor through class B; 200 knots below 2500 feet within 4 nautical miles of class C or D airport
+
+required IFR filed altitudes
+may not be less than minimum for published segments, plus other restrictions for east and west, mountainous vs. non-mountainous
+
+sensitivity of localizer vs. VOR
+4 times more sensitive than a VOR; range around 18 nautical miles
+
+RNAV (RNP) approach
+requires authorization by FAA; other countries have RNP in the title
+
+if not equipped to fly a VDP
+fly the approach as if no VDP was published
+
+a solid black dot above an approach lighting letter identifier indicates
+a sequence of flashing lights
+
+negative approach lighting letter identifier symbology indicates
+pilot-controlled lighting
+
+during the cumulus stage of a thunderstorm, supercooled water molecules exist once
+the cloud reaches the freezing level
+
+during the mature stage of a thunderstorm, the anvil shape forms when
+water molecules are pushed into the higher parts of the cloud
+
+dynamic hydroplaning occurs when
+the ground speed is at 8.73 times the square root of the main tires' pressure
