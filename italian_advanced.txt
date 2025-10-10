@@ -101022,3 +101022,6 @@ il ritorno epocale
 clear message
 il messaggio chiaro; il messaggio limpido
 
+piano player; player of the piano; pianist
+il pianista; la pianista; il suonatore di pianoforte; la suonatrice di pianoforte
+
