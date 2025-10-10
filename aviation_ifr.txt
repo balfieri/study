@@ -247,7 +247,7 @@ minimum equipment required to identify an intersection on a Victor airway
 one VOR receiver could be tuned alternately between two VORs
 
 contact approach
-upon request and authorization from ATC, while clear of clouds with at least one statute mile visiblity with the expectation of staying in those conditions, the pilot may deviate from the IAP and proceed to destination airport by visual reference; typically used when weather is below visual approach minimums
+upon request and authorization from ATC, while clear of clouds with at least one statute mile visiblity with the expectation of staying in those conditions, the pilot may deviate from the IAP and proceed to destination airport by visual reference; typically used when weather is below visual approach minimums; pilot responsible for obstruction clearance
 
 WAAS receiver (unlike GPS receiver) will 
 sequence past the MAWP
@@ -397,7 +397,7 @@ primary benefits of satellite based area navigation (RNAV)
 provides optimal routing and altitudes
 
 convective outlook for following 24-hour period
-describes areas of slight, moderate, or high risk of thunderstorms
+describes areas of slight, moderate, or high risk of thunderstorms; 3-day forecast
 
 when a holding pattern is specified in lieu of a procedure turn, the holding maneuver must be executed within
 the 1-minute time limitation or DME distance as specified in the profile view
@@ -526,7 +526,7 @@ on IFR low enroute chart, hash marks around a waypoint means
 there are different altitudes on each side of the waypoint
 
 on IFR low enroute chart, blue vs. black vs. brown routes
-blue is for RNAV route (usually GPS), black is for VOR route; brown is for military training route
+blue is for RNAV route (usually GPS), black is for VOR route; brown is for military training route (below 1500 feet AGL)
 
 with MON VORs, can get to any airport within
 100 nautical miles
@@ -1198,7 +1198,7 @@ when to check that GPS level has been achieved
 when identifying navaids; first fix on initial fix on final approach segment; check during before-landing checklist
 
 RNAV RNP 0.3 approach
-precise type of instrument approach used in aviation, where the navigation system on the aircraft must be able to keep the plane within 0.3 nautical miles of its intended flight path 95% of the time during certain approach segments
+precise type of instrument approach used in aviation, where the navigation system on the aircraft must be able to keep the plane within 0.3 nautical miles of its intended flight path 95% of the time during certain approach segments; all RNAV approaches are RNP approaches
 
 when to disengage autopilot
 when it doesn't do what it is supposed to; during icing; during engine failure; during severe turbulence
@@ -1411,7 +1411,7 @@ SIGMETs
 convective; severe icing; severe turbulence; IMC due to dust/sand/volcanic ash
 
 convective SIGMET
-embedded thunderstorms; a line of thunderstorms; thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3000 square miles; surface winds of 50 knots or more; hail at the surface greater than or equal to 3/4 inches in diameter; tornadoes
+embedded thunderstorms; a line of thunderstorms; thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3000 square miles; surface winds of 50 knots or more; hail at the surface greater than or equal to 3/4 inches in diameter; tornadoes; issued 55 minutes past the hour (except in Alaska or Hawaii); valid for 2 hours
 
 VOR vs. ILS
 VOR provides only horizontal guidance; ILS provides horizontal and vertical guidance, and much more precisely; ILS operates in only one direction along the runway; VOR can be used for any radial; ILS can be used for a single precise course and glide scope
@@ -1644,8 +1644,8 @@ full scale deflection o a VOR approach
 PAR vs. ASR
 PAR: controller provides both lateral and vertical guidance; ASR: lateral guidance only
 
-procedure turn is not required when
-there is a NoPT remark; directed by ATC; radar-vectored to final; timed approach from a holding fix; holding or teardrop depicted instead of a PT; flying DMA arc
+SHARP TT acronomym for when to not fly procedure turn
+S: straight-in clearance; H: holding in lieu of PT; D: DME arc; R: radar vectors to final; P: No PT on plate; T: timed approach from holding fix; T: teardrop course reversal
 
 how to calculate VDP distance from touchdown zone
 height above touchdown divided by 300
@@ -1778,3 +1778,48 @@ P: pilot ready, A: aircraft airworthy, V: environment, E: external pressures
 
 PPPPP acronym for risk mitigation
 pilot, passengers, plane, programming, plan
+
+cruise clearance
+ATC allocates block of airspace, starting at minimum IFR altitude and extends through altitude specified in clearance; may also begin approach at destination without receiving an additional approach clearance
+
+minimum IFR altitude
+minimum altitudes prescribed for flown segment, else the mountainous vs. non-mountainous rule
+
+if both an MEA and a MOCA are prescribed for a particular route segment, a person may operate an aircraft 
+lower than the MEA down to, but not below the MOCA, provided the applicable navigation signals are available; for aircraft using VOR for navigation, this applies only when the aircraft is within 22 NM of the VOR
+
+turn-and-slip indicator shows
+rate of turn only, not rate of roll
+
+high to low, watch out below
+use caution when flying from high pressure to low pressure areas; if altimeter setting is not updated, altitude will indicate higher, causing the pilot to fly lower than desired; flying from hot to cold areas results in the same error
+
+if operating for hire over water and beyond power-off gliding distance from shore: (unless Part 121):
+flying is permitted, provided: 1) an approved flotation device for each occupant, 2) at least one pyrotechnic signaling device
+
+GPS CDI shows
+distance, unlike a VOR's CDI which presents an angular distance off course in degrees
+
+GNSS
+broad term for satellite-based RNAV; GPS is the GNSS within the USA
+
+different RNPs
+enroute: RNP 2.0; terminal and departure: RNP 1.0; final approach: RNP 0.3
+
+ASOS vs. AWOS
+ASOS updated hourly, AWOS every minute
+
+fog
+cloud that begins within 50 feet of the surface
+
+steam fog
+cold dry air moves over warm water
+
+carburator ice forms when
+-7 to 20 degrees celsius and humidity above 80%
+
+when sinus blocked
+use Valsalva maneuver: pinch nostrils and gently try to blow out of nose
+
+TCH
+thrashold crossing height
