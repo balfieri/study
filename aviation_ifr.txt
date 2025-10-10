@@ -16,7 +16,7 @@ FLAPS acronym for additional equipment required at night for VFR
 Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only when for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
 
 GRABCARDD acronym for additional equipment required for IFR
-Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball; Clock with second hand; Altimeter (pressure-sensitive); Rate of turn indicator; Directional gyroscope or HSI; DME at or above 24,000 feet if VOR required (may substitute GPS)
+Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball; Clock with hours, minutes, seconds; Altimeter (pressure-sensitive); Rate of turn indicator; Directional gyroscope or HSI; DME at or above 24,000 feet if VOR required (may substitute GPS)
 
 ANDS
 WEST EAST: accelerate causes deflection toward north, decelerate toward south; note that a steady turn from east or west does cause compass to overshoot or undershoot
@@ -424,7 +424,7 @@ the plus-over-plus symbol in airport tower open time range indicates that
 during daylight savings time, hours will be one hour earlier than shown
 
 if wind direction is 260 and magnetic variation is 17 east, what is magnetic wind direction
-243
+243; remember: east is least and west is best
 
 besides attitude indicator, which instruments are pitch instruments
 altimeter, airspeed indicator, VSI
@@ -508,7 +508,7 @@ IFR is required when
 flying into controlled airspace in IMC, anytime flying in class A, flying special VFR between sunset and sunrise, acting as a commercial pilot more than 50 nautical miles away during the day or anytime at night
 
 minimum requirements of a safety pilot
-holds private pilot in type of airplane being flown; has current medical certificate; need not be current with flight review
+holds private pilot in type of airplane being flown; has current medical certificate; need not be current with flight review; must have adequate vision forward and to each side of aircraft
 
 when can IFR flight be logged
 for simulated IMC, pilot must go down to minimums; for actual IMC, pilot must go past the FAF
@@ -622,7 +622,7 @@ lightning bolt on ILS chart denotes
 final approach fix for the precision approach, and also the glide slope intercept altitude
 
 approaches to which a published VDP applies
-non-precision only (those with an MDA)
+non-precision only (those with an MDA); applies mainly to fast airplanes
 
 on IFR low enroute altitude chart, pilot-controlled lighting at an airport is denoted by
 black oval or circle with the letter L inside, next to the airport's frequency; for part-time or continuous, it is often denoted with a star symbol
@@ -715,7 +715,7 @@ recommended climb procedure when non-radar approach control tells you to climb t
 optimal climb on centerline until 1000 feet below assigned altitude, then 500 to 1500 feet per minute
 
 what can be substituted for an inoperative ILS outer or middle marker
-compass locator or precision radar; note that DME may be substituted for outer marker only
+compass locator or precision radar; note that DME may be substituted for outer marker only; DME; VOR; GPS
 
 surface analysis chart represents
 frontal positions, pressure patterns, temperature, dewpoint, wind, weather, and obstructions to vision
@@ -1279,7 +1279,7 @@ how many satellites does WAAS require
 5, but at least 2 must be geostationary; and WAAS also requires a ground correction network
 
 how many satellites does RAIM require
-5, but 4 with baro-aiding; 6 for fault exclusion
+5, but 4 with baro-aiding; 6 for faulty-satellite exclusion
 
 when to force altimeter at 29.92
 when calculating PA for DA and TAS, when operating above 18000 ft MSL
@@ -1444,7 +1444,7 @@ is a VOR or ILS receiver required if doing an RNAV GPS approach?
 no, assuming GPS is IFR-approved and only doing a GPS-based approach; the exception is when flying a GPS approach at an alternate airport when the GPS system is non-WAAS
 
 Visual Climb Over Airport (VCOA)
-IFR departure procedure that allows a pilot to climb visually in specified VMC conditions by circling over the airport to a published altitude prior to proceeding en route
+IFR departure procedure that allows a pilot to climb visually in specified VMC conditions by circling over the airport to a published altitude prior to proceeding en route; obstacles are beyond 3 statute miles from the airport
 
 lost comms AVEF MEA acronym
 A - assigned, V - vectored, E - expected, F - filed; M - miminum IFR altitude for operations for the segment (MEA, MOCA, OROCA), E - expected, A - assigned; so AVEF is for the route and MEA is for the altitude
@@ -1525,7 +1525,7 @@ types of parallel runway operations
 independent parallel approaches, dependent parallel approaches (staggering diagonal approaches), precision runway monitor (PRM, closely spaced runway less than 4300 feet apart, special training required)
 
 difference between a visual approach and a contact approach
-a visual approach requires the pilot to have the airport or preceding aircraft in sight, while a contact approach allows proceeding visually with reference to the ground and landmarks, even if the airport is not in sight, provided the pilot can remain clear of clouds with at least one statute mile visibility
+a visual approach requires the pilot to have the airport or preceding aircraft in sight, while a contact approach allows proceeding visually with reference to the ground and landmarks, even if the airport is not in sight, provided the pilot can remain clear of clouds with at least one statute mile visibility; contact must be requested by pilot and airport must have an IAP, and pilot retains squawk code
 
 around a low-pressure center, where do we normally find cold and warm fronts
 air flows inward and upward around a low-pressure system; a cold front usually extends southward or southwestward, while a warm front projects eastward or northeastward
@@ -1591,7 +1591,7 @@ an authorized instructor may log instrument flight when
 conducting instrument flight instruction in actual instrument conditions
 
 VDMONA acronym for compass errors
-V: variation; D: deviation; M: magnetic dip; O: oscillation; N: UNOS; A: ANDS
+V: variation; D: deviation (interference); M: magnetic dip; O: oscillation; N: UNOS; A: ANDS
 
 CCCCC acronym for lost procedures
 climb, communicate, confess, comply, conserve
@@ -1642,7 +1642,7 @@ full scale deflection o a VOR approach
 10 degrees of centerline
 
 PAR vs. ASR
-PAR: controller provides both azumuth and elevation guidance; ASR: azimuth guidance only
+PAR: controller provides both lateral and vertical guidance; ASR: lateral guidance only
 
 procedure turn is not required when
 there is a NoPT remark; directed by ATC; radar-vectored to final; timed approach from a holding fix; holding or teardrop depicted instead of a PT; flying DMA arc
@@ -1681,7 +1681,100 @@ during the cumulus stage of a thunderstorm, supercooled water molecules exist on
 the cloud reaches the freezing level
 
 during the mature stage of a thunderstorm, the anvil shape forms when
-water molecules are pushed into the higher parts of the cloud
+water molecules are pushed into the higher parts of the cloud; sheared off by jet stream
 
 dynamic hydroplaning occurs when
 the ground speed is at 8.73 times the square root of the main tires' pressure
+
+sensitive altimeter means
+it can be calibrated to the local barometric pressure by adjusting the Kollsman window
+
+flux gate compass uses the principle that
+when a wire crosses magnetic flux lines, an electrical current is induced
+
+what does it mean if there is only a single coded identifier every 30 seconds on a VORTAC station
+the VOR function is not working but the DME function is working
+
+ODP is determined using the
+40 to 1 obstacle identification surface
+
+to ensure you remain clear of obstacles when flying an ODP
+cross departure end at or above 35 feet AGL; make first turn no earlier than 400 feet AGL; maintain climb gradient of at least 200 feet per nautical mile
+
+low close-in obstacle
+located within 1 nautical mile of the departure end of the runway that penetrates the 40 to one OCS
+
+victor airway
+from 1200 feet AGL to 17,999 feet MSL; width is 8 nautical miles, 4 nautical miles per side
+
+MEA GAP
+printed on the airway when NAVAID reception isn't guaranteed
+
+MTA
+minimum turning altitude; lowest altitude at which an aircraft can safely turn from one leg of an airway to the next
+
+MARVELOUS VFR 500 acronym for required reporting points
+M: missed approach; A: airspeed change of 5% or 10 knots, whichever greater; R: reaching clearance limit or holding fix; V: vacating an altitude; E: ETA change of more than 2 minutes; L: leaving an assigned altitude; O: outer marker inbound (non-radar only); U: unforecasted weather; S: safety of flight; V: VFR on top altitude change; F: final approach fix inbound (non-radar only); R: radio failure; 500: unable to maintain 500 feet per minute climb
+
+A N-A on plate
+alternate minimums are not authorized due to unmonitored facility, absence of weather reporting, or inadequate navigation coverage
+
+T-E-C route
+tower en route control service allows pilots to travel between airports in select metro areas without leaving approach control airspace
+
+sensitivity changes from en route to terminal to approach
+The navigation system will operate in en route mode until 30nm away from the airport at which point it will change to terminal mode. Within 2nm of the final approach waypoint the approach mode will become active
+
+intermediate segment is normally aligned
+within 30 degrees of the final approach course
+
+APV
+approaches with vertical guidance provide course and glidepath information but do not conform to ICAO Anex 10 stanards so that cannot be called precision approaches, even if LPV minimums are often identical to that of ILS
+
+expanded circling minimums
+presence of C symbol on circling line; circling MDA affects circling radius, not just the aircraft category
+
+when are circling minimums published when
+final approach course is more than 30 degrees from runway, descent gradient is greater than 400 feet per nautical miles, or the runway is not clearly defined
+
+how touchdown zone elevation detemined
+highest elevatoin in first 3000 feet of runway
+
+what to expect from stable air
+stratiform clouds, poor visibility, smooth air, steady or continuous precipitation
+
+what to expect from unstable air
+cumulus clouds with vertical development, good visibility, turbulent air, showery precipitation
+
+lifting actions
+thermals, upslope, frontal
+
+precipitation induced fog
+warm rain falls through cool air
+
+induction icing
+impedes the process of air entering the intake manifold to be mixed with fuel; air intake ice or carburator ice
+
+area forecast reports clouds in
+MSL unless preceded by AGL or CIG
+
+winds and temperatures aloft forecast is issued
+twice a dice every 12 hours
+
+air inside of the middle ear is normally equalized 
+through the Eustachian tube, a tube that travels from the ear to the back of the throat on each side
+
+types of hypoxia
+hypoxic (lungs), hypemic (blood), histotoxic (cells), stagnant (circulation)
+
+ICEFLAGS acronym for in-flight illusions
+I: inversion, C: coriolis, E: elevator, F: false horizon, L: leans, A: autokinesis, G: graveyard spiral, S: somatogravic
+
+RAIIM acronym for hazardous attitudes
+R: resignation, A: antiathority, I: impulsivity, I: invulnerability, M: macho
+
+PAVE acronym for risk mitigation
+P: pilot ready, A: aircraft airworthy, V: environment, E: external pressures
+
+PPPPP acronym for risk mitigation
+pilot, passengers, plane, programming, plan
