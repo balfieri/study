@@ -64,7 +64,7 @@ VOR deflection
 1 mile per degree from 60 miles out
 
 VOR airborne check
-over designated checkpoint listed in chart supplement, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees between two indicated bearings to the VOR
+over designated checkpoint listed in chart supplement over easily identifiable terrain or ground features or along a VOR radial on an airway centerline over identifiable ground point, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees between two indicated bearings to the VOR
 
 VFR waypoints 
 may never be used on an IFR flight plan
@@ -472,7 +472,7 @@ ball of turn coordinator indicates
 quality of the turn
 
 when does destination not require an alternate
-1 2 3 rule: from 1 hour before to one hour after the ETA, there must be at least 2000 feet ceiling and 3 statute miles visibility; note: rule does not apply if destination does not have an IAP
+1 2 3 rule: from 1 hour before to one hour after the ETA, the weather must forecasted to have at least 2000 feet ceiling and 3 statute miles visibility; note: rule does not apply if destination does not have an IAP
 
 when flying inbound on a localizer front course, the shaded part of the localizer symbol will be
 on the right
@@ -496,7 +496,7 @@ ACS says that pilot must track a selected course, radial, bearing, horizontal gu
 three-quarter scale deflection of the CDI; for VOR, this is about 7.5 degrees off course; for a localizer, this is about 1.9 degrees off course
 
 ACS says that a pilot must fly a DME arc within
-plus or minus 1 nautical mile
+plus or minus 1 nautical mile; turn 10, twist 10
 
 during non-precision approaches, the ACS says that navigation systems may be used to
 display advisory vertical guidance
@@ -553,7 +553,10 @@ three main components of ILS
 localizer and glide slope, marker beacons or DME, approach lighting
 
 full-scale deflection of localizer
-3-6 degrees; 700 feet wide at runway threshold
+2.5 degrees, so each dot is 0.5 degrees; width of signal is 3 to 6 degrees; 700 feet wide at runway threshold
+
+width of ILS glide slope signal
+1.4 degrees
 
 false glide slope issue with ILS
 lobes of glide slope reflect off the ground and end up way higher, which cause the navigation system to get confused if the aircraft is too high
@@ -1128,9 +1131,6 @@ established on any published segment'feeder route, initial approach segment, int
 a non-WAAS IFR GPS is required to have
 an approved and operational alternate means of navigation appropriate for flight
 
-a full scale deflection of an ILS localizer is usually equal to
-2.5 degrees off course, so each dot is equal to 0.5 degrees
-
 RNAV refers to the capability of
 various types of avionics to allow an aircraft to determine its position and fly a route based upon waypoints that have no fixed relationship with ground-based navaids
 
@@ -1513,7 +1513,7 @@ two types of SIDs
 pilot-navigation SID and vector SID; can also have a hybrid SID
 
 VOR waypoint
-based on specific radials and distances from VOR ground stations
+based on specific radials and distances from VOR ground stations; plus or minus 4 degrees
 
 what to include in an IFR position report
 tail number, reporting point or current position, zulu time, altitude, ETA and name of next reporting point, and possibly name or reporting point after the next
@@ -1583,3 +1583,69 @@ the frequency and indicate where on the airfield it can be used, such as a speci
 
 according to 14 CFR 91.185, when reaching a clearance limit during lost communications:
 1) If the clearance limit is a fix from which an approach begins, commence descent and approach as close as possible to the expect-further-clearance (EFC) time if one was received, or if there was no EFC time, as close as possible to the estimated time of arrival (ETA) calculated from the filed or amended estimated time en route. 2) If the clearance limit is not a fix from which an approach begins, leave the clearance limit at the EFC time if one was received, or if not, upon arrival at the clearance limit. Then proceed to a fix from which an approach begins and commence descent and approach as close as possible to the ETA as calculated from the filed or amended estimated time en route
+
+an authorized instructor may log instrument flight when 
+conducting instrument flight instruction in actual instrument conditions
+
+VDMONA acronym for compass errors
+V: variation; D: deviation; M: magnetic dip; O: oscillation; N: UNOS; A: ANDS
+
+CCCCC acronym for lost procedures
+climb, communicate, confess, comply, conserve
+
+CCCCC acronym for go around or missed approach
+cram, climb, clean, cool, call
+
+TTTTT acronym for holds and other course changes
+turn, time, twist, throttle, talk
+
+NWKRAFT acronym for things pilot must know during planning (91.103)
+N: NOTAMs; W: weather; K: known traffic delays; R: runway lengths; A: alternates if needed; F: fuel requirements; T: takeoff and landing distances
+
+three common errors of instrument scan
+fixation, omission, emphasis
+
+three definitions of night
+1) sunset: beacons go on, 2) evening civil twilight (30 minutes after sunset to 30 minutes before sunrise): logging night flight; 3) 1 hour after sunset to 1 hour before sunrise: 3 takeoffs and landings to a full stop
+
+what do write in a flight plan if you do not want a departure procedure
+NO DP
+
+are holding pattern entry procedures mandatory?
+no, they are merely a recommendation; what matters is the airplane remain within the protected area
+
+the radial you are given to hold on represents
+the outbound course of the hold
+
+when holding in windy conditions
+always double your wind correction angle when on the outbound leg
+
+goal of a perfect hold
+make your inbound leg exactly one minute (assuming timed)
+
+timed missed approaches are based on
+ground speed, not approach speed which is indicated airspeed
+
+parallel ILS approaches are conducted if
+centerlines are at least 2500 feet apart and aircraft are separated by 1.5 miles diagonally
+
+how to counter reverse sensing when flying an approach with a VOR
+set your needle to the inbound course of the localizer front course, and fly the tail of the needle
+
+course width of an SDF
+fixed at 6 or 12 degrees
+
+full scale deflection o a VOR approach
+10 degrees of centerline
+
+PAR vs. ASR
+PAR: controller provides both azumuth and elevation guidance; ASR: azimuth guidance only
+
+procedure turn is not required when
+there is a NoPT remark; directed by ATC; radar-vectored to final; timed approach from a holding fix; holding or teardrop depicted instead of a PT
+
+how to calculate VDP distance from touchdown zone
+height above touchdown divided by 300
+
+how to calculate the 3-1 rule for descents
+feet you want to lose divided by 1000, the multiply by 3, yielding miles
