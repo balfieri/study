@@ -2639,7 +2639,7 @@ hoe
 la zappa
 
 to highlight; to emphasize; to pin
-mettere in evidenza
+mettere in evidenza; appuntare
 
 needle; pin; spine
 l'ago
@@ -16546,7 +16546,7 @@ del mondo
 in the universe
 dell'universo
 
-ovum (female egg)
+ovum; female egg
 l'ovulo
 
 to sand (smooth)
@@ -53205,9 +53205,6 @@ le notizie scorrono
 
 to note down; to jot down
 appuntare
-
-to pin
-mettere in evidenza; appuntare
 
 scribbled; doodled
 scarabocchiato
@@ -101007,9 +101004,6 @@ rivivere la propria infanzia
 excommunicated
 scomunicato
 
-to succeed in (something)
-riuscire in (qualcosa)
-
 to be married to (somebody)
 essere sposato con (qualcuno)
 
@@ -101033,4 +101027,34 @@ avere un dente intorpidito; avere un dente anestetizzato
 
 to get numbed by the dentist  
 farsi anestetizzare dal dentista; essere anestetizzati dal dentista  
+
+to succeed in (something); to do well in (something)
+riuscire in (qualcosa)
+
+to be on the lookout for (something)
+stare in guardia da (qualcosa); essere in allerta per (qualcosa)
+
+as (something); in the capacity of (something); in the role of (something) (formal)
+in qualità di (qualcosa)
+
+to make the bed messy
+disfare il letto
+
+lack of availability
+la mancanza di disponibilità
+
+in our particular case
+nel nostro caso particolare
+
+to butt up against
+urtare contro; scontrarsi con
+
+opening gala
+il gala di apertura
+
+of the past; from the past; from another time; like in the past
+di una volta
+
+trifle; little thing
+la cosina
 
