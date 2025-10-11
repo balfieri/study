@@ -7992,3 +7992,6 @@ mi raccomando!
 
 enough; somewhat
 abbastanza
+
+tutor
+il tutor; la tutor
