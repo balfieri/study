@@ -1854,10 +1854,10 @@ difference between 172SP vs. PA28 electrical meter
 172SP shows battery charge rate (can be negative); PA28 shows positive-only current delivered by alternator
 
 things to do once cleared for the approach
-1) verify straight-in if not vectored and not explicitly mentioned; 2) delete hold if no longer applies; 3) begin descent to TAA if applies; 4) set altimeter
+1) verify straight-in if not vectored and not explicitly mentioned; 2) delete hold if no longer applies; 3) set altimeter; 3) begin descent to TAA if applies
 
 things to do once established on final approach course
-1) begin descent to next step-down; 2) verify navaid or GPS level; 3) make radio call
+1) begin descent to next step-down; 2) verify navaid or GPS level; 3) arm APPROACH mode on autopilot; 4) make radio call
 
 things to do as you approach the final approach fix
 1) do before landing checklist; 2) make radio call
