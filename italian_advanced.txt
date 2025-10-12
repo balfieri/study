@@ -101067,3 +101067,9 @@ ammorbare
 to tidy up; to put in order; to organize
 fare ordine
 
+triggered
+triggerato
+
+to trigger; triggered (as a verb)
+triggerare
+
