@@ -67862,9 +67862,6 @@ guasto
 at 11 sharp
 alle 11 spaccate
 
-to split the minute
-spaccare il minuto
-
 to break the heart
 spezzare il cuore
 
@@ -101196,3 +101193,5 @@ l'ovazione
 to have left convinced of; to have been convinced when leaving to 
 essere partiti convinti di
 
+accommodating; compliant
+accondiscendente
