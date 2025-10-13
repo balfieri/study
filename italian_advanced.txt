@@ -7742,7 +7742,7 @@ gay rights
 i diritti dei gay
 
 summary
-il riassunto; il sommario
+il riassunto; il sommario; il condensato
 
 abortion pill
 la pillola abortiva
@@ -8117,7 +8117,7 @@ self-defense
 l'autodifesa
 
 target
-il bersaglio; il versaglio
+il bersaglio
 
 militia
 la milizia
@@ -8753,7 +8753,7 @@ principle
 il principio
 
 minister; secretary; pastor
-il ministro
+il ministro; la ministra
 
 virtue
 la virtù
@@ -38017,7 +38017,7 @@ inconfondibilmente
 spout
 il beccuccio
 
-each of us; every one of us
+every one of us
 ognuno di noi
 
 attached to this; in attachment
@@ -101147,4 +101147,52 @@ a ritmo veloce; a ritmo serrato
 
 at a slow pace
 a ritmo lento
+
+photojournalism
+il fotogiornalismo
+
+press card; press pass
+il tesserino della stampa
+
+photojournalist; newspaper photographer
+il fotoreporter; il fotogiornalista
+
+to move, to shift; to stir up; to plow, to turn over; to dissuade, to deter; to rouse, to motivate
+smuovere
+
+the demand remains strong
+la domanda rimane sostenuta
+
+to help as much as we can
+aiutare per quanto possiamo; aiutare quanto possiamo
+
+to lose heart; to get discouraged; to break down
+abbattersi
+
+to draw strength; to gain strength
+trarre forza
+
+refugee camp
+il campo profughi
+
+each of us
+ciascuno di noi
+
+to arouse suspicion; to cause suspicion; to provoke suspicion
+suscitare i sospetti
+
+to intend to do the same; to plan to do the same
+contare di fare lo stesso
+
+on a reduced scale
+in scala ridotta
+
+staff cut; personnel cut; downsizing; staff reduction
+il taglio del personale
+
+ovation
+l'ovazione
+
+to have left convinced of; to have been convinced when leaving to 
+essere partiti convinti di
 

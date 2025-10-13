@@ -5816,7 +5816,7 @@ Christian
 cristiano
 
 soldier
-il soldato
+il soldato; la soldatessa
 
 technology
 la tecnologia
