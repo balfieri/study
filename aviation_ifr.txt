@@ -823,7 +823,7 @@ IFR conditions when
 the visibility is less than 3 miles OR the ceiling is less than 1000 feet AGL
 
 low IFR (LIFR) conditions when
-the visibility is less than 1 mile OR the ceiling is less than 1000 feet AGL
+the visibility is less than 1 mile OR the ceiling is less than 500 feet AGL
 
 VASI provides obstruction clearance within
 4 nautical miles of the runway and within 10 degrees of the extended runway centerline
