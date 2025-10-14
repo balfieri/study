@@ -18331,9 +18331,6 @@ la marea
 I'm disappointed in you
 sono deluso da te
 
-don't get me wrong
-non fraintendermi
-
 misunderstanding; misconception; misinterpretation; misapprehension
 il fraintendimento; l'equivoco
 
@@ -74525,9 +74522,6 @@ prendere il sole
 crazy-good
 incredibilmente buono
 
-to mangle
-mutilare
-
 electrical rough-in
 l'impianto elettrico grezzo
 
@@ -101210,4 +101204,13 @@ la sciatica
 
 but alas
 ma ahimè
+
+insurance claim
+il reclamo all'assicurazione
+
+to claim something on one's insurance
+richiedere un risarcio dalla propria assicurazione
+
+in terms of; in key of
+in chiave di
 
