@@ -10175,7 +10175,7 @@ to bend over
 non piegarsi
 
 surgeon
-il chirugo
+il chirurgo; la chirurga
 
 burp
 il rutto
@@ -35008,7 +35008,7 @@ accettare di andare a
 I think I can make it (get there)
 penso di potercela fare
 
-to fall apart (little by little)
+to crumble; to fall apart (little by little)
 sfaldarsi
 
 they have no idea what the they are doing
@@ -49165,7 +49165,7 @@ la smobilitazione
 to demobilize
 smobilitare
 
-scattered
+scattered; spread; dispersed
 sparpagliato
 
 pride; fierceness
@@ -101195,3 +101195,19 @@ essere partiti convinti di
 
 accommodating; compliant
 accondiscendente
+
+would-be (someone); would-have-been (someone); almost (someone); failed (someone)
+il (qualcuno) mancato
+
+stormy; tempestuous; turbulent
+burascoso
+
+to remove the nose; to make someone lose their nose
+snasare
+
+sciatica
+la sciatica
+
+but alas
+ma ahimè
+
