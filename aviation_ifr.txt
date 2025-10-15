@@ -1011,7 +1011,7 @@ being higher than you actually are
 IMSAFE
 Illness; Medications; Stress; Alcohol; Fatigue; Emotions/Eating
 
-explain the problem with excessive nitrogen in the blood, e.g., due to scuba diving, and how to avoid it
+explain the problem with excessive nitrogen in the blood, for example due to scuba diving, and how to avoid it
 decompression sickness; wait 12 hours for uncontrolled (non-decompression) ascent when flying up to 8000 ft MSL; wait 24 hours if controlled (decompression) ascent OR when flying over 8000 ft MSL
 
 head-up (somatogravic) and head-down illusions
@@ -1273,7 +1273,7 @@ difference between generator and alternator
 generator can produce either AC or DC; alternator produces only AC; generator uses rotating armature inside a stationary magnetic field; alternator uses rotating magnetic field rotor inside a stationary armature
 
 HSI
-horizontal situation indicator, an instrument (e.g., G5) that combines a CDI and a heading indicator, does not suffer from confusion caused by reverse sensing
+horizontal situation indicator, an instrument (for example, a G5) that combines a CDI and a heading indicator, does not suffer from confusion caused by reverse sensing
 
 how many satellites does WAAS require
 5, but at least 2 must be geostationary; and WAAS also requires a ground correction network
@@ -1861,3 +1861,6 @@ things to do once established on final approach course
 
 things to do as you approach the final approach fix
 1) do before landing checklist; 2) make radio call
+
+on an approach plate, RNP APCH stands for 
+Required Navigation Performance for Approach. The specification requires your GPS or RNAV system to provide continuous position monitoring and alerting — if the system can’t maintain accuracy, it must alert you
