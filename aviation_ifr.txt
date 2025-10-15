@@ -1336,7 +1336,7 @@ what reporting is required after being handed off to a class D tower
 FAF inbound; reporting for the miss is the same as in a radar environment; note that radar services will be terminated during the hand-off
 
 when should NAV2 be programmed with the ILS frequency
-when using the GPS to help and as a substitute for DME; NAV2 CDI should be used for the localizer and glideslope
+when using the GPS to help and as a substitute for DME; NAV2 CDI should be used for the localizer and glide slope
 
 disorientation is still a major cause of accidents among IFR pilots; what can a pilot do when disoriented
 level wings, talk to ATC
@@ -1414,7 +1414,7 @@ convective SIGMET
 embedded thunderstorms; a line of thunderstorms; thunderstorms greater than or equal to VIP level 4 affecting 40% or more of an area at least 3000 square miles; surface winds of 50 knots or more; hail at the surface greater than or equal to 3/4 inches in diameter; tornadoes; issued 55 minutes past the hour (except in Alaska or Hawaii); valid for 2 hours
 
 VOR vs. ILS
-VOR provides only horizontal guidance; ILS provides horizontal and vertical guidance, and much more precisely; ILS operates in only one direction along the runway; VOR can be used for any radial; ILS can be used for a single precise course and glide scope
+VOR provides only horizontal guidance; ILS provides horizontal and vertical guidance, and much more precisely; ILS operates in only one direction along the runway; VOR can be used for any radial; ILS can be used for a single precise course and glide slope
 
 stages of a thunderstorm
 1) cumulous or developing stage - warm moist air rises; 2) mature stage - onset of precipitation; 3) dissipating stage - downdrafts dominate, precipitation weakens
@@ -1728,7 +1728,7 @@ intermediate segment is normally aligned
 within 30 degrees of the final approach course
 
 APV
-approaches with vertical guidance provide course and glidepath information but do not conform to ICAO Anex 10 stanards so that cannot be called precision approaches, even if LPV minimums are often identical to that of ILS
+approaches with vertical guidance provide course and glide path information but do not conform to ICAO Anex 10 stanards so that cannot be called precision approaches, even if LPV minimums are often identical to that of ILS
 
 expanded circling minimums
 presence of C symbol on circling line; circling MDA affects circling radius, not just the aircraft category
