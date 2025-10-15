@@ -12616,9 +12616,6 @@ scassare
 detachment; separation
 il distacco
 
-to demand
-esigare
-
 demanding; picky; exacting
 esigente
 
@@ -53223,9 +53220,6 @@ semiannuale
 
 estate tax
 la tassa di successione
-
-exemption
-l'esenzione
 
 exempt from estate tax
 esente da tassa di successione
@@ -101225,3 +101219,48 @@ vistoso; sgargiante
 
 I'll tell you anyway
 te lo dirò comunque; te lo dico comunque
+
+statement of fact
+l'affermazione di fatto
+
+they come close; they get close
+ci vanno vicini
+
+the route; the trafficking (human trafficking context)
+la tratta
+
+to come to an agreement; to agree
+mettersi d’accordo
+
+kerosene
+il cherosene
+
+excise duties; excises
+le accise
+
+tax breaks; tax reliefs
+le agevolazioni fiscali
+
+deterrent; disincentive
+il disincentivo
+
+to take responsibility for
+assumersi la responsabilità di
+
+to assume; to make an assumption
+supporre; presumere
+
+this day has flown by
+questa giornata è volata
+
+nowadays; these days
+oggi giorno
+
+onerous commitment; burdensome task
+l'impegno gravoso
+
+timidity
+l'intimidezza
+
+to demonetize
+demonetizzare
