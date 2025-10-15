@@ -33442,7 +33442,7 @@ l'insaputa
 donor; giver
 il donatore; la donatrice
 
-assets
+assets; belongings
 gli averi
 
 decidable
@@ -101214,3 +101214,14 @@ richiedere un risarcio dalla propria assicurazione
 in terms of; in key of
 in chiave di
 
+to feel unwell; to feel sick
+sentire di stare poco bene; sentirsi malato
+
+to go through (things)
+passare in rassegna (cose)
+
+garish
+vistoso; sgargiante
+
+I'll tell you anyway
+te lo dirò comunque; te lo dico comunque
