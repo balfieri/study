@@ -37606,9 +37606,6 @@ lo scalino
 semi-utopia
 la semiutopia
 
-deductible (noun)
-la franchigia
-
 multifaceted; versatile
 poliedrico
 
@@ -101342,4 +101339,10 @@ il pianoforte che suona in sottofondo
 
 I don't want to have anything to do with (something)
 non voglio avere niente a che fare con (qualcosa)
+
+rugby player
+il rugbista; la rugbista
+
+franchise; deductible; exemption
+la franchigia
 
