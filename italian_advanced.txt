@@ -36472,9 +36472,6 @@ eliminare una variabile
 laurearsi
 to graduate
 
-scapolo
-bachelor
-
 IUD
 il DIU (Dispositivo Intrauterino); la spirale (colloquiale)
 
@@ -58895,7 +58892,7 @@ stare sopra (qualcosa)
 to renovate; to renew
 mettere a nuovo
 
-bachelor
+bachelor; single man; unmarried man
 lo scapolo
 
 used; worn
