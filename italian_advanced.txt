@@ -35612,7 +35612,7 @@ to skip school; to play hooky; to cut class
 marinare la scuola; scappare da scuola; scafare
 
 matchmaker
-l'appaiatore; l'appaiatrice; il faccendiere; la faccendiere
+l'appaiatore; l'appaiatrice; il faccendiere; la faccendiera
 
 to bring near; to bring closer; to put closer
 avvicinare
@@ -48613,7 +48613,7 @@ l'acciottolato
 cobblestone (noun)
 il ciottolo; il sampietrino
 
-lover; mistress
+lover; mistress; lovemaker
 l'amante
 
 that's a good sign
@@ -58429,9 +58429,6 @@ l'ordine esecutivo
 
 federal government
 il governo federale
-
-il calzaturio
-shoemaker
 
 I was eating out too much
 stavo mangiando fuori troppo
@@ -82071,7 +82068,7 @@ alla fine tutto si risolve
 sounds like a plan
 sembra un piano
 
-seamstress; tailor (female)
+seamstress; tailor (female); dressmaker
 la sarta
 
 khakis
@@ -101376,3 +101373,32 @@ Dio ci aiuti!
 scaremongering
 l'allarmismo; il terrorismo psicologico
 
+middle distance race
+il mezzofondo
+
+overcome; surmounted
+sormontato
+
+clockmaker
+l'orologiaio
+
+cabinetmaker
+l'ebanista
+
+rainmaker
+il procacciatore di affari
+
+moneymaker
+la fonte di guadagno; l'attività redditizia
+
+kingmaker
+chi decide chi sarà il re; il kingmaker
+
+keymaker
+il fabbricante di chiavi
+
+to have a gift for
+avere il dono di
+
+to be on the receiving end of that
+essere a ricevere questo; essere dall'altra parte di questo
