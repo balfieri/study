@@ -1987,6 +1987,9 @@ fare il passo più lungo della gamba; strafare
 to be in a food coma; to be sleepy after eating
 avere l'abbiocco
 
+to become drowsy after eating; to get into a food coma; to feel sleepy after a meal
+abbioccarsi
+
 the wolf loses his fur but not his vice
 il lupo perde il pelo ma non il vizio
 
@@ -3696,3 +3699,4 @@ Madonna santa!
 
 my Madonna!
 Madonna mia!
+
