@@ -26407,9 +26407,6 @@ la cupola
 engraved
 inciso
 
-belly; underbelly
-il ventre
-
 mosaic
 mosaico
 
@@ -101447,4 +101444,19 @@ il computer fisso
 
 menopausal woman
 la donna in menopausa; la donna menopausale
+
+menopausal
+menopausale
+
+in a loop
+in loop
+
+for my own curiosity
+per curiosità mia
+
+to put a stop
+mettere in stop
+
+belly; abdomen; stomach; womb; underbelly
+il ventre
 
