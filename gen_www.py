@@ -16,7 +16,7 @@ subjects = [ [ 'all_lists',                     '#c095e3',      False ],
              [ 'italian_advanced',              '#53af8b',      True ],
              [ 'italian_passato_remoto',        '#929195',      False ],
              [ 'italian_expressions',           '#587a8f',      False ],
-             [ 'american_expressions',          '#95dfe3',      False ],
+             [ 'italian_american_expressions',  '#95dfe3',      False ],
              [ 'italian_tongue_twisters',       '#f69284',      False ],
              [ 'italian_vulgar',                '#95b8e3',      False ],
            ]
