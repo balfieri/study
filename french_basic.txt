@@ -1,35 +1,44 @@
 #
 # Basic French
 #
+to go
+aller
+
 the 1st day of school in France
 la rentree
 
-can I sharpen my pencil?
-puis-je tailler mon crayon?
+pencil
+le crayon
 
-may I go to my locker?
-puis-je aller a mon casier?
+to drink
+boire
 
-may I get some water?
-puis-je boire de l'eau?
+to borrow
+emprunter
 
-may I borrow a pencil?
-puis-je emprunter un crayon?
+in French
+en français
 
-how do you say (something) in French?
-comment dit on (quelque chose) en francais?
+thing
+la chose
 
-please lend me a pen
-prete-moi un stylo sil te plait
+something
+quelque chose
 
-yippee!
-youpi!
+how do you say (something)
+comment dit-on (quelque chose)
 
-what's your favorite color?
-quelle est ta couleur preferee?
+pen
+le stylo
 
-my favorite color is
-ma couleur preferee est
+please (informal)
+s'il te plait
+
+color; colour
+la couleur
+
+favorite
+préféré
 
 what time is it?
 quelle heure est-il?
@@ -43,14 +52,11 @@ quel temps fait-il?
 the weather is
 il fait
 
-ok
+ok; agreed
 d'accord
 
-be good!
-sois sage!
-
-fantastic!
-fantastique!
+fantastic
+fantastique
 
 marvelous
 merveilleux
@@ -59,52 +65,230 @@ I am sick
 je suis malade
 
 I don't know
-je ne said pas
+je ne sais pas
 
-sit down (formal, plurale)
-asseyez-vous
-
-sit down (informal)
-assieds-toi
-
-where there's a will there's a way!
-vouloir c'est pouvoir!
+to sit down
+s'asseoir
 
 happy birthday
 joyeux anniversaire
 
-money doesn't make happiness
-l'argent ne fait pas le bonheur
+happiness
+bonheur
 
 raise your hand!
 levez la main!
 
-a black cat
-un chat noir
+cat
+le shat
+
+black
+noir
 
 enjoy your meal!
 bon appetit!
 
-calm down (plural)
-calmez-vous
+to calm down
+calmer
 
-a haunted house
-une maison hantee
+house
+le maison
 
-I'm scared
-j'ai peur
+to be scared; to be afraid
+avoir peur
 
-a jackolantern
-un potiron lumineux
+skeleton
+le squidette
 
-a skeleton and a witch
-un squidette et une sorciere
+witch
+la sorciere
 
-a bat
-un chave-souris
+candle
+le bon bon
 
-the candies
-les bon bons
-
-the sweets
+sweets
 les fridises
+
+marriage; wedding
+le mariage
+
+to improve; to get better
+s'améliorer
+
+year
+l'année
+
+every
+chaque
+
+this
+cette
+
+last
+dernière
+
+next
+prochaine
+
+wife
+la femme; l'épouse
+
+unfortunately
+malheureusement
+
+to move (house)
+déménager
+
+nephew
+le neveu
+
+resource
+la ressource
+
+of course; sure
+bien sûr
+
+which; what
+quelle
+
+right now; at the moment
+en ce moment
+
+during this period; in this period
+dans cette période
+
+instructor
+le instructeur
+
+cold (illness)
+le rhume
+
+private
+privé
+
+pilot
+le pilote
+
+amateur
+amateur
+
+to lack the words
+manquer de mots
+
+are we on first-name terms?; shall we use tu?
+on se tutoie?
+
+I didn't understand
+je n'ai pas compris
+
+the United States
+les états-unis
+
+here
+ici
+
+obviously; clearly
+évidemment; clairement
+
+I like it
+je l'aime; ça me plaît
+
+I like it a lot; I love it a lot
+je l'aime beaucoup
+
+between
+entre
+
+for the two
+pour les deux
+
+in Rome
+à Rome
+
+masculine
+masculin
+
+feminine
+féminin
+
+choice
+le choix
+
+ready
+prêt
+
+bravo!; well done!
+bravo!
+
+to practice
+pratiquer
+
+time; occasion
+la fois
+
+please write it to me
+écris-le-moi s'il te plaît
+
+to express oneself
+s'exprimer
+
+embarrassment
+l'embarras; la gêne
+
+family
+la famille
+
+to embarrass
+gêner; embarrasser
+
+in particular
+en particulier
+
+niece
+la nièce
+
+grandson
+le petit-fils
+
+granddaughter
+la petite-fille
+
+polite
+poli
+
+channel
+la chaîne
+
+kiss on the cheek
+la bise
+
+goal; purpose
+le but
+
+girl; daughter
+la fille
+
+boy
+le garçon
+
+son
+le fils
+
+however
+cependant; pourtant
+
+in any case
+en tout cas
+
+tip; trick; hack
+l'astuce
+
+to pronounce
+prononcer
+
+to say
+dire
+
+during
+pendant; au cours de; durant
+
