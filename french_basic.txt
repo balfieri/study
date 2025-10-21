@@ -292,3 +292,6 @@ dire
 during
 pendant; au cours de; durant
 
+name; noun
+le nom
+
