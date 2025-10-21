@@ -29,7 +29,7 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 # process command line args
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 1: die( 'usage: talk.py [options]', '' )
-subjects_s = 'italian_basic,italian_advanced,italian_expressions,italian_american_expressions,italian_vulgar,italian_passato_remoto'
+subjects_s = ''
 title = 'All Lists'
 
 i = 1
@@ -44,6 +44,8 @@ while i < len( sys.argv ):
         i += 1
     else:
         die( f'unknown option: {arg}' )
+
+if subjects_s == '': die( 'no -subjects' )
 
 #-----------------------------------------------------------------------
 # read in <subject>.txt files
@@ -75,25 +77,30 @@ for subject in subjects:
 
     Q.close()
 
-is_advanced  = re.match( r'.*italian_advanced', subjects_s ) != None
-is_basic     = subjects_s == 'italian_basic' 
+# need to create a loop here
+Other        = 'Italian'
+Other_Lang   = 'it-IT'
+Other_Voice  = 'Alice'
 is_english_only = subjects_s == 'aviation' or subjects_s == 'aviation_ifr'
+
+is_advanced  = re.match( r'.*_advanced', subjects_s ) != None
+is_basic     = re.match( r'.*_basic',    subjects_s ) != None
 eng_speed    = 1.25 if is_advanced else 1.00
-ita_speed    = 1    if is_advanced or is_english_only else 0.8 if is_basic else 0.9
+oth_speed    = 1    if is_advanced or is_english_only else 0.8 if is_basic else 0.9
 eng_speed100 = str(eng_speed * 100)
-ita_speed100 = str(ita_speed * 100)
+oth_speed100 = str(oth_speed * 100)
 eng_speed    = str(eng_speed)
-ita_speed    = str(ita_speed)
+oth_speed    = str(oth_speed)
 eng_name     = 'Question' if is_english_only else 'English'
-ita_name     = 'Answer'   if is_english_only else 'Italian'
+oth_name     = 'Answer'   if is_english_only else Other
 eng_lang     = '\'en-US\''
-ita_lang     = eng_lang   if is_english_only else '\'it-IT\''
+oth_lang     = eng_lang   if is_english_only else f'\'{Other_Lang}\''
 eng_voice    = '\'Samantha\''
-ita_voice    = eng_voice  if is_english_only else '\'Alice\''
+oth_voice    = eng_voice  if is_english_only else f'\'{Other_Voice}\''
 eng_first    = '\'Question First\'' if is_english_only else '\'English First\''
-ita_first    = '\'Answer First\''   if is_english_only else '\'Italian First\''
+oth_first    = '\'Answer First\''   if is_english_only else f'\'{Other} First\''
 eng_prefix   = '\'Question: \' + '  if is_english_only else ''
-ita_prefix   = '\'Answer: \' + '    if is_english_only else ''
+oth_prefix   = '\'Answer: \' + '    if is_english_only else ''
 delay_after  = '2'  if is_basic    else '0'
 
 html_s = '''<!DOCTYPE html>
@@ -127,7 +134,7 @@ html_s = '''<!DOCTYPE html>
     </form>
     <p>
     <form>
-        <label for="italian-text-box">''' + ita_name + ''' filter:</label>
+        <label for="italian-text-box">''' + oth_name + ''' filter:</label>
         <input type="text" id="italian-text-box" name="italian-text-box">
     </form>
     </p>
@@ -135,19 +142,19 @@ html_s = '''<!DOCTYPE html>
     <button id="button_play_in_order" title="Start/stop in-order playback of list entries" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="start_stop_play_in_order()">Play In Order</button>
     <button id="button_mute" title="Mute/unmute voices" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="mute_unmute()">Mute</button>
     <button id="button_show_all" title="Show all entries" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="show_all()">Show All</button>
-    <button id="button_first" title="Show Italian/English translation first" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="which_first()">''' + ita_name + ''' First</button>
+    <button id="button_first" title="Show ''' + Other + '''/English translation first" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="which_first()">''' + oth_name + ''' First</button>
     <p style="font-size:18px">
     ''' + eng_name + ''' Speed: <input type="range" min="25" max="125" value="''' + eng_speed100 + '''" class="slider" id="slider_en" oninput="update_slider_en(this.value)">
     <span id="slider_en_value">''' + eng_speed + '''</span>
-    ''' + ita_name + ''' Speed: <input type="range" min="25" max="125" value="''' + ita_speed100 + '''" class="slider" id="slider_it" oninput="update_slider_it(this.value)">
-    <span id="slider_it_value">''' + ita_speed + '''</span>
+    ''' + oth_name + ''' Speed: <input type="range" min="25" max="125" value="''' + oth_speed100 + '''" class="slider" id="slider_it" oninput="update_slider_it(this.value)">
+    <span id="slider_it_value">''' + oth_speed + '''</span>
     </p>
     <p style="font-size:18px">
-    Extra Delay Between ''' + eng_name + ''' and ''' + ita_name + ''' (secs): <input type="range" min="0" max="10" value="0" class="slider" id="slider_extra_delay_between" oninput="update_slider_extra_delay_between(this.value)">
+    Extra Delay Between ''' + eng_name + ''' and ''' + oth_name + ''' (secs): <input type="range" min="0" max="10" value="0" class="slider" id="slider_extra_delay_between" oninput="update_slider_extra_delay_between(this.value)">
     <span id="slider_extra_delay_between_value">0</span>
     </p>
     <p style="font-size:18px">
-    Extra Delay After ''' + eng_name + ''' and ''' + ita_name + ''' (secs): <input type="range" min="0" max="10" value="''' + delay_after + '''" class="slider" id="slider_extra_delay_after" oninput="update_slider_extra_delay_after(this.value)">
+    Extra Delay After ''' + eng_name + ''' and ''' + oth_name + ''' (secs): <input type="range" min="0" max="10" value="''' + delay_after + '''" class="slider" id="slider_extra_delay_after" oninput="update_slider_extra_delay_after(this.value)">
     <span id="slider_extra_delay_after_value">''' + delay_after + '''</span>
     </p>
 
@@ -179,13 +186,13 @@ html_s = '''<!DOCTYPE html>
       var msg_it = new SpeechSynthesisUtterance("");
 
       msg_en.lang = ''' + eng_lang + ''';
-      msg_it.lang = ''' + ita_lang + ''';
+      msg_it.lang = ''' + oth_lang + ''';
 
       msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + eng_voice + ''' );
-      msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + ita_voice + ''' );
+      msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + oth_voice + ''' );
 
       msg_en.rate = ''' + eng_speed + ''';
-      msg_it.rate = ''' + ita_speed + ''';
+      msg_it.rate = ''' + oth_speed + ''';
 
       msg_en.onend = continue_playback; 
       msg_it.onend = continue_playback; 
@@ -203,7 +210,7 @@ html_s = '''<!DOCTYPE html>
 
       window.speechSynthesis.addEventListener('voiceschanged', () => {
           msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + eng_voice + ''' );
-          msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + ita_voice + ''' );
+          msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + oth_voice + ''' );
       });
 
       function clear_log() {
@@ -300,7 +307,7 @@ html_s = '''<!DOCTYPE html>
           }
 
           msg_en.text = ''' + eng_prefix + '''phrase[0];
-          msg_it.text = ''' + ita_prefix + '''phrase[1];
+          msg_it.text = ''' + oth_prefix + '''phrase[1];
 
           if ( log_s.length > 1000000 ) log_s.slice( 0, 1000000 );
           if ( english_first ) {
@@ -405,7 +412,7 @@ html_s = '''<!DOCTYPE html>
               document.getElementById('button_first').innerHTML = ''' + eng_first + ''';
               english_first = false;
           } else {
-              document.getElementById('button_first').innerHTML = ''' + ita_first + ''';
+              document.getElementById('button_first').innerHTML = ''' + oth_first + ''';
               english_first = true;
           }
           playback();

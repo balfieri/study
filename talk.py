@@ -29,12 +29,12 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 # process command line args
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 1: die( 'usage: talk.py [options]', '' )
-subjects_s = 'italian_basic,italian_advanced,italian_expressions,american_expressions,italian_vulgar,italian_passato_remoto,italian_tongue_twisters'
+subjects_s = ''
 first = 0
 english_voice = 'Samantha'
-italian_voice = 'Alice'
 english_rate  = 180
-italian_rate  = 150
+other_voice   = 'Alice'
+other_rate    = 150
 
 i = 1
 while i < len( sys.argv ):
@@ -42,12 +42,17 @@ while i < len( sys.argv ):
     i += 1
     if   arg == '-subjects':
         subjects_s = sys.argv[i]
-        i += 1
     elif arg == '-f': 
         first = int(sys.argv[i])
-        i += 1
+    elif arg == '-v':
+        other_voice = sys.argv[i]
+    elif arg == '-r':
+        other_rate = int(sys.argv[i])
     else:
         die( f'unknown option: {arg}' )
+    i += 1
+
+if subjects_s == '': die( 'no -subjects' )
 
 #-----------------------------------------------------------------------
 # read in <subject>.txt files
@@ -81,7 +86,7 @@ for subject in subjects:
         if cnt < first: continue
 
         say( question, english_voice, english_rate )
-        say( answer,   italian_voice, italian_rate )
+        say( answer,   other_voice, other_rate )
 
     Q.close()
 
