@@ -20,6 +20,7 @@ cmd_en = True
 #-----------------------------------------------------------------------
 # process command line args
 #-----------------------------------------------------------------------
+subjects_s = ''
 filename = 'words.out'
 one_per_line = False
 
@@ -27,14 +28,17 @@ i = 1
 while i < len( sys.argv ):
     arg = sys.argv[i]
     i += 1
-    if   arg == '-one_per_line':           
+    if   arg == '-subjects':
+        subjects_s = sys.argv[i]
+    elif arg == '-one_per_line':           
         one_per_line = int(sys.argv[i])
-        i += 1
     elif arg == '-file':
         filename = sys.argv[i]
-        i += 1
     else:
         die( f'unknown option: {arg}' )
+    i += 1
+
+if subjects_s == '': die( f'no -subjects' )
 
 def cmd( c, echo=True, echo_stdout=False, can_die=True ):  
     if echo: print( c )
@@ -57,7 +61,7 @@ with open( filename ) as file:
             if m:
                 s = m.group(1)
                 print( f':{s}' )
-                cmd( f'./grit.py \"{s}\"', False, True )
+                cmd( f'./grit.py -subjects {subjects_s} \"{s}\"', False, True )
             else:
                 die( f'bad line: {line}' )
         else:
@@ -67,6 +71,6 @@ with open( filename ) as file:
                 words = [m.group(1), m.group(2), m.group(3), m.group(4), m.group(5)]
                 for word in words:
                     print( f':{word}' )
-                    cmd( f'./grit.py \"{word}\"', False, True )
+                    cmd( f'./grit.py -subjects {subjects_s} \"{word}\"', False, True )
             else:
                 die( f'bad line: {line}' )

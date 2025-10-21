@@ -41,7 +41,7 @@ def match( s, pattern ):
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 2: die( 'usage: grit.py [options] <string>', '' )
 string = sys.argv[1]
-subjects_s = 'italian_basic,italian_advanced,italian_expressions,american_expressions,italian_vulgar,italian_passato_remoto,italian_tongue_twisters'
+subjects_s = ''
 search_question = True
 search_answer = True
 speak = False
@@ -66,6 +66,7 @@ while i < len( sys.argv ):
         break
     i += 1
 
+if subjects_s == '': die( f'no -subjects' )
 string = ' '.join( sys.argv[i:] )
 
 #-----------------------------------------------------------------------
