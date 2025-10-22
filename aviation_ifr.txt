@@ -1867,3 +1867,39 @@ Required Navigation Performance for Approach. The specification requires your GP
 
 standard takeoff minimums say that a pilot should not initiate a turn after takeoff until 
 reaching at least 400 feet above the departure end of runway elevation (DER)
+
+difference in autopilot test between 172SP and PA28
+try to over-power the autopilot only in the 172SP, not in the PA28
+
+KTTA ILS approaches cannot be used as an alternate because
+ILS is unmonitored
+
+ATC sees alternate in IFR flight plan?
+no
+
+how to fix track manually
+best to use the current ground track indicator on the G5, and visually drag to the proper side of current heading in order to effect the change
+
+how to fix altitude manually
+assuming the altitude was more or less ok, use a push or pull of the yoke to effect the change, then possibly the adjust the power or pitch after that (but might not need to)
+
+difference between autopilot default start mode on 172SP and PA28
+172SP defaults to ROL and VS; PA28 defaults to ROL and pitch
+
+two ways to change to vectors to final on GTN 650
+activate vectors to final or activate the leg to the final approach fix
+
+how to recover from unusual pitched up attitude
+lower nose first, then add full power
+
+difference between being told to join the STAR vs. descend via the STAR
+when joining, fly it horizontally only, maintaining assigned altitude; when descend via, use also the altitudes on the STAR
+
+when told to join the approach
+maintain the current altitude and abide by horizontal aspects of the approach; this often occurs when some other aircraft is inside the approach but ATC expects it to clear out really soon
+
+when told to hold at a waypoint
+use the course you are currently on for the inbound leg, then make a standard-rate turn when crossing the fix to proceed outbound
+
+when hitting the go-around button on the PA28
+autopilot will pitch up 7 degrees, go wings level, so must engage NAV and IAS modes
