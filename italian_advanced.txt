@@ -101508,3 +101508,6 @@ so solo; lo so soltanto
 escape hatch
 la botola di emergenza; l'uscita di sicurezza
 
+to self-manage; to manage oneself; to run autonomously
+autogestirsi
+
