@@ -28,7 +28,7 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 #-----------------------------------------------------------------------
 # process command line args
 #-----------------------------------------------------------------------
-if len( sys.argv ) < 1: die( 'usage: talk.py [options]', '' )
+if len( sys.argv ) < 1: die( 'usage: gen_html.py [options]', '' )
 subjects_s = ''
 title = 'All Lists'
 
