@@ -1864,3 +1864,6 @@ things to do as you approach the final approach fix
 
 on an approach plate, RNP APCH stands for 
 Required Navigation Performance for Approach. The specification requires your GPS or RNAV system to provide continuous position monitoring and alerting — if the system can’t maintain accuracy, it must alert you
+
+standard takeoff minimums say that a pilot should not initiate a turn after takeoff until 
+reaching at least 400 feet above the departure end of runway elevation (DER)

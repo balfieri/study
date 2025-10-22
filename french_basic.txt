@@ -52,9 +52,6 @@ quel temps fait-il?
 the weather is
 il fait
 
-ok; agreed
-d'accord
-
 fantastic
 fantastique
 
@@ -600,3 +597,94 @@ tellement
 
 Parisian
 parisien
+
+vocabulary
+le vocabulaire
+
+to illuminate; to clarify
+éclairer
+
+lighting
+l'éclairage
+
+support; stand; backing
+support
+
+household; home; hearth
+le foyer
+
+what?
+quoi?
+
+to all
+à tous
+
+finally; at last
+enfin
+
+nonetheless; nevertheless
+néanmoins
+
+that not withstanding; notwithstanding that
+cela nonobstant
+
+to do the shopping (grocery)
+faire les courses
+
+to go shopping
+aller faire les courses
+
+to leave; to quit
+quitter
+
+ok; agreed; alright
+d'accord
+
+father-in-law
+le beau-père
+
+mother-in-law
+la belle-mère
+
+inlaws
+les beaux-parents
+
+left (noun)
+la gauche
+
+right (noun)
+la droite
+
+human right
+le droit de l'homme
+
+to add
+ajouter
+
+to subtract
+soustraire
+
+to remove
+enlever
+
+to replace
+remplacer
+
+concord; agreement
+la concorde
+
+to ask; to request
+demander
+
+to wait for; to await
+attendre
+
+free (cost)
+gratuit
+
+to plan
+prévoir
+
+to plan to (do something)
+prévoir de (faire quelque chose)
+
