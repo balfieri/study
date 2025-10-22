@@ -295,3 +295,308 @@ pendant; au cours de; durant
 name; noun
 le nom
 
+beginning
+le début
+
+at the very beginning
+tout au début
+
+web site
+le site web
+
+vowel
+la voyelle
+
+consonant
+la consonne
+
+to give
+donner
+
+in which
+dans lequel; dans laquelle
+
+pronunciation
+la prononciation
+
+acute accent
+l'accent aigu
+
+sound
+le son
+
+grave accent
+l'accent grave
+
+circumflex accent
+l'accent circonflexe
+
+to create
+créer
+
+course
+le cours
+
+rather
+plutôt
+
+letter
+la lettre
+
+to succeed in (doing something)
+réussir à (faire quelque chose)
+
+to read
+lire
+
+tea
+le thé
+
+that
+cela; ça; que
+
+launch
+le lancement
+
+link
+le lien
+
+like; as
+comme
+
+to confuse
+confondre
+
+long
+long
+
+quite; enough; fairly
+assez
+
+subject; topic
+le sujet
+
+monthly
+mensuel
+
+some of it; whatever of it
+quelqu'en
+
+hobby
+le hobby; le loisir; le passe-temps
+
+pleasure
+le plaisir
+
+always
+toujours
+
+everybody; everyone
+tout le monde
+
+all the time
+tout le temps
+
+often
+souvent
+
+from time to time
+de temps en temps
+
+once per week
+une fois par semaine
+
+weekend
+le week-end
+
+almost
+presque
+
+never
+jamais
+
+yoga
+le yoga
+
+several
+plusieurs
+
+to know; to be familiar with
+connaître
+
+to encounter
+rencontrer
+
+when
+lorsque; quand
+
+free time
+le temps libre
+
+hello (phone)
+allô
+
+guy
+le gars
+
+bike
+le vélo
+
+novel
+le roman
+
+Roman
+romain
+
+guitar
+la guitare
+
+to play (an instrument)
+jouer du
+
+to garden
+jardiner
+
+to learn
+apprendre
+
+to cook
+cuisiner
+
+to watch
+regarder
+
+too often
+trop souvent
+
+series
+la série
+
+Sunday
+dimanche
+
+to take photos
+prendre des photos
+
+spring
+le printemps
+
+to enjoy; to take advantage of
+profiter
+
+district; neighborhood
+le quartier
+
+square (plaza)
+la place
+
+church
+l'église
+
+secular
+laïque
+
+except
+sauf
+
+to cost
+coûter
+
+price; fare; rate
+le tarif
+
+special
+spécial
+
+only
+seulement
+
+since; because
+puisque
+
+next to; beside
+à côté de
+
+to show
+montrer
+
+to hide
+cacher
+
+summer
+l'été
+
+autumn; fall
+l'automne
+
+winter
+l'hiver
+
+german
+allemand
+
+partner
+le partenaire
+
+native
+natif
+
+live (broadcast)
+en direct
+
+available
+disponible
+
+24 hours a day; 24/7
+24 heures sur 24
+
+to receive
+recevoir
+
+to feel like; to want
+avoir envie de
+
+old
+vieille
+
+bakery
+la boulangerie
+
+then; next
+ensuite
+
+to taste; to savor
+déguster
+
+to summarize
+résumer
+
+surely
+sûrement
+
+to decode
+décoder
+
+to express
+exprimer
+
+to complain
+se plaindre
+
+to grumble; to complain
+râler
+
+subway
+le métro
+
+to share
+partager
+
+good luck
+bonne chance
+
+so much; really
+tellement
+
+Parisian
+parisien
