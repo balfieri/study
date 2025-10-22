@@ -40024,9 +40024,6 @@ mettere a disposizione
 surcharge
 il sovrapprezzo; il sovraprezzo; il supplemento
 
-obligatorily
-obbligatoriamente
-
 underage
 minorenne
 
@@ -101510,4 +101507,7 @@ la botola di emergenza; l'uscita di sicurezza
 
 to self-manage; to manage oneself; to run autonomously
 autogestirsi
+
+obligatorily; by obligation; as a requirement
+obbligatoriamente
 
