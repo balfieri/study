@@ -116,7 +116,7 @@ html_s = '''<!DOCTYPE html>
       border: 1px solid #ccc;
       font-size: 20px;
     }
-    #italian-text-box {
+    #other-text-box {
       height: 1em;
       width: 500px;
       border: 1px solid #ccc;
@@ -134,8 +134,8 @@ html_s = '''<!DOCTYPE html>
     </form>
     <p>
     <form>
-        <label for="italian-text-box">''' + oth_name + ''' filter:</label>
-        <input type="text" id="italian-text-box" name="italian-text-box">
+        <label for="other-text-box">''' + oth_name + ''' filter:</label>
+        <input type="text" id="other-text-box" name="other-text-box">
     </form>
     </p>
     <button id="button_play_randomly" title="Start/stop randomized playback of list entries" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="start_stop_play_randomly()">Play Randomly</button>
@@ -170,7 +170,7 @@ html_s = '''<!DOCTYPE html>
       var log_s = ""
 
       var english_filter = "";
-      var italian_filter = "";
+      var other_filter = "";
 
       var in_order = false;
       var in_order_i = 0;
@@ -229,20 +229,20 @@ html_s = '''<!DOCTYPE html>
 
       function apply_filters() {
           if ( document.getElementById("english-text-box").value == english_filter &&
-               document.getElementById("italian-text-box").value == italian_filter ) {
+               document.getElementById("other-text-box").value == other_filter ) {
               // no changes in filters, so no need to re-apply them
               return;
           }             
 
           clear_log();
           english_filter = document.getElementById("english-text-box").value;
-          italian_filter = document.getElementById("italian-text-box").value;
+          other_filter = document.getElementById("other-text-box").value;
           var english_regex = new RegExp( english_filter );
-          var italian_regex = new RegExp( italian_filter );
+          var other_regex = new RegExp( other_filter );
           for( idx = 0; idx < phrases.length; idx++ ) {
               phrase = phrases[idx];
               phrase[2] = (english_filter == "" || english_regex.test( phrase[0] )) &&
-                          (italian_filter == "" || italian_regex.test( phrase[1] ));
+                          (other_filter == "" || other_regex.test( phrase[1] ));
           }
       }
 
