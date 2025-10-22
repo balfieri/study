@@ -703,3 +703,8 @@ grammatical
 grammar
 la grammaire
 
+idea
+l'idée
+
+I have no idea; no idea; not the foggiest idea
+je n'ai aucune idée; aucune idée; pas la moindre idée
