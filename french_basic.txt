@@ -690,3 +690,9 @@ prévoir de (faire quelque chose)
 
 machine
 la machine
+
+beginner
+le débutant; la débutante
+
+novice
+le novice; la novice
