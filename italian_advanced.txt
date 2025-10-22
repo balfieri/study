@@ -62786,9 +62786,6 @@ l'uscita del DVD
 to infuriate; to incense
 accanire
 
-bresaola (air-dried salted lean beef)
-la bresaola
-
 braciola (meat rolled around a cheese filling)
 la braciola
 
@@ -101492,4 +101489,10 @@ curare un raffreddore; prendersi cura di un raffreddore
 
 to recover from a cold
 guarire da un raffreddore; riprendersi da un raffreddore
+
+sign of the gods; sign from the gods
+il segno dei dei
+
+bresaola; cured raw beef; air-dried salted beef
+la bresaola
 

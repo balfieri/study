@@ -46,6 +46,8 @@ search_question = True
 search_answer = True
 speak = False
 lookup_if_not_found = False
+language = 'english'
+voice = 'Samantha'
 out_file = ''
 i = 1
 while i < len( sys.argv ):
@@ -53,13 +55,17 @@ while i < len( sys.argv ):
     i += 1
     if   arg == '-subjects':
         subjects_s = sys.argv[i]
+    elif arg == '-l':
+        language = sys.argv[i]
+    elif arg == '-v':
+        voice = sys.argv[i]
     elif arg == '-q':
         search_question = int(sys.argv[i])
     elif arg == '-a':
         search_answer = int(sys.argv[i])
     elif arg == '-s':
         speak = int(sys.argv[i])
-    elif arg == '-l':
+    elif arg == '-lu':
         lookup_if_not_found = int(sys.argv[i])
     else:
         i -= 1
@@ -98,12 +104,11 @@ for subject in subjects:
             print( f'{filename}:{ques_line_num}:    {question}' )
             print( f'{filename}:{line_num}:    {answer}' )
             if speak:
-                #cmd( f'say {question}' )
-                cmd( f'say -v Alice {answer}', echo=False )
+                cmd( f'say -v {voice} {answer}', echo=False )
             found = True
 
     Q.close()
 
 if not found and lookup_if_not_found:
     print( f'Not found, looking up translation...' )
-    cmd( f'gpt -c translations -i \"{string}\"', True, True )
+    cmd( f'gpt -c {language}_translations -i \"{string}\"', True, True )
