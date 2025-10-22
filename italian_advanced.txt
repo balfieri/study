@@ -101502,3 +101502,6 @@ definire un orario; fissare un orario; individuare un orario
 meticulously; thoroughly; in detail
 minuziosamente
 
+I just know
+so solo; lo so soltanto
+
