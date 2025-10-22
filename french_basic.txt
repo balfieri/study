@@ -696,3 +696,10 @@ le débutant; la débutante
 
 novice
 le novice; la novice
+
+grammatical
+grammatical
+
+grammar
+la grammaire
+
