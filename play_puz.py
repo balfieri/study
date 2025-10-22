@@ -30,8 +30,7 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 #-----------------------------------------------------------------------
 # process command line args
 #-----------------------------------------------------------------------
-subjects = 'italian_advanced'
-
+subjects = ''
 extra_args = ''
 
 i = 1
@@ -40,10 +39,11 @@ while i < len( sys.argv ):
     i += 1
     if   arg == '-subjects':
         subjects = sys.argv[i]
-        i += 1
     else:
         extra_args += f' {arg} {sys.argv[i]}'
-        i += 1
+    i += 1
+
+if subjects == '': die( f'no -subjects' )
 
 cmd( f'make gen_puz' )
 cmd( f'./gen_puz {subjects}{extra_args} > www/one.html' )
