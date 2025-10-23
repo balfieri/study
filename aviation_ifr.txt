@@ -25,7 +25,7 @@ UNOS
 undershoot turn to or from north, overshoot turn to or from south
 
 6HIT acronym for IFR currency
-in the prior 6 calendar months, the pilot must perform 6 instrument approaches, hold (at least one), intercepting fixes, and tracking courses; otherwise, the pilot must get an Instrument Proficiency Check (IPC) from a CFII
+in the prior 6 calendar months, the pilot must perform 6 instrument approaches, hold (at least one), intercepting fixes, and tracking courses; otherwise, if 12 months pass, the pilot must get an Instrument Proficiency Check (IPC) from a CFII
 
 what happens during an instrument proficiency check (IPC)
 no ground work, but flight covers same things as in an instrument check ride; some tasks may be completed in an AATD
@@ -504,8 +504,8 @@ display advisory vertical guidance
 ACS says regarding the choice of approach procedures
 at least one procedure must include a course reversal maneuver, one procedure must be done manually from the IAF (but can use the flight director), one procedure must be flown partial panel, and at least one procedure must be a precision approach using the autopilot
 
-IFR is required when
-flying into controlled airspace in IMC, anytime flying in class A, flying special VFR between sunset and sunrise, acting as a commercial pilot more than 50 nautical miles away during the day or anytime at night
+IFR rating is required when
+flying into controlled airspace in IMC, anytime flying in class A, flying special VFR between sunset and sunrise (though plan not required), acting as a commercial pilot more than 50 nautical miles away during the day or anytime at night
 
 minimum requirements of a safety pilot
 holds private pilot in type of airplane being flown; has current medical certificate; need not be current with flight review; must have adequate vision forward and to each side of aircraft
@@ -1204,7 +1204,7 @@ when to disengage autopilot
 when it doesn't do what it is supposed to; during icing; during engine failure; during severe turbulence
 
 how much of proficiency can be done in a BATD
-all
+all, and it is allowed in the 6 month window after the normal 6 month window
 
 when to switch to departure when lost comms with tower
 now, after 1000 feet
@@ -1906,3 +1906,49 @@ autopilot will pitch up 7 degrees, go wings level, so must engage NAV and IAS mo
 
 KTTA takeoff limits
 for runway 3, do not turn right until 1100 feet; for runway 21, do not turn left until 1500 feet; this is all related to the big tower
+
+on an IFR low en route chart, a class D airspace is shown
+using a dashed circle, similar to on a VFR chart
+
+why file to an initial approach fix?
+makes lost communications handling easier
+
+if you have one G5 non-operational, should you declare an emergency?
+no, but you should report the inoperative G5
+
+you may fly a DME arc without DME if
+you fly the arc with a GPS, then switch to VOR for the inbound leg
+
+when ATC instructs you to Maintain 300 knots, descend pilot’s discretion, maintain 7000
+you are cleared to descend from 15,000 feet to 7,000 feet at your discretion, provided you maintain 300 knots throughout the descent until speed limits or further instructions apply, such as 250 knots below 10,000 feet
+
+radius of a TAF
+5 statute miles
+
+the leans can lead to
+a graveyard spiral 
+
+when the engine air intake gets blocked by ice or other
+the engine will lose power and may quit altogether; most engines will automatically open an alternate intake door
+
+if a backup instrument is inoperative, you should look at the
+STC for the aircraft, which will normally say that the instrument is required
+
+zig-zag line through an airway means that
+it is closed, usually due to an inoperative VOR
+
+problems with filing direct, particularly over mountains
+off-route, lost comms, gonna get a different clearance anyway, not ideal for traffic flow, unpublished hold above destination, recommended route is not necessarily safe, maybe add initial approach fix to route even you have to hold there
+
+winds aloft forecast comes out at
+00Z and 12Z
+
+on an IFR Low En Route Chart, a green square drawn around a class B airspace area indicates 
+availability of a Terminal Area Chart (TAC) for that region
+
+you may pick up your IFR clearance 
+up to about 10 minutes before your proposed taxi time at towered airports, and typically no more than 30 minutes before takeoff at non‑towered fields when a clearance void time applies
+
+there is no weather reporting today at yourdestination, can still you still fly an instrument approach procedure?
+yes, using the nearby altimeter setting with any additional restrictions, but you must file an alternate that does have weather reporting according to alternate minimums
+

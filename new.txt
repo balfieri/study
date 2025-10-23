@@ -1,42 +1,15 @@
-can use simulator after 6 months alone?
-
-problems with filing direct, particularly over mountains: off-route, lost comms, gonna get a different clearance anyway, not ideal for traffic flow, unpublished hold above dest, recommended route is not necessarily safe, maybe add IAF to route even have to hold there
-
-zig zag line through airway means it is closed, usually due to lack of VOR coverage along that radial
-
-how to calc VPD?
-AGL/300 = nm
-
-delay vectors or box vectors
-
 A NA - not auth as alternate
-
-if backup instrument is inop, need to look at STC for plane, which will likely say must have it
 
 reverse sensing is when CDI shows aircraft relative to course rather than VOR relative to course?
 
-WAAS: ground stations send info to master station that beams corrections to geostationary satellites that then send you the corrected info
-
-
-when should we look for LPV vs. LNAV etc.?
-
-
 need to thoroughly read supplements for our aircraft
-
-does garmin have a g5 app?
-
-engine intake air blocked, what is effect?
 
 red x over AHRS
 red X if ADC went bad
 
 understand what POH says  about dealing with icing conditions
 
-how often winds aloft comes out?
-
 how to know gps is airworthy?
-
-memorize MARVELOUS VFR C500
 
 can foreflight help me understand my ETA situation?
 
@@ -45,27 +18,13 @@ how do you account for things not in your flight plan? like route changes, etc.
 
 EMAS
 
-green square around bravo
-
 two H's
-
-how is class D shown on chart?
-
-leave clearance limit?
-
-always file to point on approach that has a hold; this way, you know to hold there or continue the approach with lost comms
 
 limitations of weather tools on the airplane
 
-how far in advance may you pick up your IFR clearance?
-
 bring binder with everything organized
 
-do not declare emergency if only one G5 out
-
 can't do rnav GPS if no HSI; need to request ILS
-
-you CAN fly a DME arc without DME, so long as you use GPS for navigation during the arc before switching to VOR on the straight in portion
 
 you do not need a transponder to fly ifr, but atc gives a squawk code, so???
 
@@ -73,24 +32,12 @@ What are the ranges for a Localizer and Glideslope? How far can you pick up the 
 
 What are the standard alternate minimums for an airport with only GPS approaches? What if they have an LPV approach that takes you to 200ft HAT?
 
-You are currently at 15000ft. ATC informs you to maintain 300kts, descend pilots disretion, and maintain 7000. What do you do?
-
-TAF radius is 5 SM
-
 LPV vs LNAV/VNAV precision
-
-the leans leads to graveyard spiral 
 
 MOSAIC rules
 
 illusions will always be an issue
 
-no weather reporting today, can still fly an iap?
-
 elevator illusion
 
 mandatory reporting info
-
-Do you need to file an IFR flight plan for special VFR at night?
-
-What the six hit acronym I don't think you need to get a instrument proficiency check until an additional six months go by you're just not current until you achieve the six hit
