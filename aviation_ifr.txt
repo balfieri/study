@@ -99,21 +99,6 @@ a warmer air mass moves inland from the coast in winter and is cooled by the col
 if ATC gives a pilot a clearance void time, he must depart
 before the void time; if he can't, he should report it to ATC as soon as possible and no later than 30 minutes after the void time
 
-maximum surface volume distance of a VORTAC from 1000 to 5000 feet AGL
-40 nautical miles
-
-maximum surface volume distance of a VORTAC from 5000 to 14,500 feet AGL
-70 nautical miles
-
-maximum surface volume distance of a VORTAC at least 14,500 feet AGL and below 18,000 feet AGL
-100 nautical miles
-
-maximum surface volume distance of a VORTAC at least 18,000 feet AGL and below 45,000 feet AGL
-130 nautical miles
-
-maximum surface volume distance of a VORTAC at least 45,000 feet AGL and below 60,000 feet AGL
-100 nautical miles
-
 BasicMed: 
 no more than 7 occupants, less than 18,000 feet; no more than 250 KIAS; up to 12,500 pounds; within the USA (usually); never for hire; state-issued driver license must be carried; comprehensive medical examination checklist and BasicMed Medical Education Course completion certificate must be kept and available if requested
 
@@ -519,19 +504,22 @@ holds private pilot in type of airplane being flown; has current medical certifi
 when can IFR flight be logged
 for simulated IMC, pilot must go down to minimums; for actual IMC, pilot must go past the FAF
 
-on IFR low enroute chart, the north symbol on a VOR represents
+on IFR low en route chart, the north symbol on a VOR represents
 magnetic north at the time the VOR was installed
 
-on IFR low enroute chart, flag with X over a point represents
-a point that has a minimum crossing altitude (MCA)
+on IFR low en route chart, flag with X over a point represents
+ point that has a minimum crossing altitude (MCA); you must be at the altitude specified for your airway and direction, if one exists
 
-on IFR low enroute chart, flag with R over a point represents
+on IFR low en route chart, if a minimum cross altitude (MCA) does not apply to your crossing and you are going to a higher altitude
+you need not start your climb until you cross the intersection, then you must climb at an optimum rate up to 1000 feet below the higher altitude, then maintain a rate between 500 and 1500 feet per minute until reaching the higher altitude
+
+on IFR low en route chart, flag with R over a point represents
 a point that has a minimum reception altitude (MRA)
 
-on IFR low enroute chart, hash marks around a waypoint means
+on IFR low en route chart, hash marks around a waypoint means
 there are different altitudes on each side of the waypoint
 
-on IFR low enroute chart, blue vs. black vs. brown routes
+on IFR low en route chart, blue vs. black vs. brown routes
 blue is for RNAV route (usually GPS), black is for VOR route; brown is for military training route (below 1500 feet AGL)
 
 with MON VORs, can get to any airport within
@@ -630,7 +618,7 @@ final approach fix for the precision approach, and also the glide slope intercep
 approaches to which a published VDP applies
 non-precision only (those with an MDA); applies mainly to fast airplanes
 
-on IFR low enroute altitude chart, pilot-controlled lighting at an airport is denoted by
+on IFR low en route altitude chart, pilot-controlled lighting at an airport is denoted by
 black oval or circle with the letter L inside, next to the airport's frequency; for part-time or continuous, it is often denoted with a star symbol
 
 conditions necessary to be cleared for a visual approach
@@ -663,10 +651,10 @@ more centrifugal force than the horizontal lift component
 slipping turn is due to
 less centrifugal force than the horizontal lift component
 
-how to determine if GPS installed is approved for IFR enroute and approaches
+how to determine if GPS installed is approved for IFR en route and approaches
 consult flight manual supplement
 
-during IFR enroute and terminal operations with an approved GPS, ground based facilities
+during IFR en route and terminal operations with an approved GPS, ground based facilities
 must be operational along the entire route of flight; exception: WAAS-capable GPS
 
 if you suspect hyperventilation
@@ -718,7 +706,7 @@ ATC may issue a STAR
 when ATC feels it's appropriate, unless the pilot requests No STAR
 
 recommended climb procedure when non-radar approach control tells you to climb to assigned altitude
-optimal climb on centerline until 1000 feet below assigned altitude, then 500 to 1500 feet per minute
+optimal climb on centerline until 1000 feet below assigned altitude, then 500 to 1500 feet per minute; if you cannot maintain at least 500 feet per minute, you must notify ATC
 
 what can be substituted for an inoperative ILS outer or middle marker
 compass locator or precision radar; note that DME may be substituted for outer marker only; DME; VOR; GPS
@@ -786,7 +774,7 @@ valid time frame for low-level significant weather prog charts
 parallel ILS approaches provide
 aircraft a minimum of 1 and one half miles radar separation between successive aircraft
 
-brown vs. green vs. blue airports on IFR low enroute chart
+brown vs. green vs. blue airports on IFR low en route chart
 brown: no instrument approaches; green: civilian and has instrument approaches; blue: has DOD approved instrument approaches
 
 terms or values to use when providing a quality of braking report to ATC
@@ -804,7 +792,7 @@ be accurately established before reaching the outer marker and completion of the
 in IFR flight, a mode-C transponder is required
 in class A, B, or C airspace at all times; above 2500 AGL and above 10,000 feet MSL; within 30 nautical miles of a primary class B airport; above the ceiling and within the lateral boundaries of class B or class C airspace up to 10,000 feet MSL
 
-types of airspace depicted in IFR low enroute chart
+types of airspace depicted in IFR low en route chart
 limits of controlled airspace, military training routes, and special-use airspace
 
 heavy icing on the leading edge of the wing is not as bad as
@@ -993,7 +981,7 @@ between 5 minutes before and 5 minutes after the EDCT
 MOCA assures acceptable navigational signal coverage from a VOR of only
 22 nautical miles
 
-*1000 on IFR enroute chart denotes a
+*1000 on IFR en route chart denotes a
 MOCA
 
 when an approach fix has the word RADAR under it
@@ -1317,7 +1305,7 @@ Diverse Vector Area is an airspace segment at certain airports where ATC may pro
 A-M-E: during an IFR lost communications situation, the altitude you should fly is
 the highest of the following three altitudes: the last assigned altitude by ATC, the Minimum IFR altitude for the route segment, or the altitude ATC expected you to fly
 
-meaning of letter A in parentheses on an IFR low enroute chart
+meaning of letter A in parentheses on an IFR low en route chart
 ATIS frequency
 
 if pitot ram air source and drain hole are both blocked
@@ -1821,7 +1809,7 @@ GNSS
 broad term for satellite-based RNAV; GPS is the GNSS within the USA
 
 different RNPs
-enroute: RNP 2.0; terminal and departure: RNP 1.0; final approach: RNP 0.3
+en route: RNP 2.0; terminal and departure: RNP 1.0; final approach: RNP 0.3
 
 ASOS vs. AWOS
 ASOS updated hourly, AWOS every minute
@@ -2041,3 +2029,27 @@ the VOR does not transmit any voice on this frequency, only navigation signal an
 
 after the VOR identifier in a VOR information box, there can be a second frequency, which is
 the DME frequency; but that frequency is always determined from the VOR frequency, so a VOR receiver with DME can always determine it from the VOR frequency alone; if the DME frequency has a (Y) after it, then there is a slightly different pulse spacing and shifted frequency spacing than the typical 63 MHz of separation
+
+pitch control and performance instruments
+use the attitude indicator to set the pitch, then cross-check using the altitmeter, vertical speed indicator (VSI), and airspeed indicator
+
+bank control and performance instruments
+use the attitude indicator to set the bank angle, then cross-check using the heading indicator, turn coordinator, and compass
+
+legacy terminal (T) VOR nautical mile ranges
+from 1000 to 12000 feet AGL: 25
+
+VOR legacy low (L) nautical mile ranges
+from 1000 to 18000 feet AGL: 40
+
+VOR legacy high (H) nautical mile ranges
+from 1000 to 14500 feet AGL: 40; from 14500 to 18000 feet AGL: 100; from 18000 to 45000 feet: 130; from 45000 to 60000 feet: 100
+
+VOR low (VL) nautical mile ranges (newer)
+from 1000 to 5000 feet AGL: 70; from 5000 to 18000 feet AGL: 70
+
+VOR high (VH) nautical mile ranges (newer)
+from 1000 to 5000 feet AGL: 70; from 5000 to 14500 feet AGL: 70; 14500 to 18000 feet AGL: 100; 18000 to 45000 feet AGL: 130; 45000 to 60000 feet AGL: 100
+
+what does (VL) (L) mean in a VOR information box?
+VOR Low for the VOR, legacy low for the DME component
