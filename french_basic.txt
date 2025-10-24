@@ -1141,3 +1141,5 @@ le corps
 hair
 les cheveux
 
+to log in; to login
+se connecter; s'identifier
