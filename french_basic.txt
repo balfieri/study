@@ -841,3 +841,180 @@ la question
 difficulty
 la difficulté
 
+bottom; back; background
+le fond
+
+shy; timid
+timide
+
+tired
+fatigué
+
+sofa; couch
+le canapé
+
+shoe
+la chaussure
+
+midnight
+minuit
+
+despite; in spite of
+malgré
+
+poster
+l'affiche
+
+to forget
+oublier
+
+everything else; all the rest
+tout le reste
+
+old
+vieux
+
+lady
+la dame
+
+suddenly
+soudain
+
+internship; work placement; training course
+le stage
+
+story; history
+l'histoire
+
+to work
+travailler
+
+to wake up
+se réveiller
+
+early
+tôt
+
+late
+tard
+
+eyes
+les yeux
+
+eye
+le yoeil
+
+to visit (someone)
+rendre visite à
+
+nobody; no one
+personne
+
+quelqu'un; someone
+quelqu’un
+
+anyone
+n'importe qui
+
+goodbye
+au revoir
+
+heart
+le coeur
+
+crowded; full of people
+plein de monde
+
+cap; baseball cap
+la casquette
+
+coat
+le manteau
+
+after that
+après ça
+
+Mr; sir; gentleman
+le monsieur
+
+mall; shopping center
+le centre commercial
+
+to be angry
+être fâché
+
+in the process of; currently (doing)
+en train de
+
+customer; client
+le client
+
+to become
+devenir
+
+sometimes
+parfois
+
+friendship
+l'amitié
+
+sentence; phrase
+la phrase
+
+trust; confidence
+confiance
+
+powerful
+puissant
+
+money; silver
+l'argent
+
+to protest; to demonstrate
+manifester
+
+to come
+venir
+
+to come back; to return
+revenir
+
+physics
+la physique
+
+chemistry
+la chimie
+
+housework; cleaning
+le ménage
+
+to memorize
+mémoriser
+
+to break; to shatter
+briser
+
+pasta
+les pâtes; la pasta
+
+sauce
+le sauce
+
+to try
+essayer
+
+to manage; to handle
+gérer
+
+this one (feminine); that one (feminine)
+celle
+
+these ones (feminine); those ones (feminine)
+celles
+
+key
+la clé
+
+lexicon; word list
+le lexique
+
