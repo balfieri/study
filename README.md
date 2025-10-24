@@ -11,37 +11,37 @@ Answers in the file will be split along semicolons onto separate lines. The answ
 
 There are a few text files provided for various topics of my interest. Feel free to use them or add your own:
 
-    aviation.txt                        -- private pilot checkride oral exam (includes categories)
-    aviation_ifr.txt                    -- instrument pilot written exam and checkride oral more difficult questions
+    aviation_vfr.txt                    -- private pilot written exam and checkride oral exam (includes categories)
+    aviation_ifr.txt                    -- instrument pilot written exam and checkride oral exam
 
     italian_basic.txt                   -- basic words
     italian_advanced.txt                -- intermediate to advanced words
     italian_passato_remoto.txt          -- conjugations of the passato remoto (mostly irregular verbs)
     italian_expressions.txt             -- Italian expressions 
+    italian_american_expressions.txt    -- American expressions
     italian_vulgar.txt                  -- vulgar phrases (parolacce)
     italian_tongue_twisters.txt         -- tongue twisters (scioglilingua)
-    italian_american_expressions.txt    -- American expressions
 
     french_basic.txt                    -- basic words
     french_advanced.txt                 -- intermediate to advanced words
-    french_expressions.txt              -- Italian expressions 
-    french_vulgar.txt                   -- vulgar phrases (parolacce)
+    french_expressions.txt              -- French expressions 
     french_american_expressions.txt     -- American expressions
+    french_vulgar.txt                   -- vulgar phrases
 
-Example of running the aviation questions:
+Example of running the aviation_vfr questions:
 
-    ./run.py aviation                   -- ask 20 questions at a time, prompt for answer
-    ./run.py aviation -q 100            -- same, but 100 questions instead of default of 20
-    ./run.py aviation -q 0              -- same, but ALL questions instead of default of 20
-    ./run.py aviation -q 0 -ps 2        -- same, but just print answer with 4-second pause
-    ./run.py aviation -q 0 -ps 2 -cat critical -- same but only questions in the 'critical' category
-    ./run.py aviation,aviation_ifr -q 0 -ps 4 -cat critical -- same, using both aviation.txt and aviation_ifr.txt
+    ./run.py aviation_vfr               -- ask 20 questions at a time, prompt for answer
+    ./run.py aviation_vfr -q 100        -- same, but 100 questions instead of default of 20
+    ./run.py aviation_vfr -q 0          -- same, but ALL questions instead of default of 20
+    ./run.py aviation_vfr -q 0 -ps 2    -- same, but just print answer with 4-second pause
+    ./run.py aviation_vfr -q 0 -ps 2 -cat critical -- same but only questions in the 'critical' category
+    ./run.py aviation_vfr,aviation_ifr -q 0 -ps 4 -cat critical -- same, using both aviation_vfr.txt and aviation_ifr.txt
 
 This is all open-source. Refer to the LICENSE.md for licensing details.  
 
 There is a roundabout way to run this on iOS. Use an app called Working Copy to clone this git repo, then use another app called PyTo to run the Python interpreter on iOS. You will need to enable Working Copy to be a Files "location" in order for PyTo to see the repo on your phone. Once it's set up, you just need to "git pull" the repo occasionally. Kind of clunky, but useful.
 
-For aviation.txt, I need to add a way to narrow down the aircraft type for which questions can be asked. Currently, I include questions about both 172SP and PA-28-161, which are the two planes I currently fly.
+For aviation_vfr.txt, I need to add a way to narrow down the aircraft type for which questions can be asked. Currently, I include questions about both 172SP and PA-28-161, which are the main two planes I fly (I also fly the 152 and M20J a little).
 
 Bob Alfieri<br>
 Chapel Hill, NC

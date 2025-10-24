@@ -1,4 +1,4 @@
-# aviation.txt - private pilot checkride questions
+# aviation_vfr.txt - private pilot checkride questions 
 #
 {sop} PLSTART
 pitch for best glide speed, landing site, seat belt, troubleshoot, approach, radio, turn off
