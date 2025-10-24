@@ -101529,3 +101529,12 @@ l'ala ovest
 seniority; old age; length of service
 l'anzianalità
 
+wing
+l'aile
+
+wing tip
+l'estremità alare
+
+wing (adjective)
+alare
+
