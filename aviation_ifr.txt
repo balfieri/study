@@ -99,8 +99,11 @@ a warmer air mass moves inland from the coast in winter and is cooled by the col
 if ATC gives a pilot a clearance void time, he must depart
 before the void time; if he can't, he should report it to ATC as soon as possible and no later than 30 minutes after the void time
 
-maximum surface volume distance of a VORTAC below 14,500 feet AGL
+maximum surface volume distance of a VORTAC from 1000 to 5000 feet AGL
 40 nautical miles
+
+maximum surface volume distance of a VORTAC from 5000 to 14,500 feet AGL
+70 nautical miles
 
 maximum surface volume distance of a VORTAC at least 14,500 feet AGL and below 18,000 feet AGL
 100 nautical miles
@@ -115,7 +118,10 @@ BasicMed:
 no more than 7 occupants, less than 18,000 feet; no more than 250 KIAS; up to 12,500 pounds; within the USA (usually); never for hire; state-issued driver license must be carried; comprehensive medical examination checklist and BasicMed Medical Education Course completion certificate must be kept and available if requested
 
 GBAS approach 
-ground-based augmentation for GPS that provides less than 1 meter accuracy in horizontal and vertical axes; flown same as ILS after selected; GBAS landing system (GLS)
+ground-based augmentation for GPS that provides less than 1 meter accuracy in horizontal and vertical axes; flown same as ILS after selected; precision approach; GBAS landing system (GLS)
+
+SBAS
+satellite-based augmentation system; the one we use in the USA is WAAS
 
 how much time needed to rid body of alcohol from one beer
 3 hours
@@ -213,8 +219,8 @@ an approved instrument approach procedure other than GPS and it must be operatio
 roll upset
 exit ASAP, disengage AP, reduce AOA by increasing speed, do not retract flaps, controlled descent as last resort
 
-ATC says: cruise NNNN feet
-can vacate NNNN without notifying ATC
+ATC says: cruise 7000 feet
+you may operate anyway from the minimum IFR altitude (MIA, MEA, or MOCA) up to and including 7000 feet MSL at your discretion; the pilot may climb or descend freely within this block; once the pilot reports leaving an altitude within the block, such as leaving 7000 for 5000, the pilot may not climb back to that altitude again unless ATC issues a new clearance; the cruise clearance automatically includes authorization to execute and instrument approach at the destination airport; controllers use the cruise clearance primarily in low-traffic or remote areas
 
 Coriolis illusion 
 prolonged constant rate turns, abrupt head moving, illusion of rotation on entirely different axis
@@ -322,7 +328,7 @@ default upper limit of class D
 2500 feet AGL
 
 to recover from tailplane stall due to icing
-retract flaps and increase power to compensate for reduction in lift
+retract flaps, build up speed, and increase power to compensate for reduction in lift
 
 preflight altimeter should show 
 plus or minus 75 feet from field elevation reference level
@@ -907,7 +913,7 @@ altitude-induced hypoxia is caused by
 insufficient partial pressure of inhaled oxygen
 
 reports required of an IFR flight specifying VFR on Top in a non-radar environment
-the same reports that are required for any IFR flight
+the same reports that are required for any IFR flight, particularly all altitude changes
 
 9900+00 on a Winds and Temperatures Aloft Forecast indicates that wind is
 light and variable, less than 5 knots
@@ -1189,13 +1195,22 @@ once established on a transition the pilot may
 descend according to the published altitudes on the approach
 
 only times do not have to report a vacated altitude
-within an assigned block altitude range, during an emergency, or responding to a traffic alert for collision avoidance
+within an assigned block altitude range (including a cruise NNNN assignment), during an emergency, or responding to a traffic alert for collision avoidance
 
 if you land at an uncontrolled airport on an IFR flight plan
 you must call back ATC or FSS to cancel it; ForeFlight cannot be used to cancel an active flight plan
 
 when to check that GPS level has been achieved
 when identifying navaids; first fix on initial fix on final approach segment; check during before-landing checklist
+
+RNP
+required navigation performance for GPS; we use WAAS to get RNP
+
+PBN
+performance-based navigation; an umbrella around RNP and other possible systems
+
+what RNP levels should we expect?
+RNP 2.0 for en route; RNP 1.0 for terminal and departure; RNP 0.3 for approaches
 
 RNAV RNP 0.3 approach
 precise type of instrument approach used in aviation, where the navigation system on the aircraft must be able to keep the plane within 0.3 nautical miles of its intended flight path 95% of the time during certain approach segments; all RNAV approaches are RNP approaches
@@ -1297,7 +1312,7 @@ how to determine if you are current for IFR flight
 from the date of intended flight, count backward exactly 6 calendar months; you must have completed and logged the required tasks within that period
 
 DVA
-Diverse Vector Area is an airspace segment at certain airports where ATC may provide random vectors to an aircraft during its departure climb, even below the MVA, while still ensuring obstacle clearance
+Diverse Vector Area is an airspace segment at certain airports where ATC may provide random radar vectors to an aircraft during its departure climb, even below the MVA, while still ensuring obstacle clearance; a pilot must maintain a continous climb (usually at least 200 feet per nautical mile) until reaching the minimum vectoring altitude or minimum IFR altitude; DVAs are published in the same place as ODPs, and used in lieu of an ODP or SID
 
 A-M-E: during an IFR lost communications situation, the altitude you should fly is
 the highest of the following three altitudes: the last assigned altitude by ATC, the Minimum IFR altitude for the route segment, or the altitude ATC expected you to fly
@@ -1517,8 +1532,11 @@ pilot-navigation SID and vector SID; can also have a hybrid SID
 VOR waypoint
 based on specific radials and distances from VOR ground stations; plus or minus 4 degrees
 
-what to include in an IFR position report
-tail number, reporting point or current position, zulu time, altitude, ETA and name of next reporting point, and possibly name or reporting point after the next
+what to include in a non-radar position report
+tail number, reporting point or current position, zulu time, altitude, ETA and name of next reporting point, and possibly name or reporting point after the next; all this information was required back in the old days when there was much less radar coverage, so the information helped ATC keep track of where aircraft were and where they were going
+
+what to include in a radar position report
+tail number, current position
 
 types of parallel runway operations
 independent parallel approaches, dependent parallel approaches (staggering diagonal approaches), precision runway monitor (PRM, closely spaced runway less than 4300 feet apart, special training required)
@@ -1584,7 +1602,7 @@ if VOT is present, it will specify
 the frequency and indicate where on the airfield it can be used, such as a specific ramp or taxiway location
 
 according to 14 CFR 91.185, when reaching a clearance limit during lost communications:
-1) If the clearance limit is a fix from which an approach begins, commence descent and approach as close as possible to the expect-further-clearance (EFC) time if one was received, or if there was no EFC time, as close as possible to the estimated time of arrival (ETA) calculated from the filed or amended estimated time en route. 2) If the clearance limit is not a fix from which an approach begins, leave the clearance limit at the EFC time if one was received, or if not, upon arrival at the clearance limit. Then proceed to a fix from which an approach begins and commence descent and approach as close as possible to the ETA as calculated from the filed or amended estimated time en route
+1) If the clearance limit is a fix from which an approach begins, commence descent and approach as close as possible to the expect-further-clearance (EFC) time if one was received, or if there was no EFC time, as close as possible to the estimated time of arrival (ETA) from the filed or amended estimated time en route. 2) If the clearance limit is not a fix from which an approach begins, leave the clearance limit at the EFC time if one was received, or if not, upon arrival at the clearance limit. Then proceed to a fix from which an approach begins and commence descent and approach as close as possible to the ETA from the filed or amended flight plan; see 91.185 for details
 
 an authorized instructor may log instrument flight when 
 conducting instrument flight instruction in actual instrument conditions
@@ -1952,3 +1970,65 @@ up to about 10 minutes before your proposed taxi time at towered airports, and t
 there is no weather reporting today at yourdestination, can still you still fly an instrument approach procedure?
 yes, using the nearby altimeter setting with any additional restrictions, but you must file an alternate that does have weather reporting according to alternate minimums
 
+in our PA28 and M20J with the more advanced GFC 500 or higher autopilot, the go-around button will
+put the autopilot in roll and pitch mode and also active the GPS
+
+where to look for icing forecasts
+SIGMET Z, AIRMET Z, icing and freezing levels page on the GFA tool
+
+three times ATC will give you during a release for departure
+release time (usually now), void time, and contact time; note that you must be wheels up before the void time
+
+if ATC gives you a heading for takeoff, they will normally say:
+upon entering controlled airspace, and then they will assume control of your navigation
+
+standard ODP requirements
+at least 35 feet above the departure end of the runway; at least 200 feet per nautical mile; no turns until 400 feet AGL
+
+where might one see a graphical ODP
+in mountainous areas
+
+what non-standard takeoff minimums might a pilot see
+increased visibility or ceiling requirements; higher climb gradients; notes for specific runways, such as must go wheels up a certain distance before the departure end of the runway
+
+if ATC does not give you a departure frequency, it normally means
+it is listed in the assigned SID
+
+difference between being told to fly a SID vs. climb via the SID
+if just flying the SID, maintain altitude assigned by ATC; if climb via the SID, follow the published altitudes on the SID
+
+how does ATC typically assign a block altitude range
+maintain block 8000 through 10000
+
+in which contexts are block altitudes typically used
+when a pilot needs to avoid turbulence or icing; and for high-altitude performance margin; block altitudes are typically assigned for brief stretches of the route in order to avoid tying up airspace
+
+what are the advantages of a VFR on Top clearance
+you can choose your appropriate VFR altitudes to more easily avoid clouds, ice, turbulence, etc; you do not need approval from ATC for these altitudes as long as you maintain VFR
+
+can you fly in IMC in uncontrolled airspace without an IFR clearance
+yes, it's legal, but also deemed reckless, so don't do it ever
+
+one key difference between what you find on a STAR vs. what you find on a SID
+STARs often have speed restrictions
+
+things ATC can give you as part of an unpublished hold 
+waypoint, along radial, inbound course, direction of hold, along airway, EFC time
+
+how ATC might give you get a published or charted hold
+ATC tells you to proceed to a certain waypoint and hold as published; they might give you an EFC time or an altitude as well
+
+can you enter the unprotected area of a hold
+it can happen after you are crosss the holding fix to enter a parallel hold, but you should minimize it
+
+turns during holds should be
+standard-rate turn of 3 degrees per second or 30 degrees bank, whichever is less
+
+how to calculate the bank angle for a standard rate turn
+15% of TAS
+
+during a check ride or intrument proficiency check, LPV is considered
+a precision approach
+
+the GTN 650 annunciates a yellow LPV, this means that
+it is trying to provide LPV level GPS, but it won't know until right before you get to the final approach fix whether it is possible
