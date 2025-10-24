@@ -1108,3 +1108,36 @@ le chœur
 wish; vow
 le vœu
 
+to fly
+voler; voyager en avion; aller en avion; prendre l'avion
+
+north
+le nord
+
+south
+le sud
+
+east
+le est
+
+west
+l'ouest
+
+northern
+septentrional; du nord
+
+southern
+méridional; du sud
+
+eastern
+oriental; de l'est
+
+western
+occidental; de l'ouest
+
+body
+le corps
+
+hair
+les cheveux
+

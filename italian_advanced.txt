@@ -101519,3 +101519,10 @@ l'unico luogo al mondo
 
 floater
 il galleggiante
+
+east wing
+l'ala est
+
+west wing
+l'ala ovest
+
