@@ -1143,3 +1143,10 @@ les cheveux
 
 to log in; to login
 se connecter; s'identifier
+
+newspaper
+le journal
+
+journalist
+le journaliste; la journaliste
+
