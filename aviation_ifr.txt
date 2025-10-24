@@ -2032,3 +2032,12 @@ a precision approach
 
 the GTN 650 annunciates a yellow LPV, this means that
 it is trying to provide LPV level GPS, but it won't know until right before you get to the final approach fix whether it is possible
+
+on an IFR low en route chart, in the VOR information box, what does 121.1R mean?
+flight service (FSS) broadcasts voice on the VOR frequency and receives your requests on 121.1; you should initially indicate your tail number, your position, the VOR name (under the box), and which frequencies you are transmitting and receiving on
+
+when a VOR frequency on an IFR low en route chart has a line under it, this means that
+the VOR does not transmit any voice on this frequency, only navigation signal and Morse code; look above the VOR information box to see if there is an FSS frequency you can use
+
+after the VOR identifier in a VOR information box, there can be a second frequency, which is
+the DME frequency; but that frequency is always determined from the VOR frequency, so a VOR receiver with DME can always determine it from the VOR frequency alone; if the DME frequency has a (Y) after it, then there is a slightly different pulse spacing and shifted frequency spacing than the typical 63 MHz of separation
