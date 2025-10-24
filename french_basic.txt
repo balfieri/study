@@ -89,7 +89,7 @@ to calm down
 calmer
 
 house
-le maison
+la maison
 
 to be scared; to be afraid
 avoir peur
@@ -901,9 +901,6 @@ tard
 eyes
 les yeux
 
-eye
-le yoeil
-
 to visit (someone)
 rendre visite à
 
@@ -920,7 +917,7 @@ goodbye
 au revoir
 
 heart
-le coeur
+le cœur
 
 crowded; full of people
 plein de monde
@@ -1017,4 +1014,97 @@ la clé
 
 lexicon; word list
 le lexique
+
+advanced
+avancé
+
+intermediate
+intermédiaire
+
+supposed
+censé
+
+to teach
+enseigner
+
+vice versa
+vice versa
+
+station; train station
+la gare
+
+baker
+le boulanger; la boulangère
+
+place; location
+l'endroit
+
+library
+la bibliothèque
+
+bookstore
+la librairie
+
+to build; to construct
+construire
+
+to destroy
+détruire
+
+glasses
+les lunettes
+
+sunglasses
+les lunettes de soleil
+
+to shout; to yell
+crier
+
+to cut
+couper
+
+theme; topic
+le thème
+
+the one; that one
+celui
+
+to start; to begin
+démarrer
+
+means; way; medium
+le moyen
+
+research
+la recherche
+
+way; manner
+le façon
+
+to introduce oneself; to present oneself
+se présenter
+
+sister
+la sœur
+
+brother
+le frère
+
+eye
+l'œil
+
+egg
+l'œuf
+
+beef
+le bœuf
+
+work; artwork
+l'œuvre
+
+choir
+le chœur
+
+wish; vow
+le vœu
 

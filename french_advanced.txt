@@ -30,3 +30,6 @@ en plein jour
 
 retirement home; nursing home
 le maison de retraite
+
+morals; customs
+les mœurs
