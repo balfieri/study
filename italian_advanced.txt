@@ -101549,3 +101549,7 @@ definanziare
 
 urged; exhorted
 esortato
+
+accounting; accountancy; bookkeeping
+la ragioneria
+
