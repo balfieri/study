@@ -55,9 +55,6 @@ il fait
 fantastic
 fantastique
 
-marvelous
-merveilleux
-
 I don't know
 je ne sais pas
 
@@ -739,7 +736,7 @@ douter
 alone
 seul
 
-especially
+especially; above all
 surtout
 
 to need
@@ -1585,3 +1582,404 @@ la région
 province
 la province
 
+to stay
+rester; séjourner; loger
+
+to sing
+chanter
+
+to eat
+manger
+
+to hate
+détester
+
+to love (romantic or non-romantic)
+aimer
+
+to adore
+adorer
+
+white
+blanc; blanche
+
+hi
+salut
+
+bye
+au revoir; salut
+
+good night
+bonne nuit
+
+so long; farewell
+adieu
+
+see ya
+à plus; salut
+
+see you tomorrow
+à demain
+
+see you soon
+à bientôt
+
+best wishes
+meilleurs vœux
+
+thank you (formal)
+je vous remercie
+
+you're welcome
+de rien; je vous en prie
+
+age
+l'âge
+
+how old are you?
+quel âge as-tu ?
+
+I am ten years old
+j’ai dix ans
+
+go away!
+va-t’en!
+
+come here!
+viens ici!
+
+may I have (or get)?
+puis-je avoir?
+
+I would like
+je voudrais
+
+nice to meet you (informal)
+ravi de te rencontrer
+
+nice to meet you (formal)
+ravi de vous rencontrer; enchanté
+
+the pleasure is all mine
+tout le plaisir est pour moi
+
+hazelnut
+le noisette
+
+chocolate chip
+le pépite de chocolat
+
+tender
+tendre
+
+hard; difficult; tough
+dur; difficile
+
+speed
+la vitesse
+
+street
+la rue
+
+way (road)
+la voie; le chemin
+
+way (of doing)
+le façon; la manière
+
+so many
+tant de
+
+much; plenty of
+beaucoup de
+
+many
+beaucoup
+
+light
+léger
+
+clear; light; fair (color)
+claire
+
+heavy
+lourd
+
+wide; broad
+large
+
+narrow
+étroit
+
+tight
+serré
+
+tall; high
+haut
+
+short; low
+bas
+
+to speak loudly
+parler fort
+
+to speak softly
+parler doucement
+
+hand
+le main
+
+arm
+le bras
+
+arms
+les bras
+
+leg
+la jambe
+
+stomach
+l'estomac
+
+gut
+le ventre; l'intestin
+
+finger
+le doigt
+
+fingers
+les doigts
+
+toe
+l'orteil
+
+blue
+bleu
+
+dark blue
+bleu foncé
+
+green
+vert
+
+orange
+orange
+
+yellow
+jaune
+
+true
+vrai
+
+false
+faux
+
+well (adverb); fine
+bien
+
+badly
+mal
+
+to wash
+laver
+
+tooth
+le dent
+
+to brush
+brosser
+
+to brush one's teeth
+se brosser les dents
+
+to wash one's hands
+se laver les mains
+
+hat
+le chapeau
+
+to wear (something)
+porter
+
+to get dressed
+s’habiller
+
+alarm clock; alarm
+le réveil; l'alarme
+
+highway
+l'autoroute
+
+to turn
+tourner
+
+to turn right
+tourner à droite
+
+to turn left
+tourner à gauche
+
+to stop (oneself)
+s’arrêter
+
+bus
+le bus
+
+tip (bill)
+le pourboire
+
+spoon
+la cuillère
+
+tablespoon
+la cuillère à soupe
+
+teaspoon
+la cuillère à café
+
+fork
+la fourchette
+
+knife
+le couteau
+
+taste
+le goût
+
+scoop
+la boule
+
+flavor
+le saveur; le parfum
+
+fire
+le feu
+
+traffic light
+le feu de circulation; le feu tricolore
+
+ramp (highway)
+la bretelle (d’autoroute)
+
+toward
+vers
+
+back; backward
+en arrière
+
+directions
+les directions; les indications
+
+instructions
+les instructions
+
+educational
+éducatif
+
+instructive
+instructif
+
+well-behaved
+bien élevé
+
+to have fun; to enjoy oneself
+s’amuser
+
+to have a good time
+prendre du bon temps
+
+sense of humor
+le sens de l’humour
+
+wonderful; marvelous
+merveilleux
+
+station (radio); channel
+la station; le chaîne
+
+while; whereas
+alors que; tandis que
+
+ok; that's fine; it's fine
+d’accord; ça va
+
+how goes it?
+ça va?
+
+flight
+le vol
+
+entrance; entry; act of entering
+l'entrée
+
+exit; way out
+la sortie
+
+to enter
+entrer
+
+to jump
+sauter
+
+to hop
+bondir
+
+to run
+courir
+
+to speed
+aller vite
+
+to walk
+marcher
+
+to stroll; to walk
+flâner; se promener
+
+to take a walk; to go on a walk
+faire une promenade
+
+to take a trip
+faire un voyage; partir en voyage
+
+to take a tour; to give a tour
+faire une visite; faire visiter
+
+to pull (someone's) leg; to kid (somebody)
+faire marcher (quelqu’un)
+
+ride
+la promenade; le tour
+
+trip; excursion
+l'excursion; la sortie
+
+hotel
+l'hôtel
+
+network; net
+le réseau; le filet
+
+point; dot
+le point
+
+car rental
+la location de voiture
+
+rental
+la location
+
+to rent a car
+louer une voiture
+
+to reserve
+réserver
+
+gasoline; gas
+l'essence
+
+reservation
+la réservation
+
+plate; dish
+l'assiette; le plat
