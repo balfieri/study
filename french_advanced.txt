@@ -132,3 +132,7 @@ bavarder; tchatcher; tailler une bavette; papoter
 
 county;
 le comté; le département
+
+imperfect subjunctive
+l'imparfait du subjonctif; le subjonctif imparfait
+
