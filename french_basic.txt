@@ -1540,3 +1540,6 @@ insensible
 unusual
 insolite
 
+everywhere; all over
+partout
+
