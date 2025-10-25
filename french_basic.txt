@@ -1545,3 +1545,10 @@ partout
 
 full
 plein
+
+student
+l'étudiant
+
+pupil; student
+l'élève
+
