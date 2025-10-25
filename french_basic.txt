@@ -1980,3 +1980,6 @@ la réservation
 
 plate; dish
 l'assiette; le plat
+
+that; this; it
+ça
