@@ -58,9 +58,6 @@ fantastique
 marvelous
 merveilleux
 
-I am sick
-je suis malade
-
 I don't know
 je ne sais pas
 
@@ -583,9 +580,6 @@ se plaindre
 to grumble; to complain
 râler
 
-subway
-le métro
-
 to share
 partager
 
@@ -681,9 +675,6 @@ attendre
 
 free (cost)
 gratuit
-
-to plan
-prévoir
 
 to plan to (do something)
 prévoir de (faire quelque chose)
@@ -1149,4 +1140,403 @@ le journal
 
 journalist
 le journaliste; la journaliste
+
+to shine
+briller; luire; rayonner; étinceler
+
+fresh; cool
+frais
+
+air
+l'air
+
+beach
+la plage
+
+to install; to set up
+installer
+
+to swim
+nager
+
+ice; ice cream
+la glace
+
+bench
+le banc
+
+to seem
+sembler; paraître
+
+back (body)
+le dos
+
+sand
+le sable
+
+little by little; gradually
+peu à peu
+
+about; approximately
+environ
+
+around
+autour de
+
+salt
+le sel
+
+pepper
+le poivre
+
+plan; map
+le plan
+
+to plan
+prévoir; planifier
+
+to intend to (do something)
+avoir l'intention de (faire quelque chose)
+
+keyboard
+le clavier
+
+monitor; screen
+le moniteur
+
+portable
+portable
+
+laptop
+il portable
+
+per
+par
+
+refined; streamlined
+épuré
+
+to innovate
+innover
+
+to download
+télécharger
+
+subway; metro
+le métro
+
+for example
+par exemple
+
+there you go; here is/are
+voilà
+
+war
+la guerre
+
+second (adjective)
+second
+
+world (adjective)
+mondiale
+
+Europe
+l'europe
+
+to close
+fermer
+
+to open
+ouvrir
+
+to stop
+arrêter
+
+closed
+fermé
+
+open
+ouvert
+
+memory; souvenir
+le souvenir
+
+appointment; meeting; date
+le rendez-vous
+
+game
+le jeu
+
+to play
+jouer
+
+the bill (restaurant)
+l'addition
+
+couple
+la couple
+
+to kiss
+baiser
+
+value
+la valeur
+
+to dose; to measure
+doser
+
+healthy
+sain
+
+irritable
+irritable
+
+to distinguish
+distinguer
+
+near; close
+proche
+
+far
+loin
+
+subtle
+subtil
+
+thin (layer)
+fin
+
+thick
+épais; épaisse
+
+to trust
+faire confiance
+
+handsome
+beau
+
+beautiful
+belle
+
+tall; big
+grand
+
+small; little
+petit
+
+good
+bon; bonne
+
+bad
+mauvais
+
+young
+jeune
+
+happy; glad
+content
+
+sad
+triste
+
+strong
+fort
+
+weak
+faible
+
+expensive; dear
+cher; chère
+
+easy
+facile
+
+difficult
+difficile
+
+interesting
+intéressant
+
+boring
+ennuyeux
+
+cold
+froid
+
+hot; warm
+chaud
+
+clean
+propre
+
+dirty
+sale
+
+calm; quiet
+calme
+
+noisy
+bruyant
+
+fast; quick
+rapide
+
+slow
+lent
+
+rich
+riche
+
+poor
+pauvre
+
+fat; big
+gros; grosse
+
+thin; skinny
+maigre
+
+happy
+heureux
+
+angry
+fâché
+
+busy
+occupé
+
+free
+libre
+
+serious
+sérieux
+
+brave
+brave
+
+sick; ill
+malade
+
+amazing; astonishing
+étonnant
+
+lazy
+paresseux
+
+active
+actif
+
+gentle; soft; sweet
+doux; douce
+
+hard
+dur
+
+honest
+honnête
+
+loyal
+loyal
+
+mean; nasty
+méchant
+
+creative
+créatif
+
+curious
+curieux
+
+generous
+généreux
+
+jealous
+jaloux
+
+intelligent; smart
+intelligent
+
+careful; cautious
+prudent
+
+selfish
+égoïste
+
+courageous
+courageux
+
+ambitious
+ambitieux
+
+faithful
+fidèle
+
+stubborn
+têtu
+
+patient
+patient
+
+impulsive
+impulsif
+
+adventurous
+aventureux
+
+annoying
+pénible
+
+lonely; solitary
+solitaire
+
+wise
+sage
+
+passionate
+passionné
+
+optimistic
+optimiste
+
+pessimistic
+pessimiste
+
+eloquent
+éloquent
+
+complex; complicated
+complexe
+
+confused
+confus
+
+original
+original
+
+attentive
+attentif
+
+worried; anxious
+inquiet; inquiète
+
+mature
+mature
+
+skilled; skillful
+habile
+
+skeptical
+sceptique
+
+brilliant
+brillant
+
+innovative
+innovant
+
+insensitive
+insensible
+
+unusual
+insolite
 
