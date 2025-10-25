@@ -129,3 +129,6 @@ solide
 
 to chit-chat; to chat
 bavarder; tchatcher; tailler une bavette; papoter
+
+county;
+le comté; le département

@@ -1552,3 +1552,36 @@ l'étudiant
 pupil; student
 l'élève
 
+pen; fountain pen
+stylo; stylo plume
+
+tree
+arbre
+
+first; firstly; at first
+d'abord
+
+the ass; the butt
+le cul
+
+fun
+amusant; divertissant; plaisir
+
+drôle; amusant
+funny
+
+mouth
+la bouche
+
+country
+le pays
+
+state
+l'état
+
+region
+la région
+
+province
+la province
+
