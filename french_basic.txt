@@ -1990,3 +1990,6 @@ parlé
 spoken French
 le français parlé; le français oral
 
+favor
+le faveur
+
