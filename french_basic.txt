@@ -794,7 +794,7 @@ boyfriend
 le petit ami
 
 girlfriend
-la petite amie
+la petite amie; la copine
 
 to resume; to take back
 reprendre
@@ -1995,4 +1995,211 @@ le faveur
 
 to leave; to go away; go off; take oneself off
 s'en aller
+
+10 years ago
+il y a dix ans
+
+to run away
+s'enfuir
+
+icon
+l'icône
+
+epoch; era
+l'époque
+
+ticket
+le billet
+
+round-trip
+aller-retour
+
+round-trip ticket
+le billet aller-retour
+
+one-way ticket
+le billet aller simple
+
+to fill up (the tank)
+faire le plein
+
+fortunately; luckily
+heureusement
+
+luck
+la chance
+
+bad luck; misfortune
+la malchance; le malheur
+
+welcome; reception
+l'accueil
+
+seller; salesperson
+le vendeur; la vendeure
+
+rate; tax
+le taux
+
+to break down (vehicle)
+tomber en panne
+
+in 7 days
+dans 7 jours
+
+to be busy at work
+être occupé au travail
+
+to pretend
+faire semblant de
+
+to ask her
+lui demander
+
+how long
+combien de temps
+
+pleasant
+agréable
+
+since when; for how long
+depuis combien de temps
+
+particular; special
+particulière
+
+burial location
+le lieu d'enterrement
+
+teacher
+le prof; la prof
+
+step (process)
+l'étape
+
+5 steps
+5 étapes
+
+stop (trip)
+l'arrêt
+
+type
+le type
+
+type of work
+le type de travail
+
+in your opinion
+à ton avis; selon toi
+
+in my opinion
+à mon avis; selon moi
+
+relaxed
+détendu
+
+them
+eux
+
+flexible
+flexible
+
+warm; welcoming
+chaleureux
+
+caring
+soigné
+
+quality
+la qualité
+
+ingredient
+l'ingrédient
+
+few
+peu de
+
+recipe
+la recette
+
+few ingredients
+peu d'ingrédients
+
+chicken
+le poulet
+
+technique
+la technique
+
+tasty; savory
+savoureux
+
+for a long time
+longuement
+
+vegetable
+le légume
+
+mushroom
+le champignon
+
+to cook
+cuire
+
+to sauté
+sauter à la poêle
+
+example
+l'exemple
+
+arrogant
+arrogant
+
+conjugation
+la conjugaison
+
+to conjugate
+conjuguer
+
+error; mistake
+l'erreur
+
+regular
+régulier
+
+mandatory; required
+obligatoire
+
+tend to; to have a tendency to
+avoir tendance à
+
+tower
+la tour
+
+ceiling
+le plafond
+
+podcast
+le podcast
+
+pronoun
+le pronom
+
+verb
+le verbe
+
+coupon; voucher
+la cedola
+
+salary
+le salaire
+
+job; profession
+le métier
+
+here we go!
+c'est parti!
+
+means; resources
+les moyens
 
