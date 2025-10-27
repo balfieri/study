@@ -2383,3 +2383,6 @@ peut-être; peut-être que
 next time; the next time
 la prochaine fois; pour la prochaine fois
 
+dad
+le papa
+
