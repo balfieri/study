@@ -59777,9 +59777,6 @@ l'opinione sulla questione; il contributo alla questione
 to divide (equitably); to share
 spartire
 
-prostate (body part)
-la prostata
-
 clamp
 il morsetto
 
@@ -101672,4 +101669,7 @@ lo scasso
 
 freight elevator; hoist
 il montacarichi
+
+direct eye contact
+il contatto visivo diretto
 
