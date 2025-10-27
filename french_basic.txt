@@ -2609,7 +2609,7 @@ I live (subjunctive)
 je vive
 
 I was opening
-je ouvrais
+j'ouvrais
 
 I will open
 j'ouvrirai

@@ -31,6 +31,9 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 if len( sys.argv ) < 1: die( 'usage: gen_html.py [options]', '' )
 subjects_s = ''
 title = 'All Lists'
+other_lang = 'English'
+other_lang_code = 'en-US'
+other_lang_voice = 'Samantha'
 
 i = 1
 while i < len( sys.argv ):
@@ -38,12 +41,17 @@ while i < len( sys.argv ):
     i += 1
     if   arg == '-subjects':
         subjects_s = sys.argv[i]
-        i += 1
     elif arg == '-title': 
         title = sys.argv[i]
-        i += 1
+    elif arg == '-other_lang':
+        other_lang = sys.argv[i]
+    elif arg == '-other_lang_code':
+        other_lang_code = sys.argv[i]
+    elif arg == '-other_lang_voice':
+        other_lang_voice = sys.argv[i]
     else:
         die( f'unknown option: {arg}' )
+    i += 1
 
 if subjects_s == '': die( 'no -subjects' )
 
@@ -78,10 +86,7 @@ for subject in subjects:
     Q.close()
 
 # need to create a loop here
-Other        = 'Italian'
-Other_Lang   = 'it-IT'
-Other_Voice  = 'Alice'
-is_english_only = subjects_s == 'aviation' or subjects_s == 'aviation_ifr'
+is_english_only = other_lang == 'English'
 
 is_advanced  = re.match( r'.*_advanced', subjects_s ) != None
 is_basic     = re.match( r'.*_basic',    subjects_s ) != None
@@ -92,13 +97,13 @@ oth_speed100 = str(oth_speed * 100)
 eng_speed    = str(eng_speed)
 oth_speed    = str(oth_speed)
 eng_name     = 'Question' if is_english_only else 'English'
-oth_name     = 'Answer'   if is_english_only else Other
+oth_name     = 'Answer'   if is_english_only else other_lang
 eng_lang     = '\'en-US\''
-oth_lang     = eng_lang   if is_english_only else f'\'{Other_Lang}\''
+oth_lang     = f'\'{other_lang_code}\''
 eng_voice    = '\'Samantha\''
-oth_voice    = eng_voice  if is_english_only else f'\'{Other_Voice}\''
+oth_voice    = f'\'{other_lang_voice}\''
 eng_first    = '\'Question First\'' if is_english_only else '\'English First\''
-oth_first    = '\'Answer First\''   if is_english_only else f'\'{Other} First\''
+oth_first    = '\'Answer First\''   if is_english_only else f'\'{other_lang} First\''
 eng_prefix   = '\'Question: \' + '  if is_english_only else ''
 oth_prefix   = '\'Answer: \' + '    if is_english_only else ''
 delay_after  = '2'  if is_basic    else '0'
@@ -142,7 +147,7 @@ html_s = '''<!DOCTYPE html>
     <button id="button_play_in_order" title="Start/stop in-order playback of list entries" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="start_stop_play_in_order()">Play In Order</button>
     <button id="button_mute" title="Mute/unmute voices" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="mute_unmute()">Mute</button>
     <button id="button_show_all" title="Show all entries" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="show_all()">Show All</button>
-    <button id="button_first" title="Show ''' + Other + '''/English translation first" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="which_first()">''' + oth_name + ''' First</button>
+    <button id="button_first" title="Show ''' + other_lang + '''/English translation first" style="font-size:20px;border-radius:15px;padding:5px 10px" onclick="which_first()">''' + oth_name + ''' First</button>
     <p style="font-size:18px">
     ''' + eng_name + ''' Speed: <input type="range" min="25" max="125" value="''' + eng_speed100 + '''" class="slider" id="slider_en" oninput="update_slider_en(this.value)">
     <span id="slider_en_value">''' + eng_speed + '''</span>
@@ -183,19 +188,19 @@ html_s = '''<!DOCTYPE html>
       var did_second = false;
 
       var msg_en = new SpeechSynthesisUtterance("");
-      var msg_it = new SpeechSynthesisUtterance("");
+      var msg_ot = new SpeechSynthesisUtterance("");
 
       msg_en.lang = ''' + eng_lang + ''';
-      msg_it.lang = ''' + oth_lang + ''';
+      msg_ot.lang = ''' + oth_lang + ''';
 
       msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + eng_voice + ''' );
-      msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + oth_voice + ''' );
+      msg_ot.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + oth_voice + ''' );
 
       msg_en.rate = ''' + eng_speed + ''';
-      msg_it.rate = ''' + oth_speed + ''';
+      msg_ot.rate = ''' + oth_speed + ''';
 
       msg_en.onend = continue_playback; 
-      msg_it.onend = continue_playback; 
+      msg_ot.onend = continue_playback; 
 
       // don't submit when user hits newline in form
       $(document).ready(function(){
@@ -210,7 +215,7 @@ html_s = '''<!DOCTYPE html>
 
       window.speechSynthesis.addEventListener('voiceschanged', () => {
           msg_en.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + eng_voice + ''' );
-          msg_it.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + oth_voice + ''' );
+          msg_ot.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + oth_voice + ''' );
       });
 
       function clear_log() {
@@ -307,7 +312,7 @@ html_s = '''<!DOCTYPE html>
           }
 
           msg_en.text = ''' + eng_prefix + '''phrase[0];
-          msg_it.text = ''' + oth_prefix + '''phrase[1];
+          msg_ot.text = ''' + oth_prefix + '''phrase[1];
 
           if ( log_s.length > 1000000 ) log_s.slice( 0, 1000000 );
           if ( english_first ) {
@@ -323,7 +328,7 @@ html_s = '''<!DOCTYPE html>
               if ( english_first ) {
                   window.speechSynthesis.speak(msg_en);
               } else {
-                  window.speechSynthesis.speak(msg_it);
+                  window.speechSynthesis.speak(msg_ot);
               }
           } else {
               timeout_id = setTimeout( playback, 3000 + extra_delay_after_sec*1000 );
@@ -349,7 +354,7 @@ html_s = '''<!DOCTYPE html>
           if ( !did_second ) {
               did_second = true;
               if ( english_first ) {
-                  window.speechSynthesis.speak(msg_it);
+                  window.speechSynthesis.speak(msg_ot);
               } else {
                   window.speechSynthesis.speak(msg_en);
               }
@@ -427,7 +432,7 @@ html_s = '''<!DOCTYPE html>
       function update_slider_it( value ) {
           value = value / 100.0;
           document.getElementById('slider_it_value').innerText = value;
-          msg_it.rate = value;
+          msg_ot.rate = value;
       }
 
       function update_slider_extra_delay_between( value ) {

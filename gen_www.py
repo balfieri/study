@@ -44,6 +44,9 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 #-----------------------------------------------------------------------
 name = ''
 subjects_s = ''
+other_lang = 'English'
+other_lang_code = 'en-US'
+other_lang_voice = 'Samantha'
 side = 17
 count = 15
 today = datetime.date.today()
@@ -63,6 +66,12 @@ while i < len( sys.argv ):
         name = sys.argv[i]
     elif arg == '-subjects':
         subjects_s = sys.argv[i]
+    elif arg == '-other_lang':
+        other_lang = sys.argv[i]
+    elif arg == '-other_lang_code':
+        other_lang_code = sys.argv[i]
+    elif arg == '-other_lang_voice':
+        other_lang_voice = sys.argv[i]
     elif arg == '-side':           
         side = int(sys.argv[i])
     elif arg == '-count':
@@ -80,6 +89,7 @@ while i < len( sys.argv ):
     i += 1
 
 if name == '': die( f'no -name' )
+Name = name.capitalize()
 if subjects_s == '': die( f'no -name' )
 subjects = subjects_s.split( ',' )
 if gen_puzzles: cmd( f'make gen_puz' )
@@ -114,28 +124,25 @@ s += f'}}\n'
 s += f'</style>\n'
 s += f'</head>\n'
 and_crossword_puzzles = 'and Crossword Puzzles' if gen_puzzles else ''
-s += f'<title>Italian-English Word Lists{and_crossword_puzzles}</title>\n'
-s += f'<h1>Italian-English Word Lists{and_crossword_puzzles}</h1>\n'
+s += f'<title>{Name} Study Lists{and_crossword_puzzles}</title>\n'
+s += f'<h1>{Name} Study Lists{and_crossword_puzzles}</h1>\n'
 s += f'<body>\n'
 s += f'<p>\n'
 s += f'<h3><a href="https://www.imustcook.com">[back to imustcook.com]</a></h3>\n'
 s += f'</p>\n'
-s += f'<p style="font-size:20px">Hear a phrase:</p>\n'
-s += f'<p><pre><div id="text-box" contenteditable="true"></div></pre>\n'
-s += f'<button id="button_italian_voice" title="Speak text using Italian voice" style="font-size:14px" onclick="speak_italian()">Italian Voice</button>\n'
-s += f'<button id="button_english_voice" title="Speak text using English voice" style="font-size:14px" onclick="speak_english()">English Voice</button>\n'
-s += f'<button id="button_repeat" title="Toggle repeat mode" style="font-size:14px" onclick="toggle_repeat()">Repeat</button></p>\n'
-s += f'<p style="font-size:14px">\n'
-s += f'Speed: <input type="range" min="25" max="125" value="90" class="slider" id="slider_speed" oninput="update_slider_speed(this.value)">\n'
-s += f'<span id="slider_speed_value">0.9</span>\n'
-s += f'<p style="font-size:20px">\n'
-s += f'If that sounds wrong, check:\n'
-s += f'<a href="https://it.forvo.com">Forvo Italian</a>,\n'
-s += f'<a href="https://forvo.com">Forvo English</a>,\n'
-s += f'<a href="https://dizionatore.it">Dizionatore.it</a></p>\n'
-s += f'<p style="font-size:20px">\n'
-s += f'For verb conjugations, see: <a href="https://italian-verbs.com">italian-verbs.com</a></p>\n'
-s += f'<p style="font-size:22px">Click on a word list name (e.g., italian_basic) to hear randomized entries or search the list:</p>\n'
+if other_lang != 'English':
+    s += f'<p style="font-size:20px">Hear a phrase:</p>\n'
+    s += f'<p><pre><div id="text-box" contenteditable="true"></div></pre>\n'
+    s += f'<button id="button_other_voice" title="Speak text using {Name} voice" style="font-size:14px" onclick="speak_other()">{Name} Voice</button>\n'
+    s += f'<button id="button_english_voice" title="Speak text using English voice" style="font-size:14px" onclick="speak_english()">English Voice</button>\n'
+    s += f'<button id="button_repeat" title="Toggle repeat mode" style="font-size:14px" onclick="toggle_repeat()">Repeat</button></p>\n'
+    s += f'<p style="font-size:14px">\n'
+    s += f'Speed: <input type="range" min="25" max="125" value="90" class="slider" id="slider_speed" oninput="update_slider_speed(this.value)">\n'
+    s += f'<span id="slider_speed_value">0.9</span>\n'
+    s += f'<p style="font-size:20px">\n'
+    s += f'If that sounds wrong, check:\n'
+    s += f'<a href="https://forvo.com">Forvo</a>,\n'
+s += f'<p style="font-size:22px">Click on a word list name to hear randomized entries or search the list:</p>\n'
 s += '''
 <script>
   var rate = 0.9;
@@ -143,18 +150,18 @@ s += '''
   var timeout_id = 0;
   var delay = 1000;
 
-  function speak_italian() {
+  function speak_other() {
       window.speechSynthesis.cancel();
       var msg = new SpeechSynthesisUtterance("");
-      msg.lang = 'it-IT';
+      msg.lang = ''' + '\'' + other_lang_code + '\'' + ''';
       msg.rate = rate;
       msg.text = document.getElementById("text-box").textContent;
-      msg.onend = repeating ? delay_italian : 0;
+      msg.onend = repeating ? delay_other : 0;
       window.speechSynthesis.speak(msg);
   }
 
-  function delay_italian() {
-      timeout_id = setTimeout( speak_italian, delay );
+  function delay_other() {
+      timeout_id = setTimeout( speak_other, delay );
   }
 
   function speak_english() {
@@ -207,12 +214,11 @@ for subject in subjects:
     if gen_puzzles and not is_first: s += f'<br>\n'
     subjects_s = all_s if subject == f'{name}_all_lists' else subject
     entry_cnt = int( cmd( f'./gen_puz {subjects_s} -print_entry_cnt_and_exit 1' ) ) if cmd_en else 1
-    cmd( f'./gen_html.py -subjects {subjects_s} -title {subject} > www/{subject}.html' ) 
+    cmd( f'./gen_html.py -subjects {subjects_s} -title {subject} -other_lang {other_lang} -other_lang_code {other_lang_code} -other_lang_voice {other_lang_voice} > www/{subject}.html' ) 
     s += f'<h2><a href="{subject}.html">{subject}</a> ({entry_cnt} entries)</h2>'
     if gen_puzzles:
-        if subject == f'{name}_all_lists': s += f'<p><b>Warning: includes italian_vulgar list</b></p>'
         for reverse in range(2):
-            clue_lang = 'Italian' if reverse == 0 else 'English'
+            clue_lang = Name if reverse == 0 else 'English'
             start_pct = 85
             s += f'<section style="clear: left">\n'
             s += f'<b>{clue_lang} Crosswords:</b><br>'

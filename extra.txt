@@ -1,0 +1,2 @@
+s += f'<p style="font-size:20px">\n'
+s += f'For verb conjugations, see: <a href="https://italian-verbs.com">italian-verbs.com</a></p>\n'
