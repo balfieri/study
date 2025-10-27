@@ -1,5 +1,6 @@
-./gen_www.py
-./gen_html.py -subjects aviation_vfr -title aviation_vfr > www/aviation_vfr.html
-./gen_html.py -subjects aviation_ifr -title aviation_ifr > www/aviation_ifr.html
-aws s3 cp www            s3://imustcook.com/crossword     --recursive
-aws s3 cp www            s3://www.imustcook.com/crossword --recursive
+rm -fr www/*.html
+./gen_www.py -name aviation -subjects aviation_all_lists,${av_s}
+./gen_www.py -name italian -subjects italian_all_lists,${it_s}
+./gen_www.py -name french  -subjects french_all_lists,${fr_s}
+aws s3 cp www            s3://imustcook.com/study --recursive
+aws s3 cp www            s3://www.imustcook.com/study --recursive

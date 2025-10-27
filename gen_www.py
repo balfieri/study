@@ -11,17 +11,17 @@ import string
 import re
 import datetime
 
-subjects = [ [ 'all_lists',                     '#c095e3',      False ],
-             [ 'italian_basic',                 '#a99887',      True ],
-             [ 'italian_advanced',              '#53af8b',      True ],
-             [ 'italian_passato_remoto',        '#929195',      False ],
-             [ 'italian_expressions',           '#587a8f',      False ],
-             [ 'italian_american_expressions',  '#95dfe3',      False ],
-             [ 'italian_tongue_twisters',       '#f69284',      False ],
-             [ 'italian_vulgar',                '#95b8e3',      False ],
-           ]
-
-#unused colors
+# these are used only for crosswords, which we no longer generate by default
+# we cycle through these to change colors a little
+colors = [ '#c095e3',
+           '#a99887',
+           '#53af8b',
+           '#929195',
+           '#587a8f',
+           '#95dfe3',
+           '#f69284',
+           '#95b8e3',
+          ]
 
 def die( msg, prefix='ERROR: ' ):
     print( prefix + msg )
@@ -42,6 +42,8 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True ):
 #-----------------------------------------------------------------------
 # process command line args
 #-----------------------------------------------------------------------
+name = ''
+subjects_s = ''
 side = 17
 count = 15
 today = datetime.date.today()
@@ -57,29 +59,30 @@ i = 1
 while i < len( sys.argv ):
     arg = sys.argv[i]
     i += 1
-    if   arg == '-side':           
+    if   arg == '-name':
+        name = sys.argv[i]
+    elif arg == '-subjects':
+        subjects_s = sys.argv[i]
+    elif arg == '-side':           
         side = int(sys.argv[i])
-        i += 1
     elif arg == '-count':
         count = int(sys.argv[i])
-        i += 1
     elif arg == '-seed':
         seed = int(sys.argv[i])
-        i += 1
     elif arg == '-cmd_en':
         cmd_en = int(sys.argv[i])
-        i += 1
     elif arg == '-cw_en':
         cw_en = int(sys.argv[i])
-        i += 1
     elif arg == '-gen_puzzles':
         gen_puzzles = int(sys.argv[i])
-        i += 1
     else:
         die( f'unknown option: {arg}' )
+    i += 1
 
-if cw_en: cmd( f'rm -f www/*.html' )
-cmd( f'make gen_puz' )
+if name == '': die( f'no -name' )
+if subjects_s == '': die( f'no -name' )
+subjects = subjects_s.split( ',' )
+if gen_puzzles: cmd( f'make gen_puz' )
 
 s = ''
 s += f'<html>\n'
@@ -192,24 +195,22 @@ s += '''
 # Generate the individual lists and puzzles.
 #-----------------------------------------------------------------------
 all_s = ''
-for subject_info in subjects:
-    subject = subject_info[0]
-    if subject != 'all_lists':
+for subject in subjects:
+    if subject != f'{name}_all_lists':
         if all_s != '': all_s += ','
         all_s += subject
     
 is_first = True
-for subject_info in subjects:
-    subject   = subject_info[0]
-    color     = subject_info[1]
+color_i = 0
+for subject in subjects:
     s += f'<section style="clear: left">\n'
     if gen_puzzles and not is_first: s += f'<br>\n'
-    subjects_s = all_s if subject == 'all_lists' else subject
+    subjects_s = all_s if subject == f'{name}_all_lists' else subject
     entry_cnt = int( cmd( f'./gen_puz {subjects_s} -print_entry_cnt_and_exit 1' ) ) if cmd_en else 1
     cmd( f'./gen_html.py -subjects {subjects_s} -title {subject} > www/{subject}.html' ) 
     s += f'<h2><a href="{subject}.html">{subject}</a> ({entry_cnt} entries)</h2>'
     if gen_puzzles:
-        if subject == 'all_lists': s += f'<p><b>Warning: includes italian_vulgar list</b></p>'
+        if subject == f'{name}_all_lists': s += f'<p><b>Warning: includes italian_vulgar list</b></p>'
         for reverse in range(2):
             clue_lang = 'Italian' if reverse == 0 else 'English'
             start_pct = 85
@@ -220,6 +221,9 @@ for subject_info in subjects:
                 if cw_en: cmd( f'./gen_puz {subjects_s} -side {side} -seed {seed} -reverse {reverse} -start_pct {start_pct} -title {title} > www/{title}.html' )
                 seed += 1
                 s += f'<a href="{title}.html"><div class="rectangle" style="background-color: {color}">{i}</div></a>\n'
+        color_i += 1
+        if color_i == len( colors ): color_i = 0
+
     is_first = False
 
 s += f'<section style="clear: left">\n'
@@ -227,6 +231,6 @@ s += '<br>\n'
 s += '</body>\n'
 s += '</html>\n'
 
-file = open( "www/index.html", "w" )
+file = open( f'www/{name}.html', "w" )
 a = file.write( s )
 file.close()
