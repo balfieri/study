@@ -715,9 +715,6 @@ le parcours
 oops!
 oups!
 
-lived; experienced
-vécu
-
 broken
 cassé
 
@@ -2386,3 +2383,164 @@ la prochaine fois; pour la prochaine fois
 dad
 le papa
 
+was; been
+été
+
+I was (imperfect)
+je étais
+
+I will be
+je serai
+
+had
+eu
+
+I was having
+je avais
+
+I will have
+j'aurais
+
+did; done; made
+fait
+
+I was doing; I was making
+je faisais
+
+I will do
+je ferai
+
+gone; went
+allé
+
+I was going
+je allais
+
+I will go
+j'irai
+
+took; taken; got; gotten
+pris
+
+I was taking; I was getting
+je prendais
+
+I will take
+je prendrai
+
+put; placed
+mis
+
+I was putting; I was placing
+je mettais
+
+I will put
+je mettrai
+
+said; told
+dit
+
+I was saying; I was telling
+je disais
+
+I will say
+je dirai
+
+could
+pu
+
+I could; I was able
+je pouvais
+
+knew; known
+su
+
+I knew; I was knowing
+je savais
+
+must have; had to; owed
+dû
+
+I had to
+je devais
+
+I will have to
+je devrai
+
+wanted
+voulu
+
+I was wanting
+je voulais
+
+I will want
+je voudrai
+
+came
+venu
+
+I was coming
+je venais
+
+I will come
+je viendrai
+
+held
+tenu
+
+I was holding
+je tenais
+
+I will hold
+je tiendrai
+
+knew; met
+connu
+
+I knew; I was meeting
+je connaissais
+
+I will know; I will meet
+je connaîtrai
+
+believed
+cru
+
+I was believing
+je croyais
+
+I will believe
+je croirai
+
+read (past)
+lu
+
+I was reading
+je lisais
+
+I will read
+je lirai
+
+written
+écrit
+
+I was writing
+je écrivais
+
+I will write
+j'écrirai
+
+lived; experienced
+vécu
+
+I was living; I was experiencing
+je vivais
+
+I will live; I will experience
+je vivrai
+
+I was opening
+je ouvrais
+
+I will open
+j'ouvrirai
