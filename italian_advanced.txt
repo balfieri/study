@@ -13909,9 +13909,6 @@ lo scrocco
 to scrounge; to mooch
 scroccare
 
-to impose; to establish; to assert
-imporsi
-
 to engage; to open; strike up
 intavolare
 
@@ -64545,7 +64542,7 @@ indoctrination
 l'indottrinamento
 
 touchscreen
-il touchscreen
+lo schermo tattile; il touch screen
 
 eczema
 l'eczema
@@ -101636,4 +101633,43 @@ sprunarsi
 
 butcher block
 il tagliere da macellaio
+
+iPad
+l'iPad
+
+life coach
+il life coach; l'allenatore di vita; il consulente motivazionale
+
+tooth decay
+la caria
+
+cavity (tooth)
+la cavità (dentale); le carie
+
+Latvia
+la Lettonia
+
+mid-term elections
+le elezioni di metà mandato; le elezioni di metà legislatura; le elezioni di metà
+
+Ancient Greece
+l'Antica Grecia
+
+encirclement
+l'accerchiamento
+
+bank card
+la carta bancaria
+
+to get to the bottom (of something); to see through (to the end)
+arrivare fino in fondo
+
+to impose oneself; to assert oneself
+imporsi
+
+break-in; burglary
+lo scasso
+
+freight elevator; hoist
+il montacarichi
 
