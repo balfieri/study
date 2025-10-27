@@ -58443,7 +58443,7 @@ gastric bypass
 il bypass gastrico
 
 accumulator; hoarder
-l'accumulatore
+l'accumulatore; l'accumulatrice
 
 to get one's stomach stapled
 farsi mettere le staffe allo stomaco
@@ -72092,7 +72092,7 @@ addormentare un animale
 to zoom in; to magnify
 zoomare
 
-to zoom out; to shrink; to reduce in size
+to zoom out; to shrink; to reduce in size; to downsize
 rimpicciolire
 
 zoom out
@@ -101675,3 +101675,34 @@ il contatto visivo diretto
 
 regarding; towards; in relation to
 nei confronti di
+
+to broil
+cuocere al grill; fare al grill
+
+no-knead dough
+l'impasto senza impastare
+
+oven spring
+la lievitazione in forno
+
+to leave the dough rough; to leave the dough coarse
+lasciare l'impasto grezzo; lasciare l'impasto ruvido
+
+to let rest; to leave to rest
+lasciare a riposo; lasciare riposare
+
+to fold the dough
+fare le pieghe
+
+to cool down (intransitive)
+raffreddarsi
+
+scorched; slightly burnt
+bruciacchiato
+
+to be in proprio name
+essere a proprio nome
+
+to be in the name of (someone)
+essere a nome di (qualcuno)
+
