@@ -142,7 +142,7 @@ if other_lang != 'English':
     s += f'<p style="font-size:20px">\n'
     s += f'If that sounds wrong, check:\n'
     s += f'<a href="https://forvo.com">Forvo</a>,\n'
-s += f'<p style="font-size:22px">Click on a word list name to hear randomized entries or search the list:</p>\n'
+s += f'<p style="font-size:22px">Click on a study list name to hear randomized entries or search the list:</p>\n'
 s += '''
 <script>
   var rate = 0.9;
