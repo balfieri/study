@@ -2392,6 +2392,9 @@ je étais
 I will be
 je serai
 
+I am (subjunctive)
+je soye
+
 had
 eu
 
@@ -2400,6 +2403,9 @@ je avais
 
 I will have
 j'aurais
+
+I have (subjunctive)
+je aye
 
 did; done; made
 fait
@@ -2419,6 +2425,9 @@ je allais
 I will go
 j'irai
 
+I go (subjunctive)
+je alle
+
 took; taken; got; gotten
 pris
 
@@ -2427,6 +2436,9 @@ je prendais
 
 I will take
 je prendrai
+
+I take (subjunctive)
+je prene
 
 put; placed
 mis
@@ -2437,6 +2449,9 @@ je mettais
 I will put
 je mettrai
 
+I put (subjuntive)
+je mette
+
 said; told
 dit
 
@@ -2446,17 +2461,44 @@ je disais
 I will say
 je dirai
 
+I say (subjunctive)
+je dise
+
+seen
+vu
+
+I was seeing
+je voyais
+
+I will see
+je verrai
+
+I see (subjunctive)
+je voye
+
 could
 pu
 
 I could; I was able
 je pouvais
 
+I will be able to
+je pourrai
+
+I can (subjunctive)
+je puisse
+
 knew; known
 su
 
 I knew; I was knowing
 je savais
+
+I will know
+je saurai
+
+I know (subjunctive)
+je sache
 
 must have; had to; owed
 dû
@@ -2467,6 +2509,9 @@ je devais
 I will have to
 je devrai
 
+I must; I have to (subjective)
+je deve
+
 wanted
 voulu
 
@@ -2475,6 +2520,9 @@ je voulais
 
 I will want
 je voudrai
+
+I want (subjunctive)
+je voule
 
 came
 venu
@@ -2485,6 +2533,9 @@ je venais
 I will come
 je viendrai
 
+I come (subjunctive)
+je vene
+
 held
 tenu
 
@@ -2493,6 +2544,9 @@ je tenais
 
 I will hold
 je tiendrai
+
+I hold (subjunctive)
+je tene
 
 knew; met
 connu
@@ -2503,6 +2557,9 @@ je connaissais
 I will know; I will meet
 je connaîtrai
 
+I know; I meet (subjunctive)
+je connaisse
+
 believed
 cru
 
@@ -2511,6 +2568,9 @@ je croyais
 
 I will believe
 je croirai
+
+I believe (subjunctive)
+je croye
 
 read (past)
 lu
@@ -2521,6 +2581,9 @@ je lisais
 I will read
 je lirai
 
+I read (subjunctive)
+je lise
+
 written
 écrit
 
@@ -2529,6 +2592,9 @@ je écrivais
 
 I will write
 j'écrirai
+
+I write (subjunctive)
+je écrive
 
 lived; experienced
 vécu
@@ -2539,8 +2605,14 @@ je vivais
 I will live; I will experience
 je vivrai
 
+I live (subjunctive)
+je vive
+
 I was opening
 je ouvrais
 
 I will open
 j'ouvrirai
+
+I open
+j'ouvre
