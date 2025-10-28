@@ -3088,9 +3088,6 @@ le prêt
 to get a loan
 obtenir un prêt
 
-to wish
-souhaiter
-
 to travel
 voyager
 
@@ -3610,3 +3607,140 @@ le raisin sec
 outside; apart from; outside of
 en dehors de
 
+tomorrow
+demain
+
+for the moment; for now; for the time being
+pour le moment; pour l'instant; pour l'immédiat
+
+tell me everything
+dis-moi tout
+
+of course not
+bien sûr que non
+
+nonsense; whatever
+n'importe quoi
+
+to comprehend
+comprendre
+
+to hope
+espérer
+
+to wish
+souhaiter
+
+how horrible!
+quelle horreur!
+
+no problem
+pas de problème
+
+do what you want
+fais ce que tu veux
+
+I don't care
+je m'en fiche
+
+does it matter?; does it make a difference?
+peu importe?
+
+I think so
+je pense que oui
+
+what a relief!
+quel soulagement!
+
+I doubt it
+j'en doute
+
+I hope not
+j'espère que non
+
+I hope so
+j'espère que oui; j'espère
+
+good job!
+bon travail!
+
+I am not sure
+je ne suis pas sûre
+
+I am sure
+je suis sûre
+
+what an idea!
+quelle idée!
+
+I don't understand
+je ne comprends pas
+
+that's not fair
+c'est pas juste
+
+oh really!
+ah bon!
+
+I don't think so
+je ne pense pas
+
+what a pity!
+quel dommage!
+
+how sad!
+comme c'est triste!
+
+it's not a big deal!; it doesn't matter!
+c'est pas grave!
+
+surprise
+la surprise
+
+what a surprise!
+quelle surprise!
+
+that's enough; that's sufficient; that suffices
+ça suffit
+
+don't worry
+ne t'en fais pas
+
+that's great!
+c'est genial!
+
+that's not true!
+c'est pas vrai!
+
+disaster
+le désastre
+
+what a disaster!
+quel désastre!
+
+how lucky!
+quelle chance!
+
+not at all
+pas du tout
+
+are you kidding?
+tu plaisantes?
+
+calm down!
+calme-toi!
+
+to hit
+taper
+
+I don't care
+je m'en tape
+
+no thank you
+non merci
+
+no, thank you
+non, merci
+
+how funny!
+comme c'est drôle!
