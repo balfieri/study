@@ -3444,3 +3444,165 @@ emotional
 
 previous; prior
 précédent
+
+the world
+le monde
+
+the people
+la gens
+
+it color
+il couleur
+
+the person
+la personne
+
+the friend
+l'ami
+
+the hospital
+l'hôpital
+
+love
+l'amour
+
+he works; it works
+il travail
+
+the day
+le jour
+
+the night
+la nuit
+
+drink; beverage
+la boisson
+
+music
+la musique
+
+number
+le numéro
+
+passport
+le passeport
+
+office; desk
+le bureau
+
+food
+la nourriture
+
+month
+le mois
+
+bank
+la banque
+
+card; map
+la carte
+
+sea
+le mer
+
+mountain
+la montagne
+
+store; shop
+le magasin
+
+price
+le prix
+
+flower
+le fleur
+
+child
+l'enfant
+
+sky
+le ciel
+
+sun
+le soleil
+
+morning
+le matin
+
+moon
+la lune
+
+education
+l'éducation
+
+airport
+l'aéroport
+
+mirror
+le miroir
+
+teacher; professor
+le professeur; la professeure
+
+dress
+la robe
+
+television
+la télévision
+
+minute
+la minute
+
+reason
+la raison
+
+umbrella
+le parapluie
+
+wine
+le vin
+
+bag
+le sac
+
+plane; airplane
+l'avion
+
+temperature
+la température
+
+room
+la salle
+
+bathroom
+la salle de bain
+
+clothes
+les vêtements
+
+snow
+la neige
+
+animal
+l'animal
+
+coffee; café
+le café
+
+meat
+la viande
+
+chair
+la chaise
+
+beer
+la bière
+
+watch; clock
+le a montre
+
+grape
+le raisin
+
+raisin
+le raisin sec
