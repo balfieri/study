@@ -2378,7 +2378,7 @@ was; been
 été
 
 I was (imperfect)
-je étais
+j'étais
 
 I will be
 je serai
@@ -2390,13 +2390,13 @@ had
 eu
 
 I was having
-je avais
+j'avais
 
 I will have
 j'aurais
 
 I have (subjunctive)
-je aye
+j'aye
 
 did; done; made
 fait
@@ -2411,13 +2411,13 @@ gone; went
 allé
 
 I was going
-je allais
+j'allais
 
 I will go
 j'irai
 
 I go (subjunctive)
-je alle
+j'alle
 
 took; taken; got; gotten
 pris
@@ -3843,4 +3843,76 @@ je suis là pour toi
 
 I didn't expect that
 je ne m'y attendais pas
+
+basically; essentially; fundamentally
+en gros; fondamentalement; essentiellement
+
+cousin
+le cousin; la cousine
+
+brother-in-law
+le beau-frère
+
+sister-in-law
+la belle-sœur
+
+great-nephew
+le petit-neveu
+
+great-niece
+la petite-nièce
+
+good choice!; nice choice!
+bon choix!
+
+garlic
+l'ail
+
+strike
+la grève
+
+parent
+le parent; la parent
+
+fiancé
+le fiancé; la fiancée
+
+to form
+former
+
+to come across; to cross
+croiser
+
+encounter
+la rencontre
+
+grandmother
+grand-mère
+
+grandma
+la mamie; la mammy
+
+grandfather
+le grand-père
+
+grandpa
+le papi; le papy
+
+great-grandmother
+l'arrière-grand-mère
+
+great-grandfather
+l'arrière-grand-père
+
+uncle
+l'oncle
+
+aunt
+la tante
+
+great-uncle
+le grand-oncle
+
+great-aunt
+la grand-tante
 

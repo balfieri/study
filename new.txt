@@ -41,3 +41,5 @@ illusions will always be an issue
 elevator illusion
 
 difference between solid and hollow arrows on IFR low en route chart
+
+On an ILS approach, do you have to be able to identify the outer middle and inner markers in someway?
