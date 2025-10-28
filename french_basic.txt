@@ -2384,7 +2384,7 @@ I will be
 je serai
 
 I am (subjunctive)
-je soye
+je sois
 
 had
 eu
@@ -2396,7 +2396,7 @@ I will have
 j'aurais
 
 I have (subjunctive)
-j'aye
+j'aie
 
 did; done; made
 fait
@@ -2406,6 +2406,9 @@ je faisais
 
 I will do
 je ferai
+
+I do (subjunctive)
+je fasse
 
 gone; went
 allé
@@ -2417,7 +2420,7 @@ I will go
 j'irai
 
 I go (subjunctive)
-j'alle
+j'aille
 
 took; taken; got; gotten
 pris
@@ -2429,7 +2432,7 @@ I will take
 je prendrai
 
 I take (subjunctive)
-je prene
+je prenne
 
 put; placed
 mis
@@ -2465,7 +2468,7 @@ I will see
 je verrai
 
 I see (subjunctive)
-je voye
+je voie
 
 could
 pu
@@ -2501,7 +2504,7 @@ I will have to
 je devrai
 
 I must; I have to (subjective)
-je deve
+je doive
 
 wanted
 voulu
@@ -2513,7 +2516,7 @@ I will want
 je voudrai
 
 I want (subjunctive)
-je voule
+je veuille
 
 came
 venu
@@ -2525,7 +2528,7 @@ I will come
 je viendrai
 
 I come (subjunctive)
-je vene
+je vienne
 
 held
 tenu
@@ -2537,7 +2540,7 @@ I will hold
 je tiendrai
 
 I hold (subjunctive)
-je tene
+je tienne
 
 knew; met
 connu
@@ -2561,7 +2564,7 @@ I will believe
 je croirai
 
 I believe (subjunctive)
-je croye
+je croie
 
 read (past)
 lu
@@ -3915,4 +3918,7 @@ le grand-oncle
 
 great-aunt
 la grand-tante
+
+half
+la moitié
 
