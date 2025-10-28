@@ -140,8 +140,8 @@ if other_lang != 'English':
     s += f'Speed: <input type="range" min="25" max="125" value="90" class="slider" id="slider_speed" oninput="update_slider_speed(this.value)">\n'
     s += f'<span id="slider_speed_value">0.9</span>\n'
     s += f'<p style="font-size:20px">\n'
-    s += f'If that sounds wrong, check:\n'
-    s += f'<a href="https://forvo.com">Forvo</a>,\n'
+    s += f'If that sounds wrong, check\n'
+    s += f'<a href="https://forvo.com">Forvo</a>\n'
 s += f'<p style="font-size:22px">Click on a study list name to hear randomized entries or search the list:</p>\n'
 s += '''
 <script>
