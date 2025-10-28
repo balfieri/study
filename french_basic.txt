@@ -1300,9 +1300,6 @@ thick
 to trust
 faire confiance
 
-handsome
-beau
-
 beautiful
 belle
 
@@ -3295,3 +3292,155 @@ l'œuf
 eggs
 les œufs
 
+new
+nouveau
+
+empty
+vide
+
+simple
+simple
+
+useful
+utile
+
+inexpensive; cheap
+bon marché
+
+pure
+pur
+
+rare
+rare
+
+delicious
+délicieux
+
+single
+célibataire
+
+comfortable
+confortable
+
+complete
+complet
+
+stupid; dumb
+stupide
+
+ugly
+moche
+
+first
+premier
+
+third
+troisième
+
+organized
+organisé
+
+perfect
+parfait
+
+modern
+moderne
+
+outgoing; sociable
+sociable
+
+dangerous
+dangereux
+
+kind; gentle
+gentil
+
+positive
+positif
+
+last; final
+dernier
+
+next; following
+suivant
+
+dry
+sec
+
+wet; humid
+humide
+
+better; best
+meilleur
+
+fair; just
+juste
+
+talented
+talentueux
+
+important
+important
+
+short
+court
+
+sunny
+ensoleillé
+
+rainy
+pluvieux
+
+red
+rouge
+
+similar
+similaire
+
+sincere
+sincère
+
+bald
+chauve
+
+cruel
+cruel
+
+deaf
+sourd
+
+famous
+célèbre
+
+scared; afraid
+effrayé
+
+friendly
+amical
+
+confident; assured
+assuré
+
+impatient
+impatient
+
+handsome; beautiful
+beau
+
+pretty
+joli
+
+weird; strange
+bizarre
+
+thin; slim
+mince
+
+horrible
+horrible
+
+emotional
+émotif
+
+previous; prior
+précédent
