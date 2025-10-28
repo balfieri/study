@@ -34,6 +34,7 @@ title = 'All Lists'
 other_lang = 'English'
 other_lang_code = 'en-US'
 other_lang_voice = 'Samantha'
+back_html = ''
 
 i = 1
 while i < len( sys.argv ):
@@ -49,6 +50,8 @@ while i < len( sys.argv ):
         other_lang_code = sys.argv[i]
     elif arg == '-other_lang_voice':
         other_lang_voice = sys.argv[i]
+    elif arg == '-back_html':
+        back_html = sys.argv[i] 
     else:
         die( f'unknown option: {arg}' )
     i += 1
@@ -130,9 +133,14 @@ html_s = '''<!DOCTYPE html>
   </style>
   <body>
     <h1>''' + title + '''</h1>
-    <p>
-    <h3><a href="https://www.imustcook.com/crossword">[return to lists]</a></h3>
-    </p>
+'''
+
+if back_html != '':
+    html_s += f'<p>\n'
+    html_s += f'<h3><a href="{back_html}">[return to lists]</a></h3>\n'
+    html_s += f'</p>'
+
+html_s += '''
     <form>
         <label for="english-text-box">''' + eng_name + ''' filter:</label>
         <input type="text" id="english-text-box" name="english-text-box">

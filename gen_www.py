@@ -214,7 +214,7 @@ for subject in subjects:
     if gen_puzzles and not is_first: s += f'<br>\n'
     subjects_s = all_s if subject == f'{name}_all_lists' else subject
     entry_cnt = int( cmd( f'./gen_puz {subjects_s} -print_entry_cnt_and_exit 1' ) ) if cmd_en else 1
-    cmd( f'./gen_html.py -subjects {subjects_s} -title {subject} -other_lang {other_lang} -other_lang_code {other_lang_code} -other_lang_voice {other_lang_voice} > www/{subject}.html' ) 
+    cmd( f'./gen_html.py -subjects {subjects_s} -title {subject} -other_lang {other_lang} -other_lang_code {other_lang_code} -other_lang_voice {other_lang_voice} -back_html https://www.imustcook.com/study/{name}.html > www/{subject}.html' ) 
     s += f'<h2><a href="{subject}.html">{subject}</a> ({entry_cnt} entries)</h2>'
     if gen_puzzles:
         for reverse in range(2):
