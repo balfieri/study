@@ -2816,7 +2816,7 @@ at; to
 à
 
 in; inside
-dans
+dans; à l'intérieur de
 
 for; in order to
 pour
@@ -3606,3 +3606,7 @@ le raisin
 
 raisin
 le raisin sec
+
+outside; apart from; outside of
+en dehors de
+
