@@ -71,7 +71,7 @@ raise your hand!
 levez la main!
 
 cat
-le shat
+le chat; la chatte
 
 black
 noir
@@ -149,7 +149,7 @@ during this period; in this period
 dans cette période
 
 instructor
-le instructeur
+l'instructeur
 
 cold (illness)
 le rhume
@@ -471,9 +471,6 @@ prendre des photos
 
 spring
 le printemps
-
-to enjoy; to take advantage of
-profiter
 
 district; neighborhood
 le quartier
@@ -892,7 +889,7 @@ rendre visite à
 nobody; no one
 personne
 
-quelqu'un; someone
+someone; somebody
 quelqu’un
 
 anyone
@@ -1078,9 +1075,6 @@ le frère
 eye
 l'œil
 
-egg
-l'œuf
-
 beef
 le bœuf
 
@@ -1103,7 +1097,7 @@ south
 le sud
 
 east
-le est
+l'est
 
 west
 l'ouest
@@ -2616,3 +2610,688 @@ j'ouvrirai
 
 I open
 j'ouvre
+
+seriously; earnestly; hard; in earnest
+sérieusement
+
+worst
+le pire
+
+worse
+pire
+
+later
+plus tard
+
+further ahead; earlier (in text)
+plus avant
+
+to count; to intend
+compter
+
+supermarket
+le supermarché
+
+exhausted; sold out
+épuisé
+
+dry
+sèche
+
+season
+la saison
+
+episode
+l'épisode
+
+together
+ensemble
+
+fruit
+le fruit
+
+through the window; by the window
+par la fenêtre
+
+owner
+il propriéteure; la propriéteure
+
+delay; lateness
+le retard
+
+warning; notice
+l'avertissement
+
+to warn; to notify
+avertir
+
+pleurer; to weep
+to cry
+
+raised
+haussé
+
+shoulder
+l'épaule
+
+princess
+la princesse
+
+laughed
+ri
+
+neck
+le cou
+
+routine
+la routine
+
+to keep; to guard
+garder
+
+habit
+la habitude
+
+to enjoy; to take advantage of
+profiter; 
+
+next day
+le lendemain
+
+guilty
+coupable
+
+method
+la méthode
+
+motivation
+la motivation
+
+consistency; constancy
+la constance
+
+to give up; to abandon
+abandonner
+
+to prefer
+préfèrer
+
+to repeat
+répéter
+
+to dig
+creuser
+
+stone
+la pierre
+
+thought
+la pensée
+
+self-control
+le contrôle de soi
+
+human
+le humain
+
+progress
+le progrès
+
+and
+et
+
+but
+mais
+
+or
+ou
+
+that; which; who
+que
+
+so; thus
+donc
+
+because
+parce que
+
+furthermore; moreover
+de plus
+
+likewise; also
+de même
+
+in case
+au cas où
+
+as soon as
+dès que
+
+in general
+en général
+
+in fact
+en fait
+
+to be necessary
+falloir; être nécessaire
+
+while; during
+pendant que
+
+if
+si
+
+neither; nor
+ni
+
+additionally; also
+en plus
+
+however; nevertheless
+toutefois
+
+although; even though
+bien que
+
+in summary; to sum up
+en résumé
+
+in conclusion
+en conclusion
+
+because of; due to
+en raison de
+
+nevertheless
+néanmois
+
+so; thus
+ainsi
+
+thanks to
+grâce à
+
+because of; due to
+à cause de
+
+at; to
+à
+
+in; inside
+dans
+
+for; in order to
+pour
+
+of; from
+de
+
+after
+après
+
+before
+avant
+
+on; upon
+sur
+
+with
+avec
+
+without
+sans
+
+against
+contre
+
+behind
+derrière
+
+under; beneath
+sous
+
+in front of; before
+devant
+
+among
+parmi
+
+below; beneath
+au-dessous
+
+far from
+loin de
+
+near; close to
+près de
+
+until
+jusjusqu'à
+
+above; over
+au-dessus
+
+title
+le titre
+
+million
+le million
+
+rule
+la règle
+
+to concentrate; to focus
+se concentrer
+
+notebook
+le cahier
+
+exercise
+l'exercice
+
+I meant; I wanted to say; I was trying to say
+je voulais dire
+
+support
+le soutien
+
+subscriber
+l'abonné
+
+corridor; hallway
+le couloir
+
+direction
+la direction
+
+charm
+le charme
+
+symbol
+le symbole
+
+the Eiffel tower
+la tour Eiffel
+
+tour (band)
+la tournée
+
+to go on tour
+partir en tournée; faire une tournée
+
+line
+la ligne
+
+stairs; staircase
+l'escalier
+
+others; other things/people
+d'autres
+
+decorated
+décoré
+
+to tell; to narrate; to recount
+raconter
+
+underground; subterranean
+souterrain
+
+to inspire
+inspirer
+
+numerous; many
+nombreaux
+
+artist
+l'artiste
+
+place; venue
+le lieu
+
+poetic
+poétique
+
+mysterious
+mystérieux
+
+where
+où
+
+chance; luck; random
+le hasard
+
+musician
+le musicien; la musicienne
+
+incredible; unbelievable
+incroyable
+
+on the other hand; however
+par contre
+
+certain; sure
+certain
+
+technically
+techniquement
+
+completely
+complètement
+
+to use
+utiliser
+
+to discover
+découvrir
+
+adventure
+l'aventure
+
+unexpected
+inattendu
+
+personally
+personnellement
+
+a long time ago
+il y a longtemps
+
+to pay attention; to be careful
+faire attention
+
+boss
+le patron
+
+to accept
+accepter
+
+to sleep
+dormir
+
+to finish
+finir
+
+to arrive
+arriver
+
+to clean
+nettoyer
+
+to decide
+décider
+
+to find
+trouver
+
+to start; to begin
+commencer
+
+to cry
+pleurer
+
+to smile
+sourire
+
+to believe
+coire
+
+to call
+appeler
+
+to drive
+conduire
+
+to live; to inhabit
+habiter
+
+to follow
+suivre
+
+to prepare
+préparer
+
+to sell
+vendre
+
+to continue
+continuer
+
+to deserve
+mériter
+
+to defend
+défendre
+
+to dance
+danser
+
+to invite
+inviter
+
+to change
+changer
+
+to get; to obtain
+obtenir
+
+to rent
+louer
+
+to pay
+payer
+
+to loan
+prêter
+
+loan
+le prêt
+
+to get a loan
+obtenir un prêt
+
+to wish
+souhaiter
+
+to travel
+voyager
+
+to serve
+servir
+
+liked; beloved
+aimée
+
+to send
+envoyer
+
+to introduce
+introduire
+
+to applaud; to clap
+applaudir
+
+to check; to verify
+vérifier
+
+to recognize
+reconnaître
+
+to produce
+produire
+
+to offer
+offrir
+
+to win; to earn
+gagner
+
+to exist
+exister
+
+to look for; to search
+chercher
+
+to move (physically)
+bouger
+
+to break
+casser
+
+to act
+agir
+
+to explain
+expliquer
+
+to substitute; to replace
+remplacer; substituer
+
+national
+national
+
+nation
+la nation
+
+status
+le statut
+
+continent
+le continent
+
+village
+le village
+
+town; city
+la ville
+
+small city
+la petite ville
+
+to apologize
+s'excuser
+
+to take place
+prendre place
+
+follower
+l'abonné; le suiveur
+
+to subscribe
+s'abonner
+
+to log in to
+se connecter à
+
+to finish sooner
+finir plus tôt
+
+literature
+la littérature
+
+relief
+le relief; le soulagement
+
+to bring; to lead (a person)
+amener
+
+to take away (a person)
+emmener
+
+to take away (a thing)
+emporter
+
+to bring (a thing)
+apporter
+
+nuance
+la nuance
+
+connection; link
+la liason
+
+to escape
+s'échapper
+
+merchant
+le marchand
+
+to realize
+se rendre compte
+
+to notice
+remarquer
+
+to note
+noter
+
+onion
+l'oignon
+
+uterus
+l'utérus
+
+pineapple
+ananas
+
+puzzle
+le puzzle
+
+virus
+le virus
+
+tennis
+le tennis
+
+twenty
+vingt
+
+express
+l'express
+
+bear
+l'ours
+
+bears
+les ours
+
+screwdriver
+le tournevis
+
+direction; sense; meaning
+le sens
+
+more; plus
+plus
+
+seven
+sept
+
+clean; net
+net
+
+concept
+le concept
+
+corn; maize
+le maïs
+
+Christmas
+Noël
+
+all; everyone
+tous
+
+account
+le compte
+
+accountant
+le comptable; la comptable
+
+egg
+l'œuf
+
+eggs
+les œufs
+
