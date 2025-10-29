@@ -1252,7 +1252,7 @@ le souvenir
 appointment; meeting; date
 le rendez-vous
 
-game
+game; set
 le jeu
 
 to play
@@ -3421,9 +3421,6 @@ amical
 confident; assured
 assuré
 
-impatient
-impatient
-
 handsome; beautiful
 beau
 
@@ -3549,6 +3546,9 @@ la robe
 
 television
 la télévision
+
+TV
+la télé
 
 minute
 la minute
@@ -3883,7 +3883,7 @@ le fiancé; la fiancée
 to form
 former
 
-to come across; to cross
+to come across; to cross; to run into
 croiser
 
 encounter
@@ -3922,3 +3922,485 @@ la grand-tante
 half
 la moitié
 
+given that
+étant donné que; au vu de; compte tenu de; sachant que
+
+on the other hand
+d'un autre côté; par contre
+
+in my humble opinion
+à mon humble avis
+
+le bonheur
+happiness
+
+party (political)
+la parti
+
+logical; reasonable
+logique
+
+common; shared
+commun
+
+boat; ship
+le bateau
+
+lake
+le lac
+
+scheme
+le scéma
+
+it's the same thing
+c'est la même chose
+
+to give a lesson
+donner une leçon
+
+help me
+aide-moi
+
+tell me
+raconte-moi
+
+wash your hands
+lave les mains
+
+hurry up
+dépêche-toi
+
+open the door
+ouvre la porte
+
+close the window
+ferme la fenêtre
+
+turn it off
+éteins le
+
+wake up
+réveille-toi
+
+call me
+appelle-moi
+
+follow me
+suis-moi
+
+stay here
+reste ici
+
+be quiet
+taisez-vous
+
+show me
+montre-moi
+
+give it to me
+donne-le-moi
+
+don't smoke
+ne fume pas
+
+shut up
+ferme-la
+
+listen to me
+écoute-moi
+
+raise your hand
+lève la main
+
+talk to me
+parle-moi
+
+go away
+va-t'en
+
+clean the table
+nettoie la table
+
+table
+la table
+
+kiss me
+embrasse-moi
+
+hug me
+serre-moi dans tes bras
+
+forget it
+oublie ça
+
+instead of; in place of
+au lieu de; à la place de
+
+don't speak
+ne parle pas
+
+why not?
+pourquoi pas?
+
+sit down
+assieds-toi
+
+look at me
+regarde-moi
+
+trash can
+la poubelle
+
+don't be late
+ne sois pas en retard
+
+brush your teeth
+lave-toi les dents
+
+be careful
+fais attention
+
+don't run
+ne cours pas
+
+set the table
+mets le table
+
+turn on the TV
+allume la télé
+
+television (device)
+le téléviseur
+
+ne le touche pas
+don't touch it
+
+don't come
+ne viens pas
+
+study more
+étudie plus
+
+get ready
+prépare-toi
+
+relax
+détends-toi
+
+don't say anything
+ne dis rien
+
+wait here
+attends ici
+
+don't do it
+ne le fais pas
+
+plant
+la plante
+
+session
+la session
+
+to water
+arroser
+
+buddy; friend
+le pote
+
+relative
+relative
+
+vulgar
+vulgaire
+
+dead
+morte
+
+housing; accommodation
+le logement
+
+space
+l'espace
+
+inside; interior
+l'intérieur
+
+outside; exterior
+l'extérieur
+
+cutting
+la bouture
+
+to trim
+émonder
+
+knot
+le nœud
+
+in the ground
+en terre
+
+monster
+le monster; le monstre
+
+fluently
+en fluence
+
+natural
+natural
+
+naturally
+naturellement
+
+how are you today?
+comment tu vas aujourd'hui
+
+to sign a lease
+faire un bail
+
+to guess
+deviner
+
+other day
+l'autre jour
+
+more so
+plustôt
+
+to be convinced
+être convaincu
+
+point of view
+le point de vue
+
+to discuss among yourselves
+se discuter
+
+to think; to reflect
+réfléchir
+
+completely; totally
+totalement
+
+exactly
+exactement
+
+it's true indeed
+c'est bien vrai
+
+I share your opinion
+je partage ton avis
+
+meh
+bof
+
+I don't know much
+j'sais pas trop
+
+this time
+pour le coup
+
+another point of view
+l'autre point de vue
+
+to let; to leave
+laisser
+
+what do you think?
+t'en penses quoi?
+
+why?
+pourquoi?
+
+to hear about
+entendre parler de
+
+joke
+la blague
+
+to function
+fonctionner
+
+completely
+à toute
+
+to file; to leave
+filer
+
+to keep updated; to keep current
+tenir au courant
+
+to see you again
+te revoir
+
+see you next time
+à la prochaine
+
+good luck for the rest
+bon courage pour la suite
+
+rest; sequel
+la suite
+
+whole; ensemble
+l'ensemble
+
+I'm leaving you
+j'te laisse
+
+on occasion
+a l'occasion
+
+care
+le soin
+
+take care of yourself
+prends soin de toi
+
+while waiting
+en attendant
+
+gifted
+doué
+
+to enjoy; to have pleasure
+jouir
+
+I'm looking forward to
+j'ai hâte de
+
+impatient
+impatient
+
+I am impatient
+je suis impatient
+
+to suck
+aspirer
+
+I envy; I feel like
+j'envie de
+
+I envy you
+je t'envie
+
+I go to bed
+je me couche
+
+to present
+présenter
+
+I don't believe in those stereotypes
+je ne crois pas à ces stéréotypes
+
+effective; efficient
+efficace
+
+efficiency
+l'efficacité
+
+part; game
+la partie
+
+almost; nearly
+quasiment
+
+text
+le texte
+
+at the same time
+en même temps
+
+landscape
+le paysage
+
+exceptional
+hors-norme
+
+cheese
+le fromage
+
+crunchy
+croustillant
+
+to bet
+parier
+
+bet
+le pari
+
+to defeat
+battre; vaincre
+
+defeat
+la défaite
+
+to take a look at
+jeter un coup d'œil à
+
+musicality
+la musicalité
+
+frankly
+franchement
+
+sincere; frank
+franche
+
+to discern
+discerner
+
+engineer
+l'ingénieur
+
+correct
+correct
+
+to make (something) (adjective)
+rendre (quelche chose) (adjectif)
+
+you make me happy
+tu me rends heureux
+
+to die
+mourir
+
+it means; it signifies
+ça signifie
+
+to intend to
+avoir l'intention de
+
+including that one
+y compris celui-ci
+
+to include
+inclure
+
+everyday French
+le français du quotidien
+
+more than in Italian
+plus que l'italien
+
+less than in Italian
+moins que l'italien
+
+to carry a conversation
+tenir une conversation
+
+I know more words
+je connais plus de mots
+
+to suffer
+souffrir
+
+rivalry
+la rivalité
+
+with politeness
+avec politesse
+
+object
+l'objet
