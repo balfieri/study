@@ -2338,7 +2338,7 @@ la croûte
 cow
 la vache
 
-reall?
+really; truly
 vraiment
 
 definitely
@@ -2770,7 +2770,7 @@ dès que
 in general
 en général
 
-in fact
+in fact; actually
 en fait
 
 to be necessary
@@ -3543,9 +3543,6 @@ le miroir
 
 teacher; professor
 le professeur; la professeure
-
-dress
-la robe
 
 television
 la télévision
@@ -4545,3 +4542,223 @@ tous les quatre
 
 I was hating
 je haïssais
+
+jail; prison
+le prison; l'emprisonnement
+
+criminal
+le criminel
+
+crime
+le crime
+
+enjoy your meal
+bon appétit
+
+I'm joking
+je plaisante
+
+it depends on
+cela dépend de
+
+whole; entire
+entier
+
+proud
+fier
+
+bitter
+amer
+
+sour
+aigre
+
+spicy
+épicé
+
+harsh; rough
+rude
+
+it hurts
+cela fait mal
+
+peace
+la paix
+
+hurt
+blessure
+
+to hurt (someone's) feelings
+blesser les sentiments de (quelqu'un)
+
+by the way
+d'ailleurs
+
+to be used to
+avoir l'habitude de
+
+Mother's Day
+la fête des mères
+
+Father's Day
+la fête des pères
+
+to spend time with
+passer du temps avec
+
+golf
+le golf
+
+me included
+moi inclus
+
+it fits well; it suits well
+cela va bien; cela convient bien
+
+accurate
+exact
+
+precise
+précis
+
+typical
+typique
+
+surgeon
+le chirurgien; la chirurgienne
+
+useless
+inutile
+
+on average
+en moyenne
+
+it's about
+il s'agit de
+
+what is it about?
+de quoi s'agit-il?
+
+best friends
+les meilleurs amis
+
+to have to do with
+avoir à voir avec
+
+it is important to me
+c'est important pour moi
+
+it doesn't interest me
+cela ne m'intéresse pas
+
+to go visit the family
+aller visiter la famille
+
+lucky you; you are lucky
+tu as de la chance
+
+shirt
+la chemise
+
+dress
+la robe
+
+suit
+le costume
+
+to wear a shirt
+porter une chemise
+
+to wear a dress
+porter une robe
+
+to wear a suit
+porter un costume
+
+pants
+le pantalon
+
+both
+les deux
+
+without trying to
+sans essayer de
+
+as long as
+tant que
+
+until; until such time as
+jusqu'à; jusqu'à tel point
+
+so that
+afin que
+
+unless
+à moins que
+
+awesome
+génial
+
+genius
+génie
+
+lovely; charming
+charmant
+
+enchanting
+enchanteur
+
+dull
+terne
+
+sharp
+aiguisé
+
+witty
+spirituel
+
+to focus on
+se concentrer sur
+
+currently
+actuellement
+
+on the other hand
+en revanche
+
+much better
+beaucoup mieux
+
+a warm person
+une personne chaleureuse
+
+to turn the plane
+tourner l'avion
+
+heat
+chaleur
+
+by now
+à l'heure actuelle
+
+à ce point
+to this point; to that extent
+
+maintenant
+now
+
+adorable
+adorable
+
+adopted
+adoptive
+
+in many ways
+de bien des façons
+
+to predict
+prédire
+
+to participate in
+participer à
+
