@@ -4156,6 +4156,12 @@ naturellement
 how are you today?
 comment tu vas aujourd'hui
 
+how are you doing?; how are things?
+comment vas-tu?; comment ça va?
+
+it is going great; things are going well
+ça va très bien; les choses vont bien
+
 to sign a lease
 faire un bail
 
@@ -4440,3 +4446,9 @@ au lycée
 
 do you teach Italian?
 enseignes-tu l'italien?
+
+to not say anything
+ne rien dire
+
+that is; in other words
+c’est-à-dire
