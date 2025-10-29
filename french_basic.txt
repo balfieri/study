@@ -128,7 +128,7 @@ unfortunately
 malheureusement
 
 to move (house)
-déménager
+déménager; se installer
 
 nephew
 le neveu
@@ -226,7 +226,7 @@ s'exprimer
 embarrassment
 l'embarras; la gêne
 
-family
+family; relatives
 la famille
 
 to embarrass
@@ -2740,7 +2740,7 @@ le progrès
 and
 et
 
-but
+but; however
 mais
 
 or
@@ -3217,7 +3217,7 @@ le marchand
 to realize
 se rendre compte
 
-to notice
+to notice; to note
 remarquer
 
 to note
@@ -3516,6 +3516,9 @@ le fleur
 
 child
 l'enfant
+
+children; kids
+les enfants
 
 sky
 le ciel
@@ -3876,6 +3879,9 @@ la grève
 
 parent
 le parent; la parent
+
+grandparent
+le grand-parent
 
 fiancé
 le fiancé; la fiancée
@@ -4473,3 +4479,69 @@ depuis la dernière leçon
 
 unable; incapable
 incapable
+
+last time
+la dernière fois; la fois dernière
+
+at that time; in those days  
+à cette époque; en ce temps-là
+
+there is
+il y a
+
+there are
+il y avait
+
+in this way; in this manner
+de cette façon; de cette manière
+
+I don't believe it
+je n'y crois pas
+
+I realized (it)
+je m'en suis rendu compte
+
+to realize (it)
+s'en rendre compte
+
+to notice (without trying to)
+s'apercevoir
+
+it depends
+ça dépend
+
+eldest son
+le fils ainé
+
+youngest son
+le fils cadet; le fils le plus jeune
+
+eldest daughter
+la fille ainée
+
+youngest daughter
+la fille cadete; la fille la plus jeune
+
+foreign
+étrangèr
+
+to hate
+haïr
+
+to grow up
+grandir
+
+remark; comment
+la remarque
+
+citizenship
+la citoyenneté
+
+ridiculous
+ridicule
+
+all four
+tous les quatre
+
+I was hating
+je haïssais
