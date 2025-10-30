@@ -387,3 +387,7 @@ avoir un résultat négatif à (maladie)
 
 more pronounced
 plus prononcé
+
+opaque
+opaque
+
