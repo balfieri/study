@@ -391,7 +391,7 @@ plus prononcé
 opaque
 opaque
 
-to start; to begin
+to start; to begin; to commence
 commencer
 
 painful; sore; aching
@@ -411,3 +411,7 @@ le je-sais-tout; le tout savoir; le donneur de leçons
 
 to smell (bad)
 puer; sentir mauvais
+
+even when
+même quand; même lorsque
+
