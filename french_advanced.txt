@@ -385,3 +385,5 @@ anticiper
 to test negative for (illness)
 avoir un résultat négatif à (maladie)
 
+more pronounced
+plus prononcé
