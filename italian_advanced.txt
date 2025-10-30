@@ -35603,7 +35603,7 @@ to skip school; to play hooky; to cut class
 marinare la scuola; scappare da scuola; scafare
 
 matchmaker
-l'appaiatore; l'appaiatrice; il faccendiere; la faccendiera
+l'organizzatrice di incontri
 
 to bring near; to bring closer; to put closer
 avvicinare
@@ -101747,3 +101747,13 @@ andare fino in fondo; capire; indagare a fondo
 
 queen bee
 l'ape regina
+
+one who pairs; matcher
+l'appaiatore; l'appaiatrice
+
+to pair up; to match; to couple
+appaiare
+
+wheeler-dealer; fixer; intermediary; busybody; wide boy
+il faccendiere; la faccendiera
+

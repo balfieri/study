@@ -91,9 +91,6 @@ avoir peur
 skeleton
 le squidette
 
-witch
-la sorciere
-
 candle
 le bon bon
 
@@ -3025,9 +3022,6 @@ décider
 to find
 trouver
 
-to start; to begin
-commencer
-
 to cry
 pleurer
 
@@ -3328,8 +3322,11 @@ complet
 stupid; dumb
 stupide
 
-ugly
+ugly (informal)
 moche
+
+ugly (formal, neutral)
+laid
 
 first
 premier
@@ -4815,3 +4812,24 @@ je ne veux pas en parler
 
 lack of
 la manque de; l'absence de
+
+here is; here are; this is; these are
+voici
+
+to move away; to go away
+s'éloigner
+
+to move closer; to approach
+s'approcher
+
+for which; for whom
+pour lequel; pour laquelle; pour lesquels; pour lesquelles
+
+oh my God!
+oh mon Dieu!
+
+Madonna
+Madone
+
+saint
+saint
