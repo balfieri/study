@@ -1252,7 +1252,7 @@ le souvenir
 appointment; meeting; date
 le rendez-vous
 
-game; set
+game
 le jeu
 
 to play
@@ -4252,7 +4252,7 @@ bon courage pour la suite
 rest; sequel
 la suite
 
-whole; ensemble
+whole; ensemble; set
 l'ensemble
 
 I'm leaving you
@@ -4761,4 +4761,52 @@ prédire
 
 to participate in
 participer à
+
+one of the reasons
+une des raisons
+
+to unblock
+débloquer
+
+25 percent
+vingt-cinq pour cent
+
+tens of
+des dizaines de
+
+hundreds of
+des centaines de
+
+thousands of
+des milliers de
+
+millions of
+des millions de
+
+subculture
+la sous-culture
+
+reserved
+riservé
+
+it will be interesting to find out
+il sera intéressant de découvrir
+
+irregular
+irrégulier
+
+number
+le nombre
+
+set of numbers
+l'ensemble de nombres
+
+depressing
+déprimant
+
+to get depressed
+devenir déprimé; se déprimer
+
+situation
+la situation
 
