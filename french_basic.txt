@@ -2866,9 +2866,6 @@ près de
 until
 jusjusqu'à
 
-above; over
-au-dessus
-
 title
 le titre
 
@@ -3726,9 +3723,6 @@ tu plaisantes?
 
 calm down!
 calme-toi!
-
-to hit
-taper
 
 I don't care
 je m'en tape
@@ -4848,4 +4842,130 @@ l'adjectif
 
 something (adjective)
 quelque chose de (adjectif)
+
+these; these ones
+ceux-ci; celles-ci
+
+those; those ones
+ceux-là; celles-là
+
+central market
+marché central
+
+leather
+cuir
+
+glass
+verre
+
+bottle
+bouteille
+
+envelope; small bag
+enveloppe; petit sac
+
+to share (feelings; thoughts)
+partager (sentiments; pensées)
+
+to reach
+atteindre
+
+salted; salty
+salé
+
+cooked
+cuit
+
+entrance
+entrée
+
+camera
+caméra
+
+cup
+tasse
+
+regular Coke
+coca normal
+
+Diet Coke
+coca light
+
+something to drink
+quelque chose à boire
+
+to telephone; to phone
+téléphoner; appeler
+
+to chew
+mâcher
+
+to get out of; to go down
+sortir de; descendre
+
+to get in
+monter dans
+
+to push
+pousser
+
+to pull
+tirer
+
+discount
+la remise; la réduction
+
+on vacation (personal days)
+en vacances
+
+on vacation (fixed holidays)
+en congé
+
+over; above; atop
+au-dessus
+
+down; down below
+en bas
+
+downstairs
+au rez-de-chaussée
+
+up above
+en haut
+
+upstairs
+à l’étage
+
+restaurant
+le restaurant
+
+to beat
+battre
+
+to hit
+taper
+
+to fish
+pêcher
+
+fishing
+la pêche
+
+pear
+la poire
+
+fog
+le brouillard
+
+rain
+la pluie
+
+to rain
+pleuvoir
+
+to laugh
+rire
+
+too much; too many
+trop
 
