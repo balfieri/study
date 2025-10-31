@@ -2752,6 +2752,9 @@ donc
 because
 parce que
 
+because (formal)
+car
+
 furthermore; moreover
 de plus
 

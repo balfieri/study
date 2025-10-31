@@ -1300,7 +1300,7 @@ how to determine if you are current for IFR flight
 from the date of intended flight, count backward exactly 6 calendar months; you must have completed and logged the required tasks within that period
 
 DVA
-Diverse Vector Area is an airspace segment at certain airports where ATC may provide random radar vectors to an aircraft during its departure climb, even below the MVA, while still ensuring obstacle clearance; a pilot must maintain a continous climb (usually at least 200 feet per nautical mile) until reaching the minimum vectoring altitude or minimum IFR altitude; DVAs are published in the same place as ODPs, and used in lieu of an ODP or SID
+Diverse Vector Area is an airspace segment at certain airports where ATC may provide random radar vectors to an aircraft during its departure climb, even below the MVA, while still ensuring obstacle clearance; a pilot must maintain a continuous climb (usually at least 200 feet per nautical mile) until reaching the minimum vectoring altitude or minimum IFR altitude; DVAs are published in the same place as ODPs, and used in lieu of an ODP or SID
 
 A-M-E: during an IFR lost communications situation, the altitude you should fly is
 the highest of the following three altitudes: the last assigned altitude by ATC, the Minimum IFR altitude for the route segment, or the altitude ATC expected you to fly
