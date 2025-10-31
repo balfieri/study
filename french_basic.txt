@@ -4969,3 +4969,8 @@ rire
 too much; too many
 trop
 
+automobile
+l'automobile
+
+car
+la voiture; l'auto
