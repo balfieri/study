@@ -2053,3 +2053,63 @@ from 1000 to 5000 feet AGL: 70; from 5000 to 14500 feet AGL: 70; 14500 to 18000 
 
 what does (VL) (L) mean in a VOR information box?
 VOR Low for the VOR, legacy low for the DME component
+
+when you go miss, if you don't hit the activate missed approach button
+the needle will still be tied to the overly-sensitive approach which will make it harder to stay on course
+
+if you need to lose 50 to 100 feet of altitude
+pitch down slightly using the yoke; inverse for gaining 50 to 100 feet
+
+if you need to lose 500 feet of altitude
+lower power and pitch down to get it started; then gradually reduce forward pressure; inverse for gaining 500 feet
+
+to level off
+add power and a little back pressure to help it
+
+angle of attack controls
+airspeed, so don't fiddle with trim if speed already good
+
+ideal descent rate for step-downs
+600 to 700 feet per minute
+
+ideal time to id the navaid
+before crossing the inbound way point
+
+during partial panel when one G5 is off, be sure not to
+turn the heading knob because it is really the baro setting
+
+best way to set pitch
+first with yoke, then trim pressure off hands
+
+the CDI on the GTN 650 is
+GPS-driven, even for ILS
+
+when climbing out
+set pitch for climb-out speed and don't worry about what the VSI says
+
+before reporting inbound to ATC
+start down to the next step-down altitude
+
+how to know on map when it's time to go down to the next step-down altitude
+the magenta line on the map will change to the next segment
+
+when off course
+just stop track from moving away from desired track, then nudge it back
+
+on final approach, the GTN 650 screen that is most helpful is
+the default nav page; the map page isn't as useful at that point
+
+after making course corrections, check for wings level
+using the attitude indicator
+
+when entering a hold from what looks like a tear drop entry, but is really a direct entry
+make a slower, wider turn
+
+when you get to the MDA and don't see the runway environment
+stay at the MDA until the missed approach point because you might see it soon; the only exception is if you have a 3/4 scale deflection in which case you must go missed
+
+if you are not IFR current, you may not
+file an IFR flight plan, thus you need to go fly some approaches under the hood with an instructor or safety pilot, or use a certified simulator
+
+can you do an instrument proficiency check in a simulator?
+no
