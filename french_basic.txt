@@ -769,9 +769,6 @@ le rayon
 husband
 le mari
 
-light
-la lumière
-
 gently; softly
 doucement
 
@@ -3091,9 +3088,6 @@ servir
 liked; beloved
 aimée
 
-to send
-envoyer
-
 to introduce
 introduire
 
@@ -4974,3 +4968,115 @@ l'automobile
 
 car
 la voiture; l'auto
+
+to send (person, thing, informal)
+envoyer
+
+to send (package, letter)
+expédier; envoyer
+
+meat sauce
+le sauce viande; le sauce à la viande
+
+cream
+la crème
+
+whipped cream
+la crème fouettée
+
+truffle
+la truffle
+
+basil
+le basilic
+
+oregano
+l'origan
+
+olive
+l'olive
+
+olive oil
+le huile d'olive
+
+vinegar
+le vinaigre
+
+pan
+la poêle
+
+stove
+le poêle
+
+pot
+la casserole; la marmite
+
+museum
+le musée
+
+organic
+biologique
+
+artisinal
+artisanal
+
+police
+la police
+
+force; strength
+la force
+
+effort
+l'effort
+
+swimming pool
+la piscine
+
+bed
+le lit
+
+blanket
+la couverture
+
+to go to sleep
+s'endormir; aller dormir
+
+dark
+sombre; obscur
+
+star
+l'étoile
+
+light (emission)
+la lumière
+
+to lock
+fermer à clé
+
+sure; secure
+sûr
+
+safe
+en sécurité; sûr
+
+cookie
+le biscuit
+
+to touch
+toucher
+
+sailboat
+le voilier
+
+wind
+le vent
+
+to exchange
+échanger
+
+line; tail; queue
+la queue; la file
+
+to get in line
+faire la queue
+
