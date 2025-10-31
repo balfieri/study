@@ -481,3 +481,12 @@ approprié
 smelly cheese; stinky cheese
 le fromage qui pue; le fromage puant
 
+cable
+le câble
+
+wire
+le fil
+
+electrical
+électrique
+
