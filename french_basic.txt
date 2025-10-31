@@ -1285,6 +1285,9 @@ proche
 far
 loin
 
+away from; far from
+loin de
+
 subtle
 subtil
 
@@ -2856,9 +2859,6 @@ parmi
 
 below; beneath
 au-dessous
-
-far from
-loin de
 
 near; close to
 près de
