@@ -478,3 +478,6 @@ convenable; propre
 appropriate
 approprié
 
+smelly cheese; stinky cheese
+le fromage qui pue; le fromage puant
+

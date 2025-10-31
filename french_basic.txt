@@ -5080,3 +5080,8 @@ la queue; la file
 to get in line
 faire la queue
 
+where are you from?
+d'où es-tu?
+
+where do you come from?
+d'où viens-tu?
