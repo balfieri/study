@@ -103,8 +103,7 @@ for subject in subjects:
             print()
             print( f'{filename}:{ques_line_num}:    {question}' )
             print( f'{filename}:{line_num}:    {answer}' )
-            if speak:
-                cmd( f'say -v {voice} \'{answer}\'', echo=False )
+            if speak: cmd( f'say -v {voice} \'{answer}\'', echo=False )
             found = True
 
     Q.close()
