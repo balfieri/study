@@ -674,10 +674,10 @@ machine
 la machine
 
 beginner
-le débutant; la débutante
+le débutant
 
 novice
-le novice; la novice
+le novice
 
 grammatical
 grammatical
@@ -1013,7 +1013,7 @@ station; train station
 la gare
 
 baker
-le boulanger; la boulangère
+le boulanger
 
 place; location
 l'endroit
@@ -1124,7 +1124,7 @@ newspaper
 le journal
 
 journalist
-le journaliste; la journaliste
+le journaliste
 
 to shine
 briller; luire; rayonner; étinceler
@@ -2024,7 +2024,7 @@ welcome; reception
 l'accueil
 
 seller; salesperson
-le vendeur; la vendeure
+le vendeur
 
 rate; tax
 le taux
@@ -2060,7 +2060,7 @@ burial location
 le lieu d'enterrement
 
 teacher
-le prof; la prof
+le prof
 
 step (process)
 l'étape
@@ -2957,7 +2957,7 @@ chance; luck; random
 le hasard
 
 musician
-le musicien; la musicienne
+le musicien
 
 incredible; unbelievable
 incroyable
@@ -3275,7 +3275,7 @@ account
 le compte
 
 accountant
-le comptable; la comptable
+le comptable
 
 egg
 l'œuf
@@ -3536,7 +3536,7 @@ mirror
 le miroir
 
 teacher; professor
-le professeur; la professeure
+le professeur
 
 television
 la télévision
@@ -3842,7 +3842,7 @@ basically; essentially; fundamentally
 en gros; fondamentalement; essentiellement
 
 cousin
-le cousin; la cousine
+le cousin
 
 brother-in-law
 le beau-frère
@@ -3872,7 +3872,7 @@ grandparent
 le grand-parent
 
 fiancé
-le fiancé; la fiancée
+le fiancé
 
 to form
 former
@@ -4616,7 +4616,7 @@ typical
 typique
 
 surgeon
-le chirurgien; la chirurgienne
+le chirurgien
 
 useless
 inutile
