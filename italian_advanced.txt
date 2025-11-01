@@ -99214,7 +99214,7 @@ awkward person; bungler
 l'impacciatore
 
 widowmaker heart attack
-l'infarto fulminante
+l'infarto del tipo widowmaker; l'infarto prossimale discendente anteriore
 
 nail-biting experience
 l'esperienza da togliere il fiato; l'esperienza da mangiarsi le unghie
@@ -101810,4 +101810,7 @@ il mezzo bagno; il bagno di servizio
 
 smelly cheese
 il formaggio puzzolente
+
+piggyback ride
+il giro a cavalcioni; il passaggio sulle spalle; la cavalcata sulle spalle
 
