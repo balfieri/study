@@ -970,7 +970,7 @@ i nonni
 nephew; grandson
 il nipote
 
-niece; grandaughter
+niece; granddaughter
 la nipote
 
 uncle
@@ -1075,7 +1075,7 @@ la doccia
 minibar
 il frigobar
 
-take a shower
+to take a shower
 fare la doccia
 
 to bathe; to wet
