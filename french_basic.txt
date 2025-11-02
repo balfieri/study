@@ -5203,7 +5203,7 @@ faire la queue
 yogurt
 le yaourt
 
-to collect
+to collect; to pick up; to gather; to scoop up  
 collectionner; ramasser
 
 useful
@@ -5748,4 +5748,43 @@ se tromper
 
 to make an error; to err; to make a mistake
 faire une erreur; commettre une erreur; faire une faute
+
+direct
+direct
+
+cup; bowl; goblet
+la coupe
+
+haircut
+la coupe de cheveux; la coiffure
+
+romantic
+romantique
+
+cuddle; hug; snuggle
+le câlin
+
+that's the case; that's true
+c'est le cas
+
+in a hurry; hurried; pressed; rushed
+pressé
+
+so; therefore; consequently; as a result
+du coup
+
+blow; stroke; shot; knock; hit
+le coup
+
+to approach
+approcher; s'approcher de
+
+always badly
+toujours mal
+
+opposite of
+le contraire de; l'opposé de
+
+opposite
+contraire; opposé
 
