@@ -289,6 +289,9 @@ le début
 at the very beginning
 tout au début
 
+at first; initially; at the beginning; to begin with; to start with; in the beginning
+au début
+
 web site
 le site web
 
@@ -3295,6 +3298,9 @@ célibataire
 comfortable
 confortable
 
+uncomfortable
+inconfortable
+
 complete
 complet
 
@@ -5515,7 +5521,7 @@ la Russie
 sensitive
 sensible
 
-sympathetic
+sympathetic; compassionate
 compatissant
 
 sensible; making sense; reasonable; prudent
@@ -5727,4 +5733,19 @@ ce n'est pas si mal; ce n'est pas complètement mauvais
 
 French teacher
 le professeur de français; le prof de francais; l'enseignant de français
+
+dog
+le chien
+
+to be right
+avoir raison
+
+to be wrong
+avoir tort
+
+to make a mistake; to be mistaken
+se tromper
+
+to make an error; to err; to make a mistake
+faire une erreur; commettre une erreur; faire une faute
 
