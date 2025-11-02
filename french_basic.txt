@@ -820,9 +820,6 @@ la difficulté
 bottom; back; background
 le fond
 
-shy; timid
-timide
-
 tired
 fatigué
 
@@ -1356,9 +1353,6 @@ sale
 
 calm; quiet
 calme
-
-noisy
-bruyant
 
 fast; quick
 rapide
@@ -2629,9 +2623,6 @@ le supermarché
 exhausted; sold out
 épuisé
 
-dry
-sèche
-
 season
 la saison
 
@@ -3004,7 +2995,7 @@ dormir
 to finish
 finir
 
-to arrive
+to arrive; to happen (by chance)
 arriver
 
 to clean
@@ -3348,9 +3339,6 @@ dernier
 
 next; following
 suivant
-
-dry
-sec
 
 wet; humid
 humide
@@ -4900,9 +4888,6 @@ monter dans
 to push
 pousser
 
-to pull
-tirer
-
 discount
 la remise; la réduction
 
@@ -5224,3 +5209,509 @@ difficile; stimulant
 to leave; to go away
 partir
 
+to expect
+s’attendre à
+
+maybe; if only I could
+peut-être; si seulement je pouvais
+
+to taste; to sample
+goûter; déguster
+
+day after tomorrow
+après-demain
+
+yesterday
+hier
+
+day before yesterday
+avant-hier
+
+chest; breast (chicken, turkey)
+la poitrine
+
+breast (female)
+le sein
+
+breakfast
+le petit déjeuner
+
+lunch
+le déjeuner
+
+dinner
+le dîner
+
+snack; light meal
+le casse-croûte; la collation
+
+dry (devoid of moisture)
+sec
+
+wet
+mouillé
+
+blind
+aveugle
+
+ears
+les oreilles
+
+nose
+le nez
+
+hole
+le trou
+
+belt (waist)
+la ceinture
+
+ticket; note (greeting card)
+le billet; la carte
+
+parking lot
+le parking
+
+to park
+se garer; stationner
+
+to start the car
+démarrer la voiture
+
+sweater (thin); gluten structure (dough); gluten matrix (dough)
+le pull léger; le réseau de gluten
+
+sweater (warm/thick)
+le gros pull
+
+sweatshirt
+le sweat; le chandail
+
+money (abstract, wealth)
+la richesse; la fortune
+
+to yell; to scream; to cry (strong emotion, long duration)
+crier; hurler; pleurer (fort, longtemps)
+
+to shout (talk loudly to be heard)
+crier; interpeller
+
+all set; settled
+c’est réglé; tout est prêt
+
+boarding pass
+la carte d’embarquement
+
+check-in
+l'enregistrement
+
+competition (general)
+la compétition; le concours
+
+race; contest; competition (often sports-related)
+le course; le concours; la compétition
+
+race (animal, not human); breed
+la race
+
+ethnicity; race (human)
+l'ethnie; la race
+
+lane; track
+la voie
+
+aisle
+l'allée; le couloir
+
+passageway
+la passage
+
+fine (penalty)
+l'amende
+
+seatbelt
+la ceinture de sécurité
+
+in cash
+en espèces
+
+theft; rip-off
+le vol; l'arnaque
+
+mild
+doux; modéré
+
+to comb
+peigner
+
+napkin
+la serviette
+
+wallet
+le portefeuille
+
+slice
+la tranche
+
+bite (noun)
+la morsure; la bouchée
+
+crowded; busy (place, store)
+bondé; fréquenté
+
+nurse
+l'infirmier; l'infirmière
+
+scissors
+les ciseaux
+
+cone
+le cône
+
+pork
+le porc
+
+to pull; to shoot; to fire
+tirer
+
+to look like
+ressembler à
+
+meal
+le repas
+
+toy
+le jouet
+
+to recommend (something to someone)
+recommander (quelque chose à quelqu’un)
+
+to advise (someone)
+conseiller (quelqu’un)
+
+to advise to; to recommend to
+conseiller de; recommander de
+
+tunnel
+le tunnel
+
+clock; watch
+l'horloge; le montre
+
+time (clock)
+l’heure
+
+I can’t wait to
+j’ai hâte de
+
+I'm dying to 
+je meurs d’envie de
+
+tonight; this evening
+ce soir
+
+today
+aujourd’hui
+
+afternoon
+l'après-midi
+
+tomato
+la tomate
+
+it’s enough
+c’est assez; ça suffit
+
+to happen (general, daily events)
+se passer; arriver
+
+to happen; to occur (neutral on predictability, noteworthy event, narrative, descriptive)
+avoir lieu; survenir
+
+it takes; it requires
+il faut; cela demande
+
+more or less
+plus ou moins
+
+to worry about; to bother to
+se soucier de; s’embêter à
+
+to bore
+ennuyer
+
+to get bored
+s’ennuyer
+
+anger; rage; rabies
+la colère; la rage
+
+beauty
+la beauté
+
+ugliness
+la laideur
+
+common (adjective)
+commun; courant
+
+careful!
+attention!
+
+I can’t do it (I’m unable to succeed at it)
+je n’y arrive pas; je ne peux pas le faire
+
+I may not do it; I am unable to do it (before even trying)
+je ne peux pas le faire; il se peut que je ne le fasse pas
+
+will (noun); desire
+le volonté; le désir
+
+to kick
+donner un coup de pied
+
+English (adjective)
+anglais
+
+England
+l'angleterre
+
+United States of America; USA
+les états-unis d’amérique; les USA
+
+France
+la France
+
+Italy
+l'Italie
+
+Germany
+l'Allemagne
+
+Spain
+l'Espagne
+
+Ireland
+l'Irlande
+
+Canadian
+canadien
+
+Jewish
+juif; juive
+
+London
+Londres
+
+Paris
+Paris
+
+Berlin
+Berlin
+
+Russia
+la Russie
+
+sensitive
+sensible
+
+sympathetic
+compatissant
+
+sensible; making sense; reasonable; prudent
+raisonnable; sensé; prudent
+
+clairvoyant; psychic
+clairvoyant; médium
+
+to behave
+se comporter
+
+to spend (time)
+passer (du temps)
+
+to spend (money)
+dépenser
+
+lens
+la lentille
+
+meanwhile; in the meantime
+pendant ce temps; en attendant
+
+fraud; scam; rip off
+la fraude; l'arnaque; l'escroquerie
+
+educated
+instruit; éduqué
+
+yard (all vegetation)
+le jardin
+
+instead of (noun, infinitive)
+au lieu de
+
+instead of (clause)
+au lieu que; au lieu que (+ subjonctif)
+
+instead,
+au lieu; sinon
+
+rather; better yet; in fact; to the contrary
+plutôt; voire; en fait; au contraire
+
+no way!
+pas question!; hors de question!
+
+loud; noisy
+bruyant
+
+corner
+le coin
+
+to hide (intransitive)
+se cacher
+
+then; well...; so; now; at that time; at that moment
+alors; eh bien...; donc; maintenant; à ce moment-là; à ce moment
+
+to joke; to kid
+plaisanter; blaguer
+
+thread; wire; yarn
+le fil
+
+straight; straight ahead; straight-shooting (person); frank
+droit; tout droit; franc
+
+noise
+le bruit
+
+silence
+le silence
+
+boss; head (organization); chief; cape
+le chef; le patron; le cap
+
+nice; kind
+gentil; aimable
+
+nice; likeable; fun (to be with)
+sympa; agréable; amusant
+
+normal
+normal
+
+virtuous
+vertueux
+
+deep; profound
+profond
+
+ordinary
+ordinaire
+
+careful; attentive
+attentif; soigneux
+
+talkative person; motor mouth; chatterbox
+le bavard; le moulin à paroles; la pipelette
+
+cheerful; cheery; jolly (outward expression of happiness)
+gai; joyeux; enjoué
+
+nervous
+nerveux
+
+bored
+ennuyé
+
+shy; timid; bashful
+timide
+
+unknown
+inconnu
+
+stranger
+l'étranger
+
+old (person); elderly
+âgé; personne âgée
+
+athletic
+athlétique; sportif
+
+muscular
+musclé
+
+smooth; sleek
+lisse
+
+rich (non-financial); curly
+riche; bouclé
+
+wavy; rough; wiggly; undulated
+ondulé; frisotté; rugueux; sinueux
+
+brown (hair)
+châtain
+
+blond
+blond
+
+mustache
+la moustache
+
+dress; suit
+la robe; le costume
+
+sweater
+le pull
+
+sock
+la chaussette
+
+earings
+les boucles d’oreilles
+
+shorts
+le short
+
+t-shirt
+le t-shirt
+
+blouse
+la blouse; le chemisier
+
+jacket
+la veste
+
+scarf
+l'écharpe
+
+gloves
+les gants
+
+boots
+les bottes
+
+sandals
+les sandales
+
+bathing suit; swimsuit
+le maillot de bain
+
+dentist
+le dentiste
+
+actor; thespian; player (acting sense)
+l'acteur; le comédien
+
+ballerina
+la danseuse (de ballet)
+
+policeman; police officer; bobby (British)
+le policier; l'agent de police
+
+cook
+le cuisinier
