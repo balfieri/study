@@ -5715,3 +5715,6 @@ le policier; l'agent de police
 
 cook
 le cuisinier
+
+I, too; me too
+moi aussi
