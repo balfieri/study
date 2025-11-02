@@ -3286,9 +3286,6 @@ vide
 simple
 simple
 
-useful
-utile
-
 inexpensive; cheap
 bon marché
 
@@ -4423,6 +4420,9 @@ il semble qu'il y ait
 which town do you live in?
 dans quelle ville habites-tu?
 
+how many (something)?
+combien de (quelche chose)?
+
 how many kids do you have?
 combien d'enfants as-tu?
 
@@ -4608,9 +4608,6 @@ précis
 
 typical
 typique
-
-surgeon
-le chirurgien
 
 useless
 inutile
@@ -5077,9 +5074,6 @@ to exchange
 line; tail; queue
 la queue; la file
 
-to get in line
-faire la queue
-
 where are you from?
 d'où es-tu?
 
@@ -5211,4 +5205,22 @@ se mouiller
 
 to get married
 se marier
+
+to stand in line; to queue; to get in line
+faire la queue
+
+yogurt
+le yaourt
+
+to collect
+collectionner; ramasser
+
+useful
+utile
+
+challenging
+difficile; stimulant
+
+to leave; to go away
+partir
 

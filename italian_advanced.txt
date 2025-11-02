@@ -36157,7 +36157,7 @@ il portagioie; il vano portaoggetti
 crime (very serious, violent)
 il crimine
 
-robbery
+robbery; heist
 la rapina
 
 check-up; medical examination
@@ -58211,8 +58211,11 @@ la sacca per colostomia
 spotted (seen)
 avvistato
 
-to spot (see)
+to spot; to sight
 avvistare
+
+sighting; spotting
+l'avvistamento
 
 downcast air
 l'aria abbattuta
