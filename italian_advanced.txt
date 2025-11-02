@@ -38681,7 +38681,7 @@ intense; tight
 serrato
 
 custom; practice
-l'usanza
+la consuetudine; l''usanza; la tradizione; il costume
 
 my mother gave me the third degree
 mia madre mi ha fatto un terzo grado
@@ -101831,3 +101831,6 @@ frainteso
 
 to misunderstand (somebody)
 fraintendere (qualcuno)
+
+Romance language
+la lingua romanza
