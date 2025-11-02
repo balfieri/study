@@ -271,9 +271,6 @@ l'astuce
 to pronounce
 prononcer
 
-to say
-dire
-
 during
 pendant; au cours de; durant
 
@@ -412,7 +409,7 @@ plusieurs
 to know; to be familiar with
 connaître
 
-to encounter
+to encounter; to meet (for the first time)
 rencontrer
 
 when
@@ -559,7 +556,7 @@ exprimer
 to complain
 se plaindre
 
-to grumble; to complain
+to grumble; to complain; to whine
 râler
 
 to share
@@ -649,9 +646,6 @@ remplacer
 concord; agreement
 la concorde
 
-to ask; to request
-demander
-
 to wait for; to await
 attendre
 
@@ -718,17 +712,11 @@ seul
 especially; above all
 surtout
 
-to need
-avoir besoin de
-
 chapter
 le chapitre
 
 translation
 la traduction
-
-to answer; to reply
-répondre
 
 path; way
 le chemin
@@ -772,7 +760,7 @@ le petit ami
 girlfriend
 la petite amie; la copine
 
-to resume; to take back
+to resume; to take back; to take over
 reprendre
 
 to take
@@ -789,9 +777,6 @@ quoique
 
 some; a few
 quelque
-
-to feel
-se sentir
 
 to feel; to experience
 ressentir
@@ -1026,9 +1011,6 @@ le thème
 
 the one; that one
 celui
-
-to start; to begin
-démarrer
 
 means; way; medium
 le moyen
@@ -2236,7 +2218,7 @@ le scénario
 for eight hours; during eight hours
 pendant 8 heures
 
-to listen
+to listen; to listen to
 écouter
 
 easily
@@ -2932,9 +2914,6 @@ complètement
 to use
 utiliser
 
-to discover
-découvrir
-
 adventure
 l'aventure
 
@@ -3562,7 +3541,7 @@ bien sûr que non
 nonsense; whatever
 n'importe quoi
 
-to comprehend
+to comprehend; to understand
 comprendre
 
 to hope
@@ -3720,9 +3699,6 @@ entre toi et moi
 
 to need (to do something)
 avoir besoin de (faire quelche chose)
-
-to lose
-perdre
 
 to have nothing to lose
 n'avoir rien à perdre
@@ -5233,6 +5209,9 @@ le parking
 to park
 se garer; stationner
 
+to start; to begin; to start off
+démarrer
+
 to start the car
 démarrer la voiture
 
@@ -6374,3 +6353,359 @@ se souvenir (de)
 to lunch; to have lunch
 déjeuner
 
+to thank; to give thanks
+remercier; donner des remerciements
+
+to leave (something)
+laisser (quelque chose)
+
+to seem; to look like; to seem like
+sembler; ressembler à; avoir l'air de
+
+to pray; to ask for; to beg
+prier; demander; supplier
+
+to ensure; to assure; to insure
+assurer; garantir; assurer (pour l'assurance)
+
+to desire; to crave
+désirer; avoir envie de
+
+to study
+étudier
+
+to forget to (do something); to space on (doing something)
+oublier de (faire quelque chose)
+
+to help
+aider
+
+to pass; to go by; to hand (something); to get by; to scoot by
+passer; remettre (quelque chose); se débrouiller; se faufiler
+
+to remain; to stay (condition, place, for a long time)
+rester; demeurer
+
+to observe
+observer
+
+to attempt; to tempt
+tenter
+
+to excuse
+excuser
+
+to search for; to look for; to seek; to seek out
+chercher; rechercher; poursuivre; chercher activement
+
+to try; to experience; to try out
+essayer; éprouver; tester
+
+to undergo
+subir
+
+to return (go back to a specific place)
+retourner
+
+to begin; to start
+commencer; débuter
+
+to dine; to have dinner
+dîner
+
+to meet; to encounter; to run into
+rencontrer; croiser
+
+to demonstrate
+démontrer
+
+to imagine
+imaginer
+
+to inform
+informer
+
+to refuse
+refuser
+
+to play (instrument)
+jouer (d’un instrument)
+
+to think about (have someone/something in your thoughts, pondering whether to do something)
+penser à
+
+to think about (opinion on someone/something, intending to do something)
+penser de
+
+to show off; to exhibit
+exhiber; exposer
+
+to occupy
+occuper
+
+to turn; to tour
+tourner; faire le tour
+
+to greet; to say hello to
+saluer; dire bonjour à
+
+to drive; to guide; to lead; to spearhead
+conduire; guider; diriger; mener
+
+to order
+ordonner
+
+to sort
+trier
+
+to be missing; to be lacking; to be absent
+manquer; être absent; faire défaut
+
+to see
+voir
+
+to put
+mettre
+
+to place
+placer
+
+to turn on; to switch on; to light; to fire up
+allumer; mettre en marche; éclairer; démarrer
+
+to close; to close out
+fermer; clôturer
+
+to understand; to comprehend
+comprendre; saisir
+
+to be familiar with
+être familer avec
+
+to lose
+perdre
+
+to render; to make (more of something else)
+rendre
+
+to stop (doing something); to quit (doing something)
+arrêter; cesser (de faire); abandonner
+
+to permit
+permettre
+
+to allow
+autoriser
+
+to enable
+rendre possible
+
+to afford; to allow oneself
+se permettre; s’accorder
+
+to conclude
+conclure
+
+to resolve; to sort out; to solve
+résoudre; régler; solutionner
+
+to convince
+convaincre
+
+to move (body, as in gymnastics)
+bouger; déplacer (le corps)
+
+to respond; to answer
+répondre
+
+to turn off
+éteindre
+
+to write
+écrire
+
+to ask; to ask for; to request
+demander
+
+to promise
+promettre
+
+to divide; to share (dividing into multiple parts)
+diviser; partager
+
+to own; to possess
+posséder; détenir
+
+to offend
+offenser
+
+to translate
+traduire
+
+to assist; to help; to aid; to watch
+assister; aider; secourir; surveiller
+
+to break (general); to crack
+casser; briser
+
+to feel; to sense
+sentir; ressentir
+
+to be needed (general, impersonal); to serve; to be useful; to wait on (serve)
+être nécessaire; servir; être utile; servir (quelqu’un)
+
+to need (personal)
+avoir besoin de
+
+to cover; to cover up
+couvrir; masquer
+
+to amuse; to entertain
+amuser; divertir
+
+to proceed
+procéder
+
+to fear
+craindre; avoir peur
+
+to nourish
+nourrir
+
+to leave (go); to depart
+partir; s’en aller
+
+to discover; to uncover; to find out
+découvrir
+
+to dress
+s’habiller; habiller
+
+to allow to (do something); to permit to (do something); to consent to (do something)
+permettre de; autoriser à; consentir à
+
+to execute; to perform (instructions)
+exécuter; accomplir
+
+to lie
+mentir
+
+to hit (stronger, figurative); to strike; to knock
+frapper; heurter; cogner
+
+to suggest
+suggérer
+
+to construct; to build; to build up
+construire; bâtir; développer
+
+to finish; to finish off
+finir; achever
+
+to finish (doing something)
+finir de (faire quelque chose)
+
+to unite; to merge
+unir; fusionner
+
+to define
+définir
+
+to guarantee
+garantir
+
+to contribute
+contribuer
+
+to remember (to do something)
+se rappeler (de faire quelque chose); se souvenir (de faire quelque chose)
+
+to remember (noun)
+souvenir; mémoire
+
+to get tired of
+se lasser de
+
+to put on; to wear
+mettre; porter
+
+to go to sleep; to fall asleep; to get to sleep
+s’endormir; tomber endormi; arriver à s’endormir
+
+to hug (each other)
+se serrer dans les bras
+
+to love each other; to love oneself
+s’aimer
+
+to get angry; to get upset
+se fâcher; s’énerver
+
+to call oneself; to be called; to be named
+s’appeler
+
+to meet; to get acquainted
+faire connaissance; se rencontrer
+
+to brush (hair)
+brosser (les cheveux)
+
+to brush one's hair
+se brosser les cheveux
+
+to rest; to take a rest
+se reposer
+
+to meet with; to get together with
+se réunir avec; retrouver quelqu’un
+
+to show interest in; to look out for somebody
+s’intéresser à; veiller sur quelqu’un
+
+to rise; to get up; to stand up
+se lever; se dresser; se mettre debout
+
+to feel (intransitive)
+se sentir
+
+to kiss (each other)
+s’embrasser
+
+to get used to
+s’habituer à
+
+to fall in love
+tomber amoureux
+
+to do one's makeup
+se maquiller
+
+to relax; to get a grip; to lighten up; to chill; to chill out
+se détendre; se ressaisir; se calmer; se relaxer
+
+to comb one's hair
+se peigner les cheveux
+
+to turn toward; to turn around
+se tourner vers; se retourner
+
+to express onself
+s’exprimer
+
+to get engaged
+se fiancer
+
+to have
+avoir
+
+to give off
+dégager
+
+to say; to tell
+dire
+
+to say to; to tell to
+dire à
+
+to have to; to must
+devoir
