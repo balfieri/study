@@ -172,9 +172,6 @@ je n'ai pas compris
 the United States
 les états-unis
 
-here
-ici
-
 obviously; clearly
 évidemment; clairement
 
@@ -448,9 +445,6 @@ jouer du
 to garden
 jardiner
 
-to learn
-apprendre
-
 to cook
 cuisiner
 
@@ -471,12 +465,6 @@ prendre des photos
 
 spring
 le printemps
-
-district; neighborhood
-le quartier
-
-square (plaza)
-la place
 
 church
 l'église
@@ -666,9 +654,6 @@ demander
 
 to wait for; to await
 attendre
-
-free (cost)
-gratuit
 
 to plan to (do something)
 prévoir de (faire quelque chose)
@@ -876,9 +861,6 @@ tard
 
 eyes
 les yeux
-
-to visit (someone)
-rendre visite à
 
 nobody; no one
 personne
@@ -1162,14 +1144,8 @@ peu à peu
 about; approximately
 environ
 
-around
-autour de
-
 salt
 le sel
-
-pepper
-le poivre
 
 plan; map
 le plan
@@ -1333,9 +1309,6 @@ cher; chère
 easy
 facile
 
-difficult
-difficile
-
 interesting
 intéressant
 
@@ -1356,9 +1329,6 @@ sale
 
 calm; quiet
 calme
-
-fast; quick
-rapide
 
 slow
 lent
@@ -1383,9 +1353,6 @@ fâché
 
 busy
 occupé
-
-free
-libre
 
 serious
 sérieux
@@ -2836,9 +2803,6 @@ sans
 against
 contre
 
-behind
-derrière
-
 under; beneath
 sous
 
@@ -3025,7 +2989,7 @@ appeler
 to drive
 conduire
 
-to live; to inhabit
+to live; to inhabit; to live in
 habiter
 
 to follow
@@ -3135,9 +3099,6 @@ le statut
 
 continent
 le continent
-
-village
-le village
 
 town; city
 la ville
@@ -3345,9 +3306,6 @@ dernier
 
 next; following
 suivant
-
-wet; humid
-humide
 
 better; best
 meilleur
@@ -3747,9 +3705,6 @@ n'avoir rien à dire
 
 I don't remember
 je ne me souviens pas
-
-late
-en retard
 
 I'm late again
 je suis en retard encore
@@ -5029,9 +4984,6 @@ la couverture
 to go to sleep
 s'endormir; aller dormir
 
-dark
-sombre; obscur
-
 star
 l'étoile
 
@@ -5251,7 +5203,7 @@ le dîner
 snack; light meal
 le casse-croûte; la collation
 
-dry (devoid of moisture)
+dry
 sec
 
 wet
@@ -5572,9 +5524,6 @@ pas question!; hors de question!
 loud; noisy
 bruyant
 
-corner
-le coin
-
 to hide (intransitive)
 se cacher
 
@@ -5787,4 +5736,641 @@ le contraire de; l'opposé de
 
 opposite
 contraire; opposé
+
+professional driver
+le conducteur professionnel; le conducteur de métier; le chauffeur professionnel; le pilote professionnel
+
+personal driver; driver (personal use)
+le chauffeur; le conducteur
+
+worker
+le travailleur; l'ouvrier
+
+doctor (medical)
+le docteur; le médecin
+
+doctor (PhD)
+le docteur; le titulaire d’un doctorat
+
+lawyer
+l'avocat
+
+bartender; barista
+le barman; le barmaid; le barista
+
+architect
+l'architecte
+
+soccer player; footballer
+le footballeur; le joueur de football
+
+housewife
+la femme au foyer
+
+lamp; light (device)
+la lampe; la lumière
+
+closet; wardrobe (physical)
+le placard; l'armoire
+
+keyboard; keyboards (music)
+le clavier; les claviers
+
+remote control
+le télécommande
+
+room (general)
+le pièce; la chambre
+
+bedroom; room (for sleeping); chamber
+la chambre; la chambre à coucher
+
+study; office; studying
+le bureau; l'étude
+
+garage
+le garage
+
+guest
+l'invité
+
+host
+l'hôte
+
+guest bedroom; spare bedroom
+la chambre d’amis; la chambre d’invités
+
+terrace
+la terrasse
+
+dining room
+la salle à manger
+
+roof
+le toit
+
+hill
+la colline
+
+forest
+le forêt
+
+field; camp
+le champ; le camp
+
+rock
+le rocher; le roche; la pierre
+
+park
+le parc
+
+summit; top
+le sommet
+
+coast
+la côte; le littoral
+
+planet
+la planète
+
+ocean
+l'océan
+
+country (rural area); countryside; campaign
+la campagne
+
+east (adjective)
+est; oriental
+
+west (adjective)
+ouest; occidental
+
+Earth
+la Terre
+
+island
+l'île
+
+country; village
+le village
+
+building; edifice
+le bâtiment; l'édifice
+
+statue
+la statue
+
+fountain
+la fontaine
+
+sidewalk
+le trottoir
+
+neighborhood; quarter; district
+le quartier
+
+traffic
+la circulation; le trafic
+
+square (gathering place)
+la place
+
+building; palace
+le bâtiment; le palais
+
+bridge
+le pont
+
+monument
+le monument
+
+downtown; center
+le centre-ville; le centre
+
+historic center
+le centre historique
+
+course; main street; avenue
+l'avenue; le cours
+
+school
+l'école
+
+post office
+lla poste; le bureau de poste
+
+bookstore; bookshop; bookshelves
+la librairie; la rayonnage; l'étagère à livres
+
+stadium; stage
+le stade; la scène
+
+ticket office
+la billetterie; le guichet
+
+bus station
+la gare routière; la station de bus
+
+theatre
+le théâtre
+
+gas station; service station
+le station-service
+
+cathedral
+le cathédrale
+
+railway
+le chemin de fer; la voie ferrée
+
+bus stop
+l'arrêt de bus
+
+moped; scooter; Vespa
+la mobylette; le scooter; la Vespa
+
+motorcycle
+la moto
+
+train
+le train
+
+here; over here
+ici
+
+opposite; opposite to; in the face of
+en face de; en face
+
+on the left; to the left
+à gauche
+
+behind (something)
+derrière
+
+around (circling a point); about
+autour de
+
+around (more flexible)
+autour; environ
+
+corner
+le coin
+
+on the corner
+au coin
+
+horse; knight (chess)
+le cheval; le cavalier
+
+lamb
+l'agneau
+
+pig; pork
+le cochon; le porc
+
+bird
+l'oiseau
+
+bee
+l'abeille
+
+sheep
+le mouton
+
+calf; veal
+le veau
+
+rabbit
+le lapin
+
+goat
+la chèvre
+
+rooster
+le coq
+
+turkey
+le dinde
+
+cup; mug; coffee cup
+la tasse; le mug
+
+bowl
+le bol
+
+ham
+le jambon
+
+sausage
+la saucisse
+
+orange (fruit)
+l'orange
+
+strawberry
+la fraise
+
+raisin
+le raisin sec; les raisins secs
+
+steak
+le steak
+
+apple
+la pomme
+
+blueberry
+le myrtille
+
+lemon
+le citron
+
+cherry
+le cerise
+
+carrot
+la carotte
+
+potato
+la pomme de terre
+
+eggplant
+l'aubergine
+
+salad
+la salade
+
+juice; bottom line (figurative)
+le jus; le fond (figure)
+
+jam; jelly
+la confiture; la gelée
+
+sugar
+le sucre
+
+pepper (spice)
+le poivre
+
+flour
+la farine
+
+cereal
+le céréale; les céréales
+
+fig
+le figue
+
+zucchini
+la courgette
+
+pepper (vegetable)
+le poivron
+
+milk
+le lait
+
+oil
+l'huile
+
+honey
+le miel
+
+rice
+le riz
+
+valid
+valide
+
+
+committed; busy (with lots of responsibilities)
+très pris; accaparé; engagé
+
+expensive; dear (informal)
+cher; coûteux
+
+full; fraught
+plein; rempli
+
+comfortable; convenient (creating ease)
+confortable; commode
+
+comfortable (living conditions, situation)
+à l’aise
+
+simple; easy; plain; straightforward
+simple; facile
+
+necessary
+nécessaire
+
+early; in advance; up front; beforehand; ahead of time
+en avance; à l’avance
+
+on time
+à l’heure
+
+clean; neat
+propre; net
+
+fast; fast-paced; rapid
+rapide
+
+quick; fast; swift; rapid; brisk
+vite; rapide
+
+off; turned off
+éteint
+
+expired; past due; overdue
+expiré; périmé
+
+free (thought)
+libre
+
+free (thing)
+gratuit
+
+for free
+gratuitement
+
+inexpensive; economic
+bon marché; économique
+
+difficult; hard; challenging
+difficile
+
+a bit; a little
+un peu
+
+unnecessary; not necessary; superfluous
+inutile; superflu
+
+peaceful; quiet; mellow; chill
+paisible; tranquille
+
+silent; quiet
+silencieux; calme
+
+innocent
+innocent
+
+elegant; sleek
+élégant
+
+wrong; mistaken
+faux; erroné
+
+late; running late; delayed
+en retard
+
+soccer; football (European); kick
+le football; le coup de pied
+
+basketball
+le basket-ball
+
+swimming
+la natation
+
+skiing
+le ski
+
+gymnastics
+la gymnastique
+
+cycling
+le cyclisme
+
+baseball
+le base-ball
+
+volleyball
+le volley-ball
+
+football (American)
+le football américain
+
+bicycle
+le vélo; la bicyclette
+
+sail
+le naviguer; la voile
+
+ball (larger)
+le ballon
+
+weights
+les haltères
+
+skis
+les skis
+
+subtitles
+les sous-titres
+
+to snow
+neiger
+
+cloud
+la nuage
+
+it's nice (weather); it's warm
+il fait beau; il fait chaud
+
+humid; moist; damp; wet
+humide
+
+it's hot (weather)
+il fait chaud
+
+it's raining
+il pleut
+
+it's snowing
+il neige
+
+it's windy
+il y a du vent
+
+it's sunny
+il y a du soleil
+
+it's foggy
+il y a du brouillard
+
+cloudy
+nuageux; couvert
+
+stormy
+orageux
+
+it's bad (weather)
+il fait mauvais
+
+it's cold (weather)
+il fait froid
+
+it's freezing
+il gèle
+
+dark (absence of light)
+sombre; obscur
+
+head
+la tête
+
+foot
+le pied
+
+knee
+le genou
+
+throat
+la gorge
+
+nausea
+la nausée
+
+flu
+la grippe
+
+cough
+le toux
+
+thirst
+la soif
+
+hunger
+la faim
+
+sleepiness; sleep
+la somnolence; le sommeil
+
+anxious
+anxieux
+
+depressed
+déprimé
+
+Monday
+lundi
+
+Tuesday
+mardi
+
+Wednesday
+mercredi
+
+Thursday
+jeudi
+
+Friday
+vendredi
+
+Saturday
+samedi
+
+January
+janvier
+
+February
+février
+
+March
+mars
+
+April
+avril
+
+May
+mai
+
+June
+juin
+
+July
+juillet
+
+August
+août
+
+September
+septembre
+
+October
+octobre
+
+November
+novembre
+
+December
+décembre
+
+New Year's
+Nouvel An
+
+Easter
+le Pâques
+
+eve
+la veille
+
+to speak; to talk
+parler
+
+to learn (new skill, knowlege)
+apprendre
+
+to visit (usually a place); to sightsee
+visiter
+
+to visit (person, informal)
+rendre visite à
+
+to remember (something)
+se souvenir (de)
+
+to lunch; to have lunch
+déjeuner
 

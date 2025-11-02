@@ -625,3 +625,6 @@ la coutume
 Romance language
 la langue romane
 
+gluttony
+la gloutonnerie
+
