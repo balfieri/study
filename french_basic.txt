@@ -3677,7 +3677,7 @@ that's enough; that's sufficient; that suffices
 ça suffit
 
 don't worry
-ne t'en fais pas
+t'inquiète pas; ne t'en fais pas
 
 that's great!
 c'est genial!
@@ -5718,3 +5718,13 @@ le cuisinier
 
 I, too; me too
 moi aussi
+
+to require
+requérir; demander; exiger; nécessiter; avoir besoin de
+
+it's not all bad
+ce n'est pas si mal; ce n'est pas complètement mauvais
+
+French teacher
+le professeur de français; le prof de francais; l'enseignant de français
+

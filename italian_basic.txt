@@ -5461,6 +5461,9 @@ lo svantaggio
 Italian teacher
 l'insegnante di italiano
 
+French teacher
+l'insegnante di francese
+
 passenger
 il passeggero
 
@@ -7998,4 +8001,3 @@ il tutor; la tutor
 
 away from
 lontano da; via da; distante da
-
