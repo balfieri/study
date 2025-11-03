@@ -1222,9 +1222,6 @@ jouer
 the bill (restaurant)
 l'addition
 
-couple
-la couple
-
 value
 la valeur
 
@@ -2065,9 +2062,6 @@ le poulet
 technique
 la technique
 
-tasty; savory
-savoureux
-
 for a long time
 longuement
 
@@ -2341,9 +2335,6 @@ j'aurais
 I have (subjunctive)
 j'aie
 
-did; done; made
-fait
-
 I was doing; I was making
 je faisais
 
@@ -2461,9 +2452,6 @@ je voudrai
 I want (subjunctive)
 je veuille
 
-came
-venu
-
 I was coming
 je venais
 
@@ -2497,9 +2485,6 @@ je connaîtrai
 I know; I meet (subjunctive)
 je connaisse
 
-believed
-cru
-
 I was believing
 je croyais
 
@@ -2508,9 +2493,6 @@ je croirai
 
 I believe (subjunctive)
 je croie
-
-read (past)
-lu
 
 I was reading
 je lisais
@@ -3193,9 +3175,6 @@ net
 concept
 le concept
 
-corn; maize
-le maïs
-
 Christmas
 Noël
 
@@ -3463,7 +3442,7 @@ le miroir
 teacher; professor
 le professeur
 
-television
+television (medium)
 la télévision
 
 TV
@@ -3507,9 +3486,6 @@ l'animal
 
 coffee; café
 le café
-
-meat
-la viande
 
 chair
 la chaise
@@ -5590,9 +5566,6 @@ riche; bouclé
 wavy; rough; wiggly; undulated
 ondulé; frisotté; rugueux; sinueux
 
-brown (hair)
-châtain
-
 blond
 blond
 
@@ -6848,9 +6821,6 @@ même si
 one can say
 on peut dire
 
-past
-le passé
-
 to finish
 terminer
 
@@ -7043,3 +7013,377 @@ le seul problème
 it doesn't make sense; it makes no sense
 ça n'a pas de sens
 
+turned on; on
+allumé
+
+drank
+bu
+
+asked
+demandé
+
+ran
+couru
+
+decided
+décidé
+
+divided
+divisé
+
+shared
+partagé
+
+done; did; made
+fait
+
+read (past participle)
+lu
+
+placed; put
+posé; mis
+
+born
+né
+
+offended
+offensé
+
+offerred
+offert
+
+lost (general)
+perdu
+
+remained
+resté
+
+broken (physical)
+cassé; brisé
+
+chosen
+choisi
+
+succeeded
+réussi
+
+translated
+traduit
+
+came; come (pp)
+venu
+
+won
+gagné
+
+pleased
+content; satisfait
+
+cried
+pleuré
+
+to practice Italian
+pratiquer l'italien
+
+to practice French
+pratiquer le français
+
+scene
+la scène
+
+to cook (a meal)
+cuisiner; préparer à manger
+
+to cook (the menial task)
+faire la cuisine
+
+television (device)
+le télé; le téléviseur
+
+awake
+réveillé
+
+suitcase
+la valise
+
+luggage (general)
+le bagage
+
+hairdryer
+le sèche-cheveux
+
+soap
+le savon
+
+toilet paper
+le papier toilette
+
+washing machine
+la machine à laver
+
+air conditioning
+la climatisation
+
+chapel
+la chapelle
+
+vacation
+les vacances
+
+holiday (official)
+le jour férié
+
+snake
+le serpent
+
+elephant
+l'élèphant
+
+bull
+le taureau
+
+tiger
+le tigre
+
+mouse
+la souris
+
+wolf
+le loup
+
+deer
+le cerf
+
+brown (general)
+marron; brun
+
+brown (hair)
+châtain
+
+sky blue
+bleu ciel
+
+gray
+gris
+
+beard
+la barbe
+
+skin
+la peau
+
+clear (discussion, color)
+clair; limpide
+
+eyelashes
+les cils
+
+bell (large)
+la cloche
+
+bell (small); chime; doorbell
+le grelot; le carillon; la sonnette
+
+brake
+le frein
+
+wheel
+la roue
+
+cute
+mignon
+
+sweet (person)
+gentil; adorable
+
+villa
+la villa
+
+residence
+la résidence
+
+large detached home
+le grande maison
+
+apartment
+l'appartement
+
+towel; hand towel
+la serviette; la serviette de toilette
+
+bidet
+le bidet
+
+bathtub
+la baignoire
+
+computer
+l'ordinateur
+
+living room; family room
+le salon; la salle de séjour
+
+furniture (one piece)
+le meuble
+
+spinach
+les épinards
+
+lettuce
+la laitue
+
+broccoli
+les brocoli 
+
+bean
+le haricot
+
+fava bean
+la fève
+
+corn; sweetcorn; maize
+le maïs
+
+pumpkin
+la citrouille
+
+squash
+la courge
+
+banana
+la banane
+
+red wine
+le vin rouge
+
+white wine
+le vin blanc
+
+water
+l'eau
+
+croissant
+le croissant
+
+meat
+la viande
+
+flesh
+ila chair
+
+tuna
+le thon
+
+lasagna; lasagne
+les lasagnes
+
+broth
+le bouillon
+
+cake
+le gâteau
+
+garden (fruits, vegatables)
+le potager; le jardin potager
+
+ground; land; soil; terrain
+le sol; le terrain; la terre
+
+farm
+la ferme
+
+farmer
+l'agriculteur; l'fermier
+
+turist
+le touriste
+
+tasty; flavorful; savory
+savoureux
+
+disgusting; icky
+dégueulasse; écœurant
+
+believed; raw; uncooked; crude
+cru
+
+firm (pasta)
+al dente
+
+to come to mind
+venir à l'esprit
+
+I think that
+je pense que
+
+I agree
+je suis d'accord
+
+I believe that
+je crois que
+
+for me
+pour moi
+
+couple (two)
+la couple
+
+father
+le père
+
+mother
+la mère
+
+son-in-law
+le gendre
+
+daughter-in-law
+la belle-fille
+
+postcard
+la carte postale
+
+departure; start; leave (noun)
+le départ
+
+stop; pause; rest; break
+la pause; l'arrêt; le repos
+
+service
+le service
+
+massage
+le massage
+
+diet
+le régime
+
+directions; guide; driving
+les indications; la guide; la conduite
+
+nature
+la nature
+
+evening
+le soir
+
+day (the one you are having)
+la journée
+
+evening (the one you are having)
+la soirée
+
+show (usually on stage); play
+le spectacle; la pièce (de théâtre)
+
+ferry boat; steam boat
+le bac; le ferry; le bateau à vapeur
+
+past (noun)
+le passé
+
+to go straight ahead
+aller tout droit
+
+to cross the street
+traverser la rue
