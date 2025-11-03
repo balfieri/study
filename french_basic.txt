@@ -3385,10 +3385,10 @@ l'amour
 he works; it works
 il travail
 
-the day
+day
 le jour
 
-the night
+night
 la nuit
 
 drink; beverage
@@ -7006,4 +7006,34 @@ l'urgence
 
 so-called
 soi-disant
+
+in the United States
+aux États-Unis
+
+in France
+en France
+
+at this time; at this moment; at this moment in time; at present; right now
+à l'heure actuelle; à ce moment; à ce moment précis; en ce moment; à cette époque; à présent; pour l'instant
+
+write me; write to me
+écris-moi
+
+absolutely; completely; totally
+absolument
+
+obviously; evidently
+évidemment
+
+to save (money); to put aside
+épargner
+
+England
+l'Angleterre
+
+week
+la semaine
+
+science
+la science
 
