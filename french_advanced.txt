@@ -780,3 +780,7 @@ la contrainte; la restriction; la limitation
 
 to acquire
 acquérir
+
+crisis
+la crise
+

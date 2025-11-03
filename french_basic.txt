@@ -7000,3 +7000,7 @@ consulter des mots; chercher des mots
 
 to try to acquire new vocabulary
 essayer d'acquérir du nouveau vocabulaire
+
+emergency
+l'urgence
+
