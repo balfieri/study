@@ -7004,3 +7004,6 @@ essayer d'acquérir du nouveau vocabulaire
 emergency
 l'urgence
 
+so-called
+soi-disant
+
