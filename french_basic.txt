@@ -103,8 +103,11 @@ le mariage
 to improve; to get better
 s'améliorer
 
-year
+year (you are having)
 l'année
+
+year (counted)
+l'an
 
 every
 chaque
@@ -270,6 +273,12 @@ l'astuce
 
 to pronounce
 prononcer
+
+for 3 hours (in the past)
+pendant 3 heures
+
+for 3 hours (future)
+pour 3 heures
 
 during
 pendant; au cours de; durant
@@ -1168,7 +1177,7 @@ le métro
 for example
 par exemple
 
-there you go; here is/are
+here you go; there you go; here is; here are
 voilà
 
 war
@@ -1216,9 +1225,6 @@ l'addition
 couple
 la couple
 
-to kiss
-baiser
-
 value
 la valeur
 
@@ -1242,9 +1248,6 @@ loin
 
 away from; far from
 loin de
-
-subtle
-subtil
 
 thin (layer)
 fin
@@ -1627,8 +1630,8 @@ beaucoup
 light
 léger
 
-clear; light; fair (color)
-claire
+clear; light; fair; obvious
+clair
 
 heavy
 lourd
@@ -1912,7 +1915,7 @@ la réservation
 plate; dish
 l'assiette; le plat
 
-that; this; it
+that; this; it (used alone)
 ça
 
 spoken
@@ -2207,7 +2210,7 @@ it's one o'clock
 il est une heure
 
 Greece
-la grèce
+la Grèce
 
 Ancient Greece
 la Grèce Antique
@@ -2251,7 +2254,7 @@ le potage
 leeks
 les poireaux
 
-straight away; immediately
+straight away; immediately; right away
 tout de suite
 
 dessert
@@ -3149,7 +3152,7 @@ uterus
 l'utérus
 
 pineapple
-ananas
+l'ananas
 
 puzzle
 le puzzle
@@ -3743,7 +3746,7 @@ to find it difficult
 trouver que c'est difficile
 
 are you sure?
-est-ce que tu es sûr?
+es-tu sûr?; est-ce que tu es sûr?
 
 I am who I am
 je suis comme je suis
@@ -3841,8 +3844,8 @@ d'un autre côté; par contre
 in my humble opinion
 à mon humble avis
 
-le bonheur
 happiness
+le bonheur
 
 party (political)
 la parti
@@ -6125,7 +6128,7 @@ un peu
 unnecessary; not necessary; superfluous
 inutile; superflu
 
-peaceful; quiet; mellow; chill
+peaceful; quiet; mellow; chill; tranquil
 paisible; tranquille
 
 silent; quiet
@@ -6709,3 +6712,265 @@ dire à
 
 to have to; to must
 devoir
+
+California
+la californie
+
+on board
+à bord
+
+usually
+d'habitude
+
+I usually go to
+je vais habituellement à
+
+correlated
+corrélé
+
+holly
+l'houx
+
+adulte
+l'adult
+
+flow
+le flux
+
+bath
+le bain
+
+aloud
+à voix haute
+
+bilingual
+bilangue
+
+regularly
+régulièrement
+
+club
+le club
+
+to program; to schedule
+programmer
+
+pourquois pas?
+why not?
+
+to immerse oneself
+s'immerger
+
+francophone
+le francophone
+
+thin
+fin; mince
+
+subtle
+subtil
+
+transmission
+la transmission
+
+broadcast; diffusion
+la diffusion
+
+to be interested in
+s'interesser de
+
+to master
+maîtriser
+
+anyway; in any case
+en tout cas; de toute façon
+
+comment
+le commentaire
+
+complaint
+la plainte
+
+criticism
+la critique
+
+to criticize
+critiquer
+
+to compliment
+complimenter
+
+to refute
+réfuter
+
+to negate
+nier; annuler
+
+to deny
+nier
+
+to find again; to recover; to meet
+retrouver
+
+la note
+note; grade
+
+prendre des notes
+to take notes
+
+online
+en ligne
+
+confusing
+confusant; déroutant
+
+to be confused
+être confus
+
+particularly
+particulièrement
+
+most of the time
+la plupart du temps
+
+some of the time
+parfois; de temps en temps
+
+it's been two years since
+ça fait deux ans que
+
+duration
+la durée
+
+even if
+même si
+
+one can say
+on peut dire
+
+past
+le passé
+
+to finish
+terminer
+
+to last
+durer
+
+intention
+l'intention
+
+survived
+survecu
+
+three hours ago
+il y a 3 heures
+
+in that case
+dans ce cas
+
+to describe
+décrire
+
+necessarily
+forcément
+
+to test
+tester
+
+number 3
+numéro trois
+
+what do you think about it?
+qu’est-ce que tu en penses?; qu’en penses-tu?
+
+what are you thinking about?
+à quoi tu penses?; à quoi penses-tu?
+
+why are you giving me vous?
+pourquoi tu me vouvoies?; pourquoi est-ce que tu me donnes du vous?
+
+like that
+comme ça
+
+here I am
+me voici
+
+here we are
+nous voici
+
+falsehood
+la fausseté
+
+that is; i.e.; in other words
+c'est-à-dire
+
+despite everything
+malgré tout
+
+to support
+supporter; soutenir
+
+to be sick of
+en avoir marre de
+
+fan (ventilator)
+le ventilateur
+
+fan (admirer)
+le fan
+
+to admire
+admirer
+
+kiss
+le bisou; le baiser
+
+stripe; scratch
+le rayure
+
+le pote
+buddy; friend
+
+le caissier
+cashier
+
+to take some time for oneself
+se prendre du temps
+
+annoyed
+énervé
+
+upset
+contrarié; bouleversé
+
+precisely; exactly
+justement
+
+than before
+qu'avant
+
+totally; clearly; downright
+carrément
+
+greek
+grec; grecque
+
+neutral
+neutre
+
+very chic
+très chic
+
+thing; gizmo
+le truc
+
+tutor
+le tuteur
+
+to steal
+voler
+
+to rob (somebody)
+voler (quelqu’un); dévaliser (quelqu’un)
+
