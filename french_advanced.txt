@@ -810,3 +810,28 @@ la science politique; la science po
 
 computer science
 l'informatique
+
+dishwasher
+le lave-vaisselle
+
+washer
+le lave-linge
+
+dryer
+le sèche-linge
+
+sink
+l'évier
+
+kitchen; cuisine
+la cuisine
+
+stovetop
+la plaque de cuisson
+
+counter
+le plan de travail; le comptoir
+
+microwave oven
+le four à micro-ondes
+
