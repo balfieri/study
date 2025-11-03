@@ -36,6 +36,11 @@ def cmd( c, echo=True, echo_stdout=False, can_die=True, timeout=None ):
 def match( s, pattern ): 
     return re.compile( pattern ).match( s )
 
+def say( text, voice, rate ):
+    with open( '/tmp/say.txt', 'w' ) as file:
+        file.write( text )
+    cmd( f'say -v {voice} -r {rate} -f /tmp/say.txt', False )
+
 #-----------------------------------------------------------------------
 # process command line args
 #-----------------------------------------------------------------------
@@ -48,6 +53,7 @@ speak = False
 lookup_if_not_found = False
 language = 'english'
 voice = 'Samantha'
+rate = 180
 out_file = ''
 i = 1
 while i < len( sys.argv ):
@@ -65,6 +71,8 @@ while i < len( sys.argv ):
         search_answer = int(sys.argv[i])
     elif arg == '-s':
         speak = int(sys.argv[i])
+    elif arg == '-r':
+        rate = int(sys.argv[i])
     elif arg == '-lu':
         lookup_if_not_found = int(sys.argv[i])
     else:
@@ -103,7 +111,7 @@ for subject in subjects:
             print()
             print( f'{filename}:{ques_line_num}:    {question}' )
             print( f'{filename}:{line_num}:    {answer}' )
-            if speak: cmd( f'say -v {voice} \'{answer}\'', echo=False )
+            if speak: say( answer, voice, rate )
             found = True
 
     Q.close()
