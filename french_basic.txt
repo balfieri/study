@@ -2968,9 +2968,6 @@ obtenir
 to rent
 louer
 
-to pay
-payer
-
 to loan
 prêter
 
@@ -3048,9 +3045,6 @@ la ville
 
 small city
 la petite ville
-
-to apologize
-s'excuser
 
 to take place
 prendre place
@@ -8271,7 +8265,7 @@ l'essuie-tout; le papier essuie-tout
 I'll let you go
 je te laisse
 
-to care for; to treat; to heal
+to cure; to care for; to treat; to heal
 soigner
 
 democracy
@@ -8346,3 +8340,251 @@ de nouveau
 extended family
 la famille élargie
 
+European
+européen
+
+commercial; trade (adjective)
+commercial; de commerce
+
+world (adjective)
+mondial
+
+smaller (adjective)
+plus petit
+
+minor
+mineur; cadet
+
+younger
+plus jeune
+
+traditional
+traditionnel; traditionnelle
+
+official
+officiel
+
+individual (adjective)
+individuel
+
+individual (noun)
+l'individu
+
+to get
+recevoir; se procurer
+
+to pay; to pay for
+payer
+
+to utilize; to use
+utiliser; employer
+
+to catch; to pick; to grasp; to seize; to cull; to pick up on
+attraper; saisir; cueillir; ramasser; pincer
+
+to be worth
+valoir
+
+to discuss; to argue (negative)
+discuter; se disputer; débattre (de façon négative)
+
+to grow; to grow up
+grandir; croître; pousser
+
+to kill; to murder; to slay
+tuer; assassiner
+
+to apologize; to excuse oneself
+s'excuser
+
+to apologize; to ask for forgiveness
+demander pardon
+
+to displease
+déplaire
+
+to mind
+déranger
+
+to interest
+intéresser
+
+to fall; to fall off
+tomber; chuter
+
+to raise; to lift
+lever; soulever
+
+to cancel; to annul; to revoke; to undo; to overturn
+annuler; révoquer; annuler l’effet; casser (juridique)
+
+to erase; to wipe away; to delete; to remove completely
+effacer; supprimer; enlever complètement
+
+to eliminate; to delete (more permanently)
+éliminer; supprimer définitivement
+
+to draw; to design (drawing)
+dessiner
+
+to fix (object not completely broken); to make minor adjustments; to make minor tweaks; to adjust
+régler; ajuster; retoucher; bricoler
+
+to fix (more general); to arrange; to settle; to straighten out; to tidy up
+arranger; réparer; régler; ranger
+
+to organize
+organiser
+
+to sign
+signer
+
+to smoke
+fumer
+
+to succeed; to be successful
+réussir
+
+to write on the computer
+écrire à l’ordinateur
+
+to type on the computer
+taper à l’ordinateur; saisir au clavier
+
+miserable
+misérable
+
+damaging; detrimental
+nocif; préjudiciable; dommageable
+
+tied (physically usually); related
+lié; attaché; relié
+
+United Kingdom
+le royaume-uni
+
+device
+l'appareil; le dispositif
+
+purple
+pourpre
+
+violet
+violet; violette
+
+bureaucracy
+la bureaucratie
+
+to surpass; to overcome; to exceed; to top
+surpasser; dépasser
+
+future
+l’avenir; le futur
+
+to escape (formal, legal, serious); to flee
+s’évader; fuir; s’échapper (formel)
+
+to escape (informal)
+se barrer; filer; se tirer
+
+bold; audacious
+audacieux; hardi
+
+that's right!
+c’est ça!
+
+accurate
+précis; exact
+
+nightmare
+le cauchemar
+
+to press; to push; to squeeze
+appuyer; pousser; presser
+
+upbringing
+l'éducation; la manière d’être élevé
+
+African-American
+afro-américain
+
+motherhood; maternity
+la maternité
+
+to tighten; to clamp
+serrer; fixer
+
+gay
+gay
+
+lesbian
+lesbienne
+
+care; cure; treatment
+le soin; le traitement; la cure
+
+fabulous
+fabuleux; fabuleuse
+
+outstanding; exceptional; terrific
+exceptionnel; remarquable; formidable
+
+surprising
+surprenant; étonnant
+
+magnificent
+magnifique
+
+sublime
+sublime
+
+list
+la liste (non ordonnée)
+
+memory (instance); momento; keepsake
+le souvenir; l'objet-souvenir
+
+laugh
+le rire
+
+mood
+l'humeur
+
+settled; constant; continuous
+constant; stable; continu
+
+advertisement
+la publicité; l'annonce
+
+hammer
+le marteau
+
+handwriting; writing
+l'écriture; l'écriture manuscrite
+
+note (general)
+la note; l'annotation
+
+to treat
+traiter
+
+to bite
+mordre
+
+bite (noun)
+la morsure
+
+to burn; to burn out (act, not thing)
+brûler
+
+movie theater
+le cinéma; la salle de cinéma
+
+to rob (a person)
+dérober; voler; attaquer
+
+to rob (something); to steal (something); to nick (british)
+voler; dérober; piquer (familier)
+
+to freeze (slowly)
+geler
