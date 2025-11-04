@@ -79,9 +79,6 @@ noir
 enjoy your meal!
 bon appetit!
 
-to calm down
-calmer
-
 house
 la maison
 
@@ -325,9 +322,6 @@ l'accent grave
 circumflex accent
 l'accent circonflexe
 
-to create
-créer
-
 course
 le cours
 
@@ -382,9 +376,6 @@ le hobby; le loisir; le passe-temps
 pleasure
 le plaisir
 
-always
-toujours
-
 everybody; everyone
 tout le monde
 
@@ -405,9 +396,6 @@ le week-end
 
 almost
 presque
-
-never
-jamais
 
 yoga
 le yoga
@@ -2842,9 +2830,6 @@ nombreaux
 artist
 l'artiste
 
-place; venue
-le lieu
-
 poetic
 poétique
 
@@ -2994,9 +2979,6 @@ applaudir
 
 to check; to verify
 vérifier
-
-to recognize
-reconnaître
 
 to produce
 produire
@@ -3745,9 +3727,6 @@ former
 to come across; to cross; to run into
 croiser
 
-encounter
-la rencontre
-
 grandmother
 grand-mère
 
@@ -4020,9 +3999,6 @@ it is going great; things are going well
 
 to sign a lease
 faire un bail
-
-to guess
-deviner
 
 other day
 l'autre jour
@@ -4930,9 +4906,6 @@ d'où es-tu?
 where do you come from?
 d'où viens-tu?
 
-end
-la fin
-
 every day; everyday
 tous les jours; chaque jour
 
@@ -5775,9 +5748,6 @@ le quartier
 
 traffic
 la circulation; le trafic
-
-square (gathering place)
-la place
 
 building; palace
 le bâtiment; le palais
@@ -6671,9 +6641,6 @@ régulièrement
 club
 le club
 
-to program; to schedule
-programmer
-
 pourquois pas?
 why not?
 
@@ -6724,9 +6691,6 @@ réfuter
 
 to negate
 nier; annuler
-
-to deny
-nier
 
 to find again; to recover; to meet
 retrouver
@@ -8588,3 +8552,280 @@ voler; dérober; piquer (familier)
 
 to freeze (slowly)
 geler
+
+stage (theater)
+la scène de théâtre
+
+label; tag; luggage tag; etiquette
+l'étiquette; l'étiquette bagage
+
+lodging; accommodation; residency
+l'hébergement; le logement; la résidence
+
+racist
+raciste
+
+thus; therefore; then
+ainsi; donc; alors
+
+so; thus; such (less formal)
+alors; ainsi; comme ça
+
+the first Tuesday of every month
+le premier mardi de chaque mois
+
+next April
+avril prochain
+
+on Wednesdays
+le mercredi; les mercredis
+
+see you on Wednesday
+à mercredi
+
+on April 4th
+le 4 avril
+
+the 4th of every month
+le 4 de chaque mois
+
+anywhere
+n'importe où
+
+nowhere
+nulle part
+
+forward
+en avant
+
+less than
+moins que
+
+lower than
+inférieur à
+
+not exceeding
+ne dépassant pas
+
+more than
+plus que
+
+higher than
+supérieur à
+
+exceeding
+dépassant
+
+ballet
+le ballet
+
+on stage
+sur scène
+
+weather report
+le bulletin météo
+
+character (film); protagonist
+la personnage (film); le protagoniste
+
+to ask questions
+poser des questions
+
+to disappoint (someone); to underwhelm
+décevoir (quelqu'un)
+
+to host; to welcome
+accueillir
+
+disastrous
+désastreux
+
+attempt; try
+la tentative; l'essai
+
+email
+l'email
+
+believable
+croyable
+
+24/7
+24h/24
+
+aspect; appearance; look; looks
+l'aspect; l'apparence; l'allure; le look; les looks
+
+humor
+l'humour
+
+wild
+sauvage
+
+to land
+atterrir
+
+expiration; deadline
+l'expiration; l'échéance
+
+playlist
+le playlist
+
+to waste time
+perdre du temps
+
+gorgeous
+superbe
+
+bisexual; bisex
+bisexuel
+
+homosexual
+homosexuel
+
+to collect; to gather; to harvest; to pick up
+ramasser; recueillir; récolter; ramasser
+
+meeting; encounter
+la rencontre
+
+to kiss
+embrasser
+
+to calm; to calm down
+calmer
+
+to calm oneself; to calm oneself down; to settle down (stop moving)
+se calmer
+
+to chat; to chit-chat; to shoot the breeze
+bavarder; papoter
+
+to create
+créer
+
+to attend; to meet; to hang out
+assister; rencontrer; traîner
+
+to guess
+deviner
+
+to argue; to have a fight; to have a falling out
+se disputer; avoir une dispute; avoir une brouille
+
+to deny; to negate
+nier
+
+to switch to; to transition to
+passer à
+
+to get lost
+se perdre
+
+to plan (general)
+planifier
+
+to plan; to program; to schedule
+programmer
+
+to slow down
+ralentir
+
+to recognize; to acknowledge
+reconnaître
+
+to warm; to warm up; to reheat
+réchauffer
+
+to get warmed up
+se réchauffer
+
+to surprise
+surprendre
+
+to be surprised
+être surpris
+
+to take out (an object)
+sortir (un objet)
+
+to transfer
+transférer
+
+however; but
+cependant; mais
+
+case (abstract)
+le cas
+
+politics; policy
+la politique
+
+why; because
+pourquoi; parce que
+
+when; by the time
+quand
+
+how
+comment
+
+already
+déjà
+
+still
+encore
+
+always; at all times
+toujours
+
+according to
+selon
+
+how much; how many
+combien
+
+everything; all
+tout
+
+that (idea, concept, situation, more formal)
+cela
+
+who
+qui
+
+shape; form
+la forme
+
+even (preposition)
+même
+
+ever; never
+jamais
+
+end; ending
+la fin
+
+less
+moins
+
+society; company; corporation (European)
+la société
+
+place (abstract, generic, larger area, cultural, historical)
+le lieu
+
+place (specific, usually inside); seat; square (gathering place)
+la place
+
+some
+quelques
+
+general (adjective)
+général
+
+of that kind
+de ce genre
+
+system
+le système
+
