@@ -7520,3 +7520,8 @@ tout mon argent
 youth
 la jeunesse
 
+verb tense
+le temps verbal
+
+verb (adjective)
+verbal
