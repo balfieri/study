@@ -1003,9 +1003,6 @@ celui
 means; way; medium
 le moyen
 
-research
-la recherche
-
 way; manner
 le façon
 
@@ -3301,9 +3298,6 @@ la gens
 it color
 il couleur
 
-the person
-la personne
-
 the friend
 l'ami
 
@@ -4971,9 +4965,6 @@ la porte
 
 floor (building)
 l'étage
-
-floor (room)
-le sol
 
 elevator
 l'ascenseur
@@ -8829,3 +8820,257 @@ de ce genre
 system
 le système
 
+law
+la loi; le droit
+
+time (instance)
+le temps; le moment
+
+wasp; hornet
+la guêpe; le frelon
+
+insect; bug
+l'insecte; la bestiole
+
+Brazil
+le Brésil
+
+to take a course
+suivre un cours
+
+to take classes
+suivre des cours
+
+to take lessons
+suivre des leçons
+
+argument; squabble; quarrel
+l'argument; la dispute; la querelle
+
+healthy food
+l'aliment sain; la nourriture saine
+
+firm (business); company
+l'entreprise; la société
+
+to work from home
+travailler à domicile
+
+out of style
+démodé
+
+moment; the time (moment)
+le moment; l'instant
+
+reality
+la réalité
+
+example; exemplar
+l'exemple; le modèle
+
+social; societal
+social; sociétal
+
+man
+l'homme
+
+men
+les hommes
+
+value; worth; merit
+la valeur; le mérite
+
+across; through (physical, temporal, metaphorical)
+à travers; à travers de
+
+order
+l'ordre
+
+beyond
+au-delà
+
+possible
+possible
+
+development
+le développement
+
+condition
+la condition
+
+government
+le gouvernement
+
+character (symbol)
+le caractère
+
+side
+la côté
+
+earth; ground
+la terre
+
+dirt; soil; floor (room)
+le sol
+
+grade (not school); degree
+le degré
+
+species
+l'espèce 
+
+action
+l'action
+
+relationship (general); affair (romantic); relation
+la relation; la liaison; le rapport
+
+act; deed
+l'acte; l'action
+
+nothing
+rien
+
+interest
+l'intérêt
+
+word
+le mot
+
+Florence
+Florence
+
+element
+l'élément
+
+sight (ability to see)
+la vue
+
+view
+la vue; le point de vue
+
+text; lyrics
+le texte; les paroles
+
+person
+la personne
+
+culture
+la culture
+
+cause
+la cause
+
+process
+le processus
+
+production
+la production
+
+kind; gender; genre
+le genre
+
+in kind; in general
+en nature; en général
+
+thought; thinking
+le pensée; la réflexion
+
+issue; matter
+le problème; la question
+
+at least (amount)
+au moins
+
+Naples
+Naples
+
+research; search
+la recherche
+
+quest
+la quête
+
+chair; seat; stool (house, office)
+la chaise; le siège; le tabouret
+
+seat (car, train, plane)
+le siège
+
+term
+le terme
+
+via; by means of; through (means)
+via; par; par le biais de
+
+sacred
+sacré
+
+cushion; pillow (general)
+le coussin; l'oreiller
+
+all good; everything's fine
+tout va bien; tout est bon
+
+plastic
+le plastique
+
+some day
+un jour
+
+note (short, memo); bullet point
+la note; le point
+
+notes
+les notes
+
+to take notes; to jot down notes
+prendre des notes; noter
+
+will; willingness
+la volonté
+
+conscience; consciousness; awareness
+la conscience; le sens
+
+economy; economics; business (subject)
+l'économie
+
+market
+le marché
+
+theory
+la théorie
+
+tradition
+la tradition
+
+occasion
+occasion
+
+construction; construct
+la construction
+
+experience
+l'expérience
+
+limit
+la limite
+
+any
+n'importe quel
+
+doubt
+le doute
+
+article; item
+l'article; l'objet
+
+to forgive; to pardon
+pardonner
+
+Sardinian
+sarde
+
+Sardinia
+la Sardaigne
