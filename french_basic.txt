@@ -514,9 +514,6 @@ l'automne
 winter
 l'hiver
 
-german
-allemand
-
 partner
 le partenaire
 
@@ -540,9 +537,6 @@ avoir envie de
 
 old
 vieille
-
-bakery
-la boulangerie
 
 then; next
 ensuite
@@ -2098,9 +2092,6 @@ obligatoire
 tend to; to have a tendency to
 avoir tendance à
 
-tower
-la tour
-
 ceiling
 le plafond
 
@@ -2184,9 +2175,6 @@ et même
 
 otherwise
 sinon
-
-health
-la santé
 
 mental health
 la santé mentale
@@ -2778,9 +2766,6 @@ parmi
 
 below; beneath
 au-dessous
-
-near; close to
-près de
 
 until
 jusjusqu'à
@@ -3907,9 +3892,6 @@ va-t'en
 clean the table
 nettoie la table
 
-table
-la table
-
 kiss me
 embrasse-moi
 
@@ -4308,9 +4290,6 @@ il veut dire; il signifie
 
 this means
 cela veut dire; cela signifie
-
-in the middle of
-au milieu de
 
 half of us
 la moitié d'entre nous
@@ -4716,9 +4695,6 @@ Madone
 
 saint
 saint
-
-pastry shop
-la pâtisserie
 
 that said
 cela dit
@@ -5892,9 +5868,6 @@ en face de; en face
 
 on the left; to the left
 à gauche
-
-behind (something)
-derrière
 
 around (circling a point); about
 autour de
@@ -7525,3 +7498,376 @@ le temps verbal
 
 verb (adjective)
 verbal
+
+office building
+l'immeuble de bureaux
+
+factory
+l'usine
+
+emergency room
+la salle d’urgence; la service des urgences
+
+bakery (breads, retail); bread shop
+la boulangerie
+
+bakery (sweets); pastry shop
+la pâtisserie
+
+to go on foot
+aller à pied
+
+to lend; to loan
+prêter; faire un prêt
+
+to provide; to furnish
+fournir
+
+Italian
+italien
+
+German
+allemand
+
+Spanish
+espagnol
+
+Austrian
+autrichien
+
+Austria
+autriche
+
+Swiss
+suisse
+
+Polish
+polonais
+
+Russian
+russe
+
+Irish
+irlandais
+
+Portuguese
+portugais
+
+French
+français
+
+grocery store
+l'épicerie
+
+pharmacy
+la pharmacie
+
+steel
+l'acier
+
+singular
+singulier
+
+plural
+pluriel
+
+activity
+l'activité
+
+gym
+la salle de sport; la gymnase
+
+walk
+la marche
+
+question; demand
+la question; la demande
+
+application
+la candiature
+
+table
+la table
+
+board; plank
+la planche 
+
+surf board
+la table de surf; le panneau
+
+tower; rook (chess)
+la tour
+
+song
+la chanson
+
+comic; comic strip
+la bande dessinée
+
+dance (social event, type)
+le bal; la danse
+
+expense; expenditure; cost; shopping
+la dépense; le coût; l'achat
+
+take-away
+à emporter
+
+noon; midday
+midi
+
+zero
+zéro
+
+one
+un
+
+two
+deux
+
+three
+trois
+
+four
+quatre
+
+five
+cinq
+
+six
+six
+
+eight
+huit
+
+nine
+neuf
+
+ten
+dix
+
+eleven
+onze
+
+twelve
+douze
+
+thirteen
+treize
+
+fourteen
+quatorze
+
+fifteen
+quinze
+
+sixteen
+seize
+
+seventeen
+dix-sept
+
+eighteen
+dix-huit
+
+nineteen
+dix-neuf
+
+twenty-one
+vingt et un
+
+twenty-two
+vingt-deux
+
+thirty
+trente
+
+fourty
+quarante
+
+fifty
+cinquante
+
+sixty
+soixante
+
+seventy
+soixante-dix
+
+eighty
+quatre-vingts
+
+ninety
+quatre-vingt-dix
+
+one hundred
+cent
+
+thousand
+mille
+
+billion
+milliard
+
+second
+deuxième
+
+fourth
+quatrième
+
+fifth
+cinquième
+
+sixth
+sixième
+
+seventh
+septième
+
+eighth
+huitième
+
+ninth
+neuvième
+
+tenth
+dixième
+
+eleventh
+onzième
+
+twentieth
+vingtième
+
+hundreth; cent
+centième
+
+thousandth (adjective)
+millième
+
+side (body)
+le côté
+
+hip
+la hanche
+
+
+in the middle of
+au milieu de
+
+in the center
+au centre
+
+downtown
+le centre-ville
+
+near to; near; close to
+près de
+
+behind (something)
+derrière
+
+up to; till
+jusqu’à
+
+manual laborer
+l'ouvrier
+
+teacher (general)
+l'enseignant; le professeur; la professeure
+
+teacher (higher education)
+le professeur d’université
+
+waiter
+le serveur
+
+actress
+l'actrice
+
+writer
+l'écrivain
+
+singer
+le chanteur; la chanteuse
+
+doctor; physician
+le médecin
+
+quantity; amount
+la quantité; le montant
+
+pack; parcel; package
+le paquet; le colis; l'emballage
+
+headache (physical)
+le mal de tête
+
+to be sick
+être malade
+
+health (state of being)
+la santé
+
+sick person
+le malade
+
+medicine (field, drug)
+la médecine
+
+product
+le produit
+
+roll; sandwich
+le petit pain; le sandwich
+
+salami
+le saucisson; le salami
+
+low-fat yogurt
+le yaourt allégé
+
+class (group of students)
+la classe
+
+book
+le livre
+
+to count; to matter
+compter; compter (avoir de l’importance)
+
+TV series
+la série télévisée
+
+documentary
+le documentaire
+
+it’s two o’clock
+il est deux heures
+
+it’s a quarter past two
+il est deux heures et quart
+
+it’s twenty-five past two
+il est deux heures vingt-cinq
+
+it’s half past two
+il est deux heures et demie
+
+it’s twenty to three
+il est trois heures moins vingt
+
+it’s a quarter to three
+il est trois heures moins le quart
+
+it’s midday; it's noon
+il est midi
+
+it's midnight
+il est minuit
+
+volcano
+le volcan
+
+gulf
+le golfe
