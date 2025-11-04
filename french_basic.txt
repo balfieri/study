@@ -5215,7 +5215,7 @@ doux; modéré
 to comb
 peigner
 
-napkin
+napkin; towel
 la serviette
 
 wallet
@@ -6959,9 +6959,6 @@ la semaine
 science
 la science
 
-only problem
-le seul problème
-
 it doesn't make sense; it makes no sense
 ça n'a pas de sens
 
@@ -7160,8 +7157,8 @@ le grande maison
 apartment
 l'appartement
 
-towel; hand towel
-la serviette; la serviette de toilette
+hand towel
+la serviette de toilette
 
 bidet
 le bidet
@@ -8207,3 +8204,145 @@ fin; délicat
 
 capable; able
 capable
+
+fat
+le gras
+
+grad
+fatty
+
+to cancel (appointment)
+annuler (un rendez-vous)
+
+to delete
+effacer; supprimer
+
+to eliminate
+éliminer
+
+swear word; dirty word
+le gros mot; le mot sale
+
+to say bad words; to say naughty words
+dire des gros mots
+
+to swear
+jurer
+
+to change everything
+tout changer
+
+anything is possible
+tout est possible
+
+the only problem
+le seul problème
+
+at any moment
+à tout moment
+
+any person
+n'importe quelle personne; toute personne
+
+any (noun)
+n'importe quel (nom)
+
+to realize (make real)
+réaliser
+
+menu
+le menu
+
+wood
+le bois
+
+wooden
+en bois; bois
+
+wash cloth
+le gant de toilette
+
+dish towel
+le torchon
+
+paper towel
+l'essuie-tout; le papier essuie-tout
+
+I'll let you go
+je te laisse
+
+to care for; to treat; to heal
+soigner
+
+democracy
+la démocratie
+
+democratic
+démocratique
+
+one of my best friends
+un de mes meilleurs amis
+
+childhood
+l'enfance
+
+controversy
+la polémique; la controverse
+
+divorce
+le divorce
+
+to get divorced
+divorcer
+
+Switzerland
+la Suisse
+
+Sweden
+la Suède
+
+Swedish
+suédois
+
+Norway
+la Norvège
+
+Norwegian
+norvégien
+
+Denmark
+la Danemark
+
+Danish
+danois
+
+Finland
+la Finlande
+
+Finnish
+finnois
+
+I insist
+j'insiste
+
+something similar
+quelque chose de similaire; quelque chose de semblable
+
+something like this
+quelque chose comme ça
+
+to give a speech
+faire un discours; prononcer un discours
+
+balance
+l'équilibre
+
+event
+l'événement
+
+again
+de nouveau
+
+extended family
+la famille élargie
+
