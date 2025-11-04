@@ -2875,9 +2875,6 @@ il y a longtemps
 to pay attention; to be careful
 faire attention
 
-boss
-le patron
-
 to accept
 accepter
 
@@ -4050,9 +4047,6 @@ entendre parler de
 
 joke
 la blague
-
-to function
-fonctionner
 
 completely
 à toute
@@ -5417,7 +5411,7 @@ silence
 le silence
 
 boss; head (organization); chief; cape
-le chef; le patron; le cap
+le chef; le patron; la patronne; le cap
 
 nice; kind
 gentil; aimable
@@ -9074,3 +9068,133 @@ sarde
 
 Sardinia
 la Sardaigne
+
+great; super; terrific
+super
+
+how beautiful it is; how beautiful
+que c'est beau
+
+it's nice; it's neat; it's great
+c'est chouette
+
+to function; to work (properly)
+fonctionner
+
+sexual
+sexuel
+
+doll
+la poupée
+
+China
+la Chine
+
+Chinese
+chinois
+
+Japan
+le Japon
+
+Japanese
+japonais
+
+employee
+l'employé; l'employée; le salarié; la salariée
+
+to be employed
+être employé; être embauché
+
+to hire
+embaucher; recruter
+
+Indochina
+l'Indochine
+
+Vietnam
+le Viêt Nam; le Vietnam
+
+South Korea
+la Corée du Sud
+
+North Korea
+la Corée du Nord
+
+Korean
+coréen
+
+Vietnamese
+vietnamien
+
+productive
+productif
+
+meaning
+le sens; la signification
+
+to be able to afford (something)
+pouvoir se permettre (quelque chose)
+
+to afford (something)
+se permettre (quelque chose)
+
+logic
+la logique
+
+practical
+pratique
+
+by any chance; by chance
+par hasard
+
+random
+aléatoire
+
+randomly
+aléatoirement; au hasard
+
+come on!
+allez!; vas-y!
+
+get out of here!
+sors d'ici!; fiche le camp!; dégage!
+
+off the coast of
+au large de
+
+not (adjective)
+pas (adjectif)
+
+not true!
+pas vrai!
+
+waterfall
+cascade
+
+synonym
+synonyme
+
+antonym
+antonyme
+
+homonym
+homonyme
+
+external
+externe
+
+overseas
+outre-mer
+
+abroad
+à l'étranger
+
+shore
+la rivage; la rive
+
+shoreline
+la ligne de rivage; le littoral
+
+seaside
+le bord de mer; le littoral
+
