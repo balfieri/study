@@ -907,9 +907,6 @@ la phrase
 trust; confidence
 confiance
 
-powerful
-puissant
-
 money; silver
 l'argent
 
@@ -1267,7 +1264,7 @@ mauvais
 young
 jeune
 
-happy; glad
+happy; glad; pleased
 content
 
 sad
@@ -3262,9 +3259,6 @@ talentueux
 important
 important
 
-short
-court
-
 sunny
 ensoleillé
 
@@ -4168,9 +4162,6 @@ présenter
 I don't believe in those stereotypes
 je ne crois pas à ces stéréotypes
 
-effective; efficient
-efficace
-
 efficiency
 l'efficacité
 
@@ -4554,9 +4545,6 @@ afin que
 
 unless
 à moins que
-
-awesome
-génial
 
 genius
 génie
@@ -4998,9 +4986,6 @@ la carte de débit
 
 paper
 le papier
-
-sheet
-la feuille
 
 cut
 la coupure
@@ -7871,3 +7856,354 @@ le volcan
 
 gulf
 le golfe
+
+to be born
+naître
+
+to repair; to mend; to fix (something broken, often completely broken)
+réparer; raccommoder; fixer
+
+to buy
+acheter
+
+my day
+ma journée
+
+to wash (oneself, one's)
+se laver
+
+to have breakfast
+prendre le petit déjeuner
+
+to begin (infinitive); to begin to (do something); to start (infinitive); to start to (do something)
+commencer; commencer à (faire quelque chose); débuter; débuter à (faire quelque chose)
+
+to go back home
+rentrer à la maison
+
+to go out with (somebody); to date (somebody)
+sortir avec (quelqu’un); fréquenter (quelqu’un)
+
+to watch TV
+regarder la télévision
+
+to go to bed; to get to bed
+se coucher; aller au lit
+
+ring (jewelry)
+la bague
+
+handbag; purse; bag
+le sac à main; le sac; la sacoche
+
+skirt
+la jupe
+
+leaf; sheet
+la feuille
+
+leaves (from tree)
+les feuilles
+
+birthday
+l'anniversaire
+
+sneakers
+les baskets
+
+fingernail
+l'ongle
+
+anyway; anyhow (a little formal); however; in any case; the same (adverb); in any way
+de toute façon; néanmoins; en tout cas; pareil; d’aucune façon
+
+chance; possibility (something that could be realized)
+la chance; la possibilité
+
+climate
+le climat
+
+environment; environ
+l'environnement; l'entourage
+
+level (noun)
+le niveau
+
+well,
+eh bien,
+
+to move (something from one place to another)
+déplacer
+
+to move; to change location; to get moved; to shift
+bouger; changer de place; se déplacer; se bouger
+
+to move to (new residence, new city)
+déménager
+
+relaxing
+relaxant
+
+crowd; throng
+la foule
+
+math; mathematics
+les maths; les mathématiques
+
+biology
+la biologie
+
+right (noun); law; entitlement
+le droit
+
+date
+la date; le rendez-vous
+
+accustomed to; used to
+habitué à; habitué
+
+attractive
+attirant; séduisant
+
+loaded; filled; charged; fully charged
+chargé; rempli; plein; entièrement chargé
+
+delicious; yummy
+délicieux; savoureux
+
+joyful; joyous
+joyeux
+
+serious (situation)
+grave; sérieux
+
+huge; massive
+énorme; massif
+
+ideal
+idéal
+
+ignorant
+ignorant
+
+embarrassing
+embarrassant
+
+liberal
+libéral
+
+delighted
+ravi
+
+the best
+le meilleur
+
+worst (adjective)
+pire; le plus mauvais
+
+flat
+plat
+
+popular
+populaire
+
+realistic
+réaliste
+
+to regulate
+régler
+
+to adjust
+ajuster
+
+defeated
+vaincu; battu
+
+secret
+le secret
+
+next
+prochain
+
+tolerant
+tolérant
+
+alive; living
+vivant
+
+artistic
+artistique
+
+effective; efficient; effectual; efficacious
+efficace
+
+intimate
+intime
+
+magical
+magique
+
+musical (adjective)
+musical
+
+negative
+négatif
+
+passive
+passif
+
+incredible; unbelievable (good way)
+incroyable; stupéfiant
+
+amazing; awesome
+génial
+
+powerful; potent
+puissant
+
+real; actual
+réel; véritable
+
+equal; same as
+égal; pareil
+
+same thing
+la même chose
+
+unique
+unique
+
+used
+utilisé; d’occasion
+
+round (more perfectly); rotund
+arrondi
+
+square (adjective)
+carré
+
+American
+américain
+
+from Genova
+génois
+
+other
+autre
+
+different
+différent
+
+not the same; diverse; different
+pas pareil; divers; différent
+
+same
+pareil; même
+
+present
+présent
+
+political
+politique
+
+greater; major; older
+plus grand; majeur; plus âgé
+
+civil
+civil
+
+public (noun); audience
+le public
+
+public (adjective)
+public
+
+short
+court
+
+brief
+bref
+
+distinctive; different from the norm (can be positive or negative); not ordinary; not common; special; singular; peculiar
+distinctif; hors du commun; spécial; singulier; particulier
+
+human (adjective); humain
+humain
+
+international
+international
+
+cultural
+culturel
+
+central
+central
+
+main; principal
+principal
+
+previous; preceding; prior; former
+précédent; antérieur
+
+military (adjective)
+militaire
+
+personal
+personnel
+
+fundamental
+fondamental
+
+current; topical; present (adjective)
+actuel; présent
+
+lower
+inférieur
+
+ancient; age-old
+ancien; séculaire
+
+total (adjective)
+total
+
+local
+local
+
+industrial
+industriel
+
+criminal (adjective)
+criminel
+
+precisely
+précisément
+
+truly
+véritablement
+
+one's; own; typical; characteristic
+propre; typique; caractéristique
+
+internal
+interne
+
+universal
+universel
+
+recent
+récent
+
+religious
+religieux
+
+impossible
+impossible
+
+regional
+régional
+
+fine (adjective)
+fin; délicat
+
+capable; able
+capable
