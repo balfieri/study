@@ -2638,9 +2638,6 @@ abandonner
 to prefer
 préfèrer
 
-to repeat
-répéter
-
 to dig
 creuser
 
@@ -4528,9 +4525,6 @@ de quoi s'agit-il?
 best friends
 les meilleurs amis
 
-to have to do with
-avoir à voir avec
-
 it is important to me
 c'est important pour moi
 
@@ -4840,7 +4834,7 @@ taper
 to fish
 pêcher
 
-fishing
+fishing; peach
 la pêche
 
 pear
@@ -7387,3 +7381,142 @@ aller tout droit
 
 to cross the street
 traverser la rue
+
+how much does this cost?
+combien ça coûte?
+
+Belgium
+la Belgique
+
+Belgian
+belge
+
+gold
+l'or
+
+golden
+doré; en or
+
+repetition
+la répétition
+
+to repeat
+répéter
+
+final episode
+le dernier épisode; l'épisode final
+
+first episode
+le premier épisode
+
+you know them?
+tu les connais?
+
+lesson
+la leçon
+
+to be able to; to be capable of
+être capable de
+
+for the most part
+pour la plupart; en grande partie
+
+watermelon
+la pastèque
+
+raspberry
+la framboise
+
+red raspberry
+la framboise rouge
+
+black raspberry
+la framboise noire
+
+to threaten
+menacer
+
+threat
+la menace
+
+to annoy
+ennuyer; agacer; déranger
+
+annoying
+agaçant; énervant; embêtant
+
+trivial
+anodin; banal; insignifiant
+
+commonplace
+banal; courant; commun
+
+horror
+l'horreur
+
+of which; from which; about which
+duquel
+
+percent
+le pour cent
+
+10%
+dix pour cent; 10%
+
+10% of the time
+10% du temps; dix pour cent du temps
+
+5 out 10 (something)
+cinq (something) sur dix
+
+soon
+bientôt
+
+to have to do with
+avoir à voir avec
+
+to be about
+parler de; concerner
+
+to make sure that
+s'assurer que; veiller à ce que
+
+insurance; assurance
+l'assurance
+
+to announce
+annoncer
+
+huricane
+l'ouragan
+
+tornado
+la tornade
+
+storm
+la tempête
+
+thunderstorm
+l'orage
+
+to dream
+rêver
+
+dream
+le rêve
+
+to knead
+pétrir
+
+self-confident; self-assured
+sûr de soi; confiant
+
+allowed; permitted
+autorisé; permis
+
+all my money
+tout mon argent
+
+youth
+la jeunesse
+
