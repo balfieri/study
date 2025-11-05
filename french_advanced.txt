@@ -981,3 +981,13 @@ simuler; feindre
 
 superior; higher-ranking; of high quality
 supérieur; de qualité supérieure; plus gradé
+
+smelly
+puant; malodorant; nauséabond
+
+hygiene
+l'hygiène
+
+personal hygiene
+l'hygiène personnelle
+

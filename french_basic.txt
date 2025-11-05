@@ -2003,6 +2003,9 @@ ingredient
 l'ingrédient
 
 few
+peu
+
+few of (something)
 peu de
 
 recipe
@@ -6905,6 +6908,9 @@ né
 offended
 offensé
 
+insulted
+insulté
+
 offerred
 offert
 
@@ -10202,3 +10208,9 @@ plus de (quelche chose)
 
 less (something)
 moins de (quelche chose)
+
+as; in the capacity of; as (in the role of)
+en tant que
+
+as a person who
+en tant que personne qui
