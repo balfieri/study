@@ -493,12 +493,6 @@ faire un master; faire des études de master
 respectful
 respectueux
 
-respected
-respecté
-
-to respect
-respecter
-
 surgeon
 le chirurgien
 
@@ -991,3 +985,5 @@ l'hygiène
 personal hygiene
 l'hygiène personnelle
 
+elaborate
+élaboré
