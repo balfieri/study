@@ -3130,9 +3130,6 @@ simple
 inexpensive; cheap
 bon marché
 
-pure
-pur
-
 rare
 rare
 
@@ -10245,3 +10242,5 @@ le procédé
 sophisticated
 sophistiqué
 
+few people
+peu de gens
