@@ -9251,3 +9251,6 @@ vilaines nouvelles
 
 while (doing something)
 tandis que (fare quelche chose); pendant que (faire quelche chose)
+
+to struggle; to strain; to labor
+peiner; faire un effort; galérer
