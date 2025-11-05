@@ -367,9 +367,6 @@ quelqu'en
 hobby
 le hobby; le loisir; le passe-temps
 
-pleasure
-le plaisir
-
 everybody; everyone
 tout le monde
 
@@ -1365,9 +1362,6 @@ fidèle
 
 stubborn
 têtu
-
-patient
-patient
 
 impulsive
 impulsif
@@ -2371,9 +2365,6 @@ je pourrai
 I can (subjunctive)
 je puisse
 
-knew; known
-su
-
 I knew; I was knowing
 je savais
 
@@ -2427,9 +2418,6 @@ je tiendrai
 
 I hold (subjunctive)
 je tienne
-
-knew; met
-connu
 
 I knew; I was meeting
 je connaissais
@@ -8871,12 +8859,6 @@ la condition
 government
 le gouvernement
 
-character (symbol)
-le caractère
-
-side
-la côté
-
 earth; ground
 la terre
 
@@ -9870,5 +9852,330 @@ minimal
 least
 le moins
 
-maximum; greatest
-maximum; le plus grand
+most
+le plus
+
+character
+le caractère
+
+project; plan; design
+le projet; le plan; la conception
+
+to plan (in detail); to design; to project
+planifier; concevoir; projeter
+
+to mean; to intend
+vouloir dire; avoir l'intention de
+
+operation; surgery (procedure)
+l'opération; la chirurgie
+
+specific; particular; well-defined; precise
+spécifique; particulier; bien défini; précis
+
+preparation
+la préparation
+
+victory; win
+la victoire; le gain
+
+Saint
+Saint
+
+outside; external; outer
+extérieur; externe; extérieur
+
+precisely; exactly; just so
+précisément; exactement; juste ainsi
+
+citizen
+le citoyen
+
+perfectly
+parfaitement
+
+professional (job, profession)
+professionnel
+
+solution
+la solution
+
+size; greatness; quantity
+la taille; la grandeur; la quantité
+
+event; occurance; happening
+l'événement; l'occurrence
+
+discovery; find; detection
+la découverte; la trouvaille; la détection
+
+whole; entire; integer
+tout; entier
+
+moral (adjective)
+moral
+
+single; individual
+unique; individuel
+
+disease; illness; sickness
+la maladie
+
+legal
+légal
+
+passion
+la passion
+
+Latin
+latin
+
+Greek
+grec
+
+visit
+la visite
+
+mass (matter)
+la masse
+
+mass (Christian)
+la messe
+
+drawing; design
+le dessin; la conception
+
+owner; proprietor; landlord
+le propriétaire
+
+affectionate; loving
+affectueux; aimant
+
+express
+express
+
+espresso
+l'expresso
+
+decision; call
+la décision; l'appel
+
+initial
+initial
+
+to depend on; to come down to; to hinge on
+dépendre de; se résumer à; reposer sur
+
+independence
+l'indépendance
+
+familiar; familial; household
+familier; familial; domestique
+
+patient (adjective)
+patient
+
+historic
+historique
+
+last; past
+dernier; passé
+
+election
+l'élection
+
+conclusion
+la conclusion
+
+currently; presently; at present
+actuellement; présentement; en ce moment
+
+next (close in time); near; close
+prochain (proche dans le temps); près; proche
+
+wall (structural, solid)
+le mur (structurel, solide)
+
+wall (non-structural)
+la cloison
+
+address
+l'adresse
+
+capital (city)
+la capitale
+
+clause
+la proposition
+
+exchange; swap; switch
+l'échange; la permutation
+
+period
+le période
+
+dedicated
+dévoué
+
+exactly; precisely
+exactement; précisément
+
+generation
+la génération
+
+request; demand; enquiry
+la demande
+
+responsible
+responsable
+
+population
+la population
+
+failure
+l'échec
+
+known; knew; met (familiar with)
+connu
+
+opportunity
+l'opportunité
+
+Lombardy
+la Lombardie
+
+castle
+le château
+
+double; dual; twofold
+double; double; double
+
+intention; intent; purpose
+l'intention; le but
+
+painting; picture; square
+la peinture; l'image; la place
+
+frame; framework
+le cadre
+
+explanation
+l'explication
+
+classic; classical
+classique; classique
+
+opinion
+l'opinion
+
+change (tangible, transactional); exchange (money); shift (car)
+le changement; l'échange (argent)
+
+change (broad, abstract)
+le changement
+
+practical; handy; skillful
+pratique; habile
+
+ice cream store; ice cream parlor
+le magasin de glaces; le salon de glaces
+
+physical
+physique
+
+physicist; physique
+le physicien; le physique
+
+frequent
+fréquent
+
+knew; known (about something)
+su
+
+surely; sure; certainly
+sûrement; sûr; certainement
+
+intelligence
+l'intelligence
+
+expression
+l'expression
+
+courage; bravery; nerve
+le courage; la bravoure; le nerf
+
+created
+créé
+
+information
+l'information
+
+profession
+la profession
+
+joy
+la joie
+
+delight; pleasure
+le plaisir
+
+probability; likelihood; chance
+la probabilité; la chance
+
+drama; play; tragedy
+le drame; la pièce; la tragédie
+
+opposite
+opposé
+
+of the region of Veneto
+de la région du Vénétie
+
+continually
+continuellement
+
+side (physical, abstract)
+la côté
+
+career
+la carrière
+
+meeting; reunion; gathering
+la réunion; le rassemblement
+
+logical; cogent
+logique; convaincant
+
+union (general)
+l'union
+
+union
+le syndicat
+
+direct; directed
+direct; dirigé
+
+affection; love
+l'affection; l'amour
+
+to treat; to handle; to deal (with); to address
+traiter; gérer; s'occuper (de); adresser
+
+rest; repose
+le repos
+
+sin; pity
+le péché; la pitié
+
+site
+le site
+
+arrival
+l'arrivée
+
+practically; virtually; basically
+pratiquement; virtuellement; fondamentalement
+
+response
+la réponse
+
