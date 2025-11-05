@@ -382,9 +382,6 @@ tout le monde
 all the time
 tout le temps
 
-often
-souvent
-
 from time to time
 de temps en temps
 
@@ -424,7 +421,7 @@ le gars
 bike
 le vélo
 
-novel
+novel (book)
 le roman
 
 Roman
@@ -520,7 +517,7 @@ disponible
 to receive
 recevoir
 
-to feel like; to want
+to feel like; to want; to wish to
 avoir envie de
 
 old
@@ -1122,9 +1119,6 @@ prévoir; planifier
 
 to intend to (do something)
 avoir l'intention de (faire quelque chose)
-
-keyboard
-le clavier
 
 monitor; screen
 le moniteur
@@ -5656,9 +5650,6 @@ le garage
 guest
 l'invité
 
-host
-l'hôte
-
 guest bedroom; spare bedroom
 la chambre d’amis; la chambre d’invités
 
@@ -9254,3 +9245,313 @@ tandis que (fare quelche chose); pendant que (faire quelche chose)
 
 to struggle; to strain; to labor
 peiner; faire un effort; galérer
+
+vineyard
+le vignoble
+
+by mail
+par la poste
+
+caffeine
+la caféine
+
+ounce
+l'once
+
+enormous; huge; humongous; gigantic
+énorme; immense; gigantesque; titanesque
+
+diet soda
+la soda light; la boisson gazeuse light; la soda sans sucre
+
+emotional (person)
+émotif; émotive
+
+thrilling; exciting; emotional (experience); provoking strong emotions; poignant; moving
+palpitant; excitant; émouvant; poignant; bouleversant; touchant
+
+excited (non-sexual); psyched; stoked; fired up; pumped up
+emballé; motivé; à bloc
+
+agreement; accord
+l'accord
+
+training (transfer of information)
+la formation (transfert d'information)
+
+training (practicing technique)
+l'entraînement; l'exercice
+
+mystery
+le mystère
+
+joke (original)
+la blague (originale); la plaisanterie (originale)
+
+joke (well known and retold)
+la blague connue; la plaisanterie connue; l'histoire drôle (connue)
+
+practical joke; prank
+la farce; la plaisanterie
+
+often
+souvent
+
+thick
+épais
+
+to not agree; to disagree
+ne pas être d'accord; désapprouver
+
+service area
+l'aire de service
+
+bikini
+le bikini
+
+instrument; tool (abstract)
+l'instrument; l'outil (abstrait)
+
+likely; probable
+probable; vraisemblable
+
+brush
+le brosse
+
+on sale
+en solde
+
+candy
+le bonbon; la friandise
+
+advantage; benefit; gain
+l'avantage; le bénéfice; le gain
+
+captain
+le capitaine
+
+assistance; help; aid
+l'aide; l'assistance; le secours
+
+filling; stuffing (food)
+la farce; la garniture
+
+to fill; to fill out; to top off
+remplir; compléter; garnir
+
+to widen; to enlarge
+élargir; agrandir
+
+unkind
+méchant; peu aimable
+
+to go to the movies
+aller au cinéma
+
+movie; film
+le film
+
+magazine
+le magazine; la revue
+
+female (adjective)
+femelle; féminin
+
+female (noun)
+la femelle; la femme
+
+feminine; womanly
+féminine
+
+male
+mâle
+
+advantage
+l'avantage
+
+benefit
+le bénéfice
+
+disadvantage
+le désavantage; l'inconvénient
+
+Italian teacher
+le professeur d'italien; l'enseignant d'italien
+
+passenger
+le passager; la passagère
+
+in front of; up front at
+devant; à l'avant de
+
+ahead of
+devant; en avance sur
+
+outside of (place)
+à l'extérieur de
+
+h (name of letter)
+hache
+
+j (name of letter); long I (pronunciation)
+ji; i long
+
+k (name of letter)
+ka
+
+w (name of letter)
+double v
+
+x (name of letter)
+ix
+
+y (name of letter)
+i grec
+
+z (name of letter)
+zède
+
+message
+le message
+
+text message
+le sms; le texto
+
+Great Britain; Britain
+la Grande-Bretagne
+
+mound
+la butte
+
+mix
+le mélange
+
+mixed; blended; combined (different things)
+mélangé; combiné; assemblé
+
+stirred; blended
+remué; mélangé
+
+to mix (general); to stir; to blend; to shuffle
+mélanger; remuer; battre; brasser
+
+to hope so
+espérer que oui
+
+to hope not
+espérer que non
+
+equal to
+égal à
+
+equal; even
+égal; pair
+
+chocolate
+le chocolat
+
+dark chocolate
+le chocolat noir
+
+milk chocolate
+le chocolat au lait
+
+dancer (male)
+le danseur
+
+dancer (female); ballerina
+la danseuse; la ballerine
+
+break; pause
+la pause
+
+show (tv); schedule
+l'émission (tv); le programme; l'horaire
+
+root
+la racine
+
+income; revenue
+le revenu; la recette
+
+keyboard (computer, typewriter)
+le clavier
+
+holiday
+les vacances; le jour férié
+
+innkeeper
+l'aubergiste
+
+host
+l'hôte
+
+waste
+le gaspillage; le déchet
+
+unpleasant; disagreeable; nasty
+désagréable; déplaisant; méchant
+
+half (noun)
+le demi
+
+half (adjective)
+demi
+
+means; medium
+le moyen; le média; le support
+
+pleasant; agreeable; nice; likeable
+agréable; sympathique
+
+mildly; slightly; lightly
+légèrement; doucement
+
+origin
+l'origine
+
+album
+l'album
+
+small city; large town
+la ville moyenne; la grande ville
+
+inch; thumb
+le pouce
+
+to teach a class; to do a lesson; to lecture
+faire la classe; donner un cours; faire un cours; enseigner
+
+lie (untruth)
+le mensonge
+
+big lie
+le gros mensonge; l'énorme mensonge
+
+to attack; to assault; to attach
+attaquer; agresser; attacher
+
+to party
+faire la fête
+
+dilemma
+le dilemme
+
+high school (general)
+le lycée; l'école secondaire
+
+high school (university-bound)
+le lycée général
+
+high school (vocational)
+le lycée professionnel
+
+elementary school
+l'école primaire
+
+middle school
+le collège
+
+college; university
+l'université; la faculté
+
