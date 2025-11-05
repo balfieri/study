@@ -106,9 +106,6 @@ l'année
 year (counted)
 l'an
 
-every
-chaque
-
 this
 cette
 
@@ -282,9 +279,6 @@ pendant; au cours de; durant
 
 name; noun
 le nom
-
-beginning
-le début
 
 at the very beginning
 tout au début
@@ -1530,9 +1524,6 @@ je vous remercie
 
 you're welcome
 de rien; je vous en prie
-
-age
-l'âge
 
 how old are you?
 quel âge as-tu ?
@@ -4060,7 +4051,7 @@ see you next time
 good luck for the rest
 bon courage pour la suite
 
-rest; sequel
+rest; sequel; run
 la suite
 
 whole; ensemble; set
@@ -4426,9 +4417,6 @@ cela va bien; cela convient bien
 accurate
 exact
 
-precise
-précis
-
 typical
 typique
 
@@ -4513,7 +4501,7 @@ terne
 sharp
 aiguisé
 
-witty
+spiritual; witty
 spirituel
 
 to focus on
@@ -5445,9 +5433,6 @@ timide
 
 unknown
 inconnu
-
-stranger
-l'étranger
 
 old (person); elderly
 âgé; personne âgée
@@ -9555,3 +9540,335 @@ le collège
 college; university
 l'université; la faculté
 
+university student; undergraduate
+l'étudiant universitaire; l'étudiant à l'université
+
+to break up with
+rompre avec
+
+cell phone; mobile phone
+le téléphone portable; le portable
+
+honestly; sincerely
+honnêtement; sincèrement
+
+counter; bar; bar counter
+le bar
+
+popcorn
+le pop-corn
+
+pasta machine
+la machine à pâtes
+
+to be interested in (doing something)
+s'intéresser à (faire quelque chose)
+
+to be interested in (finding out more)
+vouloir en savoir plus; s'intéresser à en apprendre davantage
+
+airline ticket; plane ticket
+le billet d’avion
+
+companion; pal
+le compagnon; le copain
+
+fiancé; serious boyfriend
+le fiancé; le petit ami sérieux
+
+fiancée; serious girlfriend
+la fiancée; la petite amie sérieuse
+
+it is supposed to be; it should be
+c'est censé être; ça devrait être
+
+in the morning; during the morning
+le matin; dans la matinée
+
+in the afternoon; during the afternnoon
+l'après-midi; durant l'après-midi
+
+in the evening; during the evening
+le soir; durant la soirée
+
+in the night; during the night
+la nuit; durant la nuit
+
+have a good morning
+bonne matinée
+
+crispy
+croquant; croustillant
+
+honeymoon
+la lune de miel
+
+mail
+le courrier
+
+do you mind?
+ça vous dérange?; tu veux bien?
+
+no, not at all; no, no, of course not; no, not at all
+non, pas du tout; non, non, bien sûr que non; non, pas du tout
+
+pie; tart
+la tarte
+
+chocolate cookie
+le biscuit au chocolat; le cookie au chocolat
+
+Christmas Eve
+le réveillon de Noël
+
+string
+la ficelle
+
+rope; cord
+la corde; la cordelette
+
+cross
+la croix
+
+private; deprived
+privé; défavorisé
+
+hope
+l'espoir
+
+business
+les affaires; l'entreprise
+
+luck; fortune
+la chance; la fortune
+
+reaction
+la réaction
+
+creation
+la création
+
+critical
+critique
+
+source
+la source
+
+simply
+simplement
+
+area
+la zone; le secteur; la région
+
+position (specific); stance (on an issue)
+la position; la position (sur un sujet); le point de vue
+
+risk
+le risque
+
+settings
+les paramètres
+
+gesture
+le geste
+
+manager; director
+le gestionnaire; le directeur
+
+Christian
+chrétien
+
+soldier
+le soldat
+
+technology
+la technologie
+
+technical
+technique
+
+child; baby; infant
+l'enfant; le bébé; le nourrisson
+
+start; beginning
+le début
+
+mark; symbol; indication; sign
+la marque; le symbole; l'indication; le signe
+
+signal; sign (communication); cue
+le signal; le signe (communication); l'indication
+
+sign (physical); signboard; cartel
+le panneau; l'enseigne; le cartel
+
+trust; confidence; faith (based on past experiences)
+la confiance; la foi (fondée sur l’expérience)
+
+faith; belief (religious, without proof)
+la foi; la croyance
+
+help
+l'aide
+
+enemy
+l'ennemi
+
+iron
+le fer
+
+proposal; suggestion; proposition
+la proposition; la suggestion
+
+category
+la catégorie
+
+evidence; highlight
+la preuve; l'évidence; le point fort
+
+model (male); pattern; template
+le modèle; le gabarit; le patron
+
+model (female)
+le mannequin; le modèle
+
+prince
+le prince
+
+movement
+le mouvement
+
+vote; grade (school); vow
+le vote; la note (école); le vœu
+
+energy
+l'énergie
+
+absolute
+absolu
+
+scientific
+scientifique
+
+generally
+en général; généralement
+
+meter; measuring tape
+le mètre; le ruban à mesurer
+
+birth
+la naissance
+
+difference
+la différence
+
+argument (of discussion); subject; topic
+l'argument (discussion); le sujet; le thème
+
+subject; theme
+le sujet; le thème
+
+instruction; education
+l'enseignement; l'instruction; l'éducation
+
+feeling
+le sentiment; la sensation
+
+description
+la description
+
+violence
+la violence
+
+copy; backup
+la copie; la sauvegarde
+
+pressure
+la pression
+
+need (noun)
+le besoin
+
+for example (more formal)
+à titre d’exemple
+
+ladder
+l'échelle
+
+evolution
+l'évolution
+
+formal
+formel
+
+page
+la page
+
+port; harbor
+le port
+
+to maintain; to keep up
+maintenir; entretenir
+
+fault; guilt; blame
+la faute; la culpabilité; la blâme
+
+step (walking)
+le pas
+
+fear
+la peur
+
+identity
+l'identité
+
+last; ultimate; final
+dernier; ultime; final
+
+madam; ma'am; Mrs.; Ms.
+madame
+
+miss
+mademoiselle
+
+successive; subsequent; next (further away in time)
+successif; ultérieur; suivant (plus éloigné dans le temps)
+
+pure; shear (adjective)
+pur; pur (sens "pur", non mélangé)
+
+lack; shortage
+la manque; la pénurie
+
+intellectual
+intellectuel
+
+each; every
+chaque
+
+precise
+précis
+
+mount
+le mont
+
+formula
+la formule
+
+age (person, thing)
+l'âge
+
+stranger; foreigner; alien
+l'étranger
+
+minimum 
+minimum 
+
+minimal
+minimal
+
+least
+le moins
+
+maximum; greatest
+maximum; le plus grand
