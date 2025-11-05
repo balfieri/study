@@ -1114,7 +1114,7 @@ mormorare
 to mutter; to grumble; to mumble
 borbottare
 
-to mumble; to mutter (hurried, nervous)
+to mumble; to mutter (hurried, nervous); to slur
 biascicare
 
 to mumble; to mutter (hurried, nervous, embarrassed, lower voice)
@@ -4221,6 +4221,9 @@ l'accortezza
 
 to slip; to skid; to slide
 slittare; scivolare
+
+to slur words
+biascicare le parole; scivolare le parole
 
 to glide; to coast
 scivolare; planare
