@@ -688,8 +688,8 @@ douter
 alone
 seul
 
-especially; above all
-surtout
+especially; above all; most importantly
+surtout; par-dessus tout
 
 chapter
 le chapitre
@@ -10179,3 +10179,26 @@ pratiquement; virtuellement; fondamentalement
 response
 la réponse
 
+too much (something)
+trop de (quelche chose)
+
+they think they know everything
+ils pensent qu'ils savent tout
+
+their
+leur; leurs
+
+our
+notre; nos
+
+your (2nd person)
+votre; vos
+
+more; further; longer
+davantage
+
+more (something)
+plus de (quelche chose)
+
+less (something)
+moins de (quelche chose)
