@@ -21496,7 +21496,7 @@ la sinergia
 buttery
 burroso
 
-similarity (abstract)
+similarity (explicit comparison)
 la similitudine
 
 accumulation
@@ -24682,7 +24682,7 @@ comparso
 appeared; become visible; become clear (literary)
 apparso
 
-similarity (physical)
+similarity (looks)
 la somiglianza
 
 periodic
