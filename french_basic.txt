@@ -1183,9 +1183,6 @@ jouer
 the bill (restaurant)
 l'addition
 
-value
-la valeur
-
 to dose; to measure
 doser
 
@@ -1806,9 +1803,6 @@ sauter
 
 to hop
 bondir
-
-to run
-courir
 
 to speed
 aller vite
@@ -2634,9 +2628,6 @@ au cas où
 
 as soon as
 dès que
-
-in general
-en général
 
 in fact; actually
 en fait
@@ -4581,9 +4572,6 @@ déprimant
 
 to get depressed
 devenir déprimé; se déprimer
-
-situation
-la situation
 
 I don't want to talk about it
 je ne veux pas en parler
@@ -7028,9 +7016,6 @@ gris
 beard
 la barbe
 
-skin
-la peau
-
 clear (discussion, color)
 clair; limpide
 
@@ -8072,9 +8057,6 @@ ancien; séculaire
 
 total (adjective)
 total
-
-local
-local
 
 industrial
 industriel
@@ -10398,3 +10380,41 @@ la vidéo
 a nice video
 la belle vidéo
 
+sleeve; round
+la manche
+
+pair
+la paire
+
+complicated; tricky
+compliqué
+
+to celebrate
+célébrer
+
+too soon; too early
+trop tôt
+
+skin
+la peau
+
+situation; case
+la situation
+
+result; outcome
+le résultat
+
+reserve; reservation
+la réserve
+
+to run; to be common
+courir
+
+global; overall
+global
+
+local
+local
+
+overall; in general
+en général
