@@ -3262,8 +3262,8 @@ précédent
 the world
 le monde
 
-the people
-la gens
+people
+les gens
 
 it color
 il couleur
@@ -4715,7 +4715,7 @@ upstairs
 à l’étage
 
 restaurant
-le restaurant
+le restaurant; le resto
 
 to beat
 battre
@@ -8020,7 +8020,7 @@ civil
 civil
 
 public (noun); audience
-le public
+le public; l'audience
 
 public (adjective)
 public
@@ -10244,3 +10244,157 @@ sophistiqué
 
 few people
 peu de gens
+
+nice to meet you; pleased to meet you
+ravi de faire votre connaissance
+
+to minimize
+minimiser
+
+to have a drink; to grab a drink
+prendre un verre
+
+let's keep in touch; we'll keep each other updated
+on se tient au courant
+
+to keep in touch; to stay in touch
+rester en contact; tenir au courant
+
+don't worry!
+t'inquiète!
+
+it's worth it
+ça vaut le coup
+
+quickly; rapidly
+rapidement
+
+desire; longing; craving
+l'envie
+
+it's crowded; there's a crowd
+il y a foule
+
+a lot of people; many people
+beaucoup de monde
+
+as many people
+autant de monde
+
+danger
+le danger
+
+that's convenient; that works out well
+ça tombe bien
+
+to make no sense; to have no meaning
+n'avoir aucun sens
+
+does that suit you?; does that work for you?
+ça te va?
+
+I'm there!; I'm in!
+j'y suis!
+
+work; job
+le boulot
+
+as you want; as you wish
+comme tu veux
+
+it doesn't appeal to me; it doesn't interest me
+ça ne me dit rien
+
+it's been a long time; it's been ages
+ça fait longtemps
+
+too bad; never mind
+tant pis
+
+that works; okay
+ça marche
+
+it's not possible; that's not possible
+c'est pas possible
+
+that's a shame; it's a pity
+c'est dommage
+
+it's not great; it's not so good
+c'est pas terrible
+
+forget it; drop it
+laisse tomber
+
+task
+la tâche
+
+it's fine with me; it suits me
+ça me va
+
+it goes; it passes; it's okay
+ça passe
+
+acceptable
+acceptable
+
+are you serious?
+t'es sérieux?
+
+comparison
+la comparaison
+
+to have doubts; to be doubtful
+avoir des doutes
+
+I'll think about it; I'm going to think about it
+je vais y réfléchir
+
+to consider
+considérer
+
+it makes me happy; I'm pleased
+ça me fait plaisir
+
+you're welcome; don't mention it
+il n'y a pas de quoi
+
+informal
+informel
+
+I can't take it anymore
+je n'en peux plus
+
+it's worth it
+ça en vaut la peine
+
+I missed you
+tu m'as manqué
+
+i manage; I'm managing
+je m'en sors
+
+comfort; ease
+l'aise
+
+are you up to date?; do you know?
+t'es au courant?
+
+let's go; shall we go?
+on y va
+
+motivated
+motivé
+
+energetic
+énergique
+
+to lose weight
+perdre du poids
+
+video
+la vidéo
+
+a nice video
+la belle vidéo
+
