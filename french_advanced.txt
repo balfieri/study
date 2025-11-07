@@ -1257,3 +1257,9 @@ je te le redis
 
 update
 la mise à jour
+
+sudden
+soudain; subit; brusque
+
+rematch; revenge; retaliation
+la revanche

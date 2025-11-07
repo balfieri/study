@@ -1861,9 +1861,6 @@ la réservation
 plate; dish
 l'assiette; le plat
 
-that; this; it (used alone)
-ça
-
 spoken
 parlé
 
@@ -4202,7 +4199,7 @@ it means
 il veut dire; il signifie
 
 this means
-cela veut dire; cela signifie
+ça veut dire; ça signifie; cela veut dire; cela signifie
 
 half of us
 la moitié d'entre nous
@@ -4599,6 +4596,9 @@ Madone
 
 saint
 saint
+
+that; this(idea, concept, situation, more formal)
+cela
 
 that said
 cela dit
@@ -8721,9 +8721,6 @@ combien
 everything; all
 tout
 
-that (idea, concept, situation, more formal)
-cela
-
 who
 qui
 
@@ -10418,3 +10415,10 @@ local
 
 overall; in general
 en général
+
+what is the difference between (thing) and (other thing)?
+quelle est la différence entre (chose) et (autre chose) ?
+
+success; achievement
+succès
+

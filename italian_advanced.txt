@@ -991,7 +991,7 @@ metterci
 to take; to require (time for something to be done, impersonal)
 volerci
 
-farewell; leave of absence
+farewell; leave of absence; leave
 il congedo
 
 as long as; only if; on condition that; provided; provided that
@@ -39145,7 +39145,7 @@ venire con un piano; ideare un piano
 under snap
 sotto scatto
 
-retaliation
+retaliation; reprisal
 la rappresaglia; la ritorsione
 
 bottomless pit
@@ -56266,9 +56266,6 @@ gonfiare
 
 oh my God
 oh mio Dio
-
-imp
-il folletto
 
 gazebo
 il gazebo
@@ -94576,7 +94573,7 @@ mutually assured destruction
 la distruzione reciproca assicurata
 
 palette
-la palette
+la palette; la tavolozza
 
 color palette
 la palette di colori
@@ -101867,4 +101864,58 @@ il ciondolino
 
 il discrimine
 distinction; dividing line
+
+binding commitment; binding obligation
+l'impegno vincolante
+
+Jihadist
+jihadista
+
+newly elected
+neo eletto
+
+the opposite happens; the contrary happens; the opposite occurs
+accadere il contrario
+
+iconography
+l'iconografia
+
+pop culture
+la cultura pop
+
+visual reference
+il rimando visivo
+
+to emphasize; to highlight; to make stand out; to bring out
+far risaltare
+
+Asian
+asiatico
+
+large-format
+di grande formato
+
+paternity leave
+il congedo di paternità
+
+maternity leave
+il congedo di maternità
+
+in view of; in light of; with an eye to
+in vista di
+
+to go by battery; to be battery-powered
+andare a pile
+
+incumbant
+l'incumbente
+
+anti-incumbant
+anti-incumbente
+
+frame; cornice
+la cornicia
+
+stink; stench; reek
+il tanfo
 
