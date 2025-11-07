@@ -451,9 +451,6 @@ le printemps
 church
 l'église
 
-secular
-laïque
-
 except
 sauf
 
@@ -2041,7 +2038,7 @@ l'erreur
 regular
 régulier
 
-mandatory; required
+mandatory; required; obligatory
 obligatoire
 
 tend to; to have a tendency to
@@ -2611,7 +2608,7 @@ donc
 because
 parce que
 
-because (formal)
+because; for (formal)
 car
 
 furthermore; moreover
@@ -4366,8 +4363,8 @@ blessure
 to hurt (someone's) feelings
 blesser les sentiments de (quelqu'un)
 
-by the way
-d'ailleurs
+by the way; incidentally; in passing; while I remember
+à propos; en passant; au fait; d'ailleurs
 
 to be used to
 avoir l'habitude de
@@ -10422,3 +10419,23 @@ quelle est la différence entre (chose) et (autre chose) ?
 success; achievement
 succès
 
+easy; comfortable; effortless; wealthy; well-off
+aisé
+
+evolved; developed; advanced; sophisticated
+évolué
+
+to evolve; to develop; to progress
+évoluer
+
+identical; same
+identique
+
+to develop
+développer
+
+permanently; definitively
+définitivement
+
+that man
+cet homme; cet homme-là
