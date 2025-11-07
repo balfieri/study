@@ -25,7 +25,7 @@ UNOS
 undershoot turn to or from north, overshoot turn to or from south
 
 6HIT acronym for IFR currency
-in the prior 6 calendar months, the pilot must perform 6 instrument approaches, hold (at least one), intercepting fixes, and tracking courses; otherwise, if 12 months pass, the pilot must get an Instrument Proficiency Check (IPC) from a CFII
+in the prior 6 calendar months (prior to current month), the pilot must perform 6 instrument approaches, hold (at least one), intercepting fixes, and tracking courses; otherwise, if 12 months pass, the pilot must get an Instrument Proficiency Check (IPC) from a CFII
 
 what happens during an instrument proficiency check (IPC)
 no ground work, but flight covers same things as in an instrument check ride; some tasks may be completed in an AATD
@@ -502,7 +502,7 @@ minimum requirements of a safety pilot
 holds private pilot in type of airplane being flown; has current medical certificate; need not be current with flight review; must have adequate vision forward and to each side of aircraft
 
 when can IFR flight be logged
-for simulated IMC, pilot must go down to minimums; for actual IMC, pilot must go past the FAF
+for simulated IMC, pilot must go down to minimums; for actual IMC, pilot must go past the FAF and experience some IMC
 
 on IFR low en route chart, the north symbol on a VOR represents
 magnetic north at the time the VOR was installed
@@ -1614,7 +1614,7 @@ three common errors of instrument scan
 fixation, omission, emphasis
 
 three definitions of night
-1) sunset: beacons go on, 2) evening civil twilight (30 minutes after sunset to 30 minutes before sunrise): logging night flight; 3) 1 hour after sunset to 1 hour before sunrise: 3 takeoffs and landings to a full stop
+1) sunset to sunrise: position lights required, 2) evening civil twilight (30 minutes after sunset to 30 minutes before sunrise): logging night flight; 3) 1 hour after sunset to 1 hour before sunrise: 3 takeoffs and landings to a full stop in last 90 days to be able to carrying passengers
 
 what do write in a flight plan if you do not want a departure procedure
 NO DP
@@ -2113,3 +2113,54 @@ file an IFR flight plan, thus you need to go fly some approaches under the hood 
 
 can you do an instrument proficiency check in a simulator?
 no
+
+when an approach place has NA written next to the A symbol in the notes, this means that
+this approach is not authorized when the airport is used as an alternate; likely no weather reporting or unmonitored ILS
+
+what does it mean if there is a red X over our G5?
+ADC went bad
+
+features of our planes for icing
+pitot heat, carb heat (PA28), cabin heat can be blown on the windshield
+
+with reverse sensing, CDI shows
+aircraft relative to course rather than VOR relative to course
+
+limitations of weather tools in the airplane
+15 minute delay in constructing data at the server and up to 15 minute delay getting it updated in the airplane; if weather changing fast, could be looking at very out-of-date information
+
+can you do an RNAV GPS approach without an HSI?
+no, need to request ILS
+
+what happens if you do not have a transponder and want to fly IFR?
+must tell this to ATC when they give you your clearance, may not be able to fly in places where it is required
+
+on an ILS approach, do you have to be able to identify the markers?
+no, most don't have them
+
+difference between solid and hollow arrows on an IFR low en route chart?
+solid arrow mean the fix is determined by a specific navaid's radial; hollow indicates the fix is defined by a DME distance from a certain navaid
+
+may an IPC be conducted in a certified simulator?
+not in a BATD like ours, but in more advanced simulators; and obviously a CFII or other representative must be present
+
+what cruise altitude should be filed in an IFR flight plan?
+minimum appropriate IFR altitude for the first leg
+
+what is the default void time?
+30 minutes after release time
+
+what is a GCO?
+ground communication outlet: old-school way of using the radio to connect to ATC on the ground at an uncontrolled airport; no longer relevant with cell phones
+
+whom to file a PIREP with?
+ATC or FSS
+
+after requesting delay vectors from ATC
+you must let ATC when you are ready to fly the approach
+
+guidelines for making directional changes when flying an approach
+before the final approach fix, it's ok to make up to 7-10 degrees of change; after the final approach fix, no more than 3-5 degrees
+
+if you go full-scale deflection on the approach
+you must immediately go missed

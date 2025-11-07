@@ -1360,3 +1360,6 @@ spécialement
 stereotypical
 stéréotypé
 
+to annotate
+annoter
+
