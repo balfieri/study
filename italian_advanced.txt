@@ -101919,3 +101919,6 @@ la cornicia
 stink; stench; reek
 il tanfo
 
+traffic policeman
+il vigile urbano
+
