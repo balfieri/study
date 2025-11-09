@@ -1555,8 +1555,8 @@ la rue
 way (road)
 la voie; le chemin
 
-way (of doing)
-le façon; la manière
+manner
+la manière
 
 so many
 tant de
@@ -7310,7 +7310,7 @@ bientôt
 to have to do with
 avoir à voir avec
 
-to be about
+to be about; to concern
 parler de; concerner
 
 to make sure that
@@ -9252,8 +9252,11 @@ en solde
 candy
 le bonbon; la friandise
 
-advantage; benefit; gain
-l'avantage; le bénéfice; le gain
+benefit
+le bénéfice
+
+gain; win
+le gain
 
 captain
 le capitaine
@@ -9296,9 +9299,6 @@ mâle
 
 advantage
 l'avantage
-
-benefit
-le bénéfice
 
 disadvantage
 le désavantage; l'inconvénient
@@ -10604,4 +10604,28 @@ j'ai toujours
 
 the rest of your life
 le reste de ta vie
+
+directly  
+directement  
+
+option  
+l'option  
+
+in trouble  
+dans la mouise; en difficulté  
+
+it's not certain; that's not guaranteed  
+c'est pas dit  
+
+I'll pass; I'm skipping my turn  
+je passe mon tour  
+
+I'm taking the plunge; I'm starting  
+je me lance  
+
+it makes all the difference  
+ça fait toute la différence  
+
+cherry  
+la cerise  
 
