@@ -121,9 +121,6 @@ intrigué
 blameless; irreproachable
 irréprochable
 
-solid
-solide
-
 to chit-chat; to chat
 bavarder; tchatcher; tailler une bavette; papoter
 
@@ -306,9 +303,6 @@ l'orgasme
 
 to have an orgasm
 avoir un orgasme
-
-gentleness
-le douceur
 
 elegance
 l'élégance
@@ -1648,9 +1642,6 @@ le compromis
 needle  
 l'aiguille  
 
-advice  
-le conseil  
-
 to modernize  
 se moderniser  
 
@@ -1734,3 +1725,6 @@ boucher
 
 to decorate
 décorer
+
+beloved
+bien-aimé

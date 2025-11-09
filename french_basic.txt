@@ -1057,9 +1057,6 @@ le journaliste
 to shine
 briller; luire; rayonner; étinceler
 
-fresh; cool
-frais
-
 air
 l'air
 
@@ -1722,9 +1719,6 @@ la boule
 
 flavor
 le saveur; le parfum
-
-fire
-le feu
 
 traffic light
 le feu de circulation; le feu tricolore
@@ -3241,9 +3235,6 @@ le monde
 people
 les gens
 
-the friend
-l'ami
-
 the hospital
 l'hôpital
 
@@ -3340,17 +3331,11 @@ la télé
 minute
 la minute
 
-reason
-la raison
-
 umbrella
 le parapluie
 
 wine
 le vin
-
-bag
-le sac
 
 plane; airplane
 l'avion
@@ -7662,7 +7647,7 @@ le mal de tête
 to be sick
 être malade
 
-health (state of being)
+health
 la santé
 
 sick person
@@ -9117,8 +9102,8 @@ tailor
 enquête
 inquiry; investigation
 
+wave
 la vague
-the wave
 
 human being
 l'être humain; l'humain
@@ -10866,3 +10851,365 @@ to be able to; to be capable of (after learning something)
 to paint
 peindre
 
+to communicate  
+communiquer  
+
+match (sports)  
+le match  
+
+marked; scored; denoted  
+marqué; noté; indiqué; signalé  
+
+arrived  
+arrivé  
+
+conversation  
+la conversation  
+
+imagination  
+l'imagination  
+
+user  
+l'utilisateur  
+
+dramatic  
+dramatique  
+
+reason (logical thinking)  
+la raison  
+
+motive; reason (for doing something)  
+le motif
+
+distance  
+la distance  
+
+Euro  
+l'euro  
+
+to make oneself  
+se faire  
+
+made (changed)  
+fait; devenu; transformé  
+
+photography
+la photographie
+
+muscle  
+le muscle  
+
+to be right about  
+avoir raison sur  
+
+concert  
+le concert  
+
+fresh; cool (temp)  
+frais  
+
+received  
+reçu  
+
+entered  
+entré  
+
+dialect  
+le dialecte  
+
+brought  
+apporté; amené  
+
+fatal
+fatal  
+
+mortal
+mortel
+
+separate; separated  
+séparé  
+
+mutual  
+mutuel  
+
+signed  
+signé  
+
+solid
+solide
+
+firm
+firme
+
+smoke  
+la fumée  
+
+religion  
+la religion  
+
+Asia  
+l'Asie  
+
+unhappy  
+malheureux  
+
+taxi  
+le taxi  
+
+fallen  
+tombé  
+
+hidden  
+caché  
+
+loved
+aimé
+
+sack; bag (larger, robust)  
+le sac  
+
+Tuscan  
+toscan  
+
+team  
+l'équipe  
+
+favorite; preferred  
+préféré; favori  
+
+tragic  
+tragique  
+
+infection  
+l'infection  
+
+Sicilian  
+sicilien  
+
+to move (oneself)  
+se déplacer
+
+weight  
+le poids  
+
+printed  
+imprimé  
+
+use  
+l'utilisation; l'usage  
+
+emotion  
+l'émotion  
+
+explained  
+expliqué  
+
+fire
+le feu
+
+devil  
+le diable  
+
+shot; throw  
+le tir; le lancer  
+
+last name; surname  
+le nom de famille  
+
+art  
+l'art  
+
+changed  
+changé  
+
+been back; got back; come back  
+revenu; retourné; rentré  
+
+satisfied  
+satisfait  
+
+telephone; phone  
+la téléphone  
+
+definition  
+la définition  
+
+left (pp)  
+parti  
+
+sweetness; gentleness
+le douceur  
+
+dance (art form)  
+la danse  
+
+typically  
+typiquement  
+
+jump  
+le saut  
+
+lira  
+le lire  
+
+friend
+l'ami
+
+buddy
+le copain
+
+turism  
+le tourisme  
+
+to free; to liberate; to release; to set free  
+libérer  
+
+seated  
+assis  
+
+to be early  
+être en avance  
+
+combination  
+la combinaison  
+
+pronounced  
+prononcé  
+
+centimeter  
+le centimètre  
+
+sincerity  
+la sincérité  
+
+invited  
+invité  
+
+grass; herb  
+l'herbe  
+
+Africa  
+l'Afrique  
+
+elapsed; spent (time)  
+écoulé; passé  
+
+version  
+la version  
+
+to separate  
+séparer  
+
+happily  
+heureusement; avec joie  
+
+to judge  
+juger  
+
+see you later  
+à plus tard  
+
+see you later (in the same day)
+à tout à l'heure
+
+see you in a few minutes
+à tout de suite
+
+forever; for good  
+pour toujours; à jamais  
+
+to get into; to get on  
+monter dans; monter sur  
+
+to get into the car; to get in the car  
+monter dans la voiture  
+
+toothpaste  
+le dentifrice  
+
+dental floss  
+le fil dentaire  
+
+toothbrush  
+la brosse à dents  
+
+hairbrush  
+la brosse à cheveux  
+
+stuff; ish  
+le truc; le machin  
+
+to manage; to run; to operate; to handle  
+gérer; diriger; manipuler  
+
+vision  
+la vision  
+
+homemade; home-style (simple and traditional)  
+fait maison; traditionnel  
+
+distant  
+lointain; distant  
+
+forced  
+forcé; contraint  
+
+excuse; apology  
+l'excuse; le pardon  
+
+denied; not allowed  
+refusé; interdit  
+
+revolution  
+la révolution  
+
+comical  
+comique; drôle  
+
+comic; comedian  
+le comique; l'humoriste  
+
+boredom  
+l'ennui  
+
+in a little bit; soon; in a few minutes  
+bientôt; dans un instant; tout à l'heure  
+
+Mexico  
+Le Mexique  
+
+itinerary  
+l'itinéraire  
+
+taught  
+enseigné  
+
+freed; liberated  
+libéré  
+
+learned  
+appris  
+
+to work (function); to function  
+fonctionner; marcher  
+
+suggestion (neutral, objective)  
+la suggestion  
+
+advice; suggestion
+le conseil
+
+time; weather; tense (verb)  
+le temps  
+
+paint (tends to be water-based); painting (act of)  
+la peinture  
+
+lover  
+l'amant  
+
+Canada  
+le Canada  
+
+driven  
+conduit
