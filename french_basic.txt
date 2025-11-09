@@ -979,9 +979,6 @@ crier
 to cut
 couper
 
-theme; topic
-le thème
-
 the one; that one
 celui
 
@@ -3850,8 +3847,8 @@ allume la télé
 television (device)
 le téléviseur
 
-ne le touche pas
 don't touch it
+ne le touche pas
 
 don't come
 ne viens pas
@@ -4495,8 +4492,8 @@ by now
 à ce point
 to this point; to that extent
 
-maintenant
 now
+maintenant
 
 adorable
 adorable
@@ -9714,8 +9711,8 @@ la différence
 argument (of discussion); subject; topic
 l'argument (discussion); le sujet; le thème
 
-subject; theme
-le sujet; le thème
+theme
+le thème
 
 instruction; education
 l'enseignement; l'instruction; l'éducation
@@ -10604,4 +10601,7 @@ avoir (quelche choser) depuis longtemps
 
 I have always 
 j'ai toujours
+
+the rest of your life
+le reste de ta vie
 

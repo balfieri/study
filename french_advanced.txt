@@ -8,7 +8,7 @@ jackolantern
 le potiron lumineux
 
 bat
-un chave-souris
+le chave-souris
 
 to be fed up
 en avoir marre
@@ -736,9 +736,6 @@ la galette des rois
 Tourette’s Syndrome
 le syndrome de Tourette
 
-hand-organ; small accordion; diatonic button accordion; orchestrion; hurdy-gurdy
-l'organetto
-
 caffeinated
 caféiné
 
@@ -1465,3 +1462,5 @@ le diplômé
 gripping; captivating
 captivant
 
+it was only a matter of time; it was just a matter of time
+ce n'était qu'une question de temps; c'était juste une question de temps
