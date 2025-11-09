@@ -118,9 +118,6 @@ prochaine
 wife
 la femme; l'épouse
 
-unfortunately
-malheureusement
-
 to move (house)
 déménager; se installer
 
@@ -285,9 +282,6 @@ tout au début
 
 at first; initially; at the beginning; to begin with; to start with; in the beginning
 au début
-
-web site
-le site web
 
 vowel
 la voyelle
@@ -576,9 +570,6 @@ néanmoins
 
 that not withstanding; notwithstanding that
 cela nonobstant
-
-to do the shopping (grocery)
-faire les courses
 
 to go shopping
 aller faire les courses
@@ -913,9 +904,6 @@ les pâtes; la pasta
 sauce
 le sauce
 
-to try
-essayer
-
 to manage; to handle
 gérer
 
@@ -1149,9 +1137,6 @@ fermer
 
 to open
 ouvrir
-
-to stop
-arrêter
 
 closed
 fermé
@@ -1768,9 +1753,6 @@ alors que; tandis que
 ok; that's fine; it's fine
 d’accord; ça va
 
-how goes it?
-ça va?
-
 flight
 le vol
 
@@ -2236,9 +2218,6 @@ peut-être; peut-être que
 next time; the next time
 la prochaine fois; pour la prochaine fois
 
-dad
-le papa
-
 was; been
 été
 
@@ -2692,9 +2671,6 @@ sous
 in front of; before
 devant
 
-among
-parmi
-
 below; beneath
 au-dessous
 
@@ -2728,7 +2704,7 @@ le soutien
 subscriber
 l'abonné
 
-corridor; hallway
+corridor; hallway; hall
 le couloir
 
 direction
@@ -3015,12 +2991,6 @@ s'échapper
 
 merchant
 le marchand
-
-to realize
-se rendre compte
-
-to notice; to note
-remarquer
 
 to note
 noter
@@ -4543,7 +4513,7 @@ je ne veux pas en parler
 lack of
 la manque de; l'absence de
 
-here is; here are; this is; these are
+here is; here are; this is; these are; here it is; here you go
 voici
 
 to move away; to go away
@@ -6185,9 +6155,6 @@ rester; demeurer
 to observe
 observer
 
-to attempt; to tempt
-tenter
-
 to excuse
 excuser
 
@@ -7620,7 +7587,7 @@ l'enseignant; le professeur; la professeure
 teacher (higher education)
 le professeur d’université
 
-waiter
+server; waiter
 le serveur
 
 actress
@@ -8520,7 +8487,7 @@ le bulletin météo
 character (film); protagonist
 la personnage (film); le protagoniste
 
-to ask questions
+to ask questions; to ask some questions
 poser des questions
 
 to disappoint (someone); to underwhelm
@@ -11213,3 +11180,486 @@ le Canada
 
 driven  
 conduit
+
+mafia
+la mafia
+
+brave; courageous; gutsy
+brave; courageux; audacieux
+
+sports; athletics
+les sports; l'athlétisme
+
+soul
+l'âme
+
+website; web site
+le site web
+
+paid
+payé
+
+style
+le style
+
+involved
+impliqué
+
+trouble; troubles
+l'ennui; les ennuis
+
+to print; to stamp
+imprimer; tamponner
+
+versus
+versus
+
+to suffice; to be enough
+suffire
+
+violent
+violent
+
+including; included; inclusive
+y compris; inclus; inclusif
+
+excluding; excluded
+à l’exclusion de; exclu
+
+gram
+le gramme
+
+offensive
+offensant
+
+courteous; polite; kind
+courtois; poli; gentil
+
+sold
+vendu
+
+attached
+attaché
+
+worried; preoccupied
+inquiet; préoccupé
+
+gone up; got in
+monté
+
+to wonder; to ask oneself
+se demander
+
+forbidden; prohibited; banned
+interdit; prohibé; banni
+
+understood; got it
+compris
+
+cut; cutting
+le coupé; le découpage
+
+bone
+l'os
+
+bones
+les os
+
+honesty
+l'honnêteté
+
+to throw (uncontrolled)
+jeter
+
+to throw (controlled, aimed); to launch
+lancer
+
+to throw (informal)
+balancer
+
+treasure
+le trésor
+
+sweetheart; darling
+le chéri; la chéri
+
+tape
+le ruban; la cassette; la bande
+
+nest
+le nid
+
+to stop (tr, movement)
+arrêter
+
+ball
+la balle; le ballon
+
+cancer
+le cancer
+
+lip
+la lèvre
+
+lips
+les lèvres
+
+grew; grew up
+a grandi
+
+stopped
+arrêté
+
+pope
+le pape
+
+to mark; to signal (general)
+marquer; signaler
+
+to participate in; to attend
+participer à; assister à
+
+to take a photo
+prendre une photo
+
+romance novel
+le roman d’amour
+
+to combine
+combiner
+
+lead (metal)
+le plomb
+
+unfortunately; sadly
+malheureusement
+
+to experiment with (something); to experience (something)
+expérimenter (quelque chose); faire l’expérience de (quelque chose)
+
+all good; everything's fine; everything's ok
+tout va bien; tout est bon; tout va bien
+
+no; nope
+non
+
+adverb
+l'adverbe
+
+toenail
+l'ongle de pied
+
+to notice (something without already being in the act of trying to observe it)
+remarquer
+
+to notice (while in the act of observing or perceiving something); to note; to observe; to perceive
+noter; observer; percevoir
+
+to realize (come to understand)
+se rendre compte
+
+to realize (make real an idea); to achieve; to accomplish
+réaliser; accomplir
+
+to complete; to reach (milestone)
+atteindre; accomplir
+
+to complete (task)
+compléter; achever
+
+cafe (coffee place); bar (food, coffee)
+le café; le bar
+
+to be good at (doing something)
+être doué pour (faire quelque chose)
+
+to be good in (a school subject)
+être bon en (une matière)
+
+also; too
+aussi
+
+to consume; to consummate
+consommer
+
+to pack; to pack for a trip; to pack bags
+faire sa valise; faire ses valises
+
+welcome (general)
+bienvenue
+
+to get a job as
+obtenir un poste de
+
+exactly; just like that
+exactement; tout simplement
+
+no problem; no worries!
+pas de problème; t’inquiète!
+
+to be (number) minutes late
+avoir (nombre) minutes de retard
+
+to go shopping (clothes, items)
+faire du shopping
+
+to do the grocery shopping; to go grocery shopping
+faire les courses
+
+pop; soda; soft drink
+le soda; la boisson gazeuse
+
+moved
+déménagé; ému
+
+to get along; to get along well; to see eye-to-eye
+s’entendre; bien s’entendre; être sur la même longueur d’onde
+
+dunno; I don't know; I have no idea; no idea
+je sais pas; aucune idée
+
+that's perfectly fine; it works great; that sounds great; that's great; that's fine; it's perfectly fine
+ça me va parfaitement; c’est parfait; ça marche très bien; c’est parfait; c’est très bien
+
+at work
+au travail
+
+often times
+bien souvent; souvent
+
+all day; all day long
+toute la journée
+
+to my dad's (house)
+chez mon père
+
+to go to the gym
+aller à la salle de sport
+
+how goes it?; are you ok?
+ça va?
+
+best friend
+le meilleur ami; la meilleure amie
+
+close friend
+l'ami proche; l'amie proche
+
+dad; daddy
+le papa
+
+management; handling
+la gestion
+
+to exercise (physical); to work out
+faire de l’exercice
+
+I weigh 60 kilos
+je pèse 60 kilos
+
+see you then
+à tout à l’heure
+
+see you later; see you a little later
+à plus tard; à tout à l’heure
+
+frozen (slowly)
+congelé
+
+thank you very much; thanks a lot; thank you so much; thanks so much
+merci beaucoup; un grand merci
+
+here we are
+nous y sommes
+
+among; amongst
+parmi
+
+to anger; to make angry
+énerver; fâcher; mettre en colère
+
+at 8:30am
+à 8h30
+
+is this seat taken?
+cette place est prise?
+
+is this seat available?
+cette place est libre?
+
+as (adjective) as (noun)
+aussi (adjectif) que (nom)
+
+email address
+l'adresse e-mail
+
+pizza by the slice
+la pizza à la part
+
+to use the formal 'you'
+vouvoyer
+
+to use the informal 'you'
+tutoyer
+
+public transportation
+les transports en commun
+
+to go on vacation
+partir en vacances
+
+of course!
+bien sûr!
+
+appetizer; starter; hors d'oeuvres
+l'entrée; l'amuse-gueule; l'hors-d’œuvre
+
+to scare; to frighten; to startle; to spook
+effrayer; faire peur; surprendre
+
+remarkable; notable
+remarquable; notable
+
+lentils
+les lentilles
+
+collection; gathering
+la collection; le rassemblement
+
+harvest; crop; yield
+la récolte; le rendement
+
+zoo
+le zoo
+
+I need it
+j’en ai besoin
+
+he needs it; she needs it; it needs it
+il en a besoin; elle en a besoin
+
+on Fridays
+le vendredi
+
+every Friday
+tous les vendredis
+
+to let (somebody) know
+informer (quelqu’un); faire savoir (à quelqu’un)
+
+to let (somebody) see; to show (somebody)
+montrer (à quelqu’un)
+
+in love
+amoureux; amoureuse
+
+microphone; mic
+le micro
+
+calendar
+le calendrier
+
+to get on the train
+monter dans le train
+
+to get off the train
+descendre du train
+
+challenge
+le défi
+
+I'm cold
+j’ai froid
+
+I'm freezing
+je gèle
+
+to try to (for the first time, uncertain result); to test (try once)
+essayer
+
+to try to (persistently, with a certain result or objective in mind); to tempt; to attempt
+tenter
+
+soon; quickly; early
+bientôt; vite; tôt
+
+to cross; to traverse
+traverser
+
+6 and a half hours
+six heures et demie
+
+immediately; right away; at once
+immédiatement; tout de suite; sur-le-champ
+
+to breathe
+respirer
+
+pink
+rose
+
+gladly; I'd love to; willingly; with great pleasure
+volontiers; avec plaisir
+
+lucky; in luck
+chanceux
+
+unlucky; out of luck
+malchanceux
+
+data
+les données
+
+happy holidays!
+joyeuses fêtes!
+
+annual; yearlong
+annuel; sur toute l’année
+
+to check into (hotel)
+s’enregistrer à (hôtel)
+
+to check out of (hotel)
+quitter (hôtel)
+
+web page
+la page web
+
+to make a decision
+prendre une décision
+
+contact lens
+la lentille de contact
+
+at what time
+à quelle heure
+
+orange juice
+le jus d’orange
+
+to toast; to roast (coffee beans)
+griller; torréfier
+
+toasted
+grillé
+
+vegetarian
+le végétarien
+
+vegan
+le végétalien
+
+to go on a trip
+partir en voyage
+
+lime (fruit)
+le citron vert
+
+nothing for now, thanks
+rien pour l’instant, merci
+
+by now; at this point
+à ce stade; à présent
+
+state; status (condition, state)
+l'éta
