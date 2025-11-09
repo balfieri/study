@@ -3064,9 +3064,6 @@ les ours
 screwdriver
 le tournevis
 
-direction; sense; meaning
-le sens
-
 more; plus
 plus
 
@@ -6803,9 +6800,6 @@ consulter des mots; chercher des mots
 to try to acquire new vocabulary
 essayer d'acquérir du nouveau vocabulaire
 
-emergency
-l'urgence
-
 so-called
 soi-disant
 
@@ -9048,9 +9042,6 @@ vietnamien
 productive
 productif
 
-meaning
-le sens; la signification
-
 to be able to afford (something)
 pouvoir se permettre (quelque chose)
 
@@ -10242,9 +10233,6 @@ beaucoup de monde
 as many people
 autant de monde
 
-danger
-le danger
-
 that's convenient; that works out well
 ça tombe bien
 
@@ -10629,3 +10617,248 @@ it makes all the difference
 cherry  
 la cerise  
 
+required; mandatory; requisite  
+requis; obligatoire; nécessaire
+
+added  
+ajouté
+
+thin (layer); subtle  
+mince (couche); subtil
+
+followed  
+suivi
+
+sex  
+le sexe
+
+perfection  
+la perfection
+
+destination  
+la destination
+
+God  
+Dieu
+
+painting; picture; depiction  
+la peinture; le tableau; la représentation
+
+to increase; to augment  
+augmenter; accroître
+
+to satisfy  
+satisfaire
+
+built; assembled; constructed  
+construit; assemblé; fabriqué
+
+power
+la puissance
+
+Vatican  
+le Vatican
+
+discussion; argument (dispute); disagreement  
+la discussion; la dispute; le désaccord
+
+realized  
+réalisé
+
+danger
+le danger
+
+signature (of a person)  
+la signature
+
+inner; internal; interior (adjective)  
+intérieur; interne
+
+mental  
+mental
+
+discovered; uncovered; found out  
+découvert
+
+visible  
+visible
+
+Mediterranean  
+méditerranée
+
+poem  
+le poème
+
+shown  
+montré
+
+extra virgin olive oil; EVOO  
+l'huile d'olive extra vierge
+
+real estate
+l'immobilier
+
+property
+le propriété
+
+people (as a whole)  
+le peuple
+
+persons; people (as multiple individuals)  
+les personnes; les gens
+
+called  
+appelé
+
+comedy
+la comédie
+
+average; mean  
+moyenne
+
+queen  
+la reine
+
+terrible
+terrible
+
+simplicity  
+la simplicité
+
+mention  
+la mention
+
+begun; started  
+commencé; débuté
+
+sent  
+envoyé
+
+kilometer  
+le kilomètre
+
+daily; everyday (adjective); daylong; day-to-day  
+quotidien
+
+sufficient  
+suffisant
+
+it's me  
+c'est moi
+
+to improve; to better; to ameliorate  
+améliorer
+
+dollar  
+le dollar
+
+urgency; emergency
+l'urgence
+
+became  
+devenu
+
+trip; voyage; journey (longer)  
+le voyage
+
+prepared  
+préparé
+
+consistent  
+cohérent; constant
+
+started; initiated  
+commencé; lancé; initié
+
+future  
+futur
+
+universe  
+l'univers
+
+meaning; significance  
+le sens; la signification
+
+breath  
+le souffle; la respiration
+
+painted (art)  
+peint
+
+exam  
+l'examen
+
+priest (informal)  
+le curé
+
+mile  
+le mile
+
+miles  
+les miles
+
+photo  
+la photo
+
+radio  
+la radio
+
+control; check  
+le contrôle; la vérification
+
+found  
+trouvé
+
+groceries  
+les courses
+
+pair; couple  
+la paire; la couple
+
+based  
+basé; fondé
+
+return  
+le retour
+
+excellent
+excellent
+
+very good
+très bon
+
+outstanding; excellent  
+exceptionnel; remarquable
+
+angel  
+l'ange
+
+disappointed  
+déçu
+
+clam  
+la palourde
+
+accent  
+l'accent
+
+killed (intentional or unintentional)  
+tué
+
+Happy New Year! (31st and 1st, turn of the year)  
+Bonne Année!; Bonne et Heureuse Année!
+
+Happy New Year! (entire year ahead)  
+meilleurs vœux pour la nouvelle année!
+
+congratulations (informal, general)  
+félicitations
+
+congratulations (formal, specific result)  
+toutes nos félicitations
+
+Merry Christmas  
+Joyeux Noël
+
+to be able to; to be capable of (after learning something)  
+être capable de; être en mesure de

@@ -1684,9 +1684,6 @@ le curseur
 middle; environment  
 le milieu  
 
-to improve  
-améliorer  
-
 to make worse; to aggravate  
 aggraver  
 
@@ -1725,4 +1722,10 @@ le taquet
 
 precious  
 précieux
+
+peril
+le péril
+
+awful
+affreux
 
