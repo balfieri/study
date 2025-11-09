@@ -3334,9 +3334,6 @@ le café
 chair
 la chaise
 
-beer
-la bière
-
 watch; clock
 le a montre
 
@@ -11663,3 +11660,183 @@ by now; at this point
 
 state; status (condition, state)
 l'éta
+
+I have one of them  
+j'en ai un  
+
+I already have one of them  
+j'en ai déjà un  
+
+to speak Italian  
+parler italien  
+
+to speak English  
+parler anglais  
+
+to be better; to be better off  
+aller mieux; être mieux; se porter mieux  
+
+to be worse  
+être pire; aller plus mal  
+
+to talk to (somebody) about (something)  
+parler à (quelqu'un) de (quelque chose)  
+
+to believe in (something)  
+croire en (quelque chose); croire à (quelque chose)  
+
+tube; pipe
+le tube
+
+have a good trip; safe travels  
+bon voyage  
+
+to make sense  
+avoir du sens  
+
+this is on you  
+c'est pour toi; c'est ta responsabilité  
+
+asleep  
+endormi  
+
+in spite of; even though; despite  
+malgré; même si; en dépit de  
+
+beer
+la bière
+
+ale
+l'ale
+
+how come?; why?  
+comment ça se fait?; pourquoi?  
+
+in a few days  
+dans quelques jours  
+
+prize; award; premium  
+le prix; la récompense; la prime  
+
+to study hard  
+étudier dur; travailler dur (à l'école)  
+
+trial (attempt); test; try; rehearsal  
+l'essai; la tentative; le test; la répétition  
+
+to make love  
+faire l'amour  
+
+to have sex; to get it on; to get some; to get laid  
+avoir des rapports sexuels; coucher avec quelqu'un  
+
+in an hour  
+dans une heure  
+
+in three hours  
+dans trois heures  
+
+there are three of us; we have three people  
+nous sommes trois  
+
+gas (general)  
+le gaz  
+
+to be done by (somebody)  
+être fait par (quelqu'un)  
+
+to taste good  
+être bon; avoir bon goût  
+
+success; hit  
+le succès  
+
+good weather  
+le beau temps  
+
+bad weather  
+le mauvais temps  
+
+on behalf of  
+au nom de  
+
+grated (cheese, bread)  
+râpé  
+
+a while
+un moment
+
+line (people)
+la file
+
+thank goodness; luckily; that's good (with sense of relief); that's a relief  
+heureusement; ouf; tant mieux  
+
+to be depressed  
+être déprimé  
+
+to provide; to furnish; to supply  
+fournir; approvisionner  
+
+louder; stronger  
+plus fort  
+
+softer  
+plus doux  
+
+thanks again  
+merci encore  
+
+to be about (something) (story)  
+parler de (quelque chose); être sur (quelque chose)  
+
+to have to do with; to deal with  
+avoir à voir avec; traiter de  
+
+twin  
+le jumeau; la jumelle  
+
+the sweet life; the good life  
+la dolce vita; la belle vie  
+
+opposite (noun); other way around  
+le contraire; l'opposé; l'inverse  
+
+nude; bare  
+nu; à nu  
+
+fleuently
+courament
+
+to speak Italian fluently  
+parler italien couramment  
+
+to leave (somebody) in the dust  
+laisser (quelqu'un) sur place; distancer (quelqu'un)  
+
+to hunt; to chase; to oust; to throw out; to kick out; to put; to get out  
+chasser; poursuivre; expulser; virer; mettre dehors; sortir  
+
+to denounce; to report; to report on; to accuse; to press charges; to inform on  
+dénoncer; signaler; accuser; porter plainte; informer contre  
+
+ATM; cash machine; cashpoint  
+le distributeur automatique  
+
+band (music)  
+la groupe (de musique); l'orchestre  
+
+to lie (not tell the truth)
+mentir; s'allonger
+
+liar  
+le menteur  
+
+what is happening?; what's going on?; what's up?  
+que se passe-t-il?; qu'est-ce qui se passe ?; quoi de neuf?  
+
+I strongly recommend it!; make sure!; don't forget!; be sure!  
+je le recommande fortement!; n'oublie pas!; assure-toi!; sois sûr!  
+
+somewhat
+quelche peu

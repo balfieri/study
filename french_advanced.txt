@@ -1728,3 +1728,16 @@ décorer
 
 beloved
 bien-aimé
+
+hose
+le tuyau
+
+row
+la rangée
+
+commitment
+l'engagement
+
+obligation
+l'obligation
+
