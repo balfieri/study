@@ -1779,7 +1779,7 @@ RAIIM acronym for hazardous attitudes
 R: resignation, A: antiathority, I: impulsivity, I: invulnerability, M: macho
 
 PAVE acronym for risk mitigation
-P: pilot ready, A: aircraft airworthy, V: environment, E: external pressures
+P: pilot ready, A: aircraft airworthy, V: environment (weather, terrain, runways), E: external pressures
 
 PPPPP acronym for risk mitigation
 pilot, passengers, plane, programming, plan

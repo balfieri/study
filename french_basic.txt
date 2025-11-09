@@ -1471,9 +1471,6 @@ chanter
 to eat
 manger
 
-to hate
-détester
-
 to love (romantic or non-romantic)
 aimer
 
@@ -3250,9 +3247,6 @@ le monde
 people
 les gens
 
-it color
-il couleur
-
 the friend
 l'ami
 
@@ -4024,9 +4018,6 @@ see you next time
 good luck for the rest
 bon courage pour la suite
 
-rest; sequel; run
-la suite
-
 whole; ensemble; set
 l'ensemble
 
@@ -4295,7 +4286,7 @@ foreign
 étrangèr
 
 to hate
-haïr
+détester; haïr
 
 to grow up
 grandir
@@ -7893,9 +7884,6 @@ pire; le plus mauvais
 flat
 plat
 
-popular
-populaire
-
 realistic
 réaliste
 
@@ -8009,9 +7997,6 @@ public
 
 short
 court
-
-brief
-bref
 
 distinctive; different from the norm (can be positive or negative); not ordinary; not common; special; singular; peculiar
 distinctif; hors du commun; spécial; singulier; particulier
@@ -9666,8 +9651,11 @@ le panneau; l'enseigne; le cartel
 trust; confidence; faith (based on past experiences)
 la confiance; la foi (fondée sur l’expérience)
 
-faith; belief (religious, without proof)
-la foi; la croyance
+faith
+la foi
+
+belief
+la croyance
 
 help
 l'aide
@@ -10439,3 +10427,181 @@ définitivement
 
 that man
 cet homme; cet homme-là
+
+to him
+lui
+
+to celebrate
+fêter
+
+birthday party
+la fête d'anniversaire
+
+reading
+la lecture
+
+assessment; report; review
+il bilan
+
+reader
+le lecteur
+
+restart; resumption
+la reprise
+
+that (something)-there
+(quelque chose)-là
+
+mixing; muddle
+le mêlage
+
+sales
+les soldes
+
+author
+l'auteur
+
+fly
+la mouche
+
+best-seller
+le best-seller
+
+simplistic
+simpliste
+
+book; paperback
+le bouquin
+
+naive
+naïve
+
+AI; artificial intelligence
+l'IA
+
+artificial intelligence
+l'intelligence artificielle
+
+to explore
+explorer
+
+popular
+populaire
+
+social media
+le réseaux sociaux
+
+the Internet
+Internet
+
+brief; briefly; in short
+bref
+
+effect
+l'effet
+
+to have a good time
+passer un bon moment
+
+frustrating
+frustrant
+
+disturbing
+dérangeant
+
+utterly
+complètement; totalement
+
+immoral
+immoral
+
+isolated
+isolé
+
+to save
+sauver
+
+to recover
+se remettre
+
+volume
+le volume
+
+rest; sequel; next part; run
+la suite
+
+behavior
+le comportement
+
+before (doing something)
+avant de (faire quelche chose)
+
+present; gift
+le présent
+
+to be willing to do anything; to be up for anything
+être prêt à tout
+
+to get a degree
+obtenir un diplôme
+
+in terms of
+en termes de
+
+elsewhere
+autre part
+
+master's degree
+le master
+
+semester
+le semestre
+
+attracted
+attiré
+
+to land; to show up
+débarquer
+
+over there
+là-bas
+
+polluted
+pollué
+
+smell; odor
+l'odeur
+
+job
+le job
+
+to encourage
+encourager
+
+architecture
+l'architecture
+
+to shorten
+abréger
+
+to manufacture; to make
+fabriquer
+
+building
+le bâtiment
+
+to in front
+être devant
+
+flag
+le drapeau
+
+for a long time
+depuis longtemps
+
+to have had (something) for a long time
+avoir (quelche choser) depuis longtemps
+
+I have always 
+j'ai toujours
+
