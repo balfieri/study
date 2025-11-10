@@ -4556,16 +4556,13 @@ central market
 marché central
 
 leather
-cuir
-
-glass
-verre
+le cuir
 
 bottle
-bouteille
+la bouteille
 
 envelope; small bag
-enveloppe; petit sac
+l'enveloppe; le petit sac
 
 to share (feelings; thoughts)
 partager (sentiments; pensées)
@@ -4579,20 +4576,17 @@ salé
 cooked
 cuit
 
-entrance
-entrée
-
 camera
-caméra
+la caméra
 
 cup
-tasse
+la tasse
 
 regular Coke
-coca normal
+la coca normal
 
 Diet Coke
-coca light
+la coca light
 
 something to drink
 quelque chose à boire
@@ -11840,3 +11834,36 @@ je le recommande fortement!; n'oublie pas!; assure-toi!; sois sûr!
 
 somewhat
 quelche peu
+
+I don't feel at ease
+je ne me sens pas à l'aise
+
+cozy; comfortable; snug; homey
+douillet; confortable; intime
+
+what have I done?
+qu'ai-je fait?
+
+to make progress
+faire des progrès
+
+dizain; ten
+la dizaine
+
+will the words come out?
+les mots vont-ils sortir?
+
+almost never
+presque jamais
+
+damn!; shoot!
+mince!
+
+misery!
+misère!
+
+I fear that the words won't come out
+je crains que les mots ne sortent pas
+
+domain; field
+le domaine

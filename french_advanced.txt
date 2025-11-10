@@ -1337,7 +1337,7 @@ not quite; not exactly; not entirely
 pas tout à fait
 
 standard; norm
-la norme
+le standard; la norme
 
 secularism; separation of church and state
 la laïcité
@@ -1740,4 +1740,13 @@ l'engagement
 
 obligation
 l'obligation
+
+extinction
+l'extinction
+
+dozen
+la douzaine
+
+to get old; to age; to grow old
+vieillir
 
