@@ -6326,9 +6326,6 @@ procéder
 to fear
 craindre; avoir peur
 
-to nourish
-nourrir
-
 to leave (go); to depart
 partir; s’en aller
 
@@ -11876,3 +11873,7 @@ temporaire
 
 what else?
 quoi d'autre?
+
+how's it going?; how are you?; how are things?
+comment ça va?; ça va?; comment vas-tu?
+
