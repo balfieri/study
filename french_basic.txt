@@ -1258,7 +1258,7 @@ riche
 poor
 pauvre
 
-fat; big
+fat; big; large
 gros; grosse
 
 thin; skinny
