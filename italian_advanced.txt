@@ -23665,7 +23665,7 @@ costituzionale
 cunning; sly; crafty
 furbo; ingegnoso
 
-sour
+sour; tart
 aspro
 
 acidic; sour
@@ -101966,4 +101966,10 @@ il fagiolo di soia
 
 hydrogenated
 idrogenato
+
+tartness; sourness; acidity
+l'asprezza; l'acidità
+
+crispness
+la croccantezza
 

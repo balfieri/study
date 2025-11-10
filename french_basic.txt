@@ -9441,9 +9441,6 @@ vouloir en savoir plus; s'intéresser à en apprendre davantage
 airline ticket; plane ticket
 le billet d’avion
 
-companion; pal
-le compagnon; le copain
-
 fiancé; serious boyfriend
 le fiancé; le petit ami sérieux
 
@@ -11898,3 +11895,17 @@ faites-moi savoir; préviens-moi
 it's very bad; it's very wrong
 c'est très mal
 
+more practice to
+plus pratiquer pour
+
+boyfriend; male partner
+le petit-ami
+
+girlfriend; female partner
+la petite-amie
+
+companion; partner; buddy; pal (male)
+le compagnon; le copain
+
+companion; partner; buddy; pal (female)
+la compagne; la copaine
