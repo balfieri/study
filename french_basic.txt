@@ -1216,7 +1216,7 @@ content
 sad
 triste
 
-strong
+strong; good (at doing); talented (like bravo in Italian)
 fort
 
 weak
@@ -1754,7 +1754,7 @@ while; whereas
 alors que; tandis que
 
 ok; that's fine; it's fine
-d’accord; ça va
+d’accord; ça va; ça marche; c'est bien; ok
 
 flight
 le vol
@@ -11885,3 +11885,10 @@ je n'ai jamais été là; je n'y suis jamais allé
 
 it doesn't mean that
 ça ne veut pas dire que; cela ne signifie pas que
+
+I'll show you
+je vais te montrer
+
+right here
+juste ici; ici même; ici
+
