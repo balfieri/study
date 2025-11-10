@@ -1750,3 +1750,5 @@ la douzaine
 to get old; to age; to grow old
 vieillir
 
+provisional
+provisoire

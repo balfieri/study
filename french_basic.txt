@@ -64,8 +64,8 @@ s'asseoir
 happy birthday
 joyeux anniversaire
 
-happiness
-bonheur
+sadness; unhappiness; gloominess; sorrow
+la tristesse
 
 raise your hand!
 levez la main!
@@ -11867,3 +11867,7 @@ je crains que les mots ne sortent pas
 
 domain; field
 le domaine
+
+temporary
+temporaire
+
