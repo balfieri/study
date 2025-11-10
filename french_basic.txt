@@ -11882,3 +11882,6 @@ y es-tu déjà allé?; est-ce que tu y es déjà allé?; y es-tu déjà allée?;
 
 I have never been there
 je n'ai jamais été là; je n'y suis jamais allé
+
+it doesn't mean that
+ça ne veut pas dire que; cela ne signifie pas que
