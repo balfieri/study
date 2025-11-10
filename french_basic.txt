@@ -11895,3 +11895,6 @@ juste ici; ici même; ici
 let me know; tell me; inform me
 faites-moi savoir; préviens-moi
 
+it's very bad; it's very wrong
+c'est très mal
+
