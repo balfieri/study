@@ -218,7 +218,10 @@ family; relatives
 la famille
 
 to embarrass
-gêner; embarrasser
+embarrasser
+
+to bother; to hinder; to disturb; to inconvenience
+gêner
 
 in particular
 en particulier
@@ -11871,3 +11874,5 @@ le domaine
 temporary
 temporaire
 
+what else?
+quoi d'autre?
