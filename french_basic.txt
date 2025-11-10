@@ -2581,8 +2581,8 @@ parce que
 because; for (formal)
 car
 
-furthermore; moreover
-de plus
+furthermore; moreover; besides
+de plus; en outre; par ailleurs
 
 likewise; also
 de même
@@ -11879,3 +11879,9 @@ same to you!
 
 it's ok; it's fine
 ça va; c'est bon; c'est pas grave; ce n'est rien
+
+have you ever been there?
+y es-tu déjà allé?; est-ce que tu y es déjà allé?; y es-tu déjà allée?; est-ce que tu y es déjà allée?
+
+I have never been there
+je n'ai jamais été là; je n'y suis jamais allé
