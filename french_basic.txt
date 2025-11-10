@@ -4321,8 +4321,8 @@ passer du temps avec
 golf
 le golf
 
-me included
-moi inclus
+myself included; including me; me included
+moi compris; moi y compris; y compris moi; moi inclus
 
 it fits well; it suits well
 cela va bien; cela convient bien
@@ -4439,7 +4439,7 @@ heat
 chaleur
 
 by now
-à l'heure actuelle
+désormais
 
 à ce point
 to this point; to that extent
@@ -11649,7 +11649,7 @@ le citron vert
 nothing for now, thanks
 rien pour l’instant, merci
 
-by now; at this point
+at this point
 à ce stade; à présent
 
 state; status (condition, state)
@@ -11877,3 +11877,8 @@ quoi d'autre?
 how's it going?; how are you?; how are things?
 comment ça va?; ça va?; comment vas-tu?
 
+same to you!
+à toi aussi!
+
+it's ok; it's fine
+ça va; c'est bon; c'est pas grave; ce n'est rien
