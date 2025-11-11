@@ -1912,6 +1912,9 @@ la réaction négative; le contrecoup
 you didn't tell me that (something)
 tu ne m'as pas dit que (quelche chose)
 
+you never said that (something)
+tu n’as jamais dit que (quelche chose)
+
 to label
 étiqueter
 
