@@ -1960,3 +1960,6 @@ teinter
 to paint (non-artistic, just the paint, or artistic)
 peindre
 
+snobbery
+le snobisme
+
