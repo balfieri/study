@@ -3187,8 +3187,8 @@ beau
 pretty
 joli
 
-weird; strange
-bizarre
+strange; weird
+étrange; bizarre
 
 thin; slim
 mince
@@ -11909,3 +11909,9 @@ le compagnon; le copain
 
 companion; partner; buddy; pal (female)
 la compagne; la copaine
+
+it's over; it's done
+c'est fini
+
+thanks for (something)
+merci pour (quelche chose)
