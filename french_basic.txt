@@ -1019,16 +1019,16 @@ west
 l'ouest
 
 northern
-septentrional; du nord
+septentrional; du nord; nordique
 
-southern
-méridional; du sud
+southern  
+méridional; du sud; austral; sudiste
 
 eastern
-oriental; de l'est
+oriental; d'est; à l'est; de l'est
 
 western
-occidental; de l'ouest
+occidental; de l'ouest; à l'ouest
 
 body
 le corps
