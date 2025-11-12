@@ -21982,9 +21982,6 @@ il pattinaggio sul ghiaccio
 tempering
 il temperaggio
 
-crunchiness
-la croccantezza
-
 split; crack
 lo spacco
 
@@ -40459,8 +40456,8 @@ dare un esame
 to give a test
 dare un test
 
-to test (someone)
-mettere alla prova (qualcuno)
+to test (someone); to challenge (somebody)
+mettere alla prova (qualcuno); mettere (qualcuno) alla prova
 
 to test (someone's) Italian
 testare l'italiano di (qualcuno)
@@ -101970,7 +101967,7 @@ idrogenato
 tartness; sourness; acidity
 l'asprezza; l'acidità
 
-crispness
+crunchiness; crispness
 la croccantezza
 
 stick figure; figurine
@@ -101978,4 +101975,10 @@ il pupazzetto
 
 shantytown; slum
 il baraccopoli
+
+middle rack (oven)
+la griglia centrale; il ripiano centrale
+
+shelf; level; terrace
+il ripiano
 

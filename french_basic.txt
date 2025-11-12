@@ -862,8 +862,8 @@ le client
 to become
 devenir
 
-sometimes
-parfois
+sometimes; at times
+parfois; quelchefois
 
 friendship
 l'amitié
@@ -4594,6 +4594,9 @@ téléphoner; appeler
 to chew
 mâcher
 
+to go out; to exit
+sortir
+
 to get out of; to go down
 sortir de; descendre
 
@@ -4907,7 +4910,7 @@ useful
 utile
 
 challenging
-difficile; stimulant
+prenant; difficile; stimulant
 
 to leave; to go away
 partir
@@ -6827,7 +6830,7 @@ cassé; brisé
 chosen
 choisi
 
-succeeded
+succeeded; successful
 réussi
 
 translated
@@ -6951,7 +6954,7 @@ wheel
 la roue
 
 cute
-mignon
+mignon; chou
 
 sweet (person)
 gentil; adorable
@@ -10350,6 +10353,9 @@ cet homme; cet homme-là
 to him
 lui
 
+to them
+leur
+
 to celebrate
 fêter
 
@@ -11912,3 +11918,37 @@ c'est fini
 
 thanks for (something)
 merci pour (quelche chose)
+
+good for you!; that's great for you!
+tant mieux pour toi!; bien pour toi!
+
+I know nothing about (something)
+je ne sais rien à propos de (quelque chose); j'en sais rien; je n'y connais rien
+
+according to; based on
+d'après
+
+to manage to; to succeed in
+arriver à
+
+to come from
+arriver de
+
+what do you want?
+tu veux quoi?
+
+to order
+commander
+
+various
+divers
+
+having run
+ayant couru
+
+having arrived
+étant arrivé
+
+pain
+la douleur
+
