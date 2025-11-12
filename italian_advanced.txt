@@ -102012,3 +102012,6 @@ ridurre la finestra; restringere la finestra
 well-suited; suitable; appropriate
 adatto; appropriato
 
+contacts list
+la lista contatti; l'elenco contatti
+
