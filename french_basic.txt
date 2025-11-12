@@ -8538,7 +8538,7 @@ la rencontre
 to kiss
 embrasser
 
-to calm; to calm down
+to calm; to calm down; to soothe
 calmer
 
 to calm oneself; to calm oneself down; to settle down (stop moving)
@@ -11954,4 +11954,7 @@ sur internet
 
 correct me!
 corrige-moi!
+
+calm; calmed (for a person or mood); soothed
+calmé
 

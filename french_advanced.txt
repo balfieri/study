@@ -2158,3 +2158,5 @@ la baraque
 vision; viewing
 la vision
 
+downpour; flood; stream; barrage; deluge
+le déluge
