@@ -1520,7 +1520,7 @@ the pleasure is all mine
 tout le plaisir est pour moi
 
 hazelnut
-le noisette
+la noisette
 
 chocolate chip
 le pépite de chocolat
@@ -11957,4 +11957,10 @@ corrige-moi!
 
 calm; calmed (for a person or mood); soothed
 calmé
+
+where is (some place)?
+où est (quelque endroit)?
+
+no thanks
+non merci; pas merci
 
