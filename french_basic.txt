@@ -9051,9 +9051,6 @@ le bord de mer; le littoral
 tiny
 minuscule; petit; très petit
 
-ailleur
-tailor
-
 enquête
 inquiry; investigation
 
@@ -10318,7 +10315,7 @@ global; overall
 global
 
 local
-local
+local; locau
 
 overall; in general
 en général
@@ -11093,9 +11090,6 @@ le truc; le machin
 
 to manage; to run; to operate; to handle  
 gérer; diriger; manipuler  
-
-vision  
-la vision  
 
 homemade; home-style (simple and traditional)  
 fait maison; traditionnel  
@@ -11951,4 +11945,13 @@ having arrived
 
 pain
 la douleur
+
+elsewhere; somewhere else
+ailleurs
+
+on the Internet
+sur internet
+
+correct me!
+corrige-moi!
 
