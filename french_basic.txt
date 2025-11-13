@@ -2665,7 +2665,7 @@ avec
 without
 sans
 
-against
+against; versus
 contre
 
 under; beneath
@@ -4234,8 +4234,8 @@ foreign
 to hate
 détester; haïr
 
-to grow up
-grandir
+to push; to grow; to encourage; to urge; to prompt
+pousser
 
 remark; comment
 la remarque
@@ -4602,9 +4602,6 @@ sortir de; descendre
 
 to get in
 monter dans
-
-to push
-pousser
 
 discount
 la remise; la réduction
@@ -9378,7 +9375,7 @@ le pouce
 to teach a class; to do a lesson; to lecture
 faire la classe; donner un cours; faire un cours; enseigner
 
-lie (untruth)
+lie; untruth
 le mensonge
 
 big lie
@@ -11963,4 +11960,19 @@ où est (quelque endroit)?
 
 no thanks
 non merci; pas merci
+
+stressful
+stressant
+
+boring; annoying
+ennuyant
+
+on the one hand
+d'une part
+
+which way is it?
+c'est par où?
+
+it took 5 hours to get there
+ça a pris 5 heures pour y arriver
 
