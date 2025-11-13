@@ -31,7 +31,13 @@ what happens during an instrument proficiency check (IPC)
 no ground work, but flight covers same things as in an instrument check ride; some tasks may be completed in an AATD
 
 VOT on ground
-need to be on 360 radial, plus or minus 4 degrees 180 TO or 360 FROM
+need to be on 360 radial, plus or minus 4 degrees 180 TO or 360 FROM; use published VOT frequency; default frequency is 108.0
+
+VOR ground checkpoint
+at a particular location on the ground, plus or minus 4 degrees from the published radial
+
+VOR airborne check
+over designated checkpoint listed in chart supplement over easily identifiable terrain or ground features or along a VOR radial on an airway centerline over identifiable ground point, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees between two indicated bearings to the VOR
 
 how to check on the proper automated approach
 ensure glide slope needle frozen in the center
@@ -62,9 +68,6 @@ VOR MON coverage is nationwide at an altitude of
 
 VOR deflection
 1 mile per degree from 60 miles out
-
-VOR airborne check
-over designated checkpoint listed in chart supplement over easily identifiable terrain or ground features or along a VOR radial on an airway centerline over identifiable ground point, plus or minus 6 degrees with one VOR; with dual independent VOR units, plus or minus 4 degrees between two indicated bearings to the VOR
 
 VFR waypoints 
 may never be used on an IFR flight plan
@@ -1395,9 +1398,6 @@ when does registration expire
 preferred IFR route
 minimizes route changes during clearance, which reduces workload for everybody
 
-default frequency for a VOR VOT?
-108.0
-
 using the alternate static port causes
 altimeter to read higher, airspeed to read higher, and VSI to momentarily record a climb; the cabin pressure is lower
 
@@ -1586,14 +1586,14 @@ snow showers
 TAF BLSN
 blowing snow
 
-if VOT is present, it will specify
-the frequency and indicate where on the airfield it can be used, such as a specific ramp or taxiway location
-
 according to 14 CFR 91.185, when reaching a clearance limit during lost communications:
 1) If the clearance limit is a fix from which an approach begins, commence descent and approach as close as possible to the expect-further-clearance (EFC) time if one was received, or if there was no EFC time, as close as possible to the estimated time of arrival (ETA) from the filed or amended estimated time en route. 2) If the clearance limit is not a fix from which an approach begins, leave the clearance limit at the EFC time if one was received, or if not, upon arrival at the clearance limit. Then proceed to a fix from which an approach begins and commence descent and approach as close as possible to the ETA from the filed or amended flight plan; see 91.185 for details
 
 an authorized instructor may log instrument flight when 
 conducting instrument flight instruction in actual instrument conditions
+
+actual instrument conditions
+when outside weather conditions require you to fly soley by reference to your aircraft's instruments because you cannot maintain visual contact with the ground or horizon
 
 VDMONA acronym for compass errors
 V: variation; D: deviation (interference); M: magnetic dip; O: oscillation; N: UNOS; A: ANDS
@@ -2164,3 +2164,18 @@ before the final approach fix, it's ok to make up to 7-10 degrees of change; aft
 
 if you go full-scale deflection on the approach
 you must immediately go missed
+
+ranges for ILS localizer and glide slope
+localizer: 18 nautical miles and within 10 degrees of centerline; glide slope: 10 nautical miles
+
+how much to level out above DA or MDA during check ride
+30 to 40 feet
+
+LPV vs. LNAV/VNAV precision
+LPV: 200 feet AGL, 1/2 mile visibility, 700 feet course width at threshold; LNAV/VNAV: 250 to 400 feet AGL, linear course width throughout
+
+new MOSAIC rules
+weight limits removed, up to 4 seats, maximum stall speed of 61 knots, maximum speed of 250 knots, broader aircraft types, retractable landing gear, constant-speed propellers, night flights, must have a non-pressurized cabin, should be able to glide when engine out
+
+elevator illusion
+feeling of pitching up or down during upgraft or downdraft
