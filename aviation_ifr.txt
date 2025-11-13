@@ -27,8 +27,8 @@ undershoot turn to or from north, overshoot turn to or from south
 6HIT acronym for IFR currency
 in the prior 6 calendar months (prior to current month), the pilot must perform 6 instrument approaches, hold (at least one), intercepting fixes, and tracking courses; otherwise, if 12 months pass, the pilot must get an Instrument Proficiency Check (IPC) from a CFII
 
-what happens during an instrument proficiency check (IPC)
-no ground work, but flight covers same things as in an instrument check ride; some tasks may be completed in an AATD
+what happens during an instrument proficiency check (IPC) as dictated by CFR 61.57d
+no ground work, but flight covers representative number of tasks required by an instrument check ride practical test; some tasks may be completed in an AATD; must be completed by a CFII, examiner, or check airman; must be performed in an aircraft appropriate for the class
 
 VOT on ground
 need to be on 360 radial, plus or minus 4 degrees 180 TO or 360 FROM; use published VOT frequency; default frequency is 108.0
@@ -1545,7 +1545,7 @@ When an approach plate says DME/DME RNP-0.3 NA, it means that
 aircraft relying solely on DME/DME area navigation systems to meet a Required Navigation Performance (RNP) of 0.3 nautical miles are not authorized to conduct this approach.
 
 When rolling out to a north or south heading, specifically you should roll out
-at your latitude plus or minus 15 divided by 2; for Sanford, this is 35.5 + 7.5, or 43 degrees, before north or after south
+at your latitude plus the bank angle (15 for standard rate at 90 knots) divided by 2; for Sanford, this thus is 35.5 + 7.5, or 43 degrees, before north or after south
 
 TAF HZ
 haze
@@ -2179,3 +2179,57 @@ weight limits removed, up to 4 seats, maximum stall speed of 61 knots, maximum s
 
 elevator illusion
 feeling of pitching up or down during upgraft or downdraft
+
+magnetic dip occurs because
+Earth's magnectic flux lines are not parallel to the surface except at the equator; instead, they incline downward toward the Earth in the northern hemisphere; a compass needle in the northern hemisphere will tilt downard; this cases errors when in a bank
+
+where can IFR preferred routes be found
+FAA preferred routes database, charts supplements, Foreflight, FlightAware
+
+TORA
+take-off runway available from ground release to point of liftoff
+
+TODA
+TORA plus length of any clearway (free of obstacles)
+
+ASDA 
+accelerate-stop distance available, which is TORA + length of any stopway
+
+LDA 
+landing distance available, from landing threshold to end of runway (excluding displaced threshold)
+
+landing distances that should be calculated prior to checkride
+TORA, TODA, ASDA, LDA, then compared with performance data of the aircraft
+
+ATC may assign vectors and altitudes only
+within controlled airspace
+
+standard altitudes to fly
+below 18,000 feet or uncontrolled airspace: odd and even thousands of feet; above 18,000 feet: use odd and even flight livels like FL180; above FL290, there are 4000 feet differences
+
+mode C transponder is required
+at or above 10000 feet MSL over 48 contiguous states or DC excluding airspace below 2500 AGL, within 30 miles of class B primary airport, within and above all class C airspace up to 10000 feet MSL, within 10 miles of certain designated airports excluding outside class D surface area and below 1200 AGL, ADIZs
+
+when a transponder is required
+must have ADSB-out, including mode C
+
+difference between part 91 and commercial landing visibility requirements
+part 91: must have required flight visibility; commercial: must have reported visibility before reaching final approach fix
+
+when can you transition from IFR to VFR flight plan?
+when in basic VFR conditions
+
+when can you use VFR for an alternate
+when you can descend from an MEA in basic VFR conditions all the way to the landing
+
+after your void time, how long until search and rescue operation begin?
+30 minutes
+
+the contact time applies only if
+you do not depart
+
+when you should get your clearance on the ground
+when you are not sure you will be able to stay in VMC before getting it in the air
+
+MVA
+minimum vectoring altitude is lowest altitude at which ATC can vector IFR aircraft while providing standard obstacle and terrain clearance; determined by sector; in some locations, may be lower than published MEAs or MOCAs; MVAs are not provided MVA charts, but must comply
