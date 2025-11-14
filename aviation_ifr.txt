@@ -1,22 +1,22 @@
 # aviation_ifr.txt - instrument pilot written exam and checkride questions (focusing on ones I had problems with)
 #
 SPARROW acronym for required aircraft documents
-Supplements, Placards, Airworthiness certificate; Registration; Radio license (when operating outside the U.S.); Operator's handbook; Weight and balance (use the version updated by the mechanic)
+S: Supplements; P: Placards; A: Airworthiness certificate; R: Registration; R: Radio license (when operating outside the U.S.); O: Operator's handbook; W: Weight and balance (use the version updated by the mechanic)
 
 30FTDUC acronym to remember when registration is no longer valid
-30 - 30 days after death of holder; F - foreign registry; T - transfer of ownership; D - destroyed; U - USA citizenship revoked; C - canceled for another reason
+30: 30 days after death of holder; F: foreign registry; T: transfer of ownership; D: destroyed; U: USA citizenship revoked; C: canceled for another reason
 
 AV1ATES acronym for required inspections
-Annual and ADs; VOR (30 days, IFR only); 100-hour (if aircraft is for hire); Altimeter (24 months, IFR only); Transponder (24 months); ELT (12 months or half Battery or 1 Hour of Cumulative Use); Static system (24 months, IFR only)
+A: Annual and ADs; V: VOR (30 days, IFR only); 1: 100-hour (if aircraft is for hire); A: Altimeter (24 months, IFR only); T: Transponder (24 months); E: ELT (12 months or half battery or 1 Hour of cumulative use); S: Static system (24 months, IFR only)
 
 ATOMATO FLAMES acronym for equipment required for VFR
-Altimeter (need not be pressure-sensitive); Tachometer (for each engine); Oil pressure (for each engine using a pressure system); Manifold pressure (for each altitude engine); Airspeed indicator; Temperature gauge (for each liquid-cooled engine); Oil temperature gauge (for each air-cooled engine); Fuel gauge (for each tank); Landing gear position indicator; Anticollision lights (aircraft registered after March 11, 1996); Magnetic compass; ELT (unless staying within 50 miles of source); Seatbelts (in occupied seats, harnesses for crew members)
+A:Altimeter (need not be pressure-sensitive); T: Tachometer (for each engine); O: Oil pressure (for each engine using a pressure system); M: Manifold pressure (for each altitude engine); A: Airspeed indicator; T: Temperature gauge (for each liquid-cooled engine); O: Oil temperature gauge (for each air-cooled engine); F: Fuel gauge (for each tank); L: Landing gear position indicator; A: Anticollision lights (aircraft registered after March 11, 1996); M: Magnetic compass; E: ELT (unless staying within 50 miles of source); S: Seatbelts (in occupied seats, harnesses for crew members)
 
 FLAPS acronym for additional equipment required at night for VFR
-Fuses unless uses circuit breakers (one complete set or 3 of each kind); Landing light (only when for hire); Anti-collision lights (for aircraft registered after Aug 11, 1971); Position (nav) lights; Source of electricity (alternator, generator)
+F: Fuses unless uses circuit breakers (one complete set or 3 of each kind); L: Landing light (only when for hire); A: Anti-collision lights (for aircraft registered after Aug 11, 1971); P: Position (nav) lights; S: Source of electricity (alternator, generator)
 
 GRABCARDD acronym for additional equipment required for IFR
-Generator/alternator; Radio/navigation appropriate for flight; Attitude indicator; Ball; Clock with hours, minutes, seconds; Altimeter (pressure-sensitive); Rate of turn indicator; Directional gyroscope or HSI; DME at or above 24,000 feet if VOR required (may substitute GPS)
+G: Generator/alternator; R: Radio/navigation appropriate for flight; A: Attitude indicator; B: Ball; C: Clock with hours, minutes, seconds; A: Altimeter (pressure-sensitive); R: Rate of turn indicator; D: Directional gyroscope or HSI; D: DME at or above 24,000 feet if VOR required (may substitute GPS)
 
 ANDS
 WEST EAST: accelerate causes deflection toward north, decelerate toward south; note that a steady turn from east or west does cause compass to overshoot or undershoot
@@ -1120,7 +1120,7 @@ the FAA currently accepts different kinds of approaches to mean
 approaches with different minimums, not necessarily using different navigation systems
 
 PTAC acronym for ATC approach clearances
-Position: your position relative to a fix or approach segment; Turn: heading you should fly next; Altitude: altitude to maintain until established; Clearance: actual approach clearance
+P: Position: your position relative to a fix or approach segment; T: Turn: heading you should fly next; A: Altitude: altitude to maintain until established; C: Clearance: actual approach clearance
 
 when ATC says to maintain altitude until established, this means
 established on any published segment'feeder route, initial approach segment, intermediate segment, or final approach segment
@@ -1408,7 +1408,7 @@ when position reports are also required when
 1) passing over each reporting point in a flight point; 2) requested by ATC; 2) vacating an altitude; 3) reaching or leaving a holding fix; 4) changing altitude when VFR-on-Top; 5) initiating a missed approach; 6) TAS changes by 10 knots or 5%; 7) unable to maintain a 500 foot-per-minute climb; 8) safety issue; 9) weather different than forecast; 10) equipment malfuncion
 
 kinds of NOTAMs
-(D) - info that requires wide dissemination pertaining to nav aids, civic public-use airports, facilities, services, and procedures; FDC - flight info that is regulatory in nature, including changes to IFR charts, procedures, and airspace usage; pointer - issued by an FSS to point to another NOTAM; SAA - issued when special advisory airspace will be active outside published schedule times; military - pertain to U.S. armed forces nav aids/airports that are part of the NAS
+D: info that requires wide dissemination pertaining to nav aids, civic public-use airports, facilities, services, and procedures; FDC: flight info that is regulatory in nature, including changes to IFR charts, procedures, and airspace usage; Pointer: issued by an FSS to point to another NOTAM; SAA: issued when special advisory airspace will be active outside published schedule times; Military: pertain to U.S. armed forces nav aids/airports that are part of the NAS
 
 SIGMETs
 convective; severe icing; severe turbulence; IMC due to dust/sand/volcanic ash
@@ -1450,7 +1450,7 @@ Visual Climb Over Airport (VCOA)
 IFR departure procedure that allows a pilot to climb visually in specified VMC conditions by circling over the airport to a published altitude prior to proceeding en route; obstacles are beyond 3 statute miles from the airport
 
 lost comms AVEF MEA acronym
-A - assigned, V - vectored, E - expected, F - filed; M - miminum IFR altitude for operations for the segment (MEA, MOCA, OROCA), E - expected, A - assigned; so AVEF is for the route and MEA is for the altitude
+A: assigned; V: vectored; E: expected; F: filed; M: miminum IFR altitude for operations for the segment (MEA, MOCA, OROCA); E: expected; A: assigned; so AVEF is for the route and MEA is for the altitude
 
 DVFR flight plan
 special VFR flight plan required while penetrating or flying within an Air Defense Identification Zone (ADIZ), such as crossing into U.S. airspace from abroad or near certain sensitive boundaries
@@ -1773,13 +1773,13 @@ types of hypoxia
 hypoxic (lungs), hypemic (blood), histotoxic (cells), stagnant (circulation)
 
 ICEFLAGS acronym for in-flight illusions
-I: inversion, C: coriolis, E: elevator, F: false horizon, L: leans, A: autokinesis, G: graveyard spiral, S: somatogravic
+I: inversion; C: coriolis; E: elevator; F: false horizon; L: leans; A: autokinesis; G: graveyard spiral; S: somatogravic
 
 RAIIM acronym for hazardous attitudes
-R: resignation, A: antiathority, I: impulsivity, I: invulnerability, M: macho
+R: resignation; A: antiathority; I: impulsivity; I: invulnerability; M: macho
 
 PAVE acronym for risk mitigation
-P: pilot ready, A: aircraft airworthy, V: environment (weather, terrain, runways), E: external pressures
+P: pilot ready; A: aircraft airworthy; V: environment (weather, terrain, runways); E: external pressures
 
 PPPPP acronym for risk mitigation
 pilot, passengers, plane, programming, plan

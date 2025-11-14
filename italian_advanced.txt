@@ -51124,9 +51124,6 @@ calcinaccio
 so very much
 talemente tanto
 
-to lose track of time
-perdere la cognizione del tempo
-
 let's indeed say; let's just say
 lasciateci pure dire
 
@@ -101737,7 +101734,7 @@ urologist
 l'urologo; l'urologa
 
 child abuse
-l'abuso su minori
+l'abuso minorile; l'abuso sui minori; la violenza su minori; l'abuso su minori
 
 to get to the bottom of; to figure out; to investigate deeply
 andare fino in fondo; capire; indagare a fondo
@@ -102078,9 +102075,6 @@ rigirato
 caliphate
 il califfato
 
-to keep away
-tenere lontano
-
 to stay away
 tenersi lontani
 
@@ -102092,3 +102086,28 @@ il cicchetto
 
 related word; similar word; cognate
 la parola affine; il termine affine; la parola con la stessa etimologia
+
+to purge emails
+cancellare email; eliminare email; rimuovere email; epurare le email
+
+to purge; to cleanse; to purify; to clean
+epurare
+
+vertical integration
+l'integrazione verticale
+
+horizontal integration
+l'integrazione orizontale
+
+suture
+la sutura
+
+to suture; to stitch
+suturare
+
+to lose track of time; to lose a sense of time
+perdere la cognizione del tempo
+
+linguistic affinity
+l'affinità linguistica
+
