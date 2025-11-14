@@ -57902,9 +57902,6 @@ l'autoaffermazione
 to lean towards
 propendere
 
-cornerstone
-il caposaldo
-
 to become familiar with (something)
 diventare familiari con (qualcosa)
 
@@ -102054,6 +102051,12 @@ affettato
 saucy; cheeky; impertinent
 sfacciato; impertinente
 
-benchmark; stronghold; strongpoint; bridgehead; foundation
+benchmark; stronghold; strongpoint; bridgehead; foundation; cornerstone
 il caposaldo
+
+theme park
+il parco a tema
+
+shopping bag
+la borsa della spesa; il sacchetto per la spesa
 
