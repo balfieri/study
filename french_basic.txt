@@ -116,7 +116,10 @@ next
 prochaine
 
 wife
-la femme; l'épouse
+la femme
+
+spouse
+l'épouse
 
 to move (house)
 déménager; se installer
@@ -2092,8 +2095,8 @@ le voisin
 what's new?
 quoi de neuf?
 
-to be retired
-être à la retraite
+retired
+à la retraite
 
 and even; and also
 et même
@@ -3530,7 +3533,7 @@ without you
 sans toi
 
 I can't wait to see you again
-avoir hâte de te revoir
+j'ai hâte de te revoir
 
 to not want to hear
 ne vouloir entendre pas
@@ -5706,9 +5709,6 @@ l'oiseau
 
 bee
 l'abeille
-
-sheep
-le mouton
 
 calf; veal
 le veau
@@ -9843,8 +9843,11 @@ express
 espresso
 l'expresso
 
-decision; call
-la décision; l'appel
+decision
+la décision
+
+call
+l'appel
 
 initial
 initial
@@ -11975,4 +11978,46 @@ c'est par où?
 
 it took 5 hours to get there
 ça a pris 5 heures pour y arriver
+
+telephone call  
+l'appel téléphonique  
+
+fish  
+le poisson  
+
+to miss (appointment, exam); to fail  
+rater  
+
+missed; failed  
+raté  
+
+to click  
+cliquer  
+
+something new  
+quelque chose de nouveau  
+
+last year  
+l’an dernier  
+
+not good
+pas bon  
+
+to go for a walk  
+se promener  
+
+alcohol  
+l'alcool  
+
+cola  
+la cola  
+
+specialty; speciality  
+la spécialité  
+
+yes, I remember that  
+oui, je me souviens de ça  
+
+two years from now  
+dans deux ans  
 
