@@ -3601,8 +3601,8 @@ portoghese
 French
 francese
 
-grocery store
-il negozio di alimentari; la drogheria
+grocery store; food store
+il negozio di alimentari; la drogheria; il negozio di generi alimentari
 
 supermarket
 il supermercato
