@@ -9012,9 +9012,6 @@ pas (adjectif)
 not true!
 pas vrai!
 
-waterfall
-cascade
-
 synonym
 synonyme
 
@@ -9189,8 +9186,11 @@ l'aide; l'assistance; le secours
 filling; stuffing (food)
 la farce; la garniture
 
-to fill; to fill out; to top off
-remplir; compléter; garnir
+to fill
+remplir
+
+to complete; to fill out
+compléter
 
 to widen; to enlarge
 élargir; agrandir
