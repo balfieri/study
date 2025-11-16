@@ -102183,3 +102183,8 @@ la biomassa
 wheezing; wheeze
 il respiro affannoso; l'ansimare; il rantolio; il sibilo; il wheezing
 
+bartending
+il bartending
+
+to bartend
+fare il barista; lavorare come barista
