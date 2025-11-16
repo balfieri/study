@@ -79,7 +79,7 @@ noir
 enjoy your meal!
 bon appetit!
 
-house
+house (physical structure)
 la maison
 
 to be scared; to be afraid
@@ -3747,9 +3747,6 @@ parle-moi
 
 go away
 va-t'en
-
-clean the table
-nettoie la table
 
 kiss me
 embrasse-moi
@@ -9937,7 +9934,7 @@ castle
 le château
 
 double; dual; twofold
-double; double; double
+double
 
 intention; intent; purpose
 l'intention; le but
@@ -10323,8 +10320,8 @@ en général
 what is the difference between (thing) and (other thing)?
 quelle est la différence entre (chose) et (autre chose) ?
 
-success; achievement
-succès
+success; achievement; hit
+le succès
 
 easy; comfortable; effortless; wealthy; well-off
 aisé
@@ -11729,9 +11726,6 @@ to be done by (somebody)
 
 to taste good  
 être bon; avoir bon goût  
-
-success; hit  
-le succès  
 
 good weather  
 le beau temps  
