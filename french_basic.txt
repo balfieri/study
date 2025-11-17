@@ -8887,7 +8887,7 @@ tradition
 la tradition
 
 occasion
-occasion
+l'occasion
 
 construction; construct
 la construction
