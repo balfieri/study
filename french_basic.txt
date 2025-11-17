@@ -6522,7 +6522,7 @@ to master
 maîtriser
 
 anyway; in any case
-en tout cas; de toute façon
+en tout cas; de toute façon; de toute manière
 
 comment
 le commentaire
@@ -12044,3 +12044,7 @@ comme tu le sais; comme tu sais
 
 I forgot to ask you
 J'ai oublié de te demander
+
+I can't believe (that) 
+je n'arrive pas à croire que
+
