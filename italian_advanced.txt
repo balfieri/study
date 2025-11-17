@@ -25595,7 +25595,7 @@ transfer (financial)
 il bonifico
 
 originally
-originariamente
+originariamente; originalmente
 
 formed
 formato

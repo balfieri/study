@@ -287,7 +287,7 @@ at the very beginning
 tout au début
 
 at first; initially; at the beginning; to begin with; to start with; in the beginning
-au début
+au début; initialemente
 
 vowel
 la voyelle
@@ -12026,9 +12026,6 @@ at 9 in the morning
 
 isn't it?; right?; no?
 n’est-ce pas?
-
-initially
-initialement
 
 to bring; to take
 emmèner
