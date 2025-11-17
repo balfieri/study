@@ -6699,7 +6699,7 @@ thing; gizmo
 le truc
 
 tutor
-le tuteur
+le tuteur; la tutrice
 
 to steal
 voler
@@ -12020,4 +12020,19 @@ environ 7 ans
 
 (something done) by (someone)
 (quelque chose fait) par (quelqu'un)
+
+at 9 in the morning
+à 9 heures du matin
+
+isn't it?; right?; no?
+n’est-ce pas?
+
+initially
+initialement
+
+to bring; to take
+emmèner
+
+recently
+récemment
 
