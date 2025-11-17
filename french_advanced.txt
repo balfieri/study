@@ -146,7 +146,7 @@ to feign
 feindre
 
 bacon bits
-le lardon
+le lardon; les lardons
 
 while heating
 en chauffant
@@ -2814,4 +2814,31 @@ il medicante
 
 to mix
 mélanger
+
+portion size
+la taille de portion; la portion; la taille de la portion
+
+size; height; waist; stature
+la taille
+
+among other things
+entre autres choses; entre autres
+
+reliable; dependable; trustworthy; accurate; safe; trusty
+fiable
+
+so that I can; so that I may
+pour que je puisse
+
+Poland
+la Pologne
+
+Battle of the Bulge
+la bataille des ardennes
+
+capers
+les câpres
+
+and, yet
+et pourtant
 

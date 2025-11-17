@@ -1549,10 +1549,10 @@ la manière
 so many
 tant de
 
-much; plenty of
-beaucoup de
+a lot of; much; plenty of
+beaucoup de (choses)
 
-many
+many; a lot
 beaucoup
 
 light
@@ -1682,7 +1682,7 @@ to stop (oneself)
 s’arrêter
 
 bus
-le bus
+le bus; l'autobus
 
 tip (bill)
 le pourboire
@@ -2920,7 +2920,7 @@ exister
 to look for; to search
 chercher
 
-to move (physically)
+to move (physically, often without changing location)
 bouger
 
 to break
@@ -12036,3 +12036,11 @@ emmèner
 recently
 récemment
 
+remind me
+rappelle-moi
+
+as you know
+comme tu le sais; comme tu sais
+
+I forgot to ask you
+J'ai oublié de te demander
