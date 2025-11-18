@@ -9952,7 +9952,7 @@ l'espiatorio
 to be framed
 essere incastrati
 
-set up; framed
+stuck; jammed; set up; framed
 incastrato
 
 marathon
@@ -86073,7 +86073,7 @@ volgente
 unfolding; developing
 svolgente
 
-body double; doppelganger; look-alike
+body double; doppelgänger; look-alike
 la controfigura; il sosia; la sosia
 
 to mock oneself; to make fun of oneself
@@ -102216,3 +102216,20 @@ non ci posso credere che; non riesco a credere che
 it seems like only yesterday
 sembra ieri; sembra solo ieri; mi sembra solo ieri
 
+not funny at all; not a joke; not exactly a laughing matter; no laughing matter
+mica da ridere
+
+to ground aircraft; to keep aircraft on the ground
+impedire il decollo degli aerei; tenere gli aerei a terra
+
+discount policy; discounting (referring to pricing/discounts)
+la scontistica
+
+not a small thing; not insignificant; nothing trivial
+mica da poco
+
+not insignificant; not nothing; no small matter
+mica da nulla
+
+not to be thrown away; not worthless
+mica da buttare via

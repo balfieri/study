@@ -962,7 +962,7 @@ to destroy
 détruire
 
 glasses
-les lunettes
+les lunettes; les lunettes du vu
 
 sunglasses
 les lunettes de soleil
@@ -4363,7 +4363,7 @@ la chemise
 dress
 la robe
 
-suit
+suit; costume
 le costume
 
 to wear a shirt
@@ -6683,7 +6683,7 @@ précisément; justement
 than before
 qu'avant
 
-totally; clearly; downright
+totally; clearly; downright; completely
 carrément
 
 greek
@@ -12044,4 +12044,25 @@ J'ai oublié de te demander
 
 I can't believe (that) 
 je n'arrive pas à croire que
+
+I love you
+je t'aime
+
+I like you
+je t’aime bien
+
+I like you a lot; I like you very much
+je t’aime beaucoup
+
+you are nice; you're friendly
+tu es sympa
+
+it's much easier
+c’est beaucoup plus facile
+
+exactly the same
+exactement le même; exactement la même chose
+
+per day
+par jour
 
