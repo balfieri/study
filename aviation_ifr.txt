@@ -2184,7 +2184,7 @@ magnetic dip occurs because
 Earth's magnectic flux lines are not parallel to the surface except at the equator; instead, they incline downward toward the Earth in the northern hemisphere; a compass needle in the northern hemisphere will tilt downard; this cases errors when in a bank
 
 where can IFR preferred routes be found
-FAA preferred routes database, charts supplements, Foreflight, FlightAware
+chart supplements, FAA preferred routes database
 
 TORA
 take-off runway available from ground release to point of liftoff
@@ -2233,3 +2233,18 @@ when you are not sure you will be able to stay in VMC before getting it in the a
 
 MVA
 minimum vectoring altitude is lowest altitude at which ATC can vector IFR aircraft while providing standard obstacle and terrain clearance; determined by sector; in some locations, may be lower than published MEAs or MOCAs; MVAs are not provided MVA charts, but must comply
+
+0.5 to 1 mile before each waypoint on an approach
+start doing what comes next: identify nav aids, arm approach mode on autopilot, set next altitude bug, pre-landing checklist, radio calls
+
+do not break off and start circling until
+you can see the runway environment; during check ride, this means the examiner tells you to take off your hood; otherwise fly to the missed approach point and begin the missed approach
+
+once autopilot approach mode is engaged and on the glide slope
+monitor speed closely and also monitor that autopilot remains engaged
+
+during the final segment of the approach
+sensitivity increases greatly, so be sure to make very small changes to get back on course of the approach
+
+in the 172, when capturing the current altitude
+do not change the altitude bug, otherwise you'll need to fight with VS mode
