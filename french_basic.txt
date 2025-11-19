@@ -1348,9 +1348,6 @@ impulsif
 adventurous
 aventureux
 
-annoying
-pénible
-
 lonely; solitary
 solitaire
 
@@ -3065,7 +3062,7 @@ eggs
 les œufs
 
 new
-nouveau
+nouveau; nouvel
 
 empty
 vide
@@ -4553,7 +4550,7 @@ those; those ones
 ceux-là; celles-là
 
 central market
-marché central
+le marché central
 
 leather
 le cuir
@@ -4829,7 +4826,7 @@ cut
 la coupure
 
 piece
-morceau; pièce
+le morceau; la pièce
 
 gift; present
 le cadeau
@@ -7206,7 +7203,7 @@ to annoy
 ennuyer; agacer; déranger
 
 annoying
-agaçant; énervant; embêtant
+agaçant; énervant; embêtant; pénible
 
 trivial
 anodin; banal; insignifiant
@@ -11961,8 +11958,8 @@ non merci; pas merci
 stressful
 stressant
 
-boring; annoying
-ennuyant
+boring; annoying; tiresome
+ennuyant; chiant
 
 on the one hand
 d'une part
@@ -12065,4 +12062,16 @@ exactement le même; exactement la même chose
 
 per day
 par jour
+
+inside
+dedan
+
+to have nothing
+n'avoir rien
+
+as of today; to date
+à ce jour
+
+yeah; yep
+ouais
 
