@@ -3460,8 +3460,8 @@ quelle chance!
 not at all
 pas du tout
 
-are you kidding?
-tu plaisantes?
+are you kidding?; are you joking?
+tu plaisantes?; tu rigoles?
 
 calm down!
 calme-toi!
@@ -6752,9 +6752,6 @@ absolument
 obviously; evidently
 évidemment
 
-to save (money); to put aside
-épargner
-
 England
 l'Angleterre
 
@@ -7401,7 +7398,7 @@ take-away
 à emporter
 
 noon; midday
-midi
+la midi
 
 zero
 zéro
@@ -12075,3 +12072,32 @@ as of today; to date
 yeah; yep
 ouais
 
+another time
+à une autre fois
+
+no worries; no problem
+pas de souci
+
+really?; is that so?
+ah bon?
+
+oh dear; oh my; wow
+oh là là
+
+vegetarian
+végétarien
+
+challenging
+difficile; exigeant
+
+it's time for
+c'est l'heure de; il est temps de
+
+think about it!
+réfléchis-y !; pense-y !
+
+to save (spend less)
+économiser
+
+to save (bank); to put aside
+épargner
