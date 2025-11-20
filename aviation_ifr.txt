@@ -2248,3 +2248,6 @@ sensitivity increases greatly, so be sure to make very small changes to get back
 
 in the 172, when capturing the current altitude
 do not change the altitude bug, otherwise you'll need to fight with VS mode
+
+on the final leg, the glide slope is very sensitive, so
+make smaller and more immediate changes in descent rate by changing attitude by 1 degree; speed will not change that much
