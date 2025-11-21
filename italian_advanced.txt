@@ -78846,7 +78846,7 @@ truccare le elezioni
 to trick; to rig
 truccare
 
-to look out for (something); to be careful of (something); to watch out for (something); to mind (something)
+to look out for (something); to be careful of (something); to watch out for (something); to mind (something); to keep an eye on (something)
 fare attenzione a (qualcosa); occhio a (qualcosa)
 
 to do harm
@@ -102347,3 +102347,16 @@ il nocciolo; il nucleo; il kernel (informatica)
 
 what do we have to lose?
 cosa abbiamo da perdere?
+
+paladin; champion; defender
+il paladino
+
+anti-pickpocket; anti-pickpocketing
+l'antiborseggiatore
+
+petty crime; minor crime
+la microcriminalità
+
+unscrupulous; without scruples
+senza scrupoli
+
