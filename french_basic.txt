@@ -908,7 +908,7 @@ pasta
 les pâtes; la pasta
 
 sauce
-le sauce
+la sauce
 
 to manage; to handle
 gérer
@@ -1992,9 +1992,6 @@ le champignon
 
 to cook
 cuire
-
-to sauté
-sauter à la poêle
 
 example
 l'exemple
@@ -4670,7 +4667,7 @@ to send (package, letter)
 expédier; envoyer
 
 meat sauce
-le sauce viande; le sauce à la viande
+la sauce viande; la sauce à la viande
 
 cream
 la crème
@@ -11184,7 +11181,7 @@ imprimer; tamponner
 versus
 versus
 
-to suffice; to be enough
+to suffice; to be enough; to be sufficient
 suffire
 
 violent
