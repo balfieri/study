@@ -92685,9 +92685,6 @@ l'AI sovrana
 elusive
 elusivo
 
-to get diminishing returns
-ottenere rendimenti decrescenti
-
 longshot
 la scommessa rischiosa; la possibilità remota
 
@@ -102378,3 +102375,8 @@ intransigente
 EEG; electroencephalogram
 l'elettroencefalogramma
 
+to get diminishing results
+ottenere risultati decrescenti; ottenere rendimenti decrescenti
+
+felonious
+felonioso; criminale

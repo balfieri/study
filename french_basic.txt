@@ -11838,7 +11838,7 @@ misère!
 I fear that the words won't come out
 je crains que les mots ne sortent pas
 
-domain; field
+domain; field; area (study)
 le domaine
 
 temporary
@@ -12101,3 +12101,10 @@ to save (bank); to put aside
 
 great; awesome; fantastic
 très beau; magnifique; splendide; superbe
+
+a year and a half
+un an et demi
+
+to be on vacation; to be on holiday
+être en vacances
+
