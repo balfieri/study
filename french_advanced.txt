@@ -1574,7 +1574,7 @@ to whip
 fouetter  
 
 about to do (something)
-sur le point de faire (quelche chose)
+sur le point de faire (quelque chose)
 
 marked; significant  
 marqué  
@@ -1883,10 +1883,10 @@ research paper
 le papier de recherche; l'article de recherche
 
 to force (something); to impose (something)
-imposer (quelche chose)
+imposer (quelque chose)
 
 I would rather (do something)
-je préférerais (faire quelche chose)
+je préférerais (faire quelque chose)
 
 plain
 nature; simple
@@ -1910,10 +1910,10 @@ backlash
 la réaction négative; le contrecoup
 
 you didn't tell me that (something)
-tu ne m'as pas dit que (quelche chose)
+tu ne m'as pas dit que (quelque chose)
 
 you never said that (something)
-tu n’as jamais dit que (quelche chose)
+tu n’as jamais dit que (quelque chose)
 
 to label
 étiqueter
@@ -2318,7 +2318,7 @@ tortured
 torturé
 
 I bet you can't wait to (something)
-j’imagine que tu as hâte de (quelche chose)
+j’imagine que tu as hâte de (quelque chose)
 
 shopping bag  
 le sac du course  
@@ -3288,3 +3288,151 @@ l'esprit; l'avis; l'intelligence; la tête
 
 mint
 la menthe
+
+it's necessary that
+il faut que (subjonctif); il est nécessaire que (subjonctif)
+
+it's important that
+il est important que (subjonctif)
+
+it's crucial that
+il est crucial que (subjonctif)
+
+it's essential that
+il est essentiel que (subjonctif)
+
+to wish that
+souhaiter que (subjonctif)
+
+to want that (action)
+voulouir que (subjonctif)
+
+to fear that
+craindre que (subjonctif)
+
+to like that
+aimer que (subjunctif)
+
+to prefer that
+préferer que (subjunctif)
+
+it's possible that
+il est possible que (subjonctif)
+
+it's essential that; it is indispensable that
+il est indispensable que (subjonctif)
+
+to doubt that
+douter que (subjonctif)
+
+to insist that
+insister que (subjonctif)
+
+it's preferable that
+il est préférable que (subjonctif)
+
+to not be certain that
+n'être certain que (subjonctif)
+
+to be glad that
+être content que (subjonctif)
+
+until the end
+jusqu'à la fin
+
+preceded
+précédé
+
+knowledge; know-how
+des connaissances
+
+cartridge; cartouche
+la cartouche
+
+I should have done that
+j'aurais dû faire ça; j'aurais dû le faire
+
+I could have done that
+j'aurais pu faire ça; j'aurais pu le faire
+
+I would have done that
+j'aurais fait ça; j'aurais le fait
+
+speaker; talker
+le locuteur
+
+drawer
+le tiroir
+
+wool
+la laine
+
+well-being
+le bien-être
+
+includes
+inclure
+
+art of living
+l'art de vivre
+
+to blame
+accuser; blâmer
+
+to shame (somebody)
+faire honte à (quelqu'un)
+
+shame
+l'honte
+
+I will blame you
+je t'accuserai; je te blâmerai
+
+to blame (somebody) for (something)
+accuser (quelqu'un) de (quelque chose); blâmer (quelqu'un) pour (quelque chose)
+
+it's my fault
+c'est ma faute
+
+it's not your fault
+ce n'est pas ta faute
+
+to feel guilty
+se sentir coupable
+
+trapped; caught
+piégé
+
+to plead; to implore
+plaider; supplier; implorer
+
+to save time; to gain time
+gagner du temps
+
+tear; teardrop; drop
+la larme
+
+as much as; as many as
+autant de
+
+survivor
+le survivant
+
+brutally
+brutalement
+
+to find work
+trouver du travail
+
+noise
+le bruit
+
+sole; insole; inner sole
+la semelle
+
+stall; market stall; stand
+l'étal; l'étal de marché; le stand
+
+panic
+la panique
+
