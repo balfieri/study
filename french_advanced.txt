@@ -1835,7 +1835,7 @@ informative
 divulgatif
 
 stupidity; foolishness; silliness; stupid thing
-la bêtise
+la bêtise; la sottise; la stupidité; la folie
 
 low-key
 discret; modéré; sobre; informel
@@ -3678,4 +3678,7 @@ le centre du monde
 
 to reuse
 réutiliser
+
+to tease (somebody)
+taquiner (quelqu'un); faire enrager (quelqu'un); mettre (quelqu'un) en boîte
 
