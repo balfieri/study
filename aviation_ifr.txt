@@ -229,7 +229,7 @@ when making range corrections
 change the relative bearing 10 to 20 deg for each half mile deviation
 
 6000 feet MSL or less, max holding pattern speed
-250 knots
+200 knots
 
 above 6000 feet MSL and no more than 14,000 feet MSL, max holding pattern speed
 230 knots
@@ -552,7 +552,7 @@ localizer and glide slope, marker beacons or DME, approach lighting
 full-scale deflection of localizer
 2.5 degrees, so each dot is 0.5 degrees; width of signal is 3 to 6 degrees; 700 feet wide at runway threshold
 
-width of ILS glide slope signal
+width of ILS glide slope signal in total degrees bottom to top
 1.4 degrees; range of 10 nautical miles
 
 false glide slope issue with ILS
@@ -571,7 +571,7 @@ how VOR works
 VOR station transmits two radio signals, a stationary reference signal, and a rotating variable signal that is out of phase by the radial angle
 
 LDA approach
-like a LOC approach, but localizer is 3-5 degrees offset from the runway centerline; requires circle-to-land if offset exceeds 30 degrees
+like a LOC approach, but localizer is 3-5 degrees offset from the runway centerline; requires circle-to-land if offset exceeds 30 degrees; non-precision
 
 LDA/GS approach 
 provides both lateral and vertical guidance, but the final approach course is not aligned with the runway due to terrain or obstacle limitations
@@ -714,6 +714,9 @@ optimal climb on centerline until 1000 feet below assigned altitude, then 500 to
 what can be substituted for an inoperative ILS outer or middle marker
 compass locator or precision radar; note that DME may be substituted for outer marker only; DME; VOR; GPS
 
+compass locator
+radio beacon installed at the outer or middle market of an ILS approach to provide a navigational fix to help guide pilots to the localizer; the aircraft must have an ADF to receive it
+
 surface analysis chart represents
 frontal positions, pressure patterns, temperature, dewpoint, wind, weather, and obstructions to vision
 
@@ -832,7 +835,7 @@ VASI provides obstruction clearance within
 1) Runway Entrance Lights (REL) are lights along the taxiway centerline that illuminate red when an aircraft is on final approach or on the runway; 2) Takeoff Hold Lights (THL) are a double row of lights on either side of the runway centerline that illuminate red when it would e unsafe to takeoff due to the runway being occupied by an aircraft or ground vehicle; 3) Runway Intersection Lights (TIL) are a double row of lights on either side of runway centerline at runway intersections that illuminate red when it is unsafe to cross the intersecting runway
 
 a pilot may descend from a DA or MDA when
-1) a landing can be made with a normal rate of descent and normal maneuvers; 2) visibility is not less than the minimum specified for the instrument approach procedure (subjective, but pilot could determine how many approach lights are visible at once); 3) runway or runway lights or approach lights are distinctly visible; Note: If only the approach lights are visible, the aircraft may descend to 100 feet AGL, and further descent requires that the red side row bars, or red terminating bars, or runway lights, or runway be visible. Note for the latter, that one does not need to be beyond the VDP
+1) a landing can be made with a normal rate of descent and normal maneuvers; 2) visibility is not less than the minimum specified for the instrument approach procedure (subjective, but pilot could determine how many approach lights are visible at once); 3) runway or runway lights or approach lights are distinctly visible; Note: If only the approach lights are visible, the aircraft may descend to 100 feet AGL, and further descent requires that the red side row bars, or red terminating bars, or runway lights, or runway be visible immediately at that point. Note for the latter, that one does not need to be beyond the VDP
 
 cases where a report must be submitted to the NTSB within 10 days
 1) An accident involving substantial damage to the aircraft, or significant injury or death to an occupant; 2) Overdue aircraft believed to be involved in an accident; 3) Inability of a flight crew member to perform duties due to injury or illness; 4) Flight control system malfunction or failure; 5) In-flight fire; 6) In-flight aircraft collision
@@ -1204,7 +1207,7 @@ what RNP levels should we expect?
 RNP 2.0 for en route; RNP 1.0 for terminal and departure; RNP 0.3 for approaches
 
 RNAV RNP 0.3 approach
-precise type of instrument approach used in aviation, where the navigation system on the aircraft must be able to keep the plane within 0.3 nautical miles of its intended flight path 95% of the time during certain approach segments; all RNAV approaches are RNP approaches
+precise type of instrument approach used in aviation, where the navigation system on the aircraft must be able to keep the plane within 0.3 nautical miles of its intended flight path 95% of the time during certain approach segments; all RNAV approaches are RNP approaches; in reality, the 0.3 is a radius around the current position of the aircraft
 
 when to disengage autopilot
 when it doesn't do what it is supposed to; during icing; during engine failure; during severe turbulence
@@ -1348,7 +1351,7 @@ disorientation is still a major cause of accidents among IFR pilots; what can a 
 level wings, talk to ATC
 
 when must a pilot abide by the VDP
-never, it is advisory; however it is highly recommended that a pilot not descend until reaching the VDP and to go missed if the runway environment is not visible at the VDP; the VDP provides a 3-degree slope
+never, it is advisory; however it is highly recommended that a pilot not descend below the MDA until reaching the VDP and to go missed if the runway environment is not visible at the VDP; the VDP provides a 3-degree slope
 
 when must a pilot abide by the VDA (visual descent angle)
 never, it is advisory only
@@ -1586,6 +1589,9 @@ snow showers
 TAF BLSN
 blowing snow
 
+TAF equals sign 
+end of transmission (carry-over from the old days)
+
 according to 14 CFR 91.185, when reaching a clearance limit during lost communications:
 1) If the clearance limit is a fix from which an approach begins, commence descent and approach as close as possible to the expect-further-clearance (EFC) time if one was received, or if there was no EFC time, as close as possible to the estimated time of arrival (ETA) from the filed or amended estimated time en route. 2) If the clearance limit is not a fix from which an approach begins, leave the clearance limit at the EFC time if one was received, or if not, upon arrival at the clearance limit. Then proceed to a fix from which an approach begins and commence descent and approach as close as possible to the ETA from the filed or amended flight plan; see 91.185 for details
 
@@ -1640,8 +1646,8 @@ centerlines are at least 2500 feet apart and aircraft are separated by 1.5 miles
 how to counter reverse sensing when flying an approach with a VOR
 set your needle to the inbound course of the localizer front course, and fly the tail of the needle
 
-course width of an SDF
-fixed at 6 or 12 degrees; may or may not be aligned with runway
+course width of an SDF approach
+fixed at 6 or 12 degrees; may or may not be aligned with runway; not as precise as a localizer; in the USA, these have all been decommissioned
 
 full scale deflection o a VOR approach
 10 degrees of centerline
@@ -2001,7 +2007,7 @@ one key difference between what you find on a STAR vs. what you find on a SID
 STARs often have speed restrictions
 
 things ATC can give you as part of an unpublished hold 
-waypoint, along radial, inbound course, direction of hold, along airway, EFC time
+holding fix; cardinal direction from fix; along radial, bearing, route or airway; leg length; direction of turns, EFC time; if ATC does not give you a direction, you should hold on this side of the fix
 
 how ATC might give you get a published or charted hold
 ATC tells you to proceed to a certain waypoint and hold as published; they might give you an EFC time or an altitude as well
@@ -2251,3 +2257,102 @@ do not change the altitude bug, otherwise you'll need to fight with VS mode
 
 on the final leg, the glide slope is very sensitive, so
 make smaller and more immediate changes in descent rate by changing attitude by 1 degree; speed will not change that much
+
+the type of holding entry procedure (parallel, teardrop, or direct) is determined by
+the sector holding the aircraft's position
+
+in our airplanes, the top G5 is a primary instrument only for
+the attitude indicator
+
+to fly a STAR, a pilot must have
+ATC clearance, the current STAR chart, required avionics
+
+for an approach lighting system symbol (A1, A4) etc. with a dot over it, the dot means that
+there are sequenced flashing lights leading up to the runway
+
+with a procedure turn barb, the turn inbound
+may be left or right, but it is better to choose the direction furthest away from the runway
+
+which radio picks up the marker beacon signals
+the audio panel; the signal uses the same frequency; faster, higher-pitched whiter beeps are for the inner beacon
+
+when might a pilot when to turn on runway lights
+obviously at night, but also during the day when there is low visibility
+
+what is the purpose of the altitude listed for the final approach fix?
+it allows a double check that the pilot has the correct altimeter setting dialed in
+
+TDL/CL on approach plate
+touchdown zone lighting, center line lighting
+
+upper right number on approach plate
+date of latest rev of chart; 2-5-2-1-9 means 2025, 219th day of the year
+
+AMDT on lower left part of approach plate
+means minor amendment to the plate
+
+the circling MDA protected area extends from
+the runway threshold; when the approach plate shows the reverse C, you will need to consult the table to determine the cirling radius for your aircraft, but you shouldn't need it because you should always stay close to the runway
+
+when starting an approach at an intermediate fix
+ATC must give you an angle that is less than 90 degrees; you should advise ATC you are at the intermediate fix; ATC must radar monitor you
+
+approved vertical guidance
+LPV and LNAV/VNAV; can fly down to DA
+
+with a full-scale deflection
+you must immediately commit to going missed, which may mean first flying to the missed approach point
+
+trick to remembering things that must be visble in the runway environment
+physical thing, its markings, and its lights; this applies to threshold, touchdown zone, and runway; then you can add in PAPI and red lights at the end of the approach lighting system
+
+with a VOR approach that does not specify GPS, the pilot using GPS to navigate the course must 
+still monitor the underlying VOR on nav2 or nav1
+
+what does it mean to be established on a localizer?
+the needle must be registering consistently and some say no more than half-scale deflection; it is not very well specified
+
+with a WAAS-equipped aircraft, are VOR checks required?
+for ILS, no; if just monitoring a VOR, no
+
+what is a practical reason why you would want to fly a circling approach
+to save time if approaching the airport from the opposite side of the landing runway; you don't want to have to fly all the way out to an initial approach fix for the landing runway
+
+when planning an alternate assuming RNAV GPS, you must look at the predicted cloud ceilings and visibility
+relative to the maximum of the 800/2 or the LNAV minimums; similar for ILS planning
+
+if WAAS goes out during an approach
+it should downgrade immediately to LNAV; if you are below the MDA, go missed immediately
+
+when using LNAV+V for vertical advisory guidance
+trust, but verify; must still use LNAV minimums, obviously
+
+RNP-AR approach
+authorization and training are required; we can't use such an approach
+
+for RNAV 21 at KTTA with an LPV annunciation on the GTN 650
+we can go down to the lower LNAV/VNAV DA because we WAAS; LNAV/VNAV DA is lower than LPV DA due to the way they are calculated by the FAA; it's an anomaly
+
+icing conditions when flying through
+visible moisture down to -20 degrees Celsius
+
+FIKI
+flight into known icing
+
+how far away should you stay from thunderstorms
+at least 20 nautical miles
+
+thunderstorms look distant, but there is still the danger
+of gust fronts that occur due to falling cold air under the storm
+
+AIRMETs
+S: sierra - extensive mountain obscuration or IFR (less than 1000 ft and/or visibility less than 3 miles affecting over 50% of the area at one time); T: tango - moderate turbulence or sustained surface winds of 30 kts or more; Z: zulu - moderate icing
+
+if you get an equipment failure you should
+notify ATC, indicating how it affects your IFR flight and whether you need any assistance
+
+how to determine your personal minimums
+need to answer: what have you done lately and what plane did you do it in?; for a newly-minted pilot, I will use 1500 foot ceilings for planning, then must break out of the clouds at 1000 feet AGL when I actually fly the approach or take off
+
+when making an emergency landing at night on a road
+a wider road will normally have fewer wires and more room; also better to get off the road quickly
