@@ -3424,9 +3424,6 @@ brutalement
 to find work
 trouver du travail
 
-noise
-le bruit
-
 sole; insole; inner sole
 la semelle
 
@@ -3435,4 +3432,10 @@ l'étal; l'étal de marché; le stand
 
 panic
 la panique
+
+heap; pile
+le tas
+
+box; crate; cash register; checkout; till; cash desk; case; fund (in financial context); drum (in music)
+la caisse
 
