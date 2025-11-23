@@ -1378,9 +1378,6 @@ délibéré
 voluntary
 volontaire
 
-volunteer
-le bénévole
-
 maze
 le labyrinthe
 
@@ -3438,4 +3435,247 @@ le tas
 
 box; crate; cash register; checkout; till; cash desk; case; fund (in financial context); drum (in music)
 la caisse
+
+to haunt; to obsess; to frequent
+hanter
+
+to enrich
+enricher
+
+ambition
+l'ambition
+
+altruistic
+altruiste
+
+altruism
+l'altruisme
+
+volunteer; voluntary worker
+le bénévole
+
+open-minded
+ouvert d'esprit
+
+openness
+l'ouverture
+
+conscientious
+consciencieux
+
+to share one's feelings
+partager ses sentiments
+
+to share one's life
+partager sa vie
+
+scrupulous
+scrupuleux
+
+diligent; industrious; applied
+appliqué
+
+welcoming
+accueillant
+
+courtesy
+la courtoisie
+
+refined
+raffiné
+
+politeness
+la politesse
+
+determined
+déterminé
+
+determination
+la détermination
+
+driver's license
+le permis de conduire
+
+negotiation
+la négociation
+
+communicator
+le communiquant
+
+diplomatic
+diplomate
+
+diplomacy
+la diplomatie
+
+sociability
+la sociabilité
+
+surrounded
+entouré
+
+easygoing
+facile à vivre
+
+frankness; sincerity
+la franchise
+
+intuitive
+intuitif
+
+meticulous
+méticuleux
+
+meticulousness
+la méticulosité
+
+creativity
+la créativité
+
+modest
+modeste
+
+modesty
+la modestie
+
+pretentiousness
+la prétention
+
+pride
+l'orgueil
+
+lively; bright; sharp
+vif
+
+quick-witted
+vif d'esprit
+
+vivacity
+la vivacité
+
+impulse; momentum; drive
+l'élan
+
+resourceful
+débrouillard
+
+generosity
+la générosité
+
+moved; touched
+touché
+
+enterprising
+entreprenant
+
+belligerent; aggressive
+belliqueux
+
+stubborn
+obstiné
+
+hypocritical
+hypocrite
+
+selfishness
+l'égoïsme
+
+cynical
+cynique
+
+gullible; credulous
+crédule
+
+indecisive
+indécis
+
+decisive
+décis
+
+materialistic
+matérialiste
+
+close-minded
+fermé d'esprit
+
+hateful; obnoxious
+odieux
+
+hatred; ate
+la haine
+
+to feel hatred; to hate
+avoir de la haine
+
+disgust
+le dégoût
+
+pretentious
+prétentieux
+
+satisfaction
+la satisfaction
+
+condescending
+condescendant
+
+judgmental
+dans le jugement; qui juge facilement
+
+resentful
+rancunier
+
+resentment
+la rancune
+
+egocentric
+égocentrique
+
+narcissistic
+narcissique
+
+globe
+le globe
+
+melon
+le melon
+
+to pre-register
+préinscrire
+
+greedy for gain; avaricious
+acare
+
+bourgeois
+bourgeois
+
+to be very afraid
+avoir très peur
+
+stingy; miserly
+radin
+
+sensitive; touchy
+susceptible
+
+sensitivity
+la susceptibilité
+
+to take offense
+se vexer
+
+vain
+vaniteux
+
+vanity
+la vanité
+
+superficial
+superficiel
+
+center of the world
+le centre du monde
+
+to reuse
+réutiliser
 

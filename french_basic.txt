@@ -364,7 +364,7 @@ mensuel
 some of it; whatever of it
 quelqu'en
 
-hobby
+hobby; pasttime
 le hobby; le loisir; le passe-temps
 
 everybody; everyone
@@ -889,7 +889,7 @@ venir
 to come back; to return
 revenir
 
-physics
+physics; physique
 la physique
 
 chemistry
