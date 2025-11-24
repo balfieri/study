@@ -4996,7 +4996,7 @@ c’est réglé; tout est prêt
 boarding pass
 la carte d’embarquement
 
-check-in
+check-in; recording
 l'enregistrement
 
 competition (general)
@@ -5482,7 +5482,7 @@ le docteur; le médecin
 doctor (PhD)
 le docteur; le titulaire d’un doctorat
 
-lawyer
+lawyer; avocado
 l'avocat
 
 bartender; barista
@@ -12104,4 +12104,10 @@ un peu de
 
 shoes
 les chaussures
+
+king
+le roi
+
+as you were saying
+comme tu disais; comme vous disiez
 
