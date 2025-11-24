@@ -10704,8 +10704,8 @@ peint
 exam  
 l'examen
 
-priest (informal)  
-le curé
+priest; clergyman; parson
+le prêtre; l'ecclésiastique; le curé
 
 mile  
 le mile
@@ -12111,5 +12111,5 @@ le roi
 as you were saying
 comme tu disais; comme vous disiez
 
-farm
-la ferme
+I know nothing about 
+je ne sais rien de; je n'y connais rien à
