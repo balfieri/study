@@ -10324,9 +10324,6 @@ il pedele del freno
 bicep
 il bicipite
 
-half-assed job
-il lavoro fatto male; il lavoro fatto a metà
-
 to paralyze
 paralizzare
 
@@ -102449,3 +102446,40 @@ l'eremita
 
 to bring misfortune; to send bad luck
 mandare delle disgrazie
+
+tachometer; revolution counter; rev counter
+il contagiri
+
+warning light
+la spia luminosa
+
+handbrake; emergency brake; parking brake
+il freno a mano
+
+gear lever; gear stick
+la leva del cambio
+
+air conditioner control; air conditioning regulator
+il regolatore dell'aria condizionata
+
+direction indicator; turn signal
+l'indicatore di direzione
+
+window; car window
+il finestrino
+
+sideview mirror; side rearview mirror; exterior rearview mirror
+lo specchietto retrovisore esterno
+
+rearview mirror; interior rearview mirror
+lo specchietto retrovisore interno
+
+windshield wiper
+il tergicristallo
+
+airbag
+l'airbag
+
+porridge; oatmeal
+i fiocchi d'avena; l'avena
+
