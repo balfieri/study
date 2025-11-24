@@ -11893,7 +11893,7 @@ good for you!; that's great for you!
 tant mieux pour toi!; bien pour toi!
 
 I know nothing about (something)
-je ne sais rien à propos de (quelque chose); j'en sais rien; je n'y connais rien
+je ne sais rien à propos de (quelque chose); j'en sais rien de; je n'y connais rien de
 
 according to; based on
 d'après
@@ -12111,5 +12111,5 @@ le roi
 as you were saying
 comme tu disais; comme vous disiez
 
-I know nothing about 
-je ne sais rien de; je n'y connais rien à
+me neither
+moi non plus
