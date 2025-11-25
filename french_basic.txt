@@ -10473,8 +10473,8 @@ pollué
 smell; odor
 l'odeur
 
-job
-le job
+job; employment
+le job; l'emploi; le travail
 
 to encourage
 encourager
@@ -12113,3 +12113,6 @@ comme tu disais; comme vous disiez
 
 me neither
 moi non plus
+
+what is it?
+qu'est-ce que c'est?; c'est quoi?; c'est quoi ceci?
