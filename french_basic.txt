@@ -4180,10 +4180,10 @@ la dernière fois; la fois dernière
 at that time; in those days  
 à cette époque; en ce temps-là
 
-there is
+there is; there are
 il y a
 
-there are
+there was; there were
 il y avait
 
 in this way; in this manner
@@ -4423,7 +4423,7 @@ tourner l'avion
 heat
 chaleur
 
-by now
+henceforth; from now on; by now
 désormais
 
 à ce point
