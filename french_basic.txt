@@ -2158,7 +2158,7 @@ le potage
 leeks
 les poireaux
 
-straight away; immediately; right away
+right now; straight away; immediately; right away
 tout de suite
 
 dessert
@@ -4554,9 +4554,6 @@ l'enveloppe; le petit sac
 
 to share (feelings; thoughts)
 partager (sentiments; pensées)
-
-to reach
-atteindre
 
 cooked
 cuit
@@ -12116,3 +12113,10 @@ moi non plus
 
 what is it?
 qu'est-ce que c'est?; c'est quoi?; c'est quoi ceci?
+
+I'm joking
+je blague
+
+at most
+au maximum
+
