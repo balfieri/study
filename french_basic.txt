@@ -12122,3 +12122,7 @@ au maximum
 
 let's speak French
 parlons français
+
+last night; yesterday evening
+hier soir
+
