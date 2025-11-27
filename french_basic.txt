@@ -12120,3 +12120,5 @@ je blague
 at most
 au maximum
 
+let's speak French
+parlons français
