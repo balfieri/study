@@ -12126,3 +12126,8 @@ parlons français
 last night; yesterday evening
 hier soir
 
+can we speak a little French?
+pouvons-nous parler un peu français?
+
+I started learning (something)
+J'ai commencé à apprendre (quelque chose)
