@@ -12131,3 +12131,13 @@ pouvons-nous parler un peu français?
 
 I started learning (something)
 J'ai commencé à apprendre (quelque chose)
+
+share; part; piece; portion
+la part
+
+from me; by me; on my behalf
+de ma part
+
+from you; by you; on your behalf
+de ta part
+
