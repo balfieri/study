@@ -8799,7 +8799,7 @@ le pensée; la réflexion
 issue; matter
 le problème; la question
 
-at least (amount)
+at least
 au moins
 
 Naples
@@ -10122,8 +10122,11 @@ on se tient au courant
 to keep in touch; to stay in touch
 rester en contact; tenir au courant
 
-don't worry!
-t'inquiète!
+don't worry (informal)
+ne t'inquiète pas
+
+don't worry! (formal)
+ne vous inquiètez pas
 
 it's worth it
 ça vaut le coup
