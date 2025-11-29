@@ -12147,3 +12147,6 @@ de ta part
 I need to practice
 je dois pratiquer
 
+I'll be right back
+je reviens tout de suite
+
