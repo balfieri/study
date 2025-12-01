@@ -9024,8 +9024,11 @@ minuscule; petit; très petit
 enquête
 inquiry; investigation
 
-wave
+wave (visible)
 la vague
+
+wave (invisible)
+l'onde
 
 human being
 l'être humain; l'humain

@@ -1216,9 +1216,6 @@ en harmonie
 length
 la longueur
 
-wave
-l'onde
-
 it's part of the charm
 ça fait partie du charme
 
