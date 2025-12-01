@@ -5278,7 +5278,7 @@ le bruit
 silence
 le silence
 
-boss; head (organization); chief; cape
+boss; head (organization); chief; leader
 le chef; le patron; la patronne; le cap
 
 nice; kind
@@ -6752,7 +6752,7 @@ it doesn't make sense; it makes no sense
 turned on; on
 allumé
 
-drank
+drank; drunk
 bu
 
 asked
@@ -7225,9 +7225,6 @@ s'assurer que; veiller à ce que
 
 insurance; assurance
 l'assurance
-
-to announce
-annoncer
 
 huricane
 l'ouragan
@@ -9138,8 +9135,11 @@ l'aire de service
 bikini
 le bikini
 
-instrument; tool (abstract)
-l'instrument; l'outil (abstrait)
+instrument; tool
+l'instrument
+
+tool (abstract)
+l'outil
 
 likely; probable
 probable; vraisemblable
@@ -11526,7 +11526,7 @@ monter dans le train
 to get off the train
 descendre du train
 
-challenge
+challenge; dare; defiance
 le défi
 
 I'm cold
@@ -12161,3 +12161,7 @@ volée
 
 I wish you; I hope that you find
 je te souhaite
+
+building; block of flats; apartment building; real estate
+l'immeuble
+

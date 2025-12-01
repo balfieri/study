@@ -220,7 +220,7 @@ professionnel; pro
 I am not going to worry about it yet
 je ne vais pas m'en inquiéter pour le moment; je ne m'en inquiéterai pas encore
 
-to grasp
+to seize; to grab; to grasp; to understand
 saisir
 
 what a mess!
@@ -928,7 +928,7 @@ couper en deux; diviser en deux
 to stay motivated
 rester motivé
 
-excess; drifts; abuse
+excess; drift; abuse; deviation
 la dérive
 
 worthy
@@ -4192,3 +4192,62 @@ l'écran
 feces
 i feci
 
+stakes
+les mises
+
+playful; fun; entertaining; recreational
+ludique
+
+to go for a walk; to saunter; to gallivant
+se balader
+
+inappropriate; displaced; out of place
+déplacé
+
+announced
+annoncé
+
+to announce
+annoncer
+
+from now on; henceforth
+dorénavant
+
+conflict
+le conflit
+
+deciphering; decoding; interpreting
+le décryptage
+
+to push away; to postpone; to reject; to repel
+repousser
+
+pit; hole; grave; ditch
+la fosse; la fosse commune
+
+strike; hit; keystroke
+la frappe
+
+Lebanese
+libanais
+
+erect; erected
+érigé
+
+coexistence
+la coexistence
+
+sunken; deep-set; driven in
+enfoncé
+
+to cease; to stop
+cesser
+
+to bless
+bénir
+
+to reject; to dismiss
+rejeter
+
+aggression
+l'agression
