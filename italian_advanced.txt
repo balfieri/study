@@ -39010,9 +39010,6 @@ arbitrario
 at 12 o'clock
 alle ore 12
 
-x-ray
-i raggi X
-
 xenophobic
 xenofobo
 
@@ -102561,4 +102558,24 @@ far fatica
 big trouble
 il grasso guaio
 
+connector word
+la parola di collegamento
+
+accusatory
+accusatorio
+
+chilly; cold
+freddoloso
+
+to splash; to spatter
+spattare
+
+x-ray
+il raggio X; i raggi X
+
+white blood cells
+i globuli bianchi
+
+red blood cells
+i globuli rossi
 
