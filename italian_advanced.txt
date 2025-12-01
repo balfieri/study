@@ -45566,7 +45566,7 @@ pine forest
 la pineta
 
 inland (noun)
-l'entroterra; nell'entroterra
+l'entroterra
 
 tachycardia
 la tachicardia
@@ -75560,9 +75560,6 @@ non possono permetterselo
 tomboy
 il maschiaccio
 
-skullduggery
-la furbizia
-
 to see (something) through; to bring (something) to completion
 portare (qualcosa) a termine
 
@@ -86964,8 +86961,8 @@ il rogito notarile
 counter space
 lo spazio sul bancone
 
-craftiness; cunning; slyness
-il furbizio; la furbizia
+craftiness; cunning; slyness; skullduggery
+la furbizia; il furbizio
 
 emotional life; affective life
 la vita affettiva
@@ -102579,3 +102576,5 @@ i globuli bianchi
 red blood cells
 i globuli rossi
 
+anchovy
+l'acciuga; l'alice

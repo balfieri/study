@@ -6683,7 +6683,7 @@ le truc
 tutor
 le tuteur; la tutrice
 
-to steal
+to steal; to rob
 voler
 
 to rob (somebody)
@@ -12153,3 +12153,5 @@ je reviens tout de suite
 very little
 très peu; très petit
 
+robbed; stolen
+volée
