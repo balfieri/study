@@ -6701,3 +6701,7 @@ provare; tentare
 
 to point the finger at
 puntare il dito a
+
+to fit the bill
+essere adatti
+

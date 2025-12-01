@@ -11707,6 +11707,9 @@ sigilare
 scrap; waste
 lo scarto
 
+scraps; waste
+gli scarti
+
 to scream
 mettersi a gridare
 
@@ -102584,4 +102587,7 @@ piccato
 
 it is very different; it is quite different
 è ben diverso
+
+to muss; to ruffle; to tousle
+mussare
 
