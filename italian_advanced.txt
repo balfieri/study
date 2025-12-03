@@ -21001,7 +21001,7 @@ il controllo fiscale; la revisione fiscale; la verifica fiscale
 laxative; purge
 la purga
 
-to resume; to take up again; to return (to); to regain; to recover
+to resume; to get back; to take up again; to return (to); to regain; to recover
 riprendere
 
 mannequin; dummy
@@ -82302,7 +82302,7 @@ il taglio a mitra
 miter joint
 la giunzione a mitra; il giunto a mitra
 
-guage
+guage; caliber
 il calibro
 
 miter gauge
@@ -102596,3 +102596,16 @@ il wifi extender
 
 in concrete terms; specifically; in practice
 nel concreto
+
+to violently reject
+violentemente rifiutare
+
+look out for the cars
+stai attento alle auto; fai attenzione alle auto
+
+look out for (something)
+stai attento a (qualcosa); fai attenzione a (qualcosa)
+
+with great consistency
+con grande continuità
+
