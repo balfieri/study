@@ -3907,8 +3907,11 @@ lo yogurt
 low-fat yogurt
 lo yogurt magro
 
-desk
-il banco; la scrivania
+desk (school); counter; bench
+il banco
+
+desk (general)
+la scrivania
 
 notebook
 il quaderno

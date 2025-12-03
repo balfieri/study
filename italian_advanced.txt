@@ -66191,9 +66191,6 @@ l'informatica
 computer engineering
 l'ingegneria informatica
 
-counter; bench
-il banco
-
 offside; offsides
 fuori gioco
 
