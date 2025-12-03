@@ -29692,8 +29692,8 @@ ferroviario
 bomb
 la bomba
 
-who knows
-chissà
+who knows?
+chissà?; chi lo sa?
 
 burial (physical)
 la sepoltura
@@ -78578,9 +78578,6 @@ non ne ho la minima idea
 
 it is not known
 non è dato sapere
-
-who knows?
-chi lo sa?
 
 interrogative quiz
 il quiz interrogativo
