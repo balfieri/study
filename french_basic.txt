@@ -580,7 +580,7 @@ cela nonobstant
 to go shopping
 aller faire les courses
 
-to leave; to quit
+to leave; to quit; to abandon
 quitter
 
 ok; agreed; alright
@@ -6425,9 +6425,6 @@ se fiancer
 to have
 avoir
 
-to give off
-dégager
-
 to say; to tell
 dire
 
@@ -8244,8 +8241,11 @@ lié; attaché; relié
 United Kingdom
 le royaume-uni
 
-device
-l'appareil; le dispositif
+device (autonomous)
+l'appareil
+
+device (system of components)
+le dispositif
 
 purple
 pourpre
@@ -12164,4 +12164,7 @@ je te souhaite
 
 building; block of flats; apartment building; real estate
 l'immeuble
+
+that's it; that's right
+c'est ça
 

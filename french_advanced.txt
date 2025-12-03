@@ -4260,3 +4260,183 @@ en enfer
 
 supporter; fan; backer
 le partisan; le supporter; la supportrice
+
+mixing
+le mixage
+
+fermentation; brewing
+le brassage
+
+riddle
+la devinette; l'énigme
+
+wifi extender
+l'amplificateur wifi; l'extenseur wifi
+
+draft
+le brouillon
+
+undesirable
+indésirable
+
+trash; wastebasket
+la corbeille
+
+reception
+la réception
+
+fashion; mode
+la mode
+
+battery
+la batterie
+
+multitasking
+le multitâche
+
+gender-neutral
+épicéne
+
+scheduled; programmed
+programmé
+
+finished; completed
+terminé
+
+to select; to choose
+sélectionner
+
+to display; to show
+afficher
+
+reminder
+le rappel
+
+deletion
+la suppression
+
+recent
+récente
+
+to charge
+charger
+
+to discharge
+décharger
+
+to upload
+télécharger; uploader
+
+bookmark
+le signet
+
+disassembly
+le démontage
+
+first of all; firstly
+tout d'abord
+
+natural gas
+le gaz naturel
+
+importer
+l'importateur
+
+importation
+l'importation
+
+led; conducted
+mené
+
+to lead; to conduct; to carry out
+mener
+
+to monopolize
+monopoliser
+
+exporter
+l'exportateur
+
+exportation
+l'exportation
+
+giant
+géant
+
+short-term
+à court terme
+
+long-term
+à long terme
+
+fir tree
+le sapin
+
+nativity scene; manger
+la crèche
+
+throne
+le trône
+
+work of art
+l'œuvre d'art
+
+downstream
+l'aval
+
+mayor
+le maire; la maire
+
+thousand; thousands
+le millier
+
+proven; tested
+éprouvé
+
+militiaman
+le millicien
+
+bandage; dressing
+le pansement
+
+mustard
+la moutarde
+
+to wipe
+essuyer
+
+idiot; fool
+l'abruti
+
+cleared out; got out
+dégagé
+
+to free; to clear; to disengage; to give off
+dégager
+
+file
+le fichier
+
+lab
+le labo
+
+about fifty; fiftyish
+cinquantaine
+
+50-year-old (person)
+le quinquagénaire
+
+lord; master
+le seigneur
+
+to leave the conversation
+quitter la conversation
+
+to copy
+copier
+
+to paste; to glue; to stick
+coller
+
+to delve deep into
+explorer en profondeur; approfondir
