@@ -102594,3 +102594,8 @@ mussare
 T-bill; treasury bill
 il buono del tesoro; il bot
 
+wifi extender
+il wifi extender
+
+in concrete terms; specifically; in practice
+nel concreto
