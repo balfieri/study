@@ -14080,6 +14080,9 @@ l'avvisaglia
 diabetes
 il diabete
 
+to get diabetes
+prendere il diabete
+
 to unearth; to sniff out; to flush out
 scovare
 
@@ -102606,3 +102609,5 @@ stai attento a (qualcosa); fai attenzione a (qualcosa)
 with great consistency
 con grande continuità
 
+chocolate candies; chocolates
+i cioccolatini
