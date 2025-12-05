@@ -102620,3 +102620,7 @@ autorizzato a (fare qualcosa)
 
 duet
 il duetto
+
+what to say?
+che dire?
+
