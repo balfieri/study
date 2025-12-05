@@ -102614,3 +102614,6 @@ i cioccolatini
 
 small balls (mozzarella, meat)
 i bocconcini
+
+authorized to (do something); signed off to (do something)
+autorizzato a (fare qualcosa)
