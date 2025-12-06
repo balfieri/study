@@ -538,7 +538,7 @@ approaches that require WAAS
 LPV, LP; WAAS can also be used for LNAV/NVAV
 
 LNAV+V and LP+V
-are not published types of approaches; rather +V is a GPS navigator feature for vertical advisory guidance
+are not published types of approaches; rather +V is a GPS navigator feature for vertical advisory guidance; if you have it, use it, but stay slightly above the glideslope so you don't go below; using it means you won't have to level out toward the end of the approach and introduce other errors
 
 pressure altitude equals true altitude when
 standard atmospheric conditions exist (15C and 29.92)
@@ -2238,7 +2238,7 @@ when you should get your clearance on the ground
 when you are not sure you will be able to stay in VMC before getting it in the air
 
 MVA
-minimum vectoring altitude is lowest altitude at which ATC can vector IFR aircraft while providing standard obstacle and terrain clearance; determined by sector; in some locations, may be lower than published MEAs or MOCAs; MVAs are not provided MVA charts, but must comply
+minimum vectoring altitude is lowest altitude at which ATC can vector IFR aircraft while providing standard obstacle and terrain clearance; determined by sector; in some locations, may be lower than published MEAs or MOCAs; MVAs are not provided MVA charts, but must comply; must maintain VFR prior to reaching the MVA; if you can't maintain VFR, go back and land and get clearance on the ground
 
 0.5 to 1 mile before each waypoint on an approach
 start doing what comes next: identify nav aids, arm approach mode on autopilot, set next altitude bug, pre-landing checklist, radio calls
@@ -2310,7 +2310,7 @@ with a VOR approach that does not specify GPS, the pilot using GPS to navigate t
 still monitor the underlying VOR on nav2 or nav1
 
 what does it mean to be established on a localizer?
-the needle must be registering consistently and some say no more than half-scale deflection; it is not very well specified
+the needle must be registering consistently and some say no more than half-scale deflection; it is not well specified in the USA; in Europe, ICAO says half-scale, so it's best to use that
 
 with a WAAS-equipped aircraft, are VOR checks required?
 for ILS, no; if just monitoring a VOR, no
@@ -2356,3 +2356,45 @@ need to answer: what have you done lately and what plane did you do it in?; for 
 
 when making an emergency landing at night on a road
 a wider road will normally have fewer wires and more room; also better to get off the road quickly
+
+if ATC tells you to go direct to a fix and you are already navigating to that fix but in heading mode
+you will need to redo the direct-to in order to go direct from where you currently are
+
+when you lose the PFD or WAAS (for example, during a check ride) you should
+notify ATC of the degradation
+
+on a GTN 650 Xi when skipping a hold
+it is is better to activate the hold exit rather than deleting the hold; this makes it easier to re-activate the hold
+
+if you pull power 0.1 miles before a fix where you'll need to descend
+do not point the nose down at the same time, otherwise you will start down too early; pulling power has the necessary delay
+
+in our 172's with the older KAP 140 autopilot, when flying a hold
+rather than using GPSS mode, it is easier to just fly the hold manually using heading mode, then re-engage NAV mode once inbound
+
+vertical sensitivity of LPV vertical guidance
+at final approach fix 5 miles out, about 700 feet; at decision altitude, about 90 feet
+
+textual description of SID, DP, or STAR
+for SID and STAR, only graphical is available; for DP, can use textual
+
+how soon can you file an IFR flight plan and how soon can you pick it up?
+up to 22 hours before your proposed departure time, but ATC normally has it and can work with it roughtly 30 to 45 minutes prior to your filed ETD; at a towered field, you can call for your clearance up to 30 minutes before your filed ETD; at a non-towered field, call within 10 minutes of when you are ready to go
+
+TPP
+Terminal Procedures Publication; contains ODPs, takeoff minimums, SIDs, STARs, and approach plates
+
+ODP as it relates to part 91
+do not have to fly an ODP legally for part 91; ATC can give you a vector; you can tell ATC that you want to fly an ODP, and this is encouraged
+
+if an approach plate shows the black A with NA
+you cannot list that airport as an IFR alternate; this is usually because it does not have monitored navaids (usually ILS) or does not have on-field weather reporting; if the airport is outside the TAF area, you can still use broader-area forecast tools; note that a different type of approach (usually GPS) will have the NA
+
+if the aiport weather is unavailable according to a NOTAM
+look at the alternate minimums under the procedure arrival or TPP
+
+if your aircraft does not have a transponder and you want to fly an IFR flight plan
+notify ATC when you pick up your clearance and ask them if it's ok to fly without a squawk code
+
+if your aircraft has a transponder, but it's broken, can you still fly IFR?
+yes, but only if you stay out of airspace where a transponder is required or you obtain an ATC deviation for the flight
