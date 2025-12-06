@@ -45622,8 +45622,11 @@ capeggiare
 uproar
 la baraonda
 
-funeral director; undertaker
-il direttore funerale; il becchino
+funeral director
+il direttore funerale
+
+undertaker; gravedigger
+il becchino
 
 to get busy; to fuss about
 affaccendarsi; affannarsi
@@ -58328,7 +58331,7 @@ ho una Vespa Primavera S 150 del 2023
 bowling ball
 la palla da bowling
 
-baseball
+baseball (the ball itself)
 la palla da baseball
 
 bocce ball
@@ -87945,9 +87948,6 @@ la tutela dei minori
 extra (something)
 (qualcosa) extra
 
-gravedigger
-il becchino
-
 to dig a grave
 scavare una fossa
 
@@ -102635,3 +102635,19 @@ fino agli 82 anni
 
 the best money ever spent; the best money I ever spent
 i migliori soldi spesi della mia vita
+
+to throw a baseball
+lanciare una palla da baseball; tirare una palla da baseball
+
+to pick up; to gather; to collect
+raccattare
+
+to exhale
+esalare
+
+in order to; with the aim of
+nel proposito
+
+chances are that (something)
+è probabile che (qualcosa); ci sono buone probabilità che (qualcosa)
+
