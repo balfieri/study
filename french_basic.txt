@@ -5236,7 +5236,7 @@ la fraude; l'arnaque; l'escroquerie
 educated
 instruit; éduqué
 
-yard (all vegetation)
+garden; yard (all vegetation)
 le jardin
 
 instead of (noun, infinitive)
@@ -12170,4 +12170,19 @@ c'est ça
 
 if I feel like it
 si j'en ai envie
+
+hand
+la main
+
+cleaned
+nettoyé
+
+to hurt; to do harm
+faire de mal
+
+who is there?
+qui est là?
+
+couch
+le divan
 
