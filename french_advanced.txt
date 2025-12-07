@@ -451,9 +451,6 @@ corrompu
 depraved
 dépravé
 
-rotten
-pourri
-
 there are no rules
 il n'y a pas de règles
 
@@ -4752,4 +4749,211 @@ to be good enough
 
 chances are that (something)
 il y a de fortes chances que; il est probable que
+
+athletic move; athletic motion
+le mouvement athlétique; le mouvement sportif
+
+encrypted; ciphered; coded
+chiffré
+
+figurative
+figuré
+
+de bout en bout
+from one end to the other; from start to finish
+
+document
+le document
+
+nitrogen
+l'azote
+
+calcium
+le calcium
+
+hunched; rounded
+vouté
+
+except that
+sauf que
+
+in your case
+en ton cas
+
+to excite; to intoxicate
+griser
+
+not important; unimportant
+peu important
+
+hash; hashish
+le hasch
+
+degrading
+dégradant
+
+to release; to let go
+relâcher
+
+and then; and besides
+et puis
+
+to flow; to sink
+couler
+
+bronze
+le bronze
+
+dose
+la dose
+
+diploma; degree
+le diplôme
+
+mockery; fooling around
+le foutage
+
+meth; methamphetamine
+le meth
+
+drug
+la drogue
+
+marijuana; weed
+la marijuana
+
+rotten; spoiled
+pourri
+
+car
+la bagnole
+
+to damage; to ruin
+abîmer
+
+African
+africain
+
+pearl
+la perle
+
+not really
+pas vraiment
+
+scout; torch
+l'eclaireuse
+
+traveler
+le voyageur; la voyageuse
+
+choir
+la chorale
+
+shell; artillery shell
+l'obus
+
+volume
+le tome
+
+cop; policeman
+le flic
+
+moral choice
+le choix moral
+
+murder
+le meurtre
+
+to resign; to step down; to quit
+démissionner
+
+lung
+le poumon
+
+chemist
+le chimiste
+
+business; affairs
+les affaires
+
+to mess up; to ruin
+boussiler
+
+mania
+l'amanie
+
+to flirt
+draguer
+
+basket; bassinet
+le couffin
+
+cradle
+le berceau
+
+combative
+combative
+
+guarantee; warranty
+la garantie
+
+story; narrative
+le récit
+
+to bring back; to bring
+remener
+
+check; cheque
+le chèque
+
+compréhensif
+compréhensif
+
+is there someone?; is anybody there?
+il y a quelqu'un?
+
+carbon
+le carbone
+
+perceived
+perçu
+
+accidental
+accidental
+
+by accident
+par accident
+
+in decline
+en déclin
+
+false; fake
+faux; fausse
+
+snitched on; ratted out
+mouchardé
+
+pancake maker; crepe maker
+le crêpier
+
+post-colonial
+post-colonial
+
+crepe store
+la creperie
+
+American dream
+le rêve américain
+
+tanned
+bronzé
+
+to cater
+cater
+
+to cater to tourists
+cater aux touristes
+
+gun
+le flingue
 

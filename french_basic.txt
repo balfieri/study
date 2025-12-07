@@ -557,7 +557,7 @@ lighting
 l'éclairage
 
 support; stand; backing
-support
+le support
 
 household; home; hearth
 le foyer
@@ -5251,7 +5251,7 @@ au lieu; sinon
 rather; better yet; in fact; to the contrary
 plutôt; voire; en fait; au contraire
 
-no way!
+no way!; out of the question!
 pas question!; hors de question!
 
 loud; noisy
@@ -9921,8 +9921,8 @@ double
 intention; intent; purpose
 l'intention; le but
 
-painting; picture; square
-la peinture; l'image; la place
+picture; image
+l'image
 
 frame; framework
 le cadre
@@ -11130,7 +11130,7 @@ le conseil
 time; weather; tense (verb)  
 le temps  
 
-paint (tends to be water-based); painting (act of)  
+paint (tends to be water-based); painting (act of)
 la peinture  
 
 lover  
@@ -12185,4 +12185,13 @@ qui est là?
 
 couch
 le divan
+
+darling; sweetheart
+chérie
+
+my fault
+ma faute
+
+no doubt; undoubtedly
+sans doute
 
