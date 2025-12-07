@@ -4960,3 +4960,14 @@ le flingue
 to crush; to grind; to mash; to pound
 broyer
 
+billing
+la facturation
+
+invoice
+la facture
+
+to bill; to charge
+facturer; charger
+
+to deliver
+livrer
