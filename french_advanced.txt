@@ -4971,3 +4971,9 @@ facturer; charger
 
 to deliver
 livrer
+
+bishop (chess)
+le fou (échecs)
+
+bishop (religion)
+l'évêque
