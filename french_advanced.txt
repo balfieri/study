@@ -4603,7 +4603,7 @@ allongé
 caravan; trailer
 la caravan; le camping-car; le caravane
 
-capital
+capital; crucial; vital
 capital
 
 dissolution
@@ -4977,3 +4977,13 @@ le fou (échecs)
 
 bishop (religion)
 l'évêque
+
+dew
+la rosée
+
+chouquette; small choux pastry sprinkled with sugar; little puff pastry with pearl sugar
+la chouquette
+
+to be tipsy
+être pompette
+

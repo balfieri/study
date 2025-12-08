@@ -5734,7 +5734,7 @@ il deretano; il sedere
 charity (act of generosity or kindness)
 la carità
 
-charity (donation)
+charity (donation, organization)
 la beneficenza
 
 instinctive
@@ -11851,17 +11851,8 @@ entrare da un orecchio e uscire dall'altro
 to jump into action
 entrare in ballo
 
-to fight like cats and dogs
-essere come cane e gatto
-
 to be an open book
 essere come un libro aperto; essere un libro aperto
-
-to be two peas in a pod
-essere due anime in un nocciolo
-
-to be the black sheep
-essere la pecora nera
 
 to go to the beach
 andare al mare; andare in spiaggia
@@ -17837,7 +17828,7 @@ deceased; dead
 defunto
 
 nativity scene
-il presepe
+il presepe; il presepio
 
 to be with my cousins
 stare con i miei cugini
@@ -102653,3 +102644,16 @@ chances are that (something)
 
 on strike
 in sciopero
+
+not as much as finished
+non quanto ultimato
+
+to direct elsewhere; to address elsewhere
+indirizzare altrove
+
+Cambodia
+la Cambogia
+
+kibble
+i croccantini; le crocchette
+
