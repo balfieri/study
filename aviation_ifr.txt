@@ -1,10 +1,13 @@
 # aviation_ifr.txt - instrument pilot written exam and checkride questions (focusing on ones I had problems with)
 #
+PAVE acronym for risk mitigation
+P: pilot ready (IMSAFE); A: aircraft airworthy (SPARROW, AV1ATES, ATOMATO FLAMES, FLAPS, GRABCARDD); V: environment (NWCRAFT); E: external pressures (passengers, get-there-itis)
+
+IMSAFE
+Illness (any); Medications (impairing, disqualifying); Stress (work, family, financial); Alcohol (legal and club compliance); Fatigue; Emotions (strong) or Eating (inadequate)
+
 SPARROW acronym for required aircraft documents
 S: Supplements; P: Placards; A: Airworthiness certificate; R: Registration; R: Radio license (when operating outside the U.S.); O: Operator's handbook; W: Weight and balance (use the version updated by the mechanic)
-
-30FTDUC acronym to remember when registration is no longer valid
-30: 30 days after death of holder; F: foreign registry; T: transfer of ownership; D: destroyed; U: USA citizenship revoked; C: canceled for another reason
 
 AV1ATES acronym for required inspections
 A: Annual and ADs; V: VOR (30 days, IFR only); 1: 100-hour (if aircraft is for hire); A: Altimeter (24 months, IFR only); T: Transponder (24 months); E: ELT (12 months or half battery or 1 Hour of cumulative use); S: Static system (24 months, IFR only)
@@ -17,6 +20,12 @@ F: Fuses unless uses circuit breakers (one complete set or 3 of each kind); L: L
 
 GRABCARDD acronym for additional equipment required for IFR
 G: Generator/alternator; R: Radio/navigation appropriate for flight; A: Attitude indicator; B: Ball; C: Clock with hours, minutes, seconds; A: Altimeter (pressure-sensitive); R: Rate of turn indicator; D: Directional gyroscope or HSI; D: DME at or above 24,000 feet if VOR required and can't substitute GPS
+
+NWKRAFT acronym for environmental things pilot must know during planning (91.103)
+N: NOTAMs; W: weather; K: known traffic delays; R: runway lengths; A: alternates if needed; F: fuel requirements; T: takeoff and landing distances
+
+30FTDUC acronym to remember when registration is no longer valid
+30: 30 days after death of holder; F: foreign registry; T: transfer of ownership; D: destroyed; U: USA citizenship revoked; C: canceled for another reason
 
 ANDS
 WEST EAST: accelerate causes deflection toward north, decelerate toward south; note that a steady turn from east or west does cause compass to overshoot or undershoot
@@ -1011,9 +1020,6 @@ no, it is not certified for IFR flight, even though you could use it to fly VOR 
 flying through haze can give the illusion of
 being higher than you actually are
 
-IMSAFE
-Illness; Medications; Stress; Alcohol; Fatigue; Emotions/Eating
-
 explain the problem with excessive nitrogen in the blood, for example due to scuba diving, and how to avoid it
 decompression sickness; wait 12 hours for uncontrolled (non-decompression) ascent when flying up to 8000 ft MSL; wait 24 hours if controlled (decompression) ascent OR when flying over 8000 ft MSL
 
@@ -1616,9 +1622,6 @@ cram, climb, clean, cool, call
 TTTTT acronym for holds and other course changes
 turn, time, twist, throttle, talk
 
-NWKRAFT acronym for things pilot must know during planning (91.103)
-N: NOTAMs; W: weather; K: known traffic delays; R: runway lengths; A: alternates if needed; F: fuel requirements; T: takeoff and landing distances
-
 three common errors of instrument scan
 fixation, omission, emphasis
 
@@ -1783,9 +1786,6 @@ I: inversion illusion: climb to level flight, then feel as if tumbling backward;
 
 RAIIM acronym for hazardous attitudes
 R: resignation (I am not helpless); A: antiathority (follow the rules); I: impulsivity (not so fast, think first); I: invulnerability (it could happen to me); M: macho (taking chances is foolish)
-
-PAVE acronym for risk mitigation
-P: pilot ready; A: aircraft airworthy; V: environment (weather, terrain, runways); E: external pressures
 
 PPPPP acronym for risk mitigation
 pilot, passengers, plane, programming, plan
