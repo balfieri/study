@@ -2028,7 +2028,7 @@ when a VOR frequency on an IFR low en route chart has a line under it, this mean
 the VOR does not transmit any voice on this frequency, only navigation signal and Morse code; look above the VOR information box to see if there is an FSS frequency you can use
 
 after the VOR identifier in a VOR information box, there can be a second frequency, which is
-the DME frequency; but that frequency is always determined from the VOR frequency, so a VOR receiver with DME can always determine it from the VOR frequency alone; if the DME frequency has a (Y) after it, then there is a slightly different pulse spacing and shifted frequency spacing than the typical 63 MHz of separation
+the DME frequency; but that frequency is always determined from the VOR frequency using a table lookup, so a VOR receiver with DME can always determine it from the VOR frequency alone; if the DME frequency has a (Y) after it, denoting Y mode, then there is a slightly different pulse spacing and shifted frequency spacing for ground replies than with X mode
 
 pitch control and performance instruments
 use the attitude indicator to set the pitch, then cross-check using the altitmeter, vertical speed indicator (VSI), and airspeed indicator
