@@ -102657,3 +102657,12 @@ la Cambogia
 kibble
 i croccantini; le crocchette
 
+to drive back from
+guidare di ritorno da
+
+to drive up to (place)
+arrivare in macchina a (luogo)
+
+cell parking lot; cell lot
+il parcheggio per cellulari
+

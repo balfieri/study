@@ -525,6 +525,9 @@ there are different altitudes on each side of the waypoint
 on IFR low en route chart, blue vs. black vs. brown routes
 blue is for RNAV route (usually GPS), black is for VOR route; brown is for military training route (below 1500 feet AGL)
 
+IR-079
+denotes a military training route
+
 with MON VORs, can get to any airport within
 100 nautical miles
 
@@ -1378,7 +1381,7 @@ MAA-8000 on an IFR chart stands for
 Maximum Authorized Altitude of 8,000 feet on that route or airway segment, which is the highest altitude at which you are assured reliable navigation signal reception along that airway
 
 12 things that can be used to identify a runway environment when on an IFR approach
-1) approach light system (but cannot descend below 100 feet above TDZE until red terminating bars or ride side row bars are visible); 2) red terminating bars of approach light system; 3) red side row bars of approach light system; 4) threshold; 5) threshold markings; 6) threshold lights; 7) runway end identify lights; 8) touchdown zone or touchdown zone markings; 11) touchdown zone lights; 10) visual glide slope indicator; 11) runway or runway markings; 12) runway lights
+1) approach light system, but cannot descend below 100 feet above TDZE until can see: red terminating bars or red side row lights of approach light system; 2) runway end identifier lights; 3) visual glide slope indicator; 4) threshold; 5) threshold markings; 6) threshold lights; 7) touchdown zone; 8) touchdown zone markings; 9) touchdown zone lights; 10) runway; 11) runway markings; 12) runways lights
 
 SIDs exist in order to
 ensure obstacle clearance, improve traffic flow, reduce communication workload, and maintain orderly separation of departing aircraft
@@ -2052,13 +2055,16 @@ VOR legacy high (H) nautical mile ranges
 from 1000 to 14500 feet AGL: 40; from 14500 to 18000 feet AGL: 100; from 18000 to 45000 feet: 130; from 45000 to 60000 feet: 100
 
 VOR low (VL) nautical mile ranges (newer)
-from 1000 to 5000 feet AGL: 70; from 5000 to 18000 feet AGL: 70
+from 1000 to 5000 feet AGL: 40; from 5000 to 18000 feet AGL: 70
 
 VOR high (VH) nautical mile ranges (newer)
-from 1000 to 5000 feet AGL: 70; from 5000 to 14500 feet AGL: 70; 14500 to 18000 feet AGL: 100; 18000 to 45000 feet AGL: 130; 45000 to 60000 feet AGL: 100
+from 1000 to 5000 feet AGL: 40; from 5000 to 14500 feet AGL: 70; 14500 to 18000 feet AGL: 100; 18000 to 45000 feet AGL: 130; 45000 to 60000 feet AGL: 100
 
 what does (VL) (L) mean in a VOR information box?
 VOR Low for the VOR, legacy low for the DME component
+
+what does (H) (DH) mean in a VOR information box?
+VOR legacy high for the VOR; DME high for the DME component
 
 when you go miss, if you don't hit the activate missed approach button
 the needle will still be tied to the overly-sensitive approach which will make it harder to stay on course
@@ -2238,7 +2244,7 @@ when you should get your clearance on the ground
 when you are not sure you will be able to stay in VMC before getting it in the air
 
 MVA
-minimum vectoring altitude is lowest altitude at which ATC can vector IFR aircraft while providing standard obstacle and terrain clearance; determined by sector; in some locations, may be lower than published MEAs or MOCAs; MVAs are not provided MVA charts, but must comply; must maintain VFR prior to reaching the MVA; if you can't maintain VFR, go back and land and get clearance on the ground
+minimum vectoring altitude is lowest altitude at which ATC can vector IFR aircraft while providing standard obstacle and terrain clearance; determined by sector; in some locations, may be lower than published MEAs or MOCAs; MVAs are not provided MVA charts, but must comply; must maintain VFR prior to reaching the MVA; if you can't maintain VFR, go back and land and get clearance on the ground; treat the MVA as a behind-the-scenes ATC limit and use the published miniumum IFR altitudes for your altitude planning
 
 0.5 to 1 mile before each waypoint on an approach
 start doing what comes next: identify nav aids, arm approach mode on autopilot, set next altitude bug, pre-landing checklist, radio calls
@@ -2398,3 +2404,27 @@ notify ATC when you pick up your clearance and ask them if it's ok to fly withou
 
 if your aircraft has a transponder, but it's broken, can you still fly IFR?
 yes, but only if you stay out of airspace where a transponder is required or you obtain an ATC deviation for the flight
+
+U/S in NOTAM
+unserviceable (out of service)
+
+8000G
+minimum en route altitude (MEA) for the segment when navigating using RNAV/GNSS (GPS) on the T-route; often lower than an MEA for VOR navigation
+
+L with a circle around it at airport
+pilot-controlled lighting is available
+
+a black dot with a circle around it with the name of an FSS and frequency
+remote communication outlet; indicates how to talk to the FSS near there
+
+blue box on IFR low en route chart with busy-square border
+ARTCC remote communications box, giving ARTCC center sector and primary and UHF frequencies; The smaller-font name is the location
+
+in a localizer label, what does 44(Y) mean after the localizer name?
+the localizer is assigned VHF channel 44Y
+
+compulsory reporting point
+solid triangle
+
+compulsory waypoint
+solid star
