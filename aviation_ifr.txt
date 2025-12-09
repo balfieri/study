@@ -1311,9 +1311,6 @@ night currency requirements to carry passengers at night
 night flying time that can be logged as at night
 between end of evening civil twilight (usually 30 minutes after sunday) to beginning of morning civil twilight (usually 30 minutes before sunrise)
 
-how to determine if you are current for IFR flight
-from the date of intended flight, count backward exactly 6 calendar months; you must have completed and logged the required tasks within that period
-
 DVA
 Diverse Vector Area is an airspace segment at certain airports where ATC may provide random radar vectors to an aircraft during its departure climb off a particular runway, even below the MVA, while still ensuring obstacle clearance; a pilot must maintain a continuous climb (usually at least 200 feet per nautical mile) until 400 feet AGL before turning or as specified by ATC; DVAs are published in the same place as ODPs, and used in lieu of an ODP or SID
 
