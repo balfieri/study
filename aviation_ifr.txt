@@ -2431,3 +2431,15 @@ maintain instrument cross check and avoid abrupt head motion during turns
 
 inverse-C symbol on approach plate
 refers to enhanced circling minimums, which are larger circling protected area for different categories; they are MDA-dependent; they provide the same 300 feet obstacle clearance within the protected area; note that the inverse-C can now be ignored because all circling areas have been adjusted to be consistent with the table in the Terminal Procedures Supplemental
+
+relationship between ICEFLAGS and special disorientation
+any of the eight illusions can lead to spatial disorientation if the pilot believes the illusion
+
+3 things required to land out of an IFR approach
+1) required visual references for the runway are in sight (see 12 things); 2) the aircraft is in a position to land using normal maneuvers and a normal descent rate; 3) the flight visibility is not less than that prescribed for the approach, and is what you actually observe out the window  (not the reported ceiling)
+
+acceptable weather products when planning an IFR flight
+METARs, TAFs, GFA tool, surface analysis and prog charts, winds and temperatures aloft forecasts, AIRMETs, SIGMENTs and convective SIGMETs, central weather advisories, radar, satellite, PIREPs; use aviationweather.gov and ForeFlight
+
+CTL 22
+circle to land runway 22
