@@ -1715,9 +1715,6 @@ the VOR function is not working but the DME function is working
 ODP is determined using the
 40 to 1 obstacle identification surface
 
-to ensure you remain clear of obstacles when flying an ODP
-cross departure end at or above 35 feet AGL; make first turn no earlier than 400 feet AGL; maintain climb gradient of at least 200 feet per nautical mile
-
 low close-in obstacle
 located within 1 nautical mile of the departure end of the runway that penetrates the 40 to one OCS
 
@@ -1934,8 +1931,8 @@ you fly the arc with a GPS, then switch to VOR for the inbound leg
 when ATC instructs you to Maintain 300 knots, descend pilot’s discretion, maintain 7000
 you are cleared to descend from 15,000 feet to 7,000 feet at your discretion, provided you maintain 300 knots throughout the descent until speed limits or further instructions apply, such as 250 knots below 10,000 feet
 
-radius of a TAF
-5 statute miles
+TAF radius
+5 statute miles; so RDU TAF cannot be used in planning for TTA
 
 the leans can lead to
 a graveyard spiral 
@@ -2241,7 +2238,7 @@ when you should get your clearance on the ground
 when you are not sure you will be able to stay in VMC before getting it in the air
 
 MVA
-minimum vectoring altitude is lowest altitude at which ATC can vector IFR aircraft while providing standard obstacle and terrain clearance; determined by sector; in some locations, may be lower than published MEAs or MOCAs; MVAs are not provided MVA charts, but must comply; must maintain VFR prior to reaching the MVA; if you can't maintain VFR, go back and land and get clearance on the ground; treat the MVA as a behind-the-scenes ATC limit and use the published miniumum IFR altitudes for your altitude planning
+minimum vectoring altitude is lowest altitude at which ATC can vector IFR aircraft while providing standard obstacle and terrain clearance; determined by sector; in some locations, may be lower than published MEAs or MOCAs; MVAs are not provided MVA charts, but must comply; must maintain VFR prior to reaching the MVA; if you can't maintain VFR, go back and land and get clearance on the ground; treat the MVA as a behind-the-scenes ATC limit and use the published minimum IFR altitudes for your altitude planning
 
 0.5 to 1 mile before each waypoint on an approach
 start doing what comes next: identify nav aids, arm approach mode on autopilot, set next altitude bug, pre-landing checklist, radio calls
@@ -2386,6 +2383,9 @@ up to 22 hours before your proposed departure time, but ATC normally has it and 
 
 TPP
 Terminal Procedures Publication; contains ODPs, takeoff minimums, SIDs, STARs, and approach plates
+
+ODP provides
+the least-onerous route from the runway to the en route structure that guarantees required obstacle clearance; can be textual in takeoff minimums and departure procedures section; can also be depicted graphically if complex (mountainous areas)
 
 ODP as it relates to part 91
 do not have to fly an ODP legally for part 91; ATC can give you a vector; you can tell ATC that you want to fly an ODP, and this is encouraged
