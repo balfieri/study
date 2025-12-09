@@ -1727,8 +1727,8 @@ printed on the airway when NAVAID reception isn't guaranteed
 MTA
 minimum turning altitude; lowest altitude at which an aircraft can safely turn from one leg of an airway to the next
 
-MARVELOUS VFR 500 acronym for required reporting points
-M: missed approach; A: airspeed change of 5% or 10 knots, whichever greater; R: reaching clearance limit or holding fix; V: vacating an altitude; E: ETA change of more than 2 minutes; L: leaving an assigned altitude; O: outer marker inbound (non-radar only); U: unforecasted weather; S: safety of flight; V: VFR on top altitude change; F: final approach fix inbound (non-radar only); R: radio failure; 500: unable to maintain 500 feet per minute climb
+MARVELOUS VFR C500 acronym for required reporting points
+M: missed approach; A: airspeed change of 5% or 10 knots (TAS), whichever greater; R: reaching clearance limit or holding fix (altitude, time); V: vacating an altitude or flight level; E: ETA change of more than 2 minutes (non-radar only); L: leaving a holding fix or waypoint; O: outer marker inbound (non-radar only, precision); U: unforecast weather; S: safety of flight; V: VFR on top altitude change; F: final approach fix inbound (non-radar only); R: radio or navigation failure; C: compulsory reporting point (non-radar only); 500: unable to maintain 500 feet per minute climb or descent
 
 A N-A on plate
 alternate minimums are not authorized due to unmonitored facility, absence of weather reporting, or inadequate navigation coverage
