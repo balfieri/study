@@ -1431,7 +1431,7 @@ stages of a thunderstorm
 in order to go missed during a circling approach after you have lined up with the intended runway
 climb toward the center of the airport and execute the missed procedure
 
-standard safety zone radii for circling approaches by aircraft category, in nautical miles
+old safety zone radii for circling approaches by aircraft category, in nautical miles
 A - 1.3; B - 1.5; C - 1.7; D - 2.3; E - 4.5
 
 standard obstacle clearance within circling approach area
@@ -1659,7 +1659,7 @@ PAR vs. ASR
 PAR: controller provides both lateral and vertical guidance; ASR: lateral guidance only
 
 SHARP TT acronomym for when to not fly procedure turn
-S: straight-in clearance; H: holding in lieu of PT; D: DME arc; R: radar vectors to final; P: No PT on plate; T: timed approach from holding fix; T: teardrop course reversal
+S: straight-in clearance; H: holding in lieu of PT; A: DME Arc; R: radar vectors to final; P: No PT on plate; T: timed approach from holding fix (as orchestrated by ATC); T: teardrop course reversal (turn outbound then inbound while losing altitude)
 
 how to calculate VDP distance from touchdown zone
 height above touchdown divided by 300
@@ -1744,9 +1744,6 @@ within 30 degrees of the final approach course
 
 APV
 approaches with vertical guidance provide course and glide path information but do not conform to ICAO Anex 10 stanards so that cannot be called precision approaches, even if LPV minimums are often identical to that of ILS
-
-expanded circling minimums
-presence of C symbol on circling line; circling MDA affects circling radius, not just the aircraft category
 
 when are circling minimums published when
 final approach course is more than 30 degrees from runway, descent gradient is greater than 400 feet per nautical miles, or the runway is not clearly defined
@@ -2298,7 +2295,7 @@ AMDT on lower left part of approach plate
 means minor amendment to the plate
 
 the circling MDA protected area extends from
-the runway threshold; when the approach plate shows the reverse C, you will need to consult the table to determine the cirling radius for your aircraft, but you shouldn't need it because you should always stay close to the runway
+the runway threshold; when the approach plate shows the reverse C, you will need to consult the table to determine the cirling radius for your aircraft, but you shouldn't need it because you should always stay close to the runway, like within a mile which is guaranteed to be safe if you are at or above the MDA
 
 when starting an approach at an intermediate fix
 ATC must give you an angle that is less than 90 degrees; you should advise ATC you are at the intermediate fix; ATC must radar monitor you
@@ -2431,3 +2428,6 @@ solid star
 
 how to avoid illusions
 maintain instrument cross check and avoid abrupt head motion during turns
+
+inverse-C symbol on approach plate
+refers to enhanced circling minimums, which are larger circling protected area for different categories; they are MDA-dependent; they provide the same 300 feet obstacle clearance within the protected area; note that the inverse-C can now be ignored because all circling areas have been adjusted to be consistent with the table in the Terminal Procedures Supplemental
