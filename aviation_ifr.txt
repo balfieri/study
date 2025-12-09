@@ -1605,7 +1605,7 @@ actual instrument conditions
 when outside weather conditions require you to fly soley by reference to your aircraft's instruments because you cannot maintain visual contact with the ground or horizon
 
 VDMONA acronym for compass errors
-V: variation; D: deviation (interference); M: magnetic dip; O: oscillation; N: UNOS; A: ANDS
+V: variation (diff from true north); D: deviation (interference); M: magnetic dip; O: oscillation; N: UNOS; A: ANDS
 
 CCCCC acronym for lost procedures
 climb, communicate, confess, comply, conserve
@@ -1782,10 +1782,10 @@ types of hypoxia
 hypoxic (lungs), hypemic (blood), histotoxic (cells), stagnant (circulation)
 
 ICEFLAGS acronym for in-flight illusions
-I: inversion; C: coriolis; E: elevator; F: false horizon; L: leans; A: autokinesis; G: graveyard spiral; S: somatogravic
+I: inversion illusion: climb to level flight, then feel as if tumbling backward; C: coriolis illusion: prolongued bank, followed by abrupt head movement; E: elevator illusion: vertical acceleration, then feel as if pitched up; F: false horizon: cloud formations, sloping terrain, ground lights; L: leans: undetected bank followed by abrupt leveling out, then feel as if banked the other way; A: autokinesis: at night, fixating on light, seems to be moving; G: graveyard spiral: you think you are leveled out, but really in a bank, then pull back and tighten up turn; S: somatogravic illusion: acceleration feels nose up, deceleration feels nose down
 
 RAIIM acronym for hazardous attitudes
-R: resignation; A: antiathority; I: impulsivity; I: invulnerability; M: macho
+R: resignation (I am not helpless); A: antiathority (follow the rules); I: impulsivity (not so fast, think first); I: invulnerability (it could happen to me); M: macho (taking chances is foolish)
 
 PAVE acronym for risk mitigation
 P: pilot ready; A: aircraft airworthy; V: environment (weather, terrain, runways); E: external pressures
@@ -2428,3 +2428,6 @@ solid triangle
 
 compulsory waypoint
 solid star
+
+how to avoid illusions
+maintain instrument cross check and avoid abrupt head motion during turns

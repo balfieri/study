@@ -19555,7 +19555,7 @@ il meccanismo
 revision; review; overhaul
 la revisione
 
-register; registrar; ledger
+register; registrar; ledger; logbook
 il registro
 
 planned; expected; foreseen; scripted
@@ -102665,4 +102665,22 @@ arrivare in macchina a (luogo)
 
 cell parking lot; cell lot
 il parcheggio per cellulari
+
+to keep someone on pins and needles;to keep someone in suspense
+tenere qualcuno sulle spine;tenere qualcuno sulle corde
+
+to get serious about (something)
+fare sul serio con (qualcosa)
+
+publicity stunt
+la trovata pubblicitaria; il numero pubblicitario
+
+stomach turning
+il voltastomaco
+
+I get myself (something ready); I fix myself (something)
+mi preparo (qualcosa)
+
+to prepare for (something)
+prepararsi per (qualcosa)
 
