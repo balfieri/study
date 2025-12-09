@@ -4,7 +4,7 @@ PAVE acronym for risk mitigation
 P: pilot ready (IMSAFE); A: aircraft airworthy (SPARROW, AV1ATES, ATOMATO FLAMES, FLAPS, GRABCARDD); V: environment (NWCRAFT); E: external pressures (passengers, get-there-itis)
 
 IMSAFE
-Illness (any); Medications (impairing, disqualifying); Stress (work, family, financial); Alcohol (legal and club compliance); Fatigue; Emotions (strong) or Eating (inadequate)
+I: Illness (any); M: Medications (impairing, disqualifying); S: Stress (work, family, financial); A: Alcohol (legal and club compliance); F: Fatigue; E: Emotions (strong) and Eating (inadequate)
 
 SPARROW acronym for required aircraft documents
 S: Supplements; P: Placards; A: Airworthiness certificate; R: Registration; R: Radio license (when operating outside the U.S.); O: Operator's handbook; W: Weight and balance (use the version updated by the mechanic)
