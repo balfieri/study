@@ -3166,8 +3166,8 @@ cruel
 deaf
 sourd
 
-famous
-célèbre
+famous; well-known
+célèbre; fameux
 
 scared; afraid
 effrayé
@@ -3339,9 +3339,6 @@ le a montre
 
 grape
 le raisin
-
-raisin
-le raisin sec
 
 outside; apart from; outside of
 en dehors de
@@ -5726,7 +5723,7 @@ strawberry
 la fraise
 
 raisin
-le raisin sec; les raisins secs
+le raisin sec
 
 steak
 le steak
@@ -12239,3 +12236,4 @@ voudrais-tu parler de (quelque chose)?
 
 to be scary
 faire peur
+
