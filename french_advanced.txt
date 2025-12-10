@@ -5058,3 +5058,6 @@ la force de vente; l'équipe commerciale
 
 ventilation
 la ventilation
+
+disappearance
+la disparition
