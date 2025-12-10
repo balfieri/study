@@ -5113,7 +5113,7 @@ la tomate
 it’s enough
 c’est assez; ça suffit
 
-to happen (general, daily events)
+to happen (general, daily events); to go; to work out (week, event, meeting)
 se passer; arriver
 
 to happen; to occur (neutral on predictability, noteworthy event, narrative, descriptive)
@@ -9168,7 +9168,7 @@ l'aide; l'assistance; le secours
 filling; stuffing (food)
 la farce; la garniture
 
-to fill
+to fill; to fill out
 remplir
 
 to complete; to fill out
@@ -12216,3 +12216,11 @@ c’est super
 what did you tell him?
 qu’est-ce que tu lui as dit?; qu’est-ce que vous lui avez dit?
 
+the week went well
+la semaine s'est très bien passée
+
+how did your week go?
+comment s'est passée ta semaine?
+
+including (somebody)
+y compris (quelqu'un)
