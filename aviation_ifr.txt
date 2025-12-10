@@ -2440,3 +2440,6 @@ METARs, TAFs, GFA tool, surface analysis and prog charts, winds and temperatures
 
 CTL 22
 circle to land runway 22
+
+an RNAV (GPS) approach might have only LNAV minimums and no LPV line when 
+the procedure cannot support LPV’s stricter requirements for vertical guidance, obstacle clearance, or equipment/service reliability
