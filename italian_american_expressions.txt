@@ -210,9 +210,6 @@ rain check
 top-of-the-line; high-end
 il top; top
 
-to touch base with
-sentirsi con
-
 up my alley
 nelle mie corde
 
@@ -2389,7 +2386,7 @@ top of the line
 il meglio; la qualità più alta
 
 to touch base with (somebody)
-mettersi in contatto con (qualcuno); fare il punto con (qualcuno)
+sentirsi con (qualcuno); mettersi in contatto con (qualcuno); fare il punto con (qualcuno)
 
 your John Handcock
 la tua firma
@@ -6728,3 +6725,9 @@ tipo che si lascia mettere i piedi in testa; la persona troppo accondiscendente
 
 bummer!
 che peccato!; che sfiga!
+
+skunkworks
+il laboratorio sperimentale segreto; il reparto progetti speciali
+
+skunk weed
+l'erba skunk; la marijuana skunk
