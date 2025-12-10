@@ -12234,3 +12234,8 @@ comparer
 each day
 chaque jour
 
+would you like to talk about (something)?
+voudrais-tu parler de (quelque chose)?
+
+to be scary
+faire peur
