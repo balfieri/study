@@ -2479,3 +2479,6 @@ umbrella around ODP and SID
 
 ways to calculate flight visibility quickly from the cockpit
 centerline strips are spaced 200 feet; runway aiming point markings are 1000 feet from the threshold; threshold markings are spaced 500 feet; MALSR or ALSF approach light systems are 2400 to 3000 feet long
+
+when are AIRMETs issued?
+every 6 hours starting at 0245, 0845, 1445, and 2045 zulu; valid for 6 hours
