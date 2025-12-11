@@ -2016,7 +2016,7 @@ how to calculate the bank angle for a standard rate turn
 15% of TAS
 
 during a check ride or intrument proficiency check, LPV is considered
-a precision approach
+a precision approach, though technically it is only an approach with vertical guidance (APV)
 
 the GTN 650 annunciates a yellow LPV, this means that
 it is trying to provide LPV level GPS, but it won't know until right before you get to the final approach fix whether it is possible
@@ -2172,7 +2172,7 @@ how much to level out above DA or MDA during check ride
 30 to 40 feet
 
 LPV vs. LNAV/VNAV precision
-LPV: 200 feet AGL, 1/2 mile visibility, 700 feet course width at threshold; LNAV/VNAV: 250 to 400 feet AGL, linear course width throughout
+LPV: 200 feet AGL, half mile visibility, 700 feet course width at threshold; LNAV/VNAV: 250 to 400 feet AGL, linear course width throughout
 
 new MOSAIC rules
 weight limits removed, up to 4 seats, maximum stall speed of 61 knots, maximum speed of 250 knots, broader aircraft types, retractable landing gear, constant-speed propellers, night flights, must have a non-pressurized cabin, should be able to glide when engine out
@@ -2442,7 +2442,7 @@ an RNAV (GPS) approach might have only LNAV minimums and no LPV line when
 the procedure cannot support LPV’s stricter requirements for vertical guidance, obstacle clearance, or equipment/service reliability
 
 ALS
-approach lighting system: A1, A5, etc.
+approach light system: A1, A5, etc.
 
 VGSI
 visual glide slope indicator (PAPI or VASI)
@@ -2476,3 +2476,6 @@ during descent
 
 DP
 umbrella around ODP and SID
+
+ways to calculate flight visibility quickly from the cockpit
+centerline strips are spaced 200 feet; runway aiming point markings are 1000 feet from the threshold; threshold markings are spaced 500 feet; MALSR or ALSF approach light systems are 2400 to 3000 feet long
