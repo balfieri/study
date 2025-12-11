@@ -2446,3 +2446,27 @@ approach lighting system: A1, A5, etc.
 
 VGSI
 visual glide slope indicator (PAPI or VASI)
+
+primary pitch instrument in straight and level flight, and during standard-rate turns
+altimeter
+
+primary bank instrument when established in a turn
+turn coordinator
+
+primary bank instrument when not turning
+heading indicator
+
+primary power instrument when not climbing or descending
+airspeed indicator
+
+primary power instrument when entering a constant speed or rate climb or descent
+tachometer or manifold pressure
+
+primary bank instrument when starting a turn
+attitude indicator
+
+primary pitch instrument for a stablized constant speed climb or descent
+airspeed indicator
+
+primary pitch instrument for a stablizied constant rate climb or descent
+vertical speed indicator
