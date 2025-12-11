@@ -727,7 +727,7 @@ what can be substituted for an inoperative ILS outer or middle marker
 compass locator or precision radar; note that DME may be substituted for outer marker only; DME; VOR; GPS
 
 compass locator
-radio beacon installed at the outer or middle market of an ILS approach to provide a navigational fix to help guide pilots to the localizer; the aircraft must have an ADF to receive it
+radio beacon installed at the outer or middle marker of an ILS approach to provide a navigational fix to help guide pilots to the localizer; the aircraft must have an ADF to receive it
 
 surface analysis chart represents
 frontal positions, pressure patterns, temperature, dewpoint, wind, weather, and obstructions to vision
@@ -1312,7 +1312,7 @@ night flying time that can be logged as at night
 between end of evening civil twilight (usually 30 minutes after sunday) to beginning of morning civil twilight (usually 30 minutes before sunrise)
 
 DVA
-Diverse Vector Area is an airspace segment at certain airports where ATC may provide random radar vectors to an aircraft during its departure climb off a particular runway, even below the MVA, while still ensuring obstacle clearance; a pilot must maintain a continuous climb (usually at least 200 feet per nautical mile) until 400 feet AGL before turning or as specified by ATC; DVAs are published in the same place as ODPs, and used in lieu of an ODP or SID
+Diverse Vector Area is an airspace segment at certain airports where ATC may provide random radar vectors to an aircraft during its departure climb off a particular runway, even below the MVA, while still ensuring obstacle clearance; a pilot must maintain a continuous climb (usually at least 200 feet per nautical mile) until 400 feet AGL before turning or as specified by ATC; DVAs are published in the same place as ODPs, and used in lieu of an ODP or SID; ATC does not assign it as a clearance item; published so pilots know which runways use them and and climb gradient required
 
 A-M-E: during an IFR lost communications situation, the altitude you should fly is
 the highest of the following three altitudes: the last assigned altitude by ATC, the Minimum IFR altitude for the route segment, or the altitude ATC expected you to fly
@@ -2376,7 +2376,7 @@ how soon can you file an IFR flight plan and how soon can you pick it up?
 up to 22 hours before your proposed departure time, but ATC normally has it and can work with it roughtly 30 to 45 minutes prior to your filed ETD; at a towered field, you can call for your clearance up to 30 minutes before your filed ETD; at a non-towered field, call within 10 minutes of when you are ready to go
 
 TPP
-Terminal Procedures Publication; contains ODPs, takeoff minimums, SIDs, STARs, and approach plates
+Terminal Procedures Publication; contains ODPs, takeoff minimums, SIDs, STARs, and approach plates; also called the Terminal Procedures Supplement
 
 ODP provides
 the least-onerous route from the runway to the en route structure that guarantees required obstacle clearance; can be textual in takeoff minimums and departure procedures section; can also be depicted graphically if complex (mountainous areas)
@@ -2470,3 +2470,9 @@ airspeed indicator
 
 primary pitch instrument for a stablizied constant rate climb or descent
 vertical speed indicator
+
+DURGD in a PIREP
+during descent
+
+DP
+umbrella around ODP and SID
