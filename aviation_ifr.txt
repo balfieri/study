@@ -343,7 +343,7 @@ during no gyroscope approach prior to being handed off to the final approach con
 standard rate
 
 letter D in airport sketch box indicates
-runway declared distance information is available
+runway declared distance information is available in the chart supplement
 
 below low-level temperature inversion layer with high humidity, should expect
 smooth air, poor visibility, fog, haze, low clouds
@@ -357,37 +357,37 @@ for right turns, outbound heading minus 30 degree; for left turns, outbound head
 VFR visibility and cloud clearance in class B airspace
 3 statute miles and clear of clouds
 
-VFR visibility and cloud clearance in class C airspace
+basic VFR visibility and cloud clearance in class C airspace
 3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
-VFR visibility and cloud clearance in class D airspace
+basic VFR visibility and cloud clearance in class D airspace
 3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
-VFR visibility and cloud clearance in class E airspace at or above 10,000 feet MSL
+basic VFR visibility and cloud clearance in class E airspace at or above 10,000 feet MSL
 5 statute miles, 1000 feet above, 1000 feet below, 1 statute mile horizontal (5 1 1 1)
 
-VFR visibility and cloud clearance in class E airspace below 10,000 feet MSL
+basic VFR visibility and cloud clearance in class E airspace below 10,000 feet MSL
 3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
-VFR visibility and cloud clearance in class G airspace above 1200 feet AGL and above 10,000 feet MSL
+basic VFR visibility and cloud clearance in class G airspace above 1200 feet AGL and above 10,000 feet MSL
 5 statute miles, 1000 feet above, 1000 feet below, 1 statute mile horizontal (5 1 1 1)
 
-VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but less than 10,000 feet MSL during the day
+basic VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but less than 10,000 feet MSL during the day
 1 statute mile, 1000 feet above, 500 feet below, 2000 feet horizontal (1 1 52)
 
-VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but less than 10,000 feet MSL at night
+basic VFR visibility and cloud clearance in class G airspace above 1200 feet AGL but less than 10,000 feet MSL at night
 3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
-VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during the day
+basic VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during the day
 1 statute mile and clear of clouds
 
 Special VFR visibility and cloud clearance in class E airspace at or below 1200 feet AGL during the day
 1 statute mile and clear of clouds
 
-VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during the night
+basic VFR visibility and cloud clearance in class G airspace at or below 1200 feet AGL during the night
 3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
-VFR visibility and cloud clearance that are not 3 1 52
+basic VFR visibility and cloud clearance that are not 3 1 52
 class B: 3 and clear; class E or G no more than 1200 feet AGL during day: 1 and clear; class E or G over 1200 feet AGL and at least 10,000 feet MSL: 5 1 1 1; class G over 1200 feet AGL but less than 10,000 feet MSL during day: 1 1 52
 
 after two-way communication failure at holding fix with an EFC time
@@ -1685,10 +1685,10 @@ requires authorization by FAA; other countries have RNP in the title
 if not equipped to fly a VDP
 fly the approach as if no VDP was published
 
-a solid black dot above an approach lighting letter identifier indicates
+a solid black dot above an approach lighting letter identifier such as A1 or A5 indicates
 a sequence of flashing lights
 
-negative approach lighting letter identifier symbology indicates
+negative or reverse approach lighting letter identifier symbology indicates
 pilot-controlled lighting
 
 during the cumulus stage of a thunderstorm, supercooled water molecules exist once
@@ -2099,9 +2099,6 @@ the magenta line on the map will change to the next segment
 when off course
 just stop track from moving away from desired track, then nudge it back
 
-on final approach, the GTN 650 screen that is most helpful is
-the default nav page; the map page isn't as useful at that point
-
 after making course corrections, check for wings level
 using the attitude indicator
 
@@ -2190,13 +2187,13 @@ where can IFR preferred routes be found
 chart supplements, FAA preferred routes database
 
 TORA
-take-off runway available from ground release to point of liftoff
+take-off runway available from ground release to point of liftoff; useful takeoff runway; excludes clearway and stopway
 
 TODA
 TORA plus length of any clearway (free of obstacles)
 
 ASDA 
-accelerate-stop distance available, which is TORA + length of any stopway
+accelerate-stop distance available, which is TORA + length of any stopway; used for rejected-takeoff calculations
 
 LDA 
 landing distance available, from landing threshold to end of runway (excluding displaced threshold)
@@ -2443,3 +2440,9 @@ circle to land runway 22
 
 an RNAV (GPS) approach might have only LNAV minimums and no LPV line when 
 the procedure cannot support LPV’s stricter requirements for vertical guidance, obstacle clearance, or equipment/service reliability
+
+ALS
+approach lighting system: A1, A5, etc.
+
+VGSI
+visual glide slope indicator (PAPI or VASI)
