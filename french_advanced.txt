@@ -5188,3 +5188,9 @@ le réveillon
 New Year's Eve dinner; New Year's Eve celebration
 le réveillon du jour de l'an
 
+username
+le nom d'utilisateur
+
+password
+le mot de passe
+
