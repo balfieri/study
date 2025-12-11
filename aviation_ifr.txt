@@ -354,7 +354,7 @@ above 14,500 AGL, VORTAC facilities should be no more than
 heading to use for teardrop entry to hold
 for right turns, outbound heading minus 30 degree; for left turns, outbound heading plus 30 degrees
 
-VFR visibility and cloud clearance in class B airspace
+basic VFR visibility and cloud clearance in class B airspace
 3 statute miles and clear of clouds
 
 basic VFR visibility and cloud clearance in class C airspace

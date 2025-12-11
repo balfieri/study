@@ -102716,3 +102716,6 @@ il puzzola
 
 since before (something)
 da prima di
+
+to miss a question on the test
+sbagliare una domanda all'esame
