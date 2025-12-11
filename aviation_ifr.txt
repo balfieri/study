@@ -19,7 +19,7 @@ FLAPS acronym for additional equipment required at night for VFR
 F: Fuses unless uses circuit breakers (one complete set or 3 of each kind); L: Landing light (only when for hire); A: Anti-collision lights (for aircraft registered after Aug 11, 1971); P: Position (nav) lights; S: Source of electricity (alternator, generator)
 
 GRABCARDD acronym for additional equipment required for IFR
-G: Generator/alternator; R: Radio/navigation appropriate for flight; A: Attitude indicator; B: Ball; C: Clock with hours, minutes, seconds; A: Altimeter (pressure-sensitive); R: Rate of turn indicator; D: Directional gyroscope or HSI; D: DME at or above 24,000 feet if VOR required and can't substitute GPS
+G: Generator/alternator; R: Radio/navigation appropriate for flight; A: Attitude indicator; B: Ball; C: Clock with hours, minutes, seconds; A: Altimeter (pressure-sensitive, has baro setting); R: Rate of turn indicator; D: Directional gyroscope or HSI; D: DME at or above 24,000 feet if VOR required and can't substitute GPS
 
 NWKRAFT acronym for environmental things pilot must know during planning (91.103)
 N: NOTAMs; W: weather; K: known traffic delays; R: runway lengths; A: alternates if needed; F: fuel requirements; T: takeoff and landing distances
