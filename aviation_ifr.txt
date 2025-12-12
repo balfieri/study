@@ -112,7 +112,7 @@ if ATC gives a pilot a clearance void time, he must depart
 before the void time; if he can't, he should report it to ATC as soon as possible and no later than 30 minutes after the void time
 
 BasicMed: 
-no more than 7 occupants, less than 18,000 feet; no more than 250 KIAS; up to 12,500 pounds; within the USA (usually); never for hire; state-issued driver license must be carried; comprehensive medical examination checklist (CMEC) and BasicMed Medical Education Course completion certificate must be kept and available if requested; to stay current, pilot must get a physical exam every 48 calendar months and update the CMEC, and must complete an online BasicMed Educational Course every 24 calendar months 
+no more than 7 occupants, less than 18,000 feet; no more than 250 KIAS; up to 12,500 pounds; covered aircraft; within the USA (usually); never for hire; must carry state-issued driver license must be carried; must carry comprehensive medical examination checklist (CMEC) and BasicMed Medical Education Course completion certificate; to stay current, pilot must get a physical exam every 48 calendar months and update the CMEC, and must complete an online BasicMed Educational Course every 24 calendar months 
 
 GBAS approach 
 ground-based augmentation for GPS that provides less than 1 meter accuracy in horizontal and vertical axes; flown same as ILS after selected; precision approach; GBAS landing system (GLS)
