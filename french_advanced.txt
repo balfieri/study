@@ -5331,3 +5331,6 @@ se mettre dans l’esprit de Noël
 
 to get into
 se mettre dans
+
+selected; chosen
+sélectionné
