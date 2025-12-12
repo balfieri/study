@@ -88233,7 +88233,7 @@ scontare la pena
 witness protection
 la protezione testimoni
 
-bigot; excessively devout person; prude; prig; religious zealot; fanatic
+bigot; stick-in-the-mud; excessively devout person; prude; prig; religious zealot; fanatic
 il bacchettone
 
 foster home; group home; family group home; children's home
@@ -102716,3 +102716,19 @@ da prima di
 
 to miss a question on the test
 sbagliare una domanda all'esame
+
+to forget things
+dimenticare delle cose
+
+it tastes like
+ha un sapore di
+
+to have something wrong
+avere qualcosa che non va
+
+to be wrong about (something)
+sbagliarsi su (qualcosa)
+
+hard-headed; tough guy
+l'ossoduro
+
