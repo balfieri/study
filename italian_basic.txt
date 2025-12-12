@@ -2413,9 +2413,6 @@ c'è la nebbia
 cloudy
 nuvoloso
 
-stormy
-tempestoso; burrascoso
-
 it's bad (weather)
 fa brutto tempo
 

@@ -967,9 +967,6 @@ una cosa simile
 gusty
 rafficato; burrascoso
 
-stormy; rocky; gusty
-burrascoso
-
 crosswind
 il vento di traverso; il vento trasversale; il vento al traverso
 
@@ -66749,9 +66746,6 @@ Potremmo anche (fare qualcosa)
 3:00 in the afternoon; 3pm; 3p
 le tre del pomeriggio
 
-your fly is down
-la tua mosca è abbassata
-
 zipper
 la cerniera
 
@@ -102732,3 +102726,11 @@ sbagliarsi su (qualcosa)
 hard-headed; tough guy
 l'ossoduro
 
+stormy; turbulent; tempestuous; rocky; gusty
+tempestoso; burrascoso
+
+fly (of trousers); flap (of a pocket); draw (in a game)
+la patta
+
+your fly is down
+hai la patta aperta; la patta è aperta

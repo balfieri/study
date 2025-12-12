@@ -5200,11 +5200,14 @@ tu essaies de gâcher (quelque chose)
 I see what you're doing
 je vois ce que tu fais
 
-to ruin
+to ruin; to spoil
 gâcher
 
 to ruin Christmas
 gâcher Noël
+
+to ruin (destroy completely)
+ruiner
 
 Christian
 crétien
@@ -5319,4 +5322,7 @@ avoir (quelque chose) de travers
 
 to be wrong about (something)
 se tromper sur (quelque chose)
+
+I see what you're trying to do here
+Je vois ce que tu essaies de faire ici
 
