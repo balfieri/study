@@ -1459,7 +1459,7 @@ Visual Climb Over Airport (VCOA)
 IFR departure procedure that allows a pilot to climb visually in specified VMC conditions by circling over the airport to a published altitude prior to proceeding en route; obstacles are beyond 3 statute miles from the airport
 
 lost comms AVEF MEA acronym
-A: assigned; V: vectored; E: expected; F: filed; M: miminum IFR altitude for operations for the segment (MEA, MOCA, OROCA); E: expected; A: assigned; so AVEF is for the route and MEA is for the altitude
+route in order of priority: A: assigned route; V: vectored route to fix or airway (should go direct to fix); E: expected route; F: filed route; choose highest of these: M: miminum IFR altitude for operations for the segment (MEA, MIA, MOCA, OROCA, etc.); E: expected altitude at a future time or fix; A: last ATC-assigned altitude
 
 DVFR flight plan
 special VFR flight plan required while penetrating or flying within an Air Defense Identification Zone (ADIZ), such as crossing into U.S. airspace from abroad or near certain sensitive boundaries
