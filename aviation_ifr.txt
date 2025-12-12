@@ -1659,7 +1659,7 @@ PAR vs. ASR
 PAR: controller provides both lateral and vertical guidance; ASR: lateral guidance only
 
 SHARP TT acronomym for when to not fly procedure turn
-S: straight-in clearance; H: holding in lieu of PT; A: DME Arc; R: radar vectors to final; P: No PT on plate; T: timed approach from holding fix (as orchestrated by ATC); T: teardrop course reversal (turn outbound then inbound while losing altitude)
+S: straight-in clearance; H: holding in lieu of PT; A: DME Arc; R: radar vectors to final approach course; P: No PT where shown on plate; T: timed approach from holding fix (as orchestrated by ATC); T: teardrop course reversal (turn outbound then inbound while losing altitude)
 
 how to calculate VDP distance from touchdown zone
 height above touchdown divided by 300
@@ -1812,7 +1812,7 @@ different RNPs
 en route: RNP 2.0; terminal and departure: RNP 1.0; final approach: RNP 0.3
 
 ASOS vs. AWOS
-ASOS updated hourly, AWOS every minute
+both internally updated each minute, though METER updated hourly; ASOS updated hourly, AWOS every minute
 
 fog
 cloud that begins within 50 feet of the surface
@@ -2482,3 +2482,9 @@ centerline strips are spaced 200 feet; runway aiming point markings are 1000 fee
 
 when are AIRMETs issued?
 every 6 hours starting at 0245, 0845, 1445, and 2045 zulu; valid for 6 hours
+
+OROCA
+off-route obstruction clearance altitude found on IFR enroute charts; a grid-based altitude that provides a terrain/obstruction buffer when you are not on a published airway
+
+requirements for forming a thunderstorm
+moist air, unstable lapse rate, initial lifting force

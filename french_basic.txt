@@ -1418,7 +1418,7 @@ pen; fountain pen
 stylo; stylo plume
 
 tree
-arbre
+l'arbre
 
 first; firstly; at first
 d'abord
@@ -11979,7 +11979,7 @@ l’an dernier
 not good
 pas bon  
 
-to go for a walk  
+to go for a walk; to stroll
 se promener  
 
 alcohol  
