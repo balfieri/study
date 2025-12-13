@@ -2827,9 +2827,6 @@ pleurer
 to smile
 sourire
 
-to believe
-coire
-
 to call
 appeler
 
@@ -10941,9 +10938,6 @@ le diable
 shot; throw  
 le tir; le lancer  
 
-last name; surname  
-le nom de famille  
-
 art  
 l'art  
 
@@ -11643,6 +11637,9 @@ to be worse
 to talk to (somebody) about (something)  
 parler à (quelqu'un) de (quelque chose)  
 
+to believe
+croire
+
 to believe in (something)  
 croire en (quelque chose); croire à (quelque chose)  
 
@@ -12236,4 +12233,7 @@ voudrais-tu parler de (quelque chose)?
 
 to be scary
 faire peur
+
+sweet; sugary; sugared
+sucré
 

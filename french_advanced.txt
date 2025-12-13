@@ -1816,9 +1816,6 @@ la subtile différence; la différence subtile
 messenger
 le messager
 
-sugared
-sucré
-
 salted; salty
 salé
 
@@ -5392,3 +5389,23 @@ distribuer
 beggar
 le mendiant
 
+children's story
+l'histoire pour enfants; le conte pour enfants
+
+seasick
+mal de mer
+
+sweet things; sweet food
+le sucré
+
+fair price; reasonable price
+le prix de bons comptes
+
+first name
+le prénom
+
+last name; surname
+le nom de famille
+
+middle name
+le deuxième prénom; le nom intermédiaire
