@@ -5409,3 +5409,39 @@ le nom de famille
 
 middle name
 le deuxième prénom; le nom intermédiaire
+
+card trick
+le tour de cartes
+
+deck of cards
+le jeu de cartes
+
+to shuffle the cards
+battre les cartes
+
+to cut the deck of cards
+couper le jeu de cartes
+
+suit of cards
+la sorte de cartes
+
+spade (cards)
+la pique
+
+club (cards)
+le trèfle
+
+diamond (cards); tile; windowpane; check
+le carreau
+
+jack (cards)
+le valet
+
+ace
+l'as
+
+joker
+le joker
+
+think of a card!
+pense à une carte!
