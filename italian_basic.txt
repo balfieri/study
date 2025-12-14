@@ -8001,3 +8001,6 @@ il tutor; la tutor
 
 away from
 lontano da; via da; distante da
+
+woman; queen (cards)
+la donna

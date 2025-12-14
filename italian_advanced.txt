@@ -43456,7 +43456,7 @@ licenziare (qualcuno)
 traffic pattern (airport)
 il circuito di traffico
 
-spade
+spade (cards)
 la picca
 
 joker
@@ -102762,3 +102762,17 @@ storia per bambini
 giddy-up!
 avanti, trotto!
 
+card trick
+il trucco con le carte
+
+to shuffle the cards
+mescolare le carte
+
+to cut the deck of cards
+tagliare il mazzo di carte
+
+suit of cards
+il semi di carte
+
+think of a card!
+pensa a una carta!
