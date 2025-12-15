@@ -7986,7 +7986,7 @@ effacer; supprimer
 to eliminate
 éliminer
 
-swear word; dirty word
+swear word; bad word; dirty word
 le gros mot; le mot sale
 
 to say bad words; to say naughty words
