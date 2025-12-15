@@ -3782,7 +3782,7 @@ last 2 minutes; final 2 minutes
 les 2 dernières minutes
 
 Scotland
-l'Ecosse
+l'Écosse
 
 land; ground; terrain; field
 le terrain
@@ -5674,3 +5674,29 @@ il n'est jamais trop tard pour
 young lady
 la jeune fille; la demoiselle; la jeune femme
 
+ugly hat
+le chapeau laid
+
+to the children
+aux enfants
+
+when I returned to the United States
+quand je suis retourné aux États-Unis
+
+New Year; New Year’s Day
+le nouvel an
+
+swear word; bad word
+le gros mot
+
+castor oil
+l'huile de ricin
+
+camera
+l'appareil photo
+
+cartoon
+le dessin-animé
+
+lens (camera); objective; goal
+l'objectif
