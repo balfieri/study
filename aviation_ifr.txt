@@ -2488,3 +2488,6 @@ off-route obstruction clearance altitude found on IFR enroute charts; a grid-bas
 
 requirements for forming a thunderstorm
 moist air, unstable lapse rate, initial lifting force
+
+PARE acronym for spin recovery
+power to idle; ailerons to neutral; rudder full opposite; elevator pitch down; and then neutralize main controls
