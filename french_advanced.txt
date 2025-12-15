@@ -5700,3 +5700,10 @@ le dessin-animé
 
 lens (camera); objective; goal
 l'objectif
+
+technical problem
+le problème technique
+
+unexpected problem
+le problème inattendu
+
