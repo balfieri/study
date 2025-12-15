@@ -3245,7 +3245,7 @@ card; map
 la carte
 
 sea
-le mer
+la mer
 
 mountain
 la montagne
@@ -12243,3 +12243,8 @@ la mort
 to throw; to throw away
 jéter
 
+correct this French
+corrige ce français
+
+the only time
+la seule fois
