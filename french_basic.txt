@@ -7457,7 +7457,7 @@ quatre-vingts
 ninety
 quatre-vingt-dix
 
-one hundred
+one hundred; hundred; cent
 cent
 
 thousand
@@ -12236,4 +12236,10 @@ faire peur
 
 sweet; sugary; sugared
 sucré
+
+death
+la mort
+
+to throw; to throw away
+jéter
 
