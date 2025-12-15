@@ -5521,3 +5521,8 @@ l'émeute
 genetic
 génétique
 
+jockey
+le jockey
+
+defunct
+défunt; defunct
