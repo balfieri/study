@@ -3202,7 +3202,7 @@ le monde
 people
 les gens
 
-the hospital
+hospital
 l'hôpital
 
 love
@@ -5980,9 +5980,6 @@ la gorge
 
 nausea
 la nausée
-
-flu
-la grippe
 
 cough
 le toux
@@ -12251,4 +12248,7 @@ la seule fois
 
 it's getting better
 ça s'améliore
+
+have a good trip!
+bon voyage!
 
