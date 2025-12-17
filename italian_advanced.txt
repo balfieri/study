@@ -102840,3 +102840,12 @@ la cabina fotografica
 ignominious; disgraceful; shameful
 ignominioso
 
+terrace; deck (house)
+la terrazza
+
+lifespan
+il lifespan; la durata della vita; la vita utile
+
+healthspan
+la durata della salute; la salute lungo l’arco della vita
+
