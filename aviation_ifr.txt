@@ -1658,7 +1658,7 @@ full scale deflection o a VOR approach
 PAR vs. ASR
 PAR: controller provides both lateral and vertical guidance; ASR: lateral guidance only
 
-SHARP TT acronomym for when to not fly procedure turn
+SHARP TT acronym for when to not fly procedure turn
 S: straight-in clearance; H: holding in lieu of PT; A: DME Arc; R: radar vectors to final approach course; P: No PT where shown on plate; T: timed approach from holding fix (as orchestrated by ATC); T: teardrop course reversal (turn outbound then inbound while losing altitude)
 
 how to calculate VDP distance from touchdown zone
