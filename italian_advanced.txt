@@ -102824,3 +102824,7 @@ ghostare (qualcuno)
 
 to breath one's last breath
 esalare l'ultimo respiro
+
+it sounds like (something)
+suona come (qualcosa)
+
