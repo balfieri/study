@@ -63617,8 +63617,8 @@ la gamba di sedano
 log (wood)
 il tronco; il ceppo
 
+to churn out; to remove from the oven
 sfornare
-remove from the oven
 
 bowtie
 il papillon; il farfallino
@@ -102848,4 +102848,10 @@ il lifespan; la durata della vita; la vita utile
 
 healthspan
 la durata della salute; la salute lungo l’arco della vita
+
+imp
+l'imp
+
+life's work
+l'opera di una vita
 
