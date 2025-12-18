@@ -12261,3 +12261,6 @@ puis
 are you ready?
 es-tu prêt?
 
+have fun!
+amuse-toi!
+
