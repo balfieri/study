@@ -19993,7 +19993,7 @@ spacciato
 well-built; well-made; well done
 benfatto
 
-hardened; ingrained
+hardcore; inveterate; dyed-in-the-wool; hardened; calloused; confirmed; ingrained
 incallito
 
 not that there's anything wrong with it; not that there's anything wrong with that
@@ -102863,3 +102863,9 @@ il sottosegretario; la sottosegretaria
 
 the possessive
 il possessivo
+
+the power went out
+è saltata la luce; e` andata via la corrente
+
+hardcore gamer
+un giocatore incallito
