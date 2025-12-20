@@ -12264,3 +12264,11 @@ es-tu prêt?
 have fun!
 amuse-toi!
 
+this
+ceci
+
+this is
+ceci est
+
+these are are are are
+ce sont
