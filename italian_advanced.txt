@@ -20662,7 +20662,22 @@ il trauma
 llama
 il lama
 
-blade; llama
+the llamas
+i lama
+
+gnu
+lo gnu
+
+gnus
+gli gnu
+
+gorilla
+il gorilla
+
+gorillas
+i gorilla
+
+blade
 la lama
 
 handle; grip
@@ -102870,5 +102885,3 @@ the power went out
 hardcore gamer
 un giocatore incallito
 
-celiac disease
-la celiachia

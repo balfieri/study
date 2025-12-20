@@ -4702,8 +4702,11 @@ adorabile
 screen
 lo schermo
 
-movie theater
+movie theater; cinema
 il cinema; il cinematografo
+
+movie theaters; cinemas
+i cinema
 
 to rob (a person)
 derubare
