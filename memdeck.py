@@ -60,6 +60,7 @@ fwd_i_last  = 51
 rev_i_begin = 0
 rev_i_last  = -1
 rand_card_cnt = 0
+rand_qnum_cnt = 0
 rand_cnum_cnt = 0
 i = 1
 while i < len( sys.argv ):
@@ -87,6 +88,8 @@ while i < len( sys.argv ):
         rev_i_last  = 13*q + 0
     elif arg == '-randc':
         rand_card_cnt = int(sys.argv[i])
+    elif arg == '-randq':
+        rand_qnum_cnt = int(sys.argv[i])
     elif arg == '-randn':
         rand_cnum_cnt = int(sys.argv[i])
     else:
@@ -122,7 +125,7 @@ if fwd_i_begin <= fwd_i_last:
             ans = ans.rstrip()
             if ans != deck[i]: 
                 missed += 1
-                print( f'*{deck[i]}' )
+                print( f'> {deck[i]}' )
             i += 1
         deck_print( deck, fwd_i_begin, fwd_i_last )
 
@@ -142,7 +145,7 @@ if rev_i_last >= rev_i_begin:
             ans = ans.rstrip()
             if ans != deck[i]: 
                 missed += 1
-                print( f'*{deck[i]}' )
+                print( f'> {deck[i]}' )
             i -= 1
         deck_print( deck, rev_i_begin, rev_i_last )
 
@@ -158,7 +161,7 @@ if rand_card_cnt != 0:
         ans = input( f'{i}: ' )
         ans = ans.rstrip()
         if ans != deck[i]: 
-            print( f'*{deck[i]}' )
+            print( f'> {deck[i]}' )
 
 #-----------------------------------------------------------------------
 # random card num
@@ -172,4 +175,19 @@ if rand_cnum_cnt != 0:
         card = deck[i]
         ii = input_int( f'{card}: ', 0, 51 )
         if ii != i:
-            print( f'*{i}' )
+            print( f'> {i}' )
+
+#-----------------------------------------------------------------------
+# random quadrant num
+#-----------------------------------------------------------------------
+if rand_qnum_cnt != 0:
+    input( '\nhit any key to continue' )
+    clear()
+    print( '\nTell me the quandrant of these random cards:\n' )
+    for r in range(rand_qnum_cnt):
+        i = rand_n( 52 )
+        q = int( i / 13 )
+        card = deck[i]
+        qq = input_int( f'{card}: ', 0, 3 )
+        if qq != q:
+            print( f'> {q} ({i})' )
