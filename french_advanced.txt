@@ -5940,3 +5940,15 @@ enregistre; sauvegarder
 
 to save a file
 enregistrer un fichier; sauvegarder un fichier
+
+to renovate
+rénover
+
+to restore
+restaurer
+
+to refurbish
+remettre à neuf
+
+to repair; to fix
+réparer
