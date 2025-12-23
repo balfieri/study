@@ -4,6 +4,8 @@
 #
 import sys
 import json
+import random
+import time
 
 def die( msg, prefix='ERROR: ' ):
     print( prefix + msg )
@@ -34,16 +36,31 @@ def deck_print( deck, i, j ):
             c = 0
         i += 1
 
+def rand_n( n ):
+    return int( random.random() * n )
+
+def input_int( prompt, v0, v1 ):
+    while True:
+        s = input( prompt )
+        try:
+            i = int(s)
+            if i >= v0 and i <= v1: return i;
+        except:
+            pass
+        print( f'Enter a valid integer in the range {v0} .. {v1}' )
+
 #-----------------------------------------------------------------------
 # process command line args
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 1: die( 'usage: memdeck.py [options]', '' )
 json_filename = 'mydeck.json'
 do_print_deck = False
-fwd_i_begin = 0
-fwd_i_last  = 52
+fwd_i_begin = 52
+fwd_i_last  = 51
 rev_i_begin = 0
 rev_i_last  = -1
+rand_card_cnt = 0
+rand_cnum_cnt = 0
 i = 1
 while i < len( sys.argv ):
     arg = sys.argv[i]
@@ -68,10 +85,15 @@ while i < len( sys.argv ):
         q = int(sys.argv[i])
         rev_i_begin = 13*q + 12
         rev_i_last  = 13*q + 0
+    elif arg == '-randc':
+        rand_card_cnt = int(sys.argv[i])
+    elif arg == '-randn':
+        rand_cnum_cnt = int(sys.argv[i])
     else:
-        i -= 1
-        break
+        die( 'unknown arg: {arg}' )
     i += 1
+
+random.seed( time.time() )
 
 #-----------------------------------------------------------------------
 # read in deck from private .json file
@@ -123,3 +145,31 @@ if rev_i_last >= rev_i_begin:
                 print( f'*{deck[i]}' )
             i -= 1
         deck_print( deck, rev_i_begin, rev_i_last )
+
+#-----------------------------------------------------------------------
+# random card
+#-----------------------------------------------------------------------
+if rand_card_cnt != 0:
+    input( '\nhit any key to continue' )
+    clear()
+    print( '\nTell me the cards at these random indexes:\n' )
+    for r in range(rand_card_cnt):
+        i = rand_n( 52 )
+        ans = input( f'{i}: ' )
+        ans = ans.rstrip()
+        if ans != deck[i]: 
+            print( f'*{deck[i]}' )
+
+#-----------------------------------------------------------------------
+# random card num
+#-----------------------------------------------------------------------
+if rand_cnum_cnt != 0:
+    input( '\nhit any key to continue' )
+    clear()
+    print( '\nTell me the indexes of these random cards:\n' )
+    for r in range(rand_cnum_cnt):
+        i = rand_n( 52 )
+        card = deck[i]
+        ii = input_int( f'{card}: ', 0, 51 )
+        if ii != i:
+            print( f'*{i}' )
