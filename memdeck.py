@@ -12,7 +12,11 @@ def die( msg, prefix='ERROR: ' ):
     else:
         sys.exit( 1 )
 
+def clear():
+    for i in range(100): print()
+
 def deck_print( deck, i, j ):
+    print()
     tot = 0
     c = 0
     while i <= j:
@@ -38,8 +42,8 @@ json_filename = 'mydeck.json'
 do_print_deck = False
 fwd_i_begin = 0
 fwd_i_last  = 52
-rev_i_begin = 51
-rev_i_last  = 0
+rev_i_begin = 0
+rev_i_last  = -1
 i = 1
 while i < len( sys.argv ):
     arg = sys.argv[i]
@@ -84,24 +88,38 @@ if deck_len != 52: die( f'deck does not have 52 cards, got {deck_len}: {deck}' )
 # forward
 #-----------------------------------------------------------------------
 if fwd_i_begin <= fwd_i_last:
-    print( '\nTell me the cards in forward order:\n' )
-    i = fwd_i_begin
-    while i <= fwd_i_last:
-        ans = input( f'{i}: ' )
-        ans = ans.rstrip()
-        if ans != deck[i]: print( f'*{deck[i]}' )
-        i += 1
-
-deck_print( deck, fwd_i_begin, fwd_i_last )
+    missed = 1
+    while missed != 0:
+        input( '\nhit any key to continue' )
+        clear()
+        missed = 0
+        print( '\nTell me the cards in forward order:\n' )
+        i = fwd_i_begin
+        while i <= fwd_i_last:
+            ans = input( f'{i}: ' )
+            ans = ans.rstrip()
+            if ans != deck[i]: 
+                missed += 1
+                print( f'*{deck[i]}' )
+            i += 1
+        deck_print( deck, fwd_i_begin, fwd_i_last )
 
 #-----------------------------------------------------------------------
 # reverse
 #-----------------------------------------------------------------------
 if rev_i_last >= rev_i_begin:
-    print( '\nTell me the cards in reverse order:\n' )
-    i = rev_i_last
-    while i >= rev_i_begin:
-        ans = input( f'{i}: ' )
-        ans = ans.rstrip()
-        if ans != deck[i]: print( f'*{deck[i]}' )
-        i -= 1
+    missed = 1
+    while missed != 0:
+        input( '\nhit any key to continue' )
+        clear()
+        missed = 0
+        print( '\nTell me the cards in reverse order:\n' )
+        i = rev_i_last
+        while i >= rev_i_begin:
+            ans = input( f'{i}: ' )
+            ans = ans.rstrip()
+            if ans != deck[i]: 
+                missed += 1
+                print( f'*{deck[i]}' )
+            i -= 1
+        deck_print( deck, rev_i_begin, rev_i_last )
