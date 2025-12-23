@@ -5956,3 +5956,6 @@ réparer
 the big lie
 le grand mensonge
 
+to resort to violence
+avoir recours à la violence
+
