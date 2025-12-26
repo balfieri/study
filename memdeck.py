@@ -62,6 +62,7 @@ rev_i_last  = -1
 rand_card_cnt = 0
 rand_qnum_cnt = 0
 rand_cnum_cnt = 0
+deck_end = 52
 i = 1
 while i < len( sys.argv ):
     arg = sys.argv[i]
@@ -92,6 +93,8 @@ while i < len( sys.argv ):
         rand_qnum_cnt = int(sys.argv[i])
     elif arg == '-randn':
         rand_cnum_cnt = int(sys.argv[i])
+    elif arg == '-de':
+        deck_end = int(sys.argv[i])
     else:
         die( 'unknown arg: {arg}' )
     i += 1
@@ -157,7 +160,7 @@ if rand_card_cnt != 0:
     clear()
     print( '\nTell me the cards at these random indexes:\n' )
     for r in range(rand_card_cnt):
-        i = rand_n( 52 )
+        i = rand_n( deck_end )
         ans = input( f'{i}: ' )
         ans = ans.rstrip()
         if ans != deck[i]: 
@@ -171,7 +174,7 @@ if rand_cnum_cnt != 0:
     clear()
     print( '\nTell me the indexes of these random cards:\n' )
     for r in range(rand_cnum_cnt):
-        i = rand_n( 52 )
+        i = rand_n( deck_end )
         card = deck[i]
         ii = input_int( f'{card}: ', 0, 51 )
         if ii != i:
@@ -185,9 +188,12 @@ if rand_qnum_cnt != 0:
     clear()
     print( '\nTell me the quandrant of these random cards:\n' )
     for r in range(rand_qnum_cnt):
-        i = rand_n( 52 )
+        i = rand_n( deck_end )
         q = int( i / 13 )
         card = deck[i]
         qq = input_int( f'{card}: ', 0, 3 )
         if qq != q:
-            print( f'> {q} ({i})' )
+            qi = i % 13
+            qr = int(i/4)
+            qc = i % 4
+            print( f'> {q} ({i}, r{qr}, c{qc})' )
