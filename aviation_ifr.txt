@@ -2524,3 +2524,6 @@ this means you must stay out of IMC until 3000 feet because your clearance takes
 
 when you go missed, ATC may delay your turn until you reach a certain altitude because
 they need to get you above the MVA before sending you elsewhere
+
+SURAPI acronym for different types of fog
+S: Steam (cold air moves over warmer water); U: Upslope (most, stable air forced up sloping terrain); R: Radiation (ground cools under clear skies and light winds); A: Advection (warm, most air moves over a cooler surface like cold land; P: Precipitation (rain falls into cooler, drier air below; I: Ice (water vapor sublimates directly into ice crystals, common in arctic)
