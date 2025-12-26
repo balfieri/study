@@ -445,7 +445,7 @@ RAIM integrity monitoring
 performs only horizontal consistency checks using satellites, with no vertical navigation support or real-time correction
 
 MSA
-Minimal Sector Altitude ensures 1000 feet obstacle clearance within 25 nautical miles of the navigation facility, but not acceptable navigation signal coverage; if you unexpectedly go off-course, first contact ATC, then climb to the MSA
+Minimal Sector Altitude ensures 1000 feet obstacle clearance within 25 nautical miles of the navigation facility, but not acceptable navigation signal coverage; if you unexpectedly go off-course, first contact ATC, then climb to the MSA; an MSA is intended for use during emergencies, to get you to climb to a safe route around the airport before going somewhere else
 
 how to determine if DME is available on an ILS/LOC
 IAP indicates DME/TACAN channel in the LOC frequency box
@@ -1057,7 +1057,7 @@ if you cancel your IFR flight plan within 10 miles from a class D airport, you m
 before entering class D airspace
 
 before using anything from an airborne navigation database, the pilot should
-verify the validity of the database during preflight and inflight
+verify the validity of the database during preflight and inflight; legally, only the navigation database needs to be current, but the obstacles and terrain are highly advised
 
 flying conditions to expect after a fast-moving cold front passes
 clear skies with gusty, turbulent winds and cooler temperatures
@@ -1381,7 +1381,7 @@ visual glide slope indicator
 PAPI or VASI
 
 MAA-8000 on an IFR chart stands for 
-Maximum Authorized Altitude of 8,000 feet on that route or airway segment, which is the highest altitude at which you are assured reliable navigation signal reception along that airway
+Maximum Authorized Altitude of 8,000 feet on that route or airway segment, which is the highest altitude at which you are assured reliable navigation signal reception along that airway; also used for airspace and traffic separation, such as staying below class A
 
 12 things that can be used to identify a runway environment when on an IFR approach
 1) approach light system, but cannot descend below 100 feet above TDZE until can see: red terminating bars or red side row lights of approach light system; 2) runway end identifier lights; 3) visual glide slope indicator; 4) threshold; 5) threshold markings; 6) threshold lights; 7) touchdown zone; 8) touchdown zone markings; 9) touchdown zone lights; 10) runway; 11) runway markings; 12) runways lights
@@ -1429,7 +1429,10 @@ VOR vs. ILS
 VOR provides only horizontal guidance; ILS provides horizontal and vertical guidance, and much more precisely; ILS operates in only one direction along the runway; VOR can be used for any radial; ILS can be used for a single precise course and glide slope
 
 stages of a thunderstorm
-1) cumulous or developing stage - warm moist air rises; 2) mature stage - onset of precipitation; 3) dissipating stage - downdrafts dominate, precipitation weakens
+1) cumulous or developing stage - warm moist air rises; 2) mature stage - onset of precipitation (most dangerous); 3) dissipating stage - downdrafts dominate, precipitation weakens
+
+the mature stage of a thunderstorm is the most dangerous because it often produces
+heavy rain, hail, lightning, strong winds, and sometimes tornadoes; the falling rain generates downdrafts and gust fronts
 
 in order to go missed during a circling approach after you have lined up with the intended runway
 climb toward the center of the airport and execute the missed procedure
@@ -2491,3 +2494,33 @@ moist air, unstable lapse rate, initial lifting force
 
 PARE acronym for spin recovery
 power to idle; ailerons to neutral; rudder full opposite; elevator pitch down; and then neutralize main controls
+
+where to find NOTAMs
+notams.faa.gov
+
+where to find known traffic delays
+naastatus.faa.gov
+
+where to find preferred routes
+fly.faa.gov, then Route Management Tool
+
+can you fly IFR to a brown airport (one without an instrument approach procedure)?
+yes, and for planning, the weather doesn't legally matter because you must have an alternate; but you should look at weather in practice
+
+how to fly a DME arc
+fly to VOF, then fly outbound to arc; lead turn into arc by half nautical mile; turn 10, twist 10 when DME starts to drift more than 0.2-0.3 nautical miles; regardless of how DME is done, tune the second VOR to the inbound course radial to intercept and turn onto that final course when you get to it
+
+on an approach plate, where the lightning bolt points to the slope line, the altitude number indicates 
+the altitude for the final approach fix for a non-precision approach, even if the arrow doesn't point at the FAF; in contrast, note that the number above the FAF is the expected altitude at that point for a precision approach when at the FAF - it is intended to sanity-check the altimeter setting, it is not the altitude for non-precision approaches; this is very confusing; refer to the KBUY ILS Yankee 6 approach for an example of this corner case
+
+if a VDP is present
+for an approach without DA, the pilot should not descend below it before reaching the VDP; it corresponds to where the MDA is on the glide slope
+
+timeline for a filing flight plan
+can file up to 22 to 23 hours before ETD; ForeFlight lets you pre-file and it will hold it on its servers, then file when it can; AIM suggests filing at least 30 minutes prior to ETD; the flight plan normally becomes available to controllers about 45 minutes beofre the ETD (other places say 30 minutes before); the flight is available up to 2 hours after the ETD
+
+if you pick up an IFR clearance at 2000 feet MSL in VMC, then ATC tells you that upon reaching 3000 feet, you are cleared as filed
+this means you must stay out of IMC until 3000 feet because your clearance takes effect only upon reaching 3000 feet
+
+when you go missed, ATC may delay your turn until you reach a certain altitude because
+they need to get you above the MVA before sending you elsewhere
