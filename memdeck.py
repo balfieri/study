@@ -17,6 +17,20 @@ def die( msg, prefix='ERROR: ' ):
 def clear():
     for i in range(100): print()
 
+def pretty_suit( s ):
+    if s == 's': return '♠️'
+    if s == 'h': return '♥️ '
+    if s == 'd': return '♦️'
+    if s == 'c': return ' '
+    die( f'bad suit character: {s}' )
+    return ''
+
+def pretty_card( c ):
+    s = c[-1]
+    ps = pretty_suit( s )
+    pc = c[:-1] + ps
+    return pc
+
 def deck_print( deck, i, j ):
     print()
     tot = 0
@@ -27,7 +41,8 @@ def deck_print( deck, i, j ):
         else:
             print( '  ', end='' )
         card = deck[i]
-        print( f'{card:3s}', end='' )
+        pcard = pretty_card( card )
+        print( f'{pcard:3s}', end='' )
         tot += 1
         c += 1
         if c == 4 or (tot % 13) == 0:
