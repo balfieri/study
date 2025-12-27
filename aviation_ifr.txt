@@ -58,7 +58,7 @@ errors in pitch and bank maximum when rolling out of what degree turn?
 180-degree
 
 a WAAS-capable airplane is exempt from which rule
-that alternate have a non-GPS IAP available; however, LNAV minimums must be used for planning
+that alternate have a non-GPS IAP available; however, LNAV or circling minimums must be used for planning
 
 characteristics of squalls
 sudden increases in wind, 16 to 22 knots, for at least 1 minute; can form at any altitude
@@ -215,6 +215,9 @@ an approved instrument approach procedure other than GPS and it must be operatio
 
 roll upset
 exit ASAP, disengage AP, reduce AOA by increasing speed, do not retract flaps, controlled descent as last resort
+
+minimum IFR altitude (MIA)
+lowest altitude you may fly under IFR that still provides required obstacle clearance and, when applicable, navaid coverage; non-mountainous: 1000 feet above; mountainous: 2000 feet above
 
 ATC says: cruise 7000 feet
 you may operate anyway from the minimum IFR altitude (MIA, MEA, or MOCA) up to and including 7000 feet MSL at your discretion; the pilot may climb or descend freely within this block; once the pilot reports leaving an altitude within the block, such as leaving 7000 for 5000, the pilot may not climb back to that altitude again unless ATC issues a new clearance; the cruise clearance automatically includes authorization to execute and instrument approach at the destination airport; controllers use the cruise clearance primarily in low-traffic or remote areas
@@ -511,7 +514,7 @@ IFR rating is required when
 flying into controlled airspace in IMC, anytime flying in class A, flying special VFR between sunset and sunrise (though plan not required), acting as a commercial pilot more than 50 nautical miles away during the day or anytime at night
 
 minimum requirements of a safety pilot
-holds private pilot in type of airplane being flown; has current medical certificate; need not be current with flight review; must have adequate vision forward and to each side of aircraft
+holds private pilot in category and class being flown; has valid medical certificate; need not be current with flight review; must have adequate vision forward and to each side of aircraft; aircraft must have dual control system
 
 when can IFR flight be logged
 for simulated IMC, pilot must go down to minimums; for actual IMC, pilot must go past the FAF and experience some IMC
@@ -534,6 +537,9 @@ there are different altitudes on each side of the waypoint
 on IFR low en route chart, blue vs. black vs. brown routes
 blue is for RNAV route (usually GPS), black is for VOR route; brown is for military training route (below 1500 feet AGL)
 
+published RNAV routes
+T: 1200 feet AGL to 18000 feet MSL; Q: FL180 to FL450
+
 IR-079
 denotes a military training route
 
@@ -550,7 +556,7 @@ approaches that require WAAS
 LPV, LP; WAAS can also be used for LNAV/NVAV
 
 LNAV+V and LP+V
-are not published types of approaches; rather +V is a GPS navigator feature for vertical advisory guidance; if you have it, use it, but stay slightly above the glideslope so you don't go below; using it means you won't have to level out toward the end of the approach and introduce other errors
+are not published types of approaches; rather +V is a GPS navigator feature for vertical advisory guidance; if you have it, use it, but stay slightly above the glide slope so you don't go below; using it means you won't have to level out toward the end of the approach and introduce other errors
 
 pressure altitude equals true altitude when
 standard atmospheric conditions exist (15C and 29.92)
@@ -562,10 +568,13 @@ three main components of ILS
 localizer and glide slope, marker beacons or DME, approach lighting
 
 full-scale deflection of localizer
-2.5 degrees, so each dot is 0.5 degrees; width of signal is 3 to 6 degrees; 700 feet wide at runway threshold
+usually 2.5 degrees, so each dot is 0.5 degrees; width of signal is 3 to 6 degrees; always 700 feet wide at runway threshold
 
-width of ILS glide slope signal in total degrees bottom to top
-1.4 degrees; range of 10 nautical miles
+coverage range of localizer
+35 degrees to each side of the center line for the first 10 nautical miles, and up to 10 degrees each side up to 18 nautical miles
+
+height of ILS glide slope signal in total degrees bottom to top
+1.4 degrees; coverage range of 10 nautical miles; typically 3-degree glide slope
 
 false glide slope issue with ILS
 lobes of glide slope reflect off the ground and end up way higher, which cause the navigation system to get confused if the aircraft is too high
@@ -583,7 +592,7 @@ how VOR works
 VOR station transmits two radio signals, a stationary reference signal, and a rotating variable signal that is out of phase by the radial angle
 
 LDA approach
-like a LOC approach, but localizer is 3-5 degrees offset from the runway centerline; requires circle-to-land if offset exceeds 30 degrees; non-precision
+like a LOC approach, but localizer is 3-5 degrees offset from the runway centerline; requires circle-to-land if offset exceeds 30 degrees; non-precision; LDA can have a glide slope and is considered an APV
 
 LDA/GS approach 
 provides both lateral and vertical guidance, but the final approach course is not aligned with the runway due to terrain or obstacle limitations
@@ -889,7 +898,10 @@ using the local altimeter setting in a particular area is primarily used for
 better vertical separation of aircraft
 
 SIGMET times
-unscheduled arrival, lasts up to 4 hours, but may be reissued for additional 4-hour periods
+unscheduled arrival, valid for 4 hours, but may be reissued for additional 4-hour periods
+
+convective SIGMENT times
+hourly at 55 minutes past the hour; valid for 2 hours
 
 pilots should state their position on the airport when calling the tower for takeoff when
 departing from a runway intersection
@@ -1429,7 +1441,7 @@ VOR vs. ILS
 VOR provides only horizontal guidance; ILS provides horizontal and vertical guidance, and much more precisely; ILS operates in only one direction along the runway; VOR can be used for any radial; ILS can be used for a single precise course and glide slope
 
 stages of a thunderstorm
-1) cumulous or developing stage - warm moist air rises; 2) mature stage - onset of precipitation (most dangerous); 3) dissipating stage - downdrafts dominate, precipitation weakens
+1) cumulous or developing stage - warm moist air rises; 2) mature stage - onset of precipitation (most dangerous, strong updrafts and downdrafts); 3) dissipating stage - strong downdrafts, precipitation weakens
 
 the mature stage of a thunderstorm is the most dangerous because it often produces
 heavy rain, hail, lightning, strong winds, and sometimes tornadoes; the falling rain generates downdrafts and gust fronts
@@ -1664,11 +1676,11 @@ PAR: controller provides both lateral and vertical guidance; ASR: lateral guidan
 SHARP TT acronym for when to not fly procedure turn
 S: straight-in clearance; H: holding in lieu of PT; A: DME Arc; R: radar vectors to final approach course; P: No PT where shown on plate; T: timed approach from holding fix (as orchestrated by ATC); T: teardrop course reversal (turn outbound then inbound while losing altitude)
 
-how to calculate VDP distance from touchdown zone
+how to calculate VDP distance from touchdown zone in natical miles
 height above touchdown divided by 300
 
 how to calculate the 3-1 rule for descents
-feet you want to lose divided by 1000, the multiply by 3, yielding miles
+feet you want to lose divided by 1000, then multiply by 3, yielding miles; or feet to lose divided by 300
 
 equivalent airspeed (EAS)
 calibrated airspeed corrected for compressibility error
@@ -1788,10 +1800,7 @@ PPPPP acronym for risk mitigation
 pilot, passengers, plane, programming, plan
 
 cruise clearance
-ATC allocates block of airspace, starting at minimum IFR altitude and extends through altitude specified in clearance; may also begin approach at destination without receiving an additional approach clearance
-
-minimum IFR altitude
-minimum altitudes prescribed for flown segment, else the mountainous vs. non-mountainous rule
+ATC allocates block of airspace, starting at minimum IFR altitude and extends through altitude specified in clearance; may also begin approach at destination without receiving an additional approach clearance; you are free to climb and descend within the block; however, once you descend and verbally report leaving an altitude, you may not return to it without ATC clearance
 
 if both an MEA and a MOCA are prescribed for a particular route segment, a person may operate an aircraft 
 lower than the MEA down to, but not below the MOCA, provided the applicable navigation signals are available; for aircraft using VOR for navigation, this applies only when the aircraft is within 22 NM of the VOR
@@ -1806,7 +1815,7 @@ if operating for hire over water and beyond power-off gliding distance from shor
 flying is permitted, provided: 1) an approved flotation device for each occupant, 2) at least one pyrotechnic signaling device
 
 GPS CDI shows
-distance, unlike a VOR's CDI which presents an angular distance off course in degrees
+distance, unlike a VOR's CDI which presents an angular distance off course in degrees; en route: each dot is about 0.4 nautical mile; terminal: each dot is 0.2 nautical mile; approach (LNAV): each dot is 0.06 nautical mile
 
 GNSS
 broad term for satellite-based RNAV; GPS is the GNSS within the USA
@@ -2502,7 +2511,10 @@ where to find known traffic delays
 naastatus.faa.gov
 
 where to find preferred routes
-fly.faa.gov, then Route Management Tool
+fly.faa.gov, then Route Management Tool; also published in chart supplement
+
+where to find TFRs
+tfr.faa.gov
 
 can you fly IFR to a brown airport (one without an instrument approach procedure)?
 yes, and for planning, the weather doesn't legally matter because you must have an alternate; but you should look at weather in practice
@@ -2527,3 +2539,57 @@ they need to get you above the MVA before sending you elsewhere
 
 SURAPI acronym for different types of fog
 S: Steam (cold air moves over warmer water); U: Upslope (most, stable air forced up sloping terrain); R: Radiation (ground cools under clear skies and light winds); A: Advection (warm, moist air, often over water, moves over a cooler surface like cold land; P: Precipitation (rain falls into cooler, drier air below; I: Ice (water vapor sublimates directly into ice crystals, common in arctic)
+
+ways to file an IFR flight plan
+FSS, 1800wxbrief.com, ForeFlight, ATC pop-up clearance (must be able to climb to minimum IFR altitude under VFR)
+
+ways to cancel an active IFR flight plan
+towered: automatically canceled upon landing; non-towered: conact ATC or FSS by radio or phone; in flight if out of IMC and class A
+
+required obstacle clearance assessment area is limited to what radius from the departure airport
+25 nautical miles for non-mountainous areas; 46 nautical miles for mountainous areas
+
+Vs0 vs. Vs speeds
+stall speed in landing configuration vs. stall speed in clean configuration
+
+DME slant range error is negligible at
+1 nautical mile from DME station for every 1000 feet of height
+
+lowest visibility and DH for a category 1 ILS
+2400 or 1800 feet; 200 feet
+
+which GPS approaches require RNP achieved by WAAS
+LP MDA, LPV DA; LNAV/VNAV DA
+
+what ATC gives you for a non-charted holding clearance, it includes
+directionn of hold from fix; holding fix; radial, course, airway, or route on which to hold; leg length in miles or minutes; direction of turns; except further clearance (EFC) time
+
+for a teardrop course reversal procedure in lieu of a procedure turn, if no intermediate fix is published
+it starts 10 miles prior to the final approach fix
+
+3 types of structural ice
+clear (most dangerous), rime, and mixed
+
+other types of ice besides structural ice
+instrument, induction, intake, carburator, frost
+
+optical illusions
+runway width, runway and terrain slope; featureless terrain (black hole); water refraction; haze; fog; ground lighting
+
+coping with spatial disorientation
+understand illusions; obtain weather during preflight; maintain IFR proficiency; make sure visual references are reliable; avoid sudden head movements; be physically ready for it; trust the instruments and disregard sensory perceptions
+
+standard rate turn angle of bank calculation
+KTAS divided by 10, then times 1.5
+
+flight categories used in weather products
+VFR: 3000 feet and 5 statute miles; MVFR: 1000 to 3000 feet or 3 to 5 statute miles; IFR: 500 to 1000 feet or 1 to 3 statute miles; LIFR: less than 500 feet or less than 1 statute mile
+
+box around VOR makes it a
+VOR/DME
+
+box around VORTAC makes it a
+TACAN
+
+box alone for navaid indicates a
+DME only
