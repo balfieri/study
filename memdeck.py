@@ -194,6 +194,6 @@ if rand_qnum_cnt != 0:
         qq = input_int( f'{card}: ', 0, 3 )
         if qq != q:
             qi = i % 13
-            qr = int(i/4)
-            qc = i % 4
+            qr = int(qi/4)
+            qc = qi % 4
             print( f'> {q} ({i}, r{qr}, c{qc})' )
