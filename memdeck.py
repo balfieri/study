@@ -21,7 +21,7 @@ def pretty_suit( s ):
     if s == 's': return '♠️'
     if s == 'h': return '♥️ '
     if s == 'd': return '♦️'
-    if s == 'c': return ' '
+    if s == 'c': return '♣️'
     die( f'bad suit character: {s}' )
     return ''
 
@@ -35,6 +35,7 @@ def deck_print( deck, i, j ):
     print()
     tot = 0
     c = 0
+    print( "\033[40m" )
     while i <= j:
         if c == 0: 
             print( f'{i:2d}: ', end='' )
@@ -42,7 +43,7 @@ def deck_print( deck, i, j ):
             print( '  ', end='' )
         card = deck[i]
         pcard = pretty_card( card )
-        print( f'{pcard:3s}', end='' )
+        print( f'{pcard:5s}', end='' )
         tot += 1
         c += 1
         if c == 4 or (tot % 13) == 0:
@@ -50,6 +51,7 @@ def deck_print( deck, i, j ):
             if (tot % 13) == 0: print()
             c = 0
         i += 1
+    print("\033[0m", end='')
 
 def rand_n( n ):
     return int( random.random() * n )
