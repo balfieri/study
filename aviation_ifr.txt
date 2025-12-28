@@ -2593,3 +2593,18 @@ TACAN
 
 box alone for navaid indicates a
 DME only
+
+DECIDE acronym for ADM
+D: Detect a change needing attention; E: Estimate the need to counter or react to change; C: Choose the most desirable outcome for the flight; I: Identify actions to successfully control the change; D: Do something to adapt to the change; E: Evaluate the effect of the action countering the change
+
+MCPRAWN acronym for special airspaces
+M: Military operations areas (magenta hashed line); C: Controlled firing (not depicted); P: Prohibited (blue hashed line); R: Restricted (blue hashed line); A: Alert (magenta hashed line); W: Warning areas (magenta hashed line); N: National security areas (thick magenta dashed line)
+
+1 2 3 acronym for not needing alternate if destination has an instrument approach procedure
+1 hour before to 1 hour after ETA, weather must be reported to have 2000 foot ceilings and 3 statute miles visibility
+
+CIA acronym for instrument flying
+C: cross check; I: instrument interpretation; A: aircraft control
+
+IPTEAN acronym for reporting in non-radar environment
+I: ID; P: position (fix or radial/DME); T: time; E: ETA and name of next fix; A: altitude; N: name of successive fix
