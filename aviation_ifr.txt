@@ -1473,7 +1473,7 @@ no, assuming GPS is IFR-approved and only doing a GPS-based approach; the except
 Visual Climb Over Airport (VCOA)
 IFR departure procedure that allows a pilot to climb visually in specified VMC conditions by circling over the airport to a published altitude prior to proceeding en route; obstacles are beyond 3 statute miles from the airport
 
-lost comms AVEF MEA acronym
+AVEF MEA acronym for lost comms
 route in order of priority: A: assigned route from last clearance; V: temporary vectored route to fix or airway (should go direct to fix); E: expected route; F: filed route; choose highest of these: M: miminum IFR altitude for operations for the segment (MEA, MIA, MOCA, OROCA, etc.); E: expected altitude at a future time or fix; A: last ATC-assigned altitude; it's possible to get cleared to a destination via radar vectors but no route in the clearance, thus the others can still come into play; another case is when you get the other things later in the route; if you get a vector but nothing after, then you fall back on expected or filed
 
 DVFR flight plan
@@ -2538,7 +2538,7 @@ when you go missed, ATC may delay your turn until you reach a certain altitude b
 they need to get you above the MVA before sending you elsewhere
 
 SURAPI acronym for different types of fog
-S: Steam (cold air moves over warmer water); U: Upslope (most, stable air forced up sloping terrain); R: Radiation (ground cools under clear skies and light winds); A: Advection (warm, moist air, often over water, moves over a cooler surface like cold land; P: Precipitation (rain falls into cooler, drier air below; I: Ice (water vapor sublimates directly into ice crystals, common in arctic)
+S: Steam (cold air moves over warmer water); U: Upslope (most, stable air forced up sloping terrain); R: Radiation (ground cools under clear skies and light winds); A: Advection (warm, moist air, often over water, blown over a cooler surface like cold land); P: Precipitation (rain falls into cooler, drier air below); I: Ice (water vapor sublimates directly into ice crystals, common in arctic)
 
 ways to file an IFR flight plan
 FSS, 1800wxbrief.com, ForeFlight, ATC pop-up clearance (must be able to climb to minimum IFR altitude under VFR)
