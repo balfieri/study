@@ -38767,8 +38767,11 @@ il mal di schiena
 leg ache
 il mal di gambe
 
-fun
+fun; blast
 lo spasso
+
+to be a blast
+essere uno spasso
 
 TV broadcast; television broadcast
 la trasmissione televisiva
@@ -50206,7 +50209,7 @@ il carico di lavoro
 timetable
 la tabella di marcia
 
-to do an encore; to give a repeat performance
+to do an encore; to give a repeat performance; to take seconds (of food)
 fare il bis
 
 passable; walkable; practicable; negotiable
@@ -103001,3 +103004,9 @@ la chiappa
 
 bodyweight exercise
 l'esercizio a corpo libero
+
+golden potatoes
+la patate dorate
+
+dressy
+elegante; formale
