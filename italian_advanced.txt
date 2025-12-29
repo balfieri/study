@@ -50209,7 +50209,7 @@ il carico di lavoro
 timetable
 la tabella di marcia
 
-to do an encore; to give a repeat performance; to take seconds (of food)
+to take seconds (food); to have a second portion (food); to do an encore; to give a repeat performance
 fare il bis
 
 passable; walkable; practicable; negotiable
@@ -103010,3 +103010,7 @@ la patate dorate
 
 dressy
 elegante; formale
+
+overflow from the pot
+sbordare dalla pentola
+
