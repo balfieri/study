@@ -8368,7 +8368,7 @@ intrecciare
 moment; instant
 l'attimo
 
-hum; drone; buz
+hum; drone; buzz
 il ronzio
 
 trend; progression
@@ -103014,3 +103014,11 @@ elegante; formale
 overflow from the pot
 sbordare dalla pentola
 
+all about (something)
+tutto su (qualcosa)
+
+to have reception (radio); to make camp; to pitch camp
+fare campo
+
+brake pad
+la pasticca dei freni
