@@ -6010,3 +6010,9 @@ mouler
 to churn
 baratter
 
+rosemary
+le romarin
+
+sage (herb)
+la sauge
+
