@@ -72,9 +72,9 @@ def input_int( prompt, v0, v1 ):
 if len( sys.argv ) < 1: die( 'usage: memdeck.py [options]', '' )
 json_filename = 'mydeck.json'
 do_rand_deck = False
-rand_deck_seed = 37
+rand_deck_seed = 41
 rand_deck_a = 3
-rand_deck_c = 7
+rand_deck_c = 11
 do_print_deck = False
 fwd_i_begin = 52
 fwd_i_last  = 51
@@ -149,8 +149,9 @@ if do_rand_deck:
         suit_i = card_i & 0x3
         rank_i = (card_i >> 2) + 1
         suit = 'c' if suit_i == 0 else 'd' if suit_i == 1 else 'h' if suit_i == 2 else 's'
-        print( f'card_i={card_i} rank_i={rank_i} suit_i={suit_i} suit={suit}' )
-        deck[i] = f'{rank_i}{suit}'
+        card = f'{rank_i}{suit}'
+        deck[i] = card
+        #print( f'{card} card_i={card_i} rank_i={rank_i} suit_i={suit_i} suit={suit}' )
 
 if do_print_deck: deck_print( deck, 0, 51 )
 deck_len = len( deck )
