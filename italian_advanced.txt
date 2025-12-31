@@ -103053,3 +103053,6 @@ i capelli spessi
 lustrous hair
 i capelli lucenti
 
+to spend a weekend
+passare un weekend
+
