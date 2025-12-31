@@ -1655,7 +1655,7 @@ rich (non-financial); curly
 riccio
 
 bald
-calvo; pelato
+pelato; calvo
 
 wavy; rough; wiggly; undulated
 mosso; ondulato
