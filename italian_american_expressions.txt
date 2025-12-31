@@ -6750,3 +6750,6 @@ fare un summit; riunirsi per discutere
 whatchamacallit; what's-its-name
 il comesichiama
 
+the pressure is on!
+la pressione è alta!
+

@@ -760,9 +760,6 @@ la contrainte; la restriction; la limitation
 to acquire
 acquérir
 
-crisis
-la crise
-
 I can't get enough of it
 je n'en ai jamais assez
 
@@ -5986,3 +5983,20 @@ unionized
 union member
 le syndiqué
 
+cucumber
+le concombre
+
+puberty
+la puberté
+
+crisis
+la crise
+
+heart attack
+la crise cardiaque; l'infarctus du myocarde
+
+cloverleaf
+le trèfle; le trèfle à quatre feuilles; l'échangeur en trèfle
+
+to trick
+tromper

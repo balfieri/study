@@ -84624,7 +84624,7 @@ gorgogliare
 horseshoe
 il ferro di cavallo
 
-four-leaf clover
+four-leaf clover; cloverleaf
 il quadrifoglio
 
 ladybug; lovebug
@@ -103022,3 +103022,9 @@ fare campo
 
 brake pad
 la pasticca dei freni
+
+four of spades
+il quattro di picche
+
+to trick (somebody)
+ingannare (qualcuno); fregare (qualcuno)
