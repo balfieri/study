@@ -103059,3 +103059,6 @@ il doppio mento
 from side to side
 da un lato all'altro
 
+marked card
+la carta segnata
+
