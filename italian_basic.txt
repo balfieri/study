@@ -7093,9 +7093,6 @@ per favore; per cortesia (formale)
 see you later
 a più tardi
 
-see you later (in the same day); see you in a little bit; see you in a few minutes
-a dopo
-
 forever; for good
 per sempre
 
@@ -8007,4 +8004,10 @@ la donna
 
 correct this Italian
 correggi questo italiano
+
+see you in a bit; see you in a few minutes
+a tra poco
+
+see you later (in the same day, but somewhat vague on timing)
+a dopo
 
