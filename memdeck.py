@@ -71,6 +71,10 @@ def input_int( prompt, v0, v1 ):
 #-----------------------------------------------------------------------
 if len( sys.argv ) < 1: die( 'usage: memdeck.py [options]', '' )
 json_filename = 'mydeck.json'
+do_rand_deck = False
+rand_deck_seed = 37
+rand_deck_a = 3
+rand_deck_c = 7
 do_print_deck = False
 fwd_i_begin = 52
 fwd_i_last  = 51
@@ -86,6 +90,14 @@ while i < len( sys.argv ):
     i += 1
     if   arg == '-json':
         json_filename = sys.argv[i]
+    elif arg == '-rd':
+        do_rand_deck = int(sys.argv[i])
+    elif arg == '-rds':
+        rand_deck_seed = int(sys.argv[i])
+    elif arg == '-rda':
+        rand_deck_a = int(sys.argv[i])
+    elif arg == '-rdc':
+        rand_deck_c = int(sys.argv[i])
     elif arg == '-pd':
         do_print_deck = int(sys.argv[i])
     elif arg == '-fb':
@@ -124,6 +136,21 @@ random.seed( time.time() )
 with open( json_filename, 'r', encoding='utf-8' ) as f:
     data = json.load( f )
     deck = data['deck']
+
+#-----------------------------------------------------------------------
+# maybe replace with random deck
+#-----------------------------------------------------------------------
+if do_rand_deck:
+    print( f'rand_deck_seed={rand_deck_seed}' )
+    card_i = rand_deck_seed
+    for i in range(52):
+        card_i = (rand_deck_a*card_i + rand_deck_c) % 53
+        if card_i == 0: card_i = rand_deck_c
+        suit_i = card_i & 0x3
+        rank_i = (card_i >> 2) + 1
+        suit = 'c' if suit_i == 0 else 'd' if suit_i == 1 else 'h' if suit_i == 2 else 's'
+        print( f'card_i={card_i} rank_i={rank_i} suit_i={suit_i} suit={suit}' )
+        deck[i] = f'{rank_i}{suit}'
 
 if do_print_deck: deck_print( deck, 0, 51 )
 deck_len = len( deck )
