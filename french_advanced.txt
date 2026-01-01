@@ -2989,9 +2989,6 @@ le voeu
 faire un voeu
 to make a wish
 
-testimony; witness statement
-le témoignage
-
 all that
 tout ça
 
@@ -6045,4 +6042,7 @@ le rêveur
 
 protocol
 le protocole
+
+testimony; testimonial; eye-witness account; witness statement
+le témoignage
 
