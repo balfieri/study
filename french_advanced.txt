@@ -6031,3 +6031,9 @@ rigolo
 seagull; gull
 la mouette
 
+coward
+le lâche
+
+traitor
+le recreant
+
