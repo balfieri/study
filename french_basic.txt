@@ -1873,9 +1873,6 @@ faire le plein
 fortunately; luckily
 heureusement
 
-luck
-la chance
-
 bad luck; misfortune
 la malchance; le malheur
 
@@ -9474,8 +9471,11 @@ l'espoir
 business
 les affaires; l'entreprise
 
-luck; fortune
-la chance; la fortune
+luck
+la chance
+
+fortune
+la fortune
 
 reaction
 la réaction
@@ -9981,8 +9981,14 @@ le plaisir
 probability; likelihood; chance
 la probabilité; la chance
 
-drama; play; tragedy
-le drame; la pièce; la tragédie
+drama
+le drame
+
+tragedy
+la tragédie
+
+play (theater)
+la pièce
 
 opposite
 opposé
