@@ -45757,9 +45757,6 @@ non sono affatto sorpreso che
 Rebecca
 Rebecca
 
-Venezuela
-la Venezuela
-
 dog owner
 il proprietario del cane; il proprietario di cani
 
@@ -103139,4 +103136,34 @@ anti-immigrato
 
 anti-government
 anti-governativo
+
+10^58; 10 raised to the power 58
+10^58; dieci elevato alla potenza 58
+
+magical powers
+i poteri magici
+
+cyclic pattern
+lo schema ciclico
+
+daily dose
+la dose giornaliera
+
+to come across (something)
+imbattersi in (qualcosa)
+
+to make a joke about (something)
+fare una battuta su (qualcosa)
+
+attorney general
+il procuratore generale; la procuratrice generale
+
+widespread corruption
+la corruzione dilagante
+
+widespread power outage
+il blackout diffuso di energia elettrica
+
+widespread outage
+l'interruzione diffusa
 
