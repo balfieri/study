@@ -158,9 +158,11 @@ if do_rand_deck:
 #-----------------------------------------------------------------------
 cards_seen = {}
 if len(deck) != 52: die( f'deck does not have exactly 52 cards' )
+i = 0
 for c in deck:
-    if c in cards_seen: die( f'duplicate card: {c}' )
+    if c in cards_seen: die( f'duplicate card #{i}: {c}' )
     cards_seen[c] = True
+    i += 1
     
 if do_print_deck: deck_print( deck, 0, 51 )
 deck_len = len( deck )
