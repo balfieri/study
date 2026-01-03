@@ -153,6 +153,15 @@ if do_rand_deck:
         deck[i] = card
         #print( f'{card} card_i={card_i} rank_i={rank_i} suit_i={suit_i} suit={suit}' )
 
+#-----------------------------------------------------------------------
+# check deck for dups
+#-----------------------------------------------------------------------
+cards_seen = {}
+if len(deck) != 52: die( f'deck does not have exactly 52 cards' )
+for c in deck:
+    if c in cards_seen: die( f'duplicate card: {c}' )
+    cards_seen[c] = True
+    
 if do_print_deck: deck_print( deck, 0, 51 )
 deck_len = len( deck )
 if deck_len != 52: die( f'deck does not have 52 cards, got {deck_len}: {deck}' )
