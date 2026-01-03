@@ -103167,3 +103167,5 @@ il blackout diffuso di energia elettrica
 widespread outage
 l'interruzione diffusa
 
+quadrant
+il quadrante
