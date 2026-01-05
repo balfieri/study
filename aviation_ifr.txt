@@ -2606,5 +2606,5 @@ M: Military operations areas (magenta hashed line); C: Controlled firing (not de
 CIA acronym for instrument flying
 C: cross check; I: instrument interpretation; A: aircraft control
 
-IPTEAN acronym for reporting in non-radar environment
-I: ID; P: position (fix or radial/DME); T: time; E: ETA and name of next fix; A: altitude; N: name of successive fix
+IPTAEN acronym for reporting in non-radar environment
+I: ID; P: position (fix or radial/DME); T: time; A: altitude; E: ETA and name of next fix; N: name of successive fix
