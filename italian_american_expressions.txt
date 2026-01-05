@@ -3070,7 +3070,7 @@ den; lair
 la tana
 
 man cave
-la stanza per hobby; la tana per gli uomini; l'antro dell'uomo
+la tana dell'uomo; la stanza per hobby; l'antro dell'uomo
 
 (something), ya can't live with them, ya can't live without them
 (qualcosa), non puoi vivere con loro, non puoi vivere senza di loro
