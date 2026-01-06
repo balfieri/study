@@ -1426,7 +1426,7 @@ each inch of mercury causes altitude to change by
 1000 feet
 
 when position reports are also required when
-1) passing over each reporting point in a flight point; 2) requested by ATC; 2) vacating an altitude; 3) reaching or leaving a holding fix; 4) changing altitude when VFR-on-Top; 5) initiating a missed approach; 6) TAS changes by 10 knots or 5%; 7) unable to maintain a 500 foot-per-minute climb; 8) safety issue; 9) weather different than forecast; 10) equipment malfuncion
+1) passing over each reporting point in a flight point; 2) requested by ATC; 2) vacating an altitude; 3) entering or leaving a holding fix; 4) changing altitude when VFR-on-Top; 5) initiating a missed approach; 6) TAS changes by 10 knots or 5%; 7) unable to maintain a 500 foot-per-minute climb; 8) safety issue; 9) weather different than forecast; 10) equipment malfuncion
 
 kinds of NOTAMs
 D: info that requires wide dissemination pertaining to nav aids, civic public-use airports, facilities, services, and procedures; FDC: flight info that is regulatory in nature, including changes to IFR charts, procedures, and airspace usage; Pointer: issued by an FSS to point to another NOTAM; SAA: issued when special advisory airspace will be active outside published schedule times; Military: pertain to U.S. armed forces nav aids/airports that are part of the NAS
@@ -1740,7 +1740,7 @@ MTA
 minimum turning altitude; lowest altitude at which an aircraft can safely turn from one leg of an airway to the next
 
 MARVELOUS VFR C500 acronym for required reporting points
-M: missed approach; A: airspeed change of 5% or 10 knots (TAS), whichever greater; R: reaching clearance limit or holding fix (altitude, time); V: vacating an altitude or flight level; E: ETA change of more than 2 minutes (non-radar only); L: leaving a holding fix or waypoint; O: outer marker inbound (non-radar only, precision); U: unforecast weather; S: safety of flight; V: VFR on top altitude change; F: final approach fix inbound (non-radar only); R: radio or navigation failure; C: compulsory reporting point (non-radar only); 500: unable to maintain 500 feet per minute climb or descent
+M: missed approach; A: airspeed change of 5% or 10 knots (TAS), whichever greater; R: reaching clearance limit or holding fix (altitude, time); V: vacating an altitude or flight level; E: ETA change of more than 2 minutes (non-radar only); L: entering or leaving a holding fix or waypoint; O: outer marker inbound (non-radar only, precision); U: unforecast weather; S: safety of flight; V: VFR on top altitude change; F: final approach fix inbound (non-radar only); R: radio or navigation failure; C: compulsory reporting point (non-radar only); 500: unable to maintain 500 feet per minute climb or descent
 
 A N-A on plate
 alternate minimums are not authorized due to unmonitored facility, absence of weather reporting, or inadequate navigation coverage
