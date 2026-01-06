@@ -26971,7 +26971,7 @@ possessivo
 scarce; scant; low; scanty; poor (in ability)
 scarso
 
-discreet
+discreet; confidential
 discreto; riservato; prudente
 
 discrete
@@ -77448,7 +77448,7 @@ la tavola di legno
 to laminate
 laminare
 
-tabletop
+tabletop; work plan
 il piano di lavoro
 
 unjustifiable
@@ -103217,4 +103217,19 @@ la bollettino meteorologico dell'aviazione
 
 dark topic
 l'argomento cupo
+
+chic
+chic; elegante
+
+to settle this
+sistemare questa cosa
+
+to anoint (somebody)
+ungere (qualcuno)
+
+to fade into obscurity
+svanire nell'oblio
+
+let go of the past
+lasciar andare il passato
 
