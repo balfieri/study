@@ -1674,7 +1674,7 @@ PAR vs. ASR
 PAR: controller provides both lateral and vertical guidance; ASR: lateral guidance only
 
 SHARP TT acronym for when to not fly procedure turn
-S: straight-in clearance; H: holding in lieu of PT; A: DME Arc; R: radar vectors to final approach course; P: No PT where shown on plate; T: timed approach from holding fix (as orchestrated by ATC); T: teardrop course reversal (turn outbound then inbound while losing altitude)
+S: straight-in clearance; H: holding in lieu of PT; A: DME Arc; R: radar vectors to final approach course; P: No PT where shown on plate; T: timed approach from holding fix (as orchestrated by ATC, see 7110.65); T: teardrop course reversal (turn outbound then inbound while losing altitude)
 
 how to calculate VDP distance from touchdown zone in natical miles
 height above touchdown divided by 300
@@ -1740,7 +1740,7 @@ MTA
 minimum turning altitude; lowest altitude at which an aircraft can safely turn from one leg of an airway to the next
 
 MARVELOUS VFR C500 acronym for required reporting points
-M: missed approach; A: airspeed change of 5% or 10 knots (TAS), whichever greater; R: reaching clearance limit or holding fix (altitude, time); V: vacating an altitude or flight level; E: ETA change of more than 2 minutes (non-radar only); L: entering or leaving a holding fix or waypoint; O: outer marker inbound (non-radar only, precision); U: unforecast weather; S: safety of flight; V: VFR on top altitude change; F: final approach fix inbound (non-radar only); R: radio or navigation failure; C: compulsory reporting point (non-radar only); 500: unable to maintain 500 feet per minute climb or descent
+M: missed approach; A: airspeed change of 5% or 10 knots (TAS), whichever greater; R: reaching clearance limit or holding fix (altitude, time); V: vacating an altitude or flight level; E: ETA change of more than 2 minutes (non-radar only); L: entering or leaving a holding fix or waypoint (often treated as optional at radar sites); O: outer marker inbound (non-radar only, precision); U: unforecast weather; S: safety of flight; V: VFR on top altitude change; F: final approach fix inbound (non-radar only); R: radio or navigation failure; C: compulsory reporting point (non-radar only); 500: unable to maintain 500 feet per minute climb or descent
 
 A N-A on plate
 alternate minimums are not authorized due to unmonitored facility, absence of weather reporting, or inadequate navigation coverage
@@ -2608,3 +2608,9 @@ C: cross check; I: instrument interpretation; A: aircraft control
 
 IPTAEN acronym for reporting in non-radar environment
 I: ID; P: position (fix or radial/DME); T: time; A: altitude; E: ETA and name of next fix; N: name of successive fix
+
+ICC
+instrument competency check; includes steep turns and stalls under the hood
+
+difference between proceed direct to a fix on an approach vs. cleared direct to the fix
+cleared direct obviously clears you for the approach; proceed direct means you maintain current altitude to the fix, then must get a new clearance, you are not automatically cleared for the approach and may not automatically execute an associated hold; similar for being told to join the localizer without being cleared
