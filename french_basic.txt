@@ -12281,3 +12281,7 @@ ce sont
 
 flame
 la flamme
+
+role
+le rôle
+
