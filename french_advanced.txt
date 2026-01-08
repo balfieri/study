@@ -6273,3 +6273,9 @@ qui concerne (quelque chose); concernant (quelque chose)
 
 protest
 la manifestation
+
+intoxicated
+ivre
+
+to file; to record; to put on file
+ficher
