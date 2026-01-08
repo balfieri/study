@@ -68,7 +68,7 @@ propeller
 l'elica
 
 bland; tasteless
-insipido; blando; insapore; scialbo; sciapo
+sciapo; insipido; insapore; scialbo; blando
 
 surrender; to give up
 arrendersi
@@ -103268,4 +103268,10 @@ scrupolosamente
 
 to bring up a map
 aprire una mappa; visualizzare una mappa
+
+to go through some photos
+guardare alcune foto; sfogliare alcune foto; passare in rassegna alcune foto
+
+unifying force
+la forza unificante
 
