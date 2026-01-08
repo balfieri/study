@@ -43,3 +43,7 @@ elevator illusion
 difference between solid and hollow arrows on IFR low en route chart
 
 On an ILS approach, do you have to be able to identify the outer middle and inner markers in someway?
+
+why does VDP apply mainly to fast aircraft?
+
+when do we care about true north vs. magnetic north?

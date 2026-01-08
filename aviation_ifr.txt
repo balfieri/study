@@ -10,7 +10,7 @@ SPARROW acronym for required aircraft documents
 S: Supplements; P: Placards; A: Airworthiness certificate; R: Registration; R: Radio license (when operating outside the U.S.); O: Operator's handbook; W: Weight and balance (use the version updated by the mechanic)
 
 AV1ATES acronym for required inspections
-A: Annual and ADs; V: VOR (30 days, IFR only); 1: 100-hour (if aircraft is for hire); A: Altimeter (24 months, IFR only); T: Transponder (24 months); E: ELT (12 months or half battery or 1 Hour of cumulative use); S: Static system (24 months, IFR only)
+A: Annual and ADs; V: VOR (30 days, IFR only); 1: 100-hour (if aircraft is for hire); A: Altimeter (24 months, IFR only); T: Transponder (24 months); E: ELT (12 months, battery must be replaced if half life left or after 1 Hour of cumulative use); S: Static system (24 months, IFR only)
 
 ATOMATO FLAMES acronym for equipment required for VFR
 A:Altimeter (need not be pressure-sensitive); T: Tachometer (for each engine); O: Oil pressure (for each engine using a pressure system); M: Manifold pressure (for each altitude engine); A: Airspeed indicator; T: Temperature gauge (for each liquid-cooled engine); O: Oil temperature gauge (for each air-cooled engine); F: Fuel gauge (for each tank); L: Landing gear position indicator; A: Anticollision lights (aircraft registered after March 11, 1996); M: Magnetic compass; E: ELT (unless staying within 50 miles of source); S: Seatbelts (in occupied seats, harnesses for crew members)
@@ -1761,7 +1761,7 @@ when are circling minimums published when
 final approach course is more than 30 degrees from runway, descent gradient is greater than 400 feet per nautical miles, or the runway is not clearly defined
 
 how touchdown zone elevation detemined
-highest elevatoin in first 3000 feet of runway
+highest elevation in first 3000 feet of runway
 
 what to expect from stable air
 stratiform clouds, poor visibility, smooth air, steady or continuous precipitation
@@ -1782,7 +1782,7 @@ area forecast reports clouds in
 MSL unless preceded by AGL or CIG
 
 winds and temperatures aloft forecast is issued
-twice a dice every 12 hours
+twice a day every 12 hours
 
 air inside of the middle ear is normally equalized 
 through the Eustachian tube, a tube that travels from the ear to the back of the throat on each side
@@ -1839,7 +1839,7 @@ when sinus blocked
 use Valsalva maneuver: pinch nostrils and gently try to blow out of nose
 
 TCH
-thrashold crossing height
+threshold crossing height
 
 when off course
 stop needle from moving, then make small corrections; particularly important to make small changes as needle gets more sensitive on final
@@ -1967,7 +1967,7 @@ availability of a Terminal Area Chart (TAC) for that region
 you may pick up your IFR clearance 
 up to about 10 minutes before your proposed taxi time at towered airports, and typically no more than 30 minutes before takeoff at non‑towered fields when a clearance void time applies
 
-there is no weather reporting today at yourdestination, can still you still fly an instrument approach procedure?
+there is no weather reporting today at your destination, can still you still fly an instrument approach procedure?
 yes, using the nearby altimeter setting with any additional restrictions, but you must file an alternate that does have weather reporting according to alternate minimums
 
 in our PA28 and M20J with the more advanced GFC 500 or higher autopilot, the go-around button will
@@ -2126,7 +2126,7 @@ file an IFR flight plan, thus you need to go fly some approaches under the hood 
 can you do an instrument proficiency check in a simulator?
 no
 
-when an approach place has NA written next to the A symbol in the notes, this means that
+when an approach plate has NA written next to the A symbol in the notes, this means that
 this approach is not authorized when the airport is used as an alternate; likely no weather reporting or unmonitored ILS
 
 what does it mean if there is a red X over our G5?
@@ -2544,7 +2544,7 @@ ways to file an IFR flight plan
 FSS, 1800wxbrief.com, ForeFlight, ATC pop-up clearance (must be able to climb to minimum IFR altitude under VFR)
 
 ways to cancel an active IFR flight plan
-towered: automatically canceled upon landing; non-towered: conact ATC or FSS by radio or phone; in flight if out of IMC and class A
+towered: automatically canceled upon landing; non-towered: contact ATC or FSS by radio or phone; in flight if out of IMC and class A
 
 required obstacle clearance assessment area is limited to what radius from the departure airport
 25 nautical miles for non-mountainous areas; 46 nautical miles for mountainous areas
@@ -2562,7 +2562,7 @@ which GPS approaches require RNP achieved by WAAS
 LP MDA, LPV DA; LNAV/VNAV DA
 
 what ATC gives you for a non-charted holding clearance, it includes
-directionn of hold from fix; holding fix; radial, course, airway, or route on which to hold; leg length in miles or minutes; direction of turns; except further clearance (EFC) time
+direction of hold from fix; holding fix; radial, course, airway, or route on which to hold; leg length in miles or minutes; direction of turns; except further clearance (EFC) time
 
 for a teardrop course reversal procedure in lieu of a procedure turn, if no intermediate fix is published
 it starts 10 miles prior to the final approach fix
@@ -2614,3 +2614,15 @@ instrument competency check; includes steep turns and stalls under the hood
 
 difference between proceed direct to a fix on an approach vs. cleared direct to the fix
 cleared direct obviously clears you for the approach; proceed direct means you maintain current altitude to the fix, then must get a new clearance, you are not automatically cleared for the approach and may not automatically execute an associated hold; similar for being told to join the localizer without being cleared
+
+while taxiing with a left quartering headwind, you should
+turn the yoke to the left so that the left aileron is up and keep the yoke neutral or slightly aft so that the elevator is slightly up
+
+while taxiing with a left quartering tailwind, you should
+turn the yoke to the right so that the left aileron is down and push the yoke in so that the elevator is down
+
+how to calculate feet per minute from feet per nautical mile
+feet per nautical mile times ground speed divided by 60
+
+how to calculate time to get to VDP from final approach fix
+MDH divided by 10 seconds

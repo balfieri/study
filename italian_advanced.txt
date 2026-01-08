@@ -422,7 +422,7 @@ to return (act, metaphorically)
 ritornare
 
 overbearing; domineering; bullying; bossy
-prepotente
+prepotente; autoritario
 
 catchy
 accattivante; orecchiabile
@@ -56816,7 +56816,7 @@ il sistema solare
 in a whisper (sharing a secret); in a low voice
 sottovoce
 
-to time-travel
+to time-travel; to travel through time
 viaggiare nel tempo
 
 what do you want from me?
@@ -103236,3 +103236,26 @@ lasciar andare il passato
 to perceive (something) as such
 percepire (qualcosa) come tale
 
+for Thursdays
+per i giovedì
+
+due to bad weather
+a causa del maltempo
+
+browbeater
+il tormentatore; il bullo
+
+to turn off subtitles
+disattivare i sottotitoli
+
+to correspond to
+corrispondere a
+
+chalet
+il chalet
+
+usual residence
+la dimora abituale
+
+intoxicated
+intossicato; ubriaco
