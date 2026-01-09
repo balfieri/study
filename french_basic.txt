@@ -4141,9 +4141,6 @@ enseignes-tu l'italien?
 to not say anything
 ne rien dire
 
-that is; in other words
-c’est-à-dire
-
 I wanted to ask you
 je voulais te demander
 
@@ -6602,8 +6599,8 @@ nous voici
 falsehood
 la fausseté
 
-that is; i.e.; in other words
-c'est-à-dire
+that is; i.e.,; in other words
+c’est-à-dire
 
 despite everything
 malgré tout
@@ -9700,7 +9697,10 @@ stranger; foreigner; alien
 l'étranger
 
 minimum 
-minimum 
+le minimum 
+
+maximum
+le maximum
 
 minimal
 minimal

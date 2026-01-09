@@ -5789,7 +5789,7 @@ it’s getting better little by little; it’s improving little by little
 ça s’améliore peu à peu
 
 screen saver; screensaver
-l'écran de veille
+l'économiseur d'écran; l'écran de veille
 
 around the holidays
 autour des fêtes
@@ -6288,4 +6288,19 @@ l'école de pensée
 
 to bring up a map
 afficher une carte
+
+to exchange gifts
+échanger des cadeaux
+
+home screen
+l'écran d'accueil
+
+home; welcome; reception
+l'accueil
+
+to put up a christmas tree
+mettre de sapin de noël
+
+to feel like doing (something)
+avoir envie de faire (quelque chose)
 
