@@ -42310,7 +42310,7 @@ addurre
 system of illegal hiring
 il caporalato
 
-deposit; caution
+deposit; security deposit; caution
 la cauzione
 
 additional; extra
@@ -103274,4 +103274,7 @@ guardare alcune foto; sfogliare alcune foto; passare in rassegna alcune foto
 
 unifying force
 la forza unificante
+
+stinking; smelly; foul
+fetente
 
