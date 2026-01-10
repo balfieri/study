@@ -6310,3 +6310,11 @@ la Maison-Blanche
 growth; development
 la croissance
 
+bias
+le biais
+
+expectation bias
+le biais d'attente; le biais d'anticipation
+
+harmful; noxious
+nocif
