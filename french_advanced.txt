@@ -4357,9 +4357,6 @@ short-term
 long-term
 à long terme
 
-fir tree
-le sapin
-
 crib; nativity scene; manger
 la crèche
 
@@ -6327,4 +6324,31 @@ l'essai
 
 to be sick of (doing something)
 en avoir marre de (faire quelque chose); en avoir ras le bol de (faire quelque chose)
+
+instrument rating
+la qualification de vol aux instruments
+
+private pilot
+le pilote privé
+
+private pilot certificate; private pilot license
+le brevet de pilote privé
+
+patent; diploma; certificate; school leaving exam
+le brevet
+
+emotionally
+émotionnellement
+
+fir; fir tree
+le sapin
+
+Christmas tree
+l'arbre de Noël; le sapin de Noël
+
+to feel like (doing something)
+avoir envie de (faire quelque chose)
+
+to go to hell
+partir en enfer
 
