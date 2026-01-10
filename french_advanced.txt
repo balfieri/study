@@ -5680,6 +5680,9 @@ le nouvel an
 castor oil
 l'huile de ricin
 
+ricin
+la ricine
+
 camera
 l'appareil photo
 
