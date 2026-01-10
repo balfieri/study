@@ -739,7 +739,7 @@ reprendre
 to take
 prendre
 
-which one
+which (noun); which one
 lequel
 
 to which; for which
@@ -1396,7 +1396,7 @@ brillant
 innovative
 innovant
 
-insensitive
+insensitive; callous
 insensible
 
 unusual
