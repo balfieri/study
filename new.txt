@@ -47,3 +47,5 @@ On an ILS approach, do you have to be able to identify the outer middle and inne
 why does VDP apply mainly to fast aircraft?
 
 when do we care about true north vs. magnetic north?
+
+precision approach radar

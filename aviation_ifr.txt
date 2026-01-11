@@ -2626,3 +2626,9 @@ feet per nautical mile times ground speed divided by 60
 
 how to calculate time to get to VDP from final approach fix
 MDH divided by 10 seconds
+
+when flying VFR for hire more than 50 nautical miles or at night, the pilot must
+have an instrument rating, but need not be current
+
+when flying SVFR at night, the pilot nust
+have an instrument rating, be current, and be flying an IFR-rated aircraft; the pilot must be ready to transition to an IFR flight plan
