@@ -78466,7 +78466,7 @@ returnable
 vuoto a rendere
 
 to return the favor
-rendere il favore
+ricambiare il favore; rendere il favore
 
 to reciprocate
 contraccambiare
