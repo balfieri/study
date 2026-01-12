@@ -211,7 +211,7 @@ PRM
 RADAR system for monitoring approaches to two closely spaced parallel runways; the No Transgression Zone (NTZ) is kept clear by ATC to prevent conflicts; PRM approaches require additional pilot training; may require monitoring two tower frequencies
 
 required alternate must have 
-an approved instrument approach procedure other than GPS and it must be operational upon arrival, and aircraft must be equipped to fly it; WAAS GPS is exempt from this rule, but LNAV minimums must be used for planning
+an approved instrument approach procedure other than GPS and it must be operational upon arrival, and aircraft must be equipped to fly it; WAAS GPS is exempt from this rule, but LNAV or circling minimums must be used for planning
 
 roll upset
 exit ASAP, disengage AP, reduce AOA by increasing speed, do not retract flaps, controlled descent as last resort
@@ -391,7 +391,7 @@ basic VFR visibility and cloud clearance in class G airspace at or below 1200 fe
 3 statute miles, 1000 feet above, 500 feet below, 2000 feet horizontal (3 1 52)
 
 basic VFR visibility and cloud clearance that are not 3 1 52
-class B: 3 and clear; class E or G no more than 1200 feet AGL during day: 1 and clear; class E or G over 1200 feet AGL and at least 10,000 feet MSL: 5 1 1 1; class G over 1200 feet AGL but less than 10,000 feet MSL during day: 1 1 52
+class B: 3 and clear; class G no more than 1200 feet AGL during day: 1 and clear; class G over 1200 feet AGL or class E and at least 10,000 feet MSL: 5 1 1 1; class G over 1200 feet AGL but less than 10,000 feet MSL during day: 1 1 52
 
 after two-way communication failure at holding fix with an EFC time
 depart the holding fix at the EFC time
@@ -1233,7 +1233,7 @@ precise type of instrument approach used in aviation, where the navigation syste
 when to disengage autopilot
 when it doesn't do what it is supposed to; during icing; during engine failure; during severe turbulence
 
-how much of proficiency can be done in a BATD
+how much of currency can be done in a BATD
 all, and it is allowed in the 6 month window after the normal 6 month window
 
 when to switch to departure when lost comms with tower
@@ -1640,7 +1640,7 @@ fixation, omission, emphasis
 three definitions of night
 1) sunset to sunrise: position lights required, 2) evening civil twilight (30 minutes after sunset to 30 minutes before sunrise): logging night flight; 3) 1 hour after sunset to 1 hour before sunrise: 3 takeoffs and landings to a full stop in last 90 days to be able to carrying passengers
 
-what do write in a flight plan if you do not want a departure procedure
+what to write in a flight plan if you do not want a departure procedure
 NO DP
 
 are holding pattern entry procedures mandatory?
@@ -2121,7 +2121,7 @@ when you get to the MDA and don't see the runway environment
 stay at the MDA until the missed approach point because you might see it soon; the only exception is if you have a 3/4 scale deflection in which case you must go missed
 
 if you are not IFR current, you may not
-file an IFR flight plan, thus you need to go fly some approaches under the hood with an instructor or safety pilot, or use a certified simulator
+file an IFR flight plan in your name, thus you need to go fly some approaches under the hood with an instructor or safety pilot, or use a certified simulator; you may file the IFR flight plan under the name of someone who is IFR current
 
 can you do an instrument proficiency check in a simulator?
 no
@@ -2399,7 +2399,7 @@ do not have to fly an ODP legally for part 91; ATC can give you a vector; you ca
 if an approach plate shows the black A with NA
 you cannot list that airport as an IFR alternate; this is usually because it does not have monitored navaids (usually ILS) or does not have on-field weather reporting; if the airport is outside the TAF area, you can still use broader-area forecast tools; note that a different type of approach (usually GPS) will have the NA
 
-if the aiport weather is unavailable according to a NOTAM
+if the airport weather is unavailable according to a NOTAM
 look at the alternate minimums under the procedure arrival or TPP
 
 if your aircraft does not have a transponder and you want to fly an IFR flight plan
@@ -2632,3 +2632,6 @@ have an instrument rating, but need not be current
 
 when flying SVFR at night, the pilot nust
 have an instrument rating, be current, and be flying an IFR-rated aircraft; the pilot must be ready to transition to an IFR flight plan
+
+according to ICAO, you are established on an approach when you
+are within half-scale deflection of the CDI; within the USA, there is actually no rule and many feel that it is sufficient to be less than full-scale deflection
