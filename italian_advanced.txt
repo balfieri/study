@@ -1150,7 +1150,7 @@ il gabinetto
 starch
 l'amido
 
-to dust; to sprinkle
+to dust; to sprinkle; to dust off
 spolverare
 
 sticky
@@ -38766,9 +38766,6 @@ il mal di schiena
 
 leg ache
 il mal di gambe
-
-fun; blast
-lo spasso
 
 to be a blast
 essere uno spasso
@@ -103362,3 +103359,23 @@ a volte esagera troppo
 there's reason to be scared
 c'è da spavantarsi
 
+pastime; amusement; fun; blast
+lo spasso
+
+broken; crushed
+stroncato
+
+tender heart; soft heart
+il cuore tenero
+
+two sizes too small
+due taglie troppo piccole
+
+to grow three sizes
+crescere di tre taglie
+
+to snooze
+snoozare; fare un pisolino
+
+oyster
+l'ostrica
