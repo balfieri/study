@@ -64950,7 +64950,19 @@ waiting at runway 21
 in attesa alla pista 21
 
 ready for takeoff
-pronto per il decollo
+pronto per il decollo; pronto al decollo
+
+ready for taxi
+pronto per il taxi
+
+line up and wait
+allineatevi ed aspettate
+
+contact departure
+contattate la partenza
+
+taxi to runway 35
+taxi alla pista 35
 
 cleared for takeoff, runway 21
 autorizzato al decollo dalla pista 21
