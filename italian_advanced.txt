@@ -64970,8 +64970,20 @@ autorizzato al decollo dalla pista 21
 cleared to land, runway 21
 autorizzato ad atterrare, pista 21; avete il permesso di atterrare, pista 21
 
+IFR clearance
+l'autorizzazione IFR
+
+looking to pick up my IFR clearance; ready to receive my IFR clearance
+pronto a ricevere la mia autorizzazione IFR
+
 taxiing from ramp to runway 21
 rullando dalla piazzola alla pista 21
+
+fly runway heading
+vola rotta pista; pilota rotta pista
+
+runway heading
+la rotta pista
 
 discovery flight
 il volo di scoperta
