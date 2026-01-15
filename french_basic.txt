@@ -1153,7 +1153,7 @@ ouvert
 memory; souvenir
 le souvenir
 
-appointment; meeting; date
+date; meeting; appointment
 le rendez-vous
 
 game
@@ -7719,8 +7719,8 @@ la biologie
 right (noun); law; entitlement
 le droit
 
-date
-la date; le rendez-vous
+date (day)
+la date
 
 accustomed to; used to
 habitué à; habitué
