@@ -2311,7 +2311,7 @@ le sac du course
 to dawdle; to stare absent-mindedly  
 bader  
 
-compound; composite  
+composed; compound; composite; made up
 composé  
 
 so that; in order that  
@@ -5089,8 +5089,11 @@ laisser reposer
 rum
 le rhum
 
-fragrant; scented; perfumed
+fragrant; scented; perfumed; flavored
 parfumé
+
+flavored
+aromatisé; parfumé
 
 form (information)
 la formulaire
@@ -6546,3 +6549,54 @@ un po' di più ogni giorno
 
 mock exam
 l'esame simulato
+
+broad bean seed; fava bean seed
+la graine de fève
+
+guest; table companion
+le convive
+
+coiffed; styled
+coiffé
+
+crown; corona; coronet; wreath
+la couronne
+
+over the centuries
+au fil des siècles
+
+pagan; heathen
+païen
+
+puff pastry
+la pâte feuilletée
+
+fur-lined; filled; thicket
+fourré
+
+most often; more often than not; most of the time
+le plus souvent
+
+frangipane
+la frangipane
+
+almond cream
+la crème d'amande
+
+almond
+l'amande
+
+pastry cream; custard; confectioner's custard
+la crème pâtissière
+
+orange blossom
+le fleur d'oranger
+
+it makes me very hungry
+cela me donne très faim
+
+kingdom
+le royaume
+
+in good shape
+en pleine forme; en bon état
