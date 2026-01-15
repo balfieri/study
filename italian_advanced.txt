@@ -9356,7 +9356,7 @@ store; shop
 la bottega
 
 gullible
-credulone
+credulone; credulona
 
 high altitude
 l'alta quota
@@ -103424,3 +103424,6 @@ sono libero di (fare qualcos'altro)
 
 wash cycle
 il ciclo di lavaggio
+
+you are so gullable!
+sei così credulone!; sei così credulona!
