@@ -6618,3 +6618,10 @@ agir vite
 
 I made her cry
 je l'ai fait pleurer
+
+dentist appointment
+le rendez-vous chez le dentiste
+
+doctor's appointment
+le rendez-vous chez le médecin
+
