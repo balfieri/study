@@ -2635,3 +2635,6 @@ have an instrument rating, be current, and be flying an IFR-rated aircraft; the 
 
 according to ICAO, you are established on an approach when you
 are within half-scale deflection of the CDI; within the USA, there is actually no rule and many feel that it is sufficient to be less than full-scale deflection
+
+if you make a huge mistake and get enough ice on the wings so that they stall
+point the nose down to stop the stall, apply maximum power to fly faster, talk to ATC about getting out of there and continuing a descent to a landing closeby, avoid large pitch changes, do a flaps-up landing
