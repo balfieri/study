@@ -12314,3 +12314,7 @@ autre chose
 
 well enough; moderately well; fairly well
 assez bien
+
+don't worry about it
+ne t'en fais pas
+

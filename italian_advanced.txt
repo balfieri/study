@@ -103496,3 +103496,13 @@ livellare a 3000 piedi
 
 to cruise
 volare a velocità di crociera
+
+ink stain
+la macchia d'inchiostro
+
+mock exam
+l'esame simulato
+
+entry stamp
+il timbro di ingresso
+
