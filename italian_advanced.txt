@@ -34070,7 +34070,7 @@ to fly through the clouds
 pilotare tra le nuvole
 
 heading indicator
-l'indicatore di prua
+l'indicatore di prua; l'indicatore di direzione
 
 turn coordinator
 il coordinatore di virata
@@ -76319,8 +76319,11 @@ la sega troncatrice
 track saw
 la sega a binario
 
-sarcastic comment; snide comment
+sarcastic comment
 il commento sarcastico
+
+snide comment
+il commento sardonico
 
 rinse cycle
 il ciclo di risciacquo
@@ -76354,7 +76357,6 @@ girare per la vita
 
 drystone walls
 i muri a secco
-
 
 immunosuppressed
 immunosoppresso
@@ -103505,4 +103507,58 @@ l'esame simulato
 
 entry stamp
 il timbro di ingresso
+
+barometric pressure
+la pressione barometrica
+
+approach controller
+il controllore di avvicinamento
+
+codified
+codificato
+
+approach plate
+la carta di avvicinamento
+
+instrument approach chart
+la carta di avvicinamento strumentale
+
+to perform the instrumental approach briefing
+fare il briefing dell’avvicinamento strumentale
+
+snide
+sardonico
+
+final approach course
+rotta di avvicinamento finale
+
+heading indicator
+indicatore di direzione
+
+fuel-injected
+ad iniezione
+
+unfavorable wind
+vento sfavorevole
+
+French lesson
+lezione di francese
+
+bank robber
+rapinatore di banca
+
+home intruder
+intruso in casa
+
+glide slope
+la pendenza di discesa
+
+3-degree slope
+la pendenza di 3 gradi
+
+we speak French the whole time
+parliamo francese tutto il tempo
+
+to begin our descent
+iniziare la nostra discesa
 
