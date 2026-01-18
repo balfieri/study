@@ -12318,3 +12318,6 @@ assez bien
 don't worry about it
 ne t'en fais pas
 
+no problem
+aucun problème
+
