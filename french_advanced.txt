@@ -6753,3 +6753,13 @@ le créneau horaire
 
 nastigram
 le message méchant; le nastigram
+
+to spell
+épeler
+
+please spell that
+s'il vous plaît, épeler cela; veuillez épeler cela
+
+waypoint
+le point de cheminement; le waypoint
+
