@@ -2641,3 +2641,6 @@ point the nose down to stop the stall, apply maximum power to fly faster, level 
 
 when must you hold behind the ILS critical area line?
 only when ATC directs you to do so, which is typically during low-visibility conditions when other aircraft are landing
+
+when should our KAP 140 and GFC 500 autopilots be turned off
+the supplements say less when than 200 feet AGL on approach, and less than 800 feet AGL for all other operations
