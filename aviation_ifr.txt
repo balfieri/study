@@ -2638,3 +2638,6 @@ are within half-scale deflection of the CDI; within the USA, there is actually n
 
 if you make a huge mistake and get enough ice on the wings so that they stall
 point the nose down to stop the stall, apply maximum power to fly faster, level the wings, talk to ATC about getting out of there and continuing a descent to a landing closeby, avoid large pitch changes, shallow turns, flaps-up landing
+
+when must you hold behind the ILS critical area line?
+only when ATC directs you to do so, which is typically during low-visibility conditions when other aircraft are landing

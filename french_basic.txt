@@ -6491,9 +6491,6 @@ en tout cas; de toute façon; de toute manière
 comment
 le commentaire
 
-complaint
-la plainte
-
 criticism
 la critique
 
