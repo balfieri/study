@@ -6844,3 +6844,9 @@ it gets a little better every day
 proficient; competent
 compétent
 
+safety
+la sécurité
+
+public health
+la santé publique
+
