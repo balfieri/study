@@ -8893,7 +8893,7 @@ il rullo compressore
 embarrassment
 l'imbarazzo
 
-unrelated
+uncorrelated; unrelated
 non correlato
 
 incongruent
@@ -31183,7 +31183,7 @@ sferzare
 continued; carried on; went on
 proseguito
 
-equipment; gear; outfit
+equipment; gear; outfit; crew (military, hiking, etc.)
 l'equipaggiamento
 
 to break one's heart
@@ -54352,7 +54352,7 @@ il negozio di articoli sportivi
 hunting gear
 l'attrezzatura da caccia
 
-equipment; gear; paraphernalia
+equipment; gear; paraphernalia (general)
 l'attrezzatura
 
 convoy
@@ -103585,4 +103585,31 @@ andare intorno
 
 to perform a go-around
 eseguire una go-around
+
+July 1994
+luglio 1994
+
+disorienting
+disorientante
+
+sentimental value
+il valore sentimentale
+
+emotional problem
+il problema emotivo
+
+estranged father
+il padre estraniato
+
+unrelated things
+le cose non correlate
+
+what do you have for me today?
+cosa hai per me oggi?
+
+not quite as good
+non proprio buono come
+
+to take advantage of the free trial
+approfittare della prova gratuita
 

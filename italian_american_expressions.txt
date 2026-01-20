@@ -6235,7 +6235,7 @@ to rat on (somebody)
 fare la spia su (qualcuno); tradire (qualcuno); fare la soffiata su (qualcuno)
 
 pet peeve
-l'idiosincrasia; la cosa che dà fastidio
+il fastidio da poco; il pet peeve; l'idiosincrasia; la cosa che dà fastidio
 
 there's blood in the streets
 scorre il sangue per le strade
@@ -6640,7 +6640,7 @@ to keep up with the Joneses
 fare come i vicini; tenere il passo con i vicini
 
 people pleaser
-la persona che cerca sempre di compiacere gli altri
+il people pleaser; la persona che cerca sempre di compiacere gli altri
 
 do no harm!
 non nuocere!
@@ -6797,3 +6797,13 @@ non devi spendere nemmeno un soldo
 
 this place is a madhouse!
 questo posto è un manicomio! 
+
+very together person
+la persona molto equilibrata
+
+let me see if I got this straight
+fammi vedere se ho capito bene
+
+let me get this straight
+fammi capire bene
+
