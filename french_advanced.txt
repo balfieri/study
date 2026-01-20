@@ -6834,3 +6834,7 @@ la fin heureuse
 
 flight simulator
 le simulateur de vol; le simulateur inform
+
+seaplane
+l'hydravion
+
