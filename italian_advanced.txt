@@ -6187,7 +6187,7 @@ l'epicentro
 measure (action); provision; step
 il provvedimento
 
-fictitious
+fictitious; fictional
 fittizio
 
 so that; in order that (archaic)
@@ -72925,9 +72925,6 @@ dipende da cosa sta succedendo in quel momento
 
 humidity sensor
 il sensore di umidità
-
-fictional
-fitizio
 
 to stay within; to fit in
 starci dentro
