@@ -10138,7 +10138,7 @@ il vestiario
 soaking
 l'ammollo
 
-to soak (to soften or remove dirt)
+to soak (to soften or remove dirt, such as beans overnight)
 mettere in ammollo
 
 fuel-efficient
@@ -103618,3 +103618,7 @@ qualcosa di divertente
 
 to repair the relationship
 riparare la relazione; rimediare alla relazione; ricucire la relazione
+
+not as much as I want
+non quanto voglio
+
