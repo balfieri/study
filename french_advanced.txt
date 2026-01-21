@@ -3098,7 +3098,7 @@ to suit; to be suitable for
 convenir
 
 in a can
-en conserve; en boite
+en conserve; en boîte
 
 we do not add any cheese
 on n'ajoute aucun fromage
@@ -6987,4 +6987,16 @@ peupler
 
 it is a good way to
 c'est une bonne façon de
+
+one of which; one of whom; one of them
+l'un desquels
+
+always optional
+toujours facultatif
+
+soft (food)
+mou
+
+I'm not sure yet
+Je ne suis pas encore sûr
 
