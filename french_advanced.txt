@@ -3604,8 +3604,11 @@ la satisfaction
 condescending
 condescendant
 
+judgment; judgement
+le jugement
+
 judgmental
-dans le jugement; qui juge facilement
+qui porte des jugements injustes; dans le jugement; qui juge facilement
 
 resentful
 rancunier
@@ -6805,8 +6808,8 @@ moving
 emotional problem
 le problème émotionnel
 
-estranged father
-le père estranged
+estranged (someone)
+(quelqu'un) séparé
 
 worst-case scenario
 le scénario du pire cas
@@ -6850,3 +6853,41 @@ la sécurité
 public health
 la santé publique
 
+judge
+le juge
+
+to be about; to be a matter of; to concern
+s'agir de
+
+emotionally strong
+émotionnellement fort
+
+emotionally resilient
+émotionnellement résilient
+
+resilient
+résilient
+
+successful career
+la carrière réussie
+
+to suffer from
+souffrir de; être atteint de
+
+director (film)
+le régisseur; le réalisateur
+
+to spoil
+spoiler
+
+to recite; to act
+réciter
+
+plot
+l'intrigue
+
+to win; to carry off
+remporter
+
+to overcome; to defeat; to conquer; to vanquish
+vaincre

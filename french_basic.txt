@@ -2116,7 +2116,7 @@ la Grèce
 Ancient Greece
 la Grèce Antique
 
-scenario; script
+scenario; script; screenplan
 le scénario
 
 for eight hours; during eight hours
