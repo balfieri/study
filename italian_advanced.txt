@@ -39154,7 +39154,7 @@ i documenti sottratti
 hospital (adjective)
 ospedaliero
 
-addressed; headed
+addressed; headed; registered; made out (check)
 intestato
 
 to roam; to wander
@@ -103648,3 +103648,10 @@ il denaro non aiuta nessuna di queste cose
 
 to be struggling financially
 avere difficoltà finanziarie
+
+money order
+la vaglia; l'ordine di pagamento; la vaglia postale
+
+were we ever so young?
+siamo mai stati così giovani?
+
