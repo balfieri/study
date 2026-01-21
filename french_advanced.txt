@@ -7128,3 +7128,6 @@ se faire arrêter; être démasqué
 
 to stay out of the way
 ne pas gêner; rester à l'écart
+
+linear
+linéaire
