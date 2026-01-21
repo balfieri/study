@@ -2167,7 +2167,7 @@ associer
 gold mine
 la mine d'or
 
-to devote; to dedicate
+to devote; to dedicate; to consecrate
 consacrer
 
 to gather; to bring together
@@ -7131,3 +7131,22 @@ ne pas gêner; rester à l'écart
 
 linear
 linéaire
+
+money does not help any of these things
+l'argent n'aide pas à ces choses
+
+to be having financial difficulties; to be struggling financially
+être en difficulté financière; avoir du mal à joindre les deux bouts
+
+zeitgeist
+l'esprit du temps
+
+to must have been
+avoir dû être
+
+fascinating
+fascinant
+
+itself
+lui-même; elle-même
+
