@@ -7116,3 +7116,6 @@ ma grosse tête; ma grande tête
 
 hideout
 la cachette; le planque
+
+to be seated
+être assis
