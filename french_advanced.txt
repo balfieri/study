@@ -7098,3 +7098,6 @@ boulimique
 
 brazen
 effronté; éhonté
+
+car wash
+le lave-auto; le lavage auto; la station de lavage de voiture
