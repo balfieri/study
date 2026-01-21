@@ -8850,9 +8850,6 @@ l'occasion
 construction; construct
 la construction
 
-experience
-l'expérience
-
 limit
 la limite
 
@@ -12320,3 +12317,9 @@ aucun problème
 
 most of (something)
 la plupart de (quelque chose)
+
+a good way to
+une bonne façon pour
+
+some place
+quelque endroit
