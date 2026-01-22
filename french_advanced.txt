@@ -7218,3 +7218,6 @@ compréhensivement
 
 the most important things
 les choses plus importantes
+
+color blind; colorblind
+daltonien
