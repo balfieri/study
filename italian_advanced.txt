@@ -25366,7 +25366,7 @@ spaccato
 to pinpoint
 individuare; localizzare
 
-balanced
+balanced; well-balanced
 equilibrato
 
 inertia
@@ -103663,3 +103663,6 @@ il rapporto di polizia
 
 family time
 il tempo in famiglia
+
+to second (something); to back up (something
+concordare con (qualcosa)
