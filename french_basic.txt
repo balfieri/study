@@ -2449,8 +2449,8 @@ plus tard
 further ahead; earlier (in text)
 plus avant
 
-to count; to intend
-compter
+to count; to intend; to matter
+compter; avoir d'importance
 
 supermarket
 le supermarché
@@ -7577,9 +7577,6 @@ la classe
 
 book
 le livre
-
-to count; to matter
-compter; compter (avoir de l’importance)
 
 TV series
 la série télévisée
