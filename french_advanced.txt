@@ -7212,3 +7212,7 @@ dentaire
 
 dental hygienist
 l'hygiéniste dentaire
+
+understandably
+compréhensivement
+
