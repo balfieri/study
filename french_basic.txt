@@ -3362,7 +3362,7 @@ how horrible!
 quelle horreur!
 
 no problem
-pas de problème
+pas de problème; aucun problème
 
 I don't care
 je m'en fiche
@@ -12308,9 +12308,6 @@ assez bien
 
 don't worry about it
 ne t'en fais pas
-
-no problem
-aucun problème
 
 most of (something)
 la plupart de (quelque chose)
