@@ -30724,7 +30724,7 @@ lievitare
 all over the surface; on the whole surface
 su tutta la superficie
 
-to slice
+to slice; to carve (meat)
 affettare
 
 Gefilte fish
@@ -79202,7 +79202,7 @@ fare il tuo lavoro sporco
 Anglo-Saxon
 anglosassone
 
-to carve
+to carve (wood)
 intagliare
 
 bones of the dead
@@ -93411,7 +93411,7 @@ soon-to-be
 futuro; prossimo
 
 meaningless; incomprehensible; nonsensical; che non ha logica
-senza senso; insensato
+senza senso; insensato; non sensico0
 
 Dr. Evil
 Dottor Male
@@ -103726,3 +103726,13 @@ rettificare la situazione; correggere la situazione
 
 imperative
 imperativo
+
+to grin
+ghignare
+
+grin
+il ghigno
+
+condominium expense; building maintenance fee
+lo speso condominiale
+
