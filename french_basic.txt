@@ -7451,6 +7451,9 @@ cent
 thousand
 mille
 
+seven thousand
+sept mille
+
 billion
 milliard
 
