@@ -2647,7 +2647,7 @@ il pagliaio
 to fall through; to fall apart; to go awry
 andare a monte
 
-to pose; to posture
+to pose; to posture; to put on airs; to be affected
 atteggiarsi
 
 to pollute; to contaminate; to spoil
@@ -103735,4 +103735,7 @@ il ghigno
 
 condominium expense; building maintenance fee
 lo speso condominiale
+
+preppy
+preppy; alla moda in stile universitario americano
 

@@ -130,3 +130,6 @@ toucher le fond
 frenemy
 l'ami-ennemi; l'annemi; le faux ami
 
+a nice-to-have
+un plus; un agréable à avoir
+

@@ -6821,3 +6821,7 @@ due pollici in alto!
 
 to poo-poo (something)
 screditare (qualcosa); disapprovare (qualcosa)
+
+a nice-to-have (something desirable but not essential)
+qualcosa di desiderabile ma non essenziale; un optional
+
