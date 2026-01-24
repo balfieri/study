@@ -7786,7 +7786,7 @@ tolerant
 tolérant
 
 alive; living
-vivant
+vivant; en vie
 
 artistic
 artistique
@@ -12323,3 +12323,4 @@ quelque endroit
 
 once in a while
 de temps en temps; occasionnellement
+
