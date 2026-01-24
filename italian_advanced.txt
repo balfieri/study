@@ -60644,6 +60644,9 @@ formosa
 show-off
 l'esibizionista
 
+show-offy
+esibizionista
+
 false teeth; dentures
 i denti falsi; il dentiere; la dentiera
 
@@ -103738,4 +103741,10 @@ lo speso condominiale
 
 preppy
 preppy; alla moda in stile universitario americano
+
+opening words; opening bars; opening lines
+l'incipit
+
+snow alert
+l'alerta neve; l'allarme neve
 
