@@ -103748,3 +103748,5 @@ l'incipit
 snow alert
 l'alerta neve; l'allarme neve
 
+it's getting easier
+sta diventando più facile

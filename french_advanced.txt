@@ -7351,3 +7351,5 @@ l'incipit
 snow alert
 l'alerte neige
 
+it's getting easier
+ça devient plus facile
