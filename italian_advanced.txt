@@ -4417,7 +4417,7 @@ lo zelo
 aside from; besides
 a parte; oltre a
 
-to evoke
+to evoke; to conjure
 evocare
 
 to a lesser extent; to a lesser degree
@@ -103759,3 +103759,6 @@ non essere più sempre persi
 
 to buy more things; to buy more stuff
 comprare più cose; comprare più roba
+
+to do from now on
+fare d'ora in poi
