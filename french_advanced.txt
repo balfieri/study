@@ -7416,3 +7416,12 @@ le grains de poussière
 
 to get worse; to worsen
 empirer
+
+texture
+la texture
+
+to cut the recipe in half
+réduire la recette de moitié; couper la recette en deux
+
+to cut (something) in half
+réduire (quelque chose) de moitié; couper (quelque chose) en deux

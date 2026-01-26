@@ -2503,7 +2503,7 @@ dirigersi verso (un posto)
 to click (photo); to startle; to trigger
 scattare
 
-concerned
+concerned; pressed
 premuto
 
 to serve; to function; to act
@@ -103778,3 +103778,14 @@ la persona invadente
 chocolate chip cookies
 i biscotti con gocce di cioccolato
 
+the recipe is on the back of the package
+la ricetta è sul retro della confezione
+
+semi-sweet chocolate
+il cioccolato fondente semisweet
+
+to cut the recipe in half
+tagliare la ricetta a metà
+
+to cut (something) in half
+tagliare (qualcosa) a metà
