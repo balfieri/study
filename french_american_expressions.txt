@@ -138,3 +138,6 @@ continue de continuer!
 
 a person's a person, no matter how small
 une personne est une personne, peu importe sa taille
+
+the good old days
+le bon vieux temps
