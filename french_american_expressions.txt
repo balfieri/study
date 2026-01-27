@@ -141,3 +141,6 @@ une personne est une personne, peu importe sa taille
 
 the good old days
 le bon vieux temps
+
+it speaks volumes
+ça en dit long

@@ -6833,3 +6833,6 @@ continua a andare avanti!; tieni duro!; continua a continuare!
 
 the good old days
 i bei tempi andati
+
+it speaks volumes
+parla da solo
