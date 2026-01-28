@@ -7543,3 +7543,6 @@ la salle de gym
 to access the class; to enter the class
 accéder à la classe
 
+percentage
+le pourcentage
+
