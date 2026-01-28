@@ -6298,9 +6298,6 @@ esaltante
 self-confidence 
 la sicurezza di sé; la fiducia in sé stessi
 
-self-confident
-sicuro di sé
-
 self-esteem
 l'autostima
 
@@ -8184,9 +8181,6 @@ irritabile
 
 irascible; cantankerous; ill-tempered; hot-headed
 irascibile
-
-white supremacism
-la supremazia bianca
 
 the total package
 il pacchetto completo; il pacchetto totale
@@ -103810,3 +103804,24 @@ essere impiccati
 
 stock; shares
 le azioni
+
+ill will
+la malevolenza; il risentimento
+
+white supremacy; white supremacism
+la supremazia bianca
+
+racist country
+il paese razzista
+
+anti-icing
+l'antigelo
+
+anti-immigration
+l'anti-immigrazione
+
+family is everything
+la famiglia è tutto
+
+confident; self-confident
+sicuro di sé
