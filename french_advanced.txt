@@ -7626,3 +7626,6 @@ très haut ici
 
 barely beyond
 à peine au-delà
+
+a lot of distance
+beaucoup de distance
