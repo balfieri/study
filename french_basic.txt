@@ -3431,7 +3431,7 @@ don't worry
 t'inquiète pas; ne t'en fais pas
 
 that's great!
-c'est genial!
+c'est génial!
 
 that's not true!
 c'est pas vrai!
@@ -11892,8 +11892,8 @@ je ne sais rien à propos de (quelque chose); j'en sais rien de; je n'y connais 
 according to; based on
 d'après
 
-to manage to; to succeed in
-arriver à
+to manage to (do something); to succeed in (doing something)
+arriver à (faire qulque chose)
 
 to come from
 arriver de
@@ -12339,3 +12339,8 @@ un peu plus
 almost always
 presque toujours
 
+not yet
+pas encore
+
+that makes sense
+ça fait sens; c'est logique
