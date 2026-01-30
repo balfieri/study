@@ -7780,3 +7780,5 @@ la procédure
 laboratory
 le laboratoire
 
+top priority; highest priority
+la priorité numéro un; la plus haute priorité

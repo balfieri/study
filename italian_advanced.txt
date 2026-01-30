@@ -103900,3 +103900,7 @@ sappi che
 
 I worked up enough courage to
 ho trovato il coraggio sufficiente per
+
+top priority
+la priorità massima
+
