@@ -10321,9 +10321,6 @@ paralizzare
 in debt
 in debito
 
-to renounce
-rannunciare
-
 to require; to request; to demand; to call for
 richiedere
 
@@ -35491,7 +35488,7 @@ tornare nella propria città natale
 pollen
 il polline
 
-to give up (something)
+to give up (something); to renounce (something); to forfeit (something)
 rinunciare (qualcosa)
 
 to accuse; to charge (legal); to show (symptom)

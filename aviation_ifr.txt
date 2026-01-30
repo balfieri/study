@@ -1489,7 +1489,7 @@ to remain current for nighttime flight under VFR, in order to fly passengers, th
 do the same as for daytime currency, except the 3 landings must occur between one hour after sunset to one hour before sunrise, and to a full stop
 
 easiest way to file an IFR flight plan in the air when you unexpectedly encounter IMC
-contact ATC and ask for a pop-up clearance; note that this adds a lot of work for them, so consider getting back on the ground and doing it there
+contact FSS and file a new flight plan, then contact ATC to pick it up like any other in the air; if you are in an urgent situation, you can ask ATC for a pop-up clearance, which adds a lot of work for them, but may be necessary
 
 if you are on a straight-in IFR approach and notice VFR traffic is about to cut in front of you
 you may do a normal traffic pattern entry without contacting ATC; you need only re-contact ATC if you go missed in IMC

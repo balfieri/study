@@ -7782,3 +7782,9 @@ le laboratoire
 
 top priority; highest priority
 la priorité numéro un; la plus haute priorité
+
+boycott
+le boycott; le boycottage
+
+observation
+l'observation
