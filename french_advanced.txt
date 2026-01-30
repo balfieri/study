@@ -1705,7 +1705,7 @@ précieux
 peril
 le péril
 
-awful
+awful; atrocious
 affreux
 
 to butcher; to plug; to block; to clog; to stop; to stuff up; to fill; to cork; to obstruct
@@ -7707,4 +7707,76 @@ précommander
 
 at the risk of
 au risque de
+
+cursory analysis
+l'analyse sommaire
+
+taxes
+les impôts
+
+rather than
+plutôt que
+
+promising
+prometteur
+
+I spent about 10 minutes on it
+j'ai passé environ 10 minutes dessus
+
+long shot
+le coup dans l'eau
+
+at first glance
+à première vue
+
+this does not sound good
+ça ne semble pas bon
+
+kafkaesque; Kafkaesque
+kafkaïen
+
+stay strong!
+tiens bon!
+
+vagina
+le vagin
+
+motor
+le moteur
+
+impressionnable
+impressable
+
+money laundering
+blanchiment d'argent
+
+pathetic
+pathétique
+
+spacious
+spacieux
+
+it's the best show ever
+c'est le meilleur spectacle de tous les temps
+
+massacre
+le massacre
+
+prisoner
+le prisonnier
+
+permanance
+la permanence
+
+permanent
+permanent
+
+know that
+sache que
+
+procedure
+la procédure
+
+laboratory
+le laboratoire
 

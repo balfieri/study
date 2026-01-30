@@ -5900,7 +5900,7 @@ le vélo; la bicyclette
 sail
 le naviguer; la voile
 
-ball (larger)
+ball (larger); balloon
 le ballon
 
 weights
@@ -12344,4 +12344,10 @@ pas encore
 
 that makes sense
 ça fait sens; c'est logique
+
+keep the change!
+gardez la monnaie!
+
+sit down!
+assis-toi!
 
