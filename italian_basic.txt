@@ -4147,7 +4147,7 @@ ignorante
 intelligent
 intelligente
 
-embarrassing
+embarrassing; awkward
 imbarazzante
 
 loyal
@@ -7387,7 +7387,7 @@ segnare
 video
 il video
 
-to participate in; to attend
+to participate in; to attend; to take part in
 partecipare a
 
 to throw away
@@ -8022,4 +8022,16 @@ cosa facciamo dopo?
 
 to be cool
 essere fighi
+
+I'm kidding!
+sto scherzando!
+
+I'm just kidding!
+scherzo solamente!
+
+bye bye
+ciao ciao
+
+keep the change!
+tieni il resto!
 
