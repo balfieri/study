@@ -403,8 +403,8 @@ truc
 know-it-all; someone who thinks they know everything
 le je-sais-tout; le tout savoir; le donneur de leçons
 
-to smell (bad)
-puer; sentir mauvais
+to stink; to smell (bad)
+puer; empester; sentir mauvais
 
 even when
 même quand; même lorsque
@@ -7795,3 +7795,8 @@ barrer
 presumably
 probablement; sans doute; vraisemblablement
 
+to fake an orgasm
+faire semblant d'avoir un orgasme; simuler un orgasme
+
+safer
+plus sûr

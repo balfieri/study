@@ -2502,7 +2502,7 @@ requirements for forming a thunderstorm
 moist air, unstable lapse rate, initial lifting force
 
 PARE acronym for spin recovery
-power to idle; ailerons to neutral; rudder full opposite; elevator pitch down; and then neutralize main controls
+power to idle; ailerons to neutral; rudder full opposite; elevator pitch down just enough to stop stall; and then neutralize main controls, including pulling elevator back slowly
 
 where to find NOTAMs
 notams.faa.gov
