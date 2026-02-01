@@ -12351,3 +12351,6 @@ gardez la monnaie!
 sit down!
 assis-toi!
 
+ten thousand
+dix mille
+
