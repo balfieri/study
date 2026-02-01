@@ -5728,7 +5728,7 @@ la conjecture
 sale
 la vente
 
-obviously; clearly
+obviously; clearly; manifestly
 manifestement
 
 barrel
@@ -7800,3 +7800,84 @@ faire semblant d'avoir un orgasme; simuler un orgasme
 
 safer
 plus sûr
+
+misery gene
+le gène de la misère
+
+serial number
+le numéro de série
+
+car wash
+la station de lavage
+
+mineral
+le minéral
+
+to give advice
+donner un conseil
+
+definitely!
+définitivement!
+
+to plant
+planter
+
+lots of luck
+beaucoup de chance
+
+bloer
+to blow
+
+substance
+la substance
+
+poison
+le poison
+
+poisonous
+poisonneux
+
+sweater; pull-over
+le sueter
+
+shipping box
+la boîte d'envoi
+
+shipping
+l'envoiement
+
+negligent
+negligent
+
+to step
+stapper
+
+counterproductive
+contre-productif
+
+case
+le boitier
+
+Nature has been very good to (someone)
+la nature a été très généreuse avec (quelqu'un)
+
+to procrastinate
+procrastiner
+
+procrastination
+la procrastination
+
+frequency
+la fréquence
+
+any (flight) in the world
+n'importe quel (quelque chose) au monde
+
+by default
+par défaut
+
+ventilation system
+le système de ventilation
+
+to permeate
+imprégner la maison
