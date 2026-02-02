@@ -7896,3 +7896,40 @@ détourner de (quelque chose)
 
 database
 la base de données; le database
+
+controller; joystick; lever
+la manette
+
+axis
+l'axe
+
+axes
+les axes
+
+pitch, roll, and yaw
+le tangage, le roulis et le lacet
+
+to read back the command
+relire la commande
+
+just checking!
+je vérifie juste!
+
+basic idea
+l'idée de base
+
+I get the basic idea
+j'ai compris l'idée de base
+
+New Zealand
+la Nouvelle-Zélande
+
+emblematic
+emblématique
+
+fake Italian
+l'italien faux
+
+stream of consciousness
+le flux de conscience
+
