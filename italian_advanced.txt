@@ -61188,7 +61188,7 @@ objective (adjective)
 oggettivo
 
 objectively
-in modo oggettivo
+in modo oggettivo; obietivamente
 
 lingering doubts
 i dubbi residui
@@ -103969,4 +103969,13 @@ il gioco dei numeri
 
 to give commands
 dare comandi
+
+to bring some good; to do some good
+portare del bene
+
+cryptic
+criptico
+
+bestseller
+il bestseller
 
