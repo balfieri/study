@@ -103967,3 +103967,6 @@ l'italiano finto
 numbers game
 il gioco dei numeri
 
+to give commands
+dare comandi
+

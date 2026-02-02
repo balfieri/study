@@ -7942,3 +7942,5 @@ la gonorrhée
 syphilis
 la syphilis
 
+to give commands
+donner des commandes
