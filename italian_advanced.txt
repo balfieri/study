@@ -104005,3 +104005,13 @@ oggi è un bel giorno
 
 overachiever
 la persona che eccelle; chi raggiunge risultati superiori alle aspettative
+
+ground controller
+il controllore di terra; il controllore a terra
+
+tower controller
+il controllore della torre; l'operatore della torre di controllo
+
+departure controller
+il controllore partenze
+
