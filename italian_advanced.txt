@@ -17266,7 +17266,7 @@ friendzonare
 expected; attended; anticipated
 atteso
 
-nerd; geek; egghead; overachiever
+nerd; geek; egghead
 il secchione; la secchiona
 
 mid-life
@@ -104003,3 +104003,5 @@ il realizzatore; la persona di successo; il vincente
 today is a good day
 oggi è un bel giorno
 
+overachiever
+la persona che eccelle; chi raggiunge risultati superiori alle aspettative
