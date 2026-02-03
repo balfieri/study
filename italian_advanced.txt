@@ -17551,9 +17551,6 @@ parlare al muro
 to go back on one's word
 rimangiarsi la parola
 
-breakthrough
-lo sfondamento; il salto di qualità
-
 to reinvent the wheel
 scoprire l'acqua calda; scoprire l'America
 
@@ -41377,8 +41374,11 @@ i semi d'erba
 to book a flight to (city)
 prenotare un volo per (città)
 
+double-edged
+a doppio taglio
+
 double-edged sword
-la spada a doppio taglio
+la lama a doppio taglio; la spada a doppio taglio
 
 to cut into line; to cut the line
 infilarsi nella fila; tagliare la coda; tagliare la fila
@@ -45411,9 +45411,6 @@ scoppiare a
 
 opaque
 opaco
-
-wealth tax
-la tassa sulla ricchezza
 
 personal income tax
 l'imposta sul reddito delle persone fisiche
@@ -103979,3 +103976,23 @@ criptico
 bestseller
 il bestseller
 
+value-added tax (VAT)
+l'imposta sul valore aggiunto (IVA)
+
+deductible
+deducibile
+
+to throw off
+scombussolare; destabilizzare
+
+to come up the learning curve
+salire la curva di apprendimento
+
+insular
+insulare
+
+breakthrough
+la svolta; l'avanzamento; il breakthrough; lo sfondamento; il salto di qualità
+
+wealth tax
+l'imposta sul patrimonio; la tassa sulla ricchezza

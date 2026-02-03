@@ -2251,7 +2251,7 @@ le coacher
 height
 la hauteur
 
-breakup
+breakup; rupture; breakage
 la rupture
 
 in there
@@ -7963,3 +7963,29 @@ le best-seller; le succès de librairie
 blockbuster
 la superproduction; le grand succès
 
+to get sick
+tomber malade
+
+it throw off; to destabilize
+déstabiliser
+
+to come up the learning curve
+progresser dans propre courbe d'apprentissage; monter en compétence
+
+insular
+insulaire
+
+loss
+la perte
+
+scholarship
+bourse d'études
+
+breakthrough
+le progrès décisif
+
+say hello to (someone)
+dis bonjour à (quelqu'un)
+
+wealth tax
+l'impôt sur la fortune
