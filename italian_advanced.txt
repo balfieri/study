@@ -17266,7 +17266,7 @@ friendzonare
 expected; attended; anticipated
 atteso
 
-nerd; geek; egghead
+nerd; geek; egghead; overachiever
 il secchione; la secchiona
 
 mid-life
@@ -103996,3 +103996,6 @@ la svolta; l'avanzamento; il breakthrough; lo sfondamento; il salto di qualità
 
 wealth tax
 l'imposta sul patrimonio; la tassa sulla ricchezza
+
+achiever
+il realizzatore; la persona di successo; il vincente
