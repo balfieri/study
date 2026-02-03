@@ -70,7 +70,7 @@ la tristesse
 raise your hand!
 levez la main!
 
-cat
+cat; chat
 le chat; la chatte
 
 black
