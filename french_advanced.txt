@@ -7989,3 +7989,6 @@ dis bonjour à (quelqu'un)
 
 wealth tax
 l'impôt sur la fortune
+
+envious
+envieux
