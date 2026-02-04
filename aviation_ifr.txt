@@ -2644,3 +2644,6 @@ only when ATC directs you to do so, which is typically during low-visibility con
 
 when should our KAP 140 and GFC 500 autopilots be turned off
 the supplements say less when than 200 feet AGL on approach, and less than 800 feet AGL for all other operations
+
+how to estimate cloud bases from temperatures
+surface temperature minus dewpoint, then divide by 4.4 and then multiply by 1000
