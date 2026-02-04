@@ -104015,3 +104015,5 @@ il controllore della torre; l'operatore della torre di controllo
 departure controller
 il controllore partenze
 
+out-of-step
+fuori passo
