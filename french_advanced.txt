@@ -5662,8 +5662,8 @@ la rallonge; le prolongateur
 lesbianism
 le lesbianisme
 
-it's not too late for 
-il n'est pas trop tard pour
+it's not too late for (something)
+il n'est pas trop tard pour (quelque chose)
 
 it's never too late for
 il n'est jamais trop tard pour
@@ -8181,3 +8181,9 @@ l'homme gay
 
 heterosexual
 hétérosexuel
+
+to brag
+se vanter; fanfaronner
+
+one of my neighbors
+un de mes voisins
