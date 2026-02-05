@@ -8053,3 +8053,5 @@ améliorer; moderniser
 to testify; to bear witness; to attest
 témoigner
 
+pawn
+le pion
