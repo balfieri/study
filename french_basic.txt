@@ -12365,3 +12365,6 @@ qu'est-ce qui s'est passé?
 
 she and I
 elle et moi
+
+as you know
+comme on sait
