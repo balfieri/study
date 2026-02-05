@@ -3494,7 +3494,7 @@ I'm late again
 je suis en retard encore
 
 fault
-la faut
+la faute
 
 it's not my fault
 ce n'est pas ma faute

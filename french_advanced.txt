@@ -7238,10 +7238,10 @@ playful personality
 la personnalité ludique; la personnalité enjouée
 
 to advance the plot
-avancer l'intrigue
+faire avancer l'intrigue
 
 bottle episode
-l'épisode remplisseur
+l'épisode remplisseur; l'épisode en bouteille
 
 in part
 en partie
@@ -8100,4 +8100,31 @@ qu'est-ce que je peux dire?
 
 I do a lot of weird things
 je fais beaucoup de choses bizarres
+
+wait!
+attends!
+
+to do some research on it
+faire des recherches là-dessus
+
+to be over budget
+dépasser le budget; être hors budget
+
+in this case
+dans ce cas-ci
+
+that is why everyone hates it
+c'est pourquoi tout le monde le déteste
+
+even after
+même après que
+
+to appear
+apparaître
+
+to confess; to avow
+confesser
+
+mercurial
+mercurial; mercuriel; lunatique
 
