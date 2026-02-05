@@ -12377,3 +12377,6 @@ comme on sait
 
 in reality
 en réalité
+
+this is why; that is why
+c'est pourquoi
