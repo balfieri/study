@@ -12362,3 +12362,6 @@ est-ce qu'il y problème?: y a-t-il un problème?
 
 what happened?
 qu'est-ce qui s'est passé?
+
+she and I
+elle et moi
