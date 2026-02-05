@@ -172,3 +172,6 @@ s'énerver pour (quelque chose)
 it's a doozy!
 c'est quelque chose!
 
+it is a blessing in disguise
+c'est une bénédiction cachée
+
