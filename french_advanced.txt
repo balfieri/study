@@ -4202,7 +4202,7 @@ to announce
 annoncer
 
 from now on; henceforth
-dorénavant
+dorénavant; à partir de maintenant; à partir de ce moment là
 
 conflict
 le conflit
@@ -7792,7 +7792,7 @@ l'observation
 to cross out; to block; to strike out
 barrer
 
-presumably
+probably; presumably
 probablement; sans doute; vraisemblablement
 
 to fake an orgasm
@@ -8157,4 +8157,10 @@ l'arc
 
 partially; in part
 partiellement; à mi-chemin; en partie
+
+state of mind; frame of mind
+l'état d'esprit; l'état d'âme
+
+accidentally
+accidentellement
 

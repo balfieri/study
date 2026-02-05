@@ -844,6 +844,9 @@ la casquette
 coat
 le manteau
 
+after (something)
+après (quelque chose)
+
 after that
 après ça
 
@@ -10431,6 +10434,9 @@ le comportement
 before (doing something)
 avant de (faire quelque chose)
 
+before the (something)
+avant (quelque chose)
+
 present; gift; present tense
 le présent
 
@@ -12368,3 +12374,6 @@ elle et moi
 
 as you know
 comme on sait
+
+in reality
+en réalité
