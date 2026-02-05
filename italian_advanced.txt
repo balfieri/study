@@ -164,7 +164,7 @@ epidemiologist
 l'epidemiologo
 
 graduate school
-scuola di specializzazione
+la scuola di specializzazione
 
 musician
 il musicista
@@ -104054,3 +104054,8 @@ faccio un sacco di cose strane
 human rights
 i diritti umani
 
+application (school)
+la domanda di ammissione
+
+graduate school application
+la domanda di ammissione alla scuola di specializzazione
