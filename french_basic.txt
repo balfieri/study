@@ -7011,7 +7011,7 @@ farm
 la ferme
 
 farmer
-l'agriculteur; l'fermier
+l'agriculteur; le fermier
 
 turist
 le touriste

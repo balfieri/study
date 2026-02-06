@@ -73811,9 +73811,6 @@ l'olimpiade
 it doesn't bother me
 non mi da fastidio
 
-it's not a problem for me
-a me non è un problema
-
 square bunch
 il mazzo quadrato
 
@@ -104074,4 +104071,16 @@ la scala evolutiva
 
 Dunning-Kruger effect
 l'effetto Dunning-Kruger
+
+slang word
+il gergo
+
+to feel lost
+sentirsi smarriti
+
+it's getting better
+sta migliorando
+
+proper noun
+il nome proprio
 
