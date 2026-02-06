@@ -514,3 +514,6 @@ tiens le coup
 hold tight
 tiens bon
 
+to take the bull by the horns
+prendre le taureau par les cornes
+

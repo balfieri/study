@@ -6973,7 +6973,7 @@ la segretezza; la clandestinità
 piece of the puzzle
 il tassello del puzzle
 
-shaken; shaky; rattled; shocked
+shaken; rattled; shocked
 scosso
 
 meaningful; significant
@@ -104086,3 +104086,10 @@ il nome proprio
 
 side of the story
 la versione dei fatti
+
+but it fits; ok, but there is
+ma ci sta
+
+to get caught up in the story
+farsi prendere dal racconto
+
