@@ -8229,3 +8229,6 @@ pour moi ce n'est pas un problème
 
 proper noun
 le nom propre
+
+side of the story
+le version des faits

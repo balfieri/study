@@ -104084,3 +104084,5 @@ sta migliorando
 proper noun
 il nome proprio
 
+side of the story
+la versione dei fatti
