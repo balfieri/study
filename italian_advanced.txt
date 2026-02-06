@@ -104093,3 +104093,5 @@ ma ci sta
 to get caught up in the story
 farsi prendere dal racconto
 
+unstable; shaky
+instabile
