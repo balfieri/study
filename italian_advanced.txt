@@ -104132,3 +104132,8 @@ il pattinatore su ghiaccio; la pattinatrice su ghiaccio
 speed skating
 il pattinaggio di velocità
 
+winter Olympics
+gli olimpiadi invernali
+
+summer Olympics
+gli olimpiadi estivi

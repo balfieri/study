@@ -8281,3 +8281,9 @@ le patinage de vitesse
 ice skates
 les patins à glace
 
+winter Olympics
+les jeux olympiques d'hiver
+
+summer Olympics
+les jeux olympiques d'été
+
