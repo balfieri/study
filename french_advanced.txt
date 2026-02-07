@@ -8277,3 +8277,7 @@ le patinage sur glace
 
 speed skating
 le patinage de vitesse
+
+ice skates
+les patins à glace
+
