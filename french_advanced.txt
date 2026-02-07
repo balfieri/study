@@ -5194,9 +5194,6 @@ tu essaies de gâcher (quelque chose)
 I see what you're doing
 je vois ce que tu fais
 
-to ruin; to spoil
-gâcher
-
 to ruin Christmas
 gâcher Noël
 
@@ -7775,7 +7772,7 @@ procedure
 la procédure
 
 laboratory
-le laboratoire
+le laboratoire; le labo
 
 top priority; highest priority
 la priorité numéro un; la plus haute priorité
@@ -8287,3 +8284,5 @@ les jeux olympiques d'hiver
 summer Olympics
 les jeux olympiques d'été
 
+to waste; to spoil; to ruin; to mess up
+gâcher
