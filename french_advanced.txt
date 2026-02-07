@@ -8268,3 +8268,12 @@ le curling
 
 to cause; to talk
 causer
+
+ice skater
+le patineur sur glace; la patineuse sur glace
+
+ice skating
+le patinage sur glace
+
+speed skating
+le patinage de vitesse
