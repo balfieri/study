@@ -6872,3 +6872,6 @@ decidere di (fare qualcosa)
 
 on shaky ground
 su terreno instabile
+
+to talk shop
+parlare degli dettagli di lavoro
