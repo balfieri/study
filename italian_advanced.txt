@@ -104150,6 +104150,5 @@ improvvisare (qualcosa)
 news coverage
 la copertura giornalistica
 
-sledder; luger
-lo slittista; la slittista
-
+sledder; luger; sled rider
+lo slittinista; la slittinista
