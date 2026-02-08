@@ -8313,3 +8313,7 @@ bricoler (quelque chose); bidouiller (quelque chose)
 
 test; trial; event
 l'épreuve
+
+news coverage
+la couverture médiatique; la couverture de presse
+
