@@ -8325,3 +8325,10 @@ la luge
 
 national anthem; hymn
 l'hymne
+
+biathlon
+le biathlon
+
+triathlon
+le triathlon
+
