@@ -8322,3 +8322,6 @@ le lugeur
 
 sled; luge
 la luge
+
+national anthem; hymn
+l'hymne
