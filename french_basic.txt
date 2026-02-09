@@ -7203,7 +7203,7 @@ to be about; to concern
 parler de; concerner
 
 to make sure that
-s'assurer que; veiller à ce que
+s'assurer que; veiller à ce que; faire en sorte que
 
 insurance; assurance
 l'assurance
@@ -11689,7 +11689,7 @@ to make love
 faire l'amour  
 
 to have sex; to get it on; to get some; to get laid  
-avoir des rapports sexuels; coucher avec quelqu'un  
+avoir des rapports sexuels; coucher avec quelqu'un; faire l'amour
 
 in an hour  
 dans une heure  
@@ -12389,3 +12389,7 @@ le plus de (quelque chose)
 
 it is so (adjective)
 c'est tellement (adjectif)
+
+it makes me laugh
+ça me fait rire
+
