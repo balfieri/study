@@ -5554,7 +5554,7 @@ le scanner
 holistic
 holistique
 
-absolutely; quite
+absolutely; quite; quite right; exactly; completely
 tout à fait
 
 hopes
@@ -8341,3 +8341,62 @@ le migrant
 family entertainment
 le divertissement familial
 
+progressive
+progressiste
+
+graduate school
+la graduate school; l'école de troisième cycle
+
+job market
+le marché du travail; le marché de l'emploi
+
+extracurricular activity
+l'activité périscolaire; l'activité parascolaire
+
+close group of friends
+le groupe proche des amis
+
+dormitory
+le dortoir
+
+to apply
+postuler
+
+under pressure
+sous pression
+
+on transfer; on assignment; on the move
+en mutation
+
+themselves
+eux-mêmes
+
+digital crowd
+la foule numérique
+
+social network
+le réseau social
+
+to expose
+exposer; révéler; mettre à nu
+
+landmark; benchmark; reference point; marker; criterion
+le repère
+
+to struggle to; to have trouble; to have difficulty
+avoir du mal à
+
+excessive patriotism
+le chauvinisme
+
+male chauvinism
+le machisme
+
+male chauvinist
+machiste
+
+man of power
+l'homme de pouvoir
+
+powerful man
+l'homme puissant
