@@ -7517,7 +7517,7 @@ rowing
 il canottaggio
 
 boxing
-il pugilato; il boxe
+la boxe; il pugilato
 
 to listen closely
 ascoltare attentamente
@@ -48562,8 +48562,11 @@ la scaffalatura
 display (store)
 l'espositore
 
-ski lift
+ski lift; chair lift
 la seggiovia
+
+ski lift (T bar)
+lo skilift
 
 a lot of fuss over nothing
 tanto rumore per nulla
