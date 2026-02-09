@@ -8332,3 +8332,9 @@ le biathlon
 triathlon
 le triathlon
 
+to sweep
+balayer
+
+migrant
+le migrant
+
