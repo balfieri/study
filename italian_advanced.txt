@@ -48565,8 +48565,8 @@ l'espositore
 ski lift; chair lift
 la seggiovia
 
-ski lift (T bar)
-lo skilift
+ski lift; T bar
+lo skilift; lo ski lift
 
 a lot of fuss over nothing
 tanto rumore per nulla
