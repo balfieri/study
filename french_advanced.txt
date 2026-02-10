@@ -8523,3 +8523,7 @@ le down
 
 down-to-earth
 terre-à-terre
+
+well deserved
+bien mérité
+
