@@ -104224,3 +104224,6 @@ il campo di casa
 
 scoring (points)
 la marcatura; il segnare
+
+down (American football)
+il down
