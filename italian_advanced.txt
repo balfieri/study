@@ -104219,3 +104219,7 @@ deviare la palla col tallone (rugby)
 detour
 la deviazione; il giro
 
+home court
+il campo di casa
+
+
