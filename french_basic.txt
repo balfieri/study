@@ -3757,7 +3757,7 @@ assieds-toi
 look at me
 regarde-moi
 
-trash can
+trash; trash can
 la poubelle
 
 don't be late
@@ -12404,4 +12404,7 @@ un peu mieux
 
 power
 le pouvoir
+
+not that I know of
+pas que je sache
 

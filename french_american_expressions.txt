@@ -202,3 +202,6 @@ parler boutique; parler boulot; causer travail
 to hang around
 traîner de; flâner; passer le temps
 
+to vibe-check (somebody)
+tester les vibrations de (quelqu'un)
+
