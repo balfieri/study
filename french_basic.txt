@@ -4589,7 +4589,7 @@ on vacation (fixed holidays)
 en congé
 
 over; above; atop
-au-dessus
+au-dessus de
 
 down; down below
 en bas
