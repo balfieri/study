@@ -8527,3 +8527,14 @@ terre-à-terre
 well deserved
 bien mérité
 
+criticism; review (film, book)
+la critique
+
+review (academic)
+la recension
+
+review; critical summary
+le compte-rendu
+
+arbitrary
+arbitraire

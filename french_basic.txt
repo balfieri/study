@@ -6494,9 +6494,6 @@ en tout cas; de toute façon; de toute manière
 comment
 le commentaire
 
-criticism
-la critique
-
 to criticize
 critiquer
 
@@ -12414,3 +12411,5 @@ pas que je sache
 certainly!
 certainement!; à coup sûr!; certes!
 
+opinion; review (general, user, online)
+l'avis
