@@ -104222,4 +104222,5 @@ la deviazione; il giro
 home court
 il campo di casa
 
-
+scoring (points)
+la marcatura; il segnare
