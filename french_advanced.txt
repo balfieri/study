@@ -7429,9 +7429,6 @@ i tempi d'oro
 ice storm
 la tempête de glace
 
-to decipher; to decrypt; to understand
-décrypter
-
 vanilla extract
 l'extrait de vanille
 
@@ -8655,3 +8652,39 @@ le siège inclinable
 
 deviant
 déviant
+
+diaper
+la couche; la couche de bébé
+
+to change a diaper
+changer une couche
+
+to encrypt
+chiffrer; crypter
+
+to decrypt
+déchiffrer; décrypter
+
+event; happening
+l'événement
+
+primordial
+primordial
+
+photo shoot
+la séance photo
+
+what does it do?
+ça fait quoi?
+
+to slow down
+rallentir
+
+it's out of bounds
+c'est hors
+
+are you coming to bed?
+tu viens à coucher?
+
+to sort out some issues
+résoudre certains problèmes; régler certains problèmes

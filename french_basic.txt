@@ -8091,9 +8091,6 @@ faire un discours; prononcer un discours
 balance
 l'équilibre
 
-event
-l'événement
-
 again
 de nouveau
 
@@ -12416,3 +12413,7 @@ l'avis
 
 I do not remember them all
 je ne me souviens pas de tous
+
+it's not okay
+c'est pas ok
+
