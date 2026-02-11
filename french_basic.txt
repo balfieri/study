@@ -1906,7 +1906,7 @@ lui demander
 how long
 combien de temps
 
-pleasant
+pleasant; nice
 agréable
 
 since when; for how long
@@ -12417,3 +12417,5 @@ je ne me souviens pas de tous
 it's not okay
 c'est pas ok
 
+to have a great time
+passer un bon moment
