@@ -4261,7 +4261,7 @@ unico
 used
 usato
 
-incapable
+incapable; unable
 incapace
 
 round
@@ -8044,3 +8044,5 @@ non che io sappia
 I do not remember them all
 non li ricordo tutti
 
+it's ok
+va bene

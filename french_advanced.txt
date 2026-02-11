@@ -8652,3 +8652,6 @@ le vol amusant
 
 reclining seat
 le siège inclinable
+
+deviant
+déviant
