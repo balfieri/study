@@ -3640,10 +3640,10 @@ la settimana
 question; demand; application
 la domanda
 
-table (concept); board; plank; surf board
+table (for eating, concept); board; plank; surf board
 la tavola 
 
-table (physical object)
+table (physical object, general table)
 il tavolo
 
 tower; rook (chess)

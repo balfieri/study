@@ -11011,7 +11011,7 @@ i figli ribelli
 redemption; ransom
 il riscatto
 
-to fly over; to pass over
+to fly over; to pass over; to overfly
 sorvolare
 
 hack; trick; measure; step
@@ -33703,7 +33703,7 @@ noncorrosivo
 non-military
 nonmilitare
 
-to clear; to vacate
+to clear; to clear out; to vacate
 sgomberare
 
 to spread (substance)
@@ -77711,9 +77711,6 @@ non mi resta altro che
 I have nothing else left but (to do something)
 non mi rimane altro che (fare qualcosa)
 
-to have to (do something)
-avere da (fare qualcosa)
-
 I have to (do something)
 mi tocca (fare qualcosa)
 
@@ -104227,3 +104224,63 @@ la marcatura; il segnare
 
 down (American football)
 il down
+
+to have a good heart
+avere un buon cuore
+
+that's what I'm here for!
+è per questo che sono qui!
+
+in the face of difficulties
+di fronte alle difficoltà; di fronte ai problemi
+
+brushing
+lo spazzolamento
+
+brush
+lo spazzolo
+
+small hump
+la gobbetta
+
+shut up!
+stai zitto!; taci!
+
+it's nothing
+non è niente; è nulla
+
+it's more than this
+è più di questo
+
+extramarital
+extraconiugale
+
+to have an extramarital affair
+avere una relazione extraconiugale; tradire il coniuge
+
+to do harare
+fare harare
+
+reckless overtaking; daring overtake
+il sorpasso azzardato
+
+lobby
+la lobby
+
+to have to (do something); to must (do something)
+avere da (fare qualcosa)
+
+tired to death; dead tired
+stanco da morire
+
+beautiful enough to die for; stunningly beautiful
+bello da morire
+
+ugly enough to die for; hideously ugly
+brutto da morire
+
+with one's feet on the ground; down-to-earth
+con i piedi per terra
+
+if you don't mind, I would like to (do something)
+se non ti dispiace, vorrei (fare qualcosa)
