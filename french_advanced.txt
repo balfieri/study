@@ -4430,7 +4430,10 @@ to delve deep into
 explorer en profondeur; approfondir
 
 awkward; clumsy
-maladroite; gauche
+maladroit; gauche
+
+socially awkward
+maladroit socialement
 
 attic; loft; granary; garret
 le grenier
