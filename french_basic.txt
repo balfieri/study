@@ -10392,7 +10392,7 @@ bref
 effect
 l'effet
 
-to have a good time
+to have a good time; to have a great time
 passer un bon moment
 
 frustrating
@@ -12417,5 +12417,3 @@ je ne me souviens pas de tous
 it's not okay
 c'est pas ok
 
-to have a great time
-passer un bon moment
