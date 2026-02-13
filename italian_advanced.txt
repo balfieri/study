@@ -38971,7 +38971,7 @@ il momento della verità
 do-or-die situation
 la situazione di vita o di morte
 
-curtains
+drapes; curtains
 le tende
 
 video montage
@@ -89006,7 +89006,7 @@ il germofobo; la germofoba
 workforce; workers; employees
 le maestranze
 
-press (news)
+press (news); printout
 la stampa
 
 fat person; fatty; chubby person
@@ -104314,4 +104314,10 @@ un mucchio di tempo fa
 
 age-old question
 la domanda vecchia di secoli
+
+scanner
+lo scanner
+
+none of your business!
+non sono fatti tuoi!
 
