@@ -3640,7 +3640,7 @@ la settimana
 question; demand; application
 la domanda
 
-table (for eating, concept); board; plank; surf board
+table (set for for eating); board; plank
 la tavola 
 
 table (physical object, general table)
