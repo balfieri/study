@@ -22459,7 +22459,7 @@ bancario
 banker
 il bancario
 
-interval
+interval; intermission (movie)
 l'intervallo
 
 to be named after
@@ -104345,7 +104345,7 @@ a tavola
 kitchen table
 il tavolo da cucina
 
-dining table
+dining room table
 il tavolo da pranzo
 
 gaming table; card table
@@ -104362,3 +104362,7 @@ la tavola da stiro
 
 stock fund
 il fondo azionario
+
+know-all; savoir-faire
+il savoir-faire
+
