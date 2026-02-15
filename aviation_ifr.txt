@@ -2647,3 +2647,6 @@ the supplements say less when than 200 feet AGL on approach, and less than 800 f
 
 how to estimate cloud bases from temperatures
 surface temperature minus dewpoint, then divide by 4.4 and then multiply by 1000
+
+how long it takes to complete a standard-rate turn
+2 minutes, 3 degrees per second
