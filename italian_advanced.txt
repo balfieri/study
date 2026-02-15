@@ -41981,7 +41981,7 @@ bendable; foldable
 pieghevole
 
 choking; suffocation
-il soffocamento
+il soffocamento; la soffocazione
 
 strangulation
 lo strangolamento
@@ -104365,4 +104365,10 @@ il fondo azionario
 
 know-all; savoir-faire
 il savoir-faire
+
+to asphyxiate
+asfissiare
+
+asphyxiation
+l'asfissia
 
