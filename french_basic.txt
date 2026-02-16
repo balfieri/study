@@ -19,7 +19,10 @@ emprunter
 in French
 en français
 
-thing
+thing; gizmo (informal, imprecise)
+le truc
+
+thing (general, a little more formal)
 la chose
 
 something
@@ -6655,9 +6658,6 @@ neutre
 
 very chic
 très chic
-
-thing; gizmo
-le truc
 
 tutor
 le tuteur; la tutrice
