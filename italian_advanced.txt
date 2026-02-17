@@ -31084,7 +31084,7 @@ l'entalpia
 irreparably
 irreparabilmente
 
-spoiled
+spoiled; bratty
 viziato
 
 sign on the wall
@@ -57869,7 +57869,7 @@ mostruoso
 mountain hut
 la baita montana
 
-cabin; hut (mountain, solid build)
+cabin; hut (mountain, solid build); lodge
 la baita
 
 cabin; hut (general, rudimentary build)
@@ -104384,11 +104384,39 @@ la data di scadenza
 rotten teeth
 i denti marci
 
-lodge; cabin; cabin
-la baita
-
 ski lodge
 il rifugio di montagna
 
 when are you turning 29?
 quando compirai 29 anni?
+
+vicious circle
+il circolo vizioso
+
+bratty teenager
+l'adolescente viziato
+
+see, I'm not such a bad (something)
+vedi, non sono un (qualcosa) così cattivo.
+
+essere in arresto
+to be under arrest
+
+guardare; visualizzare
+to view
+
+non ancora
+not yet
+
+non di nuovo
+not again
+
+vagabond
+il vagabondo
+
+left bank
+la riva sinistra
+
+right bank
+la riva destra
+

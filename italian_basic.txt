@@ -8046,3 +8046,7 @@ non li ricordo tutti
 
 it's ok
 va bene
+
+non so cosa fare
+I don't know what to do
+

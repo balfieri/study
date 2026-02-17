@@ -5227,9 +5227,6 @@ to encore
 to reason
 raisonner
 
-rage
-la rage
-
 chemotherapy
 la chimiothérapie
 
@@ -8793,3 +8790,27 @@ l'étouffement
 
 to lose a little self-confidence
 perdre un peu de confiance en soi
+
+to be under arrest
+être en état d'arrestation; être aux arrêts
+
+to view
+voir; consulter
+
+New Mexico
+le Nouveau-Mexique
+
+not again
+pas encore; encore une fois non
+
+rage
+la rage
+
+vagabond
+le vagabond
+
+right bank
+la rive droite
+
+Seine
+la Seine
