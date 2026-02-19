@@ -1495,8 +1495,8 @@ meilleurs vœux
 thank you (formal)
 je vous remercie
 
-you're welcome
-de rien; je vous en prie
+you're welcome; it's nothing
+de rien; il n'y a pas de quoi; pas de problème; je vous en prie
 
 how old are you?
 quel âge as-tu ?
@@ -4490,7 +4490,7 @@ I don't want to talk about it
 je ne veux pas en parler
 
 lack of
-la manque de; l'absence de
+le manque de; l'absence de
 
 here is; here are; this is; these are; here it is; here you go
 voici
@@ -12437,3 +12437,6 @@ véritablement; en réalité; vraiment; en fait; réellement; effectivement
 
 faster; more rapidly
 plus rapidement; plus vite
+
+not even
+même pas
