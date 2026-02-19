@@ -1522,7 +1522,7 @@ rumoroso
 corner
 l'angolo
 
-to hide (intransitive)
+to hide (intransitive); to hide oneself
 nascondersi
 
 then; well...; so; now; at that time; at that moment
@@ -8049,4 +8049,7 @@ va bene
 
 non so cosa fare
 I don't know what to do
+
+I feel like it
+mi va
 

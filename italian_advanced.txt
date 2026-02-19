@@ -2734,7 +2734,7 @@ prestare attenzione a
 tiring
 faticoso; stancante
 
-laborious; hard-working
+laborious; hard-working; work-intensive
 laborioso
 
 intelligence quotient; IQ
@@ -19576,7 +19576,7 @@ lo sciroppo
 uppercase
 maiuscolo
 
-lowercase; tiny
+lowercase; tiny; miniscule
 minuscolo
 
 helmet
@@ -22913,7 +22913,7 @@ to confer; to give; to bestow
 conferire
 
 to prepare for; to get ready for
-prepararsi a
+prepararsi a; perperarsi per
 
 to get thinner; to slim down
 dimagrire
@@ -104449,3 +104449,13 @@ avere una buona notizia; avere buone notizie
 
 government funding
 il finanziamento governativo
+
+effort-intensive
+che richiede molta fatica
+
+lesson learned
+lezione imparata
+
+to have a cold
+avere il raffreddore
+
