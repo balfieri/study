@@ -325,7 +325,7 @@ l'américain moche; le vilain américain
 bad coffee; sock juice
 du jus de chaussette
 
-to get by; to manage
+to get by; to manage; to fend for oneself
 se débrouiller
 
 scammer; swindler
@@ -3094,7 +3094,7 @@ en ce qui concerne
 in terms of
 en termes de; concernant
 
-to suit; to be suitable for
+to suit; to be suitable for; to fit
 convenir
 
 in a can
@@ -8814,3 +8814,84 @@ la rive droite
 
 Seine
 la Seine
+
+to upset
+mettre en colère; vexer; fâcher
+
+to clog up
+boucher; obstruer
+
+my eyes are gunked up
+mes yeux sont encrassés; mes yeux sont bouchés par du mucus
+
+there is gunk coming out of my eyes
+il y a du mucus qui sort de mes yeux; du pus sort de mes yeux
+
+quirky
+bizarre; excentrique
+
+banality of evil
+la banalité du mal
+
+relieved
+soulagé
+
+to relieve
+soulager
+
+illicit drugs; narcotics
+les drogues illicites; les stupéfiants
+
+shoulders
+les épaules
+
+back (body); backs
+les dos; le dos
+
+job offer
+l'offre de travail
+
+post-doc
+le post-doc
+
+research post-doc
+le post-doc de recherche
+
+material (physical)
+le matériau
+
+to drag; to pull; to haul; to dawdle; to lag; to drag on
+traîner
+
+at the beginning of January
+au début du mois de janvier
+
+unlike (something)
+contrairement à (quelque chose); à la différence de (quelque chose)
+
+unlike in (something)
+contrairement à en (quelque chose); à la différence de en (quelque chose)
+
+renewable energy
+l'énergie renouvelable
+
+renewable
+renouvelable
+
+post-doctorate
+post-doctorat
+
+stock exchange; purse; grant; scholarship; fellowship
+la bourse
+
+postdoctoral
+postdoctoral
+
+it is a big blur
+c'est un grand flou
+
+to have only two (somethings)
+avoir deux seuls (quelques choses)
+
+to read more; to read further
+lire davantage
