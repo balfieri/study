@@ -5251,7 +5251,7 @@ pas question!; hors de question!
 loud; noisy
 bruyant
 
-to hide (intransitive)
+to hide (intransitive); to hide oneself
 se cacher
 
 then; well...; so; now; at that time; at that moment
@@ -12440,3 +12440,10 @@ plus rapidement; plus vite
 
 not even
 même pas
+
+I feel a little better
+je me sens un peu mieux; Je me sens mieux
+
+I feel like it
+j'en ai envie
+
