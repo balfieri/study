@@ -2650,3 +2650,9 @@ surface temperature minus dewpoint, then divide by 4.4 and then multiply by 1000
 
 how long it takes to complete a standard-rate turn
 2 minutes, 3 degrees per second
+
+problem with using LNAV+V
+the autopilot will not level out at the MDA and LNAV+V could take you directly into an obstacle, so manually level out at the MDA if you don't have the runway in sight, etc.
+
+visual segment of approach
+the part of the approach below the DA or MDA; treat this with extreme caution, particularly if there is no VDP; there is no built-in obstacle protection on any visual segment

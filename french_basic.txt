@@ -4360,9 +4360,6 @@ porter un costume
 pants
 le pantalon
 
-both
-les deux
-
 without trying to
 sans essayer de
 
@@ -12452,3 +12449,6 @@ il y avait beaucoup de (quelque chose)
 
 party (political); side
 le parti
+
+both
+tous les deux; les deux
