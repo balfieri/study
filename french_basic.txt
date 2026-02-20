@@ -7812,7 +7812,7 @@ passif
 incredible; unbelievable (good way)
 incroyable; stupéfiant
 
-amazing; awesome
+amazing; awesome; great
 génial
 
 powerful; potent
@@ -10458,7 +10458,7 @@ attiré
 to land; to show up
 débarquer
 
-over there
+over there; there
 là-bas
 
 polluted
@@ -12447,3 +12447,8 @@ je me sens un peu mieux; Je me sens mieux
 I feel like it
 j'en ai envie
 
+there was a lot of (something)
+il y avait beaucoup de (quelque chose)
+
+party (political); side
+le parti
