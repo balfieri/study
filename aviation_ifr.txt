@@ -2656,3 +2656,6 @@ the autopilot will not level out at the MDA and LNAV+V could take you directly i
 
 visual segment of approach
 the part of the approach below the DA or MDA; treat this with extreme caution, particularly if there is no VDP; there is no built-in obstacle protection on any visual segment
+
+visual segment - obstacles on approach plate
+you must exercise extra caution when going below the MDA because there are obstacles in the path; be extra sure that you see the runway environment and everything between you and the runway; do not blindly follow LNAV+V down as it does not guarantee obstacle clearance; refer to the Steamboat Springs crash in 2026
