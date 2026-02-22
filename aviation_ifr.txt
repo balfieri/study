@@ -2659,3 +2659,15 @@ the part of the approach below the DA or MDA; treat this with extreme caution, p
 
 visual segment - obstacles on approach plate
 you must exercise extra caution when going below the MDA because there are obstacles in the path; be extra sure that you see the runway environment and everything between you and the runway; do not blindly follow LNAV+V down as it does not guarantee obstacle clearance; refer to the Steamboat Springs crash in 2026
+
+VGSI and RNAV glidepath not coincident
+the glidepath from the FAF to the MDA is not the same angle as the visual glide slope from the MDA to the runway as indicated by the PAPIs; do not blindly follow the VNAV+V glide path down below the MDA; it is better to level out and wait until you have two reds and two whites and be sure you have a clear path all the way to the runway
+
+stipple present means
+the visual segment is protected on a 34:1 surface; normal stabilized descent on about a 3° path is acceptable once you’re past MDA/DA with the runway environment in sight; note that stipple can apply to DA, not just MDA, so stipple is independent of VDP
+
+if there is no stipple present or you se visual segment – obstacles
+don’t blindly follow a constant descent below MDA/DA; expect to adjust or delay descent to avoid close‑in terrain/obstructions.
+
+VDA
+visual descent angle, the computed vertical path angle from the FAF crossing altitude to the runway threshold crossing height (TCH) on a non-precision approach; vertical drop is FAF - TCH; horizontal distance is FAF to threshold distance; VDA = arctangent of vertical drop divided by horizontal distance, then rounded
