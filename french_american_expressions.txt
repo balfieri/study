@@ -237,3 +237,6 @@ sans aucun doute; à n'en pas douter
 
 it's the canary in the coal mine
 c'est le canari dans la mine de charbon
+
+for old time's sake
+pour le bon vieux temps
