@@ -9144,3 +9144,9 @@ clignoter
 
 common-law couple
 le couple en union de fait
+
+more and more (something)
+de plus en plus (quelque chose)
+
+it will end in violence
+cela finira par la violence
