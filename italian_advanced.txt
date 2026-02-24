@@ -41779,7 +41779,7 @@ posso prenderlo o lasciarlo
 I can take them or leave them
 posso prenderli o lasciarli
 
-I walk away
+I'm leaving; I'm out of here; I'm walking away
 me ne vado
 
 I'll just walk away
@@ -54740,7 +54740,7 @@ to feel around (in the dark)
 tastare
 
 to grope
-palpare
+palpare; palpeggiare
 
 groper
 il palpatore
@@ -104512,3 +104512,28 @@ finirà in violenza
 
 remake
 il remake; il rifacimento
+
+Christmas morning
+la mattina di Natale
+
+too predictable
+troppo prevedibile
+
+everything you want
+tutto ciò che vuoi
+
+human condition
+la condizione umana
+
+loose (wire, connection)
+lasso; staccato
+
+loose connection
+il collegamento lasso
+
+loose wire
+il filo lasso
+
+to get groped
+farsi palpeggiare
+
