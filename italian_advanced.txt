@@ -104483,7 +104483,7 @@ lo squallore
 with mustache
 baffuto
 
-allegation
+allegation; inference
 l'illazione
 
 groundlessness

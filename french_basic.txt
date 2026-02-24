@@ -773,7 +773,7 @@ tired
 fatigué
 
 sofa; couch
-le canapé
+le canapé; le canap
 
 shoe
 la chaussure
@@ -12455,3 +12455,16 @@ tous les deux; les deux
 
 at the bottom of; at the end of
 au fond de
+
+good evening
+bonsoir
+
+you're welcome; please (do)
+je t'en prie
+
+no worries
+pas de soucis
+
+code
+le code
+
