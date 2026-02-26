@@ -6415,9 +6415,6 @@ indipendente
 union (general)
 l'unione
 
-union (labor)
-il sindicato
-
 ready
 pronto
 

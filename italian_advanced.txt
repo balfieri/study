@@ -71321,7 +71321,7 @@ il casello
 to be never-ending
 essere infiniti; essere senza fine; non finire mai
 
-connection (mechanical); junction; connector end
+connection (mechanical); junction; connector end; beltway
 il raccordo
 
 golf course
@@ -104548,3 +104548,10 @@ come punizione
 
 to get better treatment
 ottenere un trattamento migliore
+
+first impressions
+le prime impressioni
+
+to care more about (something)
+tenere di più a (qualcosa)
+
