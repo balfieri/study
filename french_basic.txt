@@ -3187,7 +3187,7 @@ joli
 strange; weird
 étrange; bizarre
 
-thin; slim
+thin (person); slim
 mince
 
 horrible
@@ -11556,7 +11556,7 @@ chanceux
 unlucky; out of luck
 malchanceux
 
-data
+data; facts
 les données
 
 happy holidays!

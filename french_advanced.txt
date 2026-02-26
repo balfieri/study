@@ -9348,3 +9348,51 @@ le fils aîné
 
 characteristic
 la caractéristique
+
+nationality
+la nationalité
+
+Edinburgh
+Édimbourg
+
+all alone; by themselves; on their own
+tous seuls
+
+layer
+la couche; la strate
+
+thin layer
+la couche fine
+
+thick layer
+la couche épaisse
+
+characterization
+la caractérisation
+
+technical term
+le terme technique
+
+engineering (adjective)
+d'ingénieur
+
+analog circuit
+le circuit analogique
+
+in the context of
+dans le contexte de; dans le cadre de
+
+engineering field
+le domaine de l'ingénierie
+
+to get used
+être utilisé
+
+not to correct you, but
+pas pour te corriger, mais
+
+to analyze
+analyser
+
+to measure; to assess
+mesurer
