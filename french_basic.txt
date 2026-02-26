@@ -12470,3 +12470,7 @@ le code
 
 have you seen it?; have you seen him? 
 l'as-tu vu?
+
+do you hear me well
+est-ce que tu m'entends bien?
+
