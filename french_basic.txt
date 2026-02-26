@@ -5609,7 +5609,7 @@ school
 l'école
 
 post office
-lla poste; le bureau de poste
+la poste; le bureau de poste
 
 bookstore; bookshop; bookshelves
 la librairie; la rayonnage; l'étagère à livres
@@ -10488,7 +10488,7 @@ to in front
 flag
 le drapeau
 
-for a long time
+for a long time; in a long time
 depuis longtemps
 
 to have had (something) for a long time
@@ -12468,3 +12468,5 @@ pas de soucis
 code
 le code
 
+have you seen it?; have you seen him? 
+l'as-tu vu?
