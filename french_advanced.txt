@@ -9465,3 +9465,7 @@ avoir des visiteurs
 
 to have guests
 avoir des invités
+
+toiletries
+les articles de toilette
+
