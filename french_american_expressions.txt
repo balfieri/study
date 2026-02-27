@@ -244,3 +244,6 @@ pour le bon vieux temps
 say it isn't so!
 dis que ce n'est pas vrai!
 
+it's raining like cats and dogs
+il pleut des cordes
+
