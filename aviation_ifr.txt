@@ -2688,10 +2688,10 @@ implicit obstacle protection below the MDA or DA
 none, but presence of VDP and gray stipple can help us if we stay on glide slope
 
 presence of VDP and gray stipple menas
-no penetration of 20:1 or 34:1 slope; note that the 20:1 slope is just under the 3-degree slope so need to be super careful
+no penetration of 20:1 or 34:1 slope; note that the 20:1 slope is just under the 3-degree slope, so need to be very careful that you are on a 3-degree slope between the VDP and the runway
 
 if there is no gray stipple on the plate, it means
 the 34:1 slope is penetrated; still need to be careful not to drop too far below the 3-degree slope
 
 if there is no VDP on the plate, it means
-both 20:1 and 34:1 slope are penetrated, so need to be super careful
+both 20:1 and 34:1 slope are penetrated, so need to be super careful; VNAV+V could still run you directly into an obstacle (see Steamboat Springs C-FIT accident)
