@@ -2688,7 +2688,7 @@ implicit obstacle protection below the MDA or DA
 none, but presence of VDP and gray stipple can help us if we stay on glide slope
 
 presence of VDP and gray stipple menas
-no penetration of 20:1 or 34:1 slope; note that the 20:1 slope is just under the 3-degree slope, so need to be very careful that you are on a 3-degree slope between the VDP and the runway
+no penetration of 20:1 or 34:1 slope; note that the 20:1 slope is just under the 3-degree slope, so still need to be very careful that you are on a 3-degree slope between the VDP and the runway, as an obstacle could be just under that slope
 
 if there is no gray stipple on the plate, it means
 the 34:1 slope is penetrated; still need to be careful not to drop too far below the 3-degree slope
