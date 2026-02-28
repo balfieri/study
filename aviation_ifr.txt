@@ -2671,3 +2671,27 @@ don’t blindly follow a constant descent below MDA/DA; expect to adjust or dela
 
 VDA
 visual descent angle, the computed vertical path angle from the FAF crossing altitude to the runway threshold crossing height (TCH) on a non-precision approach; vertical drop is FAF - TCH; horizontal distance is FAF to threshold distance; VDA = arctangent of vertical drop divided by horizontal distance, then rounded
+
+exact equation for getting nautical miles for VDP from touchdown point
+minimum height above touchdown divided by cotangent of glideslope (usually 3 degrees) divided by 6076
+
+on initial GPS approach segment, protected zone is
+plus or minus one nautical mile from line
+
+on initial part of final course, protected zone is
+plus or minus 5 degrees from center line
+
+on final approach course for GPS, protected zone is
+plus or minus 0.3 miles from center line
+
+implicit obstacle protection below the MDA or DA
+none, but presence of VDP and gray stipple can help us if we stay on glide slope
+
+presence of VDP and gray stipple menas
+no penetration of 20:1 or 34:1 slope; note that the 20:1 slope is just under the 3-degree slope so need to be super careful
+
+if there is no gray stipple on the plate, it means
+the 34:1 slope is penetrated; still need to be careful not to drop too far below the 3-degree slope
+
+if there is no VDP on the plate, it means
+both 20:1 and 34:1 slope are penetrated, so need to be super careful
