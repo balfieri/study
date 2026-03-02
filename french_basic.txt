@@ -12474,3 +12474,9 @@ l'as-tu vu?
 do you hear me well
 est-ce que tu m'entends bien?
 
+to be fluent in French
+parler français couramment
+
+your English is very good
+ton anglais est très bon
+

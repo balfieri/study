@@ -1744,7 +1744,7 @@ provisoire
 overview; summary; glimpse; insight
 l'aperçu
 
-to reread; to read again
+to reread; to read again; to proofread
 relire
 
 daydream; dreaminess; reverie
@@ -9475,3 +9475,71 @@ to be a member of our family
 sepsis
 la septicémie
 
+catastrophic
+catastrophique
+
+safety checks
+les contrôles de sécurité
+
+passport control
+le contrôle des passeports
+
+to divert
+détourner
+
+to overthrow
+renverser
+
+to overthrow the regime
+renverser le régime
+
+to wear a pin
+porter une épingle
+
+brooch; pin (to wear)
+l'épingle
+
+brooch; pin (to wear)
+la broche; l'épingle
+
+stretcher
+la civière
+
+to carry (someone) off on a stretcher
+emporter (quelqu'un) sur une civière
+
+to exhort
+exhorter
+
+booth
+le stand
+
+klutz
+le maladroit
+
+the food was so bad that it caused a passenger to have a heart attack
+la nourriture était si mauvaise qu'elle a provoqué une crise cardiaque chez un passager
+
+to subside
+s'apaiser
+
+to go through passport control
+passer le contrôle des passeports
+
+to recline
+s'inclinare
+
+the seat does not recline
+le siège ne s'incline pas
+
+oversized
+hors mesure
+
+recycling bin
+la poubelle de recyclage
+
+trapdoor
+la botola
+
+coffee pod
+la dosette de café
