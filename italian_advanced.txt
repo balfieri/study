@@ -19456,7 +19456,7 @@ il bilionardo
 socialism
 il socialismo
 
-to reduce; to decrease; to prune
+to reduce; to decrease; to prune (consciously)
 ridurre
 
 occurred; happened
@@ -19669,7 +19669,7 @@ applaudire
 to loath; to abhor
 aborrire
 
-to diminish
+to diminish; to decrease (naturally)
 diminuire
 
 to exhaust; to run out of; to use up
@@ -28888,7 +28888,7 @@ l'ingiustizia
 centrality
 la centralità
 
-decreased; diminished
+decreased; diminished (naturally)
 diminuito
 
 parochial; parish (adjective)
@@ -104638,3 +104638,22 @@ il sedile non si reclina
 
 oversized
 fuori misura
+
+award; arbitration; praise
+il lodo
+
+good point!
+punto valido!
+
+(something) that I would rather not talk about
+(qualcosa) di cui preferirei non parlare
+
+half (adjective) compared to 
+mezzo (aggettivo) rispetto a 
+
+earmuffs
+le paraorecchie
+
+to do fewer lessons
+fare meno lezioni
+

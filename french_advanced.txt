@@ -587,7 +587,7 @@ to whistle; to boo; to hiss; to wheeze; to swill; to guzzle; to blow the whistle
 siffler
 
 in relation to; with respect to
-par rapport de
+par rapport de; par rapport à
 
 navel
 le nombril
@@ -4273,7 +4273,7 @@ indésirable
 trash; wastebasket
 la corbeille
 
-reception
+reception; front desk
 la réception
 
 fashion; mode
@@ -9543,3 +9543,16 @@ la botola
 
 coffee pod
 la dosette de café
+
+to be half (adjective) compared to 
+être à moitié (adjectif) par rapport à 
+
+earmuffs
+les protège-oreilles
+
+to do fewer lessons
+faire moins de leçons
+
+hourly rate
+le tarif horaire
+
