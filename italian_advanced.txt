@@ -4201,7 +4201,7 @@ rintracciare
 to heal; to cure
 risanare
 
-to deliver; to hand; to hand over
+to deliver; to hand; to hand over; to drop off
 consegnare
 
 cost estimate
@@ -43573,7 +43573,7 @@ svolgere un ruolo in
 in advanced stage; in an advanced stage
 in stadio avanzato
 
-brooch
+brooch; pin (to wear)
 la spilla
 
 that's not the point
@@ -56249,9 +56249,6 @@ gonfiare
 oh my God
 oh mio Dio
 
-gazebo
-il gazebo
-
 unlocking
 sbloccante
 
@@ -61352,7 +61349,7 @@ il condotto della biancheria; la botola per la biancheria
 chute
 lo scivolo; la caduta
 
-hatch; trapdoor
+hatch; trapdoor; chute
 la botola
 
 to climb up and down (something)
@@ -63264,7 +63261,7 @@ whisck; whip
 la frusta
 
 the coffee pod
-la cialda di caffè
+la cialda di caffè; la cialda del caffè
 
 to carry a stigma
 portare uno stigma
@@ -104605,3 +104602,39 @@ essere un membro della nostra famiglia
 
 sepsis
 la sepsi
+
+to deviate; to divert
+deviare
+
+security checks
+i controlli di sicurezza
+
+passport control
+il controllo passaporti
+
+to proofread
+correggere le bozze
+
+to overthrow the regime
+rovesciare il regime
+
+stretcher
+la barella
+
+to carry (someone) off on a stretcher
+portar via (qualcuno) su una barella
+
+booth; gazebo
+il gazebo
+
+the food was so bad that it caused a passenger to have a heart attack
+il cibo era così passimo che ha causato un attacco di cuore a un passeggero
+
+to go through passport control
+passare il controllo passaporti
+
+the seat does not recline
+il sedile non si reclina
+
+oversized
+fuori misura

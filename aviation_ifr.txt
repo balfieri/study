@@ -2695,3 +2695,6 @@ the 34:1 slope is penetrated; still need to be careful not to drop too far below
 
 if there is no VDP on the plate, it means
 both 20:1 and 34:1 slope are penetrated, so need to be super careful; VNAV+V could still run you directly into an obstacle (see Steamboat Springs C-FIT accident)
+
+equation for calculating VDA
+arc-tangent of (FAF in MSL minus TDZE minus TCH) divided by  (FAF nautical miles times 6076) )
