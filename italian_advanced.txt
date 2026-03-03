@@ -51454,7 +51454,7 @@ persuadibile
 disagreement; discord
 il disaccordo
 
-disagreeable; unpleasant; nasty
+disagreeable; unpleasant; nasty; unappealing
 sgradevole
 
 to have something already planned
@@ -104663,3 +104663,17 @@ il jet-lag
 that's a good call!
 è una buona decisione!
 
+I feel like poop; I feel terrible
+mi sento uno schifo
+
+the thought of (doing something) is unappealing; 
+l'idea di (fare qualcosa) è sgradevole
+
+throw; range; jet
+la gittata
+
+and while we're at it
+e già che ci siamo; mentre ci siamo
+
+we may as well (do something)
+tanto vale (fare qualcosa)
