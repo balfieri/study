@@ -29737,9 +29737,6 @@ il coltivatore
 to code; to write code; to program
 scrivere codice; programmare; codificare
 
-to get out of bed
-alzarsi dal letto
-
 voluptious
 voluttuoso
 
@@ -89481,7 +89478,7 @@ back to work!
 tornare al lavoro!
 
 to get out of bed
-scendere dal letto
+alzarsi dal letto; scendere dal letto
 
 to mislead; to go astray; to lead astray
 forviare
@@ -104656,4 +104653,13 @@ le paraorecchie
 
 to do fewer lessons
 fare meno lezioni
+
+to reach a compromise
+raggiungere un compromesso
+
+jet-lag
+il jet-lag
+
+that's a good call!
+è una buona decisione!
 
