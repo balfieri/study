@@ -9649,3 +9649,12 @@ le transfert; le transfer
 amenity
 la commodité; l'aménité
 
+bath towel
+la serviette de bain
+
+masseuse
+la masseuse
+
+to still have enough for
+avoir encore assez pour
+
