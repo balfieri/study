@@ -9607,3 +9607,6 @@ autant (faire quelque chose)
 profiling
 le profilage
 
+flummoxed
+sidéré; déconcerté
+
