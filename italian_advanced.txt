@@ -67484,7 +67484,7 @@ SPQR; senatus populusque romanus; il senato e il popolo romano
 to cause trouble
 creare problemi
 
-moose
+moose; elk
 l'alce
 
 positive attitude
@@ -104710,3 +104710,12 @@ recitare un Ave Maria
 
 counted
 contato
+
+to form an opinion
+formarsi un'opinione
+
+doggy bag
+il doggy bag; il contenitore per gli avanzi
+
+shriveled up
+rinsecchito
