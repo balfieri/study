@@ -181,7 +181,7 @@ imprenable
 filming; shoot
 le tournage
 
-trip; travel; displacement
+trip; travel; displacement; moving
 le déplacement
 
 to dive; to plunge
@@ -2724,9 +2724,6 @@ embourber
 
 bogged down
 embourbé
-
-fall
-la chute
 
 mutiny
 la mutinerie
@@ -9633,3 +9630,22 @@ to what extent; how much; how well; to what degree
 
 elsewhere in (country)
 ailleurs en (paix)
+
+recycling
+le recyclage
+
+chute; fall
+la chute
+
+garbage chute
+la chute à ordures; la chute d'ordures ménagères
+
+to not be as (adjective) as (something)
+pas être aussi (adjectif) que (quelque chose)
+
+transfer
+le transfert; le transfer
+
+amenity
+la commodité; l'aménité
+
