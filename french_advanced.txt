@@ -793,7 +793,7 @@ le lave-vaisselle
 washer
 le lave-linge
 
-dryer
+dryer; tumble dryer
 le sèche-linge
 
 sink
@@ -9694,3 +9694,20 @@ ratatiné
 curtain rod
 la tringle à rideaux
 
+selective sorting; recycle bins
+le tri sélectif
+
+to catch a cold
+attraper le rhume
+
+to dry oneself
+se sécher
+
+drying rack
+l'étendoir
+
+to hang out (laundry); to spread out
+étendre
+
+to reopen
+réouvrir
