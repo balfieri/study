@@ -2698,3 +2698,6 @@ both 20:1 and 34:1 slope are penetrated, so need to be super careful; VNAV+V cou
 
 equation for calculating VDA
 arc-tangent of (FAF in MSL minus TDZE minus TCH) divided by  (FAF nautical miles times 6076) )
+
+the two most important things about flying IFR are
+the next two things

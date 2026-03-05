@@ -34601,7 +34601,7 @@ inactive person
 la persona inattiva
 
 experience the ethos
-fare esperienza dell'etos
+fare esperienza dell'ethos
 
 reverse body dysmorphia
 la dismorfia corporea inversa
@@ -104722,4 +104722,22 @@ rinsecchito
 
 curtain rod
 il bastone per tende
+
+are you joking?
+stai scherzando?
+
+airspeed
+la velocità rispetto all'aria
+
+it figures!
+ci mancava solo questo!
+
+go figure!
+figurati!
+
+reading glasses
+gli occhiali da lettura
+
+ethos
+l'ethos
 

@@ -5894,3 +5894,6 @@ Time Between Overhauls of an engine (usually about 2000 hours for most single-pi
 
 {sys} why single-piston aircraft burn through oil so fast
 they are air-cooled and run at high temperatures
+
+{sop} if you don't have airspeed
+you're not flying
