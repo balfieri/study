@@ -9805,3 +9805,8 @@ le biais de confirmation
 Frenchness
 la francité
 
+percentage point
+le point de pourcentage
+
+earbuds
+les intra-auriculaires; les écouteurs
