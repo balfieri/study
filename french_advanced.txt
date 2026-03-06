@@ -9834,3 +9834,6 @@ le point oiseux
 
 to live in a tent
 vivre sous la tente
+
+bank transfer; wire transfer
+le virement bancaire
