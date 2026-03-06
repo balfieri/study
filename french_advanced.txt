@@ -9801,3 +9801,7 @@ la confirmation
 
 confirmation bias
 le biais de confirmation
+
+Frenchness
+la francité
+
