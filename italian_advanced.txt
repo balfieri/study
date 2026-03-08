@@ -782,7 +782,7 @@ for what?
 e di che?
 
 don't mention it
-non c'è di che; figurati; non ma; ma ti pare; di nulla; ma figurati
+non c'è di che; figurati; non ma; ma ti pare; di nulla; di niente; ma figurati
 
 it's the least I could do
 è il minimo che avrei potuto fare
@@ -10966,7 +10966,7 @@ scandire
 to rig; to equip
 attrezzare
 
-car (train)
+car; vehicle
 la vettura
 
 to scan
@@ -34306,7 +34306,7 @@ il mozzo
 bolt holes
 i fori dei bulloni
 
-frame (car, door, structural)
+frame (car, door, structural); chassis
 il telaio
 
 stubbornness
@@ -104794,3 +104794,36 @@ vivere in tenda
 
 anal-retentive
 meticoloso; ossessivo
+
+is it just me, or
+è solo una mia impressione o
+
+amalgamated
+amalgamato; fuso insieme; unificato
+
+disability
+la disabilità; l'handicap; l'inabilità
+
+tricycle
+il triciclo
+
+buckle
+la fibbia
+
+belt buckle
+la fibbia della cintura; fibbia di cintura
+
+entwined
+intrecciati; avvolti insieme; aggrovigliati
+
+to entwine
+intrecciare; avvolgere insieme
+
+additional services; extra services
+i servizi aggiuntivi
+
+summit; peak; top
+il vertice; il picco; ilculmine
+
+persona non grata; unwelcome person
+la persona non grata
