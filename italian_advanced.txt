@@ -104827,3 +104827,6 @@ il vertice; il picco; ilculmine
 
 persona non grata; unwelcome person
 la persona non grata; la persona sgradita
+
+stamina; endurance
+la stamina; la resistenza; la sopportazione

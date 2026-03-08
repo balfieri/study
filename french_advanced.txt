@@ -9888,3 +9888,6 @@ above
 
 menopause
 la ménopause
+
+stamina; endurance
+la stamina; l'endurance; la persévérance
