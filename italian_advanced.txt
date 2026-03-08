@@ -104830,3 +104830,6 @@ la persona non grata; la persona sgradita
 
 stamina; endurance
 la stamina; la resistenza; la sopportazione
+
+to build up stamina
+costruire resistenza

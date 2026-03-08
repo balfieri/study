@@ -9891,3 +9891,6 @@ la ménopause
 
 stamina; endurance
 la stamina; l'endurance; la persévérance
+
+to build up stamina
+développer son endurance
