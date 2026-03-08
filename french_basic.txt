@@ -12480,3 +12480,6 @@ parler français couramment
 your English is very good
 ton anglais est très bon
 
+I speak a little French
+je parle un peu français
+
