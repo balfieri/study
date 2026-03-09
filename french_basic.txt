@@ -1924,7 +1924,7 @@ le lieu d'enterrement
 teacher
 le prof
 
-step (process)
+step (process); stage
 l'étape
 
 5 steps
