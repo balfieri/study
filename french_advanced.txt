@@ -8362,6 +8362,9 @@ postuler
 under pressure
 sous pression
 
+mutation; transfer; assignment
+la mutation
+
 on transfer; on assignment; on the move
 en mutation
 
@@ -9912,4 +9915,34 @@ as-tu l'heure?
 
 alarmist
 l'alarmiste
+
+tire; tyre
+le pneu
+
+disabled; handicapped
+handicapé
+
+trauma
+la traumatisme
+
+spasm
+le spasme
+
+muscular
+musculaire
+
+reduced
+réduit
+
+mobility
+la mobilité
+
+coveted
+convoité
+
+especially here
+surtout ici
+
+enigmatic
+énigmatique
 
