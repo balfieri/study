@@ -3184,7 +3184,7 @@ beau
 pretty
 joli
 
-strange; weird
+strange; weird; uncanny
 étrange; bizarre
 
 thin (person); slim
@@ -3745,8 +3745,8 @@ serre-moi dans tes bras
 forget it
 oublie ça
 
-instead of; in place of
-au lieu de; à la place de
+in place of
+à la place de
 
 don't speak
 ne parle pas
