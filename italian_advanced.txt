@@ -73869,7 +73869,7 @@ to laminate
 plastificare
 
 on the dot; sharp (time)
-in punto
+all'ora in punto; all'ora spaccata
 
 on the way home
 sulla strada di casa
@@ -104902,3 +104902,9 @@ il locatario; la locataria
 
 to finish watching a movie
 finire di guardare un film
+
+salt mill
+il macinasale; il macinino per sale
+
+pepper mill
+il macinapepe; il macinino per pepe; la pepaiola
