@@ -10122,3 +10122,7 @@ le locataire
 
 to savour
 savourer
+
+to finish watching a movie
+finir de regarder un film
+

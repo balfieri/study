@@ -104899,3 +104899,6 @@ l'affitto transitorio
 
 tenant
 il locatario; la locataria
+
+to finish watching a movie
+finire di guardare un film
