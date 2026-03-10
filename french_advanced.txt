@@ -10138,3 +10138,11 @@ le moulin à sel
 ink
 l'encre
 
+brightest bulb 
+la plus brillante ampoule
+
+bulb (light)
+l'ampoule
+
+bulb (outer part of light)
+le bulbe
