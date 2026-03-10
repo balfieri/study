@@ -5465,7 +5465,7 @@ worker
 le travailleur; l'ouvrier
 
 doctor (medical)
-le docteur; le médecin
+le docteur; la docteure; le médecin; la médicine
 
 doctor (PhD)
 le docteur; le titulaire d’un doctorat
