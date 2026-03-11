@@ -133,7 +133,7 @@ la stracciatella
 I am ready
 sono pronto
 
-soft; tender
+soft; tender; squishy
 morbido; molle
 
 hard; tough

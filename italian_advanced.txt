@@ -67517,7 +67517,7 @@ i cappellacci
 to store (bag)
 conservare; depositare
 
-bag storage; luggage storage
+bag storage; luggage storage; luggage locker
 il deposito bagagli
 
 bath towel
@@ -105001,4 +105001,22 @@ il lampadario a soffitto; la lampada a soffitto
 
 language proficiency
 la competenza linguistica
+
+ravioli store; dumpling store
+la ravioleria
+
+lasagne store
+la lasagneria
+
+to try hard
+impegnarsi; impegnarsi molto
+
+to disturb
+dare disturbo; disturbare
+
+clothes basket
+la cesta per il bucato
+
+storage locker
+l'armadietto; il deposito
 
