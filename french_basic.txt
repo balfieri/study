@@ -715,7 +715,7 @@ tomber
 knees
 les genoux
 
-ray; beam; shelf (context-dependent)
+ray; beam; shelf (context-dependent); aisle (supermarket)
 le rayon
 
 husband
@@ -12491,4 +12491,16 @@ en avril
 
 before the lesson
 avant la leçon
+
+perfume
+le parfum
+
+basic
+basique
+
+to your health!
+santé!
+
+light
+légère
 
