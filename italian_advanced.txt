@@ -104998,3 +104998,7 @@ il demagogo; la demagoga
 
 ceiling fixture; ceiling light
 il lampadario a soffitto; la lampada a soffitto
+
+language proficiency
+la competenza linguistica
+

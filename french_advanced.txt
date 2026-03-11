@@ -10296,3 +10296,9 @@ le démagogue
 
 light fixture; lamp; ceiling light
 le plafonnier; le lustre
+
+language proficiency
+la compétence linguistique
+
+proficiency; competence
+la compétence; la maîtrise
