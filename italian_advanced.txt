@@ -90992,9 +90992,6 @@ la blasfemia
 holding pattern
 lo schema di attesa; la situazione di stallo
 
-reception desk; porter's lodge; caretaker's lodge
-la portineria
-
 to smudge
 sbavare; macchiare; sbaffare
 
@@ -104981,7 +104978,7 @@ imparare (qualcosa) a memoria
 achy; sore; stiff
 indolenzito
 
-porter's lodge; reception desk; concierge
+reception desk; porter's lodge; caretaker's lodge; concierge
 la portineria
 
 concierge
@@ -104989,3 +104986,6 @@ il concierge; il portiere; il portinaio
 
 doorwoman
 la portinaia
+
+Alps
+le Alpi
