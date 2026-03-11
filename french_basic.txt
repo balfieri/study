@@ -12504,3 +12504,5 @@ santé!
 light
 légère
 
+after (having done something)
+après que (avoir fait quelque chose)

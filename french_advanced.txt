@@ -10252,3 +10252,20 @@ faire une collecte de fonds
 supermarket aisle
 le rayon de supermarché
 
+lower class
+la classe inférieure
+
+lower-middle class
+le petit-bourgeois
+
+upper-middle class
+la classe moyenne supérieure
+
+upper class
+la classe supérieure
+
+committed to memory
+appris par cœur
+
+to commit (something) to memory
+mettre (quelque chose) en mémoire; apprendre (quelque chose) par cœur
