@@ -8301,6 +8301,9 @@ la liste (non ordonnée)
 memory (instance); momento; keepsake
 le souvenir; l'objet-souvenir
 
+memory (faculty)
+le mémoire
+
 laugh
 le rire
 
