@@ -7261,12 +7261,6 @@ bastare
 violent
 violento
 
-including; included; inclusive
-incluso
-
-excluding; excluded
-escluso
-
 gram
 il grammo
 

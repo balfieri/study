@@ -1063,7 +1063,7 @@ the lights are on upstairs but nobody's home
 è completamente pazzo
 
 to not be the sharpest tool in the shed
-essere stupidi
+non essere il più sveglio del mucchio
 
 right on!
 fantastico!; proprio così!; giusto così!; assolutamente!; esatto!; perfetto!
@@ -6935,3 +6935,7 @@ mettersi a fare (qualcosa); come fare (qualcosa); procedere (a fare qualcosa)
 
 to pass the baton to (someone)
 passare il testimone a (qualcuno)
+
+in all fairness to (somebody)
+a voler essere giusti verso (qualcuno)
+

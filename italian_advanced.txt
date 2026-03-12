@@ -76934,7 +76934,13 @@ sciuparsi
 boar
 il cinghiale
 
-including
+including; included; inclusive (formal)
+incluso
+
+excluding; excluded
+escluso
+
+including (less formal)
 compreso
 
 by design; on purpose
@@ -105020,3 +105026,50 @@ la cesta per il bucato
 storage locker
 l'armadietto; il deposito
 
+arrivare entro mezzogiorno
+to arrive by noon
+
+succubus (female demon)
+il succube
+
+to do one's part
+fare la propria parte
+
+to tower above; to dominate
+giganteggiare
+
+to vouch for
+garantire per
+
+loser
+lo sfigato
+
+emails
+le email
+
+tokenization
+la tokenizzazione
+
+to tokenize
+tokenizzare
+
+to make oneself heard
+farsi ascoltare
+
+which aisle has the butter?
+in quale corsia si trova il burro?
+
+labeled
+etichettato
+
+thin film
+il film sottile
+
+thin film processing
+la lavorazione di film sottile
+
+arrest warrant
+il mandato di arresto
+
+unencumbered
+non gravato da oneri
