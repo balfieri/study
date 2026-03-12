@@ -8817,7 +8817,7 @@ un jour
 note (short, memo); bullet point
 la note; le point
 
-notes
+notes; grades
 les notes
 
 to take notes; to jot down notes
