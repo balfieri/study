@@ -10404,3 +10404,6 @@ l'inspection
 
 to inspect
 inspecter
+
+telethon
+le téléthon
