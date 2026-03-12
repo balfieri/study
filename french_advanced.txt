@@ -10455,3 +10455,7 @@ la sieste
 
 to take a nap
 faire une sieste
+
+6 o'clock news
+le journal de 6 heures
+
