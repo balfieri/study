@@ -12524,3 +12524,7 @@ en premier
 
 last (adverb)
 en dernier
+
+this one; that one
+celui-ci
+
