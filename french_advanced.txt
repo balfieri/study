@@ -5842,8 +5842,8 @@ l'œuvre de toute une vie; l'œuvre de toute une vie
 to hush; to shush
 faire taire
 
-mettre à jour
 to update
+mettre à jour
 
 patch; fix
 le correctif
@@ -10411,3 +10411,8 @@ très bien alors!
 consider it done!
 c'est fait!
 
+it smells great in here
+ça sent bon ici
+
+we'll catch up to see if
+on se rattrapera pour voir si

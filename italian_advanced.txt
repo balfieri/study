@@ -18853,7 +18853,7 @@ compreso (pp)
 occupation; employment
 l'occupazione
 
-favorable
+favorable; conducive
 favorevole
 
 destiny; fate
@@ -105077,3 +105077,23 @@ il telethon
 very well then!
 molto bene allora!
 
+it smells great in here
+qui si sente un ottimo profumo
+
+we'll catch up to see if
+ci aggiorniamo per vedere se
+
+pediatric dentistry
+l'odontoiatria pediatrica
+
+pediatric
+pediatrico
+
+pediatrics
+la pediatria
+
+cigarette butt
+il mozzicone di sigaretta
+
+to be conducive to (something)
+essere favorevoli a (qualcosa)
