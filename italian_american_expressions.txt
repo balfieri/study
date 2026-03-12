@@ -2922,9 +2922,6 @@ questo è semplicemente disgustoso
 bum rap
 la critica ingiusta; l'accusa ingiusta
 
-through the roof (price)
-alle stelle
-
 to not suffer fools lightly
 non sopportare facilmente gli sciocchi
 
@@ -6950,3 +6947,6 @@ it's a no-brainer!
 
 I can't go wrong
 non posso sbagliare
+
+through the roof (demand, price)
+alle stelle
