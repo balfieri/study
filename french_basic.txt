@@ -2678,7 +2678,7 @@ below; beneath
 au-dessous
 
 until
-jusjusqu'à
+jusqu'à
 
 title
 le titre
@@ -4365,9 +4365,6 @@ sans essayer de
 
 as long as
 tant que
-
-until; until such time as
-jusqu'à; jusqu'à tel point
 
 so that
 afin que

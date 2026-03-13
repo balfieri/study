@@ -10600,3 +10600,8 @@ l'entraînement
 (something) mode
 la mode (quelque chose)
 
+exploitation
+l'exploitation
+
+until such time as
+jusqu'à tel point
