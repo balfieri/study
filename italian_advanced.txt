@@ -105146,3 +105146,6 @@ se vi compiace
 to make a conscious decision
 prendere una decisione consapevole
 
+(something) mode
+la modalità (qualcosa)
+
