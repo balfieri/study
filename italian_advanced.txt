@@ -105199,3 +105199,6 @@ il criminologo; la criminologa
 
 costume designer
 il costumista; la costumista
+
+accused; suspect (noun)
+l'indagato

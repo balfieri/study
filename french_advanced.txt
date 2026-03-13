@@ -10662,3 +10662,6 @@ le criminologue
 
 costume designer
 le costumier; la costumière
+
+suspect (noun)
+le suspect
