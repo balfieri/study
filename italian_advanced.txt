@@ -40861,6 +40861,9 @@ tutto sommato; interamente; completamente; nel complesso
 child pornography
 il pedopornografico
 
+child-pornographic
+pedopornografico
+
 to be held; to hold on; to cling
 terrarsi
 
