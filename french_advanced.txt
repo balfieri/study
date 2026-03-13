@@ -10665,3 +10665,6 @@ le costumier; la costumière
 
 suspect (noun)
 le suspect
+
+adapter
+l'adaptateur
