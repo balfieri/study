@@ -10659,3 +10659,6 @@ se rejoinder
 
 criminologist
 le criminologue
+
+costume designer
+le costumier; la costumière
