@@ -105193,3 +105193,7 @@ la ringa
 
 expert; surveyor; appraiser
 il perito
+
+criminologist
+il criminologo; la criminologa
+
