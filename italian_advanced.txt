@@ -105190,3 +105190,6 @@ inviare un fax
 
 herring
 la ringa
+
+expert; surveyor; appraiser
+il perito
