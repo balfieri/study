@@ -10668,3 +10668,7 @@ le suspect
 
 adapter
 l'adaptateur
+
+boomerang
+le boomerang
+
