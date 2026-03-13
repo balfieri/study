@@ -8157,7 +8157,7 @@ demander pardon
 to displease
 déplaire
 
-to mind
+to mind; to disturb
 déranger
 
 to interest
@@ -12527,4 +12527,7 @@ en dernier
 
 this one; that one
 celui-ci
+
+by itself; by himself; by herself
+de lui-même
 
