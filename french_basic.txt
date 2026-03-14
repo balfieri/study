@@ -454,7 +454,7 @@ le printemps
 church
 l'église
 
-except
+except; barring
 sauf
 
 to cost

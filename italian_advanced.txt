@@ -18133,7 +18133,7 @@ la diffusione
 component
 il componente; la componente
 
-but; except; save
+but; except; save; barring
 salvo
 
 fascism
@@ -105268,3 +105268,6 @@ il pagamento di paternità
 
 to be in the running for
 essere in corsa per
+
+barring any issues with (something); assuming no problems arise with (something)
+salvo eventuali problemi con (qualcosa); presumendo che non sorgano problemi con (qualcosa)
