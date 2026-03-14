@@ -105275,3 +105275,5 @@ salvo eventuali problemi con (qualcosa); presumendo che non sorgano problemi con
 UNESCO site
 il patrimonio UNESCO
 
+(number) days until (something)
+(numero) giorni fino a (qualcosa)

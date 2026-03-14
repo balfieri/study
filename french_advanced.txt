@@ -10815,3 +10815,6 @@ le contrôle de vol annuel
 
 UNESCO site
 le site de l'UNESCO
+
+(number) days until (something)
+(numéro) jours jusqu'à (quelque chose)
