@@ -8211,7 +8211,7 @@ lié; attaché; relié
 United Kingdom
 le royaume-uni
 
-device (autonomous)
+device (autonomous); appliance
 l'appareil
 
 device (system of components)
