@@ -10866,3 +10866,6 @@ en remontant
 
 comeback; recovery
 la remontée
+
+thorax
+le thorax
