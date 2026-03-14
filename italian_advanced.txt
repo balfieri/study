@@ -65693,9 +65693,6 @@ dopo un po', mi ci sono abituato
 outburst
 scoppio; esplosione
 
-faux pas
-il gaffe
-
 patient (of a doctor)
 il paziente (di un dottore)
 
@@ -65790,7 +65787,7 @@ to stub one's toe
 sbattere il dito del piede
 
 faux pas
-il passo falso
+la gaffe; il passo falso
 
 svelte
 snello; elegante
