@@ -92,7 +92,7 @@ fearless
 intrépide
 
 ruthless
-impitoyable
+impitoyable; sans pitié
 
 ingenious
 ingénieux
@@ -10878,4 +10878,10 @@ apprendre de nouveaux mots
 
 Common European Framework of Reference for Languages; CEFR
 le Cadre européen commun de référence pour les langues; CECRL
+
+businessman
+l'homme d'affaires
+
+businesswoman
+la femme d'affaires
 
