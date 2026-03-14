@@ -10794,3 +10794,9 @@ la limite; la frontière; la bordure
 
 border; boundary; curb; edge
 la bordure
+
+paternity
+la paternité
+
+paternity payment
+le paiement de paternité

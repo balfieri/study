@@ -105262,3 +105262,6 @@ i confini personali
 
 border
 il confine
+
+paternity payment
+il pagamento di paternità
