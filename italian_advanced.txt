@@ -52249,7 +52249,7 @@ faded; washed-out; pale; dull
 tampered
 manomesso
 
-unstuck; detached
+unstuck; detached; low-cut
 scollato
 
 external microphone; external mic
@@ -105281,3 +105281,21 @@ it's great practice for (something)
 chaise lounge
 la panca lunga; la chaise longue
 
+
+you are too confident, you can get yourself killed
+sei troppo sicuro di te, puoi farti uccidere
+
+to get oneself killed
+farsi uccidere
+
+to accidentally kill oneself
+uccidersi accidentalmente
+
+to be super careful
+essere super attenti
+
+weather conditions
+le condizioni meteorologiche
+
+thigh; upper leg
+lo scoscio
