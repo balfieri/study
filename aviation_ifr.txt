@@ -2701,3 +2701,9 @@ arc-tangent of (FAF in MSL minus TDZE minus TCH) divided by  (FAF nautical miles
 
 the two most important things about flying IFR are
 the next two things
+
+in order for navigation system to display +V
+need WAAS and must pass SBAS reliability checks
+
+once APR mode is active and engaged
+the autopilot will not level out; the pilot must manually level out or continue down to the runway
