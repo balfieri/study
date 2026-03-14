@@ -4222,7 +4222,7 @@ artistico
 creative
 creativo
 
-available
+available; in stock
 disponibile
 
 effective; efficient; effectual; efficacious
@@ -8058,3 +8058,6 @@ lo scontrino; la ricevuta
 
 to bother; to annoy; to get in the way
 dare fastidio
+
+enjoy!
+goditi!

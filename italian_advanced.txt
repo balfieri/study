@@ -172,7 +172,7 @@ il musicista
 learning
 l'apprendimento
 
-interior design
+interior design; decor
 l'arredamento
 
 to stare at; to gaze at; to establish; to secure
@@ -6616,8 +6616,8 @@ il portamatite; l'astuccio
 pen case
 il portapenne; l'astuccio per penne
 
-kitchenette
-l'angolo cottura; il cucinino
+kitchenette; small kitchen
+la cucinotta; l'angolo cottura; il cucinino
 
 gas cooker
 la cucina a gas
@@ -89675,9 +89675,6 @@ fare concorrenza a
 to go crazy; to go mad; to go insane; to be crazy about; to be mad about; to go wild; to become unpredictable
 impazzirsi
 
-kitchenette; small kitchen
-la cucinotta
-
 as big as it gets
 grande come può essere; grande quanto sia possibile
 
@@ -105205,4 +105202,19 @@ l'indagato
 
 boomerang
 il boomerang
+
+laid back; cool; relaxed
+rilassato
+
+amazing; astounding; terrific
+incredibile; sbalorditivo; fantastico
+
+medication
+la medicinale
+
+to star in a show
+essere protagonista in uno spettacolo
+
+chocolates
+le cioccolate
 
