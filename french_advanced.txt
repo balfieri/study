@@ -10869,3 +10869,9 @@ la remontée
 
 thorax
 le thorax
+
+to acquire new vocabulary
+acquérir du nouveau vocabulaire
+
+to learn new words
+apprendre de nouveaux mots
