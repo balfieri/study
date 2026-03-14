@@ -1459,7 +1459,7 @@ traiare
 installation (something that is already installed); apparatus; plant; framework
 l'impianto
 
-installation (act of)
+installation (act of); setup
 l'installazione
 
 to install
@@ -21487,7 +21487,7 @@ burroso
 similarity (explicit comparison)
 la similitudine
 
-accumulation
+accumulation; build-up
 l'accumulo
 
 shake; milkshake; smoothie
@@ -77534,7 +77534,7 @@ l'albero di noce
 to collapse
 colossare
 
-to enlarge
+to enlarge (figurative, exagerated, dramatic)
 ingigantire
 
 flag pole
@@ -105218,3 +105218,14 @@ essere protagonista in uno spettacolo
 chocolates
 le cioccolate
 
+fare uscire il cane
+to let the dog out
+
+security system
+il sistema di sicurezza
+
+door camera
+la telecamera per porta
+
+build-up of (something)
+l'accumulo di (qualcosa))
