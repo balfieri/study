@@ -105274,3 +105274,7 @@ il patrimonio UNESCO
 
 (number) days until (something)
 (numero) giorni fino a (qualcosa)
+
+it's great practice for (something)
+è una buona pratica per (qualcosa)
+

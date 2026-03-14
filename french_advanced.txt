@@ -10597,7 +10597,7 @@ prendre une décision consciente
 conscious
 consciente
 
-workout
+workout; practice; training
 l'entraînement
 
 (something) mode
@@ -10818,3 +10818,7 @@ le site de l'UNESCO
 
 (number) days until (something)
 (numéro) jours jusqu'à (quelque chose)
+
+it's great practice for (something)
+c'est un excellent entraînement pour (quelque chose)
+
