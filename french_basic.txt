@@ -12528,3 +12528,6 @@ profite!; amuse-toi!; savoure!
 now that
 maintenant que
 
+to connect
+connecter
+
