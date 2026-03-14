@@ -70166,9 +70166,6 @@ l'arieggiatore
 to aerate (soil)
 arieggiare
 
-UNESCO heritage
-il patrimonio UNESCO
-
 fragrance
 la fragranza
 
@@ -105272,7 +105269,7 @@ essere in corsa per
 barring any issues with (something); assuming no problems arise with (something)
 salvo eventuali problemi con (qualcosa); presumendo che non sorgano problemi con (qualcosa)
 
-UNESCO site
+UNESCO site; UNESCO heritage site
 il patrimonio UNESCO
 
 (number) days until (something)
