@@ -11026,3 +11026,9 @@ tout doit être parfait
 real-time; realtime
 en temps réel
 
+ground beef
+le bœuf haché
+
+lean ground beef
+le bœuf haché maigre
+
