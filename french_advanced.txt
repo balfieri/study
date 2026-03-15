@@ -11109,3 +11109,10 @@ tranchant
 
 comma
 la virgule
+
+parts 1 and 2
+les parties 1 et 2
+
+sadism
+le sadisme
+
