@@ -66803,9 +66803,6 @@ mantenere (qualcosa) in ordine
 to go out for lunch
 uscire per pranzo
 
-to go out for dinner
-uscire per cena
-
 Industrial Revolution
 la Rivoluzione Industriale
 
@@ -105323,4 +105320,10 @@ duplicato
 
 to do some touch-up painting
 fare un ritocco alla pittura
+
+whole grain wheat
+il grano integrale
+
+almost every day
+quasi ogni giorno
 

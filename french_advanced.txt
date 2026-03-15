@@ -6127,9 +6127,6 @@ la légende urbaine
 pull-up
 la traction
 
-wheat; dough
-le blé
-
 display
 le étalage
 
@@ -10953,3 +10950,15 @@ juste comme ça
 
 to weigh oneself
 se peser
+
+whole grain wheat
+le blé complet
+
+wheat
+le blé
+
+format
+le format
+
+almost every day
+presque tous les jours

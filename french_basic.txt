@@ -6128,7 +6128,7 @@ retourner
 to begin; to start
 commencer; débuter
 
-to dine; to have dinner
+to dine; to have dinner; to do dinner
 dîner
 
 to meet; to encounter; to run into
@@ -12530,4 +12530,7 @@ maintenant que
 
 to connect
 connecter
+
+to go out for dinner
+sortir dîner
 
