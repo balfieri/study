@@ -7247,7 +7247,7 @@ la salle d’urgence; la service des urgences
 bakery (breads, retail); bread shop
 la boulangerie
 
-bakery (sweets); pastry shop
+bakery (sweets); pastry shop; pastry
 la pâtisserie
 
 to go on foot
@@ -10047,7 +10047,7 @@ davantage
 more (something)
 plus de (quelque chose)
 
-less (something)
+less (something); fewer
 moins de (quelque chose)
 
 as; in the capacity of; as (in the role of)
@@ -12534,3 +12534,14 @@ connecter
 to go out for dinner
 sortir dîner
 
+for a little bit
+pour un peu
+
+as you probably know
+comme tu le sais probablement
+
+drive; ride
+le trajet
+
+we'll see!
+vedremo!
