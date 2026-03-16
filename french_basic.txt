@@ -4279,6 +4279,9 @@ la paix
 hurt
 blessure
 
+to injure; to hurt; to wound
+blesser
+
 to hurt (someone's) feelings
 blesser les sentiments de (quelqu'un)
 
@@ -12557,3 +12560,4 @@ devrions-nous parler de (quelque chose)?
 
 can we talk about (something)?
 pouvons-nous parler de (quelque chose)?
+
