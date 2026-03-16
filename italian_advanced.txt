@@ -60836,7 +60836,7 @@ estroso
 amateur
 amatoriale
 
-racetrack
+racetrack (horse)
 l'ippodromo
 
 back pass (soccar)
@@ -105410,3 +105410,6 @@ fare role play
 
 Wuthering Heights
 le Cime tempestose
+
+racetrack (car)
+l'autodromo; il circuito automobilistico; la pista da corsa
