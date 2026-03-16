@@ -105392,3 +105392,7 @@ Tolone
 
 faded
 sbiadito
+
+words to translate
+le parole da tradurre
+

@@ -8064,3 +8064,10 @@ goditi!
 
 to go out for dinner
 uscire a cena; uscire per cena
+
+should we talk about (something)?
+dovremmo parlare di (qualcosa)?
+
+can we talk about (something)?
+possiamo parlare di (qualcosa)?
+
