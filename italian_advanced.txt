@@ -18340,7 +18340,7 @@ l'autonomia
 administrative
 amministrativo
 
-extension; extent
+extension; extent; expanse
 l'estensione
 
 utility; benefit; usefulness
@@ -105402,3 +105402,11 @@ il prompt; l'input
 short-term rental
 l'affitto a breve termine; l'affitto breve
 
+in your honor
+nel tuo onore
+
+to role play
+fare role play
+
+Wuthering Heights
+le Cime tempestose
