@@ -90488,9 +90488,6 @@ balbettare; farfugliare; scoppiettare; crepitare
 no clothes fit me
 nessun vestito mi sta bene
 
-short-term rental
-l'affitto breve
-
 long-term rental
 l'affitto a lungo termine
 
@@ -105395,4 +105392,13 @@ sbiadito
 
 words to translate
 le parole da tradurre
+
+sightseeing
+la visita ai luoghi d'interesse
+
+prompt
+il prompt; l'input
+
+short-term rental
+l'affitto a breve termine; l'affitto breve
 
