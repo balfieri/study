@@ -43126,7 +43126,7 @@ il colletto bianco
 white-collar worker
 l'impiegato d'ufficio
 
-manliness; virility
+manliness; manhood; virility
 la virilità
 
 stragrande
@@ -105437,4 +105437,16 @@ rimanere in disparte
 
 motorized
 motorizzato
+
+cellular bandwidth
+la banda cellulare
+
+two-day trip
+la gita di due giorni
+
+wet wipe
+la salvietta umidificata
+
+network connection
+la connessione di rete
 
