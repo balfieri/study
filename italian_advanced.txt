@@ -6253,7 +6253,7 @@ la posizione di riposo
 indifferent; thoughtless; uncaring; unsympathetic
 menefreghista
 
-to impose
+to impose; to force upon
 imporre
 
 delivery
@@ -40890,9 +40890,6 @@ il fumo passivo
 
 phallic
 fallico
-
-a lot of; lots of; gobs of; plenty of
-un sacco di
 
 upstairs (adjective)
 al piano di sopra

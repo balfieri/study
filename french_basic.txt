@@ -12561,3 +12561,6 @@ devrions-nous parler de (quelque chose)?
 can we talk about (something)?
 pouvons-nous parler de (quelque chose)?
 
+a heap of; a lot of; a bunch of 
+un tas de
+
