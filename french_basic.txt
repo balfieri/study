@@ -7299,7 +7299,7 @@ French
 français
 
 grocery store
-l'épicerie
+l'épicerie; le magasin d'alimentaires
 
 pharmacy
 la pharmacie

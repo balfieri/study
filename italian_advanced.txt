@@ -69038,7 +69038,7 @@ scillare
 here and there
 qui e là
 
-to obscure; to darken; to blur
+to obfuscate; obscure; to darken; to blur
 offuscare
 
 between now and then
@@ -105434,4 +105434,7 @@ la rubinetteria
 
 to remain on the sidelines
 rimanere in disparte
+
+motorized
+motorizzato
 
