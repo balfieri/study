@@ -25207,7 +25207,7 @@ di buon gusto; raffinato; elegante
 infusion; brew
 l'infuso
 
-overcooked
+overcooked; braised
 stracotto; troppo cotto
 
 undercooked
@@ -105450,3 +105450,11 @@ la salvietta umidificata
 network connection
 la connessione di rete
 
+in a rough way
+in modo grossolano
+
+braised meat
+lo stracotto
+
+deep plate; soup plate
+il piatto fondo
