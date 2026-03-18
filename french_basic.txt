@@ -1804,6 +1804,9 @@ faire marcher (quelqu’un)
 ride
 la promenade; le tour
 
+walk; ride
+la promenade
+
 trip; excursion
 l'excursion; la sortie
 

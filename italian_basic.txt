@@ -3623,7 +3623,7 @@ gym
 la palestra
 
 walk
-la passeggiata; il cammino
+la passeggiata; il cammino; la camminata
 
 music
 la musica
