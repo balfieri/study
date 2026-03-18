@@ -105516,3 +105516,6 @@ la pappa
 major upset; big surprise
 la grande sorpresa
 
+bandwidth
+la larghezza di banda
+
