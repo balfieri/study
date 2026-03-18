@@ -49030,8 +49030,8 @@ affermativo
 what are you saying
 ma cosa dici
 
-are you crazy
-ma sei matto
+are you crazy?
+ma sei matto?
 
 I don't even think about it
 non ci penso nemmeno
@@ -105512,4 +105512,7 @@ la pappa d'avena
 
 baby food
 la pappa
+
+major upset; big surprise
+la grande sorpresa
 
