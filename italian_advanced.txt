@@ -42040,9 +42040,6 @@ ci siamo legati; abbiamo stretto un legame
 to bond with (somebody)
 legarsi con (qualcuno); creare un legame con (qualcuno)
 
-to welcome
-dare il benvenuto
-
 issue; problem (complex, persistent)
 la problematica
 
@@ -43090,7 +43087,7 @@ l'alveo asciutto
 to visualize oneself
 visualizzarsi
 
-to picture oneself
+to picture oneself; to picture oneself
 immaginarsi
 
 plum
@@ -76328,9 +76325,6 @@ immunosoppresso
 to tour around England
 girare per l'Inghilterra
 
-to take for granted
-dare per scontato
-
 table saw fence
 la recinzione per sega da tavolo; la recinzione per sega da banco
 
@@ -102437,7 +102431,7 @@ il tergicristallo
 airbag
 l'airbag
 
-porridge; oatmeal
+oatmeal
 i fiocchi d'avena; l'avena
 
 alley (Venice)
@@ -105467,4 +105461,55 @@ va pure
 
 nutcracker
 lo schiaccianoci
+
+to annoy; to bother
+dare noia
+
+to welcome; to give a welcome
+dare il benvenuto
+
+to kick
+dare un calcio
+
+to slap; to give a slap
+dare uno schiaffo
+
+to bite; to give a bite
+dare un morso
+
+to kiss; to give a kiss
+dare un bacio
+
+to give birth
+dare alla luce
+
+to start; to begin
+dare inizio
+
+to keep busy
+dare da fare
+
+to give food for thought; to provide food for thought
+dare da pensare
+
+to earn a living; to provide a living
+dare da vivere
+
+optimal
+ottimale
+
+shipping
+in spedizione
+
+the thread that runs through
+il filo che attraversa
+
+to run through
+correre attraverso
+
+porridge
+la pappa d'avena
+
+baby food
+la pappa
 

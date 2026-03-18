@@ -386,7 +386,7 @@ opaque
 opaque
 
 to start; to begin; to commence
-commencer
+commencer; donner le coup d'envoi
 
 painful; sore; aching
 douloureux
@@ -11328,3 +11328,84 @@ le casse-noisette
 
 pervert
 le perverti; la perverti
+
+to welcome
+souhaiter la bienvenue
+
+to give permission
+donner la permission; accorder la permission
+
+to give a hand
+donner un coup de main
+
+hand (help)
+le coup de main
+
+to light on fire
+mettre le feu; incendier
+
+to have a look
+donne un coup d'œil
+
+to give a slap; to slap
+donner une gifle; gifler
+
+slap
+la gifle
+
+to take a bite
+donner un coup de dent
+
+bite (noun)
+le coup de dent
+
+to give a kiss
+donner un baiser
+
+to place blame; to blame
+donner le blâme; blâmer
+
+to resign (work)
+donner sa démission; démissionner; se démettre"
+
+to listen to; to heed; to pay attention to
+écouter; prêter attention; tenir compte de
+
+to take for granted
+prendre pour acquis
+
+to give birth to
+mettre au monde; donner le jour à; donner naissance à
+
+to give something to eat; to feed
+donner à manger; nourrir
+
+to keep busy
+rester occupé
+
+to provide food for thought
+donner matière à réflexion
+
+to earn a living
+gagner sa vie
+
+to have a green thumb
+avoir la main verte
+
+optimal
+optimal
+
+shipping
+en cours d'expédition
+
+the thread that runs through
+le fil conducteur
+
+to run through
+traverser; parcourir; feuilleter
+
+porridge; baby food
+la bouillie
+
+oatmeal
+l'avoine
