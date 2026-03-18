@@ -94,6 +94,9 @@ if subjects_s == '': die( f'no -name' )
 subjects = subjects_s.split( ',' )
 if gen_puzzles: cmd( f'make gen_puz' )
 
+eng_voice = '\'Samantha\''
+oth_voice = f'\'{other_lang_voice}\''
+
 s = ''
 s += f'<html>\n'
 s += f'<head>\n'
@@ -154,6 +157,7 @@ s += '''
       window.speechSynthesis.cancel();
       var msg = new SpeechSynthesisUtterance("");
       msg.lang = ''' + '\'' + other_lang_code + '\'' + ''';
+      msg.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + oth_voice + ''' );
       msg.rate = rate;
       msg.text = document.getElementById("text-box").textContent;
       msg.onend = repeating ? delay_other : 0;
@@ -168,6 +172,7 @@ s += '''
       window.speechSynthesis.cancel();
       var msg = new SpeechSynthesisUtterance("");
       msg.lang = 'en-US';
+      msg.voice = window.speechSynthesis.getVoices().find(voice => voice.name === ''' + eng_voice + ''' );
       msg.rate = rate;
       msg.text = document.getElementById("text-box").textContent;
       msg.onend = repeating ? delay_english : 0; 
