@@ -7067,7 +7067,7 @@ le service
 massage
 le massage
 
-diet
+diet; regime
 le régime
 
 directions; guide; driving
