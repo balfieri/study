@@ -2515,7 +2515,7 @@ le cou
 routine
 la routine
 
-to keep; to guard
+to keep; to guard; to look after
 garder
 
 habit
@@ -12566,4 +12566,7 @@ pouvons-nous parler de (quelque chose)?
 
 a heap of; a lot of; a bunch of 
 un tas de
+
+to gain weight
+prendre du poids
 

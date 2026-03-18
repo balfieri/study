@@ -19675,7 +19675,7 @@ diminuire
 to exhaust; to run out of; to use up
 esaurire
 
-to guard; to look after
+to guard; to look after; to keep; to preserve
 custodire
 
 to heal; to recover; to cure
@@ -105525,3 +105525,8 @@ la dieta paleolitica
 apart from the jokes
 a parte gli scherzi
 
+dietitian
+il dietologo; la dietologa
+
+within the space of; in a short time; in a bit; within (time)
+nel giro di
