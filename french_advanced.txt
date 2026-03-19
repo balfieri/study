@@ -11366,7 +11366,7 @@ to place blame; to blame
 donner le blâme; blâmer
 
 to resign (work)
-donner sa démission; démissionner; se démettre"
+donner sa démission; démissionner; se démettre
 
 to listen to; to heed; to pay attention to
 écouter; prêter attention; tenir compte de
@@ -11469,4 +11469,13 @@ la cire
 
 waxed
 ciré
+
+to cement
+cimenter
+
+to unpack; to unbox; to unwrap
+déballer
+
+glassworks
+la verrerie
 
