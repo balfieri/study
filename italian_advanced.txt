@@ -14920,7 +14920,10 @@ farsi giustizia da sé
 to lay down the law
 dettare legge
 
-to speak one's mind; to speak frankly
+to speak one's mind
+dire quello che si pensa
+
+to speak frankly
 parlare francamente
 
 to stand one's ground; to stick to one's guns
@@ -21646,7 +21649,7 @@ dispersibilità
 to quicken; to speed up (process)
 velocizzare
 
-use of product; administration
+use of product; administration; dispensing
 la somministrazione
 
 granita
@@ -105545,4 +105548,7 @@ la crostatina
 
 I am not doing it on purpose
 non lo sto facendo apposta
+
+to take back the scene
+riprendersi la scena
 
