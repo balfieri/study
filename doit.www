@@ -1,3 +1,6 @@
+set -e          # exit immediately on any non‑zero status
+set -o pipefail # make pipelines fail if any element fails
+
 rm -fr www/*.html
 ./gen_www.py -name aviation -subjects aviation_all_lists,${av_s} 
 ./gen_www.py -name italian  -subjects italian_all_lists,${it_s} -other_lang Italian -other_lang_code ${it_lang_code} -other_lang_voice ${it_voice}
