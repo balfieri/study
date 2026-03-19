@@ -31546,9 +31546,6 @@ in netto contrasto
 in order for; in order to; so as to
 in modo da
 
-blackberry
-la mora
-
 to nod one's head
 annuire con la testa; annuire col capo
 
@@ -88433,6 +88430,9 @@ spalare
 brushwood; undergrowth; scrub; dried brush
 la sterpaglia
 
+blackberry
+la mora
+
 bramble; bramble bush; blackberry bush; briar
 il rovo
 
@@ -105539,4 +105539,10 @@ cerato
 
 to cement
 cementare
+
+small tart; mini tart
+la crostatina
+
+I am not doing it on purpose
+non lo sto facendo apposta
 
