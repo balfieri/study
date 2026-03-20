@@ -1723,6 +1723,9 @@ la bretelle (d’autoroute)
 toward
 vers
 
+toward some
+vers de
+
 back; backward
 en arrière
 
@@ -12578,3 +12581,6 @@ je m'appelle (nom)
 
 I'm (name)
 moi c'est (nom); je suis (nom)
+
+in person
+en personne

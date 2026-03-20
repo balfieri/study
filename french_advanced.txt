@@ -9952,9 +9952,6 @@ Turin
 one hour by train
 à une heure en train
 
-Milanese
-milanais
-
 to be nothing special
 n'avoir rien de spécial
 
@@ -11586,4 +11583,43 @@ l'acte d'amour
 
 financially
 financièrement
+
+located
+situé
+
+centrally located
+situé au centre; situé de façon centrale
+
+bolognese; of Bologna
+bolonais; bolognais
+
+milanese; of Milan
+milanais
+
+Abruzzo
+les Abruzzes
+
+abruzzese; of Abruzzo
+des Abruzzes
+
+Bernese
+bernais
+
+either (something) or (something else)
+soit (quelque chose) soit (quelque chose d'autre)
+
+to come along for the ride
+venir pour le voyage; venir pour la balade
+
+walk; ride; stroll
+la balade
+
+Verona
+Vérone
+
+exorbitant
+exorbitant
+
+short-term availability
+la disponibilité à court terme
 
