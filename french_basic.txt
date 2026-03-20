@@ -12573,3 +12573,8 @@ prendre du poids
 on purpose; deliberately
 exprès
 
+my name is (name)
+je m'appelle (nom)
+
+I'm (name)
+moi c'est (nom); je suis (nom)

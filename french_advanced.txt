@@ -4894,7 +4894,7 @@ remener
 check; cheque
 le chèque
 
-compréhensif
+understanding; comprehensive
 compréhensif
 
 is there someone?; is anybody there?
@@ -11580,4 +11580,10 @@ percer; trouer; perforer
 
 clarification
 la clarification
+
+act of love
+l'acte d'amour
+
+financially
+financièrement
 
