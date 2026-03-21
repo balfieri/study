@@ -18203,7 +18203,7 @@ hard-boiled egg
 l'uovo sodo
 
 thigh
-la coscia
+la coscia; la zocca
 
 prefect
 il prefetto
@@ -19602,9 +19602,6 @@ avaro
 
 stingy; cheap (informal)
 tirchio
-
-rude; impolite
-scortese
 
 self-centered; egocentric
 egocentrico
@@ -61464,7 +61461,7 @@ to set (as in sun); to decline
 tramontare
 
 dreary; gloomy
-uggioso
+uggioso; cupo
 
 to make up for
 sopperire a
@@ -105605,4 +105602,43 @@ violare la regola
 
 amphora; urn
 l'anfora
+
+I appreciate it
+lo apprezzo; l'apprezzo
+
+teddy bear
+l'orsaocchiotto
+
+big teddy bear
+il grande orsacchiotto
+
+should we meet you there?
+ti dovremmo incontrare lì?
+
+to radiat
+irraggiare
+
+dreary day
+il giorno uggioso
+
+borderline (adjective)
+limite (aggettivo)
+
+something is missing
+manca qualcosa
+
+I can't really explain it
+non riesco davvero a spiegarlo
+
+it's a little sterile
+è un po' sterile
+
+the people aren't cold
+la gente non è fredda
+
+the vibe is cold
+l'atmosfera è fredda; la vibrazione è fredda
+
+cry of alarm
+il grido d'allarme
 

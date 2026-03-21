@@ -6984,3 +6984,5 @@ cambiare idea su (qualcosa)
 we don't even have to have a reason, we can just do it
 non abbiamo nemmeno bisogno di avere una ragione, possiamo semplicemente farlo
 
+it checks all the boxes
+soddisfa tutti i criteri

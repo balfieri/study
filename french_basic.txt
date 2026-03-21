@@ -1432,8 +1432,11 @@ d'abord
 fun
 amusant; divertissant; plaisir
 
-drôle; amusant
-funny
+funny; fun; amusing (general term, most used)
+amusant
+
+laugh-out-loud funny
+drôle; marrant
 
 mouth
 la bouche

@@ -2707,3 +2707,9 @@ need WAAS and must pass SBAS reliability checks
 
 once APR mode is active and engaged
 the autopilot will not level out; the pilot must manually level out or continue down to the runway
+
+when you activate an approach
+the navigation system will proceed directly to the initial approach fix; this can be dangerous and definitely surprising if you are already on the final approach segment inside the initial approach fix
+
+activating a leg of an approach vs. proceeding direct to a fix
+activating the leg activates the segment, so the navigation system will attempt to join the segment like it would join a localizer; going direct goes directly from the current location to the fix and should be used only when you are cleared direct to the fix; either way, the navigation system will resume sequencing
