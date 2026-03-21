@@ -358,3 +358,6 @@ changer d'avis sur (quelque chose)
 we don't even have to have a reason, we can just do it
 on n'a même pas besoin d'avoir une raison, on peut juste le faire
 
+it checks all the boxes
+ça coche toutes les cases
+

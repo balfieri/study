@@ -4255,9 +4255,6 @@ le crime
 enjoy your meal
 bon appétit
 
-I'm joking
-je plaisante
-
 it depends on
 cela dépend de
 
@@ -12587,3 +12584,13 @@ moi c'est (nom); je suis (nom)
 
 in person
 en personne
+
+I appreciate it
+je l'apprécie
+
+I joke; I'm joking
+je plaisante
+
+pleasing
+plaisant
+
