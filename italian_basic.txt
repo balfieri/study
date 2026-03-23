@@ -8101,3 +8101,5 @@ la cassa
 to choose to (do something)
 scegliere di (fare qualcosa)
 
+as (adjective) as (something)
+tanto (aggettivo) quanto (qualcosa)

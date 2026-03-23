@@ -12606,3 +12606,9 @@ choisir de (faire quelque chose)
 touristic
 touristique
 
+every two years
+tous les deux ans
+
+as (adjective) as (something)
+aussi (adjectif) que (quelque chose)
+
