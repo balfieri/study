@@ -11815,3 +11815,5 @@ le portique
 sign
 le panneau
 
+I've heard about it
+j'en ai entendu parler
