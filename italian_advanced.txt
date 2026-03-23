@@ -9286,9 +9286,6 @@ il sedile posteriore
 highlights
 i momenti salienti; gli aspetti salienti
 
-cash register
-la cassa
-
 sharp knife
 il coltello affilato
 
@@ -9389,7 +9386,7 @@ ice cream maker (machine)
 la gelatiera
 
 ice cream maker (person)
-il gelataio
+il gelataio; il gelatiere
 
 cherry tomato
 il pomodorino; il pomodoro ciliegino
@@ -9795,6 +9792,9 @@ nel grande schema delle cose
 
 to persecute; to stalk
 perseguitare
+
+to stalk
+stalkerare
 
 mindset; mentality
 la mentalità
@@ -38513,7 +38513,7 @@ shopaholic
 lo shopaholic; la maniaca dello shopping; la dipendente dagli acquisti
 
 workaholic
-il lavoratore compulsivo
+il maniaco del lavoro; il lavoratore compulsivo
 
 maniac
 il maniaco; la maniaca
@@ -55558,9 +55558,6 @@ il siluro
 
 footrest
 il poggiapiedi
-
-journey; route
-il tragitto
 
 carabiner
 il moschettone
@@ -105641,4 +105638,22 @@ l'atmosfera è fredda; la vibrazione è fredda
 
 cry of alarm
 il grido d'allarme
+
+both work
+funzionano entrambi
+
+sun-dried tomatoes
+i pomodori secchi al sole
+
+to extend our stay
+prolungare il nostro soggiorno
+
+keep your hands off my (something)!
+tieni le mani lontano dal mio (qualcosa)!
+
+oxymoron
+il controsenso
+
+journey; route; trip
+il tragitto
 

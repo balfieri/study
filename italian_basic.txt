@@ -3625,6 +3625,9 @@ la palestra
 walk
 la passeggiata; il cammino; la camminata
 
+ride
+la passeggiata
+
 music
 la musica
 
@@ -8088,4 +8091,13 @@ scherzo
 
 pleasing
 piacevole
+
+where do I pay?
+dove pago?
+
+cash register
+la cassa
+
+to choose to (do something)
+scegliere di (fare qualcosa)
 
