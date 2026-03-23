@@ -412,7 +412,7 @@ continu
 to lose weight; to slim down; to get thinner; to diet
 maigrir
 
-progressive
+progressive (progressing)
 progressif; progressive
 
 jewelry; jewels; gems
@@ -8329,7 +8329,7 @@ le migrant
 family entertainment
 le divertissement familial
 
-progressive
+progressive (political)
 progressiste
 
 graduate school
@@ -11590,9 +11590,6 @@ situé au centre; situé de façon centrale
 bolognese; of Bologna
 bolonais; bolognais
 
-milanese; of Milan
-milanais
-
 Abruzzo
 les Abruzzes
 
@@ -11739,4 +11736,46 @@ by eye
 
 giant
 le géant
+
+abomination
+l'abomination
+
+what a difference a year makes
+quelle différence une année fait
+
+everyone is out walking
+tout le monde est sorti se promener
+
+it doesn't matter
+ça n'a pas d'importance
+
+as well as
+ainsi que
+
+to be 2 hours away
+étre à 2 heures
+
+inevitable
+inévitable
+
+le Marche
+les Marches
+
+Milanese; of Milan
+milanais
+
+to make pasta
+faire des pâtes
+
+every 3 months
+tous les 3 mois
+
+shallot
+l'échalote
+
+United States (adjective)
+états-unien
+
+even he
+même lui
 
