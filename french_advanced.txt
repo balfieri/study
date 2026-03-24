@@ -11905,5 +11905,12 @@ persan
 tour guide
 le guide touristique
 
-property; fortune; heritage
-le patrimoine
+architectural
+architectural
+
+to travel again; to go through again
+reparcourir
+
+to retrace
+retracer
+

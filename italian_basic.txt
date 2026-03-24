@@ -5314,9 +5314,6 @@ sardo
 Sardinia
 la Sardegna
 
-vineyard
-il vigneto
-
 by mail
 per posta
 
@@ -5986,7 +5983,7 @@ mantenere
 fault; guilt; blame
 la colpa
 
-step (walking)
+step (walking); footstep
 il passo
 
 fear

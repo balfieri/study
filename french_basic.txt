@@ -9642,7 +9642,7 @@ maintenir; entretenir
 fault; guilt; blame
 la faute; la culpabilité; la blâme
 
-step (walking)
+step (walking); footstep
 le pas
 
 fear
