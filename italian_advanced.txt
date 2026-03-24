@@ -18406,7 +18406,7 @@ l'istituto
 known; famous; renowned
 noto
 
-order; arrangement
+system; ordering; order; arrangement
 l'ordinamento
 
 willing; inclined; disposed
@@ -62580,7 +62580,7 @@ usually he just sits there and does nothing
 di solito lui si siede lì e non fa nulla
 
 longest-running
-più longevo
+di più lunga durata; più longevo
 
 to take some X-rays
 fare delle radiografie
@@ -105764,4 +105764,31 @@ schizofrenico
 
 thermal collapse
 il tracollo termico
+
+to be old enough; to be big enough
+essere grandi abbastanza
+
+to be the usual (something)
+essere il solito (qualcosa)
+
+premiership
+il premierato
+
+to refer to
+richiamarsi
+
+to draw the consequences
+trarne le conseguenze
+
+centre-right
+il centrodestra
+
+main road
+la strada maestra
+
+governance
+la governance
+
+enormously
+enormemente
 
