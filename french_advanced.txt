@@ -4552,9 +4552,6 @@ tu sors?
 cork; traffic jam
 le bouchon
 
-cleavage
-la décolleté
-
 enough eaten; have eaten enough
 assez mangé
 
@@ -7090,7 +7087,7 @@ le lave-auto; le lavage auto; la station de lavage de voiture
 out of the way
 à l'écart
 
-toi get out of the way; to move out of the way
+to get out of the way; to move out of the way
 se garer
 
 bustling part of town
@@ -11830,8 +11827,8 @@ retourner en haut; remonter en haut
 to infantalize
 infantiliser
 
-emménager
 to move in
+emménager
 
 nemesis
 la némésis
@@ -11872,3 +11869,41 @@ la branche législative
 your money doesn't work here
 ton argent ne fonctionne pas ici
 
+deadline; due date
+la date limite
+
+referendum
+le référendum
+
+slope
+la pente
+
+to be a slippery slope
+être un terrain glissant
+
+slippery; sliding
+glissant
+
+front
+le front
+
+double front
+le double front
+
+two-pronged approach
+l'approche à deux volets
+
+shutter; blind; panel
+le volet
+
+shutter; persienne
+la persienne
+
+Persian
+persan
+
+tour guide
+le guide touristique
+
+property; fortune; heritage
+le patrimoine
