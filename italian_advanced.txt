@@ -93677,7 +93677,7 @@ immotivato
 backward; regressive
 retrivo
 
-distinguish; characterize; mark out
+to distinguish; to characterize; to mark out
 contraddistinguire
 
 imbalance; disequilibrium; unbalance
@@ -105755,4 +105755,7 @@ il fruttetto
 
 vineyard
 il vigneto
+
+less than human
+meno che umano
 

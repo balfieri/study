@@ -11914,3 +11914,6 @@ reparcourir
 to retrace
 retracer
 
+less than human
+moins qu'humain
+
