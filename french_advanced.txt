@@ -11917,3 +11917,8 @@ retracer
 less than human
 moins qu'humain
 
+schizophrenic
+schizophrène
+
+margin
+la marge
