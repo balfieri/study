@@ -6662,8 +6662,8 @@ grec; grecque
 neutral
 neutre
 
-very chic
-très chic
+chic; snazzy
+chic
 
 tutor
 le tuteur; la tutrice
