@@ -3596,7 +3596,7 @@ French
 francese
 
 grocery store; food store
-il negozio di alimentari; la drogheria; il negozio di generi alimentari
+il negozio di alimentari; il negozio di generi alimentari
 
 supermarket
 il supermercato

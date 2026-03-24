@@ -42202,7 +42202,7 @@ la diapositiva PowerPoint
 first notch of flaps
 la prima tacca dei flap
 
-notch
+notch; bar (cell phone)
 la tacca
 
 field elevation
@@ -65664,7 +65664,7 @@ to go a long time without
 stare molto tempo senza
 
 to point at; to aim for
-puntare a; indicare a
+puntare a; indicare
 
 stamina; resistance
 la resistenza
@@ -67766,7 +67766,7 @@ lamentoso
 shirt shop; shirtmaker's shop
 la camiceria
 
-posh; chic; bougie
+posh; chic; bougie; snazzy
 elegante; chic
 
 rlea market
@@ -105678,3 +105678,41 @@ la peschiera
 to move on foot; to go on foot
 spostarsi a piedi
 
+to take out to lunch
+portare fuori a pranzo
+
+to meet for lunch
+incontrarsi per pranzo
+
+tiny mom-and-pop grocery store
+la drogheria
+
+to return to the top
+tornare in vetta
+
+nemesis
+la nemesi
+
+to make someone sad; to sadden
+rammaricare
+
+lioness
+la leonessa
+
+tanto non resign anyway
+tanto non si dimette
+
+primary sector
+il settore primario
+
+manufacturing sector; manufacturing industry
+il settore secondario
+
+service sector
+il settore terzario
+
+when one is tired
+quando si è stanchi
+
+when one is careful
+quando si è attenti
