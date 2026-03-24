@@ -9342,8 +9342,8 @@ le gros mensonge; l'énorme mensonge
 to attack; to assault; to attach
 attaquer; agresser; attacher
 
-to party
-faire la fête
+to party; to celebrate
+faire la fête; célébrer, fêter
 
 dilemma
 le dilemme
@@ -10263,9 +10263,6 @@ la paire
 complicated; tricky
 compliqué
 
-to celebrate
-célébrer
-
 too soon; too early
 trop tôt
 
@@ -10325,9 +10322,6 @@ lui
 
 to them
 leur
-
-to celebrate
-fêter
 
 birthday party
 la fête d'anniversaire
