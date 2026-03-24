@@ -11922,3 +11922,7 @@ schizophrène
 
 margin
 la marge
+
+jack-of-all-trades
+le touche-à-tout
+
