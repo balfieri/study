@@ -11650,9 +11650,6 @@ maussade
 borderline (adjective)
 limite (adjectif)
 
-rude
-grossier
-
 something is missing
 il manque quelque chose
 
@@ -11959,3 +11956,5 @@ la governance
 enormously
 énormément
 
+split; break; rift
+la rupture; brèche; le schisme

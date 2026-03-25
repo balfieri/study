@@ -5419,9 +5419,6 @@ riempire
 to widen; to enlarge
 allargare
 
-unkind
-scortese; sgarbato
-
 to go to the movies
 andare al cinema
 
@@ -8080,7 +8077,7 @@ il colosseo
 have you ever been there?
 ci sei mai stato lì?
 
-rude; impolite
+rude; impolite; unkind; discourteous
 scortese
 
 I joke; I'm joking

@@ -244,6 +244,15 @@ la petite-fille
 polite
 poli
 
+impolite
+impoli
+
+courteous
+courtois
+
+discourteous; rude
+grossier
+
 channel
 la chaîne
 
@@ -11181,9 +11190,6 @@ le gramme
 offensive
 offensant
 
-courteous; polite; kind
-courtois; poli; gentil
-
 sold
 vendu
 
@@ -12606,3 +12612,8 @@ tous les deux ans
 as (adjective) as (something)
 aussi (adjectif) que (quelque chose)
 
+connaisseur
+le connaisseur
+
+I'm just saying
+je dis juste
