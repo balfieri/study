@@ -11992,3 +11992,9 @@ transphobe
 homophobic
 homophobe
 
+rifle
+le fusil
+
+shotgun
+le fusil à pompe
+
