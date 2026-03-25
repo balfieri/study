@@ -12621,3 +12621,5 @@ faites-nous savoir
 bistro
 le bistrot
 
+everything is going well; all is well
+tout va bien

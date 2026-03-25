@@ -1777,9 +1777,6 @@ préluder à; introduire; commencer par; préfaçer
 I can't complain
 je ne peux pas me plaindre; je ne me plains pas
 
-everything's going well
-tout va bien
-
 to love each other; to love one another; to love oneself
 s'aimer
 
@@ -11982,4 +11979,7 @@ de ton choix
 
 circadian
 circadien
+
+cancellation
+l'annulation
 
