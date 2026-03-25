@@ -5698,8 +5698,11 @@ la setta
 septum; bridge (nose)
 il setto
 
-disparaging; pejorative
+disparaging
 dispregiativo
+
+pejorative
+peggiorativo
 
 to denigrate; to disparage
 denigrare
@@ -50394,6 +50397,9 @@ infrangere una norma
 
 circadian
 circadiano
+
+circadian low
+il basso circadiano
 
 summarizable
 riassumibile
@@ -105791,4 +105797,10 @@ la governance
 
 enormously
 enormemente
+
+roughly; approximately; coarsely; grossly
+grossamente
+
+of your choice
+della tua scelta
 

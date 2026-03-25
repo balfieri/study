@@ -4429,7 +4429,7 @@ tourner l'avion
 heat
 chaleur
 
-henceforth; from now on; by now
+by now; from now on; henceforth
 désormais
 
 à ce point
@@ -4440,9 +4440,6 @@ maintenant
 
 adorable
 adorable
-
-adopted
-adoptif
 
 in many ways
 de bien des façons
@@ -12617,3 +12614,10 @@ le connaisseur
 
 I'm just saying
 je dis juste
+
+let us know
+faites-nous savoir
+
+bistro
+le bistrot
+

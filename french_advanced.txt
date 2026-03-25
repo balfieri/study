@@ -4195,8 +4195,11 @@ annoncé
 to announce
 annoncer
 
-from now on; henceforth
-dorénavant; à partir de maintenant; à partir de ce moment là
+starting from now; from now on; henceforth; from this point forward
+à partir de maintenant; à partir de ce moment là
+
+from now onward; henceforth (more emphatic)
+dorénavant
 
 conflict
 le conflit
@@ -11958,3 +11961,25 @@ enormously
 
 split; break; rift
 la rupture; brèche; le schisme
+
+roughly; approximately; coarsely; grossly
+grossement; grossièrement
+
+to adopt
+adopter
+
+adopted
+adopté
+
+adoptive
+adoptif
+
+pejorative
+péjoratif
+
+of your choice
+de ton choix
+
+circadian
+circadien
+
