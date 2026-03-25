@@ -11989,3 +11989,6 @@ to peel
 transphobic
 transphobe
 
+homophobic
+homophobe
+
