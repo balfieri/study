@@ -11998,3 +11998,27 @@ le fusil
 shotgun
 le fusil à pompe
 
+to be absent; to be away
+être absent
+
+to get a tattoo
+se faire tatouer
+
+to stay for a night; to spend a night
+passer une nuit
+
+weakened
+affaiblie
+
+cold sweats
+les sueurs froides
+
+sweat
+la sueur
+
+sewer
+l'égout
+
+sewer pipe
+le tuyau d'égout
+
