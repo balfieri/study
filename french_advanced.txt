@@ -12022,3 +12022,9 @@ l'égout
 sewer pipe
 le tuyau d'égout
 
+tick (insect)
+la tique
+
+processing
+le traitement
+
