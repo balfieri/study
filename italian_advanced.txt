@@ -17752,8 +17752,8 @@ il linguista; la linguista; il glottologo; la glottologa
 accustomed; habituated
 avvezzo
 
-jumble; hodgepodge
-l'accozzaglia
+hodgepodge; jumble
+la mischia; la minestra; il guazzabuglio; l'accozzaglia
 
 case studies
 la casistica
@@ -59716,6 +59716,9 @@ ti incoraggio a unirti a noi
 
 you guys are next
 voi siete i prossimi
+
+adopted; adoptive
+adottivo
 
 adopted son; adopted child
 il figlio adottivo
@@ -103542,7 +103545,7 @@ to perform a go-around
 eseguire una go-around
 
 July 1994
-luglio 1994
+luglio 1994; luglio del 1994
 
 disorienting
 disorientante
@@ -105860,4 +105863,16 @@ le Ferrovie dello Stato Italiane; le Ferrovie dello Stato (FS)
 
 to brace oneself (physically)
 irrigidire il corpo
+
+most probably; most likely
+molto probabilmente
+
+that's not why I'm writing to you
+non è per questo che vi scrivo
+
+contact information
+le informazioni di contatto
+
+almost not at all
+quasi per nulla
 
