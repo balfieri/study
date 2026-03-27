@@ -1789,7 +1789,7 @@ la sortie
 to enter
 entrer
 
-to jump
+to jump; to skip
 sauter
 
 to hop
@@ -4597,7 +4597,7 @@ la remise; la réduction
 on vacation (personal days)
 en vacances
 
-on vacation (fixed holidays)
+on vacation (fixed holidays); on leave
 en congé
 
 over; above; atop

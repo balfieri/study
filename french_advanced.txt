@@ -12028,3 +12028,20 @@ la tique
 processing
 le traitement
 
+auto-immune disease
+la maladie auto-immune
+
+vasculitis
+la vasculite
+
+inflammation
+l'inflammation
+
+artery
+l'artère
+
+immune system
+le système immunitaire
+
+prospective
+prospectif
