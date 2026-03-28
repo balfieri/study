@@ -12156,3 +12156,13 @@ atteindre le seuil de rentabilité
 
 mussel; clam
 la coque
+
+for the foreseeable future
+pour le prévisible avenir
+
+predictable; foreseeable
+prévisible
+
+unpredictable; unforeseeable
+imprévisible
+

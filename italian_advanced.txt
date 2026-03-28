@@ -10408,7 +10408,7 @@ il jet privato
 jet
 il jet
 
-predictable; forseeable
+predictable; foreseeable
 prevedibile
 
 to blow up oneself
@@ -105911,3 +105911,7 @@ più siamo meglio è; allegro
 
 protestor; demonstrator
 il manifestante; la manifestante
+
+for the foreseeable future
+per il prevedibile futuro
+
