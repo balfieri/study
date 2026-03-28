@@ -3517,9 +3517,6 @@ la modestie
 pretentiousness
 la prétention
 
-pride
-l'orgueil
-
 lively; bright; sharp
 vif
 
@@ -5485,7 +5482,10 @@ les funérailles
 arcane; mysterious
 arcane
 
-pride
+pride (can be negative)
+l'orgueil
+
+pride (always positive)
 la fierté
 
 air conditioner
@@ -12091,3 +12091,68 @@ les coordonnées de contact
 hodgepodge
 le mélange hétéroclite
 
+numb with cold; chilled
+engourdi par le froid; refroidi
+
+proof
+la preuvre
+
+issued; stemming from
+issu
+
+pill
+la pilule
+
+location; localization
+la localisation
+
+am I allowed to (do something)?
+est-ce que c'est permis de (faire quelque chose)?; est-ce que je peux (faire quelque chose)?; ai-je le droit (de faire quelque chose)?
+
+parking attendant; valet parker
+le gardien de parking; le valet parker
+
+valet parking
+le parking avec voiturier
+
+to double-park
+stationner en double file
+
+fish store
+le magasin de poissons
+
+two of my uncles
+deux de mes oncles
+
+hold on to the handrails; grab the handholds
+agrippez-vous aux poignées; tenez-vous aux supports
+
+to hold onto
+se tenir à
+
+normalization of deviance
+la normalisation de la déviance
+
+milkshake
+le milkshake
+
+smoothie
+le smoothie
+
+lightweight drinker
+le buveur léger
+
+alcoholic beverage
+la boisson alcoolisée
+
+zany
+loufoque
+
+deranged
+dérangé
+
+to break even
+atteindre le seuil de rentabilité
+
+mussel; clam
+la coque

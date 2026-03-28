@@ -1699,7 +1699,7 @@ sgarbato
 to relapse
 ricadere
 
-pride
+pride (can be negative)
 l'orgoglio
 
 damage; harm
@@ -46591,7 +46591,7 @@ il riparatore; la riparatrice
 handyman; jack of all trades
 il tuttofare; il factotum
 
-to disturb; to perturb
+to disturb; to perturb; to trouble
 turbare
 
 just north of
@@ -49129,7 +49129,7 @@ smobilitare
 scattered; spread; dispersed
 sparpagliato
 
-pride; fierceness
+pride; fierceness (always positive)
 la fierezza
 
 caravan
@@ -54367,7 +54367,7 @@ il video truffa
 to reluctantly agree
 accettare controvoglia
 
-alcoholic drink
+alcoholic drink; alcoholic beverage
 la bevanda alcolica
 
 to keep (somebody) company
@@ -67532,9 +67532,6 @@ la linea è occupata
 I called earlier
 ho chiamato earlier
 
-to double-park
-fare doppia fila
-
 oat milk
 il latte d'avena
 
@@ -72203,7 +72200,7 @@ essere permessi di votare
 turnout data
 i dati dell'affluenza
 
-worrisome
+worrisome; troubling
 preoccupante
 
 shortened
@@ -85898,8 +85895,8 @@ fare un brainstorming; fare una sessione di brainstorming
 it's good to have you back
 è bello averti di nuovo qui; è bello rivederti
 
-to double-park the car
-parcheggiare in doppia fila
+to double-park
+fare doppia fila; parcheggiare in doppia fila
 
 free spirit
 lo spirito libero
@@ -86198,7 +86195,7 @@ il suicidio guidato
 overwhelming; mind-blowing; stunning
 stravolgente
 
-upsetting; disturbing
+upsetting; disturbing; troubling
 turbante; disturbante; sconvolgente
 
 water from mussels
@@ -105876,3 +105873,38 @@ le informazioni di contatto
 almost not at all
 quasi per nulla
 
+shivering; chilled; numb with cold
+intirizzito
+
+to shiver; to numb with cold
+intirizzire
+
+am I allowed to (do something)?
+mi è permesso (fare qualcosa)?
+
+parking attendant  
+il parcheggiatore; la parcheggiatrice
+
+valet parking
+il parcheggio con addetto
+
+two of my uncles
+due miei zii
+
+hold on to the handrails or supports
+reggetevi ai sostegni
+
+to hold onto; to cling to
+reggersi a
+
+normalization of deviance
+la normalizzazione della devianza
+
+lightweight drinker
+il bere leggero
+
+to break even
+pareggiare i conti; raggiungere il pareggio
+
+claw
+la ciapa
