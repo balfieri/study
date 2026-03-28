@@ -36310,9 +36310,6 @@ il ritmo dell'innovazione
 wave of protests
 l'ondata di proteste
 
-protestor; demonstrator
-il manifestante; la manifestante
-
 to be burdened
 essere gravati; essere oppressi
 
@@ -104921,7 +104918,7 @@ un gran bella città
 turmeric
 la curcuma
 
-jolly; cheery
+jolly; cheery; merry
 gioviale; allegro
 
 depressive
@@ -105908,3 +105905,9 @@ pareggiare i conti; raggiungere il pareggio
 
 claw
 la ciapa
+
+the more, the merrier
+più siamo meglio è; allegro
+
+protestor; demonstrator
+il manifestante; la manifestante
