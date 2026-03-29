@@ -12620,3 +12620,7 @@ le bistrot
 
 everything is going well; all is well
 tout va bien
+
+I did not succeed in (doing something)
+je n'ai pas réussi à (faire quelque chose)
+
