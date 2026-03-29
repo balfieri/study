@@ -29680,7 +29680,7 @@ l'assistente
 Dutch
 olandese
 
-railroad (adjective); railway
+railroad (adjective); railway; rail
 ferroviario
 
 bomb
@@ -105914,4 +105914,10 @@ il manifestante; la manifestante
 
 for the foreseeable future
 per il prevedibile futuro
+
+enjoy your visit!
+buona visita!
+
+rail services; railway services
+i servizi ferroviari
 
