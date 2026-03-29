@@ -12198,3 +12198,7 @@ equidistant
 
 incompetent
 incompétent
+
+forearm
+l'avant-bras
+
