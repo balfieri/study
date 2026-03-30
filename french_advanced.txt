@@ -8155,9 +8155,6 @@ la menstruation; les règles
 gay man
 l'homme gay
 
-heterosexual
-hétérosexuel
-
 to brag
 se vanter; fanfaronner
 
@@ -10684,7 +10681,7 @@ le déco
 to tease; to kid; to haul
 charrier
 
-medication; medicine; drug
+medication; medicine; medicinal drug
 le médicament
 
 summer camp; colony; coloring
@@ -12202,3 +12199,47 @@ incompétent
 forearm
 l'avant-bras
 
+spare moment
+le moment de libre
+
+tote bag
+le sac fourre-tout
+
+sour cherry
+la griotte
+
+default position
+la position par défaut
+
+default
+par défault
+
+heterosexual; straight
+hétérosexuel
+
+crisis of confidence
+la crise de confiance
+
+to pay out-of-pocket
+payer de sa poche
+
+exempt
+exempt
+
+subjected to
+soumis à
+
+power user
+l'utilisateur avancé
+
+calendar entry
+l'entrée d'agenda
+
+convenience store
+le magasin de proximité
+
+by the time (you do something)
+d'ici le moment où (tu fais quelque chose)
+
+shaving
+le rasage
