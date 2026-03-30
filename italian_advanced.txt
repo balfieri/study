@@ -49462,7 +49462,7 @@ lo spillatore
 to tap (beer); to draft
 spillare
 
-default
+predefined; default
 predefinito
 
 default behavior
