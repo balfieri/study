@@ -105965,3 +105965,10 @@ entry il momento in cui (fai qualcosa)
 
 tramway
 la tramviaria
+
+back pocket
+la tasca posteriore
+
+front pocket
+la tasca anteriore
+

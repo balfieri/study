@@ -12243,3 +12243,13 @@ d'ici le moment où (tu fais quelque chose)
 
 shaving
 le rasage
+
+infusion
+l'infusion
+
+back pocket
+la poche arrière
+
+front pocket
+la poche avant
+

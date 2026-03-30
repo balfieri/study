@@ -1738,6 +1738,9 @@ vers
 toward some
 vers de
 
+back (adjective)
+arrière
+
 back; backward
 en arrière
 
@@ -2671,7 +2674,7 @@ de
 after
 après
 
-before
+before; front
 avant
 
 on; upon
