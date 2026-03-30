@@ -8097,3 +8097,7 @@ scegliere di (fare qualcosa)
 
 as (adjective) as (something)
 tanto (aggettivo) quanto (qualcosa)
+
+tomorrow morning
+domattina; domani mattina
+

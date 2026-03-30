@@ -9232,9 +9232,6 @@ l’indicatore del carburante
 plastic bag
 il sacchetto di plastica; la borsa di plastica
 
-tomorrow morning
-domattina
-
 totally agree
 d'accordissimo
 
@@ -49465,6 +49462,9 @@ lo spillatore
 to tap (beer); to draft
 spillare
 
+default
+predefinito
+
 default behavior
 il comportamento predefinito
 
@@ -86457,7 +86457,7 @@ to understand less
 capire di meno
 
 to pay out-of-pocket
-pagare di tasca propria
+pagare di tasca propria; pagare di tasca
 
 neither of those
 nessuna di quelle
@@ -105924,3 +105924,44 @@ i servizi ferroviari
 forearm
 l'avambraccio
 
+spare moment
+il momento libero
+
+shoulder strap
+la tracolla
+
+tote bag
+la borsa a tracolla
+
+default position
+la posizione predefinita
+
+straight (not gay)
+etero; eterosessuale
+
+crisis of confidence
+la crisi di fiducia
+
+drug (medicinal)
+il farmaco
+
+subjected to
+sottoposto a
+
+without SSN charges
+senza oneri ssn
+
+power user
+l'utente esperto
+
+convenience store
+il negozio di convenienza
+
+by the time you get to us
+entro il momento in cui arriverai da noi
+
+by the time (you do something)
+entry il momento in cui (fai qualcosa)
+
+tramway
+la tramviaria
