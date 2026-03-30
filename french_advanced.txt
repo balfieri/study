@@ -12253,3 +12253,9 @@ la poche arrière
 front pocket
 la poche avant
 
+daylight saving time
+l'heure d'été
+
+standard time
+l'heure normale
+
