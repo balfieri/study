@@ -12259,3 +12259,6 @@ l'heure d'été
 standard time
 l'heure normale
 
+to do some role play
+faire un peu de jeu de rôle
+
