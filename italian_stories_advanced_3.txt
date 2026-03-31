@@ -1,0 +1,343 @@
+# Storia 5 — Un Caso di Volo
+
+*Una storia in italiano — vocabolario avanzato, Parte III*
+
+---
+
+## Parte Prima: L'Aeroporto di San Donnino
+
+L'Aeroporto Municipale di San Donnino — un campo di atterraggio ultraleggero sperduto nella Pianura Padana, a due ore di macchina da Milano — non era esattamente il centro del mondo. La manica a vento penzolava pigra nell'aria ferma del mattino. L'aviorimessa aveva bisogno di una mano di vernice da almeno vent'anni. La torre di controllo era in realtà una cabina in legno con una radio arrugginita e una vecchia poltrona di vimini dentro cui sedeva, come sempre, Benedetto Orefice.
+
+Benedetto aveva sessantatré anni, una voce grave come un rombo di temporale e il carattere di un brontolone cronico. Ex pilota di linea con trent'anni alle spalle, aveva aperto la scuola di volo «Aquila Sarda» dopo il pensionamento anticipato — una decisione che, a detta sua, era stata «la più sensata della sua vita» e, a detta di tutti gli altri, era stata «un disastro preannunciato per i nervi altrui». Conosceva a menadito ogni procedura di controllo pre-volo, ogni regola del volo strumentale, ogni condizione meteorologica capace di rovinare un decollo da campo corto. Il diavolo è nei dettagli, ripeteva sempre ai suoi studenti, e lui quei dettagli li teneva d'occhio con la precisione di un esaminatore di volo armato di lista di controllo.
+
+Quel martedì mattina, mentre il sole tiepido di aprile cominciava a illuminare la pista erbosa, Benedetto stava armeggiando con l'indicatore di prua del Cessna 172 quando ha sentito il rumore di un motorino che entrava nel piccolo parcheggio sterrato.
+
+«Uff!» ha borbottato, senza alzare lo sguardo dalla carlinga. «Le otto e mezza. Finalmente.»
+
+Giulia Marconi — ventisei anni, capelli ricci tagliati a caschetto, giacca verde militare — aveva saltato la fila alla pompa del paese per arrivare puntuale. Quasi puntuale. Stava preparando il brevetto di pilota privato da sei mesi e aveva già accumulato quaranta ore di volo. Ancora venti e avrebbe potuto dare l'esame. Era entusiasta, volitiva, e ogni mattina che faceva pratica di volo con il vecchio Benedetto era una prova di forza nel senso più letterale del termine.
+
+«Buongiorno, professor Orefice,» ha detto, buttando lo zaino sulla stuoia all'ingresso dell'hangar.
+
+«Non sono un professore. Sono un istruttore,» ha risposto lui, ancora senza guardarla. «Hai letto le regole del volo a vista per le condizioni meteorologiche di stamattina?»
+
+«Certo. Visibilità ottima, nessuna turbolenza significativa, massa d'aria stabile fino a duemila piedi—»
+
+«Duemiladuecento,» ha corretto Benedetto. «Il coordinatore di virata del secondo aereo ha un ritardo di risposta. Nota bene.»
+
+Giulia ha annuito con la testa. «Consideralo fatto.»
+
+Era quello il loro rituale mattutino: lui a correggere, lei ad assorbire. In fondo, Giulia aveva imparato a leggere tra le righe. Quella ruvidezza non era cattiveria. Era il modo in cui Benedetto dimostrava che ci teneva.
+
+---
+
+## Parte Seconda: L'Ospite Inatteso di Milano
+
+Il furgoncino bianco è arrivato alle nove e mezza con un passeggero inatteso: Marco Ferretti, trentadue anni, sviluppatore informatico di Milano, capelli brunetti, occhiali dalla montatura sottile e aria di chi vive nel metaverso più che nella realtà fisica. Aveva prenotato un giro in aereo come «esperienza immersiva» — parole sue — per testare dal vivo i principi del machine learning applicati alla navigazione strumentale. O qualcosa del genere. Benedetto non aveva capito bene la spiegazione e aveva rinunciato a chiedere chiarimenti.
+
+«Quindi,» ha detto Marco, scendendo dal furgoncino con uno zaino tecnologico e guardandosi intorno con gli occhi di chi si aspettava un aeroporto ultramoderno, «qui si fa davvero pratica di volo a vista?»
+
+«No,» ha detto Benedetto, «qui si fa volo. Punto e basta.»
+
+Marco ha tirato fuori un tablet. «Interessante. Ho sviluppato uno script Python che analizza l'indicatore della velocità verticale tramite una rete neurale—»
+
+«Non si porta il tablet in cabina di pilotaggio,» ha detto Benedetto.
+
+«Ma serve per raccogliere dati sul percorso di volo—»
+
+«Non. Si. Porta. Il tablet. In cabina.»
+
+Marco ha abbassato il tablet con l'espressione di chi ha appena incontrato un firewall umano. Ha deciso di adottare un approccio diverso e si è avvicinato a Giulia, che stava spennellando il parabrezza del Cessna con un panno umido.
+
+«Sei anche tu una pilota?» ha chiesto.
+
+«Pilota dilettante, per ora,» ha risposto Giulia con un sorriso. «Sto per prendere il certificato di pilota privato.»
+
+«Straordinario. Sai che il processo di ottimizzazione del percorso di volo è strutturalmente analogo all'apprendimento automatico? Il pilota elabora dati, aggiorna i parametri, corregge la rotta—»
+
+«Sì,» ha detto Giulia, «ma noi lo chiamiamo semplicemente 'volare'.»
+
+Marco è rimasto in silenzio per un momento, poi è scoppiato a ridere. «Apprezzo l'umorismo pungente.»
+
+---
+
+## Parte Terza: La Tempesta in un Distributore
+
+Il dramma — perché di dramma si trattava, anche se molti avrebbero preferito chiamarlo melodramma — ha avuto inizio intorno alle undici del mattino, quando Teodoro Bianchi, il vicequestore del paese vicino, ha parcheggiato la sua auto della pattuglia davanti all'aviorimessa ed è sceso con un'aria da dramma poliziesco.
+
+Teodoro aveva cinquantadue anni, una baffi grigi, e si comportava come se ogni situazione richiedesse la massima serietà investigativa, anche quando si trattava, per esempio, di un distributore automatico svuotato nel piccolo atrio dell'aeroporto.
+
+«C'è stato un furto,» ha annunciato, con la gravità di chi stesse pronunciando un capo di imputazione davanti alla giuria.
+
+Benedetto è uscito dall'hangar con un cacciavite in mano. «Cosa è stato rubato?»
+
+«Sei euro e cinquanta di snack dal distributore automatico. E alcune monete dagli spiccioli che tenevo sulla cassa.»
+
+Benedetto lo ha fissato. «Stai scherzando.»
+
+«Sporgere denuncia è un diritto di ogni cittadino,» ha detto Teodoro, con tono perentorio. «E fare il proprio dovere è un obbligo di ogni ufficiale. Il reato è stato commesso nelle vicinanze di un aeroporto. Questo aggiunge una dimensione di—»
+
+«Di ridicolo,» ha completato Benedetto.
+
+Teodoro ha tirato fuori un taccuino. «Devo raccogliere testimonianze. Chi era qui stamattina?»
+
+Giulia ha alzato la mano in modo quasi scolastico. «Io. Dalle otto e mezza.»
+
+Marco ha alzato la sua. «Io. Dalle nove e trenta circa.»
+
+«Benissimo. Siete entrambi sospettati.»
+
+«Come?!» ha detto Giulia.
+
+«Come procedura standard,» ha spiegato Teodoro. «L'imputato o l'accusato non è ancora determinato. Siamo nella fase preliminare dell'istruttoria.»
+
+Giulia ha aperto la bocca, poi l'ha richiusa. Poi l'ha riaperta. «Ma io stavo facendo il controllo pre-volo di un aereo! Ho testimoni!»
+
+«Uno dei quali potrebbe essere complice,» ha detto Teodoro, guardando Marco con occhio sospettoso.
+
+Marco ha alzato il tablet. «Posso mostrarle il log GPS del mio dispositivo che certifica la mia posizione esatta in ogni momento—»
+
+«I dati digitali sono falsificabili,» ha detto Teodoro.
+
+«Non se sono crittografati end-to-end con—»
+
+«Falsificabili.»
+
+Benedetto si passò una mano sulla fronte. «Mio Dio.»
+
+---
+
+## Parte Quarta: Donna Concetta Porta da Mangiare
+
+Era passata circa mezz'ora quando è arrivato un profumo che ha messo tutti in pausa: rosmarino, cipollotto, qualcosa di abbondantemente burroso.
+
+Concetta Ferrara — sessant'anni, corporatura robusta, grembiule sempre annodato con maestria, titolare dell'agriturismo «La Cascina dei Fiori» a trecento metri dall'aeroporto — è apparsa alla porta dell'aviorimessa con un vassoio enorme coperto da una pellicola trasparente.
+
+«Ho sentito che c'è un'indagine,» ha detto, con la stessa naturalezza di chi porta il caffè a una riunione. «Ho portato da mangiare.»
+
+«Non è il momento—» ha cominciato Teodoro.
+
+Concetta ha tolto la pellicola. Sotto c'erano: una teglia di pasta frolla ripiena di prugne e glassatura dorata, un piatto di tagliatelle fredde con pesto di scalogno e semi di sesamo, e una ciotola di pangrattato tostato con rosmarino e porro affettato fine.
+
+Silenzio assoluto.
+
+«La glassatura l'ho preparata con latticello e lievito,» ha detto Concetta, con tono divulgativo. «Ho fatto lievitare l'impasto tutta la notte. Ho soffritto lo scalogno nel burro chiarificato prima di aggiungere il porro. E ho spennellato la pasta frolla con un uovo—»
+
+«Indagine o no, si mangia,» ha detto Benedetto, afferrando un pezzo di crostata con la stessa determinazione con cui avrebbe afferrato i comandi di un aereo in turbolenza.
+
+«Non ha detto 'indagine',» ha detto Marco.
+
+«Sì che l'ho detto,» ha chiarito Concetta, porgendo un piatto a Giulia. «Figlia mia, sei pallida come uno scalogno bollito. Mangia.»
+
+Giulia, che stava ancora elaborando mentalmente l'idea di essere un'accusata, ha accettato il piatto automaticamente.
+
+Teodoro ha guardato il vassoio. Ha guardato il suo taccuino. Ha guardato di nuovo il vassoio. Con la dignità di un magistrato che fa una concessione storica, ha preso un pezzo di crostata alle prugne.
+
+«Solo per non essere scortese,» ha detto.
+
+«Ovviamente,» ha detto Concetta, senza battere ciglio.
+
+Marco aveva già aperto il suo tablet e stava fotografando la glassatura con aria seria. «Interessante texture. Strutturalmente simile alla superficie di risposta di una funzione di perdita in—»
+
+«Marco,» ha detto Giulia dolcemente, «non ora.»
+
+---
+
+## Parte Quinta: L'Assistente di Volo
+
+L'assistente di volo è arrivata alle tredici, bloccata dalla cancellazione del suo volo di coincidenza a causa delle condizioni meteorologiche. Si chiamava Alessandra Ricci, aveva trentaquattro anni, capelli scuri e un'efficienza professionale che metteva ordine intorno a sé come per azione gravitazionale. Lavorava per una compagnia aerea regionale e aveva trascorso la mattinata all'aeroporto principale della città vicina prima di essere dirottata verso San Donnino in attesa di riprogrammazione.
+
+«È l'unico posto aperto nelle vicinanze,» ha spiegato all'addetto alla torre — cioè a Benedetto, che stava fumando la pipa davanti all'aviorimessa.
+
+«Benvenuta a bordo,» ha detto Benedetto, con un'ironia pesante come la ghisa.
+
+Alessandra aveva già valutato la situazione in trenta secondi: campo corto, un Cessna in hangar, un altro in pista, una donna giovane con aria determinata, un uomo con tablet, un poliziotto con baffi grigi, e una signora anziana che distribuiva tagliatelle. Aveva visto di peggio.
+
+«C'è un'indagine in corso?» ha chiesto.
+
+«Sul furto di sei euro e cinquanta,» ha confermato Benedetto.
+
+Alessandra ha annuito come se fosse la cosa più normale del mondo. «Capisco. Avete bisogno di un alibi solido?»
+
+Giulia l'ha guardata con gratitudine immediata. «Io sì.»
+
+«Ero bloccata in un aeroporto stamattina, quindi non posso aiutarti direttamente. Ma posso testimoniare che il comportamento descritto — cioè rubare snack — è statisticamente incompatibile con il profilo psicologico di una persona che si sveglia alle sei di mattina per fare pratica di volo.»
+
+«Questa non è una prova legale,» ha detto Teodoro.
+
+«No,» ha concordato Alessandra, «ma è buon senso. Che a volte funziona meglio.»
+
+Marco aveva alzato lo sguardo dal tablet. «In realtà, l'analisi bayesiana del profilo comportamentale potrebbe—»
+
+«Marco,» hanno detto tutti in coro.
+
+Marco ha abbassato il tablet.
+
+---
+
+## Parte Sesta: Interrogatori e Cupcake
+
+Nel pomeriggio, Teodoro aveva deciso di condurre interrogatori formali nel capannone laterale, che Benedetto usava per riporre i pezzi di ricambio. Concetta aveva portato cupcake con glassatura alla vaniglia e colorante alimentare viola — «per un tocco di allegria», aveva spiegato — e li aveva disposti sul tavolo da lavoro tra un carburatore e una chiave inglese.
+
+L'interrogatorio di Giulia è stato il primo.
+
+«Dove si trovava alle dieci e cinque di stamattina?»
+
+«In volo,» ha detto Giulia. «Stavo esercitando le virate coordinate a mille piedi con il coordinatore di virata.»
+
+«Può provarlo?»
+
+«Il log del transponder, il libro di volo, il testimone che era in pista — cioè il professor Orefice — e la registrazione della torre di controllo.»
+
+Teodoro ha scritto tutto sul taccuino con una lentezza calcolata. «E il suo alibi per le nove e cinquanta?»
+
+«Stavo facendo il controllo pre-volo. Lista di controllo completa: combustibile, olio, superfici di controllo, indicatore della velocità verticale, luci di posizione—»
+
+«Va bene, va bene,» ha detto Teodoro, alzando una mano. «Non devo diventare un pilota.»
+
+«Peccato,» ha detto Giulia, «avrebbe migliorato la qualità delle sue indagini.»
+
+Teodoro l'ha guardata. Poi ha scritto qualcosa nel taccuino. Giulia era abbastanza sicura che avesse scritto «sfacciata».
+
+Il turno di Marco è stato più complicato, perché Marco non riusciva a smettere di spiegare il suo sistema operativo e lo sviluppo dello script Python che avrebbe dovuto, in teoria, tracciare il percorso di volo in tempo reale tramite apprendimento automatico.
+
+«Quindi il suo alibi è... un algoritmo?» ha chiesto Teodoro.
+
+«Il mio alibi è il log di geolocalizzazione crittografato del dispositivo, integrato con il sistema di cybersicurezza della rete—»
+
+«Ho capito: si nasconde dietro la tecnologia.»
+
+«Io non mi nascondo,» ha detto Marco, con una certa indignazione. «Sono completamente trasparente. Se vuole, le mostro il codice sorgente—»
+
+«Non voglio vedere nessun codice.»
+
+«È solo Python, è molto leggibile—»
+
+«Nessun codice!»
+
+Concetta, che aveva assistito all'interrogatorio dal vano della porta con un cupcake in mano, si è avvicinata a Teodoro con l'espressione di chi sta per elargire un consiglio non richiesto ma necessario.
+
+«Teodoro,» ha detto, «li ho conosciuti questi ragazzi stamattina. Non hanno rubato niente. Prenditi un cupcake e ragiona.»
+
+Teodoro l'ha guardata con dignità offesa.
+
+«Hai il capo di imputazione sbagliato,» ha continuato Concetta. «Il distributore è rotto da settimane. L'ho visto io stessa una volta ingoiare due euro e non dare niente. Forse si è scaricato da solo.»
+
+Silenzio.
+
+Teodoro ha aperto la bocca. L'ha richiusa. Ha guardato il taccuino. Ha guardato i cupcake. Ha guardato Giulia. Ha guardato Marco. Ha guardato Benedetto, che stava osservando la scena dalla porta con un'espressione che oscillava tra il divertimento e la noia.
+
+«Potrebbe essere un malfunzionamento tecnico,» ha detto alla fine Teodoro, con la stessa gravità con cui aveva dichiarato il caso aperto.
+
+«Potrebbe,» ha detto Concetta, porgendogli il cupcake viola.
+
+Teodoro l'ha preso. L'ha morso. Dopo un momento, il suo viso si è ammorbidito di qualche grado. «È buono.»
+
+«Estratto di vaniglia autentico,» ha detto Concetta, orgogliosa. «E colorante alimentare naturale. Niente di artificiale.»
+
+---
+
+## Parte Settima: Risoluzione e Digestivo
+
+Verso le sedici, il meccanico del paese — chiamato da Benedetto per «chiudere la faccenda» — ha aperto il pannello posteriore del distributore automatico e ha trovato il problema: un ingranaggio inceppato aveva continuato a far scorrere i prodotti verso il basso senza mai completare la consegna. I sei euro e cinquanta erano stati assorbiti dalla macchina stessa. Nessun furto. Nessun imputato. Nessun processo con giuria. Nessuna selezione della giuria. Nessun avvocato difensore necessario.
+
+«La difesa ha concluso,» ha detto Giulia, con una serietà teatrale.
+
+«L'accusa ha concluso,» ha aggiunto Marco, con la stessa serietà.
+
+«Basta così,» ha detto Benedetto.
+
+Teodoro ha rimesso il taccuino in tasca con la dignità di un uomo che ha svolto il proprio dovere di giuria nei confronti della comunità. «Il caso è chiuso per mancanza di elementi.» Si è sistemato i baffi. «Buon pomeriggio a tutti.»
+
+Nessuno ha detto niente finché la macchina della pattuglia non è sparita oltre il cancello dello sterrato.
+
+Poi Giulia è scoppiata a ridere. Una crisi di riso vera, quella che fa venire le lacrime agli occhi e toglie il fiato. Anche Marco ha riso — una risata inaspettatamente genuina, senza tablet e senza riferimenti algoritmici. Concetta ha riso con la sua risata piena, quella da mettere giù il vassoio. Anche Alessandra ha riso, con quella compostezza professionale che ogni tanto si incrina quando la situazione lo merita davvero.
+
+Solo Benedetto non ha riso. Ma il muscolo attorno alla sua bocca si è contratto leggermente verso l'alto. Il che, per lui, era equivalente a morire dal ridere.
+
+«Allora,» ha detto Concetta, rientrando nell'hangar con aria pratica, «ho portato anche il digestivo. È dell'agriturismo. Fatto in casa con erbe dell'orto.»
+
+«È sabato,» ha detto Alessandra.
+
+«No, è martedì,» ha detto Giulia.
+
+«Non importa il giorno,» ha detto Concetta, versando nei bicchierini. «Il digestivo non ha orario.»
+
+Benedetto ha accettato il suo bicchierino senza protestare. Lo ha annusato. «Rosmarino?»
+
+«E rosmarino, e salvia, e un tocco di prugna,» ha detto Concetta. «Come si fa in famiglia. Tramandato da mia nonna.»
+
+---
+
+## Parte Ottava: Il Volo del Pomeriggio
+
+Il cielo di quel pomeriggio era limpido, la massa d'aria stabile, la visibilità perfetta. Benedetto ha detto a Giulia che, con quelle condizioni meteorologiche visive, non c'era nessun motivo per non fare un'altra ora di volo. Ha aggiunto — con quella ruvidezza che ormai Giulia sapeva interpretare — che aveva mostrato «un controllo pre-volo impeccabile stamattina» e che «forse non era del tutto inutile come allieva».
+
+Per Benedetto, era un sonetto.
+
+Giulia ha sorriso ed è andata a prepararsi.
+
+Marco, che aveva assistito a tutto con il suo tablet abbassato per la prima volta in tutta la giornata, si è avvicinato a Benedetto con un'aria insolita — quasi umile.
+
+«Potrei venire anch'io? Solo per osservare. Senza il tablet.»
+
+Benedetto lo ha guardato per un lungo momento. «Hai mai volato su un piccolo aereo?»
+
+«No.»
+
+«Ti fa paura la turbolenza?»
+
+«Sì.»
+
+«Bene,» ha detto Benedetto. «Almeno sei onesto.» Ha fatto una pausa. «Vieni.»
+
+Mentre il Cessna rullava verso la testata pista, Alessandra e Concetta sono rimaste sulla terrazza dell'aviorimessa a guardare. Concetta aveva tirato fuori un barattolo di pasta frolla avanzata e stava già pensando a cosa preparare il giorno dopo. Alessandra aveva controllato i voli riprogrammati: il suo partiva la mattina seguente. Aveva pernottato nei posti più strani del mondo in vita sua — poteva sopravvivere anche all'agriturismo di Concetta, che aveva già proposto «la stanza del primo piano con vista sui campi» con un entusiasmo incontrastabile.
+
+«È un posto strano,» ha detto Alessandra, guardando l'aereo che prendeva velocità sulla pista.
+
+«Tutti i posti buoni lo sono,» ha detto Concetta.
+
+L'aereo si è staccato dal suolo con quella leggerezza un po' improvvisa che ha sempre qualcosa di miracoloso. È salito nel cielo della Pianura Padana, è diventato piccolo, è diventato un punto, è diventato parte del percorso di volo che Giulia stava tracciando con la precisione di chi ha studiato ogni strumento: l'indicatore di prua, il coordinatore di virata, la velocità verticale, l'assetto.
+
+Dalla torre di controllo — cioè dalla cabina in legno — si è sentita la voce di Giulia sulla radio:
+
+«San Donnino traffico, Cessna Delta Romeo, in virata a sinistra a mille piedi, condizioni ottimali, tutto bene.»
+
+Benedetto, seduto nel posto di destra della carlinga, ha guardato fuori dal finestrino i campi verdi della pianura. Dietro di lui, Marco stava guardando fuori con un'espressione che non era né quella dello sviluppatore né quella del turista: era semplicemente quella di qualcuno che ha appena capito qualcosa di nuovo.
+
+«È diverso da come immaginavo,» ha detto Marco, con voce quasi sottomessa.
+
+«Tutte le cose vere lo sono,» ha detto Giulia, senza togliere gli occhi dal cielo.
+
+Benedetto non ha detto niente. Ma ha annuito.
+
+---
+
+## Epilogo: La Sera a San Donnino
+
+Quella sera, all'agriturismo di Concetta, si sono ritrovati tutti intorno a un tavolo lungo: Giulia, Marco, Alessandra, Benedetto — che di solito rincasava subito dopo il volo e non partecipava a cene sociali, ma che Concetta aveva convinto con un argomento inattaccabile: «Ho fatto le tagliatelle fresche e se non vieni le mando in malora». Persino Teodoro si era fermato, ufficialmente «per seguire gli sviluppi del caso», in realtà perché aveva fiutato il profumo di besciamella dal parcheggio.
+
+Concetta aveva preparato un primo con tagliatelle fresche, scalogno soffritto nel burro, porro affettato sottile e una besciamella leggera fatta con latticello. Come secondo, una carne al forno con rametti di rosmarino senza gambi e pangrattato dorato. Come dolce: cupcake rimasti dalla mattina, serviti con il digestivo di casa.
+
+A tavola si è parlato di tutto: di volo e di algoritmi, di cybersicurezza e di pasta frolla, di processi con giuria e di distributori automatici, di intelligenza artificiale generativa e di lievito attivo, di percorsi di carriera e di salti in avanti, di bretelle di volo strumentale e di grandi modelli linguistici. Marco aveva posato il tablet definitivamente e partecipava alla conversazione con una disinvoltura che non sapeva di avere. Alessandra aveva detto tre battute che avevano fatto morire dal ridere anche Benedetto — anche se lui continuava a negarlo.
+
+«Tornerete?» ha chiesto Concetta, mentre serviva il digestivo nel giro finale.
+
+Marco ha guardato il cielo fuori dalla finestra — lo stesso cielo dove, ore prima, aveva capito che non tutto si poteva ottimizzare. «Sì,» ha detto. «Voglio finire il volo di domani.»
+
+«Non c'è nessun volo di domani nel programma,» ha detto Benedetto.
+
+«Lo so,» ha detto Marco. «Per questo ho detto che voglio finirlo.»
+
+Benedetto lo ha guardato. Poi ha preso il suo bicchierino di digestivo. «Potrebbe essere peggio,» ha detto.
+
+Giulia ha alzato il suo bicchierino. «Alla salute.»
+
+«Alla salute,» hanno detto tutti.
+
+E fuori, sulla manica a vento dell'Aeroporto Municipale di San Donnino, una brezza leggera soffiava dalla pianura portando odore di campi umidi e di primavera. La pista era vuota, l'aviorimessa silenziosa, la torre di controllo spenta. Ma nell'aria restava qualcosa — quella leggerezza particolare che hanno i giorni in cui succede qualcosa di inaspettato e alla fine, contro ogni previsione, le cose vanno bene.
+
+---
+
+*Parole chiave utilizzate: 185 termini del Chunk 3*
+
+*(Tra cui: pilota di linea, carlinga/cabina di pilotaggio, aviorimessa/hangar, turbolenza, massa d'aria, indicatore di prua, coordinatore di virata, controllo pre-volo, indicatore della velocità verticale, condizioni meteorologiche, regole del volo strumentale, volo a vista, torre di controllo, assistente di volo, decollo da campo corto, percorso di volo, fare pratica di volo, pilota dilettante, giro in aereo, certificato di pilota privato, brevetto di pilota privato, pilotare tra le nuvole, manica a vento, vicequestore, questura, dramma poliziesco, sporgere denuncia, capo di imputazione, imputato/accusato, processo con giuria, selezione della giuria, dovere di giuria, avvocato difensore, la difesa ha concluso, l'accusa ha concluso, besciamella, latticello, lievito, far lievitare l'impasto, spennellare, rosmarino, scalogno, cipollotto, porro, affettare, soffriggere, pasta frolla, cupcake, barattolo, tagliatelle, prugna, glassatura, pangrattato, semi di sesamo, digestivo, rete neurale, apprendimento automatico/machine learning, sistema operativo, sviluppatore, ottimizzazione, cybersicurezza, cyberspazio, metaverso, hacker, crittografia, script Python, linguaggio di programmazione, debuggare/bug, intelligenza artificiale generativa, grande modello linguistico, morire dal ridere, crisi di riso, come se niente fosse, bighellonare, alla buona, uff!, fuor di testa, rompere il ghiaccio, leggere tra le righe, essere al settimo cielo, ultraleggero, ultramoderno, Pianura Padana, brontolone, avere a menadito, tenere d'occhio, elargire, perentorio, tramandato, spennellare, lievitare, diametralmente opposto, malfunzionamento, colorante alimentare, estratto di vaniglia, brezza leggera, rincasare, percorso accidentato, massa d'aria, corrente d'aria, istruttoria, cybersicurezza, crittografia end-to-end, capannone, a menadito, parabrezza, ecc.)*

@@ -1,0 +1,315 @@
+# Il Campo di Bocce di Via Rossini
+
+## Parte Prima: I Vicini del Sabato
+
+Il campo di bocce di Via Rossini era uno dei pochi angoli del centro città rimasti intatti dopo gli anni della burocratizzazione selvaggia che aveva trasformato ogni spazio verde in un parcheggio o in un supermercato. Era un rettangolo di terra battuta, circondato da cipressi alti e dritti come sentinelle silenziose, e ombreggiato da una magnolia enorme che in primavera profumava di qualcosa di indescrivibile. Lì si ritrovavano ogni sabato mattina cinque persone che non avrebbero potuto essere più diverse l'una dall'altra, e tuttavia erano molto unite da anni di partite, discussioni animate e caffè condivisi dal bricco di ceramica che Suor Agata portava sempre da casa sua.
+
+Suor Agata aveva ottantadue anni, una corporatura minuta, i baffoni — come lei stessa li chiamava ridendo — cioè due sopracciglia folte e grigie che sembravano voler volare via dal suo viso. Aveva lasciato il convento vent'anni prima, dopo una lunga vita come frate cappuccina, e adesso viveva in un appartamentino al piano terra con un gatto di nome Lombrico. Aveva indossato il saio per decenni, ma ora preferiva una lunga nera veste che, diceva, era «praticamente la stessa cosa, solo senza le obbligazioni».
+
+Rossana aveva quarantasette anni ed era nutrizionista. Aveva uno studio in centro e un abbonamento alla palestra che, ammetteva onestamente, usava più per fare le trazioni alla barra per trazioni che per le lezioni di aerobica, nelle quali si sentiva stonata nel senso del ritmo corporeo. Era alta, energica, con i capelli crespi raccolti in un'enorme coda, e aveva il pallino di correggere le abitudini alimentari di chiunque si avvicinasse a meno di tre metri da lei.
+
+Fausto aveva cinquantacinque anni e gestiva un piccolo laboratorio di riparazione moto nel quartiere povero appena fuori dal centro. Era un uomo di poche parole, stempiato, con le mani sempre macchiate di grasso anche il sabato mattina, perché — come spiegava — «il grasso del motore non riconosce i giorni festivi». Aveva il pallino delle Vespe d'epoca, e in quel periodo stava lavorando a un progetto che lo teneva sveglio la notte: il rimontaggio completo di una Vespa d'epoca degli anni Sessanta che un cliente gli aveva portato in condizioni originali ma con una perdita di olio preoccupante e un rischio di grippatura imminente.
+
+Ornella aveva cinquantuno anni ed era agente immobiliare. Conosceva a fondo il mercato locale, sapeva a colpo d'occhio quanto valesse un appartamento, e aveva l'asso nella manica di riuscire a far sembrare desiderabile qualsiasi proprietà, anche quelle che — come diceva Fausto sottovoce — «cadevano a pezzi». Ornella era anche golfista appassionata, e aveva una Vespa Primavera S 150 del 2023 con cui girava per le strade del paese ogni domenica mattina.
+
+Davide aveva trentadue anni ed era sviluppatore software. Fino a tre settimane prima lavorava per una start-up che si occupava di intelligenza artificiale e gemelli digitali, ma poi le cose avevano iniziato a rompersi dopo aver compiuto il suo terzo anno in azienda — un periodo di riassestamento interno aveva portato a una serie di licenziamenti, e lui si era ritrovato senza lavoro. Era magro, con la lingua che sembrava sempre un po' a penzoloni quando era concentrato, e aveva la cattiva abitudine di mordere lo spillo che teneva tra le labbra mentre pensava.
+
+---
+
+Quel sabato mattina di ottobre — a stretto giro dopo la Festa della Liberazione primaverile, poi l'estate del Ferragosto torrido, poi la Festa della Repubblica già lontana nel ricordo — l'aria aveva la freschezza tipica della stagione. Suor Agata aveva portato il bricco pieno di caffè bollente e una crostata di mele che aveva fatto con la sua ricetta frugale: poca mollica, poca crosta, tanto sapore. Rossana aveva portato dei prodotti agricoli freschi dal mercato del quartiere — cavolfiore, rosette di radicchio — e li aveva disposti in un recipiente di terracotta come se stesse allestendo un'esposizione.
+
+«Per l'ennesima volta,» ha detto Fausto, guardando il cavolfiore con aria spazientita, «non riesco a capire come tu possa portare verdure crude a una partita di bocce.»
+
+«Per l'ennesima volta,» ha risposto Rossana con calma, «il colesterolo alto non si risolve mangiando cibo spazzatura. Il tuo limite superiore di glucosio era già sopra la gamma normale l'ultima volta che l'hai controllato.»
+
+«Non ricordo di avertelo detto,» ha brontolato Fausto.
+
+«Me l'ha detto tua moglie.»
+
+Fausto ha aperto la bocca, poi l'ha richiusa. Suor Agata si è girata verso la sua amica e ha detto sottovoce: «So cosa stai pensando, Rossana, ma forse oggi lasciamolo godere la crostata.»
+
+Davide era seduto su una panchina ai margini del campo, con il laptop sulle ginocchia. Aveva l'aria abbattuta di chi sa di dover essere presente ma non riesce a staccarsi da un problema. Stava cercando di reinstallare un motore grafico che aveva smesso di funzionare sul suo disk esterno, mentre il router di casa — lo aveva portato anche quello, con un cavo che usciva dalla borsa come una canna del fiume — sembrava avere una connessione instabile.
+
+«Davide,» ha detto Ornella, «mettilo in coda per dopo. Oggi si gioca.»
+
+«Sto solo cercando di renderizzare un file,» ha detto lui senza alzare gli occhi. «Il problema è che il connettore di alimentazione del dissipatore ha ceduto e ora il sistema va in crash ogni volta che faccio multitasking pesante. Probabilmente è obsolescenza programmata.»
+
+«Tanto rumore per nulla,» ha detto Suor Agata con dolcezza. «Hai mai provato a esistere senza lo schermo, figliolo?»
+
+Davide ha alzato gli occhi e l'ha guardata. Poi ha sorriso, quasi suo malgrado. «No, Suor Agata. Ma ci provo.»
+
+---
+
+## Parte Seconda: La Vespa di Fausto
+
+Mentre Ornella e Rossana iniziavano la prima partita — Ornella oscillava la sua palla di bocce con la stessa concentrazione con cui, nel fine settimana precedente, aveva oscillato una mazza da golf cercando di non mancare un putt sul green — Fausto ha tirato fuori dalla borsa un foglio pieno di appunti scritti a mano e ha cominciato a spiegare a Davide i dettagli del suo progetto.
+
+«Allora,» ha detto mettendo nero su bianco i punti principali su un taccuino, «il problema principale della Vespa d'epoca non è il carburatore, che ho già revisionato. Non è nemmeno la marmitta, che ho sostituito. Il problema è qui.» Ha indicato uno schizzo grezzo. «Il cuscinetto a rullo della mozza posteriore è consumato. Questo provoca una microvi­brazione che, a lungo andare, ha causato la perdita di olio nel motore ricostruito.»
+
+«E come lo risolvi?» ha chiesto Davide, genuinamente curioso.
+
+«Prima di tutto, smonto il manicotto del cambio a bacchetta. Poi controllo il dentino della forcella, che secondo me è piegato. E poi — la parte più delicata — devo estrarre lo spillo a molla senza grippare il meccanismo. Se si grippasse, sarebbe un macello.»
+
+«Grippatura totale?»
+
+«Totale. Il motore diventerebbe un fermacarte da cinquecento euro.»
+
+Ornella aveva sentito l'ultima parte. «Fausto,» ha detto lanciando la sua palla di bocces con precisione militare, «ho un cliente che vuole ipotecare la sua proprietà per comprare proprio una Vespa d'epoca. Gli ho detto che è bizzarro, ma lui insiste. Ha già ottenuto un prestito dalla banca e vuole mettere a garanzia l'appartamento.»
+
+«Su un capriccio?» ha detto Fausto scuotendo la testa.
+
+«Su un capriccio totale. Il canone di locazione della sua casa non copre nemmeno gli interessi del prestito. Ho paura che finisca in pignoramento.»
+
+«Bella storia,» ha detto Suor Agata versando il caffè nelle tazze. «A volte le persone devono imparare a venire a patti con la realtà.»
+
+«Il problema,» ha detto Ornella, «è che non vuole sentire ragioni. Ha il dente avvelenato con il suo locatore precedente — una storia di deposito cauzionale non restituito — e adesso vuole comprare casa a tutti i costi. Ho spiegato che la cedolare secca avrebbe reso più conveniente l'affitto, ma lui non vuole saperne.»
+
+«E le plusvalenze?» ha chiesto Rossana, che aveva sentito parlare di immobili e si era avvicinata.
+
+«Se compra adesso e vende tra cinque anni, dovrà pagare l'imposta sulle plusvalenze. Glielo ho spiegato. Non mi ha ascoltato. Ho paura che la legge di bilancio di quest'anno peggiori ulteriormente la situazione per chi compra con mutuo ad alto rischio.»
+
+Suor Agata ha detto con la sua voce tranquilla: «Fai quello che ti sembra giusto, Ornella. Hai dato le informazioni. Il resto è suo.»
+
+---
+
+## Parte Terza: Il Malessere di Davide
+
+Dopo la prima partita — che Ornella ha vinto con un putt perfetto, mettendo in buca la sua palla di bocce nell'ultima giocata — il gruppo si è riunito attorno al tavolo di pietra sotto la magnolia. Rossana ha cominciato a travasare il cavolfiore in piccole ciotole. Fausto ha ignorato il cavolfiore con eleganza olimpica.
+
+Davide aveva finalmente chiuso il laptop. Si mordeva le unghie, una vecchia abitudine che dimostrava il suo stato d'ansia.
+
+«Allora,» ha detto Ornella guardandolo, «cosa c'è di nuovo nella tua vita? E non mi dire "tutto bene" perché hai l'aria di uno che ha dormito sul materasso sbagliato.»
+
+«Ho il disturbo d'ansia,» ha detto Davide in modo diretto. «O almeno, così dice il mio terapista. Ho anche un po' di insonnia. E un malessere esistenziale generale.»
+
+«Quanti anni hai?» ha detto Suor Agata.
+
+«Trentadue.»
+
+«Beh. Io ho iniziato ad avere malessere esistenziale a quaranta. Sei in anticipo.» Ha detto questo con tale serietà che tutti hanno riso.
+
+«Il problema,» ha continuato Davide, «è la dissonanza cognitiva. Sai che l'intelligenza artificiale sostituirà molti lavori — il mio terapista chiama questa cosa lutto ecologico digitale, una specie di solastalgia per il mondo del lavoro che conoscevamo. Però poi continui a lavorare nello stesso campo perché è l'unica cosa che sai fare. È dissonanza pura.»
+
+«Hai un gruppo di sostegno?» ha chiesto Rossana con tono professionale.
+
+«Il mio terapista mi ha suggerito di unirmi a uno. Ma ho resistito per mesi.»
+
+«Prendere il toro per le corna,» ha detto Ornella. «A lungo andare è l'unico modo.»
+
+«Lo so. Allo stremo delle forze, ho finalmente chiamato. La settimana prossima inizio.»
+
+Suor Agata ha appoggiato una mano piccola e rugosa sul braccio di Davide. «Non ci resta che piangere, oppure si fa qualcosa. Tu hai scelto di fare qualcosa. Bene.»
+
+Davide l'ha guardata con gratitudine. «Mi riporta alla mia infanzia,» ha detto piano, «quando mia nonna diceva cose così.»
+
+---
+
+## Parte Quarta: In Giro per l'Italia e per il Mondo
+
+Rossana aveva una storia da raccontare. Era tornata da poco da un viaggio di lavoro — un convegno sulla ecosostenibilità e la decarbonizzazione tenutosi a Milano — e aveva ancora la testa piena di dati e riflessioni.
+
+«Sai cosa mi ha colpito di più?» ha detto mordendo un pezzo di cavolfiore con l'entusiasmo di chi trova davvero buono il cavolfiore. «Il relatore principale ha parlato di biocarburanti, di bioraffinerie, di biorivestimenti per le strutture agricole. Ha mostrato immagini di zone desertiche che stanno diventando ancora più desertiche per la desertificazione. Ha detto che in alcune aree dell'Africa — come la Costa d'Avorio e il Madagascar — l'anidride carbonica ha raggiunto livelli calamitosi. E tutto questo mentre in Ucraina e in Bulgaria i raccolti stanno soffrendo per le condizioni atmosferiche estreme.»
+
+«Fenomeni come il microburst,» ha detto Davide, rientrando nella conversazione con l'interesse del tecnico. «O la supercella. O il downburst. Ho letto che in Slovenia e in Croazia quest'anno ci sono state grandinata dopo grandinata, nubifragio dopo nubifragio. Il lutto ambientale è reale — le comunità perdono la loro flora e la loro fauna locale.»
+
+«E la tromba d'aria in Repubblica Ceca il mese scorso,» aggiunse Ornella. «Ne ha parlato anche il telegiornale. Una mareggiata spaventosa sul Mar Adriatico, e venti che soffiavano via tutto lungo la costa.»
+
+«La calura estiva di quest'anno era insostenibile,» ha detto Fausto. «Lavorare in officina con quarantadue gradi è uno strazio. Ho messo un riscaldatore di spazio esterno rovesciato — cioè un ventilatore industriale — ma non bastava.»
+
+«In Finlandia,» ha detto Rossana, «le temperature sono ancora fredde, ma anche lì il cambiamento si sente. Ho un'amica che vive vicino al Mar Nero e mi dice che la fauna marina è cambiata completamente negli ultimi dieci anni. E in Estremo Oriente — Giappone, Corea — il lutto ecologico è un tema di discussione pubblica quotidiana.»
+
+«Ho visto l'aurora boreale una volta,» ha detto Suor Agata con un sorriso sognante. «Ero giovane, in un viaggio in Finlandia con il convento. Lussureggiante, la chiamerei. Il cielo era lussureggiante di colori. Non ho più visto niente di simile.»
+
+Ci fu un momento di silenzio rispettoso.
+
+«Ecco perché sono qui,» ha detto Davide poi, quasi a sé stesso. «Voglio lavorare su tecnologie che aiutino — archiviazione cloud per i dati climatici, gemelli digitali degli ecosistemi, intelligenza artificiale per la previsione dei fenomeni atmosferici. Non voglio perdere tempo. L'orologio biologico del pianeta sta ticchettando.»
+
+---
+
+## Parte Quinta: Ornella e il Golf
+
+Ornella aveva un progetto nel cassetto da settimane e aveva deciso che era arrivato il momento di proporlo al gruppo.
+
+«Sentite,» ha detto raccogliendo la sua palla di bocces dalla terra battuta e asciugandola con uno straccio, «ho prenotato un campo da golf a mezz'ora da qui per il prossimo fine settimana. Voglio che veniate tutti.»
+
+«Io non so giocare a golf,» ha detto Davide.
+
+«Nemmeno io,» ha detto Fausto.
+
+«Imparerete. Ho portato l'attrezzatura per l'esercizio — vi insegno io come oscillare una mazza da golf. Davide, tu sei coordinato. Fausto, tu hai forza nelle braccia. E tu, Rossana, hai già il senso dell'equilibrio dalla barra per trazioni.»
+
+«E io?» ha detto Suor Agata.
+
+«Tu stai sulla terrazza con il caffè e il cronometro a vedere chi fa prima il giro.»
+
+Suor Agata ha alzato le sopracciglia folte. «Allora sono la giudice. Mi piace.»
+
+«Ho anche controllato,» ha continuato Ornella, aprendo il suo telefono per mostrare le informazioni, «che il campo ha un'area per il badminton e il volano per chi non vuole fare golf. E un campo di bocce di riserva, nel caso in cui qualcuno — non faccio nomi — si senta troppo vecchio per imparare cose nuove.»
+
+«Figuraccia,» ha detto Fausto sorridendo. «Faremo una figuraccia totale.»
+
+«Magari. Ma ci proveremo. Un golfista non nasce sapendo mettere in buca al primo colpo. Anch'io ho mancato un putt dietro l'altro per due anni prima di vincere il buco per la prima volta.»
+
+---
+
+## Parte Sesta: Fausto e il Rimontaggio
+
+Nel pomeriggio, mentre Rossana e Davide giocavano una partita di badminton con il volano che il vento portava di continuo fuori dal campo, Fausto ha aperto una seconda borsa e ha tirato fuori i pezzi della Vespa che stava lavorando: il pignone corolla, la rosetta del cambio, alcuni cuscinetti a rullo, e la famosa mozza posteriore che era la causa di tutti i problemi.
+
+Ornella si è avvicinata con curiosità. «Come stai con il rimontaggio?»
+
+«A un punto cruciale,» ha detto Fausto sistemando i pezzi sul tavolo di pietra con la cura di un chirurgo. «Ho rivisionato tutto il sistema — carburatore, marmitta, fanale anteriore, verniciatura e sabbiatura della carrozzeria. La pedivella è a posto. La forcella anche. Ma questo dentino qui...» ha indicato un pezzo minuscolo con unghia annerita di grasso, «...è il problema. Se non lo rimonto tutto per bene, il motore ricostruito si gripa in cinque minuti di guida.»
+
+«E la perdita di olio?»
+
+«Ho sostituito tutte le guarnizioni. Ma devo fare un'ispezione approfondita del blocco motore prima di dichiarare il lavoro finito. Lascio che il meccanico lo guardi un'altra volta — ho un amico specializzato in motori di quel periodo — per avere una controprova.»
+
+«Sembra un lavoro enorme.»
+
+«Il rimontaggio di una Vespa d'epoca è un lavoro enorme. Ogni pezzo deve tornare al suo posto. Il manicotto, lo spillo a molla, il cuscinetto a rullo — tutto deve essere rimontato nell'ordine giusto, altrimenti si crea uno scompenso meccanico che fa grippare il motore.»
+
+«Il tuo cliente sa quanto tempo ci vuole?»
+
+«Sì. È un uomo paziente. Un armatore in pensione — ha girato l'Italia con le sue barche da pesca, e ora vuole girare l'Italia con questa Vespa. Ha anche un motoscafo in Adriatico, ma preferisce la Vespa per il centro città.»
+
+Suor Agata, che stava ascoltando da vicino, ha detto: «Un uomo che ha navigato il Mar Adriatico e il Mar Tirreno e ora vuole una Vespa. C'è qualcosa di commovente in questo.»
+
+«È quello che penso anch'io,» ha detto Fausto, e per un momento il suo viso duro si è ammorbidito.
+
+---
+
+## Parte Settima: Rossana e la Salute
+
+Rossana si era fermata a parlare con Davide mentre raccoglievano il volano dal bordo del campo. Era una nutrizionista, e non riusciva a non notare che Davide mangiava male — lo aveva visto tirare fuori dalla borsa una barretta di cioccolato al gianduia e un cremino, e aveva deciso che era il momento di intervenire.
+
+«Davide,» ha detto con tono professionale ma amichevole, «hai il tasso di obesità nella norma, ma il tuo metabolismo sta rallentando. Lo vedo dall'atrofia muscolare nelle braccia. E il problema gastrointestinale che hai menzionato la settimana scorsa — il rigurgito dopo cena, la sensazione di essere nauseato — potrebbe essere legato al cibo spazzatura che mangi.»
+
+«Non mangio sempre così male,» ha detto lui sulla difensiva.
+
+«Quando hai mangiato qualcosa di deperibile e fresco l'ultima volta?»
+
+Pausa lunga. «Domenica scorsa. Ho fatto la pasta.»
+
+«Comprata in negozio?»
+
+«...sì.»
+
+Rossana ha sospira­to. «Ascolta. Non voglio che tu segua una dieta rigida. Voglio solo che tu mangi la metà del cibo spazzatura che mangi adesso e sostituisca il resto con prodotti agricoli freschi. Il colesterolo alto è silenzioso — non lo senti finché non diventa un problema serio come l'aterosclerosi o la malattia arteriosa periferica.»
+
+«Mio padre ha fatto il bypass gastrico a sessant'anni,» ha detto Davide piano.
+
+«Lo so. Tua madre me l'ha detto.» Rossana non si è scusata per l'informazione ottenuta da terzi — era una nutrizionista, le informazioni mediche delle famiglie del quartiere circolavano con una certa naturalezza. «Hai ancora tanta strada da fare prima di arrivare a quel punto, ma è meglio non arrivarci affatto. Incoraggiamoci a vicenda: tu vieni in palestra con me due volte a settimana, io smetto di criticare il tuo laptop durante le partite di bocce.»
+
+Davide ha riso. «È un accordo. Ma solo se mi insegni anche le trazioni.»
+
+«Affare fatto.»
+
+---
+
+## Parte Ottava: Le Confidenze di Suor Agata
+
+Il pomeriggio aveva cominciato a diventare freddo. Il cipresso più alto gettava un'ombra lunga sul campo di bocce. Suor Agata stava raccogliendo le tazze del caffè nel recipiente di ceramica quando Davide le si è seduto accanto sulla panchina.
+
+«Suor Agata,» ha detto, «posso chiederle una cosa?»
+
+«Puoi chiedermi tutto, figliolo. Non garantisco una risposta utile, ma posso ascoltare.»
+
+«Ha mai avuto... un malessere esistenziale? Un momento in cui non sapeva più dove andare?»
+
+La vecchia donna ha pensato per un lungo momento. «Sì. Quando ho lasciato il convento, dopo quarant'anni di vita monastica, mi sono sentita sperduta. Allo stremo, come dici tu. Non sapevo cosa fare di me stessa. Mi sono rivolta a un terapista — sì, anche le ex suore vanno dal terapista — e ho lavorato per anni su quella dissonanza tra chi ero stata e chi stavo diventando.»
+
+«E come ha fatto a uscirne?»
+
+«Farsi aiutare,» ha detto semplicemente. «E girare l'Italia. Ho preso un ciclomotore — non una Vespa d'epoca come quella di Fausto, qualcosa di molto più umile — e sono andata in giro per il paese, per le strade, per i centri storici, per i mercati. Ho incontrato persone. Ho mangiato cose buone. Ho fatto un sacco di cose in casa di persone che accettavano di alloggiarmi in cambio di piccoli lavori. E a lungo andare, ho ritrovato il mio centro.»
+
+«Sembra bello.»
+
+«Era necessario. Non bello — necessario.» Ha fatto una pausa. «E adesso, quando gioco a bocce con voi il sabato mattina, quando il cielo è azzurro e la magnolia profuma, penso che sia stato tutto necessario per arrivare qui. In questo campo di bocce, con questo bricco di caffè.»
+
+Davide non ha detto niente. Ha guardato il campo di terra battuta, i cipressi, la magnolia. Ha pensato alla sua start-up, al suo disk esterno, al motore grafico che non rasterizzava più bene. E per un momento, per un solo momento, tutto quello è sembrato molto lontano.
+
+---
+
+## Parte Nona: La Serata
+
+Alle sei di sera, mentre il sole scendeva dietro i cipressi e l'aria diventava più fresca, il gruppo ha fatto le ultime partite della giornata. Ornella ha vinto il buco finale con una precisione che ha fatto esclamare persino Fausto. Rossana ha mancato il putt decisivo ma ha preso la sconfitta con sportività — «a lungo andare,» ha detto, «l'importante è fare allenamento, non vincere». Davide ha giocato meglio del previsto per essere un principiante assoluto, e Suor Agata ha arbitrato con il cronometro in mano, dichiarando i punti con la solennità di un giudice della Corte Suprema.
+
+Mentre raccoglievano le palle di bocce, Ornella ha tirato fuori il telefono. «Ho un messaggio dall'agente immobiliare della regione. Quel cliente di cui vi parlavo — quello che voleva ipotecare la sua casa — ha cambiato idea. Ha deciso di affittare e usare il deposito cauzionale risparmiato per investire in azioni, seguendo il consiglio del suo consulente finanziario. Niente prestito, niente pignoramento.»
+
+«Buona notizia,» ha detto Suor Agata.
+
+«Ottima notizia. Avevo il dente avvelenato per quella situazione. Mi sembrava di mandare in tilt tutta la mia etica professionale se avessi continuato ad assistere qualcuno che stava prendendo decisioni così rischiose.»
+
+«E invece ha preso il toro per le corna,» ha detto Rossana.
+
+«Esatto. A colpo d'occhio si vede quando una persona è pronta ad ascoltare.»
+
+Fausto stava rimettendo i pezzi della Vespa nella borsa con cura religiosa. «Ho una buona notizia anch'io. Ho trovato online il cuscinetto a rullo originale che mi mancava — arriva dalla Finlandia, di tutti i posti. Un tesserato di un club di restauro moto che ha messo in vendita dei pezzi in condizioni originali. Tutto per bene.»
+
+«Dalla Finlandia,» ha detto Davide. «Come l'aurora boreale.»
+
+«Come l'aurora boreale,» ha confermato Fausto con un mezzo sorriso.
+
+---
+
+## Parte Decima: Halloween e i Ricordi
+
+Il sabato successivo era la vigilia di Halloween, e qualcuno aveva decorato il campo di bocce con alcune zucche di Halloween arancioni sistemate ai piedi dei cipressi. Suor Agata aveva portato dei biscotti al latticello a forma di fantasma. Rossana aveva portato un succo di verdura che nessuno voleva bere. Fausto aveva portato la notizia che il cuscinetto a rullo era arrivato dalla Finlandia e che il rimontaggio della Vespa d'epoca procedeva bene. Davide aveva portato il suo laptop ma lo aveva tenuto chiuso tutta la mattina — un piccolo record personale.
+
+«Quando ero piccola,» ha detto Suor Agata mentre sistemava le zucche di Halloween attorno al campo, «non si faceva dolcetto o scherzetto in Italia. Era una cosa americana. Adesso i bambini girano per le strade con i costumi — mi ricorda qualcosa, ma non so cosa.»
+
+«Mi riporta alla mia infanzia anch'io,» ha detto Davide. «Mia madre ci preparava la zucca di Halloween sul balcone. Era la prima del palazzo. Tutti venivano a fare dolcetto o scherzetto da noi.»
+
+«L'Epifania è meglio,» ha detto Fausto. «La Befana. Quella è una tradizione vera. Anche il Santo Stefano, il Lunedì dell'Angelo — queste sono le feste vere. Halloween è solo marketing.»
+
+«La Festa dei Lavoratori è la mia preferita,» ha detto Rossana. «Per ragioni ovvie.»
+
+«Io preferisco la Festa della Repubblica,» ha detto Ornella. «E la Festa della Liberazione — quella è fondamentale. Senza quella festa non avremmo niente di quello che abbiamo.»
+
+Suor Agata ha annuito in silenzio. Poi ha detto: «Ogni festa serve. Anche Halloween, se vuoi. Anche la zucca arancione. L'importante è stare insieme.»
+
+---
+
+## Parte Undicesima: Il Grande Progetto
+
+Quella sera, dopo le partite — Davide aveva vinto per la prima volta, con un colpo fortunato che aveva fatto gridare di sorpresa Ornella — il gruppo si era fermato a parlare di quello che li aspettava nei mesi successivi.
+
+Davide aveva annunciato che stava lavorando a un progetto di avviamento: una piattaforma di archiviazione cloud per i dati climatici, con un sistema di gemelli digitali per simulare gli effetti della decarbonizzazione su scala locale. «Voglio vantare non il prodotto, ma l'impatto,» aveva detto. «Non voglio che sia ridondante rispetto a quello che esiste già. Voglio che sia trasformativo.»
+
+«Sai che hai l'asso nella manica?» ha detto Ornella. «Hai la competenza tecnica e hai la passione. Queste due cose insieme non sono così comuni.»
+
+«Il problema è il finanziamento. Ho bisogno di un prestito iniziale — non per ipotecare niente, solo per coprire i costi del server e del drive iCloud istituzionale. E ho bisogno di collaboratori.»
+
+«Io posso aiutarti con la parte legale del contratto,» ha detto Ornella. «So come si mettono le cose nero su bianco in modo che siano solide.»
+
+«Io posso aiutarti con la nutrizione del team,» ha detto Rossana seria. «Un team che mangia bene lavora meglio. Niente cibo spazzatura durante le sessioni di lavoro.»
+
+«Io posso portare il caffè,» ha detto Suor Agata.
+
+Tutti hanno riso. Poi Fausto, che era rimasto in silenzio, ha detto: «Io non capisco niente di informatica. Ma se hai bisogno di qualcuno che sappia come smontare un problema e rimontarlo pezzo per pezzo, con pazienza — quella persona sono io.»
+
+Davide lo ha guardato. «È esattamente quello di cui ho bisogno.»
+
+---
+
+## Epilogo: Il Campo di Bocce in Novembre
+
+Il campo di bocce di Via Rossini era ancora lì in novembre, anche quando la magnolia aveva perso i suoi fiori e i cipressi sembravano più scuri contro il cielo grigio. La terra battuta era umida di pioggia. Il bricco di Suor Agata fumava nell'aria fredda.
+
+Fausto aveva finito il rimontaggio della Vespa d'epoca. Il motore ricostruito girava senza perdita di olio, senza rischio di grippatura, senza scompensi. Il cliente armatore era venuto a ritirarla con gli occhi lucidi. «È in condizioni originali,» aveva detto, passando le mani sulla verniciatura. «Meglio che originali.»
+
+Davide aveva iniziato il suo gruppo di sostegno e dormiva meglio. L'insonnia non era sparita del tutto, ma il disturbo d'ansia si stava riducendo. Il suo progetto di avviamento aveva ricevuto un'offerta provvisoria da un incubatore di Milano. Stava cercando di non saltare alle conclusioni, di procedere passo dopo passo — «farsi strada lentamente,» come diceva Suor Agata.
+
+Ornella aveva accompagnato il gruppo a giocare a golf. Fausto aveva mancato ogni putt ma aveva oscillato la mazza da golf con una dignità commovente. Rossana aveva vinto il buco più difficile e aveva esultato come se avesse vinto il Mondiale. Davide aveva usato il cronometro per misurare i tempi di ogni giocata e poi aveva fatto un'analisi statistica che nessuno aveva chiesto ma tutti avevano trovato affascinante.
+
+E Suor Agata aveva guardato tutto dalla terrazza con il caffè in mano, e aveva pensato che in barba a tutto — alla legge di bilancio, all'intelligenza artificiale, alla grippatura dei motori, al colesterolo alto, alla dissonanza cognitiva, alla solastalgia, ai cuscinetti a rullo che arrivavano dalla Finlandia — la vita aveva ancora qualcosa di indescrivibile da offrire.
+
+Soprattutto il sabato mattina. Soprattutto in un campo di bocce di terra battuta, circondato da cipressi, sotto una magnolia.
+
+Il bricco fumava. Le palle di bocce brillavano nell'aria grigia. Qualcuno rideva.
+
+Era abbastanza. Era più che abbastanza.
+
+---
+
+*Fine*
