@@ -1,7 +1,5 @@
 # Storia 5 — Un Caso di Volo
 
-*Una storia in italiano — vocabolario avanzato, Parte III*
-
 ---
 
 ## Parte Prima: L'Aeroporto di San Donnino
@@ -336,8 +334,3 @@ Giulia ha alzato il suo bicchierino. «Alla salute.»
 
 E fuori, sulla manica a vento dell'Aeroporto Municipale di San Donnino, una brezza leggera soffiava dalla pianura portando odore di campi umidi e di primavera. La pista era vuota, l'aviorimessa silenziosa, la torre di controllo spenta. Ma nell'aria restava qualcosa — quella leggerezza particolare che hanno i giorni in cui succede qualcosa di inaspettato e alla fine, contro ogni previsione, le cose vanno bene.
 
----
-
-*Parole chiave utilizzate: 185 termini del Chunk 3*
-
-*(Tra cui: pilota di linea, carlinga/cabina di pilotaggio, aviorimessa/hangar, turbolenza, massa d'aria, indicatore di prua, coordinatore di virata, controllo pre-volo, indicatore della velocità verticale, condizioni meteorologiche, regole del volo strumentale, volo a vista, torre di controllo, assistente di volo, decollo da campo corto, percorso di volo, fare pratica di volo, pilota dilettante, giro in aereo, certificato di pilota privato, brevetto di pilota privato, pilotare tra le nuvole, manica a vento, vicequestore, questura, dramma poliziesco, sporgere denuncia, capo di imputazione, imputato/accusato, processo con giuria, selezione della giuria, dovere di giuria, avvocato difensore, la difesa ha concluso, l'accusa ha concluso, besciamella, latticello, lievito, far lievitare l'impasto, spennellare, rosmarino, scalogno, cipollotto, porro, affettare, soffriggere, pasta frolla, cupcake, barattolo, tagliatelle, prugna, glassatura, pangrattato, semi di sesamo, digestivo, rete neurale, apprendimento automatico/machine learning, sistema operativo, sviluppatore, ottimizzazione, cybersicurezza, cyberspazio, metaverso, hacker, crittografia, script Python, linguaggio di programmazione, debuggare/bug, intelligenza artificiale generativa, grande modello linguistico, morire dal ridere, crisi di riso, come se niente fosse, bighellonare, alla buona, uff!, fuor di testa, rompere il ghiaccio, leggere tra le righe, essere al settimo cielo, ultraleggero, ultramoderno, Pianura Padana, brontolone, avere a menadito, tenere d'occhio, elargire, perentorio, tramandato, spennellare, lievitare, diametralmente opposto, malfunzionamento, colorante alimentare, estratto di vaniglia, brezza leggera, rincasare, percorso accidentato, massa d'aria, corrente d'aria, istruttoria, cybersicurezza, crittografia end-to-end, capannone, a menadito, parabrezza, ecc.)*

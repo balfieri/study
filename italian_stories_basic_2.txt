@@ -1,8 +1,5 @@
 # Il Torneo di San Rocco
 
-## Storia in italiano
-
----
 
 ### Parte Prima: La fattoria dei Bianchi
 
@@ -552,6 +549,3 @@ Questa volta il gatto è rimasto lì.
 
 *Meno male*, ha pensato Saverio. *Meno male.*
 
----
-
-*Fine*
