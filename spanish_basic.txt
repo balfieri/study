@@ -5,7 +5,7 @@ bye
 adiós
 
 good evening; good night
-buonas noches
+buenas noches
 
 have a good evening
 que tengas buena tarde
@@ -75,3 +75,13 @@ el verbo
 
 adjective
 el adjetivo
+
+well
+bien
+
+to make; to do
+hacer
+
+to prepare
+preparar
+
