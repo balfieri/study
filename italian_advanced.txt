@@ -106008,8 +106008,8 @@ sostituire (qualcosa)
 to substitute (something) with (something else)
 sostituire (qualcosa) con (qualcos'altro)
 
-to check un bagaglio
-imbarcare un bagaglio
+to check a bag
+registrare un bagaglio; imbarcare un bagaglio
 
 to dial a phone number
 comporre un numero di telefono
