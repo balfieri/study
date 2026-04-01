@@ -24178,7 +24178,7 @@ la correlazione
 veil
 il velo
 
-to compose
+to compose; to dial
 comporre
 
 successor
@@ -38719,7 +38719,7 @@ la barretta Snickers
 bar (candy)
 la barretta
 
-swamp; marsh
+swamp; marsh; quagmire
 la palude
 
 to inject
@@ -105983,3 +105983,33 @@ la scripella; la crepe
 
 chilling
 da brivido
+
+text file
+il file di testo
+
+I didn't want to hurt you
+non volevo ferirti
+
+ci risentiamo
+we'll talk again
+
+oil industry
+la petrolieria
+
+let's take our time
+prendiamoci il nostro tempo
+
+no need to rush
+non c'è bisogno di affrettarsi
+
+to replace (something); to substitute for (something)
+sostituire (qualcosa)
+
+to substitute (something) with (something else)
+sostituire (qualcosa) con (qualcos'altro)
+
+to check un bagaglio
+imbarcare un bagaglio
+
+to dial a phone number
+comporre un numero di telefono
