@@ -1,0 +1,59 @@
+hi; hello
+hola
+
+bye
+adiós
+
+good evening; good night
+buonas noches
+
+have a good evening
+que tengas buena tarde
+
+ham
+el jamón
+
+Spanish
+español
+
+what is this?
+¿qué es esto?
+
+I'm sorry; I apologize
+lo siento
+
+pardon me
+perdón
+
+how does one say (something)
+¿cómo se dice (something)
+
+something
+algo
+
+everything
+todo
+
+everybody
+todo el mundo
+
+all
+todos
+
+all of these
+todos estos
+
+please
+por favor
+
+I would like (something)
+me gustaría (algo)
+
+I like (something)
+me gusta (algo)
+
+you're welcome
+de nada
+
+nothing
+nada
