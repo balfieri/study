@@ -85,3 +85,8 @@ hacer
 to prepare
 preparar
 
+table
+la mesa
+
+may we have a table for two?
+¿podemos tener una mesa para dos?
