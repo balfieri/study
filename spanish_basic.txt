@@ -26,7 +26,7 @@ pardon me
 perdón
 
 how does one say (something)
-¿cómo se dice (something)
+¿cómo se dice (algo)
 
 something
 algo
@@ -186,4 +186,118 @@ noventa
 
 one hundred
 cien
+
+egg
+el huevo
+
+toast
+la tostada
+
+avocado
+el aguacate
+
+scrambled eggs
+los huevos revueltos
+
+roast
+asado
+
+and
+y
+
+for me
+para mí
+
+thanks for your patience
+gracias por tu paciencia
+
+omelet
+la tortilla
+
+bread
+el pan
+
+sourdough bread
+el pan de masa madre
+
+flour
+la harina
+
+dough
+la masa
+
+since
+desde
+
+sandwich
+la torta
+
+coffee shop
+la cafetería
+
+pastry shop
+la pastelería
+
+ice cream
+el helado
+
+just looking, thanks
+solo mirando, gracias
+
+school
+el colegio
+
+ibuprofen
+el ibuprofeno
+
+knee
+la rodilla
+
+credit card
+la tarjeta de crédito
+
+cash
+el efectivo
+
+owl
+el búha
+
+nap
+la siesta
+
+subway
+el metro
+
+at 4 o'clock
+a las 4
+
+without
+sin
+
+cooked
+cocido
+
+medium
+medio
+
+zero sugar
+el cero azúcar
+
+calorie
+la caloría
+
+adorable
+adorable
+
+tip (bill)
+la propina
+
+bill
+la cuenta
+
+to add
+añadir
+
+container
+el contenedor
 
