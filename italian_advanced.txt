@@ -700,7 +700,7 @@ il posto corridoio
 boarding pass (fisico)
 la copia cartacea
 
-overhead baggage compartment
+overhead baggage compartment; overhead bin; hat box
 la cappelliera
 
 main luggage compartment
@@ -11229,9 +11229,6 @@ la canna
 
 this is what you have to look forward to
 questo è quello che ti aspetta
-
-they think they own the place
-pensano di essere padroni di casa
 
 if I had to do it all over again
 se dovessi rifare tutto da capo
@@ -31207,7 +31204,7 @@ da cima a fondo
 to flatten
 appiattire
 
-gem; beauty; real find
+gem; beauty; real find; tidbit
 la chicca
 
 family emergency
@@ -41149,7 +41146,7 @@ l'interazione sociale
 intercourse; sexual intercourse
 il rapporto sessuale
 
-interwoven
+interwoven; interlocking
 intrecciato
 
 intertwined
@@ -106013,3 +106010,9 @@ registrare un bagaglio; imbarcare un bagaglio
 
 to dial a phone number
 comporre un numero di telefono
+
+it sounds promising; sounds promising
+sembra promettente
+
+coffee table
+tavolino da caffè

@@ -79,6 +79,9 @@ el adjetivo
 well
 bien
 
+quite well; very well
+muy bien
+
 to make; to do
 hacer
 
@@ -90,3 +93,7 @@ la mesa
 
 may we have a table for two?
 ¿podemos tener una mesa para dos?
+
+milk
+la leche
+

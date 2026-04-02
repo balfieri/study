@@ -568,7 +568,7 @@ to illuminate; to clarify
 lighting
 l'éclairage
 
-support; stand; backing
+support; stand; backing; bracket
 le support
 
 household; home; hearth
@@ -9762,8 +9762,14 @@ la taille; la grandeur; la quantité
 event; occurance; happening
 l'événement; l'occurrence
 
-discovery; find; detection
-la découverte; la trouvaille; la détection
+discovery
+la découverte
+
+find
+la tourvaille
+
+detection
+la détection
 
 whole; entire; integer
 tout; entier
