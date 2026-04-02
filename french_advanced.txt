@@ -10441,7 +10441,7 @@ si seulement elle appelait
 good point!; solid point!; valid point!
 bon point!
 
-nap
+nap; siesta
 la sieste
 
 to take a nap
@@ -12360,4 +12360,13 @@ l'incontinence
 
 resistance band
 l'élastique de résistance
+
+omelette
+l'omelette
+
+ibuprofen
+l'ibuprofène
+
+cooked medium
+cuit moyen
 
