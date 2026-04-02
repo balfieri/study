@@ -304,3 +304,8 @@ el contenedor
 Iberian
 iberico
 
+week
+la semana
+
+Spain
+el España
