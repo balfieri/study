@@ -471,3 +471,25 @@ grande
 
 opposite (noun)
 lo opuesto
+
+light
+la luz
+
+to turn on (something)
+encender (algo)
+
+to turn off (something)
+apagar (algo)
+
+to pay
+pagar
+
+stovetop
+la placa de cocina
+
+the plate; slab; badge; sign; plaque
+la placa
+
+kitchen; cuisine
+la cocina
+
