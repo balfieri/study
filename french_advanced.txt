@@ -10703,7 +10703,7 @@ garage door opener
 l'ouvre-porte de garage
 
 to let the dog out
-pour sortir le chien
+sortir le chien
 
 passcode
 le code d'accès
