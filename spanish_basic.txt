@@ -22,11 +22,14 @@ what is this?
 I'm sorry; I apologize
 lo siento
 
-pardon me
-perdón; perdóname
+pardon me (asking a question)
+perdóne; perdóna; perdón
+
+pardon me; forgive me
+perdóneme; pardóname
 
 how does one say (something)
-¿cómo se dice (algo)
+¿cómo se dice (algo)?
 
 something
 algo
@@ -39,6 +42,9 @@ todo el mundo
 
 all
 todos
+
+both
+ambos
 
 all of these
 todos estos
@@ -347,7 +353,10 @@ cheese
 el queso
 
 excuse me (all forms)
-disculpe
+disculpa; disculpe
+
+excuse me (trying to pass)
+permiso; disculpa; disculpe
 
 that; this
 eso; esa
@@ -493,3 +502,5 @@ la placa
 kitchen; cuisine
 la cocina
 
+please add a tip of 4 euros to the bill
+por favor añada una propina de 4 euros a la cuenta
