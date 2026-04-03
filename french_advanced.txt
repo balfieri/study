@@ -12433,3 +12433,6 @@ l'interphone
 Easter Monday
 Lundi de Pâques
 
+limited; bounded
+limité
+
