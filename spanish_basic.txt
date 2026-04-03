@@ -531,3 +531,12 @@ intentar
 
 prayer  
 la oración
+
+street
+la calle
+
+avenue
+la avenida
+
+plaza; square
+la plaza

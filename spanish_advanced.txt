@@ -1,2 +1,8 @@
 asterisk
 el asterisco
+
+fisherman
+el pescador
+
+boulevard
+el bulevar; el paseo
