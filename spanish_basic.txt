@@ -23,7 +23,7 @@ I'm sorry; I apologize
 lo siento
 
 pardon me
-perdón
+perdón; perdóname
 
 how does one say (something)
 ¿cómo se dice (algo)
@@ -336,3 +336,117 @@ la bolsa de compras
 
 bag
 la bolsa
+
+battery
+la batería
+
+butter
+la mantequilla
+
+cheese
+el queso
+
+excuse me (all forms)
+disculpe
+
+that; this
+eso; esa
+
+I'm sorry that (something)
+lo siento que (algo)
+
+soap
+el jabón
+
+packet
+el paquete
+
+where are (something)?
+¿dónde están (algo)?
+
+where is (something)?
+¿dónde está (algo)?
+
+to learn
+aprender
+
+receipt
+el recibo
+
+cereal
+el cereal
+
+peanut
+el cacahuete
+
+almond
+la almendra
+
+pistachio
+el pistacho
+
+strawberry
+la fresa
+
+raspberry
+la frambuesa
+
+tomato
+el tomate
+
+cherry tomato
+el tomate cherry
+
+basil
+el albahaca
+
+oregano
+el orégano
+
+parsley
+el perejil
+
+garlic
+el ajo
+
+cookie
+la galleta
+
+cracker
+la galleta; el cracker
+
+washing machine
+la máquina lavadora; la lavadora
+
+dishwasher
+el lavavajillas
+
+oven
+el horno
+
+day
+el día
+
+have a good day!
+que tengas un buen día!
+
+I don't speak Spanish
+no hablo español
+
+English
+el inglés
+
+French
+el francés
+
+I speak English and Italian
+hablo inglés y italiano
+
+I speak a little French
+hablo un poco de francés
+
+a little (something)
+un poco de (algo)
+
+a lot of (something)
+mucho (algo)
