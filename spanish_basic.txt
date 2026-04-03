@@ -16,6 +16,12 @@ el jamón
 Spanish
 español
 
+this
+esto; esta
+
+these
+estos; estas
+
 what is this?
 ¿qué es esto?
 
@@ -88,7 +94,7 @@ bien
 quite well; very well
 muy bien
 
-to make; to do
+to do; to make
 hacer
 
 to prepare
@@ -355,6 +361,9 @@ el queso
 excuse me (all forms)
 disculpa; disculpe
 
+to excuse; to forgive; to pardon
+disculpar
+
 excuse me (trying to pass)
 permiso; disculpa; disculpe
 
@@ -504,3 +513,21 @@ la cocina
 
 please add a tip of 4 euros to the bill
 por favor añada una propina de 4 euros a la cuenta
+
+I am learning Spanish
+estoy aprendiendo español
+
+to figure out how (to do something)
+averiguar cómo (hacer algo)
+
+to find out; to ascertain
+averiguar
+
+to find
+encontrar
+
+to try
+intentar
+
+prayer  
+la oración

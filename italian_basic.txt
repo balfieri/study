@@ -2893,7 +2893,7 @@ eseguire
 to lie
 mentire
 
-to understand
+to understand; to figure out
 capire
 
 to prefer
@@ -8106,4 +8106,7 @@ sto solo guardando, grazie
 
 to add a tip to the bill
 aggiungere una mancia al conto
+
+to figure out how (to do something)
+capire come (fare qualcosa)
 
