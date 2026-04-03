@@ -6,3 +6,9 @@ el pescador
 
 boulevard
 el bulevar; el paseo
+
+orchard
+la huerta
+
+garden rice
+el arroz de la huerta

@@ -12647,3 +12647,7 @@ trouver comment (faire quelque chose)
 
 prayer
 la prière
+
+do we pay here or at the cash register?
+payons-nous ici ou à la caisse?
+

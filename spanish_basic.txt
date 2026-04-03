@@ -616,3 +616,105 @@ plural
 person
 la persona
 
+to miss
+extrañar
+
+how good!
+¡qué bien!
+
+stream; brook
+el arroyo
+
+no problem
+no hay problema
+
+reservation
+la reserva
+
+we don't have a reservation
+no tenemos reserva
+
+rice
+el arroz
+
+chicken
+el pollo
+
+father
+el padre
+
+mother
+la madre
+
+sister
+la hermana
+
+brother
+el hermano
+
+uncle
+el tío
+
+aunt
+la tía
+
+grandmother
+la abuela
+
+grandfather
+el abuelo
+
+great-grandmother
+la bisabuela
+
+great-grandfather
+el bisabuelo
+
+sister-in-law
+la cuñada
+
+brother-in-law
+el cuñado
+
+daughter-in-law
+la nuera
+
+son-in-law
+el yerno
+
+another (something)
+otro (algo)
+
+taste (style)
+el gusto
+
+taste; flavor
+el sabor
+
+beautiful
+hermoso
+
+cash register
+la caja; la caja registradora
+
+do we pay here or at the cash register?
+¿pagamos aquí o en la caja registradora?
+
+delicious
+delicioso
+
+dessert
+el postre
+
+desert
+el desierto
+
+no dessert, please
+sin postre, por favor
+
+time zone
+la zona horaria
+
+rice house; rice restaurant
+la arrocería
+
