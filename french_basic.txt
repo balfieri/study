@@ -466,6 +466,9 @@ l'église
 except; barring
 sauf
 
+cost
+le coût
+
 to cost
 coûter
 
@@ -2200,7 +2203,7 @@ fuir
 soft; limp
 molle; mou
 
-dough; pastry
+dough; pastry; paste
 la pâte
 
 crust
