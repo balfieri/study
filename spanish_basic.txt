@@ -328,3 +328,11 @@ ir
 to have
 haber
 
+blood
+la sangre
+
+grocery bag
+la bolsa de compras
+
+bag
+la bolsa
