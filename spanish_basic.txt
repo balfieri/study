@@ -601,3 +601,18 @@ noviembre
 December
 diciembre
 
+masculine
+masculino
+
+feminine
+femenino
+
+singular
+singular
+
+plural
+plural
+
+person
+la persona
+
