@@ -4078,7 +4078,7 @@ beh,; allora,
 to move (something from one place to another)
 spostare
 
-to move; to change location; to get moved; to shift
+to move; to change location; to get moved; to shift; to scoot over
 spostarsi
 
 to move to (new residence, new city)
