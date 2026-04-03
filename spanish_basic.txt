@@ -718,3 +718,9 @@ la zona horaria
 rice house; rice restaurant
 la arrocería
 
+steak
+le bistec
+
+help!
+¡ayuda!
+
