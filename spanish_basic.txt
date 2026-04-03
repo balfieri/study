@@ -450,3 +450,16 @@ un poco de (algo)
 
 a lot of (something)
 mucho (algo)
+
+first
+primero
+
+second
+segundo
+
+third
+tercero
+
+fourth
+cuarto
+
