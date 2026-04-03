@@ -48629,7 +48629,7 @@ Liberation Day (April 25)
 Festa della Liberazione
 
 Easter Monday
-Lunedì dell'Angelo
+il giorno di Pasquetta; Lunedì dell'Angelo
 
 sturgeon
 lo storione
@@ -106074,3 +106074,5 @@ l'attivista per i diritti gay
 female-rights activist
 l'attivista per i diritti delle donne
 
+to buzz; to call on an intercom
+citofonare
