@@ -463,3 +463,11 @@ tercero
 fourth
 cuarto
 
+small
+pequeño
+
+large; big
+grande
+
+opposite (noun)
+lo opuesto
