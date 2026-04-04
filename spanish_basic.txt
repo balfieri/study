@@ -838,3 +838,6 @@ la entrada
 museum
 el museo
 
+castle
+el castillo
+
