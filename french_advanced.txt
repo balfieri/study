@@ -12519,3 +12519,7 @@ le véhicule électrique
 
 no-line
 sans file
+
+spotlight
+le projecteur
+

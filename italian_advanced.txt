@@ -106103,3 +106103,7 @@ non mi fa impazzire
 
 without queue; no-line
 senza fila
+
+spotlight
+il riflettore
+
