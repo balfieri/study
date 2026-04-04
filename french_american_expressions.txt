@@ -450,3 +450,6 @@ laisse-moi tranquille!
 
 to take a wrecking ball to (something)
 passer une boule de démolition sur (quelque chose)
+
+(something) is a lemon (defective)
+(quelque chose) est une guimbarde
