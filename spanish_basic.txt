@@ -841,3 +841,6 @@ el museo
 castle
 el castillo
 
+reality
+la realidad
+
