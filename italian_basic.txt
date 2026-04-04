@@ -8110,3 +8110,8 @@ aggiungere una mancia al conto
 to figure out how (to do something)
 capire come (fare qualcosa)
 
+add 3 euros for the tip
+aggiunga 3 euro per la mancia
+
+could you reheat (something)?
+potresti riscaldare (qualcosa)?
