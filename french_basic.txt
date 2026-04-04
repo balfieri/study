@@ -628,9 +628,6 @@ soustraire
 to remove
 enlever
 
-to replace
-remplacer
-
 concord; agreement
 la concorde
 
@@ -2950,7 +2947,7 @@ agir
 to explain
 expliquer
 
-to substitute; to replace
+to replace; to substitute
 remplacer; substituer
 
 national
