@@ -1,6 +1,7 @@
 gpt_text.txt
 gpt_audio.wav
 *.out
+,doit
 www/
 gen_puz
 *.dsym/

@@ -12481,3 +12481,9 @@ long time no see!
 missile attack
 l'attaque de missiles
 
+shallow
+peu profond
+
+pool
+le bassin
+

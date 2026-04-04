@@ -1,0 +1,8 @@
+ffmpeg -f s16le -ar 24000 -ac 1 -i storia_1_part1.pcm -c:a pcm_s16le italian_stories_basic_1_1.wav
+exit
+
+mv storia_1_part1{.mp3,.pcm}
+mv storia_1_part2{.mp3,.pcm}
+mv storia_1_part3{.mp3,.pcm}
+mv storia_1_part4{.mp3,.pcm}
+mv storia_1_part5{.mp3,.pcm}

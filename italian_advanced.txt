@@ -106089,3 +106089,5 @@ la crochetta
 missile attack
 l'attacco missilistico
 
+shallow
+poco profondo; basso
