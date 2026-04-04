@@ -835,3 +835,6 @@ la salida
 entrance
 la entrada
 
+museum
+el museo
+

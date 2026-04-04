@@ -16888,7 +16888,7 @@ sbrigati!; presto!; fa presto!
 well-heeled
 ricco; benestante
 
-i'll call back later
+I'll call back later
 richiamo più tardi
 
 to have the last laugh
@@ -106101,3 +106101,5 @@ il coniglio di Pasqua
 it doesn't thrill me; I'm not crazy about it
 non mi fa impazzire
 
+without queue; no-line
+senza fila
