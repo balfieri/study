@@ -8119,3 +8119,6 @@ potresti riscaldare (qualcosa)?
 a type of
 un tipo di
 
+nothing for me
+niente per me
+
