@@ -757,3 +757,81 @@ Pascua
 Christmas
 Navidad
 
+clean
+limpio
+
+container
+el envase
+
+recycling
+el reciclaje
+
+paper
+el papel
+
+church
+la iglesia
+
+line
+la línea
+
+nothing for me
+nada para mí
+
+half kilo
+el medio kilo
+
+piece
+la pieza
+
+come on!
+¡vamos!
+
+juice
+el jugo 
+
+orange
+la naranja
+
+orange juice
+el jugo de naranja
+
+done
+hecho
+
+plastic
+el plástico
+
+at the bar
+en el bar
+
+city
+la ciudad
+
+to the city
+a la ciudad
+
+private
+privado
+
+little bread
+el panecito
+
+exactly!
+¡exacto!
+
+it doesn't matter
+no importa
+
+light
+ligero
+
+heavy
+pesado
+
+exit
+la salida
+
+entrance
+la entrada
+
