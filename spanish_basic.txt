@@ -238,9 +238,6 @@ la harina
 dough
 la masa
 
-since
-desde
-
 sandwich
 la torta
 
@@ -282,9 +279,6 @@ el metro
 
 at 4 o'clock
 a las 4
-
-without
-sin
 
 cooked
 cocido
@@ -844,3 +838,77 @@ el castillo
 reality
 la realidad
 
+when
+cuando
+
+how
+cómo
+
+what time is it?
+¿qué hora es?
+
+where
+dónde
+
+to; at
+a
+
+of; from; about
+de
+
+in; on; at
+en
+
+with
+con
+
+for; by; through; because of (reasons)
+por
+
+for; in order to; toward
+para
+
+without
+sin
+
+on; over; about
+sobre
+
+before; in the presence of
+ante
+
+under; below
+bajo
+
+against
+constra
+
+from; since
+desde
+
+during
+durante
+
+between; among
+entre
+
+toward
+hacia
+
+until; up to
+hasta
+
+by means of
+mediante
+
+according to
+según
+
+after; behind
+tras
+
+versus
+versus
+
+via
+vía
