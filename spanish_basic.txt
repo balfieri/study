@@ -925,3 +925,12 @@ la alegría
 wheel
 la rueda
 
+dream
+el sueño
+
+full
+lleno
+
+empty
+vacío
+
