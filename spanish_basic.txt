@@ -921,3 +921,7 @@ contento
 
 joy
 la alegría
+
+wheel
+la rueda
+

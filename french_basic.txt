@@ -7740,9 +7740,6 @@ chargé; rempli; plein; entièrement chargé
 delicious; yummy
 délicieux; savoureux
 
-joyful; joyous
-joyeux
-
 serious (situation)
 grave; sérieux
 
@@ -12672,5 +12669,5 @@ rien pour moi
 half kilo
 le demi-kilo
 
-joyful; happy; merry; cheerful
+joyful; joyous; happy; merry; cheerful
 joyeux
