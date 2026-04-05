@@ -934,3 +934,53 @@ lleno
 empty
 vacío
 
+inside
+dentro
+
+outside
+afuera
+
+we have already ordered
+ya hemos pedido
+
+here
+aqui
+
+may we sit down here?
+¿podemos sentarnos aquí?
+
+year
+el año
+
+one-year-old
+de un año
+
+cold
+frio
+
+sure
+claro
+
+secure
+seguro
+
+bakery (bread)
+la panadería
+
+drink
+la bebida
+
+open
+abierto
+
+closed
+cerrado
+
+I have no verbs!
+¡no tengo verbos!
+
+food
+la alimentacion; la nutrición
+
+broth; soup
+el caldo
