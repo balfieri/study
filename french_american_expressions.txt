@@ -453,3 +453,6 @@ passer une boule de démolition sur (quelque chose)
 
 (something) is a lemon (defective)
 (quelque chose) est une guimbarde
+
+this is serious business!
+c'est du sérieux!

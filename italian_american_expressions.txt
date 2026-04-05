@@ -7061,3 +7061,7 @@ prendere una palla da demolizione per (qualcosa)
 
 (something) is a lemon (defective)
 (qualcosa) è difettoso
+
+this is serious business!
+questo è un affare serio!
+

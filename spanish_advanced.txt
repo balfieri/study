@@ -13,9 +13,29 @@ la huerta
 garden rice
 el arroz de la huerta
 
-easter
-la pascua
+Easter
+la Pascua
+
+happy Easter
+feliz Pascua
 
 remote control
 el control remoto
 
+chocolatería
+la chocolatería
+
+connection
+la conexión
+
+I do not feel a connection
+no siento una conexión
+
+preposition
+la preposición
+
+Easter Monday
+lunes de Pascua
+
+joyous
+alegre
