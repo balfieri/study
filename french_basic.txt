@@ -12692,3 +12692,10 @@ l'impôt
 
 to look forward to it
 attendre cela avec impatience
+
+we have to first (do something)
+nous devons d'abord (faire quelque chose)
+
+not done yet
+pas encore fait
+
