@@ -12699,3 +12699,5 @@ nous devons d'abord (faire quelque chose)
 not done yet
 pas encore fait
 
+I'm going to ask (someone)
+je vais demander à (quelqu'un)
