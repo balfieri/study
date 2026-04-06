@@ -1114,6 +1114,12 @@ comprar
 to take; to drink
 tomar
 
+to eat
+comer
+
+to drink
+beber; tomar
+
 to think
 pensar
 
@@ -1137,4 +1143,25 @@ necesitar (hacer algo)
 
 to feel
 sentirse
+
+to sleep
+dormir
+
+to go to sleep
+ir a dormir
+
+to fall asleep
+dormirse; quedarse dormido; caer en el sueño
+
+to be tired
+estar cansado
+
+to wake up
+despertarse
+
+to get up
+levantarse
+
+to stand
+estar de pie
 
