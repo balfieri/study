@@ -12745,3 +12745,5 @@ pet (something)
 to stuff; to fill with stuffing
 farcir
 
+to give new voice to
+donner une nouvelle voix à
