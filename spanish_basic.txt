@@ -1070,7 +1070,7 @@ to leave; to allow
 dejar
 
 to seem; to appear
-parecer
+parecer; aparentar
 
 to stay; to remain
 quedar
@@ -1134,3 +1134,7 @@ entrar
 
 to need to (do something)
 necesitar (hacer algo)
+
+to feel
+sentirse
+
