@@ -319,20 +319,8 @@ el España
 to look at; to watch; to look
 mirar
 
-to talk
-hablar
-
-to say
-decir
-
 to listen
 escuchar
-
-to go
-ir
-
-to have
-haber
 
 blood
 la sangre
@@ -1036,3 +1024,113 @@ comprometido
 nightstick; baton; truncheon; club; sweepstakes; large churro
 la porra
 
+to be (permanent states)
+ser
+
+to be; to stay (temporary states, location)
+estar
+
+to have
+tener
+
+to go
+ir
+
+to say; to tell
+decir
+
+to be able to; to can
+poder
+
+to see; to watch
+ver
+
+to give
+dar
+
+to know (facts)
+saber
+
+to know; to be acquainted with
+conocer
+
+to want; to love
+querer
+
+to have (auxillary)
+haber
+
+to speak; to talk
+hablar
+
+to carry; to bring
+llevar
+
+to leave; to allow
+dejar
+
+to seem; to appear
+parecer
+
+to stay; to remain
+quedar
+
+to create
+creer
+
+to put; to place
+poner
+
+to arrive; to reach
+llegar
+
+to come
+venir
+
+to go out
+salir
+
+to return
+volver
+
+to wait; to hope
+esperar
+
+to need
+necesitar
+
+to work
+trabajar
+
+to live
+vivir
+
+to call
+llamar
+
+to buy
+comprar
+
+to take; to drink
+tomar
+
+to think
+pensar
+
+to think about (something, doing something)
+pensar en (algo, hacer algo)
+
+to look for; to search for
+buscar
+
+to research; to investigate
+investigar
+
+to leave; to depart; to set off
+partir
+
+to enter
+entrar
+
+to need to (do something)
+necesitar (hacer algo)
