@@ -19384,9 +19384,6 @@ disturbare
 in the interests of marital harmony
 nell'interesse dell'armonia coniugale
 
-coffee table
-il tavolino di caffè
-
 high (wasted); flipped out
 flippato
 
@@ -106009,7 +106006,7 @@ it sounds promising; sounds promising
 sembra promettente
 
 coffee table
-tavolino da caffè
+il tavolino da caffè; il tavolino di caffè
 
 double negative
 la doppia negazione
@@ -106190,4 +106187,7 @@ il tanga
 
 thongs
 i tanga
+
+pet (something)
+(qualcosa) domestico
 

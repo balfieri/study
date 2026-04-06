@@ -12701,3 +12701,12 @@ pas encore fait
 
 I'm going to ask (someone)
 je vais demander à (quelqu'un)
+
+request
+la requête
+
+sofa; couch
+le canapé
+
+paragraph
+le paragraphe
