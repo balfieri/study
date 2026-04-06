@@ -984,3 +984,30 @@ la alimentacion; la nutrición
 
 broth; soup
 el caldo
+
+cinnamon
+canela
+
+sugar
+el azúcar
+
+wheat
+el trigo
+
+red
+rojo
+
+fruit
+el fruto
+
+homemade
+casero
+
+sweet
+dulce
+
+sweet (noun)
+lo dulces
+
+cake
+el pastel

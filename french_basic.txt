@@ -6617,7 +6617,7 @@ c’est-à-dire
 despite everything
 malgré tout
 
-to support
+to support; to sustain; to back
 supporter; soutenir
 
 to be sick of
@@ -12683,3 +12683,10 @@ je n'ai pas de verbes!
 
 food; groceries; provisions
 la nourriture; les provisions; l'alimentation
+
+parsley
+le persil
+
+tax
+l'impôt
+

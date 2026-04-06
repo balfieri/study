@@ -2458,7 +2458,7 @@ meglio
 worse
 peggio
 
-flu
+flu; clout
 l'influenza
 
 cough

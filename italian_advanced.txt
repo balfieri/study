@@ -20647,7 +20647,7 @@ il trauma
 llama
 il lama
 
-the llamas
+llamas
 i lama
 
 gnu
@@ -106130,4 +106130,64 @@ en vrac
 
 one-year-old
 un bambino di un anno
+
+weapons
+le armi
+
+wings
+le ali
+
+snake
+la biscia
+
+boas; boa constrictors
+i boa
+
+koala
+il koala
+
+koalas
+i koala
+
+puma
+il puma
+
+pumas
+i puma
+
+cobras
+i cobra
+
+panda
+il panda
+
+pandas
+i panda
+
+barracuda
+il baracuda
+
+barracudas
+i barracuda
+
+body doubles; look-alikes
+i sosia
+
+executioner
+il boia
+
+executioners
+i boia
+
+gorgonzola
+il gorgonzola
+
+gorgonzolas
+i gorgonzola
+
+thong
+il tanga
+
+thongs
+i tanga
 

@@ -48,3 +48,7 @@ aislar
 
 isolated
 aislado
+
+snowflake
+el copo
+

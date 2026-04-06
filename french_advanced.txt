@@ -1372,7 +1372,7 @@ volontaire
 maze
 le labyrinthe
 
-investigation
+investigation; inquest
 l'enquête
 
 forbidden; prohibited
@@ -3886,7 +3886,7 @@ en commentaire
 wounded; injured
 blessé
 
-fire
+fire (instance)
 l'incendie
 
 glory
@@ -12561,4 +12561,163 @@ opter
 
 one-year-old
 l'enfant d'un an; la fillette d'un an; le garçon d'un an
+
+waltz
+la valse
+
+closure
+la fermeture
+
+surge
+la flambée
+
+oil
+le pétrole
+
+takeoff
+le décollage
+
+la Florida
+Floride
+
+handful
+la poignée
+
+crash
+le fraccas
+
+conquest
+la conquète
+
+capsule
+la capsule
+
+speech
+l'allocution
+
+siren
+la sirène
+
+resounding
+retentissant
+
+shot
+le tir
+
+dawn
+le lever du jour
+
+déshonneur
+dishonor
+
+definitive
+définitif
+
+stone age
+l'âge de pierre
+
+arm wrestling
+le bras de fer
+
+ignition
+l'embrasement
+
+to fear
+craigner
+
+daily (noun)
+le quotidien
+
+enterprise
+l'enteprise
+
+negligence
+la négligence
+
+to abandon; to leave; to forsake; to desert
+délaisser
+
+abandoned
+délaissé
+
+lawyer
+le liquistre
+
+Israeli
+israélien
+
+truce
+la trêve
+
+civilian
+le civil
+
+several
+plusiers
+
+to file a complaint
+déposer plainte
+
+war crime
+le crime de guerre
+
+hierarchy
+l'érarchie
+
+approach
+la démarche
+
+targeted
+ciblé
+
+to catch fire
+prendre feu
+
+to demage
+endommager
+
+damaged
+endommagé
+
+crusade
+la croisade
+
+unprecedented
+inédit
+
+to bequeath
+léguer
+
+decree
+le décret
+
+the White House
+la Maison Blanche
+
+questioning (investigation)
+le remise en cause
+
+birthright
+le droit du sol
+
+GDP
+le PIB
+
+inequality
+l'inégalité
+
+to erode
+éroder
+
+disproportionate
+disproportionné
+
+traceability
+la traçabilité
+
+stadium
+le stade
+
+visa
+le visa
 
