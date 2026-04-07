@@ -1176,3 +1176,9 @@ la pasa de uva
 
 dry
 seco
+
+obvious
+obvio
+
+obviously
+obviamente
