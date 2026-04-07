@@ -106197,3 +106197,9 @@ grazie davvero
 to give new voice to
 dare nuova voce a
 
+early-riser
+la persona che si alza presto
+
+late-riser
+la persona che si alza tardi
+
