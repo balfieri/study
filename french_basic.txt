@@ -12716,3 +12716,6 @@ la mousse
 
 end; tip; piece
 le bout
+
+I remember few; I remember little
+Je me souviens de peu
