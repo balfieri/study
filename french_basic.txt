@@ -55,9 +55,6 @@ quel temps fait-il?
 the weather is
 il fait
 
-fantastic
-fantastique
-
 I don't know
 je ne sais pas
 
@@ -12091,7 +12088,7 @@ to save (bank); to put aside
 épargner
 
 great; awesome; fantastic
-très beau; magnifique; splendide; superbe
+très beau; magnifique; splendide; superbe; fantastique
 
 a year and a half
 un an et demi
@@ -12719,3 +12716,24 @@ le bout
 
 I remember few; I remember little
 Je me souviens de peu
+
+the first four
+les quatre premières
+
+what an aroma!
+quel arôme !
+
+chickn shop
+le magasin de poulet
+
+seafood
+les fruits de mer
+
+cranberry
+la canneberge
+
+red pepper
+le piment rouge
+
+green pepper
+le piment vert

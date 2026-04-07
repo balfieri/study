@@ -742,6 +742,9 @@ Navidad
 clean
 limpio
 
+dirty
+sucio
+
 container
 el envase
 
@@ -1182,3 +1185,72 @@ obvio
 
 obviously
 obviamente
+
+butcher shop
+la carnicería
+
+what an aroma!
+¡qué aroma!
+
+chicken shop
+la pollería
+
+capers (cooking)
+las alcaparras
+
+cleanup; grooming; restroom
+l'aseo
+
+seafood
+el marisco
+
+brewery
+la cervecería
+
+stairs
+les escaleras
+
+always
+siempre
+
+escalator
+la escalera mecánica
+
+elevator
+el ascensor
+
+here it is
+aquí está
+
+here they are
+aquí están
+
+cranberry
+el arándano
+
+apple
+la manzana
+
+melon
+el melón
+
+salt
+el sal
+
+pepper (spice)
+la pimienta
+
+pepper (vegetable)
+el pimiento
+
+red pepper
+el pimiento rojo
+
+green pepper
+el pimiento verde
+
+up
+arriba
+
+down
+abajo
