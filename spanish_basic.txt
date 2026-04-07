@@ -1165,3 +1165,14 @@ levantarse
 to stand
 estar de pie
 
+la ciruela
+plum
+
+prune
+la ciruela pasa
+
+raisin
+la pasa de uva
+
+dry
+seco
