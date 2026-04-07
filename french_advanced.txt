@@ -12877,3 +12877,6 @@ l'inflexion
 to defuse
 désamorcer
 
+to exemplify
+montrer par l'exemple; illustrer par l'exemple; être un exemple typique
+
