@@ -1254,3 +1254,21 @@ arriba
 
 down
 abajo
+
+natural
+natural
+
+to agree with
+estar de acuerdo con
+
+to hate
+odiar a
+
+I like it
+me gusta
+
+I like (something)
+me gusta (algo)
+
+with you
+contigo
