@@ -6438,7 +6438,7 @@ on board
 à bord
 
 usually
-d'habitude
+d'habitude; habituellement
 
 I usually go to
 je vais habituellement à
@@ -11497,7 +11497,7 @@ on Fridays
 le vendredi
 
 every Friday
-tous les vendredis
+tous les vendredis; les vendredis
 
 to let (somebody) know
 informer (quelqu’un); faire savoir (à quelqu’un)
@@ -12710,3 +12710,9 @@ le canapé
 
 paragraph
 le paragraphe
+
+mousse
+la mousse
+
+end; tip; piece
+le bout

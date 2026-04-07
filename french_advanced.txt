@@ -424,9 +424,6 @@ fou; folle
 struggle; fight
 la lutte
 
-end; tip; piece
-le bout
-
 humble
 humble; modest
 
@@ -12747,3 +12744,126 @@ farcir
 
 to give new voice to
 donner une nouvelle voix à
+
+wth voice off
+en voix off
+
+rainy
+pleuvieux
+
+district
+l'arrondissement
+
+for a few hours
+pendant quelques heures
+
+brewery
+la brasserie
+
+cobblestone
+le pavé
+
+salmon
+le saumon
+
+mashed potatoes
+la purée
+
+gratin
+le gratin
+
+for dessert
+en dessert
+
+chocolate mousse
+la mousse au chocolat
+
+on the wall
+au mur
+
+facade
+la façade
+
+plum
+la prune
+
+prune
+le pruneau
+
+breadth
+la largeur
+
+breadth of experience
+la largeur d'expérience
+
+mosque
+la mosquée
+
+delighted; enchanted
+enchanté
+
+in the course of
+en cours de
+
+to note
+constater
+
+to talk again
+reparler
+
+reading report
+le bilan lecture
+
+to apprehend
+appréhender
+
+to scare a bit
+faire un peu peur
+
+full of things
+pleins de choses
+
+masterpiece
+le chef-d'œuvre
+
+acted
+acté
+
+tale
+le conte
+
+noted
+constaté
+
+early-riser
+le lève-tôt
+
+late-riser
+le lève-tard
+
+on my side
+de mon côté
+
+power of attorney; proxy
+la procuration
+
+re-elected
+réelu
+
+noticed
+remarqué
+
+red-light district
+le quartier chaud
+
+astonished
+étonné
+
+precision
+la précision
+
+time-consuming
+chronophage
+
+gentle soul
+l'âme douce
