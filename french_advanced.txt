@@ -12873,3 +12873,7 @@ au moment où (quelque chose se passe)
 
 inflection; bending; shift; change of direction
 l'inflexion
+
+to defuse
+désamorcer
+
