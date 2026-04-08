@@ -5704,9 +5704,6 @@ le lapin
 goat
 la chèvre
 
-rooster
-le coq
-
 turkey
 le dinde
 

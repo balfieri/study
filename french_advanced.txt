@@ -13009,3 +13009,9 @@ la menace de mort
 dust
 la poussière; la poudre
 
+hen
+la poule
+
+rooster
+le coq
+

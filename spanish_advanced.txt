@@ -70,3 +70,9 @@ artificial
 toilet bowl cleaner
 el limpiador de taza del inodoro
 
+hen
+la gallina
+
+rooster
+el gallo
+
