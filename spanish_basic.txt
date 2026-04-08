@@ -1269,3 +1269,9 @@ me gusta
 
 with you
 contigo
+
+sir
+el señor
+
+madam
+la señora

@@ -20011,7 +20011,7 @@ lusingare
 it's not bad at all
 non è per niente male
 
-horn (car)
+horn (car); klaxon
 il clacson
 
 foreseeable future
@@ -68216,9 +68216,6 @@ la sicilianedda
 thank goodness that
 meno male che
 
-to faithfully follow
-seguire fedelmente
-
 since I've been here
 da quando sono qui
 
@@ -106217,3 +106214,18 @@ esemplificare
 
 anti-Christ; antichrist
 l'anticristo
+
+to faithfully follow; to follow faithfully
+seguire fedelment;
+
+it's right there
+è lì; è proprio lì
+
+quail
+la quaglia
+
+to eke out a gain
+guadagnare per un pelo
+
+avere mal di (qualcosa)
+to have pain in (something)
