@@ -172,6 +172,9 @@ les états-unis
 obviously; clearly
 évidemment; clairement
 
+obviously (at beginning of sentence)
+bien sûr; plutôt; naturellement
+
 I like it
 je l'aime; ça me plaît
 
@@ -6719,9 +6722,6 @@ write me; write to me
 absolutely; completely; totally
 absolument
 
-obviously; evidently
-évidemment
-
 England
 l'Angleterre
 
@@ -9536,9 +9536,6 @@ la foi
 
 belief
 la croyance
-
-help
-l'aide
 
 enemy
 l'ennemi
@@ -12758,4 +12755,19 @@ parlons de
 
 that is to say; in other words; I mean; namely
 c'est-à-dire
+
+when you have time
+quand tu as le temps
+
+be interested in (something)
+être intéressé par (quelque chose)
+
+help
+l'aide
+
+the most difficult (something)
+le (quelque chose) le plus difficile
+
+at the end of the month
+à la fin du mois
 
