@@ -1327,3 +1327,9 @@ el arte
 police
 la policía
 
+probably
+probablemente
+
+naturally
+naturalmente
+
