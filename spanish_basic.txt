@@ -1299,3 +1299,9 @@ el boleto
 
 train ticket
 el boleto de tren
+
+customer; client
+le cliente; la cliente
+
+user
+el usuario; la usuaria
