@@ -73590,7 +73590,7 @@ I am so relieved
 sono così sollevato
 
 to feel relieved
-sentirsi sollevato
+sentirsi sollevati
 
 seaside town
 la città di mare
@@ -106242,3 +106242,5 @@ l'oltraggio; l'indignazione
 holy war
 la guerra santa
 
+weekend stay; short weekend trip
+la breve permanenza nel fine settimana; il breve viaggio nel fine settimana
