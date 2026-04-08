@@ -694,6 +694,12 @@ douter
 alone
 seul
 
+above; on top; over
+dessus
+
+underneath; beneath; below; underside
+dessous
+
 especially; above all; most importantly
 surtout; par-dessus tout
 
