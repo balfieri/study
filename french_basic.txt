@@ -12794,3 +12794,7 @@ je vais essayer
 
 following (something)
 en suivant (quelque chose)
+
+to be hungry
+avoir faim
+
