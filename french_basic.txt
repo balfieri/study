@@ -11712,7 +11712,7 @@ le beau temps
 bad weather  
 le mauvais temps  
 
-on behalf of  
+on behalf of; in the name of
 au nom de  
 
 grated (cheese, bread)  
@@ -12744,3 +12744,5 @@ impliqué dans
 I am delighted that
 je suis ravie que
 
+to be difficult to (do something)
+être difficile de (faire quelque chose)

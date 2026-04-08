@@ -2713,3 +2713,6 @@ the navigation system will proceed directly to the initial approach fix; this ca
 
 activating a leg of an approach vs. proceeding direct to a fix
 activating the leg activates the segment, so the navigation system will attempt to join the segment like it would join a localizer; going direct goes directly from the current location to the fix and should be used only when you are cleared direct to the fix; either way, the navigation system will resume sequencing
+
+when going missed on a non-precision approach without a DA, remember to
+first fly to the MAP before beginning the missed approach, otherwise you could end up flying along a dangerous path

@@ -1267,8 +1267,5 @@ odiar a
 I like it
 me gusta
 
-I like (something)
-me gusta (algo)
-
 with you
 contigo
