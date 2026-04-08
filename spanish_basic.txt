@@ -1282,3 +1282,6 @@ nuevo
 old
 viejo
 
+route
+la ruta
+
