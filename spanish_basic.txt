@@ -1305,3 +1305,25 @@ le cliente; la cliente
 
 user
 el usuario; la usuaria
+
+paradise
+el paraíso
+
+it is worth it
+vale la pena
+
+profumes and cosmetics
+la perfumería
+
+plant
+la planta
+
+candle
+vela
+
+art
+el arte
+
+police
+la policía
+

@@ -82,3 +82,6 @@ el romero
 peas
 los guisantes
 
+illustration
+la ilustración
+
