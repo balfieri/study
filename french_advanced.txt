@@ -5311,9 +5311,6 @@ sélectionné
 sergeant
 le sergent
 
-army
-l'armée
-
 to deal the cards
 distribuire les cartes
 
@@ -12984,4 +12981,7 @@ la guerre sainte
 
 holy
 saint; sacré
+
+military; army
+l'armée
 
