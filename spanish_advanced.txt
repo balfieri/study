@@ -76,3 +76,9 @@ la gallina
 rooster
 el gallo
 
+rosemary
+el romero
+
+peas
+los guisantes
+
