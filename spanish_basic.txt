@@ -1285,3 +1285,17 @@ viejo
 route
 la ruta
 
+speed; velocity
+la velocidad
+
+train
+el tren
+
+high-speed
+de alta velocidad
+
+ticket
+el boleto
+
+train ticket
+el boleto de tren
