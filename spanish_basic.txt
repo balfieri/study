@@ -1275,3 +1275,10 @@ el señor
 
 madam
 la señora
+
+new
+nuevo
+
+old
+viejo
+

@@ -13015,3 +13015,6 @@ la poule
 rooster
 le coq
 
+nonexistent; non-existent
+inexistant
+
