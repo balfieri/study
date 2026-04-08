@@ -11800,9 +11800,6 @@ une journée est suffisante
 gantry; portal frame
 le portique
 
-sign
-le panneau
-
 I've heard about it
 j'en ai entendu parler
 
@@ -12915,3 +12912,60 @@ commettre un génocide
 
 Republican
 le républicain
+
+sign; panel; signboard
+le panneau
+
+display; screen; poster
+l'affichage
+
+candidate
+le candidat
+
+placed; put; laid
+posé
+
+suivre fidèlement; suivre à la lettre
+to follow faithfully
+
+famine
+la famine
+
+enclosure
+l'enclos
+
+he is right there; it is right there
+il est juste là
+
+spread out; displayed; laid out
+étalé
+
+elephant
+l'éléphant
+
+that one; this one-that one
+celui-ça
+
+uncomfortable; ill at ease
+mal à l'aise
+
+in flood; swollen; in spate
+en crue
+
+horn; klaxon; car horn
+le klaxon
+
+quay; platform; wharve
+le quai
+
+water bottle; canteen
+la gourde
+
+to eke out a gain
+arracher un gain; grappiller un profit
+
+to have pain in (something); to have a (something) ache; to have a (something) pain
+avoir mal à (quelque chose)
+
+in advance; ahead of time
+à l'avance
