@@ -106263,3 +106263,6 @@ la frigata
 to augur
 presagire; predire dagli auspici
 
+incisive
+incisivo
+
