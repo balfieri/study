@@ -49201,6 +49201,9 @@ posare; mettere giù
 to suck; to drain; to suck back in
 risucchiare; drenare
 
+sucked in; sucked up; swallowed up
+risucchiato
+
 regardless of
 indipendentemente da; a prescindere da
 
@@ -99437,8 +99440,8 @@ narcotizzato
 Horton
 ortone
 
-to get sucked into (something)
-essere risucchiato in (qualcosa); farsi risucchiare in (qualcosa)
+to get sucked into (something); to get swallowed up by (something)
+essere risucchiati in (qualcosa); farsi risucchiare in (qualcosa)
 
 to knock down; to bring down quickly; to cut short (figuratively)
 stroccare
