@@ -13069,3 +13069,6 @@ l'indice
 raincoat; mac
 l'imper
 
+astronaut
+l'astronaute
+
