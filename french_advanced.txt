@@ -13113,3 +13113,10 @@ l'honneur
 
 tribute
 le tribut; l'hommage
+
+investment
+l'investissement
+
+divestment
+le désinvestissement
+
