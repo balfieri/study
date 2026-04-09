@@ -13096,3 +13096,8 @@ braire; brailler
 to lurk
 se tapir; se cacher; rôder
 
+replaceable
+remplaçable
+
+irreplaceable
+irremplaçable
