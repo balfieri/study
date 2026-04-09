@@ -11926,7 +11926,7 @@ se référer à
 to draw the consequences
 en tirer les conséquences
 
-reshuffle
+reshuffle; shake-up
 le remaniement
 
 center-right
@@ -13072,3 +13072,14 @@ l'imper
 astronaut
 l'astronaute
 
+frigate
+la frégate
+
+to show one's face
+se montrer le visage
+
+to stand behind (something)
+se tenir derrière (quelque chose); soutenir (quelque chose)
+
+to intimidate
+intimider

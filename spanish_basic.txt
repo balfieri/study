@@ -73,9 +73,6 @@ nada
 thanks; thank you
 gracias
 
-to add
-ajouter
-
 tense
 el tiempo
 
@@ -97,8 +94,14 @@ muy bien
 to do; to make
 hacer
 
+done; made
+hecho
+
 to prepare
 preparar
+
+prepared
+preparado
 
 table
 la mesa
@@ -304,6 +307,9 @@ la cuenta
 to add
 añadir
 
+added
+añadido
+
 container
 el contenedor
 
@@ -319,8 +325,14 @@ el España
 to look at; to watch; to look
 mirar
 
+looked; seen; watched
+mirado
+
 to listen
 escuchar
+
+listened
+escuchado
 
 blood
 la sangre
@@ -346,6 +358,9 @@ disculpa; disculpe
 to excuse; to forgive; to pardon
 disculpar
 
+excused; forgiven; pardoned
+disculpado
+
 excuse me (trying to pass)
 permiso; disculpa; disculpe
 
@@ -369,6 +384,9 @@ where is (something)?
 
 to learn
 aprender
+
+learned
+aprendido
 
 receipt
 el recibo
@@ -478,11 +496,20 @@ la luz
 to turn on (something)
 encender (algo)
 
+turned on
+encendido
+
 to turn off (something)
 apagar (algo)
 
+turned off
+apagado
+
 to pay
 pagar
+
+paid
+pagado
 
 stovetop
 la placa de cocina
@@ -505,11 +532,20 @@ averiguar cómo (hacer algo)
 to find out; to ascertain
 averiguar
 
+found out; ascertained
+averiguado
+
 to find
 encontrar
 
+found
+encontrado
+
 to try
 intentar
+
+tried
+intentado
 
 prayer  
 la oración
@@ -600,6 +636,9 @@ la persona
 
 to miss
 extrañar
+
+missed
+extrañado
 
 how good!
 ¡qué bien!
@@ -780,9 +819,6 @@ la naranja
 
 orange juice
 el jugo de naranja
-
-done
-hecho
 
 plastic
 el plástico
@@ -1030,101 +1066,200 @@ la porra
 to be (permanent states)
 ser
 
+been; was
+sido
+
 to be; to stay (temporary states, location)
 estar
+
+been; stayed
+estado
 
 to have
 tener
 
+had
+tenido
+
 to go
 ir
+
+gone; went
+ido
 
 to say; to tell
 decir
 
+said; told
+dicho
+
 to be able to; to can
 poder
+
+was able; could
+podido
 
 to see; to watch
 ver
 
+seen; watched
+visto
+
 to give
 dar
+
+given
+dado
 
 to know (facts)
 saber
 
+known (facts)
+sabido
+
 to know; to be acquainted with
 conocer
+
+known; acquainted with
+conocido
 
 to want; to love
 querer
 
+wanted; loved
+querido
+
 to have (auxillary)
 haber
+
+had (auxillary)
+habido
 
 to speak; to talk
 hablar
 
+spoken; talked
+hablado
+
 to carry; to bring
 llevar
+
+carried; brought
+llevado
 
 to leave; to allow
 dejar
 
+left; allowed
+dejado
+
 to seem; to appear
 parecer; aparentar
+
+seemed; appeared
+parecido; aparentado
 
 to stay; to remain
 quedar
 
+stayed; remained
+quedado
+
 to create
 creer
+
+created
+creado
 
 to put; to place
 poner
 
+put; placed
+puesto
+
 to arrive; to reach
 llegar
+
+arrived; reached
+llegado
 
 to come
 venir
 
-to go out
+come; came
+venido
+
+to go out; to leave; to exit
 salir
+
+gone out; left; exited
+salido
 
 to return
 volver
 
+returned
+vuelto
+
 to wait; to hope
 esperar
 
-to need
+waited; hoped
+esperado
+
+to need; to necessitate
 necesitar
+
+needed; necessitated
+necesitado
 
 to work
 trabajar
 
+worked
+trabajado
+
 to live
 vivir
+
+lived
+vivido
 
 to call
 llamar
 
+called
+llamado
+
 to buy
 comprar
+
+bought
+comprado
 
 to take; to drink
 tomar
 
+taken; drunk
+tomado
+
 to eat
 comer
+
+eaten
+comido
 
 to drink
 beber; tomar
 
+drunk
+bebido; tomado
+
 to think
 pensar
+
+thought
+pensado
 
 to think about (something, doing something)
 pensar en (algo, hacer algo)
@@ -1132,14 +1267,26 @@ pensar en (algo, hacer algo)
 to look for; to search for
 buscar
 
+looked for; searched
+buscado
+
 to research; to investigate
 investigar
+
+researched; investigated
+investigado
 
 to leave; to depart; to set off
 partir
 
-to enter
+left; departed
+partido
+
+to enter; to go in
 entrar
+
+entered; gone in
+entrado
 
 to need to (do something)
 necesitar (hacer algo)
@@ -1149,6 +1296,9 @@ sentirse
 
 to sleep
 dormir
+
+slept
+dormido
 
 to go to sleep
 ir a dormir
@@ -1264,8 +1414,14 @@ estar de acuerdo con
 to hate
 odiar a
 
+hated
+odiado
+
 I like it
 me gusta
+
+to please
+gustar a
 
 with you
 contigo
@@ -1333,3 +1489,8 @@ probablemente
 naturally
 naturalmente
 
+to keep; to maintain
+mantener
+
+kept; maintained
+mantenido
