@@ -1789,3 +1789,11 @@ last
 end
 el fin
 
+today
+hoy
+
+yesterday
+ayer
+
+tomorrow
+mañana
