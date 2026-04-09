@@ -13089,3 +13089,6 @@ incisif
 
 to pause
 mettre en pause
+
+to bray; to utter loudly or harshly
+braire; brailler
