@@ -1797,3 +1797,7 @@ ayer
 
 tomorrow
 mañana
+
+hope
+la esperanza
+
