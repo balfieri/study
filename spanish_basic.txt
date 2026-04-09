@@ -1801,3 +1801,5 @@ mañana
 hope
 la esperanza
 
+pause
+la pausa

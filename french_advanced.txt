@@ -13086,3 +13086,6 @@ intimider
 
 incisive
 incisif
+
+to pause
+mettre en pause

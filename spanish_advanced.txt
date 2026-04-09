@@ -115,3 +115,6 @@ el limpiador de casas
 well (hole in ground)
 el pozo
 
+to pause
+pausar
+
