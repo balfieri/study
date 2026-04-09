@@ -1803,3 +1803,6 @@ la esperanza
 
 pause
 la pausa
+
+thing
+la cosa
