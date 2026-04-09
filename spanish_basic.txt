@@ -866,7 +866,7 @@ reality
 la realidad
 
 when
-cuando
+cuándo
 
 how
 cómo
@@ -1494,3 +1494,298 @@ mantener
 
 kept; maintained
 mantenido
+
+mama
+mom; mamá
+
+one-year old
+il niño de un año
+
+child
+el niño
+
+control
+el control
+
+luggage; baggage
+el equipaje
+
+for us two
+para nosotros dos
+
+we two
+nosotros dos
+
+emergency
+la emergencia
+
+evacuation
+la evacuación
+
+miss (girl)
+señorita
+
+soleil
+el sol
+
+trip 
+el viaje
+
+to save (money)
+ahorrar
+
+enjoy the view!
+¡disfruta la vista!
+
+to raise
+élever
+
+especially since
+especialmente desde
+
+emergency room
+la sala de emergencias
+
+window
+la ventana
+
+welcome!
+¡bienvenido!
+
+to push
+; empujar
+
+to pull
+tirar
+
+forum
+el foro
+
+artisan
+artésano
+
+nun
+la monja
+
+letter; menu
+la carta
+
+it has no taste
+no tiene sabor
+
+handmade
+hecho a mano
+
+ticket office
+la taquilla
+
+we miss you too
+también te extrañamos
+
+also; too
+también
+
+eye
+el ojo
+
+life
+la vida
+
+do we have to pay?
+¿tenemos que pagar?
+
+can we pay?
+¿podemos pagar?
+
+to must; to have to
+tener que
+
+jew
+el judio
+
+place
+el lugar; el lugare
+
+activity
+la actividada
+
+fish
+el pescado
+
+sauce; salsa
+la salsa
+
+on the other hand
+por otro lado
+
+Christian
+cristiano
+
+community
+la comunidad
+
+river
+el río
+
+close to
+cercano a
+
+neighborhood
+el vecindario
+
+before
+antes de
+
+king
+el rey
+
+calm!; no worries!
+¡tranquilo!
+
+the United States
+los Estados Unidos
+
+can we ship this to the United States
+¿podemos enviar esto a los Estados Unidos?
+
+may we touch it?
+¿podemos tocarlo?
+
+yet
+todavia
+
+I'm sorry, I don't speak Spanish well yet
+lo siento, no hablo español bien todavía
+
+I don't speak much Spanish
+no hablo mucho español
+
+I speak only English and Italian
+solo hablo inglés e italiano
+
+but; however
+pero
+
+however
+sin embargo
+
+to clean
+limpiar
+
+what time?
+¿a qué hora?
+
+whom
+a quién
+
+who
+quién
+
+ice
+el hielo
+
+strong
+fuerte
+
+knife
+el cuchillo
+
+soup
+la sopa
+
+fork
+el tenedor
+
+spoon
+la cuchara
+
+incredible
+increíble
+
+wonderful
+maravilloso
+
+absolutely
+absolutamente
+
+boy
+el chico
+
+girl
+la chica
+
+boyfriend
+el novio
+
+girlfriend
+la novia
+
+partner
+la pareja
+
+very kind
+muy amable
+
+anywhere
+en cualquier lugar
+
+everywhere
+en todas partes
+
+nowhere
+en ninguna parte
+
+question
+la pregunta
+
+answer
+la respuesta
+
+tierra
+la tierra
+
+seat
+el asiento
+
+on the train
+en el tren
+
+meanwhile
+mientras tanto
+
+that notwithstanding
+no obstante
+
+instruction
+la instrucción
+
+station
+la estación
+
+train station
+la estación de tren
+
+metro station
+la estación de metro
+
+metro stop
+la parada de metro
+
+bus
+el autobús
+
+bus stop
+la parada de autobús
+
+next
+siguiente
+
+previous
+anterior
+
+last
+último
+
+end
+el fin
+
