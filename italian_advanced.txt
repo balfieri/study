@@ -5896,7 +5896,7 @@ la tregua
 fence
 la recinzione; la staccionata; il recinto
 
-error; mistake
+error; mistake; misunderstanding
 il disguido; l'errore
 
 to make someone feel attached
@@ -40030,7 +40030,7 @@ portare fuori la spazzatura
 to take out the recycling
 portare fuori il riciclaggio
 
-separate waste collection
+separate waste collection; recycling (stuff to be recycled)
 la raccolta differenziata
 
 composting
@@ -106301,3 +106301,22 @@ dare nome di (qualcuno) a (qualcosa)
 
 industrial engineering; management engineering
 l'ingegneria gestionale
+
+bank transfer made
+l'avenuto bonificio; il bonifico effettuato
+
+IBAN coordinates
+le coordinate IBAN
+
+I'm sorry for the misunderstanding
+mi spiace del disguido
+
+international bank account number (IBAN)
+il numero di conto bancario internazionale
+
+extra work
+il lavoro extra
+
+to take out the recycling
+portare fuori la raccolta differenziata
+
