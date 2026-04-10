@@ -1806,3 +1806,28 @@ la pausa
 
 thing
 la cosa
+
+to threaten
+amenazar
+
+factory
+la fábrica
+
+farm
+la granja
+
+difficult
+difícil
+
+simple
+simple
+
+easy
+fácil
+
+sad
+triste
+
+day before yesterday
+el anteayer
+

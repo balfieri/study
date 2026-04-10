@@ -120,3 +120,7 @@ pausar
 
 the other day
 el otro día
+
+challenging
+desafiante
+
