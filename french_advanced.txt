@@ -3194,7 +3194,7 @@ whose; of which
 dont
 
 by chance; randomly
-par hazard
+par hasard; fortuitement
 
 flying lesson
 la leçon de vol
@@ -13128,3 +13128,6 @@ faire le brave; se comporter bravement
 
 to behave yourself; to be a good girl; to be good
 faire la brave; se comporter bravement
+
+fortuitous; incidental; accidental
+fortuit
