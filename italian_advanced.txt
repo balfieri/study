@@ -106283,3 +106283,7 @@ stare nascosti o in attesa; rimanere inosservati; leggere discussioni online sen
 
 divestment
 il divestimento
+
+alert
+l'allerta
+
