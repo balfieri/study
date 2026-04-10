@@ -1870,3 +1870,9 @@ el ferrocarril
 railroad station
 la estación de ferrocarril
 
+to chew
+masticar
+
+to bite
+morder
+
