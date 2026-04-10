@@ -13146,3 +13146,7 @@ l'allié
 
 allied
 allié
+
+ceasefire
+la cessation des hostilités
+
