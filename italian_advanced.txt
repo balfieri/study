@@ -106326,3 +106326,6 @@ il dipartimento di contabilità
 you're getting closer!
 ti stai avvicinando!
 
+stamp; timbre
+il timbro
+
