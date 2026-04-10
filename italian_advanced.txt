@@ -33178,7 +33178,7 @@ la capolinea
 splendor
 lo splendore
 
-snarky; cheeky; impudent
+snarky; cheeky; impudent; brash
 sfacciato
 
 in one's own way
@@ -106337,3 +106337,4 @@ il giorno dopo
 
 gallop
 galoppare
+
