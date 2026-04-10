@@ -13171,3 +13171,9 @@ les recyclables
 to take out the recycling
 sortir les recyclables
 
+accounting
+la comptabilité
+
+accounting department
+le service comptabilité
+
