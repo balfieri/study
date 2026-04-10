@@ -124,3 +124,12 @@ el otro día
 challenging
 desafiante
 
+ingredient
+el ingrediente
+
+trace
+la traza
+
+railroad track
+la vía férrea
+
