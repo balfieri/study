@@ -13218,3 +13218,6 @@ déplacer; évincer
 
 to gallop
 galoper
+
+outsider; underdog
+l'étranger; l'outsider; l'underdog
