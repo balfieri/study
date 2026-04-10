@@ -38281,7 +38281,7 @@ il jazz
 distanced; pushed away; estranged
 allontanato
 
-to fasten one's seatbelt
+to fasten one's seatbelt; to strap in; to get buckled in
 allacciare la cintura di sicurezza
 
 gods
@@ -106325,3 +106325,4 @@ il dipartimento di contabilità
 
 you're getting closer!
 ti stai avvicinando!
+
