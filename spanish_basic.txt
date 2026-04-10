@@ -1399,6 +1399,9 @@ el pimiento rojo
 green pepper
 el pimiento verde
 
+hot pepper
+el pimiento picante
+
 up
 arriba
 
