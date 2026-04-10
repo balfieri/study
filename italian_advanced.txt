@@ -16478,7 +16478,7 @@ voter fraud
 la frode elettorale
 
 white lie
-la bugia bianca; la bugia pietosa; la piccola bugia; la bugia a fin di bene
+la bugia innocua; la bugia bianca; la bugia pietosa; la piccola bugia; la bugia a fin di bene
 
 merciful; pitiful; compassionate
 pietoso; misericordioso
@@ -105203,9 +105203,6 @@ la tarma
 in a situation like this
 in una situazione come questa
 
-white lie
-la bugia innocua
-
 to tell a white lie
 dire una bugia innocua
 
@@ -106331,3 +106328,12 @@ non lo sopporto
 
 brief stint
 la breve esperienza; il breve periodo trascorso
+
+to shake
+secouere
+
+next day
+il giorno dopo
+
+gallop
+galoppare
