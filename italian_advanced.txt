@@ -106329,3 +106329,5 @@ ti stai avvicinando!
 stamp; timbre
 il timbro
 
+I can't stand it; I can't bear it
+non lo sopporto
