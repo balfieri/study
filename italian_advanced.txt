@@ -58475,11 +58475,11 @@ additato
 potato masher; potato ricer
 lo schiacciapatate
 
-to behave yourself; to be a good boy
+to behave yourself; to be a good boy; to be good
 fare il bravo
 
-to behave yourself; to be a good girl
-fare la bravo
+to behave yourself; to be a good girl; to be good
+fare la brava
 
 translucent
 traslucido
