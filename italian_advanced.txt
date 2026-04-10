@@ -4387,6 +4387,9 @@ afferrare
 to play catch
 fare due lanci
 
+the other day
+l'altro giorno
+
 just the other day
 proprio l'altro giorno
 
@@ -74363,7 +74366,7 @@ seguire; monitorare
 on the fast track
 sulla strada veloce
 
-track (vehicle)
+track (vehicle, tank)
 il cingolo
 
 message center

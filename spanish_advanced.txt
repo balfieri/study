@@ -118,3 +118,5 @@ el pozo
 to pause
 pausar
 
+the other day
+el otro día
