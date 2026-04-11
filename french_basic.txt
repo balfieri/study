@@ -6854,7 +6854,7 @@ la climatisation
 chapel
 la chapelle
 
-vacation
+vacation; holiday (non-official)
 les vacances
 
 holiday (official)
@@ -9290,9 +9290,6 @@ le revenu; la recette
 
 keyboard (computer, typewriter)
 le clavier
-
-holiday
-les vacances; le jour férié
 
 innkeeper
 l'aubergiste

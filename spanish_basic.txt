@@ -1876,3 +1876,35 @@ masticar
 to bite
 morder
 
+wife
+la esposa
+
+husband
+el esposo
+
+spouse
+el cónyuge; la cónyuge
+
+woman
+la mujer
+
+man
+el hombre
+
+to ask
+preguntar
+
+to wonder; to ask oneself
+preguntarse
+
+email
+el correo electrónico
+
+password
+la contraseña
+
+to forget
+olvidar
+
+to forget to (do something)
+olvidarse de (hacer algo)

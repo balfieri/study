@@ -133,3 +133,9 @@ la traza
 railroad track
 la vía férrea
 
+to ruin
+arruinar
+
+to recover
+recuperar
+
