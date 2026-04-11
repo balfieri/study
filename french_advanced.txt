@@ -911,7 +911,7 @@ sponge
 l'éponge
 
 work-life balance
-l'équilibre travail-vie; l'équilibre vie professionnelle et vie privée
+l'équilibre travail-vie; l'équilibre entre vie professionnelle et vie privée
 
 to split in half
 couper en deux; diviser en deux
@@ -1975,7 +1975,7 @@ what are you thinking about?
 at ease
 à l'aise
 
-formal; sustained
+sustained; supported
 soutenu
 
 outside Paris
@@ -13327,6 +13327,18 @@ botanique
 order
 la commande
 
-to wow
-impressioner; épater
+to amaze; to wow; to impress
+épater; impressioner
+
+gaudy
+criard
+
+beach house
+la maison de plage
+
+no pressure!
+pas de pression!
+
+difficult to impress
+difficile à impressionner
 

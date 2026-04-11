@@ -12795,3 +12795,5 @@ en suivant (quelque chose)
 to be hungry
 avoir faim
 
+phew!
+ouf!
