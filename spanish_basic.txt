@@ -1914,3 +1914,7 @@ la bicicleta
 
 scooter
 el scooter
+
+to send; to ship
+enviar
+
