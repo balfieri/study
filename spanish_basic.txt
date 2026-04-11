@@ -199,9 +199,6 @@ ochenta
 ninety
 noventa
 
-one hundred
-cien
-
 egg
 el huevo
 
@@ -2070,4 +2067,55 @@ construir
 
 sandwich
 el bocadillo
+
+family
+la familia
+
+zero
+cero
+
+one hundred; hundred
+cien
+
+thousand
+mil
+
+seven thousand
+siete mil
+
+billion
+mil millones
+
+fifth
+quinto
+
+sixth
+sexto
+
+seventh
+séptimo
+
+eighth
+octavo
+
+ninth
+noveno
+
+tenth
+décimo
+
+eleventh
+undécimo
+
+twentieth
+vigésimo
+
+hundreth
+centésimo
+
+thousandth (adjective)
+milésimo
+
+cent (penny)
+el centavo
 
