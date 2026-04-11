@@ -9787,9 +9787,6 @@ la riacutizzazione
 health status
 lo stato di salute
 
-it's maddening
-è esasperante
-
 in the grand scheme of things
 nel grande schema delle cose
 
@@ -34525,8 +34522,8 @@ ecco tutto
 apologetic
 scusante
 
-exasperating
-esasperante
+exasperating; maddening; infuriante
+esasperante; infuriante
 
 person who often apologizes
 la persona che si scusa spesso
@@ -40689,9 +40686,6 @@ nessuno dei due
 
 I like neither apples nor oranges
 Non mi piacciono né le mele né le arance
-
-maddening
-esasperante; infuriante
 
 mixed reality
 la realtà mista
