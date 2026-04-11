@@ -3707,10 +3707,10 @@ proactive
 proactif
 
 in the north
-dans le sud
+dans le nord
 
 in the south
-dans le nord
+dans le sud
 
 rather than; instead of
 plûtot que
@@ -13344,3 +13344,7 @@ difficile à impressionner
 
 what do you say?
 qu'est-ce que tu en dis?
+
+audio guide
+l'audioguide
+
