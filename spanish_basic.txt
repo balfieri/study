@@ -1921,3 +1921,153 @@ enviar
 to download
 descargar
 
+platform
+el andén
+
+breakfast
+el desayuno
+
+lunch
+el almuerzo
+
+dinner
+la cena
+
+hot
+caliente
+
+warm
+cálido
+
+to eat inside
+comer dentro
+
+to eat outdide
+comer fuera
+
+lactose
+la lactosa
+
+oats
+la avena
+
+caffeine
+la cafeína
+
+caffeinated
+cafeinado
+
+decaffeinated
+descafeinado
+
+farm
+la finca
+
+I'll wait out here
+esperaré aquí afuera
+
+too
+demasiado
+
+too early
+demasiado temprano
+
+late
+tarde
+
+store; shop
+la tienda
+
+young
+joven
+
+newborn
+el recién nacido
+
+may I take this?
+¿puedo tomar esto?
+
+too soon
+demasiado pronto
+
+too late
+demasiado tarde
+
+I am being honest
+estoy siendo honesto
+
+that's good!
+¡eso está bien!
+
+thank God!
+¡gracias a Dios!
+
+to disappoint (somebody)
+decepcionar a (alguien)
+
+coarse
+rozzo
+
+to get more
+conseguir más
+
+french fries
+las papas fritas
+
+hamburger
+la hamburguesa
+
+meal
+la comida
+
+product
+el producto
+
+donation
+la donación
+
+meat
+la carne
+
+simplified
+simplificado
+
+to press
+pulsar
+
+garden
+el jardín
+
+national
+nacional
+
+to scan
+escanear
+
+code
+el código
+
+opinion
+la opinión
+
+date
+la fecha
+
+order
+el pedido
+
+time
+la hora
+
+marked
+marcado
+
+to mark
+marcar
+
+to build
+construir
+
+sandwich
+el bocadillo
+
