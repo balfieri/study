@@ -13348,3 +13348,27 @@ qu'est-ce que tu en dis?
 audio guide
 l'audioguide
 
+unavailable
+indisponible
+
+to help in some way
+aider d'une certaine manière
+
+to help in any way possible
+aider de toute façon possible
+
+to hinder
+entraver; gêner
+
+to be stuck
+être coincé; être bloqué
+
+to get stuck
+se coincer; s'atascar; rester coincé
+
+to rig the system
+truquer le système
+
+fixed; rigged; fake; faked
+truqué
+

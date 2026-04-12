@@ -181,7 +181,7 @@ je l'aime; ça me plaît
 I like it a lot; I love it a lot
 je l'aime beaucoup
 
-between
+between; among
 entre
 
 for the two
@@ -6479,7 +6479,7 @@ why not?
 to immerse oneself
 s'immerger
 
-francophone
+francophone; French speaker
 le francophone
 
 thin

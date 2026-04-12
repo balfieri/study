@@ -2119,3 +2119,113 @@ milésimo
 cent (penny)
 el centavo
 
+available
+disponible
+
+to help
+ayudar
+
+color
+el color
+
+favorite
+favorito
+
+I don't know
+no sé
+
+to sit down
+sentarse
+
+dog
+el perro
+
+to be afraid
+tener miedo; temer
+
+sweets
+los dulces
+
+to improve
+mejorar
+
+to move (something)
+mover (algo)
+
+to move (intransitive)
+mudarse; trasladarse
+
+nephew
+el sobrino
+
+niece
+la sobrina
+
+grandson
+el nieto
+
+granddaughter
+la nieta
+
+of course!
+¡por supuesto!
+
+now; right now
+ahora
+
+public
+público
+
+choice
+la selección; la opción
+
+ready
+listo
+
+to practice
+practicar
+
+time
+la vez
+
+in particular
+en particular
+
+to pronounce
+pronunciar
+
+pronunciation
+la pronunciación
+
+vowel
+la vocal
+
+consonant
+la consonante
+
+sound
+el sonido
+
+accent
+el acento
+
+course
+el curso
+
+to take a course
+tomar un curso; hacer un curso
+
+subject
+el sujeto
+
+instead
+en vez
+
+letter (alphabet)
+la letra
+
+rather
+mejor dicho; bastante
+
+to succeed in (doing something)
+tener éxito en (hacer algo)
