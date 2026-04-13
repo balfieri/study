@@ -41629,9 +41629,6 @@ il via
 wipe
 la salvietta
 
-report; ratio; relation; relationship (formal)
-il rapporto
-
 to personalize
 personalizzare
 
@@ -106425,3 +106422,8 @@ nicchiare
 tough challenge
 la sfida dura
 
+kamikaze
+il kamikaze
+
+to everyone
+a tutti quanti

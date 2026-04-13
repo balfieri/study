@@ -8727,8 +8727,11 @@ l'espèce
 action
 l'action
 
-relationship (general); affair (romantic); relation
-la relation; la liaison; le rapport
+relationship (deeper, personal, emotional); affair (romantic)
+la relation; la liaison
+
+relationship (neutral, non-sexual, distant)
+le rapport
 
 act; deed
 l'acte; l'action
