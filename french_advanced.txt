@@ -4258,6 +4258,9 @@ l'amplificateur wifi; l'extenseur wifi
 draft
 le brouillon
 
+desirable
+désirable
+
 undesirable
 indésirable
 
