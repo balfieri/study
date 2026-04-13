@@ -12358,7 +12358,7 @@ l'incontinence
 resistance band
 l'élastique de résistance
 
-omelette
+omlet; omelette
 l'omelette
 
 ibuprofen
@@ -13569,3 +13569,15 @@ compromettre
 
 objectivity
 l'objectivité
+
+liberalism
+le libéralisme
+
+illiberalism
+l'illibéralisme
+
+misconduct
+l'inconduite; la faute professionnelle; la mauvaise conduite
+
+conduct
+la conduite

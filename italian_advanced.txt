@@ -24995,7 +24995,7 @@ accounting
 la contabilità
 
 liberalism
-liberalismo
+il liberalismo
 
 Bible
 la bibbia
@@ -106445,4 +106445,10 @@ direi di sì
 
 I don't want to get into the details
 non voglio entrare nei dettagli
+
+illiberalism
+l'illiberalismo
+
+misconduct
+la cattiva condotta
 
