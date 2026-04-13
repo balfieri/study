@@ -13452,3 +13452,10 @@ la monitorage
 
 to give an update; to send an update
 donner un point de situation; envoyer un point de situation
+
+platform
+la plate-forme
+
+call for peace
+l'appel à la paix
+

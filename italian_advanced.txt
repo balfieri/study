@@ -29294,7 +29294,7 @@ procession (religious)
 la processione
 
 primier; prime minister
-il premier
+il premier; la premier
 
 capitalistic
 capitalistico
@@ -106410,3 +106410,5 @@ stravincere
 to send an update; to give an update
 mandare un aggiornamento
 
+call for peace; appeal for peace
+l'appello per pace
