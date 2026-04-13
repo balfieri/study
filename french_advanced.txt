@@ -3991,7 +3991,7 @@ cela pourrait être un énorme problème
 it's a good thing (action)
 c'est une bonne chose que (action)
 
-to take seriously
+to take seriously; to get serious about
 prendre au sérieux
 
 never take me seriously
@@ -9271,7 +9271,7 @@ le fil desserré
 loose connection
 la connexion lâche
 
-property tax
+property tax; real estate tax
 la taxe foncière; le précompte immobilier
 
 breakdown; failure; outage; trouble
@@ -13398,3 +13398,39 @@ le bien collectif
 
 posturing; posture
 la posture
+
+video camera
+la caméra vidéo
+
+video call
+l'appel vidéo
+
+we need to get serious
+il faut qu'on se prenne au sérieux
+
+spleen; spleen
+rate; spleen
+
+Munich
+Munich
+
+Monaco
+Monaco
+
+weirdo; eccentric person; scatterbrained
+l'hurluberlu
+
+disorderly; disorganised; untidy; messy; disheveled; muddled
+désordonné
+
+hedge fund
+le fonds spéculatif
+
+consultant
+le consultant
+
+consulting
+la consultation; le consulting
+
+to do consulting
+faire du consulting

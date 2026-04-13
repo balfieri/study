@@ -4315,7 +4315,7 @@ in quanto
 excavation; dig
 lo scavo
 
-messed up
+messy; dishevelled; muddled
 scombinato
 
 in the foreground
@@ -97373,6 +97373,9 @@ il derby; la stracittadina; il derby di epsom
 Munich
 Monaco; Monaco di Baviera
 
+Monaco
+il Principato di Monaco
+
 polar bear
 l'orso polare
 
@@ -104492,8 +104495,11 @@ il filo lasso
 to get groped
 farsi palpeggiare
 
-property tax
+property tax (general, not just physical property)
 l'imposta patrimoniale
+
+municipal property tax; real estate tax
+l'imposta municipale unica (IMU)
 
 mortgage banker
 il bancario ipotecario; il funzionario di mutuo
@@ -106398,3 +106404,5 @@ il bene collettivo
 posturing
 il posturing; l'affettazione; l'atteggiamento; la posa
 
+hedge fund
+il hedge fund; il fondo hedge
