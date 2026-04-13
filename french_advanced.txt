@@ -7372,6 +7372,9 @@ rappelle-moi de te parler de (quelque chose)
 pushy person
 la personne insistante
 
+insistant; pushy
+insistante
+
 chip
 la pépite
 
