@@ -13153,9 +13153,6 @@ antistante
 fishing boat; trawler; fishing vessel
 il peschereccio
 
-abetting; abetment
-il favoreggiamento
-
 prosecution; proxy; power of attorney
 la procura
 
@@ -106388,4 +106385,13 @@ aiutare in ogni modo possibile
 
 to rig the system
 truccare il sistema
+
+pimping; aiding and abetting; abetting; abetment
+il favoreggiamento
+
+identity politics
+la politica identitaria
+
+collective good
+il bene collettivo
 
