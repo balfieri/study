@@ -13479,3 +13479,9 @@ le kamikaze
 
 the cloest thing to (something)
 la chose la plus proche de (qualque chose)
+
+rhetoric
+la rhétorique
+
+rhetorical
+rhétorique
