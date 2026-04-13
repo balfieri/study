@@ -6910,8 +6910,11 @@ la minoranza
 dew point
 il punto di rugiada
 
-reminder; callback; booster shot
+reminder; callback; booster; call; appeal
 il richiamo
+
+booster shot
+la dose di richiamo; il richiamo
 
 moisture; humidity; wetness
 l'umidità
@@ -64763,9 +64766,6 @@ orientarsi
 sense of direction
 il senso dell'orientamento
 
-to put on pause; to pause
-mettere in pausa
-
 veto power
 il potere di veto
 
@@ -72923,7 +72923,7 @@ l'alta definizione
 persistent cough
 la tosse persistente
 
-pause
+pause; to put on pause
 pausare; mettere in pausa
 
 progesterone
@@ -84688,9 +84688,6 @@ da questa parte, prego
 
 right this way
 proprio da questa parte
-
-booster
-il richiamo; la dose di richiamo
 
 signal booster
 l'amplificatore di segnale
@@ -106412,3 +106409,10 @@ mandare un aggiornamento
 
 call for peace; appeal for peace
 l'appello per pace
+
+laity
+i laici
+
+secular world
+il mondo laico
+
