@@ -9250,9 +9250,6 @@ je t'ai menti
 love at first sight; thunderbolt
 le coup de foudre
 
-posture
-la posture
-
 that night
 cette nuit-là
 
@@ -13395,3 +13392,6 @@ la politique identitaire
 
 collective good
 le bien collectif
+
+posturing; posture
+la posture

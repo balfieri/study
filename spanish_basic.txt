@@ -2272,3 +2272,33 @@ only
 computer
 el ordenador; la computadora
 
+travels; travel
+la viaja
+
+to travel
+viajar
+
+day trip
+le viaje de un día
+
+vacation
+les vacaciones
+
+holiday (official)
+le día oficial
+
+official
+oficial
+
+office
+la oficina
+
+building
+el edificio
+
+apartment
+el apartamento
+
+to produce
+producir
+

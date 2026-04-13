@@ -2293,7 +2293,7 @@ poco
 few
 pochi
 
-useless
+useless; pointless
 inutile
 
 unnecessary; not necessary; superfluous

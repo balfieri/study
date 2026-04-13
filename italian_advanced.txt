@@ -55451,7 +55451,7 @@ il controllo dei precedenti
 shiny; reflective
 lucido; brillante
 
-luminous; emitting light
+luminous; bright; emitting light
 luminoso
 
 gray space
@@ -106394,4 +106394,7 @@ la politica identitaria
 
 collective good
 il bene collettivo
+
+posturing
+il posturing; l'affettazione; l'atteggiamento; la posa
 

@@ -4336,7 +4336,7 @@ exact
 typical
 typique
 
-useless
+useless; pointless
 inutile
 
 on average
