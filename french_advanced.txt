@@ -1234,8 +1234,11 @@ sans compromis
 I'm telling you again; as i said
 je te le redis
 
-update
+update (change)
 la mise à jour
+
+update (on a situation)
+le point de situation
 
 sudden
 soudain; subit; brusque
@@ -13440,3 +13443,12 @@ l'emporter haut la main
 
 precipitation
 les précipitations
+
+prevention
+la prévention
+
+monitoring
+la monitorage
+
+to give an update; to send an update
+donner un point de situation; envoyer un point de situation
