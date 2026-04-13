@@ -12810,3 +12810,5 @@ ce n'est pas
 except when
 sauf quand
 
+etcetera; etc
+et cetera; etc
