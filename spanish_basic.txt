@@ -73,9 +73,6 @@ nada
 thanks; thank you
 gracias
 
-tense
-el tiempo
-
 word
 la palabra
 
@@ -901,9 +898,6 @@ sobre
 before; in the presence of
 ante
 
-under; below
-bajo
-
 against
 constra
 
@@ -1624,9 +1618,6 @@ cristiano
 community
 la comunidad
 
-river
-el río
-
 close to
 cercano a
 
@@ -2337,3 +2328,265 @@ el coche; el auto
 
 already
 ya
+
+name; noun
+el nombre
+
+pronoun
+el pronombre
+
+cost
+el coste
+
+website
+el sitio web; el web
+
+appointment; date
+la cita
+
+pine tree
+el pino
+
+bridge
+el puente
+
+yellow
+amarillo
+
+blue
+azul
+
+dark blue
+azul oscuro
+
+green
+verde
+
+orange
+naranjo
+
+pink
+rosa
+
+circle
+el círculo
+
+rectangle
+el rectángulo
+
+square
+el cuadrado
+
+triangle
+el triángulo
+
+to joke
+bromear
+
+I'm joking
+estoy bromeando
+
+I'm being serious
+voy en serio
+
+never
+nunca
+
+still
+todavía
+
+river
+el río
+
+arrow
+la flecha
+
+to lift
+levantar
+
+lid
+la tapa
+
+to understand
+entender
+
+saying
+el dicho
+
+Latin
+el latín
+
+to open
+abrir
+
+to close
+cerrar
+
+door
+la puerta
+
+to go up; to get on
+subir; montarse
+
+to go down; to get off
+bajar; bajarse
+
+the best price
+el mejor precio
+
+prize
+el premio
+
+emergency window
+la ventana de emergencia
+
+hunger
+la hambre
+
+I'm starving
+me muero de hambre
+
+jewelry store
+la joyería
+
+step
+el paso
+
+to step on
+pisar
+
+parking
+el aparcamiento
+
+historic
+histórico
+
+story; history
+la historia
+
+queen
+le reina
+
+careful!
+¡cuidado!
+
+croissant
+el croissant; el croisant
+
+space
+el espacio
+
+to explore
+explorar
+
+whenever you're ready!
+¡cuando estés listo!
+
+I'm ready
+estoy listo
+
+no bag, please
+sin bolsa, por favor
+
+menu
+el menú
+
+daily
+diario
+
+onion
+la cebolla
+
+offer
+la oferta
+
+calm
+tranquilo
+
+beer
+la cerveza
+
+pope
+el papa
+
+petrol
+el petróleo
+
+park
+el parque
+
+comfortable
+cómodo
+
+uncomfortable
+incómodo
+
+quickly
+rápidamente
+
+fast; quick
+rápido
+
+slow
+lento
+
+slowly
+lentamente
+
+time; weather; tense
+el tiempo
+
+prince
+el príncipe
+
+princess
+la princesa
+
+next
+próximo
+
+destination
+el destino
+
+I'm trying!
+¡lo estoy intentando!
+
+price
+el precio
+
+arrival
+la llegada
+
+expense
+el gasto
+
+rate
+la tasa
+
+to apply
+aplicar
+
+distance
+la distancia
+
+long
+largo
+
+short
+corto
+
+high; tall
+alto
+
+low; short; under; below
+bajo
+
+wide
+ancho
+
+narrow
+estrecho
+
+hey
+oye
+
