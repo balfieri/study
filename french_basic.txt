@@ -1855,7 +1855,7 @@ louer une voiture
 to reserve
 réserver
 
-gasoline; gas
+gasoline; gas; petrol
 l'essence
 
 reservation
@@ -12114,9 +12114,6 @@ moi non plus
 what is it?
 qu'est-ce que c'est?; c'est quoi?; c'est quoi ceci?
 
-I'm joking
-je blague
-
 at most
 au maximum
 
@@ -12586,7 +12583,7 @@ I appreciate it
 je l'apprécie
 
 I joke; I'm joking
-je plaisante
+je plaisante; je blague
 
 pleasing
 plaisant
@@ -12812,3 +12809,34 @@ sauf quand
 
 etcetera; etc
 et cetera; etc
+
+I'm being serious
+je suis sérieux
+
+to go up; to get on
+monter; grimper
+
+to gown down; to get off
+descendre; sortir
+
+best price
+le meilleur prix
+
+I'm starving
+j'ai une faim de loup
+
+lecture hall
+l'amphithéâtre
+
+whenever you're ready!
+dès que tu es prêt!
+
+I'm ready
+je suis prêt
+
+no bag, please
+sans sac, s'il vous plaît
+
+I'm trying!
+j'essaie!
+
