@@ -43072,7 +43072,7 @@ le tagliatelle
 gold rush
 la corsa all'oro
 
-to scale (climbing, algorithm)
+to scale (climbing, algorithm); to down-shift
 scalare
 
 to entrust to
@@ -72836,7 +72836,7 @@ il chiavistello della porta
 bolt; latch
 il chiavistello
 
-(something)-wise
+(something)-wise; in terms of (something)
 in termini di (qualcosa)
 
 perforated pipe 
@@ -106451,4 +106451,37 @@ l'illiberalismo
 
 misconduct
 la cattiva condotta
+
+I'm being serious
+sto facendo sul serio
+
+when it comes to (something)
+quando si tratta di (qualcosa)
+
+whenever you're ready!
+quando sei pronto!
+
+no bag, please
+senza sacchetto, per favore
+
+to downsize
+ridimensionarsi
+
+mistaken
+sgauiato
+
+dispute
+il dissidio
+
+wait-and-see attitude
+l'attendismo
+
+exploded
+deflagrato
+
+clashed
+cozzato
+
+to shelter
+mettere al riparo
 
