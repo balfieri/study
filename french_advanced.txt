@@ -13228,7 +13228,7 @@ l'étranger; l'outsider; l'underdog
 brash
 effronté; impétueux; impudent; irréfléchi
 
-sinister
+sinister; creepy
 sinistre
 
 admiration
@@ -13776,3 +13776,9 @@ pensif
 
 right at the bottom
 tout en bas
+
+extract; excerpt
+l'extrait
+
+or even
+ou même
