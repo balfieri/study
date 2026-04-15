@@ -1652,7 +1652,7 @@ I don't speak much Spanish
 no hablo mucho español
 
 I speak only English and Italian
-solo hablo inglés e italiano
+solo hablo inglés y italiano
 
 but; however
 pero

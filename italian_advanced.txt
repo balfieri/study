@@ -30766,9 +30766,6 @@ non c'è più latte
 forewarning; notice; warning; advance warning
 il preavviso
 
-sorry for the short notice
-scusa per il breve preavviso
-
 I apologize for the short notice
 mi scuso per il breve preavviso
 
@@ -69014,8 +69011,8 @@ tra ora e allora
 burst; gust
 la raffica; la folata
 
-I'm sorry for the short notice
-mi dispiace per il breve preavviso
+sorry for the short notice; I'm sorry for the short notice
+scusa per il breve preavviso; mi dispiace per il breve preavviso
 
 it was one of the best experiences that we've ever had
 è stata una delle migliori esperienze che abbiamo mai avuto

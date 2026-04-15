@@ -13810,3 +13810,6 @@ la chauffage
 heating and air conditioning (HVAC)
 la chauffage et la climatisation
 
+trajectory
+la trajectoire
+
