@@ -2590,3 +2590,8 @@ estrecho
 hey
 oye
 
+enough; sufficient
+suficiente
+
+vocabulary
+el vocabulario
