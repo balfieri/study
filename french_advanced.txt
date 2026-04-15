@@ -13729,3 +13729,24 @@ lier
 precipice
 le précipice
 
+erratic behavior
+le comportement erratique
+
+securities broker
+le courtier en valeurs mobilières
+
+broker
+le courtier
+
+investment broker
+le courtier en investissements
+
+high-level manager
+le cadre supérieur
+
+manager
+le manager
+
+financial services company
+la société de services financiers
+
