@@ -1588,7 +1588,7 @@ rester positif
 far from settled; far from resolved  
 loin d'être résolu  
 
-to resolve  
+to resolve; to sort out; to fix
 résoudre  
 
 technician  
@@ -13800,3 +13800,13 @@ trébucher
 
 I don't have enough vocabulary yet
 Je n'ai pas encore assez de vocabulaire
+
+plumbing
+la plomberie
+
+heating
+la chauffage
+
+heating and air conditioning (HVAC)
+la chauffage et la climatisation
+
