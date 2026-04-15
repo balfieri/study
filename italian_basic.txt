@@ -2033,7 +2033,7 @@ lamb
 l'agnello; l'abbacchio
 
 cow
-la mucca
+la mucca; la vacca
 
 pig; pork
 il maiale

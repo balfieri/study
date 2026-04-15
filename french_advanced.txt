@@ -2149,9 +2149,6 @@ le glacier
 to do a day trip
 faire une excursion d'une journée; faire une excursion
 
-il Gianicolo
-le Janicule
-
 affected
 affecté
 
@@ -8470,8 +8467,11 @@ ci-dessus
 on it; on that; about it
 là-dessus
 
-on top
-en dessus
+above; on top of
+en dessus de
+
+below; underneath; under
+en dessous de
 
 bedspread
 le dessus-de-lit
@@ -13782,3 +13782,13 @@ l'extrait
 
 or even
 ou même
+
+Janiculum; Gianicolo
+le Janicule
+
+to vaguely remember
+se souvenir vaguement
+
+pier; jetty; breakwater
+la jetée
+

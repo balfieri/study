@@ -2842,7 +2842,7 @@ dormir
 to finish
 finir
 
-to arrive; to happen (by chance)
+to arrive; to reach; to happen (by chance)
 arriver
 
 to clean
@@ -6197,7 +6197,7 @@ ordonner
 to sort
 trier
 
-to be missing; to be lacking; to be absent
+to be missing; to miss; to be lacking; to be absent
 manquer; être absent; faire défaut
 
 to see
@@ -6852,7 +6852,7 @@ washing machine
 la machine à laver
 
 air conditioning
-la climatisation
+la climatisation; la clim
 
 chapel
 la chapelle
