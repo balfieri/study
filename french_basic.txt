@@ -1687,6 +1687,9 @@ s’habiller
 alarm clock; alarm
 le réveil; l'alarme
 
+route
+la route
+
 highway
 l'autoroute
 
@@ -12840,3 +12843,5 @@ sans sac, s'il vous plaît
 I'm trying!
 j'essaie!
 
+less; fewer
+en moins

@@ -1420,7 +1420,7 @@ détestable
 unbearable
 insupportable; unbearable
 
-to catch up
+to catch up; to recapture
 rattraper
 
 discord
@@ -2017,7 +2017,7 @@ se pousser
 schedule; timetable
 l'horaire
 
-learning
+learning; apprenticeship
 l'apprentissage
 
 fair; market
@@ -9625,7 +9625,7 @@ ailleurs en (paix)
 recycling
 le recyclage
 
-chute; fall
+chute; fall; decline
 la chute
 
 garbage chute
@@ -13624,4 +13624,105 @@ l'indemnité
 repair; reparation
 la réparation
 
+the day after; on the day following
+au lendemain de
+
+to start cutting; to begin; to broach
+entamer
+
+about twenty; a score
+une vingtaine
+
+with a view to; in view of; in preparation for
+en vue de
+
+enemy; opponent
+l'ennemie
+
+aimed
+visé
+
+following; subsequent to
+à la suite de
+
+diplomatic
+diplomatique
+
+diplomat
+le diplomate; la diplomate
+
+near, close to, beside, next to; by; with
+auprès de
+
+blockade
+le blocus
+
+crude oil
+le pétrole brut
+
+to declare
+déclarer
+
+declared
+déclaré
+
+to affirm; to assert
+affirmer
+
+affirmed; asserted
+affirmé
+
+to specify; to make clear; to pinpoint
+préciser
+
+to fill in; to satisfy; to shower
+combler
+
+hit; struck; crashed
+percuté
+
+drop; decline; decrease; slump
+la baisse
+
+enrollment; workforce; strength
+l'effectif
+
+firstly; first of all; in the first place
+en premier lieu
+
+to get reorganized; to regroup
+se réorganiser
+
+to dread; to fear; to be afraid of
+redouter
+
+job cut; staff reduction; position elimination
+la suppression de postes  
+
+unpublished; new; unprecedented; never-seen-before; exclusive
+inédite
+
+projection
+la projection
+
+drastic
+drastique
+
+caught up; recaptured; caught
+rattrapé
+
+lag; gap; discrepancy; shift; time difference
+le décalage
+
+boon; godsend; windfall
+l'aubaine
+
+to prepare minds
+préparer les esprits
+
+to win over minds
+gagner les esprits
+
+to tie up; to bind; to link
+lier
 
