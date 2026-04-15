@@ -1954,7 +1954,7 @@ la finca
 I'll wait out here
 esperaré aquí afuera
 
-too
+too; too much
 demasiado
 
 too early
@@ -2595,3 +2595,43 @@ suficiente
 
 vocabulary
 el vocabulario
+
+to share
+compartir
+
+we would like a tortilla to share
+queremos una tortilla para compartir
+
+lastname; surname
+el apellido
+
+to be under the lastname (name)
+estar a nombre del apellido (nombre)
+
+I know
+lo sé
+
+cream
+la nata
+
+whipped cream
+la nata montada
+
+juice
+el zumo
+
+flan
+flan
+
+decided
+decidido
+
+finished
+terminado
+
+we have finished
+hemos terminado
+
+baby
+el bebé
+

@@ -220,3 +220,30 @@ no tengo suficiente vocabulario todavía
 trajectory
 la trayectoria
 
+surname
+apellido
+
+wine by the glass
+vino por copa
+
+we are ready
+estamos listos
+
+fantastic
+fantástico
+
+excellent
+excelente
+
+simple dish
+plato simple
+
+varied
+variado
+
+seasonal
+de temporada
+
+that's enough
+basta así
+
