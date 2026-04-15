@@ -12845,3 +12845,6 @@ j'essaie!
 
 less; fewer
 en moins
+
+we two; the two of us
+nous deux
