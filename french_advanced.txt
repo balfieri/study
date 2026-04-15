@@ -6355,7 +6355,7 @@ s'abstenir de
 refund
 le remboursement
 
-to obtain a refund
+to get a refund; to obtain a refund
 obtenir un remboursement
 
 to give back; to restore; to return; to refund; to restitute
@@ -13614,4 +13614,14 @@ la sécheresse
 
 bankruptcy
 la faillite
+
+compensation; recompense
+le dédommagement; la compensation l'indemnisation
+
+compensation; allowance; indemnity
+l'indemnité
+
+repair; reparation
+la réparation
+
 
