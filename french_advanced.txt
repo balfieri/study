@@ -2035,7 +2035,7 @@ baisser
 to rise
 monter; augmenter
 
-fluent
+fluent; common
 courant
 
 fluency
@@ -13791,4 +13791,7 @@ se souvenir vaguement
 
 pier; jetty; breakwater
 la jetée
+
+less common
+moins courant
 
