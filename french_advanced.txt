@@ -13496,7 +13496,7 @@ to rein in (something)
 reprendre en main (quelque chose); limiter (quelque chose); arrêter (quelque chose) en tirant sur les rênes
 
 two-dimensional
-bidimensionnel
+bidimensionnel; à deux dimensions
 
 three-dimensional
 trois dimensionnel
@@ -13755,7 +13755,4 @@ sous-peuplé
 
 sandstone; earthenware; stoneware
 le grès
-
-apparently
-apparemment
 
