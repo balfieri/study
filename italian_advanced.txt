@@ -106485,3 +106485,6 @@ cozzato
 to shelter
 mettere al riparo
 
+sandstone
+la pietra arenaria
+

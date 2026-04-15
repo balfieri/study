@@ -1876,7 +1876,7 @@ nature; simple
 to avoid
 éviter
 
-sculpture
+sculpture; carving
 la sculpture
 
 and rightly so
@@ -13749,4 +13749,13 @@ le manager
 
 financial services company
 la société de services financiers
+
+under-populated
+sous-peuplé
+
+sandstone; earthenware; stoneware
+le grès
+
+apparently
+apparemment
 
