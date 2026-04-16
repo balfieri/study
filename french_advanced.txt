@@ -5258,7 +5258,7 @@ therapeutic
 thérapeutique
 
 vertigo; dizziness
-le vertige
+le vertige; les vertiges
 
 guessed
 deviné
@@ -13905,3 +13905,13 @@ la dépendance excessive
 
 excessive
 excessif
+
+within reach; in reach; at one's fingertips
+à portée de main
+
+handrail
+la main courante
+
+dizzy
+pris de vertiges; vertigineux
+

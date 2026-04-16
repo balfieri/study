@@ -12106,7 +12106,7 @@ l'automobilismo
 skates
 i pattini
 
-dizziness
+dizziness; giddiness
 il capogiro
 
 shivers
@@ -35556,9 +35556,6 @@ la dicitura
 
 receptiveness; hospitality
 la ricettività
-
-dizziness; giddiness
-il capigiro
 
 to be terribly disappointed
 essere terribilmente delusi
@@ -62846,9 +62843,6 @@ i mezzi pubblici
 Christmas stocking
 la calza di Natale
 
-toilet seat
-il sedile del water
-
 the bar is high
 l'asticella è alta
 
@@ -84849,7 +84843,7 @@ when you land a role that makes you rich and famous
 quando ottieni un ruolo che ti rende ricco e famoso
 
 toilet seat
-la tavoletta del water
+la tavoletta del water; il sedile del water
 
 to check out 
 controllare; dare un'occhiata a
@@ -106551,3 +106545,11 @@ l'ansia sociale
 over-dependence on
 l'eccessiva dipendenza da
 
+tummy rub
+la carezza della pancia; il massaggio sulla pancia
+
+I can't even (do something)
+non riesco nemmeno a (fare qualcosa) 
+
+to keep up with (something)
+stare al passo con (qualcosa)
