@@ -106581,3 +106581,6 @@ sradicare; estirpare; diserbare
 have a seat; take a seat; please sit down; make yourself comfortable
 si accomodi
 
+online degree
+la laurea telematica
+
