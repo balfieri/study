@@ -1621,7 +1621,7 @@ la jambe
 stomach
 l'estomac
 
-gut
+gut; tummy
 le ventre; l'intestin
 
 finger

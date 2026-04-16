@@ -241,7 +241,7 @@ la gamba
 stomach
 lo stomaco
 
-gut
+gut; tummy
 la pancia
 
 fingers
