@@ -13820,9 +13820,6 @@ to open fire
 ouvrir le feu
 
 tier
-rangée; niveau; étage
-
-tier
 la rangée; le niveau; l'étage
 
 cacophonic; cacophonous
@@ -13935,3 +13932,40 @@ l'orgelet
 
 pigsty
 la porcherie
+
+trend
+la tendance
+
+paradoxically
+paradoxalement
+
+designed; conceived
+conçu
+
+augmentation; increase
+l'augmentation
+
+predisposed
+predisposé
+
+devastating
+dévastateur; dévastatrice
+
+verifiable
+vérifiable
+
+gardener
+le jardinier
+
+to weed
+désherber
+
+greenhouse
+la serre
+
+principle
+le principe
+
+paradox
+le paradox
+
