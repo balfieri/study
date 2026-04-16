@@ -2635,3 +2635,8 @@ hemos terminado
 baby
 el bebé
 
+may I enter?
+¿puedo entrar?
+
+at 8:30
+a las 8 y 30

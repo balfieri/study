@@ -31405,7 +31405,7 @@ il club sportivo; lo sport di club
 athletic scholarship
 la borsa di studio atletica; la borsa di studio sportiva
 
-to make up for; to compensate
+to make up for; to compensate for
 compensare; recuperare
 
 caulk
@@ -36722,7 +36722,7 @@ criminal lawyer
 l'avvocato penalista
 
 franchise
-il franchising
+il franchise; il franchising
 
 unconstitutional
 anticostituzionale
@@ -60064,9 +60064,6 @@ leggere avanti
 
 outside the house
 fuori casa
-
-upheaval
-il ribaltone
 
 to donate to charity; to give to charity
 donare in beneficenza
@@ -90029,7 +90026,7 @@ in grembo
 to be reeling
 essere frastornati; essere scossi; essere storditi
 
-to overcompensate
+to overcompensate for
 compensare eccessivamente; strafare
 
 overcompensation
@@ -103187,7 +103184,7 @@ il tormentatore; il bullo
 to turn off subtitles
 disattivare i sottotitoli
 
-to correspond to
+to correspond to; to gibe with
 corrispondere a
 
 chalet
@@ -106485,3 +106482,44 @@ mettere al riparo
 sandstone
 la pietra arenaria
 
+to open fire
+aprire il fuoco
+
+intact conscience; clear conscience
+la coscienza integra
+
+tier
+il livello; la fila; lo strato
+
+cacophonic
+cacofonico
+
+news
+i notiziari
+
+megaphone
+il megafono
+
+upheaval; somersault; overturning; reversal
+il ribaltone
+
+shareholding
+l'azionariato
+
+from Alba
+albese
+
+to smell; to sniff; to scent
+fiutare
+
+banknote; bill (physical paper money)
+la banconota
+
+commoditized
+commoditizzato
+
+to commoditize
+commoditizzare
+
+it suits you; it works for you; that's convenient for you
+ti conviene
