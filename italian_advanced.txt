@@ -19214,7 +19214,10 @@ within reason
 entro limiti ragionevoli
 
 robber
-il rapinatore
+il rapinatore; la rapinatrice
+
+kidnapper
+il rapitore; la rapitrice; il sequestratore; la sequestratrice
 
 to undress
 spogliere
