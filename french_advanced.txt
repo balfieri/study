@@ -13744,7 +13744,7 @@ le manager
 financial services company
 la société de services financiers
 
-under-populated
+under-populated; underpopulated
 sous-peuplé
 
 sandstone; earthenware; stoneware
@@ -13885,9 +13885,6 @@ le tabagisme
 cure-all; panacea
 la panacée
 
-underpopulated
-sous-peuplé
-
 contestation
 la contestation
 
@@ -13903,3 +13900,8 @@ la prédisposition
 social anxiety
 l'anxiété sociale
 
+over-dependence
+la dépendance excessive
+
+excessive
+excessif
