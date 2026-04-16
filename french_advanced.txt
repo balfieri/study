@@ -13748,7 +13748,7 @@ under-populated
 sous-peuplé
 
 sandstone; earthenware; stoneware
-le grès
+le grès; l'arénaria
 
 troglodyte; cave dweller; hermit; recluse
 le troglodyte
@@ -13875,4 +13875,22 @@ le cancer du pancréas
 
 pancreatitis
 la pancréatite
+
+cigarette smoking
+le tabagisme de cigarette
+
+smoking; tobacco use
+le tabagisme
+
+cure-all; panacea
+la panacée
+
+underpopulated
+sous-peuplé
+
+contestation
+la contestation
+
+pact
+le pacte
 

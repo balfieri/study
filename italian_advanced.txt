@@ -106480,7 +106480,7 @@ to shelter
 mettere al riparo
 
 sandstone
-la pietra arenaria
+l'arenaria; la pietra arenaria
 
 to open fire
 aprire il fuoco
@@ -106535,3 +106535,16 @@ la terapia auto-immune
 
 pancreatitis
 la pancreatite
+
+cigarette smoking
+il fumo di sigarette
+
+underpopulated
+sottopopolato
+
+overpopulated
+sovrappopolato
+
+implicit
+implicite
+
