@@ -33895,10 +33895,10 @@ il ratto
 sympathetic
 compassionevole; simpatico
 
-to compare (general)
+to compare (emotional, subjective)
 paragonare
 
-to compare (more critically); to confront
+to compare (critically, objective, face-to-face); to confront
 confrontare
 
 tasteless; unsightly
@@ -106523,3 +106523,6 @@ commoditizzare
 
 it suits you; it works for you; that's convenient for you
 ti conviene
+
+to compare (something) to (something else)
+confrontare (qualcosa) a (qualcos'altro); paragonare (qualcosa) a (qualcos'altro)
