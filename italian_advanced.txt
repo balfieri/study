@@ -7750,7 +7750,7 @@ il matrimonio omosessuale
 gay rights
 i diritti dei gay
 
-summary
+summary; digest
 il riassunto; il sommario; il condensato
 
 abortion pill
@@ -106587,3 +106587,5 @@ la laurea telematica
 to clear out; to empty; to vacate; to evacuate; to remove
 sgombrare
 
+news digest
+il riassunto notizie
