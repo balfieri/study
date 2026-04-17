@@ -7339,9 +7339,6 @@ se retirer de
 WHO; World Health Organization
 l'OMS; l'Organisation Mondiale de la Santé
 
-voter
-l'électeur
-
 winner; victor
 le vainqueur
 
@@ -8180,7 +8177,7 @@ study of research
 l'étude de recherche
 
 researcher
-le chercheur; la chercheurre
+le chercheur; la chercheuse
 
 slang word
 mot d'argot
@@ -10466,7 +10463,7 @@ email address
 l'adresse email
 
 flatterer
-le flatteur; la flatteurre
+le flatteur; la flatteuse
 
 console
 la console
@@ -13971,4 +13968,106 @@ la coopération
 
 collaboration
 la collaboration
+
+debacle; rout; breakup of ice
+la débâcle
+
+four horsemen of the apocalypse
+les quatre cavaliers de l'apocalypse
+
+horseman; knight
+le cavalier
+
+apocalpyse
+l'apocalypse
+
+transhumanist
+le transhumaniste; la transhumaniste
+
+glue
+la collante
+
+to hold on tightly
+s'accrocher fermement; tenir très fermement; tenir très solidement
+
+planner; town planner; urban planner
+le planificateur; l'urbaniste
+
+designer
+le concepteur; le dsigner
+
+language (jargon)
+le langage
+
+construction site; workshop; mess
+le chantier
+
+sensational; crashing; smashing; roaring
+fracassante
+
+to smash; to crash; to shatter
+fracasser
+
+pushed; grown; driven
+poussé
+
+aesthetic
+l'esthétique
+
+to modulate; to vary
+moduler
+
+to elect
+élire
+
+elected
+élu
+
+darkness
+l'obscurité; les ténèbres; l'ombre
+
+to trigger; to set off; to activate; to start
+déclancher
+
+to undertake; to set about; to begin
+entreprendre
+
+papacy
+la papauté
+
+evangelical
+évangélique
+
+tutor; guardian
+le tutore; la tutrice
+
+in opposition to
+par opposition à
+
+diatribe
+la diatribe
+
+for my whole life
+pour toute ma vie
+
+reacted
+réagi
+
+acted
+agi
+
+defended
+défendu
+
+to protect
+protéger
+
+to post
+poster
+
+to publish
+publier
+
+elector; voter
+l'électeur; l'électrice
 

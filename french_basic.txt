@@ -8583,9 +8583,6 @@ déjà
 still
 encore
 
-always; at all times
-toujours
-
 according to
 selon
 
@@ -12857,3 +12854,6 @@ it opens at
 
 proof
 la preuve
+
+always; still; ever; at all times
+toujours

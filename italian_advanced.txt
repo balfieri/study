@@ -37411,7 +37411,7 @@ indisponente
 shack; hut; shed
 la baracca
 
-thrown
+flung; hurled; slung
 scagliato
 
 incorrect
@@ -78626,9 +78626,6 @@ tenere bene
 to unbutton
 sbottonare
 
-to hold tight; to keep tight
-tenersi forte
-
 to stop holding on
 smettere di tenersi
 
@@ -106589,3 +106586,34 @@ sgombrare
 
 news digest
 il riassunto notizie
+
+to go up in flames
+andare in fiamme
+
+deterioration; decay; ruin; destruction; breakup
+lo sfacelo
+
+four horsemen of the apocalypse
+i quattro cavalieri dell'apocalisse
+
+transhumanist
+il transumanista; la transumanista
+
+glue
+il collante
+
+scratching; grating
+lo sgrettolamento
+
+to hold tight; to keep tight; to hold onto tightly; to hold fast
+tenersi forti
+
+designer
+il progettista; la progettista
+
+to modulate
+modulare
+
+for my whole life
+per tutta la mia vita
+
