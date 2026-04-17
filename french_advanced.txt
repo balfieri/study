@@ -4597,9 +4597,6 @@ pile ou face?
 to pick up; to hang up; to get (something)
 décrocher
 
-happy birthday!
-joyeux anniversaire!
-
 to settle in
 s’installer
 
@@ -13968,4 +13965,10 @@ le principe
 
 paradox
 le paradox
+
+cooperation
+la coopération
+
+collaboration
+la collaboration
 

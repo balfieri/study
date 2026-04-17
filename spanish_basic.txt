@@ -440,7 +440,7 @@ day
 el día
 
 have a good day!
-que tengas un buen día!
+¡que tengas un buen día!
 
 I don't speak Spanish
 no hablo español
@@ -1465,7 +1465,7 @@ vale la pena
 profumes and cosmetics
 la perfumería
 
-plant
+plant; floor
 la planta
 
 candle
@@ -2644,3 +2644,44 @@ a las 8 y 30
 beauty
 la belleza
 
+floor
+la planta; el piso
+
+first floor
+la primera planta
+
+ground floor
+la baja planta
+
+snack
+la comida ligera
+
+on board
+a bordo
+
+real; royal
+real
+
+journey; route; distance; trajectory
+el trayecto
+
+free (cost)
+gratuito
+
+free (rights)
+libre
+
+book
+el libro
+
+see you soon
+hasta pronto
+
+see you later; so long; good-bye; bye
+hasta luego; hasta la vista
+
+happy birthday!
+¡feliz cumpleaños!
+
+the Internet
+el internet
