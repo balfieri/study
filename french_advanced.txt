@@ -4159,9 +4159,6 @@ comment ça marche?
 predictive markets
 les marchés prédictifs
 
-platform
-la plateforme
-
 screen
 l'écran
 
@@ -13448,7 +13445,7 @@ to give an update; to send an update
 donner un point de situation; envoyer un point de situation
 
 platform
-la plate-forme
+la plate-forme; la plateforme
 
 call for peace
 l'appel à la paix
@@ -14070,4 +14067,43 @@ publier
 
 elector; voter
 l'électeur; l'électrice
+
+to be charged; to be in charge of; to be tasked
+être chargé
+
+to signify; to mean
+signifier; vouloir dire
+
+to represent
+représenter
+
+to indicate
+indiquer
+
+morality
+la moralité; le morale
+
+plateau
+le plateau
+
+emphasis
+l'emphase
+
+reconciliation
+la réconciliation
+
+justice; fairness
+la justice
+
+equity
+l'équité
+
+indeed; that's true; it's true; that's right
+en effet
+
+sustainable
+soutenable
+
+unsustainable
+insoutenable
 
