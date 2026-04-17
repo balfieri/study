@@ -751,7 +751,7 @@ añade 3 euros para la propina
 apricot
 el albaricoque
 
-jam
+jam; marmellade
 la mermelada
 
 could you reheat (something)?
@@ -2691,4 +2691,37 @@ Jesús
 
 in general
 en general
+
+there is; there are
+hay
+
+more
+más
+
+less
+menos
+
+leg (animal)
+la pata
+
+leg (human)
+la pierna
+
+arm
+el brazo
+
+arms
+los brazos
+
+face
+la cara
+
+nose
+el nariz
+
+cheek
+la mejilla
+
+finger
+el dedo
 
