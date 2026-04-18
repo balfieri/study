@@ -14323,3 +14323,9 @@ expirer
 expiration date
 la date d'expiration
 
+cease-fire
+le cessez-le-feu
+
+counter-protester; counter-demonstrator
+le contre-manifestant; le contre-protestataire
+
