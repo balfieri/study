@@ -2599,9 +2599,6 @@ la duchesse
 duke
 le duc
 
-to recover; to fetch; to get back
-récupérer
-
 half and half; fifty-fifty
 moitié-moitié
 
@@ -12610,7 +12607,7 @@ l'embrasement
 to fear
 craigner
 
-daily (noun)
+daily life
 le quotidien
 
 enterprise
@@ -12969,9 +12966,6 @@ inverser
 
 holy war
 la guerre sainte
-
-holy
-saint; sacré
 
 military; army
 l'armée
@@ -14251,3 +14245,29 @@ extrême
 panorama
 la panorama
 
+apple cake
+le gâteau aux pommes
+
+to recover; to get back; to recoup; to retrieve; to reclaim; to claw back; to pick up; to fetch
+récupérer
+
+intimist; diarist
+intimiste
+
+purchase
+l'achat
+
+resolution
+la résolution
+
+to grow; to cultivate; to farm
+cultiver
+
+to digest
+digérer; assimiler
+
+consciously
+consciemment
+
+deliberately
+délibérément
