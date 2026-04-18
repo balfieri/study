@@ -11386,7 +11386,7 @@ traverser; parcourir; feuilleter
 porridge; baby food
 la bouillie
 
-oatmeal
+oatmeal; oats
 l'avoine
 
 major upset
@@ -14175,3 +14175,79 @@ l’écran
 
 test
 l’épreuve
+
+painter; house painter; decorator
+le peintre
+
+to have just passed; to just have passed
+venir de passer
+
+there are some among you; there are some among you
+il y en a parmi vous
+
+introvert
+l'introverti
+
+extrovert
+l'extraverti
+
+to revisit
+révisiter
+
+to lunch out; to eat lunch out
+déjeuner dehors
+
+to eat out; to have dinner out; to dine out
+dîner dehors
+
+protest; demonstration
+la démonstration; la manifestation
+
+granola
+le granola
+
+full of things
+plein de choses
+
+coconut
+le noix de coco
+
+nut; walnut
+le noix
+
+cinnamon
+la cannelle
+
+flake
+le flacon
+
+chocolate chips
+les pépites de chocolat
+
+crushed; coarse-chopped
+concassé
+
+regressive; retrogressive; retroactive; backward; retrograde; throw-back
+régressif
+
+to scratch
+gratter
+
+hike; hiking
+la randonnée
+
+to get tired of (something); to grow weary of (something); to tire of (something)
+se lasser de (quelque chose)
+
+to tire; to bore
+lasser
+
+extremely
+extrêmement
+
+extreme
+extrême
+
+panorama
+la panorama
+
