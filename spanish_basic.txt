@@ -844,7 +844,7 @@ ligero
 heavy
 pesado
 
-exit
+exit; departure
 la salida
 
 entrance; ticket (for entry)

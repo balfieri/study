@@ -3427,9 +3427,6 @@ le bénévole
 open-minded
 ouvert d'esprit
 
-openness
-l'ouverture
-
 conscientious
 consciencieux
 
@@ -7265,7 +7262,7 @@ résistance
 la resistance
 
 troublemaker
-le fauteur de troubles; le perturbateur
+le fauteur de troubles; le perturbateur; le trublion
 
 to call his bluff
 appeler son bluff; le prendre de court
@@ -14271,3 +14268,58 @@ consciemment
 
 deliberately
 délibérément
+
+U-turn; about-face
+le demi-tour
+
+stagnation
+la stagnation
+
+regardless of
+indépendamment de; sans tenir compte de
+
+disregarding; ignoring; leaving aside
+abstraction faite de
+
+long-lived
+d'une grande longévité
+
+continuing for a long time
+de longue durée
+
+lunchbox
+la schiscetta
+
+level; spirit level
+la livella
+
+60% discount
+la réduction de 60%
+
+Aryan
+aryen
+
+Leo
+Léon
+
+exclamation point
+le point d'exclamation
+
+opening; openness
+l'ouverture
+
+to advance
+avancer
+
+halt
+le stop
+
+advance
+l'avancée
+
+to expire
+expirer
+
+expiration date
+la date d'expiration
+
