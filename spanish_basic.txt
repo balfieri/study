@@ -1588,7 +1588,7 @@ la vida
 do we have to pay?
 ¿tenemos que pagar?
 
-can we pay?
+can we pay?; may we pay?
 ¿podemos pagar?
 
 to must; to have to
@@ -2724,4 +2724,40 @@ la mejilla
 
 finger
 el dedo
+
+double
+doble
+
+what's up?; what's happening?
+¿que pasa?
+
+tongue; language
+la lengua
+
+foreigner; foreign
+extranjero
+
+give me 11
+dame 11
+
+relationship
+la relación
+
+photo
+la foto
+
+tailor shop; tailoring
+la sastrería
+
+overcrowded
+superpoblado; hacinado
+
+crowded
+concurrido; lleno de gente
+
+reliable
+fiable; de confianza
+
+server
+el servidor
 
