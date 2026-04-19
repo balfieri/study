@@ -697,9 +697,6 @@ le maître
 slave
 l'esclave
 
-to widen
-élargir
-
 to enlarge
 agrandir
 
@@ -14355,4 +14352,7 @@ la ventosité
 
 they think they own the place
 ils pensent posséder la place
+
+to widen; to make bigger; to broaden; to enlarge; to extend
+élargir
 
