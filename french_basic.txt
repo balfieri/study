@@ -1621,7 +1621,7 @@ la jambe
 stomach
 l'estomac
 
-gut; tummy
+gut; tummy; belly
 le ventre; l'intestin
 
 finger
@@ -12854,4 +12854,10 @@ la preuve
 
 always; still; ever; at all times
 toujours
+
+he does
+il le fait
+
+they do
+ils le font
 

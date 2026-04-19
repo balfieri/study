@@ -14353,3 +14353,6 @@ il y a du vent
 windiness
 la ventosité
 
+they think they own the place
+ils pensent posséder la place
+
