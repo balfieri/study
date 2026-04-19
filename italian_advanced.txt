@@ -7127,7 +7127,7 @@ assisted living facility
 la residenza assistita
 
 at one point; at a certain point
-a un certo punto
+a un certo punto; ad un certo punto
 
 cemetary; graveyard
 il cimitero; il camposanto
@@ -30576,9 +30576,6 @@ la besciamella
 
 what amazes me is
 ciò che mi stupisce è
-
-at some point; at a certain point
-ad un certo punto
 
 by foot; on foot
 a piedi
@@ -106739,4 +106736,7 @@ dare un'ovazione
 
 to give a standing ovation
 fare un'ovazione in piedi
+
+barb-wired
+rinforzato con filo spinato; protetto da filo spinato
 

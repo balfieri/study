@@ -9480,7 +9480,7 @@ la source
 simply
 simplement
 
-area
+area; zone
 la zone; le secteur; la région
 
 position (specific); stance (on an issue)
