@@ -14344,3 +14344,12 @@ acculé
 to corner; to drive into a corner
 acculer
 
+windy
+venteux
+
+it's windy
+il y a du vent
+
+windiness
+la ventosité
+

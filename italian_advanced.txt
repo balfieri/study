@@ -106689,3 +106689,6 @@ mettere alle strette
 cornered
 alle strette
 
+windiness
+la ventosità
+

@@ -5954,9 +5954,6 @@ il pleut
 it's snowing
 il neige
 
-it's windy
-il y a du vent
-
 it's sunny
 il y a du soleil
 
