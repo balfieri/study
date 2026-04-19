@@ -12861,3 +12861,9 @@ il le fait
 they do
 ils le font
 
+someplace
+quelque part
+
+tomorrow, I'm going to (someplace)
+demain, je vais à (quelque part)
+
