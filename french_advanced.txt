@@ -14329,3 +14329,18 @@ le cessez-le-feu
 counter-protester; counter-demonstrator
 le contre-manifestant; le contre-protestataire
 
+parallel
+parallèle
+
+about-face
+la volte-face
+
+to do an about-face; to make a volte-face
+faire volte-face
+
+cornered
+acculé
+
+to corner; to drive into a corner
+acculer
+

@@ -12748,8 +12748,8 @@ il branco
 law; legislation; act
 la normativa
 
-about-face; reversal
-il dietrofront
+about-face; U-turn
+la voltafaccia; il dietro front
 
 domain; dominance
 il dominio
@@ -106629,9 +106629,6 @@ il debito pubblico
 vote of confidence
 il voto di fiducia
 
-about-face; U-turn
-il dietro front
-
 stagnation
 la stagnazione
 
@@ -106682,4 +106679,13 @@ il complottone
 
 counter-demonstrator; counter-protester
 il contromanifestante; la contromanifesante
+
+to do an about-face; to do a U-turn
+fare una voltafaccia; fare un dietro front
+
+to corner
+mettere alle strette
+
+cornered
+alle strette
 
