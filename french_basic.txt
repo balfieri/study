@@ -1702,7 +1702,7 @@ tourner à droite
 to turn left
 tourner à gauche
 
-to stop (oneself)
+to stop (oneself); to arrest; to turn off
 s’arrêter
 
 bus
