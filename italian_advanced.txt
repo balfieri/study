@@ -106707,3 +106707,6 @@ strutturato
 to use up; to consume; to exhaust
 consumare; esaurire
 
+findable
+trovabile; ritrovabile
+
