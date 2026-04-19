@@ -106722,4 +106722,6 @@ il guanto
 beech tree; beech
 il faggio; il fagico
 
+habitat
+l'habitat
 
