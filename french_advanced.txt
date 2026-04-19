@@ -2140,7 +2140,7 @@ la vision
 downpour; flood; stream; barrage; deluge
 le déluge
 
-ice cream store
+ice cream store; glacier
 le glacier
 
 to do a day trip
@@ -14406,4 +14406,7 @@ aux étalages de presse
 
 display; array; stall; show off
 l'étalage
+
+iceberg
+l'iceberg
 
