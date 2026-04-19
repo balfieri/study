@@ -106692,3 +106692,6 @@ alle strette
 windiness
 la ventosità
 
+discouragement; despondency
+lo scoraggiamento
+
