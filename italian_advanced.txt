@@ -53749,9 +53749,6 @@ nigeriano
 coined
 coniato
 
-beech
-il fagico
-
 to fiddle
 smanettare
 
@@ -84806,9 +84803,6 @@ il centro per la casa; il negozio di bricolage
 to raise a question
 sollevare una domanda
 
-beech
-il faggio
-
 chicory shoots
 le puntarelle
 
@@ -106724,4 +106718,8 @@ il guanto di sfida
 
 glove; gauntlet
 il guanto
+
+beech tree; beech
+il faggio; il fagico
+
 
