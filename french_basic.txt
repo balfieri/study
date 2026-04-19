@@ -11616,6 +11616,9 @@ j'en ai un
 I already have one of them  
 j'en ai déjà un  
 
+to speak French
+parler français
+
 to speak Italian  
 parler italien  
 
@@ -12851,3 +12854,4 @@ la preuve
 
 always; still; ever; at all times
 toujours
+
