@@ -5240,7 +5240,7 @@ lens
 la lentille
 
 meanwhile; in the meantime
-pendant ce temps; en attendant
+pendant ce temps; en attendant; entre-temps; entretemps
 
 fraud; scam; rip off
 la fraude; l'arnaque; l'escroquerie

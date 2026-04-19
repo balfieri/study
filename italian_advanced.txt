@@ -28147,7 +28147,7 @@ constare
 to abbandon; to give up; to leave (transitive); to ditch
 abbandonare
 
-to disappear (formal, dramatic)
+to disappear; to vanish (formal, dramatic)
 scomparire
 
 regulated
@@ -106709,4 +106709,19 @@ consumare; esaurire
 
 findable
 trovabile; ritrovabile
+
+to hear different ones; to feel different ones
+sentirne di diverse
+
+naval blockade
+il blocco navale
+
+little cousin; baby cousin
+il cuginetto
+
+challenge gauntlet; challenge throw-down
+il guanto di sfida
+
+glove; gauntlet
+il guanto
 
