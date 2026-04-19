@@ -2761,3 +2761,8 @@ fiable; de confianza
 server
 el servidor
 
+university
+la universidad
+
+tourist
+el turista; la turista
