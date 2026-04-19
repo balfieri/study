@@ -106740,3 +106740,6 @@ fare un'ovazione in piedi
 barb-wired
 rinforzato con filo spinato; protetto da filo spinato
 
+park bench
+la panchina del parco
+
