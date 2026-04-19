@@ -11425,9 +11425,6 @@ le délai
 to preserve
 préserver
 
-to watch; to monitor
-surveiller
-
 to do it on purpose
 le faire exprès; le faire intentionnellement
 
@@ -14391,3 +14388,9 @@ projeter
 
 discouragement; despondency; dejection
 le découragement
+
+to look out for; to watch over
+veiller sur
+
+to watch; to monitor
+surveiller
