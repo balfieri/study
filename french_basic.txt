@@ -3478,9 +3478,6 @@ quel désastre!
 how lucky!
 quelle chance!
 
-not at all
-pas du tout
-
 are you kidding?; are you joking?
 tu plaisantes?; tu rigoles?
 
@@ -7016,7 +7013,7 @@ la ferme
 farmer
 l'agriculteur; le fermier
 
-turist
+tourist
 le touriste
 
 tasty; flavorful; savory
@@ -12180,7 +12177,7 @@ chérie
 my fault
 ma faute
 
-no doubt; undoubtedly
+without doubt; no doubt; undoubtedly
 sans doute
 
 bummer!
