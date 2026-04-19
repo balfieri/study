@@ -10465,9 +10465,6 @@ l'osmose
 flip-flops
 les tongs
 
-Peking
-Pékin
-
 Pekingese
 Pékinois
 
@@ -14397,3 +14394,7 @@ surveiller
 
 Beijing; Peking
 Pékin
+
+Angola
+l'Angola
+
