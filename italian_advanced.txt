@@ -31028,7 +31028,7 @@ kilowatt
 il chilowatt; il kilowatt
 
 amp; ampere
-l'ampere
+l'ampere; l'amp
 
 volt
 il volt
