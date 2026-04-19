@@ -12867,3 +12867,5 @@ quelque part
 tomorrow, I'm going to (someplace)
 demain, je vais à (quelque part)
 
+southern; southerly
+méridionale
