@@ -106701,3 +106701,6 @@ l'Angola
 to restart; to make restart; it get restarted
 far ripartire
 
+structured
+strutturato
+
