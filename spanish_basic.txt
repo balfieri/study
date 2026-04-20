@@ -2775,3 +2775,6 @@ pacífico
 
 to believe; to have faith
 creer; tener fe
+
+to decide to
+decidirse a; decidir
