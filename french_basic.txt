@@ -9636,7 +9636,7 @@ la faute; la culpabilité; la blâme
 step (walking); footstep
 le pas
 
-fear
+fear (uncontrollable)
 la peur
 
 identity

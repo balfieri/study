@@ -5530,7 +5530,7 @@ les espoirs
 pseudonym; alias; username
 le pseudo
 
-fear; apprehension
+fear; apprehension (reasoned)
 la crainte
 
 to believe in yourself
