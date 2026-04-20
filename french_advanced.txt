@@ -14571,3 +14571,7 @@ la restructuration
 
 renovation
 la rénovation
+
+warehouse; storehouse; depot
+l'entrepôt
+
