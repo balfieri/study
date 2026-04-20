@@ -998,7 +998,7 @@ I have no verbs!
 ¡no tengo verbos!
 
 food
-la alimentacion; la nutrición
+la comida; la alimentacion; la nutrición
 
 broth; soup
 el caldo
@@ -2005,7 +2005,7 @@ las papas fritas
 hamburger
 la hamburguesa
 
-meal
+meal; food
 la comida
 
 product
@@ -2785,3 +2785,5 @@ el phrase
 sentence
 la oración; la sentencia
 
+to talk about (something)
+hablar sobre (algo)
