@@ -14527,3 +14527,6 @@ la stratégie du fou
 remote; secluded
 retiré
 
+intransigent
+intransigeant
+
