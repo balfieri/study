@@ -89924,7 +89924,7 @@ l'ingerenza; l'intromissione; il ficcanasare
 to debase
 svilire; degradare; avvilire
 
-to defile
+to defile; to desecrate
 profanare; contaminare; insozzare
 
 cargo bike; freight bicycle
@@ -106763,3 +106763,7 @@ il palazzo di cristallo
 
 sliced processed cheese
 le sottilette
+
+defiled; desecrated; profaned
+profanato
+
