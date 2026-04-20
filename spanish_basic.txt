@@ -2791,3 +2791,5 @@ hablar sobre (algo)
 weak
 débil
 
+to intend to (do something)
+tener la intención de (hacer algo)
