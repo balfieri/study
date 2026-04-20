@@ -1789,7 +1789,7 @@ alors que; tandis que
 ok; that's fine; it's fine
 d’accord; ça va; ça marche; c'est bien; ok
 
-flight
+flight; robbery
 le vol
 
 entrance; entry; act of entering
