@@ -283,3 +283,5 @@ el palacio de cristal
 rose garden
 le jardín de rosas
 
+palace
+el palacio
