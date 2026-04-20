@@ -28144,9 +28144,6 @@ avverso
 to ascertain; to comprise; to consist of
 constare
 
-to abbandon; to give up; to leave (transitive); to ditch
-abbandonare
-
 to disappear; to vanish (formal, dramatic)
 scomparire
 
@@ -106767,3 +106764,5 @@ le sottilette
 defiled; desecrated; profaned
 profanato
 
+to abbandon; to give up; to leave (transitive); to ditch; to desert
+abbandonare
