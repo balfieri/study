@@ -2787,3 +2787,7 @@ la oración; la sentencia
 
 to talk about (something)
 hablar sobre (algo)
+
+weak
+débil
+
