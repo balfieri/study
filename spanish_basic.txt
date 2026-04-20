@@ -883,10 +883,10 @@ en
 with
 con
 
-for; by; through; because of (reasons)
+for; by; through; because of; for the account of
 por
 
-for; in order to; toward
+for; in order to; toward; for the benefit of
 para
 
 without
@@ -976,7 +976,7 @@ de un año
 cold
 frio
 
-sure
+sure; clear
 claro
 
 secure
@@ -2766,3 +2766,9 @@ la universidad
 
 tourist
 el turista; la turista
+
+stopped
+parado
+
+peaceful
+pacífico

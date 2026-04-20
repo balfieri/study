@@ -92777,7 +92777,7 @@ assalire
 summer puzzle magazine; summer puzzles; summer puzzle book
 l'estate enigmistica
 
-free time
+free time; leisure
 il tempo libero
 
 show of force
@@ -106757,3 +106757,7 @@ il pacemaker
 
 pace
 il ritmo; il passo
+
+crystal palace
+il palazzo di cristallo
+
