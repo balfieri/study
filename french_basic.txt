@@ -12873,3 +12873,5 @@ c'est une bonne question
 that's a good idea
 c'est une bonne idée
 
+the first time
+la première fois
