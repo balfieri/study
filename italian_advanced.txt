@@ -106754,3 +106754,6 @@ sapevo che c'era qualcosa di cui avevo dimenticato di parlare con te; sapevo che
 
 pacemaker
 il pacemaker
+
+pace
+il ritmo; il passo

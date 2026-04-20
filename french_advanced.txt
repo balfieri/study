@@ -14511,3 +14511,6 @@ le placard
 
 I knew there was something I forgot to talk to you about
 je savais qu'il y avait quelque chose dont j'avais oublié de te parle
+
+pace; rhythm
+le rythme
