@@ -14551,3 +14551,6 @@ inaugurer
 audience; viewership
 l'audience
 
+aggressive
+agressif
+
