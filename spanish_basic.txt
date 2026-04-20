@@ -2778,3 +2778,10 @@ creer; tener fe
 
 to decide to
 decidirse a; decidir
+
+phrase
+el phrase
+
+sentence
+la oración; la sentencia
+
