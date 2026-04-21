@@ -2793,3 +2793,39 @@ débil
 
 to intend to (do something)
 tener la intención de (hacer algo)
+
+plant
+la planta; la hoya
+
+month
+el mes
+
+thin
+delgado; fino
+
+fat
+gordo; grasa
+
+leisure; free time
+el ocio
+
+responsible; accountable
+responsable
+
+shoe
+el zapato
+
+sock
+el calcetín; la media
+
+pants
+los pantalones
+
+shorts
+los pantalones cortos; los shorts
+
+hat
+el sombrero; el gorro
+
+t-shirt
+la camiseta
