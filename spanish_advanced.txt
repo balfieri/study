@@ -295,3 +295,6 @@ el acción
 epic
 épico
 
+to aim
+apuntar; dirigir; pretender
+

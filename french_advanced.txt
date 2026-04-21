@@ -14581,3 +14581,5 @@ généralisé;
 good bet
 le bon pari
 
+civilization
+la civilisation
