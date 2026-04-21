@@ -14575,3 +14575,6 @@ la rénovation
 warehouse; storehouse; depot
 l'entrepôt
 
+generalized; widespread
+généralisé; 
+
