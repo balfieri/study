@@ -6980,7 +6980,7 @@ le vin blanc
 water
 l'eau
 
-croissant
+croissant; crescent
 le croissant
 
 meat
@@ -9913,7 +9913,7 @@ explanation
 l'explication
 
 classic; classical
-classique; classique
+classique
 
 opinion
 l'opinion
@@ -11109,7 +11109,7 @@ fonctionner; marcher
 suggestion (neutral, objective)  
 la suggestion  
 
-advice; suggestion
+advice; suggestion; council
 le conseil
 
 time; weather; tense (verb)  
@@ -12881,3 +12881,7 @@ dedans
 
 it's so good
 c'est si bon
+
+once again
+encore une fois
+
