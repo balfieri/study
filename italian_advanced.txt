@@ -9682,12 +9682,6 @@ il gancio per casco
 fuel injection
 l'iniezione di carburante
 
-full-face helmet
-il casco integrale
-
-3/4 helmet
-il casco a faccia aperta
-
 half helmet
 il mezzo casco
 
@@ -106791,8 +106785,11 @@ sudafricano
 to prejudice; to prejudge
 pregiudicare
 
-three-quarter helmet
-il casco tre quarti
-
 to have a smooth ride
 avere una guida fluida
+
+three-quarter helmet; 3/4 helmet
+il casco a faccia aperta; il casco tre quarti
+
+full helmet; full-face helmet
+il casco integrale
