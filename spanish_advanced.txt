@@ -322,3 +322,24 @@ comunitario
 level
 el nivel
 
+century
+el siglo
+
+decade
+la década
+
+immersive
+immersif
+
+to enjoy
+disfrutar
+
+to be back
+estar de regreso
+
+daughter
+la hija
+
+hug; embrace
+el abrazo
+

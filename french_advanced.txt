@@ -1979,7 +1979,7 @@ sustained; supported
 soutenu
 
 outside Paris
-en dehors de paris; hors de paris
+en dehors de Paris; hors de Paris
 
 outside the house
 hors de la maison; dehors de la maison
@@ -14739,3 +14739,10 @@ le signe astrologique
 
 pentagon
 le pentagone
+
+water lily; waterlily
+le nénuphar; la nymphéa
+
+work; piece of work; written work
+l'ouvrage
+
