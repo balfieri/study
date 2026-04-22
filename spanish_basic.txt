@@ -707,7 +707,7 @@ taste; flavor
 el sabor
 
 beautiful
-hermoso
+hermoso; bello
 
 cash register
 la caja; la caja registradora
@@ -1117,7 +1117,7 @@ conocido
 to want; to love
 querer
 
-wanted; loved
+wanted; loved; dear
 querido
 
 to have (auxillary)
