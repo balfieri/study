@@ -106793,3 +106793,7 @@ il casco a faccia aperta; il casco tre quarti
 
 full helmet; full-face helmet
 il casco integrale
+
+astrological sign
+il segno astrologico
+
