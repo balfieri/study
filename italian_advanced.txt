@@ -106797,3 +106797,6 @@ il casco integrale
 astrological sign
 il segno astrologico
 
+pentagon
+il pentagono
+

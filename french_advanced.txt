@@ -14737,3 +14737,5 @@ les jumeaux
 astrological sign
 le signe astrologique
 
+pentagon
+le pentagone
