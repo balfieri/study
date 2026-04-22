@@ -1976,7 +1976,7 @@ in my opinion
 à mon avis; selon moi
 
 relaxed
-détendu
+détendu; décontracté
 
 them
 eux
@@ -12881,4 +12881,7 @@ c'est si bon
 
 once again
 encore une fois
+
+I am doing well
+Je vais bien
 
