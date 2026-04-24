@@ -54397,7 +54397,7 @@ la colonna vertebrale del suono
 rhythm section
 la sezione ritmica
 
-climb; ascent
+climb; ascent; rise
 la scalata; l'ascesa
 
 bitten apple
@@ -89939,7 +89939,7 @@ antimafia
 to fight for; to struggle for
 battersi per
 
-ascension; ascent
+ascension; ascent; rise
 l'ascesa; l'ascensione
 
 brains
@@ -106841,4 +106841,10 @@ stipato
 
 big story
 la grossa storia
+
+member of the former Italian right-wing party MSI
+il missino; la missina
+
+postwar period; second postwar period
+il secondo dopoguerra; il periodo del secondo dopoguerra
 
