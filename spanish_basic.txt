@@ -2804,7 +2804,7 @@ thin
 delgado; fino
 
 fat
-gordo; grasa
+gordo
 
 leisure; free time
 el ocio
