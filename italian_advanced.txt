@@ -106807,7 +106807,7 @@ container ship
 il portacontainer
 
 jet helmet
-il casco jet
+il casco jet; il casco
 
 offense; offence; insult; injury
 l'offesa
