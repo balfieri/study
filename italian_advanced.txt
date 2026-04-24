@@ -34577,7 +34577,7 @@ inactive person
 la persona inattiva
 
 experience the ethos
-fare esperienza dell'ethos
+fare esperienza dell'ethos; fare esperienza della vibe
 
 reverse body dysmorphia
 la dismorfia corporea inversa
@@ -34880,7 +34880,7 @@ just looking
 sto solo guardando
 
 to absorb the general ethos
-assorbire l'ethos generale
+assorbire l'ethos generale; assorbire la vibe generale
 
 watch your language
 fai attenzione a come parli; stai attento al linguaggio
@@ -104655,7 +104655,7 @@ reading glasses
 gli occhiali da lettura
 
 ethos
-l'ethos
+l'ethos; la vibe
 
 intestine; intestines
 l'intestino
@@ -106832,4 +106832,7 @@ il territorio nemico
 
 dissimilar
 dissimile
+
+openly; frankly
+a viso aperto
 
