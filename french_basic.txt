@@ -115,7 +115,7 @@ dernière
 next
 prochaine
 
-wife
+wife; woman
 la femme
 
 spouse
@@ -1881,9 +1881,6 @@ s'en aller
 
 10 years ago
 il y a dix ans
-
-to run away
-s'enfuir
 
 icon
 l'icône
@@ -12885,3 +12882,14 @@ encore une fois
 I am doing well
 Je vais bien
 
+when you're ready
+quand tu seras prêt; quand vous serez prêt
+
+cash
+l'argent comptant; les espèces
+
+all (singular)
+tout; toute
+
+all (plural)
+tous; toutes
