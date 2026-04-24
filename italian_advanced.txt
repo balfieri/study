@@ -23372,7 +23372,7 @@ removed; taken out
 tolto
 
 discomfort; uneasiness; awkwardness; inconvenience; hardship; embarrassment
-il disagio
+il disagio; il disconforto
 
 to ascertain
 accertare
