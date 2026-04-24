@@ -14812,3 +14812,6 @@ s'enfuir de la maison
 to run away
 s'enfuir
 
+enemy territory
+le territoire ennemi
+

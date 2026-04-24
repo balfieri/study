@@ -383,7 +383,7 @@ learned
 aprendido
 
 receipt
-el recibo
+el ticket; el recibo
 
 cereal
 el cereal
@@ -2859,3 +2859,16 @@ mandar
 
 ever; never
 jamás
+
+per day
+por día
+
+all (singular)
+todo; toda
+
+all (plural)
+todos; todas
+
+it takes 5 minutes
+toma 5 minutos
+

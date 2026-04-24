@@ -106826,3 +106826,7 @@ fuggire di casa
 
 non-zero chance
 la probabilità non nulla
+
+enemy territory
+il territorio nemico
+
