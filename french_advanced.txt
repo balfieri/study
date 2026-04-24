@@ -14826,3 +14826,7 @@ le soins
 
 intensive care; critical care
 le soins intensifs; le soins critiques
+
+physical therapy
+la kinésithérapie
+
