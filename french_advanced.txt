@@ -14830,3 +14830,6 @@ le soins intensifs; le soins critiques
 physical therapy
 la kinésithérapie
 
+interrogation
+l'interrogatoire
+
