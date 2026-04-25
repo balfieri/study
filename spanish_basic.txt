@@ -2872,3 +2872,17 @@ todos; todas
 it takes 5 minutes
 toma 5 minutos
 
+not at all
+en absoluto
+
+fear
+el miedo
+
+to predict
+predecir
+
+the word starts with
+la palabra empieza con
+
+to start; to begin
+empiezar
