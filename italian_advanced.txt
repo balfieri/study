@@ -106853,3 +106853,9 @@ il tiro con l'arco
 
 plenty of time; a lot of time
 molto tempo
+
+the word starts with
+la parola inizia con
+
+quest
+la quest
