@@ -5434,9 +5434,6 @@ galleggiante
 nature; character; disposition
 l'indole
 
-to seize; to capture; to conquer
-impadronirsi
-
 to engrave; to etch; to cut
 incidere
 
@@ -106878,3 +106875,5 @@ ammantare
 framed; classified as; in focus
 inquadrato
 
+to seize; to capture; to take control; to take possession; to master, to learn
+impadronirsi
