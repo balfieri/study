@@ -1048,7 +1048,7 @@ la carretera; la vía principal
 busy
 ocupado
 
-committed
+committed; engaged
 comprometido
 
 nightstick; baton; truncheon; club; sweepstakes; large churro

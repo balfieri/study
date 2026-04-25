@@ -33910,8 +33910,8 @@ il posto vacante; la disponibilità
 annoying; bothersome; pesky
 molesto; fastidioso
 
-to molest
-abusare; molestare
+to molest (sexual)
+abusare sessualmente
 
 sunny (disposition); cheerful; of the sun; sun (adjective)
 solare
@@ -90182,7 +90182,7 @@ sbattere per terra
 annoying; bothersome; pestering; harassing
 molesto
 
-to harass; to bother; to pester; to annoy; to molest
+to harass; to bother; to pester; to annoy
 molestare
 
 collusion; connivance; conniving
@@ -106877,3 +106877,13 @@ inquadrato
 
 to seize; to capture; to take control; to take possession; to master, to learn
 impadronirsi
+
+seasickness
+la marezza
+
+punch
+la puncia
+
+post-vacation return
+il rientro post vacanze
+
