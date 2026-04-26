@@ -16025,7 +16025,10 @@ to have a clear conscience
 avere la coscienza a posto
 
 to discredit; to disparage; to decry
-screditare
+screditare; discreditare
+
+discredited
+screditato; discreditato
 
 to meet in person
 conoscere di persona
@@ -37053,9 +37056,6 @@ in ginocchio
 
 for sale
 in vendita
-
-to discredit
-discreditare
 
 syntactic doubling
 il raddoppiamento fonosintattico
@@ -106889,4 +106889,7 @@ il rientro post vacanze
 
 to titillate; to tickle
 titillare
+
+failed attempt at (doing something)
+il fallito tentativo di (fare qualcosa)
 
