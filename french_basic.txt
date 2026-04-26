@@ -12893,3 +12893,7 @@ tout; toute
 
 all (plural)
 tous; toutes
+
+to try to speak
+essayer de parler
+
