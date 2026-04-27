@@ -2350,24 +2350,6 @@ el pino
 bridge
 el puente
 
-yellow
-amarillo
-
-blue
-azul
-
-dark blue
-azul oscuro
-
-green
-verde
-
-orange
-naranjo
-
-pink
-rosa
-
 circle
 el círculo
 
@@ -2898,3 +2880,28 @@ la miel
 
 honey (dear)
 cariño; cariña
+
+white
+blanco
+
+black
+negro
+
+yellow
+amarillo
+
+blue
+azul
+
+dark blue
+azul oscuro
+
+green
+verde
+
+orange
+naranjo
+
+pink
+rosa
+
