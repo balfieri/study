@@ -2886,3 +2886,10 @@ la palabra empieza con
 
 to start; to begin
 empiezar
+
+rich
+rico
+
+poor
+pobre
+
