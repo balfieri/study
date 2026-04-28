@@ -15075,3 +15075,6 @@ la lentille
 
 inflamed
 enflammé
+
+(something) that didn't happen
+(quelque chose) qui n'a pas eu lieu 
