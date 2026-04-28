@@ -5230,9 +5230,6 @@ passer (du temps)
 to spend (money)
 dépenser
 
-lens
-la lentille
-
 meanwhile; in the meantime
 pendant ce temps; en attendant; entre-temps; entretemps
 
@@ -11564,9 +11561,6 @@ la page web
 
 to make a decision
 prendre une décision
-
-contact lens
-la lentille de contact
 
 at what time
 à quelle heure
