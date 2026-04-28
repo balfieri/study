@@ -2879,7 +2879,7 @@ to continue
 continuer
 
 to deserve
-mériter
+mériter de
 
 to defend
 défendre
@@ -12042,7 +12042,7 @@ ouais
 another time
 à une autre fois
 
-no worries; no problem
+no worries
 pas de souci
 
 really?; is that so?
@@ -12443,9 +12443,6 @@ bonsoir
 
 you're welcome; please (do)
 je t'en prie
-
-no worries
-pas de soucis
 
 code
 le code
