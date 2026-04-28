@@ -6575,9 +6575,6 @@ dans ce cas
 to describe
 décrire
 
-necessarily
-forcément
-
 to test
 tester
 

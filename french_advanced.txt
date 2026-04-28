@@ -13801,7 +13801,7 @@ le mégaphone
 turning over; reversal; flipping
 le retournement
 
-upheaval; upheaval
+upheaval
 le bouleversement; le soulèvement; la révolution
 
 to move deeply; to upset; to change drastically; to turn upside down
@@ -14985,4 +14985,43 @@ la brindille; la petite branche
 
 protective
 protecteur
+
+to sway; to waver; to stagger
+vaciller
+
+erratic
+erratique
+
+royal
+royal
+
+pine worker; tar worker
+le pineur; la pineuse
+
+to argue
+argumenter
+
+to make one nauseous; to cause nausea
+donner la nausée
+
+bland; dull; faded
+fade
+
+to sweat
+transpirer
+
+busy; hectic
+mouvementé
+
+never again (do something)
+ne plus jamais (faire quelque chose)
+
+necessarily; by force
+forcément
+
+vector
+le vecteur
+
+headphones
+les écouteurs; le casque audio
 
