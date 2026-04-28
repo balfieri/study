@@ -15081,3 +15081,7 @@ possibly; maybe; perhaps
 
 additional time; extra time; borrowed time[1][2]
 le temps supplémentaire
+
+since the beginning of (something)
+depuis le début de (quelque chose)
+
