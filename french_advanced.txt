@@ -15072,3 +15072,6 @@ la lentille de contact
 
 lens
 la lentille
+
+inflamed
+enflammé
