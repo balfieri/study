@@ -12885,3 +12885,5 @@ tous; toutes
 to try to speak
 essayer de parler
 
+that's because
+c'est parce que

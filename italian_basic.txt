@@ -8146,3 +8146,5 @@ that's a good question
 I feel well; I'm doing well; I feel good
 mi trovo bene
 
+that's because
+è perché
