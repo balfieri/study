@@ -13519,9 +13519,6 @@ de choix
 to do it this much
 le faire à ce point
 
-finally
-enfin; finalement
-
 I'd say so
 je dirais que oui
 
@@ -15078,3 +15075,7 @@ enflammé
 
 (something) that didn't happen
 (quelque chose) qui n'a pas eu lieu 
+
+possibly; maybe; perhaps
+éventuellement
+
