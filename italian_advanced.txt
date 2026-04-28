@@ -82580,7 +82580,7 @@ non sono sicuro se te l'ho già chiesto
 not secure; unsafe
 insicuro; non sicuro
 
-insecure (person)
+insecure (emotionally)
 non sicuro di sé
 
 before the end of the year
@@ -106940,4 +106940,10 @@ sciogliersi in bocca
 
 there is nothing else like it
 non c'è nient'altro come esso
+
+it's so embarrassing
+è così imbarazzante
+
+I have no idea what their problem is
+non ho idea di qual è il loro problema
 
