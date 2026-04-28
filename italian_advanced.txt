@@ -27097,7 +27097,7 @@ il fato
 fairy
 la fata
 
-stem
+stem; shank
 il gambo
 
 comparative
@@ -106934,4 +106934,10 @@ passare più tempo
 
 overtime; extra time; additional time
 il tempo supplementare
+
+to melt in your mouth
+sciogliersi in bocca
+
+there is nothing else like it
+non c'è nient'altro come esso
 
