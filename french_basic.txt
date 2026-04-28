@@ -130,9 +130,6 @@ le neveu
 resource
 la ressource
 
-of course; sure
-bien sûr
-
 which; what
 quelle
 
@@ -12887,3 +12884,7 @@ essayer de parler
 
 that's because
 c'est parce que
+
+of course; well of course; sure; naturally
+bien sûr
+
