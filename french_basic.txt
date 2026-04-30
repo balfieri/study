@@ -12150,7 +12150,7 @@ nettoyé
 to hurt; to do harm
 faire de mal
 
-who is there?
+who is there?; who's there?
 qui est là?
 
 couch
@@ -12887,4 +12887,10 @@ c'est parce que
 
 of course; well of course; sure; naturally
 bien sûr
+
+we have time
+nous avons le temps
+
+it's about seven euros
+c'est environ sept euros
 
