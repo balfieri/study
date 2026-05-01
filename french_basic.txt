@@ -5982,7 +5982,7 @@ nausea
 la nausée
 
 cough
-le toux
+la toux
 
 thirst
 la soif
