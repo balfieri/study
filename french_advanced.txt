@@ -15312,3 +15312,10 @@ froid; distant
 
 I want to finish what I started
 je veux finir ce que j'ai commencé
+
+awning
+l'auvent; le store
+
+blind; awning
+le store
+
