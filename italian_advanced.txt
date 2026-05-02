@@ -106995,3 +106995,5 @@ ho un sacco di lavoro da fare
 personal matter
 la questione personale
 
+to redefine
+ridefinire
