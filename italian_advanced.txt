@@ -106997,3 +106997,6 @@ la questione personale
 
 to redefine
 ridefinire
+
+we ran out of time
+ci siamo rimasti senza tempo
