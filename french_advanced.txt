@@ -14059,7 +14059,7 @@ indiquer
 morality
 la moralité; le morale
 
-plateau
+plateau; tray; board
 le plateau
 
 emphasis
@@ -15295,3 +15295,20 @@ l'hélicoptère
 humbly
 humblement
 
+take-away food
+la nourriture à emporter
+
+phew, that's good
+ouf, c'est bien
+
+reliable source
+la source sûre
+
+to take off one's shoes
+enlever ses chaussures
+
+aloof
+froid; distant
+
+I want to finish what I started
+je veux finir ce que j'ai commencé
