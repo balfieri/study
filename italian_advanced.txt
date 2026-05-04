@@ -107034,3 +107034,6 @@ tappato
 ears plugged
 le orecchie tappate
 
+if it weren't for (something)
+se non fosse per (qualcosa)
+
