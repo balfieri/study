@@ -12903,3 +12903,6 @@ sûr à 100%
 how was (something)
 comment était (quelque chose)
 
+earlier
+plus tôt
+
