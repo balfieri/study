@@ -11320,7 +11320,7 @@ soppesare
 to confer with; to consult
 interpellare
 
-upheaval; distortion; disruption
+upheaval; radical change; distortion; disruption
 lo stravolgimento
 
 to unravel
@@ -12610,7 +12610,7 @@ tessere
 in the tent
 in tenda
 
-protection (legal); tutelage; guardianship
+protection (legal); safeguard; tutelage; guardianship
 la tutela
 
 to bloom; to blossom; to flower
@@ -54931,9 +54931,6 @@ la consonanza
 arpeggio
 l'arpeggio
 
-presupposed
-presupposto
-
 faint
 fievole
 
@@ -81107,7 +81104,7 @@ la sega traversale
 to conform to (someone's) schedule
 conformarsi al programma (di qualcuno0
 
-at the end of; at the bottom of; at the back of
+at the end of; at the bottom of; at the back of; in the back of
 in fondo a
 
 on top of; at the top of
@@ -85730,7 +85727,7 @@ il pennerello
 bran
 la crusca
 
-wood-fired oven
+wood-fired oven; wood-burning oven
 il forno a legna
 
 stain; spot
@@ -107018,3 +107015,22 @@ l'encomio
 
 to castrate
 evirare
+
+stuck; coated with tar
+inpegolato
+
+in the back of the plane
+in fondo all'aereo
+
+in all fairness to (something)
+per equità verso (qualcosa)
+
+presupposed; assumed
+presupposto
+
+plugged
+tappato
+
+ears plugged
+le orecchie tappate
+
