@@ -15388,3 +15388,8 @@ to raise; to breed; to rear
 to preheat the oven
 préchauffer le four
 
+to get hot
+se chauffer
+
+to get cold
+se refroidir
