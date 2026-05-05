@@ -15393,3 +15393,10 @@ se chauffer
 
 to get cold
 se refroidir
+
+representation
+la représentation
+
+gruff
+bourru
+
