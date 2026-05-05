@@ -95012,7 +95012,7 @@ il bagno chimico
 to live next door
 vivere di fianco
 
-to stitch up; to sew up
+to stitch up; to sew up; to mend
 ricucire
 
 teeth cover
@@ -107040,3 +107040,11 @@ se non fosse per (qualcosa)
 to unpack one's luggage; to unpack one's bags
 disfare i bagagli
 
+personological
+personologico
+
+group of friends
+la comitiva di amici
+
+group; company; party
+la comitiva
