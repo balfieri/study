@@ -1573,7 +1573,7 @@ en mémoire
 Caesar  
 César  
 
-the least  
+the least; the smallest; the slightest  
 la moindre  
 
 to tidy; to put away  
@@ -15399,4 +15399,19 @@ la représentation
 
 gruff
 bourru
+
+was there any doubt?
+y avait-il le moindre doute?
+
+the very next day
+le lendemain même
+
+what is happening at
+que se passe-t-il à
+
+I can't wait!
+je ne peux pas attendre!
+
+to bloom
+s'épanouir; fleurir
 

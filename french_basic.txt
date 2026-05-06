@@ -296,7 +296,7 @@ at the very beginning
 tout au début
 
 at first; initially; at the beginning; to begin with; to start with; in the beginning
-au début; initialemente
+au début; initialement
 
 vowel
 la voyelle
@@ -7518,6 +7518,9 @@ le professeur d’université
 server; waiter
 le serveur
 
+server; waitress
+la serveuse
+
 actress
 l'actrice
 
@@ -12902,4 +12905,10 @@ comment était (quelque chose)
 
 earlier
 plus tôt
+
+a few times
+quelques fois
+
+to buy tickets
+acheter des billets
 
