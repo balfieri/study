@@ -7004,7 +7004,7 @@ le touriste
 tasty; flavorful; savory
 savoureux
 
-disgusting; icky
+disgusting; icky; gross; revolting
 dégueulasse; écœurant
 
 believed; raw; uncooked; crude

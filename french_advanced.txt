@@ -2512,7 +2512,7 @@ la réputation
 fluoride  
 le fluorure  
 
-disgusting  
+disgusting
 dégoûtant  
 
 slop; the stew  
@@ -10645,9 +10645,6 @@ le congélateur
 in stock
 en stock
 
-disgusting; gross; revolting
-dégeulasse
-
 decor; decoration
 le déco
 
@@ -15415,3 +15412,11 @@ je ne peux pas attendre!
 to bloom
 s'épanouir; fleurir
 
+to shear; to cut
+tondre
+
+to cut the grass
+tondre l'herbe
+
+shorn; cut
+tondu
