@@ -6815,9 +6815,6 @@ la valise
 luggage (general)
 le bagage
 
-hairdryer
-le sèche-cheveux
-
 soap
 le savon
 
