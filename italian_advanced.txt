@@ -17759,7 +17759,7 @@ to teach (somebody) a lesson
 dare a (qualcuno) una lezione
 
 to run into (somebody)
-incontrare (qualcuno)
+incontrare (qualcuno) per caso
 
 at the moment
 al momento; in questo momento; per il momento
@@ -107075,4 +107075,10 @@ tutto solo
 
 affectionateness; tenderness; emotionality
 l'affettività
+
+allergen
+l'allergene
+
+I don't want to push it
+non voglio insistere
 
