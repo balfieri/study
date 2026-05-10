@@ -5083,9 +5083,6 @@ conseiller (quelqu’un)
 to advise to; to recommend to
 conseiller de; recommander de
 
-tunnel
-le tunnel
-
 clock; watch
 l'horloge; le montre
 

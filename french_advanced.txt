@@ -15520,4 +15520,9 @@ le schisme
 interview with (someone)
 l'interview avec (quelqu'un) 
 
+gallery
+la galerie
+
+tunnel
+le tunnel
 
