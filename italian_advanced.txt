@@ -53990,7 +53990,7 @@ to dissect
 disettare
 
 flash drive
-la chiavetta USB
+la chiavetta USB; la chiavetta
 
 member of the European Parliament
 l'eurodeputato
@@ -107111,4 +107111,28 @@ in galleria
 
 to cause discussion
 far discutere
+
+open-book
+a libro aperto
+
+to fan oneself; to wave something to cool off
+sventolarsi
+
+candy store
+il negozio di caramelle
+
+it is not a given point
+non è un punto scontato
+
+in the middle of the woods
+in mezzo al bosco
+
+to pee one's pants
+fare la pipì addosso
+
+to exude warmth
+esudare calore
+
+self-service gasoline
+la benzina self
 
