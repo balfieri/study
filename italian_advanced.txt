@@ -25936,7 +25936,7 @@ singolarmente
 mutated; changed
 mutato
 
-articulation; joint
+articulation; joint (body)
 l'articolazione
 
 pregnancy
@@ -107142,3 +107142,5 @@ la laurea universitaria
 cough syrup
 lo sciroppo per la tosse
 
+joint pain
+il dolore alle articolazioni
