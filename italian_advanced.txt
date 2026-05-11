@@ -1960,7 +1960,7 @@ rifiutarsi di
 until now; so far
 finora
 
-college degree (undergraduate)
+college degree (undergraduate); graduation
 la laurea
 
 figuratively
@@ -55003,7 +55003,7 @@ avere luogo
 booger
 la caccola
 
-snot
+mucus; snot
 il muco
 
 bachelor (degree)
@@ -107121,7 +107121,7 @@ sventolarsi
 candy store
 il negozio di caramelle
 
-it is not a given point
+it is not a given
 non è un punto scontato
 
 in the middle of the woods
@@ -107135,4 +107135,7 @@ esudare calore
 
 self-service gasoline
 la benzina self
+
+college graduation
+la laurea universitaria
 

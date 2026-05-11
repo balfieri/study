@@ -3613,7 +3613,7 @@ bourgeois
 to be very afraid
 avoir très peur
 
-stingy; miserly
+cheap; stingy; miserly
 radin
 
 sensitive; touchy
@@ -15528,3 +15528,123 @@ le tunnel
 
 to cause discussion
 faire discuter; provoquer des discussions
+
+candy store
+le magasin de bonbons
+
+it is not a given
+ce n’est pas un point acquis
+
+in the middle of the woods
+au milieu des bois
+
+landfill
+la décharge
+
+USB drive
+la clé USB
+
+candy store
+magasin de bonbons
+
+ce n’est pas un point acquis
+it is not a given
+
+landfill
+décharge
+
+USB drive
+clé USB
+
+kerosene
+le kérosène
+
+scar
+la cicatrice
+
+to pee one's pants
+faire pipi dans son patalon
+
+nationalistic
+chauvin
+
+in the lead
+en tête
+
+semi-final
+la demi-finale
+
+soccer team
+l'équipe de foot
+
+to go on strike
+faire la grève
+
+to fight
+se battre
+
+that's true, well
+c'est vrai que bon
+
+smile
+le sourire
+
+altercation
+l'altercation
+
+to blow the horn (car)
+kloxonner
+
+it's related
+c'est lié
+
+to hold debates
+faire des débats
+
+on the surface
+en surface
+
+lunch break
+la pause déjeuner
+
+colleague
+le collègue
+
+rose petal
+le pétale de rose
+
+starchy food
+le féculant
+
+rude
+malpoli
+
+thoughtless
+sans-gêne
+
+haphazardly
+au petit bonheur la chance
+
+impoliteness
+l'impolitesse
+
+stable
+écurie
+
+to exude warmth
+dégager de la chaleur
+
+self-service gasoline
+l'essence en libre-service
+
+open-book test
+l'examen avec livres ouverts
+
+delivery; handing over; discount
+la remise
+
+graduation
+la remise de diplôme
+
+college graduation
+la remise de diplôme universitaire
