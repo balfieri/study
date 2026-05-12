@@ -2677,7 +2677,7 @@ après
 before; front
 avant
 
-on; upon
+on; upon; about
 sur
 
 with
@@ -6620,8 +6620,8 @@ le rayure
 le pote
 buddy; friend
 
-le caissier
 cashier
+le caissier
 
 to take some time for oneself
 se prendre du temps
