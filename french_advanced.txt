@@ -15838,3 +15838,9 @@ evidently
 reference
 la référence
 
+I got a haircut
+je me suis fait couper les cheveux
+
+haircut
+la coupe de cheveux
+
