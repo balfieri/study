@@ -15856,8 +15856,8 @@ après être retourné aux États-Unis
 what we did
 ce que nous avons fait
 
-hay fever
-le rhume des foins
+hay fever; allertic rhinitis
+le rhume des foins; la rhinite allergique
 
 hay
 le foin
@@ -15867,9 +15867,6 @@ le pollen
 
 mainly; principally
 principalement
-
-allergic rhinitis
-la rhinite allergique
 
 runny nose
 le nez qui coule
