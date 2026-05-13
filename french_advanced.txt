@@ -10865,7 +10865,10 @@ half the time
 la moitié du temps
 
 to mow the lawn
-tondre la pelouse
+tondre le gazon; tondre la pelouse
+
+lawn
+le gazon
 
 lawn
 la pelouse
@@ -15844,3 +15847,47 @@ je me suis fait couper les cheveux
 haircut
 la coupe de cheveux
 
+I don't drink much alcohol
+je ne bois pas beaucoup d'alcool
+
+after returning to the United States
+après être retourné aux États-Unis
+
+what we did
+ce que nous avons fait
+
+hay fever
+le rhume des foins
+
+pollen
+le pollen
+
+mainly; principally
+principalement
+
+allergic rhinitis
+la rhinite allergique
+
+runny nose
+le nez qui coule
+
+sneezing
+les éternuements
+
+itchy or watery eyes
+les yeux qui piquent ou pleurent
+
+stuffy nose
+le nez bouché
+
+itching
+les démangeaisons
+
+to suffer from
+souffre de
+
+bush
+le buisson
+
+shrub
+l'arbuste
