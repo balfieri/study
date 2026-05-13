@@ -7508,7 +7508,7 @@ ice cube
 le glaçon
 
 ice cream machine
-la machine à glace
+la machine à glace; la machine à crème glacée
 
 gelato machine
 la machine à gelato
