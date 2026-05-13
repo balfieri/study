@@ -12929,3 +12929,9 @@ la voix
 
 jar; pot
 le pot
+
+it's not important
+ce n'est pas important
+
+it's not necessary
+ce n'est pas nécessaire
