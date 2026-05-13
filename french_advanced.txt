@@ -15787,3 +15787,27 @@ le quiz
 autopilot
 le pilotage automatique
 
+backyard
+le cour arrière
+
+front yard
+le cour avant
+
+before I forget
+avant que j'oublie
+
+exhausting
+épuisant
+
+how should I say?
+comment dois-je dire?
+
+hood
+le capot; le capuche
+
+instrument approach
+l'approche aux instruments
+
+congested
+congestionné; encombré
+
