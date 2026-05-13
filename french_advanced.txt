@@ -15918,3 +15918,6 @@ sauter par-dessus la clôture
 
 animals
 les animaux
+
+to control oneself
+se contrôler
