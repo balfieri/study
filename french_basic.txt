@@ -4934,7 +4934,7 @@ snack; light meal
 le casse-croûte; la collation
 
 dry
-sec
+sec; sèche
 
 wet
 mouillé
@@ -5278,7 +5278,7 @@ le chef; le patron; la patronne; le cap
 nice; kind
 gentil; aimable
 
-nice; likeable; fun (to be with)
+nice; likeable; fun (to be with); enjoyable
 sympa; agréable; amusant
 
 normal
