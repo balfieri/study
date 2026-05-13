@@ -9844,7 +9844,7 @@ exchange; swap; switch
 l'échange; la permutation
 
 period
-le période
+la période
 
 dedicated
 dévoué
