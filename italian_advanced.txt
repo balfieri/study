@@ -52654,11 +52654,11 @@ essere in secondo piano
 to work full time
 lavorare a tempo pieno
 
-itch
+itch; itching
 il prurito
 
-ho prurito
-I have an itch
+to have an itch
+avere prurito
 
 small sweater; lightweight sweater
 il maglioncino
@@ -107180,4 +107180,7 @@ il naso che cola
 
 stuffy nose
 il naso tappato
+
+hay fever
+la febbre da fieno
 

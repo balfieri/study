@@ -15859,6 +15859,9 @@ ce que nous avons fait
 hay fever
 le rhume des foins
 
+hay
+le foin
+
 pollen
 le pollen
 
@@ -15883,6 +15886,9 @@ le nez bouché
 itching
 les démangeaisons
 
+to itch
+démanger
+
 to suffer from
 souffre de
 
@@ -15891,3 +15897,6 @@ le buisson
 
 shrub
 l'arbuste
+
+to sneeze
+éternuer
