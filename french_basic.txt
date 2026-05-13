@@ -12926,3 +12926,6 @@ peux-tu l'entendre?
 
 voice
 la voix
+
+jar; pot
+le pot

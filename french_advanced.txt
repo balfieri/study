@@ -4183,7 +4183,7 @@ le conflit
 deciphering; decoding; interpreting
 le décryptage
 
-to push away; to postpone; to reject; to repel
+to push away; to postpone; to reject; to repel; to grow back
 repousser
 
 pit; hole; grave; ditch
@@ -15897,3 +15897,10 @@ l'arbuste
 
 to sneeze
 éternuer
+
+it would be arrogant to say
+ce serait arrogant de dire
+
+glass jar
+le pot de verre
+
