@@ -107163,3 +107163,6 @@ all'ombra
 to have one's hands tied
 avere le mani legate
 
+to wear a mask
+indossare una maschera
+
