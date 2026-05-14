@@ -7758,7 +7758,7 @@ ajuster
 defeated
 vaincu; battu
 
-secret
+secret; secrecy
 le secret
 
 next
@@ -12935,3 +12935,4 @@ ce n'est pas important
 
 it's not necessary
 ce n'est pas nécessaire
+

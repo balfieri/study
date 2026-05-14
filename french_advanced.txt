@@ -3070,8 +3070,8 @@ déchiqueté; râpé
 regarding; concerning
 en ce qui concerne
 
-in terms of
-en termes de; concernant
+regarding
+concernant
 
 to suit; to be suitable for; to fit
 convenir
@@ -4042,7 +4042,7 @@ consulter un médecin
 interference; intervention
 l'ingérence
 
-ballot; vote; election
+ballot; vote; election; poll (voting)
 le scrutin
 
 to seduce; to charm; to attract
@@ -15942,4 +15942,43 @@ agnostique
 
 which (something) is which?
 lequel (quelque chose) est lequel?
+
+however you want to define it
+telle que tu veux le définir
+
+to prevail
+prévaloir
+
+GDP
+le PIB (économie)
+
+same
+idem
+
+breakthrough
+la percée
+
+to escape notice
+échapper aux regards
+
+to lend itself
+se prêter
+
+at the end of one's rope
+à bout
+
+to nothing; null and void
+à néant
+
+submissive
+soumise
+
+island; islet
+l'îlot
+
+fake
+factice
+
+matters of the heart
+les questions de cœur
 
