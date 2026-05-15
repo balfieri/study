@@ -16054,3 +16054,8 @@ s'appauvrir
 arrest
 l'arrestation
 
+how much time taken
+combien de temps pris
+
+footbridge; catwalk; runway
+la passarelle
