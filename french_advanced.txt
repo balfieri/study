@@ -5122,7 +5122,7 @@ le boucher
 butcher shop
 la boucherie
 
-shell
+shell; jockstrap
 la coquille
 
 small shells (pasta)
@@ -15981,4 +15981,76 @@ factice
 
 matters of the heart
 les questions de cœur
+
+to set up; to prepare; to dress (salad); to dress (wound); to fit out
+dresser
+
+deficit
+le déficit
+
+on the rise; upward
+à la hausse
+
+consistent
+conséquent
+
+electronic chip; chip
+la puce électronique
+
+Taiwanese
+taïwanais
+
+Taiwan
+le Taiwan
+
+semiconductor
+semi-conducteur
+
+supply chain
+la chaîne d'approvisionnement
+
+rival
+le rival
+
+two-thirds
+deux tiers
+
+domination
+la domination
+
+refining; refining process; refinement
+le raffinage
+
+metal
+le métal
+
+far ahead
+loin devant
+
+editor; copywriter; writer
+le rédacteur; la rédactrice
+
+editor-in-chief
+le rédacteur en chef; la rédactrice en chef
+
+ghost town
+la ville fantôme
+
+deregulated
+déréglementé
+
+philosopher
+le philosophe; la philosophe
+
+seal
+le phoque
+
+trumpism
+le trumpisme
+
+to become poorer
+s'appauvrir
+
+arrest
+l'arrestation
 
