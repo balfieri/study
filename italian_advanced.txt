@@ -107235,3 +107235,6 @@ assolutamente no!; anzi!
 city-state
 il città-stato
 
+it makes me want to (do something)
+mi fa voglia di (fare qualcosa); mi viene voglia di (fare qualcosa)
+
