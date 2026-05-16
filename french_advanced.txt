@@ -16081,8 +16081,8 @@ le lit pliant
 city-state
 cité-État
 
-flows
-les flux
+flow
+le flux
 
 asset; advantage
 l'atout
