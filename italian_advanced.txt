@@ -107318,3 +107318,6 @@ il ribelle; la ribelle
 
 to clang
 sbattere; risuonare metallico
+
+artisanal
+artiginale
