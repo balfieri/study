@@ -3554,7 +3554,7 @@ to go on foot
 andare a piedi
 
 to lend; to loan; to pay; to provide
-prestare
+prestare; dare in prestito
 
 to borrow
 prendere in prestito
@@ -4993,7 +4993,7 @@ mai
 end; ending
 la fine
 
-less
+less; fewer
 meno
 
 society; company; corporation (European)
