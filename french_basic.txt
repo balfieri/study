@@ -12927,3 +12927,5 @@ ce n'est pas important
 it's not necessary
 ce n'est pas nécessaire
 
+how is it?; what is it like?
+c'est comment?

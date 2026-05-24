@@ -12748,6 +12748,9 @@ il dominio
 goddess; beauty
 la dea
 
+god
+il dio
+
 smartass; wiseass; wise guy; wiseacre
 il sapientone; la sapientona; il saccente; la saccente
 
@@ -107321,3 +107324,18 @@ sbattere; risuonare metallico
 
 artisanal
 artiginale
+
+to spread; to diffuse; to be spread
+diffondersi
+
+to walk ten blocks
+fare dieci isolati; camminare per dieci isolati
+
+how is it?
+com’è?; come va?
+
+Nordic
+nordico
+
+ink pad
+il tampone per timbri
