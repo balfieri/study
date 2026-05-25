@@ -107385,3 +107385,9 @@ la pausa; la quiete
 stranglehold
 la stretta mortale; la presa di strangolamento
 
+hook; connection; engagement
+l'aggancio
+
+hooking; coupling
+il ganciamento
+

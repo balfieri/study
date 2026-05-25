@@ -349,7 +349,7 @@ cela; ça; que
 launch
 le lancement
 
-link
+link; connection
 le lien
 
 like; as
