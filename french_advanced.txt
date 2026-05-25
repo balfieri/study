@@ -3092,7 +3092,7 @@ furnished
 meublé
 
 surroundings; vicinity
-les alentours
+les alentours; l'alentour
 
 what do we have to lose?
 qu'avons-nous à perdre?
@@ -13804,7 +13804,7 @@ le retournement
 upheaval
 le bouleversement; le soulèvement; la révolution
 
-to move deeply; to upset; to change drastically; to turn upside down
+to move deeply; to upset; to change drastically; to turn upside down; to shatter
 bouleverser
 
 shareholding
@@ -16396,3 +16396,59 @@ le train régional
 local train
 le train local
 
+to overflow; to be full of
+regorger
+
+to perpetrate
+perpétrer
+
+militia
+la milice
+
+compatriot; fellow countryman; fellow countrywoman
+le compatriote; la compatriote
+
+to interfere; to meddle
+s'ingérer
+
+murderous; deadly
+meurtrière
+
+terribly
+terriblement
+
+support
+l'appui
+
+lull
+l'accalmie
+
+tin
+l'étain
+
+while supporting; by supporting
+en soutenant
+
+to seize; to take over
+s'emparer
+
+to defy; to challenge
+défier
+
+notoriously; famously (in a bad way)
+notoirement
+
+notoire; célèbre (en mal); tristement célèbre
+notorious
+
+control; stranglehold
+la mainmise
+
+copper
+le cuivre
+
+cobalt
+le cobalt
+
+pump
+la pompe

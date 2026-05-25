@@ -12442,7 +12442,7 @@ il pesciolino d'oro
 back; lump
 la groppa
 
-pond
+pond; tin (the metal)
 lo stagno
 
 to smell; to sniff
@@ -17201,7 +17201,7 @@ wholesale; approximately; roughly
 ingrosso
 
 notorious; infamous; of ill repute
-famigerato; infame
+famigerato; infame; notorio
 
 deployment
 lo schierzamento
@@ -58580,7 +58580,7 @@ la frattura da stress
 service animal
 l'animale di servizio
 
-deviousness; malice
+deviousness; malice; malitia
 la malizia
 
 relaxing
@@ -107376,3 +107376,11 @@ il treno regionale
 local train
 il treno locale
 
+murderous
+assassino; omicida
+
+lull
+la pausa; la quiete
+
+stranglehold
+la stretta mortale; la presa di strangolamento
