@@ -107394,3 +107394,9 @@ il ganciamento
 vehicle registration
 l'immatricolazione del veicolo
 
+crafted
+lavorato; fatto a mano
+
+to craft
+creare; realizzare; confezionare
+
