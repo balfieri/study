@@ -16476,3 +16476,6 @@ artisan; fabriqué; façonné
 
 to craft
 fabriquer; créer; confectionner
+
+to be willing to
+être disposé à
