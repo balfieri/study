@@ -16380,3 +16380,19 @@ saigner
 
 Grand Central Station
 la Grand Central Station
+
+commuter train
+le train de banlieue
+
+passenger train
+le train de passagers
+
+freight train
+le train de marchandises
+
+regional train
+le train régional
+
+local train
+le train local
+

@@ -107366,3 +107366,13 @@ radersi; farsi la barba
 
 Grand Central Station
 la Grand Central Station
+
+passenger train
+il treno passeggeri
+
+regional train
+il treno regionale
+
+local train
+il treno locale
+
