@@ -47750,7 +47750,7 @@ to exasperate
 esasperare
 
 homeless
-senzatetto
+senzatetto; senza dimora
 
 how's life?
 come va la vita?
@@ -78685,9 +78685,6 @@ sto perseguendo la mia passione
 
 I hope you make a speedy recovery
 spero che tu guarisca presto
-
-senza dimora
-homeless
 
 to make a first impression
 fare una buona prima impressione; fare una prima impressione
