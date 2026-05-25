@@ -11743,7 +11743,7 @@ barbuto
 font
 il carrattere
 
-mental lapse; slip of the tongue; brain fart
+lapse; mental lapse; slip of the tongue; brain fart
 il lapsus
 
 conservative (noun)
@@ -107390,4 +107390,7 @@ l'aggancio
 
 hooking; coupling
 il ganciamento
+
+vehicle registration
+l'immatricolazione del veicolo
 

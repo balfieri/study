@@ -16465,3 +16465,9 @@ l'accrochage
 agoraphobia
 l'agoraphobie
 
+vehicle registration
+l'immatriculation du véhicule
+
+registration (vehicle, college)
+l'immatriculation
+
