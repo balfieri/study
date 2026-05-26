@@ -8152,3 +8152,6 @@ lo senti?
 I can't wait!
 non vedo l'ora!
 
+turn; shift (work); round; rotation 
+il turno
+

@@ -12936,3 +12936,5 @@ le camion
 I don't like it
 je n'aime pas ça
 
+tour; trick; turn; circuit; ride; stroll; round; journey; lap
+le tour
