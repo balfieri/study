@@ -250,7 +250,7 @@ courtois
 discourteous; rude
 grossier
 
-channel
+channel; chain
 la chaîne
 
 kiss on the cheek
@@ -7525,7 +7525,7 @@ pack; parcel; package
 le paquet; le colis; l'emballage
 
 headache (physical)
-le mal de tête
+le mal de tête; le mal à la tête
 
 to be sick
 être malade
@@ -12932,4 +12932,7 @@ c'est comment?
 
 truck
 le camion
+
+I don't like it
+je n'aime pas ça
 
