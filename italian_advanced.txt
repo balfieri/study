@@ -22630,9 +22630,6 @@ apertamente
 pose
 la posa
 
-emission
-l'emissione
-
 expiration; course; passage
 il decorso
 
@@ -65867,9 +65864,6 @@ illuminare (qualcuno) su (qualcosa)
 see you then!
 ci vediamo allora!
 
-coin
-la moneta
-
 something more powerful
 qualcosa di più potente
 
@@ -107421,3 +107415,17 @@ il bene materiale
 it's better to rent than to buy
 è meglio prendere in affitto che comprare
 
+emission; issue; broadcast
+l'emissione
+
+stork
+la cicogna
+
+kitten; kitty
+il micetto
+
+coin; money; currency
+la moneta
+
+hegemonic
+egemonico
