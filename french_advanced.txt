@@ -16767,3 +16767,10 @@ il y aura
 
 we're almost there
 on est presque arrivés
+
+carburetor
+le carburateur
+
+fuel injection
+l'injection de carburant
+
