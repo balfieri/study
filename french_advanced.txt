@@ -3269,7 +3269,7 @@ to want that (action)
 voulouir que (subjonctif)
 
 to fear that
-craindre que (subjonctif)
+craindre que (subjonctif); avoir peur que (subjonctif)
 
 to like that
 aimer que (subjunctif)
