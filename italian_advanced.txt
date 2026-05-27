@@ -59291,7 +59291,7 @@ provare schifo per; provare disgusto per; sentire disgusto per
 to be disgusted by
 essere disgustato da
 
-TV show
+TV show; television show
 il programma televisivo
 
 recurring character
@@ -107444,3 +107444,4 @@ il padre riceve sempre molti insulti
 
 do I detect a little jealousy?
 sto percependo un po' di gelosia?; sto rilevando un po' di gelosia?
+
