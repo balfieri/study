@@ -16750,3 +16750,6 @@ la mondialisation
 globalized
 mondialisé
 
+sovereignty
+la souveraineté
+
