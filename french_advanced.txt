@@ -16726,3 +16726,6 @@ relier
 to connect (intransitive)
 se relier
 
+I am certain that it will happen
+je suis certain que cela arrivera
+
