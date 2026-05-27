@@ -5077,7 +5077,7 @@ quelle peure!; que j’ai eu peur!; quel effrayant!; comme c'est effrayant!
 to be so scared
 avoir tellement peur
 
-stressed
+stressed; stressed out
 stressé
 
 half the days
@@ -16650,4 +16650,13 @@ ouvrir quelques possibilités
 
 will they be able to survive without you?
 vont-ils pouvoir survivre sans toi?
+
+almost anything
+presque n'importe quoi
+
+high (price); elevated; raised
+élevé
+
+to have room; to have space; to have enough room; to have enough space
+avoir de la place
 
