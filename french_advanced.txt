@@ -16765,3 +16765,5 @@ autonome; auto-conduite
 there will be
 il y aura
 
+we're almost there
+on est presque arrivés
