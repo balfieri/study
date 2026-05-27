@@ -4684,7 +4684,7 @@ le vinaigre
 pan
 la poêle
 
-stove
+stove 
 le poêle
 
 pot
@@ -9150,7 +9150,7 @@ féminine
 male
 mâle
 
-advantage
+advantage; benefit
 l'avantage
 
 disadvantage
