@@ -2203,7 +2203,7 @@ molle; mou
 dough; pastry; paste
 la pâte
 
-crust
+crust; scab
 la croûte
 
 cow

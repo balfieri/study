@@ -23447,7 +23447,7 @@ chocolate mint
 ciocco menta
 
 body odor; the smell of sweat
-la puzza di sudore
+l'odore corporeo; la puzza di sudore
 
 to repay; to refund; to reimburse
 rimborsare
@@ -50869,7 +50869,7 @@ la clamidia
 syphilis
 la sifilide
 
-herpes genitale
+genital herpes; herpes
 l'herpes genitale
 
 sexually transmitted disease
@@ -107472,3 +107472,20 @@ i messaggi subliminali
 de facto cohabitation; commonlaw partnership
 la convivenza di fatto
 
+cottage cheese; curd cheese
+i fiocchi di latte; la ricotta granulare
+
+Gibraltar
+Gibilterra
+
+pimple; zit
+il brufolo
+
+scab
+la crosta
+
+cold sore
+l'herpes labiale
+
+herpes
+l'herpes
