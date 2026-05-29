@@ -107504,3 +107504,7 @@ com’è possibile?
 
 how could that be?
 com’è potuto accadere?
+
+message me when you are ready
+scrivimi quando sei pronto
+

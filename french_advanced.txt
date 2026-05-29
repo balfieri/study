@@ -16840,3 +16840,5 @@ comment est-ce possible?
 how could that be?
 comment cela pourrait-il être ?
 
+message me when you are ready; send me a message when you're ready
+envoie-moi un message quand tu es prêt
