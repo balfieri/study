@@ -505,7 +505,7 @@ somptueux
 luxury
 le luxe
 
-heist
+heist; robbery
 le cambriolage; le braquage
 
 grumbler; whiner
@@ -13603,7 +13603,7 @@ en vue de
 enemy; opponent
 l'ennemie
 
-aimed
+aimed; targeted
 visé
 
 following; subsequent to
@@ -16846,3 +16846,89 @@ envoie-moi un message quand tu es prêt
 mismanagement
 la mauvaise gestion; la mauvaise administration
 
+similarity
+la similarité
+
+common knowledge
+la connaissance commune
+
+self-emptying
+auto-videment
+
+toggle; tipping point
+la bascule
+
+withdrawal; blood draw
+le prélèvement
+
+to have to; must
+falloir
+
+viewfinder; sight
+le viseur
+
+burned at the stake
+mis au bûcher
+
+hunt
+la chasse
+
+reverence
+la révérence
+
+philosophy
+la philosophie
+
+philosophical
+philosophique
+
+lump
+le morceau; la bosse
+
+bump
+la bosse; l'heurt
+
+spite; disappointment
+le dépit
+
+literal
+littéral
+
+Savanna
+la savane
+
+mixed-race; blended
+métissé
+
+poverty
+la pauvreté
+
+deliberate
+délibéré; intentionnel
+
+unintentional
+involontaire; non intentionnel
+
+to end; to come to an end
+s'achever
+
+graft; transplant
+la greffe
+
+tennis-related; tennis-like
+tennistico
+
+facing; in the face of
+face à
+
+être marre de
+to be sick of
+
+I'm sick of it
+j'en ai marre; ça me lasse
+
+childless
+sans enfants
+
+eviction
+l'expulsion; l'expulsion locative; l'expulsion de logement
