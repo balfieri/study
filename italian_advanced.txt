@@ -33586,7 +33586,7 @@ il pronostico
 convicted; doomed
 il condannato; il pregiudicato
 
-withdrawal
+withdrawal; blood draw
 il prelievo
 
 prehistory
@@ -107519,4 +107519,43 @@ avere un guasto
 
 self-emptying
 auto-svuotante
+
+targeted
+preso di mira
+
+burned at the stake
+messo al rogo
+
+pretext for the hunt; excuse for the hunt
+il pretesto per la caccia
+
+reverence
+la riverenza
+
+drowned
+annegato
+
+philosophy
+la filosofia
+
+figurative
+figurativo
+
+Savanna
+la savana
+
+shantytown
+la favela
+
+mixed-race
+meticcio
+
+to come to an end
+giungere alla fine
+
+tennis-related
+tennistico
+
+childless
+senza figli
 
