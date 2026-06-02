@@ -3100,9 +3100,6 @@ le refuge
 to get diminishing returns
 obtenir des rendements décroissants; obtenir des résultats de moins en moins bons
 
-engagement
-le fidanzamento
-
 PhD; doctorate
 le doctorat
 
@@ -16964,7 +16961,7 @@ peine remarquer
 18 trous de golf
 
 round of golf
-le parcours de golf
+la partie de golf
 
 full round of golf
 le parcours complet de golf
@@ -17080,3 +17077,35 @@ la côte rocheuse; la côte escarpée
 sandy coastline
 la côte sableuse
 
+inland; away from the coast
+à l'intérieur des terres; éloigné de la côte; vers l'intérieur des terres
+
+other than working on
+à part travailler sur
+
+before; previously; in the past
+auparavant
+
+it takes too much time
+il faut trop de temps; ça prend trop de temps
+
+since then
+depuis lors
+
+golf club (stick)
+le club de golf; la batte de golf
+
+golf bag
+le sac de golf
+
+tee area (golf)
+l'aire de départ
+
+to hit a golf ball
+frapper une balle de golf
+
+too much commitment
+trop d'engagement
+
+highway robbery; legal robbery
+le braquage légal; le vol légal
