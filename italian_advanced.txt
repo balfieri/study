@@ -70655,7 +70655,7 @@ l'arte scenica
 sparrow
 il passero
 
-crow
+crow; raven
 il corvo
 
 side-by-side
@@ -107606,3 +107606,4 @@ la pista da corsa
 
 everywhere around us
 dappertutto intorno a noi; ovunque intorno a noi
+
