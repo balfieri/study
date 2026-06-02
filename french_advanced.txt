@@ -70,9 +70,6 @@ discret; discrète
 meticulous
 minutieux
 
-kind; benevolent
-bienveillant
-
 clear-sighted; lucid
 lucide
 
@@ -147,9 +144,6 @@ le lardon; les lardons
 
 while heating
 en chauffant
-
-to work (slang)
-bosser
 
 sea bream
 le daurade
@@ -2731,7 +2725,7 @@ fleuri; fané
 previously
 précédemment
 
-waterfall
+waterfall; stunt (movie)
 la cascade
 
 to top off
@@ -4683,9 +4677,6 @@ sur l’affaire
 
 answering machine
 le répondeur
-
-to burglarize
-cambrioler
 
 burglar
 le cambrioleur
@@ -17001,4 +16992,73 @@ punir
 
 dachshund
 le teckel; le basset
+
+to reinvent
+réinventer
+
+cameraman
+le cameraman; la cadreur
+
+to milk (cow)
+traire
+
+glibness; patter; gift of the gab
+le bagout
+
+crow; raven
+le corbeau
+
+outcome; culmination
+l'aboutissement
+
+tacky; cheesy; outdated
+ringard
+
+dark; deep (in colour)
+foncé
+
+kid; little girl
+la gamine
+
+it's about (something)
+parler de (quelque chose); s’agir de (quelque chose)
+
+same again; here we go again
+rebelote
+
+to nag; to pester; to tan (leather/skin, context)
+tanner
+
+to rob; to burglarize
+cambrioler
+
+to work hard; to slog; to toil
+bosser
+
+harassment
+le harcèlement
+
+to bring together; to unite; to federate
+fédérer
+
+benevolent; well-meaning; kind
+bienveillant
+
+to roam; to wander around; to travel around
+bourlinguer
+
+to drizzle
+bruiner
+
+to sparkle; to be a gem; to be a standout
+pépiter
+
+bedside; bedside table
+le chevet; le table de chevet
+
+spat
+craché
+
+rush; stampede; gold rush
+la ruée
 
