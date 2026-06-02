@@ -491,7 +491,7 @@ half the time
 nella metà del tempo
 
 icon
-una icona
+l'icona
 
 it changed
 è cambiato

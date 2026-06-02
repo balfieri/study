@@ -17062,3 +17062,6 @@ craché
 rush; stampede; gold rush
 la ruée
 
+cocoon
+le cocon
+
