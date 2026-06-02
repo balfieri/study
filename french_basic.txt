@@ -5539,7 +5539,7 @@ le parc
 summit; top
 le sommet
 
-coast
+coast; coastline
 la côte; le littoral
 
 planet

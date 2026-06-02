@@ -1837,7 +1837,7 @@ la cima
 tree
 l'albero
 
-coast
+coast; coastline
 la costa
 
 planet
