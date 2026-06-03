@@ -68514,7 +68514,7 @@ farmhouse; country house
 la masseria
 
 refinery
-raffineria
+la raffineria
 
 to tilt; to wobble; to rock; to sway
 basculare
@@ -107625,3 +107625,23 @@ ci vuole troppo tempo
 engagement (wedding)
 le fidanzamento
 
+oncology
+l'oncologia
+
+to blaze; to burn fiercely
+divampare; bruciare intensamente
+
+HIV
+l'HIV
+
+sector
+la filiera; il settore
+
+barely 10 years; hardly 10 years
+appena 10 anni
+
+permanent magnet
+il magnete permanente
+
+secular; lay
+laico; non religioso
