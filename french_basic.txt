@@ -1774,7 +1774,7 @@ le sens de l’humour
 wonderful; marvelous
 merveilleux
 
-station (radio); channel
+station (radio); channel; resort
 la station; le chaîne
 
 while; whereas
@@ -12944,4 +12944,7 @@ vraiment?
 
 next week
 la semaine prochaine
+
+near here
+près d’ici
 

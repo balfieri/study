@@ -8155,3 +8155,5 @@ non vedo l'ora!
 turn; shift (work); round; rotation 
 il turno
 
+near here
+qui vicino
