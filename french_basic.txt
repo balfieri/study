@@ -706,7 +706,7 @@ le chapitre
 translation
 la traduction
 
-path; way
+path; way; road
 le chemin
 
 rent
