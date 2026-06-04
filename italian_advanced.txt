@@ -27460,7 +27460,7 @@ integrare
 masterpiece
 il capolavoro
 
-exception; derogation; exemption; dispensation
+exception; derogation; exemption; dispensation; waiver
 la deroga
 
 impetus
@@ -107645,3 +107645,46 @@ il magnete permanente
 
 secular; lay
 laico; non religioso
+
+World Bicycle Day
+la giornata mondiale della bicicletta
+
+to weaken; to make fragile (technical context)
+infragilire
+
+decadeslong
+lungo decenni
+
+by trying too hard; by always wanting (it too much)
+a forze di volere
+
+current expenditure; operating expenses
+la spesa corrente
+
+tax relief; relief; exemption
+lo sgravo
+
+budget derogation; waiver from the budget rules
+la deroga di bilancio
+
+transposed; incorporated; implemented
+recepito
+
+decryption
+la decriptazione
+
+to cool
+raffredare
+
+a small show of appreciation
+un piccolo gesto di apprezzamento
+
+to show appreciation for (something)
+mostrare apprezzamento per (qualcosa)
+
+golf swing
+lo swing di golf
+
+golf shot
+il colpo di golf
+
