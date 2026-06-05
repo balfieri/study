@@ -11719,7 +11719,7 @@ la falla
 rural; rustic
 rustico
 
-to grant
+to grant; to fulfill
 esaudire
 
 news channel
@@ -54754,7 +54754,7 @@ il calorifero
 radiator (car)
 il radiatore
 
-the stakes
+stakes
 la posta in gioco
 
 woe; sorrow; distress

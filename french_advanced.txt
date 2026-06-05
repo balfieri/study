@@ -826,7 +826,7 @@ admonester; réprimander
 admonishment
 l'avertissement; la réprimande
 
-stake
+stake; stakes
 le pieu; l'enjeu
 
 life-threatening disease
@@ -17251,3 +17251,11 @@ tenir sa promesse
 back road
 le chemin de campagne
 
+to grant; to fulfill
+exaucer
+
+to flex
+flexir
+
+era; age
+l'ère
