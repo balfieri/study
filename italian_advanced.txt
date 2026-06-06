@@ -107777,3 +107777,7 @@ la distesa d'acqua
 
 it was a fun day
 è stata una giornata divertente
+
+it was one of those days!
+era uno di quei giorni!
+

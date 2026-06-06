@@ -17341,3 +17341,6 @@ fluide
 cart
 le chariot; la charrette; le caddie; la voiturette
 
+it was one of those days!
+c'était un de ces jours-là !
+
