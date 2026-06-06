@@ -2251,8 +2251,11 @@ di tutto punto
 secretly
 di nascosto; segretamente (formale)
 
-substantial; common-law; de facto
+substantial; common-law; de facto (used as adjective)
 di fatto
+
+in fact,; effectively,; as a matter of fact, (used correctively)
+di fatto,
 
 indeed; actually; really
 effettivamente
@@ -26239,7 +26242,7 @@ la stregua; la stregoneria
 in fact; indeed (formal)
 infatti
 
-in fact; as a matter of fact
+in fact; as a matter of fact (literary, less common)
 difatti
 
 indigenous
