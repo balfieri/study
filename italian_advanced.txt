@@ -33323,7 +33323,7 @@ beverage
 il beveraggio
 
 self-driving
-autoguida
+autoguida; a guida autonoma
 
 singing
 la cantoria
@@ -107786,4 +107786,7 @@ la grave negligenza
 
 a lot of times
 molte volte
+
+restricted area
+l'area riservata
 

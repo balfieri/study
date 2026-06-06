@@ -12948,3 +12948,6 @@ la semaine prochaine
 near here
 près d’ici
 
+air; area
+l'aire
+

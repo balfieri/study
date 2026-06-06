@@ -17353,3 +17353,6 @@ la brise
 extreme neglect
 la négligence extrême
 
+restricted area
+la zone réservée
+
