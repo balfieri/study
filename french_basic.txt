@@ -9072,7 +9072,7 @@ la blague connue; la plaisanterie connue; l'histoire drôle (connue)
 practical joke; prank
 la farce; la plaisanterie
 
-often
+often; a lot of times
 souvent
 
 thick
