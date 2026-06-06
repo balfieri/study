@@ -17304,3 +17304,7 @@ l'impasse
 
 stalemate; deadlock
 l'impasse; le statu quo
+
+mass surveillance
+la surveillance de masse
+
