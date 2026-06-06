@@ -9910,8 +9910,8 @@ ficcare
 bulge
 il rigonfiamento
 
-to show off
-mettersi in mostra; esibirsi; darsi delle arie
+to show off; to flex; to showboat
+mettersi in mostra; esibirsi; darsi delle arie; flexare
 
 to drill (using a drill)
 trapanare
@@ -13469,7 +13469,7 @@ to baptize; to christen
 battezzare
 
 political scientist
-il politologo
+il politologo; la politologa
 
 quarrelsome; contentious; belligerent
 rissoso
@@ -17583,9 +17583,6 @@ alle sue spalle
 
 to join (club, etc.)
 unirsi a
-
-to showboat
-mettersi in mostra
 
 proverb; saying
 il proverbio; il detto
