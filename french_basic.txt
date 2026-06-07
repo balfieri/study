@@ -10305,7 +10305,7 @@ il bilan
 reader
 le lecteur
 
-restart; resumption
+restart; resumption; reprise
 la reprise
 
 that (something)-there
