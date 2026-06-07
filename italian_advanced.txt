@@ -59789,7 +59789,7 @@ non mi preoccupo di questo; non me ne preoccupo
 picker
 il selezionatore; il raccoglitore
 
-to deplore
+to deplore; to lament
 deplorare
 
 deplorable
@@ -107798,3 +107798,7 @@ la placca
 
 to co-invest; to coinvest
 co-investire
+
+to regret deeply
+rimpiangere profondamente
+
