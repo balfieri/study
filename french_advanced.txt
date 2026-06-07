@@ -17374,3 +17374,6 @@ mettre de droit
 private money; private funds; private capital
 l'argent privé
 
+monetary
+monétaire
+
