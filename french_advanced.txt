@@ -17415,3 +17415,7 @@ marginaliser
 
 ceasefire; cease fire
 le cesser le feu
+
+to preside; to chair
+présider
+
