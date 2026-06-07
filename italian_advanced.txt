@@ -107796,3 +107796,5 @@ di bilancio; finanziario
 plaque; plate
 la placca
 
+to co-invest; to coinvest
+co-investire
