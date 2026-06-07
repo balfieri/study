@@ -15934,9 +15934,6 @@ telle que tu veux le définir
 to prevail
 prévaloir
 
-GDP
-le PIB (économie)
-
 same
 idem
 
@@ -17424,4 +17421,19 @@ déplorer
 
 to regret deeply
 regretter profondément
+
+rigorous
+rigoureux
+
+to monetize
+monétiser
+
+to assume; to take on
+assumer
+
+to presume; to suppose
+présumer
+
+to reappropriate; to reclaim; to take back
+réapproprier
 
