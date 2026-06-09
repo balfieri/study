@@ -8760,7 +8760,7 @@ Naples
 research; search
 la recherche
 
-quest
+quest; search
 la quête
 
 chair; seat; stool (house, office)
