@@ -57257,8 +57257,8 @@ lo stato estero
 federated state
 lo stato federato
 
-il certificate of attribution
-certificato di attribuzione
+certificate of attribution; certificate of allocation
+il certificato di attribuzione
 
 act registration
 la registrazione atti
