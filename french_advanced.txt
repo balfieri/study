@@ -652,9 +652,6 @@ le stabilisateur
 long part
 partie longue
 
-wing
-l'aile
-
 self-dealing
 l’auto-négoce; l’auto-délivrance
 
@@ -17439,4 +17436,43 @@ réapproprier
 
 coproduction
 la coproduction
+
+jostled; shoved; knocked about
+bousculé
+
+of us
+d'entre nous
+
+contradictory
+contradictoire
+
+the question that remains open
+la question qui reste ouverte
+
+criminalization
+la criminalisation
+
+freedom-destroying; freedom-killing; liberty-destroying
+liberticide
+
+to get to the heart of the matter; to get straight to the point; to go straight to the heart of the matter
+entrer dans le vif du sujet
+
+visceral
+viscéral
+
+enjoyment of use
+la jouissance de l'usage
+
+use
+l'utilisation
+
+consumption
+la consommation
+
+turn signals; turn indicators; blinkers
+les clignotants; les indicateurs de direction; les feux clignotants
+
+wing; fender
+l'aile
 
