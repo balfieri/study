@@ -21061,7 +21061,7 @@ a seconda di
 weakness; feebleness
 la debolezza
 
-aspiring
+aspiring; wannabe
 aspirante
 
 heterosexual
@@ -107870,4 +107870,7 @@ riaddormentarsi
 
 priority
 la prioritaire
+
+wannabe dictator
+l'aspirante dittatore
 
