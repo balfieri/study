@@ -505,7 +505,7 @@ le cambriolage; le braquage
 grumbler; whiner
 le râleur
 
-to cradle
+to cradle; to rock (baby)
 bercer
 
 to pamper
@@ -1702,7 +1702,7 @@ décorer
 beloved
 bien-aimé
 
-hose
+hose; tip
 le tuyau
 
 row
@@ -15733,9 +15733,6 @@ lisser les prix
 to stock
 stocker
 
-running late
-à la bourre
-
 credit
 le crédit
 
@@ -17553,3 +17550,49 @@ le Nigéria
 
 day care provider; childcare assistant
 l'assistante maternelle
+
+window; pane of glass
+la vitre
+
+ouch!
+aïe!
+
+to do some work; to do renovations; to do some construction work
+faire des travaux
+
+the whole room
+toute la pièce
+
+snowflake
+le flocon
+
+to go back to sleep; to fall back asleep
+se rendormir
+
+property manager; managing agent; trustee in bankruptcy
+le syndic
+
+repairman; repairer; fixer; mender
+le réparateur; la réparatrice
+
+osteopath
+l'ostéopathe; l'ostéo
+
+osteopathy
+l'ostéopathie
+
+motherhood; maternity; maternity ward
+la maternité
+
+back pain; sore back
+le mal au dos
+
+bun; bun; bread roll
+le bun
+
+peanut
+la cacahuète; l'arachide
+
+peanut butter
+le beurre de cacahuète; le beurre d'arachide
+

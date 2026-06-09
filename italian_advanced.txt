@@ -38704,7 +38704,7 @@ il mal di pancia
 ear ache
 il mal di orecchie
 
-back ache
+back ache; back pain
 il mal di schiena
 
 leg ache
@@ -100745,9 +100745,6 @@ renziano
 massacre; carnage
 la carneficina
 
-to get back to sleep
-riaddormentarsi
-
 in terms of age
 anagraficamente
 
@@ -107861,4 +107858,16 @@ il servizio giornalistico; il reportage
 
 childcare assistant; daycare provider
 l'assistente all’infanzia; l'assistente materna
+
+to be running late
+essere in ritardo
+
+to do some work; to do some jobs; to carry out some work
+fare dei lavori
+
+to go back to sleep; to fall back asleep; to get back to sleep
+riaddormentarsi
+
+priority
+la prioritaire
 

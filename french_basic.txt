@@ -985,7 +985,7 @@ les lunettes; les lunettes du vu
 sunglasses
 les lunettes de soleil
 
-to shout; to yell
+to shout; to yell; to scream
 crier
 
 to cut
@@ -5978,8 +5978,11 @@ la soif
 hunger
 la faim
 
-sleepiness; sleep
-la somnolence; le sommeil
+sleepiness
+la somnolence
+
+sleep
+le sommeil
 
 anxious
 anxieux
@@ -8240,9 +8243,6 @@ l'éducation; la manière d’être élevé
 
 African-American
 afro-américain
-
-motherhood; maternity
-la maternité
 
 to tighten; to clamp
 serrer; fixer
