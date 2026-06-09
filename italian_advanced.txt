@@ -47342,7 +47342,7 @@ dealership
 la concessionaria
 
 possession
-il possedimento
+il possesso; la proprietà; il possedimento
 
 decoration (festive, temporary)
 l'addobbo
