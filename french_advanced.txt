@@ -17476,3 +17476,8 @@ les clignotants; les indicateurs de direction; les feux clignotants
 wing; fender
 l'aile
 
+mudguard
+le garde-boue
+
+mud
+la boue

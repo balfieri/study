@@ -6583,7 +6583,7 @@ la pompa
 sadle (also motorcycle seat)
 la sella
 
-mudguard
+mudguard; fender
 il parafango
 
 handlebar
@@ -107816,3 +107816,7 @@ liberticido
 
 to get to the heart of the matter; to get into the details; to address the substance of the matter
 entrare nel merito
+
+turn indicators; turn signals
+le indicatori di direzione
+
