@@ -3505,7 +3505,7 @@ débrouillard
 generosity
 la générosité
 
-moved; touched
+moved; touched; affected
 touché
 
 enterprising
@@ -11971,7 +11971,7 @@ le tuyau d'égout
 tick (insect)
 la tique
 
-processing
+processing; treatment
 le traitement
 
 auto-immune disease
@@ -17646,4 +17646,10 @@ rester en service
 
 to pursue a career
 poursuivre une carrière
+
+to reduce; to lessen; to cut down
+réduire
+
+gene
+le gène
 
