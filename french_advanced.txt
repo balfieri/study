@@ -17629,3 +17629,14 @@ relancer
 bridge; motorway bridge
 le pont autoroutier
 
+holder; bearer; owner
+le détenteur; la détentrice
+
+we have lived in Italy each of the last 3 years
+nous avons vécu en Italie chacune des 3 dernières années
+
+for 2 months each time
+pendant 2 mois à chaque fois
+
+at half-mast; at half-staff
+en berne

@@ -41809,7 +41809,7 @@ la richiesta di proposta
 billing; invoicing
 la fatturazione
 
-auction
+auction; mast; staff; pole (flag)
 l'asta
 
 sales competition
@@ -107883,3 +107883,11 @@ rilanciare
 pinkish hue
 la sfumatura rosata
 
+we have lived in Italy for each of the last 3 years
+abbiamo vissuto in Italia ognuno degli ultimi 3 anni
+
+for 2 months each time
+per 2 mesi ogni volta
+
+at half-mast; at half-staff
+a mezz’asta; a mezz’asta
