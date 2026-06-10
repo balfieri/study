@@ -3529,8 +3529,14 @@ puis-je avoir (quelque chose)?
 without you
 sans toi
 
+I can't wait!
+j'ai hâte!
+
 I can't wait to see you again
 j'ai hâte de te revoir
+
+I'm looking forward to; I can't wait to
+j'ai hâte de
 
 to not want to hear
 ne vouloir entendre pas
@@ -3981,9 +3987,6 @@ doué
 
 to enjoy; to have pleasure
 jouir
-
-I'm looking forward to
-j'ai hâte de
 
 impatient
 impatient
@@ -12950,4 +12953,3 @@ j'avais tort
 
 have a great evening
 passe une bonne soirée
-
