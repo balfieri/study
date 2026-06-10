@@ -1105,9 +1105,6 @@ environ
 salt
 le sel
 
-plan; map
-le plan
-
 to plan
 prévoir; planifier
 
@@ -9672,8 +9669,11 @@ le plus
 character
 le caractère
 
-project; plan; design
-le projet; le plan; la conception
+project; plan; design (abstract)
+le projet
+
+map; plan (physical)
+le plan
 
 to plan (in detail); to design; to project
 planifier; concevoir; projeter

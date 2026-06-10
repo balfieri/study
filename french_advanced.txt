@@ -17653,3 +17653,23 @@ réduire
 gene
 le gène
 
+too boring
+trop ennoyeux
+
+in winter
+en hiver
+
+in spring
+au printemps
+
+in summer
+en été
+
+in fall
+en automne
+
+half-timbered; timber-framed
+à colombages
+
+cliff
+la falaise
