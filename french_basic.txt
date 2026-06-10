@@ -2791,9 +2791,6 @@ le musicien
 incredible; unbelievable
 incroyable
 
-on the other hand; however
-par contre
-
 certain; sure
 certain
 
@@ -3656,7 +3653,7 @@ given that
 étant donné que; au vu de; compte tenu de; sachant que
 
 on the other hand
-d'un autre côté; par contre
+d'autre part; d'un autre côté; par contre
 
 in my humble opinion
 à mon humble avis
@@ -4401,9 +4398,6 @@ se concentrer sur
 
 currently
 actuellement
-
-on the other hand
-en revanche
 
 much better
 beaucoup mieux

@@ -2636,7 +2636,7 @@ pat; knock
 il colpetto
 
 on the other hand
-d'altra parte; d'altro canto; dall'altro lato; di contro
+d'altra parte; d'altro canto; dall'altro lato; di contro; per contro
 
 hoe
 la zappa
@@ -58912,9 +58912,6 @@ il dovere sociale del singolo
 
 social duty
 il dovere sociale
-
-on the other hand
-per contro
 
 drug trial
 la sperimentazione di farmaci
