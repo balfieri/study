@@ -5584,8 +5584,8 @@ le quartier
 traffic
 la circulation; le trafic
 
-building; palace
-le bâtiment; le palais
+palace
+le palais
 
 bridge
 le pont
