@@ -4390,9 +4390,6 @@ charmant
 enchanting
 enchanteur
 
-dull
-terne
-
 sharp
 aiguisé
 
@@ -12953,3 +12950,6 @@ l'aire
 
 about (something); concerning (something); regarding (something)
 à propos de (quelque chose); concernant (quelque chose); au sujet de (quelque chose)
+
+I was wrong
+j'avais tort

@@ -8157,3 +8157,6 @@ il turno
 
 near here
 qui vicino
+
+I was wrong
+avevo torto
