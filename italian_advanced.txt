@@ -62466,7 +62466,7 @@ scepter
 lo scettro
 
 young lady
-la giovane signora
+la giovane signora; la giovane donna
 
 young man
 il giovane uomo
@@ -107910,3 +107910,8 @@ la famiglia pazza; la famiglia folla
 drab; dull; boring; colorless
 smorto; monotono; scialbo
 
+to persist; to be obstinate; to insist stubbornly
+ostinarsi; ostinarsi ostinatamente
+
+what do i know?; how should i know?
+che so io?

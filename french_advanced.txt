@@ -5615,7 +5615,7 @@ it's never too late for
 il n'est jamais trop tard pour
 
 young lady
-la jeune fille; la demoiselle; la jeune femme
+la jeune fille; la demoiselle
 
 ugly hat
 le chapeau laid
@@ -17703,3 +17703,16 @@ terne
 
 on the other hand; however; by contrast (slightly formal)
 en revanche
+
+inflation
+l'inflation
+
+be careful what you wish for
+fais attention à ce que tu souhaites
+
+to be obstinate; to be stubborn; to persist stubbornly
+s'obstiner
+
+what do i know?
+que sais-je?
+
