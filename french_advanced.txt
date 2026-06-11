@@ -17872,3 +17872,6 @@ joyeux anniversaire de mariage!
 from; starting from; as of
 à compter de
 
+second day in a row
+le deuxième jour de suite
+
