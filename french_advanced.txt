@@ -17833,3 +17833,6 @@ la patrouille
 to fly away; to take off
 s'envoler
 
+damage
+les dégâts
+
