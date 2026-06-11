@@ -17836,3 +17836,9 @@ s'envoler
 damage
 les dégâts
 
+invested
+investi
+
+to invest
+investir
+
