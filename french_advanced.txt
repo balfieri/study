@@ -17875,3 +17875,6 @@ from; starting from; as of
 second day in a row
 le deuxième jour de suite
 
+better late than never
+mieux vaut tard que jamais
+
