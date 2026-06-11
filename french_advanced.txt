@@ -17842,3 +17842,6 @@ investi
 to invest
 investir
 
+to stack; to accumulate; to combine (e.g. workloads); to hold multiple positions
+cumuler
+
