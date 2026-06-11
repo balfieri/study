@@ -12928,9 +12928,6 @@ stresser
 outrage
 l'indignation; le scandale; l'outrage
 
-to reverse
-inverser
-
 holy war
 la guerre sainte
 
@@ -16096,9 +16093,6 @@ les ordures; les déchets; les poubelles
 golf resort
 la station de golf; le complexe de golf
 
-to have pain; to hurt
-avoir mal
-
 to have pain all over; to hurt all over
 avoir mal partout
 
@@ -17751,3 +17745,84 @@ la détention provisoire
 
 at my disposal
 à ma disposition
+
+gap; difference; deviation
+l'écart
+
+gust; burst
+la rafale
+
+in freefall
+en chute libre
+
+Turkey
+la Turquie
+
+downpour; rain shower
+l'averse
+
+monsoon
+le mousson
+
+wealth gaps; income disparities
+les écarts de richesse
+
+overexploitation
+la surexploitation
+
+steel industry
+la sidérurgie
+
+sobriety
+la sobriété
+
+cornerstone; keystone
+la pierre angulaire
+
+dividend
+le dividende
+
+paid back; paid out; transferred (money)
+reversé
+
+to reverse; to invert
+inverser
+
+to operate; to work; to perform
+opérer
+
+at the exit of; when leaving
+à la sortie de
+
+enrichment
+l'enrichissement
+
+that being said; having said that
+ayant dit ça
+
+utopian
+utopique
+
+clearly; markedly; distinctly
+nettement
+
+taxation; tax system
+la fiscalité
+
+yielding; income-producing; of return
+de rapport
+
+terrifying
+terrifiant
+
+degrowth; shrinkage
+la décroissance
+
+paid leave; paid vacation
+le congé payé
+
+against; contrary to
+à l'encontre de
+
+to subsist; to remain; to continue to exist
+subsister

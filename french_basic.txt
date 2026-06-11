@@ -9663,10 +9663,10 @@ le plus
 character
 le caractère
 
-project; plan; design (abstract)
+project; plan; design (to realize)
 le projet
 
-map; plan (physical)
+map; plan (of action)
 le plan
 
 to plan (in detail); to design; to project
@@ -12953,3 +12953,7 @@ j'avais tort
 
 have a great evening
 passe une bonne soirée
+
+to be in pain; to hurt; to have pain
+avoir mal
+
