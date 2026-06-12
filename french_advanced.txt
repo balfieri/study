@@ -17908,3 +17908,8 @@ arriver tôt
 by fact; in practice
 de facto
 
+atomic
+atomique
+
+atom
+l'atome
