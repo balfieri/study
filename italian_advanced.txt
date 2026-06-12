@@ -39277,7 +39277,7 @@ la ripudia
 to repudiate; to disavow
 repudiare
 
-de facto
+in fact; indeed; effectively; de facto
 difatto
 
 good times
@@ -107987,3 +107987,7 @@ intermittente; saltuario
 
 progressive rock
 il rock progressivo
+
+to arrive early
+arrivare presto
+
