@@ -17913,3 +17913,7 @@ atomique
 
 atom
 l'atome
+
+serene; calm; peaceful
+serein
+
