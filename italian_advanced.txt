@@ -35089,16 +35089,16 @@ la California settentrionale
 black beans
 i fagioli neri
 
-to the south of
+to the south of; south of
 a sud di
 
-to the north of
+to the north of; north of
 a nord di
 
-to the east of
+to the east of; east of
 a est di
 
-to the west of
+to the west of; west of
 a ovest di
 
 I am in the process of doing it
@@ -48145,7 +48145,7 @@ discutibile
 to subscribe to
 abbonarsi a
 
-disillusionment
+disillusionment; disillusion
 la disillusione
 
 Libyan
@@ -108008,4 +108008,7 @@ sostituire (qualcuno); coprire (qualcuno); fare da sostituto a (qualcuno)
 
 to get out of trouble
 tirare fuori dai guai
+
+in first person; first-person
+in prima persona
 

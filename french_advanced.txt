@@ -17928,3 +17928,25 @@ remplacer (quelqu’un); assurer l’intérim de (quelqu’un); dépanner (quelq
 
 to troubleshoot; to fix; to help out; to lend a hand; to sort out; to get working again; to provide a stopgap solution; to bail out
 dépanner
+
+to the north of; north of
+au nord de
+
+to the south of; south of
+au sud de
+
+to the east of; east of
+à l'est de
+
+to the west of; west of
+à l'ouest de
+
+first-person
+à la première personne
+
+to disable
+désactiver
+
+disillusion; disillusionment; disappointment; disenchantment
+la désillusion
+
