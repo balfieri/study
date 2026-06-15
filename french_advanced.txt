@@ -11636,7 +11636,7 @@ prosthetic
 la prothèse
 
 workaholic
-le travailleur acharné; le drogué du travail
+le bourreau de travail; l'accro au travail; le travailleur acharné; le drogué du travail
 
 both work for us
 les deux nous conviennent
@@ -17979,3 +17979,12 @@ critiquer le corps de; humilier pour son corps
 
 it will happen
 ça arrivera
+
+executioner; torturer
+le bourreau
+
+to become oval; to take on an oval shape
+s’ovaliser
+
+connecting rod
+la bielle

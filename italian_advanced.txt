@@ -17641,7 +17641,7 @@ inquinare; contaminare
 condescension
 la condiscendenza
 
-excessively productive worker
+workaholic; excessively productive worker
 lo stacanovista
 
 have a good time; enjoy yourself
@@ -38474,7 +38474,7 @@ shopaholic
 lo shopaholic; la maniaca dello shopping; la dipendente dagli acquisti
 
 workaholic
-il maniaco del lavoro; il lavoratore compulsivo
+il maniaco del lavoro; il lavoratore compulsivo; lo stacanovista
 
 maniac
 il maniaco; la maniaca
@@ -108026,4 +108026,19 @@ lo squish del motore
 
 to reflux
 refluire
+
+workaholism;workaholic attitude
+lo stacanovismo
+
+to ovalize; to make oval
+ovalizzarsi
+
+vitrified
+vetrificato
+
+jaws; clamps; chuck jaws
+le ganasce
+
+connecting rod
+la biella
 
