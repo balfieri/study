@@ -17988,3 +17988,7 @@ s’ovaliser
 
 connecting rod
 la bielle
+
+top dead center
+le point mort haut
+
