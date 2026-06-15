@@ -6691,11 +6691,11 @@ pourquoi pas les deux?
 time (adjective)
 horaire
 
-slot 
+slot; time slot 
 le créneau
 
 time slot
-le créneau horaire
+le créneau horaire; le créneau
 
 nastigram
 le message méchant; le nastigram
@@ -17991,4 +17991,19 @@ la bielle
 
 top dead center
 le point mort haut
+
+I thank you for kindly; I thank you for agreeing to
+je te remercie de bien vouloir
+
+upstream; in advance; beforehand
+en amont
+
+do not hesitate to contact me
+n'hésite pas à me contacter
+
+to agree on the terms; to agree on the details
+convenir des modalités
+
+dearest regards
+bien cordialement
 
