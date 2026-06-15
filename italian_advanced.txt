@@ -65648,6 +65648,9 @@ autosmorzante
 to talk oneself out of (doing something)
 dissuadersi da (fare qualcosa)
 
+to talk oneself out of it
+dissuadersene
+
 her whole life revolves around guilt
 tutta la sua vita ruota intorno al senso di colpa
 
@@ -108053,4 +108056,10 @@ non esitare a contattarmi
 
 to agree on the terms
 mettersi d'accordo sui termini
+
+usually, I talk myself out of it
+di solito me ne dissuado; di solito mi tiro indietro
+
+I like to think of myself as a minimalist
+mi piace pensare di essere un (qualcosa)
 
