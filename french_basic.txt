@@ -343,8 +343,14 @@ lire
 tea
 le thé
 
-that
-cela; ça; que
+that; this (as noun, oral)
+ça
+
+that; this (as noun replacing idea or situation, written, formal)
+cela
+
+this; that (adjective)
+ce
 
 launch
 le lancement
@@ -4506,9 +4512,6 @@ Madone
 
 saint
 saint
-
-that; this(idea, concept, situation, more formal)
-cela
 
 that said
 cela dit
@@ -12959,4 +12962,13 @@ avoir mal
 
 welcome back
 bon retour
+
+is it?
+est-ce?
+
+will it be (something)?
+est-ce que ce sera (quelque chose)?
+
+is it (something)?; is it that it is something?
+est-ce que c'est (quelque chose)?
 
