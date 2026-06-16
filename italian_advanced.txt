@@ -21736,7 +21736,7 @@ la moda
 instant
 l'istante
 
-change; edit; modification
+change; edit; modification; mod
 la modifica; la modificazione
 
 branch (poetic)
@@ -108092,4 +108092,7 @@ di cattivo gusto; poco elegante
 
 kitten
 il gattino
+
+zen moment
+il momento zen
 

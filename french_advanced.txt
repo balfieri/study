@@ -3058,7 +3058,7 @@ déchiqueté; râpé
 regarding; concerning
 en ce qui concerne
 
-regarding
+regarding; in terms of; concerning
 concernant
 
 to suit; to be suitable for; to fit
@@ -18066,3 +18066,22 @@ la peine de mort
 
 cheap-looking
 bon marché d’apparence; qui fait bon marché
+
+zen moment
+le moment de zen
+
+ludicrous; absurd; ridiculous
+ridicule; absurde; grotesque
+
+begining of the week
+le début de la semaine
+
+end of the week
+la fin de la semaine
+
+mod
+la modif
+
+to make a mod
+faire une modif
+
