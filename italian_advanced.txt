@@ -3085,7 +3085,7 @@ il poeta
 vulnerable
 vulnerabile
 
-to dodge; to avoid; to shun
+to dodge; to avoid; to shun; to evade
 schivare
 
 dragon
@@ -84425,7 +84425,7 @@ le preconoscenze
 unsuspected; beyond suspicion
 insospettabile
 
-thorny issue
+thorny issue; thorny question
 la questione spinosa
 
 to break the rules
@@ -108062,4 +108062,34 @@ di solito me ne dissuado; di solito mi tiro indietro
 
 I like to think of myself as a minimalist
 mi piace pensare di essere un (qualcosa)
+
+rustproof
+antiruggine
+
+sludge
+la morchia
+
+jocular; boisterous
+goliardico
+
+to have double standards
+avere doppi standard; avere due pesi e due misure
+
+double standard
+il doppio standard; la doppia morale
+
+safe and sound
+sano e salvo
+
+unscathed
+incolume
+
+by agreement
+per accordo
+
+cheap-looking
+di cattivo gusto; poco elegante
+
+kitten
+il gattino
 
