@@ -13093,7 +13093,7 @@ sentirci
 to consider important; to mean a lot
 tenerci
 
-know-how
+know-how; savoir-faire
 il saper fare
 
 adjacent
@@ -31558,8 +31558,8 @@ la giuggiola
 sadle pad; numnah; sadle cloth
 la sottosella
 
-trunk (motorcycle); travelling case; vanity case
-bauletto
+trunk (motorcycle); travelling case; vanity case; top box
+il bauletto
 
 house maintenance
 il mantenimento della casa
@@ -53284,7 +53284,7 @@ la lavastoviglie
 it's on me (paying); this one's on me
 pago io; questa è per me
 
-pliers; tongs
+pliers; tongs; pincers
 le pinze
 
 numb (extremities)
@@ -92610,7 +92610,7 @@ it is just a lot of hard work
 è solo tanto duro lavoro
 
 to get worse; to worsen
-peggiorare
+peggiorare; aggravarsi
 
 car registration
 la registrazione dell'auto; la tassa di circolazione dell'auto
@@ -108126,3 +108126,23 @@ would-be (something)
 diagonal pliers; diagonal wire cutters
 il tronchese diagonale
 
+to burst; to explode
+scoppiare; esplodere
+
+to enter the fray; to enter the field
+entrare in lizza
+
+sturdy
+robusto; solido
+
+to seize; to grab
+afferrare; ghermire
+
+Arctic
+l'artico
+
+square-shaped; squared-off
+squadrato
+
+to hurl forcefully; to dart; to spring
+slanciare
