@@ -67599,7 +67599,7 @@ lead singer
 il cantante principale; il leader del gruppo
 
 to be star struck
-essere colpiti dalle stelle
+essere colpiti dalle stelle; essere colpiti dalla fama
 
 crushed black pepper corns
 i grani di pepe nero schiacciati
@@ -108143,3 +108143,10 @@ squadrato
 
 to hurl forcefully; to dart; to spring
 slanciare
+
+splendor; luxury; ostentation; hype
+lo sfarzo
+
+hype
+il clamore; l'entusiasmo; la pubblicità; lo sfarzo
+
