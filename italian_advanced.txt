@@ -13573,9 +13573,6 @@ il darwinismo
 starting conditions
 le condizioni di partenza
 
-insurmountable
-insormontabile
-
 scam; cheat; swindle; rip-off
 la fregatura
 
@@ -62871,7 +62868,7 @@ shutter
 la saracinesca
 
 insurmountable
-invalicabile
+insormontabile; invalicabile
 
 once (done)
 una volta (fatta)
