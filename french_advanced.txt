@@ -8719,7 +8719,7 @@ le fonds actions
 intermission
 l'entracte; la pause
 
-know-how
+know-how; savoir-faire
 le savoir-faire
 
 to suffocate
@@ -18168,4 +18168,61 @@ les règles du golf
 
 diagonal pliers; diagonal wire cutters
 les pinces coupantes diagonales
+
+top box
+le top case
+
+to burst; to smash; to shatter; to blow up
+éclater
+
+to crush; to run over; to smash
+écraser
+
+to get worse
+s'aggraver
+
+to enter the race; to enter the competition; to join the fray
+entrer en lice
+
+hypothesis
+l'hypothèse
+
+start; starting; start-up
+le démarrage
+
+stocky; sturdy
+costaud
+
+pincers; tongs
+la tenaille
+
+ostrich
+l'autruche
+
+influential
+influent
+
+to dissect
+disséquer
+
+Arctic
+arctique
+
+Antarctic
+antarctique
+
+anxious; distressed
+angoissé
+
+fact
+le fait
+
+reframed; cropped
+recadré
+
+conjunction
+la conjonction
+
+square-shaped; squared-off
+squadrato
 
