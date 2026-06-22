@@ -55643,7 +55643,7 @@ il grammofono
 doormat
 il tappettino
 
-platform
+platform; floor board
 la pedana
 
 non-slip
@@ -77374,9 +77374,6 @@ avere un apprezzamento per
 
 arrondissement
 l'arrondissement
-
-drool
-la bava
 
 to drool
 sbavare
@@ -108155,3 +108152,79 @@ riallacciare i rapporti
 
 I just couldn't take it anymore; I really couldn't stand it anymore
 non ne potevo proprio più
+
+off-white
+bianco sporco; bianco panna
+
+manly
+virile; da uomo
+
+to contact (somebody)
+contattare (qualcuno)
+
+motor vehicle licensing authority; department of motoro vehicles
+la motorizzazione
+
+telematic counter of the motorist
+lo sportello telematico dell'automobilista
+
+collectible; for collectors
+collezionistico
+
+deregistered vehicle
+il veicolo radiato
+
+contemporary; of the same period
+coevo
+
+search; information report
+la visura
+
+equivalent; counterpart
+omologo
+
+little dent; little ding
+la bozzarella
+
+scuffed area; worn patch
+il marciotto
+
+little dent; little knock
+la bottarella
+
+small dent; little notch
+il nasello
+
+small fin; little flap
+l'aletta
+
+cush drive; shock absorber for transmission
+il parastrappi
+
+to be out and about for (something)
+essere in giro per (qualcosa)
+
+to get stepped; to form steps (in wear)
+scalinarsi
+
+spoked rim; small hollow rim
+l'asolo
+
+over-revved; revved up
+su di giri
+
+it made me feel sorry; it made me pity him/her
+mi ha fatto pena
+
+he came on purpose; he came especially
+è venuto apposta
+
+troubled; plagued with problems
+tribolato
+
+drool; slime; trail of fluid
+la bava
+
+all muddy; all splattered
+inzaccherato
+
