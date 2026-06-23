@@ -18294,3 +18294,19 @@ gicler; asperger
 
 median strip
 le terre-plein central
+
+thermostat
+le thermostat
+
+to deal with it
+s'en occuper
+
+I don't want to have to deal with it
+je ne veux pas devoir à m'en occuper
+
+I don't want to deal with it
+je ne veux pas m'en occuper
+
+I can't deal with it right now
+je ne peux pas m'en occuper pour l'instant
+
