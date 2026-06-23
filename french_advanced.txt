@@ -1957,7 +1957,7 @@ la météo
 balcony
 le balcon
 
-what are you thinking about?
+what are you thinking about?; what's on your mind?
 à quoi penses-tu?
 
 at ease
@@ -18321,4 +18321,10 @@ survenu
 
 to try again
 réessayer
+
+flare
+la flamme; le lueur; la fusée de détresse
+
+flair
+le flair; le talent; l'élégance
 
