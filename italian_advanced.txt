@@ -108261,3 +108261,6 @@ mi sembra bene
 learner
 lo studente; lo discente; l'allievo
 
+reflecting pool
+la vasca riflettente
+
