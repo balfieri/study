@@ -15703,8 +15703,11 @@ se dépenser
 in the shade
 à l'ombre
 
-fan
-la fana
+fan (admirer)
+le supporter; la fana
+
+fan (air)
+le ventilateur
 
 dressed up; sharp
 sapé
@@ -18402,4 +18405,7 @@ multiple; divers; varié
 
 reflecting pool
 le bassin réfléchissant; le bassin de réflexion
+
+admirer
+l'admirateur
 
