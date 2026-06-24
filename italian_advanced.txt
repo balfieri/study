@@ -108252,3 +108252,6 @@ la spesa pubblica
 flare
 il bagliore
 
+to rotate my tires
+ruotare le gomme; ruotare i pneumatici
+
