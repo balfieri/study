@@ -15703,12 +15703,6 @@ se dépenser
 in the shade
 à l'ombre
 
-fan (admirer)
-le supporter; la fana
-
-fan (air)
-le ventilateur
-
 dressed up; sharp
 sapé
 
@@ -16790,7 +16784,7 @@ genital herpes
 l'herpès génital
 
 heatwave
-la canicule
+la canicule; la vague de chaleur
 
 with an open heart
 à cœur ouvert
@@ -18408,4 +18402,13 @@ le bassin réfléchissant; le bassin de réflexion
 
 admirer
 l'admirateur
+
+to grind; to route (wood)
+moudre
+
+moisture sensor
+le capteur d'humidité
+
+sensor
+le capteur
 

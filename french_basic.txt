@@ -4418,7 +4418,7 @@ to turn the plane
 tourner l'avion
 
 heat; warmth
-chaleur
+la chaleur
 
 by now; from now on; henceforth
 désormais
@@ -6590,11 +6590,11 @@ supporter; soutenir
 to be sick of; to be fed up with; to have had enough of
 en avoir marre de; en avoir assez de
 
-fan (ventilator)
+fan; ventilator
 le ventilateur
 
-fan (admirer)
-le fan
+fan; supporter
+le supporter; le fan; la fana
 
 to admire
 admirer
