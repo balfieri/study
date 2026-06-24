@@ -72812,9 +72812,6 @@ stare solo seduti senza fare nulla
 it depends on what's going on at the time
 dipende da cosa sta succedendo in quel momento
 
-humidity sensor
-il sensore di umidità
-
 to stay within; to fit in
 starci dentro
 
@@ -108264,7 +108261,7 @@ lo studente; lo discente; l'allievo
 reflecting pool
 la vasca riflettente
 
-moisture sensor
+moisture sensor; humidity sensor
 il sensore di umidità
 
 personal record
