@@ -18490,3 +18490,6 @@ l'organigramme
 reorg; reorganization
 le réorg; la réorganisation
 
+to undergo (something)
+subir (quelque chose); faire l’objet de (quelque chose)
+

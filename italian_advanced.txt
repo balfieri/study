@@ -18997,7 +18997,7 @@ caratteristico
 cardinal
 il cardinale
 
-organization
+organization; org
 l'organizzazione
 
 indication; sign; direction
@@ -29641,7 +29641,7 @@ analogamente
 annotation
 l'annotazione
 
-reorganization
+reorganization; reorg
 la riorganizzazione
 
 obscurity
@@ -46318,8 +46318,8 @@ idillio
 toll-free number
 il numero verde
 
-to undergo; to submit to
-sottoporsi
+to undergo (something); to submit to (something)
+sottoporsi a (qualcosa)
 
 detractor; critic
 il detrattore; la detrattrice
@@ -108275,3 +108275,19 @@ non necessariamente
 
 fringe benefit; employee perk
 il fringe benefit; il beneficio accessorio
+
+cuddlable
+coccolabile; da coccolare
+
+no matter how much (do somethign)
+non importa quanto (fare qualcosa)
+
+what do you get for the man who has everything?
+che cosa prendi per l'uomo che ha già tutto?
+
+panhandle
+il corridorio; il panhandle
+
+org chart
+l'organigramma
+
