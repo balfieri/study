@@ -91842,7 +91842,7 @@ smokescreen
 la cortina fumogena
 
 death toll
-il numero delle vittime
+il bilancio delle vittime; il numero delle vittime
 
 sudden death playoff
 lo spareggio a eliminazione diretta

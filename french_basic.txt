@@ -5602,8 +5602,8 @@ l'école
 post office
 la poste; le bureau de poste
 
-bookstore; bookshop; bookshelves
-la librairie; la rayonnage; l'étagère à livres
+bookstore; bookshop
+la librairie; la rayonnage
 
 stadium; stage
 le stade; la scène

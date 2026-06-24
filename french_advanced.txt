@@ -18340,7 +18340,7 @@ endeuiller
 purgatory
 le purgatoire
 
-assessment; outcome; report; toll (e.g. death toll)
+balance; assessment; outcome; report; toll (e.g. death toll)
 le bilan
 
 pesticide
@@ -18349,3 +18349,8 @@ le pesticide
 growth; rise
 l'essor
 
+shelf
+l'étagère
+
+bookshelf
+l'étagère à livres
