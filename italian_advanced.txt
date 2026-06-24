@@ -25475,7 +25475,7 @@ what do you want now?
 che cosa vuoi ora?
 
 what's on your mind?; what do you have in mind?
-cosa hai in mente?
+cosa hai in mente?; cos'hai in testa?
 
 jellyfish
 la medusa
@@ -95723,9 +95723,6 @@ la futilità
 crime doesn't pay
 il crimine non paga
 
-what's on your mind?
-cos'hai in testa
-
 it's a whole different story; it's something else altogether
 è tutto un'altra storia
 
@@ -108251,4 +108248,7 @@ le reti sociali
 
 public spending
 la spesa pubblica
+
+flare
+il bagliore
 

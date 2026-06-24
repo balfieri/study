@@ -12433,7 +12433,7 @@ l'attaque de missiles
 shallow
 peu profond
 
-pool
+pool; basin; pond
 le bassin
 
 to have an aversion to (something)
@@ -18327,4 +18327,25 @@ la flamme; le lueur; la fusée de détresse
 
 flair
 le flair; le talent; l'élégance
+
+child-centered; child-focused
+l'enfantiste
+
+in mourning; bereaved
+endeuillé
+
+to plunge into mourning; to engulf in grief
+endeuiller
+
+purgatory
+le purgatoire
+
+assessment; outcome; report; toll (e.g. death toll)
+le bilan
+
+pesticide
+le pesticide
+
+growth; rise
+l'essor
 
