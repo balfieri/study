@@ -4558,7 +4558,7 @@ capital
 dissolution
 la dissolution
 
-galley; pain; tough situation
+pain; hassle; nightmare; galley; pain; tough situation
 la galère
 
 heads or tails?
@@ -13615,7 +13615,7 @@ affirmer
 affirmed; asserted
 affirmé
 
-to specify; to make clear; to pinpoint
+to specify; to make clear; to pinpoint; to point out
 préciser
 
 to fill in; to satisfy; to shower
@@ -18357,4 +18357,19 @@ l'étagère à livres
 
 to rotate one's tires
 faire la rotation de ses pneus
+
+sweetheart; beloved
+la dulcinée
+
+office (official)
+l'office
+
+present moment; exact moment; critical moment
+l'instant T
+
+related to
+lié à
+
+either this or that
+soit ceci soit cela
 

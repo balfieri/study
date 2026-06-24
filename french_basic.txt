@@ -12972,3 +12972,9 @@ est-ce que ce sera (quelque chose)?
 is it (something)?; is it that it is something?
 est-ce que c'est (quelque chose)?
 
+this one
+celle-ci
+
+that one
+celui-là
+
