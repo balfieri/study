@@ -18424,3 +18424,6 @@ nous rejoindre
 has it rained much?
 y a-t-il beaucoup plu?
 
+not either
+pas non plus
+
