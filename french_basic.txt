@@ -847,7 +847,7 @@ personne
 someone; somebody
 quelqu’un
 
-anyone
+anyone; whoever
 n'importe qui
 
 goodbye
@@ -3373,7 +3373,7 @@ dis-moi tout
 of course not
 bien sûr que non
 
-nonsense; whatever
+anything; nonsense; whatever
 n'importe quoi
 
 to comprehend; to understand
@@ -7966,7 +7966,13 @@ any person
 n'importe quelle personne; toute personne
 
 any (noun)
-n'importe quel (nom)
+n'importe quel (nom); n'importe quelle
+
+any (singular, by itself)
+n'importe lesquel; n'importe lequelle
+
+any (plural, by itself)
+n'importe lesquels; n'importe lesquelles
 
 to realize (make real)
 réaliser
@@ -8352,7 +8358,7 @@ le 4 avril
 the 4th of every month
 le 4 de chaque mois
 
-anywhere
+anywhere; wherever
 n'importe où
 
 nowhere
