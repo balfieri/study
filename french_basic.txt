@@ -7295,9 +7295,6 @@ la salle de sport; la gymnase
 walk
 la marche
 
-question; demand
-la question; la demande
-
 application
 la candiature
 
@@ -9843,7 +9840,7 @@ exactement; précisément
 generation
 la génération
 
-request; demand; enquiry
+demand; request; enquiry
 la demande
 
 responsible
