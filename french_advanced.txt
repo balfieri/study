@@ -5185,6 +5185,9 @@ les statistiques
 to survive
 survivre
 
+to survive (something)
+survivre à (quelque chose)
+
 winged
 alité
 
@@ -18411,4 +18414,13 @@ le capteur d'humidité
 
 sensor
 le capteur
+
+personal best;personal record
+le meilleur résultat personnel; le record personnel
+
+to join us
+nous rejoindre
+
+has it rained much?
+y a-t-il beaucoup plu?
 

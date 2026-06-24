@@ -5945,7 +5945,7 @@ il fait froid
 it's freezing
 il gèle
 
-dark (absence of light, story)
+dark (absence of light, story); gloomy
 sombre; obscur
 
 head
