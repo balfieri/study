@@ -12526,8 +12526,8 @@ le pétrole
 takeoff
 le décollage
 
-la Florida
-Floride
+Florida
+la Floride
 
 handful
 la poignée
@@ -15625,9 +15625,6 @@ l'essence en libre-service
 open-book test
 l'examen avec livres ouverts
 
-delivery; handing over; discount
-la remise
-
 graduation
 la remise de diplôme
 
@@ -18394,5 +18391,8 @@ je suis très confus à propos de (quelque chose)
 graduation party
 la fête de remise de diplôme
 
-discount; delivery; presentation; locker room
+discount; delivery; presentation; handing over; locker room
 la remise
+
+to feel like (something); to resemble (something)
+ressembler à (quelque chose)
