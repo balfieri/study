@@ -511,7 +511,7 @@ le partenaire
 native
 natif
 
-live (broadcast)
+live (broadcast); on air
 en direct
 
 available
