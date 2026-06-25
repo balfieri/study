@@ -18547,3 +18547,9 @@ la prédiction
 to triumph
 triompher
 
+pale yellow
+le jaune pâle
+
+pale
+pâle
+
