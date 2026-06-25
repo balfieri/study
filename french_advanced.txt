@@ -18544,3 +18544,6 @@ le marché de prédiction
 prediction
 la prédiction
 
+to triumph
+triompher
+
