@@ -15724,7 +15724,7 @@ to be on the lookout
 to smooth out prices
 lisser les prix
 
-to stock
+to store; to stock
 stocker
 
 credit
@@ -18501,4 +18501,10 @@ la déshydratation
 
 climate change
 le changement climatique
+
+dentist's chair
+la chaise de dentiste
+
+relaxation; easing of tension; détente
+la détente
 

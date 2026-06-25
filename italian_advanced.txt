@@ -89339,9 +89339,6 @@ lasciare prove
 film library; cinematheque; film collection
 la cineteca
 
-to hang by a thread
-appendere a un filo
-
 alpine ibex
 lo strambecco
 
@@ -108296,3 +108293,10 @@ il cavo elastico
 
 dispenser
 il dosatore
+
+dentist's stool; dentist's chair
+il trappolino da dentista
+
+détente
+la distensione
+
