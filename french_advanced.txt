@@ -4147,7 +4147,7 @@ ludique
 to go for a walk; to saunter; to gallivant
 se balader
 
-inappropriate; displaced; out of place
+inappropriate; displaced; out of place; unseemly; improper; unbecoming
 déplacé
 
 announced
@@ -18510,4 +18510,16 @@ la détente
 
 to abdicate
 abdiquer
+
+minced; chopped; ground
+haché
+
+to chop; to mince; to hash; to grind
+hacher
+
+conjunctivitis; pink eye
+la conjonctivite
+
+shin guard
+le protège-tibia
 
