@@ -108291,3 +108291,8 @@ il corridorio; il panhandle
 org chart
 l'organigramma
 
+bungy cord
+il cavo elastico
+
+dispenser
+il dosatore

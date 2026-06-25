@@ -5236,7 +5236,7 @@ amasser
 mind your own business; take care of it
 occupe-t'en
 
-distributor
+distributor; dispenser
 le distributeur
 
 dough; cash
@@ -18492,4 +18492,13 @@ le réorg; la réorganisation
 
 to undergo (something)
 subir (quelque chose); faire l’objet de (quelque chose)
+
+bungee cord
+la corde élastique
+
+dehydration
+la déshydratation
+
+climate change
+le changement climatique
 
