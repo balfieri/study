@@ -108327,3 +108327,6 @@ trionfare
 pale yellow
 il giallo pallido
 
+oddball
+strano; eccentrico
+
