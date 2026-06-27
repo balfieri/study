@@ -18564,3 +18564,9 @@ to scrape
 
 oddball
 original; hurluberlu
+
+empathy
+l'empathie
+
+empathetic
+empathique
