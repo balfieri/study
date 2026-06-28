@@ -13885,7 +13885,7 @@ l'orgelet
 pigsty
 la porcherie
 
-trend
+trend; tendency
 la tendance
 
 paradoxically
@@ -16987,7 +16987,7 @@ le corbeau
 outcome; culmination
 l'aboutissement
 
-tacky; cheesy; outdated
+tacky; cheesy; outdated; dorky
 ringard
 
 dark; deep (in colour)
@@ -18580,5 +18580,11 @@ informatique; computationnel
 automation
 l'automatisation
 
-tendency
-la tendance
+self-cleaning
+autonettoyant
+
+dorky; socially awkward; dweeby; geeky
+ringard; cucul; nunuche; un peu débile
+
+nerdy; geeky
+intello; geek; ringard
