@@ -6740,7 +6740,7 @@ offensé
 insulted
 insulté
 
-offerred
+offered
 offert
 
 lost (general)
@@ -7895,9 +7895,6 @@ criminel
 
 precisely
 précisément
-
-truly
-véritablement
 
 one's; own; typical; characteristic
 propre; typique; caractéristique
