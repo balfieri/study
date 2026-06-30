@@ -3064,7 +3064,7 @@ affascinare; fascinare
 fascinating
 affascinante
 
-heating
+heating; warming
 il riscaldamento
 
 to keep right
@@ -39934,9 +39934,6 @@ risarcire
 compensation (for damage, loss, injury)
 l'indennizzo
 
-rapproachment
-il riavvicinamento
-
 South Korean
 sudcoreano
 
@@ -41194,7 +41191,7 @@ la monogamia
 is that as fun as it looks?
 è divertente quanto sembra?; è tanto divertente quanto sembra?
 
-failed; flunked
+failed; flunked; rejected
 bocciato
 
 to screech; to squeak; to creak
@@ -49590,9 +49587,6 @@ lo svapare; il vaping
 
 to vape
 svapare; fare il vaping
-
-precarious
-precario
 
 special sauce
 la salsa speciale
@@ -108356,3 +108350,73 @@ avevo dimenticato di (qualcosa)
 
 nasal
 nasale
+
+pocket money; allowance
+la paghetta
+
+to be grounded
+essere in punizione
+
+to have a bad temper; to have a nasty character
+avere un brutto carattere
+
+at the top of; high up on
+in alto a
+
+to give pocket money; to give an allowance
+dare la paghetta
+
+recording studio
+lo studio di registrazione
+
+to have a baby; to make a baby
+fare un bambino
+
+to covet your neighbor's wife
+desiderare la moglie del tuo vicino
+
+rapprochement; renewal of friendly relations
+il riavvicinamento
+
+split screen
+lo schermo diviso; lo schermo condiviso
+
+splash screen
+la schermata iniziale
+
+still image
+l'immagine fissa
+
+precarious; insecure
+precario
+
+climatologist
+il climatologo; la climatologa
+
+to fly to New York
+volare a New York; andare in aereo a New York
+
+the weather is not nice
+il tempo non è bello
+
+to change everything
+cambiare tutto
+
+to aspire; to aim for
+ambire
+
+viking
+il vichingo
+
+cool temperature
+la temperatura fresca
+
+stay cool! (temperature)
+rimani al fresco!; resta fresco!
+
+wealth tax
+la patrimoniale
+
+total flop
+il flop totale
+
