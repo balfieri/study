@@ -108461,3 +108461,9 @@ fregare (qualcuno); truffare (qualcuno)
 
 beetle
 lo scarabeo; lo coleottero
+
+to let (somebody) get away with (something)
+lasciare che (qualcuno) la passi liscia con (qualcosa)
+
+to get away with (something)
+passarla liscia con (qualcosa)
