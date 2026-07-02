@@ -50017,9 +50017,6 @@ la persona sudata
 bison
 il bisonte
 
-cockroach
-lo scarafaggio
-
 firearm
 l'arma da fuoco
 
@@ -92661,7 +92658,7 @@ quibble; nitpick; technicality
 il cavillo
 
 cockroach
-la blatta
+lo scarafaggio; la blatta
 
 catastrophic
 catastrofale
@@ -108440,3 +108437,27 @@ superare la paura
 
 snout; muzzle; mug; front of the head; face; sulky face
 il muso
+
+to fill in; to satisfy; to shower
+riempire; soddisfare; sommergere
+
+nuanced
+sfumato; sottile; pieno di sfumature
+
+infestation
+l'infestazione
+
+to cope with (some issue)
+far fronte a (un problema); riuscire a gestire (un problema)
+
+horsepower
+i cavalli vapore
+
+to get ripped off
+venire fregati; essere truffati
+
+to rip off (somebody)
+fregare (qualcuno); truffare (qualcuno)
+
+beetle
+lo scarabeo; lo coleottero
