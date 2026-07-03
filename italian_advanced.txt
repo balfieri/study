@@ -6434,7 +6434,7 @@ to scrawl; to doodle; to scribble
 scaraboccchiare
 
 telltale; revealing
-rivelatrice
+rivelatore; rivelatrice
 
 to outline; to sketch; to hatch
 tratteggiare
@@ -108491,4 +108491,16 @@ l'orologio biologico sta tickando
 
 played skillfully; played very finely
 giocato di fino
+
+thumbnail image
+l'immagine miniatura
+
+in the street; on the street
+in strada
+
+to objectify
+oggettificare
+
+objectified
+oggettificato
 
