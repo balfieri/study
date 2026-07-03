@@ -3133,7 +3133,7 @@ moderne
 outgoing; sociable
 sociable
 
-dangerous
+dangerous; hazardous
 dangereux
 
 kind; gentle
