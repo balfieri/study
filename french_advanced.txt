@@ -17320,7 +17320,7 @@ at the last minute
 fluid; smooth (experience)
 fluide
 
-cart
+cart; shopping cart
 le chariot; la charrette; le caddie; la voiturette
 
 it was one of those days!
@@ -18894,3 +18894,7 @@ le guide
 
 American exceptionalism
 l'exceptionnalisme américain
+
+ribcage; rib cage
+la cage thoracique
+
