@@ -2497,8 +2497,8 @@ l'épisode
 together
 ensemble
 
-fruit
-le fruit
+fruit (edible)
+les fruits
 
 through the window; by the window
 par la fenêtre
