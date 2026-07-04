@@ -108510,3 +108510,6 @@ sfattare
 misinterpreted; misread; misconstrued
 malinterpretato
 
+in fact; actually; indeed
+in effetti
+
