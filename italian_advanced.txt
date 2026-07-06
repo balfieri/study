@@ -108570,3 +108570,6 @@ il franco tiratore
 governability bonus
 il premio di governabilità
 
+rejected; thrown away; discarded
+cestinato; buttato via; rifiutato
+
