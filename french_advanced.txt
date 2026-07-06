@@ -18936,3 +18936,7 @@ le vide
 
 timidity; shyness
 la timidité
+
+free shooter; guerrilla fighter; sniper
+le franc-tireur
+
