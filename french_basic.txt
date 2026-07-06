@@ -11079,7 +11079,7 @@ fonctionner; marcher
 suggestion (neutral, objective)  
 la suggestion  
 
-advice; suggestion; council
+advice; suggestion; council; piece of advice
 le conseil
 
 time; weather; tense (verb)  

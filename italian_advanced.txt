@@ -9535,6 +9535,9 @@ la sostanza
 threshold; sill; doorstep
 la soglia
 
+threshold (abstract)
+la soglia; la soglia di sbarramento
+
 slogan
 lo slogan
 
@@ -108548,3 +108551,12 @@ circa un anno
 
 forbidden; prohibited
 proibite
+
+traumatizing
+traumatizzante
+
+to traumatize
+traumatizzare
+
+timidity; shyness
+la timidezza; la timidità
