@@ -108573,3 +108573,9 @@ il premio di governabilità
 rejected; thrown away; discarded
 cestinato; buttato via; rifiutato
 
+sliced lengthwise
+tagliato nel senso della lunghezza; affettato in lunghezza
+
+sliced widthwise
+affettato in larghezza
+

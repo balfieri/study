@@ -18946,3 +18946,9 @@ le ballottage
 to scroll
 faire défiler; scroller
 
+sliced lengthwise
+tranché dans le sens de la longueur
+
+sliced widthwise
+coupé en rondelles
+
