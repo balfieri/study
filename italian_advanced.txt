@@ -4660,7 +4660,7 @@ rincuorare; rasserenare; tirare su di morale
 to compete (general)
 competere
 
-to compete (sports, game)
+to compete (sports, game, election)
 gareggiare
 
 record company
