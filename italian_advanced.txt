@@ -108566,3 +108566,7 @@ spettare
 
 sniper; turncoat politician; defector who votes secretly against his own party
 il franco tiratore
+
+governability bonus
+il premio di governabilità
+
