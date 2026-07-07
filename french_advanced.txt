@@ -4102,9 +4102,6 @@ aménager
 hoping that; in the hope that
 en espérant que
 
-works
-les travaux
-
 peace agreement; peace accord
 l'accord de paix
 
@@ -18999,3 +18996,52 @@ la bougie
 
 to tell a lie
 raconter un mensonge; dire un mensonge
+
+wreck
+l'épave
+
+stained glass window; stained-glass window
+le vitrail
+
+stained glass windows
+les vitraux
+
+works; roadworks
+les travaux
+
+balls; dances
+les bals
+
+carnival
+le carnaval
+
+carnivals
+les carnavals
+
+festivals
+les festivals
+
+treats; feasts
+les régals
+
+jackals
+les chacals
+
+callus; corn
+le cal
+
+calluses; corns
+les cals
+
+tyres; tires
+les pneus
+
+bruise
+le bleu
+
+bruises; blues
+les bleus
+
+red card
+le carton rouge
+
