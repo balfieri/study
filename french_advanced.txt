@@ -19092,3 +19092,6 @@ en fond
 
 to command respect
 imposer le respect
+
+pillowcase; pillow cover
+la taie d’oreiller
