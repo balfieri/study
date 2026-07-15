@@ -108636,3 +108636,9 @@ non proprio; non del tutto
 pen name
 lo pseudonimo; il nome d’arte
 
+football match
+la partita di calcio
+
+(something) puts me to sleep
+(qualcosa) mi fa addormentare
+
