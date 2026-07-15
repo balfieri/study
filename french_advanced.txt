@@ -5485,9 +5485,6 @@ l'inspecteur
 metal detector
 le détecteur de métal
 
-on sick leave
-en congé maladie
-
 relaxation area
 le terrain d'étente
 
@@ -19161,3 +19158,16 @@ j'ai grandi
 
 other vacations; other holidays
 d'autres vacances
+
+on sick-leave; on sick leave
+en congé maladie
+
+polyamory
+le polyamour
+
+to respond immediately
+répondre l'instant; répondre immédiatement; répondre sur-le-champ
+
+street urchin; kid; child
+le gamin
+
