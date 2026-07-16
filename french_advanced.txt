@@ -19171,3 +19171,8 @@ répondre l'instant; répondre immédiatement; répondre sur-le-champ
 street urchin; kid; child
 le gamin
 
+rare; bleeding
+saignant
+
+I never thought about this before
+je n’y avais jamais pensé auparavant
