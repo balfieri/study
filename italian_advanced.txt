@@ -6679,7 +6679,7 @@ l'altalena
 excursion
 l'escursione
 
-rubber dingy
+rubber dingy; inflatable boat
 il gommone
 
 convent
@@ -108728,3 +108728,6 @@ la vita lussuosa
 
 pontoon boat
 la barca a pontoni; il motoscafo a pontoni; il gommone con pontoni
+
+to drive crazy; to make crazy
+far impazzire; rendere matto
