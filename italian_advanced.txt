@@ -8467,9 +8467,6 @@ astenersi
 to trigger; to prime
 innescare; scatenare
 
-long-lasting; lasting; durable; enduring
-duraturo
-
 downward spiral
 la spirale discendente
 
@@ -93461,7 +93458,7 @@ passere inosservato
 to be on the market for (amount)
 essere sul mercato per (quantità)
 
-lasting; durable; enduring
+long-lasting; lasting; durable; enduring
 duraturo; durevole
 
 occupying country
