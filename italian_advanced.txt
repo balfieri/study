@@ -2518,7 +2518,7 @@ fungere
 to serve as; to function as; to act as
 fungere da
 
-to carry out; to perform; to make; to accomplish (formal)
+to carry out; to perform; to make; to accomplish (formal); to effect
 effettuare
 
 to enable; to qualify
@@ -107044,7 +107044,7 @@ affective disorders
 gli disturbi affettivi
 
 to effect a change
-realizzare un cambiamento
+effettuare un cambiamento; realizzare un cambiamento
 
 daily newspaper
 il quotidiano
@@ -108698,4 +108698,22 @@ rassegnarsi
 
 caste; elite; ruling class
 la casta
+
+it breaks their back; it busts their back; it breaks one’s back
+si spacca la schiena
+
+microenterprise; very small business
+la microimpresa
+
+extractive
+strattivo
+
+peck; little kiss
+il bacetto
+
+overtourism; excess tourism
+il sovratturismo; l'iperturismo; l'overturismo; il turismo eccessivo
+
+green transition
+la transizione verde
 
