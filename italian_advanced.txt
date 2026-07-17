@@ -108725,3 +108725,6 @@ la vita aggiata
 
 luxurious life
 la vita lussuosa
+
+pontoon boat
+la barca a pontoni; il motoscafo a pontoni; il gommone con pontoni
