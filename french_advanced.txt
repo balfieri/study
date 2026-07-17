@@ -19245,3 +19245,6 @@ le bateau ponton
 
 sect
 la sect
+
+to misspell (something)
+mal orthographier (quelque chose); faire une faute d’orthographe

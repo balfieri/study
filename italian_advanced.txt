@@ -108731,3 +108731,9 @@ la barca a pontoni; il motoscafo a pontoni; il gommone con pontoni
 
 to drive crazy; to make crazy
 far impazzire; rendere matto
+
+to misspell (something)
+sbagliare a scrivere (qualcosa); scrivere (qualcosa) in modo errato
+
+to spell (something)
+fare lo spelling di (qualcosa); compitare (qualcosa)
