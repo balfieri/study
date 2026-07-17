@@ -18238,7 +18238,7 @@ la cellula
 synthesis; summary; abstract
 la sintesi
 
-tale; story; short story; telling; raccount
+tale; story; short story; telling; recount
 il racconto
 
 absence
@@ -108734,3 +108734,12 @@ sbagliare a scrivere (qualcosa); scrivere (qualcosa) in modo errato
 
 to spell (something)
 fare lo spelling di (qualcosa); compitare (qualcosa)
+
+to volunteer for (something); to offer to volunteer for (something)
+offrirsi volontario per (qualcosa); offrirsi per (qualcosa)
+
+to win unexpectedly; to score an upset; to pull off a surprise win
+vincere a sorpresa
+
+radiated; expelled; struck off a list; disbarred
+radiato
