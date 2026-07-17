@@ -54034,7 +54034,7 @@ ricambiato
 laid; reclined
 adagiato; reclinato
 
-to go on with explanations
+to go on with explanations; to be long-winded with explanations
 dilungarsi nelle spiegazioni
 
 weighed down; burdened; overwhelmed
@@ -88184,7 +88184,7 @@ tagliato a mano
 during the course of the conversation
 durante il corso della conversazione
 
-to go on at length; to dwell on; to expatiate; to go into detail; to linger over
+to be long-winded; to go on at length; to dwell on; to expatiate; to go into detail; to linger over
 dilungarsi
 
 in there
@@ -108717,3 +108717,11 @@ il sovratturismo; l'iperturismo; l'overturismo; il turismo eccessivo
 green transition
 la transizione verde
 
+to step on (somebody)
+calpestare (qualcuno)
+
+comfortable life; easy life; good life (rich)
+la vita aggiata
+
+luxurious life
+la vita lussuosa
