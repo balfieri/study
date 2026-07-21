@@ -19336,3 +19336,6 @@ la pince à épiler
 malformed
 malformé
 
+affected; struck; touched; impacted; afflicted
+atteint
+
