@@ -52852,7 +52852,7 @@ l'inferenza; l'illazione
 volatilized; converted to vapor
 volatilizzato
 
-feat
+feat; exploit
 la prodezza
 
 ineptitude
