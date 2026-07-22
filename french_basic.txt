@@ -4045,8 +4045,8 @@ le fromage
 crunchy
 croustillant
 
-to bet
-parier
+to bet; to wager
+parier; miser
 
 bet
 le pari

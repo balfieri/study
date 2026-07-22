@@ -1588,9 +1588,6 @@ recommencer
 basket  
 le panier  
 
-to bet; to wager  
-miser  
-
 rumor  
 le rumeur  
 
@@ -19383,3 +19380,6 @@ l'équipe de démolition
 
 to wreck
 démolir; détruire; ruiner; ravager
+
+regret
+le regret
