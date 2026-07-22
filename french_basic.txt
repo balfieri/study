@@ -6605,8 +6605,8 @@ le bisou; le baiser
 stripe; scratch
 le rayure
 
+buddy; friend; pal
 le pote
-buddy; friend
 
 cashier
 le caissier
