@@ -108804,3 +108804,6 @@ rimanere intrappolati; restare intrappolati
 student center; student union
 il centro studenti; l'unione studentesca
 
+wrecking crew
+la squadra di demolizione
+
