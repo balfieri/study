@@ -19036,7 +19036,7 @@ le bleu
 bruises; blues
 les bleus
 
-red card
+red card (penalty card in soccer)
 le carton rouge
 
 to foil; to thwart
@@ -19383,3 +19383,6 @@ démolir; détruire; ruiner; ravager
 
 regret
 le regret
+
+to profit from
+tirer profit de; profiter de
