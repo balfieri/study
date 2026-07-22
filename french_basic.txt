@@ -4207,8 +4207,8 @@ s'en rendre compte
 to notice (without trying to)
 s'apercevoir
 
-it depends
-ça dépend
+it depends on
+ça dépend de
 
 eldest son
 le fils ainé
@@ -12995,3 +12995,10 @@ to be excited about (something)
 
 I realize that
 je me rends compte que
+
+to seek to; to try to; to attempt to
+chercher à
+
+player; gambler
+le joueur; la joueuse
+
