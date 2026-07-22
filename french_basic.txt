@@ -3838,9 +3838,6 @@ la session
 to water
 arroser
 
-buddy; friend
-le pote
-
 relative
 relative
 
@@ -6605,7 +6602,7 @@ le bisou; le baiser
 stripe; scratch
 le rayure
 
-buddy; friend; pal
+buddy; pal
 le pote
 
 cashier
@@ -12996,3 +12993,5 @@ selon elle
 to be excited about (something)
 être excité par (quelque chose); être emballé par (quelque chose)
 
+I realize that
+je me rends compte que
