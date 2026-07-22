@@ -7962,8 +7962,8 @@ at any moment
 any person
 n'importe quelle personne; toute personne
 
-any (noun)
-n'importe quel (nom); n'importe quelle
+any (something)
+n'importe quel (quelque chose); n'importe quelle (quelque chose)
 
 any (singular, by itself)
 n'importe lesquel; n'importe lequelle
@@ -10357,7 +10357,7 @@ effect
 l'effet
 
 to have a good time; to have a great time
-passer un bon moment
+passer un bon moment;  s'être bien amusé
 
 frustrating
 frustrant
@@ -12983,3 +12983,12 @@ about; concerning; regarding
 
 to overcome; to surmount; to get over
 surmonter
+
+except for
+sauf pour
+
+according to him
+selon lui
+
+according to her
+selon elle

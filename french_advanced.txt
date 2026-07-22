@@ -19362,3 +19362,9 @@ de trop
 
 to take off; to remove; to withdraw
 retirer
+
+schoolboy
+l'écolier
+
+schoolgirl
+l'écolière
