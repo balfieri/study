@@ -8637,8 +8637,8 @@ la réalité
 example; exemplar
 l'exemple; le modèle
 
-social; societal
-social; sociétal
+social 
+social 
 
 man
 l'homme
