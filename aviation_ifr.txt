@@ -1120,7 +1120,7 @@ vertical limits of a transition area in conjunction with an airport having an pr
 700 feet AGL or more to the base of the overlying controlled airspace
 
 MVFR is in effect when
-visibility is 3-5 statute miles OR cloud ceilings are 1000-3000 feet AGL
+visibility is 3-5 statute miles OR cloud ceilings are 1000-3000 feet AGL; remember: marginal VFR is marginal IFR!
 
 HIRL
 High Intensity Runway Lights; on edges of runway
