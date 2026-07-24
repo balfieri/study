@@ -100895,8 +100895,8 @@ il candidato; la candidata; il nominato; la nominata
 scatological humor
 umorismo scatologico
 
-baby carriage
-carrozzina; passeggino
+baby carriage; baby stroller
+la carrozzina; il passeggino
 
 la cosca
 the mafia clan
@@ -108802,7 +108802,7 @@ to get trapped
 rimanere intrappolati; restare intrappolati
 
 student center; student union
-il centro studenti; l'unione studentesca
+il centro studenti; l'unione studentesca; l'associazione studenti
 
 wrecking crew
 la squadra di demolizione
@@ -108842,3 +108842,6 @@ andiamo subito al punto
 
 what's going on (something)?
 che succede con (qualcosa)?
+
+room and board
+il vitto e alloggio
