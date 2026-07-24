@@ -17156,7 +17156,7 @@ scrumptious
 delizioso; squisito
 
 schoolgirl
-la scolaretta
+la scolare; la scolaretta
 
 schoolboy
 lo scolaretto
@@ -108825,3 +108825,5 @@ infallibile
 first-rate; top-notch
 eccellente; di prim'ordine
 
+post-traumatic stress syndrome
+il sindrome da stress post-traumatico
