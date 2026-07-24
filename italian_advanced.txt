@@ -108827,3 +108827,9 @@ eccellente; di prim'ordine
 
 post-traumatic stress syndrome
 il sindrome da stress post-traumatico
+
+psychotherapeutic
+psicoterapeutico
+
+psychotherapist
+lo psicoterapeuto; la psicoterapeuta
