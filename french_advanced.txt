@@ -15706,7 +15706,7 @@ apprêté
 fitted; tailored
 cintré
 
-to strike; to get
+to hit; to crash into; to collide with; to strike; to twig; to catch on; to get
 percuter
 
 to be on the lookout
@@ -18796,9 +18796,6 @@ aplati
 iconoclast
 l'iconoclaste
 
-expropriation
-l'expropriation
-
 her biological clock is ticking
 son horloge biologique tourne
 
@@ -19509,4 +19506,31 @@ autant de (quelque chose) que possible
 
 as many people
 autant de monde
+
+tennis racket
+la raquette de tennis
+
+relentless; inexorable
+inesorabile
+
+very beautiful; gorgeous
+très beau; superbe
+
+notary
+le notaire; la notaire
+
+to adapt
+adapter
+
+as much as you can
+autant que tu peux
+
+to relapse; to fall back again; to fall down again
+rechuter; retomber
+
+expropriation; compulsory acquisition
+l'expropriation
+
+to resent (someone)
+en vouloir à (quelqu’un); ressentir du ressentiment contre (quelqu’un)
 
