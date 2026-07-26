@@ -72044,9 +72044,6 @@ il figlio d'arte
 to send a memo
 inviare un promemoria
 
-to hold (something) against (somebody)
-serbare rancore verso (qualcuno)
-
 everything is geared toward
 tutto è orientato verso
 
@@ -108860,4 +108857,22 @@ il croccante alle arachidi
 
 as many (something) as possible
 quanti più (qualcosa) possibile
+
+to crash into (something)
+schiantarsi contro (qualcosa); andare a sbattere contro (qualcosa)
+
+tennis racket
+la racchetta da tennis
+
+as much as you can
+per quanto puoi
+
+to fall down again
+cadere di nuovo; ricadere
+
+to resent (someone); to hold (something) against (somebody)
+serbare rancore contro (qualcuno); serbare rancore verso (qualcuno); portare rancore (a qualcuno)
+
+to keep; to preserve; to save; to set aside; to retain; to hold on to; to maintain; to cherish
+serbare
 
