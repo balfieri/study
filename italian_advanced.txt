@@ -108879,3 +108879,6 @@ serbare
 figure of speech
 la figura retorica
 
+monetizable
+monetizzabile
+
