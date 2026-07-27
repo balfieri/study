@@ -19582,3 +19582,6 @@ monétisable
 aggregated
 agrégé; regroupé; cumulé
 
+burnout
+le burnout; l'épuisement; l'épuisement professionnel
+
