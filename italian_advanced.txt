@@ -108882,3 +108882,6 @@ la figura retorica
 monetizable
 monetizzabile
 
+aggregated
+aggregato
+
