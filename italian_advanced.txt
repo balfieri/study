@@ -108888,3 +108888,5 @@ aggregato
 burnout
 il burnout; l'esaurimento
 
+one vs. the other
+uno invece dell'altro

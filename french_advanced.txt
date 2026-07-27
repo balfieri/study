@@ -19585,3 +19585,6 @@ agrégé; regroupé; cumulé
 burnout
 le burnout; l'épuisement; l'épuisement professionnel
 
+one vs. the other
+l’un plutôt que l’autre
+
