@@ -9050,7 +9050,7 @@ armor
 l'armure
 
 vulnerability
-la vulnerabilité
+la vulnérabilité
 
 statement; declaration
 la déclaration
@@ -19680,3 +19680,9 @@ bouffer
 
 simply; just; plain and simple; period
 tout court
+
+to let go off one's anger
+laisser sa colère; laisser sa colère partir; laisser aller sa colère
+
+to be moved; to be touched; to be affected; to be disturbed
+s'émouvoir

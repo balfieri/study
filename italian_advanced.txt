@@ -25894,7 +25894,7 @@ chiamare ogni studente
 cloak; cape
 il mantello
 
-to be moved (emotionally)
+to be moved (emotionally); to be touched; to be affected
 commuoversi
 
 to reopen the wounds
@@ -108917,3 +108917,10 @@ la zona di cautela
 
 to devour; to wolf down; to gobble down; to freeload; to sponge; to pig out
 sbafare
+
+to let go of one's anger
+lasciare andare la propria rabbia
+
+vulnerability
+la vulnerabilità
+
