@@ -10296,9 +10296,6 @@ il bilan
 reader
 le lecteur
 
-restart; resumption; reprise
-la reprise
-
 that (something)-there
 (quelque chose)-là
 
@@ -12999,3 +12996,5 @@ chercher à
 player; gambler
 le joueur; la joueuse
 
+we agree; we are agreed; we’re in agreement
+on est d'accord
