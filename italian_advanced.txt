@@ -66755,9 +66755,6 @@ sento che sta arrivando un mal di testa
 it will take no time; it won't take long
 non ci metterà molto; ci vorrà poco tempo
 
-to sell off 
-svendere
-
 to liquidate
 liquidare
 
@@ -69140,7 +69137,7 @@ al secondo piano
 next to the window
 accanto alla finestra
 
-the track; the rail
+track; rail
 il binario
 
 it will be done
@@ -81577,9 +81574,6 @@ prendere piedi
 
 to clank
 sferragliare
-
-intoxication; exhilaration
-l'ebrezza
 
 on sale
 in sconto
@@ -108893,4 +108887,28 @@ uno invece dell'altro
 
 to browse social media; to surf social media; to scroll through social media
 navigare sui social
+
+dishonest
+disonesto; sleale
+
+to sell off; to sell off cheaply; to sell at a loss
+svendere
+
+exterminator
+il disinfestatore; la disinfestatrice; lo sterminatore; la sterminatrice
+
+platform
+la piattaforma
+
+subscriber
+l'abbonato; l'iscrittо
+
+any way possible
+in qualsiasi modo; in ogni modo possibile
+
+any way you want it
+in qualsiasi modo lo vuoi; come lo vuoi tu
+
+any which way
+in qualsiasi modo; in qualunque modo
 
