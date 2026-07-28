@@ -3173,7 +3173,7 @@ flying lesson
 la leçon de vol
 
 flying club
-l'aéroclub
+l'aéroclub; l'aéro-club
 
 check flight; test flight
 le vol de contrôle
@@ -19602,9 +19602,6 @@ personnalisé
 
 profile
 le profil
-
-flying club
-l'aéro-club
 
 fluently
 couramment
