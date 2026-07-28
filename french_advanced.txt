@@ -1735,7 +1735,7 @@ la rêverie
 to boycott
 boycotter
 
-to nourish
+to nourish; to feed
 nourrir
 
 favorite place
@@ -19734,3 +19734,18 @@ mettre en exergue; mettre en évidence; mettre en avant
 
 to show (something)
 faire preuve de (quelque chose)
+
+flayed; skinned; hypersensitive
+écorché
+
+to be in a relationship; to be dating someone
+être en couple
+
+slowness; sluggishness; backwardness
+le lenteur
+
+to result; to arise; to follow (from); to stem from
+découler
+
+biased; skewed; flawed; distorted
+biaisé
