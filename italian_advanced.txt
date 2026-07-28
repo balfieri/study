@@ -108926,3 +108926,6 @@ la vulnerabilità
 
 intimacy
 l'intimità
+
+self-deprecation
+l'autoironia; l'autosvalutazione

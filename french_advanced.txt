@@ -3326,7 +3326,7 @@ to shame (somebody)
 faire honte à (quelqu'un)
 
 shame
-l'honte
+la honte
 
 I will blame you
 je t'accuserai; je te blâmerai
@@ -19702,3 +19702,20 @@ l'approbation
 intimacy; privacy; closeness
 l'intimité
 
+developed
+développé
+
+to stay with; to remain with
+à rester avec
+
+to stay present; to remain present
+rester présent
+
+to encourage; to prompt; to incite; to urge; to push; to spur on; to motivate; to influence; to persuade
+inciter
+
+independently
+indépendamment
+
+self-mockery; self-deprecation
+l'auto-dérision
