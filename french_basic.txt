@@ -506,7 +506,7 @@ winter
 l'hiver
 
 partner
-le partenaire
+le partenaire; la partenaire
 
 native
 natif
@@ -4996,7 +4996,7 @@ la race
 ethnicity; race (human)
 l'ethnie; la race
 
-lane; track
+lane; track; way
 la voie
 
 aisle

@@ -24571,7 +24571,7 @@ contenere
 loss; leak
 la perdita
 
-reflection
+reflection; thought
 la riflessione
 
 conservation
@@ -108912,3 +108912,8 @@ in qualsiasi modo lo vuoi; come lo vuoi tu
 any which way
 in qualsiasi modo; in qualunque modo
 
+caution zone
+la zona di cautela
+
+to devour; to wolf down; to gobble down; to freeload; to sponge; to pig out
+sbafare
