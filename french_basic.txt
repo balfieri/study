@@ -12998,3 +12998,9 @@ le joueur; la joueuse
 
 we agree; we are agreed; we’re in agreement
 on est d'accord
+
+to study Italian
+étudier l’italien
+
+to study French
+étudier le français
