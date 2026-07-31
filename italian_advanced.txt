@@ -14440,7 +14440,7 @@ più di ogni altra cosa
 soft; low; quiet
 sommesso
 
-awkward; clumsy
+awkward; clumsy; embarrassed; uncomfortable
 impacciato
 
 to blind (transitive); to dazzle
@@ -108974,4 +108974,7 @@ fai che sia così!
 
 passage of time
 il passare del tempo; il trascorrere del tempo
+
+I heard you speaking (something)
+ti ho sentito parlare (qualcosa)
 

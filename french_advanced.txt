@@ -19842,3 +19842,7 @@ le passage du temps
 
 vice; clamp; vise
 l’étau
+
+I heard you speaking (something)
+je t'ai entendu parler (quelque chose)
+
