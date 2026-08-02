@@ -403,7 +403,7 @@ il canale
 station (bus, train)
 la stazione
 
-above all
+above all; especially
 soprattutto
 
 while (doing something); whereas
@@ -5552,7 +5552,7 @@ particularly
 particolarmente; in modo particolare
 
 especially
-specialmente
+specialmente; soprattutto
 
 show (tv); schedule
 il programma

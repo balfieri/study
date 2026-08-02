@@ -19849,3 +19849,5 @@ je t'ai entendu parler (quelque chose)
 to come forward
 se présenter; s'avancer
 
+to break the bank
+faire sauter la banque

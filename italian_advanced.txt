@@ -44563,9 +44563,6 @@ collinoso; collinare
 allegory
 l'allegoria
 
-to break the bank
-sbancare
-
 intensive farming
 l'allevamento intensivo
 
@@ -108983,3 +108980,7 @@ l'estratto; il passo scelto
 
 to come forward; to step up
 farsi avanti
+
+to break the bank; to bankrupt; to ruin financially; to excavate; to remove the benches from a boat
+sbancare
+
