@@ -5788,9 +5788,6 @@ espiègle; malicieux
 life's work
 l'œuvre de toute une vie; l'œuvre de toute une vie
 
-to hush; to shush
-faire taire
-
 to update
 mettre à jour
 
@@ -19851,3 +19848,21 @@ se présenter; s'avancer
 
 to break the bank
 faire sauter la banque
+
+to silence; to shut up; to hush; to shush
+faire taire
+
+to transport; to shuttle
+transporter; faire la navette pour
+
+to seep
+s’infiltrer; suinter
+
+seepage
+l'infiltration; le suintement
+
+to double-check
+revérifier; vérifier à nouveau
+
+the money is on the way
+l’argent est en route; l’argent arrive

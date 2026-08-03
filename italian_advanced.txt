@@ -3610,9 +3610,6 @@ sfiorire
 to obey (old, literary)
 ubbidire
 
-to hush; to shut up; to silence
-zittire
-
 pit; grave; burial pit
 la fossa
 
@@ -28879,7 +28876,7 @@ l'approssimazione
 specifically; in particular
 ispecie
 
-to transport; to carry
+to transport; to carry; to shuttle
 trasportare
 
 generically
@@ -85118,9 +85115,6 @@ sfiancare
 revenue stamps; tax stamps
 i valori bollati
 
-to seep into; to infiltrate
-infiltrarsi 
-
 sounds like a plan
 mi sembra un buon piano; sembra un'ottima idea
 
@@ -94036,9 +94030,6 @@ solo per far andare avanti le cose; solo per far muovere le cose
 
 to get things moving
 far andare avanti le cose
-
-to silence (somebody); to shut (somebody) up; to quiet (somebody)
-far zittare (qualcuno)
 
 solid ground; dry land; mainland
 la terraferma; la terra firma
@@ -108718,7 +108709,7 @@ to spell (something)
 fare lo spelling di (qualcosa); compitare (qualcosa)
 
 to volunteer for (something); to offer to volunteer for (something)
-offrirsi volontario per (qualcosa); offrirsi per (qualcosa)
+fare volontariato per (qualcosa); offrirsi volontario per (qualcosa); offrirsi per (qualcosa)
 
 to win unexpectedly; to score an upset; to pull off a surprise win
 vincere a sorpresa
@@ -108984,3 +108975,20 @@ farsi avanti
 to break the bank; to bankrupt; to ruin financially; to excavate; to remove the benches from a boat
 sbancare
 
+to hush; to shut up; to silence
+far tacere; zittire; far zittire; far zittare
+
+to seep into; to infiltrate
+trasudare; filtrare; infiltarsi
+
+seepage
+l'infiltrazione; la trasudazione
+
+bogus guru
+il fuffa guru
+
+to double-check
+ricontrollare; verificare due volte
+
+the money is on the way
+i soldi sono in arrivo
