@@ -11128,9 +11128,6 @@ frustré
 to accept others easily
 accepter les autres facilement
 
-to lose one's patience
-perdre patience
-
 high price
 le prix élevé
 
@@ -19866,3 +19863,22 @@ revérifier; vérifier à nouveau
 
 the money is on the way
 l’argent est en route; l’argent arrive
+
+to lose one's patience
+perdre patience; perdre son calme
+
+radiator (HVAC)
+le radiateur
+
+boxer (sport)
+le boxeur
+
+boxing (sport)
+la boxe
+
+boxers (underwear); boxer briefs
+le caleçon; le boxer
+
+boxer (breed of dog)
+le boxer
+
