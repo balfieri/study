@@ -13819,9 +13819,6 @@ rianimare
 a little further; a little farther; just down the street
 poco più in là
 
-dismay; aghast; dismayed
-sgomento
-
 cloth; strip; towel (larger dimensions)
 il telo
 
@@ -109005,3 +109002,14 @@ il vault 1password
 bank vault
 il caveau bancario
 
+to be keen on (something)
+avere una passione per (qualcosa); essere interessati a (qualcosa)
+
+inkling
+il sospetto; il sentore
+
+vague idea
+l'idea vaga
+
+aghast; dismayed
+sgomento; esterrefatto
