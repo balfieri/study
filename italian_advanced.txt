@@ -33079,8 +33079,8 @@ prova di forza
 flying car
 l'auto volante
 
-car dealership; car showroom
-l'autosalone
+car dealership; car dealer; car showroom
+l'autosalone; il concessionario d’auto
 
 to set foot again
 rimettere i piedi
@@ -109013,3 +109013,12 @@ l'idea vaga
 
 aghast; dismayed
 sgomento; esterrefatto
+
+I know about it
+so ne sono; lo so; ne sono al corrente
+
+episodic
+episodico
+
+bitcoin mining
+l'estrazione di bitcoin; il mining di bitcoin
