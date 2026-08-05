@@ -109022,3 +109022,7 @@ episodico
 
 bitcoin mining
 l'estrazione di bitcoin; il mining di bitcoin
+
+butterfly effect
+l'effetto farfalla
+
