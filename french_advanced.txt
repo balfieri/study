@@ -18274,7 +18274,7 @@ tout boueux; tout éclaboussé de boue
 to squirt
 gicler; asperger
 
-median strip
+median (highway); median strip
 le terre-plein central
 
 thermostat
@@ -19926,4 +19926,22 @@ le vendeur de voitures; le concessionnaire automobile
 
 boxing ring
 le ring de boxe
+
+hail; hailstorm
+la grêle
+
+to beckon
+faire signe; appeler d’un geste
+
+to save money
+économiser de l’argent; faire des économies
+
+nurdle
+le granulé de plastique; la boule de plastique
+
+median (adjective)
+médian
+
+case in point
+un bon exemple; exemple à l’appui
 

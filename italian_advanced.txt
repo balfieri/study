@@ -108171,7 +108171,7 @@ la bava
 all muddy; all splattered
 inzaccherato
 
-traffic island; median strip
+traffic island; median strip; median
 lo spartitraffico
 
 small shower; small spout
@@ -109026,3 +109026,11 @@ l'estrazione di bitcoin; il mining di bitcoin
 butterfly effect
 l'effetto farfalla
 
+to beckon
+fare cenno; fare segno di avvicinarsi; chiamare con un gesto
+
+nurdle
+il pellet di plastica; il nurdle
+
+case in point
+esempio calzante; caso esemplare
