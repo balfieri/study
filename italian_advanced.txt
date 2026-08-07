@@ -109046,3 +109046,6 @@ in soccorso
 
 fulfilled; blooming
 realizzato; in fiore
+
+disingenuous
+disonesto; insincero
