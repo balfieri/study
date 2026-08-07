@@ -17851,7 +17851,7 @@ lo spago
 transformation
 la trasformazione
 
-contrast
+contrast; tackle (sports)
 il contrasto
 
 bishop
@@ -109034,3 +109034,15 @@ il pellet di plastica; il nurdle
 
 case in point
 esempio calzante; caso esemplare
+
+global phenomenon
+il fenomeno globale
+
+to beg
+elemosinarsi
+
+to the rescue
+in soccorso
+
+fulfilled; blooming
+realizzato; in fiore
