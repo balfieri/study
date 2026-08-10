@@ -20031,3 +20031,10 @@ le pyromane
 
 benchmark
 le benchmark
+
+sunbathing
+le bain de soleil
+
+teleportation
+la téléportation
+
