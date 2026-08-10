@@ -20017,3 +20017,5 @@ plier
 email list
 la liste de diffusion par courriel
 
+involuntary; unintentional
+involontaire
