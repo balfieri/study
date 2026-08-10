@@ -17797,7 +17797,7 @@ de rapport
 terrifying
 terrifiant
 
-degrowth; shrinkage
+degrowth; shrinkage; decrease
 la décroissance
 
 paid leave; paid vacation
@@ -20025,3 +20025,9 @@ frauduleux
 
 intentional
 intentionnel; volontaire
+
+pyromaniac; arsonist
+le pyromane
+
+benchmark
+le benchmark
