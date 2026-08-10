@@ -20019,3 +20019,9 @@ la liste de diffusion par courriel
 
 involuntary; unintentional
 involontaire
+
+fraudulent
+frauduleux
+
+intentional
+intentionnel; volontaire
