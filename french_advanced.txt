@@ -15412,7 +15412,7 @@ déboucher
 news
 l'actualité
 
-mute
+mute; silent (letter)
 muet
 
 bath gel
@@ -20038,3 +20038,23 @@ le bain de soleil
 teleportation
 la téléportation
 
+to chat with (somebody)
+bavarder avec (quelqu’un); discuter avec (quelqu’un)
+
+notebook
+le carnet
+
+embarrassing; awkward
+gênant
+
+to combine; to unite
+allier
+
+to gargle
+se gargariser
+
+gurgle
+le gargouillement
+
+gurgling noise
+le bruit de gargouillement
