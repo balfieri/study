@@ -109119,3 +109119,6 @@ scontrarsi con (qualcosa)
 car crash
 l'incidente d’auto
 
+to take precautions
+prendere precauzioni
+
