@@ -6425,7 +6425,7 @@ l'adult
 bath
 le bain
 
-aloud
+aloud; out loud
 à voix haute
 
 bilingual
