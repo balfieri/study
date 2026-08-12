@@ -12860,7 +12860,7 @@ display; screen; poster
 l'affichage
 
 candidate
-le candidat
+le candidat; la candidate
 
 placed; put; laid
 posé
