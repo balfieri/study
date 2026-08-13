@@ -8077,7 +8077,7 @@ il tagliando
 damage; failure; breakdown
 l'avaria
 
-wear; fatigue
+wear; fatigue; wear-and-tear
 l'usura
 
 facade
@@ -28984,7 +28984,7 @@ la cattura
 enunciated
 enunciato
 
-flowering
+flowering; blooming
 la fioritura
 
 reinforcement; strengthening
@@ -50881,7 +50881,7 @@ l'assassino nato
 killer
 l'assassino; l'assassina; il killer
 
-fleeting; transient; ephemeral
+fleeting; transient; ephemeral; fugitive
 fugace; effimero
 
 you read that right
@@ -100730,7 +100730,7 @@ con disprezzo
 to ascertain whether
 accertarsi se; verificare se
 
-to relieve
+to relive
 rivivere
 
 to relive one's childhood
@@ -109121,4 +109121,19 @@ l'incidente d’auto
 
 to take precautions
 prendere precauzioni
+
+freshness
+la freschezza
+
+stuck in a rut
+bloccato nella routine
+
+whaler
+la baleniera
+
+until now
+fino a ora
+
+papier-mâché
+il papier-mâché; la cartapesta
 
