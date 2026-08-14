@@ -20215,3 +20215,6 @@ la vision 2/10; l'acuité visuelle 2/10
 20/15 vision; 20/15 eyesight
 la vision 13/10; l'acuité visuelle 13/10
 
+visual acuity
+l'acuité visuelle
+
