@@ -3079,7 +3079,7 @@ les œufs
 new
 nouveau; nouvel
 
-empty
+empty; vacant
 vide
 
 simple

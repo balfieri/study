@@ -8771,7 +8771,7 @@ inside (noun)
 l'interno
 
 golf swing
-lo swing da golf; il colpo di golf
+lo swing di golf; il colpo di golf
 
 workout; training; practice
 l'allenamento
@@ -20024,7 +20024,7 @@ to spot; to identify; to pinpoint
 individuare
 
 executive; leader; head
-il dirigente
+il dirigente; la dirigente
 
 expressly; explicitly; specially
 espressamente
@@ -71597,9 +71597,6 @@ non aiuta che
 to show signs of life
 mostrare segni di vita
 
-golf swing
-lo swing del golf
-
 to be ready to (do something)
 essere pronti a (fare qualcosa)
 
@@ -107607,9 +107604,6 @@ un piccolo gesto di apprezzamento
 to show appreciation for (something)
 mostrare apprezzamento per (qualcosa)
 
-golf swing
-lo swing di golf
-
 golf shot
 il colpo di golf
 
@@ -109136,4 +109130,22 @@ fino a ora
 
 papier-mâché
 il papier-mâché; la cartapesta
+
+to be very bad at something
+essere molto scarsi in qualcosa
+
+to resent someone; to bear a grudge against someone
+avercela con qualcuno; serbare rancore verso qualcuno
+
+widowhood
+la vedovanza
+
+manageable; easy to handle
+gestibile; maneggevole
+
+trickle-down economics
+l'economia a cascata
+
+dripping; trickling
+sgocciolante; a piccoli rivoli
 
