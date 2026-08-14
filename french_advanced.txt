@@ -20194,3 +20194,24 @@ pourquoi ne peut-on pas?
 bifocal lens
 la lentille bifocale
 
+far vision
+la vision de loin
+
+distant vision
+la vision lointaine; la vision de loin
+
+near vision
+la vision de près
+
+20/20 vision; 20/20 eyesight
+la vision 10/10; l'acuité visuelle 10/10
+
+20/40 vision; 20/40 eyesight
+la vision 5/10; l'acuité visuelle 5/10
+
+20/100 vision; 20/100 eyesight
+la vision 2/10; l'acuité visuelle 2/10
+
+20/15 vision; 20/15 eyesight
+la vision 13/10; l'acuité visuelle 13/10
+

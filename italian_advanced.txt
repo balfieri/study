@@ -109158,3 +109158,24 @@ perché non possiamo?
 bifocal lens
 la lente bifocale
 
+far vision
+la visione da lontano
+
+distant vision
+la visione distante
+
+near vision
+la visione da vicino
+
+20/20 vision; 20/20 eyesight
+la vista 10/10
+
+20/40 vision; 20/40 eyesight
+la vista 5/10
+
+20/100 vision; 20/100 eyesight
+la vista 2/10
+
+20/15 vision; 20/15 eyesight
+la vista 13/10
+
