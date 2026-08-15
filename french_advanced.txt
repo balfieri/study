@@ -20265,3 +20265,6 @@ répondre à une consigne; répondre à une invite; répondre à un prompt
 
 instructions; direction; order; prompt; cloakroom
 la consigne
+
+to be bad at; to be terrible at; to be really bad at; to stink at
+être nul en
