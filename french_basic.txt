@@ -7501,7 +7501,7 @@ actress
 l'actrice
 
 writer
-l'écrivain
+l'écrivain; l'écrivaine
 
 singer
 le chanteur; la chanteuse

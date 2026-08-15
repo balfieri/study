@@ -15157,9 +15157,6 @@ le mini bar
 shuttle service
 le service de navette
 
-cloakroom
-la consigne
-
 I'm just saying that (something)
 je dis juste que (quelque chose)
 
@@ -20218,3 +20215,53 @@ la vision 13/10; l'acuité visuelle 13/10
 visual acuity
 l'acuité visuelle
 
+gear; cog
+le rouage
+
+second to last; penultimate
+avant-dernier; pénultième
+
+to stifle
+étouffer; bâillonner
+
+stifled
+étouffé; bâillonné
+
+extracted
+extrait
+
+guitar riff
+le riff de guitare
+
+gathered again; brought together again
+réunais
+
+withered; dried out
+desséché
+
+at the dawn; in the early days
+aux premiers balbutiement; aux début
+
+to prefer; to favor; to have a preference for
+prédiliger
+
+ransom; redemption; recovery
+la rançon
+
+100-year flood
+la crue centennale; l'inondation centennale
+
+related to video games; videogame
+vidéoludique
+
+decline; deterioration; forfeiture
+la déchéance
+
+I arrive when I arrive; I'll get there when I get there
+j’arrive quand j’arrive
+
+to respond to a prompt
+répondre à une consigne; répondre à une invite; répondre à un prompt
+
+instructions; direction; order; prompt; cloakroom
+la consigne
