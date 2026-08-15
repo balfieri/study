@@ -2369,7 +2369,7 @@ trouble; nuisance; hindrance; handful (negative)
 l'impiccio
 
 prompt; cue
-l'imbeccata
+l'imbeccata; il prompt
 
 to upset; to vex; to flurry
 innervosire
@@ -109182,3 +109182,50 @@ la vista 13/10
 visual acuity
 l'acutezza visiva
 
+to relate to (something); identify with (something); see oneself in (something); recognize oneself in (something)
+riconoscersi in (qualcosa)
+
+in addition; moreover
+in più
+
+popular; trendy
+gettonato
+
+gear; cog
+la ruota dentata
+
+annoying; tedious; painful
+penoso; noioso; fastidioso
+
+quebecois; from Quebec
+quebecchese; del Quebec
+
+stifled; suppressed
+soffocato; represso
+
+to flee; to run away; to escape; to get away
+fuggire; scappare
+
+extracted
+estratto
+
+guitar riff
+il riff di chitarra
+
+sector; field of study; study track
+l'indirizzo; il settore; il percorso di studi
+
+withered; dried out
+insecchito; inaridito
+
+century flood; 100-year flood
+l'alluvione secolare
+
+decline; downfall; loss of status
+la decadenza; la degradazione
+
+I'll get there when I get there; I arrive when I arrive
+arrivo quando arrivo
+
+to respond to a prompt
+rispondere a un prompt; rispondere a una consegna

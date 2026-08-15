@@ -2605,7 +2605,7 @@ parce que
 because; for (formal, literary)
 car
 
-furthermore; moreover; besides
+furthermore; moreover; besides (a little formal)
 de plus; en outre; par ailleurs
 
 likewise; also
@@ -2632,7 +2632,7 @@ si
 neither; nor
 ni
 
-additionally; also
+additionally; also; in addition
 en plus
 
 however; nevertheless
