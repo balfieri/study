@@ -20326,3 +20326,11 @@ bégayer; balbutier
 house-warming gift
 le cadeau de pendaison de crémaillère
 
+strep throat; tonsillitis; sore throat
+l'angine
+
+driving test
+l'examen de conduite
+
+chest pain; angina pectoris
+l'angine de poitrine
