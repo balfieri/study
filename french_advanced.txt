@@ -10870,7 +10870,7 @@ reposer un peu plus
 among others
 parmi autres
 
-leftovers
+leftovers; remains
 les restes
 
 to surf the internet
@@ -20416,6 +20416,9 @@ la salinité
 horizon
 l'horizon
 
-the remains
-les restes
+plant cutting; cutting from a plant
+la bouture; le rejet de plante
+
+wart
+la verrue
 

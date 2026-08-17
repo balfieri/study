@@ -173,7 +173,7 @@ else:
     question_cnt = min( question_cnt, all_question_used_cnt )
     question_cnt = max( 1, question_cnt )
 print()
-print( f'Number of questions in the file matching the category is {all_question_cnt}, using questions {all_question_first}..{all_question_last}, asking {question_cnt} questions\n' )        
+print( f'{all_question_cnt} questions available, using questions {all_question_first}..{all_question_last} for a total of {question_cnt}\n' )        
 
 while True:
     #-----------------------------------------------------------------------

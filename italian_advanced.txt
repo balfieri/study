@@ -109325,3 +109325,10 @@ la pagaia
 
 saltiness; salty taste
 la salsedine
+
+cutting; plant cutting
+la talea; la talea di pianta
+
+wart
+la verruca
+
