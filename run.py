@@ -65,49 +65,42 @@ question_voice = 'Samantha'
 answer_voice = 'Alice'
 question_rate  = 220
 answer_rate  = 180
+print_entry_cnt_and_exit = False
 i = 2
 while i < len( sys.argv ):
     arg = sys.argv[i]
     i += 1
     if   arg == '-q':           
         question_cnt = int(sys.argv[i])
-        i += 1
     elif arg == '-ps':          
         skip_pause_sec = int(sys.argv[i])
         skip_prompts = 1
-        i += 1
     elif arg == '-start_pct':
         start_pct = int(sys.argv[i])
         if start_pct < 0 or end_pct < 0: die( 'start_pct and end_pct must be >= 0' )
-        i += 1
     elif arg == '-end_pct':
         end_pct = int(sys.argv[i])
         if end_pct > 100: die( 'end_pct must be <= 100' )
-        i += 1
     elif arg == '-acronyms_only':
         acronyms_only = int(sys.argv[i])
-        i += 1
     elif arg == '-cat':
         categories_s = sys.argv[i]
         have_categories_s = 1
-        i += 1
     elif arg == '-s':
         speak = int(sys.argv[i])
-        i += 1
     elif arg == '-qv':
         question_voice = sys.argv[i]
-        i += 1
     elif arg == '-qr':
         question_rate = int(sys.argv[i])
-        i += 1
     elif arg == '-av':
         answer_voice = sys.argv[i]
-        i += 1
     elif arg == '-ar':
         answer_rate = int(sys.argv[i])
-        i += 1
+    elif arg == '-print_entry_cnt_and_exit':
+        print_entry_cnt_and_exit = int(sys.argv[i]) != 0
     else:
         die( f'unknown option: {arg}' )
+    i += 1
 
 if start_pct >= end_pct: die( 'start_pct must be < end_pct' )
 
@@ -172,9 +165,13 @@ if question_cnt == 0:
 else:
     question_cnt = min( question_cnt, all_question_used_cnt )
     question_cnt = max( 1, question_cnt )
+
+if print_entry_cnt_and_exit:
+    print( all_question_cnt )
+    sys.exit( 0 )
+
 print()
 print( f'{all_question_cnt} questions available, using questions {all_question_first}..{all_question_last} for a total of {question_cnt}\n' )        
-
 while True:
     #-----------------------------------------------------------------------
     # choose questions
