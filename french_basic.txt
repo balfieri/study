@@ -3094,7 +3094,7 @@ rare
 delicious
 délicieux
 
-single
+single; celibate
 célibataire
 
 comfortable

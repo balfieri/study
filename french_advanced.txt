@@ -1867,7 +1867,7 @@ et à juste titre
 conspiracy
 le complot; la conspiration
 
-apparently
+apparently; reportedly
 apparemment
 
 backlash
@@ -20425,3 +20425,14 @@ la verrue
 Nepal
 le Népal
 
+striking
+frappant
+
+clairvoyance
+la voyance
+
+behind a paywall
+derrière un paywall
+
+paywall
+le paywall
