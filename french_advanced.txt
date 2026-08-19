@@ -2371,7 +2371,7 @@ la renaissance
 theme park  
 le parc à thème  
 
-maintained  
+maintained; kept; preserved
 entretenu  
 
 vegetation  
@@ -20499,3 +20499,109 @@ s'inscrire à un cours
 
 fundamentals of
 les bases de; les fondamentaux de
+
+to review the fundamentals; to go over the fundamentals; to review the basics
+revoir les fondamentaux; revoir les bases
+
+tech enthusiast; technology lover
+le technophile
+
+technophobe
+le technophobe
+
+to take the plunge; to cross the line; to take the big step
+franchir le pas
+
+procrastination; evasion; equivocation
+la tergiversation
+
+inseparable
+indissociable
+
+emotional; affective
+affectif
+
+mined; undermined; weakened; compromised
+miné
+
+distress
+la détresse
+
+to capture attention; to capture the attention; to get attention
+capter l'attention
+
+adolescence
+l'adolescence
+
+peer
+le pair; l'égal; le camarade
+
+scrolling
+le défilement
+
+to hog; to monopolize; to take over
+accaparer
+
+erasure; obliteration; deletion
+le effacement
+
+started; initiated; begun
+amorcé
+
+to start; to prime; to initiate
+amorcer
+
+on pain of; under penalty of
+sous peine de
+
+staggering; astounding; mind-blowing
+sidérant
+
+to grope; to fumble
+tâtonner
+
+apartheid
+l'apartheid
+
+gendercide
+le gynécide
+
+femicide
+le féminicide
+
+incongruity
+l'incongruité
+
+word fog
+le brouillard des mots
+
+to parade; to strut; to swagger; to show off
+parader
+
+to hoist; to raise
+hisser
+
+yoke
+le joug
+
+archaic
+archaïque
+
+patriarchy
+le patriarcat
+
+to take root; to put down roots
+s’enraciner
+
+displeasure
+le déplaisir
+
+little girl
+la fillette
+
+to bully; to mistreat; to treat roughly
+rudoyer
+
+canal; channel
+le canal
+
