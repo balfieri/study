@@ -20436,3 +20436,66 @@ derrière un paywall
 
 paywall
 le paywall
+
+therapist
+le thérapeute; la thérapeute
+
+lightness
+la légèreté
+
+Swedish
+suédois
+
+trunk (car)
+le coffre; le capot
+
+hood (car)
+le capot
+
+hubcap
+l'enjoliveur
+
+car door 
+la portière
+
+rev counter; tachometer
+le compte-tours; le tachymètre
+
+speedometer
+le compteur de vitesse
+
+handbrake; parking brake
+le frein à main; le frein de stationnement
+
+gear lever; gear shift
+le levier de vitesse
+
+to change gears
+changer de vitesse; passer les vitesses
+
+reverse gear
+la marche arrière
+
+sideview mirror
+le rétroviseur extérieur
+
+rearview mirror
+le rétroviseur intérieur
+
+airbag
+l'airbag; le coussin gonflable de sécurité
+
+sequence; chaining together
+l'enchaînement
+
+to break down (stop working)
+tomber en panne; cesser de fonctionner
+
+to break down (steps); to decompose
+décomposer
+
+to sign up for a class
+s'inscrire à un cours
+
+fundamentals of
+les bases de; les fondamentaux de

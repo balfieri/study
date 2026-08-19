@@ -9724,7 +9724,7 @@ invecchiare
 compared
 a confronto
 
-to decompose; to disassemble
+to decompose; to disassemble; to break down (steps)
 scomporre
 
 science writer
@@ -102248,9 +102248,6 @@ la spia luminosa
 handbrake; emergency brake; parking brake
 il freno a mano
 
-gear lever; gear stick
-la leva del cambio
-
 air conditioner control; air conditioning regulator
 il regolatore dell'aria condizionata
 
@@ -109352,3 +109349,27 @@ dietro un paywall; a pagamento
 
 paywall
 il paywall
+
+lightness
+la leggerezza
+
+hubcap
+il copriruota; il coprimozzo
+
+gear lever; gear shift
+la leva del cambio
+
+to change gears
+cambiare le marce
+
+concatenation
+la concatenazione
+
+to break down (stop working)
+rompersi; guastarsi
+
+to sign up for a class
+iscriversi a un corso; iscriversi a una classe
+
+fundamentals of
+le basi di; i fondamenti di

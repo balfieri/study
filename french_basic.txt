@@ -8022,9 +8022,6 @@ la Suisse
 Sweden
 la Suède
 
-Swedish
-suédois
-
 Norway
 la Norvège
 
@@ -11565,7 +11562,7 @@ at this point
 state; status (condition, state)
 l'éta
 
-I have one of them  
+I have one of them; I have one
 j'en ai un  
 
 I already have one of them  
