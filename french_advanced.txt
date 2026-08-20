@@ -9523,9 +9523,6 @@ se lever
 clothes hanger
 le cintre
 
-clothes pin
-la pince à linge
-
 I feel terrible
 je me sens minable
 
@@ -13645,7 +13642,7 @@ rattrapé
 lag; gap; discrepancy; shift; time difference
 le décalage
 
-boon; godsend; windfall
+bargain; good deal; boon; godsend; windfall
 l'aubaine
 
 to prepare minds
@@ -20604,4 +20601,61 @@ rudoyer
 
 canal; channel
 le canal
+
+to get flustered; to become embarrassed
+s’empourrer; devenir embarrassé
+
+to succumb
+succomber
+
+deployment
+le déploiement
+
+distinct
+distinct
+
+longevity
+la longévité
+
+curvaceous
+bien roulée; avec des formes
+
+by any means necessary
+par tous les moyens nécessaires
+
+quid pro quo
+quid pro quo; la compensation en échange
+
+don’t lose hope!
+ne perds pas espoir!
+
+carry on!
+continue!; poursuis!
+
+the rise and fall of
+l’ascension et la chute de
+
+to do the laundry
+faire la lessive
+
+fabric softener
+l'assouplissant
+
+to discolor
+se décolorer; décolorer
+
+porthole; front door of a washing machine
+l'hublot
+
+clothespin
+la pince à linge
+
+pajamas
+le pyjama
+
+to clip; to pin
+agrafer; fixer avec une pince
+
+misunderstanding
+le malentendu
 
