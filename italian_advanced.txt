@@ -109401,7 +109401,7 @@ il gendercidio
 word fog
 la nebbia delle parole
 
-to pride oneself; to swagger; to show off; to strut
+to pride oneself; to swagger; to show off; to strut; to strut like a peacock
 pavoneggiarsi
 
 to take root
@@ -109431,8 +109431,8 @@ il cesto dei panni
 to discolor
 scolorire; discolorare
 
-porthole;round window
-oblò
+porthole; round window; front door of a washing machine
+l'oblò
 
 lingerie
 la biancheria intima
