@@ -109488,3 +109488,6 @@ primeggiare
 clumsiness; awkwardness
 la goffaggine
 
+infodemic
+l'infodemia
+
