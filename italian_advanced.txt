@@ -25043,7 +25043,10 @@ adherent
 l'aderente
 
 hectare
-l'ettare
+l'ettaro
+
+acre
+l'acro
 
 peculiar
 peculiare
