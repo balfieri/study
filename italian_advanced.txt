@@ -3931,7 +3931,7 @@ il patrimonio
 mere
 mero
 
-to facilitate; to help; to make (something) easy; to relieve
+to facilitate; to help; to make (something) easy; to relieve; to ease
 facilitare; agevolare
 
 albeit
@@ -8887,7 +8887,7 @@ stropicciare gli occhi
 steamroller
 il rullo compressore
 
-embarrassment
+embarrassment; awkwardness
 l'imbarazzo
 
 uncorrelated; unrelated
@@ -109448,4 +109448,43 @@ zoppicare; procedere zoppicando
 
 popcicle
 il ghiacciolo
+
+to get lost; to lose oneself
+smarrirsi
+
+to lose one’s way; to go astray
+s’égarer
+
+retribution; poetic justice; fitting punishment
+il contrappasso
+
+convert
+il converso; la conversa
+
+world globe; globe of the world
+il mappamondo
+
+to become stubborn; to insist stubbornly; to dig one’s heels in
+intestardirsi
+
+apocryphal
+apocrifo
+
+reappropriation; reclaiming; taking back
+la riappropriazione
+
+estrangement; alienation
+l’estraneità
+
+for that matter; precisely; exactly
+per l’appunto
+
+atlas
+l'atlante
+
+to excel; to be preeminent; to stand out
+primeggiare
+
+clumsiness; awkwardness
+la goffaggine
 
