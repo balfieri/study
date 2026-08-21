@@ -50966,7 +50966,7 @@ bleach
 la candeggina
 
 hoax; fake news; water buffalo
-la bufala
+la bufala; la fake news
 
 collective thinking
 il pensiero collettivo
