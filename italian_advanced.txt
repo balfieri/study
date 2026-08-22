@@ -7996,7 +7996,7 @@ il pino
 trunk (tree)
 il tronco
 
-sore
+sore; achy
 dolorante
 
 acre
@@ -109493,4 +109493,34 @@ la goffaggine
 
 infodemic
 l'infodemia
+
+Beatlemaniac
+il beatlemaniac
+
+mundane errand
+la commissione banale
+
+to temper
+temperare
+
+to have some play
+avere un po' di gioco
+
+partial erection
+il durello
+
+ice chip
+la scheggia di ghiaccio
+
+flag raising
+l'alzabandiera
+
+semi-erect
+barzotto
+
+hairless
+depilato
+
+empath
+la persona empatica
 
