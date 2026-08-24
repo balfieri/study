@@ -4510,7 +4510,7 @@ le verbiage; le jargon
 are you going out?
 tu sors?
 
-cork; traffic jam
+cork; traffic jam; stopper
 le bouchon
 
 enough eaten; have eaten enough
@@ -20778,3 +20778,13 @@ l'effondrement
 
 fellatio
 la fellation
+
+stopper
+l'arrêter; le stopper
+
+self-confidence
+la confiance en soi
+
+to dry out; to drain; to dehydrate
+assécher
+

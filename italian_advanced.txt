@@ -27178,7 +27178,7 @@ tubetto
 mayonaise
 il maionese
 
-cork; plug
+cork; plug; stopper
 il tappo
 
 small tube
