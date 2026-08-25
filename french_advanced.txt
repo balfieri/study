@@ -8060,7 +8060,7 @@ recession
 la récession
 
 tipping point; pivot point
-le point de bascule
+le point de bascule; le moment de bascule
 
 to claim; to demand; to assert
 revendiquer
@@ -20799,4 +20799,55 @@ le corps souple
 
 limber; supple; flexible
 souple; flexible
+
+environmental
+environnemental
+
+record temperature
+la température record
+
+future
+l’avenir
+
+dystopia
+la dystopie
+
+to materialize; to come to fruition; to be realized
+se concrétiser
+
+ambivalence
+l'ambivalence
+
+inevitable; inescapable; unavoidable
+inéluctable
+
+fatalist
+fataliste
+
+to diversify; to broaden; to vary
+diversifier
+
+on the sidelines of; on the fringes of; on the margins of
+en marge de
+
+rejected
+rejeté
+
+targeting
+le ciblage
+
+ice-cold thriller
+le thriller glacé
+
+fairly; quite; passably
+passablement
+
+fairness; paleness; blondness
+le blondeur
+
+dug; hollowed out; excavated
+creusé
+
+to dig; to delve
+creuser
 
