@@ -5182,7 +5182,7 @@ survivre
 to survive (something)
 survivre à (quelque chose)
 
-winged
+winged; bedridden
 alité
 
 burst; knackered
@@ -20925,4 +20925,34 @@ faire pivoter; tourner
 
 point of no return
 le point de non-retour
+
+Gaulish
+gaulois
+
+from what I’ve read
+de ce que j’ai lu
+
+besieging
+l'assiégeant
+
+great; neat; nice; cool
+chouette
+
+pilgramage
+le pèlerinage
+
+pilgram
+le pèlerin
+
+stopover
+l'escale; l'étape
+
+snarky; sarcastic; caustic
+sarcastique; caustique; moqueur
+
+albatross
+l'albatros
+
+staff
+le personnel
 
