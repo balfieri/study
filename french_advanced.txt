@@ -20953,6 +20953,6 @@ sarcastique; caustique; moqueur
 albatross
 l'albatros
 
-staff
+staff; personnel
 le personnel
 

@@ -42238,9 +42238,6 @@ sfrecciare; correre veloce; lampeggiare
 the amount paid
 l'importo pagato
 
-personel
-il personale
-
 to do everything possible
 fare tutto il possibile
 
@@ -109580,3 +109577,16 @@ l'influenza; il dominio; la presa
 
 embylical
 ombelicale
+
+from what I've read
+da quello che ho letto; da ciò che ho letto
+
+bedridden
+costretta a letto
+
+stopover; stop
+la sosta; lo scalo
+
+personnel
+il personale
+
