@@ -33317,7 +33317,7 @@ singing
 la cantoria
 
 listener
-l'ascoltatore
+l'ascoltatore; l'ascoltatrice
 
 unheard
 inascoltato
@@ -109590,3 +109590,20 @@ la sosta; lo scalo
 personnel
 il personale
 
+to flow from; to result from
+derivare da; risultare da
+
+to bring to life
+far vivere
+
+it’s the same; it’s all the same
+è lo stesso; è uguale
+
+to stand up to;to hold one’s own against
+tener testa a
+
+arrest
+l’arresto
+
+see you next week!
+ci vediamo la prossima settimana!
