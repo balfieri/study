@@ -20989,3 +20989,6 @@ le caprice
 road trip; car trip
 le voyage en voiture; la virée sur la route
 
+geyser
+le geyser
+
