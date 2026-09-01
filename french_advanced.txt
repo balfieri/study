@@ -20992,3 +20992,9 @@ le voyage en voiture; la virée sur la route
 geyser
 le geyser
 
+watercraft
+l'embarcation; le bateau; le véhicule nautique
+
+wildfire
+le feu de forêt; l'incendie de forêt
+
