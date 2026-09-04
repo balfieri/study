@@ -27251,7 +27251,7 @@ punctual
 puntuale
 
 Milanese
-milanese
+milanese; meneghino
 
 to advance; to move up
 avanzare
@@ -55600,9 +55600,6 @@ la nocca; lo stinco
 
 knuckles
 le nocche
-
-to pack
-fare branco
 
 to allure; to tempt
 allettare
@@ -109635,3 +109632,14 @@ la demonizzazione
 burpee
 il burpee
 
+wheeler-dealer; smooth operator
+il maneggione; la maneggiona
+
+to stick together; to form a pack
+fare branco
+
+physiotherapist
+il fisioterapista; la fisioterapista
+
+prepared for the worst
+preparato al peggio
