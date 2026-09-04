@@ -2581,7 +2581,7 @@ le duc
 half and half; fifty-fifty
 moitié-moitié
 
-bar
+bar; rod
 la barre
 
 info box; information bar
@@ -21003,4 +21003,16 @@ impérissable
 
 deep squat
 le flexion profonde; le squat profond
+
+high technology
+l'haute technologie
+
+in hindsight; with hindsight; in retrospect
+avec le recul; rétrospectivement
+
+to elope; to run away to get married
+faire un mariage en cachette; s’enfuir pour se marier
+
+burpees
+les burpees
 

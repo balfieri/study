@@ -6277,7 +6277,7 @@ la mossa
 to make use
 fare tesoro
 
-with the wisdom of hindsight; in hindsight; with hindsight; in retrospect; if I had to do it all over again
+with the wisdom of hindsight; in hindsight; with hindsight; in retrospect; if I had to do it all over again; with 20/20 vision
 col senno di poi
 
 to blow (air); to hiss; to puff
@@ -87519,7 +87519,7 @@ to lash out; to attack violently; to inveigh
 menare colpi; attaccare violentemente; inveire
 
 to run away to get married; to elope
-fuggire per sposarsi; fuggire; fuggire insieme; sfuggire
+fuggire per sposarsi; fuggire; fuggire insieme; sfuggire; sposarsi in segreto
 
 to mosey on over to (something)
 andare lentamente verso (qualcosa); dirigersi a (qualcosa) con calma
@@ -109622,4 +109622,16 @@ imperituro
 
 deep squat
 l'accosciata profonda; lo squat profondo
+
+high technology
+l'alta tecnologia
+
+wrongly; pretextually; in a pretextual way
+pretestuosamente
+
+demonization
+la demonizzazione
+
+burpee
+il burpee
 
