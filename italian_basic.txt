@@ -8178,3 +8178,7 @@ cos'è successo?; che è successo?; cosa è successo?
 
 I have one of them; I have one
 ne ho uno
+
+pushed
+spinto
+

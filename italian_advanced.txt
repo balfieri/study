@@ -70544,7 +70544,7 @@ il chiosco
 rod logic
 la logica a barre
 
-bar; rod
+bar; rod; slash (typing)
 la barra
 
 4-cycle
@@ -109646,3 +109646,31 @@ preparato al peggio
 
 to lose consciousness; to faint
 perdere i sensi
+
+to do something for fun; to do (something) on a whim
+fare (qualcosa) per sfizio
+
+herring
+l'aringa
+
+sprint; dash
+lo scatto di corsa
+
+pending; unresolved
+in sospeso; irrisolto
+
+unknowingly; without one's knowledge
+senza saperlo; all’insaputa di (qualcuno)
+
+refining
+la raffinazione; il raffinaggio
+
+mixed-use cycle and pedestrian path
+il ciclopedonale
+
+grip strength
+la forza di presa; la forza di prensione
+
+to find out (something)
+venire a sapere (qualcosa); scoprire (qualcosa)
+
