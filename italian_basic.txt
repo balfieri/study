@@ -7279,7 +7279,7 @@ l'opzione
 hall; corridor
 il corridoio
 
-to hug
+to hug; to embrace
 abbracciare
 
 special

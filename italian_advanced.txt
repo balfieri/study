@@ -17086,7 +17086,7 @@ sorreggere
 supported (physically)
 sorretto
 
-bombshell
+bombshell; crash
 lo schianto
 
 interrogation
@@ -45835,9 +45835,6 @@ surgelare
 to cut down some trees
 tagliare alcuni alberi
 
-barge
-la chiatta
-
 restricted
 restretto
 
@@ -48784,7 +48781,7 @@ la parte del fascino di; la parte dell'attrazione di
 well, so be it
 beh, sia così
 
-grasshopper
+grasshopper; locust
 la cavalletta
 
 locust
@@ -55954,9 +55951,6 @@ la lucidatina
 
 crisp
 rospante
-
-grasshopper; locust
-la cavaletta
 
 physical examination; medical examination
 l'esame fisico
@@ -109736,3 +109730,46 @@ con il pannolino; nei pannolini
 
 luggage rack; rear carrier (on a bicycle); roof rack (on a car)
 il portapacchi
+
+to elevate
+elevare
+
+USSR
+l'URSS
+
+slippage
+lo slittamento; la sbandata
+
+berthing; mooring
+il calaggio
+
+barge; scow
+la chiatta
+
+to tighten; to clench
+stringere; serrare
+
+it happens
+succede; capita
+
+fungal
+fungino
+
+trash
+la monnezza; la spazzatura
+
+to free oneself of
+liberarsi; sbarazzarsi
+
+blocked; clogged; obstructed
+otturato; ostruito
+
+clogged artery
+l'arteria otturata; l'arteria ostruita
+
+to interrogate
+interrogare
+
+regard; consideration
+il riguardo; la considerazione
+
