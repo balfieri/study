@@ -24443,7 +24443,7 @@ flawed; defective
 difettoso
 
 extroverted; outgoing
-estroverso
+estroverso; socievole
 
 extrovert
 l'estroverso
@@ -109775,4 +109775,13 @@ il riguardo; la considerazione
 
 cunnilingus; oral sex performed on a woman
 il cunnilingus
+
+landslide victory; overwhelming victory
+la vittoria schiacciante
+
+mass eviction; mass expulsion; mass ejection
+l'espulsione di massa
+
+from there on; from then on
+da lì in avanti
 
