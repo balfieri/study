@@ -3352,7 +3352,7 @@ plaider; supplier; implorer
 to save time; to gain time
 gagner du temps
 
-tear; teardrop; drop
+tear; teardrop; drop; rip
 la larme
 
 as much as; as many as
@@ -21204,4 +21204,76 @@ en couches
 
 funeral; burial
 l'enterrement
+
+backstage; wings (of a theater); groove (of a rolling mill)
+la coulisse
+
+backstage; behind the scenes
+dans les coulisses
+
+to elevate; to raise; to lift up
+élever; hausser
+
+USSR
+l’URSS
+
+Soviet Union
+l'Union Soviétique
+
+skid; slip; misconduct; blunder; lapse
+le dérapage
+
+deceased
+décédé
+
+crash; smash
+lo schianto
+
+stalling; jamming; wedging; packing
+le calage
+
+barge
+la péniche
+
+unique; only
+uniche
+
+at the same time
+au même temps
+
+this happens; it happens
+ce passe
+
+dysfunctional
+disfonctionnel; dysfonctionnel
+
+rock; reef; obstacle; stumbling block
+l'ècueil; le rocher
+
+fungal
+fungiquie
+
+grasshopper
+la sauterelle
+
+blocked artery; clogged artery
+l'artère bouchée
+
+to embrace; to hug; to welcome; to adopt
+embrasser; adopter
+
+pork spread; meat spread
+la rillette
+
+to absorb; to soak up
+absorber
+
+to interrogate; to question
+interroger
+
+mourning; bereavement; grief
+le deuil
+
+regard; consideration; respect
+l'égard
 

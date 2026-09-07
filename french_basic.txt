@@ -10917,7 +10917,7 @@ la danse
 typically  
 typiquement  
 
-jump  
+jump; leap
 le saut  
 
 lira  
