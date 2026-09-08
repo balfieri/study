@@ -21340,3 +21340,15 @@ gagner au loto
 lottery
 le loto
 
+condemned
+condamné
+
+to condemn
+condamner
+
+to sanction
+sanctionner
+
+storage
+le stockage
+
