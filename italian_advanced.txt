@@ -100416,7 +100416,7 @@ bridge of dialogue; channel for dialogue
 il ponte di dialogo
 
 close-knit; in tune; harmonious; tight
-affiatato
+affiatato; molto unito
 
 childcare; child care
 l'assistenza all'infanzia
@@ -109811,4 +109811,10 @@ scendo tra 10 minuti
 
 rocket engine
 il motore a razzo
+
+to do a master's degree; to pursue a master's degree
+fare una laurea magistrale; fare un master
+
+energy policy
+la politica energetica
 

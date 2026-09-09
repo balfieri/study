@@ -7,6 +7,9 @@ aller
 the 1st day of school in France
 la rentree
 
+very
+très
+
 pencil
 le crayon
 
@@ -4630,7 +4633,7 @@ pleuvoir
 to laugh
 rire
 
-too much; too many
+too much; too many; too
 trop
 
 automobile
@@ -5239,7 +5242,7 @@ se cacher
 then; well...; so; now; at that time; at that moment
 alors; eh bien...; donc; maintenant; à ce moment-là; à ce moment
 
-to joke; to kid
+to joke; to kid; to joke around
 plaisanter; blaguer
 
 thread; wire; yarn
@@ -13002,3 +13005,5 @@ to study French
 sorrow; pain; sadness; penalty
 la peine
 
+to decide to
+décider de
