@@ -16264,7 +16264,7 @@ per dimensione
 retreat
 l'arretramento
 
-to encounter; to come across; to stumble upon; to bump into
+to encounter; to come across; to stumble upon; to bump into; to come up against
 imbattersi in
 
 tax wedge (difference between gross income and after-tax income)
@@ -109808,4 +109808,7 @@ il piacere proibito; il piccolo vizio
 
 I will be down in 10 minutes; I'm coming down in 10 minutes
 scendo tra 10 minuti
+
+rocket engine
+il motore a razzo
 
