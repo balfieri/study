@@ -7402,7 +7402,7 @@ to be hanged
 destroyed
 détruit
 
-climbing; escalation; climb
+climbing; escalation; climb; rock climbing
 l'escalade
 
 tension
@@ -16396,7 +16396,7 @@ le cuivre
 cobalt
 le cobalt
 
-pump
+pump; push-up
 la pompe
 
 to win hands down; to carry the day easily; to win overwhelmingly
@@ -18018,9 +18018,6 @@ avoir deux poids, deux mesures
 
 that is a double standard
 c’est deux poids, deux mesures
-
-safe and sound
-sain et sauf
 
 thorny issue; thorny question
 la épineuse question
@@ -21459,3 +21456,43 @@ croate
 
 India
 l'Inde
+
+faucet; tap; spigot
+le robinet
+
+functional fitness
+la remise en forme fonctionnelle; l'entraînement fonctionnel
+
+identity crisis
+la crise d'identité
+
+raft
+le radeau
+
+to perform in front of an audience
+se produire devant un public
+
+Persian Gulf
+le golfe persique
+
+adequate; appropriate; relevant; suitable
+adéquat; approprié
+
+disappointed electorate
+l'électorat déçu
+
+boundless; limitless; unbounded
+sans limites; illimité
+
+oppository; opposite
+oppositoire
+
+to go first; to take precedence
+passer en premier lieu; passer avant tout
+
+to self-destruct
+s'autodétruire
+
+to rock-climb
+faire de l'escalade; pratiquer l'escalade
+
