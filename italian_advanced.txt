@@ -28166,7 +28166,7 @@ answer me this
 rispondimi a questo
 
 chemotherapy
-la chemioterapia
+la chemioterapia; la chemio
 
 unapproachable; inaccessible
 inavvicinabile
@@ -109868,4 +109868,10 @@ fare arrampicata; arrampicare
 
 limb
 l'arto
+
+pumped; inflated; muscular; hyped
+pompato
+
+observational comedy
+la commedia osservazionale
 
