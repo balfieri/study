@@ -51038,7 +51038,7 @@ roundabout; traffic circle
 la rotatoria; la rotonda; la giratoria
 
 raft
-zattera
+la zattera
 
 to get excited
 emozionarsi
@@ -100460,7 +100460,7 @@ il piantagrane; l'attaccabrighe; il rompiscatole; l'agitatore; il sobillatore
 diffidence
 l'insicurezza; la timidezza; la modestia
 
-well-fitting; snug; suitable; fitting
+well-fitting; snug; suitable; fitting; pertinent; apt
 calzante
 
 to reach a turning point
@@ -107991,9 +107991,6 @@ avere doppi standard; avere due pesi e due misure
 double standard
 il doppio standard; la doppia morale
 
-safe and sound
-sano e salvo
-
 unscathed
 incolume
 
@@ -109841,4 +109838,31 @@ usciamo a cena una volta al mese
 
 thanks for reminding me of (something)
 grazie per avermi ricordato (qualcosa)
+
+functional fitness
+il fitness funzionale
+
+identity crisis
+la crisi d'identità
+
+to perform in front of an audience
+esibirsi di fronte a un pubblico; esibirsi davanti a un pubblico
+
+Persian Gulf
+il golfo persico
+
+disillusioned electorate; disenchanted electorate
+l'elettorato deluso
+
+boundless; limitless
+sconfinato
+
+oppository; opposite
+oppositorio
+
+to pass first of all; to primarily pass; to take precedence
+passare in primis
+
+to rock-climb
+fare arrampicata; arrampicare
 
