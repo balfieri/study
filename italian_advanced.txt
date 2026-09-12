@@ -61436,9 +61436,6 @@ comunitario
 non-revenue
 non di fatturato
 
-spectacular; sensational
-clamoroso
-
 it's a function of
 è una funzione di
 
@@ -97946,9 +97943,6 @@ commettere un crimine; commettere un reato
 to commit a sin
 commettere un peccato
 
-just in time
-appena in tempo
-
 firefighter; fireman
 il vigile del fuoco
 
@@ -98230,9 +98224,6 @@ malvisto
 
 to burst into tears; to break down in tears
 scoppiare in lacrime
-
-to crash into; to slam into; to smash into
-schiantarsi contro
 
 to hold out one's hand to; to lend a helping hand to
 tendere la mano a
@@ -108810,8 +108801,8 @@ il croccante alle arachidi
 as many (something) as possible
 quanti più (qualcosa) possibile
 
-to crash into (something)
-schiantarsi contro (qualcosa); andare a sbattere contro (qualcosa)
+to crash into (something); to slam into (something); to smash into (something)
+schiantarsi contro (qualcosa); andare a sbattere contro (qualcosa); scontrarsi con (qualcosa)
 
 tennis racket
 la racchetta da tennis
@@ -109085,9 +109076,6 @@ dobbiamo restare uniti!
 
 get it done!; get 'er done!
 fai in modo che sia fatto!
-
-to crash into (something)
-scontrarsi con (qualcosa)
 
 car crash
 l'incidente d’auto
@@ -109896,3 +109884,29 @@ riappropriarsi; riappropriare
 to exterminate; to wipe out
 sterminare
 
+return key
+il tasto invio; il tasto di ritorno
+
+shift key
+il tasto maiuscole; il tasto shift
+
+control key
+il tasto control; il tasto ctrl
+
+function key
+il tasto funzione
+
+hot key
+il tasto di scelta rapida; la scorciatoia da tastiera
+
+clamorous; sensational; spectacular
+clamoroso
+
+fiasco; disaster
+il fiasco
+
+taboo subject
+l'argomento taboo; l'argomento tabù
+
+to feel comfortable with (something)
+sentirsi a proprio agio con (qualcosa)

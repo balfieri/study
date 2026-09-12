@@ -8182,3 +8182,6 @@ ne ho uno
 pushed
 spinto
 
+and you?; what about you?
+e tu?
+
