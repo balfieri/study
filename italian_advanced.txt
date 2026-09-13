@@ -11425,9 +11425,6 @@ tarlato
 chivalry
 la cavelleria
 
-deterioration
-il deterioramento; il degrado
-
 worsening; aggravation
 l'aggravamento
 
@@ -11969,7 +11966,7 @@ headache (technical, medical)
 la cefalea
 
 deterioration; decay; degredation
-il degrado
+il deterioramento; il degrado
 
 to exempt
 esentare
@@ -109910,3 +109907,18 @@ l'argomento taboo; l'argomento tabù
 
 to feel comfortable with (something)
 sentirsi a proprio agio con (qualcosa)
+
+self-induced
+autoindotto
+
+he can't take a joke
+non sa prendere una battuta
+
+to bump one's head on (something)
+sbattere la testa contro (qualcosa)
+
+crop dusting
+il spargere pesticidi con l'aereo
+
+to frolic
+scherzare; saltellare giocando
