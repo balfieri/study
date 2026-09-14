@@ -1543,9 +1543,6 @@ ravi de vous rencontrer; enchanté
 the pleasure is all mine
 tout le plaisir est pour moi
 
-hazelnut
-la noisette
-
 chocolate chip
 le pépite de chocolat
 
@@ -8613,7 +8610,7 @@ l'argument; la dispute; la querelle
 healthy food
 l'aliment sain; la nourriture saine
 
-firm (business); company
+firm; business; company
 l'entreprise; la société
 
 to work from home
