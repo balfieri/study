@@ -109929,3 +109929,6 @@ raffinare
 in good shape
 in buona forma
 
+to run out of food
+finire il cibo
+
