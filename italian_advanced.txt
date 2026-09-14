@@ -63330,7 +63330,7 @@ it lacks taste
 manca di sapore
 
 in great shape; in top form
-in formissima
+in ottima forma; in formissima; in forma smagliante
 
 departure; passing
 la dipartita
@@ -72343,9 +72343,6 @@ il terzetto
 
 to find oneself in the water
 ritrovarsi in acqua
-
-in great shape
-in forma smagliante
 
 even par
 pari al par
@@ -109925,4 +109922,10 @@ scherzare; saltellare giocando
 
 to gain; to obtain
 guadagnare; ottenere
+
+to refine
+raffinare
+
+in good shape
+in buona forma
 
