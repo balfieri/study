@@ -754,7 +754,7 @@ non tollerare; non starci
 chit chat; chatter
 il chiacchiericcio; la chiacchierata
 
-lumberjack
+lumberjack; woodcutter
 il taglialegna
 
 untie him
@@ -71201,7 +71201,7 @@ il fairway
 rough (golf)
 il rough
 
-bunker (golf)
+bunker
 il bunker
 
 green (golf)
@@ -109935,6 +109935,15 @@ finire il cibo
 tree trimming; trimming trees; tree pruning
 la potatura alberi; la potatura degli alberi
 
-woodcutter
-il taglialegna
+what is (something) for?
+a cosa serve (qualcosa)?
+
+hatred
+l'odio
+
+language barrier
+la barriera linguistica
+
+last-minute (something)
+(qualcosa) all'ultimo minuto
 

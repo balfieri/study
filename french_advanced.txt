@@ -3541,7 +3541,7 @@ fermé d'esprit
 hateful; obnoxious
 odieux
 
-hatred; ate
+hatred; hate
 la haine
 
 to feel hatred; to hate
@@ -16486,9 +16486,6 @@ ai-je mentionné que
 homeless
 sans-abri; sans domicile fixe
 
-shelter
-l'abri
-
 department store
 le grand magasin
 
@@ -21618,4 +21615,22 @@ l'élagage; la taille des arbres
 
 lumberjack; woodcutter
 le bûcheron
+
+for your information; FYI
+pour votre information
+
+bunker; shelter
+l'abri
+
+what is (something) used for?; what is the purpose of (something)?
+à quoi sert (quelque chose)?
+
+brotherly friend; super-close friend
+l'ami fraternel
+
+language barrier
+la barrière de la langue
+
+last-minute (something)
+de dernière minute (quelque chose)
 
