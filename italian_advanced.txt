@@ -2950,7 +2950,7 @@ riottenere
 martyrdom
 il martirio
 
-discourtesy; rudeness
+snub; discourtesy; rudeness
 lo sgarbo
 
 to reproach; to hold against
@@ -109979,3 +109979,13 @@ la scusa patetica; la scusa debole
 
 screen time
 il tempo davanti allo schermo; il tempo di utilizzo dello schermo
+
+pursuit
+l'inseguimento; la ricerca; la caccia
+
+microchip
+il microchip
+
+affront
+l'affonto
+
