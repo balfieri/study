@@ -6482,11 +6482,11 @@ nier; annuler
 to find again; to recover; to meet
 retrouver
 
-la note
 note; grade
+la note
 
-prendre des notes
 to take notes
+prendre des notes
 
 online
 en ligne
