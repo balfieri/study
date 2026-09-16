@@ -69360,7 +69360,7 @@ passing lane
 la corsia di sorpasso
 
 under construction; in the works
-in cantiere
+in cantiere; in costruzione
 
 street light; street lamp; lamppost
 il lampione
@@ -104366,7 +104366,7 @@ per favore mantieni le tue risposte brevi
 frontier model
 il modello di frontiera
 
-enough for now
+enough for now; that's enough for now
 basta per ora
 
 pilot project
@@ -109991,4 +109991,16 @@ l'affonto
 
 to be lurking; to lurk
 essere in agguato; stare in agguato
+
+straight road
+la strada dritta
+
+kilometers per hour
+chilometri orari; chilometri per ora
+
+top of the mountain
+la cima della montagna
+
+to go down the mountain
+scendere dalla montagna
 

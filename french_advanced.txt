@@ -3712,8 +3712,8 @@ peut-être que tu en as entendu parler?; tu en as peut-être entendu parler?
 a little at a time
 un peu à la fois; petit à petit
 
-that's enough
 ça suffit; ça suffit comme ça
+that's enough
 
 brick
 la brique
@@ -9376,8 +9376,8 @@ veuillez garder vos réponses brèves
 frontier model
 le modèle de pointe
 
-ça suffit pour l’instant
 that's enough for now
+ça suffit pour l’instant
 
 pilot project
 le projet pilote
@@ -13504,7 +13504,7 @@ l'illibéralisme
 misconduct
 l'inconduite; la faute professionnelle; la mauvaise conduite
 
-conduct
+conduct; drive
 la conduite
 
 pernicious
@@ -21702,4 +21702,46 @@ se faire pipi dessus
 
 to be lurking
 être tapi; rôder
+
+understatement of the century
+l'euphémisme du siècle
+
+fast-food restaurant
+le restaurant de restauration rapide; le restaurant de fast food
+
+spreadsheet
+la feuille de calcul
+
+warrior
+le guerrier
+
+to get close to; to get closer to; to draw closer to
+se rapprocher de
+
+under construction
+en construction
+
+ugly face (figurative)
+le vilain visage
+
+straight road
+la route droite
+
+rock formation
+la formation rocheuse
+
+surreal
+surréaliste
+
+kilometers per hour
+kilomètres par heure
+
+Rocky Mountains
+les Montagnes Rocheuses
+
+top of the mountain
+le sommet de la montagne
+
+to go down the mountain; to descend the mountain
+descendre la montagne; descendre de la montagne
 
