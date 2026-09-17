@@ -55424,7 +55424,7 @@ fedelizzare
 rear light; tail light
 il fanalino
 
-shot; click
+shot; click; fit; burst
 lo scatto
 
 ribelle
@@ -110030,4 +110030,7 @@ la parte peggiore
 
 the best part
 la parte migliore
+
+to break; to shatter; to crack; to splinter
+spezziare
 
