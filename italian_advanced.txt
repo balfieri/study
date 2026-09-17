@@ -24253,7 +24253,7 @@ la vedova
 widower
 il vedovo
 
-repetition
+repetition; rep
 la ripetizione
 
 resident (adjective)
@@ -110030,7 +110030,4 @@ la parte peggiore
 
 the best part
 la parte migliore
-
-the worst part
-la parte peggiore
 
