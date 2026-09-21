@@ -808,3 +808,6 @@ c’est exactement ce que le médecin a ordonné
 it’s like herding cats
 c’est comme garder des chats
 
+house-poor
+à court d’argent à cause de sa maison; pauvre à cause de sa maison
+
