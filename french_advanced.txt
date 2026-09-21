@@ -4387,8 +4387,8 @@ explorer en profondeur; approfondir
 awkward; clumsy
 maladroit; gauche
 
-socially awkward
-maladroit socialement
+socially awkward; socially uncomfortable; socially inept
+mal à l'aise socialement; socialement maladroit; maladroit socialement; socialement gauche
 
 attic; loft; granary; garret
 le grenier
