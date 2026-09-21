@@ -39697,6 +39697,9 @@ colletto bianco
 blue-collar
 colletto blu
 
+blue-collar worker
+l'operaio
+
 yuppie
 lo yuppie; la yuppie
 
@@ -43046,7 +43049,7 @@ white collar
 il colletto bianco
 
 white-collar worker
-l'impiegato d'ufficio
+il professionista; la professionista; l'impiegato d'ufficio
 
 manliness; manhood; virility
 la virilità
@@ -52850,7 +52853,7 @@ bout of
 l'accesso di; l'attacco di
 
 seizure (brain)
-l'attacco epilettico
+l'attacco epilettico; la convulsione
 
 inadequacy
 l'inadeguatezza
@@ -102146,7 +102149,7 @@ la forza da leone
 to squirm; to twist
 contorcersi
 
-convulsion
+convulsion; seizure (brain)
 la convulsione
 
 to convulse
