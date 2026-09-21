@@ -21838,3 +21838,6 @@ le travailleur en col blanc; l'employé de bureau
 blue-collar worker
 l'ouvrier; le travailleur manuel
 
+10k race
+la course de 10 km
+
