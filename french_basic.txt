@@ -271,7 +271,7 @@ le garçon
 son
 le fils
 
-however
+however; yet
 cependant; pourtant
 
 in any case
@@ -6611,7 +6611,7 @@ se prendre du temps
 annoyed
 énervé
 
-upset
+upset; distressed; shaken; overwhelmed
 contrarié; bouleversé
 
 precisely; exactly
@@ -13011,3 +13011,5 @@ je vais essayer de (faire quelque chose)
 to make it interesting
 rendre ça intéressant
 
+see you soon; see you very soon
+à très vite

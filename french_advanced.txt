@@ -21847,3 +21847,6 @@ brusque
 to be silent; to keep quiet
 se taire
 
+to uncouple; to decouple
+découpler
+
