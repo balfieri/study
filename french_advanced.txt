@@ -21862,3 +21862,6 @@ la parentalité
 tiredness; fatigue
 la fatigue
 
+falling asleep; drowsiness
+l'endormissement
+
