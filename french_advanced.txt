@@ -21859,3 +21859,6 @@ marocain
 parenthood
 la parentalité
 
+tiredness; fatigue
+la fatigue
+
