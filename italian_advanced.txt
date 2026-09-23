@@ -47980,11 +47980,14 @@ l'animale domestico di piccola taglia
 to use with care
 utilizzare con cura
 
+lying down; lying around
+sdraiato
+
 to lie around
-stare sdraiato
+stare sdraiati
 
 to lie around the house
-stare sdraiato in casa
+stare sdraiati in casa
 
 Italian language student; student of Italian
 lo studente di lingua italiana; la studentessa di lingua italiana
@@ -83261,7 +83264,7 @@ il cibo degli dei
 slow food
 lo slow food
 
-fuchsia
+fuchsia; hot pink
 la fucsia
 
 it stole my heart
@@ -110105,4 +110108,22 @@ ci vediamo prestissimo
 
 falling asleep; going to sleep
 l'addormentamento
+
+to do a good job
+fare un buon lavoro
+
+interesting topic
+l'argomento interessante
+
+decaffeinated
+decaffeinato
+
+perimenopausal
+perimenopausale
+
+leg warmers
+gli scaldamuscoli
+
+share of
+la parte di
 

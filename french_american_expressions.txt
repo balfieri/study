@@ -811,3 +811,6 @@ c’est comme garder des chats
 house-poor
 à court d’argent à cause de sa maison; pauvre à cause de sa maison
 
+to be a night owl
+être un couche-tard; être un oiseau de nuit
+
