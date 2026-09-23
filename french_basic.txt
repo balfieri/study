@@ -5805,7 +5805,7 @@ fast; fast-paced; rapid
 rapide
 
 quick; fast; swift; rapid; brisk
-vite; rapide
+vite; rapide; viteux
 
 off; turned off
 éteint
