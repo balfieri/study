@@ -22066,7 +22066,7 @@ il giovanile
 youthful; young; juvenile
 giovanile
 
-nap
+nap; cat nap
 il pisolino; il sonnolino; il sonnellino
 
 to take a nap; to be napping
@@ -27070,7 +27070,7 @@ l'arca
 buoy
 la boa
 
-bust (sculpture)
+bust (chest)
 il busto
 
 fate
@@ -104921,9 +104921,6 @@ i Paralimpiadi
 Appian Way
 la via Appia; il via Appia
 
-a workout
-un allenamento
-
 flatterer
 l'adulatore; l'adulatrice
 
@@ -110150,3 +110147,39 @@ la parola che cercavo di ricordare è
 
 full of petals; rich in petals
 petaloso
+
+to accumulate points; to rack up points
+accumulare punti
+
+to have make-up sex
+fare sesso per riappacificarsi
+
+tough workout
+l'allenamento duro; l'allenamento intenso
+
+tiny woman
+la donnina
+
+spicy personality
+il carattere pepato
+
+to yell; to shout
+urlare contro
+
+cataract
+la cataratta
+
+that's just what the doctor ordered
+è proprio quello che ci vuole
+
+protein shake
+il frullato proteico
+
+to build muscle
+mettere su muscoli
+
+makeshift; roughly put together
+sbricolato
+
+just be yourself
+sii semplicemente te stesso
