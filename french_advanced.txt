@@ -10384,7 +10384,7 @@ si seulement elle appelait
 good point!; solid point!; valid point!
 bon point!
 
-nap; siesta
+nap; siesta; cat nap
 la sieste
 
 to take a nap
@@ -14821,9 +14821,6 @@ s'intégrer
 I rest my case
 je termine ma plaidoirie
 
-to prevent
-empêcher
-
 to nix
 rejeter; annuler
 
@@ -15655,8 +15652,8 @@ proposer de l'aide
 cart; trolley; caddie (golf)
 le caddie
 
-to miss out on
-passer à côté
+to miss out on (something)
+passer à côté de (quelque chose)
 
 to meddle in
 se mêler de
@@ -21960,3 +21957,70 @@ réarmer
 
 full of petals; petalous
 plein de pétales; pétaleux
+
+apostille
+l'apostille
+
+to accumulate points; to rack up points
+accumuler des points
+
+to have make-up sex
+faire l’amour pour se réconcilier
+
+tough workout
+l'entraînement difficile
+
+tiny
+tout petit
+
+spice personality
+le caractère épicé
+
+to yell at; to shout at
+crier dessus
+
+to go full throttle on (something)
+mettre les bouchées doubles sur (quelque chose)
+
+cataract
+la cataracte
+
+induced
+induit
+
+protein shake
+le shake protéiné
+
+torso; bust
+le buste
+
+cheerful; lively
+guilleret; vif
+
+bordering; adjacent
+limitrophe; voisin
+
+fun; amusement
+le plaisir; l'amusement
+
+to have fun; to enjoy oneself
+s’amuser; prendre du bon temps
+
+moccasins
+les mocassins
+
+to prevent; to stop
+empêcher
+
+charismatic
+charismatique
+
+to build muscle
+prendre du muscle
+
+makeshift; improvised
+bricolé; improvisé
+
+just be yourself
+sois simplement toi-même
+

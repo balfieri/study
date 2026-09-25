@@ -391,7 +391,7 @@ tout le monde
 all the time
 tout le temps
 
-from time to time
+from time to time; once in a while
 de temps en temps
 
 once per week
@@ -10867,7 +10867,7 @@ printed
 imprimé  
 
 use  
-l'utilisation; l'usage  
+l'utilisation; l'usage; l'emploi
 
 emotion  
 l'émotion  
