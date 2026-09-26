@@ -8232,9 +8232,6 @@ serrer; fixer
 gay
 gay
 
-lesbian
-lesbienne
-
 care; cure; treatment
 le soin; le traitement; la cure
 
@@ -12645,7 +12642,7 @@ le paragraphe
 mousse
 la mousse
 
-end; tip; piece
+end; tip; piece; bit
 le bout
 
 I remember few; I remember little
