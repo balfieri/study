@@ -11587,7 +11587,7 @@ tube; pipe
 le tube
 
 have a good trip; safe travels  
-bon voyage  
+bon voyage; fais bon voyage
 
 to make sense  
 avoir du sens  
