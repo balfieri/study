@@ -22120,3 +22120,12 @@ le laitier
 dairy product
 le produit laitier
 
+cruising altitude
+l'altitude de croisière
+
+altitude
+l'altitude
+
+damage; breakdown; average
+l’avarie
+
