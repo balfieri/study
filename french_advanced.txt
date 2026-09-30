@@ -2590,7 +2590,7 @@ la barre d'infos
 to dare
 oser
 
-cheese shop; dairy shop
+cheese dairy; cheese shop; dairy shop
 la fromagerie
 
 to sacrifice
@@ -22107,4 +22107,16 @@ avoir une conversation imaginaire
 
 obsession
 l'obsession
+
+dairy (place)
+la laiterie
+
+dairy (adjective)
+laitier
+
+milkman; dairyman
+le laitier
+
+dairy product
+le produit laitier
 
