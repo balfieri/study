@@ -12016,9 +12016,6 @@ ce n'est pas pour cela que je vous écris
 contact information
 les coordonnées de contact
 
-hodgepodge
-le mélange hétéroclite
-
 numb with cold; chilled
 engourdi par le froid; refroidi
 
@@ -22129,3 +22126,11 @@ l'altitude
 damage; breakdown; average
 l’avarie
 
+stopwatch
+le chronomètre; le chrono
+
+timer
+le minuteur; la minuterie
+
+hodgepodge
+le salmigondis; le fatras; le mélange hétéroclite
