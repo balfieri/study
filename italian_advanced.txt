@@ -85562,8 +85562,8 @@ l'abito religioso
 nun's habit
 l'abito monacale
 
-suit
-l'abito; il completo
+suit (men's)
+il completo; l'abito
 
 suit; look; attire; habit (nun)
 l'abito
@@ -110262,3 +110262,11 @@ lattaio
 milkman; dairyman
 il lattaio
 
+to mail it in; to do it half-heartedly; to put in minimal effort
+farlo svogliatamente; impegnarsi al minimo
+
+late-binding decision
+la decisione a collegamento ritardato; decisione presa in un secondo momento
+
+quaint
+pittoresco; caratteristico

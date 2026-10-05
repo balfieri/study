@@ -1669,8 +1669,8 @@ i pantaloni
 complete
 completo; compiuto
 
-dress; suit
-il vestito; l'abito
+dress
+il vestito
 
 sweater
 il maglione
