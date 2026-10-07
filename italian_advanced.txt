@@ -27973,9 +27973,6 @@ il contado
 sole (shoe)
 la suola
 
-forehead
-la fronte
-
 Pisan; of Pisa
 pisano
 
@@ -45976,9 +45973,6 @@ la grazia salvifica
 affordable price
 il prezzo conveniente
 
-unbeatable
-imbattibile
-
 to narrow down the choice of
 restringere la scelta di
 
@@ -55094,7 +55088,7 @@ sky-high prices
 i prezzi alle stelle
 
 unbeatable; insurmountable
-insuperabile
+imbattibile; insuperabile
 
 4-stroke engine; 4-cycle-engine
 il motore a quattro tempi
@@ -110270,3 +110264,18 @@ la decisione a collegamento ritardato; decisione presa in un secondo momento
 
 quaint
 pittoresco; caratteristico
+
+wedding vows
+le promesse matrimoniali; le promesse di matrimonio
+
+stale air; foul air
+l'aria viziata
+
+handshake
+lo stretto di mano
+
+firm handshake
+la stretta di mano ferma
+
+forehead
+la fronte

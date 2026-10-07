@@ -11809,7 +11809,7 @@ to be a slippery slope
 slippery; sliding
 glissant
 
-front
+front; forehead
 le front
 
 double front
@@ -22146,3 +22146,18 @@ se procurer; obtenir
 
 collapse; downfall
 l'effondrement
+
+wedding vows
+les vœux de mariage
+
+foul air; stale air
+l'air vicié; l'air confiné
+
+handshake
+la poignée de main
+
+firm handshake
+la poignée de main ferme
+
+undethronable; unassailable
+indétrônable
