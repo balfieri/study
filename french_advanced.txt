@@ -19411,10 +19411,10 @@ le kaléidoscope
 schoolgirl
 la collégienne; la lycéenne
 
-bride
+bride; spouse
 la mariée
 
-groom
+groom; spouse
 le marié
 
 bridesmaid
@@ -22185,3 +22185,25 @@ l'ami existant; l'amie existante
 
 let's get together
 retrouvons-nous
+
+a lot of effort
+beaucoup d'efforts
+
+charitable works; charities
+les oeuvres de bienfaisance; les oeuvres caritatives
+
+humanitarian actions
+les actions humanitaires
+
+pros and cons
+les pour et les contre
+
+heating; heater
+le chauffage
+
+space heater
+le chauffrage d'appoint
+
+bride and groom; newlyweds
+les mariés
+

@@ -45760,8 +45760,8 @@ il piacimento
 yes, absolutely; absolutely
 assolutamente si
 
-newlyweds
-gli sposi novelli
+newlyweds; bride and groom
+gli sposi; gli sposi novelli
 
 rereading
 la rilettura
@@ -110297,4 +110297,7 @@ l'amico già esistente; l'amico che hai già
 
 let's get together
 vediamoci; incontriamoci
+
+a lot of effort
+molto impegno; molto sforzo
 
