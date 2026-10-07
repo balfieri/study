@@ -22207,3 +22207,8 @@ le chauffrage d'appoint
 bride and groom; newlyweds
 les mariés
 
+pro; positive aspect; positive side; advantage
+le pour
+
+con; negative aspect; negative side; drawback; disadvantage
+le contre
