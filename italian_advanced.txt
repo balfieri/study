@@ -105002,8 +105002,8 @@ essere protagonista in uno spettacolo
 chocolates
 le cioccolate
 
-fare uscire il cane
 to let the dog out
+fare uscire il cane
 
 security system
 il sistema di sicurezza
@@ -106152,7 +106152,7 @@ secouere
 next day
 il giorno dopo
 
-gallop
+to gallop
 galoppare
 
 social scope
@@ -110402,3 +110402,15 @@ nascondersi nel proprio guscio
 
 to change direction; to change meaning
 cambiare senso
+
+surgical procedure
+la procedura chirurgica; l'intervento chirurgico
+
+to gorge (on food)
+abbuffarsi; ingozzarsi
+
+to take the dog out for a walk
+portare fuori il cane a fare una passeggiata
+
+potluck dinner
+la cena condivisa; la cena in cui ognuno porta qualcosa
