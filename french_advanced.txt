@@ -22395,3 +22395,10 @@ le message audio; le message vocal
 
 shed; makeshift shelter
 le bacu; la construction rudimentaire utilisée comme abri
+
+punished
+puni
+
+unpunished
+impuni
+
