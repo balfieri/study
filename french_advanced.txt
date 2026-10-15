@@ -22404,3 +22404,9 @@ impuni
 
 (number) of them
 (numéro) d’entre eux
+
+to make an announcement
+faire une annonce
+
+announcment
+l'annonce
