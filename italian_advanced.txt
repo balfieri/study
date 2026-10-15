@@ -110426,3 +110426,6 @@ pertinente; rilevante
 
 shed
 il capanno
+
+(number) of them
+(numero) di loro

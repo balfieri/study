@@ -16978,7 +16978,7 @@ cambrioler
 to work hard; to slog; to toil
 bosser
 
-harassment
+harassment; bullying
 le harcèlement
 
 to bring together; to unite; to federate
@@ -22402,3 +22402,5 @@ puni
 unpunished
 impuni
 
+(number) of them
+(numéro) d’entre eux
