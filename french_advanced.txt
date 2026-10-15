@@ -11714,7 +11714,7 @@ to live in the center
 vivre au centre
 
 it makes sense
-ça fait sens
+c'est logique
 
 one moment, please
 un moment, s'il vous plaît
@@ -22410,3 +22410,15 @@ faire une annonce
 
 announcment
 l'annonce
+
+balanced
+équilibré
+
+hors d'œuvre; appetizers
+les amuse-bouches; les amuse-gueules
+
+to be among
+être parmi
+
+to be among us
+être parmi nous
