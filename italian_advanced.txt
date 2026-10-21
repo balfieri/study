@@ -5806,9 +5806,6 @@ la bussola; i punti cardinali
 prudish; puritanical
 puritano; pudico
 
-fencing
-la scherma
-
 to summarize
 riassumere
 
@@ -110493,3 +110490,14 @@ offro io; pago io questo
 cul-de-sac
 il vicolo cieco; la strada senza uscita
 
+to cheat
+imbrogliare; barare
+
+to have a permanent job
+essere in fisso; avere un lavoro fisso; essere assunto a tempo indeterminato
+
+fencing (sport)
+la scherma
+
+beneficial
+benefico; vantaggioso
