@@ -110501,3 +110501,6 @@ la scherma
 
 beneficial
 benefico; vantaggioso
+
+prospective member
+il membro potenziale
