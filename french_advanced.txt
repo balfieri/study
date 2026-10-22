@@ -18479,7 +18479,7 @@ minced; chopped; ground
 haché
 
 to chop; to mince; to hash; to grind
-hacher
+hâcher
 
 conjunctivitis; pink eye
 la conjonctivite
@@ -22560,4 +22560,28 @@ le miracle
 
 stew; ragout
 le ragoût
+
+time signature
+le chiffrage de mesure
+
+from the beginning; right from the start
+dès le début
+
+on paper
+sur le papier
+
+libido
+la libido
+
+to be in a state of shock
+être en état de choc
+
+tramway
+le tramway
+
+raccoon
+le raton laveur
+
+somersault
+la galipette
 

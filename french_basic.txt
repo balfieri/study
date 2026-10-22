@@ -5044,9 +5044,6 @@ l'infirmier; l'infirmière
 cone
 le cône
 
-pork
-le porc
-
 to pull; to shoot; to fire
 tirer
 
@@ -11719,7 +11716,7 @@ ATM; cash machine; cashpoint
 le distributeur automatique  
 
 band (music)  
-la groupe (de musique); l'orchestre  
+le groupe (de musique); l'orchestre  
 
 to lie (not tell the truth)
 mentir; s'allonger
@@ -13019,3 +13016,6 @@ ne t’inquiète pas
 
 all set!
 tout prêt!
+
+angry; mad
+en colère
