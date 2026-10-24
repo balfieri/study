@@ -4003,3 +4003,6 @@ brombo
 clap clap
 ciak ciak
 
+low-cut one; cleavage-baring one
+la scosciata
+
