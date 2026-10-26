@@ -110553,3 +110553,6 @@ di livello mondiale
 little step; tiny step
 il passettino; il piccolo passo
 
+tangled; entangled; complicated; involved
+aggrovigliato
+
