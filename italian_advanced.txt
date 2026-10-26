@@ -110571,3 +110571,6 @@ il patronato di quartiere
 penny
 il penny; il centesimo; il soldo
 
+to take (something) too seriously
+prendere (qualcosa) troppo sul serio
+
