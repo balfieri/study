@@ -7490,7 +7490,7 @@ while I was growing up
 pendant que je grandissais
 
 my own (something)
-my propre (quelque chose)
+mon propre (quelque chose)
 
 to be out of commission; to be out of order; to be broken down
 être hors service; être en panne
@@ -22662,3 +22662,27 @@ la muse
 
 thoughtful; considerate; pensive; well-considered
 attentionné; prévenant; pensif; réfléchi
+
+can you think of anything else?
+peux-tu penser à autre chose?
+
+acquaintanceship
+la relation de connaissance; la connaissance
+
+confrontation; clash
+l'affrontement
+
+rioter; vandal
+le casseur
+
+to vandalize
+vandaliser
+
+curfew
+le couvre-feu
+
+to put in place
+mettre en place
+
+to review; to revise
+réviser
