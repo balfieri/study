@@ -103077,7 +103077,7 @@ expectation bias
 la distorsione da aspettativa
 
 bias
-il pregiudizio; l'inclinazione; la distorsione
+il bias; il pregiudizio; l'inclinazione; la distorsione
 
 to obtain a refund
 ottenere un rimborso
@@ -110579,4 +110579,16 @@ il provocatore; il rompicapo; l'annuncio pubblicitario preliminare
 
 muse
 la musa; l'ispirazione
+
+can you think of anything else?
+ti viene in mente qualcos'altro?
+
+acquaintanceship
+la conoscenza; il rapporto di conoscenza
+
+to put in place
+mettere in atto; mettere a posto
+
+commitment in a relationship
+l'impegno in una relazione; il coinvolgimento in una relazione
 
