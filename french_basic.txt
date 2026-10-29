@@ -13019,3 +13019,7 @@ tout prêt!
 
 angry; mad
 en colère
+
+in front of (something)
+devant (quelque chose)
+
