@@ -110613,3 +110613,5 @@ essere in campo; essere dentro il campo
 to be out of bounds
 essere fuori campo
 
+to take one's work seriously
+prendere sul serio il proprio lavoro

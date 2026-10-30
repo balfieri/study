@@ -22716,3 +22716,10 @@ to be inbounds
 
 to be out of bounds
 être hors limites; être hors du terrain
+
+return flight; flight back
+le vol du retour
+
+to take your work seriously
+prendre ton travail au sérieux
+
