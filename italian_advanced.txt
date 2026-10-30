@@ -25684,7 +25684,7 @@ sovraumano; sovrumano
 evasion; escape
 l'evasione
 
-to evade
+to evade; to escape
 evadere; eludere
 
 out of the question
@@ -110615,3 +110615,9 @@ essere fuori campo
 
 to take one's work seriously
 prendere sul serio il proprio lavoro
+
+to escape; to break free
+evadere; scappare
+
+to look like; to seem like; to appear as
+avere l’aria di
