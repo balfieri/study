@@ -14186,7 +14186,7 @@ to snore
 russare
 
 to linger; to dwell
-dilungare
+dilungare; attardarsi; soffermare
 
 the late 60's
 la fine degli anni 60
@@ -34833,9 +34833,6 @@ c'è qualcosa che ti preoccupa?
 
 it came out all wrong
 è venuto fuori tutto sbagliato
-
-to linger
-attardarsi
 
 there's nothing at all
 non c'è niente di niente
@@ -58840,9 +58837,6 @@ posso vederlo in entrambi i modi
 
 language of origin
 la lingua d'origine
-
-to dwell; to linger
-soffermare
 
 dove ci si sofferma sulla
 where one dwells on
@@ -110667,3 +110661,5 @@ il battito; il battito cardiaco
 date night
 la serata romantica; la serata degli appuntamenti
 
+stretching
+lo stretching; lo stiramento
