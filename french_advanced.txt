@@ -22782,3 +22782,13 @@ s’attarder; persister
 
 stretching; stretch
 l'étirement
+
+body part
+la partie du corps
+
+to injure one's (body part)
+se blesser à (partie du corps)
+
+to injure oneself
+se blesser
+

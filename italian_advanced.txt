@@ -47912,7 +47912,7 @@ penal code
 il codice penale
 
 to stumble; to trip; to falter
-incespicare; inciampare
+inciampare; incespicare
 
 to provide for; to assist financially
 sovvenire; provvedere; assistere finanziariamente
@@ -110663,3 +110663,10 @@ la serata romantica; la serata degli appuntamenti
 
 stretching
 lo stretching; lo stiramento
+
+to injure one's (body part)
+ferirsi a (parte del corpo); farsi male a (parte del corpo)
+
+to injure oneself; to hurt oneself
+ferirsi; farsi male
+
