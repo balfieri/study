@@ -736,6 +736,9 @@ tomber
 knees
 les genoux
 
+throat; gorge
+la gorge
+
 ray; beam; shelf (context-dependent); aisle (supermarket)
 le rayon
 
@@ -5947,9 +5950,6 @@ le pied
 
 knee
 le genou
-
-throat
-la gorge
 
 nausea
 la nausée
