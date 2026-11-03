@@ -7280,7 +7280,7 @@ l'activité
 gym
 la salle de sport; la gymnase
 
-walk
+walk; walking; march; marching
 la marche
 
 application
