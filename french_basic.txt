@@ -440,7 +440,7 @@ guitar
 la guitare
 
 to play (an instrument)
-jouer du
+jouer de
 
 to garden
 jardiner
@@ -6127,9 +6127,6 @@ informer
 
 to refuse
 refuser
-
-to play (instrument)
-jouer (d’un instrument)
 
 to think about (have someone/something in your thoughts, pondering whether to do something)
 penser à
@@ -12057,7 +12054,7 @@ au maximum
 let's speak French
 parlons français
 
-last night; yesterday evening
+last night; yesterday evening; last evening
 hier soir
 
 can we speak a little French?

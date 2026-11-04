@@ -4603,6 +4603,9 @@ poniamo il caso che
 barn
 la stalla; il granaio; il fienile
 
+bass; bass guitar
+il basso
+
 electric bass
 il basso elettrico
 
@@ -16334,7 +16337,7 @@ to stray; to loosen; to untie; to unwind
 snodare
 
 relay race
-la staffetta
+la staffetta; la corsa a staffetta
 
 to thread (needle); to parade; to march (in a parade)
 sfilare
@@ -110442,7 +110445,7 @@ il reparto macelleria
 produce department
 il reparto ortofrutta
 
-to stay in power
+to stay in power; to remain in power
 rimanere al potere
 
 zany humor
@@ -110730,3 +110733,17 @@ rompere il silenzio
 placeholder
 il segnaposto
 
+results of the election
+i risultati delle elezioni
+
+everyday Americans
+gli americani comuni
+
+to reduce inflation
+ridurre l'inflazione
+
+to go to prison
+andare in prigione
+
+something light
+qualcosa di leggero

@@ -22450,7 +22450,7 @@ le rayon boucherie
 produce department
 le rayon fruits et légumes
 
-to stay in power
+to stay in power; to remain in power
 rester au pouvoir
 
 zany humor
@@ -22866,3 +22866,49 @@ briser le silence
 
 placeholder
 l'espace réservé
+
+results of the election
+les résultats de l’élection
+
+bass; bass guitar
+la basse
+
+to play (instrument)
+jouer de (instrument)
+
+idol
+l'idole
+
+amplifier
+l'amplificateur
+
+to enroll in
+s’inscrire à
+
+hopeful
+plein d’espoir; optimiste
+
+cinema
+le cinéma
+
+affordability
+l'abordabilité; l'accessibilité financière
+
+everyday Americans
+les Américains ordinaires
+
+to reduce inflation
+réduire l’inflation
+
+to go to prison
+aller en prison
+
+explain this!
+explique ça!
+
+something light
+quelque chose de léger
+
+for once
+pour une fois
+
