@@ -110754,3 +110754,6 @@ com'è stata la tua settimana?
 big win
 la grande vittoria; il grande successo
 
+core (body)
+il centro (del corpo)
+

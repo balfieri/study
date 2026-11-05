@@ -2891,7 +2891,7 @@ shattered; broken; awful
 éclaté
 
 to admit; to confess; to avow
-avouer
+avouer; admettre
 
 ad; advertisement
 le pub
@@ -5547,9 +5547,6 @@ humilié
 
 to humiliate
 humilier
-
-to admit
-admettre
 
 basement
 le sous-sol
@@ -22920,3 +22917,10 @@ it's not worth it
 
 Thanksgiving
 l'Action de grâce; le Remerciement; le Thanksgiving
+
+core (body)
+le cœur (du corps); le centre (du corps)
+
+on one's way to
+en route pour
+
