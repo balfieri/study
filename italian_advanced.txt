@@ -110766,3 +110766,6 @@ il farmaco antibatterico
 antibiotics
 gli antibiotici
 
+lumbar pain
+il dolore lombare; la lombalgia
+
