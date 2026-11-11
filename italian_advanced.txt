@@ -2905,7 +2905,7 @@ il narcotrafficante
 to deal; to push (drugs); to peddle
 spacciare
 
-to recharge; to reload
+to recharge; to reload (intransitive)
 ricaricarsi
 
 gig
@@ -46151,7 +46151,7 @@ across the ocean
 attraverso l'oceano
 
 to recharge; to refill
-ricalcare
+ricalcare; ricaricare
 
 anti-competitive
 anticompetitivo
@@ -110792,4 +110792,13 @@ far partire un’auto con i cavi; far ripartire un’auto
 
 out of duty; out of obligation
 per dovere
+
+to go to the doctor’s
+andare dal dottore; andare dal medico
+
+the story broke
+la notizia è stata riportata
+
+direct report
+il collaboratore diretto
 
