@@ -110777,3 +110777,9 @@ negoziare
 
 pirated
 piratato
+
+refrigeration
+la refrigerazione
+
+piracy
+il pirataggio
