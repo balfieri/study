@@ -67463,6 +67463,9 @@ barricato
 crepe maker
 la crepiera
 
+crepe; pancake
+la crespella
+
 to congratulate
 fare le congratulazioni
 
@@ -110811,3 +110814,8 @@ l'ho appena letto
 to beg; to panhandle
 elemosinare
 
+abstention; abstinence
+l'astensione
+
+taking possession; seizure
+l’impossessamento
