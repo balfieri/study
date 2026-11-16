@@ -1042,7 +1042,7 @@ s'adapter
 imperfect
 imparfait
 
-absurd; ridiculous
+absurd; ridiculous; nonsensical
 absurde
 
 drawback; disadvantage
@@ -23052,4 +23052,46 @@ je viens de le lire
 
 to prepare for the worst; to be prepared for the worst
 se préparer au pire
+
+in the middle of (something)
+en pleine (quelque chose)
+
+unheard; unanticipated
+inentendu
+
+increase; rise
+la hausse
+
+inexhaustible; endless
+inépuisable
+
+mix
+le mix
+
+wind power
+l'énergie éolienne
+
+thermodynamic
+thermodynamique
+
+senate
+le sénat
+
+House of Representatives
+la Chambre des Représentants
+
+congress
+le congrès
+
+transplanted
+transplanté
+
+to pay the tab; to settle the bill
+payer l'ardoise
+
+failed
+échoué
+
+contribution; membership fee
+la cotisation; la contribution
 

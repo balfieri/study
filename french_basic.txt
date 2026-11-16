@@ -1267,7 +1267,7 @@ froid
 hot; warm
 chaud
 
-clean
+clean; proper
 propre
 
 dirty
