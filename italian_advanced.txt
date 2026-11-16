@@ -110802,3 +110802,8 @@ la notizia è stata riportata
 direct report
 il collaboratore diretto
 
+from the beginning of
+dall'inizio di; fin dall'inizio di
+
+I just read it
+l'ho appena letto
