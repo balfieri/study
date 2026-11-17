@@ -23122,3 +23122,9 @@ freiner
 link; chain link
 le maillon
 
+killer
+le tueur; la tueuse
+
+murderer
+le meurtrier; la meurtrière
+
