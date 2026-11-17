@@ -13132,9 +13132,6 @@ secouer
 white lie
 le mensonge inoffensif
 
-soldering; welding
-la soudure; la soudage
-
 scoundrel
 le canaillou
 
@@ -23164,3 +23161,20 @@ l'épice
 cornbread
 le pain de maïs
 
+tomato sauce
+la sauce tomate
+
+piss water
+l'eau de pisse
+
+solder joint
+le joint de soudure
+
+joint
+le joint
+
+soldering; welding
+la soudure; la soudage
+
+solder; solder alloy
+l’alliage de soudure; la soudure

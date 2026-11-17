@@ -110829,3 +110829,9 @@ ciliaco
 gluten-free
 senza glutine
 
+solder joint
+il giunto di saldatura
+
+solder
+la lega per saldatura
+
