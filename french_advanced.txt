@@ -23140,3 +23140,9 @@ cœliaque
 gluten-free
 sans gluten
 
+band-aid; adhesive bandage
+le pansement adhésif
+
+hamstring tendon; hamstring
+le tendon du jarret
+

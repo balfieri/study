@@ -86393,8 +86393,8 @@ mettere in panchina
 fake; worthless thing
 la patacca
 
-bandage; adhesive bandage
-il cerotto
+band-aid; bandage; adhesive bandage
+il cerotto; la benda adesiva
 
 offbeat
 controtempo
