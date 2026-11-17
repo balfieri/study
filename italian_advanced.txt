@@ -110823,3 +110823,9 @@ l’impossessamento
 vine grower; grape grower; winegrower; viticulturist
 il viticoltore; la viticoltrice
 
+celiac; coeliac
+ciliaco
+
+gluten-free
+senza glutine
+
