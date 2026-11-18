@@ -110835,3 +110835,5 @@ il giunto di saldatura
 solder
 la lega per saldatura
 
+to stretch a muscle
+allungare un muscolo; stirare un muscolo
