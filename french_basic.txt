@@ -5257,6 +5257,9 @@ le silence
 boss; head (organization); chief; leader
 le chef; le patron; la patronne; le cap
 
+chef
+le chef
+
 nice; kind
 gentil; aimable
 
