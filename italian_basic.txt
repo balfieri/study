@@ -5696,7 +5696,7 @@ in the morning; during the morning; early (in the day)
 di mattina
 
 in the afternoon; during the afternnoon
-di pomeriggio
+di pomeriggio; nel pomeriggio
 
 in the evening; during the evening
 di sera

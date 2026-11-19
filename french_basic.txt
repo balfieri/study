@@ -8742,7 +8742,7 @@ la quête
 chair; seat; stool (house, office)
 la chaise; le siège; le tabouret
 
-seat (car, train, plane)
+seat (car, train, plane); headquarters
 le siège
 
 term
