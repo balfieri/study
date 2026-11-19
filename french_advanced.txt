@@ -16033,7 +16033,7 @@ le travailliste
 growing identity; increasing identity
 l'identité croissante
 
-growing
+growing; increasing
 croissant
 
 it makes me want to (do something); it makes me feel like (doing something)
@@ -23229,3 +23229,15 @@ dense
 
 appetizing
 appétissant
+
+vegetarianism
+le végétarisme
+
+high podium
+le podium haut
+
+unfinished
+inachevé
+
+finished; completed
+achevé
