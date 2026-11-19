@@ -110858,3 +110858,6 @@ il giovedì mattina
 
 alert
 vigile; attento
+
+baking
+la cottura al forno; l’infornata
