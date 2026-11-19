@@ -880,7 +880,7 @@ assiette de charcuterie; plateau de charcuterie
 cutting board
 la planche à découper
 
-to esteem
+to esteem; to honor; to value
 estimer
 
 to estimate
@@ -23241,3 +23241,15 @@ inachevé
 
 finished; completed
 achevé
+
+commented
+commenté
+
+achieved
+atteint; accomplie; réalisés; réussies
+
+video game
+le jeu vidéo
+
+to value; to appreciate
+apprécier; accorder de l’importance à
