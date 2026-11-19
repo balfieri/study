@@ -23293,3 +23293,9 @@ alerte
 on Thursday mornings
 le jeudi matin
 
+transcript
+la transcription; le relevé de notes
+
+statement; record
+le relevé
+
