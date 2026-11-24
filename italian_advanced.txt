@@ -16306,7 +16306,7 @@ gli zoccoli
 scaffolding
 l'impalcatura; il ponteggio
 
-to legislate; to enact
+to legislate; to enact; to make laws
 legiferare
 
 reshuffling; recasting; reworking; resettlement; rearrangement; rewriting
@@ -27730,7 +27730,7 @@ la dominatrice
 owl; flirt
 la civetta
 
-womanizer; philanderer
+womanizer; philanderer; player
 il farfallone; il donnaiolo; lo sciupafemmine
 
 to follow through
@@ -54466,7 +54466,7 @@ il flagello
 self-satisfaction; self-complacency
 l'autocompiacimento
 
-womanizer; ladies' man
+womanizer; ladies' man; player
 il donnaiolo
 
 to reverberate
@@ -101381,7 +101381,7 @@ l'iPad
 life coach
 il life coach; l'allenatore di vita; il consulente motivazionale
 
-tooth decay
+tooth decay; cavity
 la caria
 
 cavity (tooth)
@@ -104519,7 +104519,7 @@ la velocità rispetto all'aria
 it figures!
 ci mancava solo questo!
 
-go figure!
+go figure!; don't mention it!
 figurati!
 
 reading glasses
@@ -110873,4 +110873,46 @@ il reddito personale
 
 universal basic income
 il revenu universel de base
+
+many laughs
+molte risate
+
+cervical vertebrae
+le vertebre cervicali
+
+button
+il bottone
+
+self-help video
+il video di autoaiuto
+
+self-help book
+il libro di autoaiuto
+
+inkwell
+il calamaio
+
+my way
+il mio modo
+
+to do (something) my way
+fare (qualcosa) a modo mio
+
+epidural
+l'epidurale
+
+to get an epidural
+fare un'epidurale
+
+devirgination
+la defiorazione
+
+to devirginate
+deflorare
+
+young vests
+i gilet giovani
+
+alive by a hair
+vivo per un pelo
 
