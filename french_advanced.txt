@@ -23428,3 +23428,8 @@ tentative reunions; gradual reunions
 birth control; contraception
 la contraception
 
+birth control pill
+la pilule contraceptive
+
+mandate; term (elected); postal order; money order; power of attorney; proxy; warrant
+le mandat
